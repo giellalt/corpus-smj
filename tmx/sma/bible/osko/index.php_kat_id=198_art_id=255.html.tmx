@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">index.php_kat_id=198_art_id=255.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpav: Dållå</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lïerh: Dålle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>9.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>I galga guojmát goadev hibmodit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aellieh mubpien paarrebealan njaahtjoeh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Galggap jubmelbalulattjan suv iehttset, vaj ep bæhttogisát guojmáma árbbáj jalik goahtáj ratjá jali mak lága viehkijn dajt háhkuha, ájnat suv viehkedip åbmudagás ájmon bisodit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mijjieh edtjebe Jupmelem vaetiestidh jïh iehtsedh, ollebe mijjieh fryöstoeh jallh håvhtedh naaken mijjen mubpien luvnie destie vaedtsedh, bene dejtie madtjeldehtedh eerlege årrodh.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

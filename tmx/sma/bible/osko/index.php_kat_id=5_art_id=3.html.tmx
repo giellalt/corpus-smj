@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">index.php_kat_id=5_art_id=3.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mijá birra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mijjen bïjre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámi girkkoráde</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien gærhkoeraerine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Varrudága</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Darjoe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Doajmma</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kristusen gievlie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mijá birra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mijjen bïjre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dán næhttabájke sisadno le risstalasj jáhkko ja sáme kultuvrra.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate nedtesijjieh lea jupmeles jaahkoen jïh saemien kultuvren bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vállji tiemáv jus siedá ienebuv diehtet: Låvdagoahte, soahke, tjáhtje, dållå, biejvve, ednam ja girkko.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Diedtieh dejtie ovmessie aamhtesidie edtjh vielie goeredh: Låavhtgåetie, såekie, tjaetsie, dålle, eatneme jïh gærhkoe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Næhttabájkke gávnnu nielje giellaj: oarjjelsámegiellaj, julevsámegiellaj, nuorttasámegiellaj ja dárogiellaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nedtesijjien njieljie gïelesåarhth: åarjelsaemien, luvlesaemien, noerhtesaemien jïh daaroen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme e-jáhkkoåhpadus le åvddånahtedum Sáme girkkorádes Vuona girkkon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien nedtejaahkoeööhpehtimmie lea evtiedamme Saemien Gærhkoeraereste Nöörjen gærhkosne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme máná ja nuora galggi årrot guovdátjin ietjasa jáhkoåhpadusán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien maanah jïh noerh edtjieh jïjtjemes årrodh jïjtsh jaahkoeööhpehtimmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadus galggá sáme åtsådallamijda ja bájkálasj sáme girkkoiellemij tjanáduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte ööhpehtimmie edtja viedteldahkesne årrodh saemien dååjrehtimmesne jïh voenges saemien gærhkoejieliemisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme vuojŋŋalasjvuohta galggá viehkken iellemdádjadussaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien voejkenesvoete edtja viehkine årrodh jielemelearose jïh jielemegoerkesasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme e-jáhkkoåhpadus le åvddånahtedum dårjajn Størst av alt – prosjevta baktu mij le jáhkkoåhåadus Vuona girkkon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien nedtejaahkoeööhpehtimmie lea evtiedamme dåarjojne destie Stööremes gaajhkeste- jaahkoeööhpehtimmie Nöörjen gærhkosne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jáhkkoåhpadus le Vuona girkko ájnnasamos vuorodimij gaskan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaahkoeööhpehtimmie lea akte dejstie Nöörjen gærhkoen åejvieråajvarimmiesuerkijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dálla dagáduvvá systemáhtalasj jáhkkoåhpadus gájkajda gaskal 0-18 jage gudi li gástaduvvam, mij galggá vuodov biedjat váj máná ja nuora máhtti åvddånahttet ietjasa jáhko aktijvuodav ja girkkov massta li oassen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daelie evtiesåvva aktem systemateles jaahkoeööhpehtimmiem gaajhkide mah leah kristesovveme 0-18 jaepiej gaskem, mij edtja sjïehteladtedh guktie maanah jih noerh maehtieh altese ektiedimmiem jaahkose evtiedidh jih dan gærhkose gusnie sijjiem utnieh.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

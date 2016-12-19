@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">sfs_veiledning_31_vurderingsskjemaer-skjemaer.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Udir.no - Ságájdahttemsjiebmá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Udir.no - Gihtjehtimmiegoere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ságájdahttemsjiebmá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gihtjehtimmiegoere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ságájdalle:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gihtjehtæjja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ságájdahttemobjækta:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gihtjelgæjja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mierredum biejvve ja ájgge:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Latjkeme biejjie jïh tijje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Æjvvalimsadje:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaavnesjimmiesijjie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gatjálvis:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gyhtjelasse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>(Ane gatjádallambágojt – gut, mij, gånnå, gåktu, nav vaj besa bágojs le ja ij la vásstádussajn.)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(Nåhtedh gihtjemebaakojde – gie, maam, gusnie, guktie … naemhtie lieph jaavoe jïh ijje goh vaestiedassh.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gatjálvis:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vaestiedasse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vásstádus:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gyhtjelasse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vásstádus:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vaestiedasse:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

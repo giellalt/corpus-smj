@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">finnmarkokommisjaavnaan.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Finnmárkokommisjåvnån</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Finnmaarhkekommisjovne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Finnmárko miehttseduobmoståvllå</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Finnmaarhken miehtjiesdajvedåapmestovle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Riektárijdo ma badjáni maŋŋel gå Finnmárkokommisjåvnnå le tjielgadam guovlov galggi sierra duobmoståvlå åvddåj låggŋiduvvat, gåhtjodum miehttseduobmoståvllån.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Edtja ræjhtoeh reaktaj bïjre, mah jijhtieh mænngan Finnmaarhkekommisjovne feelth salkehtamme, akten jïjtse sjïeredåapmestovlese buektedh, man nomme miehtjiesdajvedåapmestovle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ráddidus miehttseduobmoståvlåv nammat maŋŋel gå le Sámedikkijn rádádallam, ja danna le jådediddje ja duodden niellja stuoves ájrrasa ja guokta sadjásattja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reerenasse Miehtjiesdajvedåapmestovlem nammohte mænngan Saemiedigkine rååresjamme, jïh desnie akte åvtehke njieljie ihkuve lïhtsegigujmie jïh göökte sæjjasadtjigujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kárttim ja dåhkkidibme gávnne riektájs Finnmárkon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtalleme jïh jååhkesjimmie daaletje reaktijste Finnmaarhkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Finnmárkolága milta le kommisjåvnnå ásaduvvam, nav gåhtjodum Finnmárkokommisjåvnnå, mij galggá åmastim- ja adnemriektájt dajda ednamijda majt Finnmárkoåbmudahka háldat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Finnmaarhkelaaken mietie dle aktem kommisjovnem tseegkeme, gohtjeme Finnmaarhkekommisjovne, mij edtja aajhtere-jïh åtnoereaktah salkehtidh dan laantese maam Finnmaarhkeneeke reerie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Finnmárkokommisjåvnå doajmma li sierra njuolgadustjállaga milta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Finnmaarhkekommisjovnen joekehts barkoeh leah jïjtse mieriedimmesne struvrehtamme.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

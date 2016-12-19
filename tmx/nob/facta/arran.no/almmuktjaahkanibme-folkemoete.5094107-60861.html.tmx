@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">almmuktjaahkanibme-folkemoete.5094107-60861.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjåhkanibme le oasse Árrana jage 2012 dutkambiejvij prográmmas.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>4. oktober 2012</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

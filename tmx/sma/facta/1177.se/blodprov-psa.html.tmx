@@ -1,0 +1,600 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">blodprov-psa.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Julevusámegiella / Lulesamiska</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åarjelsaemiengiele / Sydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>JulevusámegiellaLulesamiska</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ÅarjelsaemiengieleSydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Manen dárbaj åtsådimev vaddet ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mannasinie daarpesje pryövenassem vadta ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Manen dárbaj åtsådimev vaddet ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mannasinie daarpesje pryövenassem vadta ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Goassa vaddá PSA åtsådimev ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie pryövenassem PSA:en gaavhtan vadta ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PSA l varraåtsådibme mij gullu åtsådimijda majt dagá gå prostahta åtsåduvvá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PSA vïrrepryövenasse mij goerehtimmine mah tjuara darjodh gosse prostatam goerehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Muhttijn vaddá PSA-åtsådimev jus la gådtjåmvájve masi dåktår gáddá prostahta l oarre, buojkulvissan jus álu dárbaj gåttjådit vájku gå gådtjålábtjen la vuollegasj däddo.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhten aejkien PSA-pryövenassem vadta jis gadtjeåerine tjoeperdimmie mij dåaktere såvma prostateste båata, vuesiehtimmien gaavhtan jis daamhtetje tjuara gadtjedh seamma aejkien sjeapsjoeh gosse gadtjedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj vaddet PSA-åtsådimev jus dåktår gullá muhtem prostahta rievddadusájt gå åtsåduvvá, rievddadime ma máhtti buktet moattelágásj vájvijt ja dávdajt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta aaj PSA-pryövenassem vedtedh jis dåaktere damta naan jeatjahtehtemh prostatesne gosse dam goerehte, jeatjahtehtemh mejnie maahta tjoeperdidh jïh mestie skeamtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ájnas la diehtet aledum PSA-árvo ij javla ulmutjin la prostahtabårredávdda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vihkeles daajra jis jollebe PSA-vierhtiem åådtje ij seamma goh prostatacancere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Le dábálasj giehppis ja mutták PSA aledimijn li ietjá oare.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sïejhme smaave jeatjahtehtemh PSA:este båetieh jeatjah fåantojste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sämmiláhkáj máhttá iemelágásj árvvo ij ållåsit ierittjuolldet prostahtabårråmdávdav.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Seamma vuekine sïejhme vierhteste maahta jiehtedh ij leah prostatacancere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Boados hähttu agev árvustaláduvvat makkir vájve li ja majt ietjá åtsådime vuosedi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Illeldahkem tjuara iktegisth vierhtiedidh destie mejnie tjoeperde jïh mah jeatjah goerehtimmieh vuesiehtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus li guokta jali moadda lahka berraha gudi li ålmmå prostahtabårråmdávdajn, de l stuoráp máhttelisvuohta dávdav oadtju.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis göökte jallh jienebh almah prostatacancerem utnieh fuelhkesne, dellie stuerebe vaahra skeamtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>De májnoduvvá válldet PSA-åtsådimev dájvvalakkoj 40-50 jage álldaris gitta 70 jage álldarij.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan gaavhtan evtede, edtja ahkedh PSA-pryövenasside vaeltedh 40-50 jaepiej raejeste 70 jaepieh raajan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PSA mihttiduvvá aj ájggeguovddelis prostahtabårrråmdávda dåmajdimen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PSA aaj möölie gosse prostatacancerem båehtjerde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus dálkudibme viehket de vuojnnu gå PSA-árvvo vuollán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis viehkiem båehtjierdimmine dellie PSA-vierhtiem vualanidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ávke ja hieredisá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aevhkieh jïh slearesh PSA-pryövenassine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PSA-åtsådibme ij dábálattjat dagáduvá gájkkásasj varresvohtagähttjamin ålmmåjda árvustalátjit jus siján la prostahtabårråmdávda sieldes árra hábme.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij PSA-pryövenassem vaeltieh goh sïejhme healsoevaaksjome almide sæjhta vuejnedh jis dah dan aareh hammoe prostatacancerem utnieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ij la agev ávkke ielvvet ja dálkudit jur prostahtabårredávda árra hámijt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij iktegisth aevhkie aejhtsieh dah aareh hammoeh prostatacancerh jïh dejtie båehtjierdidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dálkudime máhtti vaddet stuoves tjuovvobájnatjimijt nåv gåk impotänssa ja inkontinänssa ålmåjn gejn prostahtabårråmdávdda ij goassak lulu háhppidam åvddånit muhtem garra dávddaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Båehtjierdimmijste impotensem jïh inkontinensem maehtieh almide sjïdtedh gusnie prostatacancere ij hinnh dan stoerre skaaram darjodh jïh ålvas skïemtjelassese evtiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bårredávddasjattalvis prostahtan máhttá juogu de suojmma sjaddat váni vattek vájvijt jali ruvva ja oabllot ietjá rubmaha åsijda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cancerenaareme prostatesne maahta seejnelaakan sjïdtedh jïh destie ij tjoeperh jallh dïhte maahta varki sjïdtedh jïh jeatjah sijjide kråahpesne haasenidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Árra ájgen ij máhte guokta bårråmdávddatjerda sieradit ja danen la máhttelis dåjmajduvvat bårråmdávddahábmáj massta ij lulu vájvijt ietjas viessomájgen oadtjot.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aareh deahpadimmesne ij maehtieh dejtie göökte cancerehammojde juekedh jïh vaahra dan gaavhtan aalka cancerehammoem båehtjierdidh mestie ij dan jieliedisnie tjoeperdh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Moadda ålmmå sihti huoman tjadádit åtsådimijt oattjotjit diedojt jus siján la prostahtabårråmdávdda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jïjnjh almah sijhtieh dam goerehtidh jïh sijhtieh daejrieh jis prostatacancerem utnieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åvddål gå mierret jus galggá åtsådimev vaddet PSA:aj la buorrre åtsådit ienebuv ávkij birra ja hieredisájt árra gávnadum sjattalvisá dåmajdimijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åvteli nænnoste jis galka PSA-pryövenassem vedtedh, hijven daejredh jienebh båehtjierdimmien aevhkiej jïh sleari bïjre jis aalka aareh aajhtseme naarenem båehtjierdidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus de sihtá joarkket ja ságastallat dåktårijn de gálggá ájgev diŋŋgot varresvuohtaguovdátjin jali vidnudakvarresvuohtasujton.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sæjhta dan mænngan vijresåbpoe vaedtsedh jïh dåakterinie rååresjidh galka tæjmoem dængkodh hoksejarngesne jallh sïeltehealsoehoksesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij la PSA ja gåggu gávvnu ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mij lea PSA jïh gusnie gååvnese ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PSA l oanádis [prostataspecifikt antigen].</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PSA åeniedimmie prostataspecifikt antigen:este.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Le proteijnna mij dagáduvvá prostahtarávsán ja tjuovvo sájojt gå ejakulasjåvnåv oadtju ja dahká vaj sájo labudi giehpebut.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte lea proteijne maam prostatareavsesne sjædta jïh boetje-goglenassem dåerede jïh destie spermijh jienebe svihtjieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PSA gávnnu dábálattjat binná mieren varán aj, ja l dat nárre mij mihttiduvvá PSA-åtsådime baktu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ånnetji PSA daamhtaj vïrresne gååvnesieh, jïh dam PSA-pryövenassine mïetedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ietján gå bårråmdávdda de gávnnuji moadda dábálasj rievddadusá prostahtan ma máhtti dahkat vaj PSA- mierre varán lassán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Canceren lissine gååvnesieh jïjnjh daamhtaj jeatjahtehtemh prostastesne mejstie PSA-veaha maahta jeananidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Buorre prostahtastuoredibme ja inflammasjåvnnå prostahtarávsán máhttá buojkulvissan, nåv gåhtjoduvvam prostatijtta, doalvvot vaj lissi ienep PSA:av várán prostahtas.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuesiehtimmien gaavhtan buerie prostatastueriedimmie jïh jis prostatareavsam ovleme, guktie gohtje prosatite, destie jienebh PSA-vïrrese atjkieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PSA-mierre lassán vehik ájge milta ienemus ålmmåjn danen gå prostahtaráksá stuorru gå vuorastuvvá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaepiej mietie PSA-veahka ånnetji jeanane jeenjemes almine dan gaavhtan prostatareavsa stuerede gosse båarasåbpoe sjædta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Enamus mierre PSA varán la tjanádum umasslágásj proteijnajda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Stööremes veahka PSA vïrresne lea ovmessie proteineridie tjatneme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Valla gávnnu aj binná luovas, tjanádahkes PSA.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mohte gååvnese aaj onne veahka frijjes, ov-tjatneme PSA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå li ietjá oare gå bårråmdávdda mutták PSA- allánibmáj, de álu gávnnuji ienep luovas PSA varán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse jeatjah sjïekh goh cancere PSA-stueriedimmien duekesne, pråvhka jienebe frijjes PSA:em vïrresne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Danen máhttá dåktårij vaddet vissa oajvvadusáv mihttit gasskavuodav tjanádum ja luovas PSA gaskan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan gaavhtan maahta dam dåaktererasse naaken bïhkedimmiem vedtedh gosse mööledh jïh tjatnemidie jïh ov-tjatneme PSA:idie sjïehteladtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåktu åtsådibme váldeduvvá ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie pryövenassem vaalta ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åtsådimev álu válldi giedan sekka nálujn viehkken mij tjuoggiduvvá varravárráj, venan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövenassem gïeteste vaalta viehkine sigkies naaloe maam vïrreåaran, venese, baska.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Danen dát tjärdda várraåtsådimes gåhtjudallá åsådibmen vena baktu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dannasinie dam vïrrepryövenassem gohtje, venöse pryövenasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åtsådimev válldá akta goassa jánndurin Galggá tjåhkudallat 15 minuvta åvddål gå åtsådibme váldeduvvá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövenassem maahta gåessŠakt dygnesne vaeltedh. Galka 15 minudth tjahkasjidh åvteli pryövenassem vaalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ietján älla aktak gárvedime dárbulattja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij naan jeatjah ryöjredimmieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus tjuollá prostahtan de PSA-árvvo allán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis kirurgijen darjomem dorje prostatesne dellie PSA-vierhtie jeanene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hähttu de vuorddet unnemusát 10 biejve åvddål gå l ávkálasj PSA-åtsådimev válldet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åådtje dellie vaenemes 10 biejjieh vuertedh åvteli PSA-pryövenassem vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus dåktår val gulldal prostahtav de PSA-árvvo ij bájnatjuvá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis dåaktere barre prostatam doehtede dellie ij PSA-vierhtiem tsevtsieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Goassa oadtju vásstádusáv ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie vaestiedassem åådtje ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åtsådibme rájaduvvá skihpadåhpelaboratåvrråj gånnå guoradaláduvvá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövenassem skïemtjegåetien laboratorijumese seedtie gusnie dam analyseeredh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá ájgás boahtet ietjas dåktårijn goassa ja gåktu åtsådime båhtusav diededuvvá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta sov dåakterem seamadamme gåessie jïh guktie galka illeldahkem pryövenasseste åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dåktår álu vásstádusáv laboratåvrås oadtju avtan jali guovten biejven.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dåaktere pråvhka vaestiedassem laboratorijumeste åådtje tïjjemieresne, akte jallh göökte biejjieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåktu åtsådimvásstádus dádjat ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie pryövenassen vaestiedassem toelhkedh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åtsådimvásstádus hähttu agev árvustaláduvvat makkir vájve li ja majt ietjá åtsådime vuosedi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Illeldahkem tjuara iktegisth vierhtiedidh destie mejnie tjoeperde jïh mah jeatjah goerehtimmieh vuesiehtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PSA-árvvo varán målsut umasse ålmåj gaskan, aj ålmåj gaskan gejn älla prostahtavájve.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PSA-vierhtie vïrresne ovmessie almaj gaskem jeatjahtehtedh, aaj almaj gaskem gïeh eah prostatine tjoeperdh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vaj dåktår galggá máhttet juojnak buohtastahttet de aneduvvá referänssaárvo.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis dåaktere edtja maehtedh mejnie akt mohtedidh dellie pråvhka maam gohtje referensevierhtie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PSA-árvojda álu árvo badjel 3 mikrográmma lijttarij riekkniduvvá lassánibmen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis PSA-vierhtie jollebe 3 mikrogramh lïjhterisnie dellie jeanane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Alla árvo, mij la dan oarre ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jolle vierhtieh, mestie dah båetieh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bájkoj avtan låget ålmmås gasska álldarin la aledum PSA-árvvo.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Medtie akte luhkeste almah åådtje jollebe PSA-vierhtiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dábálasj oarre vehik aledum árvojda buorre prostahtastuoredibme.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daamhts sjïeke ånnetji jeananamme vierhtide lea buerie prostatastueriedimmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aledum árvojt oadtju aj jus la prostahtainflammasjåvnnå, nåv gåhtjoduvvam dálkodik prostatijtta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeananamme vierhtieh maahta aaj åadtjodh jis lea prostatam ovleme, guktie gohtje kronijen prostatite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dábálasj gådtjåinfeksjåvnnå máhttá vaddet garra lassánimev PSA:s valla vássá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daamhts gadtjeåerieovleme maahta jollebe PSA:em vedtedh, mohte ij dan guhkiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus avtak oare diehti ij máhte gådtjåt ja gådtjårágáv duobbmit snivva, de máhttá aj oadjot ånibåddåsasj lasedum PSA-árvov.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis naan sjïekeste ij maehtieh gadtjedh jallh gadtjeboejem eensilaakan döömedh, maahta aaj boelhkem jollebe PSA-vierhtiem åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus la vájvve gådtjårágáv duobbmit ja stuoráp gådtjå nárre agev báhtsá, de gådtjåbavvagin gåhtjudallá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis dåeriesmoere gadtjeboejem döömie guktie gadtje aajmene boejesne dam gohtje sveerjengïelesne urinstämma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aledum árvo máhtti aj årrot prostahtabårredávdda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jollebe vierhtieh aaj prostatacanceristie båetieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gejs li aledum PSA gávnaduvvá bårredávdda bájkoj gålmådisán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dejstie giej jollebe PSA medtie gåalmehts cancerem gaavna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sieradittjat buorre prostahtavájvijt prostahta bårredávdas de máhttá gasskavuohta luovas ja tjanádum PSA gaskan dåkttårav viehkedit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie lea frijjes jïh tjatneme PSA:i gaskem maahta dåakterasse naaken bïhkedimmiem vedtedh gosse edtja juekedh buerie prostatatjoeperdimmide jïh prostatacancerem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gejs ietjasa gähttjali moaddi moatten jagen, li bájken avtan nieljes PSA-árvvo mij doarjju ienep åtsådimijt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dejstie gïeh goerehtamme jïjnjh aejkieh jaepiej tjïrrh, medtie akte njealjiste PSA-vierhtiem åtna maam tjuara lïhkebe goerehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus PSA-åtsådime boados vuoset alep árvov, de dåktår álu dahká vil åtsådimev ultrajienajn ja tsuodtsaåtsådimev prostahtarávsás.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis PSA-pryövenasse vuesehte jolle vierhtiem, dellie dåaktere pråvhka aktem vielie goerehtimmiem darjodh ultratjoejine jïh pryövenassem vaeltedh prostatareavseste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus dåktår gávnná bårredávdav de oadtju dálkudimev tjuollamijn, suonjardimijn, jali hormonadåmajdimijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis dåaktere cancerem aajhtsa maahta dam båehtjierdidh operasjovnine, gadtjijinie jallh hormonebåehtjierdimmine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuollegis árvo, mij la dan oarre ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuelebe vierhtieh, mestie dah båetieh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuollegis árvo vuoset prostahtabårredávdda gávnnu, ihka vil val akta PSA-åtsådibme ij ållåsit máhttá dav ierittjuolldet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuelebe vierhtieh jeahta ij prostatacancerem, jïlhts barre PSA-pryövenasse maahta dam vaestiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus oadtju prostahtav ieritváldedum tjuollama baktu de PSA-árvvo vuollán jur mihttidahkes märráj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis prostatam operasjovnine laahpehti dellie PSA-vierhtie vualanidh guktie mahte ij maehtieh dam mööledh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuollegis PSA-árvvo máhttá de aneduvvat mihttán tjuollamin lij buorre boados.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuelebe PSA-vierhtie maahta aaj mööleminie utnedh jis operasjovne hijven effekte åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guovten ietjá dåmajdimtjerdan aj, suonjardimen ja hormonadálkudimen, vuoledum PSA-árvvo l dåbddåmärkka dåmajdibme l buoragit doajmmam.﻿﻿</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dej göökte jeatjah båehtjierdimmievuekine, gadtjijh jïh hormonebåehtjierdimmie, pruvhkieh vuelebe PSA-vierhtie buerie væhta årrodh båehtjierdimmiem jåhta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjálle: Martin Enander dåktår, ássjedåbdde gájkkásasjmedisijnan, Sundsvall</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjaelije: Martin Enander, dåaktere, spesialiste sïejhmemedicijnisnie, Saedtievaellie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dåjmadiddje:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Redaktööre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gájkka sisadno l aj giehtadaládum, gehtjadum ja dåhkkidum redaksjåvnås ja redaksjåvnnårádes 1177 Vårdguiden.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Katti Björklund, 1177 Vårdguiden</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

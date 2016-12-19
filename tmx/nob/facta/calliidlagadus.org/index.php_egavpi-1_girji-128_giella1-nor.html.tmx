@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">index.php_egavpi-1_girji-128_giella1-nor.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Áigin Lávrra - Bassegåbe giesse - MP3</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Áigin Lávra - Sommeren i Bassegohppi - Lydbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Lest av Stig Riemmbe Gælok</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Lest av Nils Utsi.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

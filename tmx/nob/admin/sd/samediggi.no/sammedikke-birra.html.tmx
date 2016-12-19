@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">sammedikke-birra.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámmedikke birra / Sámedigge - Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Om Sametinget / Forsiden - Sametinget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge le sámij álmmukválljidum orgádna Vuonan.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Sametinget er et folkevalgt organ for samene i Norge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>39 ájrrasa válljiduvvi gietjat válggaguovlos juohkka nælját jage.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>39 representanter velges fra 7 valgkretser hvert fjerde år.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge galggá nannit sámij politihkalasj dilev ja åvdedit sámij ássjijt Vuonan, barggat vaj sáme álmmuk giehtadaláduvvá avtaárvvusattjat ja rievtesferduk láhkáj ja hiebadahttet vaj sáme máhtti ietjasa gielav, kultuvrav ja sebrudakiellemav åvddånahttet.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Sametinget skal styrke samenes politiske stilling og fremme samenes interesser i Norge, bidra til en likeverdig og rettferdig behandling av det samiske folket og arbeide med å legge forholdene til rette for at samene kan sikre og utvikle sitt språk, sin kultur og sitt samfunnsliv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sjiemá ájrrasida</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Sametingets håndbok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Arkitektonalasj moallánahka</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Arkitektonisk uttrykk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dájdda Sámedikketsiekkadusán</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Kunst i Sametingsbygningen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikkev guossidit</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Besøke Sametinget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Organisasjåvnå struktuvrra ÅllestjåhkanibmeÅllestjåhkanime jådedibmeKomiteaSámedikki váiddalávdegoddiSámedikkerádeSNPNSámedikke vuorrasij ráde</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Organisasjonsstruktur PlenumPlenumsledelsenKomiteerSametingets klagenemndSametingsrådetSUPUSametingets eldreråd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ållestjåhkanibme</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Sametingets klagenemnd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ållestjåhkanime jådedibme</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Sametingsrådet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikkeráde</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Sametingets eldreråd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke vuorrasij ráde</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Bakgrunn Sametinget 25 årHistorikkRettigheterKonsultasjonsavtalenNasjonaldag og nasjonale symboler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Duogásj Sámediggi 25 jagiHiståvrråRievtesvuodaRádádallamsjiehtadusÁlmmukbiejvve ja nasjåvnålasj gåvåstagá</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Sametinget 25 år</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Rievtesvuoda</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Historikk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Rádádallamsjiehtadus</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Nasjonaldag og nasjonale symboler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Álmmukbiejvve ja nasjåvnålasj gåvåstagá</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Kontakt oss Kontaktinformasjon til ansatte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Válde aktijvuodav mijájn Aktijvuodadiehto Sámedikke barggijda gávna dánna.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Kommunereformen Sametinget vil høre din mening om kommunereformen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aktijvuodadiehto Sámedikke barggijda gávna dánna.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Sametinget vil høre din mening om kommunereformen</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

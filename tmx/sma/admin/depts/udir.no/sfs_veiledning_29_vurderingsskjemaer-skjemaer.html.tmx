@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">sfs_veiledning_29_vurderingsskjemaer-skjemaer.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tiebmá:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aamhtese:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Namma: Biejvve:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nomme: Biejjie:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

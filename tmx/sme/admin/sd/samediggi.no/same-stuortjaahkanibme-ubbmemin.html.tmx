@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">same-stuortjaahkanibme-ubbmemin.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme stuortjåhkanibme Ubbmemin</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>20. Guovvamánnu 2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Æjvvalibme vaddá midjij máhttelisvuodav ságastallat aktisasj hásstalusájs ja ávkkit nubbe nuppij åtsådallamijt, javllá presidænnta Aili Keskitalo.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>President Aili Keskitalo, tlf. +47 971 29 305</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

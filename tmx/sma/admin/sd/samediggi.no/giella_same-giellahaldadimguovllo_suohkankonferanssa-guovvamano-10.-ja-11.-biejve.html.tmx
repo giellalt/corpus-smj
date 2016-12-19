@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">giella_same-giellahaldadimguovllo_suohkankonferanssa-guovvamano-10.-ja-11.-biejve.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkankonferánssa guovvamáno 10. ja 11. biejve</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkien tjïeltekonferanse lea heajhteme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge le dahkam miellagiddis konferánssaprográmmav, ja sávvá dijáv buorisboahtem miellagiddis konferánssabiejvijda Kárásjjågån guovvamáno 10. ja 11. biejve 2015.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïeltekonferanse goevten 10. – 11. b. 2015 Karasjohkesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konferánssa le gulldalimlanján</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Konferanse lea auditovrijisnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dijstagá 10. biejve</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dæjstan, goevten 10. b.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>1. oasse.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1. bielie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guovtegielakvuohta suohkansuorgen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guektiengïelevoete tjïeltesuerkesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Buorisboahtem, Sámediggepresidenta Aili Keskitalo baktu</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Buerie båeteme, Saemiedigkiepresidente Aili Keskitalo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Diedo Sáme giellajuohkusa birra, jådediddje Bård Magne Pedersena baktu</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bïevnesh saemien gïelemoenehtsen bïjre, åvtehke Bård Magne Pedersen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guovtegielakvuohta – udnásj vidjura, hásstalusá ja vuorddámusá, Sámediggepresidenta Aili Keskitalo baktu</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guektiengïelevoete – daan beajjetje tsiehkie, haestemh jïh veanhtadimmieh, Saemiedigkiepresidente Aili Keskitalo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke nuorajnammadusá ja vuorrasijráde vuorddámusá suohkanijda, SUPU ja vuorrasijráde baktu</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkien noereraerien jïh voereseraerien veanhtadimmieh tjïeltide, SUPU jïh voereseraerie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Káffabåddå ja gáhkutja, sjatto</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Prïhtjege gaahkoejgujmie, muerjieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkanij / fylkkasuohkanij vuorddámusá ja ájálvisá Sámedikke ja giellanammadusá bargguj, javllamusá Porsáŋgo suohkana ja Snåase suohkana baktu</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelti / fylhkentjïelti veanhtadimmieh jïh åssjaldahkh Saemiedigkien jïh gïelemoenehtsen barkose, håaleme Porsanger tjïelten jïh Snåasen tjïelten baaktoe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dagástallam</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Digkiedimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Lunssja (Sámedikken)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Beapmoe (Saemiedigkesne)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2. oasse.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2. bielie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkanådåstibme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïeltereforme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ráddidusá sáme perspektijvva suohkanådåstimen, stáhttatjálle Anne Karin Olli baktu</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reerenassen saemien vuajnoe tjïeltereformesne, staatetjaelije Anne Karin Olli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ájgge gatjálvisájda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gyhtjelassh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Káffabåddå ja gáhkutja, sjatto</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Prïhtjege gaahkoejgujmie, muerjieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkanådåstibme - sáme perspektijvva, rádeájras Ann-Mari Thomassena baktu</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïeltereforme – saemien vuajnoe, raerielïhtsege Ann-Mari Thomassen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Javllamusá suohkanådåstibmáj, Finnmárko fylkkamánne ja Gáivuona suohkana baktu</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Håaleme tjïeltereformen bïjre, Finnmaarhken fylhkenålma jïh Kåfjord tjïelte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåktu vájkkut suohkanådåstibme sámeguovloj gielav, kultuvrav ja sebrudakiellema åvddånimev.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Digkiedimmie. Maam ulmide tjïeltereforme sæjhta åadtjodh gïelen, kultuvren jïh siebriedahkejieleden evtiedimmien gaavhtan saemien dajvine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Javllamusá Deanu suohkana ja Kárásjjågå suohkana baktu</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Håaleme Deatnun tjïelten jïh Karasjohken tjïelten baaktoe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dagástallam.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Digkiedimmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuorodiddje: Loabaga suohkana suohkanoajvve Erling Bratsberg</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Digkiedimmien åvtehke: Lavangen tjïelteåejvie Erling Bratsberg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuostasj biejve låhpadibme.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Galhkuve 1. biejjie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gasskavahko guovvamáno 11. biejve</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaskevåhkoen, goevten 11. b.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>3. oasse.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>3. bielie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ájádusá ievtásj biejves, Aili Keskitalo baktu</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jieleme- jïh siebriedahkeevtiedimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Diedo Dáhttu prosjevtas, Ragnhild Dalheim Eriksen, Sámedikke baktu</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bïevnesh Dáhttuprosjekten bïjre, Ragnhild Dalheim Eriksen, Saemiedigkie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Káffabåddå ja gáhkutja, sjatto</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Prïhtjege gaahkoejgujmie, muerjie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme sebrudagá åvddånime merka.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Evtiedimmievæhtah saemien siebriedahkine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt dahki suohkana ma vuorbástuvvi ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maam tjïelth darjoeh mah lyhkesieh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Knut Vareide, Telemarksforskning, baktu</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Knut Vareide, Telemarksforskning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Lunssja (Sámedikken)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Beapmoe (Saemiedigkesne)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dagástallam.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Digkiedimmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Makkár vájkkudusá li udnásj åvddånime merkajn ja suohkanådåstimen sáme guovloj æládus- ja sebrudakåvddånibmáj boahtte ájge.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maam ulmide daan beajjetje evtiedimmievæhtah jïh tjïeltereforme sijhtieh åadtjodh dan båetijen aejkien jieleme- jïh siebriedahkeevtiedimmien gaavhtan saemien dajvine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Káffabåddå ja gáhkutja, sjatto</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Prïhtjege gaahkoejgujmie, muerjieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjoahkkájgæsos (ålles konferánsas), Sámediggepresidenta Aili Keskitalo baktu</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åenehks vaajestimmie abpe konferanseste, Saemiedigkiepresidente Aili Keskitalo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Låhpadibme ja vuolggem sijddaj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Galhkuve jïh vualkoe gåetide.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

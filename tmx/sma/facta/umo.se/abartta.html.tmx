@@ -1,0 +1,968 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">abartta.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Abårttå merkaj iesselisvuodav boarkkit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aborte lea gosse iemiem luejhtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus ájádallá abårtåv dahkat de soajtti edna gatjálvisá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis funterde abortem darjodh dellie kaanne jïjnjh gyhtjelassh åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Valla máhttá agev soabmásijn gávnadit vásstádusájt åttjudit ietjas gatjálvisájda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mohte maahta åålegh naakenem råakedh gie maahta gyhtjelasside vaestiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guosská aj gesi l soabmásav iesselissan dahkam.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte aaj dïsse gie nïejtem nåajsan dorjeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå sihtá abårtåv dahkat de soajttá oare ednaga.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah sjïekh mannasinie abortem darjodh maahta jïjnjh årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá årrot danen gå ietjas ij gärggogin dåbdå.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte maahta årrodh ij nahkesjh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Adná ietjas ilá nuorran jali ij hieba ietjas viessomin jur dalloj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tuhtjie dan noere jallh ij heavedh daelie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Márjju gejna l iesselissan sjaddam ij la gejna sidá mánáv adnet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kaanne dïhte gie ektesne nåajsan sjïdteme ij leah dïhte gie sæjhta maanadovvedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Riektá l abårtåv dahkat ja ij dárbaha iehtjádij tjielggit, juska vil oarre.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reaktam åtna abortem darjodh jïh ij daarpesjh dam jeatjide goerkelidh, seamma man sjïekenisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjáledum la abårttålágan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte lea abortelaakesne tjaaleme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Riektá l aj rievddat akta goassa abårtå åvddåla.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reaktam aaj åtna jarkesidh gåessŠakt aborten åvteli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Abårtåv dahkat ij dagá dav gássjelabbon iesselissan sjaddat boahtteájge.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Abortem darjodh ij darjoeh gïerve nåajsan sjïdtedh dan mænngan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ij ga gávnnu áldarmierre abårtåv dagátjit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij gååvnesh naan jaepieraaste abortem darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Abårtå åvddåla</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aborten åvteli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gänna ájádallá abårtåv dahkat soajtti edna gatjálvisá ja de márjju l buorre soabmásijn ságastit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte gie funterde abortem darjodh kaanne jïjnjh gyhtjelassh åtna jïh dellie hijven giejnie soptsestalledh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Abårtå gáktuj agev fáladuvvá doarjja ja viehkke, goappátjagá åvddål ja maŋŋela.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse abortem sæjhta darjodh dellie viehkiem jïh dåarjoem dïsse faala, dovne åvteli jïh dan mænngan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gut soabmásav iesselissan la dahkam máhttá aj gávnadit soabmásijn jus sihtá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis lea dïhte gie nïejtem nåajsan dorjeme maahta aaj naakenem gaavnesjidh jïh dejnie soptsestalledh jis sæjhta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Niejdda gut mierret</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nïejte gie nænnoste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Agev la buorre ságastit gejna l iesselissan sjaddam, gåktu sihtá dahkat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte åålegh hijven dejnie sopstestalledh gïejnie nåajsan sjïdteme guktie sïjhtijægan darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus la máhttelis de l aj buorre aktan mierredit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis gåarede hijven jis maehtiejægan ektesne sjæjsjalidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Valla jus ij ájgás boade, de agev la iesselis niejdda, gut mierret jus galggá abårtåv dahkat jali ij.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mohte jis eakan sïemedh dellie åålegh nåajsan nïejte gie sjæjsjele jis edtja abortem darjodh vuj ij dam sïjhth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gut l soabmásav iesselissan dahkam, ij la riektá aktu mierredit jus galggá abårtåv dahkat jali mánáv riegádahttet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte gie nïejtem nåajsan dorjeme ij reaktam utnieh oktegh sjæjsjalidh jis edtja abortem darjodh jallh maanam utniehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guojmmen gesi abårtåv dahká</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Partnere orre dïsse gie abortem dorje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Juska vil märrádus abårtå birra l aktisasj jali ij, de guojmmen soajttá vájves vásadus.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saaht jis sïemes jis galka abortem darjodh jallh ij leah, maahta gïerve årrodh partnerasse daelie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Goappátjagá abårttåduostudagájn ja nuorajduostudagájn máhttá soabmásijn gávnadit gejna ságas, juogu de goappátja aktan jali aktu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dovne abortedåastovisnie jïh noeredåastoevisnie maahta giem akt råakedh jïh dejnie soptsestalledh, oktegh jallh gåabpatjahkh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Abårtå maŋŋela máhttá goappátjagá gähppánimev ja håjev dåbddåt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aborten mænngan maahta domtedh dovne hujnies jïh girmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dåbdo ja ájádusá máhtti målsudit ájge milta ja muhttijn esski båhti maŋebut abårtå maŋŋela.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Domtesh jïh åssjaldahkh maehtieh tïjjen mietie molsestalledh jïh muvhten aejkien dah båetieh guhkiem aborten mænngan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ihka vil ájgge l vássám, de máhttá aktavuodav válldet buojkulvissan nuorajduostudagájn ságastittjat dåbdoj birra.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jilhts guhkiem aborten mænngan maahta bïeljielidh vuesiehtimmien gaavhtan noeredåastoevasse jïh giejnie soptsestalledh guktie domtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Goassa máhttá abårtåv dahkat ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie maahta abortem darjodh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gitta 18 iesselisvuohtavahko rádjáj la riektá abårtåv dahkat váni ij aktasik giehttot manen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>18. nåajsanvåhkoen raajan reaktam åtna abortem darjodh jïh ij daarpesjh jiehtedh mannasinie sæjhta dam darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>18 iesselisvuohtavahko maŋŋela rávkaduvvá loahpe Sosiálastivras abårtåv dagátjit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>18. nåajsanvåhkoen mænngan tjuara luhpiem Socialeståvroste åadtjodh åvteli maahta abortem darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dakkir loabev oadtju val jus li sierralágásj oare abårttåj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Luhpiem ajve åådtje jis sjïere sjïekem gååvnese abortem darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Buojkulvisá dasi máhtti årrot gå l sieldes nuorra, li gassjelisvuoda alkoholajn jali drogaj, l illastuvvam jali ågen la muhtem tjavgga vahák jali ij la iemeláhkáj åvdeduvvam.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuesiehtimmien gaavhtan dan noere lea, dåeriesmoerem åtna alkohovline jallh drogigujmie, daaresjimmiem sjïdteme jallh jiemie ålvas skaaram åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gånnå abårtåv dahká ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gusnie abortem darjodh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Abårttå agev dagáduvvá skihpadåben jali ietjá tjiehppeklinijkajn, ij máhte buojkulvissan abårtåv dahkat nuorajduostudagán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Abortem åålegh skïemtjegåetesne jallh jeatjah spesialisteklinihkesne dorje, ij maehtieh vuesiehtimmien gaavhtan abortem darjodh noeredåastoevisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Valla jus diehtá l iesselissan ja ájádallá abårtåv dahkat de máhttá aktavuodav válldet nuorajduostudagájn rádev oattjotjit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mohte jis daajra nåajsan jïh ussjede abortem darjodh maahta noeredåastovem bïeljelidh jïh raeriem åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj mannat varresvuohtaguovdátjij jali gynekologaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta aaj hoksejarngese jallh gynekologese vaedtsedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtti aj viehkedit aktavuodav válldet abårttåduostudagájn skihpadåben.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah aaj maehtieh viehkine årrodh abortedåastovem skïemtjegåetesne bïeljelidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj iesj riŋŋgit njuolgga abårttåduostudahkaj ja ájgev diŋŋgot.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta aaj jïjtje ryöktesth abortedåastoevasse ringkedh jïh tïjjem dongkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus diehtá sihtá abårtåv dahkat de l buorre ájgev diŋŋgot nåv ruvva máhttelis danen gå muhttijn máhtti vuorddemájge muhtem duostudagájn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis daajra sæjhta abortem darjodh dellie hijven tïjjem dongkedh dan varki man gåarede juktie naan aejkien tjuara vuertedh såemies dåastoevinie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåktu abårttå dagáduvvá ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie abortem dorje ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Abårttå máhttá umassláhkáj dagáduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aborte maahta ovmessie vuekine darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Makkir vuogij milta dagáduvvá mierreduvvá man guhka ájgge l vássám iesselisvuodan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Man vuekiem veeljie nænnoste man guhkiem nåajsan orreme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åtsådittjat makkir iesselisvuohtavahkon la vuododuvvá maŋemus läjbboma vuostasj biejves.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Minngemes gujnielemmien voestes biejjie aalka ryöknedh jïh destie daajra man nåajsanvåhkoe sjædta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ij de riekkni almma sahkanimes.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij ryöknh destie gosse maanadovvedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gitta avtse vahkkuj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åktseden våhkoen raajan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gitta avtse vahkkuj máhttá abårtåv dahkat dálkkasij viehkken.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åktseden våhkoen raajan maahta abortem darjodh daalhkesh viehkine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåhtjudallá medisijnalasj abårttån.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte medisijnen abortem gohtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Muhtem sajijn tjärdda aneduvvá lågenanguovte vahkuj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies sijjine dam vuekien nåhtadieh luhkiemubpie våhkoen raajan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oadtju tablehtav abårttåduostudagán, dát ij la sämmi gå hähkka-p-tablähtta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie tabledtem abortedåastovisnie åådtje, dïhte ij leah seamma goh akute-p-pillere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå l tablehtav bårråm de oadtju häjmmaj mannat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan mænngan tabledtem vaalteme åådtje gåetide vuelkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Avta jali guovte biejve maŋŋela boahtá ruoptus duostudahkaj oattjotjit ådå dálkkasav, juogu de tablähttan majt njiella jali biejaduvvá guoddnáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Akte jallh göökte biejjiej mænngan dåastoevasse bååstide båata jïh orre daalhkesem åådtje, tabledth mejtie njilliedidh jallh tsavnoen sïjse rijtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ganugasstá de duostudagán maŋŋela ja moadda tijma duogen varddegoahtá ja iesselisvuohta boarkki.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dåastoevisnie orre jïh naan tæjmoej mænngan aalka vertedh jïh jijmiem luejhtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá bávtjájdallat valla dasi oadtju bávtjasgiehpedimev ja maŋebut sämmi biejve häjmmaj manná.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kaanne baektjede men dellie åådtje daalhkesh guktie ij dam damth jïh seamma biejjien åådtje gåetide vuelkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttelis la aj abårtåv hejman tjadádit, nåv gåhtjodum häjmmaabårttån.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta aaj abortem gåetesne orrijidh, guktie hïejmeabortem gohtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>De nuppe vuoro tablehtajt ja hejman.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie åådtje dah mubpieh tabledth jïh dejtie gåetesne vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Loabeduvátjit häjmmaabårtåv dahkat de hähttu binnemusát 18 jage vuoras ja ietjas lunna l ietjá ållessjattuk.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åådtje hïejmeabortem darjodh jis båarasåbpoe goh 18 jaepien båeries jïh naan jeatjah geerve almetje aaj gåetesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Moadda vahko abårtå maŋŋela ådåsis gynekologa jali gáhppeliddje lunna manát dagátjit ådå iesselisvuohtaåtsådimev ja giehtutjit gåktu viessu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naan våhkoeh aborten mænngan bååstide gynekologese jallh tsegkietnese båata jïh orre nåajsanteestem darjodh jïh soptseste guktie gåerede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Iesski dalloj medisijnalasj abårttå aneduvvá ållu tjadádum.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie medisijnen abortem tjïrrehtamme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Muhttijn aj åtsådibme dagáduvvá gehtjadittjat vaj e buojkulvissan plasentas bátsidusá gávnnu skoadon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies aejkien aaj gïehtjede vååksje ij maam akt aajmene vuesiehtimmien gaavhtan boernesgåetien sisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus da gávnnuji de máhttá nåv gåhtjodum ráhpom dagáduvvat ja de njamáduvvi oase ma li báhtsam várrogit ierit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis maam akt aajmene dellie maam gohtje skreepemem darjodh jïh dellie mojhteleslaakan dah bielieh mah aajmene destie njamma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus dárbaj dav dahkat de jábmeduvvá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis daarpesje dam nahkerisnie darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gitta 12 vahkkuj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>12 våhkoen raajan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gitta 12 vahko vahkkujj, máhttá dahkat nåv gåhtjodum tjuollam abårttån, dalloj ráhpom de dagáduvvá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>12 våhkoen raajan maahta guktie gohtje kirurgijen abortem darjodh, dellie skreepemem dorje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjuollambåttå l jábmedum.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Operasjovnem dorje gosse nahkerisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dåktår tsahká instrumentav skåhtuj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dåaktere dïrregem boernesgåetien sïjse rijtie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Instrumännta l aktijbiejadum njammamrusstaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïrrege lea njammadimmiem ektiedamme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Várrogit åhke ja plasännta njamáduvvá skoados.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mojhteleslaakan jiemiem jïh olkese boernesgåeteste njammadidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oalle abårttå gihtja 20 minuvta bájken.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte medtie 20 minudth vaalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Maŋŋela ganut duostudagán moadda tijma vuojŋgadittjat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan mænngan dåastoevisnie orre måedtie tæjmoeh jïh lïegkedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Moadda vahko maŋebut muhttijn ådåsismanádibme dagáduvvá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naan våhkoeh dan mænngan muvhten aejkien åådtje bååstide båetedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>12 vahko maŋŋela ja gitta 18 vahkuj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>12 våhkoen mænngan jïh 18 våhkoen raajan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Maŋŋela 12 vahko de abårttå hähttu guovten lávken dagáduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>12 våhkoen mænngan tjuara abortem göökte daltesinie darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Duostudagán vatteduvvá vuostak dálkkasa ma la sämmi tablähtta tjerdas ma aneduvvi árra abårtån.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Voestes åådtje daalhkesh dåastoevisnie mah leah seamma såarhth tabledth mah aareh abortem nåhtadidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guovte biejve maŋŋela boahtá ruoptus duostudahkaj ja vatteduvvá ådå dálkkasa ma álgadi skoado aktijgiessemijt vaj åhke suojmma ålgus boahtá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Göökte biejjiej mænngan bååstide dåastoevasse båata jïh orre daalhkesh åådtje mah tjaskane boernesgåetiem guktie jiemiem luejhtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sjimustahttá unnepriegádahttemijn ja máhttá bávtjájdallat sämmiláhkáj gå mánáv riegádahttá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate mahte seamma goh onne baersieldimmie jïh baektjede seammalaakan goh gosse baersieldidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ájgge mij rávkaduvvá målsut, moattet tijmas gitta moatte jánndurij valla ienemusájda jánndura sinna.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Man guhkiem jeerehtse, naan tæjmoeh raejeste såemies dygnh raajan, mohte jeenjemes dygnem ryöhkoe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dav ájgen la skihpadåben sisitjáledum.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dam tïjjem skïemtjegåetesne orre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå abårttå l dagádum de dåktår skoadov åtsåt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse abortem galhkeme dåaktere boernesgåetiem goerehte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus plasentas bátsidusá li de máhttá skoados ráhpom dárbulasj årrot.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis maam akt aajmene dellie daarpesje boernesgåetiem skreepedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Moadda vahko abårtå maŋŋela máhttá muhttijn ådåsismanádit skihpadåben.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naan våhkoeh aborten mænngan åådtje såemies aejkien bååstide båetedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>18 vahko maŋŋela</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>18 våhkoen mænngan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>18 vahko maŋŋela galggá sierra oarre abårtåv dahkat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>18 våhkoen mænngan luhpiem ajve åådtje jis sjïere sjïekem gååvnese abortem darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Abårttå dagáduvvá sämmiláhkáj gå 12 vahko maŋŋela.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Abortem seammalaakan dorje goh våhkoeh 12 jïh 18 gaskem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt abårttå máksá ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Man dovres aborte ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt máksá abårtåv dahkat målsut jur gånnå rijkan årru.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maam aborte maaksa jeerehtse gusnie laantesne årroeminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Moatten sajen ij dárbaha majdek mákset jus ij la 20 jage ållim.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jïjnjh sijjine ij daarpesjh maeksedh jis nuerebe 20 jaepeste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus dárbaj mákset de máksá bájken 300 kråvnå juska vil man vuoras.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis tjuara maeksedh dellie medtie 300 kråvnah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus sihtá diehtet jur majt máksá gånnå iesj årru, de máhttá gatjádit soabmásis nuorajduostudagán jali gáhppeliddjeduostudagán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis sæjhta daejredh man jïjnjh edtja maeksedh gusnie årroeminie dellie maahta gihtjedh dah gïeh berkieh noeredåastoevisnie jallh tsegkietniedåastoevisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj aktavuodav válldet abårttåduostudagájn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aaj hijven gåarede abortedåastovem bïeljielidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hähttuji gus äjgáda jali sujttoaddne diedojt oadtjot ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjuerieh eejhtegh jallh åelieh dam daejredh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Barggijn duostudagájn la sjávovälggogisvuohta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Barkijh dåastovinie sjeavohtsvoetedïedtem utnieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Valla jus galggá abårtåv dahkat de l buorre jus soames máhttá doarjjan årrot abårtå åvddål ja maŋŋela.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mohte jis edtja abortem darjodh dellie hijven jis naaken gie maahta dåarjoem årrodh dovne aborten åvteli jïh mænngan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus la nuorra de bargge álu oajvvadi äjgáda jali ietjá sujttoaddne oadtju diehtet abårtåv la dagátjit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis noere barkijh pruvhkieh raeriestidh eejhtegh jallh jeatjah åelieh åadtjoeh daejredh edtja abortem darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus ij hejman máhte giehttot abårtåv la dagátjit de márjju máhttá giehttot iehtjádij gesi åssku.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis ij gåaredh gåetesne jiehtedh edtja abortem darjodh kaanne maahta jeatjah geervese jiehtedh maam leahtade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá årrot ållessjattuk oarbben, beraj, kuratåvrrå ja skihpasujtár skåvlån jali ietjá ulmusj gut máhttá doarjodit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte maahta årrodh geerve åerpene, maadtoeladtje, kuratovre jallh skïemtjesåjhtere skuvlesne jallh jeatjah årrodh gie maahta dåarjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus äjgádij jali ietjá sujttoaddnij aktavuodav váldeduvvá de mierreduvvá vidjurij milta ja vuododuvvá iehtjádij siegen majt iesj sihtá, vidjurijs ja man vuoras la.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis eejhtegh jallh jeatjah åelieh gaskesadta sjïekenisnie vuarjesje jïh gaskem jeatjebem dam dorje jis dam jïjtse sæjhta, mah sjïekh jïh man båeries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dadi lagábut 18 jage vuoras la dadi binnebut la äjgádin jali ietjá sujttoaddnen riektá diedojt oadtjot ietjas aktavuodaj birra sujtujn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis lïhkebe 18 jaepien båeries dellie eejhtegh jallh jeatjah åelieh unnebe reaktam utnieh daejrieh dan gaskesh hoksine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ienemusát máhttá ságastallat gåktu dahkat barggij maj gávnat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeenjemes maahta barkijigujmie mah råaka digkiedidh guktie edtja darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus äjgádij jali sujttoaddnij aktavuodav váldeduvvá de agev iesj vuostak diededuvvá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis dah eejhtegh jallh jeatjah åelieh gaskesadtedh dellie åådtje åålegh dam daejredh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus la nåvti vaj ietjas äjgáda jali sujttoaddne e åbbå oattjo diehtet jut abårtåv sihtá dahkat, dajna gå juojddá allasis máhttá sjaddat, de sujttobargge e aktavuodav sijájn válde.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis lea naemhtie eah eejhtegh jallh jeatjah åelieh edtjh daejredh sæjhta abortem darjodh, juktie dellie maam akth maahta deahpadidh, eah hoksebarkijh dejtie gaskesadth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Abårtåv dahkat ij galga tjuovvusav vaddet aktak vájves vidjurijda sjaddá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Abortem darjodh ij edtjh destie sjïdtedh vaahrese båetedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá de ienni viehkev kuratåvrås jali ietjá doarjjaulmutjis oadtjot.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta dellie viehkiem åadtjodh kuratovreste jallh jeatjah dåarjoejistie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Abårtå maŋŋela</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aborten mænngan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Buorre l vuojŋadit biejvijt abårtå maŋŋela.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Biejjieh aborten mænngan hijven lïegkedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuostasj biejvijn ja gitta vahkkuj máhttá báktjit, vargga degu läjbbombáktjasa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah voestes biejjieh jïh kaanne våhkoem baektjede, medtie goh gujnelemmievaerhkie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vahko abårtå maŋŋela álu varddá vargga degu l läjbbom jali márjju ienebuv.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Våhkoeh aborten mænngan pråvhka vertedh medtie seamma goh gujnelemmie jallh kaanne ånnetji vielie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Man guhkev varddá rievddá ulmutjis ulmutjij ja makkir abårttå.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Man guhkiem varta persovneste persovnese juaka jïh gaskem jeatjebem mestie man vuekie abortem dorjeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nåv guhkev gå varddá ij galga seksav adnet, tampuvnav adnet jali lávggot danen gå máhttá infeksjåvnåv oadtjot.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan guhkiem varta ij edtjh seksem utnedh, tampongem nåhtadidh jallh laavkodh dannasinie maahta ovledh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Läjbbom álu boahtá ruoptus nielje gitta gudá vahko maŋŋela.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Medtie njieljie govhte våhkoej mænngan pråvhka viht gujnelemmie bååstide båetedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Abårtå maŋŋela muhtema dåbddi gähppánimev gå iehtjáda håjev dåbddi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aborten mænngan naan girmes damta mohte jeatjah hujnesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj målsudit daj dåbdoj gaskan ja muhttijn esski båhti maŋebut abårtå maŋŋela.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah domtesh maehtieh tïjjen mietie molsestalledh jïh muvhten aejkien dah båetieh guhkiem aborten mænngan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Juska vil guhka ájgge l vássám de máhttá aktavuodav válldet duostudagájn ságastittjat ietjas dåbdoj birra.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jilhts guhkiem aborten mænngan maahta bïeljielidh vuesiehtimmien gaavhtan noeredåastoevasse jïh giejnie soptsestalledh guktie domtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá dav dahkat duostudagán gånnå abårttå dagáduváj jali buojkulvissan nuorajduostudagán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dam maahta darjodh dåastoevisnie gusnie abortem dorjeme jallh vuesiehtimmien gaavhtan noeredåastoevisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Muhttijn l dan duogen gå ij ietjas váseda gärggok, l ilá nuorra jali ij hiebá ietjas viessomin jur dalloj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies aejkien ij nahkesjh, tuhtjie dan noere jallh ij heavedh daelie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Márjju gejna l aktan iesselissan sjaddam ij la gejna sidá mánáv oadtjot.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kaanne dïhte gie ektesne nåajsan sjïdteme ij leah dïhte gie sæjhta maanadovvedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Juska vil oarre de l riektá abårtåv dahkat váni darbaha ietjas tjielggit ietjá ulmutjij.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reaktam åtna abortem darjodh jïh ij daarpesjh dam jeatjide goerkelidh, seamma man sjïekenisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjáledum la abårttålágan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte lea abortelaakesne tjaaleme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Riektá l aj ietjas rievddat akta goassa abårtå åvddåla.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reaktam aaj åtna jarkesidh gåessŠakt aborten åvteli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ij gávnnu áldarmierre dagátjit abårtåv.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij gååvnesh naan jaepieraastem abortem darjodh.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

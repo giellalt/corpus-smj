@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">baarjaas-2014.5576016-60861.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bårjås 2014 - Árran - julevsáme guovdásj / lulesamisk senter</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Bårjås er et populærvitenskapelig tidsskrift som utgis av Árran lulesamisk senter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bårjås 2014</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Tittelen på Bårjås 2014 er «Tradisjon og fornyelseš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bårjås 2014</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Bårjås 2014 fås kjøpt hos Árran og Th. Bredesen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hadde: kr 110.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Pris: 110 kr.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,624 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">brosjyre_h2344_lulesamisk.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Julevsábmáj | Lulesamisk</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åarjelsaemien | Sørsamisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Válgan válljip ájrrasijt suohkanstivrraj ja fylkadiggáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelteståvroe- jïh fylhkendigkieveeljeme 2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkanstivrra le suohkana alemus orgádna.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Veeljemisnie lïhtsegh tjïelteståvrose jïh fylhkendægkan veeljebe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Danna mierreduvvá bájkálasj ássjij hárráj degu mánájgárdde, mánájsuodjalibme, pládna- ja areállagatjálvisá, vuodoskåvllå, varresvuoda- ja huksodievnastusá, kulturdåjma ja renovasjåvnnå.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelteståvroe lea tjïelten bijjemes åårgane. Daesnie sjæjsjalimmieh vaaltasuvvieh voenges aamhtesinie goh maanagïerth, maanavaarjelimmie, soejkesje- jïh areaalegyhtjelassh, maadthskuvle, healsoe- jïh hoksedïenesjh, kultuvreråajvarimmieh jïh sjïekedimmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Fylkadigge le fylkasuohkana alemus orgádna.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkendigkie lea fylhkendigkien bijjemes åårgane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Fylkadigge mærrádusájt mierret duola dagu joarkkaåhpadusá hárráj, fylkarahtij ja færjjomannulagáj, bájkálasj kollektijvajåhtulagá ja kulturdåjmaj hárráj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkendigkie sjæjsjele gaskem jeatjah jåarhkeööhpehtimmien bïjre, fylhkengeajnoeh jïh dej feerjalaajroeh, voenges ektieskovhte jïh kultuvreråajvarimmieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oslon le suohkanstivrraválgga ja stádaguovlloválgga, valla ij fylkadiggeválgga.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Oslosne lea tjïelteståvroeveeljeme jïh veeljeme staarebieliemoenehtsidie, bene ij fylhkendigkieveeljeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bájkálasj ássje vájkkudahtti ienemusát duv árggabiejvev.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah voenges aamhtesh dah, mah dov aarkebiejjiem jeenjemes tsevtsieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå jienasta, de le siegen mierredime guhti duv ja duv berustimijt galggá åvdåstit suohkastivran ja fylkadikken.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse steemmedh, dle datne meatan moenh gie edtja dov sijjeste årrodh jïh dov ïedtjh vuesiehtidh tjïelteståvrosne jïh fylhkendigkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dán brosjyjran oattjo diedojt gåktu dagá gå galga jienastit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daennie tjaalegisnie datne bïevnesh åadtjodh guktie edtjh dåemiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Válggabiejvve le ragátmáno 14. biejve 2015</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Veeljemebiejjie måanta skïereden 14. b. 2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Moatten suohkanin le válgga aj ragátmáno 13. biejve.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gelline tjïeltine aaj veeljeme aejlegen skïereden 13.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkana ietja diededi jus le máhttelis jienastit avta jali guovte biejve birán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>b. Tjïelte beavna mejtie lea veeljeme akte jallh göökte biejjieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mujte duodastusáv gå jienasta !</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mujhtieh legitimasjovnem gosse datne steemmedh !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Válggaláhka gájbbet duodastusáv jienastiddjes gev e dåbdå.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Veeljemelaake kreava akte veeljije, guhte lea ovnohkens steemmedåastoejasse, edtja jïjtjemse legitimeradidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Duodastus máhttá liehket pássa, vuodjemkårttå jali báŋŋkakårttå aktajn gåvåjn, valla ietjá duodastus aj dåhkki.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Legitimasjovne maahta vuesiehtimmien gaavhtan årrodh paasse, vuejemeleahpa jallh baanghkekåarhte guvvine, men maahtah aaj jeatjah såarhts legitimasjovnem nåhtadidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Duodastusán galggá gávnnut jienastiddje namma, riegádimbiejvve ja gåvvå.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Legitimasjovne tjuara veeljijen nommem, reakedsbiejjiem jïh guvviem utnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus le institusjåvnåjn årromin duola dagu skihppijsijdan, skihppijvieson jali giddagisán, máhtá institusjåvnå barggev oadtjot identitiehtat duodastittjat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis datne aktene institusjovnesne årroeh, goh skïemtjegåetie jallh faangkegåetie, maahtah aktem barkijem birredh dov identiteetem jååhkesjidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Divna jienastiddje oadtju jienastimkårtåv</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh veeljijh veeljemekåarhtem åadtjoeh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jienastimkårtå åvddåbielen gávna diedojt gånnå ja goassa jienastit máhtá válggabiejve.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Veeljemekåarhten åvtesæjrosne bïevnesh gaavnh gusnie jïh gåessie datne maahtah steemmadidh veeljemebiejjien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jienastimkårtåv galla i dárbaha gå jienasta, valla diedoj hárráj le dat ávkálasj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ih veeljemekåarhtem daarpesjh gosse edtjh steemmadidh, men dellie verkebe jåhta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jienastimkårttå ij dåhkkiduvá duodastussan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij gåaredh veeljemekåarhtem legitimasjovnine nåhtadidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guhti máhttá jienastit ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gie maahta steemmadidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Vuona stáhtaviesáda gudi li ållim 18 jage 2015 jage birán ja gudi li, jali li</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Nöörjen staatenårrojh mah 18 jaepieh illeme eannan 2015 nåhkeme jïh leah,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>læhkám tjáledum årron Vuonan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>jallh vïhtesjamme orreme goh årroje Nöörjesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Nuorttarijkaj stáhtaviesáda gudi li ållim18 jage 2015 jage birán, ja gudi li</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Staatenårrojh jeatjah noerhtelaantine mah 18 jaepieh illeme eannan 2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>læhkám tjáledum årron Vuonan maŋemusát biehtsemáno 30. biejve rájes jagen 2015.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>nåhkeme, jïh mah leah vïhtesjamme orreme goh årroje Nöörjesne, minngemes biejjien ruffien 30. b. 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Ietjá ålggorijkak stáhtaviesáda gudi li ållim 18 jage 2015 jage birán, ja gudi</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Jeatjah ålkoelaanten staatenårrojh mah 18 jaepieh illeme eannan 2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>li læhkám tjáledum årron avtatrajes Vuonarijkan gålmmå maŋemus jage åvddåla válggabiejve.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>nåhkeme, jïh mah leah vïhtesjamme orreme goh årroje Nöörjesne iktemearan dej golme minngemes jaepiej, veeljemebiejjien åvtelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• 20 suohkanijn máhtti sij gudi li ållim 16 jage 2015 jage birán jienastit</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Dejnie 20 tjïeltine maehtieh dah mah 16 jaepieh illeme eannan 2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>suohkastivrraválgan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>nåhkeme steemmadidh tjïelteståvroeveeljemisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sij vierttiji duodastuvvat årron daj gájbbádusáj milta ma li nammaduvvam bajebun.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah tjuerieh orremetsiehkide, mah dan bijjelen neebneme, dievhtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Goassa ja gånnå máhtá jienastit ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie jïh gusnie maahtah steemmadidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Válggabiejve jienasta suohkanin gånnå le tjáledum årron biehtsemáno 30. biejve 2015.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Veeljemebiejjien tjoerh steemmadidh dennie tjïeltesne gusnie datne leah vïhtesjamme årroejinie ruffien 30. b. 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ietjat suohkanin máhtá jienastit makkir válggahuodnanin sidá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne maahtah steemmadidh saaht mennie steemmemegåetesne tjïeltesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Árabut jienastit máhtá snjilltjamáno 1. biejve rájes gitta ragátmáno 12. biejve rádjáj makkir suohkanin sidá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åvtelhbodti steemmadidh maahtah darjodh snjaltjen 1. b. raejeste skïereden 11. b. raajan, saaht mennie tjïeltesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gehtja tjuorggasav maŋep bielen mij vuoset gåktu ietjat sijddasuohkanin jienasta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuartesjh illustrasjovnide båetije sæjrosne mah vuesiehtieh guktie dov hïejmetjïeltesne steemmedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus ietjat suohkana ålggolin jienasta, de sjaddá jienstimvuohke unnin ietjá láhkáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis datne dov jïjtse tjïelten ålkolen steemmedh, dellie ånnetji jeatjhlaakan sjædta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dån oattjo jienastimlistav gånnå li dåhkkiduvvam politihkalasj belludagáj namá, valla ælla kandidáhtaj namá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aktem steemmeleahpam åadtjoeh gusnie dah tjaalasovveme politihkeles krirriej nommh, bielelen kandidaati nommh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dån viertti ruossav biedjat jali tjálestit makkir belludagáv / juohkusav sidá jienastit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie tjoerh kroessem bïejedh jallh tjaeledh man krærran / dåahkan datne sïjhth steemmadidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtá aj iesj åttjudit jienastimlistav ietjat suohkanis ja adnet dav jus sidá duoddejienav kandidáhtajda vaddet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne maahtah aaj jïjtje steemmeleahpam dov tjïelteste skååffedh jïh dam nåhtadidh jis sïjhth persovnesteemmh kandidaatide vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sæmmi aj jus jienasta fylka ålggolin fylkadiggeválgan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Seammalaakan aaj, jis datne dov fylhken ålkolen steemmedh fylhkendigkieveeljemisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus ietjat suohkana ålggolin jienasta, de viertti válggadåjmadiddje jienastimlistav stiempeldit åvddål jienastimlisstakonvoluhttaj bieja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis dov jïjtse tjïelten ålkolen steemmedh, tjuara veeljemebarkije steemmeleahpide steempeldidh åvtelen datne dejtie steemmeleahpaskuahpese bïejedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dáv konvoluhtav ja válggakårtåv biedji ålgusjkonvoluhta sisi, ja de válggalihttaj luojtti.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dam skuahpam jïh veeljemekåarhtem akten stuerebe skuahpan sïjse beaja, mij dan mænngan veeljemegeegken sïjse bïejesåvva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jienastibme rájaduvvá de duv sijddasuohkanij.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dov steemme seedtesåvva dov hïejmetjïelten gåajkoe ryöknemasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus le skibás jali sáhtus, de máhtá suohkanis åhtsåt vaj besa sijdan árabut jienastit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis skïemtjije jallh svïhtjemeheaptoes, maahtah tjïeltem ohtsedh mejtie åadtjoeh gåetesne åvtelhbodti steemmadidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkan diedet åhtsåmájgev.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelte ohtsememieriem beavna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkan diedet goassa ja gånnå jienastit máhtá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelte beavna gåessie jïh gusnie datne maahtah steemmadidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bårggemáno rájes máhtá aj válggahuodnahat mobiltelefåvnå baktu åhtsåt:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mïetsken raejeste maahtah aaj dov veeljemesijjiem mobijletelefovnesne gaavnedh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåktu jienasta ietjat sijddasuohkanin ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie dov hïejmetjïeltesne steemmedh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>1) Válde jienastimlistav mav ájgo adnet: avtat suohkanstivrraválggaj ja avtav fylkadiggeválggaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1) Vaeltieh dah steemmeleahpah datne sïjhth nåhtadidh: aktem tjïelteståvroeveeljemasse jïh aktem fylhkendigkieveeljemasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2) Dagá rievddadimijt jienastimlistan jus sidá (gehtja bagádusáv maŋep bielen).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2) Jis sïjhth jarkelidh dle dam steemmeleahpine darjoeh (vuartesjh bïhkedimmiem mubpene bielesne).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>3) Máhtsasta jienastimlistajt belludaknamájn sisi ja bielev gåggu stiempelt ålgus - de ij aktak vuojne majt jienasta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>3) Mårhtjoeh fïereguhte steemmeleahpam krirrienommine sisbielesne, jïh steempelesijjiem ålkoebieliesne – dellie ij guhte maehtieh vuejnedh maam datne steemmadih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ij galga adnet konvoluhtav jalik makkirak ietjá ålgutjav jienastimlistaj birra.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ih edtjh prievieskuhpam jallh jeatjah skuahpam steemmeleahpaj bïjre utnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>4) Maná válggadåjmadiddje lusi ja stiempeldahte jienastimlistajt ålgolt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>4) Vaedtsieh akten veeljemebarkijasse jïh åadtjoeh aktem steempelem steemmeleahpan ålkoebielesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Goappátja jienastimlista vierttiji stiempelduvvat vaj dåhkkiduvvi !</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåabpegh steemmeleahpah tjuerieh steempelem utnedh jis dah edtjieh jååhkesjamme sjïdtedh !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>5) Bieja dajt stiempeldum jienastimlistajt jienastimlihttáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>5) Bïejh dejtie steempeldamme steemmeleahpide veeljemegeegken sïjse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåktu jienastimlistav rievddada ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie jarkelimmieh steemmeleahpesne darjoeh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus sidá vájkkudahttet guhtimuttja kandidáhtajs válljiduvvi, de viertti duoddejienav kandidáhtajda vaddet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis datne sïjhth meatan årrodh tsevtsedh mah kandidaath mah veeljesuvvieh, tjoerh persovnesteemmem dejtie kandidaatide vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ietjat duogen le jus sidá jienastimlistav rievddadit duoddejienaj baktu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne dïhte mij tjuara moenedh mejtie sæjhta steemmeleahpam jarkelidh, jïh persovnesteemmem vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ale balá rievddadimes.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aellieh bïllh jarkelimmieh darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåktu dagá vuojná jienastimlistan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie edtjh darjodh steemmeleahpesne tjåådtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jienastibme ij hilgoduvá vájku boasstot dagá !</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dov steemme ij hiejhtesovvh jalhts datne båajhtode darjoeh !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dán láhkáj vattá duoddejienav:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie persovnesteemmem vadtah:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkanstivrraválgan: 1) Bieja ruossav ruktuj dan kandidáhta namá guorraj gev jienasta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelteståvroeveeljemisnie: 1) Bïejh kroessem ruvtesne nommen lïhke dejtie kandidaatide mejtie sïjhth steemmadidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtá vaddet duoddejienav man moaddásijda sidá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne maahtah persovnesteemmem vedtedh dan gellie kandidaatide datne sïjhth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2) Tjále kandidáhtaj namájt ietjá belludagájs / juohkusijs sierra sadjáj jienastimlistan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2) Tjaelieh kandidaatenommem jeatjah krirrijste / dåehkijste aktene jïjtse sijjesne steemmeleahpesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jienastimlistan tjuodtju gallásav máhtá tjállet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Man gellie kandidaatenommh datne maahtah tjaeledh, steemmeleahpesne tjåådtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus vattá duoddejienav muhtem kandidáhttaj ietjá belludagájs / juohkusijs, de muhtem oasse duv jienastimes sirdeduvvá dan belludahkaj / juohkusij.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vueptesth jis datne persovnesteemmem kandidaatide vadtah jeatjah krirrijste / dåehkijste, dle akte bielie dov steemmeste dan jeatjah krærran / dåahkan sertiesåvva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Fylkadiggeválgan:Bieja ruossav ruktuj dan kandidáhta namá guorraj gev jienasta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkendigkieveeljemisnie: Bïejh aktem kroessem dan nommen lïhke dejtie kandidaatide mejtie datne sïjhth steemmadidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtá vaddet duoddejienav man moaddásijda sidá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne maahtah persovnesteemmem vedtedh dan gellie kandidaatide datne sïjhth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guhti válljiduvvá ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gïeh veeljesuvvieh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuostak mierret válggastivrra gallásav juohkka belludahka jali juogos oadtju suohkanstivrraj jali fylkadiggáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Voestegh veeljemeståvroe gaavnehte man gellie tjirkijh dah ovmessie krirrieh jallh dåehkieh åadtjoeh tjïelteståvrosne jallh fylhkendigkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dan maŋŋela låhkå válggastivrra jienajt ja gávnat gudi válljiduvvi duot dát belludagás jali juohkusis.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan mænngan veeljemeståvroe persovnesteemmide ryöknoe juktie gaavnehtidh mah kandidaath mah veeljesuvvieh fïerhtede krirreste jallh dåehkeste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ienep diedojt gávna jus gehtja www.valg.no</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne vielie bïevnesh gaavnh daesnie www.valg.no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Almoduvvam jagen 2015 Suohkan- ja ådåstuhhtemdepartementas Publikasjåvnnå le jårggåluvvam aj ådådárogiellaj, sámegiellaj ja lågev vieresgielajda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bæjhkoehtamme 2015 Tjïelte- jïh orrestimmiedepartementeste Tjaalege aaj daaroen, orredaaroen jïh luhkie ammesgïeline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus dárbaha ienep diedojt válga birra, de gehtja www.valg.no</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vielie bïevnesh veeljemen bïjre, vuartesjh www.valg.no</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

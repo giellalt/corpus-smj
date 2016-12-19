@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">index.php_id-5143063_showtipform-1_cat-97962_gb-.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tysfjord kommune: Divtasvuona bájkálasj nammadus sijdda- ja berajhiståvrån: - Tips en venn</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Tysfjord kommune: Tysfjords lokalnemnd for gårds- og slektshistorie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Divtasvuona bájkálasj nammadus sijdda- ja berajhiståvrån:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Tysfjords lokalnemnd for gårds- og slektshistorie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjuovvovasj persåvnå li Divtasvuona bájkálasj nammadusán sijdda- ja berajhiståvrån:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Følgende personer sitter i Tysfjords lokalnemnd for gårds- og slektshistorie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ingar Nikolaisen Kuoljok, Njunnjusj</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Ingar Nikolaisen Kuoljok, leder</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

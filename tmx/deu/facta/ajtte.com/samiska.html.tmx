@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">samiska.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>(Lulesamiska)</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>Kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ájtte Jåhkåmåhke – sáme guovdásj Jåhkåmåhkke, nuortalattjan Nuorttagievle, diehttelis tjåhkanimsadje márnánbále ja tjåhkanimbále.</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>Ájtte in Jokkmokk – ein samisches Zentrum Jokkmokk, gleich nördlich des Polarkreises, ist ein natürlicher Treffpunkt für Jahrmarkt und Fest, für Freunde aus nah und fern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ájtte, duottar- ja sámemusea, la degu uksan várijda, Laponiaj ja sámi kultuvrraj.</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>Hier gibt es Ájtte, das Schwedische Fjäll- und Samemuseum, ein Tor zur Bergwelt, zu Laponia und zu der samischen Kultur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dánna giehttop Sámeednama ja ulmutjij birra, giehttop viessoma ja bierggima birra dakkár ednamdajvan mij ienebuv ulmutjis rávkká. Dát la giehtto jiekkijn, vuomijn ja várijn.</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>Hier erzählen wir von Sápmi, dem Land der Samen und seinem Volk, eine Geschichte von Leben und Überleben in einer rauhen Landschaft aus Mooren, Wäldern und Fjäll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Älojt lip tjuovudam, räjnodam ja dålvudam varás guohtomijda. Laponia – väráltárbbe, 9 400 km 2 stuor dajvva Norrbottena várijn ja vuomijn, la dålutjis bivddárijs ja ällobarggijs åroduvvam.</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>Laponia – Erbe der Welt in Lappland – erstreckt sich über ein 9400 km 2 großes Gebiet in den Bergen und Wäldern Norrbottens und ist seit jeher Heimat der nomadisierenden Jäger und Rentierzüchter gewesen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dánna åvdutjis lidjin vihtta nationalpárka ja moadda suoddjidum ednamdajva.</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>Hier gab es schon lange fünf Nationalparks und mehrere Naturreservate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dajna gå 1996 dagáduváj väráltárbben Unescos, de dálla l luonndo- ja kultuvrra-árbben gájkajda almatjijda.</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>Durch die Aufnahme in die Liste der UNESCO über das Erbe der Welt wurde Laponia 1996 Natur- und Kulturerbe für die ganze Menschheit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Laponiavuosádusán diedojt vaddep ja gåvvistip väráltárbev.</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>In der Ausstellung wollen wir Ihnen einen Einblick in unser Erbe der Welt geben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suodje. Sváltja ja ruvddagábde. Sámij silba gasskaájge hámij.</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>Ausstellungen Trachten und Silber: Alltags- und Festkleidung aus Leder und Tuch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Goabdesájgge.</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>Das samische Silber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Religijåvnnå ja dábe. Ådåårroviessom.</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>Die Zeit der Trommeln: Religion und Mythen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ädno. Tjáhtjgierragijs merraj. Äno birás åvdebut ja dálla.</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>Siedlerleben: Leben einer Siedlerfamilie Anfang des 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Laponia – mijá ednama.</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>Jahrhunderts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Luonndo- ja kultuvrraárbbegájkajda almatjijda.</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>Alltagsleben: Nomadenleben und Selbstversorgung mit Rentierzu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ájtte – sámij oajvvedávvervuorkká, sierra dávvervuorkká várijda, diedimguovdásj turissmaj.</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>Ájtte – Hauptmuseum für samische Kultur, Spezialmuseum für die Fjällregion, Informationszentrum für Bergtourismus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åtsådibme, diehtotjoaggem, diehtojuohkem.</seg>
+      </tuv>
+      <tuv xml:lang="deu">
+        <seg>Forschung, Dokumentation und Vermittlung.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

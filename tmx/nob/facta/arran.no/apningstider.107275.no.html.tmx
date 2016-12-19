@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">apningstider.107275.no.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Viessom: Sáme sijdda ja merrasáme kultuvrra</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Viessom: Den samiske gården og sjøsamisk kultur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Samisk iesjdåbddo ja kultuvrra</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Samisk identitet og kultur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme bivtasdábe, silba ja goabdes</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Samisk drakttradisjon, sølv og runebommeVuosádusá:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Álbedim / studenta: 50 kr</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Honnør / student: Kr 50,00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máná vuollela 6 jage: navku</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Barn under 6 år: gratis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máná 6-18 jagága: 25 kr</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Barn 6-18 år: Kr 25,00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Juohkusa ienep10 ulmutja: 50 krTickets:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Senior / student: 50 nok</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

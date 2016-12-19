@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">vardgaranti.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Julevusámegiella / Lulesamiska</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åarjelsaemiengiele / Sydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>SujttogarantiddjaVårdgaranti</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ÅarjelsaemiengieleSydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sujtto sierra ájge sinna</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Hokse sjïere tïjjemieresne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sujtto sierra ájge sinna</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Hokse sjïere tïjjemieresne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sujttogarantiddja mij la fámon ålles rijkan</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Hoksegarantije abpe laantesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sujttogarantiddja merkaj galggá sujtov sierra ájge sinna oadtjot.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Hoksegarantije dïhte sæjhta jiehtedh edtja hoksem åadtjodh sjïere tïjjemieresne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Le láhkabiejadum oasse varresvuohta-ja skihpasujttolágan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte lea laaken mietie bielie healsoe- jïh skïemtjehokselaakeste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sujttogarantiddja diedet makkir ájggemierijn galggá sujtov lánndadikkes jali dajvas fáladuvvat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Hoksegarantije jeahta mennie tïjjemierine edtja hoksem faalesovvedh laantedigkeste jallh regijovneste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sujttolgarantiddja ij stivrri jus sujtov jali makkir sujtov galggá oadtjot.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte ij regleradh jis hoksem edtja vadtasovvedh jallh mij hokside edtja åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sujttogarantiddja diedet man mälggadav ienemusát galggá dárbahit vuorddet desik sujtov oadtju.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Hoksegarantije jeahta man guhkiem tjuara guhkemes vuertedh åvteli hoksem åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sierra ájggemiere li umasslágásj sujttotjerdajda, buojkulvissan 7 biejve iejvvitjit dåktåråv varresvuohtaguovdátjin jali 90 biejve manádimev dagátjit, jali dálkudimev oadtjot spesialiseridum sujton.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gååvnese ovmessie tïjjemierieh ovmessie hokside, vuesiehtimmien gaavhtan 7 biejjieh juktie åådtje dåakteren gåajkoe båetedh hoksejarngesne jallh 90 biejjieh dïsse mïnnedh, alternatijvele båehtjierdimmiem åadtjodh sjïere hoksesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus ij la máhttelis sujtov oadtjot ájggemierij sinna sujttoåssudagán gåsi l åhtsåm, de fáladuvvá manádimev jali dálkudimev ietjá sujttoåssudagán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis ij gåaredh hoksem åadtjodh dej tïjjemieriej sisnie dennie hokseektievoetesne maam ohtsedamme, faalesåvva mïnnemem jallh båehtjierdimmie jeatjah hokseektievoetesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Muhttijn máhttá sujtov fáladuvvat ietjá lánndadikke sujttoåssudagán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhtene maahta faaledh hokseektievoetese jeatjah laantedigkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Agev la iesjmiedogis guorrasit jali ij fáladussaj mij javllá sujtov ruvábut oadtju ietjá sujttoåssudagán gå gånnå l åhtsåm.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta eejnegen veeljedh jis sæjhta jiehtedh jaavoe jallh ijje faalemasse varkebe hoksen bïjre jeatjah hokseektievoetesne enn gosse ohtsedamme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sujttogarantiddja ij guoska hähkka sujttuj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij hoksegarantije tsevtsieh akute hoksem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus hähkkat skihppá jali vahágahteduvvá de galggá sujtov oadtjott nåv ruvva máhttelis.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis akute skeamtja jallh arhkene edtja hoksem åadtjodh dan varki man gåerede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sujttogarantidja milta l rievtesvuohta:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Hoksegarantijen mietie reaktam åtna:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>0 – Aktavuohtaj primerrasujtujn sämmi biejve.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>0 – Primærhoksine gaskesadta seamma biejjien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sämmi biejve gå viehkev åhtså de galggá aktavuodav oadtjot primerrasujtujn, buojkulvissan varresvuohtaguovdátjijn jali skihpasujttorádevaddemijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Seamma biejjien goh viehkiem ohtsede edtja åadtjodh primærehoksine gaskesadtedh, vuesiehtimmien gaavhtan hoksejarngine jallh skïemtjehokseraeriestimmine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá telefåvnå jali manádime baktu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte maahta telefovnine jallh mïnneminie årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>7 – Dåktårmanádibmáj primerrasujton gietjan biejven.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>7 – Dåakteremïnneme primærehoksesne tjïjhtje biejjiej raejesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus sujttobargge árvustalli ulmusj dárbaj dåktårav iejvvit de galggá ájgev oadtjot ienemusát gietjan biejven, buojkulvissan varresvuohtaguovdátjin jali fuolkkedåktåra lunna.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis hoksebarkijh vuarjasjieh dåakterem daarpesje mïnnedh edtja tïjjem åadtjodh jeenjemes tjïjhtje biejjiej raejesne, vuesiehtimmien gaavhtan hoksejarngesne jallh fuelhkiedåakteren luvnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>90 – Manádibmáj spesialiseridum sujton 90 biejve sinna.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>90 – mïnneme sjïere hoksesne 90 biejjiej raejesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus remissav oadtju spesialiseridum sujttuj de galggá ájgev oadtjott 90 biejve sinna.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis remissem åådtje sjïere hoksese edtja tïjjem mïnnemasse 90 biejjiej raejesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Fámon la aj jus la sujtov åhtsåm váni remissa dagi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte aaj luhpie jis hoksem ohtsedamme remissehts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>90 – Dálkudibmáj 90 biejve sinna.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>90 – Båehtjierdimmie aalka 90 biejjiej raejesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dálkudim märrádusá maŋŋela, buojkulvissan tjuollamij, galggá oadtjot 90 biejve sinna.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis båehtjierdimmiem sjæjsjali, vuesiehtimmien gaavhtan operasjovne edtja tïjjem åadtjodh 90 raejesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Goassa sujttogarantiddja ij la fámon ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie ij hoksegarantijen tsevtsieh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sujttogarantiddja ij guoska</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Hoksegarantije ij tsevtsieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ruoptomanádibmáj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>bååstidemïnneme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>medisijnak dievnastussaj, buojkulvissan laboratåvrrå- ja gåvvååtsådime</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>jis medisijneles sjïekiej åvteste byöroe guhkebe vuertedh goh garantijen tïjjemieriemedisijneles dïenesje, vuesiehtimmien gaavhtan laboratovrije- jïh röntgenegoerehtimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>guoradallamijda ja åtsådimijda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>salkehtimmieh jïh goerehtimmieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>viehkkenävvodoalvodibijda, tjuoldas la gulldalimbierggasa gähttjalibme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>viehkievierhtiefassehtimmie, mohte ij gosse govlemeapparaath pryövh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>jus ij guorrasa sujttofálluj ietjá sujttoåssudagán (jus maŋebut iehtjádav mierret de máhttá guorrasit fáladussaj).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>jis ijje jeehti faalemasse hoksen bïjre jeatjah hokseektievoetesne (jis dan mænngan saangerde maahta faalemasse jååhkesjidh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuorddemájge sujton</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuertemetïjjh hoksesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gávnnu rijkalasj vebbabielle gånnå máhttá tjuovvot sujtogarantiddjav ja vuorddemájgijt, Vantetider.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gååvnese nasjovnelle webbesijjiem gusnie hoksegarantijem jïh vuertemetïjjide vaaksjodh, Vantetider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>se.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>se.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vebbabielen gávnná gájkka lánndadikkij ja dajvaj vuorddemájgijt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Webbesijjesne vuesehte vuertemetïjjh gaajhkine laantedigkine jïh regijovnine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sujtto ietjá sajen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Hokse jeatjah sijjesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus fáladuvvá manádimev jali dálkudimev, mij ij la máhttelis oadtjot sujttogarantiddja ájggemiere sinna, de galggá sujtov ietjá sujttoåssudagán fáladuvvat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis faala mïnnemem jallh båehtjierdimmiem, mij ij maehtieh hoksegarantijen tïjjemieresne vedtedh, edtja faalemem jeatjah hokseektievoetesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá årrot varresvuohtaguovdátjin, skihpadåben jali vissa priváhtta duostudagájn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte maahta hoksejarngesne, skïemtjegåetesne jallh privaaten dåastoevisnie årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá iesj åvddånbuktet sávaldagáv gåsi sihtá boahtet, valla jus sujttogarantiddja galggá fámon årrot de ij máhte friddja válljit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta jïjtje vaajtelidh gåabph sæjhta, mohte jis hoksegarantije edtja dååjredh, ij maehtieh frijjes veeljedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus ij sidá sujtov ietjá sajen gå manna la åhtsåm de máhttá luohpat sujttogarantiddja fáladusás.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis ij sïjhth hoksem åadtjodh jeatjah sijjesne enn gusnie ohtsedamme maahta hoksegarantijen faalemasse nyöjhkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá merkahit guhkep ájgev hähttu vuorddet Jus maŋebut gáhtá de agev máhttá ietjas sujttovaddijn aktavuodav válldet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Destie maahta sjïdtedh tjuara guhkebe vuertedh. Jis dan mænngan saangerde maahta eejnegen jïjtse hoksevedtiejasse bievnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sujttogarantiddja de fábmuj boahtá dát biejves.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Hoksegarantije dehtie daatojste aalka juhtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dåjmadiddje:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjaelije: Pia Landgren, Healsoe- jïh skïemtjehoksestratege, Regijovne Skåne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ingemar Karlsson Gadea, 1177 Vårdguiden</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Redaktööre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gähttje: Täksta l gehtjadum Sveriga kommuvnaj ja lánndadikkij, SKL</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtæjja: Tekste lea goerehtamme Sveerjen tjïelti jïh laantedigkiej ektesne, SKL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gájkka sisadno l aj bargadum, gehtjadum ja dåhkkidum redaksjåvnås ja redaksjåvnnårádes 1177 Vårdguiden.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhke sisvege lea aaj gïehtjedamme, goerehtamme jïh dåhkasjahteme redaksjovneste jïh redaksjovneraereste 1177 Vårdguiden.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

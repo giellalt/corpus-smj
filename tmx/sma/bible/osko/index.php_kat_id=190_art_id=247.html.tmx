@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">index.php_kat_id=190_art_id=247.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpav: Dållå</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lïerh: Dålle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>1.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>E dujna galga ietjá jubmela gå mån.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aellieh jeatjah jupmelh mov sæjjan biejh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Galggap jubmelbalulattjan suv iehttset, sunji gájkin ienemusát dårvustit ja åsskot.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mijjieh edtjebe Jupmelem gaajhki bijjelen earoehtidh jïh iehtsedh, jïh dam jaehkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuostasj budá javllá gávnnu dåssju akta Jubmel ja sån le gájkaj áhttje.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Voestes båvra soptseste ajve akte Jupmele gååvnese, jïh dïhte aehtjine gaajhkesidie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Álu Jubmelav ” vajálduhttep ”, ja ietjá diŋgajt jali almatjijt guddnedip gå ilá ållo ájgev, fámojt ja rudájt dakkárijda gållådip.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mijjieh daamtaj Jupmelem ” åajaldibie ”, jïh jeatjah aath jallh almetjh iehtsebe gosse fer guhkiem, jïh fer jïjnje gaarkh jïh beetnegh dagkarinie nuhtjebe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gávna gåktu máhtá Jubmelij ietjat gieresvuodav vuosedit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaavnehth guktie datne maahtah Jupmelem dov gieriesvoetem vuesiehtidh.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

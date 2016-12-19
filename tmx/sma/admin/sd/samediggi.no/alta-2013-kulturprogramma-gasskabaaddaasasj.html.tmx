@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">alta-2013-kulturprogramma-gasskabaaddaasasj.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Áltá 2013 kulturprográmma (gasskabåddåsasj) / Áltá 2013 / Rijkajgasskasasj barggo / Sámedigge - Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Áltá 2013 kultuvreprogramme (annjebodts) / Áltá 2013 / Gaskenasjovnaale barkoe / Saemiedigkie - Sametinget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kulturprográmma biejves bæjvváj Áltá 2013.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kultuvreprogramme biejjeste beajjan Áltá 2013.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>20:00 Vuosstájválldem *20:00 Rabás konferánsapub " Studenthuset " 21:30 Filmmaprográmma: Native Shorts 1</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aejlegen, ruffien 9. b. 20:00 Dåastome 20:00 Konferansepube gaajhkesidie - «Studenthusetš 21:30 Filmeprogramme: Native Shorts 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mánnodagá biehtsemáno 10. biejve</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Måantan, ruffien 10. b. 12:00 Tåarjeåesiestimmie 15:00 Kåanstevuasahtallemh Finnmarhkehaallesne 20:00 Konferansepube gaajhkesidie –«Studenthusetš 20:30 Teatere: Beaivváš Sámi Nasjonalteahter: Ridnoaivi ja nieguid oaidni 21:30 Filmeprogramme: Native Shorts 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dijstagá biehtsemáno 11. biejve</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dæjstan, ruffien 11. b. 12:00 Tåarjeåesiestimmie 15:00 Kåanstevuasahtallemh Finnmarhkehaallesne 18:30 Noeri scene Altan jarngesne 20:00 Konferansepube gaajhkesidie –«Studenthusetš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>12:00 Márnán 15:00 Dájddavuosádusá Finnmárkkohállan 20:00 Rabás konferánsapub " Studenthuset " 20:00 Loahppakonsærtta Nive Nielsenijn ja Mari Boinejn</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaskevåhkoen, ruffien 12. b. 12:00 Tåarjeåesiestimmie 15:00 Kåanstevuasahtallemh Finnmarhkehaallesne 20:00 Konferansepube gaajhkesidie – «Studenthusetš 20:00 Galhkuvekonserte – Nive Nielsen jïh Mari Boine</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

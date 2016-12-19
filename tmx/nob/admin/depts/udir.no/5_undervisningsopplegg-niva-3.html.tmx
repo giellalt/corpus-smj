@@ -1,0 +1,776 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">5_undervisningsopplegg-niva-3.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadimgárvvidus: 3. dásse</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hovedinnhold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dánna åhpadiddje gávnná buojkulvisájt gåktu máhttá barggat máhtudakmihtoj 3. dásen.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Her finner læreren eksempler på hvordan han eller hun kan arbeide med kompetansemål på nivå 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dánna vuoseduvvá gåktu máhtudakmihto vuojnnuj båhti åhpadusmihttomierijn, sisanon ja barggamvuogijn, gåktu vuodotjehpudagá åvtåsduhteduvvi ja gåktu åhpadus máhttá hiebaduvvat juohkka åvta oahppáj.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Her vises hvordan kompetansemål konkretiseres i læringsmål, innhold og arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan undervisningen kan tilpasses enkelteleven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Árvustallam bargadahttijn ja gielladomena li oase gárvvidusán.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Vurdering underveis og språkdomener er en del av opplegget.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åvddåmáhto Oahppe juo máhtti moallánagájt sámegiellaj bæjválasj biebmoj birra ja máhtti ságastallamijda daj birra oassálasstet.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Forkunnskaper Elevene kan allerede begrep om vanlig hverdagsmat på samisk og kan delta i samtaler om hverdagsmat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtudakmihto</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Kompetansemål</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Njálmálasj guládallam</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Muntlig kommunikasjon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadusá mihttomierre le oahppe galggá máhttet</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Mål for opplæringen er at eleven skal kunne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>oassálasstet ságastallamijda bæjválasj ássjijn</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>delta i samtaler om dagligdagse situasjoner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadusá mihttomierre le oahppe galggá máhttet</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Mål for opplæringen er at eleven skal kunne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>adnet biebbmo-, biebbmoábnnasij- ja biebbmodahkama moallánagájt ja ságastit sáme biebmoj birra</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>bruke begrep om mat, råvarer og matlaging og samtale om samisk mat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadimgárvvidus ij álu gåbtjå ålles máhtudakmihtov.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Undervisningsopplegget dekker ikke alltid hele kompetansemål.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtudakmihto vuojnnuj båhti åhpadusmihttomierijn.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Kompetansemålene er konkretisert i læringsmål.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadusmihttomiere le akta lávkke gåktu máhtudakmihtojt jåksåt.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Læringsmålene er et steg mot oppnåelsen av kompetansemålene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadusmihttomiere</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Vis alle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe galggi oassálasstet ságastallamijda bæjválasj dilij birra ietjasa iellemin, duola degu goahtedivrij, ávkkedivrij, biebmoj, biebbmoábnnasij, biebbmodahkamij ja sámebiebmoj birra.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Elevene skal kunne delta i samtaler om dagligdagse situasjoner i sin egen hverdag, for eksempel om kjæledyr, nyttedyr, mat, råvarer, matlaging og samisk mat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe galggi de máhttet:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Elevene skal altså kunne:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dádjadit ja adnet moallánagájt sámegiellaj goahtedivrij ja ávkkedivrij birra ja adnet sidjij moattelágásj sámenamammadusájt</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>forstå og bruke samiske betegnelser på kjæledyr og nyttedyr og bruke ulike samiske navn på dem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>subtsastit, lávllot, juojggat ja / jali ságastit ietjas ja iehtjádij goahtedivrij ja ávkkedivrij birra</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>fortelle, synge, joike og / eller samtale om egne og andres kjæledyr og nyttedyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ságastit duon dán biebbmoábnnasij birra, degu dal biergoj, guolij ja muorjij, ja muhtem sáme biebmoj birra ja gåktu dajt riejddit.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>samtale om ulike råvarer, som for eksempel kjøtt, fisk og bær, og om noen samiske matretter og hvordan de lages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ságastit gåktu biebbmoábnnasa li árbbedábálattjat aneduvvam ja gåktu dajt ådå láhkáj adnet.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>samtale om hvordan råvarene har vært brukt tradisjonelt og eventuell om ny bruk av råvarene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadiddje vierddi åhpadusmihttomierijt duola degu vahkkopládnaj jali gávddapládnaj tjállet ja diededit oahppijt ja sijdav ájge bále viehka åvddåla gå gárvvidus álggá.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Læreren bør skrive læringsmålene for eksempel i ukeplanen eller periodeplanen og informere elevene og hjemmet om disse i god tid før opplegget starter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Divna sierralágásj åhpadusmihttomierre vierttiji tjielgga bihkusit, ja oahppe galggi máhttet dajt adnet ietjasa iesjárvustallamijn.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>De ulike læringsmålene må komme klart fram, og elevene må kunne bruke dem i egenvurderingen sin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Praktihkalasj dahkamusá Gå la ålggobiejvve de máhtti oahppe válldet ietjasa goahtedivrijt fáron jali fámiljav / rádnajt aktan goahtedivrij dakkir bæjvváj gåhttjot.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Praktiske gjøremål Elevene kan ta med seg kjæledyrene sine i forbindelse med en utedag eller invitere familie / venner med kjæledyr til en slik dag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe dahki guokta bájkálasj bårråmusá.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Elevene lager to lokale matretter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Lájbbot duola degu sáme hællogáhkojt, muorjjit jali guolijs jali biergojs biebmov riejddit.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Bak for eksempel samiske hellebrød, plukk bær eller bruk fisk eller kjøtt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus la máhttelis de máhtti oahppe ádjájt ja áhkojt gåhttjot ja / jali ietjá vuorasulmutjijt tjadádimen oassálasstet.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Om mulig kan elevene invitere besteforeldre og / eller andre eldre med på gjennomføringa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dibde oahppijt tjielggit gåktu málesti ja biebmov málestahttijn árvustallat.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>La elevene beskrive matlagingen og vurdere maten underveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Buojkulvisá ienep oahppamdåjmajda</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Eksempler på andre læringsaktiviteter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe låkkav ietjas ja iehtjádij goahtedivrij birra tjálli ja subtsasti sábmáj nubbe nubbáj majt li tjállám.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Elevene skriver logg om egne eller andres kjæledyr og forteller hverandre på samisk om det de har skrevet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dahkit spellamkårtåjt goahtedivrijs gåvåj ja nammadusáj.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Lag spillekort med bilde og navn på kjæledyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kårtå máhtti lamineriduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Kortene kan lamineres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Spella máhttá liehket gåvvå- ja nammalotto.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Eksempel på spill kan være bilde- og navnelotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj nav årrot juhti sån gut buktá jiednadit duola degu gáhtto, bena jali hæssta, oadtju kårtåv.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Alternativt kan poenget være at den som kan uttale for eksempel katt, hund eller hest, får beholde kortet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe gut oadtju ienemus kårtåjt spelav vuojttá.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Den eleven som får flest kort, vinner spillet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dahkit sáme bårråmusáv skåvlån, duola degu Sámij álmmukbiejven.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Lag samisk etegilde på skolen, for eksempel på Samefolkets dag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát ietjá klássaj, åhpadiddjij ja skåvllånjunnjusij, æjgádij ja sáme biebbmotjiehppij aktisasjbargov rávkká.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Dette krever samarbeid med andre klasser, lærere og ledelsen på skolen og med foreldre og samiske mateksperter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe máhtti gæhttjalit duola degu goahtedivrij ja ávkkedivrij moallánagájt ja nammadusájt mujttet.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Elevene kan prøve å huske betegnelser og navn på for eksempel kjæledyr og nyttedyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dahkit sjiemáv majt oahppe sijdan aktan æjgádij ja ietjá berrahij dievddi.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Lag gjerne et skjema som elevene kan fylle ut hjemme i samarbeid med foreldre og andre slektninger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåhtjo oahppijt sjiemáv strategalasj saddjáj sijdan gatsostit ja aj kopiav sjiemas skåvlåj gatsostit.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Be elevene om å henge opp skjemaet på en strategisk plass hjemme. Heng opp en kopi av skjemaet på skolen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dibde oahppijt nubbe nuppev sjiemá sisanov gulástallat, degu ” bena-ådåk ”.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>La elevene ” høre ” hverandre om innholdet i skjemaet, f.eks. ” beana-vielppis- Čebo- Cugo ”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Árvustallam</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Vurdering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe máhtti låkkav tjállet iesjárvustallen, jali åhpadiddjijn guládallat vaj iehtjáda e oattjo låhkåt árvustallamav.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Elevene kan skrive logg som egenvurdering eller til å kommunisere med læreren uten at noen andre får lese vurderingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát máhttá vuostasjgiellaj tjáleduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Dette kan skrives på førstespråket.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>1. Buojkulvis Loagga</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Eksempel 1 Logg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjielggi bargov</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Beskriv arbeidet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt buktiv ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hva fikk jeg til ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij la gássjel ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hva var vanskelig ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åvddånbuktiv gus ietjá láhkáj ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Brukte jeg andre måter å uttrykke meg på ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåktu máhtáv ietjá bále dahkat ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hvordan kan jeg gjøre det neste gang ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ulmme boahtte tebmáj ….</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Mål for neste tema er:...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2. Buojkulvis Oahppe mierkkji dajt åhpadusmihttomierijt majt bukti.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Eksempel 2 Elevene krysser av for de læringsmålene de mestrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dáv hæhttuv oahppat vaj åhpadusmihttomierijt jåvsåv</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Dette må jeg lære for å nå læringsmålene:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Biejvve</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Dato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dáv máhtáv buoragit Biejvve:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Jeg kan dette godt: Dato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bágo ja moallánagá ma li ávkálasj máhttet gå ságastav dáj birra</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>ord og uttrykk som er nyttige å kunne når jeg snakker om:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>goahtedivrij ja ávkkedivrij</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>kjæledyr og nyttedyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sáme biebmoj ja moattelágásj biebbmoábnnasij</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>samiske matretter og ulike råvarer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sieradus goahtedivrij ja ávkkedivrij gasskan</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>forskjell på kjæledyr og nyttedyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åvddånbuktet diedojt</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>formidle kunnskap om:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>biebmoj ja biebbmoábnnasij birra</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>kjæledyr og nyttedyr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ietjá láhkáj åvddånbuktet ietjam</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>bruke andre måter å utrykke meg på:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>adnet rubmahav ja giedajt</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>bruke kropp og hender</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>gávnnat ietjá bágojt</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>finne andre ord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>aktidit bágov ietjá bágoj</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>kombinere et ord med et annet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ietjájduhttet dárogielbágojt</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>gjøre om norske ord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>rievddadit ietjam</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>stille spørsmål om noe er uklart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>gatjádit jus juoga ij la tjielgas</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>rette meg selv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bisodit ságastallamav</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>holde en samtale i gang:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ságastit ja ij dárbahit åhtsåt bágojt</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>uttrykke meg uten å måtte lete etter ord for ofte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>adnet ålles ja dádjadahtte gárgadisájt</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>bruke hele og forståelige setninger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>loapptet ságastallamav</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>avslutte en samtale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hiebadum åhpadus</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Tilpasset opplæring</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij guosská málestibmáj ja lájbbomij de máhttá oahppij iesjrádálasjvuohta dåjmajn duon dán dásen varierit.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Når det gjelder matlaging og baking, kan selvstendighetsgraden for elevenes aktiviteter i forhold til de ulike alderstrinnene variere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttelis le barggat aktan ietjá fágaj, duola degu luonndofágajn ja biebbmo-ja varresvuohtafágajn.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Det er mulig å samarbeide med fag som Naturfag og Mat og helse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Valla dæddo le gåktu oahppe sámasti.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Men fokus skal være på hvordan elevene bruker språket.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuodotjehpudagá</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Grunnleggende ferdigheter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttet tjálálattjat ja njálmálattjat åvddånbuktet: Oahppe máhtti tjállet bágojt ja moallánagájt goahtedivrij, ávkkedivrij, sáme biebmoj ja biebbmoábnnasij birra.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Å kunne uttrykke seg skriftlig og muntlig: Elevene kan skrive ord og uttrykk for kjæledyr, nyttedyr og samisk mat og råvarer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå oahppe barggi biebmoj praktihkalattjat de máhtti sij maŋenagi tjielggit majt barggi sihke nubbe nubbáj ja åhpadiddjáj.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Når elevene jobber med matlaginga i praksis, kan de fortelle hva de gjør etter hvert, både til hverandre og til læreren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtti tjielggit gåktu biebbmo vuojnnu, májsstá ja hapsijt</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>De kan beskrive matens utseende, smak og lukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttet låhkåt: Oahppe galggi máhttet bágojt ja moallánagájt ja ålles gárgadisájt låhkåt bargo birra gå sijájn li goahtedivre ja ávkkedivre ja gå biebmojt dahki / riejddiji.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Å kunne lese: Elevene skal kunne lese ord og uttrykk og hele setninger om hva man gjør når man har kjæledyr og nyttedyr og når man lager mat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttet riekknit: Dibde oahppijt riekknit majt máksá goahtedivrev adnet.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Å kunne regne: La elevene regne ut hva det koster å ha et kjæledyr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sij máhtti budsjehtav biebbmoriejddimis skåvlån dahkat, ja dav majt fámillja gållåt váhkon</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>De kan lage et budsjett for matlaginga på skolen og det som en familie forbruker til mat på en uke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttet digitála ræjdojt adnet: Dibde oahppijt adnet internehtav ja åhtsåt sámemoallánagájt divrij ja biebmoj birra.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Å kunne bruke digitale verktøy: La elevene bruke internett og lete opp de samiske begrepene på dyr og mat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gehtja Gávnos, Sámedikke sijddabielle, giella.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Se Gávnos, Sametingenes hjemmesider, giella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>org ja risten.no.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>org og risten.no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuoseda tækstabuojkulvisájt ja dibde oahppijt åhtsåt ja dåbddåt divrij- ja biebbmomoallánagájt tevstan.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Bruk teksteksempler, og la elevene lete opp og kjenne igjen dyre- og matbetegnelser i teksten med søketasten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gielladomena</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Språkdomener</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme biebbmodahkama hárráj máhttá doajmma iesj liehket gielladomednan.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Når det gjelder samisk matlaging, kan selve aktiviteten være et språkdomene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå oahppe riejddiji sámebiebmojt de luluj sámástit.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Når elevene lager samisk mat, skal de helst snakke samisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hamery &amp;Cartwright: Muv vuostasj 1000 bágo, Samisk utdanningsråd 1998</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Sámi biebmu – Samisk mat, oppskrifter, ulike kilder, eksempelvis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Lilian Urheim: Giella Miella bokstávgirjje 1995</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Kaspersen, Ardis. 1997. ” Samisk mat og kultur ”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Lisa helander: Muv gåvvåbáhkogirjje 1997 Inga Laila Hætta: Mån Måj Mij, Idut 2003</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Oslo: Landbruksforlaget.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nan Persen: Lájbe, Idut 2005 Synnøve Løge ja Geirulv Ulland, Slåppå, Idut</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Lulesamiske matoppskriftsbøker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nan Persen: Ehpalgáhkko, Idut 2010</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Sørsamiske matoppskriftsbøker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Demensforeningen i Tysfjord: Sáme biebbmo vuorrasijda Báhko 2008</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>/ Anne Jannok Eira / Anne Marit G. Eira 2008:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">index.php_kat_id=191_art_id=248.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpav: Dållå</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lïerh: Dålle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>I galga Jubmela namáv dåssjen adnet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aellieh Jupmelen nommem deajese luejhtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Galggap jubmelbalulattjan suv iehttset, vaj ep suv namán baháv sávada, garroda, dijdastalá, gielesta jalik bæhttala, ájnat gájkka niedan suv råhkådalá tjuorvvop, gijttep ja hievedip.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mijjieh edtjebe Jupmelem vaetiestidh jïh iehtsedh, ollebe dan nommem nåhtedh gærrodh jïh bïeredh, slognestidh jïh treekeldidh, bene Jupmelem gåhtjodh neavrosne, rohkelibie, heevehtibie jïh gijhtebe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Juohkkahattjan le namma.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkesh nommem utnieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij Jubmela namáv adnep gå Sujna ságastallap råhkålahttijn, Mæsson ja gå Sunji lávllop.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mijjieh Jupmelen nommem nuhtjebe gosse Dejnie soptsestibie rohkelassesne, gyrhkesjimmesne jïh gosse Disse laavlobe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Valla ilá ålos – nuora ja ållessjattuga aj – Jubmela namáv adni gå li suhttam juosik.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bene fer jïjnjh almetjh- dovne noerh jïh geervh – Jupmelen nommem nuhtjieh gosse haarmese sjïdtieh naakenidie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå garroda de bærggalav tjuorvo.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse gærroeh, dle bahhese tjåarvoeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Le gus dán birra usjudallam ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan bïjre ussjedamme ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gávna ietjá moallánagáv majt máhtá adnet jus hæhttu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaavnehth aktem jeatjah dïejvesem maam maahtah nåhtadidh jis tjoerh.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

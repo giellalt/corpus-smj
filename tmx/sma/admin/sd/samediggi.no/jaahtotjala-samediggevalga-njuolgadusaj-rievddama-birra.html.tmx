@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">jaahtotjala-samediggevalga-njuolgadusaj-rievddama-birra.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jåhtotjála Sámediggeválga njuolgadusáj rievddama birra / Belludagá / Válggabarggoguojme / Kampanjeside / Válgga ja jienastuslåhkuj / Sámedigge - Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjaalaldahke jarkelimmien bïjre mieriedimmesne veeljemen bïrje Saemiedægkan / Krirrieh / Veeljemebarkijh / Kampanjeside / Veeljeme jïh veeljemelåhkoe / Saemiedigkie - Sametinget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jåhtotjála Sámediggeválga njuolgadusáj rievddama birra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjaalaldahke jarkelimmien bïjre mieriedimmesne veeljemen bïrje Saemiedægkan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jåhtotjála Sámediggeválga njuolgadusáj rievddama birra – Diedo jienastiddjijda gudi dåssju bessi åvddågiehtaj sámediggeválgajda jienastit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjaalaldahke jarkelimmien bïjre mieriedimmesne veeljemen bïrje Saemiedægkan – Bïeljelimmie veeljijidie mah ajve maehtieh åvtelhbodti steemmadidh saemiedigkieveeljemasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ådåstuhttem-, háldadim- ja girkkodepartemennta le mierredam ådå nuppát lahtasav § 39 a njuolgadusán javllamáno 19. biejve 2008 nr. 1480 Sámediggeválga birra.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Orrestehteme-, reereme- jïh gærhkoedepartemeente lea orre mubpiem lïhtsem vihtiestamme § 39 a mieriedimmesne goeven 19. b. nr. 1480, veeljemen bïjre Saemiedægkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Rievddam almoduváj ja jåhtuj biejaduváj javllamáno 19. biejve 2012.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jarkelimmie bæjhkoehtamme sjïdti jïh faamoem åadtjoeji goeven 19. b. 2012.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

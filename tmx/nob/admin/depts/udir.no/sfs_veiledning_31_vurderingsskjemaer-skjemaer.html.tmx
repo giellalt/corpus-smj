@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">sfs_veiledning_31_vurderingsskjemaer-skjemaer.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ságájdahttemsjiebmá</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hovedinnhold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ságájdalle:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Intervjuer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ságájdahttemobjækta:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Intervjuobjekt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Æjvvalimsadje:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Møtested:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gatjálvis:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Spørsmål:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>(Ane gatjádallambágojt – gut, mij, gånnå, gåktu, nav vaj besa bágojs le ja ij la vásstádussajn.)</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>(Bruk spørreordene - hvem, hva, hvor, hvordan... slik at du unngår ja og nei som svar.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vásstádus:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Spørsmål:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vásstádus:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Spørsmål:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,784 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">patientavgifter.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Julevusámegiella / Lulesamiska</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åarjelsaemiengiele / Sydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>JulevusámegiellaLulesamiska</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ÅarjelsaemiengieleSydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt máksá ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maam åådtje maeksedh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>(ca.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(ca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>3 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mávsodis varresvuohta- ja skihpasujtto (ca.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Healsoe- jïh skïemtjehokse mij åesehts (ca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt máksá ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maam åådtje maeksedh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>(ca.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(ca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>3 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mávsodis varresvuohta- ja skihpasujtto (ca.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Healsoe- jïh skïemtjehokse mij åesehts (ca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt máksá ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maam åådtje maeksedh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt máksá ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maam åådtje maeksedh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máksá ienemus dåktårmanádimijs</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeenemes dåakteremïnnemen åvteste maaksa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Varresvuohta- ja skihpasujtto Svierigin biednigahteduvvá ienemusát lánndadigge-ja komuvnnavärojs.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Healsoe- jïh skïemtjehoksem Sveerjesne maaksa stööremes bieliem laantedigkie- jïh tjïelteskaehtijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mávsov majt máksá buojkulvissan dåktårmanádimen la val oasásj majt ajtu máksá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maaksovem maam maaksa gosse dåakterem mïnnedh barre bieliem åeseste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ij la fámon ålles priváhtta sujton, buojkulvissan plásstakirurgiddjan mij ij la medisijnalattjat vuododum.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Numhtie ij leah privaate hoksesne, vuesiehtimmien gaavhtan plastikkirurgije, mij ij leah medisijneles skreejrehtamme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Iesj de máksá ålles gålov.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie ellies maaksovem jïjtje maaksa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Umasse mávso umasse lánndadikkijn ja komuvnajn</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ovmessie maaksovh ovmessie laantedigkine jïh tjïeltine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Lánndadikke ja komuvna máhtti gájkkásattjat ietja mierredit makkir mávsojt galggá mákset dåktårmanádimijn ja ietjá dievnastusájn sujton.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Laantedigkieh jïh tjïelth maehtieh jïjtje nænnoestieh mah maaksovh edtja maeksedh gosse dåakteren luvnie jallh jeatjah dïenesji åvteste hoksesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gájkkásattjat li mávso åbbå sämmilágátja lánndadikkijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah leah mahte seamma ovmessie laantedigkine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus edna sujtov dárbaj de gávnnu allamáksosuodje, mij buojkoduvvá ienebut boahtte låhkusin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis daarpesje jïjnjh hoksem bijjiemaaksoevaarjelimmiem gååvnese, mejnie lïhkebe buerkeste båetije kapihtelisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Varresvuohta- ja skihpasujtto l mávsodis vargga gájkka lánndadikkijn ja dajvajn jus ij la 20 jage dävddám.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Healsoe- jïh skïemtjehokse åesehts mahte gaajhkine laantedigkine jïh regijovnine jis nuerebe 20 jaepien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Merustaládum mávso vuollelin li fámon almulasj sujton ja priváhtta sujttovaddijn majn la såbadus lánndadikkijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dennie nuelesne medtielaakan maaksovh lea dan byjjes hoksesne jïh privaate hoksevedtiejinie mah latjkoem laantedigkiem utnieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå l sisitjáledum skihpadåhpåj de máksá jándurmávsov mij lága milta l ienemusát 100 kråvnå.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse skïemtjegåetesne maaksa dygnemaaksovem mij laaken mietie jollemes 100 kråvnah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå manát dåktåra lunna varresvuohtaguovdátjin de mákso målsut 100 ja 300 kråvna gaskan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse dåakteren luvnie hoksejarngesne maaksovh 100 jïh 300 kråvnah gaskem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Manádimen gynekologa lunna ja mánádåktåra lunna de mákso målsut 200 ja 350 kråvnå gaskan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gynekologen jïh maanadåakteren luvnie maaksovh 200 jïh 350 kråvnah gaskem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus dájn dåktårmanádimijn oadtju remissav röntgenåtsådibmáj ja dakkirijda de ij álu dárbaha ienep mávsov mákset.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis dennie dåaktereguessine remissem åådtje röntgenegoerehtæmman jallh seammalaakan goerehtimmide dellie ij daarpesjh jienebe maeksedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Manádimen ietjá dåktårspesialistaj lunna de mákso målsut 150 ja 350 kråvnå gaskan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse jeatjah dåakterespesialisti luvnie maaksa 150 jïh 350 kråvnah gaskem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Manádibme hähkkaduostudagán skihpadåben máksá 220-380 kråvnå.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis akutedåastoevassem skïemtjegåetesne mænna dellie 220 – 380 kråvnah maaksa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Manádibme skihpasujtára lunna ja skihpagymnásta lunna de mákso l 50-220 kråvnå manádibmáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis skïemtjesåjhterem jïh skïemtjegymnastem mænna maaksa gaskem 20 – 220 kråvnah fïerhten aejkien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dahkat mammografidjav gávnatjit árra njidtjebårredávdav ja gynekologalasj sällaåtsådimev skoahtotjåddågin, máksá 200 kr..</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mammografije juktie aareh njammacancerem aajhtsa jïh seammalaakan cellepryövoegoerehtimmie boernegåetientjeahpohkistie, guktie gohtje gynekologen healsoevaaksjome, medtie 200 kråvnah maaksa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Muhtem lánndadikke válldi mávsov dålvudagájs ambulánsajn jali helikopterijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies laantedigkie maaksovem vaalta jis skïemtjebïjline jallh ruevtiehaepkine fealadidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Muhtem lánndadikke máksi ruoptus manádimmávsov jus la hähttum vuorddet muhtem ájgev duodden mierredum ájggáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naan laantedigkijste maaksovem bååstide maaksa jis tjuara vuertedh guhkiem latjkeme tïjjen mænngan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus ij ruoptodiŋgo ájgev mij ij hieba jali ij boade diŋgodum ájggáj de l huoman välggogis mákset manádimmávsov.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis ij jiehtieh ij tïjje sjïehth jallh ij båetieh tæjmose maam latjkeme maahta læjhkan maaksovem maeksedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ietjá sujttovaddijn máhtti ietjá mávso</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeatjah hoksevedtijh maahta jeatjah maaksoeh utnedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gänna l ållu priváhtta jali ietjas barggovadde baktu skihpasujttoduodastus márjju li ållu ietjá vidjura makkir mávsojt galggá mákset.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte gie privaate jallh dan barkoevedtijen tjïrrh skïemtjehoksetjirkemem åtna maahta jeatjah njoelkedassh utnedh mah maaksovh edtja maeksedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Komuvna varresvuohta- ja skihpasujton, mij la fámon vuorrasappojda guhkaájggásasj skibádahkaj, gávnnuji umasse mávso sujttuj mij skihpasujtárijs vatteduvvi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelten healsoe- jïh skïemtjehoksesne, voeresidie guhkiem skiemtjieh, ovmessie maaksovh hoksen åvtese gååvnesieh mah skïemtjesåjhteristie åådtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Svieriga Komuvna ja Lánndadikke vebbabielen gávnnuji adressa komuvnajda, lánndadikkijda ja dajvajda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sveerjen Tjïelth jïh Laantedigkieh webbesæjrosne adressh gååvnesieh tjïeltide, laantedigkide jïh regijovnide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vebbabielijn la ájggeguovddelis ja dárkkelis diededibme sijá mávsoj birra.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Desnie bïevnesh dej maaksovigujmie gaavna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mávso ålggorijkak viesájdiddjijda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maaksovh ålkoerïjhken otnegidie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ålggorijkak viesájdiddjijn la rievtesvuohta hähkkasujttuj Svierigin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ålkoerïjhken otnegh reaktam utnedh akute hoksese Sveerjesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus ietjá EU-rijkas boahtá, EES-rijkas jali Svejtsas de galggá europa skihpaduodastuskårttå, EU-kårttå, vuosedittjat rievtesvuohta l hähkka sujttuj ieme patiänntamáksuj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Båata jeatjah EU-laanteste, EES-laanteste jallh Schweiz:ste edtja europeijen skïemtjetjirkemekåarhte utnedh, mij vuesehte reaktam åtna akute hoksese jïh daamhtaj skïemtjijemaaksovem maaksa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus ij la dakkir de l máhttelis sjaddá ålles sujttomávsov mákset.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis ij kåarhtem utnieh kaanne tjuara ellies hoksemaaksovem maeksedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus sujtov gis sidá mij ij la hähkka ja ij sidá mákset ienep gå patiänntamávsov de galggá duodastus mij vuoset häjmmarijkka sujtov máksá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis sæjhta hoksem mij ij akute jïh ij sïjhth jienebe enn skïemtjijemaaksovem maeksedh edtja tjirkemem utnedh mij vuesehte hïejmelaante hoksem maaksa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus ij dav ane de iesj máksá ålles mávsov sujtos.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis ij dam utnieh ellies maaksovem jïjtje maaksa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ienemusá gudi båhti ietjá rijkajs EU., EES. Ja Svejtsa ålggolis hähttuji ietja mákset ålles sujttomávsov ja vájku hähkka sujtto.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jïenesh mah laantijste EU:en, EES:en jïh Schweizen ålkolen åadtjoeh ellies maaksovem jïjtje maeksedh dovne jis akute hokse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus svieriga viesájdiddjen skihppá ålggorijkan</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis sveerjen otnege ålkoelaantesne skeamtja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Europa skihpaduodastuskårttå, mij rávviduvvá Oadjodåjmadagás, svierik viesájdiddjijda vaddá rievtesvuodav hähkka sujttuj ietjá EU-, EES-rijkajn ja Svejtsan sämmi ekonomalasj vidjurijda ma li fámon rijka ietjas viesájdiddjijda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte europeijen skïemtjetjirkemekåarhte, maam maahta Försäkringskassan luvhtie dongkedh sveerjen otnegidie reaktam vadta akute skïemtjehoksese jeatjah EU-, EES-laantine jïh Schweizesne seamma ekonomijeles tsiehkine mah laanten jïjtse otnegh utnieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nuorttarijkajn ij dárbaha kårtåv vuosedit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dennie noerhten laantine ij daarpesjh kåarhtem vuesiehtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus dárbaj sujtov EU., EES-rijkaj ja Svejtsa ålggolin de ienemus rijkajn ij oattjo ietjas gålojt mávsedum, juogu de Svierigis jali dat rijkas gånnå jur dalloj la.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis hoksem daarpesje EU:en, EES-laanti jïh Schweizen ålkolen ij maehtieh jeenjemes laantine goerpemaaksovh åadtjodh, ij gænnahSveerjeste jallh dehtie laanteste gusnie orre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Danen la ájnas adnet priváhtta mannoduodastusáv mij gåbttjå gålojt buojkulvissan dålvudibmáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte lea dan gaavhtan vihkeles privaate feelemetjirkemem utnedh mij maaksovh dåårje vuesiehtimmien gaavhtan feeleme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus la häjmmaduodastus de danna álu l mannosuodje mij gåbttjå muhtem gålojt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis gåetietjirkemem åtna dan sisnie daamhtaj pråvhka feelemevaarjelimmiem årrodh mij bieliem maaksovistie dåårje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oadjodåjmadagá vebbabielen la vil diededibme gåk sujtov oadtjot ålggorijkan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Försäkringskassan webbesijjesne vielie bïevnesh hoksen bïjre gosse ålkoelaantesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Allamáksosuodje</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bijjiemaaksoevaarjelimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Allamáksosuodje</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bijjiemaaksoevaarjelimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Friddjakårttå gå l jåvsådam alemus märráj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Frijjekåarhtem åådtje gosse rehpiem jaksa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mierre gávnnu man ednagav hähttu mákset varresvuohta- ja skihpasujtos.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Rehpie gååvnese man jïjnjh daarpesje healsoe- jïh skïemtjehoksen åvteste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåhtjudallá allamáksosuodjen ja l hábbmidum sämmiláhkáj gájkka lánndadikkijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dam gohtje bijjiemaaksoevaarjelimmie jïh lea seammalaakan gaajhkine laantedigkine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Fámon la aj jus sujtov åhtså ietjá lánndadikken jali dajvan gå gånnå årru.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte aaj seamma jis hoksem jeatjah laantedigkesne jallh regijovnesne ohtsede enn gusnie årroeminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Allamáksosuodje merkaj 12 mano ájgen aktisattjat máksá ienemusát 1 100 kr patiänttamákson.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bijjiemaaksoevaarjelimmie lea gosse boelhkem, 12 aski mïeresne ektine bijjemes 1 100 kråvnah maaksa skïemtjijemaaksovine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Riekknigoahtá vuostasj manádimen, juska vil goassa jagen manát.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Voestes mïnnemistie aalka ryöknedh, seamma goss-akt jaepesne dam dorjesåvva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå l máksám 1 100 kråvnå de oadtju friddjakårtåv mij la fámon lågenanguovtemánoájge bátsidusán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie 1 100 kråvnah maakseme frijjekåarhtem åådtje maam luhkiegöökte aski-boelhken jåhta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå lågenanguokta máno li gållåm de vat máksegoahtá ietjas manádimis desik la jåvsådam 1 100 kråvnnåj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse luhkiegöökte askh vaaseme aalka viht maeksedh guesiehtimmiej åvtese goske viht 1 100 kråvnah jaksa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Allamáksosuodje ij álu gåbtjå</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bijjiemaaksoevaarjelimmesne daamhtaj ij dah lea meatan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>mávsojt majt máksá bäjvváj gå l sisitjáledum skihpadåhpåj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>dah maaksovh mejtie fïerhten biejjien maaksa gosse skïemtjegåetesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>duodastusá ja varresvuohtaåtsådimijt</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>tjirkemh jïh healsoegoerehtimmieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ietjá hieredim sujtov, buojkulvissan mammografiddjakontrållåv</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>jeatjah åvtelhbodti hokse, vuesiehtimmien gaavhtan mammografijevaaksjome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>gålov gáhtom manádibmáj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>maaksove jis ij båetieh dongkeme tæjmose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>gålov journála moattádussaj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>maaksove kopijen åvteste journaleste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dievnastusmávsov, mij váldeduvvá jus máksá kredijtajn jus faktuvrra häjmmaj rájaduvvá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ekspedisjovnemaaksove, maam vaalta gosse kreditine maaksa jallh åådtje fakturam gåatan seedteme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bádnesujton ij la álu fámon skihpasujto allamáksosuodje.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij baeniehoksem daamhtaj meatan skïemtjehoksen bijjiemaaksoevaarjelimmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Allamáksosuodje gis máhttá fámon årrot badnesujttuj jus la stuorra ja guhkaájggásasj dárbbo persåvnålasj sujtos bäjválasj viessomin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mohte baeniehoksem meatan bijjiemaaksoevaarjelimmesne gosse jis åtna stoerre jïh guhkiem daarpoem persovneles hoksese biejjieladtje jieliemisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Allamáksosuodje máhttá aj fámon årrot jus la skibádahka manna bádnesujtto l medisijnalasj dálkudime oassen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bijjiemaaksoevaarjelimmesne maahta aaj jis skïemtjelassem åtna gusnie baeniehokse bieliem medisijneles båehtjierdimmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus la skibádahka mij buktá lasedum vádáv bádnevahágijda jali jus la vájvve ietjas njálmmerájnasvuodav sujttit de máhttá aj oadtjot bádnesujtov skihpasujttomáksuj mij la allamáksosuojen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis skïemtjelassem åtna man mietie stuerebe vaahra baenieskaarah sjidtieh jallh jis dåeriesmoerem åtna njaelmiehygijenem sujhtedh maahta aaj baeniehoksem åadtjodh skïemtjehoksemaaksoven åasa mij bijjiemaaksoevaarjelimmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dálkkasijda ma li tjáledum dåktåris, skihpasujtárijs, jali ietjá dåhkkidum bargges sujton de gávnnu allamáksosuodje mij merkaj dárbaj mákset ienemusát 2 200 kråvnå lågenanguovtemánoájggáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daalhkesh mah dåaktere, skïemtjesåjhtere jallh jeatjah barkijh hoksesne lea olkese tjaaleme gååvnese bijjiemaaksoevaarjelimmie maam bijjemes 2 200 kråvnah fïerhten luhkiegöökteaskeboelhkem maaksa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dálkastjáladis dálkkasa e gullu dán allamáksosuodjáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daalhkesh reseptem bielelen ij leah dan bijjiemaaksoevaarjelimmien sisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Duodden gávnnu allamáksosuodje skihpamanojda ja teknijkalasj viehkkenävojda ma mierreduvvi lánndadikkijs.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aaj gååvnese bijjiemaaksoevaarjelimmie skïemtjefeelemi jïh teknihken viehkievearhtaj åvteste maam laantedigkieh sjæjsjalieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Merkaj njuolgadusá máhtti målsudit lánndadikkij gaskan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie kaanne dah njoelkedassh ovmessie laantedigki gaskem jeerehtse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mávsodis varresvuohta- ja skihpasujtto</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Healsoe- jïh skïemtjehokse mij åesehts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mávsodis varresvuohta- ja skihpasujtto</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Healsoe- jïh skïemtjehokse mij åesehts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Muhtem varresvuohta- ja skihpasujtto máhttá årrot ållu mávsodis muhtem lánndadikkijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naan healsoe- jïh skïemtjehoksh maehtieh åesehts årrodh naan laantedigkine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dálkkasij åvdås ma tjáleduvvi dájn sujttomanádimijn gis iesj máksá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daalhkesh mah olkese tjaala dennie hoksemïnnemisnie åådtje dej gaavhtan maeksedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Manádime iednesujtto- mánásujttoduostudagájn (MVC ja BVC) li mávsodis ålles rijkan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mïnnemh ietniehokse- jïh maanahoksedåastoevisnie (MVC jïh BVC) åesehts ellies laantesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Skåvllåvarresvuohtasujton ij mávse avtak manádimmávsov ja gabnnjadálkudime ma fáladuvvi danna li mávsodis.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Skuvlehealsoehoksesne ij naan mïnnememaaksovem maeksieh jïh dah vaksinasjovnh mah desnie faala leah åesehts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ienemus lánndadikkijn máná ja nuora 20-jahkebäjvváj e avtak mávsov rabás varrresvuohta- ja skihpasujton mávse, buojkulvissan manádimen varresvuohtaguovdátjin ja nuorajduostudagán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeenemes laantedigkine eah maanah jïh noerh 20-jaepiebiejjien raajan maeksieh naan maaksoven rïhpes healsoe- jïh skïemtjehoksesne, vuesiehtimmien gaavhtan mïnnemem hoksejarngesne jïh noeredåastoevisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sujtto ja dálkkasa majt dárbaj gå dálkuduvvá nåv gåhtjodum almulasjvádálasj dávddaj oadtju Soahpomsuodjelága milta mávsodis.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Hokse jïh daalhkesh mah daarpesje gosse båehtjerde guktie gohtje sïejhmevaarege skïemtjelassem Suetievaarjelimmielaaken mietie dïhte lea åesehts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt máksá ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maam åådtje maeksedh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>(ca.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(ca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>3 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>4 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mávsodis varresvuohta- ja skihpasujtto (ca.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bijjiemaaksoevaarjelimmie (ca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dåjmadiddje:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ingemar Karlsson Gadea, 1177 Vårdguiden</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Redaktööre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gähttje: Hasse Knutsson, giehtadalle, åssudahka sujttuj ja huksuj, Sveriga komuvna ja lánndadikke, Stockholm</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtæjja: Hasse Knutsson, gïetedæjja, goevtese hokse jïh sååjhtoe, Sveerjen tjïelth jïh Laantedigkieh, Stuehkie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gájkka sisadno l aj giehtadaládum, gehtjadum ja dåhkkidum redaksjåvnås ja redaksjåvnnårádes 1177 Vårdguiden.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh sisvegh leah aaj gïetedamme, goerehtamme jïh dåhkasjahteme redaksjovneste jïh redaksjovneraereste 1177 Vårdguiden.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

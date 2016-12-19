@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">index.php_id-5132873_showtipform-1_cat-102575_gb-.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tysfjord kommune: Idjadimmáhttelisvuoda Divtasvuona - Tips en venn</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Tysfjord kommune: Overnattingsmuligheter i Tysfjord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Idjadimmáhttelisvuoda Divtasvuona</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Overnattingsmuligheter i Tysfjord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dánna gávna lagábuv diedov makkir idjadimmáhttelisvuoda Divtasvuonan gávnnuji.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Her finner du nærmere informasjon om hva Tysfjord har å by på av overnattingmuligheter.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

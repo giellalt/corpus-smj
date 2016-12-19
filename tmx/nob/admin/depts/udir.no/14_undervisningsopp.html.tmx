@@ -1,0 +1,840 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">14_undervisningsopp.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadimgárvvidus: 10. dásse</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hovedinnhold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dánna åhpadiddje gávnná buojkulvisájt gåktu máhttá barggat máhtudakmihtoj 10. dásen.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Her finner læreren eksempler på hvordan han eller hun kan arbeide med kompetansemål på nivå 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dánna vuoseduvvá gåktu máhtudakmihto vuojnnusij båhti åhpadusmihttomierijn, sisanon ja barggamvuogijn, gåktu vuodotjehpudagá åvtåsduhteduvvi ja gåktu åhpadus máhttá hiebaduvvat juohkka åvta oahppáj.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Her vises hvordan kompetansemål konkretiseres i læringsmål, innhold og arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan undervisningen kan tilpasses enkelteleven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Árvustallam bargadahttijn ja gielladomena li gárvvidusán oase.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Vurdering underveis og språkdomener er en del av opplegget.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát åhpadimgárvvidus vuoset gåktu barggat stuorra báhkoboanndudagáv åhtjudit ja gåktu moattelágásj njálmálasj rållajn dajt adnet.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Dette undervisningsopplegget tar for seg hvordan elevene kan arbeide med å skaffe seg et bredt ordforråd og hvordan de anvender dette i ulike muntlige roller.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtudakmihto</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Kompetansemål</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Njálmálasj guládallam</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Muntlig kommunikasjon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadusá mihttomierre le oahppe galggá máhttet</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Mål for opplæringen er at eleven skal kunne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>buktet bágoj valljudagáv ja máhttet ságastallat dan milta mij le vuordedahtte ja gájbbedahtte</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>beherske et bredt ordforråd og uttrykke seg muntlig på en nyansert og situasjonstilpasset måte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadusá mihttomierre le oahppe galggá máhttet</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Mål for opplæringen er at eleven skal kunne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>tjielggit dárkkelit gåktu giela ja kultuvra Sámen dejvadi ja gilposti, ja gåktu ietjas giella ja kultuvrra åvddån ja rievddá buohta ietjá gielaj ja kultuvraj</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>forklare hvordan språk og kulturer i dagens Sápmi / Sábme / Saepmie møtes og brytes, og hvordan eget språk og kultur utvikles og endres i samspill med andre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadimgárvvidus ij álu gåbtjå ålles máhtudakmihtov.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Undervisningsopplegget dekker ikke alltid hele kompetansemål.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtudakmihto vuojnnuj båhti åhpadusmihttomierijn.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Kompetansemålene er konkretisert i læringsmål.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadusmihttomiere le lávkke gåktu máhtudakmihtojt jåksåt.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Læringsmålene er et steg mot oppnåelsen av kompetansemålene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ietjá hiebalgis máhtudakmihto</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Vis alle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadusmihttomiere</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Læreplan i norsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe galggá máhttet:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Språk og kultur Mål for opplæringen er at eleven skal kunne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sámástit stuorra báhkoboanndudagájn</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>samtale om utviklingen av samisk språk og kultur i lys av norsk språk- og fornorskingspolitikk (VGIII)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>tjielggit guovtegielalasjvuodav ja giellaåvddånimev, árvustallambuojkulvisájt ja njálmálasj máhtudahkav</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>forklare flerspråklighet og gi eksempler på hvordan språklig og kulturell samhandling kan bidra til språklige endringer og kulturell bevissthet (VGI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>árvustallambuojkulvisá, njálmálasj máhtudagá</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Her vises det noen generelle læringsmål, og i læringsaktiviteten vises det mer konkrete eksempler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadusmihttomiere</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>uttrykke seg situasjonstilpasset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dáv máhtáv vehi:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>nyansere språket sitt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dáv máhtávållu buoragit:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>forklare tospråklighet og språkutvikling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dáv máhtáv huj buoragit:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>eksempler på vurderingskriterier, muntlig kompetanse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>adnet stuorra báhkoboanndudagáv</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Jeg har et avansert ordforråd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mujna le unnes báhkoboanndudáhka</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>uttrykke deg nyansert og situasjons-tilpasset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mujna le viek stuorra báhkoboanndudáhka</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Jeg kan i noen grad uttrykke meg situasjonstilpasset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mujna le huj stuorra báhkoboanndudáhka</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Jeg kan uttrykke meg situasjons-tilpasset og ganske nyansert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>buorre sieradus gielajn ságastit dilij milta</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Jeg kan i stor grad uttrykke meg situasjons-tilpasset og nyansert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mån máhtáv muhtem mærráj ságastit dilij milta</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>La elevene lage tre spørsmål hver for eksempel om språk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mån máhtáv dilij milta viehka sieradus gielajn ságastit</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Dette er med på å aktualisere temaet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mån máhtáv dilij milta buorre sieradus gielajn buoragit ságastit</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Ved behov kan læreren hjelpe elevene med spørsmål:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>a.) Dibde oahppijt guhtik gålmmå gatjálvisá dahkat d.d. giela birra.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hvilke språk møter du i hverdagen ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát bajet temáv.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hvor ofte bruker du samisk ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Man álu sámásta juohkka biejve ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hvor ofte bruker du samisk hver dag ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Manen la sámegiella ájnas ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hvorfor er samisk viktig ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>b.) Dibde oahppijt gulldalit musihkav, gæhttjat gåvåjt jali dali nav.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>b) La elevene lytte til musikk, se på bilder eller liknende.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sij tjálli ietjasa ájádusájt ja dåbdojt, ja lisstaj tjálli d.d. verbajt, substantijvajt ja adjektijvajt</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>De skriver ned tankene og følelsene sine og lister opp for eksempel verb, substantiv og adjektiv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>c.) Dahkit báhkospelav åvddål gå oajvvedoajmma álggá.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>c) Lag et ordspill før selve hovedaktiviteten begynner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Spella galggá tjielggit bágojt ja moallánagájt valla oajvvebáhko ij galga nammaduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Spillet går ut på å forklare ord og begrep uten å bruke selve hovedordet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dahkit kårtåjt bágoj ma gulluji oahppopládnamihttuj: tjielggit dárkkelit gåktu giela ja kultuvra Sámen dejvadi ja gilposti, ja gåktu ietjas giella ja kultuvrra åvddån ja rievddá buohta ietjá gielaj ja kultuvraj.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Lag kort med ord som knyttes til læreplanmålet forklare hvordan språk og kulturer i dagens Sápmi / Sábme / Saepmie møtes og brytes, og hvordan eget språk og kultur utvikles og endres i samspill med andre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bágo kårtåjn galggi jur sámegiellaj tjuodtjot.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Ordene på kortene skal kun stå på samisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Makkir bágojt vállji doajmmaj, oahppijda hiebaduvvá.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hvilke ord man velger til aktiviteten, tilpasses elevene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kårtå galla dåhkkiji lamineriduvvat vaj mahtti aktelattjat aneduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Kortene kan gjerne lamineres så de kan brukes jevnlig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Buojkulvisá bágojda ma máhtti kårtåjn tjuodtjot:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Eksempler på ord som kan stå på kortene:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dánna gåvvidum kårtåj:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Her illustrert med kort:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå galggi hárjjidallat gatjálvisájt dahkat de máhttá gatjálvistjåvda aneduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>For å trene på å lage spørsmål kan spørrenøkkel brukes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gatjálvistjåvda doajmmá dan láhkáj juhte vásstádus vatteduvvá ja de oahppe galggi vásstádussaj gatjálvisájt dahkat.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>En spørrenøkkel fungerer slik at svaret blir oppgitt, og så skal elevene lage spørsmål til svaret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadiddje máhttá gárves sjiemájt dahkat ma aktalasj åhpadusdåjmajn aneduvvi.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Læreren kan lage ferdige skjemaer som jevnlig benyttes i læringsaktiviteter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Buojkulvis Vásstádus Sámedigge, ja gatjálvisá ma gulluji dasi máhtti liehket.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Eksempel Svaret Sametinget, og tilhørende spørsmål kan være:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij la Kárásjågån ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hva ligger i Karasjok ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij almmalattjat rabáduváj jagen 1989 ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hva ble offisielt åpnet i 1989 ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Sametinget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gånnå li 39 ájrrasa ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hva har 39 representanter ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gånnå le Egil Olli presidænnda ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hvor er Egil Olli president ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ságájdahttemav dahkat</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Referere fra intervju</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe galggi gárvedit ságájdahttemav, tjadádit dav ja oajvvesisanov ságájdahttemis mujttalit.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Elevene skal forberede et intervju, gjennomføre det og referere hovedinnholdet fra intervjuet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bargo tjadá galggi oahppe gåhtsevattja årrot dan hárráj gåktu guládallamdille gielav bájnni.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Gjennom arbeidet skal elevene være bevisst på hvordan kommunikasjonssituasjonen påvirker språket.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Man birra galggi oahppe gatjádit ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hva skal elevene spørre om ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåktu galggi gatjádit ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hvordan skal de stille spørsmål ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt vierddiji dahkat gå galggi dárkkelis láhkáj åvddånbuktet.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hva må de gjøre for å uttrykke seg presist nok ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dagá moattelágásj rållajt oahppijda, jali dibddet ietjasa válljit ja hábmedit rållajt.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Lag ulike roller til elevene, eller la dem være med på å velge og utforme roller.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá liehket mánná sáme / dárogiel mánájgárden jali ietjá ållessjattuk sábme gut la ållessjattugin sámegielav oahppam.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>For eksempel kan det være et barn i en samisk / norsk barnehage eller en voksen same som har lært seg samisk i voksen alder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá nuorav ságájdahttet gåhtjos lijggebágoj anoj birra, jali áhkov dárojduhttema birra.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>En ungdom kan intervjues om bruk av såkalte slangord, eller en bestemor kan intervjues om fornorsking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hiebadum åhpadus</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Tilpasset opplæring</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppijn gænna li valljes giella ja moallánakboanndudáhka, máhtti hasoduvvat tjadádit ságájdahttemav vani manusa dagá.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Elever som har godt utviklet språk og begrepsapparat, kan oppfordres til å gjennomføre intervjuet med minst mulig bruk av manus som hjelp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppijda gudi dárbahi dårjav, máhtti åvdutjis ållu gárves gatjálvisá dagáduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>For elever med behov for støtte, kan det lages helt ferdige formulerte spørsmål på forhånd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe máhtti filmmit jali báddit ságájdahttemijt digitálalattjat vuodon åvddålijguovloj bargguj.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Elever kan filme eller spille inn intervjuene digitalt som grunnlag for videre arbeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe máhtti ságájdahttet mánájt vuolep dásijn.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Elevene kan intervjue barn på lavere skoletrinn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát aj rávkká giella le hiebaduvvam.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Dette krever også tilpasset språk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe gudi barggi buoragit, máhtti hasoduvvat ságájdahttemijs dahkat reportásjav mij galggá sáddiduvvat radio ’ an jali tv ’ an.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Elever som mestrer oppgaven godt, kan utfordres til å lage en reportasje av intervjuet som skal sendes på radio eller tv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe gudi sámásti buoragit, máhtti hasoduvvat lågåtjit ja ålgolt åhpatjit báhkotsoabmijt.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Elever som behersker samisk godt, kan utfordres til å lese og memorere ordtak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Árvustallam</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Vurdering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Diededimbuojkulvisá:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Eksempler på tilbakemelding:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtudakmihto Ulmme åhpadusájn le oahppe galggá máhtttet</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Kompetansemål Mål for opplæringen er at eleven skal kunne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>tjielggit gåktu giela ja kultuvra dálásj Sámen dejvadi ja gilposti</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>forklare hvordan språk og kulturer i dagens Sápmi / Sábme / Saepmie møtes og brytes …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij le buorre: Dån gávna buorre buojkulvisájt gåktu giela ja kultuvra dejvadi ja gilposti Sámen sierraláhkáj sámegielagij ja dárogielagij gassken.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hva som er bra: Du finner gode eksempler på hvordan språk og kultur møtes og brytes i Sápmi / Sábme / Saepmie, spesielt mellom samer og ikke-samer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt máhtá buoredit: Dån vierddi gávnnat buojkulvisájt gåktu giella ja kultuvrra sámij gasskan duon dán sáme guovlon dejvadi ja gilposti</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hva du kan forbedre: Du bør finne eksempler på hvordan språk og kultur mellom samer i de ulike samiske områdene møtes og brytes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>stuorra báhkoboanndudagáv adnet ja njálmálattjat sieradus ja hiebalgis láhkáj dilij hárráj åvddånbuktet</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>beherske et bredt ordforråd og uttrykke seg muntlig på en nyansert og situasjonstilpasset måte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij le buorre: Dujna le stuorra báhkoboanndudahka.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hva er bra: Du behersker et bredt ordforråd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dån hiebada gielav buoragit ságájdahttemrållan.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Du tilpasser språket godt til rollen som intervjuer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt máhtá buoredit: Dån máhtá sieradit gielav buorebut ságájdahttem referáhtajn.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hva du kan forbedre: Du kan nyansere språket bedre i referatet fra intervjuet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dála muhtem buojkulvisá gåktu oahppe máhtti ietjasa árvustallat:</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Her er noen eksempler på hvordan elevene kan foreta egenvurdering:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Makkir gatjálvisájn lij buorre ja sieradus giella ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hvilke spørsmål hadde godt og nyansert språk ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt ittjiv vásstádusájs dádjada ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hva forsto jeg ikke av svarene ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt ådåsis dárbajiv tjielggiduvvat ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Hva trengte jeg å få forklart på nytt ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe máhttá ietjas åvddånimev tjielggit.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Eleven kan beskrive egen utvikling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe galggi árvustallat majt sij ajtu máhtti ja bukti ja majt li oahppam.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Elevene skal vurdere hva de faktisk kan og mestrer og hva de har lært.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dáv gávnnat de máhtti oahppe dievddet DHO-sjiemáv.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>For å finne ut dette kan elevene fylle ut et VØL-skjema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sjiebmá dievdeduvvá oahppijs åvddål gå sij álggi åhpadusdåjmajn.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Skjemaet fylles ut av elevene før de setter i gang læringsaktiviteten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuodotjehpudagá</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Grunnleggende ferdigheter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttet njálmálattjat åvddånbuktet: Njálmálasj tjehpudáhka le oajvvedoajmma dán buojkulvisán.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Å kunne uttrykke seg muntlig: Den muntlige ferdigheten er den dominerende aktiviteten i dette eksempelet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttet tjálálattjat åvddånbuktet: Oahppe gatjálvisájt hábmedi.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Å kunne uttrykke seg skriftlig: Elevene formulerer spørsmål.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sij maŋenagi tjálli vásstádusájt gatjálvisájda ja referáhtajt tjálli.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>De skriver svar på spørsmål fortløpende, og de skriver referat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gielladomena</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Språkdomener</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dán gárvvidussáj máhttá åhpadiddje gæhttjalit gávnnat ságastallamrádnajt vuorrasijvieson, nuorajkluppajn, kafeajn, dållågátten, jåhkågátten jali muodulágásj sajijn gånnå sámegielaga æjvvali.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Til dette opplegget kan læreren prøve å finne samtalepartnere på eldrehjem, i ungdomsklubber, på kafeer, rundt bålet, ved elvekanten eller liknende hvor man kan finne samiskspråklige personer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guorrasit ságastit vissa temáj jali vissa tjuolmaj birra.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Avtal samtale knyttet til et bestemt tema eller en bestemt problemstilling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Divna guládallama galggi sámegiellaj.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>All kommunikasjon foregår på samisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus lihpit jur klássalanján, de dåhkki sámeslávgáv tjuottjodattjat bievden.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Om man kun benytter seg av klasserommet, kan man bruke et samisk flagg som stilles på bordet / kateteret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Madin slávggá le badjen da divna sámásti.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Da snakker alle samisk så lenge flagget er oppe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Anta Pirak: Jåhttesáme viessom, girjje ja cd ’ a.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Jens-Ivar Nergård: ” Det skjulte Nord-Norge ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Anders Nystø ja Sigmund Johnsen: Sámásta 2, ja Hárjjidusá 2, Báhko 2001</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Jan Helge Soleng: i: Árvvut, árvo, vierhtie, samiske verdier: ” mo geavahit deaivvadansajiid gaskaoapmin go lea bargamin nuoraid árvvuiguin ”, sosiale arenaer som middel for arbeid med verdier blant ungdom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kurt Tore Andersen: Gå skirri sádá</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Film: Min mors hemmelighet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>http://lul.skrivebua.no /</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Ellen-Astri Lundby, Sonar Film DA 2009</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

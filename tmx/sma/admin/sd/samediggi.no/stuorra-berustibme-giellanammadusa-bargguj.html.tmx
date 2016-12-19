@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">stuorra-berustibme-giellanammadusa-bargguj.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stuorra berustibme Giellanammadusá bargguj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Stoerre ïedtje Gïelemoenehtsen barkoen bïjre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Giellanammadusá njunnjusj, Bård Magne Pedersen, vuojnná stuorra berustimev bargguj mij la álgaduvvam.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien gïelemoenehtsen åvtehke, Bård Magne Pedersen stoerre ïedtjem vuajna dan barkoen bïjre mejnie moenehtse nïerhkeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nammadus galggá oajvvadit ådå årnigijt, dåjmajt ja njuolgadusájt bisodime ja åvddånime gáktuj ma gulluji julevsáme-, oarjjelsáme- ja nuorttasámegiellaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Moenehtse edtja orre öörnegh, råajvarimmieh jïh njoelkedassh raeriestidh mah leah ektiedamme vaarjelæmman jïh evtiedæmman dejstie saemien gïelijste julevsaemien, åarjelsaemien jïh noerhtesaemien.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

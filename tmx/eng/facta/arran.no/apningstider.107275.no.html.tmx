@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">apningstider.107275.no.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åpningstider - Árran - julevsáme guovdásj / lulesamisk senter</seg>
+      </tuv>
+      <tuv xml:lang="eng">
+        <seg>Åpningstider - Rabásájge - Opening hours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Utstillinger:</seg>
+      </tuv>
+      <tuv xml:lang="eng">
+        <seg>Exhibitions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Viessom: Sáme sijdda ja merrasáme kultuvrra</seg>
+      </tuv>
+      <tuv xml:lang="eng">
+        <seg>Viessom: The Sami farm and coastal Sami culture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Samisk iesjdåbddo ja kultuvrra</seg>
+      </tuv>
+      <tuv xml:lang="eng">
+        <seg>Sami identity and culture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme bivtasdábe, silba ja goabdes</seg>
+      </tuv>
+      <tuv xml:lang="eng">
+        <seg>Sami costume tradition, silver and drumBilletter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máná vuollela 6 jage: navku</seg>
+      </tuv>
+      <tuv xml:lang="eng">
+        <seg>Children under 6 years: free</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máná 6-18 jagága: 25 kr</seg>
+      </tuv>
+      <tuv xml:lang="eng">
+        <seg>Children 6-18 years: 25 nok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Juohkusa ienep10 ulmutja: 50 krTickets:</seg>
+      </tuv>
+      <tuv xml:lang="eng">
+        <seg>Group of 10 persons: 50 nok</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

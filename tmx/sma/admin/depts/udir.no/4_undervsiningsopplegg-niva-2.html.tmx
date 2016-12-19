@@ -1,0 +1,984 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">4_undervsiningsopplegg-niva-2.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Udir.no - Åhpadimgárvvidus: 2. dásse</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Udir.no - Ööhpehtimmiesoejkesje: Daltese 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadimgárvvidus: 2. dásse</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ööhpehtimmiesoejkesje: Daltese 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dánna åhpadiddje gávnná buojkulvisájt gåktu máhttá barggat máhtudakmihtoj 2. dásen, gåktu máhtudakmihto vuojnnuj båhti åhpadusmihttomierijn, sisanon ja barggamvuogijn, gåktu vuodotjehpudagá åvtåsduhteduvvi ja gåktu åhpadus máhttá hiebaduvvat juohkka åvta oahppáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daesnie lohkehtæjja vuesiehtimmiem gaavna guktie dïhte maahta mubpien maahtoeulmien mietie barkedh, guktie maahtoeulmide lïerehtimmieulmine eevtjedh jaksedh jïh guktie sisvegem jïh barkoevuekide sjïehtesjidh. Guktie learohkh gelkieh maadthmaahtojde lïeredh jïh guktie lohkehtimmiem learoehkasse sjïehtesjadtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Árvustallam bargadahttijn ja gielladomena li oase gárvvidusán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daerpies dellie iktemeran vuarjasjidh, jïh gïele lea vihkeles dennie barkosne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Goassa: akta beri goassa</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie: Gosse jïjtje sæjhta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åvddåmáhto Oahppe dádjadi muhtem mærráj sámegielav, ja máhtti oassálasstet sámegiellaj bæjválasj ságastallamijda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åvtetje maahtoeh Learohkh ånnetji saemiengïelem guarkoeh jïh naan aelhkies fïerhten-beajjetje raajesh soptsestieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jienajt ja alfabehtav li sij juo oahppam.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiengïelen tjoejem jïh alfabetem leah joe lïereme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtudakmihto</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahtaldahkeulmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Njálmálasj guládallam</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njaalmeldh gaskesadteme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadusá mihttomierre le oahppe galggá máhttet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lohkehtimmien ulmieh leah; learohkh gelkieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>oassálasstet álkkes bæjválasj ságastallamijda gånnå álkkes hållamvuogev adná vaj dádjat ja iesj dádjaduvvá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>aelhkies fïerhten beajjetji raajesh soptsestalledh gusnie pråvhka aelhkies njaalmeldh jiehtege guktie guarkoe jïh goerkesadtede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Giella- ja kultuvrradiedulasjvuohta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gïelen jïh kultuvren bïjre daejredh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadusá mihttomierre le oahppe galggá máhttet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lohkehtimmien ulmieh leah; learohkh gelkieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>gulldalit ja oassálasstet juojggamij, lávlla- ja sálmmalávllomij, rijmaj, báhkoståhkusij ja divtaj åvddånbuktemijda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>goltelidh jïh jïjtjh aaj joejkedh, laavlodh jïh rijmh, raajroeh jïh tjihtesh åvtese buektedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>adnet namájt biejvijda, mánojda ja dan gávtse jáhpáj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>våhkoebiejjieh, askh jïh dah gaektsie joepieboelhkh utnedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ietjá hiebalgis máhtudakmihto</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeatjah sjyöhtehke maahtoeulmieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadusmihttomiere</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lïerehtimmieulmieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe galggi máhttet oassálasstet bæjválasj ságastallimij duola degu rájnasvuoda, rubmaha, rádnaj ja buoremusrádnaj birra.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohkh gelkieh maehtedh fïerhtenbeajjetje raajesh soptsestidh. Vuesiehtiemmien gaavhtan bïssemen, - kråahpen, - voelpi jïh buerievoelpi bïjre maehtedh soptsestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe galggi de máhttet:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohkh gelkieh aaj maehtedh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>adnet bágojt ja moallánagájt rubmaha ja ietjas rájnasvuoda birra, duola degu bæjválasj basádime ja bádneskuorroma birra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>baakoeh jïh dïejvesh nuhtjedh gosse kråahpem bïsseminie jïh baenide skubpeminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>adnet bágojt ja moallánagájt buoremusrádnaj birra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>baakoeh jïh dïejvesh nuhtjedh buerievoelpi bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sáme gáritjisáv oahppat</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>saemien njoelkedassem lïeredh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>adnet vahkkobiejvij namájt ságastahttijn nubbe nuppijn</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>saemien våhkoebiejjide nuhtjedh gosse sinsætnan soptsesteminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>vahkkobiejve-lávllagav lávllot</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>våhkoebiejjiej bïjre laavlodh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadiddje vierddi åhpadusmihttomierijt duola degu vahkkopládnaj jali gávddapládnaj tjállet, ja diededit oahppijt ja sijdav ájge bále viehka åvddåla gå gárvvidus álggá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lohkehtæjja tjoevere lïerehtimmieulmide våhkoesoejkesjisnie jallh tæjmoesoejkesjisnie tjaeledh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Juohkka åhpadusmihttomierre vierddi vuojnnuj boahtet, ja oahppe galggi máhttet dajt adnet ietjasa iesjárvustallamijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohkh jïh gåetien almetjh dej bïjre soptsestellieh aarebi lohkehtimmie aalka. Dejtie ovmessie lïerehtimmieulmide tjoevere eensilaakan buerkiestidh, guktie learohke maahta jïjtse-vuarjasjimmsne dejtie utnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtudagá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahtoe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>oahppat moallánagájt rubmaha birra; basádit, sjoavodit, lávgudit, bivtasmålssom ja bádnesujddo.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>baakoeh lïeredh kråahpen, - bïssedimmien, - laavkomen, - gåårvedimmien jïh baeniegeehtemen bïjre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>máhttet moallánagájt rádnaj ja buoremusrádnaj birra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>maehtedh voelpi jïh buerievoelpiej bïjre soptsestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>máhttet vahkkobiejvij namájt</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>våhkoebiejjide maehtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjehpudagá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maehteles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>máhttet moallánagájt adnet, ja sáme gáritjisáv ja lávllagav máhttet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>jiehtiegidie maehtedh nuhtjedh jïh saemien saalmh jallh laavlomh maehtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dádjadusá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerkesimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>máhttet moallánagáj sisanov tjielggit, ja gáritjisá ja vahkkobiejvijlávla sisanov</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>maehtedh jiehtegen sisvegem jïh goerkesimmiem buerkiestidh, jïh våhkoebiejjiej bïjre laavlodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppamdåjma</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lïerehtimmiedarjomh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Praktihkalasj dahkamusá Oahppe basádi, sujddiji ja målsudi duola degu njuorakdoahkov.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Darjodh Learohkh gelkieh dåahkam bïssedh jïh gåårvedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bårråmbåtta maŋŋela skuorru sij bánijt ja ságasti majt sij barggi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah baenieh skubpieh beapmoej mænngan jïh gelkieh soptsestidh mearan barkeminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Buojkulvis: ” Mån mánás vuoptajt basáv, mån bánijt skuorov ”)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuesiehtimmie: manne maanan voepth bïsseminie, manne baenieh skubpeminie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Lávllot aktan oahppij lávllagav rubmaha ja rubmahaoasij birra.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Laavloeh kråahpen bïjre, jïh baajh maanah aaj laavlodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dibde oahppijt buoremusrádnajt guossen klássaj gåhttjot.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Baajh learohkh sijjen buerievoelpide klaassese bööredidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe oahpásmahtti ietjasa rádnajt dåjda ietjá oahppijda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohkh sijjen voelpi bïjre soptsestieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme doahko iesj guhtik guovlos Sámen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dåahkah ovmessie saemien dajvijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gáritjis (bujkulvis, gávnnu Utsi Gaup: Suga suga su, girjen ja CD ’ an, danna davvesámegiellaj, dánna jårggåluvvam julevsámegiellaj)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Raajroe (vuesiehtimmie, lea daesnie, Utsi Gaup: Suga suga su dovne gærjesne jïh CD ’ esne)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gietjav tjáhpa tjáhppis tsitsátja Tjåhkkåji ja tjuohki tjátjev Tjadá tjåddåga tjoajvváj tjålijda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïjhtje tjaebpies tjeehpes tjåktjah Tjahkan tjaetsiem tjuekieh (tjoekeminie) tjovven tjïrrh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jali ietjá gáritjis.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jallh Ánin dánin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dibde gáritjisáv siejnen klássalanján gahtsahit, ja oahppijn aktan dav juohkka biejve hárjjidallat. Vatte oahppijda gáritjisáv sijddabarggon sihke tjálálattjat ja jiednafijllan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Baajh raajroe vïedtjesne klaassetjïehtjielisnie gævnjodh, jïh mujhtieh fïerhten biejjien saavredh Vedtieh raajroem goh leaksoe gåetesne, dovne tjaaleldh jïh teekstefijline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Lávlla vahkkobiejvij birra juohkka tijma lávloduvvá, ja oahppe dahkamussan oadtju oahppat dav nágin berrahi gut dav ij åvdutjis máhte.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Laavloeh våhkoebiejjiej bïjre fïerhten tæjmoen, learohke leaksoem åådtje. Laavlomem mubpide lïerehte, dejtie mah eah dam aarebistie maehtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dat gávnnu Ella Holm Bulla lávllomgirjen oarjjelsámegiellaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ealla Holm Bullen laavlomegærjesne akte laavlome gååvnese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mánnodahka le vuostasj biejvve Dijsdahka nubbe Goalmát gasskavahkko le Ja duorastahka le nælját Vidát biejvve le bierjjedak Ja lávvodak le gudát Giehttjit sådnåbiejvve le Ja dat la ålles vahkko Akta, guokta, gålmmå, niellja Vihtta, guhtta, gietjav Vuostasj, nubbe, goalmát Nælját, vidát, gudát giehttjit</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dagke gaskevåhkoe, duarsta, bearjadahke, laavadahke, aejlege ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåvvå oahppamnævos Gietjav tjáppa (gávnnu davve-, julev- ja oarjjelsámegiellaj)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guvvie learoevierhteste tjïjhtje tjaebpies (Noerhte saemien, luvlesaemien jïh åarjelsaemien)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Buojkulvisá ienep oahppamdåjmajda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vielie lïerehtimmidarjomh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>1.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Riegádimbiejvverijmmo Juohkkahasj dahká riegádimbiejvverijmov, dsj lagámus berrahij, ja klássarijmov gåvåj ja riegádimbiejvij.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reakedsbiejjie Darjoeh aktem aelhkies biejjielåhkoem mij vuesehte gosse dah lihkemes fuelhkien reakedsbiejjieh leah, darjoeh aaj aktem klaasse-biejjielåhkoem guvviejgujmie, gusnie vuesehte mij biejjide lea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Rijmmo álu njálmálasj hárjjidallamin aneduvvá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nuhtjh dam biejjielåhkoem jïjnjem, guktie åadtjoeh jïenebem soptsestidh jïh nimhtie dam njaalmledh gïelem buerebelaakan lïeredh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vahkkobiejvvespella Dahkit vahkkobiejvvespelav mij mánnorijmos vuolggá, doajmmamkårttå juohkka bæjvváj (vargga degu stagánspella).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Våhkoebiejjie-speale Darjoeh aktem våhkoespealem mij kåarhth åtna fïere-guhtide biejjide aktene askesne.(mahte goh raajterespeale) Nuhtjh aktem teernegem guktie maahta åvtese juhtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjalman aneduvvá gå galggá jåhtet åvddån mánnospelan. Duola degu dijsdagá 5. biejvve miessemánon:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuesiehtimmien gaavhtan: Dæjsta, suehpeden vïjhteden biejjien: " Veartesjh olkese, guktie vearolde lea, jis biejjie guaka, dellie tjöödtjesth jïh lïegkesth dålle-bealesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus le bæjvádahka de ganuga ja vuojŋada dållågátten ja tjuottjo badjel åvtåv vuorov.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis mullie jallh elmie, skodth dellie varki jïh ikth vielie teernegem beelhkh ".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus la åmågis jali muohta / rássjodálkke, de gáhtjada ja håjggåda tjalmanav vat ådåsis.”Oahppe javlli juohkka bále dav vahkkobiejve namáv dasi gåsi båhti, ja åhpadiddje jali ietjá ållessjattuk viehket doajmmamkårtåv låhkåt sidjijda oahppijs gudi dárbahi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohkh fïerhten aejkien soptsestieh mij biejjide lea, gosse sielkieh jallh suejieh sæjjan, jïh lohkehtæjja jallh jeatjebh viehkiehtieh kåarhtide learoehkidie lohkedh, jis daerpies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sån gut vuostatjin boahtá mållaj, mij la maŋemus biejvve mánon vuojttá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte guhte voestegh måalese båata, mij lea minngemes bijjie askesne, lea vitneme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Árvustallam</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Faagem vïerhtiedidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Iesjárvustallam</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jïjtsevuarjasjimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>1. Buojkulvis Loagga Juska dát la iesjárvustallam, de máhttá loagga aj guládallamijn åhpadiddjijn aneduvvat ja nåv de iehtjáda e oattjo låhkåt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Voestes vuesiehtimmie Lågge Jilhts daate lea jïjtsevuarjasjimmie, maahta daam låggem aaj nuhtjedh gosse edtja lohkehtæjjine soptsestalledh, guktie eah jeatjebh åadtjoeh goltelidh jïh / jallh lohkedh dam vuarjasjimmiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát máhttá vuostasjgiellaj tjáleduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohkh maehtieh voestesgïelesne tjaeledh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjielggi bargov</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Barkoem buerkiestidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt máhtáv</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maam buektiehtim ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij la gássjel</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mij lij geerve ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åvddånbuktiv gus ietjá láhkáj ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dagke jeatjah vuekiem nuhtjim gosse tjïertestim ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåktu máhtáv ietjá bále dahkat ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie maahtam mubpien aejkien darjodh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ulmme boahtte tebmáj la …</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ulmieh båetije aamhtesidie leah:..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2. Buojkulvis Oahppe mierkkiji dajt åhpadusmihttomierijt majt máhtti.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mubpie vuesiehtimmie Learohkh kroessine duejtie lïerehtimmieulmide dievhtieh, mejtie maehtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dáv vierddiv oahppat vaj åhpadusmihttomierijt jåvsåv</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daam tjoeverem lïeredh guktie lïerehtimmieulmide jaksem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dáv máhtáv vehi</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Manne ånnetje maahtam:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Biejvve</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mij biejjide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dáv máhtáv buoragit</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Manne hijven maahtam:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Biejvve</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mij biejjide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bágojt ja moallánagájt ma li ávkálasj máhttet gå dáj birra ságastav</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>baakoeh jïh dïejvesh mah leah daerpies maehtedh gosse soptsestem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>rubmaha, ietjam rájnasvuoda, bæjválasj basádibme ja bádneskuorroma</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>kråahpen bïjre, bonhtehke årrodh, fïerhtenbeajjetje bïssemen bïjre jïh baenide skubpedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>rádna ja buoremusrádna</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>voelph jïh buerievoelpi bïjre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>vahkkobiejve</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>våhkoebiejjiej bïjre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>vahkkobiejvijt nammadit</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>våhkoebiejjide jiehtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sieradus árggabiejve ja ájlega gasskan</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>buektiehtidh aarkebiejjieh aejliesbiejjijste raerhkedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åvddånbuktet máhtojt rájnasvuoda birra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>maahtoe bonhtehken bïjre deanahtidh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>rájnasvuoda nammadusájt dálla ja åvddåla</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>nommh bonhtehkevoeten dejpeladtje jïh daaletje viehkievierhtiej bïjre maehtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>rájnasvuodalanjáj nammadusá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>nommh maehtedh vg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ietjá láhkáj åvddånbuktet ietjam</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>jeatjah vuekiem maahtam tjïertestidh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>giedaj ja rubmahijn</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>kråahpem jïh gïetide nuhtjem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>gávnnat ietjá bágojt</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>jeatjah baakoeh gaavnedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>aktidit bágov ietjá bágujn</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>göökte baakoeh ektiedidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>rievddat dárogielbágojt (sámegielgehtjusa)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>daaroen baakoeh saemiegïelese darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>gatjádit jus juoga ij la tjielgas</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>jis im guarkah dellie gihtjedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>divvot ietjam</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>jïjtjemem staeriedidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bisodit ságastallamav</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>maahtam aelhkies soptsestallemem utnedh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dágastit ja ij dárbahit bágojt åhtsåt</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>im daarpesjh dan jïjnjh baakoeh ohtsedidh gosse tjïertestem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>hiejddet ságastallamav</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>soptsestallemem orrijidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Diedádus åvddålij guovlluj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åvtese båetije biejjide vuejnedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>hæhttuv hárjjidallat dájt moallánagájt ….</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>manne daarpesjem ikth vielie dej baakoejgujmie barkedh …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dárbahav viehkev dási ….</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>manne viehkiem daarpesjem …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hiebadum åhpadus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sjïehtedamme lohkehtimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nuorap oahppijda máhttá Thomas lávggom-girjje kopieriduvvat, ja aj lamineriduvvat, ja låhkåmkårttån aneduvvat, ja da máhtti vuossan årrot, ja skåvlån ja sijdan aneduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dejt ie nuerebe learoehkidie sæjhta hijven årrodh, dovne gåetesne jïh skuvlesne, dam gærjam Tåamma laavkoeminie lohkedh, maam Gunilla Wolde tjaaleme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe nuorajdásen ja joarkkaskåvlån gudi li 2. dásen, máhtti guossebarggen sámemánájgárden ja sujddit mánátjijt doahkoj sajen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lohkehtæjja jïh learohkh maehtieh ektesne lohkemekåarhth guvviejgujmie, jallh guvvieh jïh teekste, biejjieladtje darjomigujmie darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sij máhtti aj mánáj rubmaha ja varresvuoda birra sámástit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta lohkemekåarhtide lamineredh, jïh learohkh maehtieh dejtie voessesne utnedh jïh dejtie nåhtadidh dovne gåetesne jïh skuvlesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Diehttelis de dát sierralágásj huksamav skåvlå bieles rávggá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse healsoen bïjre maanide soptsestieh, eah daarpesjh dåahkah nuhtjedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nuorajskåvlåoahppe ja oahppe joarkkaskåvlån máhtti ságastit ietjaslágátjij birra ja rubmaha, ja ietjas varresvuoda birra, duola degu lásjmudaládijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noereskuvlen maanah jïh learohkh jåarhkeskuvleste maehtieh jïjtsh kråahpen jïh healsoen bïjre soptsestidh. Vuesiehtimmien gaavhtan gosse vïtnedeminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuodotjehpudagá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Faagen maadth maahtoeh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttet tjálálattjat ja njálmálattjat åvddånbuktet: Oahppe máhtti bágojt ja moallánagájt rubmaha, rájnasvuoda ja bádneskuorroma birra sierra tjállemgirjjáj tjállet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maehtedh njaalmeldh jïh tjaaleldh-laaakan tjïertestidh: Learohkh maehtieh tjaeledh baakoeh jïh dïejvesh kråahpen bïjre, jïh bïssemen jïh baenieskubpemen bïjre sijjen jïjtsh tjaelemegærjine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sij aj máhtti ålles gárgadisájt ja oanes subttsasav temá birra tjállet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah maehtieh aaj abpe raajesem jïh onne vaajesem aamhtesen bïjre tjaeledh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij guosska njálmálasj tjehpudagájda de la hárjjidallam sierraláhkáj ájnas.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse njaalmeldh maahtoeh, dellie lea gaajh vihkeles baakoeh jïh dïejvesh jiehtedh, jïh jïjnjem soptsestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttet låhkåt: Oahppe galggi máhttet låhkåt bágojt, moallánagájt ja ålles gárgadisájt dahkamusáj birra ma guosski rájnasvuohtaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maehtedh lohkedh: Learohkh gelkieh maehtedh baakoeh jïh dïejvesh lohkedh, abpe raajesh lohkedh gosse bonhtehkevoeten bïjre soptsesteminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttet riekknit: Dibde oahppijt riekknit hattijt rájnasvuodagálvojn ma li fámilja lávggomlanján.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maehtedh ryöknedh: Baajh learoehkidie ryöknedh man jïjnjh bïssemeaath dej fuelhkieh laavkometjïehtjielinie utnieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttet digitála ræjdojt adnet: Dibde oahppijt internehtav adnet ja rájnasvuoda moallánagájt sámegiellaj åhtsåt duon dán næhttabielen (Gávnos, giella.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maehtedh digitale viehkievierhtiem nuhtjedh: baajh learoehkidie gaskeviermiem nuhtjedh jïh saemien bïssemebaakoeh ohtsedidh ovmessie gaskeviermiesijjijste. (Gávnos, giella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>org ja risten.no).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>org jïh risten.no).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuoseda tækstabuojkulvisájt, ja dibde oahppijt åhtsåt ja dåbddåt åhtsåmbålujn rájnasvuodamoallánagájt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nuhtjh teekstevuesiehtimmiem, jïh baajh learohkh ohtsedidh jïh damtedh bissemebaakojde dennie teekstesne (ohtsedimmietjaatsegisnie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gielladomena</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gïelesuerkie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj interaktijvalasj prográmmajt njuolggaguládallamin adnet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse learohkh daelie joe maehtieh tjaeledh, maahtah gïelesuerkiem vijriedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stina-Gaup Westerlund: Lávllagirji, Luleå Alltryck, AB., 1980.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ohtsedh aktem klaassem mah maehtieh saemien soptsestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stina-Gaup Westerlund: Lávlungirji, Sámiskuvlastivra, Luleå Alltryck, AB., 1987.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Klaasse gusnie learohkh leah voestesgïeline, jïh dejtie klaassevoelpine åadtjodh jïh barre dejgujmie saemiegïelesne chattedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Paul Gælok: Haŋŋá boade gáddáj, 1990. Sigga Duolja-Sandström: BIEJVVE BÅKTÅ MUV-Lávllomgirjje, 1991.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie maahtah aaj interaktijve programmh nuhtjedh goh eensi gaskesadteme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2007</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learoevierhtieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Brooks ja Litchfield: Tálla, Idut2006</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ella Holm Bull: Laavlomh maanide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gaup, Guttorm ja Nergård: Gietjav tjappa 2, Davvi Girji 2011</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>" Barnehageeske " – båata aaj åarjelsaemien gïelesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gaup, Guttorm ja Nergård: Gietjav tjappa 3, Davvi Girji 2011</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tåamma laavkoeminie - gærjeste, lohkehtæjja maahta guvvieh skannedh, dejtie stueriedidh jih olkese tjaeledh, jïh dejtie klaassen tjiehtjielisnie vïedtjese gævnjodh.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

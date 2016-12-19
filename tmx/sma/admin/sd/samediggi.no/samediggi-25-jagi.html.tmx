@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">samediggi-25-jagi.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Buorre idet Sámediggeájrrasa, oabbat ja vieljat, guosse ja gieres gulldaliddje !</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nuelesne håalemh mïerhkesjimmeste, jïh svaalhtesh saernide jïh lahtestimmide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Muv nammal Stefan Mikaelsson ja lev Sámedigge åvddåulmusj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan åvteste såemies håalemh ajve nöörjen jallh ajve saemien gïelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Udni i tj apa bievev.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>MYNDIGHETER</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

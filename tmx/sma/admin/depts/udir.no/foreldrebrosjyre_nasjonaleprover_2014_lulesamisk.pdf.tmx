@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">foreldrebrosjyre_nasjonaleprover_2014_lulesamisk.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Diedo nasjonála gæhttjalimij birra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bïevnesh nasjovnaale pryövi bïjre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Æjgádijda gejn li máná 5., 8. ja 9. jahkedásen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Eejhtegidie maanide 5., 8. jïh 9. daltesisnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Julevsámegiellaj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åarjelsaemien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dåssju åhpadiddje ja skåvllå bessi juohkka ájnna oahppe båhtusijda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohke jïh eejhtegh edtjieh bïevnesh illedahki bïjre lohkehtæjjeste åadtjodh gosse illedahkh pryövijste gaervies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadiddjijn ja skåvlåjn li sjávodisvælggo ájnegis oahppe båhtusijs.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ajve lohkehtæjjah jïh skuvle åadtjoeh learohki illedahkh vuejnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij le ådå jagen 2014 ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Orre jaepien 2014 Daan jaepien raejeste maahta illedahkide nasjovnaale pryövijste eengelsken gïelesne jïh ryöknedimmesne nuhtjedh juktie evtiedimmiem mööledh guhkiebasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dán jage rájes bæssá adnet ieŋŋils ja riekknim nasjonála gæhttjalimij båhtusijt navti váj mihtti åvddånimev ájge tjadá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate sæjhta jiehtedh skuvle jïh tjïelte guhkiebasse sijhtieh vuejnedh mejtie learohki illedahkh buerebe sjidtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dat mierkki skåvllå ja suohkan vuojnni jus oahppe båhtusa åvddåni. Váj bæssá álkkebut tjuovvolit de galggi båhtusa dán jage rájes åvddånbuvteduvvat muhtem ådå skalan Skoleportenin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Juktie viehkienuepide bueriedidh åvtese sæjhta illedahkide åehpiedehtedh aktene orre skaalesne sijjesne Skoleporten daan jaepien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dáppe almoduvvi skåvlå, suohkana, fylka ja ålles lánda båhtusa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daesnie sæjhta skuvlen, tjïelten, fylhken jïh abpe laanten illedahkh bæjhkoehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe oadtju gullat makkir dásen li dagu åvddåla.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohkh sijhtieh bïevnesh bååstede åadtjodh haalvemedaltesi bïjre goh aarebi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát ij sámegiela gæhttjalimijda guoska.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Doh pryövh lohkemisnie saemien gïelesne eah tsevtseme sjïdth daejstie jarkelimmijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dáppe båhtusa åvddån biejaduvvi gasskamærrásasj tjuorgaj milta juohkka gæhttjalimen dagu åvddåla.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daesnie sæjhta illedahkide åehpiedehtedh goh gaskemedtien poengelåhkoe fïerhten pryövese goh aarebi jaepiej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Li gus dujna gatjálvisá ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dov gyhtjelassh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Válde aktijvuodav skåvlåjn jali maná mijá næhttabielijda:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaskesadth dov skuvline jallh tjaangh mijjen nedtesæjrojde:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>www.udir.no/nasjonaleprover</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>www.udir.no/nasjonaleprover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Manen nasjonála gæhttjalime ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Man åvteste nasjovnaale pryövh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nasjonála gæhttjalime galggi vuosedit makta oahppijn li vuodulasj tjehpudagá låhkåmin ja riekknimin. Dát aj gullu åsijda ieŋŋilsgiela fágas.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nasjovnaale pryövh bïevnesh vedtieh guktie learohkh dejtie uvtemes tjiehpiesvoetide haalvoeh lohkemisnie jïh ryöknedimmesne jïh bieline faageste eengelsken gïele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuodulasj tjehpudagá li:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Doh uvtemes tjiehpiesvoeth leah:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• digitála tjehpudagá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Digitaale tjiehpiesvoeth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• njálmálasj tjehpudagá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Njaalmeldh tjiehpiesvoeth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• buktet låhkåt</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Maehtedh lohkedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• buktet riekknit</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Maehtedh ryöknedidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• buktet tjállet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Maehtedh tjaeledh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dá tjehpudagá li ájnnasa gájkka fágaj oahppamij ja åvddånahttemij, ja li vuodon dasi gåktu oahppe galggi skåvlån ja maŋŋela iellemin rijbbat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daah maehtelesvoeth leah vihkeles lïerehtimmien jïh evtiedimmien gaavhtan gaajhkine faagine, jïh stoerre ulmiem utnieh guktie learohkh skuvlesne, jïh mænngan jieliedisnie bïerkenieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gæhttjalime riekknimin ja låhkåmin ælla gæhttjalime dárogiela, sámegiela ja matemátihka fágajn, ájnat li låhkåm ja riekknim vuodulasj tjehpudagá hárráj gájkka fágaj gasskasasjulmijda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Doh pryövh ryöknedimmesne jïh lohkemisnie eah leah pryövh faagine nöörjen jïh matematihke, bene lohkemisnie jïh ryöknedimmesne goh uvtemes tjiehpiesvoeth faagi dåaresth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ieŋŋilsgiela gæhttjalime dættodi låhkåmdádjadusáv, báhkoboanndudagáv ja grammátihkav.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Doh pryövh eengelsken gïelesne fokusem utnieh lohkemegoerkesasse, baakoeveahkan jïh grammatihkese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Skåvllå galggá diedojt gæhttjalimijs ávkástallat ietjá diedoj gáktuj oahppij birra. Gæhttjalime båhtusa galggi aneduvvat gå vuodulasj tjehpudagáj barggá ja aktelasj árvustallamin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Skuvle edtja pryöveilledahkide vuejnedh jeatjah bïevnesigujmie ektine learohki bïjre, jïh edtja illedahkide nuhtjedh gosse barkeminie dej uvtemes tjiehpiesvoetigujmie jïh jaabnanvuarjasjimmine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aktelasj árvustallama ulmme le oahppamav åvdedit ja váj máhttá åhpadimev hiebadahttet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaabnanvuarjasjimmie ulmine åtna lïerehtimmiem eevtjedh jïh våaromem vedtedh akten sjïehtedamme lïerehtæmman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gudi galggi makkir gæhttjalimijt tjadádit ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gïeh edtjieh mah pryövh tjïrrehtidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nasjonála gæhttjalime galggi tjadáduvvat 5., 8. ja 9. jahkedásen vuodoskåvlån.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Edtja nasjovnaale pryövh tjïrrehtidh 5., 8. jïh 9. daltesisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oajvvenjuolgadussan le jut gæhttjalime li bákkulattja gájkka oahppijda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åejvienjoelkedassine dle gaajhkh learohkh edtjieh meatan årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe 5. ja 8. jahkedásen galggi gæhttjalimijt tjadádit låhkåmin, riekknimin ja ieŋŋilsin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohkh 5. jïh 8. daltesinie edtjieh nasjovnaale pryövh tjïrrehtidh lohkemisnie, ryöknedimmesne jïh eengelsken gïelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe 9. jahkedásen galggi gæhttjalimijt tjadádit låhkåmin ja riekknimin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohkh 9. daltesisnie edtjieh nasjovnaale pryövh tjïrrehtidh lohkemisnie jïh ryöknedimmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dá gæhttjalime li sæmmi gå 8. jahkedáse gæhttjalime.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daah pryövh leah doh seamma goh 8. daltesen pryövh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe 5., 8. ja 9. dásen nuortta-, oarjjel- ja julevsámegielajn vuostasjgiellan galggi tjadádit nasjonála gæhttjalimijt låhkåmin sámegiellaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohkh 5., 8. jïh 9. daltesisnie mej noerhte-, åarjel- jïh julevsaemien voestesgïeline, edtjieh nasjovnaale pryövh lohkemisnie saemiengïelesne tjïrrehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dá oahppe galggi aj tjadádit nasjonála gæhttjalimijt riekknimin sámegiellaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daah learohkh edtjieh aaj nasjovnaale pryövh ryöknedimmesne saemien gïelesne tjïrrehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Skåvllå máhttá åhtsåt oahppe gudi sierraåhpadimev jali sierra giellaåhpadimev oadtju nasjonála gæhttjalimijs bessi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dejtie learoehkidie mah sjïereööhpehtimmiem jallh sjïere nöörjenlïerehtimmiem åadtjoeh, skuvle maahta nænnoestimmiem darjodh lutniestimmien bïjre nasjovnaale pryövijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dá oahppe val e galga automáhtalattjat bessat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Doh learohkh eah edtjh automatihkeles lutniestimmiem åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Galggá liehket tjielgas gæhttjalime boados ij le heva ávkken oahppe oahppamij åvddålijguovlluj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjuara tjïelke årrodh pryöve-illedahke ij sïjhth dan stoerre mïelem utnedh learohki lïerehtæmman guhkiebasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Juska ájnegis oahppen le rievtesvuohta bessat, de máhttá oahppe iesj jali æjgáda mierredit jus oahppe huoman galggá gæhttjalimev tjadádit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jalhts akte learohke reaktoem åtna lutniestimmiem åadtjodh, learohke jïjtje jallh dan eejhtegh maehtieh læjhkan nænnoestidh satne edtja pryövem tjïrrehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Makkár dahkamusájt galggi oahppe tjoavddet ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Magkerh laavenjassh learohkh edtjieh darjodh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gæhttjalimijn li tevsta, gåvå ja dahkamusá gatjálvisáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövine ovmessie teeksth, guvvieh jïh laavenjassh gyhtjelassigujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe vásstedi rabás dahkamusájda ja válljimdahkamusájda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohkh vaestiedieh viehkine gaahpoeh laavenjassijste jïh jienebeveeljemelaavenjassijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Rabás dahkamusájn galggi oahppe vásstedit ietjasa bágoj jali tállaj, madin válljimdahkamusá mierkkiji oahppe galggi avtav moattet vásstádusájs válljit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaahpoeh laavenjassine learohkh edtjieh jïjtsh baakoejgujmie jallh taaligujmie vaestiedidh, mearan jienebeveeljemelaavenjassh sæjhta jiehtedh learohkh edtjieh aktem veeljedh jieniebistie vaastoealternatijvijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gæhttjalime li navti dagádum jut li álkkes, gasskamuttulasj ja gassjelis dahkamusá váj hiehpi oahppijda juohkka tjehpudakdásen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövine dovne aelhkie, gaskoeh jïh gïerve laavenjassh juktie bïevnesh vedtedh learohki bïjre gaajhkine tjiehpiesvoetedaltesinie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Næhttabielen www.udir.no gávnnuji buojkulvisá dahkamusájs ma aneduvvi nasjonála gæhttjalimijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sæjrosne www.udir.no laavenjassh mah vuesiehtieh mah laavenjassh mah åtnasuvvieh dejnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Goassa galggi gæhttjalime tjadáduvvat ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie edtja pryövide tjirrehtidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Biejvve8.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Biejjie8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dásseGæhttjalimvuohke</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>daltesePryövesåarhte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gasskavahko 17.9. Låhkåm 8. ja 9. dásen Páhpergæhttjalime Gasskavahko 17.9. Låhkåm sámegiella 8. ja 9. dásse Páhpergæhttjalime 15.9.–10.10. Riekknim 8. ja 9. dásseElektråvnålasj gæhttjalime 15.9.–10.10. Ieŋŋils 8. dásse Elektråvnålasj gæhttjalime</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaskevåhkoen 17.9. Lohkeme 8. jïh 9. daltese Paehperepryövh Gaskevåhkoen 17.9. Lohkeme saemien gïelesne 8. jïh 9. daltese Paehperepryövh 15.9.–10.10. Ryöknedimmie 8. jïh 9. dalteseElektrovneles pryövh 15.9.–10.10. Eengelsken gïele 8. dalteseElektrovneles pryövh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Biejvve 5. dásseGæhttjalimvuohke</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Biejjie5. daltesePryövesåarhte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gasskavahko 15.10. Låhkåm 5. dásse Páhpergæhttjalime Gasskavahko 15.10. Låhkåm sámegiella 5. dásse Páhpergæhttjalime 13.–25.10. Riekknim 5. dásseElektråvnålasj gæhttjalime 13.–25.10. Ieŋŋils 5. dásseElektråvnålasj gæhttjalime</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaskevåhkoen 15.10. Lohkeme 5. daltese Paehperepryövh Gaskevåhkoen 15.10. Lohkeme saemien gïelesne 5. daltesePaehperepryövh 13.–25.10Ryöknedimmie 5. dalteseElektrovneles pryövh 13.–25.10Eengelsken gïele 5. dalteseElektrovneles pryövh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gæhttjalimájgge le 90 minuhta låhkåmin ja riekknimijn, madin gæhttjalimájgge ieŋŋilsin le 60 minuhta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövetïjje lohkemasse jïh ryöknedæmman lea 90 minudth, mearan pryövetïjje eengelsken gïelese lea 60 minudth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Telefåvnnå 23 30 12 00</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tellefovne 23 30 12 00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>www.udir.no</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>www.udir.no</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

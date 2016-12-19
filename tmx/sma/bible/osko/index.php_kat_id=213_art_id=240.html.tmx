@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">index.php_kat_id=213_art_id=240.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpav: Girkko</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lïerh: Gærhkoe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bierna Leine Bientie ja Anna Jacobsen aktan jårggålijga, dåbddusamos sálmma mav jårggålijga le Biejjiem jih askem.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bierna Bientie gonnoeh Anna Jacobsenh ektesne saalmh jarkoestigan. Dej saalme Biejjiem jïh askem åehpiesommes lea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Bierna Bientie le oarjjelsámij báhppa ja álgij bargonis 1980-lågo álgon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bierna Leine Bientie lea hearra åarjelsaemide 1980-jaepiej aalkoelistie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ájtsaj sálma sámegiellaj vádnunin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aajhtsi guktie vaenie saalmh åarjelsaemien gïelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Danen jårggålahttjáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie jis eelki naan saalmh jarkoestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ierit ietján le jårggålam Laudate.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Akte dejstie lea Laudate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Frode Fjellheim le musihkkár ja komponissta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Frode Fjellheim musigkinie barka jïh ovmessie musigkh dorjeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sån le musihkav dahkam oarjjelsáme liturgijajda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Frode åarjelsaemien liturgiji melodijh dorjeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Frode le aj melodijav komponerim tækstaj Biejjiem jih askem.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Biejjiem jïh askem lea åarjelsaemien saalme, dan melodijem Frode dorjeme.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

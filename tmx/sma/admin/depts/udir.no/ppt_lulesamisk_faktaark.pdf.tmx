@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">ppt_lulesamisk_faktaark.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Diedo Pedagoga-psykologa dievnastusá birra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bïevnesh Pedagogeles-psykologeles dïenesjen bïjre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Pedagoga-psykologa dievnastus (PP-dievnastus)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pedagogeles- psykologeles dïenesje (PP-dïenesje)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Pedagoga-psykologa dievnastus (álu oaneduvvam PPD jali PP-dievnastus) le suohkana ja fylkkasuohkana rádevadde dievnastus.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pedagogeles-psykologeles dïenesje (daamtaj åeniedamme PPT jallh PP-dïenesje) lea akte tjïelten jallh fylhkentjïelten dïenesje mij raerieh vadta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dat galggá mánájt, nuorajt ja ållessjattugijt viehkedit gudi ietjas åvddånahttemijn rahtji, jali gejn le gássjelis oahppodille.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte edtja maanide, noeride jïh geerve almetjidie viehkiehtidh mah sijjen skearkagimmesne tjabreminie, jallh aktem geerve lïerehtimmietsiehkiem utnieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PP-dievnastus galggá ierit ietján mánájgárdijt ja skåvlåjt rádedit ja bagádallat váj dilev láhtjá mánájda / oahppijda gudi dav dárbahi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PP-dïenesje edtja g. j. maanide jïh skuvlide raeriestidh jïh bïhkedidh guktie dah edtjieh maanide / learoehkidie sjïehteladtedh mah dam daarpesjieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PP-dievnastus galggá skåvlåjt viehkedit dilev láhtjet åhpadimev hiebadit oahppijda gejn li sierralágásj dárbo.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PP-dïenesje edtja skuvlide viehkiehtidh lïerehtimmiem buerebelaakan sjïehteladtedh learoehkidie mej sjïere daerpiesvoeth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PP-dievnastusán le sjávodisvuodavælggo.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PP-dïenesje sjeavohtsvoetedïedtem åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Diedo máná / oahppe birra e galga bigoduvvat, ja e vatteduvá iehtjádijda jus æjgáda e dav dåhkkida.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bïevnesh maanan / learohken bïjre eah edtjh byögkeles årrodh, jïh eah mubpide vadtasovvh jis eejhtegh eah leah dam jååhkesjamme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Diedo máná / oahppe birra bisoduvvá sierra journálan / máhpan Dáhtágæhttjo njuolgadusáj milta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bïevnesh maanan / learohken bïjre vöörhkesuvvieh aktene jïjtse journalesne / maabpesne bïhkedassi mietie mejtie Daatavaaksjome vadteme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Majt PP-dievnastus dahká ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maam PP-dïenesje dorje ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PP-dievnastus guoradallá ja rádijt vaddá gåktu bagádallat mánájt, nuorajt ja ållessjattugijt gejn li dákkir hásstalusá:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PP-dïenesje salkehte, raereste jïh bïhkede maanaj, noeri jïh geerve almetji bïjre mah haestemh utnieh daan bïjre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• giella- ja ságastimgássjelisvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• gïele- jïh soptsestimmietsagkesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• åbbålasj oahppamgássjelisvuoda jali fáhkagássjelisvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• sïejhme learoetsagkesh jallh faagetsagkesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• låhkåm- ja tjállemgássjelisvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• lohkeme- jïh tjaelemetsagkesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• matematihkkagássjelisvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• matematihketsagkesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• mássimgássjelisvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• sosijaale jïh emosjovnelle tsagkesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• gássjelisvuoda ulmutjahttet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• dåemiedimmietsagkesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• vuojnno- ja gullamgássjelisvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• tsagkesh vuejnedh jïh govledh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåktu máhtá dån æjgádin PP-dievnastusájn válldet aktijvuodav ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie datne goh eejhtege maahtah PP-dïenesjinie soptsestidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åvddål gå váldá aktijvuodav PP-dievnastusájn, de bierri ságastit varresvuodastasjåvnåjn / skåvlåjn ietjat måråstimij ietjat máná åvdås.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åvtelen datne PP-dïenesjinie soptsesth, byörh healsoestasjovnine / maanagïertine / skuvline soptsestidh dov tjoeperdimmien bïjre dov maanese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe gudi li badjel 15 jage bessi aj PP-dievnastusájn aktijvuodav válldet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohkh bijjelen 15 jaepieh maehtieh aaj PP-dïenesjinie soptsestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PP-dievnastus máhttá aj viehkedit ållessjattugijt gudi sihti vuodoskåvllååhpadusáv válldet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PP-dïenesje maahta aaj geerve almetjh viehkiehtidh mah sijhtieh maadthskuvlelïerehtimmiem vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sihke ájnegis ulmutja ja ásadusá (mánájgárde, skåvlå ja iehtjáda) bessi namádak PPdievnastusájn aktijvuodav válldet ja rádádit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dovne almetjh jïh institusjovnh (maanagïerte, skuvle jïh mubpieh) maehtieh tjeakoeslaakan soptsestidh jïh raerien mietie gihtjedh PP-dïenesjen luvnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus dárbaj ienep viehkev PP-dievnastusás, de máhttá mánná / oahppe PP-dievnastussaj vuoseduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dastegh daerpies vielie viehkine PP-dïenesjistie, maahta maanam / learohkem saehtedh PPdïenesjasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dábálattjat de sierra diededimsjiemáv adná gå PP-dievnastussaj vuoset, gehtja duv suohkana / fylkkasuohkana næhttasijdov.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saehteme PP-dïenesjasse dorjesåvva sïejhmemes aktene saehtemegoeresne, vuartesjh dov tjïelten / fylhkentjïelten gåetiesæjrosne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Válde aktijvuodav mánájgárdijn / skåvlåjn jus dárbaha viehkev vuosedimsjiemáv dievddet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Soptsesth maanagïertine / skuvline juktie viehkiem åadtjodh saehtemegoerem dievhtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Iehtjáda gudi máhtti PP-dievnastussaj vuosedit:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mubpieh mah maehtieh PP-dïenesjasse saehtedh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Mánájgárde, skåvlå ja ållessjattukåhpadus.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Maanagïerte, skuvle jïh geervelïerehtimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>1 • Varresvuodastasjåvnnå ja skihppijviesso jus æjgáda miededi jus mánná / oahppe le vuollel 15 jage.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Healsoestasjovne jïh skïemtjegåetie mænngan eejhtegh jååhkesjamme, dastegh maana / learohke ij leah 15 jaepieh illeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe jali æjgáda máhtti gájbbedit jut skåvllå guoradallá dav vierdev majt dárbaj váj gávnat jus oahppe sierraåhpadimev dárbaj, ja makkir åhpadimev de luluj dárbahit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohke jallh eejhtegh maehtieh krievedh skuvle daerpies goerehtimmieh dorje juktie gaavnehtidh mejtie learohke sjïereööhpehtimmiem daarpesje, jïh mah såarhts lïerehtimmie learohke daarpesje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåktu PP-dievnastus barggá ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie PP-dïenesje barka ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PP-dievnastus barggá aktan duola dagu mánájgárdij ja skåvlåj váj fálaldagáv hiebat máná / oahppe ævtojda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PP-dïenesje laavenjostoe gaskem jeatjah maanagïertigujmie jïh skuvligujmie juktie faalenassem sjïehteladtedh learohken nuepiej jïh daerpiesvoeti mietie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PP-dievnastusá ássjegiehtadallamav máhttá gålmå åsijda juohket:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta aamhtesegïetedimmiem PP-dïenesjasse golme boelhkine juekedh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>1.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guoradallam Gå PP-dievnastus vuosedimev oadtju, de le dábálasj gullat masi æjgáda, aktan mánájgárdde ja skåvllå viehkev ádnu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Salkehtimmie Gosse PP-dïenesje saehtemem dååste, dle sïejhme govledh misse eejhtegh, laavenjostosne maanagïertine jïh skuvline, viehkiem daarpesjieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ságastallama / ságájdahttema baktu, váksjoma ja gæhttjalime baktu oadtju PP-dievnastus ålles gåvåv máná / oahppe dárbojs.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Soptsestimmien / byjrehtallemen, vïhtesjimmien jïh goerehtimmien tjïrrh PP-dïenesje aktem dan ållesth guvviem åådtje dejstie nuepijste jïh daerpiesvoetijste maana / learohke åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guoradallá mánájgárden, skåvlån jali PP-dievnastusá kontåvråjn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Salkehtimmie dorjesåvva maanagïertesne, skuvlesne jallh PPdïenesjen tjiehtjielinie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ássjediehtte árvustallam / ráde Guoradallama milta PP-dievnastus ássjev árvustallá (tjálalasj rapportta) ja vaddá rádev juogu de mánájgárdde- jali oahppodilev hiebadit máná / oahppe ævtoj milta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aamhtesemaehteles vuarjasjimmie / raeriestimmie Salkehtimmien sjïekenisnie dle PP-dïenesje aktem aamhtesemaehteles vuarjasjimmiem dorje (tjaaleldh reektehtse) jïh juvnehte kanne aktem sjïehteladtemem maanagïertesne jallh lïerehtimmietsiehkesne, mij våaroeminie åtna maanan / learohken nuepieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PPD fágalasj rádev vaddá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PP-dïenesje aamhtesemaehteles raeriem vadta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dábálamos ássje li árvustallat sierrapedagogalasj viehkev mánájda gudi ælla ájn skåvllåj álggám ja oahppij sierraåhpadibme.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah sïejhmemes suerkieh leah vuarjasjimmie sjïerepedagogeles viehkeste maanide skuvleaalteren nuelesne, jïh sjïereööhpehtimmie learoehkidie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>3.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjuovvolibme PP-dievnastus máhttá tjuovvolit rádij / bagádallama baktu æjgádijda, mánájgárdij barggijda ja skåvlå åhpadiddjijda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dåarjoehtimmie PP-dïenesje maahta dåarjoehtimmiem vedtedh viehkine raerijste / bïhkedimmeste eejhtegidie, barkijidie maanagïertesne jïh lohkehtæjjide skuvlesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PP-dievnastus máhttá doarjjaságastallamijt vaddet ájnegis oahppáj, ja máhtti árvustallat vijddásappo vuosedit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PP-dïenesje maahta dåarjoesoptsestimmieh vedtedh dan aktegs learoehkasse, jïh dah maehtieh sån aaj vijriesåbpoe saehtemem vuarjasjidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PP-dievnastusá bargo vuodon le åhpadimláhka, duola dagu tjuovvovasj njuolgadusá:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PP-dïenesjen barkoe lea nænnoestamme ööhpehtimmielaakesne, g, j daejnie paragraafine:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

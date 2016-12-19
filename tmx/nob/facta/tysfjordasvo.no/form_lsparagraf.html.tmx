@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">form_lsparagraf.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>takeren i størst mulig grad når frem mot det mål å kunne utføre arbeid på det normale arbeidsmarked.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Tilrettelegging / Hiebadibme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Viddnudagá</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Produksjon / Buvtadibme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Forside / Åvddåbielle</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Butikk / Oases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Utstillinger / Vuosádus</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Trening / Lásjmudallam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Duodjebloggen</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Arrangementer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Om oss / Mijá birra Videreføring av duodjeprosjektet</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Videreføring av duodjeprosjektet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kontakt oss / Válde aktijvuodav</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Andre tilbud / Ietjá fálaldagá</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">aahpadus.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadus / Sámedigge - Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lïerehtimmie / Saemiedigkie - Sametinget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lïerehtimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme álmmugin galggá liehket gájbbeduvvam diehto, máhtudahka ja tjehpudahka sáme sebrudagáv åvddånahtátjit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah saemieh edtjieh daajroem, maahtoem jïh tjiehpiesvoeth utnedh mah leah daerpies juktie dejtie saemien siebriedahkide evtiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát sihtá javllat sámijn li almma rievtesvuoda åhpadussaj sámegiellaj ja sámegielan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte sæjhta jiehtedh dah saemieh aktem tjïelke reaktam utnieh ållesth lïerehtimmiem åadtjodh saemien gïelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát vaddá sáme mánájda ja nuorajda nanos iesjdåbdov ja tjadnusit sáme giellaj ja kultuvrraj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate sæjhta saemien maanide jïh noeride aktem nænnoes saemien identiteetem jïh ektiedimmiem vedtedh saemien gïelese jïh kultuvrese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gájkka alep åhpadusá ja dutkama galggi sáme vuojnov bærrájgåhtset.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhke jollebe ööhpehtimmie jïh dotkeme edtjieh aaj dam saemien perspektijvem voebnesjidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Politihkalasj åvdåsvásstediddje</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Politihkere gïen diedte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mánájgárde</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Phone: +47 984 87 576</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuodoskåvlå ja joarkkaskåvlå</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maanagïerte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dutkam ja alep åhpadus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maadthskuvle jïh Jåa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ållessjattukåhpadus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dotkeme jïh jollebe ööhpehtimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahpponævo</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Geerveööhpehtimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sárnnom givsedime vuosstij</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learoevierhtieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge barggá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Manifeeste irhkemen vööste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nannit buorreålgoldisævtojt sáme mánájgárdijda, vuodoåhpadussaj, alep åhpadussaj ja dutkamij guovdásj, guovloj ja bájkálasj oajválattjaj ja ietjá aktøraj ságastallamij baktu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Hijven mieriekrievemh gorredidh saemien maanagïertese, maadthööhpehtæmman, jollebe ööhpehtæmman jïh dotkemasse govlehtallemen tjïrrh, voernges, regijovnale jïh voenges åejvieladtjigujmie jïh jeatjah sjyöhtehke aktöörh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme mánájn ja nuorajn le nanos iesjdåbddo ja tjadnusa sáme giellaj, kultuvrraj ja sebrudakiellemij.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien maanah jïh noerh edtjieh aktem nænnoes identiteetem utnedh jïh ektiedimmiem saemien gïelese, kultuvrese jïh siebriedahkese utnedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme álmmugin le almma rievtesvuoda buorre åhpadussaj sámegiellaj ja sámegielajn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemieh reaktam utnieh akten hijven lïerehtimmiem åadtjodh saemien gïelesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gájkka alep åhpadusá ja dutkama galggi sáme vuojnov bærrájgåhtset.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhke jollebe ööhpehtimmie jïh dotkeme dam saemien perspektijvem voebnesjieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge barggá moatte láhkáj dájt ulmijt jåvsåtjit. Miján le aktisasjbarggo guovdásj oajválattjaj ja diedojt juohkep ja bagádallap sámeåhpadusá birra.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkie njieljie vihties laavenjostoetjåanghkoeh Maahtoedepartemeentine åtna fïerhten jaepien maanagïerten, maadthlïerehtimmien jïh jollebe ööhpehtimmien bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Rievtesvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reaktah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpaduslága 6 kapihttalin li mærrádusá ma gulluji sáme åhpadussaj vuodoskåvlån (§ 6-2) ja joarkkaskåvlån (§ 6-3).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ööhpehtimmielaaken 6. kaptihtele nænnoestimmieh lïerehtimmien bïjre saemiengïelesne åtna maadthskuvlesne (§ 6-2) jïh jåarhkeskuvlesne (§ 6 -3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nuortta-, julev- ja oarjjelsámegiella.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien lea dovne noerhte, - åarjel jïh julevsaemien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ájnegis oahppen le danen láhkamierredum ájnegis rievtesvuohta sámegiella fága åhpadussaj mánáj-, nuoraj ja joarkkaskåvlån, berustahtek gånnå rijkan årru.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dannasinie akte learohke aktem sjïere reaktam åtna laaken mietie, lïerehtimmiem åadtjodh saemienfaagesne, dovne maanadaltesisnie, noeredaltesisnie jïh jåarhkeskuvlesne, saaht gusnie laantesne orre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe iesj vállji makkár sámegielav sihtá oahppat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah learohkh jïjtje veeljieh mennie gïelesne daejstie golme saemien gïelijste dah sijhtieh lïerehtimmiem utnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpaduslága § 6-2 milta le oahppijn vuodoskåvlå álldarin gudi årru sáme guovlojn rievtesvuohta åhpadussaj sámegielan ja sámegiellaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ööhpehtimmielaaken § 6- 2 mietie, dle learohkh maadthskuveaalteren, mah aktene saemien dajvesne årroeh, reaktam utnieh lïerehtimmiem åadtjodh saemien gïelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát sihtá javllat oahppijn le rievtesvuohta åhpadussaj sámegiellaj ietjá fágajn aj, jut åhpadus sámegiellaj galggá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah learohkh reaktam utnieh lïerehtimmiem åadtjodh saemiengïelesne aaj jeatjah faagine, amma guktie abpe ööhpehtimmie lea saemiengïelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Háldadusguovlo ålggolin le sámijn rievtesvuohta sámegiellaj åhpadusáv oadtjot jus binnemusát 10 oahppe dáv sihti, ja nav guhkev gå dá juohkusijn li 6 oahppe.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reeremedajven ålkolen dle saemieh reaktam utnieh lïerehtimmiem åadtjodh saemiengïelesne jis unnemes 10 learohkh dam sijhtieh, jïh dan guhkiem dah leah akte dåehkie 6 learohkigujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkan máhttá biedjat åhpadusáv avta jali moatte skåvllåj suohkanin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelte maahta nænnoestidh lïerehtimmiem saemiengïelesne bïejedh akten jallh gellide skuvlide tjïeltesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkana li da ma mierredi makkár skåvlåjn dákkár fálaldagá máhtti liehket.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah tjïelth nænnoestieh mennie skuvlesne akte dagkeres faalenasse edtja årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Skåvllåæjgádin le badjásasj åvdåsvásstádus vaj oahppij rievtesvuoda sáme åhpadussaj dievdeduvvi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Skuvlen aajhtere dam bijjemes diedtem åtna ihke learohki reaktah saemien lïerehtæmman steeresuvvieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpaduslága § 6-3 sisadno le joarkkaskåvlå åhpadus.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ööhpehtimmielaaken § 6 -3 lea learohki bïjre jåarhkelïerehtimmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme oahppijn le ájnegis rievtesvuoda åhpadussaj sámegielan joarkkaskåvlån.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien learohkh aktem sjïere reaktam utnieh lïerehtimmiem åadtjodh saemiengïelesne jåarhkeskuvlesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Joarkkaskåvlå åhpadussaj máhttá departemænnta vaddet láhkatjállusijt jut muhtem skåvlå galggi fállat åhpadusáv sámegielan jali sámegiellaj, ja sierra fágajn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jåarhkelïerehtimmien sjïekenisnie dle departemente maahta mieriedimmieh vedtedh ihke såemies skuvlh edtjieh lïerehtimmiem faalehtidh saemiengïelesne ellieslaakan jallh sjïere saemien faagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpaduslága § 7-1 láhkatjállusa milta le oahppijn rievtesvuohta sierra åhpadimvuogijda nav guhkás jus skåvlå ietjas åhpadiddje e máhte dáv vaddet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mieriedimmien mietie ööhpehtimmielaakese § 7-1, dle learohkh reaktam utnieh alternatijve lïerehtimmievuekiem åadtjodh dah guhkiem jïjtsh lohkehtæjjah eah maehtieh lïerehtimmiem vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dábegis láhkáj de sihtá dát sierra åhpadimvuohke javllat guhkásåhpadus, intensijva åhpadus jali læjrraskåvlå åhpadus.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Rïektesisnie sæjhta jiehtedh dagkeres lïerehtimmievuekie lea maajhööhpehtimmie, intensijve ööhpehtimmie jallh gïelebiesieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuodoskåvlå ja joarkkaskåvlå åbbå Vuonan li åhpaduslága § 6-4 milta biejadallam åhpadusáv sámeálmmuga, sáme gielaj, kultuvra ja sebrudakiellema birra vattátjit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ööhpehtimmielaaken § 6 -4 mietie dle maadthskuvlh jïh jåarhkeskuvlh abpe Nöörjesne dïedtem utnieh lïerehtimmiem vedtedh saemiej, saemien gïelen, kultuvren jïh siebriedahkejieleden bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppijn friddjaskåvlåjn ælla makkárak rievtesvuoda sámegiela åhpadussaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohkh frijjeskuvline eah naan reaktam utnieh lïerehtimmiem åadtjodh saemien gïelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme oahppe friddjaskåvlåjn hæhttuji sierra sámegiela åhpadusáv åhtsåt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien learohkh frijjeskuvline tjuerieh sjïerelaakan lïerehtimmien bïjre saemiengïelesne syökedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Skåvlå ietjas duogen le jus sáme åhpadusáv fálli ietjasa oahppijda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Skuvle jïjtse nænnoste mejtie dah saemienööhpehtimmiem sijjen learoehkidie faalehtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Diedo Åhpadus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bievnesh dan bïjre Lïerehtimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge mierret, Máhttodepartementa ævtoj sissŋelin, oahppoplánajt sámegielan vuodo- ja joarkkaskåvlåjda ja duodjefáhkaj, boatsojsujttofáhkaj ja sierra sáme fágajda joarkkaåhpadusájn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkie nænnoste, dej mieriej sisnjeli mejtie Gærhkoe- jïh ööhpehtimmiedepartemeente bïejeme, learoesoejkesjh saemiengïelesne maadthskuvlese jïh jåarhkeskuvlese, jïh aaj duadtan, båatsoefaagese jïh jeatjah sjïere saemien faagide jåarhkeööhpehtæmman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppoplánaj njuolgadustjállaga §2-3 ja §3-4 baktu biejaduvvá sámij birra, ja sijá giela ja sebrudakiellema birra åhpaduvvat duon dán fágaj baktu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mieriedimmieh learoesoejkesji bïjre, § 2-3 jïh § 3-4 mietie, edtjieh stilledh lïerehtidh saemiej bïjre, saemiej gïelen bïjre jïh siebriedahkejieleden bïjre, ektiedamme dejtie ovmessie faagesuerkide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtto- ja åhpadusdepartementa ævtoj sissŋelin le Sámedikken fábmudahka njuolgadustjállagijt aktan sisanojn vaddet dákkár åhpadibmáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mieriej sisnjeli, mejtie Gærhkoe- jïh ööhpehtimmiedepartemeente nænnoestamme, dle Saemiedigkie faamoem åtna mieriedimmieh sisvegen bïjre vedtedh dagkarinie lïerehtimmine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge galggá konsulteriduvvat juohkka åhpadusássjij ma sámij berustimijda guosski.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Edtja Saemiedigkine rååresjidh gaajhkine ööhpehtimmieaamhtesinine mah leah saemien ïedtji bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ovttas.no - Sáme oahppamnævo nehtan</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ovttas.no - Saemien learoevierhtieh gaskeviermesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij lip tjoaggám gåvåjt, girjijt, filmajt, jienajt, oahppamnævojt ja digitála ressursajt mij giehpet bargov dunji sáme åhpadiddjen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mijjieh libie tjööngkeme guvvieh, gærjah, jielijeguvvieh, tjoejenassh, lohkehtimmiedeerpegh, tjaalaldahkh, jih digitaale vierhtieh guktie edtja aelkebe dutnjien ööhpehtæjjine saemien skuvline årrodh.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

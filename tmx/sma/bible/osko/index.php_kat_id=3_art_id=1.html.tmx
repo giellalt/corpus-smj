@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">index.php_kat_id=3_art_id=1.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Reportásja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Soptsesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konfirmánta manoj nanna</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Skyllijh fealadimmesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konfirmasjåvnnåårnik le ietjálágásj sajes sadjáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie skyllemetijjem øørnedamme lea joekehts sijjeste sæjjan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dábálamos le konfirmasjåvnnååhpadibme le dan jage gå avtsát klássan váttsá ja vihpá gáktsa máno.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sïejhmemes skyllemeøøhpehtimmie lea dan jaepien gosse åktsadinie klaassesne vaadtsah, jïh gaektsie askh vaesieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Muhtem sajijn le åhpadibme vahkkobiejvijn, juohkka vahko jali juohkka nuppát vahko.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhtene lehkesne øøhpehtimmie våhkoebiejjine, fïerhten våhkoen jallh fïerhten mubpien våhkoen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Muhtem sajijn ájllegijt æjvvali, madi iehtjáda lejrajda vuolggi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhtene lehkesne lea tjåanghkoeh hieljine, mearan jeatjebh leejri gåajkoe vuelkieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Lågå ienebut konfirmasjåvnå birra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lohkh vielie skyllemen bïjre daesnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dáppe lip tjoahkkim muhtem gåvå konfirmasjåvnnåæjvvalimijs.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daesnie tjøønghkeme naan guvvieh skyllemegaavnesjimmijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hasodip konfirmántajt reportássjajt dahkat ietjasa årniga birra.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mijjieh haestebe skyllijidie soptsesh tjaledh sijjen øørnegijstie.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

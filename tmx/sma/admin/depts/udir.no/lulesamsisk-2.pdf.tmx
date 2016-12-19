@@ -1,0 +1,744 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">lulesamsisk-2.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Pedagoga-psykologa dievnastus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pedagogeles-psykologeles dïenesje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Pedagoga-psykologa dievnastus (PP-dievnastus / PPD) le rádevadde ja ássjediehtte ásadus mij guosská åvddånahttemij, oahppamij ja soapptsomij mánájda gudi ælla ájn skåvllåj álggám ja oahppijda vuodoja joarkkaskåvlå åhpadusán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pedagogeles Psykologeles dïenesje (PP-dïenesje / PPD) akte aamhtesemaehteles suerkie mij maanaj evtiedimmien, lïerehtimmien jïh tråjjadimmien bïjre raereste mah leah skuvleaalteren nuelesne, jïh learoehkidie maadth- jïh jåarhkeskuvlesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PP-dievnastusá barggo le vuodolágan vuododum.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PP-dïenesjen barkoe reaktavåaromem åtna ööhpehtimmielaakesne (ööhpl).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PP-dievnastus le fágalasj ressurssa mánájgárdijda / skåvlåjda váj åhpadimev buorebut hiebat mánájda ja oahppijda gejn li sierralágásj dárbo.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PP-dïenesje akte faageles vierhtie maanagïertide / skuvlide juktie lïerehtimmiem buerebelaakan sjïehteladtedh maanide jïh learoehkidie sjïere daerpiesvoetigujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PP-dievnastus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PP- dïenesje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> máhttá duola dagu mánájgárdijt ja skåvlåjt bagádallat gåktu juogos- ja oahppambirrasijt pedagogalattjat jådedit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> maahta gaskem jeatjah maanagïertide jïh skuvlide raeriestidh jïh bïhkedidh pedagogeles stuvremen bïjre dåehkie- jïh lïerehtimmiebyjresistie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> galggá skåvlåjt máhtudak- ja organisasjåvnnååvddånahttemijn viehkedit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> edtja skuvlide viehkiehtidh maahtoe- jïh åårganisasjovneevtiedimmine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> galggá bærrájgæhttjat jut ássjediehtte árvustallá ássjev gåggu åhpadimláhka dav gájbbet, ja mánájgárdev ja skåvlåv bagádallat ja rádádallat gåktu hiebadit mánájda ja oahppijda gudi dav dárbahi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> edtja hoksedh akte aamhtesemaehteles vuarjasjimmie dorjesåvva desnie gusnie ööhpl. dam kreava, jïh maanagïertide jïh skuvlide raeriestidh jïh bïhkedidh sjïehteladtemen bïjre maanide jïh learoehkidie mah dam daarpesjieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> le láhkamierredum dievnastus suohkanijda man vuodo le åhpadimlága § 5-6.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> akte laakevïedteldihkie tjïelten dïenesje mij reaktavåaromem åtna ööhpl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Moadda suohkana máhtti aktan organiserit dievnastusáv.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>§ 5-6. Dïenesje maahta öörnesovvedh tjïelti dåaresth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkana ja fylkkasuohkana máhtti aktisasj dievnastusájt fállat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelth jïh fylhkentjïelth maehtieh tjåenghkies dïenesjh utnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> galggá sjávot årrot: gájka diedo ma tjoahkkiduvvi sierra journálan vuorkkiduvvi Dáhtágæhttjo njuolgadusáj milta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> sjeavohtsvoetedïedtem åtna: gaajhkh bïevnesh mah tjöönghkesuvvieh, aktene jïjtse journalesne vöörhkesuvvieh bïhkedassi mietie Daatavaaksjoemistie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> le suohkana / fylkkasuohkana ássjediehtte mij guosská árvustallat riektájt ma li åhpadimlágan mierredum.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> lea tjïelti / fylhkentjïelti aamhtesemaehteles suerkie gosse edtja reaktah vuarjasjidh mah leah nænnoestamme ööhpl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkana ja fylkkasuohkana PP-dievnastusájn rádádalli duola dagu dáj ássjijn:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelth jïh fylhkentjïelth gaskem jeatjah raerieh veedtjieh PP-dïenesjistie daejnie aamhtesinie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> sierrapedagogalasj viehkke åvddål skåvllåj le álggám (§ 5-7)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> sjïerepedagogeles viehkie lïerehtimmeiaalteren åvtelen (§5-7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> sierraåhpadus skåvlån (§5-1) ja ållessjattugijda gudi vuodoskåvllååhpadusáv dárbahi (§ 4a-2)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> sjïereööhpehtimmie skuvlesne (§ 5-1) jïh geerve almetjidie mah maadthskuvlelïerehtimmiem daarpesjieh (§ 4a-2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> árabut skåvllåj álgget (§ 2-1 goalmát ladás)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> aarebi skuvleaalkoe (§ 2-1 gåalmede lïhtse)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> maŋedit skåvlåvádtsema álgov (§ 2-1 goalmát ladás)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> seassoehkåbpoe skuvleaalkoe (§ 2-1 gåalmede lïhtse)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> oahppovælggogisvuodas bessat (§ 2-1 nælját ladás)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> luajhtasovveme lïerehtimmiedïedteste (§ 2-1 njealjede lïhtse)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> sevvamgiellaåhpadus åvddål skåvllåj álggá ja vuodoskåvlån (§ 2-6) ja joarkkaskåvlå åhpadimen (§ 3-9)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> væhtagïelelïerehtimmie lïerehtimmieaalteren åvtelen, jïh maadthskuvlesne (§2-6) jïh jåarhkeööhpehtimmesne (§ 3-9)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> tjuokkestjálaåhpadibme jnv. vuodoskåvlån (§ 2-14) ja joarkkaskåvlå åhpadimen (§3-10)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> punktskriftlïerehtimmie j. v. maadthskuvlesne (§ 2-14) jïh jåarhkeööhpehtimmesne (§ 3-10)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> sierra sisiválldem joarkkaskåvlåjda (§ 3-1 gudát ladás)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> sjïere tsaekeme jåarhkeskuvlide (§ 3-1 govhtede lïhtse)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> guhkedum oahppoájgge joarkkaskåvlå åhpadusán (§ 3-1 vidát ladás)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> vijriedamme lïerehtimmietïjje jåarhkelïerehtimmesne (§ 3-1 vïjhtede lïhtse)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dahkamusá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Laavenjassh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PP-dievnastus guoradallá ja rádádallá ja bagádallá mánáj, nuoraj ja ållessjattugij gáktuj gejn li hásstalusá ma soajtti oahppamij vájkkudit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PP-dïenesje salkehte jïh raereste jïh bïhkede maanaj, noeri jïh geerve almetji bïjre mej haestemh mah maehtieh konsekvensh åadtjodh lïerehtæmman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dákkir hásstalusá soajtti liehket</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies haestemh maehtieh årrodh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> giella- ja ságastallamgássjelisvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> gïele- jïh soptsestimmietsagkesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> åbbålasj oahppamgássjelisvuoda jali fáhkagássjelisvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> sïejhme learoetsagkesh jallh faagetsagkesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> låhkåm- ja tjállemgássjelisvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> lohkeme- jïh tjaelemetsagkesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> matematihkkagássjelisvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> matematihketsagkesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> mássemgássjelisvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> ij-verbaale learoetsagkesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> sosiála ja dåbdoj gássjelisvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> sosijaale jïh emosjovnelle tsagkesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> ulmutjahttemgássjelisvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> dåemiedimmietsagkesh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> tjalmme- ja gullamgássjelisvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> tsagkesh vuejnedh jïh govledh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aktijvuohta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaskese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe gudi li badjel 15 jage, æjgáda, mánájgárde, ja skåvlå ja ietjá ásadusá dagu varresvuodabargge, bessi PP-dievnastusájn aktijvuodav válldet ja rádádallat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohkh mah 15 jaepieh illeme, eejhtegh jallh dah mah eejhtegi åvteste, maanagïerth, skuvlh jïh mejtie aaj jeatjah suerkieh, vuesiehtimmien gaavhtan healsoesåjhtere, maehtieh PP-dïenesjinie soptsestidh jïh raeriej mietie gihtjedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus máná åvddånahttema jal oahppama badjel mårås, de bæssá dáv sjávsjávot PP-dievnastusájn giehtto åvddål formála ássje sjaddá vuosedimijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis tjoeperdimmieh akten maanan evtiedimmien jallh lïerehtimmien bïjre, maahta dam tjeakoeslaakan PP-dïenesjinie digkiedidh åvtelen daate akte byjjes aamhtese sjædta goh akte saehteme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuosedibme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saehteme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åvddål ássje PP-dievnastussaj vuoseduvvá, bierri skåvllå guoradallam jus soajtti dåjma stuoves åhpadusfáláldahkaj ulmijn oahppáj vaddet dåhkkidahtte viehkev åvddål gå ássjedåbdde árvustallam</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åvtelen aktem aamhtesem PP-dïenesjasse saahta, skuvle lea byöreme vuarjasjamme, jïh mejtie aaj råajvarimmieh pryöveme dan sïejhme lïerehtimmiefaalenassen sisnjelen, juktie pryövedh learoehkasse aktem nuekies hijven nåhtoem vedtedh åvtelen akte maehteles vuarjasjimmie dorjesåvva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dagáduvvá. Mij guosská mánájda gudi ælla ájn skåvllåj álggám, de galggi máná dárbo árvustaláduvvat berustahtek mánájgárde hiebadimes.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse lea maanaj bïjre skuvleaalteren åvtelen, dle edtja maanan daerpiesvoeth vuarjasjidh saaht guktie sjïehteladteme lea maanagïertesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ássje máhttá PP-dievnastussaj guoradallamij ja árvustallamij buvteduvvat jus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta aktem aamhtesem PP-dïenesjasse bïeljelidh salkehtæmman jïh vuarjasjæmman jis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> æjgáda, mánájgárdde ja / jali skåvllå mårås makta mánná åvddån álldara gáktuj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> eejhtegh, maanagïerte jïh / jallh skuvle tjoeperdeminie akte maana ij skearkegh goh veanhtadamme aalteren mietie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> jus jáhkká oahppe ij nuohkásav åhpa</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> sovmehte learohke ij aktem hijven nåhtoem lïerehtimmeste åadtjoeh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppe jali æjgáda máhtti gájbbedit jut skåvllå guoradallá dav majt dárbaj váj gávnná jus oahppe sierraåhpadimev dárbaj, ja makkir åhpadimev de dárbaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learohke jallh eejhtegh maehtieh krïevedh skuvle dejtie daerpies goerehtimmide dorje juktie gaavnehtidh mejtie learohke sjïereööhpehtimmiem daarpesje, jïh aaj maam lïerehtimmide learohke daarpesje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadusbargge galggi árvustallat jus oahppe oadtju dåhkkidahtte åhpadusávkev ja diededit rektorij jus la dassta dárbbo.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ööhpehtimmiebarkijh edtjieh vuarjasjidh mejtie learohke aktem nuekies hijven lïerehtimmienåhtoem åådtje, jïh skuvlen åvtehkasse / rektovrese bïeljelidh dastegh daerpies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Skåvllå galggá árvustallat jus soajttá gæhttjalit dåjmajt ulmijn oahppáj vaddet åhpadusás dåhkkidahtte ávkev.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Skuvle edtja vuarjasjidh jïh mejtie aaj råajvarimmieh pryövedh mah edtjieh learoehkidie aktem nuekies hijven nåhtoem vedtedh lïerehtimmeste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Diededibme PP-dievnastussaj beras luluj liehket aktisasjbarggo mánájgárde / skåvlå ja æjgádij gaskan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Akte saehteme PP-dïenesjasse byöroe bööremes akte laavenjostoe årrodh maanagïerten / skuvlen jïh eejhtegi gaskem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Æjgáda jali oahppe (badjel 15 jage) hæhttuji PP-dievnastusá diededibmáj guorrasit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Eejhtegh jallh learohke (bijjelen 15 jaepieh) tjuerieh saehtemem PP-dïenesjasse jååhkesjidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkan / fylkkasuohkan da mierredi gåktu mánájgárdde / skåvllå mánájt / oahppijt PP-dievnastussaj vuosedi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelte / fylhkentjïelte bïhkedassh jïh vuekieh nænnoste guktie maanagïerte / skuvle maanide / learoehkidie PP-dïenesjasse saahta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dábálasj le PP-dievnastussaj vuosedimsjiemá baktu vuosedit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sïejhmemes dle PP-dïenesjasse saahta aktene saehtemegoeresne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mánájgárdde / skåvllå pedagogalasj rapportav tjuovvusin biedjá mij vuoset máná / oahppe åvddånahttemav, ja mav le åvddåla gæhttjalam.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maanagïerte / skuvle aktem pedagogeles reektehtsem baalte beaja mij maanan / learohken evtiedimmiem buerkeste, jïh mah råajvarimmieh mah leah pryövesovveme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus sidá ienep diedojt diededime gáktuj de máhtá suohkanijn (mánájgárdij ja vuodoskåvlåj gáktuj) jali fylkkasuohkanijn (joarkkaskåvlåj gáktuj) aktijvuodav válldet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis vielie bïevnesh saehtemen bïjre daarpesjh maahtah tjïeltine soptsestidh (maanagïertide jallh maadthskuvlide) jallh fylhkentjïeltine (jåarhkeskuvlide).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guoradallam Gå PP-dievnastus vuosedimev oadtju, de le dábálasj tjielgadit masi æjgáda, aktan mánájgárdde jali skåvllå, viehkev sihtá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aamhtesegïetedimmie Salkehtimmie Gosse PP-dïenesje aktem saehtemem dååste, dle sïejhme tjïelkestidh mïsse eejhtegh, laavenjostosne maanagïertine jallh skuvline, viehkiem daarpesjieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ienemus bálijn sihtá PP-dievnastusáv ássjediehtte guoradallam tjadát manna le ráde.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dej jeanatjommes veajkoej dle vaajteleminie PPdïenesje aktem aamhtesemaehteles vuarjasjimmiem dorje aktine salkehtimmine jïh aktine raerine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guoradallam soajttá sisadnet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Salkehtimmie maahta årrodh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> kárttim ja dåjma mánájgárdes jali skåvlås</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> goerehtalleme jïh råajvarimmie maanagïerteste jallh skuvleste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> javllamusá ietjá ásadusájs, máná / oahppe ságastallam, váksjom ja tiesstim.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> lahtestimmieh jeatjah suerkijste, soptsestimmieh, vïhtesjimmie jïh goerehtimmie maaneste / learoehkistie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mánájda gudi ælla ájn skåvllåj álggám tjanáduvvá guoradallam máná dárbojda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maanide mah skuvleaalteren nuelesne dle salkehtimmie sæjhta maanan daerpiesvoeten mietie årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppijda gudi li skåvlån sisadná guoradallam sihke oahppe oahppamævtojt ja skåvlå vejulasjvuodajt dábálasj oahppofálaldagán hiebadit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learoehkidie skuvlesne dle salkehtimmie sæjhta dovne learohken lïeremenuepiej bïjre årrodh, jïh skuvlen nuepieh sjïehteladtedh dan sïejhme lïerehtimmiefaalenassen sisnjelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Árvvalus Guoradallama vuodon galggá PP-dievnastus tjálalasj árvvalusáv vaddet mij le ássjediehtte árvustallam máná / oahppe sierralágásj dárbojs.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Raerie Salkehtimmien sjïekenisnie dle PP-dïenesje edtja aktem tjaaleldh raeriem vedtedh goh akte aamhtesemaehteles vuarjasjimmie maanan / learohken sjïere daerpiesvoetijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guoradallam galggá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuarjasjimmie edtja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> vuosedit makta mánná / oahppe dárbaj sierrapedagoga viehkev åhpadimlága § 5-7 milta sierraåhpadimev åhpadimlága § 5-1 milta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> vuesiehtidh mejtie maana / learohke sjïerepedagogeles viehkiem daarpesje ööhpehtimmielaaken § 5-7 mietie jallh sjïereööhpehtimmie ööhpehtimmielaaken § 5-1 mietie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> rádev vaddet makkir viehkev / åhpadimfálaldagáv bierri fállat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> raeriestidh magkeres viehkie / lïerehtimmiefaalenasse mij byöroe vadtasovvedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus mánná sierrapedagogalasj viehkev åhpadiml. § 5-7 milta, de galggá æjgátrádevaddem oassen liehket fálaldagás.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis maana reaktam åtna sjïerepedagogeles viehkiem åadtjodh ööhpehtimmielaaken § 5-7 mietie, dle raeriestimmie eejhtegidie edtja akte bielie årrodh faalenasseste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå guosská mánájda gudi ælla ájn skåvllåj álggám galggá tjálalasj árvvalus PP-dievnastus sisadnet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maanide lïerehtimmieaalteren nuelesne, akte tjaaleldh raeriestimmie PP-dïenesjistie edtja sisveginie utnedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> makkir lágásj sierrapedagogalasj viehkke luluj mánnáj dåhkkidahtte åvddånahttemav vaddet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> magkeres sjïerepedagogeles viehkie mij maahta maanese aktem eensi evtiedimmiem vedtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> ulme máná åvddånahttemij ja oahppamij ma li jåvsådahtte</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> rïektes jïh eensi ulmieh maanan evtiedæmman jïh lïerehtæmman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oahppijda skåvlån galggá tjálalasj árvvalus PP-dievnastusás sisadnet árvustallamav</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Learoehkidie skuvlesne dle akte tjaaleldh raerie PP-dïenesjistie edtja sisveginie utnedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> jus máhttá oahppe gássjelisvuodajt dábálasj oahppofálaldagá baktu tjoavddet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> mejtie gåarede viehkiehtidh dej tsagkesigujmie mejtie learohke åtna dan sïejhme lïerehtimmiefaalenassen sisnjelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> makkir åhpadibme luluj dåhkkidahtte oahppofálaldagáv vaddet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> magkeres lïerehtimmie mij sæjhta aktem eensi lïerehtimmiefaalenassem vedtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> makkir åhpadimulme li oahppáj jåvsådahtte</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> mah leah learohken rïektes jïh eensi lïerehtimmieulmieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>PP-dievnastus galggá oahppijn ja / jali æjgádij rádádallat ássjediehtte guoradallama bargadijn ja dættodit majt sij miejnniji.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PP-dïenesje edtja learoehkinie jïh / jallh eejhtegigujmie rååresjidh gosse dejnie aamhtesemaehteles vuarjasjimmine barkeminie, jïh leavloem bïejedh dïsse maam dah vienhtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå ássjediehtte árvustallam (guoradallam ja árvvalus) le sajen, de galggi æjgáda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse dïhte aamhtesemaehteles vuarjasjimmie (salkehtimmie jïh raerie) gaervies, dle eejhtegh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> gejn li máná gudi ælla ájn skåvllåj álggám guorrasit jut suohkan / mánágárddeæjgát ássjediehtte árvustallama vuodon ájnegis mærrádusáv dahká, ja guorrasit dasi jut suohkan / mánájgárddeåmastiddje jåhtuj biedjá dajt dåjmajt majt PP-dievnastus le oajvvadam</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>maanide lïerehtimmieaalteren nuelesne jååhkesjidh tjïelte / maanagïerteaajhtere dam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> gejn li oahppe jali oahppe iesj jus le badjel 15 jage guorrasit jut dasi jut skåvllåæjgát / skåvllå jåhtuj biedjá dajt dåjmajt majt PP-dievnastus le oajvvadam</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>aamhtesemaehteles vuarjasjimmiem våaroemasse beaja juktie aktegsnænnoestimmiem darjodh, jïh jååhkesjidh tjïelte / maanagïerteaajhtere råajvarimmiejgujmie nearhka mejtie PPdïenesje lea juvnehtamme  learoehkidie skuvlesne jallh learoehkidie bijjelen 15 jaepieh, jååhkesjidh skuvleaajhtere / skuvle dam aamhtesemaehteles vuarjasjimmiem våaroemasse beaja juktie aktegsnænnoestimmieh darjodh, jïh jååhkesjidh skuvleaajhtere / skuvle råajvarimmiejgujmie nearhka mejtie PP-dïenesje lea juvnehtamme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Statpeda birra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Statpeden bïjre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkan jali fylkkasuohkan máhttá dárbo milta åhtsåt stáhta sierrapedagogalasj dievnastusájt Statpedas. Statped</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis daerpies akte tjïelte jallh fylhkentjïelte maahta staateles sjïerepedagogeles dïenesji bïjre syökedh Statpeden luvnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> le viehkken mánájda, nuorajda ja ållessjattugijda gejn li sierralágásj oahppodárbo váj buorre fálaldagájt åhpadimlága milta oadtju, váj bessi dåjmalattjat åhpadussaj, bargguj ja sebrudakiellemij oassálasstet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> viehkehte guktie maanah, noerh jïh geerve almetjh sjïere lïerehtimmiedaerpiesvoetigujmie, maehtieh hijven faalenassh åadtjodh ööhpehtimmielaaken mietie, guktie dah maehtieh eadtjohkelaakan meatan sjïdtedh ööhpehtimmesne, barkosne jïh siebriedahken jieliedisnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> åvddånahttá máhtudagáv ja máhtov gaskos sierraåhpadime vuoksjuj, ja avtaárvvusasj, hiebadam ja sebradahtte åhpadime birra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> maahtoem evtede jïh daajroem buakta sjïereööhpehtimmien bïjre, jïh seammavyörtegs, sjïehtedamme jïh feerhmeles lïerehtimmien bïjre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> åvdet sierrapedagogalasj fáhkasuorgijt gullo, vuojnno, giella / sáhkadallam, vuojŋŋamskihpudagá, oahppogássjelisvuoda majn li moadda sivá ja bieljedimtjalmedibme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> akte tsevtsiedæjja juktie daejtie sjïerepedagogeles faagesuerkide evtiedidh; govleme, vuejneme, gïele / soptsestimmie, åådtjeme aajlaskaara, gelliesåarhts learoetsagkesh jïh bieljehtstjelmehtsvoete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> Statpedan le máhtudahka mánáj, nuoraj ja ållessjattugij vuoksjuj gejn li sierralágásj åhpadimdárbo</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> maahtoem åtna lïerehtimmievierhtiej bïjre maanide, noeride jïh geerve almetjidie sjïere lïerehtimmiedaerpiesvoetigujmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ienep diedo, gehtjawww.statped.no.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis vielie bïevnesh sïjhth, vuartesjhwww.statped.no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nasjonála guovdásj moattekultuvralasj åhpadime vuoksjuj (NAFO)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nasjovnaale jarnge jienebekultuvrelle lïerehtimmien bïjre (NAFO (nöörjen))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ij le agev buorre diehtet mij le sivvan unneplågogielak mánáj / oahppij oahppamgássjelisvuodajda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij leah iktesth aelhkie vuarjasjidh man åvteste lïerehtimmietsagkesh gosse lea unnebelåhkoegïelen maanaj / learohki bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Le gus gielladádjadusá vádnunibme mij le stuorámus hásstalus, jali li gus ietjá sivá ma oahppamav hieredi ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mah gïelegoerkese mij fååtese, mij lea dïhte stööremes haesteme, jallh jeatjah fåantoeh man åvteste lïerehtimmie geerve sjædta ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>NAFO dahkamusá li duola dagu viehkedit</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>NAFO:N barkoe lea gaskem jeatjah viehkiehtidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> jut nasjonála oahppopolitihkka jåhtuj biejaduvvá ja tjadáduvvá navti jut máná, nuora ja ållessjattuga oadtju avtaárvvusasj ja hiebadum åhpadimev man le alla kvalitehtta sebradahtte aktijvuodan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> dïhte nasjovnaale ööhpehtimmiepolitihke aalkeme sjædta jïh tjïrrehtamme guktie maanah, noerh jïh geerve almetjh maehtieh aktem seammavyörtegs jïh sjïehtedamme lïerehtimmiem åadtjodh jolle kvaliteeteste aktene feerhmeles ektievoetesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> jut moattekultuvralasj perspektijva várajda váldeduvvi mánájgárden ja vuodoåhpadusán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> jienebekultuvrelle vuajnoeh gorresuvvieh maanagïertesne jïh maadthlïerehtimmesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> jut unneplågogielagij oahppofálaldahka bárrán ja barggat váj sebradahtte, moattekultuvralasj oahppamaktijvuohta mánájgárden ja vuodoåhpadusán åvddånahteduvvá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg> lissiehtamme kvaliteete lïerehtimmiefaalenassesne unnebelåhkoegïelen almetjidie jïh feerhmeles, jienebekultuvrelle lïeremeektievoeth evtiedidh maanagïertesne jïh maadthlïerehtimmesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadiddje, skåvllåjådediddje, mánájgárdde- ja skåvllåæjgáda ja pedagogalasj bargge mánájgárdijn li dåjma guovdásj ulmmejuohkusa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lohkehtæjjah, skuvleåvtehkh, maanagïerte- jïh skuvleaajhterh jïh pedagogeles barkijh maanagïertine leah dah vihkeles ulmiedåehkieh darjoemasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guovdásj galggá UHsuorgev / åhpadiddjeoahppoásadusájt viehkedit gå galggá máhtudakåvddånahttemav vuorodit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jarnge edtja UHsuerkiem / lohkehtæjjaööhpehtimmien institusjovnide viehkiehtidh gosse dah maahtoeevtiedimmine berkieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ienep diedo, gehtjahttp://www.hioa.no/Om-HiOA/NAFO</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis vielie bïevnesh sïjhth, vuartesjhhttp://www.hioa.no/Om-HiOA/NAFO</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

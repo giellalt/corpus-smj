@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">56-tidslinje.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dála li muhtem dajs duodastum jåvsådimijs ma li midjij dåbddusa, tjoahkkidum Anders Lundahlas Svenska Fjällklubbens årsbok " Till Fjälls ", 1999 - 2000.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Her er noen av de dokumenterte bestigninger vi kjenner til, samlet av Anders Lundahl i Svenska Fjällklubbens årsbok ” Till Fjälls ”, 1999 - 2000.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

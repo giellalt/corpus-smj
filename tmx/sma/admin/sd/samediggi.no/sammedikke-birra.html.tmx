@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">sammedikke-birra.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámmedikke birra / Sámedigge - Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkien bïjre / Saemiedigkie - Sametinget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge le sámij álmmukválljidum orgádna Vuonan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkie akte almetjeveeljeme åårgane saemide Nöörjesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>39 ájrrasa válljiduvvi gietjat válggaguovlos juohkka nælját jage.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>39 tjirkijh veeljesuvvieh 7 veeljemegievlijste fïerhten njealjeden jaepien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge galggá nannit sámij politihkalasj dilev ja åvdedit sámij ássjijt Vuonan, barggat vaj sáme álmmuk giehtadaláduvvá avtaárvvusattjat ja rievtesferduk láhkáj ja hiebadahttet vaj sáme máhtti ietjasa gielav, kultuvrav ja sebrudakiellemav åvddånahttet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkie edtja saemiej politihkeles sijjiem nænnoestehtedh jïh saemiej ïedtjh skreejredh Nöörjesne, viehkiehtidh guktie saemieh seammavyörtegs jïh seammaligke gïetedimmiem åadtjoeh, jïh sjïehteladtedh guktie saemieh maehtieh sijjen gïelem, sijjen kultuvrem jïh sijjen siebriedahkejieledem gorredidh jïh evtiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sjiemá ájrrasida</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjirkijidie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Arkitektonalasj moallánahka</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Arkitektovneles guelmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dájdda Sámedikketsiekkadusán</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjeahpoeh Saemiedigkiegåetesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikkev guossidit</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guessine mïnnedh Saemiedigkesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Organisasjåvnå struktuvrra ÅllestjåhkanibmeÅllestjåhkanime jådedibmeKomiteaSámedikki váiddalávdegoddiSámedikkerádeSNPNSámedikke vuorrasij ráde</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åårganisasjovnestruktuvre StoerretjåanghkoeStoerretjåanhgkoen ståvroeMoenehtshSaemiedigkien laejhtememoenehtseSaemiedigkieraerieSUPUSaemiedigkien voereseraerie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ållestjåhkanibme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Stoerretjåanghkoe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ållestjåhkanime jådedibme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Stoerretjåanhgkoen ståvroe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikkeráde</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkieraerie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke vuorrasij ráde</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkien voereseraerie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Duogásj Sámediggi 25 jagiHiståvrråRievtesvuodaRádádallamsjiehtadusÁlmmukbiejvve ja nasjåvnålasj gåvåstagá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkie 25 jaepieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Rievtesvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Histovrije</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Rádádallamsjiehtadus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reaktah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Álmmukbiejvve ja nasjåvnålasj gåvåstagá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åålmegebiejjie jïh nasjovnaale symbovlh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Válde aktijvuodav mijájn Aktijvuodadiehto Sámedikke barggijda gávna dánna.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïeltereforme Saemiedigkie sæjhta dov mïelem govledh tjïeltereformen bïjre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aktijvuodadiehto Sámedikke barggijda gávna dánna.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkie sæjhta dov mïelem govledh tjïeltereformen bïjre</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

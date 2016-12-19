@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">verneplanarbeid.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Verneplanarbeid / Luondo moattebelakvuohta / Birás, areálla ja kultursuodjalus / Sámedigge - Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Sametinget og Miljøverndepartementet konsulterte seg fram til enighet om innføring av lokale verneområdestyrer, som også sikrer samisk deltakelse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konsultasjåvnnånjuolgadusá suodjalimpládna bargguj</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Konsultasjonsretningslinjer for verneplanarbeid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge ja Birássuodjalimdepartemænnta guorrasijga sjiehtadussaj konsulterimij baktu suodjalimpládna bargo njuolgadusájda sáme guovlojn jagen 2007.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Sametinget og Miljøverndepartementet konsulterte seg fram til enighet om en avtale om egne retningslinjer for verneplanarbeid i samiske områder i 2007.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

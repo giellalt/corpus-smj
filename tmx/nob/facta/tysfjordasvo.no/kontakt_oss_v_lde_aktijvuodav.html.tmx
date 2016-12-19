@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">kontakt_oss_v_lde_aktijvuodav.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kontakt oss / Válde aktijvuodav</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Navn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>8270 Ájluokta / Drag</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Tilrettelegging / Hiebadibme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>åpningstider / rahpamájge: man / mán - fre / bierj 8 - 15</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Produksjon / Buvtadibme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Forside / Åvddåbielle</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Butikk / Oases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Utstillinger / Vuosádus</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Trening / Lásjmudallam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Duodjebloggen</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Arrangementer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kontakt oss / Válde aktijvuodav</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Andre tilbud / Ietjá fálaldagá</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

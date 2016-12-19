@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">soknadskjema_barnehage-samisk.doc.as.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Divtasvuona Suohkan Bajássjaddam ja åhpadus</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Tysfjord Kommune Oppvekst og utdanning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sisiválldem jagen Oajvvesisiválldem</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Opptak i barnehageåret Hovedopptak </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gásluokta</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Kjøpsvik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhtsåmus sajev mánájgárden</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Søknad om plass i barnehage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjále dádjadahtteÅskeldisvuodajn giehtadaláduvvat</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Skriv tydeligKONFIDENSIELT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Persåvnnånummar:Mañep namma:Åvdep namma</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Personnummer:Etternavn:Fornavn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mánná</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>BARNET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Le gus mánán máhttelisvuohta ståhkat sijda lahka ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Har barnet mulighet for fri lek i nærheten av boligen ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Le gus mánán ståhkam rádna ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Har barnet lekekamerater ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Persåvnnånummar:Mañep nammaÅvdep namma</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Personnummer:Etternavn:Fornavn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máná</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>BARNETS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Barggovadde / skåvllå:Virggeprosænnta ja guhkkudahka</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Arbeidsgiver / skole:Stillingsprosent og varighet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Telef. barggov./skåvllå</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Telefon arb. g./skole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> stuoves  sadjásasj</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg> fast  vikariat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Persåvnnånummar:Mañep nammaÅvdep namma</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Personnummer:Etternavn:Fornavn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Barggovadde / skåvllå:Virggeprosænnta ja guhkkudahka</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Arbeidsgiver / skole:Stillingsprosent og varighet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Telef. barggov./skåvllå</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Telefon arb. g./skole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> stuoves  sadjásasj</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg> fast  vikariat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Virggeprosænnta ja guhkkudahka hæhttu vatteduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Stillingsprosent og varighet må oppgis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>AdræssaPoasstanr./bájkke</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Adresse:Postnr./-sted</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg> Válldum  Aktanårro Aktugasj</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg> Gift  Samboer  Enslig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Galla máná li familjan ja goassa li riegádam (jahke):</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Antall barn i familien og fødselsår for disse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Le gus mánná sajev adnám mánájgárden åvddåla ?</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Har barnet tidligere hatt barnehageplass ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>(Man guhkev):____________</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>(Oppgi varighet):___________________________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Goassátjis sadje mánájgárden åhtsåduvvá?_______________________________________</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Fra hvilken dato ønskes barnehageplass?_________________________________________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Le gus mánán sadje mánájgárden dálla, makkir?________________________</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Har barnet plass i barnehage nå, hvilken?_________________________________________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mánájgárdde ja sadjesládja (ålles / bielle) gåsi åhtsåduvvá: __________________________________ (Gå mánán la bielle sadje de la mánná mánájgárden fært nuppe biejve)</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Barnehage og plasstype (hel / halv) det søkes på:__________________________________ (Halv plass innebærer at barnet går annenhver dag i barnehage)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mån / måj sárnnun diedojt badjelin duolla</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>Jeg / vi erklærer at ovenstående opplysninger er riktige:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>______________________________ Sadje ja dato</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>______________________________ Sted / dato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>____________________________________ Vuollájtjállem</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>____________________________________ Underskrift</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>______________________________ Sadje ja dato</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>______________________________ Sted / dato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>_____________________________________ Vuollájtjállem</seg>
+      </tuv>
+      <tuv xml:lang="nob">
+        <seg>_____________________________________ Underskrift</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">2_tabell-samisk.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Udir.no - Dásse 1-4</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Udir.no - Daltese 1-4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dásse 1-4</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daltese 1-4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dásse 1-4</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dal- tese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dásse 1</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daltese 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dásse 2</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daltese 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dásse 3</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daltese 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dásse 4</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daltese 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dásse 5</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daltese 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dásse 6</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daltese 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dásse 7</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daltese 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dásse 8</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daltese 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dásse 9</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daltese 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dásse 10</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daltese 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtudakmihto oahppoplánas http://www.udir.no/grep</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahtoeulmieh learoesoejkesjistie daesnie, http://www.udir.no/grep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadimgárvvidusbuojkulvisá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuesiehtimmieh lohkehtimmiesoejkesjidie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadimgárvvidus: 1. dásse</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ööhpehtimmiesoejkesje: Daltese 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadimgárvvidus: 2. dásse</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ööhpehtimmiesoejkesje: Daltese 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadimgárvvidus: 3. dásse</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ööhpehtimmiesoejkesje: Daltese 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadimgárvvidus: 4. dásse</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ööhpehtimmiesoejkesje: Daltese 4</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,3128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">sami_samekonv_lulesamisk.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>NUORTTARIJKAJ SÁMEKONVENSJÅVNNÅ</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhte-laanti saemiej konvensjovne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suoma, Vuona ja Svieriga ráddidusá,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reerenassh Nøørjesne, Finlaantesne jih Sveerjesne nænnoestieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>tjårggiji</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- saemieh dah aalkoe-almetjh daej golme laantine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- sáme li álggoálmmuk dán gålmån rijkan,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- saemieh leah tjierte jalhts ovmese laantine årroeminie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- sáme li akta álmmuk mij årru moatten rijkan,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- båetije biejjij vååjnesassh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- sáme álmmugin le sierra kultuvrra ja sebrudakiellem sierra histåvråjn, sierra árbbedábe, sierra giela, sierra æládusá ja sierra vuorddemusá boahtteájggáj,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- dej golme staati leah naasjovnale jih internaasjovnale diedte saemien kultuvrese jih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- dán gålmån rijkan le rijkalasj ja rijkkajgasskasasj åvdåsvásstádus sáme kultuvrraj ja sebrudakiellemij dågålasj ævtojt vaddet,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- jielemasse nuepiem vedtedh øvtiedimmiem juhtiehtidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- sámeálmmugin le iesjmierredimriektá,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- saemien almetjidie leah reaktah jijtjedh reerenasse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- sámeálmmuga kultuvrra ja sebrudakiellem le boanndudahkan åbbålasj kultuvrraj ja sebrudakiellemij genga rijkan,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- saemien kultuvre jih jielemasse laanten kultuvrese lissine båata jih nimhtie dam bijjiebasse lutnjie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- sámeálmmugin le sierralágásj dárbbo ietjasa sebrudakiellemav rijkkarájáj badjel åvdedit,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- saemiej leah daerpiesvoete sjiere rasti namhtah jielemem øvtiedidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- sáme hæhttuji bessat ávkkit ednamijt ja tjátjijt mij le ájnas sáme kultuvrraj vuodon,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- saemide laante jih tjaetsie daerpies kultuvren sjiekenassen gaavhtan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- ja gå sámeálmmuga riektá mierreduvvá, de galggá sierraláhkáj vieledit sáme ájgij milta ælla avtadássásasj álmmugin aneduvvam, ja danen hæhttum rievtugahtesvuodav gierddat,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- gosse saemiej reaktasvoete edtja tseegesovvedh, dellie daerpies mujhtedh guktie saemieh aerebi aejtemen nuelesne orreme jih nimhtie ovreaktam dååsteme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>man diehti dán gålmå rijkaj sámedikke</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- saemiedigkieh dej golme laantine sjiekenassen mietie naemhtieh tjoeverieh vierhtiedieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- ájgguji buorre boahtteájgev huksat sámeálmmuga iellemij ja kultuvrraj,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- sijhtieh saemiej jielemem jih kultuvren båetije biejjide bueriedidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- le dakkir visjåvnnå rijkaj rájá e galga hieredit sámeálmmuga jali ájnegis sámij aktisasjvuodav,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- eah edtjieh rasth saemij almetjij jallh ajne saemiej ektievuekie-jielemem jeeredh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- adni dav vuojnov ådå sámekonvensjåvnnå le sámij dålusjájggásasj riektá ådåstuhttem ja nanostuhttem, da ma jagen 1751 Lappekodisillanin kodifieriduvvin,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- vuejnedh guktie orre saemien konvensjovne maahta reaktide mah aerebi Lappekodisillesne 1751 tjåadtjoejin, orrestehtedh jih øvtiedidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- dættodi man ájnas la sámijda mierredit ja álmmugin mij váldeduvvá duodaj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- vuesiehtidh guktie saemiej reaktah jijtjedh reerenasse vååjnose båetieh, krøøhkestimmien nuelesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- dættodi sierraláhkáj sámijn la riektá dajn ednam- ja tjáhtjeguovlojn aktan daj luonndoressursaj ma gávnnuji sámeálmmuga histåvrålasj ájtteklándan,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- saemij reaktah laantese jih tjaatsan goerkese biejedh jih nimhtie vuesiehtidh samieh dah aalkoealmetjh daej sjiere laantine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- tjuottjodi sámeálmmuga árbbedábálasj máhtudahka ja árbbedábálasj ja kultuvralasj åvddånbuktemvuohke aktan álmmuga luonndoressurssaanujn le oasse sáme kultuvras,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- vuesiehtidh guktie saemiej sjiere maahtoeh jih kultuvre-diejvesh vihkeles, jih pråvhkeme eatnemen maelmijste lea leahtah saemien kultuvreste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- adni sáme nissunij dille árbbedáhpeguodden sámij sebrudagán galggá nanniduvvat sebrudakiellemin ja aj mij guosská åvdåstibmáj almulasj orgánajn,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- moenedh guktie saemiej nyjsenæjjaj vuekieh jih barkoeh maehtieh ektievoetesne bijjiebasse lutnjesovvedh, juktie aaj nimhtie maehtieh buerebe vuesiehtæmman båetedh ovmese åårganisasjovnine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- sihti sámijt viesutjit avta álmmugin dajn gålmåjn rijkajn,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- sijhtieh edtjieh saemieh ektesne veasodh goh akte ålme-tjierte daej golme laantine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- tjuottodi sáme álmmuga sidodav, mielav ja riektáv åvdåsvásstádusáv válldet ietjasa boahtteájge åvddånimes,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- vuesiehtidh saemiej vaajtelimmieh, væljoeh jih reaktah jijtje diedtem guedtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>- ja tjuottodi sámeálmmuga riektájt ja friddjavuodav rijkajgasskasasj almasjrievtesvuodaj ja dábálasj álmmukriektá milta,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>- Daate konvensjovne lea tjaalasovveme saemiej ektine guhth munieh vihkeles daate aerebi goh staate daam ratifiserie,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ma li dá konvensjåvnåv dahkam aktan lahka aktisasjvuodajn sáme åvdåstiddjij, adni sierraláhkáj ájnnasin konvensjåvnnå åvddål stáhtajs rátifiseriduvvá, dåhkkiduvvá dajs gålmå sámedikkijs, ja adni sijáv vælggogissan sáme álmmuga boahtteájgev oaggit dán konvensjåvnå milta, li guorrasam tjuovvovasj nuorttarijkaj sámekonvensjåvnnåj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>lea dååhkasjehtemem dejstie golme saemiedigkijste dååsteme. dah tjuerieh duvtiem saemide båetije bijjiej vedtedh guktie daate konvensjovne faala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kapihttal I</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Voestes kapittele I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámeálmmuga dábálasj rievtesvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej sjiere reaktah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 1</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Voestes tjaalege Man govneaavhtan konvensj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konvensjåvnå ulmme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daan konvensjovnen aarvoe leah reaktide jååhkesjidh jih nænnoestidh guktie saemieh vihties laakan m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dán konvensjåvnå ulmme le duodastit ja nannit sámeálmmugij dakkár rievtesvuodajt ma åvddånahtti gielav, kultuvrav, æládusájt ja sebrudakiellemav, ja gåtsedit váj rijkaj rájá e hiereda dakkár åvddånimev..</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>aehtieh sijjen gielide øvtiedidh jih aaj kultuvrem, jielemidie jih ektie-voetide vaarjelidh guktie vaenemes tsagkesh laanti gaskems sjidtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 2</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mubpie tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme álggoálmmugin</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemietjheh goh aalkoealm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme li álggoálmmuk Suoman, Vuonan ja Svierigin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemieh leah aalkoealmetjh Finlaantesne, Nøørjesne jih Sveerjesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 3</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåalmede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Riektá iesjmierredibmáj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reaktah jijtjh-reerenasse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámijn la riektá iesjmierredibmáj álmmugin álmmukriektá njuolgadusáj ja dán</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej leah reaktah jijtjh-reerenasse nimhtie guktie ålma-reaktah jiehtieh jih aaj nænnoestimmieh daennie konvensjovnesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>konvensjåvnå mærrádusáj milta. Nav guhkás gå le máhttelis dáj njuolgadusáj ja mærrádusáj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie dah reaktah tjoeverieh åadtjodh eavadidh guktie beetneh-vierhtide stuvredh, guktie jeatja almetji ektine dåemiedidh jih aaj guktie dihte kultuvre- øvtiedimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>milta, de le sáme álmmugin riektá mierredit ietjasa rudálasj, sosialalasj ja kultuvralasj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>munieh, dellie saemieh jijtje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>åvddånime badjel, ja ietjasa ulmij háldadit luonndoressursajt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>edtja juhtedh. Nimhtie aaj vihkeles åadtjodh jijtjedh aamhtside stuvredh mah eatnemen maelmide veadtaldihkie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 4</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njealjede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Persåvnå gudi guoskadalli konvensjåvnås</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Almetjh guhth konvensjovnen nualan båetieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konvensjåvnnå guosská persåvnåjda gudi årru Suoman, Vuonan jali Svierigin, gudi</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Konvensjovne dijpieh dejtie guhth Finlaantesne, Nøørjesne jallh Sveerjesne årroeminie jih jijtje damtieh goh saemieh, jih aaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>1. le sámegiella sijddagiellan jali le edesik akta æjgát jali áhkko jali áddjá gænna le jali</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1. saemien gielem gåetesne pruvkieh jallh vaenemes akte eejhtegijstie jallh aahka / aajja leah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>gænna le læhkám sámegiella sijddagiellan; jali</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>saemien gielem gåetesne pruvkeme; jallh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2. le riektá sáme boatsojsujtov dåjmadit Vuonan jali Svierigin; jali</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2. luhpiem utnieh båatsoe-jieleminie giehtelidh Nøørjesne jallh Sveerjesne; jallh 3. lupiem utnieh saemiedigkie-veeljemisnie meatan Nøørjesne jallh Sveerjesne; jallh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>4. li máná persåvnåjs nammaduvvam tjuokkajn 1, 2, jali 3.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>4. jis maanah dejstie guhth 1,2 jallh 3 mieriej nualan båetieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 5</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vijhtede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhtaj åvdåsvásstádusá vijddudahka</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Man stoerre staaten diedte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>rijkalasj, guovlolasj ja bájkálasj dásen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh staati åårgaanh, dovne naasjo lihkemes byjresen, diedth utnieh daan konvensjovnese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dá vælggogisvuoda gulluji aj ietjá orgánajda almulasj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeatja åårganh mah byøgkeles reeremisnie jih byøgkeles vyrtehkisnie aaj tjoeverieh diedtem vuesiehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sæmmi guosská aj priváhta riektásubjevtajda gå da almulasj fámoj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate aaj faalegem moeladtje aamhtsigujmie jalsh juhtiehteminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dåjmadi jali ietjá almulasj dahkamusájt dahki.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>vnale, regiovnale jih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå dát konvensjåvnnå aneduvvá, de e sámedikke ja ietjá sáme orgána, vájku dal</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>vadta private åårganide mah leah barkeminie byjjes faa lh jeatja sjiere byjjes laavenjas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>makkir riektálasj stahtus dajn le, galga gåhtjoduvvat stáhttan, ietján gå dalloj gå almulasj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse daam konvensjovnem åtnose vaalteme, dellie eah edtjh saemiedigkieh jallh dah jeatja saemien åårganh ovjearohks sijjen naasjovnale jallh internaasjovnale reaktijste, nommem vaeltedh goh staate jis eah leah aamhtsigujmie byjjes-raerine barkeminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 6</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Govhtede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhtaj dåjma sáme álmmuga gáktuj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Magkeres råajvarimmieh staateste saemide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Da gålmmå stáhta galggi dåbmaris láhkáj láhtjet dilev sáme álmmugij váj máhttá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah golme staath tjoeverieh radtjoes laakan barkedh guktie saemieh maehtieh eensi laakan gielem øvtiedidh jih gorredidh, kultuvrem vam bijjiebasse lutnjedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>nannit ja åvddånahttet gielas, kultuvras, æládusájdis ja sebrudakiellemis.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>arjelidh jih jielemem jih ektievoete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi buorre ævtojt biedjat sáme bájkálasj sebrudagájt bisodahtátjit ja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh aaj buerie laak laakan tjåadtjodh jih buerie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>åvddånahtátjit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>an barkedh guktie saemiej byjrese maahta stinks øvtiedimmie vijriebasse juhtiehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhtaj åvdåsvásstádus tjadádittjat dåjmajt dán konvensjåvnå milta guosski aj muhtem</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Di</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>mærráj dajda sámijda gudi årru árbbedábálasj sáme årromsajij ålggolin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>aate konvensjovne aaj staateste kriebpesje diedtem utnedh saemide mah leah siejme saemiej voeng bæjngolen årroemine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 7</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjijhtjede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Váni-badjelgæhttjam ja sierradåjma</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Namtegh diskriminering - jih sjiere råajvarimmieh tseagkodh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme álmmuk ja ájnegis sábme galggá suoddjiduvvat gájkka badjelgæhttjamis.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien almetjh jih ajne saemie edtjieh vaarjelimmesne årrodh guktie eah jeatjh-laaketje vuajnoen (diskriminering) nualan båetieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme riektáj tjadádimen dán konvensjåvnå milta galggi stáhta dárboj milta sierralágásj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse saemiej reaktah daan konvensjovnen mietie vedtedh, dellie staate tjoevere sjeagkodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>buorre dåjmajt jåhtuj oadtjot sijá gáktuj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>iere råajvarimmieh ts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 8</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaaktsede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Binnemusrievtesvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vaenemes reaktah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Rievtesvuoda ma dán konvensjåvnån li mierreduvvam, li binnemusrievtesvuoda. Da e</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>vnese veadaldihkie, leah " vaenemes reaktReaktah mah daan konvensjoah " (minsterettigheter).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>hiereda jus stáhta sihti vijdedit sámij riektájt jali ájn vijdep dåjmajt álgadit, ja e máhte</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Juktie nimhtie sjiere staath maehtieh reaktide vijriedidh jallh buerebe råajvarimmieh faaledh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>aneduvvat binnedittjat sámij riektájt ietjá riektánjuolgadusáj milta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daerpies lea læjhkan daejredh ij leah nuepie reaktide mah joe gååvnesieh gærtjiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 9</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åktsede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme árbbedábe</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej vuekieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi hiebalgis láhkáj árvon adnet sáme álmmuga riektádádjadusájt, ja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh saemiej reaktaj-sisvegh jih reaktaj-vuekieh jih pråvhkoeh krøøhkestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuostasj oase milta galggi stáhta gå dahki njuolgadusájt gånnå lulun sáme árbbedábe,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie voestes raajese vuesehte, dellie edtjieh staath gosse orre reaktah buektedh dajvide gusnie maahtah saemij mojhtsh gååvnesidh, tjilkedh mejtie daerpies sijjidlh jeatjh laakan viehkiem vedtedh laaken tjirrh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sierraláhkáj guoradallat jus dákkir árbbedábe gávnnuji ja jus dajt lulu suoddjit jali ietjá láhkáj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reakta-åtnosne eekieh bæjjese lutnjesovvedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Riektáanon galggá aj sáme árbbedábijt árvvon adnet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>e vaarjelidh jal dtjieh aaj saemiej vu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 10</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Låhkede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Riektánjuolgadusáj harmoniserim</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reakta-njolkedassi sjiehtesjimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ietjá regulerimijt ma li ájnnasa sámij dåjmajda rijkarájáj badjel.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh saemiedigij ektine laakide jih aaj jeatja aamhtside mah daerpies, sjiehtesjedtedh guktie saemide laanti rasti gåabpegh bielesne bøøremes sjædta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 11</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Luhkie-voe es tjaalegest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aktisasjbarggo kultuvra ja æládusáj hárráj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ektes-vuekiebarkoe kultuvvhtanren - jih jielemesjiehtesjimmien gaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi álgadit dåjmajt ma giehpebun dahki sámijda æládusáv dåjmadittjat rijkkarájáj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staat edtjieh råajvarimmieh tseagkodh gulidh laanti gaskems jih aah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>badjel ja árvvon adnet sijá kultuvralasj dárbojt rijkarájaj badjel. Dájna ulmijn galggi stáhta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>gusnie saemiej årromese vedtedh guktie dihte kultuvre- faaleldahke bøøremes sjeadta seamma magkeres laantesne jielieminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>rahtjat gádodittjat dajt gássjelisvuodajt ma hieredi sáme æládusdåjmajt ma gulluji sijá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ktie aelhkebe saemide jielebarkojne giehte j buerielaakan kultuvre-daerpiesvoetide tseagkodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>viesajdimvuohtaj jali årromsajijda, jali gånnå ietján sámij årromguovlo li moatten rijkan, ja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nimhtie aaj staath tjoeverieh barkedh guktie gaajhk tsagkesh mah saemiej jieleme-barkose veadtaldihke suenieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dibddet sámijt bessat kultuvralasj fálaldahkaj dan rijkan gånnå li årromin juohkka ájgen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate tjoevere daeahpadidh seamma ijjieh jih magkeres laantesne. Seamma reaktam aaj saemied</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 12</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Luhkie mubpie tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aktisasjbarggo åhpadime ja álkkádusårnigij hárráj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ektesvuekie-barkoe øøhpehtimmien jih tryjje-jielemen gaavhtan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi álgadit dåjmajt váj sáme gudi årru avtan dat gålmåt rijkas, oadtju</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh råajvarimmieh tseagkodh guktie saemieh maehtieh viehkiem åadtjodh øøhpehtæmman, healsose jih siemes-voetese laantesne gusnie bøøremes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 13</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Luhkie gåalmede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme álmmuga symbåvlå</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej mbovlhsy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi árvvon adnet sámij riektáv iesj mierredittjat sáme slávgá ja ietjá sáme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh saemiej reaktam krøøhkestidh saevegem pruvhkedh jih aaj jeatja naasjovnale symbolh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>symbåvlåj anov. Stáhta galggi aj, aktisattjat sámedikkij, rahtjat váj sáme symbåvlå ilmoduvvi</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah edtjieh aaj saem jih vuesiehtieh saemieh leah sjiere tjierte dej golme laantine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ja vuosedi sámij sajev sierra álmmugin gålmån rijkan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>iedigkijne ekti-vøøki barkedh guktie saemiej symbovlh vååjnose båetieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kapihttal II</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mubpie Kapittele II</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámij stivrrim</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej jijtjh - reereme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 14</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>hkie njealjede tjaaleg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Juohkka gålmån rijkan galggá liehket sámedigge, mij le alemus sáme orgádna rijkan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkieh Saemiedigkieh edtjieh gaajhki golme laantine gååvnesidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge doajmmá sáme álmmuga åvdås mij le dan rijkan, ja galggá liehket válljiduvvam</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dihte saemiej jillemes åårgaane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dábálasj jienastamriektáj milta sámij gaskan dan rijkan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkieh erkieh guktie bøøremes saemide jih almetjh disse veeljesuvvieh veeljeme - reaktan mietie abpe laantesteb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikkij válljimnjuolgadusá li mierreduvvam lága milta, mij gárveduvvá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Veeljeme- reaktah saemiedægkan båetieh laaken tjirrh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sjiehtadallamijn sámedikkij 16 artihkkala milta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah moenesovvieh barkoen tjirrh saemiedigkijne, tjaalege 16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikkijn galggi liehket dakkir dahkamusá ma dahki sijáv vejulattjan dåbmarit</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nænnoestimmieh saemiedigkij faamojse laaken tjirrh båetieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>vájkkudit sáme álmmuga riektáv iesjmierredibmáj álmmukriektáj milta ja mærrádusá dán</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ovvieh daan konvensjovne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>konvensjåvnån duohtan sjaddi. Dárkkelap njuolgadusá ma guosski sámedikkij fábmuj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkieh råajveritsidie mejtie daerpies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>mierreduvvá lágan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>eh jih jiehtesh buektieh aamh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke álgadi ja bukti vuojnojt divna ássjijn gånnå dikke ietja gávnni hiebalgissan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Luhge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 15</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>kie vijhtede tjaale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikkij iesjrádálasj mærrádusá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkien jijtjh-reereme njolkedassh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke mierredi iesjrádálattjat dajn ássjijn gånnå siján le mierredimfábmo rijkalasj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkij jijtjh-reereme nænnoestimmieh gyhtjelasside buektieh nasjovnale jallh internasjovnale reaktaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>jali rijkajgasskasasj riektá milta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>tjirrh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke máhtti såbadit rijkalasj, regionálalasj ja bájkálasj avtadagáj aktisasjbargo</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkieh aaj maehtieh mååhtedimmieh nasjovnale, regiovnale jih byjrese ektievoetij tjirrh buektedh jis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>birra sáme kultuvrav ja sebrudakiellemav nannitjit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>daerpies saemiej kultuvrem jih ektievoete-jielemem nænnoestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 16</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Luhkie govhtede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikkij riektá sjiehtadalátjit</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemimanedigkien reaktah gietelæm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>åvddål almulasj oajválattja mærrádusáv mierredi. Dá sjiehtadallama hæhttuji liehket nuoges</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse vihkeles gyhtjelassh saamhtside gietedalledh aerebi goh nænnoestimmie byjjes rnænnoestimmieh tjoeverieh nimhtie juhtedh guktie saemiedigkieh maehtieh aamhtse-juhtemem jih darjoemen tsevtsiehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta e galga mierredit jali loabev vaddet dakkir dåjmajda ma ednagav vahágahtti</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Eah edtjieh staath nænnoestidh jallh luhpiem vedtedh dagkeres råajvarimmide mah maehtieh goerpehtidh maadth-kriebpesjide saemien kultuvrese, saemiej jielemidie jallh saemiej ektievoete-jielemasse jis eah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>vuodoævtojt sáme kultuvrraj, sáme æládusájda jali sáme sebrudakiellemij, jus guoskadallam</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>emide, dellie edtjieh saemiedigkieh voestegh a eeremistie båata. Dagkeres digkiedimmieh jih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sámedigge ij dási miededa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>saemiedigkieh disse siemedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 17</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Luhkie tjijhtjede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikkij riektá ietjá ássjegárvedimen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkij reaktah jeatja aamhtse-ryøjredimmesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikkijn galggá liehket riektá ájrastit almulasj rádijn ja juohkusijn gå da</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkieh reaktah utnieh meatan årrodh byjjes raerijne gosse aamhtsi bijre digkiedidh mah saemide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>giehtadalli ássjijt ma guosski sáme berustimijda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>dijpieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikkijda galggi åvddåj biejaduvvat ássje ma sáme berustimijda guosski, åvddål</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkieh edtjieh saemien aamhtside giehtjedidh aerebi goh byjjes raerieh dejtie nænnoestieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>almulasj oajválattja mærrádusáv dahki.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>S deahpadidh låångkh aerebi guktie saemiedigkieh maehtieh tsevtsiehtidh aamhtse-juhtemem jih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi guoradallat dárbov dákkir ájrastimes ja åvddåjavllamusás sámedikkij</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>taath edtjieh daerpies-voetide tjilkedh gosse raeriestimmieh saemiedigkijste båata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>bieles.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate tjoevere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>båhtusav bájnnet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>vaestiedimmiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke ietja mierredi goassa sihti ájrastit jali javllamusáv buktet dákkir</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkieh åvtelbodtieh vaestietan jallh laahtestimmieh aamhtseryøjredæmman vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ássjegárvedimen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>dieh mejtie sijhtieh lihtsegh mea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 18</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Luhkie gaaksede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta rijkatjoaggulvisá jali daj juohkusa jali ietjá orgána galggi gå rávkaduvvá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjåådtjh-sijjie nasjovnale-tjåangkojde S maehtieh meatan jih buerkiestidh aamhtsi bijre mah saemide vihkeles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>duosstot sámedikkij åvdåstiddjijt váj da bessi tjielggit ássjijt ma sámijda li ájnnasa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>taati nasjovnale tjåangkoeh jallh dej moenehtsh edtjieh sijjiem darjodh guktie lihtsegh saemiedigkijste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke galggi bessat gullut gå rijkatjoaggulvis giehtadallá ássjijt ma sierraláhkáj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosstedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sáme álmmugij guosski.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>e aamhtsh saemij bijre gietelimmesne, dellie edtjieh byjjes ståvroeh nuepiem saemiedigkide ved jih dejtie goltelidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ájnegis rijkaj rijkatjoaggulvisá vaddi lagáp njuolgadusáj makkir ássjijda dát guosská,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah sjiere laanti nasjovnale tjåangkoeh edtjieh njolkedassh aamhtsi bijre vedtedh jih guktie dej gujmie giehtelidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ja gåktu galggá tjadáduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Luhkie åkts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 19</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme ja rijkajgasskasasj åvdåsstibme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemieh jih internasjovnale representasjovnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke galggi sáme álmmugav åvdåstit rijkajgasskasasj aktijvuodajn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkieh edtjieh saemij digkiedimmide meatan vaeltedh gosse gaskestaati tjåangkoeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi åvdedit sámij åvdåstimev rijkajgasskasasj institusjåvnåjn ja sámij</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh aajledh meatan goh håaleniere internasjovnale tjåangkojne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>oassálasstemav rijkajgasskasasj tjåhkanimijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>saemide eevtjedh goh lihtsegh internasjovnale institusjovnine jih aaj stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 20</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>økte låhkede tjaale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aktisasj sáme organisasjåvnå</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Siejme saemiej åårganisasjovnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke máhtti ásadit aktisasj organisasjåvnåjt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkieh maehtieh siejme åårganisasjovnh tseegkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi aktisasjrádij</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh, gosse daerpies, saemiedigkij ektine barkedh guktie byjjeårganisasjovnide båetieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sámedikkij gå la dárbbo rahtjat váj dakkir aktisasj organisasjåvnå almulasj fámov oadtju.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>s faaleldahkh dagkaridie å</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 21</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gøøkte luhkie voestes tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi vieledit ja gå la dárbbo rádádallat tjæroj, sijdaj, boatsojguohtomsijdaj,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeatja saemien gaskebarkoeh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>gålldåsámij gielldastivraj ja ietjá máhtulasj sáme organisasjåvnåj jali bájkálasj sáme ájrrasij.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh krøøhkestidh jih gosse daerpies soptsestalledh saemiej-staari, siidaj, båatsoeburriehmoenehtsigujmie jih aaj " skoltesamenes byastæmmine " jih aaj væjkeles saemiej lihtsegigyjmie byjresisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 22</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gøøkte luhkie ubpie tjaalegem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámeguovllo</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemij regiovne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi dåjmalattjat mierredit ja åvddånahttet guovlov gånnå sáme álmmuk</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh eadtjohke laakan barkedh jih øvtiedidh dajvide guktie saemieh maehtieh gorredidh sjiere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>máhttá háldadit ietjasa sierra riektájt dán konvensjåvnå ja rijkaj lága milta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>reaktah daan konvesjovnen jih laanti laaki mietie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kapihttal III</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåalmede kapittele III</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme giella ja kultuvrra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien giele jih kultuvre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 23</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Luhkie gåalmede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámij gielalasj riektá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej giele-reaktah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámijn galggá liehket riektá adnet, åvddnahttet ja boahtte buolvajda åhpadit ietjasa</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej leah reaktah nuhtjedh jih øvtiedidh gielem jih vuekide båetije sliektide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>gielav ja ietjasa árbbedábijt, ja rahtjat vaj sámegiela máhtudahka oabllu aj sámijda gudi dåssju</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dejtie aaj reaktah barkedh guktie maahtoeh saemien gielen guhth geerve gieline giehtelidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>muhtem mærráj gielaska bukti.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>bijre maahta vadtasovvedh dejtie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámijn galggá liehket riektá mierredit, bisodit ja gájkkásasj vieledimev åttjudit</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemieh edtjieh reaktam utnedh jiehtedh, stem åadtjodh jijtse nommide jih aaj nommide ovmese dajvine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ietjaska persåvnnånamájda ja bájkkenamájda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>eredh jih goerkese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 24</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gøøkte luhkie vijhtede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi dilev láhtjat váj sáme máhtti gielaska bisodit, åvddånahttet ja oablodit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staaten diedte gielide øvtiedidh Staath edtjieh saemide nuepieh vedtedh gielide gorredidh, øvtiedidh jih vijriebasse guedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi dilev láhtjet váj sáme alfabehtta máhttá dåbmaris láhkáj dán ulme diehti</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh darjoemisnie vuesiehtidh guktie aalfabakan provhkesovvedh daan sjiehken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámegiella galggá aneduvvat dåbmarisát duobbmoståvlåjn ja oajválattjat hárráj sáme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien giele edtja maehtedh radtjoepmeme-raerine, jih aaj byjjes raerine saemiej dajvine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>guovlojn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>eete maahta eevtjeme-la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>li sáme guovlojn giehtadaláduvvam jali juokkirak láhkáj le sierraláhkáj dájda guovlojda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>s laakan provhkesovvedh døø</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>tjanáduvvam.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>veadtaldihkie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi åvdedit girjálasjvuoda ålgusvaddemav sámegiellaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh aaj lidteratuvrh saemien gielesne skåårvedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mærrádusá dán artihkkalin galggi aj guosskat dajd sáme giellasuorgijda ma li binnebut</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dihte mij daennie tjaalegesne tjåådtje edtja aaj dejtie unnemes saemien-gielide dijpedh jih gorredidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkal 25</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gøøkte luhkie vijhtede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme medijá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej medijah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi vuodov láhtjet váj iesjrádálasj sáme medijápolitihkav oadtjop mij dahka</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtja nuepiem vedtedh guktie saemieh jijtje åadtjoeh jijtjh-reereme media-politikkem juhtiehtidh guktie saemieh bøøremeslaaketje råarvoe-diejvesh åadtjoeh digkiedidh gyhtjelassi bijre mah gaajhksidie vihkeles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ja moattelágásj fálaldagáv diedojs ja vuojnojs ássjijn gånnå le gájkkásasj berustibme.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ajvarimmieh, saerniestimmieh jih a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi dilev láhtjat váj lulu sáddijuvvat sámegielak prográmma radion ja TVan,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh barkedh guktie provgramh radiovesne jih Tv-esne saemien gielesne båetieh jih aaj barkedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aktisasjbarggon sámedikkij galggi stáhta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>bijjh daesnie aaj unnemes gielide dijpieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>artihkkalijt sámegiellaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>guktie plaerieh maehtieh saemien gielem nænnoestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mærrádus nuppát oasen sámegiela birra galggá aj nav guhkás gå máhttelis guosskat</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkieh edtjieh ektesvuekie barkedh rasti elen guktie media-intstitusjovnh provgramh jih tjaalegh buektieh mah saemien gielese vihkeles. Jiehteg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>daja sáme giellasuorgijda ma li binnebut oabllum.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gøøkte lu tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 26</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>hkie govhtede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme åhpadus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien øøhpehtimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámijn sáme guovlojn galgg liehket máhttelisvuoda åhpadussaj sámegielan ja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemieh saemien dajvine edtjieh nuepiem utnedh jijtse gielem lieredh jih aaj øøhpehtimmiem saemien gielesne åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sámegiellaj. Åhpadus ja åhpadusruhtadibme galggá liehket sijá duogátjij hiebadum. Dákkir</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Øøhpehtimmieh jih vierhtiemaaksoeh tjoeverieh sjiehtesovvedh fiere guhten duakan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>åhpadus galggá máhttelissan dahkat oassálasstet joarkkaåhpadusán juohkka dásen ja sæmmi</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nimhtie øøhpehtimmie nuepiem vadta guktie gaajhks guhth sijhtieh maehtieh lohkedh jih vijriebasse gieline ovmese daltesinie båetedh, aaj ma barkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>båttå duosstot dajt dárbojt ma li sámijn váj ájn máhtti árbbedábálasj sáme æládusájn barggat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Beetneh-vierhtieh edtjieh nimtie biejesovvedh guktie a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadusruhtadibme galggá navti liehket váj máhttelis la alep åhpadusáv sámegielan oadtjot.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ehtieh saemiej jielemevuekijgujmie elhkie jillebem saemien øøhpehtimmiem jaksedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme mánájda ja nuorajda sáme guovloj ålggolin galggi liehket máhttelisvuohta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien maanah jih noerh mah årroemienie bæjngo edtjieh nuepiem saemien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sámegiela åhpadussaj, valla aj sámegiellaj nav guhkás gå la máhttelis ájnegis guovlojn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>len saemiej dajvh øøhpehtæmman åadtjodh jih aaj øøhpehtimmiem saemien gielesne jis nuepie disse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadus galggá nav buoragit gå máhttelis sijá duogátjij hiebaduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daerpies lea øøhpehtimmiem sjiehtesjehtedh duekien mietie guktie bøøremes dejtie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Rijkalasj oahppoplána galggi dagáduvvat aktisasjbarggon sámedikkij ja hiebaduvvat</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daerpies leah aaj dejtie nasjovnale learoe-plaanide saemiedikij ektine sjiehtesjehtedh guktie maanah jih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sáme mánáj ja nuoraj kultuvralasj duogátjijda ja dárbojda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>dah noerh maehtieh jieledh guktie saemien kultuvre vuesehte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 27</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gøøkte luhkie tjijhtjede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dutkam</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Giehtjedimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi aktisattjat sámedikkij buorre vuodov láhtjet dutkamij man vuodon le</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh saemiedigkiej ektine barkedh giehtjedimmieh aalkoetseahkan biejedh guktie maehtieh bigkesovvedh maahtoe-daerpiesvie aaj vihkeles saemieh maehtieh åadtjoeh giehtjedimmiejgujmie giehtelidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sáme sebrudagá máhtudakdárbbo ja mij åvdet sáme dutkij rekrutterimav. Gå dákkir dutkamav</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vihkeles aaj ryøjredimmesne jååhkesjidh guktie giele jih kultuvre saemiåata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>pláni de galggi gielalasj ja kultuvralasj vidjura sáme sebrudagán vieleduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ga oetese saemiej ektievoetesne. Nimht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi aktijrádálattjat sámedikkij åvdedit aktisasjbargov sáme ja ietjá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ej ektievoetesne jarngese b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dutkaminstitusjåvnåj gaskan ájnegis rijkajn ja aj rijkarájáj badjel, ja nannit</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh saemiedigkij ektine ektesvuekie-barkoem saemiej jih jeatja giehtjedimmie-instusjovni skems freemedh dovne sjiere laantine mohte aaj rasti bijjelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dutkaminstitusjåvnåjt majna le dutkam degu nammadum vuostasj oassen oajvvedahkamussan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daerpies aaj giehtjedimmie-institusjovnide nænnoestidh guktie voestes sæjjan båetieh, vuaertsjh voestes lihtsem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dutkam sáme ássjij hárráj hæhttu hiebaduvvat dakkir etihkalasj njuolgadusájda mij</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vihkeles aaj giehtjedimmiem sjiehtesjehtedh saemide goh aalkoealmetjh jih krøøhkestidh kriebpesjimmmide mah destie båetieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 28</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gøøkte luhkie gaaktsede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åhpadibme ja diedo sámij birra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Øøhpehtimmieh jih saerniestimmieh saemiej bijre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme álmmuga kultuvrra ja sebrudakiellem galggá vuogas láhkáj vuojnnusij boahtet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reaktah jiehtsh saemiej kultuvren jih ektie bæjngolen båetedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>åhpadimen aj sáme sebrudagá ålggolin. Dákkir åhpadibme galggá sierraláhkáj gæhttjalit</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dageres øøhhtoem soptsestimmesne vedtedh saemiej bijre goh laanten aalkoe-almetjh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>åvdedit máhtudagájt sámij birra rijkaj álggoálmmugin. Stáhta galggi sámedikkij</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath, saemiedigkij ektine, tjoeverieh øøhpehtimmiem saemien kultuvren jih ektievoeten bijre faale edtjieh saemiej dajvine barkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>aktisasjbarggon fállat åhpadimev sáme kultuvran ja gielan ulmutjijda gudi sáme guovlojn</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>voeti bijre tjoeverieh aaj øøhpehtimmesne saemiej dajvi pehtimmie edtja vihties laakan maa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>galggi barggat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>dh almetjidie mah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi aktisasjbarggon sámedikkij vásstedit almulasj diedoj åvdås sáme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath jih saemiedigkieh tjoeverieh siejme almetjidie staeries saerniestimmieh saemien kultuvren jih ektievoete jielemen bijre vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 29</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gøøkte luhkie åktsede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Varresvuoda- ja sosialdievnastus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Healsoe-jih ektievoete tsiehkie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi aktijrádálattjat sámedikkij bærrájgæhttjat vaj varresvuohta- ja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ktine barkedh guktie healsoe-jih ektievoete tsiehkien faalelStaath edtjieh saemiedigkij edahkh saemide b.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sosialdievnastus sáme guovlojn le navti organiseridum váj sáme dájn guovlojn oadtju</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>øøremes sjidtieh. Faaleldahkh tjoeverieh sjiehtesovvedh guktie giele-jih kultuvre kriebpesje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>varresvuoda- ja sosialdievnastusáv mij le sijá gielalasj ja kultuvralasj duogátjij hiebaduvvam.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bæjngolen dej saemiej dajvh edtjieh aaj hetie saemiej kultuvre jih giele jarngese båetieh jih gietedalleme almetjidie bøøremes sjædta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>pasientaj ja klientaj gielav ja kultuvrraduogátjav.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>alsoe-jih ektievoete-tsiehkie dåårjelidh guk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 30</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Golme luhkie tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme máná ja nuora</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemij maanah jih noerh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme mánájn ja nuorajn le riektá ietjaska kultuvrav dåjmadit ja ietjaska sáme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>identitehtav bisodit ja åvddånahttet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>amiej maanah jih noerh reaktam utnieh saemien kultuvrem vååjnesasse buektedh jih saemien identitetem gorredidh jih øvtiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 31</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Golme luhkie voestes tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Árbbedábálasj máhtudagá ja kultuvralasj åvddånbuktema</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuhekiej maahtoe jih kultuvren jiehts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>kultuvralasj åvddånbuktemijt háldadit, ja aj rahtjat váj sáme máhtti dajt boahtte buolvajda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh krøøhkestidh saemiej reaktam maahtoeh- vuekide vaarjelidh jih aaj jiehtsh-kultuvren vuekide gorredidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>bisodit, åvddånahttet ja gaskostit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej edtjieh åadtjodh reaktide gorredidh jih øvtiedidh jih dejtie noere gaedtside guedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi rahtjat váj sáme álmmuk, gå sáme kultuvrra kommersiella láhkáj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh aaj barkedh jih saemidh sijhtieh saemien kultuvrem åtnose vaeltieh, jih jis destie beetneh-vierhtieh båetieh, dellie vihkeles saemieh aaj måedtiem vierhtijste åadtjoeh d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>aneduvvá iehtjádijs gå sámijs, bessi dåjma badjel mierredit ja hiebalgis oasev rudálasj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>e viehkiem vedtedh gosse daaroe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>båhtusis dassta oadtjot.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>åastodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme kultuvrra galggá suodjaluvvat dakkir kultuvralasj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien kultuvre tjovere vaarjelimmien nualan båetedh guktie eah kultuvre-darjomh båajhtode laakan saemiej maadtoem vuesehth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi rahtjat váj sámij árbbedábálasj máhtudagá vieleduvvi gå sáme ássje</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh barkedh guktie saemiej maahtoe-kultuvre vaarjelæmman båata gosse edtjieh nænnoestimmieh saemiej jielemen bijre tseegkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>giehtadaláduvvi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Golme luhkie m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 32</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ubpie tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme kultuvrramujto</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej kultuvre mojhtsh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme kultuvrramujto galggi suodjaluvvat lágan ja rijka sámedikkes háldaduvvat jali</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej kultuvre-mojhtsh edtjieh laaken mietie saemiedigkien nuelesne vaarjelsovvedh jallh jeatja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>aktijrádálattjat kulturinstitusjåvnåj ja sámedikkijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>institusjovni nuelesne mah saemiedægkan veadtaldihkie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi rahtjat aktisasjbargov rijkkarájáj badjel sáme kultuvrramujtojt</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh råajvarimmieh tseagkodh ektie vøøki barkojne dej jeatja laantine jih nimhtie vihtesjidh, vaarjelidh jih dejtie saemiej kultuvre-mojhtsidie reeremen nualan biejedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi rahtjat váj sáme kultuvrramujto ma li ierit válduvvam sáme guovlojs ja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh aaj viehkiehtidh go saemij dajvijste jih jis dah sjiere laakan saemiej kultuvrese veadaldihkie, dellie edtjieh dah museeide biejesovvedh jallh jeatja kultuvre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ma li sierraláhkáj ájnnasa sáme sebrudahkaj, galggi hiebalgis museaj jali</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>sse kultuvre-mojhtsh leah vaaltasovveme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>kultuvrrainstitusjåvnåj hállduj vatteduvvat maŋŋel gå le rijka sámedikkijn sjiehtadallam.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>institusjovnide gosse saemiedidkie dam jååhkesjamme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 33</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Golme luhkie gåalmode tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kultuvrravuodo</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kultuvren våarome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhtaj vælggogisvuoda sáme kultuvrra ássjijn le aj materiálalasj kultuvrravuodo, váj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>n aaj vihteles kultuvre-våaroemem dijpStaati diedth kultuvren gaavhtaieh guktie saemieh jieleme-jih vierhtie-viehkieh åadtjoeh mij daerpies gosse kultuvrem øvtiedidh jih vihties laakan gorredidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kapihttal IV</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njealjede kapittele IV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámij riektá duobddágijda ja tjátjijda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ej reaktah laantese jih tjaatsan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 34</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Golme luhkie njealjede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Árbbedábálasj adno duobddágijs ja tjátjijs</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie laantem jih tjaetsiem vuekij mietie provhkedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>aktugasj jali aktisasj ednamriektáj dajs guovlojs buohta rijkalasj ja rijkajgasskasasj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Låångk daan åvtelen leah saemien vuekie orreme tjaetside jih laantide provhkedh guktie dah sjidteme goh eeke jih aerpie dejtie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>njuolgadusáj ma guosski guhkesájggásasj adnuj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nimhtie dihte vuesehte guktie dah nasjovnale- jih internasjovnale reaktah verviestieh dejtie njoelkedasside mah dååjrehtsi mietie reaktam saemide laantese jih tjaatasan vedtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus sáme, vájku ælla æjgáda guovlojda, li árbbedábálattjat adnám muhtem ednam- jali</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jalhts saemieh eah leah aajhterh dagkeres dajvide mah tjaatsan jih laantide veadtaldihkie, mohte aerebi dajvide provhkeme båatsoe-jielem, dellie edtjieh saemieh daelie aaj reaktam utnedh daejtie dajvide provhkedh goh aerebi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>tjáhtjeguovlojt boatsojsujttuj, bivdduj, guolástussaj jali ietjá láhkáj, de siján le vilá riektá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis daaroeh aaj dajvide pruvhkieh saemiej ektine, dellie edtjieh gaajhks dovnesh voerkelimmesne dåemied ovmese reaktah riektes sæjjan båetieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>adnet guovlojt sæmmi láhkáj dagu åvddåla.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sjiere reaktah daerptjidie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>galggi sáme ja dåt nubbe addne ietjasa riektájt dåjmadit ietjasa riektájt gasskasasj vieledimijn</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jalhts reaktah vaenebh goh aerebi, læjhkan daerpies provhkemem sjiehtesjehtedh guktie maahta øvtiedimmiem teknigken jih vierhtiedimmien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vájku riektá ednamadnuj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>asse, gøølemasse jallh jeatjh laakan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>le ráddjiduvvam sæmmi adnuj dagu åvddåla, de ij dat galga hieredit váj adno dárboj milta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>idh jih vuartasjidh guktie dah ies båatsoeburrie alme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>hiebaduvvá teknihkalasj ja rudálasj åvddånibmáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>gaavhtan juhtiehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå mierreduvvá jus árbbedábálasj adno gávnnu dán mærrádusá milta, de galggá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vihtesjimmieh guktie saemiej pråvkoe ovmese dajvide daan njoelkedassen mietie, edtja våaromen mietie mietiesovvedh jih vuesiehtidh guktie saemieh aerebi laantide jih tjaetside åtnose vaalteme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>vuodon liehket mij la árbbedábálasj sáme adno ednamijs ja tjátjijs, ja aj vieledit sáme anos</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daajroes lea aaj saemieh eah leah naan væhtah eatnamasse laahpeme mah vååjnoes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mærrádusá dán artihkkalin e tsakka riektáv ietjasa duobddágijt ruopptot åttjuditjat ma</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jiehtegh daennie tjaalegisnie eah leah naan tsagkesh jis saemieh sijhtieh sijjen eeke-reaktide bååstide vaeltedh jis nasjovnale jallh internasjovnale reaktah luhpiem vedtieh disse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sámijn máhtti liehket rijkalasj jali rijkkajgasskasasj riektá milta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Golme luhkie v</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 35</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ijhtede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suodjalibme sámij riektájs ednamijda ja tjátjijda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie saem vaarjelidhiej reaktide laantide jih tjaetside</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta galggi doajmmaj biedjat dåbmaris suodjalimev sámij riektájs 34. artihkkala</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staath edtjieh daerpies råan vaarjelimmien nualan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>milta. Ållagattjat galggi stáhta dán diehtij identifiserit dajt ednam- ja tjáhtjeguovlojt majt</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ajvarimmieh tseagkodh guktie saemiej reaktah eensi laak båetieh, vuartsjh tjaalegem 34.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sáme árbbedábálattjat adni.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>mietie giehtjedidh saemiej reaktaj bijre laantese jih tjaatsan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Rijkalasj riektán galggi gávnnut hiebalgis årniga gæhttjalittjat gatjálvisájt ma guosski</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Eeremes edtjieh staath eensi laakan giehtjedidh dejtie laante-jih tjaetsiedajvide mejtie saemieh vuekien pruvhkeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sámij riektáj ednamijda ja tjátjijda. Sáme galggi duobbmoståvlårijdojn bessat oadtjot dav</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sjiere øørnegh edtjieh gååvnesidh nasjovnale reaktesne guktie nuepie gyhtjelasside</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>rudálasj dårjav mij le dárbulasj váj ietjasa ássjijt máhtti oadtjot gæhttjaluvádum.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>dellie edtjieh beetne-vierhtieh vadtasovvedh guktie aamhtside maehtieh vijriebasse juhtiehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 36</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Golme luhkie govhtede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámij riektá luonndoressursajda dakkir ednam- jali tjáhtjeduobddágijda ma gulluji 34.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie eatnemen maelmide provhkedh Saemiej reaktah eatnemen maelmide laante-jih tjaetsie-dajvine mah nebnesovvieh tjaalegisnie 34, edtjieh remes lea vihkeles daesjiere vaarjelimmien nualan båetedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>artihkkalij, galggi sierraláhkáj suodjaluvvat. Dánna galggá aj vieleduvvat dájt bessat adnet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Eejredh gosse daejtie reaktide aaj båetije biejjiej provhkedh, dellie nuepieh saemiej vuekie-maahtoeh jih kultuvre-jiehteside gorredidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ihkap le gájbbádus árbbedábálasj sáme máhtudagáv ja sáme kultuvralasj moallánagájt</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>maelmijste laae, dellie edtja digkiedimmie saemiejgujmie årrodh jih aaj saemiedigkijne guktie tjaalege 16 vuesehte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>minerálajt jali ietjá ressursajt ednama vuolen jali mierredi gåktu ietjá luonndoressursajt adni</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aerebi goh byjjes reereme luhpiem vadta giehtjedæmman jallh aaj viedtjemasse mineralijste jallh jeatja nteste jallh tjaeteste mah leah saemiej eekh jallh dejstie provhkesovvem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dakkir ednam- jali tjáhtjeguovlojn ma sáme æjgguji jali adni, galggi rádádallama tjadáduvvat</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis saemiedejieh luhpieh vadtasovvedh giehtjedæmman jallh viedtjemasse eatnemen maelmijste jis daate saemiej kultuvrem sturrieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Loahpe luonndoressursajt guoradalátjit jali anátjit ij galga vatteduvvat jus dåjma diehti</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkieh jih sjiere saemieh tjoeverieh siemes årrodh jis dagkeres barkoeh edtjieh åtnose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ij la máhttelis jali sjaddá viehka gássjelis sámijda vilá adnet dajt dáfojt maj birra le sáhka, ja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>tsagkesh sjidtieh jallh geerve barkedh dej dajvine goh aerebi, dellie eah edt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dát adno le ájnas sáme kultuvrraj, jus sámedigge ja guoskadallam sáme e dasi guorrasa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>båetedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dat mij le åvdebun dán artihkkalin mierreduvvam, guosská aj ietjá adnovuogijda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dihte mij daennie tj jallh pråavhkoem eatnamistie mij tjaalegisnie 3 amoe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>luondon dáfujn ma 34. artihkkalij hiehpi, dan vuolen aj miehttseæládus, tjáhtje- ja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>aalegisnie tjåådtje, aaj dijpieh jeatja goerpemem eatnamisnie 4 tjåådtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>bieggafábmoásadusá, væddjatsieggim ja asstoájggegådij tsieggim, militera hárjjidallama ja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daesnie aaj skåajje-snidtjeme båata, tjatsie- jallh biegke-fa bigkeme, geajnoebigkeme jih hæhtjoeh, militære lierehtimmie-sijjieh jih staeries sijjieh militærese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 37</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Golme luhkie tjijhtede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Buohttidus ja vuojti oasse</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerpemaaksoeh jih læhtah vierhtijste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>tjasská dakkir dåjmaj baktu ma li nammaduvvam 36. artihkkalin nuppát ja nælját oasen. Jus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ieh edtjieh goerpemaaksoem gaajhki urhtsetallemi åvteste åadtjodh jis dagkeres darjome sjædtSaema mij tjaalegisnie 36, mubpien jih njieljeden boelhkesne tjåådtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>råggåt vælggogissan ednamæjgádij værov mákset jali sunji vaddet oasev dåjma båhtusis, de</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse nasjovnale laake kriebpesje dejstie guhth luhpiem åådtjeme eatnemen maelmijste vaeltedh, dellie edtjieh våarome-aajhteridie vierhtieh maeksedh jallh dienesjisti leahtam vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>galggá riektáaddnen sæmmi vælggogisvuohta aj daj sámij gáktuj gudi árbbedábálattjat li</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ne guhth leah dajvide provhkeme,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>adnám ja ájn adni dav sæmmi dáfov.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>imhtie aaj seamma reaktah saemid maaksoem dåastodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dán artihkkala mærrádusá e ráddjida riektáv oassáj luonndoressursaj adnema båhtusis</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Seamma laakan aaj daate sjale reaktaj mietie eatnemen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>mij máhttá tjuovvot rijkkajgasskasasj riektáv.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ædta maaksoem dåastodh jis internasjovn maelmieh vaaltasovvieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 38</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Golme luhkie gaaktsede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dat mij le tjáhtjeguovloj ja tjáhtjeguovloj adnema riektáj hárráj mierreduvvam</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Duvvege jih fealadimmie duvvene (fjorder og kystfarvann)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>artihkkalijn 34-37, guosská aj sæmmi láhkáj sáme guolástussaj ja ietjá adnuj vuonajs ja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>tjaetside jih provhkeme dejstie mij tjaalasovveme artikkelisnie 34-37 aaj sjeahta gosse sReaktahaemiej gøølemem jih jeatja pråvhkoem saelhteste nebnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>merragáddetjátjijs.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ressursajt reguleriji, de galggá sáme anov ja dan árvov sáme sebrudagán vieledit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>osse juekedh vijremepaart gøølemasse jih jeatja saelhtien maelmide, dellie vihkeles saemiej reaktide steeredh jih vuartasjidh man vierhtege daate saemiej byjres ektievoetese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát galggá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate edtja deahpadidh jalhts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dáhpáduvvat vájku dát adno le binnum jali ållu nåhkåm danen gå guollimoase ælla</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>pråvhkoe lea åananamme jallh raakte gaarvanamme juktie jeatja øørnegh leah båateme gøølemasse jih maelmie-pråvhkose daej dajvine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>guovlojn. Sæmmi sjaddá jus adno le binnum jali hiejteduvvam danen gå merraressursajs li</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Seamma aaj sjædta jis pråvhkoeh åananamme jallh garvanamme juktie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>binnum dájn merraguovlojn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>saelhtien maelmieh vaananamme daej dajvine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 39</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Golme luhkie åktseden tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ednamvijddudagá ja ressursaj háldadibme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dajve-jih maelmie-vierhtiedimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Duodden sámij riektájda dagu åmastimriekta jali adnemriektá, galggá sámedikkijn</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reaktaj baalte mah vuesiehtieh saemiej ee saemiedigkieh mååhtedimmij byjjes vierhtiedimmij bijre dajvine, tjaalegisnie, 34 jih 38.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>liehket riektá mierredimoassálasstemij 16. artihkkala milta almulasj háldadimen guovlojs 34.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ke-reaktah jallh pråvhkeme-reaktah, desnie edtjieh aaj eh utnedh guktie tjaalege 16 vuesehte jih aa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 40</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vijhte luhkien tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Birássuodjalibme ja birásháldadibme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Byjres - vaarjelimmie jih byjres vierhtiedimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sihkarastá guoddelis åvddånimev sáme ednam- ja tjáhtjeguovlojn 34. ja 38. artihkkalij milta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>S taath tjoeverieh saemiedigkij ektine barkedh guktie eensi byjres vaarjelimmieh tsegkesovvieh guktie reaktah jih øvtiedimmieh saemiej laante-jih tjaetsiedajvine stinkes sjædta, tjaalege 34 jih 38.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikkijn galggá liehket riektá mierredimoassálasstemij 16. artihkkala milta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkieh edtjieh reaktam utnedh reeremasse, tj alege 16, guktie byjres vierhtiedimmiem daej dajvine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>birásháldadimen mij dájt guovlojt vájkkut.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>a maehtieh tsevsiehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kapihttal V</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vijhtede kapittele V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme æládusá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej jieleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 41</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vijhte luhkie voestes tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme æládusáj suodjalibme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie saemiej jielemidie vaarjelidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme æládusá ja sáme ressurssaadno galggá sierraláhkáj suodjaluvvat, riektá jali</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>maelmie-vierhtiedimmieh edtjieh sjiere laakan vaaSaemiej jielemh jih saemieh rjelimmien nualan båetedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>rudálasj dåjmaj baktu, nav guhkás gå dát le ájnas kultuvrravuodo.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>veadtaldihkie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme æládussan ja sáme ressurssaadnon aneduvvá dakkir doajmma mij le ájnas vaj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej jieleme jih maelmie-vierhtiedimmie leah vihkedtja tjåadtjodh jih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sáme bájkálasj sebrudahka bissu ja åvddåni.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>eles gosse saemiej voenge øvtiedimmisne årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 42</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vijhte luhkie mubpie tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Boatsojsujtto sáme æládussan</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej båatsoejieleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Boatsojsujtto mij le sierralágásj ja árbbedábálasj sáme æládus ja kultuvrravuohke man</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Båatsoejieleme lea saemiej vihties jiavhtan daerpies disse sjiere reaktah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>vuodon le árbbedáhpe ja danna galggá liehket sierralágásj riektá suodjalibmáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>h siejme vuekie jih dan ga viedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Danen galggaba Vuodna ja Svierik bisodit ja åvddånahttet boatsojsujtov sierrariektán</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nimhtie edtjieh Sveerje jih e reaktah saemide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sámijda sáme boatsojsujttoguovlojn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nøørje båatsoejielemem vaarjelidh jih øvtiedidh goh sjier båatsoeburriedajvine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>3. protokolla milta oassálasstemsjiehtadusán Europealasj aktijdussaj mij javllá sáme li</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemieh goh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>álggoálmmuk, hihkal Suobma sáme boatsojsujto riektádilev nannit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>aalkoealmetjh aaj vååjnesasse båetieh tjaalegisnie provtokollen nuelesne nr.3 europeiske uniovnesne, gusnie Finlaante aaj tjirkie sæjhta saemiej båatsoejielemem nænnoestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 43</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njielje luhkie gåalmede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Boatsojsujtto rijkarájáj badjel.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Båatlensoe-jieleme rasti bijje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámij riektá boatsojsujttuj rijkarájáj badjel vuodon le árbbedáhpe.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej reaktah rasti gåabatjahkh, lea daerpies vuekien mietie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>badjel, de galggi dá lihtudime fámon bissot.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>i bieline gåatoehtid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>diehti, de galggá oassálasste máhttet rijdov rijddonammadussaj bajedit. Da gålmmå</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis mååhtedimmieh saemiej dajvine, sidaj- jallh bovtsegåatome moenehtsi gaskems, rasti gåabpegh bielesne gåatoehtidh, dellie edtjieh d tsagesh pråvhkoen jallh guarkesen gaavhtan dagkeres mååhtedæmman, dellie edtja akte dællosne, maehtedh tsælloem sjiere moenehtsasse guedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sámedikke aktisattjat njuolgadusájt mierredi gudi dákkir rijddonammadusán galggi ájrastit ja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njoelkedse edtja tjåangkan biejesovvedh, edtjieh saemiedigkieh dej golme aartijste ovnukte guktie tsælloemoenehtse døøpmeme, dellie nuepie aamhtsem juhtiehtidh døøpmeme-raaran seamma laantesne gusnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>nammadusá barggovuogev.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ah mååhtedimmieh dååjredh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oassálasste guhti ij la dudálasj dán nammadusá mærrádusájn</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis ejstie mij ts assh guktie dagkeres tsælloe-moeneht laantine nænnoestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus tjæro, sijda jali boatsojguohtomsijda ælla lihtudam boatsojguohtoma birra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>båatsoe-dajve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>rijkarájáj badjel, valla gávnnu rijkajgasskasasj sjiehtadus guohtomriektá hárráj, de galggá dát</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis eah dagkeres mååhtedimmieh saemie-dajvi- sidaj jaalh bovtsegåatome-moenehtsi gaskems gååvnesh, mohte ajve ga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sjiehtadus aneduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ske-staati latjkeme gåatome-dajvide, dellie edtja daate latjkeme vååjnose båetedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sån guhti árbbedáberiektálasj vuodojn adná sujna le vijdep guohtomriektá gå dát rijkajgasskasasj sjiehtadus javllá, galggá bessat váni hiereduvvamis</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis naaken muenieh stuerebe reaktam utnedh dagkeres dajvide, dellie edtjieh namtegh heaptoeh maehtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ietjasa rávkalvisáv duobbmoståvlåj åvdån gæhttjalit dan rijkan gånnå guohtomednam le.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>kriebpesjimmide døøpmege-raaran juhtiehtidh dennie laantesne gusnie båatsoedajvh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kapihttal VI</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Govhtede kapittele VI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konvensjåvnå tjadádibme ja åvddånahttem</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>onvensjovnem juhtiehtidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 44</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njielje luhkie njealjede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámeminisstarij ja sámediggepresidentaj aktisasjráde</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ektesvuekiebarkoe saemiej ministri- jih saemiedigkiej lihtsegi gaskems</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vásstediddje sámeminisstara Suomas, Vuonas ja Svierigis aktan sámediggepresidenta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ministerh Finlaanteste, Nøørjeste jih Sveerjeste jih saemiedigkie- presidenth dej golme laantine, tjoeverieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dájs gålmåjs rijkajs galggi juovnnát tjåhkanit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>abpe tijjen tjirrh tjåangkojsne gaavnedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát aktisasjbarggo galggá konvensjåvnå ulmev åvdedit dagu nammaduvvam le 1.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dagkers ektesvuekiebarkoe edtja vuepside daennie konvensjovsne vijriebasse guedtedh, guktie voestes tjaalegijsnie tjåådtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>artihkkalin. Tjåhkanimen galggi ájggeguovddelis aktisasj ássjijt giehtadallat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjåangkojne edtjieh barkedh saemiej vihkeles aamhtsigujmie mah gaajhksidie dijpieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 45</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njielje luhkie vijhtede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konvensjåvnnånammadus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Konvensjovnen moenehtse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nuorttarijkalasj konvensjåvnnånammadus galggá nammduvvat dán konvensjåvnå</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhte konvensjovne-moenehtse edja tseegkesovvedh mij maahta giehtjedidh guktie daate konvensjovne jåhjih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>tjadádimev tjuovutjit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nammadusán galggi liehket 6 ájrrasa gudi gájka li iesjrádálattja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Moenehtsisnie edtjieh govhte lihtsegh guhth sinsitnijstie ovjearohks, tjahkasjidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Juohkka dajs gålmå stáhtajs nammat avta ájrrasav, juohkka sámedikkijs avta ájrrasav.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah golme staath saemiedigkieh fiere guhte lihtsegem muenieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nammadibme le vidá jahkáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>gyhtjelassh gijallh tjiertijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nammadus galggá daj gålmåj rijkaj ráddidusájda ja sámedikkijda diedádusájt buktet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah edtjieh vijhte jaepieh desnie tjahkasjidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dat máhttá rijkaj ráddidusájda ja sámedikkijda buktet oajvvádusájt ma dán konvensjåvnå</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Moenehtse edtja bievnesh dejtie golme staati reeremasside jih saemiedigide vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ulmev nanniji. Nammadus máhttá aj javllamusájt buktet ájnegis ulmutjij jali juohkusij ássjijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Moenehtse aaj maahta råajvarimmieh laanti reeremasside jih saemiedigkide vedtedh mah maetieh daam konvensjovnem nænnoestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 46</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njielje luhkie govhtede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Rijkalasj tjadádibme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nasjovnale darjomh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Váj dát konvensjåvnnå galggá nav avtaláhkáj gå máhttelis aneduvvat galggi stáhta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis daate konvensjovne edtja vihties laakan vååjnesasse båetedh, dellie vihkeles staath jiehtesigujmie båetieh mah nbiejesovvieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>konvensjåvnå mærrádusájt njuolgga anedahtten dahkat rijkalasj lága baktu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>asjovnale laaken nualan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 47</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njielje luhkie tjijhtjede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Rudálasj åvdåsvásstádusá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vierhtie-m riedimmieie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stáhta dajs rudálasj ressursaj åvdås vásstedi ma li dárbulattja dán konvensjåvnå</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staati diedth leah beetne-vierhtieh skåårvedh jis daate konvensjovne edtja juhtiemasse båetedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sámij lågo milta juogeduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ikte mierie laajkoeh lae laantine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ietján gå daj buojkulvisáj ma 35. artihkkalin nuppát oasen nammaduvvi, galggá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>anti gaskems edtja juakasovvedh vuejniemisnie man gellie saemieh dej ovmes årroeminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sámijda liehket máhttelis oadtjot dav rudálasj dårjav majt dárbahi váj bessi prinsihpalattjat</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Baalte daej væjkoej mah daenesovvieh, edtjieh aaj saemieh vierhtie-viehkiem åadtjodh jis daerpies gyhtjelassi reaktaj bijre døøpmege-raerine juhtiehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ájnas gatjálvisájt dán konvensjåvnå riektáj birra duobbmoståvlåj åvdån gæhttjalit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>nie tjaalegisnie35,mubpien tsiehkesne nebn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kapihttal VII</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjiehtjede kapittele VII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Loahppamærrádusá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Orrejimmie-jiehtsh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 48</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njielje luhkie gaaktsede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikkij dåhkkidibme</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkiej dååhkasjehteme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát konvensjåvnnå galggá vuollájtjállema maŋŋel dajn gålmåjn sámedikkijn</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate konvensjovne edtja nuelie-tjaalegen mænngan dååhkasjehtemem dejstie golme saemiedigkijste viedtjedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 49</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njielje luhkie åksede tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ratifiserim</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ratifikasjovne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát konvensjåvnnå galggá ratifiseriduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate konvensjovne edtja ratifikasjovnen nualan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>da gålmmå sámedikke li dåhkkidam dav 48. artihkkala milta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate maahta voestegh deapadidh gosse dah golme kieh leah daam dååhkasjehtamme guktie tjaalege 48 vsaemiediguesehte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Artihkkal 50</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vijhte luhkien tjaalege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Fábmujboahtem</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie daejnie aelhkiehtidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konvensjåvnnå fábmuj boahtá gålmmålåk biejve maŋŋel gå ratifiserimdokumenta li</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Konvensjovne staeries sjædta golme luhkie biejjiej mænngan ratifikasjovne-tjaalegh leah våarkose nøørjen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>vuona ålggorijkadepartementan deponeriduvvam.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ålkoe-raerie departementese båateme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuona ålggorijkadepartemænnta diedet Suomav, Svierigav ja dajt gålmmå sámedikkijt</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nøørjen ålkoeraerie-departemente Finlaantese, Sveerjese dejtie golme saemiedigkide bieljele ratifikasjonen tjaalegi våarkoen bijre jih aaj man mierien konvensjovne edtja aelkedh juhtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ratifikasjåvnnådokumentaj deponerima birra ja goassa konvensjåvnnå fábmuj boahtá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dihte åårginale tjaalege edtja vøørhkelimmesne nøørjen ålkoeraerie-departementesne årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>bærrájgæhttjá váj Suobma, Svierik ja da gålmmå sámedikke genga duodastuvvam kopijav</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dihte edtja aaj vihties laakan øørnedh guktie Finlaante, Sveerje jih dah golme saemiedigkieh staeries kovpijem åadtjoeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>oadtju.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vije</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konvensjåvnå rievddadime</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>hte luhkie voestes tjaaleg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dajn gålmåjn sámedikkijn ja 48. artihkkala milta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Værrhtovnesneedimmieh konvensjo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konvensjåvnå rievddam fábmuj boahtá gålmmålåk biejve dat biejve maŋŋela gå</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Værrhtoedimmieh daennie konvensjovnesne edtja ektesvøøki barkoe årrodh saemiedigkiej gaskems jih jiehtesij tjaalegisnie 48.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sjiehtadusguojme li Vuona ålggorijkadepartementav diededam rievddama li sijás</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Værrhtoedimmieh daennie konvensjovnesne aelhkiedæmman båata golme luhkie biejjiej mænngan gosse mååhtedimmie-lihtsegh nøørjen ålkoeraerie departementese bieljelamme dååhkesjehtemen bijre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dási duodastussan li sjiehtadusguojmij åvdåstiddje dáv konvensjåvnåv vuolláj tjállám.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dååhkesjehteme-lihtsegh leah jååhkesjehtamme daam konvensjovnem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nav gå dáhpáduváj … … … … … ….</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate deahpedi... _____.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>n … … … … … máno …. biejve jagen 20 …</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>_______n 20... akten tjaaleginie nøørjen, finlaanten, sveerjen jih saemien gielesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konvensjåvnås le akta eksemplárra vuonadárogiellaj, svierigadárogiellaj, suomagiellaj ja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh tjaalegh sadtjoeminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sámegiellaj, divna tevstajn le sæmmi fábmogisvuohta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>eamma vierhtie-daltesisnie tjå</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">sfs_veiledning_38_tjoahkkaj.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Udir.no - Tjoahkkájgessusav tjállet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Udir.no - Åeniedimmiem tjaeledh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjoahkkájgessusav tjállet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åeniedimmiem tjaeledh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Lågå tevstav moaddi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lohkh tjaalegem gellien aejkien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mierkki guovdásj bágojt ja gárgadisájt</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mïerhkesjh vihkeles baakoeh jallh raajesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjále tjåvdabágojt</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjaelieh tjoevtenjebaakoeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjále gatjálvisájt tækstaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjaelieh gyhtjelassh tjaalegasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tjále tjoahkkájgessusav ietjat bágoj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjaelieh aktem åeniedimmiem jïjtsh baakoejgujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå tjálá, máhtá gæhttjat tjåvdabágojda jali gatjálvisájda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse tjaalah, maahtah tjoevtenjebaakojde jallh gyhtjelasside vuartasjidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuoseda tjoahkkájgessusav åhpadiddjáj jali iehtjádijda nav vaj máhtá bagádallamijt oadtjot gåktu máhtá buoredit tjoahkkájgessusav.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuesehth åeniedimmiem lohkehtæjjese jallh jeatjabidie, guktie datne maahtah raerieh åadtjodh guktie maahtah åeniedimmiem bueriedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ane bagádallamijt majt le oadtjum, ja tjále buoredum tjoahkkájgessusav.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nåhtedh raeride maam åådtjeme jïh tjaelieh aktem bueriedamme låhkoem åeniedimmeste.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

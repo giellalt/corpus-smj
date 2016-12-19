@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">tolktjanst.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Julevusámegiella / Lulesamiska</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Information och tjänster för din hälsa och vård.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>JulevusámegiellaLulesamiska</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Gå direkt till innehållet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>DålkkådievnastusTolktjänst</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Gå direkt till navigeringen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Diededibme</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Tolkning till andra språk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Diededibme</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Hela artikeln (ca 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dålkkum ietjá gielajda</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Välj kapitel för utskrift</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Merkaj bargge, jus la dárbulasj, galggi diededahttijn dålkåv adnet.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Olika former av tolkmöten (ca 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttelis la iesj dålkåv rávkkat jus ij aktak gatjáda jus dakkirav dárbaj.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Tala om för vårdpersonalen (ca 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>De aktavuodav válldá kommuvnajn, mij åvdåsvásstádusáv válldá sisijåhttedålkåjs.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Översätter inte skriven information (ca 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sisijåhttijn gudi dárbahi dålkåv gå aktavuodav válldi varresvuohta- ja skihpasujtujn li álu lagámusá ja rádna gudi máhtti viehkedit dålkkut.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Om du inte pratar svenska kan du ha rätt till tolk när du ska träffa en läkare eller någon annan inom vården eller tandvården.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vájku l lagámusdålkkå de májnoduvvá huoman virgálasj dålkkå lánndadikke jali kommuvna dåjmadime baktu.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>I de flesta fall kan vårdpersonalen boka tolk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kultuvralasj ärádusá ja ärádusá vuojnojn ulmutjij gaskan umasslágásj rijkajs dahki vaj muhtem dilijn márjju l buorre muhtem tjanágahtes ulmutjijn gut viehket dålkkut.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Tala om att du behöver språktolk när du bokar ditt besök.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gejna aktavuodav válldá ?</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Hela artikeln (ca 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá kommuvna telefåvnnåguovdátjijn viehkev oattjotjit gejna ságastit.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Välj kapitel för utskrift</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dålkkåguovdásj</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Olika former av tolkmöten (ca 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Måttijn lánndadikkijn / dajvajn la dålkkåguovdásj gå muhtema åvdåsvásstádusáv adni dievnastusájt gaskostit.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Tala om för vårdpersonalen (ca 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dålkkåguovdátjin barggi sierraåhpadum dålkå:</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Översätter inte skriven information (ca 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Siejvvemgielladålkå mánnávuohtabieljedimijda, dat javllá ulmutja gudi li bieljedime riegádimrájes jali li bieljeduvvam árra álldarin ja gejn la siejvvemgiella vuostasj giellan.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>En tolk har tystnadsplikt, det betyder att tolken inte får lämna ut information om dig utan att du godkänner det. Familj och vänner som översätter har inte tystnadsplikt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dålkå ållessjattukbieljedimijda, dat javllá ulmutja gudi li bieljeduvvam ållessjattugin ja gejn la dárogiella vuostasj giellan (álu tjállemdålkkum) valla aj siejvvemgiella doarjjan (TSS) ja njálmmelábudimij gå ságas.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>En tolk ska översätta det vårdpersonalen säger så att du förstår informationen och kan påverka din vård. Du kan ha rätt till språktolk när du har ett möte med någon inom hälso- och sjukvården, eller inom tandvården.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dålka bielljetjalmedimulmutjijda jali sieldes nievres tjalmme- ja bielljevigák ulmutjijda.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Tolken kan vara med vid mötet med vårdpersonalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dålkå dahki vaj la máhttelis gullijda ja bieljedimijda / bielljevigákulmutjijda guládallat.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Tolken kan delta i mötet genom högtalartelefon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dålkkådievnastus la mávsodak ja máhttelis la dålkåv diŋŋgot lánndadikke dålkkåguovdátja baktu gájkka dilijn manna adná dav dárbaj.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Ibland finns även möjlighet för tolken att översätta genom så kallad videotolkning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Fámon la goappátjagá mánnávuohtabieljedimijda, bielljevigákulmutjijda, ållessjattukbieljedimijda, bielljetjalmedimijda ja gullijda.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Du, vårdpersonalen och tolken har då kontakt genom en kamera och dator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gejna aktavuodav válldá ?</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Tolken översätter då informationen till hela gruppen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dålkkådárbon la máhttelis aktavuodav válldet ietjas lánndadikke dålkkåguovdátjijn.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Fråga vårdpersonalen vilken form av tolk som du kan få.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Láhkaásadibme</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Fäll ihop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Varresvuohta- ja skihpasujttoláhka, SFS 1982:763.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Tala om för vårdpersonalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hålladievnastus / Taltjänst</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Tala om för vårdpersonalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hålladievnastus la mávsodak dievnastus jus ulmutjin la jiedna-, hålla- jali giellagássjelisvuoda.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Berätta för vårdpersonalen att du behöver tolk när du bokar ditt besök eller i god tid innan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hålladievnastusán barggi hålladievnastusdålkå.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Tala även om vilket språk det gäller.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hålladievnastus gávnnu dálla lågen lánndadikken.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Oftast bokar vårdpersonalen tolk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hålladoarjja, mij merkaj hålladievnastusdålkå doajmmi persåvnålasj guládallamdoarjjan aktavuodajn ma dåbdduji juorren ja vájve.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Om du inte kan komma till ditt vårdbesök ska tolken bokas av..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gärddodi ja / jali tjielggiji hålav jali guládallamvuogev.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>I en del landsting får du betala kostnaden för tolken om du inte avbokar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Telefåvnnådoarjja, mij merkaj viehkev oadtju riŋŋgit gålmåoasákságastallamav manna hålladievnastusdålkkå álgat ja dárbon tjielggi ja gádot boasto dádjadusáv, valla ietján la sjávot.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Fäll ihop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Låhkåm- ja tjállemdoarjja, mij merkaj viehkev oadtju låhkåt ja / jali tjállet brevav ja tjállagijt, tjálálvisájt tjállet tjåhkanimijn ja nåv vil.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Översätter inte skriven information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gejna aktavuodav válldá ?</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Översätter inte skriven information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Lánndadikke telefåvnnåguovdásj diehtá jus gávnnu Hålladievnastus / Taltjänst ietjas lánndadikken jali ij.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Här på 1177. se finns information på flera språk, om bland annat barnsjukdomar och om hur vården fungerar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Teletal vidnudahka</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Tipsa och dela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttelis la danna viehkev oadtjot tjuovvo dievnastusáj:</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Jag vill tipsa dig om en artikel på 1177 Vårdguiden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Teletaldålkå gudi dålkkuji gássjelis bágojt ja moallánagájt jus la gássjelisvuohta gullat jali dádjadit mij håladuvvá.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Hela artikeln (ca 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dålkkå tjielggi aktijvuodajt jus dav dárbaj.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Välj kapitel för utskrift</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtti aj viehkedit telefåvnnåguovdátjij baktu skuolkkatt.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Olika former av tolkmöten (ca 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Teletal oassálasstá doarjjan ålles ságastallamin.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Tala om för vårdpersonalen (ca 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhtti tjállet mij javladuvvá ja l máhttelis oadtjot dajt häjmmaj rájadum.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Översätter inte skriven information (ca 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gejna aktavuodav válldá ?</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Senast uppdaterad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Skuolkká ietjas iemelágásj telefåvnåjn, häjmma- jali mobijllatelefåvnåjn telefåvnnånummarav 020-22 11 44.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Redaktör:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dåjmadiddje:</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Granskare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gähttje: Täksta l gehtjadum aktan Hjälpmedelsinstitutet / Viehkkenävvoinstituhtajn.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Anna Åberg, förbundsjurist, Avdelningen för juridik, SKL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Täksta l vuododum katalogaj " Vägar till hjälpmedel och samhällsstöd för personer med funktionshinder " Viehkkenävvosinstituhtas.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Allt innehåll är granskat och godkänt av 1177 Vårdguidens redaktion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kataloga gávnnu Hjälpmedelsinstitutet / Viehkkenävvoinstituhta vebbabielen pdf-fijllan.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>Synpunkter på innehållet ? Tyck till</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gájkka sisadno l aj giehtadaládum, gehtjadum ja dåhkkidum redaksjåvnås ja redaksjåvnnårádes 1177 Vårdguiden.</seg>
+      </tuv>
+      <tuv xml:lang="swe">
+        <seg>1177 Vårdguiden – en tjänst från Sveriges landsting och regioner</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

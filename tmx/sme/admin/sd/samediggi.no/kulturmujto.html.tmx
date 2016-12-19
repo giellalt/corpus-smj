@@ -1,0 +1,528 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">kulturmujto.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kulturmujto / Birás, areálla ja kultursuodjalus / Sámedigge - Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kulturmuittut / Biras, areála ja kultursuodjaleapmi / Sámediggi - Sametinget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åtså biednikdårjav</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oza doarjaga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge le jages 2001 læhkám háldadimfábmudahkan sáme kulturmujtoj gáktuj ålles Vuonan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lea 2001 rájes leamašan oppa Norgga sámi kulturmuittuid hálddašaneiseváldi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme kulturmujto li udnásj sáme årrombájkijn, Hedmárkos oarjján gitta Finnmárkkuj nuorttan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kulturmuittut gávdnojit dálá sámi ássanguovlluin, Hedemárkku rájes davás gitta Finnmárkku rádjai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åvdep ájgij lij sáme årrombájkke guhkebuj oarjás ja alás.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovddeš áiggi sámi ássama ja geavahanguovllu rádji lea leamašan guhkit lulás ja oarjjás go odne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme kulturmujto aj dåppe gávnnuji.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii gávdnat sámi kulturmuittuid maiddai dáin guovlluin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Politihkalasj åvdåsvásstediddje</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovddasvástideaddji politihkkár</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ma li sáme kulturmujto ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>thomas.ahren@samediggi.no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kulturmujttolágan tjielggiduvvi kulturmujto náv “ gájkka bátsidisá ulmutjij dåjmajs mijá fysihkalasj birrusin, dáj vuolen saje gåsi li histåvrålasj dáhpádusá, åsko jali dábe tjanádum ”.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mat leat sámi kulturmuittut ? Kulturmuitoláhka čilge kulturmuittuid ná ” buotlágan bázahusat ja dahje ahte sáhttá vuohtit olmmošlaš doaimma min fysalaš birrasis, dákko bakte báikkit maidda historjjálaš dáhpáhusat, osku dahje árbevierut čatnasit ”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kulturbirás le bájkke gåsi kulturmujtto gullu oassen stuoráp ja ålles aktijvuodas.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kulturbirrasiin oaivvilduvvo guovlu gos leat kulturmuittut mat leat oassin stuorit oktavuođas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá liehket ællosáme gábmá- jali låvagoahtesadje ja gárddesadje, bivddobátsidisá bivddoråkkij, vuohtjemtjiegána ja bierggovuorká, merrasáme sijdda aktan gådijn, návsstijn ja fiervváskiejájn, jali jávrre aktan ráhposuollutjijn ja værrodimsajijn.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat sáhttá leat boazosámi goahti- dahje lávvosadji ja gárdesaddji, bivdorusttegat oktan bivdorokkiiguin, čilat ja luovit, mearrasámi dállodoalut gos lea orrunviessu, návstu ja mearrabuvri, dahje jávri mas leat hávdesullot ja oaffarbáikkit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kulturbirrusin aj máhttá liehket bájkke gåsi histåvrålasj dáhpádus, åssko jali dáhpe gullu, ja danen ij le agev duobddák mij le ulmutjis fysihkalattjat vájkkuduvvam.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kulturbiras sáhttá leat guovlu gos leat leamašan historjjálaš dáhpáhusat, oskui dahje árbevieruide gullevaš dáhpáhusat, iige danin dárbbaš leat olbmuid mii eanadaga lea váikkuhan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kulturmujttolága baktu galggi kulturmujto ja kulturbirrusa bisoduvvat gálldon diedojda, vásádusájda ja iesjdåbdduj, ja adnoresurssan boahtteájggáj.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kulturmuitolága bakte galget kulturmuittuid ja kulturbirrasiid gáhttet vai šaddet leat máhtolašvuođa, vásáhusaid ja identitehta gáldun, ja čuovvovaš áiggu geavahanresursan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme kulturmujto li fysihkalasj duodastusá sáme årromijda ja ájnas iesjdåbddo- ja rievtesvuohtavuojnnuj.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kulturmuittut fysalaččat duođaštit ahte sámit leat leamašan ja ássan dan guovllus seammás go leat dehálačča identitehta- ja vuoigatvuođaperspektiivvas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij lip guládallamorgádnan areálla ássjijn sæmmi dásen gå fylkasuohkana</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii leat areálaáššiin gulaskuddanásahus seamma go fylkkasuohkanat ge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij bagádallap ráfájduhtedum ja suodjalimárvvugis sáme tsiekkadusáj æjgádijt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii bagadallat ráfáidahtton ja gáhttenárvosaš visttiid eaiggádiid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij registrerip, gaskostip ja árjjop sáme kulturmujtojt ja kulturbirrusijt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii registreret, gaskkustit ja fuolahat sámi kulturmuittuid ja kulturbirrasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij duodastip sáme kulturhiståvråv ja árbbedábálasj diedojt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii duođaštat sámi kulturhistorjjá ja árbedieđuid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Mij dahkap háldadimplánajt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii hábmet hálddašanplánaid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Areálpolitihka ulmme:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Areálapolitihka mihttomearit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guoddelis areálaj ja resurssaj ávkástallam sáme guovlojn, sáme histåvrå ja árvoj vuodos.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi guovlluid areálaid ja resurssaid ceavzilis ávkkástallan, mas sámi historjá ja sámi árvvut leat vuođđun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kulturmujttopolitihka ulmme:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kulturmuitopolitihka mihttomearit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suodjalit, bisodit ja åvddånbuktet sáme kulturmuojt ja kulturbirrusijt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gáhttet, seailluhit ja oainnusindahkat sámi kulturmuittuid ja – birrasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nannit sáme dábij ja histåvrå diedojt ja vuodov suodjalittjat ja árjotjit sáme kulturmujtojt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nannet máhtu sámi árbevieruid ja historjjá birra ja sámi kulturmuittuid gáhttema ja seailluheami vuođđu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Háldadit sáme kulturmujtojt ietjama histåvrå ja árvoj gáktuj</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hálddašit sámi kulturmuittuid sámi historjjá ja árvvuid vuođul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dåjma:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmabijut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Registrerit sáme kulturmujtojt åhtsåmbargo baktu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Registreremis sámi kulturmuittuid fealtabargu bakte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Duodastit sáme kulturhiståvråv ja árbbedáhpediedojt ságájdahttemij baktu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Duođaštit sámi kulturhistorjjá ja árbedieđuid sahkkehallama bakte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aktisattjat barggat guovdásj, guovllo ja bájkálasj ojválattjaj ja aktøraj</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovttasbargat guovddáš, guovlulaš ja báikkálaš eiseválddiiguin ja oasálaččaiguin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåktu barggap dáj ássjij</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Movt mii dáinna bargat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Areállaháldadibme</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Areálahálddašeapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme kulturmujto ma li 100 jage li automáhtalattjat ráfájduhtedum.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kulturmuittut mat leat badjel 100 jagi leat automáhtalaččat ráfáiduhtton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát aj gullu tsiekkadusájda.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nu lea maiddái visttiiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Automáhtalattjat ráfájduhtedum kulturmujto li automáhtalattjat suodjaluvvam mij sihtá javllat suodjaluvvam divna dåjmajs mij bæjsstá jali vahágahttá, jådedime, ietjájduhttema, gåbttjåma jali hiebalgahtes biledime, dáj gaskan aj dåjmajs ma ietjájduhtti gåktu kulturmujto vuojnnu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Automáhtalaš ráfáiduhtton kulturmuittut lea automáhtalaččat ráfáiduhtton buotlágan doaimmaid vuostá mat vahágahttet dahje billistit, sirdet, rievdadit, jávkadit dahje daid eahpegudnijahttit, nugomat visuálalaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge hæhttu åhtsåmusáv oadtjot gå dákkár dåjma soajtti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggái galgá sáddejuvvot ohcamuš go dákkár meassamat sáhttet deaividit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dábálattjat divna lágásj tsiekkadusdåjma ja dahkamuhá luondon jali automáhtalasj ráfájduhtedum vieson.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geavatlaččat dát mearkkaša buotlágan huksendoaimmat ja meassamat eatnamis dahje automáhtalaš ráfáiduhttot visttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus soajttá plánidum doajmma kulturmujtov bahtá vájkkudit, de háldadus vargga agev buktá vuosteldimev.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus plánejuvvon doaibma rihkku dahje čuohcá kulturmuittuide, de hálddahus dábálaččat ovddida váidalusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Doajmmaæjgát máhttá de sierraloabev åhståt suodjalimmærrádusájt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hukseheaddji sáhttá ohcat sierralobi suodjalanmearrádusas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge vaddá de ássjáj Rijkaantikvárraj rádev. Rijkaantikvárra mij le sieraaloabe fábmudahka, máhttá huoman loabev vaddet doajmmaj muhtem sierra ævtoj milta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áššis Sámediggi ovddida rávvaga Riikkaantikvárii, guhte lea dispaeiseváldi, jus doaibma dattege sáhttá čađahuvvot dihto eavttuid vuođul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dákkár ævto máhtti liehket dutkambállema, jali ráfájduhtedum viesov oabddit antikváralasj vuojnoj milta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dihto eavttut sáhttet leat ahte roggan, dahje ráfáiduhtton viesu divodeapmi galgá čađahuvvot antikváralaš prinsihpaid mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát sihta javllat binnemus máhttelis ábnas målsoduvvá, ja da ma målsoduvvi, målsoduvvi sæmmilágásj abnnasij.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat mearkkaša unnimus lági mielde ja dušše dat oassi mii lea vaháguvvon galgá sáhttit eret molsut, ja dan sadjái maid eret molsu, galgá seammalágan ávnnas adnot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikken li ietjanis sierra hoajjdoprosjevta ruhtadoarjjagijn Rijkaantikváras.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi doaimmaha iežas fuolahanprošeavttaid Riikaantikvára doarjagiiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Miján li aj doarjjaårniga dákkár prosjevtajda, gånnå ullmejuohkusin li ierit ietján musea ja kulturmujtoj æjgáda ja addne.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mis leat maiddái doarjjaortnegat dákkár prošeavttaide, mas ee. dávvirvuorkkát ja kulturmuittuid eaiggádat ja geavaheaddjit leat olahusjoavku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kulturmujttoláhka vaddá Sámediggáj loabev dahkat dárbulasj dåjmajt “ hoajdotjit ja åvddånbuvtátjit ” automáhtalasj ráfájduhtedum kulturmujtojt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kulturmuitoláhka addá Sámediggái vejolašvuođa čađahit dárbbašlaš doaibmabijuid ” dikšumis ja áiccalmahttimis ” automáhtalaš ráfáiduhtton kulturmuittuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dákkár dåjma máhtti liehket luonndosjattoj hoajddo, fysihkalasj dåjma dagu galppim, kulturbálggá, ráfájduhtedum viesojt oabddit, ådåsis tsieggim ja jådedibme.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dákkár doaibmabijut sáhttet fátmmastit šaddodatdivššu, fysihkalaš láhčen nugomat galben ja kulturbálgát, ja ođasteapmi, ođđasit huksemis ja sirdimis ráfáiduhtton visttiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jus iehtjáda sihti hoajddo- ja åvddånbuktemdåjmajt tjadádit, hæhttu dát dáhpáduvvat kulturmujttoháldadusá avtajrádijn.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus earát áigot čađahit dikšun- ja gaskkustandoaimmaid, de dat ferte čađahuvvot ovttasráđiid kulturmuitohálddahusain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dájt maŋemus jagijt li Sámedikken læhkám moadda registrerimprosjevta Fylkesmánne vidnujs.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maŋimus jagiid lea Sámediggi čađahan máŋggaid registrerenprošeavttaid Fylkkamánni ovddas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Duogátjin le Fylkesmánne nasjonálpárkaj ja suodjalimguovloj háldadimplánaj barggo.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Duogáš lea Fylkkamánni bargu ráhkadeames hálddašanplánaid álbmotmehciide ja suodjaluvvon guovlluide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Registrerimbargo li tjadáduvvam guovlojn ma åvdutjis li binnáv guoradaládum, dagu stuorra várreduobddágijn.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fealtabargu lea čađahuvvon daid guovlluin mat ovdalis unnán leat iskojuvvon, nugomat viiddis duottarguovlluin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát barggo le buktám ållo ådå registrerimijt ja lasse diedojt åvdep ájgij sáme ávkástallamav dákkár guovlojs.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát lea dagahan mealgadis ođđa registreremiid ja eanet dieđuid das movt sámiid leat dákkár guovlluid geavahan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Láhkatjoahkke Sámedikke háldadimfábmudahka le loahpádum kulturmujttolágan ja pládna- ja tsiekkaduslágan:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki hálddašaneiseváldi fápmudus lea vuođđuduvvon kulturmuitolága ja plána- ja huksenlága bakte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kulturmujttoláhka Pládna- ja tsiekkadusláhka</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Plána- ja huksenláhka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guovdásj aktisasjbargge</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guovddáš ovttasbargoguoimmit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Rijkaantikvárra</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riikkaantikvára</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Boatsojæládusháldadus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boazodoallohálddahus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkana</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suohkanat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Válde aktijvuodav mijájn</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>UiO Kulturhistorjjálaš musea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke kulturmujttoháldadus le divna Sámedikke guovllokåntåvråjn ásaduvvam.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki kulturmuitohálddahusas leat ovddasteaddjit buot Sámedikki kontorbáikkiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Juohkka kåntåvråjn gávnnu aj fágalasj vásstediddje tsiekkadussuodjalimen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juohke sámi guovlluin gávdnojit maiddái vistesuodjaleami fágaovddasvástideaddjit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Háldadusán barggi arkeologa ja bargge gejn li sierra máhtudahka sáme kulturmujtojs ja sáme histåvrås ja gielajs.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hálddahusas barget arkeologat ja bargit geain lea earenoamáš gelbbolašvuohta sámi kulturmuittuid ja sámi historjjá ja giela ektui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tråmså kåntåvrrå, Olmájvákken:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Finnmárkku kantuvra, Vuotnabađas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nordlánda kåntåvrrå, Ájluovtan:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Romssa kantuvra, Olmmáivákkis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oarjjelsáme guovloj kåntåvrrå, Snåase:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nordlándda kantuvra, Ájluovttas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tsiekkadussuodjalusá fáhkavásstediddje:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vistesuodjaleami fágaovddasvástideaddji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme kulturmujto li fysihkalasj duodastusá sáme årromijda ja ájnas iesjdåbddo- ja rievtesvuohtavuojnnuj.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kulturmuittut fysalaččat duođaštit ahte sámit leat leamašan ja ássan dan guovllus seammás go leat dehálačča identitehta- ja vuoigatvuođaperspektiivvas.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
