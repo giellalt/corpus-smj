@@ -1,0 +1,34 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Sáme biebmo temán åhpadusguovdátjin</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
+    </author>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>81</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/s-me-biebmo-tem-n-ahpadusguovd-tjin.4154</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Sáme biebmo temán åhpadusguovdátjin</p>
+    <p>Sáme åhpadusguovdásj Jåhkåmåhken la åhpadusáv gárvedime mij vielet sáme biebmov. Åhpadusguovdásj sihtá åhpadusáv tjadádit mij galggá turistæládusá dárbojt gåbttjåt mij guosská sáme iemelágásj biebmojt. Oahppe galggi oahppat boahttsubiergov, låttijt, guolijt, muorjijt ja guobbarijt gárvedit gåktu sáme ájgij tjadá lij dahkam. Ulmme l vaddet oahppijda vuodov vaj máhtti ietjasa viddnudagáv vuododit, jali nuppij åvdås barggat. Jus lij galle åhttsijs, boahtá åhpadus jåhtuj boahtte tjaktjaj</p>
+    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+  </body>
+</document>

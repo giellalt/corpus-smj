@@ -1,0 +1,55 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>60</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>https://www.tysfjord.kommune.no/index.php?id=5143068&amp;showtipform=1&amp;cat=95900&amp;gb=</origFileName>
+    <parallel_text xml:lang="nob" location="administrasjonleder.95900.no.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">Tysfjord kommune : Háldadus - Tips en venn</p>
+    <p type="title">Háldadus</p>
+    <p xml:lang="nob">17.12.2012</p>
+    <p>Vásstet suohkana dáhtásystemaj ja guládallamvædtsagij dåjma åvdås</p>
+    <p>
+      <em type="bold">IKT-åssudahka </em>
+    </p>
+    <list>
+      <p type="listitem">Vásstet plánima, åvddånahttema ja hiebadime åvdås IKT-suorgen</p>
+      <p type="listitem">Galggá bærrájgæhttjat jut suohkana barggijn agev le dárbalasj vædtsaga ja prográmma váj bargostisá bessi dahkat.</p>
+    </list>
+    <p>
+      <em type="bold">Namma </em>
+    </p>
+    <p>
+      <em type="bold">Virgge </em>
+    </p>
+    <p>
+      <em type="bold">E-poassta </em>
+    </p>
+    <p>
+      <em type="bold">Telefåvnnå / mobijlla </em>
+    </p>
+    <p xml:lang="nob">Emma Kristensen</p>
+    <p>IKT-vásstediddje</p>
+    <p xml:lang="nob">Emma Kristensen</p>
+    <p xml:lang="nob">75 77 55 00 / 99 23 67 62</p>
+  </body>
+</document>

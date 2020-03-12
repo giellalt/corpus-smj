@@ -1,0 +1,66 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>363</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/AAhpadus/Sarnnom-givsedime-vuosstij</origFileName>
+    <parallel_text xml:lang="sma" location="manifeeste-irhkemen-voeoeste.html"/>
+    <parallel_text xml:lang="sme" location="julggastus-givssideami-vuosta.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Sárnnom givsedime vuosstij / Åhpadus / Sámedigge - Sametinget</p>
+    <p type="title">Sárnnom givsedime vuosstij</p>
+    <p>Gájka suohkana, fykkasuohkana ja almulasj ásadusáj oajve oadtjun vuoratjismáno muhtem girjev gåhttjomijn dåjmalattjat sæbrrat dán jagásj ratjástibmáj Ållesjattuga ráddnavuodav ásadi – aktan, Sárnnom givsedime vuosstij baktu.</p>
+    <p>Mij dáhpáduvvá duv suohkanin, duv skåvlån jali barggosajen?</p>
+    <p>Politihkalasj åvdåsvásstediddje</p>
+    <p xml:lang="nob">Rådsmedlem</p>
+    <p xml:lang="sme">NSR</p>
+    <p xml:lang="nob">Nordre</p>
+    <p type="title">
+      <span type="quote">"Ållessjattuga ráddnavuodav ásadi - aktan"</span>
+    </p>
+    <p>Dán jagásj ratjástimvahkko, ragátmáno 2.-6. Biejve, sisadná gåktu ållessjattuga máhtti aktan barggat vuogas ja sebradahtte bajássjaddam- ja oahppambirrasij åvdås, gånnå máná bessi rádnastallat ja hávsskudallat. Ráddnavuohta le ájnas gå galggá givsedimev hieredit, ja ållessjattuga li ájnas åvddågåvå ja dilev láhtji ráddnavuohtaj. Dán jagásj ratjástibme galggá sisadnet ållessjattugij áktisasjbargov – mánájgárden, skåvlån, asstoájgen ja bájkálasj birrasin – ráddnavuoda åvdådime diehti ja váj hieret mánájt givsedimes.</p>
+    <p>Jus galggap givsedimev ganugahttet de hæhttuji ållessjattuga aktan barggat, ásadusáj ja suorgij rastá váj åttjut sebradahtte birrasav gånnå le sadje gájkajda.</p>
+    <p>Sávvap dån guhti vássteda mánáj ja nuoraj bajássjaddamdiles ietjat bájken, dåjmalattjat oassálastá dán jagásj ratjástibmáj.</p>
+    <p type="title">Mav máhtáv dahkat, usjudalá dån?</p>
+    <list>
+      <p type="listitem">Álgada bájkálasj dáhpádusáv aktan suohkanijn ja bájkálasj luohtádusulmutjij</p>
+      <p type="listitem">Viehkeda váj doaresfágalasj værmádagá/juohkusa ásaduvvi maj ulmme le aktan barggat ráddnavuoda ja sebrudahttema åvdås bájkálattjat (Gehtja tjuovvusav).</p>
+      <p type="listitem">Oablodit man ájnas ráddnavuohta ja aktisasjbarggo barggij gaskan aktan sijáj gudi mánáj ja nuoraj barggi.</p>
+      <p type="listitem">Alodit æjgádijt ja ietjá ållessjattugijt ratjástibmáj oassálasstet ja liehket buorre åvddågåvå ma li viehkken mánáj rádnastallamij</p>
+      <p type="listitem">Gåhttjot mánájgárdijt, skåvlåjt ja klubbajt ássje birra giehttot ietjasa tjåhkanimijn.</p>
+      <p type="listitem">Gåhttjot suohkanav vuollájtjállet Sárnnomav givsedime vuosstij, jus ælla juo dav dahkam.</p>
+    </list>
+    <p>Ienep diedojt bájkálasj dáhpádusáj birra dán jagásj Sárnnom givsedime vuosstij-ratjástimen gávna Oahppodirektoráhta næhttabájken www.udir.no/mmm.</p>
+    <p type="title">Sámedikke oassálasstem</p>
+    <p>Juohkka mánán ja nuoran galggá vuogas ja sebradahtte bajássjaddam- ja oahppambirrasav gånnå givsedibme ij dåhkkiduvá. Danen Sámedigge oassálasstá Sárnnomij givsedime vuosstij. Ulmme le:</p>
+    <list>
+      <p type="listitem">Nannit givsedime hieredimev diedulasjvuoda, máhttolåpptima ja konkrehta dagoj baktu.</p>
+      <p type="listitem">Nannit berustimev muhtem suorgijn ma li ájnnasa givsedime hieredimen.</p>
+      <p type="listitem">Aktan barggat bájkálattjat givsedime hieredimijn.</p>
+      <p type="listitem">Rahtjat váj jådediddje válldi åvdåsvásstádusáv givsedime hieredime ja giehtadallama åvdås</p>
+    </list>
+    <p>Dán jagásj ratjástime ulmme le ienebu galggi berustit ráddnavuodas ja aktisasjbargos givsedime hieredime ulmmen. Navti sávvap ratjástibme galggi nannit ja gievrrodit dav ájnas bargov mij juo dagáduvvá givsedime, badjelgehtjadime ja illastime vuosstij suohkanij, skåvllå- ja asstoájggebirrasijn.</p>
+    <p xml:lang="nob">
+      <span type="quote" xml:lang="nob">Alle barn og unge skal ha et godt og inkluderende oppvekst- og læringsmiljø med nulltoleranse for mobbing.</span>
+    </p>
+  </body>
+</document>

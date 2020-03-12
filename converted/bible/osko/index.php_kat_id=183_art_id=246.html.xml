@@ -1,0 +1,42 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>116</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=183&amp;art_id=246</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=183_art_id=246.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=183_art_id=246.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=183_art_id=246.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Girkko</p>
+    <p type="title">Girkkohiståvrrå</p>
+    <p>300 jage gållin åvddål ristagisá oadtjun sierra girkkoviesojt. Dallutjij lidjin jubmeldievnastusá priváhta sijdajn. Árvvedahtte dáhpáduvvin bievde birra, ja aktijvuohta åvddån bådij navti váj juohkkahasj viehkedij. Gå girkko biggiduvvin lij dålusj romarij goahteviesso gå tjåhkanin guhkesbievde birra vuodon. Boaddnje lij bievde badjegietjen. Sæmmi vuojnnep girkkon dálla, báhppa guhti jubmeldievnastusáv jådet tjuodtju bajemusán girkkon. Udnásj ájlis sadje le girkko. Oabme testamentan, gånnå ulmutja Jubmelijn lihtudin, le ájlisvuohta tjanádum sierralágásj sajijda, duola dagu oattjoj Moses lågev budá Sinai-váren. Luondo lahkavuohta arvusmahttá jubmeldievnastusán. Pilgrimvájaldusá li aj ájnnasa moaddásij gaskan. Na majt jubmeldievnastusáj ålggon, luondo ja sjivnnjedusá lahka sæmmi båttå? Návti ij ájlisvuohta tjanáduvá dåssju girkkuj tsiekkadussan, ájnat aj konkrehta duobddágijda luondon ja duobddágijda sierra histåvråjn.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

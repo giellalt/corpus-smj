@@ -1,0 +1,58 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>247</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=145&amp;art_id=152</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=145_art_id=152.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=145_art_id=152.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=145_art_id=152.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Biejvve</p>
+    <p type="title"><span type="quote">"Mån lev værálda tjuovgga"</span>, javllá Jesus.</p>
+    <p>Jesus javllá: "Guhti muv tjuovvu ij sjievnnjedin vájalda, ájnat sujna le iellema tjuovgga.” (Joh 8,12). Gidán biejvve suojmma buktá iellemav luonnduj, navti Kristus midjij boahtá ihkeva iellema vattáldagájn. Majt dat mierkki? Mij le ihkeva iellem?</p>
+    <p>Jesus riegádij muhtem stállan Betleheman. Sån lij Jubmel ja almasj sæmmi båttå. Sujna lidjin æjgáda dagu miján li uddni. Maria ja Josef lijga suv æjgáda. Sån bajássjattaj Nasaretan. Gástaduváj dagu dådnå ja månnå. Manádij ja åhpadij ja sárnnedij. Jubmela rijka birra sárnnedij, rievtesferdugahtesvuoda vuosstij hålaj, oavdojt dagáj ja skihppijt buoredij. Dav dagáj aktan 12 åhpadisålmmåj. Mujtá gus sijáj namájt? Ådå testamentan besa Jesusa birra låhkåt.</p>
+    <p>Jesusin lidjin moadda namá:</p>
+    <p><em type="bold">Jesus </em> </p>
+    <p>Ejga la Maria ja Josef gudi mierredijga suv namma galgaj Jesus. Muhtem ieŋŋgil Mariaj subtsastij máná namma galgaj Jesus. Jesus-namma mierkki: Jubmel lånes. Dát namma lij dábálasj namma dallusj Israelan.</p>
+    <p><em type="bold">Kristus </em> </p>
+    <p>Kristus le gånågis. Kristus mierkki sån guhti le vuojdadum. Dallusj ájgen vuojdaduváj gånågis uljujn oajven gå gånågissan biejaduváj.</p>
+    <p><em type="bold">Jesus Kristus </em> </p>
+    <p>Gå dá guokta namá aktan aneduvvi de dat mierkki: Jesus le Messias. Sån le dat gånågis guhti le loabedum ja guhti galggá lånestit.</p>
+    <p><em type="bold">Jubmela bárnne </em> </p>
+    <p>Namma subtsas Jesus le Jubmela bárnne. Jesus dáv namáv ietjas birra adná.</p>
+    <p><em type="bold">Hærrá </em> </p>
+    <p>Dát namma ienemusát aneduvvá. Jesus le jábmema badjel vuojttám ja le dan hærrá.</p>
+    <p><em type="bold">Libba </em> </p>
+    <p>Dát namma aneduvvá gå sjaddá sáhka majt Jesus dagáj. Mijá suttoj diehti sjattaj Jesus værron. Rámádin subtsastuvvá lippav værrodi.</p>
+    <p><em type="bold">Almatjabárnne </em> </p>
+    <p>Dáv namáv le dåssju Jesus iesj ietjas birra adnám.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

@@ -1,0 +1,45 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>138</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=205&amp;art_id=227</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=205_art_id=227.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=205_art_id=227.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=205_art_id=227.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Soahke</p>
+    <p type="title">Jesusa vierrek</p>
+    <p>Jubmela sidot lij vierregav joarkket. Jesus aj slæktaj ja fámilljaj gulluj. Rámádin máhttep Jesusa vierregav tjuovvot gitta Abrahama ájges.</p>
+    <p>Davida máddaga baktu galggap åsijt gehtjadit</p>
+    <p xml:lang="nob">:</p>
+    <p><em type="bold">David </em>gånågis, nubben stuorámus gånågis Israelan, ja sån Juda vierregij gulluj. Suv máttarádjá namma lij <em type="bold">Boas </em>ja máttaráhko namma lij <em type="bold">Rut </em>. Ádjá namma lij <em type="bold">Obed </em>. Davida áhttje, <em type="bold">Isai </em>, lij Betlehemas ja sujna lidjin 8 bárne. David lij nuoramus vieljajs. Davida maŋŋela sjattaj <em type="bold">Salomo </em>gånågis. Sån lij Davida ja <em type="bold">Batseba </em>bárnne. David ja Batseba aj áddján ja áhkkon sjattajga, ja akta sunnu áddjovijs lij <em type="bold">Rehabeam , </em>guhti ietjas áhtjev Salomov tjuovoj gånågissan. Ja Rehabeam maŋŋela suv bárnne <em type="bold">Abiam </em>gånågissan sjattaj. Abiam lij Davida ja Batseba máttaráddjov ja –áhkkov ja David lij suv máttaráddjá ja Batseba suv máttaráhkko. Rámádin tjuovvop Davida máttov gitta Jesusa riegádibmáj. </p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

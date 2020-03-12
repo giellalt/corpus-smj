@@ -1,0 +1,46 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>110</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=172&amp;art_id=200</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=172_art_id=200.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=172_art_id=200.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=172_art_id=200.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Girkko</p>
+    <p type="title">Snåsa girkkon</p>
+    <p>Mihttsamára jubmeldievnastusáj, sáme girkkoguossodiddje aneduvvi saemien vaarjoeh baddjen koran. Jubmeldievnastusán sámegiella aneduvvá gå rámáttevsta, sálma ja oasse liturgijas sámegiellaj tjadáduvvá. Dát målssu jages jahkáj.</p>
+    <p>Gå girkkuj boahtá, de dalága vuojnná eatneme, tjuovggagloba sáme ruossajn. Dat girkkuj vatteduváj ja le bájkálasj smirjos dagádum.</p>
+    <p>Ájnegis ulmutja berustimijn, duola dagu Martha Jåma ja Maja Dunfjell li girkkov ruoppsis tydjaj hiervvim: mæssohágel, gålmmå antependija (gåbtjås álltára/låhkåmpulta/sárnneståvlå åvdån) Martha Jåmas daddnidum. Báhpa ruodná stolan le sáme ornamentihkka – Martha Jåmas daddnidum.</p>
+    <p>Tjoaggulvisán tevsta lågåduvvi sámegiellaj moaddi jahkáj. Sámegiellaj lávllu. Sáme liturgija sierralágásj aktijvuodajn aneduvvá.</p>
+    <p>Girkkogárden gávnnuji hávde sáme hámijn, dat sihtá javllat tjáppa luonndogierge, sáme tæksta ja/jali sáme ornamentihkka.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

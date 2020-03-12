@@ -1,0 +1,47 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>150</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Rijkajgasskasasj-barggo/Alta-2013/Alta-2013-ajnas-svalldasa</origFileName>
+    <parallel_text xml:lang="nob" location="alta-2013-viktige-lenker.html"/>
+    <parallel_text xml:lang="sma" location="alta-2013-vihkeles-svaalhtesh.html"/>
+    <parallel_text xml:lang="sme" location="deatalas-leankkat.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Áltá 2013: ájnas sválldasa / Áltá 2013 / Rijkajgasskasasj barggo / Sámedigge - Sametinget</p>
+    <p type="title">Áltá 2013: ájnas sválldasa</p>
+    <p>11. njoktje 2013</p>
+    <p>Vuollelin gávna sválldasijt ja ietjá ávkálasj diedo <em type="bold">Áltá 2013 </em>álggoálmmukkonferánsa birra ja AN:a 2014 álggoálmmugij væráltkonferánsa birra. </p>
+    <p type="title" xml:lang="sme">Gárvediddje álggoálmmukkonferánssa Áltán 2013</p>
+    <p><em type="bold">Sámedigge </em>Praktihkalasj diedo Áltá 2013 álggoálmmukkonferánsa birra. </p>
+    <p><em type="bold">Finnmárkkohálla </em>Gånnå Áltá 2013 álggoálmmukkonferánssa galggá liehket. </p>
+    <p><em type="bold">WCIP2014 </em>Álggoálmmugij næhttabájkke åvddål AN:a 2014 álggoálmmugij væráltkonferánssa. </p>
+    <p><em type="bold">Facebook.com/wcip2014 </em>Álggoálmmugij bielle Facebookan åvddål AN:a 2014 álggoálmmugij væráltkonferánssa. </p>
+    <p><em type="bold">Twitter.com/wcip2014 </em>Álggoálmmugij Twitter-kanálla åvddål AN:a 2014 álggoálmmugij væráltkonferánssa. </p>
+    <p type="title">Aktidum nasjåvnå / 2014 Væráltkonferánssa</p>
+    <p><em type="bold">AN-tjielggidus álggoálmmugij riektáj hárráj </em>AN:a ållestjåhkanibme mierredij jagen 2007 aktisasj tjielggidusáv álggoálmmugij riektáj hárráj. </p>
+    <p><em type="bold">AN:a stuoves forum álggoálmmukássjij hárráj </em>Rádevadde ja koordinerijiddje álggoálmmukássjij orgádna AN:an. </p>
+    <p><em type="bold">AN:a ållestjåhkanibme </em>AN:a ållestjåhkanibme le akta Aktidum nasjåvnåj oajvveorgánajs ja dåppe le juohkka akta AN:a sebrulasj lándajs. </p>
+    <p><em type="bold">AN:a 2014 álggoálmmugij væráltkonferánssa </em>AN:a ållestjåhkanime mærrádus 2014 álggoálmmugij væráltkonferánsa birra. </p>
+    <p><em type="bold">Ájnas dokumenta </em>Iesjguhtik dokumenta li tjáledum moatten álggoálmmukaktijvuodan gárvedibmen 2014 væráltkonferánssaj. </p>
+  </body>
+</document>

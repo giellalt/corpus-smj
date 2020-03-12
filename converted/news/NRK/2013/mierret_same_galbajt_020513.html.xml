@@ -1,0 +1,58 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Mierret sáme galbajt</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/>
+    </author>
+    <year>2013</year>
+    <publChannel>
+      <publication>
+        <publisher>NRK Sápmi</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>207</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@it.no"/>
+    <origFileName>http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.11007206</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Samegillii</p>
+    <p>
+      <em type="italic">Maŋimuš ođđasat sámegillii </em>
+    </p>
+    <p/>
+    <p type="title">Mierret sáme galbajt</p>
+    <p>Hábmera suohkan.</p>
+    <p>Uddni galggá Hábmera suohkanstivrra mierredit gåktu galbbim Hábmera suohkanin galggá liehket.</p>
+    <p>Hábmera suohkan la ráddnásuohkan Divtasvuodnaj, valla ij la sámegiela háldadimguovlon. Huoman sihtá suohkanoajvve Rolf Steffensen sámevuodav Hábmerin tjalmostahttet.</p>
+    <p>
+      <em type="italic">– Dát la ájnas ássje suohkanij, ulmutjijda dáppe ja guovtekultuvralasj sebrudagán mij la dáppe, valla dát la aj ájnas munji, javllá Hábmera suohkanoajvve Rolf Steffensen. </em>
+    </p>
+    <p>Suohkanoajvve gænna l aj sáme duogásj javllá sån la lahkanam ietjas duogátjav maŋenagi gå jage gållin.</p>
+    <p>
+      <em type="italic">– Mån la iesj dagu moattes iehtjáda dán suohkanin ja Nuortta-Vuonan, læhkám dan dilen gånnå lav lahkanam ájgij tjadá sámevuodav ietjam iellemin mij guhkev la læhkám sihke vuojnnemahtes ja uhttse. Valla dálla dåbdåv náv ij des galga liehket, javllá Steffensen. </em>
+    </p>
+    <p>Hábmera suohkanoajvve, Rolf Steffensen.</p>
+    <p type="title">Mierredin åhtsåt sáme namáv 2010</p>
+    <p>Suohkanstivrra juo tjavtjan 2010 mierredij åhtsåt sáme namáv adnegoahtet suohkanin duodden dáro nammaj.</p>
+    <p>Gå departemænnta dav miededij de rájaj suohkan galbbimoajvvadusáv guláskuddamij ja majt de suohkanstivrra uddni galggá mierredit.</p>
+    <list>
+      <p type="listitem">
+        <em type="italic">Lågå aj: Nuora miellusa sáme galbajda </em>
+      </p>
+      <p type="listitem">
+        <em type="italic">Lågå aj: Hamarøy blir Hábmer </em>
+      </p>
+    </list>
+    <p>Suohkanoajvve ij diede jus dal Hábmera suohkanstivrra avtajienalattjat dåhkkit galbajt sihke sámegiellaj ja dárogiellaj.</p>
+    <p>– Jáhkedahtte gåjt suohkanstivrra dáv mierret. Dav gåjt guláskuddam vuoset ja mån doajvov ieneplåhko suohkanstivran dáv mierret vaj galbbim máhttá nav ruvva gå máhttelis tjadáduvvat.</p>
+  </body>
+</document>

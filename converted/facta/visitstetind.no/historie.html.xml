@@ -1,0 +1,30 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Visit Stetind: Histåvrrå</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>56</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.visitstetind.no/smj/historie</origFileName>
+    <parallel_text xml:lang="nob" location="historie.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Histåvrrå</p>
+    <p>Stáddá le gehtjadam nuorttavuona duobddágij badjel láŋŋga åvddål almasj bådij. Vargga guokta millijárda jage le várre navtik tjuodtjum, tsæggo. Ulmutja li goarssát gehtjadam várráj, imájdallam dan birra ja dåbddåm gåktu várre le gesadam.</p>
+    <p>Gávnnu ållo histåvrrå tjanádum dán várráj. Dánna lip tjoahkkim muhtem oase dassta majt diehtet gåktu ulmutja li Stáddá gáktuj usjudallam ådåsap ájge.</p>
+  </body>
+</document>

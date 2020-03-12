@@ -1,0 +1,61 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>303</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Kultuvrraiellem</origFileName>
+    <parallel_text xml:lang="nob" location="kulturliv.html"/>
+    <parallel_text xml:lang="sma" location="kultuvrejieleme.html"/>
+    <parallel_text xml:lang="sme" location="kultureallin.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kultuvrraiellem / Sámedigge - Sametinget</p>
+    <p>Åtså biednikdårjav</p>
+    <p type="title">Kultuvrraiellem</p>
+    <p>Ålolágásj kultuvrraiellem nanni sáme aktavuodav ja ietjas ruohtsajt, ja la viehkken viesso bájkálasj sebrudahkaj gånnå ulmutja sihti årrot. Kultuvrradåjma li dan diehti ájnnasa sáme sebrudagán, ja aj årromij. Sáme kultuvrrabarggo la oasen gárvedit gullevasjvuodav, soapptsomav ja viessomboanndudagáv, lassen kultuvrravuododum barggosajijt.</p>
+    <p>Politihkalasj åvdåsvásstediddje</p>
+    <p xml:lang="nob">Rådsmedlem</p>
+    <p xml:lang="sme">NSR</p>
+    <p xml:lang="sme">Gáisi</p>
+    <list>
+      <p type="listitem">Media</p>
+      <p type="listitem">Valástallam</p>
+      <p type="listitem">Arena sáme kulturdåjmadibmáj</p>
+      <p type="listitem">Dájdda- ja kulturdåjmadibme</p>
+    </list>
+    <p type="title">Sámedigge barggá</p>
+    <list>
+      <p type="listitem">Vaj galggá liehket åvdemus premissavadde sáme dájda ja kultuvra åvddånahttemin</p>
+      <p type="listitem">Vaj juohkkahasj galggá oadtjot oasev válldet sáme kultuvras danna gånnå årru</p>
+      <p type="listitem">Hiebadahtátjit viesso ja moattebelak sáme kulturiellemij buorre kvalitehtajn</p>
+      <p type="listitem">Åvddånahtátjit ja bisodittjat sáme dájdda- ja kulturiellemav gå oassálassti fágalasj tjiehpes ja dåjmalasj sáme tjåhkanimsajij, kulturinstitusjåvnåj ja museaj</p>
+      <p type="listitem">Lasedit bargadahttemav sáme dájdda- ja kulturæládusán</p>
+    </list>
+    <p type="title">Duogásj</p>
+    <p>Sámedikke kulturpolitihkalasj oajvvebarggo le hiebadahttet sáme dájdda- ja kultuvrradåjmadibmáj ja daj åvddånahttemij. Sáme sebrudak le vilá sebrudakásadimájgen, gånnå vuodooase kultuvran ja gielan li vuoroduvvam ja vilá vierttiji vuoroduvvat. Dát rávkká nanos rahtjamav sáme sebrudagás iesj, sáme institusjåvnåjs, Sámedikkes ja stáhta oajválattjajs. Sámedigge vuojnná ietjas åvdåsvásstádussan várajda válldet ja åvddånahttet dajt álgadimijt ja dåjmajt ma li sáme sebrudagán ja liehket ájnnasamos premissavadde dán prosessan. Stáhta oajválattjajn le huoman bajemus åvdåsvásstádus hiebadahttet vaj sáme sebrudahka iesj oadtju máhttelisvuodav ietjas sebrudakásadimev åvddånahttet. Guovlo ja bájkálasj oajválattjajn le aj åvdåsvásstádus oassálasstet aktisasj åvddånahttemin sáme kultuvras, kulturiellemis ja sáme institusjåvnåjs.</p>
+    <p>Sámedigge barggá vaj juohkkahattjan galggá liehket máhttelisvuohta muossádit sáme dájdav ja kultuvrav. Mij lip mihá ietjama histåvrås, kultuvrraárbes ja dájdas ja kultuvras. Sihtap hiebadahttet viesso ja valjes dájdda- ja kulturiellemij buorre kvalitehtajn mij hábbmiduvvá, dagáduvá, åvddånbuvteduvvá ja muossáduvvá ja mij le sadjihin juohkkahattjajda. Sáme dájddára ja kulturdåjmadiddje galggi máhttet viessot ietjas dåjmas. Sáme institusjåvnå li mijá ájnnasamos arena åvddånbuvtátjit sáme dájdav ja kultuvrav. Da vaddi kulturbarggosajijt sáme sebrudagán ja li ájnas oassálasste sáme dájda ja kultuvra åvddånahttemin.</p>
+    <p type="title" xml:lang="nob">Møte</p>
+    <p xml:lang="nob">08.03.2016</p>
+    <p xml:lang="nob">Generalforsamling Åarjelhsaemien Teatere</p>
+    <p xml:lang="nob">Generalforsamling Åarjelhsaemien Teatere. Sted: Mo i Ran...</p>
+    <p xml:lang="nob">Senere hendelser</p>
+  </body>
+</document>

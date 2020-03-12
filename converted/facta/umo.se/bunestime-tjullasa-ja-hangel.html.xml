@@ -1,0 +1,66 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>613</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Bunestime-tjullasa-ja-hangel</origFileName>
+    <parallel_text xml:lang="fin" location="pussailu-suutelu-ja-hyvaily.html"/>
+    <parallel_text xml:lang="fit" location="muiskuja-pyssia-ja--kuherteluahonglaamista.html"/>
+    <parallel_text xml:lang="sma" location="tjonnestidh-tjuvliestidh-jih-gijhkierdidh.html"/>
+    <parallel_text xml:lang="sme" location="cummat-ja-rahkastallan.html"/>
+    <parallel_text xml:lang="swe" location="pussar-kyssar-och-hangel.html"/>
+    <parallel_text location="tjomm-ta-schala.html" xml:lang="rmu"/>
+    <parallel_text location="umidimos-aj-asbajimos.html" xml:lang="rmy-rka"/>
+    <parallel_text location="tumiba-ta-mangdoliba.html" xml:lang="rmf"/>
+    <parallel_text location="vut-umidipe-thaj-hangel-seksualno-khelipe.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="umibe.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Bunestime, tjullása ja hångel</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title">Bunestime, tjullása ja hångel</p>
+    <p>Bunástallat, tjulástallat ja hånglit la juoga masi ålos lijkkuji. Jus ij la dav dahkam márjju ájádallá dan birra ja hálijt dav dahkat. Avtabále gå máhttá dåbddut vehik balon vuostasj tjullásij jali hångelij. Gåktu dal ájn dahká gå hångli?</p>
+    <p>Jus ájádallá gåktu tjules jali hångli, de l buorre mujttet e njuolgadusá gávnnu gåktu galggá dahkat Jus gähttjal ja dahká nåv vaj buoragit allasis dåbddu, de dåbddusj gal buoragit gesi tjules ja gejna hångli.</p>
+    <p type="title">Bunestime</p>
+    <p>Bunástallat la gå ietjas bakismijt dieddel ietjá ulmutja baksimijda jali ietjá sadjáj ietjá ulmutja rubmahin, álu sämmibále aj tsållajienatjav dahká. Gå soabmásav bunes de l njálmme dahppot.</p>
+    <p type="title">Tjullása</p>
+    <p>Gå soabmásav tjules de álu gaoppátjagá baksima ja njuoktjama duohtti nubbe nuppev. Le degu njávkká ja njávkaduvvá njuoktjamijn ja baksimij. Gåvviduvvá aj degu smáhkkut ietjá ulmutjav. Dábálasj vuohke tjulástallagoahtet la bunástallagoahtet. Jus sihtá tjulástallat de máhttá baksimijt vehik sierrit ja njuoktjamav unnán tsåggåt vaj duohttá nuppe baksimijt. De vuojnná jus gut aj baksimijt sierri vaj njuoktjama máhtti duohtadit.</p>
+    <p>E gávnnu njuolgadusá gåktu galggá dahkat gå tjules nubbe nuppev, buojkulvissan man märráj galggá njuoktjamav tsåggåt jali man ednagav galggá baksimijt sierrit, valla dav iesj mierret. Ienemusát álu ietjatis tjielggá gå vijmak soabmásav tjules. Gätjástus la várrogit álgget vaj ij njálmmáj garrasit tsåhkkå ja labuda njuoktjamav guojmenis njálmen dalága. Goappátjijda álu buorak sjaddá jus gähttjal. Vájvve l soabmásav tjulestit njuolgga åvddålis danen gå njunje álkket jåstesti, danen álu dárbaj oajvev rággit ålåtjit. Vuojŋasj má giehpemusát njunjijn gå soabmásav tjules. Vuohke l iesj gähttjalit mij lijkkogis dåbddu. Máttá buoragit tjulástallat badneduollidimijn jali piersingijn. Máhttá aj nubbe nuppev tjulestit rubmahij. Gåggu rubmahin tjules jali sihtá tjulestuvvat iesj mierret aktan gejna tjules jali gässta tjulestuvvá.</p>
+    <p type="title">Fármastime ja njávkkama</p>
+    <p>Máhttá dåbddut lijkkogis iehtjáda rubmahav gulldalit, buojkulvissan fármasta ja njávka baktu. Máhttá njávkadit ja fármudallat goappátjagá biktasij ja biktasahtá.</p>
+    <p type="title" xml:lang="swe">Hångel</p>
+    <p>Gåktu dal ájn hångli? Hånglit gåhtjudallá gå tjules, bunes, fármas ja návkká soabmásav. Tjulástallat ja sämmibále fármudallat máhttá aj årrot hångel. Jur degu njávkkama ja bunestime rubmahin aj máhttá årrot hångel. Gå hångli máhttá aj dieddet ja njávggat nubbe nuppe vuosstij.</p>
+    <p>Máhttá hånglit moatteláhkáj, buojkulvissan suojmma ja sjávot jali tjavgga ja fámulattjat. Álu målsut hångelbåttån. Máhttá aj målsudit báles bálláj ja ulmutjis ulmutjij. Máhttá hånglit ållu gárvodum jali ållu rihttsot. Máhttá aj hånglit umassláhkáj, buojkulvissan tjuottjo,tjåhkkot jali vällot.</p>
+    <p>Hånglit ednagit ja binná biktasij jali biktasahtá muhttijn garrahångelin gåhtjudallá.</p>
+    <p type="title">Smálla</p>
+    <p>Muhtema gåhttju hångelav smállan. Valla smálla máhttá aj ietjá. Muhtema adni buojkulvissan ulmusj smállá gå sjuohttul jali seksav adná iehtjádijn jali iehtjádij. Ulmusj gejna l dáv dahkam máhttá aj gåhtjudallat smállan.</p>
+    <p type="title">Mij dahká tjullásijt ja hångelav lijkkogissan?</p>
+    <p>Årrot lahka ja njávkaduvvat soabmásis dahká lijkev, njuoktjamav ja baksima rádji signálajt vuojŋŋamij jut tjagárt ja dåbddu lijkkogis. Máhttá aj dahkat seksuálalattjat buolliduvvá. Rubmahin li nerva ma dåjmadi dåbdov ja rádji signálajt vuojŋŋamij. Jus galggá vuohkasit ja herlugit dåbddut de hähttu iesj ja gejna hångli, dasi lijkkut.</p>
+    <p>Ulmutja umassláhkáj lijkkuji tjulástallat ja hångli. Ij gávnnu duolla jali ja boasto vuohke dåbddåt, ájnat viertti gulldalit allasis jus adná la lijkkogis tjulástallat ja hånglit, jali jus ienni sihtá lahkavuodav dåbddåt.</p>
+    <p>Agev la riektá vuosstálasstet jus ij sidá tjulástallat jali hånglit, jali jus juoga ij dåbddu buoragit dan båttå. Ij goassak galga tjulástallat ja hånglit gå ietjá ulmusj dav sihtá.</p>
+    <p type="title">Smáhkka ja habssa</p>
+    <p>Gájka smáhkijdi ja hábsijdi umassláhkáj. Gåktu habsijt ja smáhkku rievddá aj, buojkulvissan mierreduvvá majt la bårråm, gåktu la basádam, gåktu biktasa habsijdi ja nåv vil. Jus la snuobas ja l infeksjåvnnå de máhttá buojkulvissan ietjáláhkaáj habsijdit njálmme gå iemeláhkáj.</p>
+    <p type="title">Máhttá gus hånglimis iesselissan sjaddat jali sjiervvedávdajt oadtjot?</p>
+    <p>Ij máhte iesselissan sjaddat gå hångli. Ij ga máhte avtak sjiervvedávdav oadtjot. Hångel l de goappátjagá lijkkogis ja sihkar vuohke ulmutja lahkavuodav dåbddå.</p>
+  </body>
+</document>

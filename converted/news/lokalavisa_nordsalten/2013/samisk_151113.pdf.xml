@@ -1,0 +1,42 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>￼Sáme kultuvrra ja histåvrrå tijmmaplánan</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Ingar N" lastname="Skogvold" sex="m" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2013</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nord-Salten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>152</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no "/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2013/samisk_151113.pdf</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Bájkkeavijssa NuorttaSállto</p>
+    <p>N. Skogvold Media AS</p>
+    <p xml:lang="nob"><em type="italic">Bruce Morén Duolljá gielaj birra</em> <em type="italic">lågådaláj, ja dættodij sámegielajt.</em> <em type="italic">Bruce Morén Duolljá holdt</em> <em type="italic">foredrag om språk, og da med</em> <em type="italic">vektlegging av samiske språk.</em> </p>
+    <p>guohtomguovlo, duodje, gábmá ja sáme biebmo. Ienemusoase skåvlåbiejvijs dán guokta vahkujn aneduvvin Divtasvuona kultuvrajn ja histåvråjn buorebut oahpásmuvvat, ja sierraláhkáj sáme histåvråjn ja kultuvrajn, dålusj ja udnásj ájge. Lågådallamij, låhkåma, ságastallamij, dahkamusáj,  ja praktihkalasj dåjmaj baktu li buoragit oahpásmuvvam ájnas åsijn dan lahka kultuvras ja histåvrås. Giellaåvdediddje Divtasvuonan, Arnhild Lindbach, diededij riektáj birra sámegiellaåhpadibme hárráj, giehtoj juojga birra ja</p>
+    <p><em type="italic">Giellaåvdediddje Divtasvuonan, Arnhild Lindbach, diededij riektáj birra</em> <em type="italic">sámegiellaåhpadibme hárráj, giehtoj juojga birra ja juojga dábij birra, ja duodden aj</em> <em type="italic">juojgastij.  Språkutvikler i Tysfjord, Arnhild Lindbach, informerte om rettigheter til</em> <em type="italic">språkopplæring, fortalte hva joik er og bruk av joik, samt bidro med noen fine joiker.</em> </p>
+    <p>juojga dábij birra, ja duodden aj juojgastij. Bruce Morén Duolljá gielaj sjaddam ja aj hærsskomállásin aktan åhpadiddjij ja skåvlå rektorijn.</p>
+  </body>
+</document>

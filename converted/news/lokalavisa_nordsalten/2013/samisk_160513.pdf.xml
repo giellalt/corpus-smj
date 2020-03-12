@@ -1,0 +1,43 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Julevsáme jiena Dutkamráden</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2013</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nord-Salten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>77</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no "/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2013/samisk_160513.pdf</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Bájkkeavijssa NuorttaSállto</p>
+    <p>Tæksta: Børge Strandskog Jårggålibme:Divte</p>
+    <p>Media AS</p>
+    <p>sebrudagá tsieggim. Prográmma le gasskamutton ietjas 10-jahkásasj plánan 2007-2017, ja rudá ma ruvva almoduvvi, badjelasj 20 milijåvnå, aneduvvá prográmma manemus, stuorra almodusán.</p>
+    <p>- Prográmman le vijdes dutkamsuorgge ja tiemá, ja rudá ruvva almoduvvi. Rudá juogeduvá dutkamprosjevtajda ja doktorgrádastipendajda, ja duodden aj almodibme ja ásadusdoarjjan. Almodibme gåbttjå gájkka prográmma tiemájt, subtsas Oddmund Andersen.</p>
+    <p>Åhtsåmusájggemierre le ragátmáno 4. biejve, ja ådå prosjevta máhtti de álgaduvvat guovvamánno 1. biejve rájes 2014.</p>
+    <p>j</p>
+  </body>
+</document>

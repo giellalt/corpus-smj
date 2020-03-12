@@ -1,0 +1,58 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>65</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstesprak/Samegiella-vuostasjgiellan-same-1/7-jahkedasse/index.html</origFileName>
+    <parallel_text xml:lang="nob" location="sfs_veiledning_10_7-arstrinn.html"/>
+    <parallel_text xml:lang="sma" location="sfs_veiledning_10_7-arstrinn.html"/>
+    <parallel_text xml:lang="sme" location="sfs_veiledning_10_7-arstrinn.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Udir.no - 7. jahkedásse</p>
+    <p type="title">7. jahkedásse</p>
+    <p xml:lang="nob">Hovedinnhold</p>
+    <p>Åhpadimgárvvidusbuojkulvisá</p>
+    <p>Dásse</p>
+    <p>Tjálálasj máhtudáhka</p>
+    <p>Árbbedábálasj diehto</p>
+    <p xml:lang="nob">2.</p>
+    <p>Barggo stávvalij</p>
+    <p>Berajnammadusá</p>
+    <p xml:lang="nob">4.</p>
+    <p>Subtsas</p>
+    <p>Bájkkenamá</p>
+    <p xml:lang="nob">7.</p>
+    <p>Diktasubtsas Nannimtjála DHO-sjiebmá</p>
+    <p>Suojne</p>
+    <p xml:lang="nob">10.</p>
+    <p>Artihkal Tjálálasj prosjækta</p>
+    <p>Moallánagá ma boatsojæládusán aneduvvi</p>
+    <p>Jo1</p>
+    <p>Kåserija</p>
+    <p>Bajedimvuoge Sámen Dålusj subttsasa</p>
+    <p>Jo2</p>
+    <p>Låhkåmstrátegija</p>
+    <p>Sámij álmmuklávlla ja Vuonarijka nasjonálávlla Juojggamárbbedábe ja juojggam uddni</p>
+    <p>Jo3</p>
+    <p>Jårggålit dárogielas sámegiellaj</p>
+    <p>Sáme dålusj subttsasa ja álggoálmmugij subttsasa</p>
+    <p>Deiddelaste namájt tábellajn gávnatjit åhpadimgárvvidusájt.</p>
+  </body>
+</document>

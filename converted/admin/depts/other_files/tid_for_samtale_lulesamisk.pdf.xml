@@ -1,0 +1,240 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Ságastallup dal</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="Kåre " lastname="Lutro" sex="m" born="" nationality="noe"/>
+    </author>
+    <author>
+      <person firstname="Marianne" lastname="Vangsnes" sex="f" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>Foreldreutvalget  for Grunnskolen</publisher>
+        <ISBN>82-92517-72-3</ISBN>
+      </publication>
+    </publChannel>
+    <wordcount>3393</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <origFileName>http://fug.imaker.no/data/f/0/31/69/5_2401_0/Tid_for_samtale_lulesamisk.pdf</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p><em type="italic">Vuodoskåvlå æjgátjuogos</em> </p>
+    <p>Ságastallup dal</p>
+    <p>Sijdda ja skåvllå aktan oahppe oahppama ja åvddånahttema hárráj</p>
+    <p type="listitem">•  Konferánssatijmma = Åvddånahttemságastallam</p>
+    <p type="listitem">•  Gárvedibme</p>
+    <p type="listitem">•  Organiserim ja birás</p>
+    <p type="listitem">•  Ságastallama sisadno</p>
+    <p type="listitem">•  Sierralágásj hásstalusá</p>
+    <p>Ságastallup dal</p>
+    <p>Sijdda ja skåvllå aktan oahppe oahppama ja åvddånahttema hárráj</p>
+    <p><em type="bold">Vuodoskåvlå æjgátjuogos</em> </p>
+    <p>© FUG 2005 Hábmim: Nygaard Design Málla: deville design Prienntim: AS Papermill Tæksta: Kåre Lutro ja Marianne Vangsnes aktisasjbarggon FUG:ajn Tjuorggasa: Ragnhild Ronja Berge</p>
+    <p>Foreldreutvalget for grunnskolen Postboks 8119 Dep. 0032 Oslo Tlf.: 22 24 75 63 Fáksa: 22 24 75 90 www.fug.no www.foreldrenettet.no post@fug.no</p>
+    <p>1. vattos 1. prienntim 2006</p>
+    <p>ISBN: 82-92517-72-3</p>
+    <p>ÅVDDÅBÁHKO</p>
+    <p>Juohkka æjgáda sávvi åvddånimev sijá mánájda, ja skåvllå le ájnnasamos viehkkijs dan åvddånibmáj. Æjgátkonferánssa la ájnas tjåhkanimsadje gå galggá aktisattjat barggat oahppe/máná hárráj. Dán girjátjin lip adnám bágov åvddånahttemságastallam ienni gå æjgátkonferánssa. Báhko åvddånahttemságastallam vuoset man birra galggi ságastallat; gåktu oahppe skåvlån doajmmá, soapptsu, oahppá ja åvddån.</p>
+    <p>Vuodoskåvlå æjgatnammadus almot girjátjav <em type="italic">Ságastallup dal</em> váj galggi buoredit aktisasjbargov sijda ja skåvlå gaskan. Æjgátkonferánssa le akta ájnnasamos sajijs gå galggá máná hárráj aktisattjat barggat. </p>
+    <p>Girjásj le tjáleduvvam sihke æjgádijda ja åhpadiddjijda. Girjátjin aneduvvá báhko <em type="italic">æjgáda</em> sihke <em type="italic">åvdåstiddjij</em> ja <em type="italic">æjgádij</em> birra. </p>
+    <p><em type="italic">Ságastallup dal</em> la dagáduvvam åhpadiddjijs ja æjgádijs Os suohkanin Hordalandan. Os suohkan le måttijt jagijt barggam vuogij gåktu oahppijt bagádallá ja árvustallá. Aktan Fusa suohkanijn le prosjæktajuohkus åvddånahttám vædtsagav majna galggi vuogádus láhkáj barggat merustallamijn karakteraj dagi (VUK)¹. Dán girjátjin li diedo VUK-prosjevtas aneduvvam. </p>
+    <p>Oahppe galggi merustaláduvvat karakteraj dagi vuodoåhpadusán. Gålmmå maŋemus jage vuodoskåvlån ja joarkkaskåvlån galggá oahppe karakteraj merustaláduvvat. Merustallamvædtsak VUK le adnuj váldeduvvam juohkka skåvlån daj guokta suohkanijn ja le ájnas oasse åvddånahttemságastallamij vuodos.</p>
+    <p>Dát girjásj vuoset oanegattjat sisanov åvddånahttemságastallamin. Mij sávvap dát girjásj arvusmahttá æjgádijt ja åhpadiddjijt buorre birásdagájt dagátjit ságastallamij ja aktisasjbargguj oahppe hárráj.</p>
+    <p>FUG sihtá gijttet åhpadimoahttsev Kåre Lutro ja adjuŋktav Marianne Vangnes Søftelanda skåvlån gudi li girjátjav tjállám. FUG sihtá aj gijttet Kristin ja Bjørn Halvor Haukeland:av, Lill-Katrin Wallem:av ja Per Olav Sørås:av gudi li oassálasstám bargguj.</p>
+    <p>Vuodoskåvlå æjgátjuogos Biehtsemáno 2005</p>
+    <p>¹ Ienep diedojt VUK:a birra gávna dánna: www.vuk.no</p>
+    <p>VUODO</p>
+    <p><em type="bold">Árvustallam ja bagádallam</em> </p>
+    <p>Guládallamåhpadiddjen le oajvveåvdåsvásstádus gåhttjot æjgádijt ja oahppev åvddånahttemságastallamij, ja galggá aktan æjgádij sisanov ja birástagáv hiebadit. Dan birra maŋŋela tjállep.</p>
+    <p><em type="bold">Njuolgadus vuodoskåvlå hárráj § 3-2, javllá duola dagu dáv skåvlå ja sijda aktijvuoda birra:</em> <em type="italic">- Skåvllå galggá álu guládallat æjgádij. Guládallamåhpadiddje galggá edesik guokti jahkáj tjadádit plánidum ja struktureridum ságastallam sijáj. Ságastallamin galggá guládallamåhpadiddje duola dagu subtsastit gåktu oahppe dille le daj ulmij hárráj ma li biejaduvvam oahppaplánan ja gåktu oahppe barggá bæjválattjat. Ságastallam galggá hiejttet tjoahkkájgessusijn, gånnå guorrasi masi galggi sierralágásj dættov biedjat bargon åvddålijguovlluj. Maŋŋel gå le lågenguovte jage ållim de la oahppen riektá ságastallamijda oassálasstet.</em> </p>
+    <p>Álu le ávkálasj ja luondulasj oahppáj oassálasstet åvddånahttemságastalla mijda. Muhttijn le galla dárbbo vaj dåssju æjgáda ja åhpadiddje ságastalli gaskanisá, valla dav hæhttuji åhpadiddje, æjgáda ja oahppe gaskanisá sjiehtadit. Gå dán girjátjin lip oajvvadam gåktu åvddånahttemságastallama máhtti tjadáduvvat, ájádallap ságastallamijt gånnå oahppe, æjgáda ja åhpadiddje li sadjihin.</p>
+    <p>Åvddånahttemságastallam gånnå oahppe, æjgáda ja åhpadiddje oassálassti hæhttu snivva plánidum liehket. Jus ságastallamguojme galggi ietjasa avtaárvvusattjan adnet, hæhttuji juohkkahasj diehtet man birra galggi ságastallat. Huoman ij hábme máhte ilá gártjes liehket, vaj ij la máhttelis rievddalasstet ságadahttijn.</p>
+    <p>Juohkka oahppen le riektá oadtjot bagádusáv ja árvvustallamav lågev jage vuodoskåvlån. Dát bagádus ja árvvustallam vuoset gåktu oahppe skåvlån doajmmá fágalattjat ja sosialalattjat, ja makkir barggovuogijt oahppe mæssá. Ságastallamin hæhttuji aj ságastit gåktu åvddålijguovlluj barggat.</p>
+    <p><em type="bold">Njuolgadus vuodoskåvlå hárráj § 3-1 ja § 3-2, javllá duola dagu dáv árvustallama birra:</em> <em type="italic">- Mánájdásen galggá skåvllå árvustallat karakteraj dagi. Nuorajdásen galggá oahppe, duodden árvustallamij karakteraj dagi, oadtjot karakterav rádjánisvuodan ja ulmutjahttemin.</em> </p>
+    <p>Dan diehti gå rámmpo åvddånahttemav buoret, le ájnas positivalattjat tsuojggit majt oahppe buktá fágalattjat, sosialalattjat ja gåktu barggamvuogijt adná. Vájku ságastallamin álu la sáhka majt oahppe buktá, de la huoman ájnas giehttot oahppe hásstálusáj birra. Hæhttup aj ájádallat jus la dárbbo hiebadimijn ja oatsodimijn åhpadiddjes ja æjgádijs.</p>
+    <p>Åvddånahttemságastallamin hæhttuji juohkkahattja guorrasit makkir ulmij hárráj galggá åvddålijguovlluj barggat. Dát máhttá dagáduvvat tjálalasj sjiehtadussan skåvlå, oahppe ja sijda gaskan. Dán sjiehtadusán máhtti liehket mihttomiere oahppáj, åhpadiddjáj ja æjgádijda. (Gehtja oajvvádusáv dákkir sjiehtadussaj lågenangoalmát bielen)</p>
+    <p>GÁRVEDIBME</p>
+    <p>Gávnnuji moadda vuoge gåktu åvddånahttemságastallamav gárvet ja jådet. Vájku makkir vuogev válljip, de la ájnas oahppáj, æjgádij ja skåvllåj aktisattjat barggat åvddånahttemságastallama maŋŋela.</p>
+    <p><em type="bold">Æjgáda ja skåvllå</em> </p>
+    <p>Jus buorre aktisasjbargov sihtá, de luluj åvddånahttemságastallam duola dagu ássjen liehket muhtem æjgáttjåhkanimen. Danna máhtti æjgáda ja åhpadiddje oajvvádit man birra galggi ságastallat. Åhpadiddje máhttá aj sáddit muhtem tjállusav ságastallama birra gånnå ávttji æjgádijt tjálátjit makkir ássjij birra sihti ságastallat. Gå åhpadiddje tjállusav ruopptot oadtju, de máhtta hiebadahttet sisanov juohkka ságastallamij.</p>
+    <p>Gatjádallamguoradus æjgádij gaskan luluj ávkken årrot. Gatjálvisá máhtti liehket duola dagu:</p>
+    <p type="listitem">•  Makkár ássjij birra galggap ságastallat?</p>
+    <p type="listitem">•  Man álu bierri skåvllå ja æjgáda tjåhkanit skåvllåjage birán?</p>
+    <p type="listitem">•  Man guhkev luluj ságastallam vihpat?</p>
+    <p type="listitem">•  Gudi galggi ságastallamij oassálasstet?</p>
+    <p>1. Oahppe ja åhpadiddje/ gárvedibme 2. Oahppe/ æjgádagárvedibme sijdan 3. Åvddånahttemságastallam, gárvedum juohkkahattjajs.</p>
+    <p><em type="bold">NAMMA:</em> <em type="bold">Ássje: VIELEDIBME JA GIERDDISVUOHTA</em> <em type="bold">Gájbbádusá:                                         Viehka álu    Álu    Muhttijn    Vuorjját    Tsuojg.</em> Mån lav gierddis sijájn gudi dav dárbahi Doarjov ja bælostav sijáv gudi illastuvvi Vieledav iehtjádij riektáv ietjasa vuojnojt åvdedittjat Vieledav iehtjádij iesjárvov </p>
+    <p><em type="italic">Sjiebmábuojkulvis</em> </p>
+    <p><em type="bold">Oahppe ja åhpadiddje</em> </p>
+    <p>Juo mánájskåvlån máhtti oahppe liehket gárvvása oassálastátjit åvddånahttemságastallama gárvedimen. Nuorajskåvlån la máhttelis ságastallamijt klássarádetijmajn gárvedit. Man birra hálijdi oahppe ságastallamin giehttot? Aktan åhpadiddjijn máhtti oahppe hiebalgis tiemáv gávnnat.</p>
+    <p>Oahppe 5. ja 8. klássajn dáv miejnniji åvddånahttemságastallama birra:</p>
+    <p type="listitem">•  Oahppe hæhttu åvddånahttemságastallamij</p>
+    <p>oassálasstet, suv birra ham ságastalli.</p>
+    <p type="listitem">•  Ságastallam bierri vihpat binnemusát 30</p>
+    <p>minuhta, váj e dárbaha diertjestit, ja váj juohkkahasj bæssá sáhkadit.</p>
+    <p type="listitem">•  Ájnas le ságastallamav gárvedit.   Ájnas la</p>
+    <p>ietjajnis buohtastahttet, ij dåj iehtjádij.</p>
+    <p type="listitem">•  Suohtas le positijvalasj diededimijt åhpadiddjes</p>
+    <p>oadtjot.</p>
+    <p type="listitem">•  Muhtemláhkáj skámádav gå åhpadiddje mujsta</p>
+    <p>rámmpu, valla huoman suohtas.</p>
+    <p type="listitem">•  Ájnas la sáhkadit dan birra mij buoragijt doajmmá, valla vierttip aj</p>
+    <p>giehttot dan birra mij ij la nav hávsske.</p>
+    <p type="listitem">•  Tjiebedin báktjasav oadtju gå sáhkat juoŋga birra mij ij la nav hávsske.</p>
+    <p>Oahppe dåbddå jasskavuodav gå ságastallama sisanov dåbddå. Oahppeságastallamin, ságastallamin oahppe ja åhpadiddje gaskan, le máhttelis åvddånahttemságsatallamav gárvedit. Dalloj máhttá oahppe viehkev oadtjot ietjas árvustalátjit, gåktu skåvlån doajmmá ja åvddån, fágalattjat ja sosialalattjat, ja gåktu rijbbá duojna dájna barggamvuogijn. Ságastallamin bierri aj giehttot majt oahppe ietjas oahppama birra ájádallá. Le gus mige majt lulujma ietjájduhttet sijdan jali skåvlån, vaj oahppe oahppam ja åvddånahttem lij bárránit? Oahppe ja åhpadiddje gárvedibá gåktu dáv åvdedit åvddånahttemságastallamin. Aktan ájádallaba gåktu oahppe galggá åvddålijguovlluj barggat. Dákkir barggamvuohke</p>
+    <p>máhttá oahppáj buorren liehket. Gå oahppe stuorrán, de soajttá liehket ávkálasj adnet iesjárvustallamsjiemáv fágalasj ja sosialalasj åvddånibmáj. Dievdedum sjiebmá le buorre álggo ságastallamij åhpadiddje siegen. Sæmmilágásj sjiemáv le aj máhttelis åvddånahttemságastallamin adnet.</p>
+    <p><em type="bold">Oahppe ja æjgáda</em> </p>
+    <p>Gå oahppe ja æjgáda dåbddi ságastallama sisanov, de máhtti ietjasa gárvedit tjåhkanibmáj. Viehkken gárvedimijda máhttá åhpadiddje sáddit tjállusav gatjálvisáj oahppe åvddånime hárráj maŋemus ájgij. Máhttá gatjádit duola dagu:</p>
+    <p type="listitem">• Makkir fágajn duv mielas, buoremusát rijba?</p>
+    <p type="listitem">• Makkir barggovuogijda buoremusát lijkku?</p>
+    <p type="listitem">• Gen siegen la skåvlån?</p>
+    <p type="listitem">• Majt buoremusát lijkku friddjabåttåj dahkat?</p>
+    <p>Gárvedit åvddånahttemságastallamav tjårggi vaj ságastallam aneduvvá dasi mij le ájnnasamos; viehkedit oahppev ja måvtåstuhttet suv daj hásstalusájda majt skåvlån oadtju. Gå buoragit gárvet de oadtju positijvalasj vuorddemusájt ja buorre birrasav juohkkahattjaj.</p>
+    <p>ORGANISERIM JA BIRÁS</p>
+    <p><em type="bold">Gåhttjom</em> </p>
+    <p>Muhtem skåvlå ájn åvddånahttemságastallamijt iehketbiejvijt jali iehkedijt tjadádi, valla ienep gå avtan skåvlån gæhttjali ságastallamijt tjadádit skåvllåájge. Åhpadiddje ja aj æjgáda hæhttuji máhttet ságastallamav sjáhtalit gå galggi ájgev mierriedit. Valla skåvllå le vælggogis sjiehtadit ájgev vaj æjgáda máhtti boahtet.</p>
+    <p><em type="italic">Sjiebmábuojkulvis</em> </p>
+    <p><em type="bold">Siggáj ja Mihkkilij</em> Dálla l muddo åvddånahttemságastallamij. Gudi oassalassti li: æjgáda, oahppe ja åhpadiddje. Buoris boahtem! </p>
+    <p>Tjåhkanimsadje: Girjjevuorkán Biejvve: gasskavahkko 30.04 Ájgge: kl. 14.00 – 14.30</p>
+    <p>Ságastallama tiemá li:</p>
+    <p><em type="bold">Fágalasj åvddånibme</em> </p>
+    <p type="listitem">• duollatjállem</p>
+    <p type="listitem">• matematihkka (algebra)</p>
+    <p type="listitem">• ieŋŋils (låhkåm/ tjállem)</p>
+    <p><em type="bold">Dåjma tijmajn</em> </p>
+    <p type="listitem">• njálmálattjat</p>
+    <p type="listitem">• gåktu dahkamusáj barggá</p>
+    <p><em type="bold">Soapptsom</em> </p>
+    <p type="listitem">• friddjabåttå ja rádna</p>
+    <p type="listitem">• tijma ja aktisasjbarggo</p>
+    <p><em type="bold">Sijddabarggo</em> </p>
+    <p type="listitem">• goassa sijddabargo dagáduvvi</p>
+    <p type="listitem">• barggamdábe</p>
+    <p>Varrudagá Gåhttjom åvddånahttemságastallamij hæhttu ájge bále sijddaj sáddiduvvat. Akta ájálvis le juohkka oahppe ietjas æjgádijt gåhttju boahtet. Aktan åhpadiddjijn gávnadibá hiebalgis ájgev, ja rádjaba sijddaj persåvnålasj gåhttjomav. Ietjá bále le soajttá buoremus sáddit aktisasj gåhttjomav æjgádijda klássan gånnå máhtti sárgestit goassa sihti ságastallamav.</p>
+    <p>Dagu åvdebu nammadum, de le dábálasj oahppáj oassálasstet ságastallamij juo gå vádtsá 2. jali 3. dásen. Ávkálasj le jus oahppe oassálasstá, valla muhttijn le ållessjattugijda dárbbo aktan ságastit gå máná ælla lahkusin. Ihkap ållessjattuga máhtti akti jahkáj æjvvali ságastalátjit galluga.</p>
+    <p>Muhtem æjgádij mielas galggi dá ulmutja oassálasstet ságastallamin:</p>
+    <p type="listitem">•  Buoragit doajmmá ságastallamijn gå máná e oassálasste.</p>
+    <p type="listitem">•  Giehpebuv le sáhkadit gássjelis ássjij birra gå máná e oassálasste.</p>
+    <p type="listitem">•  Muhttijn sihtap ságastallat juoŋga birra gå máná e oassálasste.</p>
+    <p type="listitem">•  Buorre le gå oahppe oassálasstá, de oadtju rámpov ja aj nievrep ságajt</p>
+    <p>gullat.</p>
+    <p type="listitem">•  Diedo buoremusát juogeduvvi gå juohkkahattja oassálassti; oahppe,</p>
+    <p>æjgáda ja åhpadiddje.</p>
+    <p>Gåhttjomin bierri tjuodtjot mij galggá åvddånahttemságastallama sisadno, ja gudi galggi oassálasstet.</p>
+    <p><em type="bold">Ladnja</em> </p>
+    <p>Klássaladnja buoragit hiehpá tjåhkanibmáj åhpadiddje, oahppe ja æjgádij gaskan. Luluj ávkken liehket oahppe barggosajen tjåhkanit, gehtjatjit barggamsajev, sárggomijt jali ietjá skåvllåbargojt.</p>
+    <p>Máhttelis le ietjá lanjájt adnet åvddånahttemságastallamij, duola dagu juogoslanjáv jali skåvllågirjjevuorkáv. Lanján hæhttu liehket máhttelis buoragijt ja ráfen ságastallat.</p>
+    <p>Luondulasj le æjgáda, oahppe ja åhpadiddje sæmmi bievde birra tjåhkkåhi gå ságastalli. Praktihkalasj organiserim galggá tjielggasit vuosedit divna oassálasste ságastallamin li avtaárvvusasj oassálasste.</p>
+    <p><em type="bold">Ájgge</em> </p>
+    <p>Åvddånahttemságastallamin galggap astot ságastallat. Juohkkahasj hæhttu oadtjot javllat majt sihtá. Tjåhkanime låhpan galggá liehket assto tjoahkkájgæsátjit ja hábbmitjit ulmijt åvddålijguovlluj.</p>
+    <p>Moattes æjgádijs javlli sij sihti edesik 30 minuhtajt dákkir ságastallamij. Guorradallamin æjgádij gaskan javllin muhtema návti tjåhkanime ájge birra:</p>
+    <p type="listitem">•  Guhkedit ságastallamav 30 minuhttaj, vaj oadtjop buorre astov, ja</p>
+    <p>åhpadiddje ij dárbaha gåktuk maŋŋunit.</p>
+    <p type="listitem">•  Sihtap guhkep ájgev gå 30 minuhta.</p>
+    <p type="listitem">•  Jus juohkkahasj galggá javllat majt sihtá le dárbbo binnemusát 30</p>
+    <p>minuhtajda.</p>
+    <p><em type="bold">Njunnjusj</em> </p>
+    <p>Álu le luondulasj åhpadiddjáj ságastallamav jådedit. Gå ságastallamav gárvedibá máhtteba oahppe ja åhpadiddje guorrasit goabbá galggá majt åvdedit ságastallamin, ja ihkap oahppe jådet oasev ságastallamis. Åhpadiddje gudi lij dibddám oahppijt ságastallamav jådedit, li åtsådallam oahppe le ålov oahppam, vájku li guhkep ájgev dárbaham gárvedattijn gå buohtastahttá dábálasj tjadádime hárráj.</p>
+    <p>SÁGASTALLAMA SISADNO</p>
+    <p><em type="bold">Maŋus gehtjastit</em> </p>
+    <p>Åvddånahttemságastallam galggá liehket plánidum ságastallam skåvlå ja sijda gaskan, ja tiebmá hæhttu gárveduvvat ságastallama åvddåla. Máhttá ávkken liehket jus ságastallama álgon máhttsi åvdep ságastallamij, ja gæhttji gåktu oahppe le åvddånam dalutjis. Le oahppe jåksåm dajt mierijt majt åvdep tjåhkanimen oattjoj? Lidjin miere ávkálattja oahppe åvddånahttemij? Oahppe, æjgáda ja åhpadiddje árvvustalli båhtusijt ja sjiehtadi ådå mierijt oahppáj.</p>
+    <p><em type="bold">Åvddånahttemulme</em> </p>
+    <p>Vuodoskåvlån li moadda aktisasj ulme åhpadibmáj, fágalattjat ja aj sosialalattjat. Ulme vuosedi majt oahppe galggá oahppat juohkka dásen. Åvddånahttemságastallamin viertti guoradallat majna oahppe rijbat. Majt miejnni oahppe iesj? Aktan åhpadiddjijn máhttá oahppe sjiehtadit ådå ulmijt åvddålijguovlluj. Ulme galggi gájbbadusájt buktet oahppáj, valla aj gájbbádusájt oatsodibmáj æjgádijs ja åhpadiddjijs. Åvddånahttemulmev hæhttu dåhkkit mihttit, ja oahppe ja æjgáda hæhttuji agev diehtet jus ulmme le jåvsådahtte.</p>
+    <p><em type="bold">AKTISASJBARGGO </em>(buojkulvisá) <em type="bold">Ulmme:</em> </p>
+    <p type="listitem">•  Oahppe sihtá ja máhttá aktisattjat barggat</p>
+    <p><em type="bold">Buojkulvisá oasseulmijda:</em> </p>
+    <p type="listitem">•  Oahppe iehtjádijda gulldal</p>
+    <p type="listitem">•  Oahppe dåjmalattjat barggá aktisasjbargujn</p>
+    <p type="listitem">•  Oahppe sjiehtadusájt tjuovvu Åvddånahttemmiere máhtti aj tjanáduvvat ájnegis fágaj jali ájnegis dahkamussaj majna oahppe galggá barggat. Ulme máhtti aj liehket barggamvuogij ja máhtudagáj birra, jali ienep sosialalasj hámijn, dagu buktet iehtjádij aktisattjat barggat.</p>
+    <p>Dálla galggap aktisasjbargov gæhttjat åvddånimsuorggen. Ájnas le oahppáj máhttet aktisattjat barggat jus galggá buoragit doajmmat fágalatjat ja sosialalattjat, skåvlån ja maŋŋela gå barggagoahtá. Skåvlån galggá oahppe aktisattjat barggat iehtjádij, guovtes aktan ja aj juohkusijn. Oahppe galggi oahppat duov dáv barggamvuogev duola dagu prosjæktabargov. Dan diehti hæhttuji oahppe buktet aktisattjat barggat. Makkir oasseulmijt hæhttu ållidit jus galggá buorre aktisasjbarggo? Ájnas le oahppe ja æjgáda dåbddi oasseulmijt mierredum åvddånahttemulmmen. Oahppe hæhttu oahppat mij la aktisasjbargo sisadno, ja viehkev oadtjot gehtjatjit gåktu doajmmá ulmij hárráj.</p>
+    <p>Åvddånahttemulme galggi hiebaduvvat juohkka ájnegis oahppáj. Oahppijda gudi ælla nav smidá, soajttá sjaddat gássjel jus galggi buohtastahteduvvat oahppij gudi li smidásappo. Jus biedjá dættov aktisasj ulmmáj ja oasseulmijda, de soajttá oahppe dåbddå ietjas tjuorbben, mij ij la buorre åvddånahttema hárráj. Åvddånahttemságastallamin hæhttup duodastit gåktu oahppe doajmmá ja gåktu åvddån ietjas máhtukvuodaj hárráj. Åvddånahttemságastallam galggá liehket tjåhkanibme gånnå måvtåstahttep bargatjit almma åvddånahttemulmij vuosstij.</p>
+    <p><em type="bold">Oahppe máhtudáhka</em> </p>
+    <p>Skåvlå ulmme aktan sijdajn le åvddånahttet oahppe ållåsasj máhtudagáv, gånnå ålles almasj le guovdátjin. Skåvlån galggá oahppe soapptsot ja oahppat. Åhpadimen galggá oahppe oahppat juohkka fágan. Duodden máhtudagáv ådåsis anátjit, de galggá oahppe aj oahppat ájádallat dan birra ja adnet dav skåvlån, sijdan ja maŋŋela barggoiellemin.</p>
+    <p>Oahppe oadtju uddni stuoráp åvdåsvásstadusáv ietjas oahppamis ja åvddånimes. Ienep gå avtan skåvlån barggoplánajt adnegåhti, ja dákkár barggamvuohke rávkká vaj oahppe iesj dahkamusájt pláni ja tjadát. Dan diehti dárbaj oahppe máhtov duon dán barggamvuoge birra.</p>
+    <p>Oahppe hæhttu aj buoragit dádjadit gåktu sån doajmmá. Majt sihtá javllat åvdåsvásstádusáv válldet ietjas oahppamis? Åvddånahttemságastallamin máhttá dat liehket ávkálasj ássjen man birra ságastallat. Gåktu jáhkká oahppe sån iesj válldá åvdåsvásstádusáv ietjas oahppamis?</p>
+    <p>Duodden fágalasj åvddånibmáj ja barggamvuohkeoahppamij, hæhttu oahppe aj åvddånahttet máhtojt gåktu iehtjádij siegen doajmmat. Dáv sosiálalasj máhtov hæhttu oahppe oahppat ja adnet sæbrástallamin ja aktisasjbargon. Gåktu oahppe soapptsu vuoset gåktu oahppe doajmmá sosiálalattjat. Dan diehti le ájnas oahppes gatjádit gåktu skåvlån soapptsu. Soapptsu gus klássan ja skåvlån? Boahtá gus ájgás åhpadiddjij ja guojmmeoahppij? Le gus oahppe smidá árvvon anátjit nuppijt?</p>
+    <p><em type="bold">Fágalasj åvddånahttem</em> </p>
+    <p>Fágalasj åvddånimen le ájnas gæhttjat gåktu oahppe doajmmá ájnegis fágajn. Åvddånahttemságastallamin bierriji oahppe ja æjgáda diedojt oadtjot oahppe máhtudagá birra juohkka fágan ulmij ja oasseulmij gáktuj. Mánájskåvlån árvustalli dáv máhtov karakteraj dagi. Nuorajskåvlån karáktera dahkamusájn ja gávddakaraktera vuosedi oahppe máhtudagáv juohkka ájnna fágan. Huoman le gal ájnas váj káráktera tjielggiduvvi ja oahppe bagáduvvá. Dála tjuovvu buojkulvis diededibmáj dároåhpadiddjes oahppáj nuorajskåvlån:</p>
+    <p>Dån ålov diedá ja tjálá duv tjállusin tjálle birra. Buorre gå aná sitáhtajt girjijs ja majt tjálle iesj le javllam. Buorre gå ålov tjálá, ja dån buoragijt tevstav åsijda juogá. Dujna lij nágin tjállemvige, ja hæhttu sierraláhkáj tsæhkkáj barggat. Lev nágin kommentárajt sijddobælláj tjállám. Lågå dajt ja gehtja låhkåmgirjen b. 140. Mujte aj mierkkit njuolggahålan.</p>
+    <p>Dát le sierraláhkáj ájnas jus oahppen lij gássjelisvuoda fágajn jali fáhkasuorgen. Tjielggidusáj ja bagádusáj baktu oahppe dádjat gåktu máhttá buoredit ietjas oahppamav ja máhtov.</p>
+    <p><em type="bold">ÅVDÅSVÁSSTÁDUS IETJAS OAHPPAMA ÅVDÅS (I) </em>(buojkulvis) </p>
+    <p type="listitem">•  Li gus dujna ulme gå barga?</p>
+    <p type="listitem">•  Le gus dujna gájkka nævo majt dárbaha?</p>
+    <p type="listitem">•  Dagá gus dajt bargojt massta la åvdåsvásstádusáv oadtjum?</p>
+    <p><em type="bold">ÅVDÅSVÁSSTÁDUS IETJAS OAHPPAMA ÅVDÅS (II) </em>(buojkulvis) </p>
+    <p type="listitem">•  Le gå gárves skåvllåbargguj?</p>
+    <p type="listitem">•  Tjuovo gus gå åhpaduvvá?</p>
+    <p>Le gus oahppen gásjelisvuoda fágan, váj nievres båhtusijt oadtju dan diehti gå ij nuohkásav barga? Majt oahppe iesj miejnni? Máhttá åhpadibme ja viehkke skåvlån buorebut doajmmat? Dá gatjálvisá máhtti ávkken liehket gå barggagåhti åvddånahttemságastallamijn. Dadi vuorrasap oahppe le, dadi buorebut dádjat gåktu iesj doajmmá. Ávkken le aj gæhttjat gåktu æjgáda máhtti viehkedit vijdábut åvddånahttemin.</p>
+    <p><em type="bold">Sosiálalasj åvddånahttem</em> </p>
+    <p>Skåvlån lij moadda mærrádusá ja njuolgadusá man vuosstij sihti oahppe galggi åvddånit ja majt sihti oahppe galggi tjuovvot. Dákkir mærrádusajs ja njuolgadusájs badjáni guotto ma li buore skåvllåbirrásij, ja oahppe, æjgáda ja åhpadiddje bierriji dajt aktan gávnadit. Oahppe hæhttu oahppat gåktu suv dábe ja dåmadimvuoge bájnni klássa- ja skåvllåbirrusav. Ájnas le aj oahppáj oahppat mierijt biedjat goassa dåbddå ij iehtjádijs vieleduvá.</p>
+    <p>Gåktu åvdebut lip nammadam de le máhtudahka aktan doajmmat ja aktisattjat barggat vuodon sosiálalasj ja adjáj fágalasj åvddånibmáj. Iehtjádijt árvvon adnet ja gierddisvuohta libá aj ájnnasa dási. Mij la dáj moalgedimij sisadno? Ja gåktu máhttá oahppe åvddånit viehkedime ja gierddisuovda hárráj? Buojkuldagá hæhttuji tjielggiduvvat oasseulmij baktu. Dánna aj le máhttelis árvustallamsjiemáv adnet. Makkir oasseulmijda máhttá oahppe rahtjat gå le sáhka vieledimes ja gierddisvuodas?</p>
+    <p><em type="bold">Tjoahkkájgiessem ságastallamis ja ådå åvddånahttemulme</em> </p>
+    <p>Buorre ságastallamin le tjoahkkájgæsos gånnå sjiehtat ådå sosiálalasj ja fágalasj åvddånahttemulmijt boahtte barggoájggegávddaj.</p>
+    <p><em type="bold">VIELEDIBME JA GIERDDISVUOHTA</em> <em type="bold">Ulmme:</em> </p>
+    <p type="listitem">• Oahppen le vieledibme</p>
+    <p>ja gierddisvuohta ietjas guojmmeulmutjij hárráj <em type="bold">Oasseulme (buojkulvisá):</em> </p>
+    <p type="listitem">• Oahppe le gierddis sijájn gudi dav</p>
+    <p>dárbahi</p>
+    <p type="listitem">• Oahppe doarjju ja bælos sijáv</p>
+    <p>gudi illastuvvi</p>
+    <p type="listitem">• Oahppe iehtjádij</p>
+    <p>iesjárvov vielet</p>
+    <p>SJIEHTADUS</p>
+    <p><em type="bold">Ulmme: Vásstediddje:</em> Buoredit låhkåmav tjavggalåhkusijn 10 min. mánnodagá ja gasskavahko Oahppe Ållit sijddabargojt barggoplánan Oahppe/æjgáda Ij hiemssedit suv guhti sáhkat Oahppe Tjále gájkka diedojt táblluj Åhpadiddje </p>
+    <p>oahppe æjgáda/åvdåstiddje åhpadiddje</p>
+    <p>Tjoahkkájgæsos máhttá liehket juogu tjálalattjat jali njálmálattjat, valla jus ulme lij ájnnasa oahppe åvddånibmáj le buoremus tjálalattjat. Gå le oahppe åvddånahttema birra sáhka, bierri sån aktijvalattjat oassálasstet gå åvddånahttemulmijt sjiehtat, aj dajt ulmij hárráj ma galggi tjálalattjat liehket. Ulme hæhttuji liehket gallegahttja ja oane. Álu la nuoges guovtijn jali gålmåjn ulmijn. Nav la álkkep vuojnnet jus oahppe åvddån váj ij. Máhtti aj sjiehtadit jus oahppe galggá oatsoduvvat åhpadiddjes váj/jali æjgádijs.</p>
+    <p><em type="bold">Gåktu åvdåsvásstádusáv juohket oahppe, æjgádij ja skåvlå gaskan</em> </p>
+    <p>Tjoahkkájgiessemin le luondulasj guorrasit gænna l oajvveåvdåsvásstádus gåtsedit juohkka ájnna ulmev. Åvdåsvásstádusáv máhttá ja bierri juohket oahppe, skåvlå ja æjgádij gaskan.</p>
+    <p><em type="bold">Gåtsedit ulmijt guovte åvddånahttemságastallama gaskan</em> </p>
+    <p>Ájggegávdan guovte ságastallama gaskan le ávkálasj jus oahppe, æjgáda ja åhpadiddje duolla dálla rudnali ja ånigattjat subtsasti gåktu oahppe åvddån. Dáv máhttá dahkat tjálalasj diededibmen oahppebargguj, oahppeságastallamin, e-påsta jali telefåvnå baktu.</p>
+    <p>SIERRALÁGÁSJ HÁSSTALUSÁ</p>
+    <p><em type="bold">Máná duojna dájna máhtukvuodajn</em> </p>
+    <p>Máná skåvllåj båhti duojna dájna dárbujn ja åtsådallamijn. Jus galggá åhpadimev hiebadallat nav buoragit gå máhttelis ájnegis oahppáj, de le ájnas æjgádijda diedojt vaddet máná birra skåvllåj. Muhtem mánájn li gássjelisvuoda fágajn ja iehtjádijn li gássjelisvuoda sosiálalattjat doajmmat. Nievrret gullat jali vuojnnet, máhttá aj hieredit oahppe suopptsomav, oahppamav ja åvddånimev. Buorre diedo ja ságastallam sijda ja skåvlå gaskan buoret dáv.</p>
+    <p>Oadtju gus duola dagu oahppe gudi lij smidá skåvlån nuoges hásstalusájt skåvllåbiejve birán?</p>
+    <p><em type="bold">Rijdo ja gåktu rijdojt dåmadit</em> </p>
+    <p>Åvddånahttemságastallam galggá liehket positivalasj guládallam oahppe, åhpadiddje ja æjgádij gaskan gånnå oajvvetjalmos le gåktu oahppe doajmmá ja suv åvddånahttem. Ij la gal nav ahte ep galga gássjelisvuodaj birra giehttot, valla rijdoj birra le máhttelis ietjá tjåhkanimen giehttot. Muhtem rijdojt hæhttup dalága dåmadit. Åvddånahttemságastallamav hæhttu de ietjá bálláj sjáhtjalit.</p>
+    <p>Oahppe ja æjgáda e galga gåvvat, valla boahtet åvddånahttemságastallamij positijvalasj vuorddemusáj.</p>
+    <p><em type="bold">Åvddånahttemságastallam ja unneplågogiela oahppe</em> </p>
+    <p>Skåvllåj båhti oahppe duot dát lándas ja kultuvras. Moattekultuvralasj sebrudak le vaddám moattekultuvralasj skåvlåv ja moatte láhkáj buorep skåvllåbiejvev. Skåvlå ja sijda aktisasjbargguj le ådå hásstalus sjaddam.</p>
+    <p>Vuojnno skåvllåj máhttá liehket ietjálágásj kultuvras kultuvrraj. Vuonan le dábálattjat buorre aktisasjvuohta æjgádij ja åhpadiddje gaskan, valla muhtem kultuvrajn le vas hæjop aktisasjbarggo. Hiebadahttet aktisasjbargov ja avtaárvvusasj ságastallamav oassálasstij gaskan, soajttá hásstálussan sjaddat, valla ájnas le aktan ságastallat oahppe åvddånahttema diehtij. Muhtem kultuvrajn ij la dáhpe tjåhkanimijda skåvlå ja sijda gaskan, ja æjgáda viehka ålov åhpadiddjev vieledi. Dan diehti soajttá sjaddat gássjelis buorre ságastallamav tjadádit. Dan diehti le ájnas buorre birrasav tjåhkanime birra hábbmit. Buorremielakvuohta, rabásvuohta ja sierra væhttsásvuohta li gájbbádusá jus ságastallamijn galggá vuorbástuvvat. Åhpadiddjáj le ájnas dádjadit ja dåhkkidit máná ja æjgádij kultuvralasj duogátjav. Álu vierttip dåhkkidit jus åhpadiddje hæhttu ienebut diedojt vaddet ienni gå ságastallat.</p>
+    <p>Ulmutja gudi ietjá lándajs ja kultuvrajs båhti, soajttá gássjelisvuodav adni gielajn. Dan diehti soajttá sjaddat gássjel ságastallat. Mánájn ja æjgádijn gudi áttjak li Vuodnaj boahtám, li diedon stuoráp gássjelisvuoda diedoj hárráj gå siján gudi lij årrum dánna nágin jagev. Skåvlån le åvdåsvásstádus dålkåv åttjudit sidjij gudi dav dárbahi.</p>
+    <p>Skåvlån le åvdåsvásstádus dålkåv åttjudit sidjijda gudi dárbahi. Åtsådallama vuosedi luluj dárbbo dålkkåj ságastallamijn sijájn gudi dánna lij guhkev årrom ja aj sijájn gudi li áttjak boahtám. Ájnas le divna æjgáda oadtju dajt diedojt majt dárbahi, ja bessi gatjádit gatjálvisájt ja skåvllåj diedojt vaddet.</p>
+    <p>Iednegiellaåhpadiddje skåvlån luluj liehket ressurssan ja aktisasjbarggoguojmmen åhpadiddjáj, oahppáj ja æjgádijda, valla ij la vuogas suv dålkkån adnet åvddånahttemságastallamin.</p>
+    <p>IERIDIS ÅVDDÅNAHTTEMSÁGASTALLAMIN</p>
+    <p><em type="bold">Ieridit ságastallamav jahkedáses nubbáj</em> </p>
+    <p>Sisadno ja jådedibme máhttá liehket ietjálágásj klássas nubbáj. Skåvlåj gaskan aj soajttá liehket sieradus. Vájku luluj sieradus, galggá skåvllå ja sijdda aktisattjat barggat åvddånahttemságastallamij.</p>
+    <p>Ságastallamin le luondulasj dættodit duov dáv tiemáv mij hiehpá jahkedássáj. Ságastallam aj rievddá gå oahppe nuorajskåvllåj álggá. Duodden dasi majt åvddåla li vuorodam, de árvustallam karakteraj baktu sjaddá ådå tiebmán ságastallamijn.</p>
+    <p><em type="bold">Variánta</em> </p>
+    <p>Mánájskåvlån le dáhpe sosialalasj dåjmajt vuorodit, madin fágalasj åvddånibme le ájnnasamos nuorajskåvlån. Akta oajvvemåhkke åvddånaht temságastallamijn le ålles ulmutjav tjalmostahttet. Jus dáv galggá nahkat, de hæhttu dættov biedjat gåktu oahppe doajmmá sosialalattjat ja aj fágalattjat. Ij la dárbbo juohkka tiemáv juohkka ságastallamin åvdedit, valla dættodit dav mij le luondulasj mierredum ájggegávdan.</p>
+    <p>Madi avta ságastallamin le mátematihkka ja dárogiella tiebmán, de la nuppen ságastallamin praktihkalasj ja estetalasj fága tiebmán. Barggamvuoge máhtti aj liehket tiebmán ságastallamin. Gåktu oahppe sosiálalattjat doajmmá bierri liehket tiebmá juohkka åvddånahttemságastal lamin.</p>
+    <p>Vájku tiemá máhtti ja bierriji rievdaduvvat ságastallamis nubbáj, de la ájnas oahppáj ja æjgádijda váj ássjen sjaddi da ássje massta sij ienemusát berusti. Buorre gárvedibme ja ságastallam oassálastij gaskan sihkarasstá buorre båhtusav gájkajda.</p>
+    <p>Diehti gus</p>
+    <p type="listitem">•  lágan tjuodtju æjgádijn le oajvveåvdåsvásstádus</p>
+    <p>mánáj åhpadimes, ja danen le siján oasseåvdåsvásstádus skåvlån?</p>
+    <p type="listitem">•  dån máhtá mánáj åhpadimev ja skåvllåájgev</p>
+    <p>vájkkudit ájrrasin æjgátráden, FAU:an jali aktisasjbarggojuohkusin/stivran?</p>
+    <p type="listitem">•  juohkka oahppen la riektá hiebadum åhpadussaj</p>
+    <p>ietjasa vaddásij ja máhtudagáj milta?</p>
+    <p type="listitem">•  oahppijn gænna ælla vuojga ávke dábálasj</p>
+    <p>skåvllåfálaldagás li riektá sierraåhpadibmáj?</p>
+    <p type="listitem">•  juohkka oahppen le riektá buorre fysihkalasj ja</p>
+    <p>psykososialalasj birrasij mij åvdet varresvuodav, soapptsomav ja oahppamav?</p>
+    <p type="listitem">•  æjgádijn le riektá gujttit?</p>
+    <p>FUG – Vuodoskåvlå æjgátjuogos – le juogos æjgádijs, nammaduvvam Gånågisás stáhtaráden nielje jahkáj. Juogos le rádevadde orgádna Åhpadus- ja dutkamdepartemænntaj. Juogos galggá æjgádij ja oahppij vuojnojt skåvllåsebrudagán åvdedit ja gárvedit buorre aktisasjbargov sijda ja skåvlå gaskan.</p>
+    <p>Foreldreutvalget for grunnskolen Postboks 8119 Dep. 0032 Oslo www.fug.no www.foreldrenettet.no bestilling@fug.no post@fug.no Tlf.: 22 24 75 63 Fáksa:  22 24 75 90</p>
+  </body>
+</document>

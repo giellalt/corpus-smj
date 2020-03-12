@@ -1,0 +1,57 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Gærdoduvvá Måsken</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2007</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>495</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/gardoduvv-masken.4029</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Måsken lidjin guokta, valla dálla libá ájn guokta luossakonsesjåvnå jådeduvvam Divtasvuodnaj. Juohkka konsesjåvnån máhttá buvtadit 780 tånna luosas jahkáj.</p>
+    <p type="title">Gærdoduvvá Måsken</p>
+    <p>Jagen 2006 jådedij Musken Laks 28 millijåvnå ja ruhtabáhtso lij 6,4 millijåvnå skáhta maññela. Dán jage le Ellingsen Seafood AS jåhtåm ájn guokta luossakonsesjåvnå Skrovas Divtasvuodnaj duodden dajda guovte konsesjåvnåjda ma juo danna lijga. Bæjválasj jådediddje Line Ellingsen jáhttá lasedimev Måsken...</p>
+    <p>Ælla gal gájka Måskega ållu dudálattja dasi mij le dahpáduvvam dat rájes gå bájkke oattjoj ietjas konsesjåvnåjt. Álgon lidjin bájkálasj æjgáda ma ressursajt jådedin, dálla stuorra guovlolasj viddnudahka le Musken Laks:a æjgát, ja Oarjjevuonan rudájt tjijnni . Dálla viddnudahka Måsken viehka buoragit manná; Jages 2006 Musken Laks gærddodij ruhtajådedimev 2005 jage vuosstij, 15 millijåvnåjs 28 millijånnåj, ja moattegærddodij ruhtabáhtsusav. Ruhtalåhko vuoset viddnudahka le ruhtaåbmudagáv 8 millijåvnnåj lasedam.</p>
+    <p>- Musken Laks le vuorbálasjsubtsas, tjuottjodij Sigurd Rydland gáddalis ulmutjijda åvdep tjavtja. Ruhtalåhko ja aj åvddånahttem dættot suv tjuottjodusájt. Rydland vissesvuodajn subtsas biebmadisæládusán le geldulasj boahtteájgge ja sjaddá dat oasse æládusiellemis Divtasvuonan mij ienemusát laseduvvá. - Divtasvuonan le sierralágásj máhttelisvuohta biebmadahkaj. Tjiegñalis vuodna, buorre tjáhtjemålsudibme ja hiebalvis temperatuvrra, javllá Rydland.</p>
+    <p>Ja moattes guorrasi Rydlandaj. Nuortta-Sálton, ja sierraláhkáj Divtasvuonan le biebmadisæládusán buorre namma gå dáppe le máhttelisvuohta biebmadahkan. Dasi guorras Line Ellingsen, bæjválasj jådediddje Ellingsen Seafood:an Skrovan.</p>
+    <p>Javllamánon 2006 viddnudahka Skrovas Tysfjord Marine Farm AS:av åstij, aktan niejddaviddnudagáj Musken Fisk AS ja Musken Laks AS. Viddnudahka, mav Ellingsen-fámillja Skrovan æjggu, le dat rájes guokta luossakonsesjåvnåjt Lofåhtas Divtasvuodnaj jåhtåm.</p>
+    <p>- Dá lidjin konsesjåvnå ma Lofåhtan nævrrásit ávkástaladuvvin, subtsas Line Ellingsen.</p>
+    <p>Navti de máhttá luossabuvtadibme Måsken ja Divtasvuonan gærdoduvvat jus konsesjåvnå ja ásadusá riekta láhkáj ávkkiduvvi. Juohkka konsesjåvnnå máhttá vaddet 780 tånna biomassas (guoles) juohkka jage. Navti de la máhttelis boahtteájgen 3000 tånna juohkka jage Divtasvuonan buvtadit.</p>
+    <p>- 2006 lij buorre jahke Musken Laks:aj, ja mij lassánimev vuorddep. Buvtadibme viehka laseduvvá jagen 2007 åvdep jage rájes, javllá Line Ellingsen. Sån aj vuojnná dárbov barggosajijda dan unna julevsáme bájken.</p>
+    <p>- Uddni nieljes ålles virgen viddnudagán barggi, aktan sadjásattjaj. Ienep virge sjaddi, dættot Ellingsen.</p>
+    <p>Ellingsen Seafood AS:an le dálla 10 konsesjåvnå – Flakstadan, Våganin ja Divtasvuonan, ja siján le luossanjuovvadahka Skrovan. Luosa Måskes dálla Bådådjon ja Skrovan njuovvaduvvi. Boahtteájggáj luosa Divtasvuonas galggi Skrovan njuovvaduvvat.</p>
+    <p>- Boahtteájgen 10.000 tånna luosas njuovaduvvi ja vuobdeduvvi juohkka jage njuovvadagás Skråvan, gåsstå stuorra oasse Divtasvuonas sjadda boahtet, javllá Ellingsen.</p>
+    <p>Laseduvvam buvtadibme laset dárbov færjjofievrruj Skorvas ja Skrovaj. Biebmadahkarájddo Divtasvuodna-Skrova máhttá navti liehket argumenntan ságastallmij Skutvik-færjo boahtteájge birra.</p>
+    <p>- Diedon nanos færjjo-fálaldahka le ájnas mijá viddnudagá åvddånahttemij. Vuostatjin le ájnas jut Svolværaj ja Lofastaj le færjjo, valla luluj aj Skutvijkkaj, javllá Line Ellingsen.</p>
+    <p>Stivrra Musken Laksan jådeduvvá Ulf Ellingsenis ja stivrrasebrulattjajs Viggo Johansen, Martin Sivertsen ja Sigurd Rydland. Sadjásasj sebrulattjajs le Karl Gunnar Mikkelsen akta. Bájkálasj buvtadimnjunnjusj Måsken le Keith Pedersen.</p>
+    <p>Ellingsen Seafood AS:an (åvdep Høllalaks AS) lij jagen 2006 170 millijåvnå jådedibmen, 33 millijåvnå ruhtabáhtsusin ja 34 bargge.</p>
+    <p xml:lang="nob">Tæksta: Børge Strandskog</p>
+    <p>Jårggålibme: Idar Kintel</p>
+    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+    <p xml:lang="nob">Regler for kommentering</p>
+    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Gærdoduvvá Måsken"</span> på Facebook</p>
+  </body>
+</document>

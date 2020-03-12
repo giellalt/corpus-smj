@@ -1,0 +1,67 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>430</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Jus-nuppastuvva</origFileName>
+    <parallel_text xml:lang="fin" location="kiusatuksi-joutuminen.html"/>
+    <parallel_text xml:lang="fit" location="jos-kokkee-mobbausta.html"/>
+    <parallel_text xml:lang="sma" location="jis-irhkesavva.html"/>
+    <parallel_text xml:lang="sme" location="jus-givssiduvvo.html"/>
+    <parallel_text xml:lang="swe" location="om-man-mobbas.html"/>
+    <parallel_text location="baschi-diro-bliddrar-miakt-kerrad.html" xml:lang="rmu"/>
+    <parallel_text location="te-kerdol-o-manu-belenkerevo.html" xml:lang="rmy-rka"/>
+    <parallel_text location="kana-avelas-holjavel.html" xml:lang="rmf"/>
+    <parallel_text location="te-kerdol-o-manu-mobbad.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="manu-te-ulo-mobimo.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Jus nuppástuvvá</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title">Jus nuppástuvvá</p>
+    <p>Gå nuppástuvvá de l gähppat ráfedisvuodav dåbddågoahtet ja nievret viessot. Muhttijn bájnasj viessomav nåv ednagit vaj oadtju nievrep iesjdåbdov ja gähttjal gárvvet vidjurijt gånnå máhttá iejvvit gejt nuppásti. Ij aktak galga dárbahit tjiehkádit danen gå iehtjada nuppásti.</p>
+    <p>Muhtema gudi nuppásti jáhkkegåhti ietjanisá li vihke. Márjju ájádalli ietjasa rievddadit besatjit nuppástimes. Ij galga dárbahit rievddadit degu miellogisájt jali gåktu l gárvvunam, danen gå iehtjáda li bahá. Agev la riektá bessat nuppástimes.</p>
+    <p type="title">Goassa l nuppástibme?</p>
+    <p>Nuppástibme l jus moaddi hárdeduvvá, nihteduvvá, álbeduvvá, tsabmeduvvá jali vuoleduvvá. Illastibme máhttá årrot tsamádime, gehtjastime, tjajmos, nårddådime, rejvadusá ja bahás bágo. Le nuppástibme jus ij goassak oattjo oassáklasstet jali jus ulmusj vierre ságajt nuppij birra ságas.</p>
+    <p>Máhttá aj årrot gå ulmusj rádjá bahás ‘sms:ajt’ jali e-påvståjt, tjállá bahás javllamusájt ‘facebook:an’, blokkan jali ietjá sajen värmmádagán. Jali jus ulmusj almot vuolediddje gåvåjt värmmádahkaj.</p>
+    <p>Jus ulmusj javllá bahás bágojt, danen gå gárvvun jali vuojnnu sierraláhkáj jali danen gå ulmutjin la sahtusvuohta, de l nuppástibme. Jus muhtemis dajs báktjot, ja nievret viessogoahtá, de soajttá dárbaj viehkev hiejtedittjat dav.</p>
+    <p type="title">Giehttot nuppástime birra</p>
+    <p>Máhttá ballat giehttomis gå nuppástuvvá. Márjju jáhkká vájvep sjaddá jus giehttu. Márjju hehpan gå ij oattjo oassálasstet. Ij la gut nuppástuvvá gut la mäddám.</p>
+    <p>Jus nuppástuvvá de l buoremus dav giehttot ja viehkev oadtjot nuppástimev hieredit. Máhttá buojkulvissan dav giehttot åhpadiddjáj, skåvllåkuratåvrråj jali skåvllåskihpasujtárij.</p>
+    <p>Buorre lisj má álgget nuppástime birra giehttot ållessjattugij gesi dårvustalá, buojkulvissan muhtem fuolken, ja de viehkev sijás válldet giehtotjit ietjá ulmutjij skåvlån.</p>
+    <p>Jus skåvllå diedojt oadtju oahppe ietjas dåbddå nuppástuvvam, de hähttuji dalága åtsådit mij la dáhpáduvvam. Hähttuji aj gájkka dahkat vaj ij galga vat dáhpáduvvat. Ållessjattugijn skåvlån li välggogisvuohta åvdåsvásstádusáv válldet vaj ij aktak oahppe nuppástuvá jali nihteduvvá. Lágan la tjáledum, skåvlån la välggogisvuohta åvdåsvásstádusáv válldet vaj ij aktak nuppástuvá.</p>
+    <p type="title">Jus nuppástuvá, de buorre ájádallat:</p>
+    <list>
+      <p type="listitem">Ij la goassak nåvti vaj ietjas vihke, jus nuppástuvá.</p>
+      <p type="listitem">Gávnnuji lága majn li tjáledum, ij oattjo nuppástuvvat buojkulvissan skåvlån jali barggosajen.</p>
+      <p type="listitem">Vierredahko l aj jus nuppev ulmutjav nihttá, buojkulvissan nihttá vahágahttemijn jali nihttá gåvåjt värmmádagán hádjet.</p>
+      <p type="listitem">Skåvlå ja barggovadde li välggogisá gähttjalit dahkat vaj gájka jasskavuoda dåbddi.</p>
+      <p type="listitem">Beras aktavuodav válldet ållessjattugijn gesi dårvustallá, buojkulvissan äjgát jali ietjá ulmusj gev dåbddå.</p>
+      <p type="listitem">Máhttá aj aktavuodav válldet skåvllåkuratåvråjn jali nuorraduostudagájn ságastittjat ja rádev ja dårjav oadtjot.</p>
+      <p type="listitem">Jus skåvllå diedojt oadtju oahppe l nuppástuvvam, de li välggogisá åvdåsvásstádusáv válldet vaj ij joarke.</p>
+      <p type="listitem">Jus skåvlån nuppástuvvá ja ij viehkev oattjo, de máhttá dav bajedit Mánná – ja oahppeoahttsáj.</p>
+      <p type="listitem">Aktavuodav válde polijsajn jus soames loabedagi hádjá gåvåjt dujsta. Vierredahko l almasjdiehtoláhkaj. Duolmmot jali nuppástit soabmásav värmmádagán la sämmi lágadis gå skåvllåsjaljon, gahttunin jali asstoájggedåben.</p>
+    </list>
+    <p>» Nuppástibme</p>
+  </body>
+</document>

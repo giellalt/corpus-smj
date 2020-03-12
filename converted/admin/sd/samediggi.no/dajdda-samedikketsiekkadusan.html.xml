@@ -1,0 +1,61 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>312</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Samediggeviesso/Dajdda-Samedikketsiekkadusan</origFileName>
+    <parallel_text xml:lang="nob" location="kunst-i-sametingsbygningen.html"/>
+    <parallel_text xml:lang="sma" location="tjeahpoeh-saemiedigkiegaaetesne.html"/>
+    <parallel_text xml:lang="sme" location="daidda-samediggeviesus.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Dájdda Sámedikketsiekkadusán / Sámediggeviesso / Sámmedikke birra / Sámedigge - Sametinget</p>
+    <p type="title">Dájdda Sámedikketsiekkadusán</p>
+    <p>Sámedikken le æjgon duot dát dájddadahko, sámij dájddárijs ja láttij dájddáris. Dájddadago li dagádum divna tjerdaj teknihkaj, dán vuolen árbbedábálasj sáme duodje, tjuollusa ja ådåájggásasj gåvvådájdda.</p>
+    <p>Muhtem dájddárijs ja dájddadagojs ma li Sámedikketsiekkadusán åvdåstahtedum li:</p>
+    <p xml:lang="nob">
+      <em type="bold">Hilde Skancke Pedersen </em>
+    </p>
+    <p>Dat oavdos ja geldulasj væggamalerija Luotta –Spor dájddáris Hilde Skancke gávnnap Sámedikke dievastjåhkanimlanjá sis- ja ålgusjbielen. Sinkpláhtta betåŋa nanna hållamståvlå/podiuma duogen dievastjåhkanimlanján (dagádum emáljas ja bládegålles sinka nanna) ja siejnij milta dievastjåhkanimlanjá ålgusjbielen (foajéan) ja vuolleetásjan auditåvrå ålgusjbielen, metállapláhtajda bårådum arkeologalasj bátsadisá (sáme årrom- ja hávddesajijs) majt sámekultuvrra le guodám goahtesajijs/gievlij ja labyrintaj baktu.</p>
+    <p>Hilde Skancke Pedersen lij akta guovtes gut vuojtij dahpadum gilppusav 12 bivddidum dájddarijs gå ájggun Sámedikketsiekkadusáv hiervvidit.</p>
+    <p xml:lang="nob">
+      <em type="bold">Kristin Ytreberg </em>
+    </p>
+    <p>Hiervvidus Den som... dájddáris Kristin Ytreberg gávnnu juohkka siejnen vájaldimhállan. Guokta elementa li adnuj váldedum: daddnim arvusmahtedum sáme girjjusis ja báhkovádjasijs ja vijsesvuodabágo J. Quigstada tjoahkkijs. Ytreberg lij akta guovte dájddárijs gudi vuojtijga dahpadum gilppusav 12 bivddidum dájddarijs gå ájggun hiervvidit Sámedikketsiekkadusáv.</p>
+    <p>
+      <em type="bold">Kåre Kivijärvi </em>
+    </p>
+    <p>Sámedikke girjjevuorkán gávnnu Kåre Kivijärvia Fra de store banker (1959/1961), aktan gåvåjn Kvinne (muohtogåvvå) Unjárgas (1972). Gåvå li moattedime (2004) oalle gåvås 1/9 (dát merkaj vuostasj aktse gåvåjs sæmmi motijvas).</p>
+    <p>Gåvå oasteduvvin etáhtas Utsmykningsfondet for offentlige bygg gå galggin hiervvidit Sámedikketsiekkadusáv jagen 2000. Ieme gåvå bæjsstanin biejvvetjuovgas, ja moattedime gåvåjs gatsoduvvin 2004 gidá girjjevuorkkáj.</p>
+    <p xml:lang="nob">
+      <em type="bold">Harald Bodøgaard </em>
+    </p>
+    <p>Tjuolos Rød, dagádum granihtas (1999), dagáduváj dájddáris Harald Bodøgaard ja lij vattáldahka vidnudagás Bjørn Bygg AS, Råmsås gå Sámedikketsiekkadus almulattjat rabáduváj basádismánon 2001.</p>
+    <p xml:lang="nob">
+      <em type="bold">Eva Bergmann </em>
+    </p>
+    <p>Gåvvå Finnmark i gull dagádum metállabájnoj (1965) le dagádum dájddáris Anna Eeva Bergman. Gåvvå le vattáldahka Nuortta-Trøndelaga, Nordlánda, Råmså ja Finnmárko fylkkasuohkanijs gå sámedikketsiekkadus rabáduváj basádismáno 2. biejve 2001.</p>
+    <p xml:lang="nob">
+      <em type="bold">Astri Aasen </em>
+    </p>
+    <p>Gåvå dájddáris Astri Aasen vuostasj sáme tjåhkanimes Roandemin jagen 1917 gávnnuji duola dagu hállan dievastjåhkanimlanjá guoran. Sámedigge åstij dájt Trondheim Kunstmuseumis 80-jahke ávvudibmáj guovvamáno 6. biejve 1997. Gåvå vuosádaláduvvin Metodistgirkko tjællárin Roandemin.</p>
+  </body>
+</document>

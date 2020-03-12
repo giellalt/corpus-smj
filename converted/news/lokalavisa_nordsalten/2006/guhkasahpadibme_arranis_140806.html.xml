@@ -1,0 +1,34 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Guhkásåhpadibme Árranis</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
+    </author>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>49</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/guhk-sahpadibme-rranis.4118</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Guhkásåhpadibme Árranis</p>
+    <p>Árran aj boahtte skåvllåjage fállá åhpadimev TV’a baktu juohkkahattjaj gænna l dárbbo. Árran fállá åhpadimev julevsábmáj vuodoskåvlå- ja joarkkaskåvlådásen, juohkka gielladássáj.Árran aj gåhttju skåvlåjt sidjij diededit nav árrat gå máhttelis jus galggi åhpadimev.</p>
+    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+  </body>
+</document>

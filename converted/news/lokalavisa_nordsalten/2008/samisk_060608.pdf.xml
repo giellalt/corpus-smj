@@ -1,0 +1,46 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Duodje Dragstunaj</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2008</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>275</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/files/samisk_060608.pdf</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+    <note>norsk bildetekst</note>
+  </header>
+  <body>
+    <p>Bájkkeavijssa NuorttaSállto</p>
+    <p>Tæksta: Kitty SkapalenJårggålibme: Idar Kintel</p>
+    <p>ja gasskabåddåsasj</p>
+    <p>j j</p>
+    <p xml:lang="nob">Tjáppe:<em type="italic"> - Dá lij riek tjáppe, javllá Alfhild Sommerseth ja gehtjat dajt tjáppa siejnnemáhtajt ma galggi siejnijn gahtsahit Dragstunan. LillyMathisen le tjáppa bájnojt adnám, ierit ietján sáme slávgá bájnojs inspireriduvvam. Gåro bieles Eve Bryggari, snjissjkár Lilly Mathisen,Dragstuna årro ja ASVO bargge Kent Eirik Eidset, skihppijsujttár Anette Krogh ja pasiænnta Alfhild Sommerseth.</em>Skjønne<em type="italic">: - De er helt skjønne, sier Alfhild Sommerseth og ser på de flotte veggteppene som skal pryde veggene på Dragstunet. LillyMathisen har brukt flotte glade farger, inspirert av fargene i blant annet det samiske flagget. Fra venstre Eve Bryggari, veverske LillyMathisen, beboer ved Dragstunet og arbeider ved ASVO Kent Eirik Eidset, sykepleier Anette Krogh og pasient Alfhild Sommerseth.</em> </p>
+    <p>buojkulvissan  dá  ådå  háme.  Mijadnogávnijt  dahkap,  valla  diedonávvusip jus nágina sihti mijá buktagijtvuosádusán  adnet,  javllá  agevvájmmelis Ráhka-Knutsen.</p>
+    <p>Viddnudahka  le  rabás  guossijdagålmmå  biejve  vahkkuj;  dijstagá,gasskavahko ja duorastagá. Danna lemáhttelisvuohta  oasstet  duov  dávbuktagav, sihke álggoábnnasa ja gárvesbuktaga. Duodden dasi le aj máhttelisviddnudagá  ådåsamos  åvdedimevvásedit; vuosádus bájke industria  jagruvvohiståvrås,  ja  geologalasjvalljudagás mij le guovlon.</p>
+    <p xml:lang="nob"> Dudálattja:<em type="italic"> Kent Eirik Eidset le ASVO:n moadda jage barggam ja Dragstunan årru. AktanHildur Langmoajn ávvudallá máhtajs ma galggi dåbev hiervvit.  Iesj lev snjissjkum jaduodjuham moadda jage, javllá nubbe årrojs Dragstunan, Hildur Langmo. Riek lijkku máhtajda.Hávsske le duodjuhit ja jáhkáv dá máhta sjaddi tjáppa hærvvan, javllá sån.</em>Fornøyde<em type="italic">: Kent Eirik Eidset har jobbet ved ASVO i mange år og er beboer ved Dragstunet.Sammen med Hildur Langmo gleder han seg over de nye tekstilene som nå skal pryde stua. -Jeg har selv vevd og holdt på med håndarbeid i mange år sier Hildur Langmo, en av</em> </p>
+    <p>Sáme motijva<em type="italic">: Sáme motijvajs, luondos jabájnojs inspireridum, dánna oajvevuollelátjos.</em> </p>
+  </body>
+</document>

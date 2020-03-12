@@ -1,0 +1,99 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>939</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/Jo3/Undervisningsopplegg-Oversette-fr/index.html</origFileName>
+    <parallel_text xml:lang="nob" location="sfs_veiledning_23_undervisningsopplegg-overset.html"/>
+    <parallel_text xml:lang="sma" location="sfs_veiledning_23_undervisningsopplegg-oversett.html"/>
+    <parallel_text xml:lang="sme" location="sfs_veiledning_23_undervisningsopplegg-oversette-fra-nors.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Udir.no - Jårggålit dárogielas sámegiellaj</p>
+    <p type="title">Jårggålit dárogielas sámegiellaj</p>
+    <p xml:lang="nob">Hovedinnhold</p>
+    <p><em type="italic">Dásse: </em>Jo3 - oahppogárvedime åhpadusprográmma ja lasádusá dábálasj oahppomáhtudahkaj - viddnofágalasj åhpadusprográmma </p>
+    <p><em type="italic">Tiebmá: </em>jårggålit tevstajt dárogielas sámegiellaj </p>
+    <p><em type="italic">Ájgge: </em>gaktsa åhpadustijma </p>
+    <p xml:lang="nob">Vis alle</p>
+    <p type="title">Álgadus</p>
+    <p>Dát åhpadimgárvvidus le buojkulvis gåktu oahppe máhtti barggat vaj jåksi máhtudakmihtojt. Dánna vuoseduvvá gåktu máhtudakmihto båhti vuojnnuj åhpadusmihtojn, ma li lávke jåvsåtjit máhtudakmihtojt. Åhpadimgárvvidus vuoset ájggeguovddelis barggamvuogijt, gåktu vuodotjehpudagá åvtåstuhteduvvi ja gåktu åhpadiddje hiebat åhpadusáv oahppijda ja árvustallá sijájt bargadahttijn.</p>
+    <p>Åhpadimgárvvidus le buojkulvis gåktu oahppe máhtti åmastit ja hárjjidit máhtudagáv jårggålit ja hiebadit iehtjádijs tjáledum tevstajt dárogielas sámegiellaj.</p>
+    <p type="title">Máhtudakmihto ML06-S an</p>
+    <p>
+      <em type="italic">Máhtudakmihto </em>
+      <em type="italic">Jo3 - oahppogárvedime åhpadusprográmma ja lasádusá dábálasj oahppomáhtudahkaj - viddnofágalasj åhpadusprográmma maŋŋela </em>
+    </p>
+    <p>Tjálalasj guládallam</p>
+    <p>
+      <em type="italic">Åhpadusá mihttomierre le oahppe galggi máhttet </em>
+    </p>
+    <list>
+      <p type="listitem">jårggålit ja hiebadit iehtjádijs tjáleduvvam tevstajt dárogielas sámegiellaj</p>
+    </list>
+    <p type="title">Åhpadusmihttomiere</p>
+    <p>Máhtudakmihto båhti vuojnnuj åhpadusmihttomierijn, ma li lávke jåvsåtjit máhtudakmihtojt.</p>
+    <p>Oahppe galggi máhttet</p>
+    <list>
+      <p type="listitem">låhkåt ja dárkkelit gæhttjalit sisanov tevstan dádjadit åvddål gå jårggålattjáji</p>
+      <p type="listitem">tjielggit manen ij galga jali ij máhte tevstav bágos báhkuj jårggålit</p>
+      <p type="listitem">háldat báhkosuorgudimijt buoragit</p>
+      <p type="listitem">dahkat bágojt sámegiellaj</p>
+      <p type="listitem">buktet fáhkatevstajt ja tjáppagirjálasj tevstajt jårggålit</p>
+      <p type="listitem">tjielggit manen ij galga jali ga máhte tevstav njuolgga bágos báhkuj jårggålit</p>
+    </list>
+    <p type="title">Vuodotjehpudagá</p>
+    <p><em type="italic">Máhttet låhkåt: </em>Oahppe adni moattelágásj låhkåmstrátegijajt gå fáhkatevstajt ja tjáppagirjálasjtevstajt låhki vaj buorre dádjadusáv sisano birra oadtju. Låhki báhkolistajt páhppárin ja nehtan. Oahppe låhki tevstajt majt li jårggålam, sige ietjasij ja nuppij. </p>
+    <p><em type="italic">Máhttet njálmálattjat åvddånbuktet: </em>Oahppe ságasti tevstaj birra majt sij li jårggålam, ja árvvaladdi duov dáv tjoavddusav. </p>
+    <p><em type="italic">Máhttet tjálálattjat åvddånbuktet: </em>Oahppe jårggåli dárogieltevstajt sámegiellaj ja sámegiel jårggålimev tjálli. </p>
+    <p type="title">Oahppamdåjma</p>
+    <p>Åhpadiddje oahpásmahttá tiemáv ja giehttu gåktu tevstajt jårggålit ja hiebadit. Oahppe ságasti dán birra ja subtsasti ietjasij åtsådallamijt ja vuojnojt</p>
+    <p>Galba skåvlån máhtti liehket jårggåluvvam dárogielas sámegiellaj. Jus nav de oahppe guoradalli galbajt ja ságasti makkir bágo li aneduvvam. Guorrasi gus oahppe jårggålibmáj? Le gus sijájn ietjá oajvvádusá? Oahppe tjielggiji ietjasij oajvvádusájt. Jus ælla galba jårggåluvvam sámegiellaj, máhtti oahppe dágástallat manen nav le.</p>
+    <p>Oahppe buohtastahtti dárogieltevstajt ja sámegieltevstajt ja sagasti giela birra duola degu avijsabajelttjálajn, almodusájn, reklámajn, gåhttjomijn, láhkatevstajn ja plakáhtajn.</p>
+    <p>Åhpadiddje åhtså ånigis, álkkes dárogieltevstav. Tiebmá máhttá liehket åvtåtjis oahppijda oahpes. Oahppe låhki tevstav snivva, ja barggi muhtem minuhta ietja jårggålit dav sámegiellaj. Maŋŋela oahppe dav aktan jårggåli. Tjállit divna táblluj. Oahppe máhtti tjállet sæmmi ietjasij girjijda. Dibde oahppijt bargadahttijn dágástallat iesjgudilágásj oajvvádusájt ja tjoavddusijt.</p>
+    <p>Oahppe ságasti manen jårggålibme dárogielas sámegiellaj máhttá liehket hásstálus.</p>
+    <p>Åhpadiddje ságas oahppij man ájnas la dåbddåt sisanov tevstan majt galggi jårggålit. Sij vierttiji aj diehtet makkir ájggomus tevstajn le. Ulmme le jårggålimen galggá sæmmi sisadno gå álggotevstan.</p>
+    <p>Åhpadiddje ja/jali oahppe åhtsi muhtem dárogiel tevstajt ma hiehpi jårggålit. Oahppe máhtti válljit oasev tevstajs ma máhtti liehket sige fáhkatevsta ja tjáppagirjálasj tevsta.</p>
+    <p>Oahppe dahki báhkolistav majt adni jårggålahttijn. Dát dahká álkkebu mujttet bágojt, ja oahppe vissásit adni sæmmi bágov juohkka bále gå jårggåli vattedum bágov.</p>
+    <p>Oahppe jårggåli kåserijav dárogielas sámegiellaj. Ane duola degu magasijnav <em type="italic">Bårjås </em>. Divna bágo li julevsámegiellaj ja dárogiellaj. Maŋŋela máhtti divna buohtastahttet ietjasij jårggålimev girjjetevstajn. Oahppe ságasti aktan ærádisáj birra, árvustalli dajt ja tjielggiji ietjasij vuojnojt. </p>
+    <p>Åhpadiddje åhtså muhtem dárogiel divtajt ma li sámegiellaj jårggåluvvam ja hiebaduvvam. Oahppe låhki divtajt ja buohtastahtti dárogiel ja sámegiel sisanov. Sij ságasti aktan bágoj ja hiebadimij birra ma li válljidum. Das maŋŋela jårggåli oahppe ietja dárogiel divtav sámegiellaj. Oahppe låhki ietjasij divtajt guhtik guojmmásij ja ságasti hiebadimij birra ma li dagádum.</p>
+    <p>Oahppe máhtti ietja tjállet divtav dárogiellaj ja sámegiellaj jårggålit ja hiebadit dav. Guovtes ja guovtes máhtti jårggålit guhtik guojmesa divtajt ja ságastit aktan guovtes ja guovtes båhtusa birra maŋŋela.</p>
+    <p>Bargo låhpadimen máhtti oahppe guoradallat makkir hásstálusá le læhkám, ja majt sij li oahppam.</p>
+    <p type="title">Hiebadum åhpadus</p>
+    <p>Tevsta ma galggi jårggåluvvat, máhtti liehket moattelágásj gássjelisvuodaj vaj divna oahppe oadtju barggat tevstaj majna le vejulasjvuohta rijbadit, ja sæmmi bále juojddá man vuossti rahtjat.</p>
+    <p>Oahppe máhtti juohkusijn barggat báhkosuorgudimij. De oahppe máhtti viehkedit nubbe nuppev ja oahppat guhtik guojmesta.</p>
+    <p>Muhtem oahppe máhtti oadtjot sierra hásstálusájt. Sierralágásj åvddånbuktemvuoge ja báhkotsoame máhtti liehket gássjel jårggålit, duola degu báhkotsoabme <span type="quote">”Buorep jådon gå årron”</span> Njuolgga jårggåluvvam <span type="quote" xml:lang="nob">"Bedre vandrende enn stilleværende"</span>. Dárogiellaj javladuvvá <span type="quote" xml:lang="nob">”Borte bra men hjemme best”</span>.</p>
+    <p type="title">Guhkásåhpadibme</p>
+    <p>Ájnas le oahppe tijmajn bessi nav ålov gåk máhttelis njálmálattjat hárjjidallat . Divna ma li buojkudum gárvvidusán, máhtti njálmálattjat dagáduvvat. Tjálálasj bargov máhtti oahppe sijdan barggat, ja åvddånbuktet bargov njálmálattjat åhpadiddjáj. Jus ienep gå akta oahppe oassálasstá guhkásåhpadimen, máhtti sij gulldalit nubbe nuppev ja dágástallat nubbe nuppijn duodden åhpadiddjijn. Báhkosuorgudime ja moallánagá le guovdásj dán bargon.</p>
+    <p type="title">Árvustallam</p>
+    <p>Åhpadiddje árvustallá oahppijt njálmálattjat jali tjálálattjat gå åhpadusmihttomierij barggi. Åhpadiddje váksjut ja ságas oahppij gå låhki tevstav oahpástuvátjit sisanojn åvddåla gå álggi jårggålit. Adni gus sij ávkálasj låhkåmstrátegijajt? Dádjadi sij gus man birra tæksta le? Åhpadiddje bagádallá.</p>
+    <p>Åhpadiddje vaddá diedojt oahppijda tjårggitjit sij dádjadi dahkamusá ulmev ja gåktu sij vierttiji barggat. Åhpadiddje hæhttu gæhttjalit gávnadit jus oahppe dárkkelit ájádalli bágos báhkuj ja jårggåli dajt njuolgga nav, jali jus máhtti ållesvuodav ájádallat ja hiebadit jårggålimev vaj sisadno buoragit boahtá åvddån.</p>
+    <p>Åhpadiddje árvustallá jus oahppe bukti báhkosuorgudimijt buoragit ja jus bukti bágojt sámegiellaj dahkat. Oahppe oadtju diedojt majt sij bukti, majt sij vierttiji ienebu hárjjidallat ja gåktu dát máhttá/viertti dagáduvvat.</p>
+    <p>Giella dán jårggålum tevstan máhttá aj árvustalladuvvat. Dåhkki gæhttjat tjállemvuogev, gåktu gárgadisájt ásaduvvam li, gárgadisáj guhkudáhka ja gåktu giella jåhto.</p>
+    <p>Árvustallamsjiebmá mij máhttá aneduvvat tjálálasj barggo</p>
+    <p>Mujte åhpadiddje aj galggá árvustallat man mudduj oahppe li máhtudakmihtojt jåksåm. Oahppe hæhttuji diedolattja makkir máhtudakmihtojn sij barggi. Makkir mudduj bukti oahppe jårggålit ja hiebadit iehtjádij tevstajt dárogielas sámegiellaj? Mij merkaj iesjgudilágásj doajmmamdásev?</p>
+    <p type="title" xml:lang="nob">Resursa</p>
+    <p xml:lang="nob">LUKKARI, RAUNI MAGGA 2009: LEX Sápmi. Oslo: Cappelen forlag. Ávvir</p>
+    <p>BÅRJÅS, magasijnna Árranis Divtasvuonan, muhtem artihkkala sige dárogiellaj ja sámegiellaj.</p>
+    <p>NORD-SALTEN AVIS, juohkka nummarin ja aj nehtan http://www.nord-salten.no/ , artihkal sige sámegiellaj ja dárogiellaj.</p>
+    <p>HARALD GRUNDSTRØM; Báhkogirjje pdf fijllan nehtan, http://www.sametinget.se/14885</p>
+    <p>Artihkkala julevsámegiellaj , jårggålam dárogielas. http://skuvla.info/skolehist/pite-s.htm ja http://skuvla.info/skolehist/pite-s.htm#sundsfjord</p>
+    <p xml:lang="nob">ANDERS KINTEL: Syntaks og ordavledninger lulesamisk, Samisk Utdanningsråd 1991</p>
+  </body>
+</document>

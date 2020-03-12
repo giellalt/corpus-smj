@@ -1,0 +1,71 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>244</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/AAhpadus/Oahpponaevo</origFileName>
+    <parallel_text xml:lang="nob" location="laeremidler.html"/>
+    <parallel_text xml:lang="sma" location="learoevierhtieh.html"/>
+    <parallel_text xml:lang="sme" location="oahpponeavvut.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Oahpponævo / Åhpadus / Sámedigge - Sametinget</p>
+    <p>Åtså biednikdårjav</p>
+    <p type="title">Oahpponævo</p>
+    <p>Oahpponævo divna fáhkasuorgijn ja divna fágajn galggi gávnnut oarjjel- julev-, ja nuorttasámegiellaj ulmijt jåvsåtjit mánájgárde rámmaplánan ja Máhttolåpptim – Sáme oahppoplánatjoahkken.</p>
+    <p>Politihkalasj åvdåsvásstediddje</p>
+    <p xml:lang="nob">Rådsmedlem</p>
+    <p xml:lang="sme">NSR</p>
+    <p xml:lang="nob">Nordre</p>
+    <p>Sámedikken le åvdåsvásstádus tjielggidahttet ulmijt, strategijajt ja dåjmajt vájkkudimnævojt åvddånahtátjit oahpponævojt pládnatjoahkke milta ja jahkásasj budjehtaj baktu</p>
+    <p>Sámedikken le åvdåsvásstádus rudájt juollodit ja vájkkudimnævvoadnemav tjuovvot ja dárkestit láhkatjoahkkij, njuolgadusáj milta.</p>
+    <p>
+      <em type="bold">Sámedikke ájggomussan le: </em>
+    </p>
+    <list>
+      <p type="listitem">Láhtjet dilijt innovatijvalasj ja dåbmaris sáme oahpponævvo ja pedagogalasj materiálaj åvddånahttemav.</p>
+      <p type="listitem">Sadjihij biedjat oahpponævojt ja diedojt daj birra vaddet sáme oahppanævvoguovdátja, Sámedikke næhttabiele ja åtsådahtte oahpponævvoportála baktu nehtan.</p>
+    </list>
+    <p>Sámedigge barggá oahpponævoj mierreduvvam strategijaj milta Sámedikke oahpponævvoåvddånahttema jagijda 2009-2012 strategalasj plána milta.</p>
+    <p>Plána milta galggap:</p>
+    <list>
+      <p type="listitem">Åvddånahttet ådå oahpponævojt oarjjel-, julev- ja nuorttasámegiellaj</p>
+      <p type="listitem">Ieme oahpponævojt jårggålit ja hiebadit</p>
+      <p type="listitem">Aktisattjat barggat hiebalgis fáhkabirrusijn fáhkagirjálasjvuodav åvddånahtátjit</p>
+      <p type="listitem">Åvddånahttet dábálasj ja jali digitála oahpponævojt</p>
+      <p type="listitem">Hiebadit ieme nubbegiela oahppotjoahkkev oarjjel- ja nuortta sámegielan</p>
+      <p type="listitem">Tevstajt jiednafijlajda låhkåt</p>
+      <p type="listitem">Barggojuohkusav biedjat jåhtuj mij vállji matemáhtihka oahppotjoahkkev jårggålit oarjjel-, julev- ja nuorttasámegiellaj</p>
+      <p type="listitem">Dárboj milta jårggålit ja hiebadit tiebmágirjátjijt/tjoahkkijt oarjjel-, julev- ja nuorttasámegielaj gasskala</p>
+      <p type="listitem">Aktisattjat barggat Sáme sierrapedagogalasj doarjjagijn guoradallamij ja dárboj hárráj.</p>
+      <p type="listitem">Aktisattjat barggat fáhkabirrusij Stáhta sierrapedagogalasj doarjjavuogádusájn åvddånahtátjit oahpponævojt, guoradallam- ja bagádallammateriálajt.</p>
+    </list>
+    <p>
+      <em type="bold">Ovttas.no - Sáme oahppamnævo nehtan </em>
+    </p>
+    <p>Mij lip tjoaggám gåvåjt, girjijt, filmajt, jienajt, oahppamnævojt ja digitála ressursajt mij giehpet bargov dunji sáme åhpadiddjen. Máhta aj gávnnat artihkkalijt sáme ássjij birra ja pedagogalasj bagádallamijt.</p>
+    <p xml:lang="sme">www.ovttas.no</p>
+    <list/>
+    <p xml:lang="nob">
+      <span type="quote" xml:lang="nob">Sametingets visjon er at det skal finnes læremidler på alle fagområder og i alle fag, på sør-, lule- og nordsamisk. </span>
+    </p>
+  </body>
+</document>

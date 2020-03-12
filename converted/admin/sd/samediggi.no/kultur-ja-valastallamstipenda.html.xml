@@ -1,0 +1,35 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Kultur- ja valástallamstipenda</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <wordcount>80</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.samedigge.no/Daarja-ja-stipenda/Kultur-ja-valastallamstipenda</origFileName>
+    <parallel_text xml:lang="nob" location="kultur-og-idrettsstipend.html"/>
+    <parallel_text xml:lang="sma" location="kultuvre-jih-gaarsjelimmiestipende.html"/>
+    <parallel_text xml:lang="sme" location="kultur-ja-valastallanstipeanda.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="fkv">Kultur- ja valástallamstipenda</p>
+    <p xml:lang="nob">Søknadsfrist: 15.10.2019 23:59</p>
+    <p>Sámedikke kultur- ja valástallamstipænnda galggá måvtåstuhttet sáme nuorajt sebratjit dájddaj, kultuvrraj ja valástallamij. Niellja stipenda 25 000 kråvnnåj juogaduvvi. Stipænnda manná aktugasj ulmutjij goappásj sjierves. Sij gudi stipendav oadtju galggi liehket 16 ja 25 jage gaskan dan jage gå stipennda juogaduvvá.</p>
+    <p>Åhtsåmájggemierre kultur- ja valástallamstipænndaj nuorajda la gålgådismáno 15. biejve 2019. Åhtsmusá sáddidum dán biejve maŋŋela e giehtadaláduvá.</p>
+    <p>HUOM! Jus åhttse la nuorap gå 18 jage, hæhttu åhtsåmus åvdåstiddje ID-pårtå baktu sáddiduvvat.</p>
+    <p xml:lang="dan">Elektronisk søknadsskjema</p>
+  </body>
+</document>

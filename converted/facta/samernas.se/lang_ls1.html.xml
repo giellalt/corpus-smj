@@ -1,0 +1,53 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Samernas Utbildningscentrum</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>41</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.samernas.se/?lang=ls</origFileName>
+    <parallel_text xml:lang="sme" location="lang_sm1.html"/>
+    <parallel_text xml:lang="swe" location="lang_sv1.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Buorisboahtem</p>
+    <list/>
+    <list>
+      <p type="listitem" xml:lang="swe">Presentation LS</p>
+      <p type="listitem" xml:lang="swe">Kontakt LS</p>
+      <p type="listitem" xml:lang="swe">Boende LS</p>
+    </list>
+    <p xml:lang="swe">Presentation LS</p>
+    <p xml:lang="swe">Kontakt LS</p>
+    <p xml:lang="swe">Boende LS</p>
+    <p type="title">Aktuellt</p>
+    <list>
+      <p type="listitem">Joarkkaduodjeåhpadus</p>
+      <p type="listitem">Gesälla- ja tjähppudakduodastus duojen</p>
+      <p type="listitem">Sámegiella gimnásan</p>
+      <p type="listitem">Giellaj hilá</p>
+      <p type="listitem">Sáme Biebbmo ja Máhttudakguovdátjin la ådå bielle</p>
+      <p type="listitem">Duodje ja sámegiella</p>
+      <p type="listitem">Värmmádakåhtsåm</p>
+      <p type="listitem">Rabás virge</p>
+    </list>
+    <p type="title">Giella</p>
+    <p type="title">Duodje</p>
+    <p type="title">Boatsojäládus</p>
+    <p type="title">Sáme biebbmo</p>
+  </body>
+</document>

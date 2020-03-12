@@ -1,0 +1,36 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Návti jienasta</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2015</year>
+    <wordcount>79</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <origFileName>https://kirken.no/globalassets/kirken.no/om-kirken/slik-styres-kirken/kirkevalget/2015/for-medarbeidere/veiledninger/2-3-2_plakat_slik-gaar-du-fram_ls.pdf</origFileName>
+    <parallel_text xml:lang="nob" location="plakat_slik_gaar_du_fram_nob.pdf"/>
+    <parallel_text xml:lang="sma" location="plakat_slik_gaar_du_fram_sma.pdf"/>
+    <parallel_text xml:lang="sme" location="plakat_slik_gaar_du_fram_sme.pdf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Návti jienasta</p>
+    <p>1<em type="bold">Válde jienastimlistajt majt ájgo adnet</em> </p>
+    <p>Dá válggasajen gávnnuji. Máhtá guovten válgan jienastit: tjoaggulvisráde válgan ja bissmavielderáde válgan. Diedo kandidáhtaj birra gávnnu aj válggasajen.</p>
+    <p><em type="bold">Rievda dav majt sidá jienastimlistajn</em> </p>
+    <p>Galggá dahpadum sadje gånnå besa dáv dahkat váni iehtjáda gæhttjamis. Majt máhtá rievddadit diededuvvá dahpadum sajen ja jienastimlistajn.</p>
+    <p><em type="bold">Maná válggabarggáj registrerimij</em> </p>
+    <p>Válggabargge galggá:</p>
+    <p type="listitem">• ruossistit jienastimlågov (soajttá gatját duodastit guhtimusj le)</p>
+    <p type="listitem">• jienastimlistajt stiempeldit</p>
+    <p><em type="bold">Bieja jienastimlistajt jienastimlihttáj</em> </p>
+    <p>Dáv dagá madi válggabargge gæhttjá. HUOM! Jienastimlistajn galggá stiempel jus galggi dåhkkiduvvat.</p>
+  </body>
+</document>

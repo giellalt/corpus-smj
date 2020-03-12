@@ -1,0 +1,54 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Ållestjåhkanibme</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2016</year>
+    <wordcount>84</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>https://www.samedigge.no/Politihkka2/AAllestjaahkanibme</origFileName>
+    <parallel_text xml:lang="nob" location="plenum.html"/>
+    <parallel_text xml:lang="sma" location="stoerretjaaanghkoe.html"/>
+    <parallel_text xml:lang="sme" location="dievascoahkkin.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Ållestjåhkanibme</p>
+    <p>Sámedikke ållestjåhkanibme l bajemus orgádna ja oajválasj.</p>
+    <p>Sámedigge dåjmas hiebat dajda rámmajda ma li mierreduvvam lágan Sámedikke ja ietjá sáme rievtesvuodaj birra (sámelágan). Ållestjåhkanibme barggoårnigav mierret,aktan njuolgadusáj gájkka Sámedikke dåjmajda.</p>
+    <p>Ållestjåhkanime dábálattjat dåladuvvi niellji jahkáj, sæmmi vahkojt gå li nammadustjåhkanime (komiteatjåhkanime). Mánnodagá ja dijstagá li nammadustjåhkanime, ja ållestjåhkanibme gaskavahkos bierjjedahkaj.</p>
+    <p>2017-2021 ájggegávddaj li tjuovvovasj belludagá Sámediggáj válljiduvvam:</p>
+    <list>
+      <p type="listitem">Vuona Sámij Rijkasiebrre (NSR)</p>
+      <p type="listitem">Vuona Sámij Rijkasiebrre (NSR) ja Sámeálmmuk belludahka (SáB) (aktisasjlista)</p>
+      <p type="listitem">Barggijbelludahka</p>
+      <p type="listitem" xml:lang="sme">Árja</p>
+      <p type="listitem">Åvddånimbelludahka</p>
+      <p type="listitem">Jåhttesábmelattjaj lissta</p>
+      <p type="listitem">Oalgesbelludahka</p>
+      <p type="listitem" xml:lang="sme">Nordkalottfolket</p>
+      <p type="listitem" xml:lang="sme">Åarjel-Saemiej Giёlh</p>
+      <p type="listitem">Guovdásjbelludahka</p>
+      <p type="listitem" xml:lang="sme">Guovdageainnu Dálon searvi</p>
+    </list>
+  </body>
+</document>

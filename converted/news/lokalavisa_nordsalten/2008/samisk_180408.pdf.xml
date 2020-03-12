@@ -1,0 +1,51 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Sidá gus ålggorijkan studerit? og Englánndaj giellaskåvllåj</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
+    </author>
+    <author>
+      <person firstname="Maria" lastname="Mikkelsen" sex="f" born="1987" nationality="nor"/>
+    </author>
+    <translator>
+      <person firstname="Lars Theodro" lastname="Kintel" sex="m" born="1986" nationality="nor"/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2008</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>128</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/files/samisk_180408.pdf</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+    <note>det er bare den ene teksten som er oversatt</note>
+  </header>
+  <body>
+    <p>Bájkkeavijssa NuorttaSállto</p>
+    <p>Tæksta/gávvå:Maria Mikkelsen</p>
+    <p><em type="bold">j</em> </p>
+    <p>Tæksta: Børge StrandskogJårggålibme: Lars Th. Kintel</p>
+    <p>Vuostatjin diedon ájggu Ieññilsgielav oahppat, valla nuorra næjtso vuorddi geldulasj vásádusájt lándan gånnå ælla gudik guossak mannam, ja ávvudalli iejvvitjit nuorajt ietjá rijkajs.</p>
+    <p type="listitem">– Ja de</p>
+    <p>sjaddá buorre bessat æjgádijs gå lip dåppe. Ja oarbbenijs, måjudalli</p>
+    <p>næjtso. Sihke Isabell, Thrine ja Vilde sihti maññela ålggorijkan skåvlåv vádtset jus navti hiehpá. Thrinen le guokta vuorrasap oarbbena gudi libá ålov manádam, madi Vilden le vuorrasap viellja guhti boahtte jage USA:an galggá skåvlåv vádtset. Isabell le vuorrasamos gålmmå oarbbenijs ja le  <span type="quote">“vuostasj ålgus”</span>.   - Viek ávvudallap,        javlli næjtso.</p>
+    <p><em type="italic">G.b. Vilde Hilling Elsbak, Isabell Thomassen ja</em> <em type="italic">Thrine Ediassen galggi divna Englánndaj gæssáj</em> </p>
+    <p><em type="italic">Solberg galggá, guhti lij lenska milta mannamin</em> <em type="italic">pássav viettjatjit gå dát gåvviduváj!</em> </p>
+    <p xml:lang="nob"><em type="italic">F.v. Vilde Hilling Elsbak, Isabell Thomassen og</em> </p>
+  </body>
+</document>

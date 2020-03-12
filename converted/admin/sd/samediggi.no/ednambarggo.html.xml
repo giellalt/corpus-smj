@@ -1,0 +1,73 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>197</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/AEladus/Ednambarggo</origFileName>
+    <parallel_text xml:lang="nob" location="jordbruk.html"/>
+    <parallel_text xml:lang="sma" location="jaaartaburrie.html"/>
+    <parallel_text xml:lang="sme" location="eanandoallu.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Ednambarggo / Æládus / Sámedigge - Sametinget</p>
+    <p type="title">Ednambarggo</p>
+    <p>Ednambarggo la viehka ájnas oasse åvddånahttemijn viesso årrombájkijda ja sámekultuvraj. Sámedigge barggá suoddjimijn ja åvddånahttemijn ednambargov mij la ájnas kultuvrraguodde ja ádjánahttá.</p>
+    <p>Politihkalasj åvdåsvásstediddje</p>
+    <p xml:lang="nob">Rådsmedlem</p>
+    <p xml:lang="sme">NSR</p>
+    <p xml:lang="nob">Nordre</p>
+    <p>Viesso årrombájkke la dat buoremus duodastus bisodit ja åvddånahttet sáme kultuvrav ja gielav. Danen la dat stuor hásstalus Sámediggáj gullen ietjas dahkat vuona fábmodusáj gå li gatjálvisá ma guosski åvddånahttemav ednambargos sáme guovlojs.</p>
+    <p>
+      <em type="bold">Sámedigge barggá dán åvdås: </em>
+    </p>
+    <list>
+      <p type="listitem">Dåhkålasj juridihkalasj ja rudálasj ålgoldisævto</p>
+      <p type="listitem">Buorep sisboado primærraæládusán</p>
+      <p type="listitem">Buorre ådåálgudak</p>
+      <p type="listitem">Buorep sjiervveduolludak</p>
+      <p type="listitem">Miehttseiellepolitihkka mij bærrájgåhtså sáme æládusájt</p>
+    </list>
+    <p>
+      <em type="bold">Mij boahtep åledit mijá ulmmelijt gå barggap dáj åvdås: </em>
+    </p>
+    <list>
+      <p type="listitem">Nannit vijddudagájt ja vaddásijt</p>
+      <p type="listitem">Adnet vájkkudimev ednambarggopolitihkkaj</p>
+      <p type="listitem">Ásadit joarkkagárvedimev varásbierggasijs</p>
+      <p type="listitem">Viehkken årrot vaj álkot buorijn vuogijn buolvas buolvvaj</p>
+      <p type="listitem">Viehkken årrot lasedit nissunoasev</p>
+      <p type="listitem">Nannit ålggoednamdoajmmijda riektáv ålggoednamvaddásijda</p>
+    </list>
+    <p>
+      <em type="bold">Mijá aktisasjbarggoguojmme: </em>
+    </p>
+    <list>
+      <p type="listitem">Innovasjon Norge háldat årrombájkkeåvddånahttemrudájt ma máhtti vatteduvvat investerimijda dijdalasj ednambargguj ja lasseæládusájda, ja aj álggorudá ja viddnudakåvddånahttem lasseæládusájda</p>
+      <p type="listitem">Fylkkamanne ednambarggoåssudagá galggi liehket viehkken nav vaj nasjonállapolitihkka tjadáduvvá viehkijn diedojs, háldadusáj viehkkes ja dáfulasj hiebadum dåjmajs.</p>
+      <p type="listitem">Suohkanijs li vuostásjvirkkálasj åvdåsvásstádus ednambargguj</p>
+      <p type="listitem">Båndorsebrudagá Norges Bondelag ja Norsk Bonde- ja Småbrukarlag li sjiehtadallamguojmme Stáhtajn dan jahkásasj ednambarggo sjiehtadusájn. Sjiehtadus hiebat ålgoldisdilev ednambargguj.</p>
+    </list>
+    <list/>
+    <p>
+      <span type="quote">Sámedigge barggá suoddjimijn ja åvddånahttemijn ednambargov mij la ájnas kultuvrraguodde ja ádjánahttá.</span>
+    </p>
+  </body>
+</document>

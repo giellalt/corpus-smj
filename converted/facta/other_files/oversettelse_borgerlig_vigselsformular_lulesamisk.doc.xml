@@ -1,0 +1,53 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>BOARGGÁRLASJ FIESSTIMVUOHKE</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <person firstname="Lars Theodor" lastname="Kintel" sex="unknown" born="" nationality=""/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <year>2004</year>
+    <wordcount>278</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
+    <origFileName>Oversettelse_borgerlig_vigselsformular_lulesamisk.doc</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate  1.14 ; file-specific xsl  $Revision: 1.1 $; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>
+      <em type="bold">JULEVSÁMEGIELLA </em>
+    </p>
+    <p>
+      <em type="bold">BOAR </em>
+      <em type="bold">G </em>
+      <em type="bold">GÁRLASJ FIESSTIMVUOHKE </em>
+    </p>
+    <p>(Mierreduvvam gånågislasj resolusjåvnåjn ådåjakmáno 19. b. 1996)</p>
+    <p>
+      <em type="bold">GIERES VÁLLDÁRA, </em>
+    </p>
+    <p>(Válldárij namá):</p>
+    <p>Dåj lihppe diehki boahtám gállasjguojmmen sárnoduvátjit. Sidáv mujttádahttet dunnuv makkár stuorra ja ájnas dáhpádus le gå guovtes válljiba aktan gállasjvuodan viessot. Gå gállasjvuohtaj låjdåstihppe, de jáhttebihtte goabbák guojmmásihtte semasvuodan viessot ja doarjjot nubbe nuppev gájkka iellema dilijn, juogu dal vuohkasap jali gássjelap dilijn.</p>
+    <p>Valla dål jáhttebihtte goabbák guojmmásihtte ájn vil ienebuv:</p>
+    <p>Gállasjvuohtaj låjdåstit sihtá javllat goabbák guojmmásihtte jáhttet gieresvuodav ja åskulasjvuodav. Nubbáj iellemájge gieresvuodav jáhttet, le stuorámus loahpádus majt mij máhttep vaddet. Dat rávkká dåj biedjabihtte alla mihttomierijt ietjada aktisasjiellemij, ja rávkká aj dunnus duodalasj ájggomusáv dájda mihtojda jåksåt, uddni ja boahtteájggáj. Dáv ham dåj uddni goabbák guojmmásihtte jáhttebihtte. Gå válldubihtte, de sjaddabihtte dagu akta, valla vilá lihppe aj guokta sierra ja sæmmiárvvusasj ulmutja. Gieresvuohta ja semasvuohta avta bielen ja friddjavuohta ja sierra ulmutjin liehket nuppen bielen æbá dárbaha liehket vuosstebiele. Gieresvuohta le aj adnet goabbák guojmeska árvvon. Mujna le riektá, valla lága milta aj vælggogisvuohta dunnuj duodalattjat sárnnot, dåj galggabihtte viessot dan jáhto milta majt dåj dálla vaddebihtte goabbák guojmmásihtte.</p>
+    <p>Ja dálla: (fiesstijiddje moarssáj javllá)</p>
+    <p>Mån gatjádav dujsta vuostak (moarsse ålles namma):</p>
+    <p>Sidá gus dån (irge ålles namma <em type="italic">(akkusatijva hámen -v) </em>), guhti duv báldan tjuodtju allasit gállasjguojmmen? </p>
+    <p>(Gå moarsse le vásstedam <span type="quote">”sidáv”</span>, de fiesstijiddje irggáj javllá):</p>
+    <p>De dujsta gatjádav, (irge ålles namma):</p>
+    <p>Sidá gus dån (moarse ålles namma <em type="italic">(akkusatijva hámen -v) </em>), guhti duv báldan tjuodtju allasit gállasjguojmmen? </p>
+    <p>(Gå irgge le vásstedam <span type="quote">”sidáv”</span>, de fiesstijiddje javllá):</p>
+    <p>Gå dal dåj - vihtanij guládijn - lihppe goabbák guojmmásihtte jáhttám aktan gállasjvuodan viessot, de mån dunnuv sárnov oalle gállasjguojmmen.</p>
+    <p>………………………………</p>
+    <p>Fiesstijiddje sávvá vuorbev maŋŋela gå fiesstimgirjje le vuollájtjáleduvvam ja gállasjguojme libá fiesstimduodastusáv oadtjum.</p>
+  </body>
+</document>

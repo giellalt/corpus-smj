@@ -1,0 +1,53 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>47</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://veiledninger.udir.no/Samisk%20andrespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Samisk-som-andrespraak/Samegiella-nubbengiellan-samegiella-2-ja-samegiella-3/template-tredje-trinn-i-enkel-tabell/index.html</origFileName>
+    <parallel_text xml:lang="nob" location="11_template-tredje-trinn-i-enkel-tabell.html"/>
+    <parallel_text xml:lang="sma" location="11_template-tredje-trinn-i-enkel-tabell.html"/>
+    <parallel_text xml:lang="sme" location="11_template-tredje-trinn-i-enkel-tabell.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Udir.no - Dásse 8-10</p>
+    <p type="title">Dásse 8-10</p>
+    <p xml:lang="nob">Hovedinnhold</p>
+    <p xml:lang="nob">D.</p>
+    <p>Dásse 1-4</p>
+    <p>Dásse 1</p>
+    <p>Dásse 2</p>
+    <p>Dásse 3</p>
+    <p>Dásse 4</p>
+    <p>Dásse 5-7</p>
+    <p>Dásse 5</p>
+    <p>Dásse 6</p>
+    <p>Dásse 7</p>
+    <p>Dásse 8-10</p>
+    <p>Dásse 8</p>
+    <p>Dásse 9</p>
+    <p>Dásse 10</p>
+    <p type="title">Máhtudakmihto oahppoplánas http://www.udir.no/grep</p>
+    <p type="title">Åhpadimgárvvidusbuojkulvisá</p>
+    <list>
+      <p type="listitem">Åhpadimgárvvidus: 8. dásse</p>
+      <p type="listitem">Åhpadimgárvvidus: 9. dásse</p>
+      <p type="listitem">Åhpadimgárvvidus: 10. dásse</p>
+    </list>
+  </body>
+</document>

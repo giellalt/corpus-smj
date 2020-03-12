@@ -1,0 +1,42 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Mihá gå lav sábme</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
+    </author>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>193</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/mih-ga-lav-s-bme.4156</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Mihá gå lav sábme</p>
+    <p>Katja Helene Nordsletta årru Strávnjunnjan ja soapptsu riek buoragit danna. Sån sihtá samegielav låhkågoahtet gå joarkkaskåvllåj álggá.</p>
+    <p xml:lang="nob">Norsk kortversjon</p>
+    <p>Katja Helene Nordsletta jådij Auster-Tanas Strávnjunnjáj vargga guokta jage dás åvddål.</p>
+    <p>Sån vádtsá dalla 10.klássan, ja soaptsu skåvlån ja aj Strávnjunján. Suv mielas la aj hávskke sábmen viessot Strávnjunján. Sån ij la goassak nuppástuvvam jali gullam sábme l nievrep gå ietjá ulmusjtjerda.</p>
+    <p>-Mån iv la goassak nuppástuvvam jali ietjá láhkáj ládáduvvam dáppen dan diehti gå lav sábme. Muv fámilja li aj gájka sáme, ja mån lav dan diehti nav mihá, subtsas Katja ja måjåt.</p>
+    <p>Kátja ij lågå sámegielav skåvlån, valla boahtte jahkáj usjudallá sámegielav låhkågoahtet gå galggá joarkkaskåvllåj.</p>
+    <p>-Boahtteájgev iv rat diede, valla sidáv gåjt de joarkkaskåvlåv dájn láhkusijn vádtset, soajttá Ájluovtan LOSA-klássan. Vuojnná dav. Ja gå joarkkaskåvllåj álgáv, de sidáv sámegielav låhkågoahtet, javllá 10.-klássak gut ienemusát nuorttasámegielav dádjat, valla ij rat sáhkada.</p>
+    <p>Katja soapptsu Strávnjunján, valla doajvvu ienep ulmutja galggin danna årrot.</p>
+    <p>-Muhttijn ij la nav ållo dahkat dánna. Ja diedon åhtsålav oassásijt ja oasseguovdátjav gånnå máhtáv muhttijn ietján gå hálmugijt oasstet, javllá Katja mañutjissaj.</p>
+    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+  </body>
+</document>

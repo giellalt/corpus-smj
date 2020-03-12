@@ -1,0 +1,40 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>225</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/AEladus/Marijna-aeladusa/Vila-gaajkkeguollebuvtadibme-slahkkidum-guoles</origFileName>
+    <parallel_text xml:lang="nob" location="toerrfisk-paa-rotskjaert-fisk.html"/>
+    <parallel_text xml:lang="sma" location="annje-dorjemasse-gejhkiegueleste-loedtehkistie.html"/>
+    <parallel_text xml:lang="sme" location="ain-goikeguoli-buvttadeapmi-roserejuvvon-guolis.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Vilá gåjkkeguollebuvtadibme sláhkkidum guoles / Marijna æládusá / Æládus / Sámedigge - Sametinget</p>
+    <p type="title">Vilá gåjkkeguollebuvtadibme sláhkkidum guoles</p>
+    <p xml:lang="sme">03. goevte 2014</p>
+    <p>Sámediggeráde sihtá nannit vuodnaguollárij máhttelisvuodajt ietja gahtsot jårbbåguolijt gåjkåtjit. – Mij barggap aktisattjat Biebbmogehtjujn vaj vuodnaguollárij sisboahtomáhttelisvuoda friddja guollimis máhtti laseduvvat, javllá Sámedikke rádeájras Silje Karine Muotka.</p>
+    <p>Biebbmogæhtjo tjavggidum rájnasvuohtagájbbádusá jages 2013 li buktám gássjelisvuodajt moatte guollárijda ietja gahtsot jårbbåguolijt gåjkåtjit. Gåjkkådimvuohke le sierra ájnas gahtsomájge maŋŋegietjen ja gå le lievnno. Lasedum máhttelisvuoda guolev gåjkkådit vaddá máhttelisvuodajt duodde sisbåhtuj gå le gássjel varásguolev jådedit.</p>
+    <p> <em type="bold">– Dálla le stuorra luohkko guolijs. Buorre ja friddja guollim la, ja dat la dahkam gássjelis duosstomvidjurijt. Dán dilen lip mij miellusa gehtjatjit gájkka jådedimmáhttelisvuodajda guollárijda ja guollimijda. Lasedum máhttelisvuohta iesj gahtsot gåjkkeguollen, javllá Sámedikke rádeájras Silje Karine Muotka. </em></p>
+    <p>Sámedigge ja Biebbmogæhttjo galggi boahtte vahko tjåhkanit ságastittjat máhttelisvuodajt ådå rájnasvuoda njuolgadusáj sissŋelin jages 2013. Akta ássje le lasedum máhttelisvuoda iesj gahtsot nåv gåhtjos jårbbåguolijt gåjkåtjit. Dát la árbbedábálasj bisodimvuohke mij la guhkes ájgijt anedum gárvedittjat guolijt gatsostibmáj. Guolijt sláhkkit viehket buorep gåjkkådibmáj ja buorep buktagin.</p>
+    <p>– Goappátjaga æládus ja Biebbmogæhttjo måråsti buoremus rájnasvuodas ja kvalitehtas gå máhttelis. Valla huoman la iesjvuosteldiddje gå vuohke mij bihko vadda buorep kvalitehtav gåjkkeguolláj ja buorep vuodov guollára sisbåhtuj ij la máhttelis ådå njuolgadusáj rájnasvuohtaj, dættot Muotka.</p>
+    <p><em type="bold">Aktijvuohta </em>Sámedikke rádeájras Silje Karine Muotka, tel. +47 984 87 576 Inge Arne Eriksen, tel. +47 915 20 202 </p>
+  </body>
+</document>

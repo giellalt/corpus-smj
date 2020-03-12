@@ -1,0 +1,51 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>LAN Ájluovtan dálvveloaben</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2009</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>226</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/files/samisk_200209.pdf</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+    <note>norsk bildetekst</note>
+  </header>
+  <body>
+    <p>Bájkkeavijssa NuorttaSállto</p>
+    <p>Tæksta: Kitty SkapalenJårggålibme: Divte Media AS</p>
+    <p>bærrájgåtsåtjit, javllá sån. Sunnu siegen gietjas iehtjáda viehkedi teknihkalasj åsijn. Dijmmá lidjin badjelasj 50 oassálasste ja dá jage sávvi ådå rekordav, Nuortta-Sálto stuorámus LAN:an.</p>
+    <p><em type="bold">Báhtja ieneplågon</em> </p>
+    <p>j</p>
+    <p><em type="bold">Moadda spela</em> </p>
+    <p>j</p>
+    <p><em type="italic">Dáhtáávudallam. Magnus Paulsen</em> <em type="italic">ja Thorstein Solstrøm gåhttjoba</em> <em type="italic">vidát VinterLAN:aj Ájluovtan</em> <em type="italic">snjuktjamáno nuppát vahko.</em> <em type="italic">DATAPARTY. Magnus Paulsen og</em> <em type="italic">Thorstein Solstrøm inviterer til den</em> <em type="italic">femte VinterLan på Drag i mars.</em> </p>
+    <p>Tjáledibme le álggám ja juo li 35 oassálasste. Ienemus oasse li báhtja Nuortta-Sálto guovlos, valla aj ulmutja Narvijkas ja Bådådjos. Muhttijn li galla næjtso, valla gåsi gáhtu? <em type="italic">- Moadda báhtja ájggu oassálasstet, valla</em> <em type="italic">gånnå li næjtso?</em> - Vuorddep sijáv, javlli sluohkasit. Dábálattjat båhti, valla e tjáledahte åvddålgiehtaj. Nágina PC:av manen válldi, valla e gájka. VinterLAN le dagu åvddåla ásadibme gåsi ulmutja navku bessi, ja dårjaduvvá almulasjvuodas. Sihke Sparebanken Narvik ja Divtasvuona suohkan li doarjjam. Jus 10. klássav váttsá jali vuorrasabbo le </p>
+    <p>de besa oassálasstet ja náv le aj gæhttjij gáktuj. <em type="italic">- Goassa le ájggemierre tjáledahttet?</em> <em type="bold">- </em>Le máhttelis tjáledahttet desik ásadibme álggá, ja jus soajttá lissta le dievas de le máhttelis duoddebievdev tsieggit, javllá Simon Paulsen, guhti aktan Johnny Andersenijn lij oajvveásadiddje åvdep jagijn. Ásadiddjijn le sierra næhttabielle, </p>
+    <p><em type="bold">www.draglan.net</em> . Dánna gávna sihke </p>
+    <p>tjáledimsjiemáv, njuolgadusájt, rustiklistav ja ållo diedov sihke oassálasstijda ja gæhttjijda. Ja dajda gudi ettjin åvddåla diede; LAN mierkki Local Area Network.</p>
+    <p><em type="bold">LAN Ájluovtan 2004</em> </p>
+    <p xml:lang="nob"><em type="bold">Gåvvå: Sander Andersen</em> </p>
+  </body>
+</document>

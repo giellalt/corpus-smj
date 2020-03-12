@@ -1,0 +1,45 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>183</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=159&amp;art_id=166</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=159_art_id=166.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=159_art_id=166.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=159_art_id=166.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Låvdagoahte</p>
+    <p type="title">Jubmeldievnastus låvdagoaden</p>
+    <p>300 jage gållin åvddål vuostasj ristagisá sierra girkkojt oadtjun. Dallutjij lidjin siján dábálattjat jubmeldievnastusá priváhta gådijn. Árvvedip jubmeldievnastus dáhpáduváj bievddegátten, gånnå aktijvuohta åvddån bådij navti váj juohkkahasj ietjas láhkáj viehkedij, muhtema biebmov dahkin, muhtemijn lidjin lávllaga fáron, muhtema tevstajt låhkin, muhtema profeterijin jnv. Gå girkko tsieggiduvvin de lij daj vuodo romalasj goade gånnå guhkesbievdij birra tjåhkanin. Áhttje tjåhkkåhij bievde badjegietjen.</p>
+    <p>Låvdagoaden li aj læhkám <span type="quote">”jubmeldievnastusá”</span>. Boassjo lij ájlis gávnij ja biebmo sadje. Boassjo le agev læhkám suoddjidum sadje låvdagoaden man sinna ij aktak galga duolmmot jali badjel lávkkit. Jus galggap iehkedismállásav låvdagoaden ávvudallat, de le luondulasj iehkedismálesåsijt boassjuj biedjat. Duola dagu le riekta Rámádav boassjuj biedjat. Rámát le ham <span type="quote">”lájbbe almes”</span> ja aj ájlis gávnne.</p>
+    <p>Låvdagoaden li aj læhkám stuoves saje fámilljaj. Iednen ja áhtjen libá tjåhkkåham boassjo lahka, valla makkir bielen målssu guovlos guovlluj. Jus låvdagoaden galggá jubmeldievnastus de le luondulasj báhppa tjåhkkåj sajen mij le boassjo buohta.</p>
+    <p>Árran, dållåsadje, le symbåvllå iellemgállduj. Midjij hiehpá árranav adnet symbåvllån Jesusij. Sån le værálda tjuovgga. Árrana tjuovggaj ja lieggasij gæssup. Árran le luondulasj tjåhkanimsadje.  (Tore Johnsen, Tromsø, 15.09.2006)</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

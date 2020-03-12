@@ -1,0 +1,67 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Sámij álmmukbiejvve</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Kitty" lastname="Skapalen" sex="m" born="" nationality="nor"/>
+    </author>
+    <author>
+      <person firstname="Geir" lastname="Smelror" sex="m" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <person firstname="Jørgen" lastname="Kintel" sex="m" born="1991" nationality="nor"/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2012</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>1202</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2012/samisk_10022012.pdf</origFileName>
+    <parallel_text xml:lang="nob" location="samisk_10022012.pdf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Bájkkeavijssa NuorttaSállto</p>
+    <p>Tæksta: Kitty Skapalen/Geir O. Smelror Gåvå: Hannah Prescher/Geir O. Smelror Jårggålibme: Divte Media AS/Jørgen Kintel</p>
+    <p>ságastip ássjijt ja buorrel áhkáj ássjijt tjoavddep, javlaj suohkanoajvve, åvddål gå sávaj gájkajda buorre ja hávsskes ávvudallamav.</p>
+    <p>Inga Karlsen ja Divtasvuona Demenssiebrre almmudij girjev <span type="quote">”Sáme biebbmo vuorrasijda”</span> ja fállin biebbmomájstátjav Árranin. Biejvve låhpaj mæssojn Ájluovta/Ájlátte girkkon girkkokáfajn ja gáhkoj Árranin. Gásluovtan lij suohkanstivrrahuonaj rádevieson gárves ávvudallamijda. Juska lidjin dåssju birrusij guovtelåges tjåhkanam de bessin gullat sámelávllagijt, hålajt ja káfajn ja gáhkoj hávsskudallat. Suohkanoajvve Tor Asgeir Johansen håla baktu nammadij man ájnas le Divtasvuona suohkanij oassen liehket sáme giellaháldadimguovlos ja suohkana visjåvnnå le <span type="quote">”Guokta kultuvra, aktisasj boahtteájgge”</span>. -Divtasvuonan le Árran julevsáme guovdásj sierralágásj ja ájnas sáme giela ja kultuvra dilláj, ja le álggorájes åvddånam máhtudakguovdátjin. Suohkan ja Árran aktan máhtti ájn boahtteájggáj</p>
+    <p>sámegielav ja kultuvrav nannit, nammadij sån. –Sjaddup buorebu mielos ságastit ássjijt ja ij hárrut nievres ássjijda.  Ij buorrevuohta dassta sjatta, låhpadij suohkanoajvve hålastis. Håla mannela åvddånbuvtij Karl Edvard Urheim lávllagav <span type="quote">”Nuorttobiegga”</span> Inghilda Tapios.</p>
+    <p xml:lang="nob"><em type="italic">Lars Andreassen ja/og Inga Karlsen</em> </p>
+    <p>jj</p>
+    <p xml:lang="nob"><em type="italic">ORDFØRER Tor Asgeir Johansen holdt</em> <em type="italic">fine taler på begge sider av fjorden og</em> </p>
+    <p xml:lang="nob">Ordfører Tor Asgeir Johansen innpå viktigheten av at Tysfjord var innlemmet i det samiske språkforvaltningområdet og at kommunens visjonen var <span type="quote" xml:lang="nob">«To kulturer, en felles god fremtid»</span>. - I Tysfjord spiller Arran-Lulesamisk senter en spesiell viktig rolle for samisk språk og kultur, og har siden åpningen utviklet seg til et betydelig kompetansesenter. Sammen med kommunen kan Arran bidra til en fortsatt styrking av samisk språk og kultur, mente han. - La oss bli bedre på å fremsnakke positive ting og ikke låse oss fast i saker vi oppfatter som negative. Det fører sjelden mye godt med seg, sa ordføreren til slutt. Etter talen fremførte Karl Edvard Urheim sangen <span type="quote">«Nuorttobiegga»</span> av Inghilda’ Tapio som oversatt til norsk betyr <span type="quote" xml:lang="nob">«Nordavind»</span> .</p>
+    <p xml:lang="nob"><em type="italic">På Tysfjord ASVO tirsdag; Uteliv med lassokasting, steking av pinnebrød, vedklyving og</em> <em type="italic">båltenning.</em> </p>
+    <p xml:lang="nob">Kitty Skapalen/Geir O. Smelror  Hannah Prescher/Geir O. Smelror</p>
+    <p xml:lang="nob"><em type="italic">Álmmukbiejvvehålla ja rahpam vájaldamvuosádusás</em> <em type="italic"><span type="quote" xml:lang="nob">“Sápmi – vår del av världen”</span> Divtasvuona suohkanoajvve</em> <em type="italic">baktu Tor Asgeir Johansen. Oalges bielen, direktørra Lars</em> <em type="italic">Magne Andreassen, gåro bielen Samuel Gælok ja Lis-Mari</em> <em type="italic">Hjortfors. Nasjonaldagstale og åpning av vandreutstillinga</em> Sápmi - vår del av världen <em type="italic">ved ordfører i Tysfjord, Tor</em> <em type="italic">Asgeir Johansen. Til høyre, direktør Lars Magne</em> <em type="italic">Andreassen, til venstre, Lis-Mari Hjortfors. og Samuel</em> <em type="italic">Gælok.</em> </p>
+    <p><em type="italic">jj</em> </p>
+    <p><em type="italic">j</em> </p>
+    <p xml:lang="nob">Tekst/foto: Drag skole</p>
+    <p xml:lang="nob">løype og rebusløp på skøyter. I tillegg var det mulig å teste hurtighet når to og to fra hver klasse målte fart og krefter i kortbaneløp på skøyter. Hockey-køllene var også framme og en gruppe gjennomførte hockeyøvelser. De ansvarlige elevene sørget også for bål og grilling av pølser. En hyggelig og fin overraskelse var det at Per Labba  kom til skolen og hadde med seg en helt hvit rein som slett ikke lot seg forstyrre av mange skuelystne.</p>
+    <p xml:lang="nob">Skolen deltok videre i uken på aktiviteter på ASVO og Árran. Noen elever fra 1.4.årstinn besøkte ASVO på tirsdag og onsdag var alle kommunens 5.klassinger på Árran  mens 6. og 7.årstrinn var på ASVO.</p>
+    <p xml:lang="nob"><em type="italic">Tirsdag var det et godt besøkt og</em> <em type="italic">svært interessant seminar på</em> <em type="italic">Arran der reindrift var tema.</em> <em type="italic">Miklal Urheim var en av</em> <em type="italic">foreleserne.</em> <em type="italic">Lokalavisa kommer tilbake til</em> <em type="italic">seminaret i neste utgave.</em> </p>
+    <p xml:lang="nob">Utfordrer Tysfjord kommune</p>
+    <p xml:lang="nob"><em type="bold">BØRGE STRANDSKOG</em> </p>
+    <p xml:lang="nob">Tekst/foto: Aasmund Gylseth</p>
+    <p xml:lang="nob"><em type="italic">Tom Hind demonstrerer hvordan man kaster lasso. Etterpå får alle</em> <em type="italic">elevene forsøke.</em> </p>
+    <p xml:lang="nob">”ny” samisk musikk. Dessuten er det viktig å fortelle hvordan samene lever i dag. Det er morsomt å se at skolebarna blir engasjert, og enda morsommere å se at innvandrerbarn vi har i Leinesfjord lett identifiserer seg med utfordringene minoritetsbefolkninger møter. Jeg er stolt av min samiske</p>
+    <p xml:lang="nob">herkomst, og derfor ønsker jeg at andre også skal lære om samisk kultur, og kanskje forstå den bedre. Steigen er jo fra gammelt av en del av det samisk område, sier Nina, før hun trekker hetta over hodet og skynder seg ut i kaldværet til ungene som venter.</p>
+    <p xml:lang="nob"><em type="italic">På rådhuset i Steigen</em> <em type="italic">hadde de heist det</em> <em type="italic">samiske flagget.</em> </p>
+    <p xml:lang="nob">Sálto sámesiebrre-NSR oppfordrer Tysfjord kommune til å utarbeide en god og helhetlig politikk for samisk språk og å vise at visjonen; <span type="quote" xml:lang="nob">“To folk – en felles god framtid”</span> er mer enn tomme ord.</p>
+    <p xml:lang="nob">- Det bør skje ved at samisk språk og kultur gjennomsyrer alt av planer for Tysfjord kommune og at også politikken er med på å høyne statusen til lulesamisk språk, skriver foren-ingen v/leder Hugo Kalstad (bildet) i brev til kommunen. SSS-NSR er fornøyd med forslaget til visjon som Tysfjord kommune har utarbeidet; <span type="quote" xml:lang="nob">“To folk – en felles god framtid”</span>.  For at disse fine ord skal få et innhold må det  konkretiseres i kommuneplanen og underliggende planer  hva Tysfjord kommune skal gjøre for å synliggjøre satsingen på samisk språk og kultur. - Tysfjord kommune er den eneste kommunen i Norge der lulesamisk språk er sidestilt med norsk. SSSNSR er overbevist om at en sterkere satsing på samisk språk er et av grepene som vil gjøre Tysfjord til et attraktivt sted å bo å leve. De tre satsingsområdene; velferd, næring og bolig er selvsagt alle viktige. Men vi mener at å satse på et av områdene der Tysfjord kommune er unik (lulesamisk språk) vil være et lurt grep for å bidra til å snu den negative befolkningsutviklingen som Tysfjord er inne i, heter det i brevet der man viser til den store mobiliseringen som skjedde i andre halvdel av 1980-tallet, bl.a. med opprettelse av samisk barnehage og egne samiske klasser på skolen. -Årskullene fra den tid, som hadde samisk som førstespråk er nå i midten av 20-årene. En sterkere satsing på samisk i Tysfjord vil gjøre det mer attraktiv for disse å bli boende og/eller bosette seg <span type="quote" xml:lang="nob">“hjemme”</span>. Satsingen må da være reell og gjennomgripende på alle barnehage og skole og få offentlige tjenester på samisk. For mange er samisk så viktig at de velger å flyte <span type="quote" xml:lang="nob">“hjem”</span> for at barna skal få opplæring i samisk. Det er derfor viktig, for det første at kommunen kan tilby en samisk-opplæring som er topp og dernest legge til rette på de andre områdene for at folk blir boende, skriver  SSS-NSR De foreslår videre at kommunen oppretter en bredt sammensatt resursgruppe som kommer med forslag til en revidert språkplan; som beskriver hvordan kommunens satsing på samisk språk skal være. - Målet må være å snu den negative utviklingen vi mener lulesamisk har i samfunnet. SSS-NSR mener at Tysfjord kommune som den eneste kommunen i Norge der lulesamisk er et offesielt språk har et spesielt og stort ansvar for å legge til rette for at lulesamisk styrkes. Dette ansvar har Tysfjord kommune først og fremst ovenfor sin egen samiske befolkningen, men også ovenfor verdenssamfunnet siden UNESCO har satt lulesamisk på listen for alvorlig truede språk. Tysfjord kommunes politikk må være med på å høyne statusen til lulesamisk, for uten en statushøyning er det vanskelig å gjennomføre effektive og gode tiltak, heter det i brevet, hvor det også listes opp flere eksempler på hva foreningen ønsker at en slik plan skal inneholde. - SSS-NSR vil også minne om at kriteriene for tilskudd til kommunene som er i samisk forvaltningsområde er endret. Endringen har medført et mindre direkte tilskudd, men åpner for tilleggsbevilgninger til gode, konkrete tiltak. For å finne frem til disse gode tiltak bør kommunen benytte seg av det engasjement som finnes i befolk</p>
+  </body>
+</document>

@@ -1,0 +1,141 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Politihkalasj vásstádussuorge ráden / Sámedikkeráde / Organisasjåvnå struktuvrra / Sámmedikke birra  / Sámedigge - Sametinget</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>292</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Organisasjaavnaa-struktuvrra/Samedikkerade/Politihkalasj-vasstadussuorge-raden</origFileName>
+    <parallel_text xml:lang="nob" location="politiske-ansvarsomraader-i-raadet.html"/>
+    <parallel_text xml:lang="sma" location="politihkeles-diedtesuerkieh-raeresne.html"/>
+    <parallel_text xml:lang="sme" location="politihkalas-ovddasvastadussuorggit-radis.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Politihkalasj vásstádussuorge ráden</p>
+    <p>Sámediggepresidænnta Aili Keskitalo ja Sámediggeráde ietjá ájrrasa li mierredam ja juogatjam politihkalasj vásstádussuorgijt gaskanisá. Dánna gávna guhtimusj politihkalasj suorges la geŋga vásstádus.</p>
+    <p type="title" xml:lang="nob">Aili Keskitalo, sametingspresident</p>
+    <p xml:lang="nob">Overordnet ansvar for alle saksområder</p>
+    <p type="title" xml:lang="nob">Språk, rettigheter og internasjonale saker</p>
+    <list>
+      <p type="listitem" xml:lang="nob">Samisk selvbestemmelse</p>
+      <p type="listitem" xml:lang="nob">Urfolksrettigheter</p>
+      <p type="listitem" xml:lang="nob">Land- og vannrettigheter</p>
+      <p type="listitem" xml:lang="nob">Samordning av konsultasjoner</p>
+      <p type="listitem" xml:lang="nob">Samisk samarbeid over landegrensene (SPR)</p>
+      <p type="listitem" xml:lang="nob">Annet internasjonalt arbeid</p>
+      <p type="listitem" xml:lang="nob">Koordinere nordområdepolitikk</p>
+      <p type="listitem" xml:lang="nob">Forvaltningsområdet for samisk språk</p>
+      <p type="listitem" xml:lang="nob">Språksentra</p>
+      <p type="listitem" xml:lang="nob">Samefolkets fond-språk</p>
+      <p type="listitem" xml:lang="nob">Språkprosjekter – søkerbaserte tilskudd</p>
+      <p type="listitem" xml:lang="nob">Handlingsplanen i samiske språk</p>
+      <p type="listitem" xml:lang="nob">Samelovens språkregler</p>
+      <p type="listitem" xml:lang="nob">Samisk terminologi</p>
+      <p type="listitem" xml:lang="nob">Samiske stedsnavn (stadnamnloven)</p>
+      <p type="listitem" xml:lang="nob">Samisk orddatabank</p>
+      <p type="listitem" xml:lang="nob">Korrekturverktøy</p>
+      <p type="listitem" xml:lang="nob">Elektroniske ordbøker</p>
+    </list>
+    <p type="title" xml:lang="nob">Henrik Olsen</p>
+    <p type="title" xml:lang="nob">Kultur og helse</p>
+    <list>
+      <p type="listitem" xml:lang="nob">Kultur</p>
+      <p type="listitem" xml:lang="nob">Kultursentra, møteplasser</p>
+      <p type="listitem" xml:lang="nob">Kunst, kunstneravtale</p>
+      <p type="listitem" xml:lang="nob">Idrett</p>
+      <p type="listitem">Media</p>
+      <p type="listitem" xml:lang="nob">Film, litteratur, musikk</p>
+      <p type="listitem" xml:lang="nob">Teater</p>
+      <p type="listitem" xml:lang="nob">Festivaler</p>
+      <p type="listitem" xml:lang="nob">Museumsforvaltning</p>
+      <p type="listitem" xml:lang="nob">Kirkepolitikk</p>
+      <p type="listitem" xml:lang="nob">Institusjonspolitikk</p>
+      <p type="listitem" xml:lang="sme">SUPU</p>
+      <p type="listitem" xml:lang="nob">Tilskuddsforvaltning søkerbaserte ordninger</p>
+      <p type="listitem" xml:lang="nob">Samefolkets fond-litteratur</p>
+      <p type="listitem" xml:lang="nob">Likestilling</p>
+      <p type="listitem" xml:lang="nob">Helsepolitikk</p>
+      <p type="listitem" xml:lang="nob">Sosialpolitikk</p>
+      <p type="listitem" xml:lang="nob">Barnevern</p>
+      <p type="listitem" xml:lang="nob">Forvaltning av prosjektmidler</p>
+      <p type="listitem" xml:lang="nob">Barnekonvensjonen (i samarbeid med rettighetsteamet)</p>
+      <p type="listitem" xml:lang="nob">Samarbeid med helseforetakene</p>
+      <p type="listitem" xml:lang="nob">Eldrepolitikk</p>
+      <p type="listitem" xml:lang="nob">Barne og familiepolitikk</p>
+    </list>
+    <p type="title" xml:lang="nob">Ann-Mari Thomassen</p>
+    <p type="title" xml:lang="nob">Budsjett og regionalpolitikk</p>
+    <list>
+      <p type="listitem" xml:lang="nob">Faglig bistand i relevant tilskuddsforvaltning</p>
+      <p type="listitem" xml:lang="nob">Regionale utviklingsprogrammer</p>
+      <p type="listitem" xml:lang="nob">Koordinere samarbeidsavtalene med fylkeskommunene</p>
+      <p type="listitem" xml:lang="nob">Regionalpolitikk, herunder fylkesplaner</p>
+      <p type="listitem" xml:lang="nob">Sametingets budsjett og regnskap</p>
+      <p type="listitem" xml:lang="nob">Sametingets årsmelding</p>
+      <p type="listitem" xml:lang="nob">Samisk statistikk</p>
+      <p type="listitem" xml:lang="nob">Sametingsrådets beretning</p>
+      <p type="listitem" xml:lang="nob">Koordinere alle klagesaker for sametingsrådet</p>
+    </list>
+    <p type="title" xml:lang="nob">Thomas Åhren</p>
+    <p type="title" xml:lang="nob">Reindrift, areal og kulturminner</p>
+    <list>
+      <p type="listitem" xml:lang="nob">Planarbeid i forhold til plan og bygningsloven</p>
+      <p type="listitem" xml:lang="nob">Arealpolitikk og arealforvaltning</p>
+      <p type="listitem" xml:lang="nob">Nasjonalparker og andre verneområder</p>
+      <p type="listitem" xml:lang="nob">Samarbeid med eksterne planaktører</p>
+      <p type="listitem" xml:lang="nob">Verdiskapningsprogram for reindrift</p>
+      <p type="listitem" xml:lang="nob">Samferdsel, inkludert motorferdsel i utmark</p>
+      <p type="listitem" xml:lang="nob">Myndighetsutøvelse i henhold til kulturminneloven og plan og bygningsloven</p>
+      <p type="listitem" xml:lang="nob">Samisk bygningsvern</p>
+      <p type="listitem" xml:lang="nob">Forvaltningsplaner for samiske kulturminner og kulturmiljøer</p>
+      <p type="listitem" xml:lang="nob">Kulturminneregistrering</p>
+      <p type="listitem" xml:lang="nob">Kontakt med eksterne aktører i kulturminneforvaltningen</p>
+      <p type="listitem" xml:lang="nob">Faglig bistand i relevant tilskuddsforvaltning</p>
+      <p type="listitem" xml:lang="nob">Reindrift</p>
+      <p type="listitem" xml:lang="sme">Rovvilt</p>
+    </list>
+    <p type="title" xml:lang="sme">Silje Karine Muotka</p>
+    <p xml:lang="nob">
+      <em type="bold">Kunnskap, miljø og næring </em>
+    </p>
+    <list>
+      <p type="listitem" xml:lang="nob">Grunnskole</p>
+      <p type="listitem" xml:lang="nob">Videregående opplæring</p>
+      <p type="listitem" xml:lang="nob">Voksenopplæring</p>
+      <p type="listitem" xml:lang="nob">Høyere utdanning og forsking</p>
+      <p type="listitem" xml:lang="nob">Læremidler og læremiddelsentral</p>
+      <p type="listitem" xml:lang="nob">Pedagogisk veiledning</p>
+      <p type="listitem" xml:lang="nob">Barnehager med samiske barn</p>
+      <p type="listitem" xml:lang="nob">Strategisk plan for læremiddelutvikling</p>
+      <p type="listitem" xml:lang="nob">Kompetanseheving og rekruttering</p>
+      <p type="listitem" xml:lang="nob">Læremidler til barnehager</p>
+      <p type="listitem" xml:lang="nob">Forvaltning av særskilte tilskudd til samiske barnehager</p>
+      <p type="listitem" xml:lang="nob">Generell næringspolitikk</p>
+      <p type="listitem" xml:lang="nob">Jordbruk</p>
+      <p type="listitem" xml:lang="nob">Fiske- og marine ressurser</p>
+      <p type="listitem" xml:lang="sme">Reiseliv</p>
+      <p type="listitem" xml:lang="nob">Gass og petroleum</p>
+      <p type="listitem" xml:lang="nob">Mineraler</p>
+      <p type="listitem" xml:lang="nob">Miljø og ressurspolitikk</p>
+      <p type="listitem" xml:lang="nob">Utmarksnæring og duodji</p>
+      <p type="listitem" xml:lang="nob">Tradisjonell kunnskap</p>
+      <p type="listitem" xml:lang="nob">Samefolkets fond - tradisjonell kunnskap</p>
+    </list>
+  </body>
+</document>

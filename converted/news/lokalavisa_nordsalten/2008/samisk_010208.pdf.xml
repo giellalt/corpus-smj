@@ -1,0 +1,49 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Allaskåvllå Nesnan kurssatjåhkanimen Divtasvuonan</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2008</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>368</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/files/samisk_010208.pdf</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+    <note>norsk bildetekst</note>
+  </header>
+  <body>
+    <p>Bájkkeavijssa NuorttaSállto</p>
+    <p>Allaskåvllå Nesnan lij Divtasvuonan åvdep vahko vuostasj juohkusijn, 7 studentaj</p>
+    <p>«Sáme</p>
+    <p>Ájggomus lij buorebut julevsáme kultuvrajn dåbdijdit.</p>
+    <p><em type="bold">Sáme kulturdiehto ássjen</em>: Gåro bieles: Kursa njunnjusj Hans P. Dahl-Hansen, fáhkaåvdåsvásstediddje Jostein Lorås, Ida Grini Jentoft, Ronald Johnsen, Jonas Slettvoll, åvddån gåro bieles; Hanni Mosenden og Stein Bjørgen. Erling Urheim ij lim danna gå gåvvijin. </p>
+    <p xml:lang="nob"><em type="bold">Samisk kulturkunnskap på agendaen</em>: Fra venstre: Leder for kurset Hans P. Dahl-Hansen, fagansvarlig Jostein Lorås, Ida Grini Jentoft, Ronald Johnsen, Jonas Slettvoll, fremme fra venstre; Hanni Mosenden og Stein Bjørgen. Erling Urheim var ikke tilstede da bildet ble tatt. </p>
+    <p>Allaskåvllå Nesnan kurssatjåhkanimen Divtasvuonan</p>
+    <p>javllá Lorås. Manon Divtasvuonan studenta aj oahpásmuvvin sáme tsieggimvuogijda gierggeájges gitta dálásj ájggáj.</p>
+    <p>Åhpadusán li sáme ja dáttja oahppe, ja gájka li náv guhkás viehka dudálattja tjadádimijn. Ida Grini Jentoft návti javllá: - Mujna lij binná åvddåmáhtudahka sáme kultuvra birra, ja muv mielas ij la buorre gå ep la ienebuv sáme kultuvra birra skåvlån oahppam. – Le midjij nav lahka, valla ajtu nav binnáv diehtep, duoddis sån. Ronald Johansen åhpadiddjen barggá ja návti javllá: “Sáme kultuvrra le ållu ájggeguovddelis gå ådå Finnmárkolágav ájádallap, valla aj máhttolåpptimin gånnå sáme kulturdiehto le oassen ådå oahppoplánajn vuodoskåvlån ja joarkkaskåvlån, javllá sån. Fágalasj nasjonálalasj oahppoplána sáme sisano bargguj dagádum.</p>
+    <p>Åhpadus gåbddåsit sáme ja dáttja studentajt gæsot. Lisa Maria Renfjell Hemnesas le iesj ællosábme ja suv mielas le buorre ådåsmahttet máhtudagáv majt åvddåla le oahppam. - Mån lev dárogielak skåvlåv vádtsám, valla dánna ienebuv oattjov oahppat muv fuolke histåvrå birra, javllá sån.</p>
+    <p>Divna studentaj mielas le suohtas ålgus boahtet sáme birrasij, iejvvit ulmutjijt ietjá bájkijs ja åhpadimev ålgus válldet, ja ij dåssju auditåvrån åhpaduvvat. - Gárvvidus skåvlås Nesnan le buorre, gå li nahkam aktidit bájkálasj bájkij åhpadusáv ja sæmmi båttå li læhkám lågådalle Råmså universitehtas, javlli. virgálattja, studenta, dájddaberustiddje ja organisásjåvnå, ja ulmme le vaddet vuodomáhtudagáv sáme ássjijn. Åhpadus galggá máhtudagáv vaddet bargatjit sáme ássjij vuodoskåvlån, ja ratjáduvvá galggi vuosádallat moattelágásj sáme birrasijt Nordlándan. Studenta njuolgga Vardobájkes Skánes Divtasvuodnaj båhtin, ja li åvddåla oahpásmuvvam oarjjesáme birrasijn Majavatnen ja bihtámsáme kultuvrajn Saltdalan. Jáhkedahtte ma?emus kurssatjåhkanibme Jåhkåmåhkkåj jali Stockholmaj biejaduvvá.</p>
+    <p>- Muv mielas li sáme ja dárogielak subttsasa muodugattja, sjabmot Hanni Mosenden Lesjas Gudbrandsdales. Moaddása studentajs miehtse kulturmujtojs berusti, ja aj politihkalasj gatjálvisájs ma li daj moattelágásj sáme</p>
+  </body>
+</document>

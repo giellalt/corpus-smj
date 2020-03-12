@@ -1,0 +1,61 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>886</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Duogasj/Histaavrraa</origFileName>
+    <parallel_text xml:lang="nob" location="historikk.html"/>
+    <parallel_text xml:lang="sma" location="histovrije.html"/>
+    <parallel_text xml:lang="sme" location="historja.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Histåvrrå / Duogásj / Sámmedikke birra / Sámedigge - Sametinget</p>
+    <p type="title">Histåvrrå</p>
+    <p>Sáme li Nuorttakalåhtan viessum sierra álmmugin ietjas gielajn, ietjas árbbedábij ja æládushiebadimij guhkev åvddål gå nasjonálstáhta vuododuvvin. Gå rájá sátsaduvvin 1751, de sáme sjaddin álmmugin årromguovloj nieljen rijkan: Vuonan, Svierigin, Suoman ja Ruossjan. Sáme árbbedábálasj duobddága li Guoládagás lullenuorttan Engerdalláj Oarjje-Vuonan ja Idrej Oarjje-Svierigin. Dát guovllo gåhtjoduvvá sámegiellaj Sámeednamin.</p>
+    <p>
+      <em type="bold">Dárojduhttem </em>
+    </p>
+    <p>1800-jagijn lassán diedulasjvuohta Vuona nasjåvnå birra. Vuodna oattjoj vuodolágav jagen 1814 viehka stuorra iesjrádálasjvuodajn ja dajna tjuovoj vuona nasjåvnnåtsieggim. Jagen 1848 tjuottjodij ráddidus ja stuorradigge Finnmárko ednama lidjin stáhta ednama juo dålutjis. Sivvan lij guovllo lij <span type="quote">“gålgge sámij”</span> årromguovllo, mij galgaj sievvet jåhtålibme ittjij miededa æjggumriekáv åmastit.</p>
+    <p>Máhttelisvuohta ednamijt æjggut reguleriduváj tjavgga Vuona oajválattjajs. Jage 1888 maŋŋela oadtjun dåssju ulmutja Vuonas ja Svierigis ednamav åmastit Vuonan, ja vuona viesádimvuodav oadtjun dåssju sij gudi dárogielav buktin. Jagen 1902 mierredij Stuorradigge ådå ednamvuobddemlágav. Dán lágan le tjáledum dåssju vuona stáhtaviesáda máhttin ednamav oasstet, ja galgaj dættoduvvat sån guhti ednamav oattjoj oasstet lij ávkken ednambarggen ja sån <em type="bold"><span type="quote" xml:lang="nob">”…som kunne tale, lese og skrive det Norske Sprog og benytte det til daglig Brug. (...guhti buvtij hållat, låhkåt ja tjállet dárogielav ja adnet dav bæjválattjat.)”</span>. </em>Láhka lij fámon gitta jahkáj 1965. </p>
+    <p>Dárojduhttempolitihkka tjavggiduváj nuppát væráltdoaro vuosstij. Jagen 1924 javllá buojkulvissan parlamentáralasj skåvllåkommisjåvnnå náv: ”Samisk åndsliv og kultur er noe som ikke finnes. Hele folkets egenart og begavelse peker ikke i den retning. (Sáme vuojŋŋalasj iellem ja kultuvrra ij gávnnu. Ålles álmmuga sierralágásjvuohta ja vaddása e dan guovlluj vuoseda).”</p>
+    <p>Maŋep væráltdoaro maŋŋela dárojduhttempolitihkka nåhkågoahtá. Valla vihpá huoman ájn alvadahtte guhkev.</p>
+    <p>Gielalasj ja tjerdalasj vuojnno unneplågojda rievdaduváj maŋep væráltdoaro maŋŋela. Rijkkagasskasasj ulmusjrievtesvuohtabarggo vájkkudij vaj såbadusá ulmusjrievtesvuodaj hárráj dagáduvvin goappátjagá Eurohpán ja AN:an. Dát vájkkudij aj vuona oajválattjaj guottojt unneplågojda, ållagasj sámijda. Almulattjat bådij dát vuojnnusij jagen 1948, gå skåvllådåjmadagá Aktidimnammadus buvtij moadda oajvvadusá ulmijn hiebadittjat skåvllåfálaldagájt sáme mánájda. Dat juogos oajvvadij sámegiella luluj oadtjot stuoráp sajev åhpadimen, aktan sáme kultuvrrahiståvråjn ja sáme sijddabargujn. Daj dåjman siegen ma álgeduvvin Aktidimnammadusá oajvvadusáj milta lij risstalasjvuohtagirje guovtegielaktevstaj Tråmså åhpadiddjeskåvlån jage 1953 rájes.</p>
+    <p>Jagen 1956 nammaduváj Sámekomitea (komitea tjielggitjit sámeássjijt). Komitea árvvalus mij åvdeduváj jagen 1959, aneduvvá unneplåhkopolitihka jårgestibmen. Álgon sieveduvvá unneplåhkoássje li sjaddam ienep ájggeguovddelissan: <span type="quote">“Unneplåhkoássje væráldav birra li sjaddam åvvånagi ienep buolle ássjen gå åvddåla, ja juska mijá lándan ittjij dåhkki giehttot sáme unneplåhko le niejdedum sæmmiláhkáj gå moatten ietjá sajen væráldin, de lij tjielgas mijá lunna lidjin aj mætto dagádum. Dat guosská dan diehti skåvllåpolitihkav mijá jahketjuoden gitta maŋep væráltdårruj.”</span></p>
+    <p>(Sámekomitea árvvalus, 6. bielen).</p>
+    <p>Komitea anij ietjas dahkamussan <span type="quote">“gæhttjalit gávnnat njuolgadusájt ja ulmev oajválattjaj politihkkaj sámij hárráj mij máhttá nannit sáme unneplågov ekonomalattjat, sosiálalattjat ja kultuvralattjat”</span> (19. bielen). Árvvalusán tjuorgaduváj vuodovuojnno mij rievdaj dárojduhttempolitihkas. Komitea miejnnij vuona sámepolitihkka galgaj farra rahtjat nannitjit sámijt álmmugin, åvddånahttet vieledusáv álmmugij gaskan ja álgadit ekonomalasj ja sosiálalasj dåjmajt ådåstuhtátjit sáme iellemvuogev ja duodde integrerimav vuona sebrudahkaj. Positijvva sierra ávkke aneduváj dárbulattjan vaj avtaárvvusasj riektá sjaddin sámij ja láttij gaskan.</p>
+    <p>Árvvalusá guovdásj oajvvadus lij sierra sáme guovlov nannit, gånnå degu sierra njuolgadusá galggin liehket fámon sámegiela stáhtusa gáktuj, goappátjagá skåvlån ja almulasj háldadusán. Komitea tjuottjodij dakkir guovllo juo gávnnuj. Ulmme oajválattjaj sámepolitihkkaj vierttij liehket nannit sámijt álmmugin. Komitea miejnnij positijvva sierra ávkke lidjin dárbulattja vaj avtaárvvusasj riektá sjaddin sámij ja láttij gaskan. Ráddidus ittjij tjuovvola Sámekomitea oajvvadusájt diedádusán Stuordiggáj jagen 1963. Ráddidus gålågattaj miejnnimis majdik sámijs tjerdalasj unneplåhkon, sáme farra nammaduvvin <span type="quote" xml:lang="nob">“samisktalende nordmenn”</span> (sámegielak vuonaga). Ráddidus dárkkelappot tjielggij ulmme sámekultuvrav bisodit galgaj liehket geŋga ulmutja duogen.</p>
+    <p>1970-jagij lågon dåhkkiduvvagåhtin sáme unneplåhkon Vuonan. Åhpadibme sámegiellaj mierreduváj riektán jagen 1967 ja sáme joarkkaskåvllå ásaduváj Kárásjåhkåj sæmmi jage. Jagen 1973 ásaduváj kultuvrraguovdásj Sáme instituhtta/Nordisk samisk institutt Guovddagæjnon. Dát sjattaj maŋenagi tjielggidus- ja guoradallaminstituhttan.</p>
+    <p>
+      <em type="bold">Ådå sámepolitihkka </em>
+    </p>
+    <p>1960 ja 70 jagijn sjattaj nuorap buolvva sámijs ienep diedulattjan ja rievdadiddjen. Sámeássje sjaddin aj ienebut álggoálmmukássjen. Sáme organisasjåvnå barggin dåjmalattjat oassálastátjit rijkkagasskasasj álggoálmmukbargon nåv gå Álggoálmmugij væráltráde (WCIP) vuododusá baktu jagen 1975.</p>
+    <p>Dárojduhttempolitihkka mij lij vihpam 1800-jagij maŋep oases lij tjavgámus Áltástuojme birra. Rijddo álgij gå Stuorradigge jagen 1978 mierredij dulvvadit Alta-Guovddagæjno tjátjádagáv ja fábmobuvtadagáv ásadit. Dát doalvoj garra vuosstálasstemijda, aksjåvnåjda ja demonstrasjåvnåjda sámijs ja biráspolitihkalasj guovlos.</p>
+    <p>Ålles Áltá-ássje vásedij moadda vuorrádisá, nåv gå nælggodime Stuordikke ålgusjbielen jagijt 1979 ja 1981 ja stáhttaministara kontåvrå åmastibme jagen 1981. Rijddo gerralij gå 600 politiulmutja sámeårruhav sjuovvijin ja sváldasvegav Savvunis (Stilla) gádodin ådåjakmáno 15. biejve jagen 1981. Vuona oajválattjaj vásádusá Áltá-ássjen vuosedij dárbov sáme organisasjåvnåj guládallat. Oajválattja vásedin máhttelisvuoda ja máhtukvuoda sámijt stivrrit lidjin viehka unnum, sæmmi båttå gå Vuona vuohke gåktu ietjas álggoálmmugav dåmadij alvaduhtij rijkkagasskasattjat.</p>
+    <p>Áltá-ássje merkaj ájggemålssomav Vuona sámepolitihkan. Sáme dåhkkiduvvin ij dåssju unneplåhkon, valla aj álggoálmmugin. Gå rijddo stáhta oajválattjaj ja sámij gaskan lij garrasabmusin jagijt 1980-81, de lij dárbbo politihkalasj miededimijs sáme riektáj birra. Båhtusin lij semalasjvuohta ráddidusá ja sámeorganisasjåvnåj gaskan jut ássje galgaj lagábut guoradaláduvvat.</p>
+    <p>Ráddidus nammadij Sámeriektájuohkusav ja Sámekultuvrrajuohkusav duostudahkan sámij rávkalvisájda.</p>
+    <p>Sámeriektájuogos buvtij jagen 1984 vuostasj árvvalusáv,<span type="quote">”Om samenes rettsstilling (Sámij riektávidjurij birra)”</span>. Dat dagáj vuodov Stuorradikke mærrádussaj jagen 1987 Sámelága birra (Lov om Sametinget og andre samiske rettsforhold (Láhka Sámedikke ja ietjá sáme riektávidjurij birra)). Sámeláhka hábbmij riektálasj vuodov Sámedikke ásadibmáj.</p>
+    <p>Vuostasj Sámediggeválgga tjadáduváj ragátmánon jagen 1989, ja vuostasj Sámedigge rabáduváj gålgådismáno 9. biejve 1989 Kárásjågån S.M. Gånågis Olav V.</p>
+    <p>
+      <em type="bold">Sámediggepresidenta: </em>
+    </p>
+    <p>1989 – 1997 Ole Henrik Magga (Vuona Sámij Rijkasiebrre) 1997 – 2005 Sven-Roald Nystø (Vuona Sámij Rijkasiebrre) 2005 – 2007 Aili Keskitalo (Vuona Sámij Rijkasiebrre) 2007 – 2013 Egil Olli (Barggijbelludahka) 2013 - dd Aili Keskitalo (Vuona Sámij Rijkasiebrre)</p>
+  </body>
+</document>

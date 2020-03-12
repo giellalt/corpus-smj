@@ -1,0 +1,60 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Kontakt oss/Válde aktijvuodav : Tysfjord ASVO</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>126</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://tysfjordasvo.no/kontakt_oss_v_lde_aktijvuodav</origFileName>
+    <parallel_text xml:lang="nob" location="kontakt_oss_v_lde_aktijvuodav.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Kontakt oss/Válde aktijvuodav</p>
+    <p xml:lang="nob">NO 967041610</p>
+    <p xml:lang="nob">Tysfjord ASVO AS</p>
+    <p>8270 Ájluokta / Drag</p>
+    <p xml:lang="nob">telefon / telefåvnnå: 75 78 58 80</p>
+    <p xml:lang="nob">telefaks / telefáksa: 75 78 58 81</p>
+    <p xml:lang="nob">e-post / e-poasstat:</p>
+    <p xml:lang="nob">post@tysfjordasvo.no</p>
+    <p xml:lang="nob">åpningstider / rahpamájge: man/mán - fre/bierj 8 - 15</p>
+    <p xml:lang="nob">Ta kontakt med oss ved å fylle ut skjemaet under. Her kan man også gi oss ris/ros. Dette skjema kan også brukes til å melde fra om avvik.</p>
+    <p xml:lang="nob">Navn</p>
+    <p xml:lang="nob">E-post</p>
+    <p xml:lang="nob">Telefon</p>
+    <p xml:lang="nob">Beskjed</p>
+    <p xml:lang="nob">Takk for at du tok deg tid til å svare på skjemaet</p>
+    <list>
+      <p type="listitem">Forside / Åvddåbielle</p>
+      <p type="listitem" xml:lang="nob">Tilrettelegging / Hiebadibme</p>
+      <p type="listitem" xml:lang="nob">Produksjon / Buvtadibme</p>
+      <p type="listitem" xml:lang="nob">Kurs / Kurrsa</p>
+      <p type="listitem" xml:lang="nob">Butikk / Oases</p>
+      <p type="listitem" xml:lang="nob">Trening / Lásjmudallam</p>
+      <p type="listitem">Utstillinger / Vuosádus</p>
+      <p type="listitem" xml:lang="nob">Duodjebloggen</p>
+      <p type="listitem" xml:lang="nob">Arrangementer</p>
+      <p type="listitem">Om oss / Mijá birra</p>
+      <p type="listitem" xml:lang="nob">Andre tilbud / Ietjá fálaldagá</p>
+      <p type="listitem">Kontakt oss/Válde aktijvuodav</p>
+    </list>
+    <p type="title" xml:lang="nob">Tips en venn</p>
+    <p xml:lang="nob">Idium  Web</p>
+    <p xml:lang="nob">Rediger</p>
+    <p xml:lang="nob">Personvern</p>
+  </body>
+</document>

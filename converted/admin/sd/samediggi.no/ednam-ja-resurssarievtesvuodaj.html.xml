@@ -1,0 +1,62 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>299</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Ednam-ja-resurssarievtesvuodaj</origFileName>
+    <parallel_text xml:lang="nob" location="land-og-ressursrettigheter.html"/>
+    <parallel_text xml:lang="sma" location="laante-jih-vierhtiereaktah.html"/>
+    <parallel_text xml:lang="sme" location="eatnan-ja-resursavuoigatvuodat.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Ednam- ja resurssarievtesvuodaj / Sámedigge - Sametinget</p>
+    <p>Åtså biednikdårjav</p>
+    <p type="title">Ednam- ja resurssarievtesvuodaj</p>
+    <p>Sáme árbbedábálasj  adno degu bivddo, miehttseávkástallam, ællosujtto ja guolástime ij le stáhta bieles dåhkkiduvvam vuodon gå sáme li háhkuham rievtesvuodajt. Sámij sierralágásj aktisasj adno ij le ga dåhkkiduvvam dákkár adnon mij sámijda rievtesvuodajt vaddá. Rijkajgasskasasj riektáåvddånibme, Vuona duobmoståvllåmærrádusá ja láhkaprosessa li dahkam gå maŋemus jagij le ienebut dåhkkidam sámij ednama, tjátje ja resursa árbbedábálasj adno vaddá aj åmastam- ja adnorievtesvuodajt.</p>
+    <p>Politihkalasj åvdåsvásstediddje</p>
+    <p xml:lang="eng">President</p>
+    <p xml:lang="sme">NSR</p>
+    <p xml:lang="sme">Ávjovárri</p>
+    <list>
+      <p type="listitem">Ednamrievtesvuoda</p>
+      <p type="listitem">Guollimriektá</p>
+      <p type="listitem">Kárttim</p>
+    </list>
+    <p type="title">Sámedigge barggá</p>
+    <list>
+      <p type="listitem">Sámij ednam- ja resursarievtesvuoda duohta dåhkkiduvvi.</p>
+      <p type="listitem">Guoradallat rievtesvuodajt ma aj sihkarasti sámij aktisasj rievtesvuodajt.</p>
+      <p type="listitem">Dakkár riektágåvvå, mij le avtaárvvusasj miehtáj árbbedábálasj sáme guovlo ja mij sihkarastá duohta avtalágásjvuodav majoritehta ja minoritehta gaskan, ja iesjgudik sámi guovloj gaskan.</p>
+    </list>
+    <p type="title">Duogásj</p>
+    <p>Ednamij ja resursaj guhkepájge adno vaddá åmastam-, háldadim- ja adnorievtesvuodajt ednamijda ja resursajda.</p>
+    <p>Dat mij vuolgadij Áltá-tjátjádagá dulvvadime vuosstálastemijt lej gå vádnunij sámij ednam- ja resurssarievtesvuodaj dåhkkidibme. Akta vuosstálasstimij båhtusijs lej gå ráddidus jagen 1980. nammadij sámij rievtesvuodanammadusáv mij galgaj tjielgadit <span type="quote">”…sáme álmmuga riektálasj dilev ednamijda ja tjátjijda adnem- ja åmastamrievtesvuodaj gáktuj”</span>. Sáme rievtesvuodanammadus åvdedij vuostasj oassetjielggidusáv jagen 1997 ja nuppev oassetjielggidusáv vas 2007. Dåhkkidimes ednam- ja resursarievtesvuodajda gullu dasi majt vuostatjin máhttá gåhttjot priváhta rievtesvuodadille. Dát iereduvvá almulasjrievtálasj dåjmajn ma reguleriji tjáhtje- ja ednamresursaj anov, ja mij aj galggá sihkarastet sáme kultuvra iellemdilev.</p>
+    <p>VAT 1997: 4 Sáme kultuvra luondovuodo http://www.regjeringen.no/nb/dep/jd/dok/nouer/1997/nou-1997-4.html?id=140720</p>
+    <p>VAT 2007: 13 Dat ådå sámeriektá Sáme rievtesvuodanammadusá tjielggidus http://www.regjeringen.no/nb/dep/jd/dok/nouer/2007/nou-2007-13.html?id=491883</p>
+    <p>
+      <em type="bold">Sámedigge bargon le: </em>
+    </p>
+    <p type="listitem">Liehket konsultasjåvnabiellen ráddidussaj mierredattijn lágav mij sihkarasstá sámij rievtesvuodajt ednamijda ja resursajda mij le tjanádum almasjrievtesvuodajda ja histåvrålasj adnuj.</p>
+    <p type="listitem">Nammadit gålmmå ájrrasa gudát ájrrasijs Finnmárkoåbmudahkaj mij háldat ednamijt ja resursajt Finnmárkon finnmárkolága milta.</p>
+    <p type="listitem">Mierredit njuolgadusájt dasi gåktu galggá árvustallat dajt vájkkudusájt majt rievdaduvvam adno dahká sáme kultuvrraj, boatsojæládussaj, miehttseadnuj, æládusbargguj ja sebrudakiellemij.</p>
+    <p type="listitem">Giehtadallat ássjijt gånne le sáhka Finnmárko miehtse rievddaduvvam anos majt Finnmárkoåbmudahka åvdet Sámediggáj.</p>
+  </body>
+</document>

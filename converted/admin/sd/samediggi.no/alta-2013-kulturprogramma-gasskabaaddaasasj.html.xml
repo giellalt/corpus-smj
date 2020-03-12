@@ -1,0 +1,50 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>106</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Rijkajgasskasasj-barggo/Alta-2013/Alta-2013-kulturprogramma-gasskabaaddaasasj</origFileName>
+    <parallel_text xml:lang="sma" location="alta-2013-kultuvreprogramme-annjebodts.html"/>
+    <parallel_text xml:lang="sme" location="kulturprogramma.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Áltá 2013 kulturprográmma (gasskabåddåsasj) / Áltá 2013 / Rijkajgasskasasj barggo / Sámedigge - Sametinget</p>
+    <p type="title">Áltá 2013 kulturprográmma (gasskabåddåsasj)</p>
+    <p>19. njoktje 2013</p>
+    <p>Kulturprográmma biejves bæjvváj Áltá 2013.</p>
+    <p>
+      <em type="bold">Sådnåbiejve biehtsemáno 9. biejve </em>
+    </p>
+    <p>20:00 Vuosstájválldem *20:00 Rabás konferánsapub <span type="quote" xml:lang="nob">"Studenthuset"</span> 21:30 Filmmaprográmma: Native Shorts 1</p>
+    <p>
+      <em type="bold">Mánnodagá biehtsemáno 10. biejve </em>
+    </p>
+    <p xml:lang="sme">12:00 Márnán 15:00 Dájddavuosádusá Finnmárkkohállan 20:00 Rabás konferánsapub <span type="quote" xml:lang="nob">"Studenthuset"</span> 20:30 Teáhter: Beaivváš Sámi Nasjonalteahter: Ridnoaivi ja nieguid oaidni 21:30 Filmmaprográmma: Native Shorts 2</p>
+    <p>
+      <em type="bold">Dijstagá biehtsemáno 11. biejve </em>
+    </p>
+    <p>12:00 Márnán 15:00 Dájddavuosádusá Finnmárkkohállan 18:30 Nuoraj lávdde guovdo Áltá 20:00 Rabás konferánsapub <span type="quote" xml:lang="nob">"Studenthuset"</span></p>
+    <p>
+      <em type="bold">Gasskavahko biehtsemáno 12. biejve </em>
+    </p>
+    <p>12:00 Márnán 15:00 Dájddavuosádusá Finnmárkkohállan 20:00 Rabás konferánsapub <span type="quote" xml:lang="nob">"Studenthuset"</span> 20:00 Loahppakonsærtta Nive Nielsenijn ja Mari Boinejn</p>
+  </body>
+</document>

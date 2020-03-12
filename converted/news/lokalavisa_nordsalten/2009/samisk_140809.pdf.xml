@@ -1,0 +1,45 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Vuosstebielle Hamsunij</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Karianne" lastname="Sørgård Olsen" sex="f" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2009</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>308</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/files/samisk_140809.pdf</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+    <note>Norsk bildetekst</note>
+  </header>
+  <body>
+    <p>Bájkkeavijssa NuorttaSállto</p>
+    <p>Vuosstebielle Hamsunij</p>
+    <p>Hamsunbiejvij aktijvuodan vuosedij Liddno sáme ælla riekta nav gåktu Hamsun gåvvit.</p>
+    <p><em type="italic">Ásadiddje Liddnos ájggu árbbedábijt boahtte buolvajda åttjudit. –</em> <em type="italic">Duola dagu eldagis ja rievsaga li merka ma vuosedi gånnå ij</em> <em type="italic">galga dållåsajev dahkat, subtsasti. Arrangørene fra Liddno er</em> <em type="italic">opptatt av å bringe tradisjoner videre. - Lyn og ryper er</em> <em type="italic">eksempelvis tegn på at man ikke skal lage bålplass, forteller de.</em> </p>
+    <p>látten, javlla akta ásadiddjijs, Inga Mikkelsen.</p>
+    <p><em type="bold">Nanos</em> Mikkelsen vuoset vuohkáj majna Ham<em type="italic">Markens Grøde</em>. Danna tjuodtju Isak lij saje vuostasj ulmusj. Valla sáme juo lidjin danna. Hamsun ittjij agev sámijt ulmutjijn ane. Ájnas le v u o s s t e b i e l l e n tjuodtjot dán vuojnnuj, dættot sån. Vádtsemoassálasste Kirsten Andreassen ja Inger Karlsen guorrasibá dási. - Vuojnnám lip Hamsuna gåvvidimijt sámijs, ja navti sihke Mari Boine konsærtta ja dát vádtsem mujttádahttá man nanos ja tjábbe sáme kultuvrra le, javllaba rádnatja. sun suv girjijn sámijt gåvvit, ja ájggu ådåstuhttet dav gåvåv. - Duola dagu </p>
+    <p><em type="bold">Dåjmalattja</em> Váttsedijn da birrusij 30 oassálasste oadtjun gåvåv gåktu dållit sáme láhkáj. - Jus ájgo idjadit, de viertti agev gatjádit jus besa åvddål oaddá. Duola dagu eldagis ja rievsaga li merka gå ij la buorisboahtem. Viertti aj árranav dahkat binnemusát avtse lávke tjátjes ierit, ja ij galga dålån ruodtsit, javllá Inga Mikkelsen. Sån subtsas árran le ájnas sáme árbbedábijn, ja dålåv galga riekta láhkáj giehtadallat. filosofija ja árbbedábe. Oase ma li ájnnasa boahtteájggáj bisodit. Dán vádtsemin galggap gáhkkit hællo nanna. Jáhkáv sjaddá fijna vuohke juojddá ietjá dahkat gå sjávot tjåhkkåhit girjálasjvuodasemináran, tjajmmá sån. Bálges Kalstada ja Duvvásijdaj gaskan lij ájnas vádtsembálggá dålusj samijda. </p>
+    <p>Duvvá rájaduváj sámijs 1860-jagijs ja lij sáme årromsadje desik sijdas jåhtin 40-50 jage dássta åvddåla. Álmmuklåhkåmis jages 1900 tjuodtju sadje le aktisasj ednamin Gielasgiedde, Uteid ja Oppeid sijdaj vuolen. <span type="quote">”Duvvaga”</span> dagu álu gåhtjoduvvin, adnin ietjas skøytav ja ålov bivddin ja viejddin, duodden Lofotguollimijda.</p>
+  </body>
+</document>

@@ -1,0 +1,47 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Biledibme Ájluovta/Ájlátte girkkon</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2012</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>200</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/biledibme-jluovta-jl-tte-girkkon.10112</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Biledam galbav Ájluovta/Ájlátte girkkon. Inga Karlsen le håjen girkko galbba biledibmáj</p>
+    <p type="title">Biledibme Ájluovta/Ájlátte girkkon</p>
+    <p>Inga Karlsen le håjen. Soames le biledam galbav Ájluovta/Ájlátte girkkon ja sinntsim sámegiella tevstav galban.</p>
+    <p>- Muhtem vahko dát åvddåla ålmåj munji diededij soames lij girjadam galbav. <span type="quote">"Vuona girkko Den Norske kirke, Ájluovta/Ájlátte girkko Drag/Helland kirke"</span>, mij le biejadum girkko pårtå guoraj. Manniv gehtjatjit ja alvaduvviv gå vuojnniv lij duohta. Sámegiel tevsta badjel lij sinntsidum basstelis gávnijn, nijbijn jali muodugasj. Jáhkkiv ulmutjijn lej vieledus dákkir institusjåvnåjda vájku le girkko jali biednagoahte, berustahtek gåsstå li. Jiesstánam usjudalliv, dákkir dago e dåssju Bådådjon dahpaduvvá. Ittjiv jáhke máhtij mijá bájkken dáhpáduvvat, gånnå jáhkkiv årojma ráfálattjat aktan, subtsas håjes Inga Karlsen.</p>
+    <p>Bájke ulmutja lij girkko ådåstuhttemijn aktan barggam ja li ávon ja mihá gå vijmak li stuoredimijn ja ådåstuhttemijn ållim.</p>
+    <p>Dan diehti báktji gå soames le biledam galbav.</p>
+    <p>- Mujna le råhkålvis, vierttip vieledit gånågis Haralda bágojt, Vuonarijkka le tsieggidum guokta almmuga ednamij; Dádtja ja sáme ja sámegiella ja dárogiella libá avtaárvulasj giela subtsas viehka håjes Inga Karlsen</p>
+    <p>Sån le tjoaggulvisrádev diededam, gudi tjåhkani ragátmánno 18. Biejve</p>
+    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+    <p xml:lang="nob">Regler for kommentering</p>
+    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Biledibme Ájluovta/Ájlátte girkkon"</span> på Facebook</p>
+  </body>
+</document>

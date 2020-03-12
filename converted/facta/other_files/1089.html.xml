@@ -1,0 +1,259 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>5118</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.samediggi.se/1089</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Ordbank - Sametinget</p>
+    <p type="title" xml:lang="swe">Lulesamisk ordbank</p>
+    <p xml:lang="swe">Här nedan finns alla tidigare 'Veckans och månadens ord' med fraser.</p>
+    <p xml:lang="swe"><em type="italic">ÄNÁK - HANBJÖRN </em>Muhttijn änák goarjju guosa vuolláj. Ibland lägger sig hanbjörnen under en gran. </p>
+    <p xml:lang="swe">Honbjörn kallas för <em type="italic">iestiv </em>. </p>
+    <p><em type="italic">ÅLLESTJÅHKANIMÁJRAS - PLENUMSLEDAMOT </em>Ruvva ållestjåhkanimájrrasa vat tjåhkani. Snart samlas plenumsledamöterna igen. </p>
+    <p xml:lang="swe"><em type="italic">Sámedikke åvddåulmusj </em>Sametingets ordförande; <em type="italic">Sámediggeláhka </em>Sametingslag; <em type="italic">stivra åvddåulmusj </em>styrelsens ordförande; S <em type="italic">ámedikke ållestjåhkanibme </em>Sametingets plenum. </p>
+    <p xml:lang="swe"><em type="italic">GANÁSTIT - BETA TRÄDLAV &amp; LAV FRÅN STENAR </em>Buorre gå biekkaj vaj rejna oadtju ganástit. Bra att det stormade så att renarna får äta av trädlaven (som har fallit ner på snön). </p>
+    <p xml:lang="swe"><em type="italic">ÅBDES - HEL, INTE TRASIG </em>Le gus vinndega åbddåsa? Är fönstren hela? </p>
+    <p xml:lang="swe"><em type="italic">SELLAT - BEFRIA SKOGEN FRÅN SNÖ </em>Bivval vuomev sällá. Blidan befriar skogen (träden) från snö och is. </p>
+    <p xml:lang="swe"><em type="italic">NIERAS - KINDKÖTTET PÅ FISK </em>Mån lijkkuv nierrasij. Jag tycker om kindköttet på fisken. </p>
+    <p xml:lang="swe"><em type="italic">RÅMÅK - FULL MED INSEKTER </em>Muorjem lij råmåk. Frukten var angripen av skadeinsekter. </p>
+    <p xml:lang="swe"><em type="italic">TJUORAK - REN MED LJUSGRÅ HÅRFÄRG </em>Sjuohppi dav tjuoragav! Kasta fast den ljusgrå renen! </p>
+    <p xml:lang="swe">En hund som har ljusgrå hårfärg kallas för <em type="italic">tjuorri </em>. </p>
+    <p xml:lang="swe"><em type="italic">VIHTTAGIS - FEM RENAR </em>Sij vuojnni vihttagisáv áben. De ser fem renar på myren. </p>
+    <p xml:lang="swe"><em type="italic">NIELJES - FYRA PERSONER </em>Vuojnniv nälljásav vuomen. Jag såg fyra personer i skogen. </p>
+    <p xml:lang="swe"><em type="italic">GÅTSEDIT - HÅLLA VAKEN </em>Bijllajiedna suv gåtset. Billjudet håller honom/henne vaken. </p>
+    <p xml:lang="swe"><em type="italic">BÁHKKA - HETTA, STARK VÄRME (om sommaren) </em>Uddni l báhkka. Idag är det hett (utomhus). </p>
+    <p><em type="italic">SÁMEDIGGEVÁLLJIM - SAMETINGSVAL </em>Sámediggeválljim la moarmesmáno 19 biejve. Sámetingsvalet är den 19 maj. </p>
+    <p xml:lang="swe"><em type="italic">JOARKKAÅHPADUS - FORTBILDNING </em>Oattjov joarkkaåhpadusáv juohkka jage. Jag får fortbildning varje år. </p>
+    <p xml:lang="swe"><em type="italic">DÁLKASNÁRRE - DOS (av medicin) </em>Dåktår dálkasnárev märrá. Läkaren bestämmer medicindosen. </p>
+    <p xml:lang="swe"><em type="italic">MERRASUOLLULAHKA - SKÄRGÅRD </em>Giesen åroj Julevu merrasuollulagán. På sommaren bodde han/hon i Luleå skärgård. </p>
+    <p><em type="italic">MÅRNNÅT - RUTTNA </em>Muora lidjin mårnnåm. Veden hade ruttnat. </p>
+    <p xml:lang="swe"><em type="italic">GIEHPANIT - BLI SOTIG </em>Giehta giehpanij. Handen blev sotig. </p>
+    <p xml:lang="swe"><em type="italic">ÁJNÁDAHTTET - SNÖA SPÅRSNÖ </em>Vuordijma dasik ájnádahtij. Vi väntade tills det kom spårsnö. </p>
+    <p xml:lang="swe"><em type="italic">VARRESVUOHTAGUOVDÁSJ - HÄLSOCENTRAL </em>Sujttoguovdásj la målssum namáv varresvuohtaguovdátjij. Vårdcentralen har bytt namn till hälsocentral. </p>
+    <p xml:lang="swe"><em type="italic">GIELLA - SPRÅK, RÖST; SNARA </em>Hålav sámegielav. Jag talar samiska. </p>
+    <p xml:lang="swe">Ordet <em type="italic">giellat </em>betyder 'fånga fågel med snara' ex. <em type="italic">lávvodagá måj áhtjijn gielatjit vuolggin </em>på lördag far jag och pappa och sätter ut snaror. </p>
+    <p>
+      <em type="italic">SÁMIJ ÁLMMUKBIEJVVE - SAMEFOLKETS DAG </em>
+    </p>
+    <p xml:lang="swe"><em type="italic">HUKSO - OMTANKE, OMSORG </em>Mij vuojnnalip, gulldalip ja huksap nubbe nuppijt. Vi ser, lyssnar och bryr oss om varandra. </p>
+    <p xml:lang="swe"><em type="italic">GUOSSIDIMÅRUDAHKA - BESÖKSADRESS </em>Mijá guossidimårudak bájkkekontåvrån Jåhkåmåhken la... Våran besöksadress på lokalkontoret i Jokkmokk är... <em type="italic">BIEDNIGAHTTE - FINANSIÄR </em>Åhtså biednigahttijt prosjevtav tjadádittjat. Man söker finansiärer för att kunna genomföra projektet. </p>
+    <p xml:lang="swe"><em type="italic">NÅRDDÅDIBME - TACKLING </em>Jus nårddåt nuppev spällev de ålgusrájaduvvá. Om man tacklar en annan spelare då blir man utvisad. </p>
+    <p xml:lang="swe"><em type="italic">TJIELGGAVUOHTA - TYDLIGHET </em>Ållusa sihti tjielggavuodav. Många människor vill ha tydlighet. Ordet <em type="italic">tjielgas </em>betyder bl.a. tydlig, klar, ex.: <em type="italic">jus la tjielgas de gájkka buoragit manná </em>, om man är tydlig går allt bra. </p>
+    <p xml:lang="swe"><em type="italic">HEBULASJ - VID GOD VIGÖR, KRY </em>Le gu hebulasj? Lev. Är du vid god vigör? Ja, (jag är). </p>
+    <p><em type="italic">PERUNTJALUN - POTATISSKALARE </em>Le gus dujna peruntjalun? Har du en potatisskalare? </p>
+    <p xml:lang="swe"><em type="italic">Jus galggá bihtámgámsajt málestit hähttu vuostak perunijt tjallat </em>. Om man ska koka pitepalt måste man först skala potatis. När handjuren skrapar loss basthuden från hornen använder man ordet också ordet <em type="italic">tjallat. </em></p>
+    <p xml:lang="swe"><em type="italic">GÁKKASTIT - BÄNDA, BRYTA, BAXA (litet) </em>Bádnedåktår gákkastij bánev luovas. Tandläkaren bände lös tanden. </p>
+    <p xml:lang="swe">Spett, spak heter <em type="italic">gágga </em>och flera spett <em type="italic">gákka </em>. </p>
+    <p xml:lang="swe"><em type="italic">TJUOKKUN - NAGG (BRÖDNAGG) </em>Dárbaj tjuokkunav gå gáhkki. Man behöver en brödnagg när man bakar <em type="italic">gáhkko </em>. </p>
+    <p xml:lang="swe"><em type="italic">LIJGGODIT - KUNNA UNDVARA, HA TILLÖVERS </em>Lijggodak munji guolev? Kan du undvara en fisk åt mig? </p>
+    <p xml:lang="swe"><em type="italic">JÁDDI - TORSK ( Gadus morhua ) </em>Oadtjuv moadda játti. Jag fick många torskar. </p>
+    <p xml:lang="swe"><em type="italic">GUOTSALDAHTTET - SPRINGA I FATT </em>Sarvvá váhtjamav guotsaldahtti. Sarvarna springer i fatt vajan. </p>
+    <p xml:lang="swe"><em type="italic">GIERASTIT - TA FAST KALV MED STAV OCH SNARA </em>Ienep tjielde li álggám gierastit gå sjuohppit miessemärkkomin. Fler samebyar har börjat använda stav än att kasta lasso på kalvmärkningen. </p>
+    <p xml:lang="swe">( <em type="italic">Gierastit </em>: man använder en lång stav med en snara i ena änden för att få fast kalven). </p>
+    <p xml:lang="swe"><em type="italic">ÅVDÅSTAHKES - REPRESENTATIV </em>Girjje l åvdåstahkes dán tjálláj. Boken är representativ för denna författare. <em type="italic">Åvdåstiddje </em>-representant. </p>
+    <p xml:lang="swe"><em type="italic">SK IB LLE - MJÄLL </em>Oajvve l skibllen. Huvudet är mjälligt. </p>
+    <p xml:lang="swe">Ordet <em type="italic">skibllit </em>betyder: riva bort mjäll från huvudet; men har också betydelsen: skära tunna skivor (t.ex. ost), så idag kan man använda ordet när man t.ex. säger: hyvla ost till mig! <em type="italic">skiblli vuostáv munji </em>! <em type="italic">GIELLDET - STRÄCKA, SPÄNNA </em>Mån gäldáv hárpov muoraj gasskaj. Jag spänner en tråd mellan träden.   ! </p>
+    <p xml:lang="swe">Har även betydelsen: försöka hindra (förbjuda), spänna, knyta näven åt någon (hota).</p>
+    <p><em type="italic">GÁVVEL - LISTIG, SLUG </em>Riebij la gávvel. Räven är listig. </p>
+    <p xml:lang="swe">Gávvelvuohta betyder listighet, slughet.</p>
+    <p xml:lang="swe"><em type="italic">VUOPSOSTIT - GÅ MED LÅNGA STEG </em>Boadnjásj vuopsostij. Gubben gick med långa steg. </p>
+    <p xml:lang="swe"><em type="italic">SÁSTÁ - KLAVE (trälg) </em>Biedjap sásstágav dán állduj. Vi sätter en klave på den här vajan. </p>
+    <p xml:lang="swe"><em type="italic">GABNNJADÁLKUDIBME - VACCINATION </em>Gabnnjadálkudibme smávvasij. Vaccination mot mässling. </p>
+    <p xml:lang="swe">Ordet vaccinera heter <em type="italic">gabnnjadálkudit </em>och ordet vaccin heter <em type="italic">gabnnjadálkas </em>. </p>
+    <p xml:lang="swe"><em type="italic">RÁDÁLASJVUOHTA - VÄLFÄRD, VÄLMÅGA, VÄLSTÅND </em>Rádálasjvuohta ij la sämmi degu vuorbbe. Välfärd är inte detsamma som lycka. </p>
+    <p xml:lang="swe"><em type="italic">SJLÄSSJKOT - SKRATTA (om dalripan) </em>Rievsak sjläsjkoj. Dalripan skrattade. </p>
+    <p xml:lang="swe"><em type="italic">VANÁDAHTTE - TÖJBAR </em>Sjuohpan la vanádahtte. Kasttömmen är töjbar. </p>
+    <p xml:lang="swe"><em type="italic">NJAMÁDAHKA - SUGNING, KÄNNA SIG HUNGRIG </em>Mujna l njamádak vájku áttjak bårriv. Det suger i min mage fast jag nyss åt. </p>
+    <p xml:lang="swe"><em type="italic">SKOADDETSIHTSE - FLADDERMUS </em>(Eptesicus nilssonii) <em type="italic">GARTASTIT - LÄGGA EN SNARA OM NÅGOT </em>Ordet används oftast i sammanhanget när en ren har fallit ner i en spricka eller i en klyfta och man ska lyfta upp den. </p>
+    <p xml:lang="swe"><em type="italic">GÅBAGIT - BLI SKEV, DRA SIG, SLÅ SIG </em>Fiello l gåbagam. Brädan har blivit skev. <em type="italic">HÅLLAGIRJJE - TALBOK </em>Enap diedo gávnnuji hållagirjje- ja tjuokkestjálosgirjjevuorkán. Mer information finns på talboks- och punktskriftsbiblioteket. </p>
+    <p xml:lang="swe">Ordet för ljudbok är <em type="italic">jiednagirjje </em>och ordet för punktskrift är <em type="italic">tjuokkestjálos </em>. <em type="italic">VÁLKAV - FÄRDLED (FÄRDVÄG) </em>Váldij dav oanemus válkkamav. Han/hon tog den kortaste färdvägen. <em type="italic"> </em></p>
+    <p xml:lang="swe"><em type="italic">JÅRÅLDAHKA - KVARN </em>Gå márffi dárbaj jåråldagáv biergojt jåråldittjat. När man gör korv behöver man en kvarn för att mala köttet. <em type="italic">DURKKUT - ÄTA JÄTTEFORT, SLUKA I SIG MATEN </em>Nuora ilá durkkuji skåvlån. Ungdomarna äter alldeles för fort i skolan. (när matrasten är kort) </p>
+    <p xml:lang="swe"><em type="italic">LÁBLLAT - RASA, STÖRTA IN </em>Moadda táhtja láblli gå njátsot. Många tak rasar in när det blir töväder. </p>
+    <p xml:lang="swe"><em type="italic">Lábllat </em>används om byggnader eller broar som rasar, och om snö- och isbryggor som faller ihop etc., samt när snön rasar ner från ett tak. </p>
+    <p xml:lang="swe"><em type="italic">OAJVOR - ANING </em>Dat vásstádusás oadtjuv oajvvurav gåk ájádaláj. Av svaret fick jag en aning hur han tänkte. </p>
+    <p xml:lang="swe">Ordet <em type="italic">oajvor </em>har fler betydelser än det som beskrivs här ovan t.ex. krönet av en backe eller huvudändan av en bädd. </p>
+    <p xml:lang="swe"><em type="italic">RIVGAS - DRYG, SOM RÄCKER LÄNGE </em>Jubttsa lij rivgas. Soppan räckte länge. </p>
+    <p xml:lang="swe">Ordet för odryg är <em type="italic">håhpe </em>och ordet <em type="italic">håhpot </em>betyder 'bli odryg'. </p>
+    <p xml:lang="swe"><em type="italic">NALKIJDIT - BLI FÖR MYCKET KOKT (bara om kött) </em>D.v.s. när köttet lossnar från benen och blir som små slamsor. <em type="italic">Nalkijdit </em>har även en annan betydelse: att bli trött, inte orka vidare. </p>
+    <p xml:lang="swe"><em type="italic">RUVOJ - KALL FROSTVIND (OM VINTERN) </em>Uddni lij ruvoj gå jávrrek tjuojggiv. Idag när jag skidade längs sjön var det kall frostvind (det snider i ansiktet). </p>
+    <p xml:lang="swe"><em type="italic">HÄRSSKO - LÄCKERHET (delikatess) </em>Mij båråjma ber härskojt mannulagán. Vi åt bara läckerheter på resan. </p>
+    <p xml:lang="swe"><em type="italic">SÁVAV GÁJKAJDA BUORRE JAVLAJT JA BUORRE ÅDÅ JAGEV! JAG ÖNSKAR ALLA EN GOD JUL OCH ETT GOTT NYTT ÅR! </em>Se pdf-filen i högra spalten med exempel på hur man uttalar högtider m.m. </p>
+    <p>
+      <em type="italic">GATJÁDAHKES - FRÅGVIS </em>
+    </p>
+    <p>
+      <em type="italic">ULMUTJIJ RIEKTÁ - MÄNSKLIGA RÄTTIGHETER </em>
+    </p>
+    <p xml:lang="swe"><em type="italic">JIVKKOT - SKÖTA </em>Ieddne mánájt jivkku. Modern sköter om barnen. </p>
+    <p xml:lang="swe"><em type="italic">Jivkkot </em>betyder inte bara: att sköta om barn, det kan även användas om man sköter om någon annan. Ordet för skötsel är <em type="italic">jivkko </em>. Jämför de vanliga orden som används idag: <em type="italic">sujttit </em>sköta och <em type="italic">sujtto </em>skötsel. </p>
+    <p xml:lang="swe"><em type="italic">LASSKIDALLAT - BLI GENOMVÅT </em><em type="italic">(av regn eller snö som töar på kläderna) </em>Lasskidalliv gå hähkkat rássjodatjáj. Jag blev genomblöt när det plötsligt började regna. </p>
+    <p>
+      <em type="italic">GEVLASVÁŊNNA - SLÄPVAGN </em>
+    </p>
+    <p xml:lang="swe">Ordet för vagn har många varianter, här ovan ser ni mitt uttal av ordet, övriga varianter är <em type="italic">vávnna </em>, <em type="italic">vágŋŋa </em>och en variant som används av vissa talare i Norge <em type="italic">voaŋnna </em>. Ett annat vanligt ord med förleden <em type="italic">gevlas </em>är <em type="italic">gevlasvanás </em>släpbåt. </p>
+    <p xml:lang="swe"><em type="italic">TJAKTJAGIESSE - HÖSTSOMMAR </em>De l tjaktjagiesse ja máno duogen de l tjaktja. Nu är det höstsommar (ca 24 aug.) och om en månad så är det höst. </p>
+    <p xml:lang="swe"><em type="italic">LARVVE - GRAN MED TÄTA GRENAR </em>Váren larve sjaddi. På berget växer det granar med täta grenar. </p>
+    <p><em type="italic">SVIJNNO - VEDTRAVE </em>Vuojnná moadda svijno dåbij guoran. Man ser många vedtravar bredvid husen. </p>
+    <p xml:lang="swe"><em type="italic">Sejbak-a @ Snabel-a </em>Juohkka e-påvsståadressan la sejbak-a. I varje e-postadress finns ett snabel-a. </p>
+    <p>
+      <em type="italic">JÁDDADIDDJE - BRANDSLÄCKARE </em>
+    </p>
+    <p xml:lang="swe">Andra ord i denna kategori är ex.: <em type="italic">dållåvárrodiddje </em>brandvarnare, <em type="italic">guorrimhárjjidus </em>utrymningsövning. </p>
+    <p xml:lang="swe">
+      <em type="italic">HIELMME - NEDRE (nedersta) DELEN AV EN KOLT </em>
+    </p>
+    <p xml:lang="swe">Betyder också nedre (nedersta) delen av en kåtaduk, <em type="italic">njálmmefáhta </em> och päls osv. </p>
+    <p xml:lang="swe"><em type="italic">ÁVŊÁLDAHKA - HULLING </em>Basstelis ávŋáldahka vuokkan la ájnas jus ij galga guolev biesstet. Vass hulling på kroken är viktigt om man inte ska mista fisken. </p>
+    <p xml:lang="swe"><em type="italic">NJÁLMMEFÁHTA - OVÄDERSKRAGE </em>Gå dálkev dahká de njálmmefáhttagij tjáŋav. När det blir oväder så tar jag på mig njálmmefáhta. </p>
+    <p xml:lang="swe"><em type="italic">Älla sase njálmmefáhttagin valla danna l skåhppe njálmmefáhta </em>har inga ärmar men den har kapuschong. <em type="italic">Skåhppe </em>betyder även säckformig inbuktning i en berg- eller fjällsluttning samt den nedre ihopsydda ändan av en sovsäck eller fäll. </p>
+    <p xml:lang="swe"><em type="italic">VUORATJISMÁNNO - APRIL </em>Vuoratjisá båhti ruopptot vuoratjismáno. Kråkorna kommer tillbaka i april. </p>
+    <p xml:lang="swe"><em type="italic">VARTJADIT - VIPPA UPP OCH NED </em>Rejna sjpietjav vartjat. Renens svans vippar upp och ned. </p>
+    <p xml:lang="swe"><em type="italic">GAHPPA - RUTA </em><em type="italic">Gahppa </em>betyder ruta som bl.a. finns i lulesamernas bälte. Utvidgat används det till ruta, fält, skrivfält på blanketter och i datoranvändningen, även tjállemgahppa används i modern lulesamiska för att beskriva ett skrivfält/ruta som man ska kryssa i. Prova <span type="quote" xml:lang="swe">"Ordboken"</span> som finns högst upp på webbsidan för att bl.a. se om ordet gahppa har stadieväxling eller inte. </p>
+    <p xml:lang="swe"><em type="italic">SJLIEBTTJE - REVA, SNITT </em><em type="italic">Sjliebttje </em>är ett av många renmärkessnitt. Se pdf-fil i högra spalten! </p>
+    <p><em type="italic">RIEGÁDIMBIEJVVE - FÖDELSEDAG </em>Mån ärrodav duv riegádimbiejvev! Grattis på födelsedagen! </p>
+    <p xml:lang="swe">Födelsedagssånger: Se pdf-fil i högra spalten!</p>
+    <p xml:lang="swe"><em type="italic">RIDNE - SNÖ PÅ TRÄD </em>Biegga sjavnnjá rinev. Blåsten tar bort snön från träden. </p>
+    <p xml:lang="swe"><em type="italic">Sjavnnjá </em>(uppslagsform: <em type="italic">sjavnnjet </em>) har betydelsen: skaka, slå, damma något (för att få bort t.ex. snö, damm, skräp). </p>
+    <p xml:lang="swe"><em type="italic">Mån sávav didjij ráfális javlajt ja vuorbális ådå jagev! </em>Jag önskar er en fridsam julhelg och ett lyckosamt nytt år! </p>
+    <p>
+      <em type="italic">OAHTTSE - OMBUDSMAN </em>
+    </p>
+    <p xml:lang="swe"><em type="italic">GÅLLDET - ÖSA UPP </em>Mån gåldåv guolev rujtas. Jag tar upp fisken ur grytan. </p>
+    <p xml:lang="swe">Ordet <em type="italic">gålldet </em>används när man tar upp något ur en vätska. </p>
+    <p xml:lang="swe"><em type="italic">JUVSUDIT - SPÄNNA SKIDORNA PÅ FÖTTERNA </em>Juvsuda ja tjuojgada rádnav! Spänn på dig skidorna och skida ikapp kamraten! </p>
+    <p xml:lang="swe"><em type="italic">Juksa </em>sing. <em type="italic">juvsa </em>plur. betyder hälrem i skidbindning eller så säger man ruovddejuksa sing., ruovddejuvsa plur. om de är av järn. Öglan framtill i skidbindningen kallas jåhkko sing. och jåhko plur. Använder man en vidja istället, så säger man bäso sing. och bessuga plur. Om man använder delen av bottenlädret i en sko som kallas ruobdda sing. och ruobda plur. får öglan detta namn. </p>
+    <p><em type="italic">TJÅMÅS - ÖVERFULL, FYLLD ÖVER KANTEN, MED RÅGE </em>Ájtte lij tjåmås. Bodan var överfull. </p>
+    <p xml:lang="swe"><em type="italic">EJBÁLGUVVAT - KOMMA BORT (om renar och människor); BLI BORTGLÖMD (äv. om saker) </em>Máná ejbálguvvin äjgádijs márnánsajen. Barnen kom bort från föräldrarna på marknadsplatsen. </p>
+    <p>
+      <em type="italic">GIESSELOAHPE - SOMMARLOV </em>
+    </p>
+    <p xml:lang="swe"><em type="italic">SVABÁSTIT - FÅNGA FISK MED SNARA </em>Svabástav dábmugav jågån. Jag snarar en forell i bäcken. Själva snaran kallas för svahpa och i pluralisform säger man svabá. </p>
+    <p><em type="italic">BIBLIOTEK </em>Jåhkåmåhken la girjjevuorká galbba aj sámegiellaj. I Jokkmokk är även bibliotekets skylt på samiska. </p>
+    <p xml:lang="swe"><em type="italic">GÁRVESVUOHTAPLÁNA - BEREDSKAPSPLAN </em>Juohkka äládus dárbaj gárvesvuohtaplánav. Varje näring behöver en beredskapsplan. </p>
+    <p xml:lang="swe"><em type="italic">GALMÁK - GLASS </em>Máná lijkkuji galmágij. Barn tycker om glass. </p>
+    <p xml:lang="swe"><em type="italic">BUOHTAÁRVVO - JÄMSTÄLLDHET </em>Sámedikken la buohtaárvvoprográmma 2004 rájes. Sametinget har ett jämställdhetsprogram från 2004. </p>
+    <p xml:lang="swe">Övriga relaterade ord: buohtaárvulasj jämställd, buohtaárvvobarggo jämställdhetsarbete, buohtaárvvojuogos jämställdhetskommitté.</p>
+    <p xml:lang="swe"><em type="italic">LÁJBBESUDÁN - BRÖDROST </em>Gå galggá lájbev sudet de álu adná lájbbesudánav, valla muhtema adni aj vuobnev. När man ska rosta bröd använder man ofta brödrosten, men en del använder också ugnen. </p>
+    <p xml:lang="swe"><em type="italic">OASOSSIEBRRE - AKTIEBOLAG </em>Gå l biednikhiehte väráldin de åssusij árvo gahttji. När det är finanskris i världen så faller aktiernas värde. </p>
+    <p xml:lang="swe"><em type="italic">ÅLLESTJÅHKANIBME - PLENUM </em>Sjeltien la dán mandáhttaájge maŋemus ållestjåhkanibme. I Åsele hǻlls den här mandatperiodens sista plenum. </p>
+    <p xml:lang="swe">Övriga relaterade ord: val válljim, välja válljit, plenumshandlingar ållestjåhkanimássjetjállaga, ärendelista ássjelissta, valdebatt válljimságastallam, sametingsval sámediggeválljim.</p>
+    <p xml:lang="swe"><em type="italic">SJIEHTADALLAM - FÖRHANDLING </em>Aktanmierredimlágan (AML) li njuolgadusá iehtjádij siegen (i.s.) diedo, sjiehtadallama birra ja bargge riektá bájnnemij ja årrot organiseridum. Medbestämmandelagen (MBL) innehåller regler om om bl.a. information, förhandling samt arbetstagares rätt till inflytande och att vara organiserade. Sjiehtadallat förhandla, aktanmierredimlihtto mbl-avtal, aktanmierredimsjiehtadallam mbl-förhandling, aktanmierredibme medbestämmande. </p>
+    <p xml:lang="swe"><em type="italic">GANUDAHKA - HÅLLPLATS (buss, spårvagn) </em>Gånnå l lagámus bussaganudahka? Var ligger närmaste busshållplats? </p>
+    <p xml:lang="swe"><em type="italic">MIERREDIDDJEJIEDNA - UTSLAGSRÖST </em>Åvddåulmutjin la mierrediddjejiedna. Ordföranden har utslagsröst. </p>
+    <p xml:lang="swe"><em type="italic">LAHTTADIT - TRUMPETA, FÖRA OVÄSEN </em>Sjnjuvtja lahttadi jus ulmusj lahkan. Svanarna för oväsen om en människa närmar sig. </p>
+    <p xml:lang="swe">Gå till <span type="quote" xml:lang="swe">"Relaterat"</span> i höger menyn, där lär du dig vad djuren säger [PDF-fil].</p>
+    <p><em type="italic">SÅHKÅRVUOSSA JA KÁFFAVUOSSA </em>SOCKERPÅSE OCH KAFFEPÅSE </p>
+    <p>Gåvvår: Nils-Olof Sortelius</p>
+    <p xml:lang="swe"><em type="italic">SLÅPPÅ - PLÄTTAR </em>Gå till <span type="quote" xml:lang="swe">"Relaterat"</span> i höger menyn, där finner du fler maträtter i matlistan [PDF-fil]. </p>
+    <p><em type="italic">DÅBELIJTJUOVVOM - UPPFÖLJNING </em>Jus adná dåbelijtjuovvomav de vuojnná jus barggo åvddån manná. Om man har uppföljning så ser man om arbetet fortskrider. </p>
+    <p xml:lang="swe">Givetvis så finns det ett verb också dåbelijtjuovvot, att uppfölja ex.: boahtte vahko de dåbelijtjuovov dán vahko bargov, nästa vecka så följer jag upp den här veckans arbete.</p>
+    <p xml:lang="swe"><em type="italic">SKÅVÅS - SCHEMA </em>Ájnnasit skåvlån hähttuji skåvvåsijt adnet. Framför allt i skolan måste de använda scheman. </p>
+    <p xml:lang="swe"><em type="italic">JUOGOSNANUSTAHTTEM - TEAMBILDNING </em>Juohkka barggosajen la juogosnanustahttem ájnas. På varje arbetsplats är teambildning viktig. </p>
+    <p xml:lang="swe"><em type="italic">GUOBMA - LIKE </em>Guobma guomas gávnná. Like finner sin like. </p>
+    <p xml:lang="swe">I ovanstående ordspråk (báhkotsoabme) finns en ändelse (s) i ordet guomas, som i grammatiken kallas possessivsuffix och har betydelsen <span type="quote">"sin"</span>.</p>
+    <p><em type="italic">GILBOS - TÄVLING </em>Vásse vahko lidjin gilbbusa Jåhkåmåhken. Förra veckan var det tävlingar i Jåhkåmåhkke. </p>
+    <p xml:lang="swe">Ordet gilbustallat betyder tävla ex.: galgak gilbustallat ska du tävla? Ordet för tävlare är gilbustalle.</p>
+    <p xml:lang="swe"><em type="italic">HIEBADAHKES - FLEXIBEL </em>Udnásj bargguj gullu hiebadahkesvuohta. Till dagens arbete hör flexibilitet. </p>
+    <p xml:lang="swe"><em type="italic">RIEVDDADAHKES - FÖRÄNDERLIG </em>Ulmusj la rievddadahkes. Människan är föränderlig. </p>
+    <p><em type="italic">GITTAÅBMUDAHKA - FASTIGHET </em>Sij vuobddi gittaåbmudagájt. De säljer fastigheter. </p>
+    <p xml:lang="swe"><em type="italic">VUOHTTJE - SKYTT </em>Mån lav vuohttje. Jag är en skytt. </p>
+    <p xml:lang="swe">För dig som är intresserad av stjärntecken, gå till: Relaterat och ladda ner PDF-filen med namnet horoskop.</p>
+    <p xml:lang="swe"><em type="italic">VUORBBE GÁJKAJ VÁJMOJ BIEJVE - LYCKA PÅ ALLA HJÄRTANS DAG </em>Det finns två ord för hjärta: vájmmo och tsåhke. Vájmmo används när man t.ex. pratar om hjärtat som i exemplet ovanför, dvs. det abstrakta hjärtat medans tsåhke är ordet för det konkreta och fysiska hjärtat. </p>
+    <p><em type="italic">DÁJDA - KONST </em>Dájdavuorkán máhttá edna gåvåjt gehtjadit. På konstmuseet kan man studera många bilder. </p>
+    <p xml:lang="swe">Dájda (sing.) dájddaga (plur.). Dájda används mest som förled som exemplen visar, här några andra ord som man kan ha nytta av: giehtabarggo hantverk, dájdagiehtabarggo konsthantverk, dájdavuosádus konstutställning.</p>
+    <p xml:lang="swe"><em type="italic">VIDNUDAHKA - FÖRETAG </em>Gávnnuji moadda vidnudagá sebrudagán. Det finns många företag i samhället. <em type="italic">BIEGGUDIT - VÄDRA, VENTILERA </em>Juohkka biejve hähttu oademlanjáv bieggudit. Varje dag måste man vädra sovrummet. </p>
+    <p xml:lang="swe"><em type="italic">SAJÁDAHKA - STÄLLNING, POSITION </em>Sámedikken la ietjas organisasjåvnå ja ietjas ulme baktu sierralágásj sajádahka. Sametinget har genom sin organisation och sitt ändamål en särskild ställning. <em type="italic">ÁNBURGGE - ROLL </em>Näjttso oattjoj oajvveánburgev. Flickan fick huvudrollen. <em type="italic">GUOLE - FISKAR </em></p>
+    <p xml:lang="swe">Lär dig fler fisknamn på lulesamiska, en PDF-fil finns att hämta hem från: Lulesamisk ordbank under rubriken: Relaterat. <em type="italic">________________________________________________ BÄTSÁSJ - LITEN TALL </em></p>
+    <p xml:lang="swe">Ordet bätsásj är ett eget ord, bildat av grundordet biehtse tall. Av alla ord kan man göra avledningar så att de får betydelsen liten-, man kallar dessa ord för diminutiver. Lär er trädens och växternas namn på lulesamiska, en PDF-fil finns att hämta hem från: Lulesamisk ordbank under rubriken: Relaterat. _________________________________________________________ <em type="italic">BIEHTSEGOAHTTSE - TALLBARR </em></p>
+    <p xml:lang="swe">Bietsen, guosan ja gasskasin li goahttse, tallen, granen och enbusken har barr. <em type="italic">__________________________________________________ </em></p>
+    <p>
+      <em type="italic">JALŊES - STUBBE </em>
+    </p>
+    <p xml:lang="swe">Flera stubbar heter jalŋŋá, och uttalas 'jalanga'. En stubbe stavas jalŋes men uttalas 'jalngies'. Bokstaven -e- uttalar man som ett sammandraget ie-ljud när den finns i slutet av ett ord. Bokstaven -ŋ- betecknar ett ng-ljud och uttalas som som de svenska ng-ljuden i orden äng och säng. När man skriver dubbla ŋŋ efter konsonanten -l- som i ordet jalŋŋá, visar det att det tillkommer ett ljud som man kallar glidvokal. De flesta uttalar denna vokal som ett -a-, då första och sista vokalen består av bokstaven -a- som exemplet jalŋŋá. <em type="italic">_________________________________________________ ÁTJÁJUOKSA - REGNBÅGE </em></p>
+    <p xml:lang="swe">Ordet átjá betyder åska och ordet juoksa betyder båge att skjuta med, pilbåge. I sammansättningen Juoksanáste får ordet betydelsen Karlavagnen. <em type="italic">_________________________________________________ </em></p>
+    <p>
+      <em type="italic">GUOBBARA - SVAMPAR </em>
+    </p>
+    <p xml:lang="swe">En svamp heter guoppar. När renarna betar svamp använder man ordet guoppardit, ex: rejna dálla guoppardi, renarna betar nu svamp. <em type="italic">_________________________________________________ ÁJTTE - HÄRBRE, FÖRRÅDSBOD </em></p>
+    <p>
+      <em type="italic">_________________________________________________ </em>
+    </p>
+    <p>
+      <em type="italic">CD-SKIERRO -- CD-SKIVA </em>
+    </p>
+    <p>_________________________________________________</p>
+    <p xml:lang="swe">Hablledit - snöa stora lätta flingor  Dån biejve hablledij Det snöade i förrgår Det allmänna ordet för snöa är muohttet, detta ord används när man talar om att det snöar, det ger ingen information om vilken slags snö som faller som ordet hablledit ger oss dvs. snöa stora lätta flingor (snöflingorna är så lätta och svävar sakta ner). Bähtádallat - bli lurad  Bähtádalliv vuobddáj Jag blev lurad av (för)säljaren När verbet som i det här exemplet slutar på -dallat får ordet vuobdde (säljare) kasusformen illativ, den som inte talar samiska skulle nog använt kasusformen elativ då man på svenska säger av försäljaren.</p>
+    <p xml:lang="swe">Njárbbat - tunn (om flytande ting), gles (om skog, gräs ,hår)  Iv lijkku njárbbis jubttsaj Jag tycker inte om tunnflytande välling Njárbbat är ett adjektiv, det finns även två andra alternativ som man kan använda om man så önskar: njárbbe och njárbuk. Ett annat adjektiv som bara beskriver skog och hår med betydelsen gles och tunn är suolggat.</p>
+    <p xml:lang="swe"><em type="italic">Almemáttar - horisont </em>Almemáddarin gavnna vuojnnuj I horisonten syntes en hägring Grundbetydelsen av máttar är nedersta, vidaste delen av en trädkrona, en kåta eller dyligt, máttar betyder också förfäder. Övriga ord med besläktade betydelser är bla. máddo som betyder upprinnelse, rot, stam, släkt. Mátta stam (på träd); »rot» i betydelsen nedersta delen eller tjockändan av något, exempelvis giehtamátta armen uppe vid axeln. Och slutligen ordet madda exempelvis giehtamadda som betyder handled. </p>
+    <p xml:lang="swe"><em type="italic">Sjpiehtjek - fiskstjärt </em>Jalá sjpiehtjegav! Skär av fiskstjärten! Ett liknande ord är sjpietjav som betyder svansstump (bl.a. på renen, björnen, haren och älgen). Sjpietjav finns även som namn på berg och fjäll, dvs. ett mindre fjäll bredvid eller i förbindelse med ett större fjäll. <em type="italic">Oabmot - bli gammal (om ting) </em>Åhpadusgirjje ruvva åbmu En lärobok blir fort föråldrad Ordet vuorastuvvat används när man pratar om människor och djur eller annat som är levande. Vuorastuvvam la álldo vajan har blivit gammal. <em type="italic">Gehkat - ämna, tänka (göra något) </em>Báhtja gehki stuvssit Pojkarna tänker leka Det finns ett annat ord med samma betydelse som ovanstående ord: ájggot, som kanske används än mer flitigt av talarna. <em type="italic">Dednjat - duggregna </em>Jielleváren/Váhtjerin dädnjá Det duggregnar i Gällivare Det finns många ord som har innebörden duggregna bl.a.: risjudit, tjádat, tjádet, naveldit. Ordet naveldit har även betydelsen: sköta skor eller päls så att håret på dem faller av. <em type="italic">Báhkadit - bli hett, mycket varmt om sommaren (om väder) </em>Vijmak báhkadij Äntligen blev det varmt Ordet báhkadit har även betydelsen upphetta något. <em type="italic">Boalodit - knäppa (fast, ihop) </em>Boaloda skirtov! Knäpp skjortan! Boalodit är bildat av boallo som betyder knapp. <em type="italic">Mássjkodibme - gymnastik </em>Guovten la mássjkodibme Det är gymnastik klockan 14.00 Ordet mássjkodit ~ másjkudallat betyder att gymnastisera, oahppe másjkudalli juohkka nuppe biejve, eleverna gymnastiserar varannan dag. Till stretcha kan man använda ordet lásjmudallat, mássjkodime maŋŋela galggá lásjmudallat - Efter gymnastiken skall man stretcha. <em type="italic">Ájmmudit - orka </em>Ájmmudak tjuodtjánit? Orkar du resa dig upp? </p>
+    <p xml:lang="swe">Ett annat ord för orka är nahkat, ep nagá muohtavuojánav låggŋit vi orkar inte lyfta snöskotern. <em type="italic">Bässátja - påskhelgen </em>Bässátja li gudá biejve duogen Om sex dagar är det påsk </p>
+    <p xml:lang="swe">Skärtorsdagen heter skalloduorastahka, långfredagen guhkesbierjjedahka, påskafton bässásjiehket, påskdagen bässásjájllek och annandag påsk maŋep bässásjájllek ~ nubbe bässásjájllek. <em type="italic">Gávnadit - träffas, mötas </em>Gávnadijma boargálin Vi träffades i affären <em type="italic">Gähppat - lätt (som väger litet) </em>Dålgge lij nåv gähppat Fjädern var så lätt </p>
+    <p xml:lang="swe">Det finns två ord för lätt, det andra ordet som används är giehppe. Ordet för lätt med innebörden enkel, bekväm är álkke. <em type="italic">Såjådit - böja </em>Viertti bágojt såjådit sáhkadattijn Man måste böja orden när man pratar <em type="italic">Gárppa - tunnbröd </em>Lijkkuv gárppaj Jag tycker om tunnbröd <em type="italic">Gieres - kär, förälskad </em>Mån lav dunji gieres Jag är förälskad i dig </p>
+    <p xml:lang="swe">Ordet gierrot bli kär, förälskad: gierruv sunji jag blev förälskad i henne/honom. På sydsamiska använder man samma ord men med lite annan stavning: gieries och gearodh. På nordsamiska använder man orden ráhkis och ráhkástuvvat ~ ráhkásmuvvat. <em type="italic">Tjoaskes - kall; kyla </em>Tjoaskes la uddni Det är kallt idag <em type="italic">Bisádahka - parkering </em><em type="italic">Sadjihij - framme, synlig, tillhands, till rätt plats </em>Bieja rahpugijt sadjihij Sätt handskarna framme (så att jag hittar dem) När det gäller något som är befintligt dvs. inte handlar om rörelse som i ovanstående exempel använder man formen sadjihin, t.ex. suormmasa lidjin sadjihin, fingerringarna låg framme. <em type="italic">Sjuohpan - kasttöm, lasso </em></p>
+    <p xml:lang="swe">Sjuohpan är det allmänna ordet för kasttöm, men givetvis finns det också olika benämningar för speciella kasttömmar exempelvis: gartsak en kasttöm gjord av senor och sämskskinnremmar (vintertöm), dájvek en kasttöm gjord av rottågor och nuovvek en kasttöm gjord av hampa. Ordet för att kasta är sjuohppit ~ suohppit. <em type="italic">Dálvveguovddel - midvinter (omkring vintersolståndet) </em><em type="italic">Bielle - halv; sida </em>Oattjo bielev guoles Du får hälften av fisken </p>
+    <p xml:lang="swe">Bielev i ovanstående exempel talar om att man delat fisken längs efter ryggraden, om man byter ut bielev mot lahkev i ovanstående exempel (lahkev betyder också halv), blir betydelsen också halva fisken men delad på tvären. Ordet lahkke används exempelvis när man pratar om snötäckets tjocklek, eller om man t.ex. vill ha en halv kopp kaffe. Bielle har även betydelsen sida. <em type="italic">Vällahit - ligga </em>Vällahav Jag ligger </p>
+    <p xml:lang="swe">Vällahit används om människor som ligger. Pratar man exempelvis om hundar, rävar och katter som ligger använder man ordet goarjjadit, och när man pratar om exempelvis renar, hästar och kor som ligger används ordet livvadit. <em type="italic">Säjvvomberjas - fallskärm </em>Jus gahppat hálediddjes de säjvvombärjjasav dárbaj Om man hoppar från ett flygplan så behöver man en fallskärm <em type="italic">Gámadit - ta på sig skorna </em>Gámadav Jag tar på mig skorna </p>
+    <p xml:lang="swe">I samiskan säger ett ord samma sak som man behöver flera ord för att säga i svenskan, exemplet ovan ger en bra beskrivning av detta. Andra exempel: gárvvunit klä på sig, nuoladit, klä av sig, basádit tvätta sig. <em type="italic">Håjggåt - kasta, slänga </em>Håjgåj rugijt Han/hon slängde skräpet </p>
+    <p xml:lang="swe">Det finns fler ord för kasta och slänga som man kan använda, exempelvis: bálkkot och tjassket. Skall man kasta för att träffa något använder man endera ordet luossat eller bállagahttet. <em type="italic">Duksit - spara, samla något </em>Jus biednigijt duksi de ij dárbaha loaddnut Om man sparar pengar så behöver man inte låna <em type="italic">Sváldas - länk </em>Rikken ja webbabielen li sválldasa Kedjan och webbsidan har länkar <em type="italic">Mielgas - köl </em>Vadnasin la mielgas Båten har en köl </p>
+    <p xml:lang="swe">Gieris, ackjan har också en mielgas, jämför med ordet mielgga som betyder bringa (hos djur). <em type="italic">Sarves - rentjur, sarv </em>Sarvvá ruvva rahkkáji Sarvarna börjar snart att brunsta </p>
+    <p xml:lang="swe">Ordet för älg är mycket liknande ordet för rentjur, en älg heter sarvva och älgar heter sarva. <em type="italic">Dábttjá - brynsten, bryne </em>Dábttjá givnnjaj aven aktan nijbijn Brynet hänger i bältet tillsammans med kniven </p>
+    <p xml:lang="swe">Ett annat ord är sadjem, som har betydelsen större slipsten, brynsten. <em type="italic">Mihttsamára </em><em type="italic">- midsommar </em>Mihttsamáriehkeda álu goarri várráj dållitjit På midsommarafton går man ofta upp på ett berg och eldar </p>
+    <p xml:lang="swe">Mihttsamára är flertalsformen då man räknar in midsommarafton, midsommardagen och följande söndag i ordets betydelse. Gasskagiesse som ordagrant betyder midsommar är den s.k. gamla midsommaren (5 juli). <em type="italic">Tjoallot - rensa fisk </em>Le gus guolijt tjållum? Har du rensat fiskarna? </p>
+    <p xml:lang="swe">Tjoallot är bildat av ordet tjoalle tarm. Ordet man använder när man fjällar en fisk är tjuobmat, bildat av ordet tjuobma fjäll. Exempel: le gus tjuovtjajt tjuobmam? har du fjällat sikarna? <em type="italic">Jienastit - rösta </em>Gesi ájgo jienastit? Vem tänker du rösta på? </p>
+    <p xml:lang="swe">När man ställer frågan enligt ovan så menar man personröstning. Makkár belludahkaj ájgo jienastit? vilket parti tänker du rösta på? Ett ganska nytt ord som används till politiskt parti är belludahka. <em type="italic">Tjárggat - rymmas </em>Gávne tjárggi Sakerna ryms </p>
+    <p xml:lang="swe">Sjiehtadit är ett ord som kan användas istället för tjárggat, gávne sjiehtadi. <em type="italic">Ávvuhit - glädja sig , vara glad </em>Ulmutja ávvuhi Människorna är glada </p>
+    <p xml:lang="swe">Ordet ávvuhahttet betyder glädja, dån agev ávvuhahtá ulmutjijt, du glädjer alltid människor. <em type="italic">Sähkásin - i skuggan </em>Mån tjåhkkåhav dánna sähkásin Jag sitter här i skuggan </p>
+    <p xml:lang="swe">Ett annat liknande ord är suojvvanis skuggbild, bena oagot ietjas suojvvanisáv hunden jagar sin egen skuggbild. <em type="italic">Råvvut - försvinna spårlöst </em>Rahpuga råvvujin Handskarna försvann spårlöst <em type="italic">Asstat - hinna, ha tid till ngt </em>Gal mån astav dav dahkat Nog hinner jag göra det </p>
+    <p xml:lang="swe">Jag hinner inte göra det: mån iv asta dav dahkat. <em type="italic">Sagŋedit - klia </em>Oajvve sagŋet Det kliar i huvudet Ett ord man kan använda när man kliar sig eller kliar någon annan är bl.a. ruohkastit, t.ex. så här kan man säga: ale ruohkasta rahttidagáv klia dig inte på utslaget. <em type="italic">Ässkalit - vricka sig </em>Dån biejve mån ässkaliv juolgev I förrgår vrickade jag foten </p>
+    <p xml:lang="swe">Ordet ässkaluvvat vrickas, användas t.ex. så här: buolvva ässkaluváj dat garra vádtsusis knäet vrickades ur led av den hårda vandringen. Ordet buolvva betyder både knä och generation. <em type="italic">Márnán - marknad </em>Buorreboahtem Jåhkåmåhke márnánijda! Välkommen till Jokkmokks marknad! </p>
+    <p xml:lang="swe">När man t.ex. pratar om Jokkmokks marknad då tänker man på de tre marknadsdagarna, därför använder man pluralisformen (márnánijda) i samiskan, detsamma gäller när man pratar om julen, påsken m.m. dvs. man tänker på alla högtidsdagar som helgen innebär. När man använder sig av singularisformen tänker man på en speciell dag t.ex. julafton osv. <em type="italic">Ruhpat - sörpla, sörpla i sig, suga i sig </em>I de galga ruhpat gå gattsa liegga jubtsav Du skall inte sörpla när du äter varm soppa </p>
+    <p xml:lang="swe">Ett ord som är avlett av ruhpat är rubestit som betyder: hastigt suga in eller dra in med munnen eller näsan. I Stálloberättelserna så sägs det att Stállos hustru Luhták sög andedräkten ur människor med ett järnsugrör: ruovddebåhtsåjn Luhták rubestij vuojŋŋasijt ulmutjijs. <em type="italic">Rähtádahka - trettondedag jul </em>Álu dahká aládagáv rähtádahkaj Oftast blir det västliga vindar till trettondedag jul </p>
+    <p xml:lang="swe">Trettondedagsafton: rähtátiehket. <em type="italic">Javllaiehket - julafton </em>Mån sávav didjij ráfális javlajt ja vuorbális ådå jagev Jag önskar er en fridsam julhelg och ett lyckosamt nytt år <em type="italic">Lárkav - renskiljning </em>Uddni l lárkav Guorbagin Idag är det renskiljning i Guorbak </p>
+    <p xml:lang="swe">Att skilja renar heter lárkket och renhage gärdda. <em type="italic">Dáhpa - menföre, tillstånd då isen, skaren inte riktigt bär (vår och höst) </em>Dán vahko l jávrre dáhppagin Denna vecka bär inte sjön (isen) att färdas på <em type="italic">Boatsoj ~ räjnna - ren, Rangifer tarandus </em>Iektu mån vuojnniv guokta boahttsu ~ rejna Igår såg jag två renar </p>
+    <p xml:lang="swe">Några exempel på ord: räjnnuhit vakta, valla renar, och räjnno övervakning, vallning av renar. <em type="italic">Muohttet - snöa </em>Uddni muohttá Jåhkåmåhken Idag snöar det i Jokkmokk <em type="italic">Galmmet - frysa </em>Jávrátja li galmmám Tjärnarna har frysit </p>
+    <p xml:lang="swe">Ordet goallot betyder också frysa, men det används bara när det gäller kroppsdelar eller levande väsen, t.ex.: gieda gållu jag fryser om händerna, eller så säger man samma sak så här: mån goalov giedajs. <em type="italic">Murkko - dimma </em>Gå dahká murkov de máhttá tjádjánit När det blir dimma så kan man gå vilse </p>
+    <p xml:lang="swe">Ett närbesläktat ord till murkko är russna: dimma som stiger upp ur vattensamlingar vid kall väderlek. <em type="italic">Riegádimbiejvve - födelsedag </em>Mån ärrodav duv riegádimbiejvev! Grattis på födelsedagen! </p>
+    <p xml:lang="swe">Andra användbara ord och uttryck: vuorbbesávadisá lyckönskningar, ållo vuorbbesávadisá många lyckönskningar, vájmulis vuorbbesávadisá hjärtliga lyckönskningar. Mån sávav dunji hávsskes ja buorre riegádimbiejvev jag önskar dig en trevlig och bra födelsedag. <em type="italic">Lassta - löv, blad </em>Lasta gahtjadi muorajs Löven faller från träden </p>
+    <p xml:lang="swe">Gahtjadit används bl.a. som ovanstående exempel och används även när man t.ex. vill säga: biegga gahtjat lastajt vinden får löven att falla eller om man råkar tappa (släppa) något (i marken eller i golvet) som man håller i handen, mån gahtjadiv nijbev, jag tappade kniven (i golvet). Språkvetenskapligt säger man att ett verb som gahtjadit är både intransitivt, som det första exemplet (som inte konstrueras med objekt) och transitivt, som i de efterföljande exemplen (konstrueras med direkt objekt: ackusativ [lastajt, nijbev]). <em type="italic">Sjáhtjalit - skjuta något hastigt framåt, skjuta i väg </em>Sjáhtjala vadnasav jávrráj! Skjut ut båten i sjön! </p>
+    <p xml:lang="swe">Sjáhtjalit används också i betydelsen: uppskjuta något (t.ex. till en annan dag). <em type="italic">Oaddát - somna </em>Oappásj oaddáj Lillasyster somnade </p>
+    <p xml:lang="swe">Oaddádit betyder söva t.ex.: lávllo oaddádij vieljatjav, sången sövde lillebror. <em type="italic">Tjuojkka - mygga </em>Tjuojka båhti álu mihttsamárajda Myggen kommer vanligtvis till midsommar </p>
+    <p>Andra exempel: tjuojkaieddne harkrank, vuobddagátjun trollslända, skåttak broms, sjlávttjá renstyng (kormfluga), muoger storknott, tjoarvvenávva svidknott (svidare). <em type="italic">Bájttet - skina, lysa </em>Biejvve bájttá Solen skiner <em type="italic">Rássjodit - regna </em>Uddni de rássjot Dálvvadisán (Jåhkåmåhken) Idag så regnar det i Jokkmokk </p>
+    <p xml:lang="swe">Orten har två namn som används parallellt: Dálvvadis ~ Jåhkåmåhkke. <em type="italic">Ruonudit - bli grön, börja grönska </em>Giedde l ruonudime Ängen håller på att börja grönska </p>
+    <p xml:lang="swe">Ordet luorkijdit betyder börja slå ut, spricka ut (om bladknopp) t.ex.: urbbe l luorkijdime, bladknoppen (lövet) håller på att slå ut. <em type="italic">Viehkat - springa </em>Dån viega åvvå ruvva Du springer ganska fort </p>
+    <p xml:lang="swe">Ordet springa viehkat används till människor och fåglar som använder två ben, för djur som använder alla fyra ben när de springer så säger man guohtsat, t.ex.: räjnna guohtsá harmmis ruvva, renen springer mycket fort. <em type="italic">Vuojnnet - se </em>Ålmåj vuojnij bednagav, bievdev ja TVav Mannen såg en hund, ett bord och en TV </p>
+    <p xml:lang="swe">Ordet <span type="quote" xml:lang="swe">"titta"</span> på samiska är gähttjat t.ex.: nissun gähttjá TVav, kvinnan tittar på TV. <em type="italic">Bårråt - äta </em>Báhttja bårrå slåppåjt Pojken äter plättar </p>
+    <p xml:lang="swe">När man äter mat med sked använder man ett annat ord: gadtsat, mánná gadtsá jubtsav, barnet äter välling. <em type="italic">Málestit - koka något </em>Mån málestav káfav, biergov ja guolev Jag kokar kaffe, kött och fisk </p>
+    <p xml:lang="swe">Ett annat ord för koka är duolldat, t.ex.: tjáhtje duolldá, vattnet kokar. <em type="italic">Tjerastit - åka skidor utför </em>Tjerastit la hávsske gidádálven Att åka utför är trevligt på vårvintern </p>
+    <p xml:lang="swe">Ordet när man åker skidor är tjuojggat, mån tjuojggiv guokta mijla iektu, jag skidade två mil igår. <em type="italic">Háledit - flyga </em>Tjuktje máhttá háledit Tjädertuppen kan flyga </p>
+    <p xml:lang="swe">Ett liknade ord är girddet som har betydelsen flyga, kretsa omkring något, ruŋka girddi rumbov korparna kretsar omkring kadavret. <em type="italic">Sjevnjudit - mörkna, bli mörkt </em>De sjevnjudij gudán Det blev mörkt klockan 18.00 </p>
+    <p xml:lang="swe">Ett liknade ord till sjevnjudit är guolmudit som har innebörden det skymmer, dvs. tiden innan det blivit fullständigt mörkt. Juo l am de guolmudime det håller på att skymma. <em type="italic">Tjuovgudit - ljusna, bli ljust </em>De tjuovgut gávtsen Det blir ljust klockan 8.00 </p>
+    <p xml:lang="swe">Ett liknade ord till tjuovgudit är sjuoludit som har innebörden det gryr, dvs. tiden innan det börjar ljusna ordentligt på morgonen. De l am de sjuoludime det gryr. <em type="italic">Goajvvot - skotta, ösa, gräva </em>Iektu mån muohttagav goajvvuv Igår skottade jag snö </p>
+    <p xml:lang="swe">Goajvvot används även när man öser båten och som term inom renskötseln under vintern, t.ex.: renarna gräver och äter rejna goajvvu. <em type="italic">Guhkkot - bli lång eller längre </em>Biejve guhkku Dagarna blir längre </p>
+    <p>SARVA GÁHKERA - ÄLGENS VINTERSPILLNING</p>
+    <p>_________________________________________________</p>
+    <p>BÄSSÁSJMÅNE - PÅSKÄGG</p>
+    <p>_________________________________________________</p>
+    <p>MOATTÁR - KOPIATOR</p>
+    <p xml:lang="swe">Att kopiera heter moattedit och en kopia heter moattádus.   _________________________________________________</p>
+    <p>RÁJGAN - HÅLSLAG</p>
+    <p xml:lang="swe">Ane rájganav jus sidá páhppárav rájggat. Använd en hålslagare om du vill göra hål i pappret.  _________________________________________________ Foto: Nils-Olof Sortelius</p>
+  </body>
+</document>

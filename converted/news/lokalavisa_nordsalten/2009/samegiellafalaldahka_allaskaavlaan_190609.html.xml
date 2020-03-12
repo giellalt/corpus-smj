@@ -1,0 +1,41 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Sámegiellafálaldahka allaskåvlån</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Maria" lastname="Mikkelsen" sex="f" born="1987" nationality="nor"/>
+    </author>
+    <year>2009</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>192</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/s-megiellaf-laldahka-allaskavlan.3933</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Sámegiellafálaldahka allaskåvlån</p>
+    <p>Vijmak le vas máhttelis julevsámegielav alep dássen låhkåt.</p>
+    <p>Tjaktjaj álgaduvvá <span type="quote">”Julevsámegiella 1”</span>, Bådådjo Allaskåvlå baktu. Kurssa l næhttakurssa mij 30 oahppatjuohkkijt vaddá, ja vihpá ålles skåvllåjagev. Nehta baktu le vejulasj studentajda akta ber makkir sajes kursav tjuovvot. Duodden ásaduvvi binnemusát guokta tjåhkanime – vuostasj tjavtjan ja nubbe ådåjakmánon.</p>
+    <p>- Dát la ájnas fálaldahka åhpadiddjijda ja gájkajn gen la dárbbo ja miella sámegielav alep dássen låhkåt, javllá åhpadiddje Anders Kintel allaskåvlån.</p>
+    <p>Kurssa ij la gålmå jagijn tjadáduvvam.</p>
+    <p>- Ælla årrum åhpadiddje. Mån lav iesj stipændiáhttavirgen barggam, ja le vádne ietjá åhpadiddjijs gudi máhtti allaskåvllådássen åhpadit, javllá Kintel.</p>
+    <p>Ulmme l<span type="quote">”Julevsámegiella 2”</span> kursajn joarkket tjavtjan 2010. Gå oahppe li goappátjijt kursajt låhkåm le siján vuodofáhka julevsámegielan. Ja dan maŋŋela doajvvu Kintel vas ådåsit kursajn <span type="quote">”Julevsámegiella 1”</span> álgget, vaj le vejulasj fært nuppát jage åhpadusájn álgget.</p>
+    <p>Åhpadibme l rabás gájkajda gænna le dábálasj oahppomáhtudahka ja unnemusát sámegiella nubbegielan joarkkaskåvlås. Åhtsåmájggemierre l vijdeduvvam snjilltjamánno 1. bæjvváj, valla dá rádjáj li juo 16 åhtsåm.</p>
+    <p>- Ep la hárjjánam ienep gå lågev studentajda, danen lip riek dudálattja gå li vil ienebuv, javllá Kintel</p>
+    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+  </body>
+</document>

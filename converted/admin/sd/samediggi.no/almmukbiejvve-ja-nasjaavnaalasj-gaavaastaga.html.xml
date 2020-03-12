@@ -1,0 +1,66 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>404</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Duogasj/Almmukbiejvve-ja-nasjaavnaalasj-gaavaastaga</origFileName>
+    <parallel_text xml:lang="nob" location="nasjonaldag-og-nasjonale-symboler.html"/>
+    <parallel_text xml:lang="sma" location="aaaalmegebiejjie-jih-nasjovnaale-symbovlh.html"/>
+    <parallel_text xml:lang="sme" location="sami-albmotbeaivi-ja-nasuvnnalas-dovdomearkkat.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Álmmukbiejvve ja nasjåvnålasj gåvåstagá / Duogásj / Sámmedikke birra / Sámedigge - Sametinget</p>
+    <p type="title">Álmmukbiejvve ja nasjåvnålasj  gåvåstagá</p>
+    <p>Guovvamáno 6. biejvve le almulasj slávggimbiejvve Vuonan ja tjalmostahteduvvá ålles rijkan sámij álmmukbiejvven. Moadda dáhpádusá ja gåvåstagá li tjanádum bæjvváj Sámediggeráde tjalmostahttá biejvev oassálastedijn ålles rijkan.</p>
+    <p>Biejvve tjalmostahttá vuostasj sáme rijkkatjåhkanimev mij aneduváj Metodistaj girkkon Roandemin jagen 1917. Dat lij vuostasj bálle gå sáme lidjin tjoahken bargatjit aktisasj sámeássjij rijkaj rájaj rastá. Biejvve ávvudaláduváj vuostasj bále jagen 1993.</p>
+    <p><em type="bold">Sáme slávggá </em>Ájnas gåvåstahka ávvudaládijn guovvamáno 6. biejvev le slávggá. Same slávggá le aktisasj divna sámijda, berustahtek gudi rijkan sij årru. Slávggá dåhkkiduváj bårggemáno 15. biejve 1986 13. nuorttarijkaj sámekonferánsas Åren, Svierigin, ja dat la hábbmidum sáme dájddáris Astrid Båhl Ivggobadás Tråmsån. </p>
+    <p>Oajvvegåvvå le váldedum goabddás ja divtas <span type="quote">«Biejve bárne»</span> oarjjelsámes Anders Fjellneris. Dan divtan gåvvi Fjellner sámijt biejve bárnnen ja máno niejddan. Gievlle le biejve (ruoppsis gievllebielle) ja máno (alek gievllebielle) gåvåstahka.</p>
+    <p><em type="bold">Almulasj dåhkkidum gåvåstahka </em>Same slávggá dåhkkiduváj almulattjat jagen 2003 Vuonan rievddadusáj baktu Sámelágan ja lágan <span type="quote" xml:lang="nob">“Lov om flagging på kommunenes offentlige bygninger”</span> . Stuorradigge fábmodij dan ga båttå Sámedikkev mierredittjat njuolgadusájt gåktu slávgáv adnet. Sámedigge mierredij dáv moarmesmano 27. biejve jagen 2004. Slávgán la virgálasj stáhtus, valla dat ij la álmmukslávggá mij åvdåstahttá gånågisrijkav Vuonav álmmukriektálattjat ja stáhttariektálattjat. </p>
+    <p><em type="bold">Sáme álmmuklávla </em>Same álmmuklávla, Sámevierrega lávla, la dikta Isak Sabas, tjáledum ja almoduvvam avijsan Sagaid Muittalægje jagen 1906. Sámekonferánsan Åren jagen 1986 mierreduváj dat sáme álmmuklávllagin. Diktaj dagáduváj tjuojalvis Arne Sørlias, ja tjuojalvis dåhkkiduváj 15. sámekonferánsas Helsinkin. Tæksta le jårggåluvvam nuorttasámegielas duojda ietjá sámegielajda. </p>
+    <p><em type="bold">Moallánagáv <span type="quote">“álmmukbiejvve”</span> adnet </em>Gå guovvamáno 6. biejvve mierreduváj sáme álmmukbiejvven 1992 jage sámekonferánsas, de lij mærrádus sámegiellaj ja danna lij moallánahka <span type="quote" xml:lang="sme">«sámi álbmotbeaivi»</span>. Riekta jårggåluvvam dárogiellaj sjaddá dat <span type="quote" xml:lang="nob">“samisk/samenes nasjonaldag ”</span>, sáme/sámij <em type="italic">álmmukbiejvve </em>. Muhtem dárogielak jårggålusájn la <span type="quote" xml:lang="nob">“samefolkets dag”</span> vuojnnum, dajna gå sáme la <span type="quote" xml:lang="nob">“same”</span>, álmmuk la <span type="quote" xml:lang="nob">“folk”</span> ja biejvve le <span type="quote">“dag”</span>. Svieriga dárogielak jårggålusán sámekonferánsas aneduváj moallánahka <span type="quote" xml:lang="eng">«samernas nationaldag»</span>. </p>
+    <p>Moallánagá <span type="quote" xml:lang="nob">«samefolkets dag»</span> ja <span type="quote" xml:lang="nob">«samisk folkedag»</span> li sjaddam båhtusin iehpetjielgas jårggålusájs ja muhtem mærráj gå moallánahka <span type="quote" xml:lang="nob">«nasjonaldag»</span> muhtemijs la aneduvvam rijddooarren. Sámekonferánssa biejaj farra oarren sáme li akta álmmuk ( <em type="italic">nasjåvnnå </em>) ja moallánagá adno dan diehti ij gájbbeda sierra <em type="italic">stáhtav </em>. Goappátjagá sámekonferánssa (maŋŋela <em type="italic">Sámeráde </em>) ja nuorttarijkaj sámedikke adni moallánagáv <span type="quote" xml:lang="nob">«nasjonaldag»</span>, álmmukbiejvve, virgálattjat. </p>
+    <p>
+      <em type="bold">Lågå ienebuv dassta dájn sválldasijn: </em>
+    </p>
+    <p xml:lang="nob">
+      <em type="bold">Wikipedia: </em>
+    </p>
+    <list>
+      <p type="listitem" xml:lang="nob">Samer</p>
+      <p type="listitem" xml:lang="nob">Samenes nasjonaldag</p>
+      <p type="listitem" xml:lang="nob">Samenes nasjonalsang</p>
+      <p type="listitem" xml:lang="nob">Det samiske flagget</p>
+    </list>
+    <p xml:lang="sme">
+      <em type="bold">Gáldu </em>
+    </p>
+    <list>
+      <p type="listitem" xml:lang="nob">Vi er samer (filmer)</p>
+    </list>
+    <p xml:lang="sme">
+      <em type="bold">Lovdata </em>
+    </p>
+    <list>
+      <p type="listitem" xml:lang="nob">Forskrift om bruk av det samiske flagget</p>
+      <p type="listitem" xml:lang="nob">Ot.prp. 34 (2002-2003) Om lov om endring i samelova m.m. (pdf)</p>
+    </list>
+  </body>
+</document>

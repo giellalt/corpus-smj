@@ -1,0 +1,49 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>222</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=155&amp;art_id=160</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=155_art_id=160.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=155_art_id=160.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=155_art_id=160.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Låvdagoahte</p>
+    <p type="title">4.	Vatte midjij uddni mijá bæjvvásasj lájbev</p>
+    <p>Mav usjudalá gå gulá <span type="quote">«mijá bæjvvásasj lájbev»</span> – ij littjisj má dåssju sjijvo idedisbiebbmuj? Lájbbe le symbåvllån biebbmuj. Ij le dåssju mav biebbmopáhken bårråp, aj lájbbe mav iehkedismállásin oadtjop.</p>
+    <p>Råhkådallap Jubmel juohkka biejve galggá vaddet mav dárbahip, ja jut oahppap gijttet gájkka buore åvdås mav Jubmel le midjij vaddám. Lájbbe mierkki dav majt dárbahip viesotjit, dagu biebbmo, jugos, biktasa, skuova, goahte ja sijdda, giedde ja slihtura, biedniga ja åbmudahka, gállasjguojmme ja máná, bargge ja barggovadde, buorre ja vuogas dálkke, ráfe, varresvuohta, buorre namma ja buorre rádna ja barggoguojme ja ráddná.</p>
+    <p>Jubmela sidot le dujna galggá buoragit gevvat, valla hæhttu liehket gijttevasj ja duosstat Jubmelij luohtedit. Galggap gijttet gájka dassta mav Jubmel le midjij vaddám, ja ádnot vijsesvuodav dav várajda válldet suv sidoda milta.</p>
+    <p>Moaddása sáme sebrudagán li ietjas vuorrasijs oahppam ep galga biebmov håjggådit. Dát sisadná ienep gå siesstem. Biebbmo gåhtjoduváj <span type="quote">”luondo vaddásin”</span> jali <span type="quote">”Jubmela vaddásin”</span>. Vattáldagáj åvdås galggá gijttet ja ij dåssjåj adnet. Almasj le báddnum ednamij ja gájkka dasi mij ednama nanna sjaddá ja viessu. Ednamin le nuoges juohkkahattja dárbojda, valla ij nuoges juohkkahattja rattugisvuohtaj. Majt dát mierkki?</p>
+    <p xml:lang="nob">
+      <em type="bold">LUTHERUSA TJIELGADUS: </em>
+    </p>
+    <p>Jubmel vattisj, vájku ep áno bæjvvásasj lájbev gájkka almatjijda, sidjij aj gudi li bahá. Valla dánna råhkålip mijáv máhttet dav dåbdåstit suv vattáldahkan ja mijá bæjvvásasj lájbev gijtujn duosstot.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

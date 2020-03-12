@@ -1,0 +1,85 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>646</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Hajesvuohta</origFileName>
+    <parallel_text xml:lang="fin" location="alakuloisuus.html"/>
+    <parallel_text xml:lang="fit" location="matalapaine-eli-alakulonen.html"/>
+    <parallel_text xml:lang="sma" location="hujnesne.html"/>
+    <parallel_text xml:lang="sme" location="lossesvuohta.html"/>
+    <parallel_text xml:lang="swe" location="nedstamdhet.html"/>
+    <parallel_text location="togalopha.html" xml:lang="rmu"/>
+    <parallel_text location="tristimos.html" xml:lang="rmy-rka"/>
+    <parallel_text location="mulano.html" xml:lang="rmf"/>
+    <parallel_text location="depresirime.html" xml:lang="rmy-rlo"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Håjesvuohta</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title">Håjesvuohta</p>
+    <p>Muhttijn dåbddåt håjev,ballat jali dåbddåt dårvodisvuodav la luondulasj oasse viessomin. Buojkulvissan máhttá årrot biejve gå ij majdek nagá, ij mige dåbddu suohttasin jali gå ednagit usjudallá. Ienemusát dåbdo vássi ájge milta. Gávnnuji dago mav iesj máhttá dahkat buorebut väjátjit, ja viehkke gávnnu jus dav dárbaj.</p>
+    <p>Håjesvuohta boahtá ja vássá viessomin. Ij dárbaha ballat nievres ájádusájt ja dåbdojt vuosedimes. Jus gähttjal dakkir dåbdojt garvvet de máhttá oadtjot ienep ráfedisvuodav ja tjavgap goavgev. Muhtem vidjura hähttuji dåbddut ja muhttijn hähttu ájgge gållåt.</p>
+    <p type="title">Muhttijn diehtá manen</p>
+    <p>Muhttijn la sierralágásj ássje mij dahká vaj håjesvuodav dåbddå. Máhttá buojkulvissan årrot gasskavuohta l nåhkåm gejna aktan årrum, äjgáda galggi sirádit jali ietjá tjuolma fuolkijn ja rádnaj.</p>
+    <p>Máhttá aj hådjot jus viessom rievddá juoŋgaláhkáj, buojkulvissan jus jåhtå, skåvlåv målssu, jali gå gymnásaj álggá jali barggagoahtá.</p>
+    <p>Álu iesj nagát dán lágásj vájvij jali rádnaj ja fuolkijn viehkken, vájku máhttá sieldes vájvven dåbddut gå dáhpáduvvá.</p>
+    <p>Dábálasj la dåbddåt håjesvuodav vájku juoga sierra l dáhpaduvvam. Jus buojkulvissan la stressidum jali vájvve oadet danen gå l tjuottjes skåvlån jali bargon de máhttá hådjot. Ájádusá seksualitehta birra, gåktu galggá årrot ja gåktu rumáj åvdeduvvá máhtti vájvedit. Niejda máhtti håjen årrot biejvijt liejbe åvddåla.</p>
+    <p type="title">Ij agev vuojnnu ålgolt gåktu vädjá</p>
+    <p>Álu e rádna, äjgáda, åhpadiddje jali iehtjada dádjada gåktu ajtu viessu. Ij la visses vuojnnu ålgolt vájku iesj adná luluj vuojnnut.</p>
+    <p>Jus la håjen de máhttá aj ruvva moarádit ja ruvva árppanit. De ulmutja birrusin ielvvi la moarráp, valla márjju e dádjada manen, gå oarre dasi la håjesvuohta. Danen lisj má buorre gähttjalit giehttot gåktu dåbddå vaj viehkev oadtjot Ságasta ietjá ulmutjijn máhttá álu ietjas buorebut dádjadit.</p>
+    <p type="title">Majt máhttá iesj dahkat?</p>
+    <p>Iesj máhttá bájnatjit gåktu vädjá. Buorebut vädjá ja nagát ienebuv jus labut, márjju hárjjidallá dájvvalakkoj, gå jus ij dav dagá. Väjátjit buoragit, la ájnas bårrå ávkálasj biebmojt ja dájvvalakkoj, ja muttágit oadá. De giehpebut nagát dagoj majt muhttijn vájvalussjá. Máhttá galla vájbbat goappátjagá ilá binnáv oadet ja ilá ednagit.</p>
+    <p>Gávnnuji moadda dago ma li buore mujttet jus la juo håjen:</p>
+    <list>
+      <p type="listitem">Vädjá buoragit gå dagojt majda lijkku dahká ja rádnaj gávnadit. Máhttá aj dárbbo aktu allasis årrot jus la håjen.</p>
+      <p type="listitem">Máhttá giehpedit gå labut. Buojkulvissan váttsatjit jali hárjjidallat álu giehpet jus li moadda ájádusá ja dahká vaj buorebut oadá.</p>
+      <p type="listitem">Buorre ålggon årrot gå l tjuovggat, danen gå tjuovgga máhttá dahkat vaj arvvá.</p>
+      <p type="listitem">Máhttá giehpedit ietjá ulmutjijn ságastit, nåv gåk rádnajn jali soabmásijn fuolken. Máhttá aj manádit buojkulvissan skåvllåsujtára jali kuratåvrå lunna.</p>
+      <p type="listitem">Máhttá tjállet gåktu dåbddu. Gå bágojt vaddá ietjas dåbdojda ja ájádusájda de álu ietjas buorebut dádjat ja giehpebut vuojnná jus gávnnuji tjuolma majt dárbaj tjoavddet.</p>
+    </list>
+    <p type="title">Alkohola ja droga älla buoraga</p>
+    <p>Jus la håjen de máhttá muhttijn dåbddut degu giehpet gå alkoholav juhká jali drogajt adná. Márjju ávvus ja vajálduhttá ma vájvedi jur dalloj, valla ájge milta máhttá ienni ráfedisvuodav ja ietjá vájves dåbdojt nannit. Márjju l aj nåvti alkohola jali droga li oare håjesvuohtaj.</p>
+    <p type="title">Håjesvuohta álu vássá</p>
+    <p>Máhttá sieldes nievret viedjet gå l håjen. Danen máhtá gähppánibme diehtet håjesvuohta ienemusát ietjastis häjttá, vájku máhttá ájgev válldet.</p>
+    <p type="title">Muhttijn dárbaj viehkev</p>
+    <p>Muhttijn lisj má buorre vieroj ulmutjijn ságastit. Oattjotjit viehkev máhttá aktavuodav válldet buojkulvissan nuorraduostudagájn, varresvuohtaguovdátjijn jali oahppevarresvuodajn. Hárjjánam li nuorajt gudi li håjen iejvvit. Jus la dárbulasj, de máhttá gejna iejvvit, viehkedit aktavuodav válldet buojkulvissan psykologajn jali dåktårijn.</p>
+    <p>Gávnnuji aj telefåvnnåjoura gåsi máhttá riŋŋgit, ja webbabiele internehtan gånnå máhttá ságastit, e-påvståv rádjat jali låhkåt, viehkev ja dårjav oattjotjit. Danna máhttá tjiehkusin årrot jus sihtá.</p>
+    <p type="title">Depresjåvnnå</p>
+    <p>Depresjåvnnå l juoga ietjá gå gasskabåddåsasj surgov ja håjesvuodav dåbddåt. Máhttá depresjåvnåv åttjudallam jus dåbddå håjesvuodav moadda vahko ja sämmibále</p>
+    <list>
+      <p type="listitem">láhppá miellogisvuodav masi lijkku</p>
+      <p type="listitem">oadá ilá binnáv jali ednagav</p>
+      <p type="listitem">ij máhte ájádallat buoragit</p>
+      <p type="listitem">biebbmohálov láhppá</p>
+      <p type="listitem">bårrå ienebuv gå dábálattjat</p>
+      <p type="listitem">gähppadit båstådallá</p>
+      <p type="listitem">oadtju nievres iesjdåbdov ja iesjlájttális sjaddá</p>
+      <p type="listitem">ulmutjijs garvvá</p>
+      <p type="listitem">hármmat ájgev ájádallá</p>
+      <p type="listitem">gássjelisvuodajt oadtju skåvlån jali bargon</p>
+      <p type="listitem">iesjgåddemájádusájt oadtju</p>
+    </list>
+    <p>Jus la depresjåvnåv åttjudam de dárbaj virgálasj viehkev väjátjit buorebut. Oattjotjit dav de máhttá aktavuodav buojkulvissan varresvuohtaguovdátjijn válldet.</p>
+  </body>
+</document>

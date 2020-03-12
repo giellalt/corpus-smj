@@ -1,0 +1,96 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>626</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Giella/Same-giellahaldadimguovllo</origFileName>
+    <parallel_text xml:lang="nob" location="forvaltningsomraade.html"/>
+    <parallel_text xml:lang="sma" location="reeremedajve-saemien-gielide.html"/>
+    <parallel_text xml:lang="sme" location="samegielaid-halddasanguovlu.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Sáme giellaháldadimguovllo / Giella / Sámedigge - Sametinget</p>
+    <p type="title">Sáme giellaháldadimguovllo</p>
+    <p>Sáme giellaháldadimguovlon li dárogiella ja sámegiella avtaárvvusattja. Dat mierkki juohkkahattjan le riektá sámegiellaj dievnastuvvat gå válldi aktijvuodav álmulasj etáhtaj sáme giellaháldadimguovlon.</p>
+    <p>Politihkalasj åvdåsvásstediddje</p>
+    <p xml:lang="eng">President</p>
+    <p xml:lang="sme">NSR</p>
+    <p xml:lang="sme">Ávjovárri</p>
+    <p>Jur dálla</p>
+    <p>Suohkankonferánssa guovvamáno 10. ja 11. biejve</p>
+    <p>Sámedigge le dahkam miellagiddis konferánssaprográmmav, ja sávvá dijáv buori...</p>
+    <p>Lågå ienebuv</p>
+    <p>Sáme giellaprosjevtajn la rabás åhtsåmájggemierre 2015 rájes</p>
+    <p>2015 rájes la rabás åhtsåmájggemierre doarjjaårnigis  sáme giellaprosjevtajd...</p>
+    <p>Lågå ienebuv</p>
+    <p>Vuoseda divna ássjijt</p>
+    <p xml:lang="sme">Sáme giellaháldadimguovllo li suohkana Guovdageaidnu/Kautokeino, Kárášjohka/Karasjok, Deatnu/Tana, Unjárga/Nesseby, Porsáŋggu/Porsanger Finnmárkon, Gáivuotna/Kåfjord ja Loabat/Lavangen suohkana Råmsån, Divtasvuodna/Tysfjord suohkan Nordlándan, Snåasen/Snåsa ja Røyrvik suohkan Nuortta-Trøndelágan.</p>
+    <p>Niellja nuorttalamos fylkkasuohkana, Finnmárkko, Råmsså, Nordlánnda ja Nuortta-Trøndeláhka li aj sáme giellaháldadimguovlon.</p>
+    <p>
+      <em type="bold">Sáme giellaháldadimguovllo: </em>
+    </p>
+    <p>
+      <em type="bold">Sáme giellaháldadimguovlon galggi sámelága giellanjuolgadusá sihkarasstet riektáv: </em>
+    </p>
+    <list>
+      <p type="listitem">sámegielav adnet gå almulasj orgánaj guládallá</p>
+      <p type="listitem">sámegielav almulasj aktijvuodan vuojnnet ja gullat</p>
+    </list>
+    <p>
+      <em type="bold">Sáme giellaháldadimguovlon li tjuovvovasj njuolgadusá almulasj ásadusájda: </em>
+    </p>
+    <list>
+      <p type="listitem">Diedádusá almulasj orgánajs ma gulluji ålles álmmugij jali muhtem oassáj álmmugis háldadimguovlon galggi gávnnut sámegiellaj ja dárogiellaj. Sjiemájt majt galggi adnet bájkálasj jali guovlo almulasj orgánajn háldadimguovlon galggi gávnnut sámegiellaj ja dárogiellaj. (§ 3-2).</p>
+      <p type="listitem">Sujna guhti sámegiellaj válldá aktijvuodav bájkálasj almulasj orgánajn háldadimguovlon, le rievtesvuohta vásstádusáv oadtjot sámegiellaj. (§ 3-3).</p>
+      <p type="listitem">Sujna gænna le miella sámegielav adnet gå le gåtsedime ietjas berustimijt bájkálasj ja guovlo almulasj varresvuoda- ja sosiálainstitusjåvnåj gáktuj háldadimguovlon, le rievtesvuohta dievnastusáv oadtjot sámegiellaj (§ 3-5).</p>
+      <p type="listitem">Virgálattjajda bájkálasj jali guovlo almulasj orgánan háldadimguovlon le rievtesvuohta virggeloahpáj bálkájn allasis sámegielmáhtov åttjudittjat gå orgádna dárbaj dakkár máhtov (§ 3-7).</p>
+      <p type="listitem">Suohkanstivrra máhttá mierredit sámegiella galggá liehket dássásasj dárogielajn ålles jali muhtem oasen suohkana háldadusán (§ 3-9).</p>
+    </list>
+    <p>
+      <em type="bold">Åhpadusláhka , mánájgárddeláhka ja bájkkenammaláhka buktá aj sierralágásj gájbbádusájt háldadimguovlo suohkanijda: </em>
+    </p>
+    <list>
+      <p type="listitem">Suohkanin le åvdåsvásstádus bærrájgæhttjat vaj sámegielak mánáj mánájgárddefálaldagán le sámegiela ja kultuvrra vuodon (mánájgárddeláhka § 8)</p>
+      <p type="listitem">Sáme oahppopládna – Sáme máhttolåpptim – galggá suohkana skåvlåjn aneduvvat (åhpaduslága láhkaásadusá, § 1-1)</p>
+      <p type="listitem">Gahttungalbajn daj guovlojn gånnå li moattegielak bájkkenama, galggá sámegielak bájkkenamma vuostatjin tjáleduvvat (bájkenammalága njuolgadustjála, § 7)</p>
+    </list>
+    <p>
+      <em type="bold">Doarjja guovtegielak suohkanijda ja fylkasuohkanijda </em>
+    </p>
+    <p>Sámedigge le jagen 2011 juollodam tjoahkkáj 46 mill. kråvnå guovtegielakvuodadoarjjan suohkanijda ja fylkasuohkanijda sáme giellaháldadimguovlon. Suohkana oadtju 3 mill. rájes 7,5 mill. rádjáj doarjjan jagen 2011 madi fylkasuohkana oadtju 1,4 mill. kråvnå rádjáj. Duodden juohká Sámedigge rudájt lågev giellaguovdátjijda (5,7 mill. kråvnå jagen 2011), ja gielladåjmajda giellaháldadimguovlojn ja giellaháldadimguovloj ålggolin åhtsåmusáj milta (tjoahkkáj 7,6 mill. kråvnå jagen 2011). Giellaaktijvuodan li aj Sámedikke doarjja åhpadibmáj – dsj. oahpponævo, mánájgárde ja stipenda – viehka ájnas vájkkudimnævo gå galggá jåksåt dajt ulmijt ma li biejadum sámegielaj åvddånahttema gáktuj. Sámedigge le jagen 2010 doarjjan biedjam tjoahkkáj 31,3 mill. kråvnå sáme åhpadussaj. Duodden vaddá Sámedigge aj dårjav museajda, kulturguovdátjijda ja kulturviesojda, ja dårjav varresvuoda suorge dåjmajda, mij aj le viehka ájnas gå galggá sámegielaj dilev buoredit. Sámedigge le jagen 2010 árvustallam dårjav guovtegielakvuohtaj suokanijda ja fylkasuohkanijda ma li sáme giellaháldadimguovlon. Árvustallam galggá vuodon gå mierret duola dagu dårja mierredimnjuolgadusájt ja rapporterimgájbbádusájt. Sámedigge aktelasj suohkanij ja sáme giellaguovdátjij guládallá tjåhkanimij, semináraj ja konferánsaj baktu gå le gatjálvis sámegielajt bisodit ja åvddånahttet. Dá li viehka ájnas aktisasjbarggoguojme Sámediggáj. Sámedikke guovtegielakvuodadårja juogadibme 2011 jahkáj vuojnnu Sámedikke 2011 budsjehta tjuoggán 5.2.1.</p>
+    <p>
+      <em type="bold">Vuohke gåktu suohkana giellaháldadimguovlluj bessi </em>
+    </p>
+    <p>Sámelága njuolgadustjála mierret makkir suohkana sáme giellaháldadimguovlluj gulluji. Gå sámelága giellanjuolgadusá mierreduvvin jagen 1990, de lidjin guhtta nuorttasámegielak suohkana háldadimguovlon. Jagen 2005 bådij Divtasvuona suohkan Nordlándan fárruj, jagen 2008 Snåasa Nuortta-Trøndelágan ja jagen 2009 Loabat Råmsån. Røyrvik suohkan Nuortta-Trøndelágan mierredij biehtsemánon 2010 åhtsåt vaj bessi giellaháldadimguovlluj. Gå muhtem suohkan åhtså giellaháldadimguovlluj bessat, de návti dáhpáduvvá:</p>
+    <list>
+      <p type="listitem">Suohkan mierret åhtsåmusáv rádjat.</p>
+      <p type="listitem">Suohkana åhtsåmusáv sáddiji Ådåstuhttem- háldadus- ja girkkodepartemenntaj</p>
+      <p type="listitem">Departemennta válldá Sámedikkijn aktijvuodav guhti javllamusáv buktá suohkana åhtsåmussaj, ja aj makta máhtti vuorddet guovtegielakvuodadoarjjan</p>
+      <p type="listitem">Departemennta háldaduslattjat ja økonomalattjat ássjev árvustalli, ja guládallamássjev gárvet</p>
+      <p type="listitem">Oajvvadus njuolgadustjállaga rievddamij sáddiduvvá guláskuddamij guláskuddamásadusájda (guláskuddamájgge le dábálattjat 3 máno)</p>
+      <p type="listitem">Departemænnta njuolgadustjállagav rievddá mij gånågislasj resolusjåvnå baktu mierreduvvá, dat merkaj ássje stáhtaráden giehtadaláduvvá.</p>
+    </list>
+    <list/>
+    <p>
+      <span type="quote">Sámedikken le ulmme sámegielajt nannit vaj sjaddi luondulasj oassen vuona almulasjvuodas.</span>
+    </p>
+  </body>
+</document>

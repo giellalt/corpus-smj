@@ -1,0 +1,46 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Herva li ruopptot</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <person firstname="Jørgen" lastname="Kintel" sex="m" born="1991" nationality=""/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2012</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>142</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2012/samisk_300312.pdf</origFileName>
+    <parallel_text xml:lang="nob" location="pynten_tilbake_040412.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+    <note>norsk bildetekst</note>
+  </header>
+  <body>
+    <p>Bájkkeavijssa NuorttaSállto</p>
+    <p>Tæksta: Kitty Skapalen Jårggålibme:Divte</p>
+    <p>Media AS/Jørgen Kintel</p>
+    <p><em type="bold">Herva li ruopptot</em> </p>
+    <p>anij hervajt ienebut gå dáttja dájn guovlojn, dát lij miellagiddis ja sihtiv gávnadit ienep dán ássje birra. Árbbedábálasj silbba la vargga gáhtum</p>
+    <p>dán guovlon, valla Svieriga bielen la galle árbbedábálasj silbas ja ietjá hervas, subtsas Kolsrud. Suv oahppobájkke la læhkám Svieriga bielen. Oabme tjanástagájn rijbat sån adnet miellagiddis luondoábnnasijt dagu njoammel- ja oarreskittev ja adámav boahttsus ja dan láhkáj hábbmit juojddá ådå boahtteájggáj. Lis Mari Hjortfors ja Viktor Paulsen lijga libjjamvuosádalle, ja guottijga hervajt ja libjajt.</p>
+    <p>- Mujna le læhkám buorre viehkke Lisas Divtasvuona ASVOs gut la muv viehkedam aktidit skittev ja libjajt , gijtto sunji. Libja lij sihke ålmmåjda, nissunijda ja mánájda, tjabu nuora lij berustahttjám libjja anov luondoebnajs, javlaj Kolsrud, åvddål fálaj gæhttjijt vuosádusáv gehtjatjit. Buvtajt máhtá rávvit njuolgga hábmáris dajda gudi sihti oastet.</p>
+    <p xml:lang="nob"><em type="italic">Brukbart med</em> <em type="italic">folk på</em> </p>
+  </body>
+</document>

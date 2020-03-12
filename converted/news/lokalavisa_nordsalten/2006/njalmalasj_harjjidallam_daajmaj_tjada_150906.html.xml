@@ -1,0 +1,37 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Njálmálasj hárjjidallam dåjmaj tjadá</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
+    </author>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>81</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/nj-lm-lasj-h-rjjidallam-dajmaj-tjad-.4100</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Njálmálasj hárjjidallam dåjmaj tjadá</p>
+    <p>Knut Hamsun joarkkaskåvllå, aktisattjat Sáme æjgátværmástagájn ja Divtasvuona suohkanijn, ásadi giellabiesev Svieriga bielen 24.-29. biejvijt dán máno.</p>
+    <p>Dát giellabiesse la álggijda, ja aj dajda gudi gielav máhtti. Giellabiesen galggi oassevállde hárjjidallat njálmálasj julevsámegielav dåjmaj tjadá sáme birrusijn.Jus sidá mañen, viertti Knut Hamsuna joarkkaskåvlåv, sáme åssudagá baktu, diededit. Giellabiesse ásaduvvá prátihkalattjat Jielleváren ja Jåhkåmåhken.</p>
+    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+    <p xml:lang="nob">Regler for kommentering</p>
+    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Njálmálasj hárjjidallam dåjmaj tjadá"</span> på Facebook</p>
+  </body>
+</document>

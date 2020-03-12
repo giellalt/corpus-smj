@@ -1,0 +1,97 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Julevsámegiella/Lulesamisk</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Kurt Tore" lastname="Andersen" sex="m" born="" nationality="nor"/>
+    </author>
+    <year>2001</year>
+    <wordcount>399</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
+    <multilingual/>
+    <origFileName>Eksamensdahkam._2.giella.doc</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate  1.14 ; file-specific xsl  $Revision: 1.1 $; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Julevsámegiella/Lulesamisk</p>
+    <p>Vuodoskåvlå eksábma jagen 2000</p>
+    <p xml:lang="deu">SÁMEGIELLA NUBBEN GIELLAN</p>
+    <p xml:lang="nob">Statens utdanningskontor i Oslo og Akershus - Eksamenssekretariatet</p>
+    <p xml:lang="eng">
+      <em type="bold">I-oasse </em>
+    </p>
+    <p>
+      <em type="bold">Dahkamus mij galggá tjoavdeduvvat </em>
+    </p>
+    <list>
+      <p type="listitem">Vuollelin vuojná sáme ådåsmiediaj namájt.</p>
+    </list>
+    <p>Dujna l ájnas bájkálasj ådås mav sidá giehttot ietjá ulmutjijda duv guovlon. Tjále ådåsav avta dájda ådåsmiediajda.</p>
+    <p>Bieja bajelttjállagav ietjat ådåsij.</p>
+    <p>Sjáńńar: Almmulasj (formalalasj) girjje</p>
+    <p xml:lang="est">
+      <em type="bold">II-OASSE </em>
+    </p>
+    <p>
+      <em type="bold">Vállji avtav dahkamusáv </em>
+    </p>
+    <list>
+      <p type="listitem" xml:lang="deu">FIEVRO</p>
+    </list>
+    <p>Gehtjada tækstatjoahken fievrrogåvåjt ja ane dajt jali avtav dajs mujton tækstatjáledijn.</p>
+    <p>Tjále tevstav gånnå giehto makkár ájádusá miellasit båhti gåvåjt gehtjadijn</p>
+    <p>jali</p>
+    <p>Tjále majt muhtem fievrro mujttádahttá duv iellemin.</p>
+    <p>Mierreda iesj sjáńńarav ja bajelttjállagav. Bieja <em type="italic">nr. 1 </em>duodden dasi. </p>
+    <list>
+      <p type="listitem" xml:lang="deu">SÁMEGIELLA</p>
+    </list>
+    <p>Tækstatjoahken la låhkåm dålusj ja dálásj almmulasj mærrádusájt sámegiela birra.</p>
+    <p>Tjále gåktu dån åtsådalá sámegielav bæjválasj iellemin, ja gåktu jáhká sámegielajn boahtteájggáj manná.</p>
+    <p>Mierreda iesj sjáńńarav.</p>
+    <p>Gávna iesj bajelttjállagav ja bieja duodden dasi <em type="italic">nr. 2 </em></p>
+    <list>
+      <p type="listitem">SÁME</p>
+    </list>
+    <p>Dujna l ráddna gejna girjijt tjálatja. Sån sihtá diehtet sámij birra. Majt de sunji tjálá?</p>
+    <p>Sjáńńar: persåvnålasj girjje</p>
+    <p>Gávna iesj bajelttjállagav, ja bieja ájn de dasi duodden <em type="italic">nr. 3 </em></p>
+    <list>
+      <p type="listitem" xml:lang="deu">DIKTA</p>
+    </list>
+    <p>Vállji tækstatjoahkkes avtav diktav.</p>
+    <p>Mij la dikta tema, ja gåktu åvddånbuktá tjálle temav? Tjále makkár ájádusá miellaj badjáni gå diktav lågå.</p>
+    <p>Bieja dikta namáv bajelttjállagin, ja bieja ájn de dasi duodden <em type="italic">nr. 4 </em></p>
+    <list>
+      <p type="listitem" xml:lang="vep">SÁMEBIKTASA</p>
+    </list>
+    <p>Gehtjada bivtasgåvåjt tækstatjoahkken.</p>
+    <p>Gáppte ja ietjá sámebiktasa lidjin dålen bæjvvásasj gárvo ulmutjijda, valla uddni li da vargga dåssju hærvvagárvo sjaddam.</p>
+    <p>Nuoraj bláde ”Š” sihtá diehtet majt nuora usjudalli sámebiktasij ano birra. Tjále ságájdahttemav soames nuorajn dán tema birra.</p>
+    <p>Sjáńńar: Ságájdahttem</p>
+    <p>Mierreda iesj bajelttjállagav. Bieja duodden dasi <em type="italic">nr. 5 </em></p>
+    <list>
+      <p type="listitem" xml:lang="vep">NUORAJ BERUSTIME</p>
+    </list>
+    <p>Ájgge l áhkut ja ádját nuorravuoda rájes rievddam, ja navti li de dallusj ja dálásj nuoraj berustime ållu ietjálágátja.</p>
+    <p>Majt dálásj 15-16 jahkásasj sáme nuora berusti?</p>
+    <p>Tjále tevstav dan birra. Mierreda iesj sjáńńarav.</p>
+    <p>Gávna iesj tækstasit bajelttjállagav, ja tjále dasi duodden <em type="italic">nr. 7 </em></p>
+    <list>
+      <p type="listitem" xml:lang="vep">SÁMEÁLMMUKBIEJVVE</p>
+    </list>
+    <p>Guovvamáno 6. biejvve l Sámeálmmukbiejvve.</p>
+    <p>Duv klássa galggá gæhttjalit boahtte jáhkáj dav biejvev ásadit. Duv li gåhttjum dan bæjvváj hålav tjállet.</p>
+    <p>Gå hålav tjálá, de mujte gulldaliddjijt buorástahttet ja ane temav mujton. Mujte aj gejda håla ja usjudalá majt ulmutja duv hålas vuorddi. Hålan galggá soameslágásj ássje mav giehtadalá, massta diedojt juogá. Tjále hålav navti vaj gulldaliddjij miellaj tjágńá, juogu de ávvudahttá, måvtåstuhttá, hásstal jali suhttadahttá. Håla giehtje máhttá årrot duola dagu ietjat sávadusá jali gulldaliddjijda arvusmahttema.</p>
+    <p>Ane hålan persåvnnålasj, bæjválasj giehppis gielav. Ietján la hoalláj ájnas adnet ietjas sjuggelisvuodav. Buoremus la jus hålan ælla moadda oajvveássje.</p>
+    <p>Sjáńńar: hålla</p>
+    <p>Gávna iesj tækstasit bajelttjállagav, ja tjále dasi duodden <em type="italic">nr. 7 </em></p>
+  </body>
+</document>

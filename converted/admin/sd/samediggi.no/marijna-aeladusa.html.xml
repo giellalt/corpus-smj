@@ -1,0 +1,69 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>265</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/AEladus/Marijna-aeladusa</origFileName>
+    <parallel_text xml:lang="nob" location="marine-naeringer.html"/>
+    <parallel_text xml:lang="sma" location="marijne-jielemh.html"/>
+    <parallel_text xml:lang="sme" location="mearraealahusat.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Marijna æládusá / Æládus / Sámedigge - Sametinget</p>
+    <p type="title">Marijna æládusá</p>
+    <p>Sámedigge la garrasit prioriterim bargov gávnnat tjoavddusijt ma máhtti nanosduhttet riektáv guollimij årrojda merrasáme guovlojn. Merrasáme kultuvrra la vuododum vuodna- ja merragáddeguollimijn, juogu dal degu aktu æládus, jali aj aktisattjat ietja æládusáj.</p>
+    <p>Politihkalasj åvdåsvásstediddje</p>
+    <p xml:lang="nob">Rådsmedlem</p>
+    <p xml:lang="sme">NSR</p>
+    <p xml:lang="nob">Nordre</p>
+    <p>Jur dálla</p>
+    <p>Vilá gåjkkeguollebuvtadibme sláhkkidum guoles</p>
+    <p>Sámediggeráde sihtá nannit vuodnaguollárij máhttelisvuodajt ietja gahtsot jå...</p>
+    <p>Lågå ienebuv</p>
+    <p>Vuoseda divna ássjijt</p>
+    <p>Dálásj iemeálmmukriektá tjuodtju dan æktuj mij dåhkkit sámij histåvrålasj riekta degu dal merragádde- ja vuodnaguollim sijá årudakguovlojn.</p>
+    <p>Sámedigge la aj tjuottjodam prinsihpav dán láhkáj, mij la lahka luonndovaddásij adná tjuohppamriektáv histårjålasj ja dáhpeperspektijvan. Lagos- ja dárbboprinsihppa la biejadum degu lájddimprinsihppan sissŋelin Sámedigge vuorodimen marijnaæládusájda.</p>
+    <p>
+      <em type="bold">Sámedigge barggá dán åvdås: </em>
+    </p>
+    <list>
+      <p type="listitem">nannit riektáv guollimij årrojs merrasáme dáfojs</p>
+      <p type="listitem">åvddånahttet ja lasedit dåjmajt sissŋelin marijnaæládusáj</p>
+    </list>
+    <p>Tjádu jahkásasj budsjehtaj la Sámedigge biedjam vájkkudimnævojt marijnaæládusájda. Dajna gå vaddet dårjav investerimijda guollárvantsajda, ådåstuhttemijda lagos-vuosstájválldemásadusájda ja viehkedit buvtaåvddånahttemav sisŋelt marijnaæládusdåjmaj, máhttá ájn garrasuppot viehkedit bisodit ja nannit nanos guollárbirrusijt sáme merragádde- ja vuodnasebrudagájs.</p>
+    <p>
+      <em type="bold">Riektá: </em>
+    </p>
+    <list>
+      <p type="listitem">Stáhtan la riektávælggo vaddet sámijda máhttelisvuodav duodastit ja åvddånahttet sijá kultuvrav.</p>
+    </list>
+    <p>Guollim vuonajs ja merragáddetjátjen, degu ábnas kultuvrravuodon, la låhpalattjat årroma- ja dåjmaj sáme lagos-sebrudagájn merragátte milta.</p>
+    <list>
+      <p type="listitem">Sámedigge la tjadu ájgij barggam nanostuhttemijn lagos-addjimav háldadusán guollevaddásijs.</p>
+    </list>
+    <p>Dan diehti vaddet guollárijda stuoráp fámov ja vájkudimev gå adno vaddásijs mierreduvvá. Regionála háldadus, sáme oasseválldij ja aktisasjmierredimijn, la sissŋela almasjriektá unnesmierij ja buohta almasjriektáj njuolgadusáj iemeálmmugij ja unneplågoj milta. Hásstalus la, lassen riektáperspektijvvaj, tjadu ulmmelasj vájkkudimnævvo gárvedit buorep ekonomalasj ålgoldisævtojt vanntsaådåstuhttemij, bisodit vuosstájválldem bielev lokála varásbiergasbuktemij ja nannit ådåálggemav guollárvirggáj.</p>
+    <p xml:lang="nob">Les mer om fiskerettigheter.</p>
+    <list/>
+    <p>
+      <span type="quote">Guollim vuonajs ja merragáddetjátjen la låhpalattjat årroma- ja dåjmaj sáme lagos-sebrudagájn merragátte milta. </span>
+    </p>
+  </body>
+</document>

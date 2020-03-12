@@ -1,0 +1,55 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>83</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=151&amp;art_id=164</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=151_art_id=164.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=151_art_id=164.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=151_art_id=164.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Låvdagoahte</p>
+    <p type="title">Áhtje mijá</p>
+    <p>Áhttje mijá guhti le almen.</p>
+    <p>Ájlistuvvus duv namma.</p>
+    <p>Båhtus duv rijkka.</p>
+    <p>Sjaddus duv sidot</p>
+    <p>gåk almen, nåv aj ednamin.</p>
+    <p>Vatte midjij uddni mijá bæjvvásasj lájbev.</p>
+    <p>Ja luojte midjij suttojdimme ándagis,</p>
+    <p>nåv gåk mij aj luojttep mijá velgulattjajda.</p>
+    <p>Ja ale mijáv gæhttjalibmáj lájddi,</p>
+    <p>ájnat várjjala mijáv bahás.</p>
+    <p>Juhte duv le rijkka ja fábmo</p>
+    <p>ja herlukvuohta ihkeven ájggáj.</p>
+    <p xml:lang="nob">Amen.</p>
+    <p>Jesus mijájt åhpadij Áhtje mijáv råhkådallat. Danna li gietjav råhkusa, ja dá gietjav råhkusa gåbttji dav man åvdås dárbahip råhkåt.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

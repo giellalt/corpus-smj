@@ -1,0 +1,39 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>292</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=772761</origFileName>
+    <parallel_text xml:lang="fin" location="default.aspx_id=655200.html"/>
+    <parallel_text xml:lang="sma" location="default.aspx_id=772785.html"/>
+    <parallel_text xml:lang="sme" location="default.aspx_id=772795.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Fiesstim - Svenska kyrkan - Om oss</p>
+    <p type="title">Fiesstim</p>
+    <p type="title">Jugálvis la vuollo. Mujtto viessomij. Ij ber gejda vállduji valla aj berrahijda ja venagijda.</p>
+    <p xml:lang="swe">Tanja Petersdottir Eskandari och Salman Eskandari.</p>
+    <p>Girkkolasj fiesstim la jubmeldievnno manna li symbolajs vallje. Jubmela ja gájkka vihtanij åvdån loabedip nubbe nuppev gieresvuodav huksat ja nubbe nuppe bielen tjuodtjot viessomav tjadá. Råhkålip Jubmelav buorissjivnnjedit mijá gállasjvuodav ja viehkedit mijáv vájvij tjadá majt duosstop viessomin.</p>
+    <p>Máhttelis la persåvnålattjat hábbmit fiesstimjubeldievnov. Muhtem gállasjguojmmepára sihti tjállet ietjasa jáhtojt, lavllot lávllagav nubbe nubbáj jali dahkat ietjádav persåvnålattjat. Vuodo l vaj galggá årrot jubmeldievnno ávon ja gijttogisvuodan viessoma ja gieresvuoda vaddagis goappátjagá gállasjguojmmepárraj ja guossijda. <em type="italic">Fiesstimságastallam </em>Girkkolasj fiesstima åvddål la agev fiesstimságastallam manna härrá ja gállasjguojmmepárra hábbmiji fiesstimav. Makkir tevstajt galggá válljit, makkir jáhto galggi årrot, gut dahka majt ja goassa? Ienemusát härrá gatjádallá gállasjguojmmepáras gåktu ja goassa gávnadijga, masi ienemusát lijkkuba nubbe nuppen, majt ienemusát aktan dahkaba. </p>
+    <p>Tjuottjes gállasjguojmmepárraj dávk lisj vuojŋadahka gå bessaba hábbmimis oanegav ja tjalmostahtteba manen ajtu vállduba jur nubbe nuppijn. Härráj la vuohke sunnujn buorebut dåbdijdit ja l buorre vuodo fiesstimhållaj. Ságastallam máhttá årrot juogo de girkkon jali hejman gállasjguojmmepára lunna. Jus ságastallam la hejman de álu ásaduvvá duodde gávnadibme girkkon hárjjidalátjit seremoniddjav sajen.</p>
+    <p><em type="italic">Umasslágásj árbbedábe </em>Svierigin vájkuduvvap iehtjádij siegen amerijkalasj kultuvras. Dat vuojnnu aj moatten gállasjguojmmepáraj sávadusán ietjasa jugálvisá birra. Dábálasj gatjálvis la jus bruvrrá galggá lájddiduvvat áhtjes álltárij. Ij gávnnu mige Svieriga girkkon mij dav dábev buorggu, valla árvulasj la ájádallat symbolijka birra dagon. Álgon la gå åvdåsvásstadus nissunis vatteduvvá áhtjes ålmmåj ja l dat ájges gå nissuna ällim mindiga. </p>
+    <p>Muhtem härrá máhtti dat oares vuornnot bruvrrá áhtjes álltárij lájddiduvvá. Svierigin la árbbedáhpe gállasjguojmmepárra vádtseba aktan álltárij, symbollan gå nissun iesj vállji ietjas ålmmåv ja ålmmå iesj vállji ietjas nissunav ja såj iesmujtolis ja buohtaárvulattjat vádtseba fiesstimij.</p>
+    <p>//</p>
+  </body>
+</document>

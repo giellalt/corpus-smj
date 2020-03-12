@@ -1,0 +1,46 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>109</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=197&amp;art_id=254</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=197_art_id=254.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=197_art_id=254.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=197_art_id=254.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Dållå</p>
+    <p type="title">8.	I galga guojmát vuosstij vieret vihtanasstet.</p>
+    <p>
+      <em type="italic">Galggap jubmelbalulattjan suv iehttset, vaj ep guojmáma biehte, suv birra boaktjot håla, gielesta jalik mavga baháv sárno, ájnat suv bælostip, suv birra buorev hållap ja gájkka buore guovlluj usjudip. </em>
+    </p>
+    <p>Dát mierkki ep galga iehtjádij birra subtsastit mij ij la sádnes, dåssjedis ságajt låvgijdit jali gielestit. Dåssjedis sága soajttá hávvádahtti suv guhti dajs dejvadallá. Dåssjedis sága álu sjaddi, ja gássjel le dajt ganugahttet. Danen – ale dåssjedis ságajt iehtjádij birra subtsasta. Jus sidá sádnesvuodav muhtemis, de gatjáda sujsta njuolgga. Navti iehpedádjadusájt gádoda.</p>
+    <p>Le gus dån goassak sádnesvuodav tjiehkam gå galggi lulu dav bigodit? Manen navti gevaj? Balli gus bælkkudallamis?</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

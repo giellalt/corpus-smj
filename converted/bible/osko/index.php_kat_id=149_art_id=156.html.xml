@@ -1,0 +1,52 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>173</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=149&amp;art_id=156</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=149_art_id=156.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=149_art_id=156.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=149_art_id=156.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Låvdagoahte</p>
+    <p type="title">Råhkålvis</p>
+    <p>Rámádin tjuodtju råhkålvisá birra. Tjuodtju Jubmel sihtá galggap råhkådallat, ja tjuodtju sån mijá råhkålvisájt gullá. E gávnnu njuolgadusá gåktu råhkådallat galggá.</p>
+    <list>
+      <p type="listitem">Besa råhkådallat vájku ælla maakak majt javllat sidá. Jubmel le loabedam mijá lahka boahtet gå råhkådallap. Besa tjavgga váj sjávot råhkådallat Besa tjuorvvot ja gujddit Besa gijttet Besa ávvudallat Besa javllat mav i dádjada Besa viehkev ádnot Besa lågådimev ádnot Besa ándagisluojttemav ádnot Besa dårvov ádnot Besa dåssju subtsastit Besa aktu jali iehtjádij siegen råhkådallat Besa rámádav adnet gå råhkådalá – dagu Sálma Oabme testamentan Besa Áhtje Mijáv råhkådallat Besa Jesus-råhkålvisáv sisi- ja ålgusvuojŋadijn råhkådallat: Hærrá, Jesus Kristus ármmálaste muv badjel, suddára badjel. Besa iehtjádij åvdås råhkådallat Besa ádnot Jubmelav vuosedit mav galga dahkat Besa ráfev ádnot</p>
+    </list>
+    <p>Besa ålles dáv listav garvvet ja dåssju javllat: ”Jubmel!” ja de viessot ja iehttset. Jubmela mánnán.</p>
+    <p>
+      <em type="italic">Gulldala ja lågå Ann Mari Andersena lávllagav. </em>
+    </p>
+    <p>
+      <em type="italic">Mij le sieradus råhkålvisá ja lávllaga gaskan? Le gus lávlla råhkådallamvuohke? Gåktu bukti ristagisá væráldav miehtáj dårvustallat ja buorre Jubmelij jáhkket, gå le nav ållo bahávuohta væráldin? </em>
+    </p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

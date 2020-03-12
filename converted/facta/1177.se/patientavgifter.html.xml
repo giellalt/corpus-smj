@@ -1,0 +1,94 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>823</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Patientavgifter</origFileName>
+    <parallel_text xml:lang="eng" location="patientavgifter.html"/>
+    <parallel_text xml:lang="fin" location="patientavgifter.html"/>
+    <parallel_text xml:lang="fit" location="patientavgifter.html"/>
+    <parallel_text xml:lang="sma" location="patientavgift.html"/>
+    <parallel_text xml:lang="sme" location="patientavgifter.html"/>
+    <parallel_text xml:lang="swe" location="patientavgifter.html"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmn"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmu"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmy-rka"/>
+    <parallel_text location="patientavgifter.html" xml:lang="yid"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Patiänntamávso / Patientavgifter - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">JulevusámegiellaLulesamiska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">PatiänntamávsoPatientavgifter</p>
+    <p type="title">Majt máksá?</p>
+    <p type="title">Máksá ienemus dåktårmanádimijs</p>
+    <p>Varresvuohta- ja skihpasujtto Svierigin biednigahteduvvá ienemusát lánndadigge-ja komuvnnavärojs. Mávsov majt máksá buojkulvissan dåktårmanádimen la val oasásj majt ajtu máksá.</p>
+    <p>Ij la fámon ålles priváhtta sujton, buojkulvissan plásstakirurgiddjan mij ij la medisijnalattjat vuododum. Iesj de máksá ålles gålov.</p>
+    <p type="title">Umasse mávso umasse lánndadikkijn ja komuvnajn</p>
+    <p>Lánndadikke ja komuvna máhtti gájkkásattjat ietja mierredit makkir mávsojt galggá mákset dåktårmanádimijn ja ietjá dievnastusájn sujton. Gájkkásattjat li mávso åbbå sämmilágátja lánndadikkijn. Jus edna sujtov dárbaj de gávnnu allamáksosuodje, mij buojkoduvvá ienebut boahtte låhkusin.</p>
+    <p>Varresvuohta- ja skihpasujtto l mávsodis vargga gájkka lánndadikkijn ja dajvajn jus ij la 20 jage dävddám.</p>
+    <p>Merustaládum mávso vuollelin li fámon almulasj sujton ja priváhtta sujttovaddijn majn la såbadus lánndadikkijn.</p>
+    <p>Gå l sisitjáledum skihpadåhpåj de máksá jándurmávsov mij lága milta l ienemusát 100 kråvnå.</p>
+    <p>Gå manát dåktåra lunna varresvuohtaguovdátjin de mákso målsut 100 ja 300 kråvna gaskan. Manádimen gynekologa lunna ja mánádåktåra lunna de mákso målsut 200 ja 350 kråvnå gaskan. Jus dájn dåktårmanádimijn oadtju remissav röntgenåtsådibmáj ja dakkirijda de ij álu dárbaha ienep mávsov mákset. Manádimen ietjá dåktårspesialistaj lunna de mákso målsut 150 ja 350 kråvnå gaskan. Manádibme hähkkaduostudagán skihpadåben máksá 220-380 kråvnå. Manádibme skihpasujtára lunna ja skihpagymnásta lunna de mákso l 50-220 kråvnå manádibmáj.</p>
+    <p>Dahkat mammografidjav gávnatjit árra njidtjebårredávdav ja gynekologalasj sällaåtsådimev skoahtotjåddågin, máksá 200 kr.</p>
+    <p>Muhtem lánndadikke válldi mávsov dålvudagájs ambulánsajn jali helikopterijn.</p>
+    <p>Muhtem lánndadikke máksi ruoptus manádimmávsov jus la hähttum vuorddet muhtem ájgev duodden mierredum ájggáj . Jus ij ruoptodiŋgo ájgev mij ij hieba jali ij boade diŋgodum ájggáj de l huoman välggogis mákset manádimmávsov.</p>
+    <p type="title">Ietjá sujttovaddijn máhtti ietjá mávso</p>
+    <p>Gänna l ållu priváhtta jali ietjas barggovadde baktu skihpasujttoduodastus márjju li ållu ietjá vidjura makkir mávsojt galggá mákset.</p>
+    <p>Komuvna varresvuohta- ja skihpasujton, mij la fámon vuorrasappojda guhkaájggásasj skibádahkaj, gávnnuji umasse mávso sujttuj mij skihpasujtárijs vatteduvvi.</p>
+    <p>Svieriga Komuvna ja Lánndadikke vebbabielen gávnnuji adressa komuvnajda, lánndadikkijda ja dajvajda. Vebbabielijn la ájggeguovddelis ja dárkkelis diededibme sijá mávsoj birra.</p>
+    <p type="title">Mávso ålggorijkak viesájdiddjijda</p>
+    <p>Ålggorijkak viesájdiddjijn la rievtesvuohta hähkkasujttuj Svierigin.</p>
+    <p>Jus ietjá EU-rijkas boahtá, EES-rijkas jali Svejtsas de galggá europa skihpaduodastuskårttå, EU-kårttå, vuosedittjat rievtesvuohta l hähkka sujttuj ieme patiänntamáksuj. Jus ij la dakkir de l máhttelis sjaddá ålles sujttomávsov mákset.</p>
+    <p>Jus sujtov gis sidá mij ij la hähkka ja ij sidá mákset ienep gå patiänntamávsov de galggá duodastus mij vuoset häjmmarijkka sujtov máksá. Jus ij dav ane de iesj máksá ålles mávsov sujtos.</p>
+    <p>Ienemusá gudi båhti ietjá rijkajs EU, EES. Ja Svejtsa ålggolis hähttuji ietja mákset ålles sujttomávsov ja vájku hähkka sujtto.</p>
+    <p type="title">Jus svieriga viesájdiddjen skihppá ålggorijkan</p>
+    <p>Europa skihpaduodastuskårttå, mij rávviduvvá Oadjodåjmadagás, svierik viesájdiddjijda vaddá rievtesvuodav hähkka sujttuj ietjá EU-, EES-rijkajn ja Svejtsan sämmi ekonomalasj vidjurijda ma li fámon rijka ietjas viesájdiddjijda. Nuorttarijkajn ij dárbaha kårtåv vuosedit.</p>
+    <p>Jus dárbaj sujtov EU, EES-rijkaj ja Svejtsa ålggolin de ienemus rijkajn ij oattjo ietjas gålojt mávsedum, juogu de Svierigis jali dat rijkas gånnå jur dalloj la. Danen la ájnas adnet priváhtta mannoduodastusáv mij gåbttjå gålojt buojkulvissan dålvudibmáj. Jus la häjmmaduodastus de danna álu l mannosuodje mij gåbttjå muhtem gålojt.</p>
+    <p>Oadjodåjmadagá vebbabielen la vil diededibme gåk sujtov oadtjot ålggorijkan.</p>
+    <p type="title">Allamáksosuodje</p>
+    <p type="title">Friddjakårttå gå l jåvsådam alemus märráj</p>
+    <p>Mierre gávnnu man ednagav hähttu mákset varresvuohta- ja skihpasujtos. Gåhtjudallá allamáksosuodjen ja l hábbmidum sämmiláhkáj gájkka lánndadikkijn. Fámon la aj jus sujtov åhtså ietjá lánndadikken jali dajvan gå gånnå årru.</p>
+    <p>Allamáksosuodje merkaj 12 mano ájgen aktisattjat máksá ienemusát 1 100 kr patiänttamákson. Riekknigoahtá vuostasj manádimen, juska vil goassa jagen manát. Gå l máksám 1 100 kråvnå de oadtju friddjakårtåv mij la fámon lågenanguovtemánoájge bátsidusán. Gå lågenanguokta máno li gållåm de vat máksegoahtá ietjas manádimis desik la jåvsådam 1 100 kråvnnåj.</p>
+    <p>Allamáksosuodje ij álu gåbtjå</p>
+    <list>
+      <p type="listitem">mávsojt majt máksá bäjvváj gå l sisitjáledum skihpadåhpåj</p>
+      <p type="listitem">gabnnjadálkudimijt</p>
+      <p type="listitem">duodastusá ja varresvuohtaåtsådimijt</p>
+      <p type="listitem">ietjá hieredim sujtov, buojkulvissan mammografiddjakontrållåv</p>
+      <p type="listitem">gålov gáhtom manádibmáj</p>
+      <p type="listitem">gålov journála moattádussaj</p>
+      <p type="listitem">dievnastusmávsov, mij váldeduvvá jus máksá kredijtajn jus faktuvrra häjmmaj rájaduvvá.</p>
+    </list>
+    <p>Bádnesujton ij la álu fámon skihpasujto allamáksosuodje.</p>
+    <p>Allamáksosuodje gis máhttá fámon årrot badnesujttuj jus la stuorra ja guhkaájggásasj dárbbo persåvnålasj sujtos bäjválasj viessomin. Allamáksosuodje máhttá aj fámon årrot jus la skibádahka manna bádnesujtto l medisijnalasj dálkudime oassen. Jus la skibádahka mij buktá lasedum vádáv bádnevahágijda jali jus la vájvve ietjas njálmmerájnasvuodav sujttit de máhttá aj oadtjot bádnesujtov skihpasujttomáksuj mij la allamáksosuojen.</p>
+    <p>Dálkkasijda ma li tjáledum dåktåris, skihpasujtárijs, jali ietjá dåhkkidum bargges sujton de gávnnu allamáksosuodje mij merkaj dárbaj mákset ienemusát 2 200 kråvnå lågenanguovtemánoájggáj. Dálkastjáladis dálkkasa e gullu dán allamáksosuodjáj.</p>
+    <p>Duodden gávnnu allamáksosuodje skihpamanojda ja teknijkalasj viehkkenävojda ma mierreduvvi lánndadikkijs. Merkaj njuolgadusá máhtti målsudit lánndadikkij gaskan.</p>
+    <p type="title">Mávsodis varresvuohta- ja skihpasujtto</p>
+    <p>Muhtem varresvuohta- ja skihpasujtto máhttá årrot ållu mávsodis muhtem lánndadikkijn. Dálkkasij åvdås ma tjáleduvvi dájn sujttomanádimijn gis iesj máksá.</p>
+    <p>Manádime iednesujtto- mánásujttoduostudagájn (MVC ja BVC) li mávsodis ålles rijkan.</p>
+    <p>Skåvllåvarresvuohtasujton ij mávse avtak manádimmávsov ja gabnnjadálkudime ma fáladuvvi danna li mávsodis.</p>
+    <p>Ienemus lánndadikkijn máná ja nuora 20-jahkebäjvváj e avtak mávsov rabás varrresvuohta- ja skihpasujton mávse, buojkulvissan manádimen varresvuohtaguovdátjin ja nuorajduostudagán.</p>
+    <p>Sujtto ja dálkkasa majt dárbaj gå dálkuduvvá nåv gåhtjodum almulasjvádálasj dávddaj oadtju Soahpomsuodjelága milta mávsodis.</p>
+  </body>
+</document>

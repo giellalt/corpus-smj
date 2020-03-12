@@ -1,0 +1,82 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>778</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Undersokningar-och-prover/Blodprov-PSA</origFileName>
+    <parallel_text xml:lang="eng" location="psa.html"/>
+    <parallel_text xml:lang="fin" location="psa.html"/>
+    <parallel_text xml:lang="fit" location="blodprov-psa.html"/>
+    <parallel_text xml:lang="rus" location="psa.html"/>
+    <parallel_text xml:lang="sma" location="blodprov-psa.html"/>
+    <parallel_text xml:lang="sme" location="blodprov-psa.html"/>
+    <parallel_text xml:lang="swe" location="psa.html"/>
+    <parallel_text location="blodprov-psa1.html" xml:lang="rmu"/>
+    <parallel_text location="blodprov.html" xml:lang="rmn"/>
+    <parallel_text location="blodprov-psa.html" xml:lang="rmy-rka"/>
+    <parallel_text location="psa-blodprov.html" xml:lang="yid"/>
+    <parallel_text location="blodprov-psa.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="psa-blodprov.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Varraåtsådibme: PSA / Blodprov: PSA - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">JulevusámegiellaLulesamiska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title">Varraåtsådibme: PSABlodprov: PSA</p>
+    <p type="title">Manen dárbaj åtsådimev vaddet?</p>
+    <p type="title">Goassa vaddá PSA åtsådimev?</p>
+    <p>PSA l varraåtsådibme mij gullu åtsådimijda majt dagá gå prostahta åtsåduvvá.</p>
+    <p>Muhttijn vaddá PSA-åtsådimev jus la gådtjåmvájve masi dåktår gáddá prostahta l oarre, buojkulvissan jus álu dárbaj gåttjådit vájku gå gådtjålábtjen la vuollegasj däddo.</p>
+    <p>Máhttá aj vaddet PSA-åtsådimev jus dåktår gullá muhtem prostahta rievddadusájt gå åtsåduvvá, rievddadime ma máhtti buktet moattelágásj vájvijt ja dávdajt.</p>
+    <p>Ájnas la diehtet aledum PSA-árvo ij javla ulmutjin la prostahtabårredávdda. Le dábálasj giehppis ja mutták PSA aledimijn li ietjá oare.</p>
+    <p>Sämmiláhkáj máhttá iemelágásj árvvo ij ållåsit ierittjuolldet prostahtabårråmdávdav. Boados hähttu agev árvustaláduvvat makkir vájve li ja majt ietjá åtsådime vuosedi.</p>
+    <p>Jus li guokta jali moadda lahka berraha gudi li ålmmå prostahtabårråmdávdajn, de l stuoráp máhttelisvuohta dávdav oadtju. De májnoduvvá válldet PSA-åtsådimev dájvvalakkoj 40-50 jage álldaris gitta 70 jage álldarij.</p>
+    <p>PSA mihttiduvvá aj ájggeguovddelis prostahtabårrråmdávda dåmajdimen. Jus dálkudibme viehket de vuojnnu gå PSA-árvvo vuollán.</p>
+    <p type="title">Ávke ja hieredisá</p>
+    <p>PSA-åtsådibme ij dábálattjat dagáduvá gájkkásasj varresvohtagähttjamin ålmmåjda árvustalátjit jus siján la prostahtabårråmdávda sieldes árra hábme. Ij la agev ávkke ielvvet ja dálkudit jur prostahtabårredávda árra hámijt. Dálkudime máhtti vaddet stuoves tjuovvobájnatjimijt nåv gåk impotänssa ja inkontinänssa ålmåjn gejn prostahtabårråmdávdda ij goassak lulu háhppidam åvddånit muhtem garra dávddaj.</p>
+    <p>Bårredávddasjattalvis prostahtan máhttá juogu de suojmma sjaddat váni vattek vájvijt jali ruvva ja oabllot ietjá rubmaha åsijda. Árra ájgen ij máhte guokta bårråmdávddatjerda sieradit ja danen la máhttelis dåjmajduvvat bårråmdávddahábmáj massta ij lulu vájvijt ietjas viessomájgen oadtjot.</p>
+    <p>Moadda ålmmå sihti huoman tjadádit åtsådimijt oattjotjit diedojt jus siján la prostahtabårråmdávdda. Åvddål gå mierret jus galggá åtsådimev vaddet PSA:aj la buorrre åtsådit ienebuv ávkij birra ja hieredisájt árra gávnadum sjattalvisá dåmajdimijn. Jus de sihtá joarkket ja ságastallat dåktårijn de gálggá ájgev diŋŋgot varresvuohtaguovdátjin jali vidnudakvarresvuohtasujton.</p>
+    <p type="title">Mij la PSA ja gåggu gávvnu?</p>
+    <p>PSA l oanádis [prostataspecifikt antigen]. Le proteijnna mij dagáduvvá prostahtarávsán ja tjuovvo sájojt gå ejakulasjåvnåv oadtju ja dahká vaj sájo labudi giehpebut.</p>
+    <p>PSA gávnnu dábálattjat binná mieren varán aj, ja l dat nárre mij mihttiduvvá PSA-åtsådime baktu. Ietján gå bårråmdávdda de gávnnuji moadda dábálasj rievddadusá prostahtan ma máhtti dahkat vaj PSA- mierre varán lassán. Buorre prostahtastuoredibme ja inflammasjåvnnå prostahtarávsán máhttá buojkulvissan, nåv gåhtjoduvvam prostatijtta, doalvvot vaj lissi ienep PSA:av várán prostahtas.</p>
+    <p>PSA-mierre lassán vehik ájge milta ienemus ålmmåjn danen gå prostahtaráksá stuorru gå vuorastuvvá.</p>
+    <p>Enamus mierre PSA varán la tjanádum umasslágásj proteijnajda. Valla gávnnu aj binná luovas, tjanádahkes PSA. Gå li ietjá oare gå bårråmdávdda mutták PSA- allánibmáj, de álu gávnnuji ienep luovas PSA varán. Danen máhttá dåktårij vaddet vissa oajvvadusáv mihttit gasskavuodav tjanádum ja luovas PSA gaskan.</p>
+    <p type="title">Gåktu åtsådibme váldeduvvá?</p>
+    <p>Åtsådimev álu válldi giedan sekka nálujn viehkken mij tjuoggiduvvá varravárráj, venan. Danen dát tjärdda várraåtsådimes gåhtjudallá åsådibmen vena baktu.</p>
+    <p>Åtsådimev válldá akta goassa jánndurin Galggá tjåhkudallat 15 minuvta åvddål gå åtsådibme váldeduvvá. Ietján älla aktak gárvedime dárbulattja.</p>
+    <p>Jus tjuollá prostahtan de PSA-árvvo allán. Hähttu de vuorddet unnemusát 10 biejve åvddål gå l ávkálasj PSA-åtsådimev válldet. Jus dåktår val gulldal prostahtav de PSA-árvvo ij bájnatjuvá.</p>
+    <p type="title">Goassa oadtju vásstádusáv?</p>
+    <p>Åtsådibme rájaduvvá skihpadåhpelaboratåvrråj gånnå guoradaláduvvá. Máhttá ájgás boahtet ietjas dåktårijn goassa ja gåktu åtsådime båhtusav diededuvvá. Dåktår álu vásstádusáv laboratåvrås oadtju avtan jali guovten biejven.</p>
+    <p type="title">Gåktu åtsådimvásstádus dádjat?</p>
+    <p>Åtsådimvásstádus hähttu agev árvustaláduvvat makkir vájve li ja majt ietjá åtsådime vuosedi.</p>
+    <p>PSA-árvvo varán målsut umasse ålmåj gaskan, aj ålmåj gaskan gejn älla prostahtavájve. Vaj dåktår galggá máhttet juojnak buohtastahttet de aneduvvá referänssaárvo. PSA-árvojda álu árvo badjel 3 mikrográmma lijttarij riekkniduvvá lassánibmen.</p>
+    <p type="title">Alla árvo, mij la dan oarre?</p>
+    <p>Bájkoj avtan låget ålmmås gasska álldarin la aledum PSA-árvvo. Dábálasj oarre vehik aledum árvojda buorre prostahtastuoredibme.</p>
+    <p>Aledum árvojt oadtju aj jus la prostahtainflammasjåvnnå, nåv gåhtjoduvvam dálkodik prostatijtta.</p>
+    <p>Dábálasj gådtjåinfeksjåvnnå máhttá vaddet garra lassánimev PSA:s valla vássá. Jus avtak oare diehti ij máhte gådtjåt ja gådtjårágáv duobbmit snivva, de máhttá aj oadjot ånibåddåsasj lasedum PSA-árvov. Jus la vájvve gådtjårágáv duobbmit ja stuoráp gådtjå nárre agev báhtsá, de gådtjåbavvagin gåhtjudallá.</p>
+    <p>Aledum árvo máhtti aj årrot prostahtabårredávdda. Gejs li aledum PSA gávnaduvvá bårredávdda bájkoj gålmådisán. Sieradittjat buorre prostahtavájvijt prostahta bårredávdas de máhttá gasskavuohta luovas ja tjanádum PSA gaskan dåkttårav viehkedit.</p>
+    <p>Gejs ietjasa gähttjali moaddi moatten jagen, li bájken avtan nieljes PSA-árvvo mij doarjju ienep åtsådimijt.</p>
+    <p>Jus PSA-åtsådime boados vuoset alep árvov, de dåktår álu dahká vil åtsådimev ultrajienajn ja tsuodtsaåtsådimev prostahtarávsás. Jus dåktår gávnná bårredávdav de oadtju dálkudimev tjuollamijn, suonjardimijn, jali hormonadåmajdimijn.</p>
+    <p type="title">Vuollegis árvo, mij la dan oarre?</p>
+    <p>Vuollegis árvo vuoset prostahtabårredávdda gávnnu, ihka vil val akta PSA-åtsådibme ij ållåsit máhttá dav ierittjuolldet.</p>
+    <p>Jus oadtju prostahtav ieritváldedum tjuollama baktu de PSA-árvvo vuollán jur mihttidahkes märráj. Vuollegis PSA-árvvo máhttá de aneduvvat mihttán tjuollamin lij buorre boados. Guovten ietjá dåmajdimtjerdan aj, suonjardimen ja hormonadálkudimen, vuoledum PSA-árvvo l dåbddåmärkka dåmajdibme l buoragit doajmmam.﻿﻿</p>
+  </body>
+</document>

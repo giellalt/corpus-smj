@@ -1,0 +1,141 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>686</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Biras-arealla-ja-kultursuodjalus/Kulturmujto</origFileName>
+    <parallel_text xml:lang="nob" location="kulturminner.html"/>
+    <parallel_text xml:lang="sma" location="kultuvremojhtesh.html"/>
+    <parallel_text xml:lang="sme" location="kulturmuittut.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kulturmujto / Birás, areálla ja kultursuodjalus / Sámedigge - Sametinget</p>
+    <p>Åtså biednikdårjav</p>
+    <p type="title">Kulturmujto</p>
+    <p>Sámedigge le jages 2001 læhkám háldadimfábmudahkan sáme kulturmujtoj gáktuj ålles Vuonan. Sáme kulturmujto li udnásj sáme årrombájkijn, Hedmárkos oarjján gitta Finnmárkkuj nuorttan. Åvdep ájgij lij sáme årrombájkke guhkebuj oarjás ja alás. Sáme kulturmujto aj dåppe gávnnuji.</p>
+    <p>Politihkalasj åvdåsvásstediddje</p>
+    <p xml:lang="nob">Rådsmedlem</p>
+    <p xml:lang="sme">NSR</p>
+    <p xml:lang="nob">Sørsamisk</p>
+    <p>
+      <em type="bold">Ma li sáme kulturmujto? </em>
+    </p>
+    <p>Kulturmujttolágan tjielggiduvvi kulturmujto náv <span type="quote">“gájkka bátsidisá ulmutjij dåjmajs mijá fysihkalasj birrusin, dáj vuolen saje gåsi li histåvrålasj dáhpádusá, åsko jali dábe tjanádum”</span>. Kulturbirás le bájkke gåsi kulturmujtto gullu oassen stuoráp ja ålles aktijvuodas. Máhttá liehket ællosáme gábmá- jali låvagoahtesadje ja gárddesadje, bivddobátsidisá bivddoråkkij, vuohtjemtjiegána ja bierggovuorká, merrasáme sijdda aktan gådijn, návsstijn ja fiervváskiejájn, jali jávrre aktan ráhposuollutjijn ja værrodimsajijn. Kulturbirrusin aj máhttá liehket bájkke gåsi histåvrålasj dáhpádus, åssko jali dáhpe gullu, ja danen ij le agev duobddák mij le ulmutjis fysihkalattjat vájkkuduvvam.</p>
+    <p>Kulturmujttolága baktu galggi kulturmujto ja kulturbirrusa bisoduvvat gálldon diedojda, vásádusájda ja iesjdåbdduj, ja adnoresurssan boahtteájggáj. Sáme kulturmujto li fysihkalasj duodastusá sáme årromijda ja ájnas iesjdåbddo- ja rievtesvuohtavuojnnuj.</p>
+    <p xml:lang="sme">
+      <em type="bold">Barggosuorge: </em>
+    </p>
+    <list>
+      <p type="listitem">Mij lip guládallamorgádnan areálla ássjijn sæmmi dásen gå fylkasuohkana</p>
+      <p type="listitem">Mij bagádallap ráfájduhtedum ja suodjalimárvvugis sáme tsiekkadusáj æjgádijt</p>
+      <p type="listitem">Mij registrerip, gaskostip ja árjjop sáme kulturmujtojt ja kulturbirrusijt</p>
+      <p type="listitem">Mij duodastip sáme kulturhiståvråv ja árbbedábálasj diedojt</p>
+      <p type="listitem">Mij dahkap háldadimplánajt</p>
+    </list>
+    <p>
+      <em type="bold">Areálpolitihka ulmme: </em>
+    </p>
+    <list>
+      <p type="listitem">Guoddelis areálaj ja resurssaj ávkástallam sáme guovlojn, sáme histåvrå ja árvoj vuodos.</p>
+      <p type="listitem">Kulturmujttopolitihka ulmme:</p>
+      <p type="listitem">Suodjalit, bisodit ja åvddånbuktet sáme kulturmuojt ja kulturbirrusijt</p>
+      <p type="listitem">Nannit sáme dábij ja histåvrå diedojt ja vuodov suodjalittjat ja árjotjit sáme kulturmujtojt.</p>
+      <p type="listitem">Háldadit sáme kulturmujtojt ietjama histåvrå ja árvoj gáktuj</p>
+    </list>
+    <p>
+      <em type="bold">Dåjma: </em>
+    </p>
+    <list>
+      <p type="listitem">Registrerit sáme kulturmujtojt åhtsåmbargo baktu</p>
+      <p type="listitem">Duodastit sáme kulturhiståvråv ja árbbedáhpediedojt ságájdahttemij baktu</p>
+      <p type="listitem">Aktisattjat barggat guovdásj, guovllo ja bájkálasj ojválattjaj ja aktøraj</p>
+      <p type="listitem" xml:lang="sme">Ruhtadoarjjaårniga</p>
+    </list>
+    <p>
+      <em type="bold">Gåktu barggap dáj ássjij </em>
+    </p>
+    <list>
+      <p type="listitem">
+        <em type="bold">Areállaháldadibme </em>
+      </p>
+    </list>
+    <p>Sáme kulturmujto ma li 100 jage li automáhtalattjat ráfájduhtedum. Dát aj gullu tsiekkadusájda. Automáhtalattjat ráfájduhtedum kulturmujto li automáhtalattjat suodjaluvvam mij sihtá javllat suodjaluvvam divna dåjmajs mij bæjsstá jali vahágahttá, jådedime, ietjájduhttema, gåbttjåma jali hiebalgahtes biledime, dáj gaskan aj dåjmajs ma ietjájduhtti gåktu kulturmujto vuojnnu.</p>
+    <p>Sámedigge hæhttu åhtsåmusáv oadtjot gå dákkár dåjma soajtti. Dábálattjat divna lágásj tsiekkadusdåjma ja dahkamuhá luondon jali automáhtalasj ráfájduhtedum vieson. Jus soajttá plánidum doajmma kulturmujtov bahtá vájkkudit, de háldadus vargga agev buktá vuosteldimev. Doajmmaæjgát máhttá de sierraloabev åhståt suodjalimmærrádusájt. Sámedigge vaddá de ássjáj Rijkaantikvárraj rádev. Rijkaantikvárra mij le sieraaloabe fábmudahka, máhttá huoman loabev vaddet doajmmaj muhtem sierra ævtoj milta. Dákkár ævto máhtti liehket dutkambállema, jali ráfájduhtedum viesov oabddit antikváralasj vuojnoj milta. Dát sihta javllat binnemus máhttelis ábnas målsoduvvá, ja da ma målsoduvvi, målsoduvvi sæmmilágásj abnnasij.</p>
+    <list>
+      <p type="listitem">
+        <em type="bold">Prosjækta bargo </em>
+      </p>
+    </list>
+    <p>Sámedikken li ietjanis sierra hoajjdoprosjevta ruhtadoarjjagijn Rijkaantikváras. Miján li aj doarjjaårniga dákkár prosjevtajda, gånnå ullmejuohkusin li ierit ietján musea ja kulturmujtoj æjgáda ja addne. Kulturmujttoláhka vaddá Sámediggáj loabev dahkat dárbulasj dåjmajt <span type="quote">“hoajdotjit ja åvddånbuvtátjit”</span> automáhtalasj ráfájduhtedum kulturmujtojt. Dákkár dåjma máhtti liehket luonndosjattoj hoajddo, fysihkalasj dåjma dagu galppim, kulturbálggá, ráfájduhtedum viesojt oabddit, ådåsis tsieggim ja jådedibme. Jus iehtjáda sihti hoajddo- ja åvddånbuktemdåjmajt tjadádit, hæhttu dát dáhpáduvvat kulturmujttoháldadusá avtajrádijn . Dájt maŋemus jagijt li Sámedikken læhkám moadda registrerimprosjevta Fylkesmánne vidnujs. Duogátjin le Fylkesmánne nasjonálpárkaj ja suodjalimguovloj háldadimplánaj barggo. Registrerimbargo li tjadáduvvam guovlojn ma åvdutjis li binnáv guoradaládum, dagu stuorra várreduobddágijn. Dát barggo le buktám ållo ådå registrerimijt ja lasse diedojt åvdep ájgij sáme ávkástallamav dákkár guovlojs.</p>
+    <p><em type="bold">Láhkatjoahkke </em>Sámedikke háldadimfábmudahka le loahpádum kulturmujttolágan ja pládna- ja tsiekkaduslágan: </p>
+    <p>Kulturmujttoláhka Pládna- ja tsiekkadusláhka</p>
+    <p>
+      <em type="bold">Guovdásj aktisasjbargge </em>
+    </p>
+    <list>
+      <p type="listitem">Fylkasuohkana</p>
+      <p type="listitem">Rijkaantikvárra</p>
+      <p type="listitem" xml:lang="nob">Fylkamánne</p>
+      <p type="listitem">Boatsojæládusháldadus</p>
+      <p type="listitem">Suohkana</p>
+      <p type="listitem" xml:lang="nob">Tromsø Museum – Universitehtamusea</p>
+      <p type="listitem" xml:lang="nob">NTNU Vitenskapsmuseet</p>
+      <p type="listitem" xml:lang="nob">UiO Kulturhistorisk museum</p>
+    </list>
+    <p>
+      <em type="bold">Válde aktijvuodav mijájn </em>
+    </p>
+    <p>
+      <em type="bold">Sámedikke kulturmujttoháldadus le divna Sámedikke guovllokåntåvråjn ásaduvvam. Juohkka kåntåvråjn gávnnu aj fágalasj vásstediddje tsiekkadussuodjalimen. Háldadusán barggi arkeologa ja bargge gejn li sierra máhtudahka sáme kulturmujtojs ja sáme histåvrås ja gielajs. </em>
+    </p>
+    <p xml:lang="nob">
+      <em type="bold">Finnmark kåntåvrrå, Vuonnabadán: </em>
+    </p>
+    <p xml:lang="nob">Thor-Andreas Basso, tlf: +47 78 47 40 16</p>
+    <p xml:lang="sme">Andreas Stångberg, tlf: +47 78 48 42 28</p>
+    <p>
+      <em type="bold">Tråmså kåntåvrrå, Olmájvákken: </em>
+    </p>
+    <p xml:lang="nob">Ingvild Larsen, tlf: +47 78 48 42 77</p>
+    <p xml:lang="nob">
+      <em type="bold">Tromsø: </em>
+    </p>
+    <p>Oddleif Mikkelsen, tlf: +47 78 48 42 78</p>
+    <p xml:lang="nob">Stine B. Sveen, tlf: +47 78 48 42 80</p>
+    <p>
+      <em type="bold">Nordlánda kåntåvrrå, Ájluovtan: </em>
+    </p>
+    <p xml:lang="sme">Una Elstad, tlf: +47 78 47 41 68</p>
+    <p xml:lang="nob">Arne Håkon Thomassen, tlf: +47 78 47 41 69</p>
+    <p>
+      <em type="bold">Oarjjelsáme guovloj kåntåvrrå, Snåase: </em>
+    </p>
+    <p xml:lang="nob">Bjørn Berg, tlf: +47 78 47 40 27</p>
+    <p>
+      <em type="bold">Tsiekkadussuodjalusá fáhkavásstediddje: </em>
+    </p>
+    <p xml:lang="sme">Randi Sjølie, tlf: +47 48 18 23 97</p>
+    <list/>
+    <p>
+      <span type="quote">Sáme kulturmujto li fysihkalasj duodastusá sáme årromijda ja ájnas iesjdåbddo- ja rievtesvuohtavuojnnuj.</span>
+    </p>
+  </body>
+</document>

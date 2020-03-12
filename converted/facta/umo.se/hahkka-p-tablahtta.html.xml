@@ -1,0 +1,80 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>557</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Hahkka-p-tablahtta</origFileName>
+    <parallel_text xml:lang="fin" location="jalkiehkaisypilleri.html"/>
+    <parallel_text xml:lang="fit" location="akyytti-p-pilleri.html"/>
+    <parallel_text xml:lang="sma" location="akute-p-pillere.html"/>
+    <parallel_text xml:lang="sme" location="fahkkatla-p-pillar.html"/>
+    <parallel_text xml:lang="swe" location="akut-p-piller.html"/>
+    <parallel_text location="kris-p-drabb.html" xml:lang="rmu"/>
+    <parallel_text location="akutno-p-drab.html" xml:lang="rmy-rka"/>
+    <parallel_text location="sigutno-p-pilleri-akut-p-pilleri.html" xml:lang="rmf"/>
+    <parallel_text location="akutno-p-piller-preventivno-tabletka.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="akutno-pipula.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Hähkka-p-tablähtta</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title">Hähkka-p-tablähtta</p>
+    <p>Hähkka-p-tablähtta, tablähtta mav niejda máhtti bårråt vaj e iesselissan sjatta. Ij la ieme suodje iesselisvuohtaj, dat javllá, ij la juoga majt suodjen adná åvddål jali nargedijn. Hähkka-p-tablähtta galggá val hiehtetjoavddusin aneduvvat ja ij dájvvalakkoj suodjen iesselisvuohtaj.</p>
+    <p>Hähkka-p-tablähtta l vuohke hieredit iesselisvuodav jus la juo suojedis narggemav adnám, buojkulvissan gå l vájálduhttám suojev, ij la dav lágedam jali jus la illastuvvam.</p>
+    <p>Beras aj bårråt hähkka-p-tablehtav jus la vadá jut suodje majt adni ittjij dåjma, buojkulvissan jus kondoma luottanij jali jus la hähkka-p-tablehtav vuoksám.</p>
+    <p>Tablehtan majt bårrå, li hormona gestagenum (gulkroppshormon). Dahká månneluovvanibme ij sjatta jali månneluovvanibme sjáhtjaluvvá.</p>
+    <p>Gestagenum gávnnu aj iemelágasj p-tablehtajn, valla dálkasmierre hähkka p- tablehtan la sieldes alep. Dahká tjuovvobájnatjime márjju sjaddi vájvebu ihka vil ij la dábálasj.</p>
+    <p>Hähkka p-tablehta galggi val hiehtetjoavddusin aneduvvat ja ij dájvvalakkoj suodjen iesselisvuohtaj.</p>
+    <p>Hähkka p-tablehta de ij boarkki iesselisvuodav ja danen ij la sämmi gå abårttå jali nåv gåhtjoduvvam abårttåtablähtta.</p>
+    <p type="title">Gåktu adná hähkka-p-tablehtav?</p>
+    <p>Muhttijn hähkka- p-tablähtta gåhtjoduvvá biejve-maŋŋela- tablähttan. Le vehik boasstot danen gå ij hähttu tablehtav bårråt biejve maŋŋel narggema. Hähkka-p-tablähtta máhttá 72 tijman båråduvvat, de gålmmå jánndura, narggema maŋŋela dåjmatjit.</p>
+    <p>Dadi árabut tablehtav bårrå dadi binnep máhttelisvuohta l iesselissan sjatta. Muhtem jali moadda biejve maŋŋela gå l hähkka-p-tablehtav bårråm de máhttá varddemav oadtjot, valla ienemusá e dav oattjo.</p>
+    <p>Gávnnu aj sierralágásj hähkka–p-tablähtta mav maŋemusát vidát suojedis narggema maŋŋela máhttá bårråt. Máhttá val gáhppeliddjes jali dåktåris dálkastjállagin tjáleduvvat.</p>
+    <p>Jus dakkir dálkastjállagav dárbaj, de aktavuodav válldá nuorajduostudagájn, seksa- ja aktanårromduostudajn, varresvuohtaguovdátjijn, gáhppeliddjeduostudagájn jali nissunijklinijkajn. Álu máksá dan åvdås. Muhtem duostudagájn dav mávsedak oadtju.</p>
+    <p type="title">Gånnå åttjut hähkka-p-tablehtav?</p>
+    <p>Oadtju hähkka-p-tablehtav ienemus nuorajduostudagájn, seksa- ja aktanårromduostudagájn ja varrresvuohtaguovdátjijn.</p>
+    <p>Oadtju aj hähkka-p-tablehtav muhtem gáhppeliddjeduostudagájn ja nissunijklinijkajn.</p>
+    <p>Gávnnuji aj oasstet dálkasboargálin váni dálkastjállaga dagi.</p>
+    <p>Jus manná buojkulvissan nuorajduostudahkaj, oattjotjit hähkka-p-tablehtav de oadtju ådå ájgev iesselisvuohtaåtsådimev dahkat ja, jus sihtá, klamydiaåtsådimev.</p>
+    <p>Bagádusájt aj oadtju gåktu galggá ietjas suoddjit iesselisvuohtaj ja vuollevájmmodávdajda åvddålij guovlluj jus dav sihtá.</p>
+    <p type="title">Majt hähkka-p-tablähtta máksá?</p>
+    <p>Jus oasstá hähkka-p-tablehtav vani dálkastjállaga dagi dálkasboargálin de hähttu dan åvdås mákset. Nuorajduostudagán oadtju tablehtav mávsodak.</p>
+    <p type="title">Man åskeldahtte l hähkka-p-tablähtta?</p>
+    <p>Váda iesselissan sjaddat la unne gå l tablehtav bårråm. Váda hähkka-p-tablähtta ij dåjmma, dat javllá iesselissan sjaddá, laseduvvá dadi guhkep ájgge narggema maŋŋel tablehtav bårrå.</p>
+    <p>Jus vuoksá gålmån tijman gå l bårråm tablehtav jali jus slåhtju, de ij la visses jut rumáj háhppit hormonav åmastit. Danen hähttu ådå tablehtav bårråt nåv ruvva gå máhttelis, ietján de l váda iesselissan sjaddá.</p>
+    <p>Dálkasdiededimtjállagin låhkå mij guosská jur dan hähkka-p-tablähttaj majt bårrå. Dálkasdiededimtjála l páhperbiehkke mij gurjon gávnnu gå oadtju jali oasstá hähkka-p-tablehtav. Jus juorrul de agev máhttá gáhppeliddjes gatjádit buojkulvissan nuorajduostudagán jali lijkke-ja vuollevájmmoduostudagán.</p>
+    <p>Oattjotjit vissesvuodav ij la iesselissan sjaddam de beras iesselisvuohtaåtsådimev dahkat bájken gålmå vahko maŋŋela gå tablehtav la bårråm.</p>
+    <p type="title">Man álu máhttá hähkka-p-tablehtav bårråt?</p>
+    <p>Ij gávnnu mierre galli läjbbomgasskaj máhttá hähkka-p-tablehtav bårråt. Jus la suojedis narggemav adnám ja ij sidá iesselissan sjaddat de l buorep hähkka-p-tablehtav bårråt moaddi sämmi läjbbomgaskan gå ij bårråt, ihka vil la váda gasskavarddema lassáni.</p>
+    <p>Jus dárbaj hähkka-p-tablehtav bårråt álu de lulu ájádallat gåktu ietjas suoddji narggemin ja jus dárbaj dav rievddadit. Oattjotjit viehkev dajna de aktavuodav válldá nuorajduostudagájn, varresvuohtaguovdátjijn jali lijkke-vuollevájmmoduostudagájn.</p>
+    <p type="title" xml:lang="swe">Ávke</p>
+    <list>
+      <p type="listitem">Jus ij la ietjas suoddjim jali suodje majt adni ittjij dåjma de l vuohke máhttelisvuodav unnedit iesselissan sjaddat.</p>
+    </list>
+    <p type="title">Hieredisá</p>
+    <list>
+      <p type="listitem">Hähkka-p-tablähtta ij suoddji vuollevájmmodávdajda.</p>
+      <p type="listitem">Hormona máhttá ulmutjav vájkudit vaj buojkulvissan oadtju oajvveluottudagáv, dättojt njittjijn jali málldusav dåbdå, valla dájvvamusát ij la gå jánndurav.</p>
+    </list>
+  </body>
+</document>

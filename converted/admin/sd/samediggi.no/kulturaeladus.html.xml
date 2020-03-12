@@ -1,0 +1,77 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>217</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/AEladus/Kulturaeladus</origFileName>
+    <parallel_text xml:lang="nob" location="kulturnaering.html"/>
+    <parallel_text xml:lang="sma" location="kulturejieleme.html"/>
+    <parallel_text xml:lang="sme" location="kulturealahus.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kulturæládus / Æládus / Sámedigge - Sametinget</p>
+    <p type="title">Kulturæládus</p>
+    <p>Kulturæládusá li akta lánda geldulamos ja jåhtelamos sjadde æládusájs. Sáme sebrudagán le dát vuoras æládus juo, ja danna le buorre potensiálla. Uddni duodjára ja dájddára lándav miehtáj gæhttjali allasisá bargov dahkat ietjasa dájdda- ja kulturjavllamusás.</p>
+    <p>Politihkalasj åvdåsvásstediddje</p>
+    <p xml:lang="nob">Rådsmedlem</p>
+    <p xml:lang="sme">NSR</p>
+    <p xml:lang="nob">Nordre</p>
+    <p>Jur dálla</p>
+    <p>Doarjju sáme mannoiellemav julevsáme guovlon</p>
+    <p>Sámediggeráde juollot 228 tuvsán kråvnå doarjjan prosjæktaj mannoiellemav ju...</p>
+    <p>Lågå ienebuv</p>
+    <p>Vuoseda divna ássjijt</p>
+    <p>
+      <em type="bold">Kulturæládusáj birra: </em>
+    </p>
+    <p>Sámedigge æládusáv návti defineri: Priváhta viddnudagá ma kultuvralasj buvdajt hábbmiji ja vuobddi gálvoj jali dievnastusáj hámen. Dán buojkuldahkaj tjárggi smáv ájnegis ulmutja viddnudagájs gitta stuorra viddnudagájda. Kulturæládusbargge viessu buvdajs vuobddemis muhtem márnánij ja sihti dåjmadit- jali juo dåjmadi mávsánis æládussan. Oasse sisbåhtusis soajttá aj almulasj doarjjagis jali ietjá dårjas boahtet. Mannoæládus aneduvvá sierra æládussan, gånnå sáme kulturoase li guovdásj oasse viddnudagáj dåjmas.</p>
+    <p>Sámedikke kulturæládusán li tjuovvovasj ulme ja strategija mierredum sáme kulturæládusá vuoksjuj:</p>
+    <p>
+      <em type="bold">Oajvveulmme: </em>
+    </p>
+    <list>
+      <p type="listitem">Guoddelis barggosaje sáme dájdda- ja kulturvuododum æládusájn</p>
+    </list>
+    <p>
+      <em type="bold">Oasseulme: </em>
+    </p>
+    <list>
+      <p type="listitem">Lasedum vuobddem ja mávsán kulturæládusdåmadiddjijn</p>
+      <p type="listitem">Ienep barggosaje sáme dájdda- ja kulturvuododum æládusán</p>
+      <p type="listitem">Kulturæládus gånnå almmavuohta ja åskåldisvuohta le sajenis</p>
+      <p type="listitem">Kulturæládus mij le máhtudagá nali tsieggidum</p>
+    </list>
+    <p>
+      <em type="bold">Strategija: </em>
+    </p>
+    <list>
+      <p type="listitem">Kulturæládusáj mávsánisáv åvdedit</p>
+      <p type="listitem">Sáme kulturæládusáj tjehpudagáv buoredit</p>
+      <p type="listitem">Dilev láhtjet kulturæládusdåmadiddjij æjvvalimsajijda ja værmástagájda</p>
+      <p type="listitem">Ienep dutkamav álgadit sáme kulturæládusáj birra</p>
+      <p type="listitem">Aktan ráddidusájn ja guovlulasj ásadusáj tsieggit kulturæládusájt akta dajs ådå æládussuorgijs sámijda</p>
+    </list>
+    <list/>
+    <p>
+      <span type="quote">Dán jage barggá Sámedigge sáme kulturæládusáj doajmmaplánajn.</span>
+    </p>
+  </body>
+</document>

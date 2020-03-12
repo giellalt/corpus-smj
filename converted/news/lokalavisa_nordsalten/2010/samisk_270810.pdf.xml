@@ -1,0 +1,52 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>- Vuogas Árranij! og Stuoves låhko sámegielak oahppijs</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
+    </author>
+    <author>
+      <person firstname="Gunnar" lastname="Grytøyr" sex="m" born="" nationality=""/>
+    </author>
+    <author>
+      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <person firstname="Ingrid" lastname="Kintel" sex="f" born="1988" nationality="nor"/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2010</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>274</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/files/samisk_270810.pdf</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+    <note>norsk bildetekst</note>
+  </header>
+  <body>
+    <p>Bájkkeavijssa NuorttaSállto</p>
+    <p>Tæksta: Børge Strandskog/Gunnar GrytøyrJårggålibme: Divte Media AS/Ingrid Kintel</p>
+    <p>ep gávna moaddásav dánna lahkusin. Vuogas lij midjij Fred Andersenijn sjiehtadusáv dahkat, javllá Árran-direktørra.</p>
+    <p>Ja åvdep suohkandálkudiddje le juo ietjas ådå kåntåvråv adnuj válldám julevsáme guovdátjin: - Vuostatjin galgav ållit gájkka dataj demensstudias. Dán kåntåvrån lev juo ålles siejnev dævddám skálmáj Steigentunet:is. Dan mannela galgav ietjam værmádagáv adnuj válldet gå ásadahtjap dutkaminstituhtav Árranin, lahka aktijvuodajn Bodø Allaskåvlåjn. Norlánda fylkasuohkan li juollodam biednigijt prosjæktaj, ja ájádus le stuoves institusjåvnnån dahkat jahkásasj ruhtadårjajn. Juo le akta virgge biejadum dutkes Ubbmemis guhtimusj gålgådismáno 1. bve álggá, subtsas Fred Andersen. - Dutkaminstituhta perspektijvva gåbdugijt gåbttjå, valla fylkasuohkan le álmmukvarresvuodabargov ájnnasamos barggon, ja dát má le ietjam fáhkaguovllo. Valla gal hásstalusá muv aj duosstu. Gájkka barggo galggá álggoálmmukperspektijvan dáhpáduvvat, ja mujna le ållo oahppat sámij giela, árbbedábij ja kultuvra hárráj. Gatjáduvvam lev dagátjit guoradallamvædtsagav hiebadahtedum sámij giellaj ja kultuvrraj. Ássje le nav; moattegielaga gudi demensav oadtju, gahttji ruopptot ietjasa vuostasjgiellaj, ja e dádjada ietjá gielajt. Danen viertti vædtsagijt adnuj válldet gånnå aj sámegielak pasientaj rievtá bærrágåtseduvvi. Ja dát bierri dáhpáduvvat ålles Helse</p>
+    <p>Nord:an, åhpådiddjeallaskåvlåjn, skihppijsujtárskåvlåjn ja ájnas virgijn álmmukvarresvuodabargon, javllá Fred Andersen – guhti ávvudallá ådå dahkamusájda validit.</p>
+    <p>jj</p>
+    <p>Tæksta: Kitty SkapalenJårggålibme: Divte Media ASresurssaskåvllån. Guhkesájggásasj miht</p>
+    <p><em type="italic">Ájluovta skåvllå. Stuoves låhko sáme oahppijs. Neljadisoasse Ájluovta skåvlå oahppijs</em> </p>
+    <p>to åhpadusá hárráj le åvdåsvásstádusáv válldet guhkásåhpadimes julevsáme oahppijda Divtasvuona suohkanin ja aj åbbå rijkan. Ájluovta skåvllå galggá stuovesájggásasj julevsáme resurssaskåvllå vuodoskåvlån liehket, ja åvddånahttem- ja doajmmaruhtadårjav duosstu. - Vilá åhpadiddjijt vájllup ja ep la ållu jåhtuj boahtám bargujn, javllá skåvlå jådediddje Britt-Karin Storvik. Sámegiellaåhpadiddje galggi adnet oasev åhpadusájges bargatjit oahpponævoj, ja hásstalus le ådå åhpadiddjijt gávnnat gudi skåvlå sámegiellaåhpadusáv máhtti jådedit.</p>
+  </body>
+</document>

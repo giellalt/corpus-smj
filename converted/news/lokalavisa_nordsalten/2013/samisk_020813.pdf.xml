@@ -1,0 +1,42 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Varreiellem</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <person firstname="Adrian" lastname="Mikkelsen" sex="m" born="" nationality="nor"/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2013</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nord-Salten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>265</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no "/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2013/samisk_020813.pdf</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Bájkkeavijssa NuorttaSállto</p>
+    <p>Tæksta: Kitty Skapalen Gåvå: Erling Urheim Jårggålibme:Divte</p>
+    <p>Media AS/</p>
+    <p xml:lang="nob">Adrian N. Mikkelsen</p>
+    <p>dagu málestibme, muorajt tjoagget  ja viessot dålusj sámij árbbedábij milta. Ja lij sierraláhkáj suohtas gå nav moadda máná aktan æjgáda lidjin skåvllåj diededam. Kalle Urheim Urheim Kunst  &amp; Håndverkas ja Elena Paulsen aktan Divtasvuona suohkanijn jådedin skåvlåv ja oassálasstema hárráj vuojnnet ållesjattuga ja máná dasi lijkkujin. - Lev riek dudálasj tjadádimijn vájku ejma asta divna majt lijma usjudallam. Lågenanaktse jage li gållåm dallutjis gå dákkir várreskåvllå åvdep bále ásaduváj ja doajvov máhttá sjaddat jahkásasj ásadus, javlla Urheim. Prosjæktaj galggá álkke sæbrrat gå ij dárbaha sámegielav buktet ja iesjmákso lij dåssju guhtik 300 kr. Divtasvuona suohkan ájggu sámegielav nannit ja åvddånahttet suohkanin, sjiehtadusáj baktu bájkálasj oassálasstij. luonndo gåvvidimijn. Mikal Urheim (81) aj sebradij ja subtsastij duola dagu makkir sebmula aneduvvin rappsan ållu dålen, gåktu jågån vájaldit ja nav vijddábut. Sån lij buorre viehkken åvddånbuvtátjit julevsámegielav, árbbedábijt ja árbbediedojt. Nuoramus oassálasste lij bielnuppe jagák ja vuorrasamos gáktsalåkakta, ja dajnas de hiebaj juohkkahattjaj. Gå lidjin låvdagoaden ja teltan idjadam, guollim ja sáme biebmojt málestam, de sjattaj váren viessot muhtem biejvev sihke mánájda ja ållesjattugijda sámevuoda nannidussan ja diedulattjan dagáj.</p>
+    <p>- Váren le luondulasj arena sámástittjat ja oahppat sáme iellema birra, Urheima mielas, guhti riek mánájs alvaduváj gå nav ålov sámástin. - Oassálasste bæjvádagán vásedin, gåktu gámán viessot ja dahkamuháj dagu luondo biebmojt málestit, muorajt tjoagget, gejnudagájt gávnnat, rádjánisvuodav ja duodden dálkkáj gárvedit. - Dájt biejvijt lij ienemus oassáj tjáppa dálkke, valla váren tjuossku ijájt ja dasi de gárvedijma, javlla Urheim. Guollim ja subtsastallam lij aj oassen skåvlås ja åvddånbuktin aj gåktu dålen sjattojt adnin.</p>
+  </body>
+</document>

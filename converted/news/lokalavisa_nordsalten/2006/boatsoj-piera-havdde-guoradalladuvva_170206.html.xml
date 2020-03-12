@@ -1,0 +1,38 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Boatsoj-Piera hávdde guoradalladuvvá</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
+    </author>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>197</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/boatsoj-piera-h-vdde-guoradalladuvv-.4178</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title"><span type="quote">"Boatsoj-Piera"</span> hávdde guoradalladuvvá</p>
+    <p>Dát la jáhkedahtte <span type="quote">”Boatsoj-Piera”</span> hávdde Foarsojávren, juo gæssáj guoradaláduvvá. Gåvvå: Arne Håkon Thomassen</p>
+    <p xml:lang="nob">Norsk kortversjon</p>
+    <p>Nuortta Sálto elfábmoviddnudak sihtá Foarsojávrev Stájgon tsoagodit 11 miehtarijn gå galggi tjátjes elfámov dahkat. Dan diehti l Sámedigge juo lagábut gæhttjam kulturmujtojt ma li jávre birrusijn. Sámedikke birás- ja kultuvrrasuodjalimåssudahka l rádjam sávadusáv Riksántikvárraj kulturmujtojt lagábut gæhttjat. –Sihtap Boatsoj-Piera hávdde galggá lagábut guoradaláduvvat, ja gå elfábmoviddnudak ietjas bargujn ruvvaláhkáj sihti álgget, de jáhkáv hávdde juo gæssáj guoradaláduvvá, subtsas vuostasjkonsulænnta Arne Håkon Thomassen Sámedikke birás- ja kultuvrrasuodjalimåssudagán Ájluovtan. <em type="italic"> </em>Arne Håkon Thomassen   </p>
+    <p>Gåktu dáhpe l, de la rijkaguovllomusea mij dáv bargov galggá jådedit, ja gåktu Bájkálasj ávijssa dádjat de la Råmså dávvervuorkká gut de dav bargov galggá jådedit. <span type="quote">”Botasoj-Piera”</span> hávdde l ållu tjáhtjerabdan, ja gå jávrev tsoagodi sjaddá hávdde ållu dievvárabdan ja nav máhttá nåhkåt ja gáhtot.</p>
+    <p>Hávdde l 1700-jage rájes, ja jus jámigusj gávnnu li sierra njuolgadusá majt bátsudisáj galggi dahkat. –Åvddåla gal dávtijt doalvvun dávvervuorkájda, valla dálla l dáhpe ietjájduvvam, ja mij de dáj bátsudisáj dáhpáduva iv diede. Moadda gatjálvisá ja hásstalusá ájn dán gáktuj galggi tjoavdeduvvat åvddål gå bargujn álggi, javllá Arne Håkon Thomassen.</p>
+    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+  </body>
+</document>

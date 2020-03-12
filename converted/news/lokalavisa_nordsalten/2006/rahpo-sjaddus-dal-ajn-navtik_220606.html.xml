@@ -1,0 +1,38 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Ráhpo sjaddus dal ájn navtik</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
+    </author>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>149</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/r-hpo-sjaddus-dal-jn-navtik.4133</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Ráhpo sjaddus dal ájn navtik</p>
+    <p>Dávte ja oajvve dålusj rábon Divtasvuona nuortasjbielen ælla vilá gåbtjådum, jali ietjá láhkáj gåtsedum.</p>
+    <p>Norsk kortversjon/Oanegis dárogiellaj</p>
+    <p>Dålusj ráhpo mij la Divtasvuona nuortasjbielen, ja gånnå dávte ja oajvve ælla gåbtjådum, sjaddá dal ájn navti gåktu l uddni. Soames dávte li vargga juova ålgusjbielen, madi oajvve l vehik dåbbelin. Åvddåla lij ráhpo mierkkidum galbajn, valla dån jage válldin dav galbav ierit.</p>
+    <p>Sámedikke birás- ja kultuvrrasuodjalimåssudagá rádediddje Arne Håkon Thomassen vuoset rapporttåj gånnå lij dålusj rábojt Finmárkon guoradallam, ja makkár hásstalusá li dakkár rábujn. Dajna de Thomassen ij jáhke mige dáhpáduvá dájna rábujn ájn dán jage.</p>
+    <p>-Dákkár ålu sierra kultuvrramujto e nav ålov gierda, ja dajna de vierttip ájn mierredit jus dákkár ráhpo galggá almoduvvat jali tjiegaduvvat. Dáv rábov ep dal ájn åvvå duohta åvdås gå stuoves pládna l dagádum, javllá Thomassen.</p>
+    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+  </body>
+</document>

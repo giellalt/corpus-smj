@@ -1,0 +1,53 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>145</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=146&amp;art_id=153</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=146_art_id=153.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=146_art_id=153.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=146_art_id=153.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Låvdagoahte</p>
+    <p type="title">Rámát</p>
+    <p>
+      <em type="bold">Rámát – mierkki girjje </em>
+    </p>
+    <p>Rámát boahtá grehkagielas ja báhko mierkki girjje. Rámádin li moadda girje. Rámát le guovte oajvveoassáj juogedum –Oabme testamænnta (39 girje) ja Ådå testamænnta (27 girje). Rámát gåhtjoduvvá aj Ájlis tjállagin. Oabme testamænnta subtsas dan birra mav Jubmel dagáj åvddål Jesus riegádij. Ådå testamænnta subtsas majt Jubmel dagáj maŋŋel gå Jesus riegádij. Rámát sisadná histåvråv, poesijav, sálmajt, subttsasijt, Jesusa oavddusa, girjjegirjálasjvuohta ja mij galggá boahtteájge dáhpáduvvat.</p>
+    <p>
+      <em type="bold">Moadda tjálle </em>
+    </p>
+    <p>Rámát le moaddásijs tjáledum ájgij tjadá, profehta, evangelista ja apostela. Badjel 1000 jage gållin åvddål ålles Rámát lij ållåsit tjáledum. Makkir subttsasa Rámádin li duv mielas tjáppe?</p>
+    <p>
+      <em type="bold">Jårggåluvvam sámegiellaj </em>
+    </p>
+    <p>Rámát le 341 gielajda jårggåluvvam. Ådå testamænnta vuostasj bále prienntiduváj nuorttasámegiellaj jagen 1840. Diedák jus Rámát le jårggåluvvam nuorttasámegiellaj, julevsámegiellaj jali oarjjelsámegiellaj? Vuostasj sáme báhppa, Anders Porsanger, jårggålij åsijt Ådå testamentas nuorttasámegiellaj. Dåbdå gus ietjá sámijt gudi li Rámátjårggålibmáj oassálasstám?</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

@@ -1,0 +1,39 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Ruohttaiehket la várálamos</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
+    </author>
+    <year>2005</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>211</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/ruohttaiehket-la-v-r-lamos.4198</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Ruohttaiehket la várálamos</p>
+    <p>-Dat biejvve mij la javllabasij åvddåla gåhtjoduvvá ruohttabiejvven, ja dan biejve iehket la várálamos iehket, tjállá Johan Turi ietjas girjen <span type="quote">”Mujttalusá sámij birra”</span>. Javllaájgge la sjievnnjisamos ájgge jagen. Dålusj åsko milta la sjievnnjis ájgge rassjes ájgge. Dan ájge viertti agev liehket várrogis. Ja javllabasij sinna i oattjo barggat akta majt – jus dal i hæhttu. Dav majt illa bargadum oadtjum javlajda, viertti sjáhtjalit javllabasij maññela.</p>
+    <p xml:lang="nob">Norsk kortversjon</p>
+    <p>Divna ilmme l luovas dáj muttoj, ja ij la ga diehttelis mij luluj dáhpáduvvá. Viertti edesik Jubmela bágos muhttijn lågåstit. Ja mujte: Ale val ilá vastet ståga! -Jus máná daj ájgij ilá vastet ståhki, de ihttudalli. Ja jus la dujna ilá stuorra jubmelahtesvuohta, de ihttudalá vájku la stuorra, boares ålmåj, dan diehti gå la ilá suorodibme, ja gå la ilá binnáv Jubmela bágos låhkåm. Valla sån gut la Jubmela bágos låhkåm, sunji ij bærggal baste, tjállá Johan Turi.</p>
+    <p>Turi dáv girjev almmudij vuostasj bále jagen 1910. Sån tjálij nuorttasámegiellaj. Girjje l jårggåluvvam moatte giellaj.</p>
+    <p>Dán girjen subtsas Turi moatte vidjurij birra, ja nammat aj javllaájgev ja dålusj dijdajt, ja aj gåktu galggin dahkat jus hæhkkat ihttujin.</p>
+    <p>Sån aj nammat gåktu sáme åvddåla barggin gå javlajda galggin gærggat.</p>
+    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+  </body>
+</document>

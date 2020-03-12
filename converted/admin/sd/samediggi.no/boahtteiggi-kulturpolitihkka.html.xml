@@ -1,0 +1,44 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>137</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Boahtteiggi-kulturpolitihkka</origFileName>
+    <parallel_text xml:lang="nob" location="framtidas-kulturpolitikk.html"/>
+    <parallel_text xml:lang="sma" location="baaetijen-aejkien-kultuvrepolitihke.html"/>
+    <parallel_text xml:lang="sme" location="boahtteiggi-kulturpolitihkka.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Boahtteiggi kulturpolitihkka / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
+    <p type="title" xml:lang="sme">Boahtteiggi kulturpolitihkka</p>
+    <p>27. njoktje 2012</p>
+    <p>Sámedigge sihtá vuojnojt oadtjot dájddárijs ja kultuvrrabarggijs, danen gå kultuvrrabargo hábbmim le jådon. Sámedigge ásat Dájddárkonferánsav tjaktjaj mij sjaddá æjvvalimsaje gånnå bæssá vuojnojt buktet, dagástallat ja dájdav vuosedit.</p>
+    <p>Sámedigge le kultuvrradiedádusáv dahkamin mij galggá tjielggit Sámedikke boahtteájge kultuvrrapolitihkav. Dan aktijvuodan ásaduvvi moadda tjåhkanime gånnå bæssá vuojnojdis buktet. Åvdemus æjvvalimsadje sjaddá Dájddárkonferánssa mij tjadáduvvá sámediggevieson Gárásjågån ragátmánon.</p>
+    <p>
+      <em type="bold">- Dát le vuostasj bále Sámedigge dájddárkonferánsav ásat, javllá Larsen gen mielas le viehka ájnas vuojnojt oadtjot dájddártjiehpijs. </em>
+    </p>
+    <p>Dán ájnas bargguj sihtá Sámedigge guládallat nav moaddásij dagu vejulasj, kultuvrraberustiddjij, ásadiddjij ja kultuvrrabarggij.</p>
+    <p>
+      <em type="bold">- Galggap aj muhtemij guossidit, unnep tjåhkanimijt tjadádit váj oadtjop nav ållo ájádusájt dagu vejulasj, låhpat rádeájras Vibeke Larsen </em>
+    </p>
+    <p><em type="bold">Aktijvuohta: </em>Rádeájras Vibeke Larsen , tlfnr: +47 941 30 116 </p>
+  </body>
+</document>

@@ -1,0 +1,50 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Trosopplæring på samisk</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>551</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.abc-company.no/osku/ls/omoss.html</origFileName>
+    <parallel_text xml:lang="nob" location="omoss.html"/>
+    <parallel_text xml:lang="sma" location="omoss.html"/>
+    <parallel_text xml:lang="sme" location="omoss.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104790 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="nob">BUORISBOAHTEM SÁME E-JÁHKKOÅHPADUSSAJ</p>
+    <p type="title">Mánájda gaskal 6 – 12 jage</p>
+    <p>Dán næhttabájke sisadno le risstalasj jáhkko ja sáme kultuvrra. Vállji tiemáv jus siedá ienebuv diehtet: Låvdagoahte, soahke, tjáhtje, dållå, biejvve, ednam ja girkko. Næhttabájkke gávnnu nielje giellaj: oarjjelsámegiellaj, julevsámegiellaj, nuorttasámegiellaj ja dárogiellaj.</p>
+    <p>Sáme e-jáhkkoåhpadus le åvddånahtedum Sáme girkkorádes Vuona girkkon. Sáme máná ja nuora galggi årrot guovdátjin ietjasa jáhkoåhpadusán. Åhpadus galggá sáme åtsådallamijda ja bájkálasj sáme girkkoiellemij tjanáduvvat. Sáme vuojŋŋalasjvuohta galggá viehkken iellemdádjadussaj.</p>
+    <p>Sáme e-jáhkkoåhpadus le åvddånahtedum dårjajn Størst av alt – prosjevta baktu mij le jáhkkoåhpadus Vuona girkkon. Jáhkkoåhpadus le Vuona girkko ájnnasamos vuorodimij gaskan. Dálla dagáduvvá systemáhtalasj jáhkkoåhpadus gájkajda gaskal 0-18 jage gudi li gástaduvvam, mij galggá vuodov biedjat váj máná ja nuora máhtti åvddånahttet ietjasa jáhko aktijvuodav ja girkkov massta li oassen.</p>
+    <p>Ietján máhtá låhkåt gudi li viehkedam bargujn. Lågå ienebuv!</p>
+    <p xml:lang="nob"><em type="italic">Spela </em>: Norsk Søndagsskoleforbund. Kommunion as . </p>
+    <p xml:lang="nob"><em type="italic">Tækstabuvtadibme </em>: Karen Elle Gaup Ann Solveig Nystad Anne-Karin Hellesøy Inger Seierstad Inga Wernolf </p>
+    <p><em type="italic">Jårggålibme </em>: Inger Marie Oskal Inger Anne Gaup Gustad Rávdná Turi Henriksen Lars Theodor Kintel Ellen Jonassen Oskar Stein Bjørlykke Anne Silja Turi Birgit Andersen Anne-Grethe Leine Bientie </p>
+    <p xml:lang="nob"><em type="italic">Tjuorggama </em>: Solfrid Fjellaksel Pedersen Svein Kvamme Liisa Helander Inger Seierstad Olga Grimsmo Nilsen Lisa Arneng Varsi Luther Forlag: Ståle Almenning Tore Johnsen Laila Krokmo Vanja Røkke Karasjok menighet Bendik Kråvik Schøien Ellen Sara Leine Bientie Karen Elle Gaup </p>
+    <p xml:lang="nob"><em type="italic">Kåfjord kulturskole: </em>Maria Seppälä, Maylin Brustad, Annette Forfang, Marie Olsen, Lise Mari Nilsen, Mariell Hansen, Johanne Steinlien, Heidi Pedersen, Ingvild Rundberg, Malene F S, Silje Hansen, Catrine Vatne, Sofie Olsen, Kaisa Lyshaug, Berthine M Johansen, Oda Agnethe Svendsen, Anne Marte Hansen, Selma Alette Mikkelsen </p>
+    <p xml:lang="nob"><em type="italic">Alta Kulturskole: </em>Severin Lyngstad, Siver Nielsen, Frida Sætveit, Sondre Andersen, Kristine Jonas, Vårin Larsen, Kamilla Losvar, Maria S Losvar, Erlend Mortensen, Bjørn Kerthan </p>
+    <p xml:lang="nob"><em type="italic">Gåvå </em>: Áile Marita Varsi Arvid Varsi Ann-Katrin Tobiassen Lill-Therese Holm Varsi Wenche Holm Balto Máijá Holm Balto Ánne-Márgget Somby Johan Daniel Balto Heidi Sara Anti Lásse Biehtár Anti Nils Borge Teigen Tore Johnsen Bierna Bientie Johan Bakken Sandvik Gunn Hanne Elvebakk Kåre Smeland Berit Frøydis Svineng Johnsen Jaana Walle Ørjan Balto Hansen Johán Máhtte Kemi Nils Jovnna Gaup Piera Jovnna Heaikka Áslat Aslak Somby Ebba Joks Jovnna Levi Joks Sárá Márjá Utsi Elle Káre Somby Jan Widar Wigelius Niillas Aslaksen Smuk Bilde av tresåte fotografert utenfor Várjjat Sámi Musea Bilde av vedhoggested fotografert på Sámiid Vuorka Dávvirat Bilder kjøpt fra Scandinavian Stock Photo </p>
+    <p xml:lang="nob"><em type="italic">Lávllaga </em>: Berit Alette Mienna Wenche Holm Balto Marit Holm-Johannesen Anbjørg Holm Varsi Máijá Holm Balto Ida Márjá Varsi Solbakk Ánne Márgget Somby Áile Marita Varsi Karl Edvard Urheim Kirsi Guvsám Jovna Zakharias Dunfjell Eli Anne Nystad Máret Inga Grenserud Eira Káre Brita Rognerud Eira Máret Lájlá Sara Nedrejord Risten Gutnel Guttorm Eira Biret Sárá Anti Julie Sofie Nordsletta Maina Sofie Wergeland Inger Marie Guttorm Ragnhild Hellesøy Sør-Varanger salmesanggruppe Barnekoret i Karasjok menighet v/Anne Karin Hellesøy: Hannah L Strømeng, Elisabeth Kneppen Strømeng, Rita Marie P Somby, Ingri Maylèn Larsen, Kaisa Henriette Larsen, Andreas Hellesøy, </p>
+    <p><em type="italic">Tækstalåhkåm </em>: May-Synnøve Trosten Brita Iren Thomassen Berit Kristine Andersen Guvsám Lill-Therese Holm Varsi Morten Tobiassen Per Dehlin Anne Silja Turi Leif Åge Hætta Máijá Holm Balto Elle-Kare Somby Nils Jørgen Nystø </p>
+    <p xml:lang="nob">Copyright: Den norske kirke ved Samisk Kirkeråd Postboks 799 Sentrum, N-0106 Oslo, Telefon: 23081200 e-post: osku@kirken.no Ansvarlig redaktør: Generalsekretær i Samisk Kirkeråd, Tore Johnsen</p>
+    <p>Åvddåbælláj</p>
+    <p xml:lang="nob">Tips til bruk av siden</p>
+    <p>Eskuvla:</p>
+    <p>Addnenamma:</p>
+    <p>Bessambáhko:</p>
+  </body>
+</document>

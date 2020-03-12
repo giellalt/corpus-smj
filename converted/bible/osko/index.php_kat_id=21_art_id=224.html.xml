@@ -1,0 +1,44 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>67</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=21&amp;art_id=224</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=21_art_id=224.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=21_art_id=224.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=21_art_id=224.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Soahke</p>
+    <p type="title">Berajvuohta</p>
+    <p>Muhtemijda jali muhtem histåvrråj gullut</p>
+    <p>Muhtema li vuorbálattja gå siján li áhko ja ádjá gej siegen bessi aktan vásedit. Muhtemij jali muhtem histåvrråj tjanádum liehket vaddá identitehtav. Mujto li gærrása ja ájnnasa. Ietjat slevta histåvrrå le árvulasj danen gå dat dunji identitehtav vaddá mav boahtte buolvvaj máhtá åvddån buktet.</p>
+    <p>Gávnada ienep slevta birra áhko jali ádjá siegen jali iehtjádij siegen ietjat lahkusin!</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

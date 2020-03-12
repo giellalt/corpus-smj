@@ -1,0 +1,113 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1342</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Vad-kostar-lakemedel-pa-recept</origFileName>
+    <parallel_text xml:lang="eng" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="fin" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="fit" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="sma" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="sme" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="swe" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmn"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmu"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rka"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="yid"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Majt dálkkasa máksi dálkastjállagin? / Vad kostar läkemedel på recept? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">JulevusámegiellaLulesamiska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Majt dálkkasa máksi dálkastjállagin?Vad kostar läkemedel på recept?</p>
+    <p type="title">Mij la fámon?</p>
+    <p type="title">Suodje alla mávsojda</p>
+    <p>Stáhta doarjot, dat javllá vaddá ekonomalasj dårjav, gå dálkkasijt dárbaj, ja muhtem ietjá gálvojt majt márjju dárbaj. Ienemus dálkkasa ma ålgus tjáleduvvi dálkastjállagin li doarjodum. Doarjja buojkoduvvá Lágan dálkassierrariektáj birra. Suodje alla mávsojda majt láhka vaddá allamáksosuodjen gåhtjudallá allamáksosuodjen.</p>
+    <p>Lága milta:</p>
+    <list>
+      <p type="listitem">haddevuoledimev oadtju allamáksomiere milta ienemus dálkkasijda, p-tablehtajda ja stomiddjaártihkkalijda</p>
+      <p type="listitem">ij åvvå mejdik mávse loabddemartihkkalijda ma li dárbulattja doalvotjit dálkkasijt rubmahij ja iesj gehtjadittjat suv dálkudimev, buojkulvissan sákkijt varrasåhkårmihttimij</p>
+      <p type="listitem">oadtju sierralágásj suojev alla mávsojda muhtem biebmojda mánájda nuorabu gå 16 jage.</p>
+    </list>
+    <p type="title">Hadde ja doarjja</p>
+    <p>Bádnesujtto- ja Hálbedimdálkasdåjmadahka,TLV, la fábmudahka mij mierret hatte ja dårjajda. Gå TLV galggá mierredit dårjav gähttji jus dálkas ávkev vaddá mij buohtastahttá dav dårjav. Ávkken máhttá buojkulvissan årrot buorep varresvuohta ja lasedum viessomguhkkudahka. TLV árvustallá aj jus dálkkasa adno máhttá unnedit sebrudagá mávsojt, buojkulvissan tjuollamijda, skihpasin tjáledimijda jali vuorrasijhuksuj.</p>
+    <p>Dálkasvidnudagá máhtti ietja válljit dálkkasav allamáksosuoje ålggolin vuobddet. De haddemärostibme l friddja, dat javllá dálkasvidnudagá ietja hattev mierredi. Dálkkasijda ma e allamáksosuodjáj gullu iesj oadtju ålles mávsov mákset.</p>
+    <p>Muhtem dálkkasijn máhtti ráddjidum doarjja. Merkaj dálkas la doarjodum val muhtem patiänntajuohkusij jali dåjmadittjat sierra dávdav.</p>
+    <p>TLV:an ja FASS:an li vebbabiele manna máhttá vuojnnet jus dálkas la doarjdum jali ij.</p>
+    <p type="title">Álbemus lånudahkes válljima</p>
+    <p>Muhttijn gávnnuji moadda avtaájnas alternatijva dálkkasij. Gåhtjudalli generalasj dálkkasin. Sisanedi sämmi madev sämmi dåjmalasj ábnnasis jali ábnnasijs ja dajn li sämmi boados. Valla máhtti umasslágátja vuojnnut ja sisanedit umasslágásj åsijt, buojkulvissan konserverimábnnasijt. Máhtti boahtet sierra dálkasvidnudagájs ja dajn li umasse hatte. Dá alternatijva máhtti lånuduvvat dálkasboargálijn. Le Dálkasdåjmadahka mij mierret makkir dálkkasa oadtju lånodit iehtjádijn.</p>
+    <p>Jus gávnnuji moadda generalasj dálkkasa ja mij la dálkastjállagin tjáledum ij la álbemus de dálkasboargála hähttuji lådnot dav ietjá alternatijvvaj manna l márnána vuolemus hadde. Álbemus válljim mij l val ållu doarjodum. Máhttá válljit oasstet divrrasap dálkkasav mij la tjáledum dálkastjállagin, valla de hähttu iesj gasskasieradusáv mákset, dat ij gullu allamáksosuodjáj. Jus ij sidá dav alternatijvav masi dálkasboargála lådnu ja ij ga dav mij la dálkastjállagin tjáledum de máhttá ietjá generalasj alternatijvav válljit. Valla de oattjo ålles mávsov iesj mákset. Le val mij dálkastjállagin la tjáledum ja álbemus lånudahkes dálkas mij dårjas gåbtjåduvvá. Oarre dási l vaj ij aktak galga dárbahit ienebuv mákset gå dárbulasj dálkkasa åvdås jus gávnnuji moatte sämmi tjerdas umasslágásj haddáj.</p>
+    <p>Jus medisijnalasj oares hähttu adnet dálkkasav sierralágásj dagos de dåktår máhttá dálkastjállagij tjállet dálkas ij oattjo lånuduvvat. Ij de dárbaha duodde mávsov mákset jus dálkas gávnnu allamáksosuojen. Medisijnalasj oare máhtti buojkulvissan årrot gå ij gerda bájnnoábnnasav tablehtan jali gássjelisvuohta l muhtem gurjov rahpat.</p>
+    <p type="title">Ájge gálvvo</p>
+    <p>TLV mierret makkir hattijt ma galggi fámon årrot maŋŋel gå dálkasvidnudagá li hadderievddadusáv åhtsåm. Dálkkasa hadde máhttá, åtsålvisá maŋŋela, rievddaduvvat juohkka máno.</p>
+    <p>Generalasj dálkkasin gåhtjudallá alternatijvva mij vuolemus hattev oadtju ájge gálvvon. TLV diedet dálkasboargálijt makkir válljim la ájge gálvvo ja masi galggi lådnot. TLV mierret aj guovkta lijggeválljima masi lådnu jus ájge gálvvo nåhkå. Máhttá målsudit mános mánnuj makkir válljim masi dálkasboargál lådnu.</p>
+    <p>Ulmme ájge gálvojn la vaj värrobiedniga biejadum dálkkasij doarjjaj galggi gåbbtjåt nåv ednagijda ja nåv moaddásijda máhttelis.</p>
+    <p>Ájge gálvvo l sämmilágásj gájkka dálkasboargalijn. Valla muhttijn dáhpáduvvá dálkasboargál la ilá stuor mierev ájge gálvos oasstám. Dálkasboargál de oadtju dav boahtte mánon vuobddet. Merkaj máhttá fáladuvvat åvdep dán máno gálvov dálkasboargálin ja máno gálvov vas ietjá bájken. Dán guovten gálvon máhttá sierra hadde.</p>
+    <p type="title">Allamáksosuodje</p>
+    <p type="title">Máksá ienemusát 2 200 kråvnå jahkáj</p>
+    <p>Allamáksosuodje merkaj máksá ienemusát 2 200 kråvnå jahkáj. Dát jahke gåhtjudallá allamáksoájggen.</p>
+    <p>Allamáksosuodje l fámon dálkkasijda majt dálkastjállagin oadtju ja majt TLV la mierredam galggi doarjodum. Gullu aj loabddemartihkkalijda majt oadtju viehkkenävvokårtån.</p>
+    <p>Ienemus dálkkasa åvdås máksá ietjasmávsov juohkka bále gå viedtjá dálkastjállagijn desik la 2 200 kråvnnåj ållåm. Sämmi l gullu loabddemartihkkalijda ma li dárbulattja stomiddjan.</p>
+    <p>Muhtem dálkkasijda ij ietjasmávsov mávse. Jus la insulijnnadálkudim diabetes de ij majdek mávse insulijna åvdås. Jus la dávdda mij gullu soahpomsuodjeláhkaj de lánndadigge máksá ålles mávsov dálkkasijs ma vuoledi soahpomvuodav, buojkulvissan virushierediddje dálkkasijt hiva vuosstij.</p>
+    <p>Muhtem lánndadikke máksi ålles jali ietjasmávsos oasev muhtem dálkkasijs ja sierra patiänntajuohkusijda, buojklvissan p-tablehtajs nuorra nissunijda.</p>
+    <p>Ij majdek mávse loabddemartihkkalijda ma li dárbulattja doalvodittjat dálkkasijt rubmahij ja gehtjadit ietjas dálkudimev. Buojkulvis dakkir loabddemartihkkalijda li tsirguna ja sákke varrasåhkårmihttimij.</p>
+    <p type="title">Ietjasmákso allamáksotráhpa milta</p>
+    <p>Gå allamáksoájgev álggá jahkáj de iesj máksá ålles gålov dálkkasijs ja stomiddjaartihkkalijs desik la aktij 1 100 kråvnå máksám. Dan maŋŋela ietjasmákso binnu suojmma allamáksotráhpa milta. Juohkka ådå oasstemin álggá mávsos majt lij ållåm åvdep oasstemin ja manná ájn tráhpav bajás.</p>
+    <p>Gå l máksám 2 200 kråvnå de ij dárbaha ienebuv mákset allamáksoájgen. Álggovijor vaj dat galggá fámon årrot la dálkkasa majt ålgus mij gullu allamáksosuodjáj. Gå allamáksoájgge nåhkå de álggá vat ådå ájgijn boahtte oasstemin, juska gånnå la allamáksotráhpan.</p>
+    <p type="title">Navti allamáksomierre doajmmá</p>
+    <p>Aktijbiejadum dálkasmákso</p>
+    <p>Máksá ienemusát</p>
+    <p>5 400</p>
+    <p>2 200</p>
+    <p>3 900</p>
+    <p>90 % haddevuoledibme</p>
+    <p>2 050</p>
+    <p>2 100</p>
+    <p>75 % haddevuoledibme</p>
+    <p>1 600</p>
+    <p>1 100</p>
+    <p>50 % haddevuoledibme</p>
+    <p>1 100</p>
+    <p>0 % haddevuoledibme</p>
+    <p>
+      <em type="italic">Tabälla vuoset gåktu allamáksosuodje suojmma vaddá vuoledum mávsov. </em>
+    </p>
+    <p type="title">Sierra biebmo mánájda</p>
+    <p>Biebmo aj mánájda gudi älla 16 jage dävddám ja siján li sierra dávda, buojkulvissan glutenintoleránssa, li doarjodum. Biebmo tjáleduvvi biebbmobagádussán ja oadtju ienemusát 90 bäjvváj ájgen viedtjat. Máksá ietjasmávsov mij la 120 kråvnå juohkka bále, valla dát mákso ij riekknidalá allamáksosuodjáj.</p>
+    <p type="title">Man ednagav ájgen oadtju oasstet?</p>
+    <p>Ij oattjo vájku man ednagav allamáksosuojen oasstet. Nárev majt oadtju oasstet galggá binndet gitta 90 bäjvváj, bájkoj 3 máno. Preventijvvanävo, buojkulvissan p-tablehta ja p-tsirguna, li ierittjuoldedum dát gålmåmánonjuolgadusás.</p>
+    <p>Jus oadtju ålgus válldet dálkastjállagijn moaddi de ådå ålgusválldem máhttá dagáduvvat esski gå ájge guokta gålmadisá li gållåm majt dálkas märostuvvá åvdep ålgusválldemis rähkkut. Buojkulvissan la viedtjam dálkkasijt gålmå máno loabddemij de hähttu guokta máno gållåm åvddål gå vat oadtju dálkastjállagijn viedtjat.</p>
+    <p>Máhttá oasstet stuoráp nárev gå avtav ålgusválldemav avta bále, valla de hähttu ålles haddáj mákset náres mij la ienep gå gålmmå máno loabddem. Jus dåktår la dálkastjállagij tjállám hähttu muhtem ájgge gållåt ålgusválldemij gaskan de ij máhte dájvvábut viedtjat gå dåktår la tjállám.</p>
+    <p>Jus li sierra oare, buojkulvissan jus ájgo ålggorijkan guhkep ájgev årrot, de máhttá dálkkasijt allamáksosuojen ålgusválldet guhkep ájggáj gå gålmmå máno. Valla de hähttu máhttet dav duodastit, buojkulvissan mannoássjepáhppárij.</p>
+    <p type="title">Goassa l allamáksosuodje fámon?</p>
+    <p>Jus allamáksosuodje galggá fámon årrot de hähttu dåktårin gut dálkkasav tjállá ietjas barggosadje gávnnut lågådahtte sáhtsokåvddåhámen dálkastjállagin. Jus dálkastjála dálkkasij guosská ráddjidum doarjjan de tjálle hähttu aj tsähkkot dálkastjállagin vaj allamáksosuodje galggá fámon årrot.</p>
+    <p>Allamáksosuodje l fámon gesi årru jali l bargge Svierigin jali gänna l europa skihpasujttokårttå ietjá EES-rijkas jali Svejtsan. Europalasj skihpasujttokårttå galggá vuoseduvvat goappátjagá dåktårmanádimen ja dálkasboargálin. Svierigin la aj lihtto muhtem rijkajn Europa ålggolin; Algeriajn, Australiajn ja oassestáhtajn Quebeca Kanadan, mij merkaj dálkashálbedibme l fámon viesájdiddjijda dájs rijkajs jus dálkkasijt dárbahi gå li Svierigin.</p>
+    <p>Gájkka máná nuorabu gå 18 jage sämmi goahtefuolken, dat javllá gudi li álmmuktjáledum sämmi årudagán, li aktisasj allamáksosuodje. Merkaj gájkka mánáj ietjasmávso aktij riekkniduvvi. Merkaj biologalasj oarbbenijn gudi li álmmuktjáledum umasse årudagájn la guhtik allamáksosuodje.</p>
+    <p type="title">Allamáksodáhtábássa</p>
+    <p>Iesj ij dárbaha diehtet man ednaga åvdås la oasestam. Allamáksodáhtábásan, mij dåjmaduvvá stáhta Apotekens Service AB, gájkka oasstema allamáksosuojen registarduvvi. Vuogádagán li diedo man ednagav la máksám ietjasmákson ja riekkni man enas haddevuoledibme sjaddá allamáksotráhpa milta juohkka bále gå oases. Gájkka dálkasboargála li sämmi dáhtábássaj aktidum ja ij la ájnas makkir dálkasboargálin oasesta.</p>
+    <p>Le iesjmiedogis allamáksodáhtábássaj säbrrat. Mij registarduvvá dáhtábásan la namma, almasjnummar, oasstembiejvve, makkir dálkasboargálin la dálkastjállagav ålgus válldám, man ednagav la máksám, summav masi l ållåm allamáksosuojen ja allamáksoájge álggembiejvve. Diededibme mij registarduvvá aneduvvá val duolla haddevuoledimev oattjotjit. Makkir dálkkasijt la oadtjum jali makkir dåktår la dálkastjállagav tjállám ij gånnek registarduvá.</p>
+    <p>Máhttá akta goassa oasev allamáksodáhtábásas ádnot birra makkir diedo ietjas birra gávnnuji ja mánáj birra gejda la sujttoaddne. Dahká dav gå dävddá ja rádjá sisi blankehtav dási, Apotekens Service AB, gåsstå aj blankehtav máhtta oadtjot.</p>
+    <p type="title">Válljit ij säbrrat</p>
+    <p>Máhttá válljit ij allamáksodáhtábássaj säbrrat. De oadtju kvihtov mij gåhtjudallá allamáksoduodastussan dálkasboargálin gå dálkkasijt oasstá allamáksosuojen. Allamáksoduodastusán la tjáledum makkir tjoahkkájbiejadum ietjasmávsov la máksám. Ájnas la vuorkkit maŋemus allamáksoduodastusáv ja vuosedit dav aktan dálkastjállagijn gå galggá dálkkasijt oasstet. Dálkasboargál dárbaj diehtet man mieren allamáksotráhpan la oattjotjit, duolla haddevuoledimev.</p>
+  </body>
+</document>

@@ -1,0 +1,53 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>229</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=152&amp;art_id=157</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=152_art_id=157.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=152_art_id=157.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=152_art_id=157.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Låvdagoahte</p>
+    <p type="title">1.	Ájlistuvvus duv namma</p>
+    <p>Mij jáhkkep Jubmeláhttje le mijá Almmelasj áhttje, guhti le mijáv sjivnnjedam ja mijájt dåbdåj åvddål riegádijma. Sån diehtá gájkka mijáj birra, mav dárbahip, ij le goassak vuojga guhkken ierit, ja sån mijájt æhttsá. Le gus gájkka ájlis, jali li gus dåssju sierralágásj gávne? Almmelasj áhttjáma namma le ájlis, ja galggá liehket alvos ja ájlis mijáj gaskan. Galggap Jubmela namáv guddnedit ja suv gijttet. Sån le gájkviekses ja le vaddám gájkka mij miján le.</p>
+    <p>Diehtemahtesvuodan ulmutja Jubmela namáv boasstot adni – javlli váni ájádallamis mav javllap ja manen. Jubmela namma galggá liehket ájlis. Månnå galgav Jubmela namáv adnet, valla javllat dåssju <span type="quote">”Jubmel”</span> jali <span type="quote">”Jesus”</span> gå Jubmelijn sáhkadav, gå råhkådaláv.</p>
+    <p>Sáme árbbedábe milta le nammavaddem ájnas. Ájádus le muhtem mierredum vuoge tjuovvu namáv. Dáhpe le læhkám mánájt nabddet berulattjaj nammaj dajna sávadusájn jut suv vuoge vatteduvvin mánnáj. Diedá gus jus aktak duv fámiljan le muhtem berulattja namán, ja jus suv vuoge li læhkám ájnnasa gå namma válljiduváj?</p>
+    <p>Nammaoarbbena, gájmitja, aneduvvi liehket muhtem rituálalasj berajvuodan. Namma sjaddá symbåvllån vuojnnemahtes báddáj sunnu gaskan.</p>
+    <p xml:lang="nob">
+      <em type="bold">LUTHERUSA TJIELGADUS: </em>
+    </p>
+    <p>Jubmela namma le ietjastis ájlis ja dánna råhkådallap vaj dat aj mijá lunna luluj ájlistuvvat.</p>
+    <p>
+      <em type="bold">Gåktus de? </em>
+    </p>
+    <p>Gå Jubmela báhko tjielggasit ja rájnnasit åhpaduvvá ja dan milta Jubmela mánnán viessop. Vatte dav midjij Almenáhttje! Valla guhti ietjáláhkáj viessu ij Jubmela namáv mijá lunna ájllisin ane. Várjjala mijáv dassta, almmelasj Áhttje!</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

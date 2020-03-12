@@ -1,0 +1,70 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>514</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/AAhpadus</origFileName>
+    <parallel_text xml:lang="nob" location="opplaering.html"/>
+    <parallel_text xml:lang="sma" location="lierehtimmie.html"/>
+    <parallel_text xml:lang="sme" location="oahpahus.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Åhpadus / Sámedigge - Sametinget</p>
+    <p type="title">Åhpadus</p>
+    <p>Sáme álmmugin galggá liehket gájbbeduvvam diehto, máhtudahka ja tjehpudahka sáme sebrudagáv åvddånahtátjit. Dát sihtá javllat sámijn li almma rievtesvuoda åhpadussaj sámegiellaj ja sámegielan. Dát vaddá sáme mánájda ja nuorajda nanos iesjdåbdov ja tjadnusit sáme giellaj ja kultuvrraj. Gájkka alep åhpadusá ja dutkama galggi sáme vuojnov bærrájgåhtset.</p>
+    <p>Politihkalasj åvdåsvásstediddje</p>
+    <p xml:lang="nob">Rådsmedlem</p>
+    <p xml:lang="sme">NSR</p>
+    <p xml:lang="nob">Nordre</p>
+    <list>
+      <p type="listitem">Mánájgárde</p>
+      <p type="listitem">Vuodoskåvlå ja joarkkaskåvlå</p>
+      <p type="listitem">Dutkam ja alep åhpadus</p>
+      <p type="listitem">Ållessjattukåhpadus</p>
+      <p type="listitem">Oahpponævo</p>
+      <p type="listitem">Sárnnom givsedime vuosstij</p>
+    </list>
+    <p type="title">Sámedigge barggá</p>
+    <list>
+      <p type="listitem">Nannit buorreålgoldisævtojt sáme mánájgárdijda, vuodoåhpadussaj, alep åhpadussaj ja dutkamij guovdásj, guovloj ja bájkálasj oajválattjaj ja ietjá aktøraj ságastallamij baktu.</p>
+      <p type="listitem">Sáme mánájn ja nuorajn le nanos iesjdåbddo ja tjadnusa sáme giellaj, kultuvrraj ja sebrudakiellemij.</p>
+      <p type="listitem">Sáme álmmugin le almma rievtesvuoda buorre åhpadussaj sámegiellaj ja sámegielajn.</p>
+      <p type="listitem">Gájkka alep åhpadusá ja dutkama galggi sáme vuojnov bærrájgåhtset.</p>
+    </list>
+    <p type="title">Duogásj</p>
+    <p>Sámedigge barggá moatte láhkáj dájt ulmijt jåvsåtjit. Miján le aktisasjbarggo guovdásj oajválattjaj ja diedojt juohkep ja bagádallap sámeåhpadusá birra. Mij ruhtadoarjjagijt ja stipendajt juollodip, oahpponævvobuvtadimev háldadip, oahppoplánajt dahkap ja vuodoåhpadusá alep åhpadusá ja dutkama ålgoldisævtojt nannip.</p>
+    <p type="title">Rievtesvuoda</p>
+    <p>Åhpaduslága 6 kapihttalin li mærrádusá ma gulluji sáme åhpadussaj vuodoskåvlån (§ 6-2) ja joarkkaskåvlån (§ 6-3). Nuortta-, julev- ja oarjjelsámegiella. Ájnegis oahppen le danen láhkamierredum ájnegis rievtesvuohta sámegiella fága åhpadussaj mánáj-, nuoraj ja joarkkaskåvlån, berustahtek gånnå rijkan årru. Oahppe iesj vállji makkár sámegielav sihtá oahppat.</p>
+    <p>Åhpaduslága § 6-2 milta le oahppijn vuodoskåvlå álldarin gudi årru <em type="italic">sáme guovlojn </em>rievtesvuohta åhpadussaj sámegielan ja sámegiellaj. Dát sihtá javllat oahppijn le rievtesvuohta åhpadussaj sámegiellaj ietjá fágajn aj, jut åhpadus sámegiellaj galggá. </p>
+    <p>Háldadusguovlo ålggolin le sámijn rievtesvuohta sámegiellaj åhpadusáv oadtjot jus binnemusát 10 oahppe dáv sihti, ja nav guhkev gå dá juohkusijn li 6 oahppe. Suohkan máhttá biedjat åhpadusáv avta jali moatte skåvllåj suohkanin. Suohkana li da ma mierredi makkár skåvlåjn dákkár fálaldagá máhtti liehket. Skåvllåæjgádin le badjásasj åvdåsvásstádus vaj oahppij rievtesvuoda sáme åhpadussaj dievdeduvvi.</p>
+    <p>Åhpaduslága § 6-3 sisadno le joarkkaskåvlå åhpadus. Sáme oahppijn le ájnegis rievtesvuoda åhpadussaj sámegielan joarkkaskåvlån. Joarkkaskåvlå åhpadussaj máhttá departemænnta vaddet láhkatjállusijt jut muhtem skåvlå galggi fállat åhpadusáv sámegielan jali sámegiellaj, ja sierra fágajn. Åhpaduslága § 7-1 láhkatjállusa milta le oahppijn rievtesvuohta sierra åhpadimvuogijda nav guhkás jus skåvlå ietjas åhpadiddje e máhte dáv vaddet. Dábegis láhkáj de sihtá dát sierra åhpadimvuohke javllat guhkásåhpadus, intensijva åhpadus jali læjrraskåvlå åhpadus.</p>
+    <p>Vuodoskåvlå ja joarkkaskåvlå åbbå Vuonan li åhpaduslága § 6-4 milta biejadallam åhpadusáv sámeálmmuga, sáme gielaj, kultuvra ja sebrudakiellema birra vattátjit.</p>
+    <p>Oahppijn friddjaskåvlåjn ælla makkárak rievtesvuoda sámegiela åhpadussaj. Sáme oahppe friddjaskåvlåjn hæhttuji sierra sámegiela åhpadusáv åhtsåt. Skåvlå ietjas duogen le jus sáme åhpadusáv fálli ietjasa oahppijda.</p>
+    <p type="title">Diedo Åhpadus</p>
+    <p>Sámedikken li niellja stuoves aktisasjtjåhkanime Máhttodepartementajn jahkáj ma guoskadalli mánájgárddáj, vuodoåhpadussaj ja alep åhpadussaj.</p>
+    <p>Sámedigge mierret, Máhttodepartementa ævtoj sissŋelin, oahppoplánajt sámegielan vuodo- ja joarkkaskåvlåjda ja duodjefáhkaj, boatsojsujttofáhkaj ja sierra sáme fágajda joarkkaåhpadusájn.</p>
+    <p>Oahppoplánaj njuolgadustjállaga §2-3 ja §3-4 baktu biejaduvvá sámij birra, ja sijá giela ja sebrudakiellema birra åhpaduvvat duon dán fágaj baktu. Máhtto- ja åhpadusdepartementa ævtoj sissŋelin le Sámedikken fábmudahka njuolgadustjállagijt aktan sisanojn vaddet dákkár åhpadibmáj.</p>
+    <p>Sámedigge galggá konsulteriduvvat juohkka åhpadusássjij ma sámij berustimijda guosski.</p>
+    <p type="listitem">Ovttas.no - Sáme oahppamnævo nehtan</p>
+    <p>Mij lip tjoaggám gåvåjt, girjijt, filmajt, jienajt, oahppamnævojt ja digitála ressursajt mij giehpet bargov dunji sáme åhpadiddjen. Máhta aj gávnnat artihkkalijt sáme ássjij birra ja pedagogalasj bagádallamijt.</p>
+    <p xml:lang="sme">Ovttas.no</p>
+  </body>
+</document>

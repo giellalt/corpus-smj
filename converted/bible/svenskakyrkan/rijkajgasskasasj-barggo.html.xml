@@ -1,0 +1,36 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>288</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.svenskakyrkan.se/omoss/rijkajgasskasasj-barggo</origFileName>
+    <parallel_text xml:lang="fin" location="default.aspx_id=775925.html"/>
+    <parallel_text xml:lang="sma" location="internationelle-barkoe.html"/>
+    <parallel_text xml:lang="sme" location="riikkaidgaskasa-bargu.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Rijkajgasskasasj barggo - Svenska kyrkan - Om oss</p>
+    <p type="title">Rijkajgasskasasj barggo</p>
+    <p type="title">Råhtos håhkkånimviehkke, guhkaájggásasj åvddånibme, oajbbom rievtesvuohtaj  ja ienep gå tjuohtejahkasasj aktijbarggo girkkoj Afrikin ja Asian. Vuohke l buojkodit  Jårbbå väráldav, Svieriga girkko rijkajgasskasasj barggo.</p>
+    <p>Gå häjos nissunij vatteduvvá åskeldimev loaddnut ja buoredit viessomav suv fuolkkáj de l rijkajgasskasasj bargos oasse. Sämmi l gå hiv-dähppom jali aidsskihppe duostodovvá huvsos sadjá gå rájadallat. Jali gå ulmutja ságasti såbadusá birra sadjáj gå nubbe nuppep vasjijn duosstot, ja rijddo ráddnasemasvuodas målsuduvvá. Jårbbå värált, Svieriga girkko rijkajgasskasasj barggo l aktijbarggam girkkoj Afrikin ja Asian badjel tjuohte jage. Uddni bargaduvvá väráldij rievtesvuodajn váni nielge, häjosvuoda ja duolmmoma dagi väráltvijdes ristagis aktisasjvuodan. ATC-allianssa gávnnu birra värálda. Juohkka sajen ulmutja barggi vájkudittjat ja buoredittjat sijá viessomav.</p>
+    <p><em type="italic">Vatta aktugattjasj li ájnnasa </em>Dán bargon la barggo biebbmuj ja tjáhtjáj gájkajda, lánndadáfoåvddånibme, teologalasj åhpadus, mikrolåna ja spárram ja såbadus ja jáhkkudakságastallam. Valla aj oajbbom rievtesvuohtaj, buojkulvissan rievtes oasestibme, håhkkånimdago, ulmutjij riektá ja nissunlasj lájddijibme. </p>
+    <p>Barggo biednigahteduvvá ienemusát biednigijs ma tjoahkkeduvvi Svierigin. Vatta tjoaggulvisájs, aktugasj vaddijs ja siebrijs doarjju bargos ednagav väráldij ienep rievtesvuohtajn. Biednikdoarjja Sidas ja EUas la ietjá ájnas sisboahto. Svieriga girkko tjoaggulvisá li vuodo rijkajgasskasasj bargon. Diededi, åhpadi ja tjoaggi biednignijt, buojkulvissan kollektaj, basaraj ja dåjmaj baktu stádan. <em type="italic">Vierrevuoda hähttuji gádoduvvat </em>Viehkke l ájnas, valla ij tjoavde gájkka gassjelisvuodajt. Vierrevuoda ma ulmutjijt duosstu viessot árvvogisláhkáj hähttuji gádoduvvat. Avtabále gå gájka galggi máhttet ietjasa biebbmat dálla, de hähttuji ednama luohko bissot boahtte buolvajda. Jårbbå värált, Svieriga girkko dårjav vaddá bájkálasj girkkojda ja organisasjåvnåjda Europan, Afrikin, Asian, Latijnnaamerikin, ja Mellan Östernin aktijbargo baktu rijkajgasskasasj girkkolasj värmmádagájn. Anedahkes vuohke l barggat bissolis buoredibmáj. Girkkokansliddjan Uppsálan plániduvá tjoaggem, álmmukåhpadus ja vájkudimbarggo. Danna mierreduvvá makkir prosjevta umasslágásj sajijn väráldin ma galggi doarjjoduvvat ekonomalattjat jali persåvnålattjat Jårbbå väráldis, Svieriga girkko rijkajgasskasasj barggo. </p>
+    <p>//</p>
+  </body>
+</document>

@@ -1,0 +1,44 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Gidájt gå iellem ællá</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2012</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>251</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2012/samisk_040512.pdf</origFileName>
+    <parallel_text xml:lang="nob" location="om_vaaren_naar_livet_vaakner_060512.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+    <note>norsk bildetekst</note>
+  </header>
+  <body>
+    <p>Bájkkeavijssa NuorttaSállto</p>
+    <p>Tæksta: Børge Strandskog Jårggålibme:Divte</p>
+    <p>Media AS<em type="bold">Gidájt gå</em> </p>
+    <p><em type="bold">iellem ællá ...</em> </p>
+    <p>Geográfalasj guovllo mij válljiduvváj prosjevtan lij Måsske ja Oarjjevuona oarjjebielle gitta Vuodnabahtaj. Diehtovadde li tjalmostam sijdajt Måsske, SisVássjá ja Vuodnabahta. - Dárbbo le læhkám gártjedit mij guosská geográfalasj guovlluj vaj dåhkki giehtadallat dáv prosjevtav buoremus láhkáj, subtsas Urheim. Tjårggidumbarggo  le báddidum jiednabáddáj ja diehtovadde li læhkám Mikal Urheim, Kaja Andersen, Marta Nystø, Kari Johnsen, Eldbjørg Klingan ja Laila Spiik (Svierigabieles). Mikal Urheim, Kaja Andersen ja Marta Nystø li oarbbena gudi li bajássjaddam Vuodnabadán. Subttsasa tjanádum bajkijda histåvrålasj ja árbbedábálasj árvojn li tjårggiduvvam gåvåjn ja Mikal Urheim le subtsastam gåvåj milta. Subttsasa guovlojs loavddet aj várrebájkijt lahkusin: Njallajávrre, Måskåsj, Læjbbá ja gitta Rávddaj lullen. Mikal Urheim subtsas aj oasástallamis Svieriga biele Vájsáluovta sámij ja Oarjjevuona ja Rudnávuona sámij gaskan. Dát oasástallam ja ietjá dile iellemis Oarjjevuonan le gåvviduvvam prosjevta oajvvediedádusá 38 bielijn ma li tjáleduvvam julevsámegiellaj Mikal Urheima baktu. -Bårggemáno mannegiehtjen årrujma várráj Njallajávre lahkusin. Gålmmå biejve subtsastij áhttjám subttsasijt ma gulluji iellemij váren boatsojsujtojn, ulmutjij birra gudi akti viessun ja doaro ájges – báhtariddjijtrafihka birra ja sierraláhkáj suoma merrakaptæjnna Ålandas guhti hávveduváj Dujskajs ja jámij váren, javllá Erling Urheim. -Ejma oattjo tjadádit gájkka majt lijma ájádallam. Sihke ájgge ja ruhtadoarjja li ráddjidum, javllá Urheim. Ja sån le juo álggám ájádallat ådå ja stuoráp prosjevtav, aj dá bále aktan áhtjenis Mikal Urheim. -Dalloj galggá iellem váren liehket oajvvetiebmán, gånnå láttakkultuvra tjalmostahteduvvá. Boatsojsujtto sjaddá aj oasse prosjevtas, subtsas Erling Urheim, guhti le åhtsåm ruohtadårjav Sámedikkes ja doajvvu jåhtuj boahtá</p>
+    <p>j j</p>
+  </body>
+</document>

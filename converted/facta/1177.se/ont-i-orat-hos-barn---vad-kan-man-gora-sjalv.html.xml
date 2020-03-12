@@ -1,0 +1,65 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>400</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Egenvard-barn/Ont-i-orat-hos-barn---vad-kan-man-gora-sjalv</origFileName>
+    <parallel_text xml:lang="eng" location="ont-i-orat-hos-barn.html"/>
+    <parallel_text xml:lang="fin" location="ont-i-orat-hos-barn.html"/>
+    <parallel_text xml:lang="fit" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sma" location="d.html"/>
+    <parallel_text xml:lang="sme" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="swe" location="l1.html"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="ont-i-orat-hos-barn---egenvard.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Bielljenávlak mánájn - majt máhttá iesj dahkat? / Ont i örat hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">JulevusámegiellaLulesamiska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title">Bielljenávlak mánájn - majt máhttá iesj dahkat?Ont i örat hos barn - vad kan man göra själv?</p>
+    <list>
+      <p type="listitem">Jus mánná allagit åjvijn vällaj de båhtånibme binnu bieljen ja binnebut báktji. Oajvvurav aledittjat máhttá oajvevuolijt biedjat bålsståra vuolláj.</p>
+    </list>
+    <p type="title">Álu luottudahka iján</p>
+    <p>Máná gudi li snuohpasa máhtti bielljenávlagav oadtjot gå tsuottsa bieljen båhtåni. Máhtti aj luottudagáv oadtjot gå inflammasjåvnnå gasskabieljen la siedjan, gåhttju bielljenávladahkan. Goappátjaga snuohpa ja bielljenávladahka la iemelágásj infeksjåvnnåskibádagá mánájn. Máná álu gåhttsåji luottudagás iján danen gå båhtånibme bieljen stuorru gå vällahi. Ådisj má buorebut muhtem duodde oajvevuolij.</p>
+    <p>Ietjá vájve ma máhtti bielljenávlagav vaddet la inflammasjåvnnå gullotjadádagán mij manná bielljetsuodtsaj, váksabuodustahka jali vájve oalojlahtasij.</p>
+    <p type="title">Bielljenávladahka däjvvá gasskabieljev</p>
+    <p>Bielljenávladahka gasskabieljen álu hähkkat álggá ja oanegasj la. Ietján gå bielljenávlak mánán máhttá ájnibåddåsasj gullovihke ja nievrep gullo dåbddut. Dábálasj la aj báhkan buollet. Muhttijn bielljetsuodtsa luottan ja låsjkos gålggå gullotjadádahkaj. Dalloj luottudahka unnu. Mánájn máhtti aj bielljenávladahka váni luottudagá dagi.</p>
+    <p type="title">Bávtjasgiehpediddje dálkkasa</p>
+    <p>Jus diehtá mánán la bielljenávladahka de máhttá bávtjasgiehpediddje dálkkasav vaddet mij sisanet paracetamolav, buojkulvissan Alvedon ja Panodil, jali dálkkasav mij sisanet ibuprofenav, buojkulvissan Ipren ja Ibumetin. Dálkkasa gávnnuji gålgge hámen, bahtablähttan ja tablähttan. GGávnnuji váttugis bagádusá skurpon.</p>
+    <p>Mánájda gudi li nuorabu gå guhtta máno ij lulu bávtjasgiepediddje dálkkasijt vaddet åvddål vuostak rádedimes skihpasujtárin jali dåktårijn.</p>
+    <p>Máná vuollelin 18 jage gudi báhkan buolli e galga bávtjasgiehpediddje ja báhkkavuolediddje dálkkasijt acetylsalicylsyrajn adnet, buojkulvissan Magnecyl, Treo jali Albyl, jus dåktår ij la dav gåhttjum.</p>
+    <p type="title">Njunnjespraddja</p>
+    <p>Giehpediddje njunnjespraddja unnet njunnjebuodusav ja mánnáj gähppu vuojŋŋgat. Ij diehttu jus njunnjespraddja viehkedit bielljenávlladahkaj.</p>
+    <p type="title">Bielljegássjelisvuoda ja lávggom</p>
+    <p>Jus bielljetsuodtsa l luottanam beras vuorddet lávggomijn desik la häjttám gålggåmis gullotjadádagás. Gå bielljetsuodtsa l savvám, mij álu åvvå ruvva manná de máhttá lávggot iemeláhkáj. Jus li båhtså bieljijn jali bielljenávladahka de ij galga lávggot tjátjegierraga vuolen.</p>
+    <p type="title">Dárbasj má sujtujn aktavuodav válldet</p>
+    <p>Máná máhtti gasskabåddåsasj bielljenávlagav oadtjot gå li snuohpasa. Valla jus luottudahka ij buorrána, vájku bårrå bávtjasgiehpediddje dálkkasijt ja oajvve allagin, de mánná luluj åtsåduvvat varresvuohtaguovdátjin jali hähkkaduostudagán guovten-gålmån jánndura sinna.</p>
+    <p>Jus mánná l delas, ij nagá ståhkat ja ij sidá juhkat jali l nuorap gå gudá máno de galggá sujtujn aktavuodav válldet.</p>
+    <p>Luluj aj agev varresvuohtaguovdátjijn aktavuodav válldet jus låsjkos gålggå gullotjadádagás mánán-juska vil mánán la bávtjas jali ij.</p>
+    <p>Máhttá aj agev skihpasujttorádevaddemij riŋŋgit oattjotjit rádev.</p>
+  </body>
+</document>

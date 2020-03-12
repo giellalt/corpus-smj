@@ -1,0 +1,41 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Joarkkaskåvllå Ájluovtan</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
+    </author>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>145</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/joarkkaskavlla-jluovtan.4119</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Joarkkaskåvllå Ájluovtan</p>
+    <p>Árranin de sjaddá máhttelis åhpadusmáhtudagáv válldet tjaktjaj jus lij galle åhttsijs. Vuorkkágåvvå: Lars Theodor Kintel.</p>
+    <p>Norsk kortversjon/Oanegie dárogiellaj</p>
+    <p>Jus la galle åhttsijs, de la máhttelis åhpadusmáhtudagáv válldet Ájluovtan boahtte skåvllåjage.</p>
+    <p>Knut Hamsun joarkkaskåvllå l plánimin dáv fálaldagáv, ja fálaldahka l aktisasjbarggo Árranijn ja Aetátajn, ja orgániseriduvvá degu <span type="quote">”rabás skåvllå”</span>.</p>
+    <p>Åhpadibme sjaddá dagu <span type="quote">”åhpadusdivudahka”</span> gånnå oahppe ietja hæhttuji låhkåt ja åhpadusáv ietja galggi åmastit. Åhpadibme l nehta baktu, ja aj bagádiddjij baktu gudi lij åhpadusbájken.</p>
+    <p>Åhpadibme l ienep dagu <span type="quote">”friddja”</span> åhpadibme dajna gå la máhttelis åhpadusmáhtudagáv moatten jagijn gillot.</p>
+    <p>Duodden la aj máhttelis sámegielav låhkåt, ja Knut Hamsun joarkkaskåvllå vieledi oahppe galggi sebrudakfágav ja giellafágav sámegiellaj oadtjot.</p>
+    <p>Realmáhtudahka aj dåhkkiduvvá gå oahppe galggi dán åhpadibmáj åhtsåt, ja dajna de moadda bálggá rahpusij dajda gænna ælla goassak læhkám dakkár máhttelisvuoda åvddåla.</p>
+    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+  </body>
+</document>

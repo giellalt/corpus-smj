@@ -1,0 +1,58 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>174</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/julevsamegiella/Pages/lenastivra-viddno.aspx</origFileName>
+    <parallel_text xml:lang="fin" location="nat-min-laaninhallituksen-tehtavat.html"/>
+    <parallel_text xml:lang="sma" location="nat-min-leenestuvrien-stilleme.html"/>
+    <parallel_text xml:lang="sme" location="nat-min-leanastivrra-bargogohccumus.html"/>
+    <parallel_text xml:lang="swe" location="nat-min-lansstyrelsens-uppdrag.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Lenastivra viddno - Länsstyrelsen i Stockholm</p>
+    <list/>
+    <p type="title">Lenastivra viddno</p>
+    <p>
+      <em type="italic">Lenastivran Stockholman la aktan Sámedikkijn viddnon dåbelijtjuovvot lágav rijkalasj unneplågoj ja unneplågogielaj birra mij fábmuj bådij ådåjakmáno 1.b. 2010. </em>
+    </p>
+    <p>Lenastivrra ja Sámedigge galggá jáhkásattjat dahkat tjoahkke árvvalimev gåktu lága tjuovoduvvá ja diededit dáv ráddidussaj.</p>
+    <p>Lenastivrra galggá aj aktan Sámedikkijn aktijdit bargov unneplågopolitijkalasj ulmijda rijkalattjat. Mierkki buojkulvissan mij galggap tjadádit diededimdagojt ja doarjjot kommuvnajt ja unneplågojt sijá rahtjamin vuododit rádedimev kommuvnalattjat. Viddno l vil Lenastivrra ja Sámedigge galggá juogadit stáhtadårjav kommuvnajda ja lánndadikkijda ma säbrri tjuottjodusguovlojda.</p>
+    <p type="title" xml:lang="swe">Kontakta oss</p>
+    <p>Ann-Marie Algemo</p>
+    <p xml:lang="swe">Ann-Marie punkt Algemo snabela lansstyrelsen punkt se¤Ann-Marie punkt Algemo snabela lansstyrelsen punkt se</p>
+    <p>010-2231209</p>
+    <p xml:lang="swe">Katarina Popovic</p>
+    <p xml:lang="swe">Katarina punkt Popovic snabela lansstyrelsen punkt se¤Katarina punkt Popovic snabela lansstyrelsen punkt se</p>
+    <p>010-2231517</p>
+    <p xml:lang="swe">Helena Cronséll</p>
+    <p xml:lang="swe">Helena punkt Cronsell snabela lansstyrelsen punkt se¤Helena punkt Cronsell snabela lansstyrelsen punkt se</p>
+    <p>010-2231279</p>
+    <p>Vladimir Guala</p>
+    <p xml:lang="swe">Vladimir punkt Guala snabela lansstyrelsen punkt se¤Vladimir punkt Guala snabela lansstyrelsen punkt se</p>
+    <p>010-2231338</p>
+    <p xml:lang="swe">Skicka meddelande</p>
+    <p xml:lang="swe">Dölj formulär</p>
+    <p>E-postadress</p>
+    <p xml:lang="swe">Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p xml:lang="swe">Meddelande</p>
+    <p xml:lang="swe">Skriv in nedanstående kod för att skicka meddelande</p>
+    <p xml:lang="swe">Generera ny bild</p>
+  </body>
+</document>

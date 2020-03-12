@@ -1,0 +1,56 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>186</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/AEladus/Kulturaeladus/Doarjju-same-mannoiellemav-julevsame-guovlon</origFileName>
+    <parallel_text xml:lang="nob" location="stoetter-samisk-reiseliv-i-lulesamisk-omraade.html"/>
+    <parallel_text xml:lang="sma" location="saemien-fealadassem-julevsaemien-dajvesne-daaarjohte.html"/>
+    <parallel_text xml:lang="sme" location="doarju-sami-matkeealahusaid-julevsami-guovllus.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Doarjju sáme mannoiellemav julevsáme guovlon / Kulturæládus / Æládus / Sámedigge - Sametinget</p>
+    <p type="title">Doarjju sáme mannoiellemav julevsáme guovlon</p>
+    <p xml:lang="sme">21. golke 2014</p>
+    <p>Sámediggeráde juollot 228 tuvsán kråvnå doarjjan prosjæktaj mannoiellemav julevsáme guovlon.</p>
+    <p>Árran julevsáme guovdásj galggá tjadádit guovte ja lahkke jage mannoiellemprosjevtav julevsáme guovlon 2014 – 2016 jagij gávdan.</p>
+    <p>Sáme mannoiellem la binnáv loavddam julevsáme guovlon ja prosjevta ulmme le ásadit edisik gålmmå viddnudagá åvddål 2016.</p>
+    <p>Árran sihtá rekrutterit sáme ásadiddjijt gudi hálijdi åvdedit sáme mannoiellemav, ásadit æjvvalimsajijt ja dahkat åvddånahttemav julevsáme guovlon.</p>
+    <p>Sámediggeráde ájrrasa Silje Karine Muotka ja Ann-Mari Thomassen javllaba prosjækta le miellagiddis ja dan diehti juollot Sámediggeráde 228 tuvsán kråvnå prosjæktaj.</p>
+    <p>
+      <em type="bold">-Kultuvrraæládusá li muhtema rijka miellagiddisamos ja sjaddelamos æládusájs, ja mij doajvvop moadda ådå ásadusa sjaddi, javllá rádeájras Silje Karine Muotka. </em>
+    </p>
+    <p>
+      <em type="bold">-Sámediggeráde barggá nanos ja moattebelak æládusiellemav ásadittjat. Kultuvrraæládusá maj vuodo le sámekultuvrra, luonndo ja birás máhtti sjaddat ájnas æládussan moatte sáme sebrudahkaj, javllá rádeájrasAnn-Mari Thomassen. </em>
+    </p>
+    <p>Sámedigge le dálla barggamin strategijajn lasedittjat vidnojt sáme kultuvrraæládusájn ja le ásadam nåv gå guokta viddnudakåvddånahttemprográmma Finnmárkon ja Tråmsån.</p>
+    <p>
+      <em type="bold">Lågå ienebuv: </em>
+    </p>
+    <p xml:lang="nob">http://www.sametinget.no/Naeringer/Kulturnaering/Satser-paa-kulturnaering-i-Troms</p>
+    <p xml:lang="nob">http://www.sametinget.no/Naeringer/Kulturnaering/Dahttu-programmet-for-kulturnaering-i-gang</p>
+    <p>
+      <em type="bold">Ienep diedo: </em>
+    </p>
+    <p xml:lang="sme">Sametingsråd Silje Karine Muotka, 984 87 576</p>
+    <p xml:lang="nob">Sametingsråd Ann-Mari Thomassen, 900 57 123</p>
+  </body>
+</document>

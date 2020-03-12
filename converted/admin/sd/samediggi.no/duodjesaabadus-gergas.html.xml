@@ -1,0 +1,46 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>137</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/AEladus/Duodje/Duodjesaabadus-gergas</origFileName>
+    <parallel_text xml:lang="nob" location="duodjiavtalen-i-havn.html"/>
+    <parallel_text xml:lang="sma" location="duedtielatjkoe-gaervies.html"/>
+    <parallel_text xml:lang="sme" location="geargan-duodjesiehtadusain.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Duodjesåbadus gergas / Duodje / Æládus / Sámedigge - Sametinget</p>
+    <p type="title">Duodjesåbadus gergas</p>
+    <p xml:lang="nob">22. skïerede 2014</p>
+    <p>Duodjesjiehtadallamij oassálasste li boahtám ájgás, ja 2015-jage såbadusán la 8,1 milijåvnå kråvnå mierre.</p>
+    <p>Sámedigge ja duodjeorganisasjåvnå Sámiid Duodji ja Duojáriid ealáhussearvi li ma sjiehtadalli duoje æládussåbadusáv, ja Sámediggeráde Silje Karine Muotka le dudálasj såbadusájn.</p>
+    <p>
+      <em type="bold">- Mån lav viehka ávon gå bådijma ájgás viehka fávdda. Ulmme le åvddånahttet duojev æládussan lassánam mávsánisvuodajn ja oasestimijn iesjdagádum duojijn. Dággu sihkarasteduvvi duodjárij ekonomalasj vidjura, subtsas Muotka. </em>
+    </p>
+    <p>Duodjeorganisasjåvnå sihti ietja háldadit årnigav doajmmadårjajn, valla åvddål nåv sjaddá, de sihti såbadusá oassálasste merustallat båhtusijt dakkir ássjijs 1.1.2016 rájes.</p>
+    <p>
+      <em type="bold">- Sámediggeráde vuorddá båhtusijt dát ájnas bargos, ja le ávon gå organisasjåvnå sihti åvdåsvásstádusáv válldet, javllá Muotka. </em>
+    </p>
+    <p>
+      <em type="bold">- Organisasjåvnå li åtsådam viejedusáv duojes kultuvrraæládussan. Oasse såbadusas le Sámedigge ájggu álgget kultuvrraæládusprosjevtav gånnå duodje ja sámekultuvrra li guovdásj oase, hæjttá Muotka. </em>
+    </p>
+  </body>
+</document>

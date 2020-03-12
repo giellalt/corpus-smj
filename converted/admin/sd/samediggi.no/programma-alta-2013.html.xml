@@ -1,0 +1,56 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>147</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Rijkajgasskasasj-barggo/Alta-2013/Programma-Alta-2013</origFileName>
+    <parallel_text xml:lang="nob" location="program-alta-2013.html"/>
+    <parallel_text xml:lang="sma" location="programme-alta-2013.html"/>
+    <parallel_text xml:lang="sme" location="programma-alta-2013.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Prográmma Áltá 2013 / Áltá 2013 / Rijkajgasskasasj barggo / Sámedigge - Sametinget</p>
+    <p type="title" xml:lang="sme">Prográmma Áltá 2013</p>
+    <p>08. njoktje 2013</p>
+    <p>Båddåsasj prográmma gárvediddje álggoálmmukkonferánssaj Áltán 2013 biehtsemáno 8. gitta 12. bæjvváj.</p>
+    <p>
+      <em type="bold">Lávvodagá biehtsemáno 8. biejve </em>
+    </p>
+    <p>Gætjo biejve: Konferánssaoassálasste Áltáj båhti. Tjáledibme. Gætjo biejve: Finnmarkshálla gárveduvvá.</p>
+    <p>
+      <em type="bold">Sådnåbiejve biehtsemáno 9. biejve </em>
+    </p>
+    <p>Gætjo biejve: Konferánssaoassálasste Áltáj båhti. Tjáledibme. Gætjo biejve: Iesj guhtik álggoálmmukguovlojn li sierra tjåhkanime.</p>
+    <p>Kl. 12.00: Præssaladnja rahpá. Kl. 20.00: Buorisboahtem Allaskåvlån Áltán.</p>
+    <p>
+      <em type="bold">Mánnodahka biehtsemáno 10. biejve </em>
+    </p>
+    <p>Kl. 10.00 - 13.00: Rahpam ja konferánssa Kl. 13.00 - 15.00: Biejvvebiebbmo Kl. 15.00 - 18.00: Konferánssa joarkká Kl. 18.00 - 18.30: Præssakonferánssa</p>
+    <p>
+      <em type="bold">Dijstagá biehtsemáno 11. biejve </em>
+    </p>
+    <p>Kl. 10.00 - 13.00: Rahpam ja konferánssa Kl. 13.00 - 15.00: Biejvvebiebbmo Kl. 15.00 - 18.00: Konferánssa joarkká</p>
+    <p>
+      <em type="bold">Gasskavahko biehtsemáno 12. biejve </em>
+    </p>
+    <p>Kl. 10.00 - 13.00: Rahpam ja konferánssa Kl. 13.00 - 15.00: Biejvvebiebbmo Kl. 15.00 - 18.00: Konferánssa joarkká Kl. 18.00 - 18.30: Præssakonferánssa</p>
+  </body>
+</document>

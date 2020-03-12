@@ -1,0 +1,47 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Vájmmelisvuohta,værmádahka ja ålggorijkkapolitihkka!</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2008</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>171</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/files/samisk_300508.pdf</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+    <note>norsk bildetekst</note>
+  </header>
+  <body>
+    <p>Bájkkeavijssa NuorttaSállto</p>
+    <p xml:lang="nob">Tæksta: Børge Strandskog</p>
+    <p>Jårggålibme: Idar Kintel</p>
+    <p>Rike jådedibme ja</p>
+    <p>j</p>
+    <p>j</p>
+    <p>barggo. Daj niellja</p>
+    <p>sihke máhtudagáv ja</p>
+    <p>nanos mannoæládusáv dættot sån. Iesj ájggu guossidit ienemusoasev mannoæládusviddnudagájs guovlonboahtte  jahketjåhkanime  åvddåla.  Ham-suns  Rike  le  juo  álggám  tjåhkanimijsuohkanij.-  Vierttip  aj  joarkket  dajna  buorreaktijvuodajn  destinasjåvnnåviddnudagájLufåhtan, Viestaralásin ja Ufuohtán. Ja ajfáhkaguojmij  rájá  nuppe  bielen,Jåhkåmåhken ja Jielleváren. Sierraláhkájsáme  aktijvuodan  le  dákkir  barggo  rájajrastá ájnas. Ja galgav ajålggorijkkapolitihkav jådedit, javllá Sven-Roald Nystø, guhti sihtá vuosedit dát leájnas nuorttaguovllo perspektijvan.- Iesj lev ájras ráddidusá nuorttaguovllo-nammadusán, ja ålggorijkkaminisstara dajguovtijn rijkajn libá goappátja dættodamman ájnas le aktisasjbargojn rájá badjel,subtsas  Nystø    guhti  lulun  adná  ietjasværmádagáv  bájkálasj  mannoæládusádievnnuj.- Sierraláhkáj dan dilen gånnå HamsunsRike  le  dálla,  álu  guládallamin  jasjiehtadallamin fylkkadikkijn, Sámedikkijnja  Innovasjon  Norgejn.  De  jáhkáv  muvåtsådallama  ja  muv  dåbddo  systemajdasjaddi ávkálattja, miejnnistivrrajådediddje.Statistihka vuosedi mannoæládus Nuortta-Vuonan  bargadahttá  ienep  ulmutjijt  gåednambarggo  ja  guolle.  Juohkka  lågåtbargge  rijkaguovlon  barggá  dán  jåhtelissjadde æládusán.-  Båddåsattjat  de  lip  gal  vehi  báhtsámHamsuns  Riken.  Valla  vejulasjvuohtastuorra sjadduj le danna, sihke barggijlågonja  ekonomalasj  árvon.  De  vierttip  aktantjuodtjot.  Dánna  sidáv  viehkedit,  hæjttáSven-Roald Nystø.</p>
+    <p><em type="italic">Åvdep SámediggepresidænntaSven-Roald Nystø le Hamsuns Rike ådåstivrrajådediddje.Tidligere Sametingspresident Sven-Roald</em> </p>
+  </body>
+</document>

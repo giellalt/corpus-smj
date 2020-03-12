@@ -1,0 +1,40 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>315</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=655196</origFileName>
+    <parallel_text xml:lang="fin" location="suomeksi.html"/>
+    <parallel_text xml:lang="sma" location="default.aspx_id=655194.html"/>
+    <parallel_text xml:lang="sme" location="default.aspx_id=655195.html"/>
+    <parallel_text xml:lang="swe" location="kyrkans-grundlaggande-uppgifter.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Julevsámigiella (lulesamiska) - Svenska kyrkan - Om oss</p>
+    <p type="title">Buorisboahtem Svieriga girkkuj</p>
+    <p type="title">Svieriga girkko l evangelak- luhterak girkko mij la juogedum tjoaggulvisájda, kontráktajda , stiftajda ja rijkalattjat. Svieriga girkko fállá siebrrevuodav ja aktijvuodav manna máhtá iehtjadij gávnadit ja tjiegŋoduvvat duv jáhkon.</p>
+    <p>Uppsala domkyrka.</p>
+    <p><em type="italic">Girkko vuodo viddno </em>Svieriga girkko vuodo vidno li basodit jubmeldievnov, åhpadit ja barggat diakoniddjajn ja misjåvnåjn. Tjoaggulvis åvdåsvásstet dåjmas gájkajda gudi viessu ja guossidi tjoaggulvisáv. Máhttelisvuohta l gástadussaj, konfirmasjåvnnåj, fiesstimij ja hávddádibmáj. <em type="italic">Jubmeldievno </em>Jubmeldievnno l máhttelisvuohta Jubmelijn gávnadit aktisasjvuodan ietjá tjoaggulvisårroj. Oadtjop vuojŋadit råhkålvisán, skalon ja lávllagin. Gájka duostoduvvi ietjasa jáhkujn ja sijá guoktástallamij. Árbbedábe dåbdov vuojnnep jubmeldievno umasslágásj åsijn, gullat musijkav ja vuojnnet girkkolanja hiervvimijn. Valla oadtjop aj duosstot ådåstimev moalggemin, lávllagin ja råhkålvisán. <em type="italic">Åhpadus </em>Jesus åhpadij ulmutjijt gätjo viessomav. Giehtoj muodolvisájt ja ságastij ulmutjij gej gávnadij danen gå sidáj vuosedit Jubmela gieresvuodav. Åhpadisålmmå oadtjun vidnov diedojt oabllodit ja nåvti l åvddålijguovlluj dagádum gitta mijá ájggáj. Gå ájádallap åhpadussaj uddni márjju ájádallap åvdemusát skallujlåhkkijda. Valla gájkka gávnadimijn ulmutjij åhpadip juojddá nubbe nuppe birra ja iehtjama birra. Nåvti oadtjop tjiegŋodum dádjadusáv mij la årrot ulmusj. </p>
+    <p><em type="italic">Diakoniddja </em>Diakoniddja l girkko sosiálalasj barggo. Viddno la oasálasjvuoda, roatto ja gasskasasj solidaritehta baktu duosstot ulmutjit fámodum vidjurijn. Vuodo dási l Jubmela gieresvuohta, mij mijáv duosstu ulmutjin Jesus Kristus. </p>
+    <p><em type="italic">Misjåvnnå </em>Misjåvnnå mierkki <span type="quote">”rájadus”</span> ja spiedjilt vidnov majt åhpadisålmmå oadtjun vihtanasstet iehtjadijda sijá jáhko birra. Girkko dálásjájge oassálassta dan rájadusán gávnadimij baktu ulmutjij goappátjagá lahkabirrusin ja mijá rijka rájáj ålggolin. Misjåvnnå l danen avta ednagav birra majt tjoaggulvis dahká sijá ietjas rájáj sinna ja gåktu doarjju ietjá girkkojt ålles värálda birra sijá vuodo barggogåhttjusin vihtanasstet Jesusa birra. Dagáduvvá goappátjagá ekonomalasj vattaj baktu ja rája barggijt, buojkulvissan åhpadiddjijt, dåktårijt, ekonomajt jali härrájt. </p>
+    <p><em type="italic">Svieriga girkko ålggorijkan </em>Ålggorijkkagirkko gåbttjå ålggorijkkatjoaggulvisájt ja ietjá ålggorijkkadåjmajt. Siebrreráde Svieriga girkkuj ålggorijkan mierret makkir ålggorijkkatjoaggulvisá gulluji Svieriga girkkuj. Gávnnuji 45 ålggorijkkatjoaggulvisá ja vil gáktselåk jubmeldievnnosaje gånnå tjåhkani dájvvalakkoj. </p>
+    <p>Lågå ienebuv Svieriga girkko sáme dåjma birra dánna.</p>
+    <p>//</p>
+  </body>
+</document>

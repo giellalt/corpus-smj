@@ -1,0 +1,65 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Dårja ja stipenda</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <wordcount>126</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.samedigge.no/Tilskudd-og-stipend?tag=87</origFileName>
+    <parallel_text xml:lang="nob" location="tilskudd-og-stipend.html"/>
+    <parallel_text xml:lang="sma" location="daaarjoe-jih-stipende.html"/>
+    <parallel_text xml:lang="sme" location="doarjagat-ja-stipeanddat.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Dårja ja stipenda</p>
+    <p>Sámedigge háldat muhtem dårjajt ja stipendajt ma li siegen sáme kulturárbev bisodime ja joarkkemin.</p>
+    <p type="title" xml:lang="vep">Stipenda</p>
+    <p xml:lang="fkv">Kultur- ja valástallamstipenda</p>
+    <p type="title" xml:lang="fkv">Kultur- ja valástallamstipenda</p>
+    <p xml:lang="deu">Kultur</p>
+    <p xml:lang="est">Les mer: Kultur- ja valástallamstipenda</p>
+    <p xml:lang="nob">Søknadsfrist: 15.10.2019 23:59</p>
+    <p type="title">Dårja</p>
+    <p>Girjálasjvuohta 2018</p>
+    <p type="title">Girjálasjvuohta 2018</p>
+    <p>Sáme girjálasjvuoda årnik åhtsåmusá vuodon doarjju sáme girjálasjvuodav, tjáppa- ja fáhkagirjálasjvuodaprosjevtajt ma vidnudagájs åvdeduvvi.</p>
+    <p xml:lang="deu">Kultur</p>
+    <p>Les mer: Girjálasjvuohta 2018</p>
+    <p xml:lang="nob">Søknadsfrist: 01.10.2019 23:59</p>
+    <p>Regionála ja bájkálasj aktisasjbarggo 2018</p>
+    <p type="title">Regionála ja bájkálasj aktisasjbarggo 2018</p>
+    <p xml:lang="deu">Kultur</p>
+    <p>Les mer: Regionála ja bájkálasj aktisasjbarggo 2018</p>
+    <p>Almodit juojggusav ja sáme musihkav</p>
+    <p type="title">Almodit juojggusav ja sáme musihkav</p>
+    <p xml:lang="deu">Kultur</p>
+    <p>Les mer: Almodit juojggusav ja sáme musihkav</p>
+    <p xml:lang="nob">Søknadsfrist: 01.10.2019 23:59</p>
+    <p>Ásadusåvdedibme 2018</p>
+    <p type="title">Ásadusåvdedibme 2018</p>
+    <p xml:lang="deu">Kultur</p>
+    <p xml:lang="nno">Les mer: Ásadusåvdedibme 2018</p>
+    <p xml:lang="est">Kulturdåjma 2019</p>
+    <p type="title" xml:lang="est">Kulturdåjma 2019</p>
+    <p xml:lang="deu">Kultur</p>
+    <p xml:lang="nno">Les mer: Kulturdåjma 2019</p>
+    <p>Musihkkaåvdedibme 2019</p>
+    <p type="title">Musihkkaåvdedibme 2019</p>
+    <p xml:lang="deu">Kultur</p>
+    <p xml:lang="nno">Les mer: Musihkkaåvdedibme 2019</p>
+  </body>
+</document>

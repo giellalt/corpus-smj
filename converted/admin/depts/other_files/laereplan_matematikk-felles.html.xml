@@ -1,0 +1,431 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>3588</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.udir.no/kl06/MAT1-04/Hele/Komplett_visning?lplang=smj&amp;read=1</origFileName>
+    <parallel_text xml:lang="eng" location="laereplan_matematikk-felles.html"/>
+    <parallel_text xml:lang="nno" location="laereplan_matematikk-felles.html"/>
+    <parallel_text xml:lang="sma" location="laereplan_matematikk-felles.html"/>
+    <parallel_text xml:lang="sme" location="laereplan_matematikk-felles.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Udir.no - Matematihka aktisasjfága oahppopládna</p>
+    <p xml:lang="nob">Hovedinnhold</p>
+    <p type="title">Matematihka aktisasjfága oahppopládna</p>
+    <p>Mierreduvvam Máhttodepartementas láhkanjuolgadusá milta 21.06.2013</p>
+    <p xml:lang="sme">Gusto borgemánu: 01.08.2013</p>
+    <p type="title">Ulmme</p>
+    <p>Matematihkka le oasse mijá væráltvijddásasj kulturárbes. Ulmutja li dålusj rájes juo adnám ja åvddånahttám matematihkav åtsådallamijt systematiseritjit, luondo ja sebrudagá aktijvuodajt dádjadittjat ja universav guoradalátjit. Fáhka le aj åvddånam danen gå ulmutja ietja li ávvusam gå li matematihkajn barggam. Fáhka moatte ájnas sebrudaksuorgijda guoskat, dagu medisijnnaj, økonomijaj, teknologijaj, guládallamij, energijaháldadibmáj ja biggimij. Danen le matematihka tjehpudahka viehka ájnas sebrudagá åvddånibmáj. Dåjmalasj demokratija dárbaj viesádijt gudi dádjadi ja lájttálisát árvustalli kvantitatijva diedojt, statistihkalasj analyjsajt ja ekonomalasj prognosajt. Navti le matemahtalasj máhtto dárbulasj jus galggá dádjadit ja vájkkudit prosessajt sebrudagán.</p>
+    <p>Matematihkalasj máhtto le gássjelisvuodajt tjoavddet ja modellerit vaj analyseri ja hiebat muhtem gássjelisvuodav matematihka hábmáj, dav tjoavddá ja árvustallá man vuogas tjoavdos le. Dánna li aj gielalasj ássje, dagu gaskostibme, ságastallat ja resonnerit ájádusáj hárráj. Matematihkan álu viehkkenævojt ja teknologijav adná. Sihke dav gå máhttá adnet ja árvustallat iesjgeŋgalágásj viehkkenævojt ja daj ráddjidusájt dåbddåt li ájnas oase fágas. Matematihkkamáhtto le ájnas vædtsak juohkka ájnegissaj, ja fáhka máhttá vuodov láhtjet joarkka åhpadussaj ja virggeiellema ja asstoájgedåjmaj oassálasstemij. Matematihkka le vuodon stuorra oassáj mijá kulturhiståvrås ja logalasj ájádallama åvddånahttemis. Navti le fágan ájnas oasse åbbålasj bajásgiessemis gå dat vájkkut identitehttaj, ájádallamvuohkáj ja iesjdádjadussaj.</p>
+    <p>Matematihkkafáhka skåvlån le viehkken gå galggá åvddånahttet matematihkka máhtov mav sebrudahka ja juohkka ájnegis dárbaj. Jus dáv galggá ållidit de hæhttuji oahppe bessat sihke praktihkalattjat ja teorehtalattjat barggat. Åhpadibme målssu ståhkamis guoradalle, sjuggelis ja tjuolmmatjoavdde dåjmaj ja tjehpudakhárjjidallama gaskan. Praktihkalasj anon le matematihkka vædtsak. Skåvllåbargon ávkástallá fága guovdásj ájádusá, háme, struktuvra ja aktijvuoda åhpadijn. Galggá oahppijt alodit matematihkav tjálalattjat, njálmálattjat ja digitálalattjat gaskostit. Galggá dilev láhtjet váj sihke báhtja ja næjtso oadtju vijdes åtsådallamijt matematihkkafágajn, man baktu vas buorre miella ja nanos fáhkatjehpudahka boahtá. Návti vuodov dahká oahppamij iellemav miehtáj.</p>
+    <p type="title">Fága oajvveoase</p>
+    <p>Fáhka le oajvveåsijda juogeduvvam, ja juohkka oasen li máhtudakmihto. Oajvveoase li oase ållesvuodas ja dajn le aktijvuohta.</p>
+    <p>Fáhka le aktisasjfáhka mij gullu gájka joarkkaåhpadusáj oahppoprográmmajda. Danen galggá åhpadusáv iesjgeŋga oahppoprográmmaj hiebadit váj sjaddá nav relevánta gå vejulasj oahppijda.</p>
+    <p>Matematihkan li vissa máhtudakmihto vuodoskåvlå 2., 4., 7. ja 10. jahkedáse maŋŋela ja joarkkaåhpadusá Jo1 studerimgárvediddje ja viddnofágalasj oahppoprográmmaj maŋŋela.</p>
+    <p>Jo1:an li guokta variánta oahppoplánas. T-variánta le ienep teorehtalasj, ja P-variánta le ienep praktihkalasj. Goappátja variánta vaddi dábálasj oahppomáhtudagáv oahppogárvedime oahppoprográmmajn aktan juogu de aktisasj prográmmafágajn matematihkan Jo2:n (2T/2P) jali matematihka prográmmafágajn (R1/S1).</p>
+    <p>Viddnofágalasj oahppoprográmma oahppe galggi Jo1:an tjadádit gålmmå vidádisåsijt oahppoplánas 1P jali 1T matematihkan. Oahppopládna vuoset matematihka máhtudakmihtojt viddnofágalasj oahppoprográmmajn 1T-Y ja 1P-Y.</p>
+    <p>
+      <em type="bold">Oajvveåsij gåvvå: </em>
+    </p>
+    <p>
+      <em type="bold">Jahkedáse </em>
+    </p>
+    <p>
+      <em type="bold">Oajvveoase </em>
+    </p>
+    <p xml:lang="koi">1.–4.</p>
+    <p>Tálla</p>
+    <p>Geometrija</p>
+    <p xml:lang="smn">Mihttim</p>
+    <p xml:lang="sme">Statistihkka</p>
+    <p xml:lang="koi">5.–7.</p>
+    <p>Tálla ja algebra</p>
+    <p>Geometrija</p>
+    <p xml:lang="smn">Mihttim</p>
+    <p xml:lang="sme">Statistihkka, jáhkedahttevuohta ja kombinatorihkka</p>
+    <p xml:lang="koi">8.–10.</p>
+    <p>Tálla ja algebra</p>
+    <p>Geometrija</p>
+    <p xml:lang="smn">Mihttim</p>
+    <p xml:lang="sme">Statistihkka, jáhkedahttevuohta ja kombinatorihkka</p>
+    <p>Funksjåvnå</p>
+    <p xml:lang="smn">1T</p>
+    <p>Tálla ja algebra</p>
+    <p>Geometrija</p>
+    <p xml:lang="sme">Statistihkka, jáhkedahttevuohta ja kombinatorihkka</p>
+    <p>Funksjåvnå</p>
+    <p xml:lang="vep">1P</p>
+    <p>Tálla ja algebra</p>
+    <p>Geometrija</p>
+    <p xml:lang="sme">Statistihkka, jáhkedahttevuohta ja kombinatorihkka</p>
+    <p>Funksjåvnå</p>
+    <p xml:lang="vep">Ekonomija</p>
+    <p xml:lang="est">1T-Y</p>
+    <p>Tálla ja algebra</p>
+    <p>Geometrija</p>
+    <p>Funksjåvnå</p>
+    <p xml:lang="vep">1P-Y</p>
+    <p>Tálla ja algebra</p>
+    <p>Geometrija</p>
+    <p xml:lang="vep">Ekonomija</p>
+    <p type="title">Tálla ja algebra</p>
+    <p>Tálla ja algebra-oajvveoasse galggá tálladádjadusáv åvdedit ja máhtov låpptit gåktu tálla ja tállagiehtadallam systemajn ja minsstarijn doajmmi. Tállaj máhttá lågojt ja stuorrudagájt kvantifiserit. Tállaj suorgge sisadná ålles tálla, fraksjåvnå, desimaltálla ja prosenta. Algebra skåvlån generaliseri tállariekknimav gå bokstáva jali ietjá symbåvlå tállajt åvdåsti. Navti sjaddá vejulasj minsstarijt ja aktijvuodajt gåvådit ja analyserit. Algebra aneduvvá aj geometrija ja funksjåvnåj oajvveåsijn.</p>
+    <p type="title">Geometrija</p>
+    <p>Geometrija skåvlån mierkki ierit ietján analyserit guovte- ja gålmådimensjonála gåvvusij vuogijt ja konstruksjåvnåjt ja merustallamijt dahkat. Geometrijan studeri dynámalasj prosessajt dagu spiedjildibme, jårgijdibme ja dåbedallam. Oajvveoasse sisadná aj gåvådit ruktonehtaj, kártaj ja koordináhttasystemaj sajev ja dåbedallamav.</p>
+    <p type="title" xml:lang="smn">Mihttim</p>
+    <p>Mihttim mierkki buohtastahttet ja álu tjadnat tállastuorrudagáv objæktaj jali låhkuj. Dát prosæssa gájbbet adná mihttimstuorrudagájt ja hiebalgis teknihkajt, mihttimvædtsagijt ja formelijt. Ájnas oase mihttimprosessas le båhtusav árvustallat ja árvvaladdet man iehpesihkara båhtusa li.</p>
+    <p type="title" xml:lang="sme">Statistihkka, jáhkedahttevuohta ja kombinatorihkka</p>
+    <p>Statistihkkaj gullu dáhtájt plánit, tjoahkkit, organiserit, analyserit ja åvddånbuktet. Dáhtáanalyjssaj gullu tjielggit åbbålattjat gåktu dáhtámateriálla le. Båhtusij ja dáhtáj åvddånbuktema árvustallam ja lájttális gehtjadibme le ájnas oasse dát prosessas. Jáhkedahttevuodariekknimin gæhttjal tállaj tjállet man stuorra jáhkedahttevuohta le jut dáhpádus ajtu dáhpáduvvá. Kombinatorihkan barggá systemáhtalasj vuogij gåktu tállajt gávnnat, ja dassta le álu dárbbo gå galggá jáhkedahttevuoda merustallat.</p>
+    <p type="title">Funksjåvnå</p>
+    <p>Funksjåvnnå gåvvit rievddamav jali åvddånahttemav muhtem stuorrudagás mij le muhtem ietjá stuorrudahkaj tjadnum. Funksjåvnåjt máhttá moatte láhkáj tjállet, duola dagu foarmmalij, tabellaj ja gráfaj baktu. Funksjåvnåj analyjssa mierkki åhtsåt vissa vuogijt, dagu man jåhtelit juoga åvddån ja goassa dát åvddånibme sierralágásj tállajt oadtju.</p>
+    <p type="title" xml:lang="vep">Ekonomija</p>
+    <p>Ekonomija-oajvveoasse giehtadallá merustallamijt ja árvustallamijt ma ekonomalasj ássjijda guosski.</p>
+    <p type="title">Tijmmalåhko</p>
+    <p>Akta tijmma le 60-minuhta.</p>
+    <p xml:lang="deu">MÁNÁJDÁSSE</p>
+    <p>1.-4. jahkedásijn: 560 tijma</p>
+    <p>5.-7. jahkedásijn: 328 tijma</p>
+    <p xml:lang="deu">NUORAJDÁSSE</p>
+    <p>8.-10 jahkedásijn: 313 tijma</p>
+    <p xml:lang="deu">OAHPPOGÁRVEDIME OAHPPOPROGRÁMMA</p>
+    <p>Jo1: 140 tijma</p>
+    <p xml:lang="deu">VIDDNOFÁGALASJ OAHPPOPROGRÁMMA</p>
+    <p>Jo1: 84 tijma</p>
+    <p type="title">Vuodotjehpudagá</p>
+    <p>Vuodotjehpudagá li integreridum máhtudakmihtojda, gånnå li fáron fáhkamáhtudagáv åvddånahttemin ja li aj dassta oassen. Matematihkan dádjaduvvi vuodotjehpudagá náv:</p>
+    <p><em type="italic">Njálmálasj tjehpudagá </em>matematihkan mierkki vuojnov hábbmit matematihka gulldalime, håla ja ságastallama baktu. Dat sisadná juojddáv miejnnit, gatjádallat ja argumenterit sihke iehpeformála giela, tjielgga fáhkaterminologija ja buojkuldagáj ano baktu. Dat sihtá javllat ságastallamijda sæbrrat, ájádusájt subtsastit ja matemáhtalasj tjuolmajt, tjoavddusijt ja strategijajt iehtjádij siegen árvvaladdat. Matematihka njálmálasj tjehpudagáj åvddånibme vuolggá matematihka ságastallamijda sæbrramis gitta gássjelap fágalasj ássjijt åvddånbuvtátjit ja árvvalattatjit. Vijddábut vuolggá åvddånibme álkkes matematihkalasj gielav adnemis gitta dárkkelis fáhkaterminologijav, javllamvuogev ja buojkuldagájt anátjit. </p>
+    <p><em type="italic">Buktet tjállet </em>matematihkan mierkki gåvådit ja tjielggit muhtem ájádallamvuogev ja bágojt biedjat gávnnusijda ja ájádusá. Dat sisadná matematihkalasj symbåvlåjt ja formálalasj matematihkalasj gielav adnet tjuolmajt tjoavdátjit ja tjoavddusijt åvddånbuvtátjit. Vijddábut dat sihtá javllat dahkat tjuorggamijt, sárggomijt, gåvådagájt, gráfajt, tabellajt ja diagrámmajt ma li vuosstájválldáj ja dilláj hiebaduvvam. Tjállem matematihkan le vædtsak ietjas ájádusájt ja oahppamav åvddånahtátjit. Matematihka tjállema åvddånibme vuolggá álkkes åvddånbuktemvuogijs maŋenagi formála symbåvllågiela ja dárkkelis fáhkaterminologija adnuj. Vijddábut vuolggá åvddånibme álkkes matematihkkafágalasj dilijt tjielggimis ja systematiserimis gitta ålleslasj argumentasjåvnåv tjielggitjit gássjelis aktijvuodaj hárraj. </p>
+    <p><em type="italic">Buktet låhkåt </em>matematihkan mierkki dádjadit ja adnet symbåvllågielav ja javllamvuogijt váj dádjat árggabiejve, barggoiellema ja matematihkkafágalasj tevstajt. Matematihkkafáhkaj gulluji moatte lágásj tevsta majn li matematihkalasj åvddånbuktemvuoge, gráfa, diagrámma, tabella, symbåvlå, foarmmala ja logalasj ájádallam. Låhkåm matematihkan mierkki diedojt sorterit, analyserit ja árvustallat hámev ja sisanov ja aktidit diedojt tevsta iesjgeŋga elementajs. Låhkåmåvddånibme matematihkan vuolggá diedojt gávnnamis ja adnemis tevstajn majn le álkkes symbåvllågiella gitta miejnigav dádjadittjat ja reflekteritjit gássjelis fáhkatevstaj badjel majn le dárkkelis symbåvllågiella ja buojkuldagá. </p>
+    <p><em type="italic">Buktet riekknit </em>vuodotjehpudahkan mierkki adnet symbåvllågielav, matematihkalasj buojkuldagájt, barggovuogijt ja moatte lágásj strategijajt tjuolmmatjoavddemin ja guoradallamin man álggo le sihke bæjválasj praktihkalasj dille ja matematihkalasj tjuolmma. Dat mierkki dåbddåt ja gåvådit dilijt gånnå matematihkka le oassen, ja matematihkalasj metodajt adnet tjuolmaj tjoavdedijn. Oahppe hæhttu aj guládallat ja árvustallat makta tjoavddusa dåhkkiduvvi. Riekknimåvddånibme matematihkan vuolggá vuodulasj tálladádjadimes ja álkkes tjuolmajt ájttsamis ja tjoavddemis gitta vijdes spekterav kompleksa tjuolmajs analyseritjit ja moattelágásj strategijaj ja metåvdåj tjoavdátjit. Dat mierkki maŋenagi ienebut adnet iesjgeŋgalágásj viehkkenævojt riekknimin, modellerimin ja guládallamin. </p>
+    <p><em type="italic">Digitála tjehpudagá </em>matematihkan mierkki digitála vædtsagijt oahppamij adnet spelaj, guoradallama, visualiserima ja åvddånbuktema baktu. Dáppe le aj sáhka dåbddåt, adnet ja árvustallat digitála vædtsagijt merustallamijda, tjuolmmatjoavddemijda, simulerimijda ja modellerimijda. Vijddábut dat mierkki diedojt gávnnat, analyserit, giehtadallat ja åvddånbuktet hiebalasj vædtsagij, ja liehket lájttális gáldojda, analyjsajda ja båhtusijda. Digitála tjehpudagáj åvddånahttem mierkki barggat aktiduvvam digitála tevstaj ma sjaddi gássjelabbo ájge tjadá. Vijddásappot dat mierkki ájn ienebut vuojnnet man ávkálasj digitála vædtsaga li matematihkkafága oahppamij. </p>
+    <p type="title">Máhtudakmihto 2. jahkedáse maŋŋela</p>
+    <p type="title">Tálla</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">låhkåt 100 rádjáj, juohket ja dahkat stuorrudagájt 10 rádjáj, biedjat aktij ja juohket lågisjjuohkusijt gitta 100 rádjáj ja guovtesiffar tállajt lågegijda ja avtitjijda</p>
+      <p type="listitem">tállalinjav adnet merustallamijda ja tállastuorrudagájt vuosedittjat</p>
+      <p type="listitem">sulleriekknistit tállajt, låhkåt, tállajt buohtastahttet ja tállastuorrudagájt åvddånbuktet iesjgeŋgalágásj vuogij</p>
+      <p type="listitem">åvddånahttet, adnet ja ságastallat iesjgeŋgalágásj riekknimstrategijaj hárraj gåktu adderit ja subtraherit guovtesiffar tállajt ja árvustallat makta vásstádusá hiehpi</p>
+      <p type="listitem">gærdodit ja bielledit</p>
+      <p type="listitem">dåbddåt, ságastallat ja joarkket tállaminsstarij struktuvrajt</p>
+    </list>
+    <p type="title">Geometrija</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">dåbddåt ja gåvådit guovte- ja gålmådimensjonála gåvvusij dåbddomerkajt dagu tjiega, rabda ja jalgudagá ja figuvrajt tjuolldet ja namádit gåvvusijt dåj dåbddomerkaj milta</p>
+      <p type="listitem">dåbddåt ja adnet spiedjilsymmetrijav praktihkalasj aktijvuodajn, ja ságastallat dan birra</p>
+      <p type="listitem">dahkat ja guoradallat geomehtralasj minsstarijt, sihke digitála vædtsagij ja daj dagá, ja dajt njálmálattjat gåvådit</p>
+    </list>
+    <p type="title" xml:lang="smn">Mihttim</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">mihttit ja buohtastahttet stuorrudagájt ma guosski guhkkudagájda ja areálajda, standardiserigahtes ja standárda mihttimavtadagáj, gåvådit gåktu ja båhtusij birra ságastallat</p>
+      <p type="listitem">nammadit biejvijt, mánojt ja álkkes láhkáj vásstedit gatjálvissaj <span type="quote">“gallen la?”</span></p>
+      <p type="listitem">dåbddåt vuona biednigijt ja rudájt gitta 100 rádjáj ja dajt adnet oastedijn ja vuobdedijn</p>
+    </list>
+    <p type="title" xml:lang="sme">Statistihkka</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">tjoahkkit, tjuolldet, tjállet ja gåvådit dáhtájt låhkåmsárgoj, tabellaj ja stoalppadiagrámmaj ja ságastallat prosessa birra ja majt gåvå dáhtáj birra subtsasti</p>
+    </list>
+    <p type="title">Máhtudakmihto 4. jahkedáse maŋŋela</p>
+    <p type="title">Tálla</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">gåvådit ja adnet sadjeárvvosystemav ålles tállajda, adnet positijva ja negatijva tállajt, álkkes fraksjåvnåjt ja desimállatállajt praktihkalasj aktijvuodajn ja tállastuorrudagájt moatte láhkáj javllat.</p>
+      <p type="listitem">sulleriekknistit ja gávnnat tállajt gå oajven riekknis, adná låhkåmvædtsagijt ja tjállagijt, ja de árvustallat vásstádusájt gå le sulleriekknistam</p>
+      <p type="listitem">åvddånahttet, adnet ja ságastallat iesjgeŋgalágásj riekknimvuogij gáktuj ma guosski moattesiffartállaj adderimij ja subtraksjåvnnåj sihke oajve milta ja páhppára nanna</p>
+      <p type="listitem">åvddånahttet ja adnet iesjgeŋgalágás gærdodibme- ja bielledibmevuogijt ja dajt praktihkalasj aktijvuodajn adnet, ja unna gærdodimtabellatjav adnet gå oajve milta riekkni ja dahkamusájt tjoavddá</p>
+      <p type="listitem">gávnnat diedojt tevstajn jali praktihkalasj aktijvuodajn, válljit riekknimvuogev, vuodustit válljimav, tabællamáhtov adnet ja ávkástallat riekknimvuogij aktijvuodajt, båhtusav árvustallat ja tjoavddusav åvddånbuktet</p>
+      <p type="listitem">dåbddåt, gæhttjaladdat, gåvådit ja joarkket tállaminsstarij struktuvrajt</p>
+      <p type="listitem">adnet matematihkalasj symbåvlåjt ja åvddånbuktemvuogijt matematihkalasj aktijvuodajt tjielggitjit dahkamustjoavdedijn.</p>
+    </list>
+    <p type="title">Geometrija</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">dåbddåt, gåvådit ja tjuolldet gievlijt, moattetjiegagijt, jårbbådisájt, sylinderijt ja polyederijt</p>
+      <p type="listitem">tjuorggat, biggit, guoradallat ja gåvådit geomehtralasj figuvrajt ja modellajt praktihkalasj aktijvuodajn, aktan teknologija ja hábbmima aktijvuodan</p>
+      <p type="listitem">dåbddåt, adnet ja gåvådit spiedjilsymmetrijav ja parallællanirkkalimev konkrehta aktijvuodajn</p>
+      <p type="listitem">dahkat ja guoradallat geomehtralasj minsstarijt ja dajt njálmálattjat gåvådit</p>
+      <p type="listitem">låhkåt, biedjat ja gåvådit posisjåvnåjt ruktoværmádagán, kártan ja koordináhtasysteman, sihke digitála vædtsagij ja daj dagá</p>
+    </list>
+    <p type="title" xml:lang="smn">Mihttim</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">sulleriekknistit ja mihttit guhkkudagáv, areálav, vuobmanav, mássav, temperatuvrav, ájgev ja viŋŋkalijt, ságastallat båhtusij birra ja árvustallat makta li dågålattja</p>
+      <p type="listitem">adnet standardiserigahtes mihttimijt ja tjielggit manen li standárd mihttima ja adnet ja målsudit dábálasj mihttimavtadagáj gaskan</p>
+      <p type="listitem">buohtastahttet stuorrudagájt vuogas mihttimvædtsagij ja álkkes merustallamijn, båhtusijt åvddånbuktet ja árvustallat makta li dågålattja</p>
+      <p type="listitem">tjoavddet praktihkalasj dahkamusájt ma guosski oasstemij ja vuobddemij</p>
+    </list>
+    <p type="title" xml:lang="sme">Statistihkka</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">tjoahkkit, tjuolldet, tjállet ja gåvvidit dáhtájt vuogas láhkáj låhkåmsárgij, tabellaj ja stoalppadiagrámmaj baktu, sihke digitála vædtsagij ja daj dagá, ja ságastallat prosessa ja åvddånbuktema hárraj</p>
+    </list>
+    <p type="title">Máhtudakmihto 7. jahkedáse maŋŋela</p>
+    <p type="title">Tálla ja algebra</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">gåvådit ja adnet desimálatállaj sadjeárvvosystemav, riekknit positijva ja negatijva ålles tállaj, desimálatállaj, fraksjåvnåj ja prosentaj ja iesjgeŋgalágásj stuorrudagájt tállalinnjaj biedjat</p>
+      <p type="listitem">gávnnat aktisasj bekkadiddjev ja fraksjåvnåj adderit, subtraherit ja gærdodit</p>
+      <p type="listitem">åvddånahttet, adnet ja dagástallat vuogijt gåktu oajven riekkni, sulleriekkni ja tjálalattjat riekkni ja digitála vædtsagijt adná riekknidahttijn</p>
+      <p type="listitem">gåvådit referánssasystemav ja notasjåvnåv mij aneduvvá hámijda riekknimárkan, ja riekknimárkav adnet merustallamijt tjadádittjat ja åvddånbuvtátjit</p>
+      <p type="listitem">gávnnat diedojt tevstajn jali praktihkalasj aktijvuodajn, åvddån biedjat ja tjielggit merustallamijt ja barggovuogijt, båhtusav árvustallat ja åvddånbuktet ja dagástallat tjoavddusav</p>
+      <p type="listitem">guoradallat ja gåvådit geometralasj minsstarijt ja tállaminsstarij struktuvrajt ja rievddamijt figuvraj, bágoj ja foarmmalij</p>
+      <p type="listitem">åvddån biedjat ja tjoavddet álkkes liknigijt ja tjoavddet ja riekknit parantesaj tállaj addisjåvnån, subtraksjåvnån ja gærdodijn</p>
+    </list>
+    <p type="title">Geometrija</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">analyserit guovte- ja gålmådimensjonála figuvrajt ja gåvådit fysalasj diŋgajt árkkabiejves ja teknologijas geomehtralasj buojkuldagáj</p>
+      <p type="listitem">biggit gålmådimensjonála modellajt, tjuorggat perspektijvajt majna le akta gáhtomtjuorgga ja dagástallat prosessajt ja buktagijt</p>
+      <p type="listitem">gåvådit ja tjadádit spiedjalasstemav, jårgijdimev ja parallællanirkkalimev</p>
+      <p type="listitem">gåvådit ruktoværmádagá sajástimev ja sirddemav kártan ja koordináhtasysteman, sihke digitála vædtsagij ja daj dagá, ja koordináhtajt adnet koordináhtasystema áksaj parallælla gaskav merustalátjit</p>
+    </list>
+    <p type="title" xml:lang="smn">Mihttim</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">válljet hiebalgis mihttimvædtsagijt ja tjadádit praktihkalasj mihttimijt árkkabiejve ja teknologija aktijvuodan ja árvustallat båhtusijt snivudagá ja mihttimiehpesihkarvuoda gáktuj</p>
+      <p type="listitem">sulleriekknistit ja mihttit stuorrudagáj guhkkudagáv, areálav, vuobmanav, mássav, ájgev ja viŋŋkalijt, ja adnet ájgijt ja ájggegaskajt álkkes merustallamijda, dagástallat båhtusijt ja árvustallat makta li dågålattja</p>
+      <p type="listitem">válljit hiebalgis mihttimavtadagájt ja riekknistit iesjgeŋga mihttimavtadagáj gaskan</p>
+      <p type="listitem">tjielggit gåktu mihttit guhkkudagáv, areálav ja vuobmanav ja merustallat biráldisáv, areálav, jalgudagáv ja vuobmanav guovte- ja gålmådimensjonála figuvrajs</p>
+      <p type="listitem">adnet mihtov gaskajt merustalátjit ja kártajt ja barggotjuorggamijt dahkat ja daj birra ságastallat, sihke digitála vædtsagij ja daj dagá</p>
+      <p type="listitem">adnet gasskavuodajt praktihkalasj aktijvuodajn, fártajn riekknit ja valutaj gaskan riekknistit</p>
+    </list>
+    <p type="title" xml:lang="sme">Statistihkka ja jáhkedahttevuohta</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">plánit ja tjoahkkit dáhtájt váksjomij, gatjádallamguoradallamij ja gæhttjaladdamij aktijvuodan</p>
+      <p type="listitem">åvddånbuktet dáhtájt tábellajn ja diagrámmajn ma li dagádum digitála vædtsagij ja daj dagá, låhkåt ja dålkkut åvddånbuktemijt ja árvustallat makta li ávkálattja</p>
+      <p type="listitem">gávnnat mediánav, dábálamostállav ja gasskamierev álkkes dáhtátjoahkkijn ja árvustallat iesjgeŋga guovdásjmihtojt nubbe nuppe gáktuj</p>
+      <p type="listitem">árvustallat ja ságastallat vejulasjvuodaj birra árkkabiejven, spelajn ja gæhttjaladdamijn ja jáhkedahttevuodav merustallat álkkes dilijn</p>
+    </list>
+    <p type="title">Máhtudakmihto 10. jahkedáse maŋŋela</p>
+    <p type="title">Tálla ja algebra</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">buohtastahttet ja målssot ålles tállaj, desimálatállaj, fraksjåvnåj, prosentaj, promilla ja standardháme tállaj, dákkir tállajt moatte láhkáj åvddånbuktet ja árvustallat makkir dilen iesjgeŋgalágásj åvddånbuktemvuoge li vuohkasa</p>
+      <p type="listitem">adnet faktåvråjt, potensajt, nubberuohttasijt ja álggotállajt merustallamin</p>
+      <p type="listitem">riekknit fraksjåvnåj, fråksjåvnåj dividerit ja fraksjåvnåjt álkkebun dahkat</p>
+      <p type="listitem">åvddånahttet, adnet ja tjielgadit iesjgeŋga riekknimmetodajt; oajve milta, sulástallam ja tjálalasj riekknim daj niellja riekknimvuogij</p>
+      <p type="listitem">giehtadallat, faktoriserit ja álkkedit algebrauttrykkajt, dajt praktihkalasj dilijda tjadnat, foarmmalij, parantesaj ja fraksjåvnåj riekknit ja neljudakgárgadisájt adnet</p>
+      <p type="listitem">tjoavddet liknigijt ja ærádisájt vuostasj grádas ja likniksystemajt guovte dåbddåmahttásij ja adnet dáv praktihkalasj ja teorehtalasj ássjijt</p>
+      <p type="listitem">merustallat gålådimev, kredittkårtå anov, sisbåhtusav, luojkkamav ja siesstemav, budsjehtav ja ruhtalågov dahkat riekknimárka ano baktu ja tjielggit merustallamijt ja båhtusijt åvddånbuktet</p>
+      <p type="listitem">analyserit aktijduvvam gássjelisvuodajt, identifiserit fássta ja målsudahkes stuorrudagájt, tjadnat aktijduvvam gássjelisvuodajt dåbdos tjoavddemvuogijda, merustallamijt tjadádit ja båhtusijt åvddånbuktet vuogas láhkáj</p>
+      <p type="listitem">adnet tállajt ja variábelijt guoradaládijn, gæhttjaladdamin ja praktihkalasj ja teorehtalasj gássjelisvuodaj tjoavdedijn ja båhtusijt vuogas láhkáj åvddånbuktet</p>
+    </list>
+    <p type="title">Geometrija</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">guoradallat ja gåvådit guovte- ja gålmådimensjonála figuvrajt ja daj hámijt adnet konstruksjåvnåjn ja merustallamijn</p>
+      <p type="listitem">tjadádit, gåvådit ja vuodustit geomehtralasj konstruksjåvnåjt passerijn ja linjálajn ja dynámalasj geometrijaprográmman</p>
+      <p type="listitem">adnet ja vuodustit avtahámakvuodav ja Pytagorasa gárgadisáv dåbddåmahtes stuorrudagáj merustallamijn</p>
+      <p type="listitem">dålkkut ja stiellit barggotjuorggamijt ja perspektijvvatjuorggamijt moatte gáhtomtjuorgaj, digitála vædtsagij ja daj dagá</p>
+      <p type="listitem">koordináhtajt adnet figuvrajt gåvvidittjat ja guoradallat geomehtralasj hámijt, digitála vædtsagij ja daj dagá</p>
+      <p type="listitem">guoradallat, gæhttjaladdat ja formulerit logalasj resonnementajt geomehtralasj ájádusáj ja tjielggit geomehtralasj aktijvuodajt ma li sierraláhkáj ájnnasa teknologijan, dájdan ja arkitektuvran</p>
+    </list>
+    <p type="title" xml:lang="smn">Mihttim</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">sulleriekknistit ja mihttit stuorrudagáj guhkkudagáv, biráldagáv, viŋŋkalijt, areálav, jalgudagájt, vuobmanav, ájgev, fártav ja iesjmássav ja adnet ja rievddadit mihtojt</p>
+      <p type="listitem">válljit vuogas mihttimavtadagájt, aktijvuodajt tjielggit ja riekknistit iesjgeŋgalágásj mihttimavtadagáj gaskan, adnet ja árvustallat mihttimvædtsagijt ja mihttimvuogijt praktihkalasj mihttimin ja árvvaladdat snivudagáv ja mihttimiehpesihkarvuodav</p>
+      <p type="listitem">tjielggit tállav π adnet dav biráldagá, areála ja vuobmana merustallamin</p>
+    </list>
+    <p type="title" xml:lang="sme">Statistihkka, jáhkedahttevuohta ja kombinatorihkka</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">tjadádit guoradallamijt ja adnet dáhtábásajt statistihkalasj dáhtájt åtsåtjit ja analyseritjit ja gáldojt árvustalátjit</p>
+      <p type="listitem">oarnnit ja tjuolldet dáhtájt, gávnnat ja árvvaladdat medianav, dábálamostállav, gasskamierev ja variasjåvnnågåbddudagáv, dáhtájt åvddånbuktet digitála vædtsagij ja daj dagá, ja árvvaladdat iesjgeŋga dáhtáåvddånbuktemijt ja makkir gåvåjt da máhtti vaddet</p>
+      <p type="listitem">gávnnat ja dagástallat jáhkedahttevuodav gæhttjaladdama, simulerima ja merustallama baktu árkkabiejve aktijvuodajn ja spelan</p>
+      <p type="listitem">gåvådit boadosvijddudagáv ja åvddånbuktet jáhkedahttevuodav fraksjåvnnån, prosænntan ja desimállatállan</p>
+      <p type="listitem">árvvaladdat ja tjoavddet álkkes kombinatoralasj tjuolmajt</p>
+    </list>
+    <p type="title">Funksjåvnå</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">dahkat, digitála vædtsagij ja daj dagá, funksjåvnåjt ma tjielggiji numerálalasj aktijvuodajt ja praktihkalasj dilijt, gåvådit ja dålkkut dajt ja målssot iesjgeŋga funksjåvnååvdåstimij gaskan dagu gráfa, tabella, foarmmala ja tevsta</p>
+      <p type="listitem">identifiserit ja ja ávkástallat proporsjonála, lineára ja kvadráhtalasj funksjåvnåjt, ja vaddet buojkulvisájt praktihkalasj aktijvuodajs ma máhtti dáj funksjåvnåj tjielggiduvvat</p>
+    </list>
+    <p type="title">Máhtudakmihto 1T – Jo1 oahppogárvedime oahppoprográmma maŋŋela</p>
+    <p type="title">Tálla ja algebra</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">dålkkut, giehtadallat, árvustallat ja árvvaladdat matemahtalasj sisanov iesjgeŋga tevstajn</p>
+      <p type="listitem">árvustallat, válljit ja adnet matematihkalasj metodajt ja viehkkenævojt tjuolmajt tjoavdátjit iesjgeŋga fágajn ja sebrudaksuorgijn ja ájádallat, árvustallat ja åvddånbuktet tjoavddusijt vuogas láhkáj</p>
+      <p type="listitem">riekknit ruohttsauttrykkajt, potensaj majn le rasjonála eksponenta ja standardháme tállaj, bokstávvauttrykkaj, foarmmalij, parantessautrykkaj ja rasjonála ja kvadráhtalasj uttrykkaj tállaj ja bokstávaj, faktorerit kvadráhtalasj uttrykkajt, kvadráhtagárgadisájt adnet ja ålleslasj kvadráhtajt dahkat</p>
+      <p type="listitem">målssot uttrykkajt ja tjoavddet vuostasj- ja nuppátpotensa liknigijt, ærádisájt ja likniksystemajt ja rievddat liknigijt eksponensiála ja logaritmafunksjåvnåj, sihke riekknima ja digitála vædtsagij baktu.</p>
+      <p type="listitem">målssot praktihkalasj tjuolmav liknigij, ærádissaj jali likniksystebmaj, tjoavddet matematihkalasj gássjelisvuodav digitála vædtsagij ja daj dagi, åvddånbuktet ja vuodustit tjoavddusav ja árvulasj man guoskavasj dat le ja ráddjidusájt</p>
+    </list>
+    <p type="title">Geometrija</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">tjielggit sinusa, cosinusa ja tangensa definisjåvnåjt ja trigonometrijav adnet merustalátjit guhkkudagájt, viŋŋkalijt ja areálav moattelágásj gålmåtjiegagijn</p>
+      <p type="listitem">adnet duolbbada geometrijav analyseritjit ja tjoavdádit moattebelak teorehtalasj ja praktihkalasj tjuolmajt guhkkudagáj, viŋŋkalij ja areálajn</p>
+      <p type="listitem">dahkat ja adnet sárggomijt ja tjuorggamijt tjuolmajt hábbmitjit, dahkamusájt tjoavdátjit ja tjoavddusijt åvddånbuvtátjit ja vuodustittjat, digitála vædtsagij ja daj dagi</p>
+    </list>
+    <p type="title">Jáhkedahttevuohta</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">formulerit, gæhttjaladdat ja árvvaladdat uniforma ja iehpeuniforma jahkedahttevuodamodellajt</p>
+      <p type="listitem">merustallat jáhkedahttevuodav gå låhkå gájka vuogas ja vejulasj båhtusijt ruossatabellaj, venndiagrámmaj ja jáhkedahttevuodamuoraj viehkken, ja addisjåvnnågárgadisáv ja buvtagárgadisáv adnet</p>
+    </list>
+    <p type="title">Funksjåvnå</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">tjielggit funksjåvnnåbuojkuldagáv ja máhttet målssot iesjgeŋgalasj funksjåvnnååvddånbuktemij gaskan</p>
+      <p type="listitem">merustallat nullatjuorgav, ekstremálatjuorgav, ruossimtjuorgav ja gasskameralasj stuorromfártav, gávnnat momentána stuorromfárta sullásasj árvojt ja dajt ássjij gáktuj dahkat muhtem praktihkalasj dålkkumijt</p>
+      <p type="listitem">tjielggit deriverima definisjåvnåv, adnet definisjåvnåv gávnatjit polynomfunksjåvnåj derivasjåvnnånjuolgadusáv ja dan njuolgadusá milta funksjåvnåjt árvvaladdat</p>
+      <p type="listitem">dahkat, dålkkut ja tjielggit funksjåvnåjt ma tjielggiji praktihkalasj tjuolmajt, analyserit empiralasj funksjåvnåjt ja gávnadit sulle lineára funksjåvnåv, digitála vædtsagij ja daj dagá</p>
+      <p type="listitem">adnet digitála vædtsagijt åvddånbuvtátjit ja analyseritjit polynomfunksjåvnåj, ruohttsafunksjåvnåj, rasjonála funksjåvnåj, eksponentiálafunksjåvnåj ja potensiálafunksjåvnåj kombinasjåvnåjt</p>
+    </list>
+    <p type="title">Máhtudakmihto 1P – Jo1 oahppogárvedime oahppoprográmma maŋŋela</p>
+    <p type="title">Tálla ja algebra</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">sulleriekknistit vásstádusájt, praktihkalasj dahkamusájt riekknistit digitála vædtsagij ja daj dagá, båhtusijt åvddånbuktet ja árvustallat makta li vuohkasa</p>
+      <p type="listitem">dålkkut, giehtadallat, árvustallat ja dagástallat matematihkalasj sisanov tjálalasj, njálmálasj ja gráfalasj åvddånbuktemijn</p>
+      <p type="listitem">álkkedahttet moatteladák uttrykkajt ja tjoavddet vuostasjpotensa liknigijt ja álkkes potænnsaliknigijt</p>
+      <p type="listitem">dålkkut ja adnet foarmmalijt ma árkkabæjvváj ja virggeiellemij guosski</p>
+      <p type="listitem">riekknit aktijvuodaj, prosentaj, prosænntatjuorgaj ja stuorromfaktåvråjn</p>
+      <p type="listitem">giehtadallat proporsjonála ja måttso proporsjonála stuorrudagájt praktihkalasj aktijvuodajn</p>
+    </list>
+    <p type="title">Geometrija</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">adnet ja vuodustit avtahámakvuodav, mihtov ja Pytagorasa gárgadisáv merustallamijda ja praktihkalasj bargon</p>
+      <p type="listitem">tjoavddet tjuolmajt ma guosski guhkkudahkaj, viŋŋkalijda, areállaj ja vuobmanij</p>
+      <p type="listitem">riekknit iesjgeŋgalágásj mihttimavtadagáj, moattelágásj mihttimvædtsagijt adnet, árvustallat makkir mihttimvædtsaga li vuohkusa, ja árvustallat man iehpesihkara mihttima li</p>
+      <p type="listitem">dålkkut, dahkat ja adnet sárggomijt ja barggotjuorggamijt tjuolmajda ma li kultur- ja virggeiellemis ja åvddånbuktet ja vuodustit tjoavddusijt</p>
+    </list>
+    <p type="title">Jáhkedahttevuohta</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">dahkat buojkulvisájt ja simulerimijt soajtádagáj ja tjielggit jáhkedahttevuoda buojkuldagáv</p>
+      <p type="listitem">merustallat jáhkedahttevuodaj gå låhkå gájka vuogas ja vejulasj båhtusijt, låhkåmijt systematiserit ruossatabellaj, venndiagrámmaj ja válljimmuoraj baktu ja addisjåvnnågárgadisáv ja buvtagárgadisáv praktihkalasj aktijvuodajn adnet</p>
+    </list>
+    <p type="title">Funksjåvnå</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">tjielggit lineára stuorroma buojkuldagáv, vuosedit dákkár stuorromav ja adnet dav praktihkalasj aktijvuodan, aj digitálalattjat</p>
+      <p type="listitem">lånudallat iesjgeŋgalágásj funksjåvnåj representasjåvnåj gaskan</p>
+      <p type="listitem">guoradallat funksjåvnåjt ma tjielggiji praktihkalasj dilijt, ja mierredit nullatjuorgav, ekstremálatjuorgav ja ruossimtjuorgav ja dålkkut båhtusij praktihkalasj ávkev</p>
+    </list>
+    <p type="title" xml:lang="vep">Ekonomija</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">tjielggit ja riekknit haddeindeksajn, kråvnnåárvujn, duohtabálkkájn ja nominála bálkkájn ja merustallat sisbåhtusav, værov ja divudijt</p>
+      <p type="listitem">árvustallat gålådimev ja kredihttakårtå anov ja biedjat budsjehtav ja ruhtalågov riekknimárkkaj</p>
+      <p type="listitem">guoradallat ja árvustallat iesjgeŋgalágásj luojkkama ja siesstema vuogijt</p>
+    </list>
+    <p type="title">Máhtudakmihto 1T-Y – Jo1 oahppogárvedime oahppoprográmma maŋŋela</p>
+    <p type="title">Tálla ja algebra</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">dålkkut, giehtadallat, árvustallat ja árvvaladdat matemahtalasj sisanov iesjgeŋga tevstajn</p>
+      <p type="listitem">árvustallat, válljit ja adnet matematihkalasj metodajt ja viehkkenævojt tjuolmajt tjoavdátjit iesjgeŋga fágajn ja sebrudaksuorgijn ja ájádallat, árvustallat ja åvddånbuktet tjoavddusijt vuogas láhkáj</p>
+      <p type="listitem">riekknit ruohttsauttrykkajt, potensaj majn le rasjonála eksponenta ja standardháme tállaj, bokstávvauttrykkaj, foarmmalij, parantessautrykkaj ja rasjonála ja kvadráhtalasj uttrykkaj tállaj ja bokstávaj, faktorerit kvadráhtalasj uttrykkajt, kvadráhtagárgadisájt adnet ja ålleslasj kvadráhtajt dahkat</p>
+      <p type="listitem">målssot praktihkalasj tjuolmav liknigij, ærádissaj jali likniksystebmaj, tjoavddet matematihkalasj gássjelisvuodav digitála vædtsagij ja daj dagi, åvddånbuktet ja vuodustit tjoavddusav ja árvulasj man guoskavasj dat le ja ráddjidusájt</p>
+    </list>
+    <p type="title">Geometrija</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">tjielggit sinusa, cosinusa ja tangensa definisjåvnåjt ja trigonometrijav adnet merustalátjit guhkkudagájt, viŋŋkalijt ja areálav moattelágásj gålmåtjiegagijn</p>
+      <p type="listitem">adnet duolbbada geometrijav analyseritjit ja tjoavdádit moattebelak teorehtalasj ja praktihkalasj tjuolmajt guhkkudagáj, viŋŋkalij ja areálajn</p>
+      <p type="listitem">dahkat ja adnet sárggomijt ja tjuorggamijt tjuolmajt hábbmitjit, dahkamusájt tjoavdátjit ja tjoavddusijt åvddånbuvtátjit ja vuodustittjat, digitála vædtsagij ja daj dagi</p>
+    </list>
+    <p type="title">Funksjåvnå</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">dahkat, dålkkut ja tjielggit funksjåvnåjt ma tjielggiji praktihkalasj tjuolmajt, analyserit empiralasj funksjåvnåjt ja gávnadit sulle lineára funksjåvnåv, digitála vædtsagij ja daj dagá</p>
+      <p type="listitem">tjielggit funksjåvnnåbuojkuldagáv ja máhttet målssot iesjgeŋgalasj funksjåvnnååvddånbuktemij gaskan</p>
+      <p type="listitem">merustallat nullatjuorgav, ekstremálatjuorgav, ruossimtjuorgav ja gasskameralasj stuorromfártav, gávnnat momentána stuorromfárta sullásasj árvojt ja dajt ássjij gáktuj dahkat muhtem praktihkalasj dålkkumijt</p>
+    </list>
+    <p type="title">Máhtudakmihto 1P-Y – Jo1 oahppogárvedime oahppoprográmma maŋŋela</p>
+    <p type="title">Tálla ja algebra</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">sulleriekknistit vásstádusájt, praktihkalasj dahkamusájt riekknistit digitála vædtsagij ja daj dagá, båhtusijt åvddånbuktet ja árvustallat makta li vuohkasa</p>
+      <p type="listitem">dålkkut, giehtadallat, árvustallat ja dagástallat matematihkalasj sisanov tjálalasj, njálmálasj ja gráfalasj åvddånbuktemijn</p>
+      <p type="listitem">álkkedahttet moatteladák uttrykkajt ja tjoavddet vuostasjpotensa liknigijt ja álkkes potænnsaliknigijt</p>
+      <p type="listitem">dålkkut ja adnet foarmmalijt ma árkkabæjvváj ja virggeiellemij guosski</p>
+      <p type="listitem">riekknit aktijvuodaj, prosentaj, prosænntatjuorgaj ja stuorromfaktåvråjn</p>
+      <p type="listitem">giehtadallat proporsjonála ja måttso proporsjonála stuorrudagájt praktihkalasj aktijvuodajn</p>
+    </list>
+    <p type="title">Geometrija</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">adnet ja vuodustit avtahámakvuodav, mihtov ja Pytagorasa gárgadisáv merustallamijda ja praktihkalasj bargon</p>
+      <p type="listitem">tjoavddet tjuolmajt ma guosski guhkkudahkaj, viŋŋkalijda, areállaj ja vuobmanij</p>
+      <p type="listitem">riekknit iesjgeŋgalágásj mihttimavtadagáj, moattelágásj mihttimvædtsagijt adnet, árvustallat makkir mihttimvædtsaga li vuohkusa, ja árvustallat man iehpesihkara mihttima li</p>
+      <p type="listitem">dålkkut, dahkat ja adnet sárggomijt ja barggotjuorggamijt tjuolmajda ma li kultur- ja virggeiellemis ja åvddånbuktet ja vuodustit tjoavddusijt</p>
+    </list>
+    <p type="title" xml:lang="vep">Ekonomija</p>
+    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+    <list>
+      <p type="listitem">tjielggit ja riekknit haddeindeksajn, kråvnnåárvujn, duohtabálkkájn ja nominála bálkkájn ja merustallat sisbåhtusav, værov ja divudijt</p>
+      <p type="listitem">árvustallat gålådimev ja kredihttakårtå anov ja biedjat budsjehtav ja ruhtalågov riekknimárkkaj</p>
+      <p type="listitem">guoradallat ja árvustallat iesjgeŋgalágásj luojkkama ja siesstema vuogijt</p>
+    </list>
+    <p type="title">Árvustallam fágan</p>
+    <p>Loahppaárvustallama mærrádusá:</p>
+    <p>
+      <em type="bold">Åbbålasj árvustallam </em>
+    </p>
+    <p>
+      <em type="bold">Jahkedásse </em>
+    </p>
+    <p>
+      <em type="bold">Vuohke </em>
+    </p>
+    <p>10. jahkedásse</p>
+    <p>Oahppe galggi oadtjot avtav åbbålasj karakterav.</p>
+    <p>Jo1 viddnofágalasj oahppoprográmma</p>
+    <p>Jo1 oahppogárvedime oahppoprográmma</p>
+    <p>Oahppe galggi oadtjot avtav åbbålasj karakterav.</p>
+    <p>
+      <em type="bold">Eksámen – oahppe </em>
+    </p>
+    <p>
+      <em type="bold">Jahkedásse </em>
+    </p>
+    <p>
+      <em type="bold">Vuohke </em>
+    </p>
+    <p>10. jahkedásse</p>
+    <p>Oahppe soajtti vuorbbáduvvat tjálalasj eksábmaj. Tjálalasj eksábma guovdásj ásadusájs dagáduvvá ja sensureriduvvá. Oahppe soajtti aj vuorbbáduvvat njálmálasj eksábmaj. Njálmálasj eksámen bájkálattjat dagáduvvá ja sensureriduvvá.</p>
+    <p>Jo1 viddnofágalasj oahppoprográmma</p>
+    <p>Oahppe soajtti vuorbbáduvvat tjálalasj jali njálmálasj eksábmaj. Tjálalasj eksámen bájkálattjat dagáduvvá ja sensureriduvvá. Njálmálasj eksámen bájkálattjat dagáduvvá ja sensureriduvvá.</p>
+    <p>Jo1 oahppogárvedime oahppoprográmma</p>
+    <p>Oahppe soajtti vuorbbáduvvat tjálalasj jali njálmálasj eksábmaj. Tjálalasj eksábma guovdásj ásadusájs dagáduvvá ja sensureriduvvá. Njálmálasj eksámen bájkálattjat dagáduvvá ja sensureriduvvá.</p>
+    <p>
+      <em type="bold">Eksámen – privatista </em>
+    </p>
+    <p>
+      <em type="bold">Jahkedásse </em>
+    </p>
+    <p>
+      <em type="bold">Vuohke </em>
+    </p>
+    <p>10. jahkedásse</p>
+    <p>Gehtja doajmme årnigav ållessjattugij vuodoskåvllååhpadusá gáktuj.</p>
+    <p>Jo1 viddnofágalasj oahppoprográmma</p>
+    <p>Privatista galggi tjadádit tjálalasj eksámav. Tjálalasj eksámen bájkálattjat dagáduvvá ja sensureriduvvá.</p>
+    <p>Jo1 oahppogárvedime oahppoprográmma</p>
+    <p>Privatista galggi tjadádit tjálalasj eksámav. Eksábma guovdásj ásadusájs dagáduvvá ja sensureriduvvá.</p>
+    <p>Árvustallama åbbålasj mærrádusá li åhpaduslága njuolgadustjállagijn.</p>
+  </body>
+</document>

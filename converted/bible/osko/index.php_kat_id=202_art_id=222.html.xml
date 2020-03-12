@@ -1,0 +1,55 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>87</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=202&amp;art_id=222</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=202_art_id=222.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=202_art_id=222.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=202_art_id=222.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Doajmma</p>
+    <p>Sámi girkkoráde</p>
+    <p xml:lang="nob">|</p>
+    <p>Varrudága</p>
+    <p xml:lang="nob">|</p>
+    <p>Doajmma</p>
+    <p xml:lang="nob">|</p>
+    <p>Kristuskránssa</p>
+    <p type="title">Majna sáme girkkoráde barggá?</p>
+    <p>
+      <em type="italic">Sáme girkkoráde Vuona girkkon le Girkkotjåhkanime sáme girkkoiellema orgádna. Ráde galggá åvdedit, suoddjit ja aktidit sáme girkkoiellemav Vuona girkkon. Sáme girkkoráde bargguj gullu gájkka ássje ma ráde milta sáme girkkoiellemij gulluji. </em>
+    </p>
+    <p>-Sáme girkkoráde åvddånahttá jáhkkoåhpadusá dárbbagijt, sáme sálmajt ællástahttá, sáme liturgijav dahká.</p>
+    <p>-Sáme girkkoráde sihtá sáme nuorajt åttjudit girkkolasj dievnastussaj.</p>
+    <p>-Sáme girkkoráde sihtá sáme girkkoiellemav nannit rájáj rastá nuorttarijkaj lándajn ja Ruossjan.</p>
+    <p>-Sáme girkkoráde barggá Girkko væráltráde baktu álggoálmmugij åbbå væráldav miehtáj.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

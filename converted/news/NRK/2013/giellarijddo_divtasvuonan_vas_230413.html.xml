@@ -1,0 +1,83 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Giellarijddo Divtasvuonan vas</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/>
+    </author>
+    <year>2013</year>
+    <publChannel>
+      <publication>
+        <publisher>NRK Sápmi</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>549</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@it.no"/>
+    <origFileName>http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.10996787</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Samegillii</p>
+    <p>
+      <em type="italic">Maŋimuš ođđasat sámegillii </em>
+    </p>
+    <p/>
+    <p type="title">Giellarijddo Divtasvuonan vas</p>
+    <p>Dijmmá lij dålkkå gå Filip Mikkelsen Divtasvuona suohkanstivran hålaj ja Mikkelsen vuojnnuj riek dudálasj dajna. Dalloj dålkkuj Britt-Inger Tuorda. Uddni ij lim aktak danna suv dålkkutjit gå sån sámástij, ja dat båvtij rijdov suohkanstivran.</p>
+    <p>Gå suohkanstivrra tjåhkanij dán ideda de sámástahttáj suohkanpolitihkkár Filip Mikkelsen, valla sunji ij lim dålkkå.</p>
+    <p>Gå Divtasvuona suohkanstivrra tjåhkanij dán ideda de sámástahttáj suohkanpolitihkkár Filip Mikkelsen, Aktisasjlistas álgon tjåhkanime gå li gatjádallambåddå.</p>
+    <p>
+      <em type="italic">Suohkanoajvve Tor Asgeir Johansen gæhttjalij ganugahttet Filip Mikkelsenav sámástimes gå suohkanstivran ij lim dålkkå sajen, ja ánoj suv dárruj hållat. </em>
+    </p>
+    <p>
+      <em type="italic">– Ij la dat muv åvdåsvásstádus dålkkut, mån sihtiv uddni gatjádit soames gatjálvisájt, vásstedij Filip Mikkelsen ja jårkij ságastallamav sámegiellaj. </em>
+    </p>
+    <p>– Ij galga suv ietjas dålkkut</p>
+    <p>Gå Mikkelsen jårkij sámástimes hållamståvlås de gåhtjoj suohkanoajvve Tor Asgeir Johansen Mikkelsenav iehtja dålkkut dárruj majt sån javlaj.</p>
+    <p>Jan Einer Pedersen.</p>
+    <p>– Dav mån vuojnáv majt dagáv, vásstedij Mikkelsen.</p>
+    <p>Valla dav ittjij suohkanstivraájras Jan Einar Pedersen dåhkkida.</p>
+    <p>Sån ánoj bágov ássjegiehtadallamvuohkáj ja javlaj:</p>
+    <p>
+      <em type="italic">– Filip Mikkelsen ij iesj galga jårggålit dav majt sån dánna javllá. Ij la de dat dåhkkidahtte, tsuiojggij sån. </em>
+    </p>
+    <p>
+      <em type="italic">Mikkelsen ittjij vuollána jus ga ij lim dålkkå suohkanstivran. </em>
+    </p>
+    <p>
+      <em type="italic">Sån jårkij sámástit ja gatjádij guokta gatjálvisá mij guoskaj Nordvalden vanntsahámmnaj ja årromsajijda Ájluovtan. </em>
+    </p>
+    <p type="title">– Muv iednegiella galggá vieleduvvat</p>
+    <p>
+      <em type="italic">Maŋŋáj gå sån lij sámegiellaj gærggam hållat, de sån iesj jårggålij dárruj dav majt lij sárnnum. </em>
+    </p>
+    <p>Ja gå lij dajna gærggam de sån vas ánoj hållamvuorov ja garra bágoj tsuojggij dav mij danna dáhpáduváj gå lij hållamin.</p>
+    <p>
+      <em type="italic">– Mån tjuovov dav lágav masi Divtasvuona suohkan gullu mij la giellaháldadimguovllo. Ja mån doajvov dal dás-duohku gå sámegiella sáhkaduvvá dássta hållamståvlås de suohkanstivrraájrrasa e dákkir álbedimev vuoseda majt mån uddni dánna vásediv, dagu dánna muv hárddo duogen nirvudalli. Mån doajvov suohkanoajvve oassálasstá vaj dákkir dáhpádusá ietjá bále e dáhpáduvá, bielkij Mikkelsen. </em>
+    </p>
+    <p>Dasi vásstedij suohkanoajvve oanegattjat.</p>
+    <p>– Midja galggap nubbe nuppev vieledit dán huodnahin, vásstedij Tor Asgeir Johansen.</p>
+    <p type="title">Båvtij ságastallamav</p>
+    <p>Maŋŋáj dán dáhpadusá de badjánij dágástallam ja ietjá suohkanstivraájrrasa aj adnun bágov.</p>
+    <p>Suohkanstivrraájras Fred Andersen, Aktisasjlistas sidáj diehtet manen dålkkå ij lim sajen.</p>
+    <p>Suohkanoajvve ittjij vássteda dav, valla javlaj sij galggi tjoavddet dáv.</p>
+    <p>Suohkanstivraájras Edvard Olav Stenbakk, Barggijbelludagás vas dættodij vierttiji njuolgadusá sajen liehket gåktu dålkkum galggá dáhpáduvvat suohkanstivran.</p>
+    <p>Edvard Olav Stenbakk</p>
+    <p>
+      <em type="bold">– Mån guorrasav Mikkelsenij gå mij lip sámegiela háldadimguovlon de viertti máhttelisvuohta sámástit. Valla sæmmi båttå de diehtep ælla miján dålkå, ja Mikkelsen bierrij juo álgon diededit sån sjaddá sámástit ja sån sjaddá iehtja ietjas dålkkut. Sæmmi båttå aj muv mielas ittjij ájras Pedersen galggam dagu nirvudallat gå nubbe hålaj. Så mån gåhtjov suohkanoajvev tjielggasit tjielggit gåktu barggamvuohke galggá. Dát la værddogis barggamvuohke. Muv mielas goappásj bielijn la sivva gå návti sjattaj, ja dav iv mån åvddålij guovlluj sidá vásedit, tsuojggij Stenbakk. </em>
+    </p>
+    <p>
+      <em type="italic">Divtasvuona suohkan la læhkám sámegiela háldadimguovlon gitta 2006 rájes. Vásse tjavtja lij suohkanstivran dålkkå, valla gå sámegielkonsulænnta hiejtij de ij la dålkkuduvvam. </em>
+    </p>
+    <p>Ja suohkanoajvve jáhtij oadtjot barggamvuogev sadjáj, valla Mikkelsen tjielggij ájrrasijda gåktu sunji dát ássje dåbddu:</p>
+    <p>– Dát ássje gullu munji, muv ietjam álmmugij ja sámegiella adnemij. Juohkka bále gå mån dánná hålav de bierriv bessamis åvddål diehti diededimes ja gatjádimes jus la dålkkå dánna. Mån vuordáv Divtasvuona suohkanin la dålkkå sajen, ja ij la de muv barggo dålkåv åttjudit, javlaj Mikkelsen.</p>
+    <p>Ja maŋŋáj dáv de suohkanoajvve ganugahtij dágástallamav sivvan gå dát ij lij dágástallamássje valla gulluj gatjálvisbåddåj.</p>
+  </body>
+</document>

@@ -1,0 +1,55 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Folkehelseuka 2015 : Tysfjord ASVO</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>130</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://tysfjordasvo.no/arrangementer/helse_kosthold_trening/folkehelseuka_2015</origFileName>
+    <parallel_text xml:lang="nob" location="folkehelseuka_2015.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="nob">Folkehelseuka 2015</p>
+    <p xml:lang="nob">
+      <em type="bold">Vi deltar på Folkehelseuka 2015. I uke 17 (20.4 - 26.4) </em>
+    </p>
+    <p xml:lang="nob">
+      <em type="bold">Onsdag 22. april 2015  </em>
+    </p>
+    <p xml:lang="nob"><em type="bold">17.00 -  </em>Folkehelsemarsj fra Spar Drag til Aktivitetsparken. Det vil bli servert saft, kaffe og pølser.  </p>
+    <p><em type="bold">17.00  </em>-   Álmmukvarresvuodaváttsos gájkajda Spar Ájluovtas Doajmmapárkkaj. Sáffta, káffa ja bierggomárfe guossoduvvá.  </p>
+    <p xml:lang="nob">Her finner du hele programmet:  https://www.tysfjord.kommune.no/folkehelseuka-2015.5741665-91651.html</p>
+    <list>
+      <p type="listitem">Forside / Åvddåbielle</p>
+      <p type="listitem" xml:lang="nob">Tilrettelegging / Hiebadibme</p>
+      <p type="listitem" xml:lang="nob">Produksjon / Buvtadibme</p>
+      <p type="listitem" xml:lang="nob">Kurs / Kurrsa</p>
+      <p type="listitem" xml:lang="nob">Butikk / Oases</p>
+      <p type="listitem" xml:lang="nob">Trening / Lásjmudallam</p>
+      <p type="listitem">Utstillinger / Vuosádus</p>
+      <p type="listitem" xml:lang="nob">Duodjebloggen</p>
+      <p type="listitem" xml:lang="nob">Arrangementer <list><p type="listitem" xml:lang="nob">Samiskedager/Sámebiejve</p><p type="listitem" xml:lang="nob">Ut på tur i Dragsområdet</p><p type="listitem" xml:lang="nob">Mineralløpet</p><p type="listitem" xml:lang="nob">Helse-kosthold-trening <list><p type="listitem" xml:lang="nob">Om helse-kosthold-trening</p><p type="listitem" xml:lang="nob">Folkehelseuka 2015</p><p type="listitem" xml:lang="nob">Folkehelseuka 2014</p><p type="listitem" xml:lang="nob">2012</p><p type="listitem" xml:lang="nob">2011</p><p type="listitem" xml:lang="nob">2010</p></list></p><p type="listitem" xml:lang="nob">Kunstmaling - workshop</p></list></p>
+      <p type="listitem">Om oss / Mijá birra</p>
+      <p type="listitem" xml:lang="nob">Andre tilbud / Ietjá fálaldagá</p>
+      <p type="listitem">Kontakt oss/Válde aktijvuodav</p>
+    </list>
+    <p type="title" xml:lang="nob">Tips en venn</p>
+    <p xml:lang="nob">Idium  Web</p>
+    <p>Edit</p>
+    <p xml:lang="nob">Policy info</p>
+  </body>
+</document>

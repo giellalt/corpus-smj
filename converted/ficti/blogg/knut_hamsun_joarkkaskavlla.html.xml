@@ -1,0 +1,40 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>KNUT HAMSUN JOARKKASKÅVLLA</title>
+    <genre code="ficti"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2016</year>
+    <wordcount>74</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual>
+      <language xml:lang="nob"/>
+    </multilingual>
+    <origFileName>http://luonndomanna.blogg.no/1481207338_knut_hamsun_joarkkask.html</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">luonndomanna</p>
+    <p xml:lang="nob">blogg om friluftsliv på samisk</p>
+    <p xml:lang="nob">);"&gt;</p>
+    <p type="title">Knut Hamsun joarkkaskåvlla</p>
+    <p>Mån lijkkuv muv skåvlåv. Mån lijkkuv gå mij ep dåssju ane skåvlåv, valla mij guohtsap ja ájrustip. Lijkkuv guohtsat ja ájrustit.</p>
+    <p>Mån lijkkuv muv klássav, danna li nav buorre ulmutja, ja nav buorre rádna.</p>
+    <p>Ja mij adnep nav buorre ja nav kula åhpadiddjijt.</p>
+    <p type="title" xml:lang="nob">Én kommentar</p>
+    <p xml:lang="nob">Håper du får en fin Torsdag :-)</p>
+    <p type="title" xml:lang="nob">Skriv en ny kommentar</p>
+    <p xml:lang="nob">Navn:</p>
+    <p xml:lang="nob">E-post:</p>
+    <p xml:lang="nob">URL:</p>
+    <p xml:lang="nob">Din kommentar:</p>
+    <p xml:lang="nob">Husk meg ?</p>
+  </body>
+</document>

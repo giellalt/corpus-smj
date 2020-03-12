@@ -1,0 +1,35 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>“Saemesth!” applikasjåvnnå almoduvvá</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2019</year>
+    <wordcount>124</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.samedigge.no/AAdaasa/Saemesth!-applikasjaavnnaa-almoduvva</origFileName>
+    <parallel_text xml:lang="nob" location="applikasjonen-saemesth_-lanseres.html"/>
+    <parallel_text xml:lang="sma" location="baejhkoehtimmie-applikasjovneste-saemesth.html"/>
+    <parallel_text xml:lang="sme" location="saemesth_-applikasuvdna-almmuhuvvo.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title"><span type="quote" xml:lang="sma">“Saemesth!”</span> applikasjåvnnå almoduvvá</p>
+    <p>Bierjjedagá gålgådismáno 25. b. kl. 13:10 almoduvvá Sámedigge <span type="quote" xml:lang="sma">“Saemesth!”</span> applikasjåvnåv Sáme Joarkkaskåvlån Kárášjågån.</p>
+    <p>Almodibmáj sæbrri sámedikkepresidænnta Aili Keskitalo, stáhtatjálle Anne Karin Olli ja Kárášjågå Sáme Joarkkaskåvlå oahppe.</p>
+    <p>Sámedigge l Giellavahko aktijvuodan hábbmim <span type="quote">“Sámásta Mujna báhkogirjátjav”</span> applikasjåvnnån, man namma l <span type="quote" xml:lang="sma">“Saemesth!”</span>. Dájna báhkogirjátjijn bivddi suohtas vuogijn ságastittjat sámegielav vuostasj æjvvalimen, árggabiejven ja ávvobåttåj. Dánna ij la låsså grammatihkka, ájnat muhtem ávkkás gárgadisá. De ij la ietján gå sáhkadahtjat.</p>
+    <p>Báhkogirjásj dagáduváj <span type="quote">“Sámásta mujna”</span> kampánja aktijvuodan, ja dat la vilá ihkeva giehtos ja ålos gatjádi dav. Dan diehti la Sámedigge mierredam dav digitalisierit vaj la álkke adnegoahtet. Dálla máhtá dav maŋen válldet akta gåsi, nav guhkás gå dujna l jiermmetelefåvnnå. Bágo ja gárgadisá li oarjjel-, julev- ja nuorttasámegiellaj ja muhtema dajn li aj jiednabádde.</p>
+  </body>
+</document>

@@ -1,0 +1,47 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>226</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Organisasjaavnaa-struktuvrra/Samedikkerade/Haala-ja-tjallaga/Stahttabudsjaehtta-haadjodahtta-sieldeslahkaj</origFileName>
+    <parallel_text xml:lang="nob" location="statsbudsjettet-skuffer-stort.html"/>
+    <parallel_text xml:lang="sma" location="haajnarostoe-staatebudsjedteste.html"/>
+    <parallel_text xml:lang="sme" location="stahtabuseahtta-beahttasuhtta-sakka.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Stáhttabudsjæhtta hådjodahttá sieldesláhkáj / Håla ja tjállaga / Sámedikkeráde / Organisasjåvnå struktuvrra / Sámmedikke birra / Sámedigge - Sametinget</p>
+    <p type="title">Stáhttabudsjæhtta hådjodahttá sieldesláhkáj</p>
+    <p>
+      <em type="bold">Gålgådismáno, gasskavahko 8. b. buvtij ráddidus oajvvadusáv 2015 budsjæhttaj. Tjoahkkáj juolloduváj 426,5 millijåvnå Sámediggáj ja 890 millijåvnå sáme dåjmajda. Presidænnta Aili Keskitalo javllá ij la dát ietján gå almma juollodim vuollánibme sáme sebrudahkaj. </em>
+    </p>
+    <p>Presidænnta Aili Keskitalo l sieldes håjen ráddidusá stáhttabudsjehta oajvvadussaj.</p>
+    <p>
+      <em type="bold">- Dát la sáme sebrudagá gártjedibme. Kultuvrradepartemænnta l binnedam 4 millijåvnåj sáme avijsajda. Ja Ednambarggodepartemænnta l binnedam arktalasj ednambargguj ednambarggosjiehtadusá baktu ja 2 millijåvnå ællosujttosjiehtadussaj. Dán jagásj stáhttabudsjehta tjadá vuoset ráddidus ietjas sámepolitihka duohtavuoda muodov ja ij ga makkirik láhkáj mijáv ávvudahte, javllá Aili Keskitalo. </em>
+    </p>
+    <p>- Mijá 2015 budsjæhttadárboj tjadá lip vuosedam vihtta suorgijda masi l dárbbo sierralágásj vuorodibmáj. Dá li Sáme Giellagálldo, sáme oahppamnævo, Bååstede prosjækta ja ådå tsiekkadusájt Saemien Sijtej ja Bæjvásj Sáme Nasjonála teáhterij, javllá presidænnta Aili Keskitalo.</p>
+    <p>Saemien Sijte l juo vuorddám 9 jage jut ráddidus juollot biednigijt ådå tsiekkadussaj Snåasaj, ja ettjin ga dán jage nammaduvá ráddidusá stáhttabudsjehta oajvvadusán.</p>
+    <p>
+      <em type="bold">- Ráddidus goarssástallá gå vuorodi museaj tsiekkadusájt, ja danen la sieldes hådjodahtte vuojnnet Saemien Sijte ij vuoroduvá. Ællim ga juollodum biednigijt oahppamnævvolåpptimij masi l ihkeva stuorra dárbbo. </em>
+    </p>
+    <p>Vájku návti sjattaj, de presidænnta Aili Keskitalo vuojnná Suohkan- ja ådåstuhttemdepartemænnta l huoman vuorodam sámegiela nannimav.</p>
+    <p>Ráddidusá stáhttabudsjehta oajvvadusán la biejaduvvam 2 millijåvnå Sáme Giellagállduj, ja duodden biednigijt ådå giellanammadusá doajmmajådedibmáj.</p>
+  </body>
+</document>

@@ -1,0 +1,44 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>89</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=171&amp;art_id=199</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=171_art_id=199.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=171_art_id=199.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=171_art_id=199.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Girkko</p>
+    <p type="title">Lapp-kapella Ankareden</p>
+    <p><em type="bold">Ankarede </em>kapella. Dán girkko birás le tjielggasit sáme birrasij bájnnidum. Girkkosaje birra li viehka moadda gåetieh. Návti le guhkás læhkám. Guovlon<span type="quote" xml:lang="nob">”blåsjö-bo”</span>-oasse smáv stugorij, ja <span type="quote">”lapp”</span>-oasse gånnå li gåetieh ja buvrieh. Dá guokta kultuvra viessoba nubbe nuppe guorralakkoj. Moadda sáme li dán girkkogárden hávddáduvvam. </p>
+    <p>Moadda hávsskes mujto li báhtsám árbbedábálasj sáme girkkoájllegijs. Dákkir vásádusá tjadni buolvajt aktij ja aktijvuodav nanni.</p>
+    <p>Mihttsamára jubmeldievnastusáj, sáme girkkoguossodiddje aneduvvi saemien vaarjoeh baddjen koran. Jubmeldievnastusán sámegiella aneduvvá gå rámáttevsta, sálma ja oasse liturgijas sámegiellaj tjadáduvvá. Dát målssu jages jahkáj.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

@@ -1,0 +1,44 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>43</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="swe"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>https://www.tysfjord.kommune.no/getfile.php/2308620.1172.vdpeywqrya/Plakat+seminar+på+samisk.pdf</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>
+      <em type="bold">Sáme giella– ja girjálasjvuoda seminárra </em>
+    </p>
+    <p xml:lang="nob">
+      <em type="bold">Samisk språk– og litteraturseminar </em>
+    </p>
+    <p>
+      <em type="bold">  Biehtsemáno 10.-11. biejve 2013 </em>
+    </p>
+    <p>
+      <em type="bold">  Árran julevsáme guovdásj, auditåvrån </em>
+    </p>
+    <p><em type="bold">Mánnodagá biehtsemáno 10.biejve</em>: Vájmogiella - giella guotto ja oassálasstem kl.16.15– 20.30 -   álgadibme gasskabiejvbiebbmojn </p>
+    <p><em type="bold">Dijstagá biehtsemáno 11.biejve</em>: Sáme girjálasjvuohta - ájrastallama dájdda kl. 10.00-15.00 </p>
+    <p>
+      <em type="bold">Buorisboahtem! Velkommen! </em>
+    </p>
+  </body>
+</document>

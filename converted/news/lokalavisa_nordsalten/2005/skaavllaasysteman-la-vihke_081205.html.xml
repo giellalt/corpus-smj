@@ -1,0 +1,38 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Skåvllåsysteman la vihke</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
+    </author>
+    <year>2005</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>194</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/skavllasysteman-la-vihke.4204</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">Sander Andersen</p>
+    <p type="title">Skåvllåsysteman la vihke</p>
+    <p>4. klássas gitta 7. klássaj oassálastij fágan sámegiella ja kultuvrra. Gå 8. klássaj bådij, álgij ållessjattukkurssaj c-gieladásen. Esski de dalloj sámegielav oahppagådij. Mañemus jagev vuodoskåvlån váttsij vuostasgielak dásen. -Juoga systeman la vihke gå ittjiv åvddåla sámegielav åhpa, javllá Arnhild Lindbach gut dálla l lingvistihkav ja sámegielav allaskåvlådásen låhkåmin.</p>
+    <p>Arnhild Lindbacha mielas la vihke skåvllåsysteman. Juoga l boasstot gå moaddása låhki sámegielav skåvlån, valla e huoman sámástit buvte. –Skåvllåsystebma l nievrre. Ij la buorak jus illa tjiehppe, valla jus la vat ilá tjiehppe, de illastuvá nuppijs. Oahppe gudi ælla nav tjiehpe, e huoman åhpadiddjes tjuovoduvá. Muhttijn dagu e plána gávnnu gåktu galggá gielav åhpadit, valla dat ij la åhpadiddjij vihke, valla farra systema vihke, javllá Arnhild gut c-gielaåhpadusáv joarkkaskåvllådásen iehkedijt tjuovoj madin gávtsát klássan váttsij. Arnhild ájtsaj sámegielav dåhkki oahppat. –Ållessjattukåhpadusán lij mujna dalloj nav tjiehpes åhpadiddje mij åhpadusáv vieledij ja gájbbádusájt buvtij, ja dajna de aj oahppiv. Ájttsiv dåhkki aj gávtsátklássagij juojddá oahppat sámegiela hárráj, ja dåhkki aj gávtsátklássagij oahppat sæmmi madev ja aj sæmmi dásen gå ållessjattugijt, subtsas Arnhild.</p>
+    <p>Lågå ienebut páhperalmmudusán.</p>
+    <p xml:lang="nob">Norsk kortversjon</p>
+    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+  </body>
+</document>

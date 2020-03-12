@@ -1,0 +1,48 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Julevsáme web-tv ållånime</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2009</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>255</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/files/samisk_230109.pdf</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+    <note>norsk bildetekst</note>
+  </header>
+  <body>
+    <p>Bájkkeavijssa NuorttaSállto</p>
+    <p>Tæksta: Kitty SkapalenJårggålibme: Divte Media AS</p>
+    <p><em type="bold">Aktisasjbarggoguojme</em> </p>
+    <p><em type="bold">Sihke julevsámegiellaj ja</em> <em type="bold">dárogiellaj</em> </p>
+    <p>j j</p>
+    <p>j</p>
+    <p><em type="bold">Sebradahtte giellaarena</em> </p>
+    <p><em type="italic">Web-tv julevsáme nuorajda. Jus ållåsit ruhtaduvvá de ihkap jåhtuj boahtá tjavtja rájes 2009.</em> <em type="italic">Web-tv for lulesamiske ungdommer. Med fullfinansiering vil det blir aktuelt fra høsten 2009.</em> </p>
+    <p>bájkálasj dilev vuollegasj giellafálaldagájn nuoraj ietjas premissaj milta ja gånnå giellapolitija e gávnnu. Tv-media mielanækto válljiduváj, dan diehti gå moadda julevsáme buorebut sámegielav njálmálattjat bukti ienni gå tjálalattjat. - Mijá mihtto le sebradahttem giellaarena, gånnå gæhttjalip nav sebradahttet nav ålos gå ber vejulasj, ienni gå rahtjat duolla grammatihkav. Gå ælla vuojga moadda addne de sjaddá hásstalus ásadit dåssju addneoassálasstemijn. Dan diehti ájggop buvtedit muodugattjav YouTuba ja bájkálasj-tv gaskan, gånnå da gudi ájggu bessi vædtsagijt luojkkat ietjas filmajt dagátjit ma sijddabælláj almoduvvi. subtsastittjat nubbe nubbáj videoa ja jiena baktu, ja arvusmahttet aktijvalasj giellaanov, tjuodtju prosjæktatjielggidusán.</p>
+    <p>TV-sáddaga galggi julevsámegiellaj buvteduvvat, valla galggá dárogiellaj tæksta liehket vaj da gudi e buvte sámástit bessi gielav oahppat. Jus ulmutja gudi ságájdahteduvvi dárusti, de suv sámegiellaj dubbiji, ja vat tevstav dárogiellaj tjálli nav gåktu Sáme ådåssáddagijn TV:an dahki. - Dá nuora li 20 jagij álgon ja ienemus nuorajt ja sávvap dá ásadi juojddáv mij stuoves sjaddá ja mij máhttá joarkeduvvat nuorap buolvas jus ietja soajttá sihti karrierajn joarkket. Ájnas faktåvrrå vaj rudájt juollodip le jus dát le tjadádahtte, ja dav de mij miejnnip, hæjttá Finnesen.</p>
+    <p>Fylkka tjállá duola dagu ahte doajmma máhttá arenajt ásadit sáme nuorajda sámástihttjat. Prosjæktajådediddje Lars Theodor Kintel ij ájgo vuojga javllat åvddål vásstádus Sámedikkes boahtá, ietján gå dættot gijttevasj le fylkkasuohkana dårja åvdås.</p>
+  </body>
+</document>

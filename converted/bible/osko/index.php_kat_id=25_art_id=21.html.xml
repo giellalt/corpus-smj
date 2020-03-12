@@ -1,0 +1,45 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>164</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=25&amp;art_id=21</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=25_art_id=21.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=25_art_id=21.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=25_art_id=21.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Girkko</p>
+    <p type="title">Sáme girkkodájdda</p>
+    <p>Girkkolanján le álu galle ristagis symbåvlåjs álltárgåvåjn, mæssohágelin ja skulptuvrajn ja gåvåjn. Bájkálasj dábe duola dagu bájno, materiála ja dájdda álu bájnni girkkoj hámev.</p>
+    <p>Gåvvådájdda álu rámátsubttsasijda vuoset. Moadda tjoaggulvisá dåppe gånnå sáme årru li sihtam álltártáblov gåvå dagi. Muhtem girkkojn le dåssju ruossa alek duogátja åvdån. Alek le alme bájnno ja navti galggá álltárgåvvå vuosedit dåssju ruossa mierkki almme midjij.</p>
+    <p>Diedák gus jus gávnnuji girkko ma li adnám symbåvlåjt, ornamentajt, dájdav, bájnojt ja adnogávnijt ma li sáme dábij vuodon? Tjalmme álu vuojnná symbåvllåanov ja visuella hábbmimav girkkon ja navti dåbddå dagu dasi gullu jali ij. Gåktu duv mielas máhttá girkkov sáme girkkon dahkat Sámen?</p>
+    <p>Duodje máhttá juogeduvvat garraduodjáj, giehtabargguj ja dájddaj. Dá li girkkohærvvan aneduvvam. Jukkasjávre girkkon Svierigin le dájddár Lars-Levi Sunna orgeltangentajt dahkam soages, tjoarves ja sasnes. Ænodagá girkkon Nuortta-Suoman vuoset álltártábllo gáptegis sámijt ja rejnajt. Sirmmá girkkon le dájddár Eva-Britt Varsi sárnneståvlåv sámeinspireridum bájnoj ja skándaj hiervvim. Kárásjågå ådå girkko hábme galggá mak gámá lágasj.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

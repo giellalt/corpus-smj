@@ -1,0 +1,44 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>97</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://www.osko.no/index.php?kat_id=61&amp;art_id=61</origFileName>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=61_art_id=61.html"/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=61_art_id=61.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=61_art_id=61.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kristuskránssa</p>
+    <p type="title">Jesus</p>
+    <p>Jeesuse Jupmielinie gaajhki bïjre soptsesti jïh mijjem eevtji seammalaakan darjodh. Vaajesem sopsesti nyjsenæjjan bïjre guktie dïhte dåapmerem byöhkestalli satnem viehkiehtidh reaktoem åadtjodh. Minngemes nyjsenæjjam viehkiehti juktie raeffesne sïjhti årrodh. Jupmele sagke buerebe mijjen rohkelassh gåvla! Jupmele seahkere dejnie maam mijjieh daarpesjibie. Goh mijjen eejhtegh mijjese hoksem utniejægan, Jupmele mijjese håksa. Jupmele lea goh buerie tjidtjie jïh buerie aehtjie. Maahta mijjese vedtedh gaajhkem maam daarpesjibie. Daajra maam daarpesjibie aerebi goh Jupmielasse rohkelamme, Jeesuse jeehti.</p>
+    <p>Lohkh båeries teestamentesne, Saalme-gærjesne: 139. saalmem guktie Jupmele mijjese håksa.</p>
+    <p>Lohkh Matteusen vaentjielisnie: 7, 7-11 maam Jeesuse rohkelassi bïjre jeahta.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

@@ -1,0 +1,54 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>143</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Organisasjaavnaa-struktuvrra</origFileName>
+    <parallel_text xml:lang="nob" location="organisasjonsstruktur.html"/>
+    <parallel_text xml:lang="sma" location="aaaarganisasjovnestruktuvre.html"/>
+    <parallel_text xml:lang="sme" location="organisasuvdnastruktuvra.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Organisasjåvnå struktuvrra / Sámmedikke birra / Sámedigge - Sametinget</p>
+    <p type="title">Organisasjåvnå struktuvrra</p>
+    <p type="title">Ållestjåhkanibme</p>
+    <p>Sámedigge ållestjåhkanimen le Sámedikke alemus orgádna ja oajválasj.</p>
+    <p>Lågå ienebuv</p>
+    <p type="title">Ållestjåhkanime jådedibme</p>
+    <p>Ållestjåhkanime jådedibme dahká ássjelistav, gåhttju ja jådet Sámedikke ållestjåhkanimijt Sámedikke barggoårnigij ja njuolgadusáj milta.</p>
+    <p>Lågå ienebuv</p>
+    <p type="title" xml:lang="sme">Komitea</p>
+    <p>Divna Sámedikke ájrrasa li sebrulattja avtan gålmåt fáhkakomiteas ma giehtadalli ássjijt ja åvdedi árvvalusájt Sámedikke ållestjåhkanibmáj.</p>
+    <p>Lågå ienebuv</p>
+    <p type="title" xml:lang="sme">Sámedikki váiddalávdegoddi</p>
+    <p xml:lang="sme">Sámediggi lea 2011-s ásahan Sámedikki váiddalávdegotti doarjjaáššiid várás. Áigumuš ásahemiin lea sihkkarastit ahte Sámedikki doarjjahálddašeapmi ollašuhttá hálddašanlága gáibádusaid váiddagieđahallama birra.</p>
+    <p>Lågå ienebuv</p>
+    <p type="title">Sámedikkeráde</p>
+    <p>Sámedikkeráde ájrrasa nammaduvvi presidentas, guhti jådet rádev. Sámedikkepresidænnta válljiduvvá ieneplågos Sámedikke dievastjåhkanimes. Ráde doajmmá dagu Sámedikke ráddidus, ja tjadát bæjválasj dåjmadimev.</p>
+    <p>Lågå ienebuv</p>
+    <p type="title">SNPN</p>
+    <p>Sámedikke nuorajpolitihkalasj nammadus (SNPN) ásaduváj nannimdiehti sáme nuoraj vájkkudimfámov Sámedikke politihkan.</p>
+    <p>Lågå ienebuv</p>
+    <p type="title">Sámedikke vuorrasij ráde</p>
+    <p>Sámedigge nammat ådå vuorrasijrádev. Sámediggeráde ájras Henrik Olsen javllá vuorrasijráde galggá liehket fáron Sámedikke vuorrasij politihkav hábbmimin.</p>
+    <p>Lågå ienebuv</p>
+  </body>
+</document>

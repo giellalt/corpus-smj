@@ -1,0 +1,35 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>95</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.arran.no/subttsasa-nordlandas.4657456-71643.html</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Subttsasa Nordlándas - Árran - julevsáme guovdásj/lulesamisk senter</p>
+    <p type="title">Oasse Qvigstad subtsastjoahkkes</p>
+    <p type="title">Subttsasa Nordlándas</p>
+    <p xml:lang="nob">NOK 200</p>
+    <p><em type="bold">Sisadno  </em>Báhttja gut muorratjiega áhkátja niejddaj suoggŋudij Hæjos huvsikålmåj guhti galgaj risstaj mánájn Svájgasdållå Jákta juojgaduvvá sijddaj Girkkohærrá ja vasjulattja Tjude vuojtádalli Låvssån tjudijda Stuorlådde Háŋŋá boade gáddáj Stállo tjalmeduvvá Ålmåj mávset ietjas vieljav Stálluj Stállo ulmusjbårren Luhták bæhtádallá Stálo biedniga Vuodjaduddno Kuffi, riebij ja hásskovis Gå biernna siejbev boarkkij Gå biernna væppsájda tjuokkudaláj Gånågis Stuorvuolnán Boahttsujt ræjnnuhime Ganijáhkásj Æhpárij birra </p>
+    <p xml:lang="nno">Skriv et innlegg</p>
+    <p xml:lang="eng">Posting</p>
+    <p xml:lang="kal">Navn: *</p>
+    <p xml:lang="eng">E-post:</p>
+    <p xml:lang="est">Tema: *</p>
+    <p xml:lang="nno">Melding: *</p>
+    <p xml:lang="nob">Fylles ikke ut om du er et menneske:</p>
+  </body>
+</document>

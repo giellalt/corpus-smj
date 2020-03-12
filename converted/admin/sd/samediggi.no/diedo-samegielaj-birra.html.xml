@@ -1,0 +1,119 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1073</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Giella/Diedo-samegielaj-birra</origFileName>
+    <parallel_text xml:lang="nob" location="fakta-om-samiske-spraak.html"/>
+    <parallel_text xml:lang="sma" location="bievnesh-saemien-gieli-bijre.html"/>
+    <parallel_text xml:lang="sme" location="faktadiedut-sami-gielaid-birra.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Diedo sámegielaj birra / Giella / Sámedigge - Sametinget</p>
+    <p type="title">Diedo sámegielaj birra</p>
+    <p>Ájgij tjadá li ájádallam sámegielav oassen suoma-ugralasj giellajuohkusis urála giellafámiljan, ja læhkám sirádum ietjasa lagámus fuolkijs (balto-suoma) badjel 3.000 jage. Ådå dutkam vuoset sáme giellajuogos le gåjt dal sæmmi boares dagu germána giellajuogos ja gåjt dal guovte gierde boarrásabbo gå romána giellajuogos.</p>
+    <p>Politihkalasj åvdåsvásstediddje</p>
+    <p xml:lang="eng">President</p>
+    <p xml:lang="sme">NSR</p>
+    <p xml:lang="sme">Ávjovárri</p>
+    <p>Jur dálla</p>
+    <p>julevsáme giellakonferánsan</p>
+    <p xml:lang="sme">Ann-Mari Thomassen sárdni</p>
+    <p>Lågå ienebuv</p>
+    <p>Giellasuodjalibme, normerim ja moallánakbarggo</p>
+    <p>Sáme Giellagálldo tjoahkki sámegiela ássjediehttijt Anárij, gålgådismáno 6....</p>
+    <p>Lågå ienebuv</p>
+    <p>Vuoseda divna ássjijt</p>
+    <p>Sáme giellaguovllo gåbttjå åsijt Vuonas, Svierigis, Suomas ja Gárjjelis. Gielaj rájá e rijkarájájt tjuovo. Julevsámegiella ja oarjjelsámegiella ságastuvvi Vuonan ja Svierigin. Bihtámsámegiella ja ubbmemsámegiella dåssju Svierigin, gáhtum Vuonan. Nuorttasámegiella Vuonan, Svierigin ja Suoman ságastuvvá. Ánarsámegiella ságastuvvá dåssju Suoman. Áhkkilsámegiella, gielldasámegiella ja dárjjesámegiella ságastuvvá dåssju Gárjjelin, ja gålldåsámegiella sihke Suoman ja Gárjjelin (ja åvddåla Vuonan aj). Áhkkilsámegielan, majt åvddålå jáhkkin lij gáhtum, gávnnu huoman uddni. Ájnegis vuoras ulmusj sáhkat vilá áhkkilsámegielav aktijvalattjat ságastallamijn gielldasámegielagij. Muhtem ájnegattja ságasti áhkkilsámegielav passijvva giellan, iesjgeŋga dásen.</p>
+    <p>Dá lågev giela li juogedum guovte oajvvejuohkusijda: allesáme ja lullesáme. Allesáme ja lullesáme oajvvejuohkusijn li tjoahkkáj niellja vuolep juohkusa: oarjep, nuortap, sisednam ja suoloj (guoládak).</p>
+    <p>Rijkajgasskasasj aktijvuodan li gájka sámegiela ájtedum, duodaj ájtedum jali vargga gáhtomin. Ájtedum giella le giella man låhko mánájs gudi gielav bukti binnu, duodaj ájtedum giella le giella mav vargga dåssju ållessjattuga bukti, ja vargga gáhtum giella le giella mav dåssju muhtem gallegasj vuorrasappo hålli. Sámegiela li Vuonan suoddjidum duola dagu 169. ILO-konvensjåvnås, Vuonarijka Vuodolágas, Bájkkenammalágas, Sámelága giellanjuolgadusájs ja Åhpaduslága baktu. Rijkajgasskasattjat li sámegiela suoddjidum duola dagu nuorttarijkaj gielladeklarasjåvnå ja European Charter for Regional and Minority Languages baktu. Ienemus håladum sámegiela Vuonan uddni li oarjjelsámegiella, julevsámegiella og nuorttasámegiella.</p>
+    <p>
+      <em type="bold">Ienemus håladum sámegiela Vuonan uddni li oarjjelsámegiella, julevsámegiella og nuorttasámegiella. </em>
+    </p>
+    <list>
+      <p type="listitem">
+        <em type="bold">Oarjjelsámegiella: </em>
+      </p>
+    </list>
+    <p>Oarjjelsáme årromguovllo Vuonan le Sáltoduoddaris nuorttan gitta Elgåaj Hedmárkon oarjján. Ulmutja årru duoggu dággu miehtáj dan vijdes geográfalasj guovlo. Jáhkedahtte e ienebu gå lahkke oarjjelsámijs gielav buvti. Oarjjelsámegielan li guokta oajvvegiellasuorge:</p>
+    <p><em type="bold">Nuorttap oarjjelsámegiella </em>, aj gåhtjodum Åsele (Vapsten, Gaala, Aarborte, Bindal, Nååmesjevuemie Vuonan, Vapsten Tärnan, Vueltjere, Frostviken Svierigin) </p>
+    <p><em type="bold">Oarjep oarjjelsámegiella </em>, aj gåhtjodum Jämtland (guovllo Snåasa ja Verdala gaskan, Muoráhkka Vuonan, Jinjevaerie, Offerdal, Njaarke, Gálpe, Skalstugan, Såahka ja Härjedálen Svierigin). </p>
+    <p>UNESCO listan mij guosská ájtedum gielajda le oarjjelsámegiella tjáledum duodaj ájtedum giellan. Binná addne ja stuorra vijddudagá dahká gássjelin oarjjelsámegielajn barggat. Sebrudahka dárbaj ållo ulmutjijt oarjjelsámegiela máhtudagájn. Ållagasj guosská dát åhpadiddjevirgijda, oahpponævoj åvddånibmáj ja almulasj háldadibmáj ja dievnastusfálaldagájda.</p>
+    <list>
+      <p type="listitem">
+        <em type="bold">Ubbmemsámegiella: </em>
+      </p>
+    </list>
+    <p>Ubbmemsámegiella håladuváj Ruovatvuonan, Hemnesan ja Korgenin vuona bielen. Ságastuvvá Maskauren, Ståkken, Alep Kikkejauren, Lulep Kikkejauren Árjepluoven ja Arviesjávren, Málágin, Granan ja Umbyn Tärnan Svierigin. Svierigin li dåssju muhtem gallegasj hoalle vil, ja giella aneduvvá vargga gáhtum giellan. Vuona bielen aneduvvá gáhtum giellan. UNESCO listan mij guosská ájtedum gielajda le ubbmemsámegiella tjáledum duodaj ájtedum giellan jali vargga gáhtum giellan.</p>
+    <list>
+      <p type="listitem">
+        <em type="bold">Bihtámsámegiella: </em>
+      </p>
+    </list>
+    <p>Bihtámsáme giellaguovllo ráddjiduvvá vuona bielen Sáltovuonas nuorttan ja Ranvuonas oarjján, ja dasi gullu Bájddar, Sálát, Oarjjelij Bájddar, Meløy, Rødøy, oase Bådådjo ja Fuosko suohkanijs. Svieriga bielen manná rádjá nuorttalap Arviesjávres ja Árjapluoves gitta Bihtáma ædnuj Norrbottena länan Svierigin. Bihtámsámegiella gålmå oajvvegiellasuorggáj juogeduvvá: Nuortap bihtámsámegiella (Luokta-Mavas, Ståkke). Guovdásj bihtámsámegiella (Semisjaur-Njarg). <em type="bold">Oarjep bihtámsámegiella </em>(Svaipa). UNESCO listan mij guosská ájtedum gielajda le bihtámsámegiella tjáledum duodaj ájtedum giellan jali vargga gáhtum. Svieriga bielen li muhtem gallegasj giellaguodde aktan dutkij ja muhtem rahtjalis ulmutjij Vuona bieles aktan barggagoahtám gæhttjalit gielav gádjot. Moadda tuvsán bágo li juo tjoahkkidum ja dássta galggá báhkogirjje sjaddat. </p>
+    <list>
+      <p type="listitem">
+        <em type="bold">Julevsámegiella: </em>
+      </p>
+    </list>
+    <p>Julevsáme giellaguovllo Vuonan le Bálágis nuorttat gitta Sáltoduoddarij oarjján, ja dasi gullu duola dagu Divtasvuodna, Hábmer ja Fuolldá ja oase Fuosko suohkanis Sálton. Svierigin håladuvvá julevsámegiella Bihtámænos oarjján gitta Gájddumædnuj nuorttan Jåhkåmåhke ja Váhtjera suohkanijn Norrbottena länan Svierigin. Julevsámegiella nielje oajvvegiellasuorggáj juogeduvvá: Nuortap julevsámegiella (Unna tjerusj). Guovdásj julevsámegiella (Sirges ja Jåhkågasska Jåhkåmåhken Svierigin, Bálák, Divtasvuodna, Hábmer ja Fuolldá ja oase Fuosko suohkanis Vuonan). Miehttse julevsámegiella (Gällivare, Serri ja Udtja Svierigin). Oarjep julevsámegiella (Duorbun Svierigin). UNESCO listan mij guosská ájtedum gielajda le julevsámegiella tjáledum duodaj ájtedum giellan. Sæmmi láhkáj dagu oarjjelsáme giela hárráj, de sebrudahka dárbaj ållo ulmutjijt julevsáme giellamáhtudagáj.</p>
+    <list>
+      <p type="listitem">
+        <em type="bold">Nuorttasámegiella: </em>
+      </p>
+    </list>
+    <p>Nuorttasámegiella le stuorámus giellajuogos sáme gielaj gaskan, birrusij 90 % sámegielagijs nuortagahtti. Nuorttasámegiella ságastuvvá ienemusát Finnmárko ja Råmså fylkajn ja suohkanijn Dielldasuollu ja Evenássje Nordlándan vuona bielen. Nuorttasámegiella nielje oajvvegiellasuorggáj juogeduvvá: Merrasámegiella - Lulle merrasáme (Várjatvuodna ja Lágesvuodna). - Guovdásj merrasáme (Riehppovuodna ja Sválesnuorre). - Alle merrasáme (Áltávuodna ja Návuodna). Finnmárkkosámegiella - Lullefinnmárkko: Uhtsajåhkå, oase Ánaris Suoman, Kárásjåhkå, Porsáŋŋgo, Dætno Vuonan. - Allefinnmárkko: Ænodahka, Soahtegiellda, oase Ánaris Suoman, Guovddagæjnno, Áltá Vuonan) Duornossámegiella -Girjjis: Gällivares nuortta-luksa, Nuorttagájddom Svierigin - Allelij oasse Ænodagás Suoman, Ufuohtás gittu Ivgguj, Ivggovuodnabadá ja Rájsá gaskan Vuonan. - Gárasávvun: Könkämävuoma ja Lainiovuoma, Ivggo ja Báhccavuodna Vuonan. - Jukkasjávrre: Saarivuoma, Dálmma, GabnáLeavnas-Kaalasvuoma, Kalix ja Haparanda Svierigin.</p>
+    <p>UNESCO listan mij guosská ájtedum gielajda le nuorttasámegiella tjáledum ájtedum giellan. Moatten sajen sáme giellaháldadimguovlo ålggolin le nuorttasámgiella ájn gássjelis dilen. Dát ållagasj guosská moatte merrasáme dáfojda Råmsån ja Finnmárkon ja markasáme guovlojda Oarjjelij-Råmsån ja Nuorttalij-Nordlándan.</p>
+    <list>
+      <p type="listitem">
+        <em type="bold">Ánarsámegiella </em>
+      </p>
+    </list>
+    <p>Ánarsámegiella håladuvvá Ánara suohkanin Suoman (Ánarjávre birra). UNESCO listan mij guosská ájtedum gielajda le ánarsámegiella tjáledum duodaj ájtedum giellan.</p>
+    <list>
+      <p type="listitem">
+        <em type="bold">Gålldåsámegiella (<span type="quote">”lullesáme”</span>) </em>
+      </p>
+    </list>
+    <p>Gålldåsámegiella guovte oajvvegiellasuorggáj juogeduvvá:</p>
+    <p><em type="bold">Nuortap gålldåsámegiella </em>(Muotka, Paatsjoki, Petsamonkylä) <em type="bold">Oarjep gålldåsámegiella </em>(Suonikylä, Notozero-Girvasozero) </p>
+    <p>Vuonan gålldåsáme Oarjje-Várjjak suohkanin årru, åvdemusát Njájddamin, valla aj Girkkonjárgan ja Báhtsakvákken. Juogos le viehka unne ja sij li ájnna gudi lullesáme kultuvrav guoddi Vuona bielen. Suomabielen årru gålldåsáme Tjievetjávren ja Njiellimin Ánarjávrgátten. Gárjjelin le gålldåsámegiella gáhtum ja Vuonan dåssju muhtem gallegattja gielav bukti uddni. UNESCO listan mij guosská ájtedum gielajda le gålldåsámegiella tjáledum duodaj ájtedum giellan.</p>
+    <list>
+      <p type="listitem">
+        <em type="bold">Áhkkilsámegiella, gielldasámegiella ja dárjjesámegiella </em>
+      </p>
+    </list>
+    <p>Dá giela Guoládagán Ruossjan håladuvvi. Muhtem dutke tjuottjodi maŋemus áhkkilsámegiella hoalle jámij jagen 2003, madi ådå giellaguoradallam javllá gávnnuji vil hoalle ja navti le giella ienemus ájtedum sámegiella Ruossjan. UNESCO listan mij guosská ájtedum gielajda le guoládaksámegiela juogos tjáledum duodaj ájtedum jali vargga gáhtum giela.</p>
+    <p>
+      <em type="bold">Girjjegiella: </em>
+    </p>
+    <p>Sáme giellajuohkusin le guhka jali oanes tjállemgielahiståvrrå gielas giellaj. Vuostasj girje sámegiellaj båhtin 1600-lågon. 1600-1700-lågon tjállin sæmmi bokstávaj sámegiellaj dagu dárogiellaj. 1800-lågon båhtin muhtem ådå bokstáva sámegielajda ma ælla anon ietjá gielajn daj sæmmi guovlojn (duola dagu dáro-, suoma- ja gárjjelgielan). Gudán sámegielan le standardiseridum tjállemgiella: oarjjel-, julev-, nuortta-, ánar- ja gålldåsámegiella adni vijdedum versjåvnåjt latijna alfabehtas. Giellda- ja dárjjesámegiellaj tjálli hiebadum kyrillalasj alfabehtajn. Duodde bokstáva ma vijdedum latijna alfabehtajn tjáleduvvi li dá: Gålldåsámegiella: Áá Ââ Čč Ʒʒ Ǯǯ Đđ Ǧǧ Ǥǥ Ǩǩ Ŋŋ Õõ Šš Žž Åå Ää</p>
+    <p xml:lang="sme">Ánarsámegiella: Áá Ââ Ää Čč Đđ Šš Žž</p>
+    <p>Nuorttasámegiella: Áá Čč Đđ Ŋŋ Šš Ŧŧ Žž</p>
+    <p>Julevsámegiella: Áá Ŋŋ</p>
+    <p>Oarjjelsámegiella: Ïï</p>
+    <p><em type="bold">Gálldo </em>: - Pekka Sammallahti - Bruce Morén-Duolljá - Elisbath Scheller </p>
+    <list/>
+    <p>
+      <span type="quote">Rijkajgasskasasj aktijvuodan li gájka sámegiela ájtedum, duodaj ájtedum jali vargga gáhtomin. </span>
+    </p>
+  </body>
+</document>

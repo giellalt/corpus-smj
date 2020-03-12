@@ -1,0 +1,985 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Sámedikke Iellembirásprográmma IELLEMBIRÁS</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2009</year>
+    <publChannel>
+      <publication>
+        <publisher>svenske Sametinget</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>6512</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual/>
+    <origFileName>http://www.samediggi.se/31959</origFileName>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location="eallinbiras_oarjelsam.pdf"/>
+    <parallel_text xml:lang="sme" location=""/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location="livsmiljoprogram_swe.pdf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>
+      <em type="bold">Sámedikke Iellembirásprográmma </em>
+    </p>
+    <p xml:lang="sma">IELLEMBIRÁS</p>
+    <p xml:lang="sma">EALLINBIRAS/ JIELEMEN BIJRE</p>
+    <p xml:lang="sms">___________________________________<em type="bold"> </em></p>
+    <p>
+      <em type="italic">Sáme vuojno milta li gájkka ássje birásássje – dajna gå birás guosská gájkka bielijda mijá iellemis ja mijá birrasis. Danen dát prográmma iellembirrasav tjalmmi - mijá iellembirrasav – ja gåk nanos iellembirrasav boahtteájggáj máhttep suoddjit. </em>
+    </p>
+    <p>Dåhkkidum Sámedikke ållestjåhkanimes 090219</p>
+    <p>
+      <em type="bold">Mijá ulmme: Fábmogis &amp; nanos sáme viessombirás </em>
+    </p>
+    <p>Mij sihtap fábmogis Sámeednamin viessot, man vuodo l nanos luonndo ja viesso sáme kultuvrra. Ulmusj ja luonndo galggaba guhkesájggáj máhttet ådåstuvvat ja nannusit åvdeduvvat aj rievddaduvve ájggáj. Goappátjagá luonndo ja kultuvrra Sámeednamin galggaba valljudahkan dåbddut aj ålggolin mijá.</p>
+    <p>Gåvvå: Marie Enoksson.</p>
+    <p xml:lang="sms">2</p>
+    <p>
+      <em type="bold">Sisadno  </em>
+    </p>
+    <p><em type="italic">Muv birás – muv vájmmo!</em><em type="bold"> </em></p>
+    <p>
+      <em type="italic">1 Sámedikke birásvuojnno ................................................................................................................ 5 Sámeednam ....................................................................................................................................... 5 Mijá aktisasj árvvovuodo ................................................................................................................ 5 Viessomfábmo ................................................................................................................................... 6 Rievddadus ....................................................................................................................................... 7 Rasjesvuohta ...................................................................................................................................... 7 Ájnna ednam – vijddáp vuojnno .................................................................................................... 8 Mijá åvdåsvásstádus ........................................................................................................................ 9 Gäjnno åvddålijguovlluj .................................................................................................................. 9 2. Ájggom /Vuorodibme / Ájggeperspektijvva ............................................................................ 11 3. Iellembirás: Sámedikke ulmme ja oasseulmme ...................................................................... 12 Mijá gájkkásasj ulmme: Fábmogis &amp; nanos sáme birás ............................................................ 12 Mijá gålmmå oasseulme ................................................................................................................ 12 Viesso iellembirás juohkka aktaj! ................................................................................................. 12 Árbbedábak máhttudahka ............................................................................................................ 12 Balánseridum åvdedibme ............................................................................................................. 13 Gänna l åvdåsvásstádus masi? ..................................................................................................... 14 Duv åvdåsvásstádus ...................................................................................................................... 16 Gájkaj åvdåsvásstádus ................................................................................................................... 17 </em>
+    </p>
+    <p>
+      <em type="italic">Muv birás – muv åvdåsvásstádus!** </em>
+    </p>
+    <p>
+      <em type="italic">4. Ájggepládna – Dahkoprográmma 2009-2012 ............................................................................ 20 2009-2011 .......................................................................................................................................... 20 2012 ................................................................................................................................................... 20 4.1. Ulmmejuogos 1 Sáme sebrudahka .......................................................................................... 21 Ájggom ............................................................................................................................................. 21 Ulmme .............................................................................................................................................. 21 Sámedikke ánburgge ...................................................................................................................... 21 Dåjma 2009 – 2010 .......................................................................................................................... 21 Dåjma 2010 - 2012 ........................................................................................................................... 21 4.2. Ulmmejuogos 2 Sámedikke doajmma .................................................................................... 22 Ájggom ............................................................................................................................................. 22 Ulmme .............................................................................................................................................. 22 Sámedikke ánburgge ...................................................................................................................... 22 </em>
+    </p>
+    <p xml:lang="swe"><em type="italic"> Min miljö  - mitt hjärta! </em></p>
+    <p xml:lang="swe">
+      <em type="italic">*Min miljö – mitt ansvar! </em>
+    </p>
+    <p xml:lang="sms">3</p>
+    <p>
+      <em type="italic">Dåjma 2009 - 2012 ........................................................................................................................... 22 4.3. Ulmmejuogos 3 Sámedikke tjuottjodibme ........................................................................... 24 Ájggom ............................................................................................................................................. 24 Ulmme .............................................................................................................................................. 24 Sámedikke ánburgge ...................................................................................................................... 24 Dåjma 2009 – 2010 .......................................................................................................................... 24 Diedojt tjoahkkit, diededibme. ..................................................................................................... 24 Dåjma 2011 – 2012 .......................................................................................................................... 24 5. Budjähtta 2009-2012 ....................................................................................................................... 25 6. Gåhttjom ......................................................................................................................................... 26 7. Åvdep sáme birásbarggo .............................................................................................................. 26 8. Referensa ......................................................................................................................................... 27 </em>
+    </p>
+    <p xml:lang="sms">4</p>
+    <p>
+      <em type="bold">1 Sámedikke birásvuojnno </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">Från en höjd på ett högt fjäll en syn svår att berätta om </em>
+    </p>
+    <p xml:lang="nob">
+      <em type="italic">Bortom höjderna virvlade ett moln Jojken kom Nere i dalen brusade forsen </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">O jord du vackra Mitt eget land </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">Du knyter mig till dig med mjuka band och älskar mig i din varma famn </em>
+    </p>
+    <p>
+      <em type="italic">IELLEMBIRÁS = sáme viessombirás </em>
+    </p>
+    <p>
+      <em type="italic">(Paulus Utsi) </em>
+    </p>
+    <p>
+      <em type="italic">= sosiálak                       &amp;         luondo kapitála                           kapitála </em>
+    </p>
+    <p><em type="italic">Aktavuoda  Ednam Giella  Biegga  Aktisasjbarggo                Ájmmot Máhttudahka                 Jasskavuohta Åssko   Ráfe Várrogis vieesomvuohke              Biejvve Åvdåsvásstádus   Tjáhtje Juojgos   Liekkasvuohta Diehto                Ábnnasa Aktisasjvuohta   Jahkeájge/Rytma Fässta                Ruge </em>Ruge </p>
+    <p>
+      <em type="bold">Sámeednam </em>
+    </p>
+    <p>Mij sáme lip Sámeednama iemeálmmuk. Mijá álmmuk la ållu dålutjis dájn ednamijn årrum ja ednamijt ja tjátjijt alvvát ja várrogisvuodajn tjuottjodam. Mij lip oasse Sámeednama luondos. Mijá iellema - mijá äládusá ja kultuvrraháme – hiebaduvvi luondo vaddem- ja válldemmáhttelisvuoda milta váni dåssjidime dagi.</p>
+    <p>Mijá tjiegŋalis aktavuodav luondujn la vájvve bágoj tjielggit. Viessot luondon ja bierggit dassta majt luonndo vaddá, dalá aktavuodav váddá mijá ja luondo gasskaj (juhtusij, nubbe nuppijn). Mij åsskop viesso viessomvuohkáj Sámeednamin, mijá årromsadjáj. Jus mij – jali soames ietjá – luondov bäjsstá de mijá kultuvrra aj vahágahteduvvá.</p>
+    <p>Sámeednama birás la rassje. Fábmogis luonndo rávkká mij lip oalle várrogisá.</p>
+    <p>Mijá äládusájda li árbbedábak háme agev guhkesájggásasj vuojnos ja nanos viessomvuoges álggám. Jus luonduk åvdeldime vádnun muhtem bájken de máhttin ietjá bájkijt ávkkit ja anedum bájke vuojŋadit. Dát luonduk iesjnjuolggim ájn gávnnu mijá árbbedábak äládushámen ja ådå äládusáj ávkkima baktu, valla li ájtedum jali hiejteduvvamin. Sáme aktijäládusvuoge sadjáj ienebut avtagasj luonndoávkkim målssåsuvvá.</p>
+    <p>
+      <em type="bold">Mijá aktisasj árvvovuodo </em>
+    </p>
+    <p>Mijá giella giehttu gasskavuodama birra luonnduj ja guhtik guojmáma. Dat la</p>
+    <p>5 <em type="italic">Merka,  ma  luondo  kapitálav  ja  sosiálak kapitálav  lasedi,  sämmi  bále  aj  viessomfámov Sámeednamij  lasedi.  Tjuovvo  miehttijiddje  li buojkulvisá ma ålles systemav máhtti nannit. </em></p>
+    <p type="listitem"> <em type="italic">Viessomvuohke mij rentas viessu </em></p>
+    <p type="listitem"> <em type="italic">Bájke tjuottjudus </em></p>
+    <p>
+      <em type="italic">Moattevuohta </em>
+    </p>
+    <p type="listitem"> <em type="italic">smávep nanos vidnudagájs </em></p>
+    <p type="listitem"> <em type="italic">bájke elfábmo smávep fábmogáldojs </em></p>
+    <p>
+      <em type="italic">máhttelisá ådåstuhteduvvat </em>
+    </p>
+    <p type="listitem"> <em type="italic">bájke biebbmo </em></p>
+    <p type="listitem"> <em type="italic">árbbedábak máhttudahka </em></p>
+    <p type="listitem"> <em type="italic">hiebadum tjuottjudus </em></p>
+    <p type="listitem"> <em type="italic">aktisasjvuohta </em></p>
+    <p type="listitem"> <em type="italic">rytma </em></p>
+    <p>dárbas räjddo diedojt buolvas buolvvaj dålvutjit. Giella anet aktelisvuodav kultuvrak rievddadusáj bálij. Gå giellastruktuvrav boarkki de vájvet mijá ájnas máhtov vijdábut doalvvot gåk luondov suoddji, ja muhttijn ga ij la máhttelis. Giella l buoremus vuohke gájkajda diededit mijáj gájkaj åvdåsvásstádusáv luondo ekologak balánsav anodittjat.</p>
+    <p>Mijá iellemvuojnno la vuodon mijá aktisasj árvvovuoduj ja åvvå vijdep la gå dåssjå sámegiella. Sáme vuojno milta luondon la viesso siello, mij garrasit la allevärálda luonndovuojno vuosstij. Mijá luonndovuojnno mijá árvojt la hábbmim, dábijt, sosiálak hámijt ja aktavuodajt.</p>
+    <p>Árvvovuodov dádjadit ja nubbe nuppev árvvon adnet viertti gájkajda buorren gullut. E galles, jus åvvå aktak allevärálda kultuvran, la mijá gielav ja mijá árvvovuodov oahppam. Dat vaddá midjij dåbdov sij e mijáv duohtan válde. Danen aj de gávnnuji ållo åvddåduomo, ienemusát diehtemahtesvuodajn jali boastodádjadimijn vuodon – uddni vilá.</p>
+    <p>Aktisasj árvvovuodo dahká gasskavuodajt ietjá ulmutjijda ja dahká máhttelissan guhtik guojmáma dádjadit. Mij hähttujma oahppat allevärálda árvvovuodov mav koloniserijiddje fábmo buvtij; ristalasj jáhkkudagáv, tjállemgielav, rumájgielav, luonndodiedakvuodav, pedagogijkak, juridijkak ja kapitalistak gielav ja de maŋemus vil aj dárogielav (vuona dárogielav, suomagielav, ienngisgielav ja iehtjádijt).</p>
+    <p>Báktji vuojnodibmen ja sierra årrot. Mij guddnedip mijá ájttegijt ja árvvon adnep máhtosa ja vijsesvuodasa. Le ájgge mij ruoptus válldep iehtjama gávnnumrievtesvuodav. Mij lip ávvusa ja tjävllá iehtjama tjáppa luondo åvdås, mijá tjiegŋalis aktavuodas luondujn ja mijá tjiegŋalis máhto åvdås gåk várrogisát luondov ávkki. Mij sihtap mijá diedoj ságastallamav boanndodahttet nanos boahtteájggáj – sierraláhkáj Sámeednamin, valla aj ålggolin. Dåssjå stuoráp dádjadime ja aktisasjbargo baktu máhttep aktisasj boahtteájgev hábbmit.</p>
+    <p xml:lang="sma">
+      <em type="bold">Viessomfábmo  </em>
+    </p>
+    <p>Mijá máhtto stuor rievddadusáj bierggit ja vijdábut åvdeduvvat la moattet vuodos. Guoddelis luonndo valjes biologak moattevuodajn ja ålles, aktijanedum luonndo la ájnas åvdeldibme (luondo kapitála). Daŋga bále la mijá máhto vuodo guhkesájggáj åvdeduvvat iehtjama sosiálak</p>
+    <p>kapitálas mij merkaj ekonomak moattevuodav, kultuvrak<em type="bold"> </em>moattevuodav ja doajmmammoattevuodav. </p>
+    <p xml:lang="sms">6</p>
+    <p>
+      <em type="bold">Rievddadus </em>
+    </p>
+    <p>Luonndo ienebut nåhkå ja vahágahteduvvá ja ij guhkes ájggáj maná divvot. Sáme árbbedáhperiektá gähttjaluvvá ja unnu aj duobbmoståvllåmärrádusáj baktu. Ednama li rievddam ja gáhtum buojkulvissan vuobmeäládusá oablloma ja tjáhtjefábmobargo maŋŋela.</p>
+    <p xml:lang="swe">
+      <em type="italic">Så länge vi har vatten, där fisken lever Så länge vi har land, där renen betar och vandrar Så länge vi har marker, där det vilda gömmer sig har vi tröst på denna jord När våra hem ej mera finns och vår mark är förödd  var skall vi då bo </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">Vårt eget land, vårt levebröd har krympt sjöarna har stigit älvarna har torkat bäckarna sjunger med sorgsen stämma markerna svartnar, grönskan vissnar fåglarna tystnar och flyr </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">Allt det goda vi fått kommer ej vårt hjärta vid det som skulle underlätta våra liv blev till intet värde </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">Hårda stenvägar gör våra rörelser smärtfulla Lugnet hos det vildas människa gråter i sitt hjärta </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">I den ilande tiden uttunnas vårt blod vår samklang brister vatten upphör brusa  </em>
+    </p>
+    <p>
+      <em type="italic">(Paulus Utsi) </em>
+    </p>
+    <p>Luonduk åvdeldime Sámeednamin li rievddam daŋga bále gå ådåájggásasj ábnnasa, ådå teknijka ja masjijna li mijá viessomij oassen sjaddam. Midjij gudi guhkev lip boatsojsujtos, bivdos, guollimis, duojes ja unnep ednambargos viessum li dá rievdadusá garrasit mijá viessomvuogijt bájnnám. Gávnnuji diedon aj buorre rievddadusá ja dárbas teknijkak viehkkenävo majt ådåájggásasj viessomvuohke buktá. Dá rievddadusá buorren båhti oassen mijá viessomij ja bargojda. Ájnas la mij dajt ådugijt ma giehpedi ja bájnni mijá viessomijt buorre vuogijn tjuolldep dajs ådugijs ma dahki mij värálda ekonomidjav ja oaljov dárbahip, sämmi bále gå da luondov loabddi. Nievrep åduga li tsaggen mijá ja luondo, ja mijá ja ietjá ulmutjij gaskan. Da vahágahtti mijá kultuvrav ja mijá álmmugav.</p>
+    <p>Jur degu juohkka viessomvuohke luonnduj ietjas hiebat, lip mij ájge milta iehtjama hiebadam sajijda majt äládusá rávkki, guohtom-, bivddo- ja muorjjeednama, guollimjávre ja ednambarggoednama ja ålobu. Aktan da li gájka mijá ieme åvdeldime ja vuodon mijá kultuvra anodibmáj. Mijá viessomvuogen li lahkaoasestibme, iesjbierggim, smávep doajmmamvuoge ja unnep adnema diehttelis oase.</p>
+    <p>
+      <em type="bold">Rasjesvuohta </em>
+    </p>
+    <p>Dálkádakrievddamij mierev ja valludagáv majt Sámeednamin vuojnnep la moadda jage mijáv ráfeduhttám. Gå bäjválattjat luondon viessu de oadtju ållo máhttelisvuodajt rievddadusájt gehtjadit.</p>
+    <p>Vuorrádisvuoda ednu ja gähttjalibme l stuorre. Aktan ednamij biejsstemijn ja dajna birásdettujn mav lassániddje luonndoávkkim buktá sjaddá midjij vil vájvep ja muhttijn ij la máhttelis vuogasláhkáj barggat ja iehtjama hiebadit</p>
+    <p>7 nåv gåk lip hárjjánam. Danen la rasjesvuodav ájnas unnedit.</p>
+    <p>
+      <em type="italic">Dáhpadusá ma bårri luondo kapitálav ja sosiálak kapitálav, lasedi rasjesvuodav Sámeednamin. Tjuovvo boadádallama ja rievddama li buojkulvisá ma máhtti ålles systemav råhttit: </em>
+    </p>
+    <p type="listitem"> <em type="italic">åvddånibme man vuodon la rájádis </em></p>
+    <p>
+      <em type="italic">sjaddam, stuoráp luonndodåssjidibme ja ednambiejsstem </em>
+    </p>
+    <p type="listitem"> <em type="italic">Sälggaábnnasa, duolvvadime </em></p>
+    <p type="listitem"> <em type="italic">skidárdiddje viessomvuohke mij kapitálav </em></p>
+    <p>
+      <em type="italic">bårrå </em>
+    </p>
+    <p type="listitem"> <em type="italic">luonndohåhkkånime </em></p>
+    <p type="listitem"> <em type="italic">dálkádakrievddama </em></p>
+    <p type="listitem"> <em type="italic">tjuorbes tjuottjodibme mij </em></p>
+    <p>
+      <em type="italic">hiebadahkesvuodav tsaggá ja stuoráp ávkkimijt luondon åvdet </em>
+    </p>
+    <p type="listitem"> <em type="italic">sosiálak sierravuohta ja marginalisierim  </em></p>
+    <p xml:lang="dan">
+      <em type="italic">marginalisering </em>
+    </p>
+    <p>Sámeálmmuk la ållo rievddadusáj viessum. Dálátjij lip agev rievddadusájt duosstum iehtjama kultuvrajn ájmon. Dat diehto åvdutjis midjij dårvov boahtteájggáj vaddá. Vidjura máhtti buorránit jus mij dåjmalattjat rievddadusájda oassálasstep ja jus diedojs mijá boandás kultuvras ja máhtos oahppap.</p>
+    <p>Dálkádakságastallam väráldin uddni ienemusát <span type="quote">“dálkádakrievddadusájt”</span> tjalmmi. Álu dav juohká ållo unnep åsijda ja de symptomajt vuostelt gávnadijn teknijkak tjoavddusijt. Diedon la ájnas</p>
+    <p>dálkádakrievddadusáv vuosteldit ja ådå teknijkav adnet, ja aj åvdedit. Sáme vuojno milta dát ij la nuoges. Ij åvvå gåktuk.</p>
+    <p>Mijá ållesvuojnos diehttelis vierttip gähttjat dajda årijda ma li dálkádakrievddama duogen, degu dal industrialiserim, väráldahttem, mijá viessomvuohke, mijá oasestimhárjjánime, lasse ájmodis stuor luonndobiejsstema ja nåv vil. Dassta tjuovvu unugis gatjálvisá ja unugis rievddadusá gájkka låbdåjn ja gájkka guovlojda. Ulmutjijn, fábmudagájn, ráddidusájn ja vidnudagájn la åvdåsvásstádus gehtjadit vaj álgaduvvá. Daŋga bále li aj ållo rievddadusá boanndudahkan mijá sebrudahkaj ja aktisasjvuohtaj gå duosstap rievddaduvvat ja luovvanit mierrediddje avtakultuvrak åvdedimdättos.</p>
+    <p>
+      <em type="bold">Ájnna ednam – vijddáp vuojnno </em>
+    </p>
+    <p>Åvddål vihttalåklågo luondov bájnijma ienemusát iehtjama bájke (dajvak) låbdån. Mijá dagoj tjuovvusa oadtjun njuolgga ja tjielgga båhtusijt mijá lahkabájkijn. Bierggima diehti lij dárbbo várrogis årrot ja åvdåsvásstádusáv válldet. Gájkka ábnnasijn lij árvvo, bátsidisá ettjin gávnnu. Dallusj viessomvuohke lij degu dahppam systebma ja oalle nanos. Mij adnep ájn la ájnas várrogisát barggat mijá lahkabájkijn vaj ep lagámus luondov vahágahte.<em type="bold"> </em></p>
+    <p>Dájna tjállagijn sihtap sämmi bále dättodit vaj mijá åvdåsvásstádusá stuorrudahka uddni l oalle stuoráp gå gåk lij guovte buolva åvddåla. Uddni li åvdeldime sieldesláhkáj rievddam. Mij lip aj oasse värálda osestimgålgådagás viessomvuoge ja oassásij válljimij baktu. <em type="bold"> </em></p>
+    <p>Mij diehtep luondo ávkkim väráldin luondov ja ulmutjijt bájnná ednamgievle nuppen bielen. Ep desti iehtjama bájken tjuovvusijt moattet dagos vuojne. Väráldahttem miedet viessomvuogev man vuodo li värálda luohko. Álkke l tjalmijt tsábttsit ja ij diehtten dahkat – valla dat ij la rievtes ietjá ulmutjij vuosstij jalik luonnduj ietjá guovlojn väráldin.</p>
+    <p>Mij dåbddåp aktisasjvuodav ietjá ulmutjij, ållagasj daj álggoálmmugij gudi aktan</p>
+    <p>8 dálkkerievddadusáj ja väráldahttemij dåbddi avta stuor jali ájn stuoráp gähttjalimijt ja rievddadusájt ietjasa viessomin. Mij ep sidá viehkken åvdeldimijt nievredit iehtjádij viessomijda (goappátjagá ulmutjijda ja luonnduj). Miján li máhttelisvuoda válljit. Mijá viessomvuohke l ehtak ássje. Mijá åvdåsvásstádus viertti danen vijddot ja väráldahteduvvat.</p>
+    <p>Jus<em type="bold"> </em>ep balov mijáv dibde gállnadit, jus várrip iehtjama värron åvvå gåktuk adnet, de máhttep buoredit ja rievddadit mijá åvdeldimijt viesso Sámeednamij. Vuojnnep dálkádakrievddadusáv signálan jali märkkan vaj gájka vierttip åvdåsvásstádusáv válldet ja oassen buorre rievddadussaj årrot. </p>
+    <p>Adnep oalle ájnnasin mij ganudasstep ja</p>
+    <p xml:lang="swe">
+      <em type="italic">Vi måste ge oss iväg Då det blir allt trängre Men vart? </em>
+    </p>
+    <p>åvdåsvásstádusáv válldep dajn bájkijn gånnå ietja máhttep bájnnet. Mij lip ájnas oasse tjoavddusis dakkár gähttjalibmáj. Mijá dårja l gäjnov åvddålijguovlluj vuosedit.</p>
+    <p xml:lang="swe">
+      <em type="italic">Livet går inte vidare Eller bättras Om vi inte hjälper oss själva Men när? </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">De trygga orden finns De kommer om vi kallar på dem Men när [med vilket språk?]* </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">Vakna, sov dig ej till döds Du har arv från far och mor att vårda Lyssna på rösten inom dig rösten inom dig </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">Din egen röst manar dig ta ansvar för släktet </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">Att se vårt dyrbara liv Som utställning Det uthärdar vi inte Eller gör vi? </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">Lyssna på din egen röst din egen röst Var glad, sjung glatt sjung som fågeln </em>
+    </p>
+    <p>
+      <em type="italic">(Paulus Utsi) </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">Hör naturens uråldriga röst uråldriga röst Hör hur vackert den klingar hur vackert den klingar </em>
+    </p>
+    <p>
+      <em type="bold">Mijá åvdåsvásstádus </em>
+    </p>
+    <p>Tjoavddusav dakkár värálda gähttjalibmáj nåv gåk dálkádakrievddadus la, máhttá val aktisasj åvdåsvásstádusán gávnnat. Dajna gå gájka lip luondos oasse la miján aj máhttelisvuohta åvdåsvásstádusáv válldet ja tjoavddusis oasse årrot.<em type="bold"> </em></p>
+    <p xml:lang="swe">Författarens anmärkning</p>
+    <p>
+      <em type="italic">(Paulus Utsi) </em>
+    </p>
+    <p>
+      <em type="bold">Gäjnno åvddålijguovlluj </em>
+    </p>
+    <p>Mijá kultuvra vuodon la viessom gånnå ulmusj ja luonndo libá aktavuodan nubbe nuppijn. Dan vuodon la iesjbierggim mij</p>
+    <p>9 åvdelt tjiegŋalis máhtojt, rabás mielajt ja iesjrádak åvdåsvásstádusáv goappátjagá aktugattjaj ja aktavuodan. Dåbddo luonnduj ja nubbe nubbáj la midjij dáhpen dålusj ájges årrum. Mij lip mihá dan åvdås ja dat la aj álggem Sámediggáj hábbmitjit sáme ulmijt aktisasj boahtteájggáj.</p>
+    <p>Dán tjállagin hábbmip mijá ulmijt ja mijá vuojnov nanos ja fábmogis sáme birrasij - boahtteájgge mijá ednamij ja mijá álmmugij. Mij åhtsåp vásstádusájt gatjálvisájda: Makkár väráldin lip viesutjit?</p>
+    <p>
+      <em type="italic">(Paulus Utsi) </em>
+    </p>
+    <p>Makkár viessomhámijt sihtap árbben mijá mánájda ja áhkkovijda/áddjovijda vaddet? Gåk máhttep åvdedimev oadtjot mij mijá kultuvrraj hähpá, åvdedibme mij luondov suoddji ja åvddånahttá vaj ulmusj buoragit viessu ja máhttá åvddånit?<em type="bold"> </em>Sámedigge åvdåsvásstádusáv válldá buorep viessombirrasij ja jiermmás åvddånibmáj. Åvddånibme mij luondov ja ulmutjij rievtesvuodav suoddji – aj ietjá väráltåsijn. Dájna prográmmajn Sámedigge gåhttju aj juohkka ulmutjav Sámeednamin iesj åvdåsvásstádusáv válldet ietjas árgan ja dåjmalattjat oassálasstet dán prosässaj. Jus mij gájka aktisattjat ja boahtteájggáj barggap de Sámeednam fábmogissan sjaddá ja bierggi daj gähttjalimij ma li mijá åvdån. Mij ep ájgev máhte gålådit. </p>
+    <p xml:lang="swe">
+      <em type="italic">Vackra tankar skapar varm gemenskap gör fula ord sköna väcker värme som kan ta hand om nya vackra tankar </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">Glada tankar vidgar vägen till hjärtat Elden som värmer ditt väsen närs av glada tankar och goda leenden. </em>
+    </p>
+    <p xml:lang="sms">10</p>
+    <p>
+      <em type="bold">2. Ájggom / Vuorodibme / Ájggeperspektijvva </em>
+    </p>
+    <p>
+      <em type="bold">Ájggom </em>
+    </p>
+    <p>Prográmma ájggom la:</p>
+    <p type="listitem"> Vuodon årrot ja álggo ålles</p>
+    <p>
+      <em type="bold">Ájggeperspektijvva </em>
+    </p>
+    <p>Sámedikke doajmmaj</p>
+    <p type="listitem"> Biejadit ulmijt nanos ja fábmogis</p>
+    <p>Sámedigge galggá lagámus lågev jage vuorodimij ja miellogisvuoda baktu barggat vaj mijá birásvuojnno galggá gäjnov midjij allasimme ja sebrudahkaj birrusin vuosedit.</p>
+    <p>sáme viessombirrasij</p>
+    <p type="listitem"> Miellodit sáme birásvuojnujn ja</p>
+    <p>álgadimijn</p>
+    <p>Prográmma galggá årrot:</p>
+    <p type="listitem"> álggo mij tjielggi guhkesájggásasj</p>
+    <p>sidodav ja rahtjalisvuodav ulmijda</p>
+    <p>
+      <span type="quote">”nanos ja fábmogis Sámeednam”</span>
+    </p>
+    <p type="listitem"> vuodotjállagin dagátjit sniváp</p>
+    <p>dahkoprográmmajt ja plánimnävojt</p>
+    <p>
+      <em type="bold">Vuorodibme </em>
+    </p>
+    <p>Unnedittjat rasjesvuodav ja tjielggasit</p>
+    <p>viessomfámov Sámeednamin ådåsis hássat galggá Sámedigge vuorodit tjuovvo</p>
+    <p>suorgijt:</p>
+    <p type="listitem"> Sáme máhtojt tjalmmit</p>
+    <p type="listitem"> Mierredit guovlov nanos sáme</p>
+    <p>åvddånibmáj ja giehpedit prosjevtajt ja álgadit dajt duohtan dahkat</p>
+    <p type="listitem"> Rávkkat ja duohtan dahkat gåk ietja</p>
+    <p>gárttjodip dálkádakbájnnemav – rievddadime baktu oasestimhámijt</p>
+    <p>masjijnaj hárráj, enersjiddjadárbojt/elfábmoadnemav,</p>
+    <p>ábnasválljimav</p>
+    <p type="listitem"> aktanbarggat sisi ja ålgobuj</p>
+    <p xml:lang="sms">11</p>
+    <p><em type="bold">3. Iellembirás: Sámedikke ulmme ja oasseulmme</em> </p>
+    <p><em type="bold">Mijá gájkkásasj ulmme: Fábmogis &amp; nanos sáme birás</em> </p>
+    <p>Mij  sihtap  viessot  fábmogis  Sámeednamin  man  vuodo  l  goappátjagá  guoddelis  luonndo  ja viesso  sáme  kultuvrra.  Ulmutjin  ja  luondon  la  guhkesájggásasj  máhtto  ietjas  ådåstuhttet  ja nannusit  vijdábut  åvdeduvvat  aj  ájgijn  stuor  rievddadusáj.  Goappátjagá  luonndo  ja kultuvrra Sámeednamin aneduvvá boanndudahkan väráldij.<em type="bold"> </em></p>
+    <p>
+      <em type="bold">Mijá gålmmå oasseulme </em>
+    </p>
+    <p>
+      <em type="italic">Luonndo                        Sáme máhttudahka           Balánseridum åvddånibme </em>
+    </p>
+    <p>
+      <em type="bold">Viesso iellembirás juohkka aktaj! </em>
+    </p>
+    <p>Guoddelis iellembirás la vuodon ulmutjij, juhtusij ja sjattoj viessomij ja åvdedibmáj. Ednama ja tjátje ávkkim galggá aktan luondo vaddemijn ja mijá válldemijn, bissot váni luondo dåssjidime dagi. Ávkkim ij galga val ekonomak ássjen årrot. Mij rahtjap balánssaj ja guoddelis ávkkimij. Buktaga ja buvtasháme ma Sámeednamav bårri galggi binnot.</p>
+    <p>Luonndo- ja birássuodje hähttu allagit vuoroduvvat gájkka sebrudaksulladimijn ja diehttelis oassen sjaddat juohkka ednam- ja luonndoadnemij. Gájkka dåjma ma ilmev, ednamav ja tjátjev sielggiji hähttuji hiejteduvvat.</p>
+    <p><em type="bold">Árbbedábak sáme máhttudahka</em> </p>
+    <p>Árbbedábak sáme máhttudahka</p>
+    <p>Mij lip nanosvuohtaássjedåbdde. Nanosvuohta l agev vuodon årrum mijá bissomij, ja mijá sebrudahka máhtij vijdábut dan diehti åvdeduvvat. Ájnas la máhttudagáv åhtsåt danna gånnå máhttudagáv gávnná, buojkulvissan sáme aktisasj máhttudagán gåk válldemav báret ja ednamijt tjuottjot. Mij dárbahip dav máhttudagáv várrit gå guhkesájggásasj nanos sebrudagáv dahkap. Åtsådibme mijá árbbedábe máhttudagá birra midjij máhttelisvuodav vaddá ådå histårjjåárvustallamijt dahkat, dálátjav guoradit ja boahtteájgev hábbmit.</p>
+    <p>Danen galggap mijá iehtjama åtsådimmáhttudagáv bajedit, tjoavddusijt mijá kultuvran åhtsåt ja vijdábut åvdedit mav álmmugin uddni adnep. Vuostak galggap mujttet ja anodit mijá máhttudagáv. Galggap máhttudagáv åtsådit ållesvuojnujn mij mijá kultuvran ja filosofidjan la viesso. Nanosvuohtabielen li sosiálak vidjura, histårjjå, kultuvrra ja rievtesvuoda. Nanosvuohta galggá aktijdimtemán sáme åtsådallamij sáme kultuvra birra.</p>
+    <p>Mijá åtsådallamin galggap aj máhttudagá materiálak, sosiálak ja mentálak stuorrudagáv gehtjadit. Dakkár åtsådallam hähttu bájke låbdån årrot dajna gå árbbedábak máhttudahka l bájkkáj tjanádum.</p>
+    <p xml:lang="sms">12</p>
+    <p>
+      <em type="bold">Balánseridum åvdedibme</em>
+      <em type="bold">  </em>
+    </p>
+    <p><em type="bold">Máhttudagá ådå ja árbbedábak aktijdahttem </em>Mijá ulmme l mijá iehtjama kultuvra birra åtsådit ja gåk nanos viessomvuohkáj ja alla viessomkvalitähttaj åledip viessoma álkkedime baktu ienni gå gålojt lasedit. Válldep goappátjagá ådå ja árbbedábe máhttudagáv duohtan ja galggap ávkkit buoremus diedojt åvdedime diehti.  </p>
+    <p>Nanos åvdedime vuodon la ávkkás balánssa árbbedábak ja ådå máhttudagá gaskan. Jus smidás teknijkka addnu mijá árvudallamij de ij viessombirrasav biejste jalik mijá varresvuodav– nåv gåk álu uddni.</p>
+    <p>Balánseridum åvdedibme</p>
+    <p xml:lang="sms">13</p>
+    <p>
+      <em type="bold">Gänna l åvdåsvásstádus masi? </em>
+    </p>
+    <p>
+      <em type="italic">Juohkka lávkke l ájnas oasse vijdábut bessat ja ulmijda ållet. Mijá buorremannam la juohkka ulmutja duogen. </em>
+    </p>
+    <p>
+      <em type="bold">Sámedikke åvdåsvásstádus  </em>
+    </p>
+    <p>
+      <em type="bold">Oasseulmme Luonndo:  </em>
+    </p>
+    <p>
+      <em type="italic">Sámedigge ájggu hássat hähttu-nävojt ja merkajt ma dájt prinsijpajt tjuovvu: </em>
+    </p>
+    <p type="listitem"> slájaj viessombirás ja ekosystebma</p>
+    <p>
+      <em type="bold">Máhttudahka: </em>
+    </p>
+    <p>
+      <em type="italic">Sámedigge galggá arvusmahttet ja giehpedit åtsådimev, diehtotjoaggemav ja ådåsisbajedimev árbbedábak máhttudagás vuostatjin dájn suorgijn: </em>
+    </p>
+    <p type="listitem"> <em type="bold">Biebbmo:</em> biebbmoábnnasa, gárvvim ja </p>
+    <p xml:lang="smn">vuorkkim</p>
+    <p type="listitem"> <em type="bold">Varresvuohta:</em> sáme dálkasdiedo ja </p>
+    <p>varresvuohtabagádime ja</p>
+    <p>máhttudahka biktasij ja ábnnasij birra dálkkebierggima diehti</p>
+    <p type="listitem"> <em type="bold">Bidtjim:</em> bájke bidtjimrusta ja </p>
+    <p>suoddjiduvvá</p>
+    <p type="listitem"> gájkka dåjma li</p>
+    <p>várrogisvuohtaprinsijpa milta</p>
+    <p type="listitem"> luonndoávkkim galggá</p>
+    <p>dálkádakhiebadum arkitektuvrra,</p>
+    <p>bittjiga (dálkádaksmidás sadje ja nåv vil), bidtjimájggoma</p>
+    <p type="listitem"> <em type="bold">Äládusá:</em> sáme máhttudagá sierralágásj </p>
+    <p>guhkesájggásasj nanos vuoge milta</p>
+    <p type="listitem"> llmmeduolvvima sáme dåjmajs binnu</p>
+    <p type="listitem"> tjátjij, jiekkij, jávrij ja tjátjádagáj</p>
+    <p>äládusájn buojkulvissan boatsojsujtto,</p>
+    <p>bivddo, duodje, hábbmim, smávednambarggo</p>
+    <p type="listitem"> <em type="bold">Giella</em>: giella gåvvi mijá aktavuodav </p>
+    <p>duolvvim binnu</p>
+    <p type="listitem"> vahágis ábnnasij adnem hiejteduvvá</p>
+    <p>ruvva máhttelis</p>
+    <p type="listitem"> luonndo rájnnasin aneduvvá bahás</p>
+    <p>luonnduj ja viessomij ja danen la ájnas suoddjit birásvuojno guovlos aj.</p>
+    <p>Sámedigge ietjas giellaprográmmaj vuoset</p>
+    <p type="listitem"> <em type="bold">Oahppam</em>: sáme máhttudahka </p>
+    <p>gádodik bátsidisájs, ja ábnnasijs ma biologak moattevuodav ja ulmutjij</p>
+    <p>varresvuodav ájtti</p>
+    <p type="listitem"> Gärddádimájádusáv anet (binnedibme,</p>
+    <p>ådåsisadnem, ådåsisdahkam):</p>
+    <p type="listitem" xml:lang="isl"> oasestibme unnu</p>
+    <p type="listitem"> ålles ådåsisadnem árvuk ábnnasijs</p>
+    <p>oahppamis birásaktavuodan, degu gåk</p>
+    <p>åvdebut åhpajma luonnduj jáhkket ja nubbe nubbáj, gåk mij åhpajma ájnas</p>
+    <p>máhttudagájt ja luonndodádjadimev ja ålobujt</p>
+    <p type="listitem"> <em type="bold">Aktavuoda</em>: sáme máhttudagá degu </p>
+    <p>(ma ienemusát li bátsidisá,</p>
+    <p>buojkulvissan: muora, kompoassta, biogássa)</p>
+    <p type="listitem"> ådåsisdahkam gájkas majt ij máhte</p>
+    <p>ådåsisadnet (gånnå máhttelis la)</p>
+    <p>dal viessomvuoge birra luondo hárráj</p>
+    <p>(aktavuohta ja aktisasjbarggo juhtusij</p>
+    <p>ja luondujn (dálkke, dálkádahka, jahkeájge, luohko)); Aktisasjvuohta</p>
+    <p>ulmutjij gaskan (sebrudakhábme, sijddavidnudakhábme boatsojsujton ja</p>
+    <p>nåv vil); aktavuohta jahkeájgij – rytma luonndoávkkimin jahkeájgij hárráj</p>
+    <p type="listitem"> <em type="bold">Tjuottjudus:</em> vuoge </p>
+    <p>luonndoluohkkotjuottjudusá birra</p>
+    <p>
+      <em type="bold">Åvdedibme: </em>
+    </p>
+    <p><em type="bold">Enersjiddja ja doalvvom:</em> <em type="italic">Sámedigge galggá </em></p>
+    <p>
+      <em type="italic">viehkken giehpedit fábmogiesse viessomvuogev ja fábmogiesse äládusájt unnedit ja </em>
+    </p>
+    <p type="listitem"> rávkkat buojkulvissan várrogis</p>
+    <p>motåvrråvuojánadnemav; birásbuorep båldudagájt ja nåv vil</p>
+    <p type="listitem"> doarjjot álgadimijt ma ulmutja ja</p>
+    <p>dálásj åtsådime birra degu dal vijdep boatsojsujto åvdedimev (gárvvim dálkádakrievddadimijda, birásbuorep alternatijva boatsojbargon, åvdedibme hiebadum<em type="bold"> </em>tjuottjudushámijs) </p>
+    <p>luondo rasjesvuodav Sámeednamin binnedi; buojkulvissan biejadimev ja</p>
+    <p>adnemav unnep ådåstuhttem enersjiddjagáldojs</p>
+    <p type="listitem" xml:lang="sme"> duohtan dahkat elfábmoávkkima</p>
+    <p>unnedimev Sámedikke kontåvråjn</p>
+    <p type="listitem"> gehtjadit Sámedikke barggij</p>
+    <p>mannamdábijt (degu mannamvuogijt, hotellajt)</p>
+    <p type="listitem"> biedjat standárdijt ábnasoasestime</p>
+    <p>hárráj Sámedikke kontåvråjda (degu</p>
+    <p>KRAV ja rievtesvuohtamierkkidum</p>
+    <p>biebbmo, FSC sertifieridum muorrabuktaga, birásmierkkidum</p>
+    <p>páhperbuktaga ja nåv vil)</p>
+    <p><em type="bold">Biebbmo:</em> <em type="italic">Sámedigge galggá arvusmahttet ja</em><em type="bold"> </em></p>
+    <p type="listitem"> åvddånahttet sáme</p>
+    <p><em type="bold">Varresvuohta:</em> <em type="italic">Sámedigge galggá huksat ja doarjjot</em> buorep barggobirrasav mijá ålgoldis ja sisŋep varresvuohtaj.<em type="bold">  </em></p>
+    <p><em type="bold">Oahppam:</em> <em type="italic">Sámedigge galggá barggat</em> vaj oahppamplána ja skåvllåplána gehtjasti mijá árbbedábak máhttudahkaj ja Sámedikke birásvuojnnuj. </p>
+    <p><em type="bold">Buohtaárvvo:</em> <em type="italic">Sámedigge galggá oassálasste</em>t </p>
+    <p>dasi vaj gájkka sáme giehtaduvvi buohtaárvujn váni álldarij, bargguj,</p>
+    <p>årromsadjáj jali sjärvváj gähttjamis.</p>
+    <p>Sámedigge dan nali vuoset ietjas buohtaárvvoprográmmaj.</p>
+    <p><em type="bold">Tjuottjudus:</em> <em type="italic">Sámedigge galggá diedojt </em></p>
+    <p><em type="italic">lånudit</em> ietjá álggoálmmugij luonndoluohkkotjuottjudusá vuogij hárráj. </p>
+    <p>biebbmogárvvimåvdedimev, vijdepgárvvimav (goappátjagá</p>
+    <p>kvantitäjtta ja moattevuohta)</p>
+    <p type="listitem"> lasedit ávkkimav jahkeájggehiebadum</p>
+    <p>ja luonduk biebmos (degu slow food)</p>
+    <p type="listitem"> vuosteldit genetak rievddadum</p>
+    <p>oassásijt</p>
+    <p type="listitem"> oasstet biebmojt majt ep Sámeednamin</p>
+    <p>máhte gávnnat ja ma galggi ekologagit</p>
+    <p>dagádum ja rievtesvuohtamierkkidum årrot</p>
+    <p><em type="bold">Äládusá:</em> <em type="italic">Sámedigge galggá åvddånahttet ja arvusmahttet vijdep åvdedimev </em> vidnudagájs </p>
+    <p type="listitem"> sáme åtsådimes ja oassálasstemis</p>
+    <p>
+      <em type="bold">Duv åvdåsvásstádus </em>
+    </p>
+    <p type="listitem"> huksat vaj oasstobiebmo ma e</p>
+    <p>
+      <em type="bold">Oasseulmme Luonndo:  </em>
+    </p>
+    <p>
+      <em type="italic">Sámedigge duv gåhttju  </em>
+    </p>
+    <p type="listitem"> várrogisát luonndoluohkojt ávkkit</p>
+    <p type="listitem"> suoddjit gájklágásj slájaj</p>
+    <p>Sámeednamin gávnnu li ekologagit</p>
+    <p>dagádum ja rievtesvuohtamierkkidum</p>
+    <p>viessombirrasijt ja ekosystemav</p>
+    <p type="listitem"> garvvet tjátjij, jiekkij, jávrij ja tjátjádagáj</p>
+    <p>duolvvimav</p>
+    <p type="listitem"> binnedit ilmmeduolvvadimijt</p>
+    <p type="listitem"> ávkkit motåvrråvuojánijt vuogijn mij</p>
+    <p>
+      <em type="bold">Enersjiddja ja doalvvom </em>
+      <em type="italic">Sámedigge duv gåhttju oassálasstet mijá </em>
+    </p>
+    <p>
+      <em type="italic">rahtjamijda rasjesvuodav Sámeednamin </em>
+    </p>
+    <p>ednamij dåssjidimev binnet</p>
+    <p type="listitem"> luondov rájnnasin adnet bátsidisájs ma</p>
+    <p>e dåssjåna</p>
+    <p type="listitem"> adnet ábnnasijt ma e biologak</p>
+    <p><em type="italic">binnedittjat, ja enersjiddjadárbov ietjat viessomin unnedittjat.</em> <em type="italic">Oassálasstet máhtá gå   </em></p>
+    <p type="listitem"> motåvrråvuojánijt binnebut aná</p>
+    <p type="listitem"> ratjá birásbuorep båldudagáv adnet</p>
+    <p type="listitem"> elfábmoadnemav ietjat vieson ja</p>
+    <p>moattevuodav jali ulmutjij varrresvuodav ájte</p>
+    <p>dåjman unneda</p>
+    <p type="listitem"> guorada ietjat mannamdábijt (degu</p>
+    <p>
+      <em type="bold">Oasseulmme Sáme Máhttudahka: </em>
+    </p>
+    <p>
+      <em type="italic">Sámedigge duv arvusmahttá </em>
+    </p>
+    <p type="listitem"> guoradit ietjat viessomav ja</p>
+    <p>mannamvuojánijt, hotellajt)</p>
+    <p type="listitem"> alla rávkalvisájt aná gå oasesta,</p>
+    <p>buojkulvissan máhtá válljit</p>
+    <p>o bájke biebmov gå gávnnu</p>
+    <p>árggadábijt, ja adnet árvuk sáme</p>
+    <p>máhttudagáv gájkka låbdåjn</p>
+    <p type="listitem"> oassálasstet åtsådimprosjevtajda sáme</p>
+    <p>o KRAV- ja rievtesvuohtamierkkim</p>
+    <p>biebmov</p>
+    <p>máhttudagá birra</p>
+    <p type="listitem"> åhpadit sáme máhttudagáv ietjat</p>
+    <p>mánájda ja mánájmánájda (boahtte</p>
+    <p>buolvajda)</p>
+    <p xml:lang="fin">o FSC-sertifieridum muorraábnnasijt</p>
+    <p>o birásmierkkim páhperbuktagijt</p>
+    <p>o birásmierkkim häjmmabuktagijt ja</p>
+    <p xml:lang="dan">nåv vil</p>
+    <p type="listitem"> elfámov nanos enersjiddjagáldojs</p>
+    <p>
+      <em type="bold">Oasseulmme Balánseridum Åvdedibme: </em>
+    </p>
+    <p><em type="bold">Biebbmo:</em> <em type="italic">Sámedigge duv gåhttju</em> </p>
+    <p type="listitem"> ietjat biebbmodábijt gehtjadit ja sáme</p>
+    <p>adnet jus dujna válljimmáhttelisvuoda</p>
+    <p>li</p>
+    <p type="listitem"> guoradit ietjat viessomdábijt mijá sáme</p>
+    <p>viessombirásprográmma milta</p>
+    <p>árbbedábe bårråmábnnasijt ávkkit</p>
+    <p type="listitem"> bårråt nåv edna jahkeájggehiebadum</p>
+    <p>luonduk biebmov gåk máhttelis</p>
+    <p type="listitem"> vuornnot genehtak rievddam</p>
+    <p><em type="bold">Äládusá:</em> <em type="italic">Sámedigge duv sihtá miellodit</em> </p>
+    <p><em type="italic">oassálastatjit nanos vijdepåvdedibmáj sáme äládusájn gå</em> </p>
+    <p type="listitem"> ietjat dåjman barga nanos ja várrogis</p>
+    <p>buktagijda</p>
+    <p>vuogijn</p>
+    <p type="listitem"> oassálastá sáme åtsådibmáj muhtem</p>
+    <p>äládusáj birra, buojkulvissan ällosujto,</p>
+    <p>joarkkagárvvim buktagij, ja nåv vil</p>
+    <p type="listitem"> dujna l gärddádimájádus mejt ájn</p>
+    <p>dagá, buojkulvissan.</p>
+    <p>o unnedit ietjat oasestimev o rahtjat ållesláhkáj ådåsisadnet</p>
+    <p>árvuk substánsajt ma álu bátsidissan gåhtjoduvvi,</p>
+    <p>buojkulvissan: muora, kompåsta, ja</p>
+    <p>ienebu</p>
+    <p>o ådåsisdahkat gájkka majt ij máhte</p>
+    <p>ådåsisadnet (jus máhttelis) <em type="bold">Varresvuohta: </em><em type="italic">Sámedigge duv</em> <em type="italic">hásstá oassálastátjit </em>ussjolmisáj ja álgadimij vaj mijá fysijkak ja psykososiálak barggobirás la varresvuohtaj nåv buorre gåk máhttelis  </p>
+    <p><em type="bold">Buohtaárvvo:</em> <em type="italic">Sámedigge duv gåhttju oassálasstet vaj gájkka sáme giehtaduvvi buohtaárvugit váni álldarav, bargov, årromsajev jali sjiervev gähttjamis. Sámedigge ietjas buohtaárvvoprográmmaj vuoset. </em></p>
+    <p>
+      <em type="bold">Gájkaj åvdåsvásstádus </em>
+    </p>
+    <p>
+      <em type="italic">Muhtem ulmijt ij máhte ållet ietján gå várrogis dago ja aktisasjbargo tjadá gájkka oassálasstijs Sámeednamin, buojkulvissan vierttiji Svieriga ráddidus, fábmudagá, vidnudagá ja iehtjáda, aktanbarggat ja åvdåsvásstádusáv válldet nanos åvdedimes. Sámedikke vuorodime li dá: </em>
+    </p>
+    <p>
+      <em type="bold">Oasseulmme Luonndo: </em>
+    </p>
+    <p>
+      <em type="bold">Vuobme: </em>
+      <em type="italic">Sámedigge ájnnasin adná </em>
+    </p>
+    <p type="listitem"> vuovde ja vuome alla biologak árvoj</p>
+    <p type="listitem"> åvdeldime mijá äládusájda nanniduvvi</p>
+    <p>ja suoddjiduvvi</p>
+    <p>lágas suoddjiduvvi (vuome hábme, biologak moattevuohta, visstesaje ja aktijdibme ietjá ájnas guohtomednamij galggi suoddjiduvvat)</p>
+    <p type="listitem"> vuobmebarggoåvdeldime ma li</p>
+    <p xml:lang="sme">juorrulahte ja vahágin luonndobirrasij unneduvvi</p>
+    <p type="listitem"> sáme kultuvrrabirásárvo árvvon</p>
+    <p><em type="bold">     : </em><em type="italic">Sámedigge oalle ájnnasin adná</em> ájmmo l rájnas vaj ulmutjij, juhtusij ja sjattoj varresvuohta ij vahágahteduvá </p>
+    <p><em type="bold">Tjáhtje</em>: <em type="italic">Sámedigge tjervas ájnnasin adná </em></p>
+    <p type="listitem"> tjátjádagá e vil ienebut rievddaduvá</p>
+    <p type="listitem"> guole gådosaje ja luonduk</p>
+    <p>aneduvvi</p>
+    <p type="listitem"> sáme dålusj ájge ávkkim<em type="bold"> </em>ja </p>
+    <p>vuodjamgäjno suoddjiduvvi</p>
+    <p type="listitem"> tjátjijs, jiekkijs, jávrijs ja tjátjádagájs</p>
+    <p>árbbedáhperiektá árvvon aneduvvá</p>
+    <p>duolvvimav garvvet</p>
+    <p type="listitem"> vuodotjáhtje duohta ja nanos</p>
+    <p><em type="bold">Duottar/Várre:</em> <em type="italic">Sámedigge ájnnasin adná </em></p>
+    <p type="listitem"> sierraláhkáj árvuk bájke mijá</p>
+    <p>juhkamtjátjev anot</p>
+    <p>kultuvrraj ja äládusá suoddjiduvvi</p>
+    <p xml:lang="smn">nággimijs ja ietjá ráfeduhttemijs<em type="bold"> </em>(CBD, Akwé Kon njuolgadusá) </p>
+    <p><em type="bold">Ålles ednama</em>:  <em type="italic">Luondo biejsstem la biologak moattevuoda suoddjidime vuosstij. Ednamdimensjåvnnå ja danen ållesvuohtavuojnno, vaj ednama vierttiji aktantjanádum, vaj juhtusa ja sjatto máhtti labudit ja guhkes ájggáj luondon viessot, la </em></p>
+    <p>
+      <em type="italic">sierraláhkáj ájnas. Oalle ájnas vaj giedjega ja miehttseielle galggi máhttet viessot dáj udnásj háhppelis stuor dálkádakrievddamij guoran. Sámedigge danen tjervas ájnnasin adná  </em>
+    </p>
+    <p type="listitem"> árbbedáhperiektá mijá äládusájda</p>
+    <p>árvvon aneduvvi</p>
+    <p type="listitem"> várrogis ja nanos ávkkim duohtan</p>
+    <p>
+      <em type="bold">Oasseulmme Sáme Máhttudahka: </em>
+    </p>
+    <p>sjaddá</p>
+    <p type="listitem"> ienep stuor dåssjidime nåhki</p>
+    <p type="listitem"> aktisasj ednamij sieradibme ja ådå</p>
+    <p>Sámedigge tjervas ájnnasin adná:</p>
+    <p type="listitem"> Miján la ájnas sadje</p>
+    <p>infrastruktuvrra dåhkkiduvvá ber gå ij</p>
+    <p>åvvå gåktuk ietjá maná</p>
+    <p type="listitem"> aktisasj jåhtemgäjnoj boatsojäládusá</p>
+    <p>dálkádak- ja birásvihtanin rijkajgasskasasj ja rijkak</p>
+    <p type="listitem">  låbdån.</p>
+    <p type="listitem"> Sáme árbbedábak</p>
+    <p>dárbbuj árvvon aneduvvi</p>
+    <p>máhttudagáv árvustallat luonndo-</p>
+    <p>ja ednamåtsådallama buohta.</p>
+    <p type="listitem"> Mij aneduvvap</p>
+    <p>
+      <em type="bold">Moattevuohta: </em>
+      <em type="italic">Sámedigge ájnnasin adná</em>
+      <em type="bold"> </em>
+    </p>
+    <p type="listitem"> biologak moattevuohta ednamin ja</p>
+    <p>ekosysteman suoddjiduvvá;</p>
+    <p type="listitem"> slájaj viessombirrasa ja ekosystema ja</p>
+    <p>buohtaárvugin rádijn ednamávkkima/dåssjidime bále</p>
+    <p>Sámeednamin.</p>
+    <p type="listitem"> Bivddo- ja guollesujttobájkijt</p>
+    <p>daj dåjma ja prosessa suoddjiduvvi</p>
+    <p type="listitem"> gájkka luonndoluohkojt ávkkit</p>
+    <p>labudiddje asstoájggeviessomij</p>
+    <p>galggá hábbmit sámij álgadime milta majt sáme ietja tjuottjodi</p>
+    <p>guhkesájggásasj nanos vuogijn</p>
+    <p type="listitem"> urudispolitijkka boatsojsujttobájkijn</p>
+    <p>várrot biologak moattevuodav</p>
+    <p type="listitem"> smávjudosbivddo ja guollim galggá</p>
+    <p>várrogisvuohtaprinsijpa milta</p>
+    <p>
+      <em type="bold">Selgadis birás: </em>
+      <em type="italic">Sámedigge ájnnasin adná</em>
+      <em type="bold"> </em>
+    </p>
+    <p type="listitem"> várrogisvuohtaprinsijppa gullu majt</p>
+    <p>
+      <em type="bold">Oasseulmme Balánseridum Åvdedibme: </em>
+    </p>
+    <p><em type="italic">Sámedigge tjervas ájnnasin adná</em> <em type="italic">ja galggá barggat vaj:   </em></p>
+    <p type="listitem"> ájggom ja märrrádus mij midjij gullu</p>
+    <p>ájn dahkap (bátsidisbinnedibme!)</p>
+    <p type="listitem"> ruvábut vahágis ábnnasij hiejttet</p>
+    <p type="listitem"> luonndobirás rájnnasin aneduvvá</p>
+    <p>gádodik bátsidisájs ja ábnnasijs ma ájttet máhtti biologak moattevuodav ja</p>
+    <p>ulmutjij varresvuodav</p>
+    <p type="listitem"> gärddádimájádus gullu gájkka</p>
+    <p>vuolggá mijá birásvuojnos ja mijá</p>
+    <p>ednam- ja tjáhtjedárbojs. Daj rámaj</p>
+    <p>sinna la dárbbo tjuottjudushámijt nanos bájkálasj fámujn dahkat.</p>
+    <p type="listitem"> Prinsijppa<em type="italic"> ålovávkkimis </em>aktan bisso ja </p>
+    <p>dåjmajda</p>
+    <p>guhkesájggásasj ávkkimijn la</p>
+    <p>lájddijiddje gájkka ájggombálij.</p>
+    <p type="listitem"> Álkkes anedahtte sosiálak ja</p>
+    <p>o oasestimev binnedit</p>
+    <p>o ållåsit ådåsisadnet árvuk</p>
+    <p>substánsajt (ma álu bátsidissan</p>
+    <p>gåhtjoduvvi, buojkulvissan: muora, kompåsta, biogássa)  o ådåsisdahkat gájkka majt ij</p>
+    <p>máhte ådåsisadnet (jus máhttelis)</p>
+    <p>birásboadosanalysa tjáleduvvi.</p>
+    <p type="listitem" xml:lang="sms"></p>
+    <p>etijka ja birrasa hárráj álgadijn ådå</p>
+    <p>industriddjadåjmaj (råggåma ja</p>
+    <p>ienebu).<em type="bold"> </em></p>
+    <p type="listitem"> Sáme vuojnno ájnnasin sjaddá rijkak</p>
+    <p type="listitem"> barggá vaj atomafámujn jali</p>
+    <p>åvdedimságastallamijn (aktan</p>
+    <p>radioaktijvak ábnnasij hiejtti.</p>
+    <p>bieggafábmoájggomij, råggåmij ja ålobuj).</p>
+    <p type="listitem"> Bájkálasj tjuottjudus luonndoluohkojs</p>
+    <p><em type="bold">Äládusá:</em> <em type="italic">Sámedigge tjervas ájnnasin adná </em> </p>
+    <p type="listitem"> tjoahkkidum ávkkim sáme árbbedábak</p>
+    <p>(smávjudosbivddo, suoddjimpárka, turissma, ja ienebu) vuoroduvvi.</p>
+    <p type="listitem"> Buorre aktisasjbarggo rájáj badjel.</p>
+    <p type="listitem"> Gruvvadoajmma ja dåssjidibme</p>
+    <p>enersjidja diehti (tjáhtjefábmo,</p>
+    <p>bieggafábmo ja ålobu) hiebaduvvi ekologiddjaj ja sáme kultuvrraj ja</p>
+    <p>äládushábmáj.</p>
+    <p>årudagájn la ekologak systemaj buohta maj sinna äládusá li (dajna gå gierddis</p>
+    <p>boatsojsujtto, bivddo, guollim ja ednambarggo dárbaj guhkesájggásasj</p>
+    <p>luonndoávkkimav)</p>
+    <p type="listitem"> ednama ja tjátje Sámeednamin</p>
+    <p>vuostatjin gávnnuji mijá äládusáj dárbojda</p>
+    <p type="listitem"> ávkkima ja dåssjidime ednamijs ja</p>
+    <p><em type="bold">Enersjiddja ja doalvvom:</em> <em type="italic">Sámedigge tjervas </em></p>
+    <p>
+      <em type="italic">ájnnasin adná vaj viessomvuohke </em>
+    </p>
+    <p><em type="italic">allafábmodárbujn lájteduvvá, ja rávkká danen ráddidus</em> </p>
+    <p type="listitem"> dahká ålles ájggomav nanos</p>
+    <p>tjátjijs e sáme äládusájt dåssjida</p>
+    <p type="listitem"> gájkka dåjma li nannusa ja</p>
+    <p>várrogisvuohtaprinsijpa milta</p>
+    <p type="listitem"> bájkálasj buvtadimev arvusmahttet ja</p>
+    <p>gájkka suorgijn tjadádit.</p>
+    <p>enersjiddjadahkuj Sámeednamin</p>
+    <p>
+      <em type="bold">4. Ájggepládna – Dahkoprográmma 2009-2012 </em>
+    </p>
+    <p xml:lang="sms">
+      <em type="bold">2009-2011  </em>
+    </p>
+    <p>
+      <em type="italic">Sámedigge biedjá aktijdiddjev Sámedikke birásbargguj </em>
+    </p>
+    <p>
+      <em type="italic">Sámedigge vuodot gájkkásasj stivrrimjuohkusav mij galggá  </em>
+    </p>
+    <p type="listitem"> tjielggit ulmij vuorodimijt</p>
+    <p type="listitem"> tjielggit ájggerahtjalisvuodav (makkár</p>
+    <p type="listitem"> <em type="italic">Tjoahkkit diedojt ja dahkat</em><em type="bold"> </em></p>
+    <p>populerradiedak ábnnasijt sáme</p>
+    <p>viessombirásvuojno/ulme hárráj.</p>
+    <p type="listitem"> <em type="italic">Hádjet diedojt</em><em type="bold"> </em>sisi ja ålggolij radio, </p>
+    <p>oasseulmijt máhttá ållet gässta ja goassa?)</p>
+    <p type="listitem"> mierredit vuogijt ja nävojt</p>
+    <p>internehta, filmaj, media, semináraj baktu, ja ienebuj.</p>
+    <p type="listitem"> <em type="italic">Organiserit miellodahtte ja </em></p>
+    <p>buojkulvissan merkajt buorremannama diehti (kvalitatijvak ja kvantitatijvak miehttim: gåk diehtep mijás la buoragit mannam?)</p>
+    <p type="listitem"> ruoptus miehttijiddjijt ja</p>
+    <p><em type="italic">åhpadahtte ásadusájt</em><em type="bold"> </em>sierralágásj låbdåjn ja sierra </p>
+    <p>ulmmejuohkusijda.</p>
+    <p type="listitem"> <em type="italic">Värmmádagáv </em>dahkat rijkak ja </p>
+    <p>rijkajgasskasasj aktisasjbargguj.</p>
+    <p>dåbddomerkajt ulmijda tjadnat</p>
+    <p type="listitem"> giehpedit barggoárvustallamav</p>
+    <p>maŋŋela Stivrrajuogos galggá ájádallat makkár  ásadusájt tjadádit, makkár gáhpustallamijt, hiebalgis stipendajt, ja ienebujt. Stivrrajuogos ájggeplánav dahká.</p>
+    <p>
+      <em type="bold">Gájkkásasj vuoge ja lávke: </em>
+    </p>
+    <p type="listitem"> <em type="italic">Ávkkit</em><em type="bold"> </em>ássjedåbddijt sierra diedojt </p>
+    <p>
+      <em type="italic">Árvustallam ja vijdepåvdedibme:</em>
+      <em type="bold"> </em>
+    </p>
+    <p>Stivrrajuogos árvustallamav lájddi ja åtsåt jus mijás buoragit manná majna barggap.</p>
+    <p>Makkár miehttijiddje vuosedi buorre rievddadusájt majt hähttu rievddadit? Gåk</p>
+    <p>galggap vijdábut mannat?<em type="bold"> </em></p>
+    <p>jali buktagijt ábnnasijs gávnnat gå l dárbbo.</p>
+    <p>
+      <em type="bold">4.1. Ulmmejuogos 1 Sáme sebrudahka  </em>
+    </p>
+    <p>
+      <em type="bold">Ájggom </em>
+    </p>
+    <p type="listitem"> Vijdedit vuojnov ja vuosedit gåk</p>
+    <p>birásássje guoskadi gájkka mijá viessomij bielijda</p>
+    <p type="listitem"> miellodit sáme viessombirásvuojnov ja</p>
+    <p>álgadimevsáme sebrudagán</p>
+    <p type="listitem"> álgguj biedjat birásálgadimijt muhtem</p>
+    <p>låbdåjn sáme sebrudagán</p>
+    <p>
+      <em type="bold">Ulmme </em>
+    </p>
+    <p type="listitem"> Sáme sebrudahka barggá birrasa</p>
+    <p>buorráj ja gávnná ådå gäjnojt vijdábut åvdeduvvat</p>
+    <p type="listitem"> Sáme dåjma/äládusá/buktaga</p>
+    <p>vuojnnusij båhti ja dåbddusin sjaddi <span type="quote">”birásbuorebu, nannusa, smidá”</span></p>
+    <p>
+      <em type="bold">Sámedikke ánburgge </em>
+    </p>
+    <p>Diededit - miellodit - bälostit</p>
+    <p>
+      <em type="bold">Dåjma 2009 – 2010 </em>
+    </p>
+    <p><em type="italic">Háje diedojt buojkulvissan</em> diededimij Sámedikke webbabielen ja Sáme Diededimguovdátjin, ja artihkkalij avijsajn, radio ja TV<em type="italic">Álge ásadusplánimijn ja organiserimijn miellodahtte </em>ájggomijn vuodovuojnov rievddadittjat ja rájáj badjel aktan bargatjit (buojkulvissan rijkajgasskasasj konferänssa) temájn sajijdahttem (buojkulvissan Helena Norber-Hodge, Winona LaDuke, Robin Kimmerer) Konferänssa l áramusát gidán 2010. gatjádallamij baktu.  </p>
+    <p>
+      <em type="bold">Dåjma 2010 - 2012 </em>
+    </p>
+    <p><em type="italic">Tjalmmit gasskarijkasasj ásadusájt Sámeednamin</em> 2011 (buojk. Earth Day). Ájggom la vuojnedit sáme nanosvuohtadåjmav, dåbddo- ja diededimlådnomav álmmugij ietjá rijkajs gudi li álgadam sämmiláhkáj, ja álgadit miellodahtte (aktijsasj)bargov.  </p>
+    <p><em type="italic">Dahkat unnep barggojuohkusijt</em><em type="bold"> </em>tjoavddusijt gávnatjit, oajvvadusájt, ájggomijt ...  buojkulvissan biebmo hárráj, enersjidja, oahppama, åtsådime, nuorravuoda, varresvuoda, bájke tjuottjudus ja nåv. </p>
+    <p><em type="italic">Dahkat ájggeplánav</em> boahtte gålmå jáhkáj. </p>
+    <p><em type="bold">4.2. Ulmmejuogos 2 Sámedikke doajmma</em> </p>
+    <p>
+      <em type="italic">Dát ulmmejuogos sisadná Sámedikke prográmmabargov gájkka åssudagájn.  </em>
+    </p>
+    <p>
+      <em type="bold">Ájggom </em>
+    </p>
+    <p type="listitem"> Systemáhtak integrerim Sámedikke</p>
+    <p type="listitem"> Adressa/diededime gåk</p>
+    <p>máhttá ietjas birásbuorev miehttit</p>
+    <p type="listitem"> Lista diedoj birásbuorre</p>
+    <p>dåjma birásbargos ja birásájádusás</p>
+    <p type="listitem"> Miellodit sáme</p>
+    <p>viessombirásvuojnov ja álgadimev</p>
+    <p>ábnnasij, teknijkka, vádálasj ábnnasa</p>
+    <p type="listitem"> Lista adressaj ja aktavuodaj</p>
+    <p>
+      <em type="bold">Ulmme </em>
+    </p>
+    <p type="listitem"> Sámedikken la buorre</p>
+    <p>buktijda ja vidnudagájda gej vuojno li birrasij buore</p>
+    <p type="listitem"> Lista diedoj ábnnasij birra</p>
+    <p>integreridum njuolgadusdoajmma tjielgga birásmiehttijiddjij ja vuojnos birásdåbddomerkaj ålles doajmmaj</p>
+    <p type="listitem"> Sámedigge agev birásbielev</p>
+    <p>ma li birrasij buore (ja adressa) ma li hiebadum muhtem äládusdárbojda, (degu boatsojsujtto, duodje, turissma</p>
+    <p type="listitem"> Vuoge/háme várrogisát</p>
+    <p>tjuovggi aktisasjbargon iehtjádij</p>
+    <p>
+      <em type="bold">Sámedikke ánburgge </em>
+    </p>
+    <p type="listitem"> Diededit ja álgadit prosessav ietjas</p>
+    <p>ávkkit buojkulvissan vuojánijt/ båldudagájt/aktisasjvuodjemijt ja ålobujt</p>
+    <p type="listitem"> Diededibme</p>
+    <p>ruhkegiehtadallamij<em type="bold"> </em></p>
+    <p>dåjma sinna</p>
+    <p type="listitem"> Hássat njuolgadusdåjmav</p>
+    <p>miehttijiddjij ja dåbddomerkaj<em type="bold"> </em>(doajmmapládna <span type="quote" xml:lang="fkv">”hähttu”</span>nävoj </p>
+    <p type="listitem"> Rávkalvisájt adnet</p>
+    <p>aktisasjbarggijda ja ietjas barggijda</p>
+    <p type="listitem"> Dåjma</p>
+    <p>
+      <em type="bold">Dåjma 2009 - 2012 </em>
+    </p>
+    <p><em type="italic">Vuododit barggojuohkusav dåjma sinna</em> mij prosessav álgon jådet (juogos galggá gávnnut dasik njuolgadusá li dagádum ja bargge li ålles åvdåsvásstádusáv válldám  integrasjåvnå birásbielij åvdås). </p>
+    <p><em type="italic">Diedojt tjoahkkit ja diededimijt buktet:</em> Giehpedit diededimijt gávnnat ja dahkat álkkes dádjadahtte ábnnasijt sáme birásvuojno/ulme milta, buojkulvissan.: </p>
+    <p type="listitem"> Oajvvadit gåk ienebut</p>
+    <p><em type="italic">Álgadit njuolgadusbargov </em>aktan Sámedikke åssudagáj barggojuohkusijn. La tjervas ájnas gåk njuolgadusájt ja miehttijiddjijt dahká. Barggijt galggá ávkkit gå juoga sidjij guosská, sijá máhttudagá, ussjolmisá ja dåbdo li ájnnasa vaj prosässa buorre sjaddá. Gájkka njuolgadusáj vuodo galggá sáme viessombirásvuojnno ja birásulmme årrot. <em type="italic"> </em></p>
+    <p>Njuolgadusájt galggá dahkat buojkulvissan:</p>
+    <p type="listitem"> sáme åtsådibmáj árbbedábe</p>
+    <p>máhttudagá hárráj</p>
+    <p type="listitem"> biednikdoarjjagij/doarjjagij/biednikluohkkuj</p>
+    <p>ednamdáfoprográmman</p>
+    <p type="listitem"> boatsojäládussaj birásbálka milta,</p>
+    <p>birrasa buorren máhttá viessot, gåk vidnudahka máhttá fábmogabbon sjaddat</p>
+    <p>boatsojäláduslágaj, dahkat  gergasvuodav boatsojäládussaj</p>
+    <p type="listitem"> gájkka äládusájda vaj tjuovvu lága</p>
+    <p xml:lang="sme">birásrávkalvisájt stáhtas</p>
+    <p type="listitem"> doarjjagin nanos vidnudakåvdedibmáj</p>
+    <p type="listitem"> dájddagij, ednambargguj, ietjá</p>
+    <p>äládusájda</p>
+    <p>Sámedigge galggá friddjavuodav ja máhttudagáv vaddet ulmijda ållet duohta ájggeráma sinna (buojkulvissan akta vidát rávkalvisás viertti ållånit 2009, guokta vidát rávkalvisás jagen 2010 ja nåv).  Dat vaddá máhttelisvuodav biednikåhttsijda oajvvadit ietjasa åvdeldimijt aj. Árvvon adnet oajvvadisájt jus li hiebalgisá ja buore. Arvusmahttet ådå ussjolmisájt ja prosjevtajt ma ulmijt doarjju.</p>
+    <p><em type="italic">Arvusmahttet åtsådimprosjevtajt</em><em type="bold"> </em>ma gulluji dálkádakrievddadimijda ja tjuovvusijda sáme äládusáj ja sebrudagáj hárráj. Sámedigge aj galggá arvusmahttet åtsådimprosjevtajt sáme máhttudagá birra ma nanosvuohtaj gulluji. </p>
+    <p><em type="italic">Vuododit stuoda ulmmejuohkusav dåjma sinna</em> mij åvdåsvásstádusáv birásbargguj boahtteájge válldá (binnemusát akta ulmusj juohkka kontåvrrådåjman Sámedikken). </p>
+    <p>
+      <em type="bold">Dåjma 2011 - 2012 </em>
+    </p>
+    <p><em type="italic">Bargov árvustallat ja vijdábut bargov åvdedit, dahkat ájggeplánav </em>(aktan barggijplánajn) boahtte gålmå jahkáj. Barggojuogos árvustallamav lájddi ja åtsåt jus mijás buoragit bargujnam manná. Makkár miehttijiddje vuosedi positijvak rievddadimev? Mij hähttu rievddaduvvat? Gåk galggap vijdábut barggat? </p>
+    <p>
+      <em type="bold">4.3. Ulmmejuogos 3 Sámedikke tjuottjodibme  </em>
+    </p>
+    <p>
+      <em type="italic">Dán ulmmejuohkusij gulluji Sámedikke virggeaddne ja sijá árgga Sámedikken. </em>
+    </p>
+    <p>
+      <em type="bold">Ájggom </em>
+    </p>
+    <p>Systemáhtak integrerim birásdimensjåvnås Sámedikke dåjman. Guovddelin li oasseulme balánseridum åvdedibme gånnå ietjas lahkabirrasin/barggosajen snivvi.</p>
+    <p>
+      <em type="bold">Ulmme </em>
+    </p>
+    <p type="listitem"> Sámedikke bargge boanndodi</p>
+    <p type="listitem"> Gållåm: gehtjadit</p>
+    <p>buojkulvissan åvdeldimijt kontåvrån degu dal  datåvråjt, tjuovgajt, lieggasav;</p>
+    <p type="listitem"> Enersjiddja: gehtjadit makkár</p>
+    <p>enersjiddja aneduvvá, gávnnuji gu buorebu?</p>
+    <p>prosessav ietjasa ussjolmisáj</p>
+    <p type="listitem"> Sámedikke bargge doajmmi</p>
+    <p>
+      <em type="bold">Doalvvoma ja mano </em>
+    </p>
+    <p type="listitem"> Mannamdábe (binnedit manojt gå</p>
+    <p>ambassaderran ja åvddågåvvån</p>
+    <p type="listitem"> Sámedikke doajmma dåbddusin sjaddá</p>
+    <p>åvddågåvvån nanos fábmudahkaj (birássertifieridum doajmma?)</p>
+    <p>máhttá, buojkulvissan tjåhkanimaktijdime hárráj, aktanvuodjem)</p>
+    <p type="listitem" xml:lang="sme"> Doalvvomvuoge (doalvvomválljim</p>
+    <p>
+      <em type="bold">Sámedikke ánburgge </em>
+    </p>
+    <p type="listitem"> diededit, åhpadit</p>
+    <p type="listitem"> rávkkat (várrogisvuodajn)</p>
+    <p type="listitem"> hássat miehttijiddjijt,</p>
+    <p>(vádtset &gt; tåga &gt; bijlla &gt;hálediddje)</p>
+    <p type="listitem"> Hotällaválljim (svanenmierkkidum</p>
+    <p>gå máhttá ja nåv vil).</p>
+    <p><span type="quote" xml:lang="fkv">”hähttu”</span>nävojt, njuolgadusdåjmajt</p>
+    <p type="listitem"> åvddågåvvå</p>
+    <p>
+      <em type="bold">Dåjma 2009 – 2010 </em>
+    </p>
+    <p>
+      <em type="italic">Diedojt tjoahkkit, diededibme. </em>
+    </p>
+    <p><em type="italic">Aktelis dåjma</em> diedojt lasedittjat, maj baktu oarev oadtju rievddam viessomvuohkáj, buojkulvissan filmaj ja lågådallamij baktu, ja iejvvidimij barggij majda ietjá bargge oassálassti ussjolmisáj ja iesjmiedogis välggogisvuodaj. </p>
+    <p><em type="italic">Åhpadit barggijt</em><em type="bold"> - </em>Dåjmalasj oassálasstem galggá prosessa vuodo årrot. Bargge galggi viehkken huomáhit, ja viehkedit doajmmaplánav vuorodit ja åvdedit.  </p>
+    <p><em type="italic">Ássjedåbddijt </em>ávkki gå ådå máhttudagáv dárbaj teknijkak tjoavddusij hárráj. </p>
+    <p>
+      <em type="bold">Enersjiddja  </em>
+    </p>
+    <p><em type="italic">Gärddádimprinsijppa </em>Guoradit kontåvrråábnnasijt (ådåsisdagádum/svanenmierkkidum jahkeájggehiebadum buktagijt, elektronijkav, FSC-sertifieridum muorrabuktagijt); binnedit vádálasj ábnnasijt; gållåmdábijt, biebmov, (bájke, jahkeájggehiebadum, KRAV, rievtesvuohtamierkkidum); varresvuodav (ábnnasa, binnedit vádálasj ábnnasijt, doalvvom) ja ienebu. </p>
+    <p>
+      <em type="bold">Dåjma 2011 – 2012 </em>
+    </p>
+    <p><em type="italic">Árvustallat bargov ja åvdedit aktisasj ájggeplánav</em><em type="bold"> </em>boahtte gålmå jahkáj (aktan hiebadimijn, buoredimijn </p>
+    <p>
+      <em type="bold">5. Budjähtta 2009-2012 </em>
+    </p>
+    <p> <em type="bold">BUDJÄHTTA     Totalt Gájkkásasj dåjma           </em>Stivrrimjuogos      Åhpadus &amp; seminára       PR ja diededimábnnasa  200 000   600 000 Biráskonsulta/ássjedåbdde  100 000     Internähttavuosedibme 50 000       50 000 <em type="bold">Oassegålo 650 000 550 000 450 000 350 000 1 600 000 </em></p>
+    <p><em type="bold">Ulmmejuogos 1 </em>        <em type="bold">  </em></p>
+    <p>Dåhkkidibme org, tjielde ja seminára 300 000    600 000 Rijkajgasskasasj ásadusá   500 000 500 000   1 000 000 Diededimábnnasa 100 000 75 000 75 000 75 000 325 000 <em type="bold">Oassegålo: 400 000 675 000 675 000 175 000 1 925 000 </em></p>
+    <p><em type="bold">Ulmmejuogos 2 </em>          </p>
+    <p>Barggojuogos</p>
+    <p>gullu ieme barggodoajmmaj         Åhpadus 100 000       100 000</p>
+    <p xml:lang="sme">Prográmmaplána</p>
+    <p>gullu ieme barggodoajmmaj         <em type="bold">Oassegålo: 100 000    100 000 </em></p>
+    <p><em type="bold">Ulmmejuogos 3 </em>          </p>
+    <p>Barggojuogos</p>
+    <p>gullu ieme barggodoajmmaj         Åhpadus        100 000</p>
+    <p>Ietjá dåjma</p>
+    <p>gullá ieme barggodoajmmaj         <em type="bold">Oassegålo: 100 000    100 000 </em></p>
+    <p><em type="bold">Organisásjåvnnå </em>          Prosjäktalájddistiddje 555 000 666 000 680 000 700 000 2 601 000 Kontåvrråsadje 40 000 48 000 48 000 48 000 184 000 Kontåvrrårusta 25 000 10 000 10 000 10 000 55 000 Mano ja årrom 150 000 150 000 150 000 150 000 600 000 Telefåvnnå, kontåvrråábnnasa, påvsstågålo, ja ålobu 30 000 30 000 30 000 30 000 120 000 <em type="bold">Oassegålo 800 000 904 000 918 000 938 000 3 560 000 </em></p>
+    <p><em type="bold">SUMMA GÅLO </em>         </p>
+    <p><em type="bold">SISIOASSTEMA </em>          Datåvrrå, prográmma, mobijllatel, digitála gåvvår ja ålobu 50 000    80 000 <em type="bold">SUMMA SISIOASSTEMA 50 000 10 000 10 000 10 000 80 000 </em></p>
+    <p xml:lang="sma">
+      <em type="bold">PROSJÄKTAGÅLO ÅLLÅSIT 2 100 000 2 139 000 2 053 000 1 473 000 7 365 000 </em>
+    </p>
+    <p xml:lang="sma"><em type="bold">BIEDNIGAHTTEM </em>          </p>
+    <p xml:lang="sme">Åvddånahttembiednikluohkko  2 100 000 kr       2 139 000 kr    2 053 000 kr     1 473 000 kr    7 365 000 kr <em type="bold">ÅLLES BIEDNIGAHTTEM </em> 2 100 000 kr       2 139 000 kr    2 053 000 kr     1 473 000 kr    7 365 000 kr  </p>
+    <p>
+      <em type="bold">6. Gåhttjom </em>
+    </p>
+    <p>Ållestjåhkanibme mierredij gålgådismáno 2003 gåhttjot stivrav Sámedikke birásvuojnov ådåstuhttet, ja dat ådåstuhttem birásvuojnos sáme biráspolitijkak prográmmav dahkat.</p>
+    <p>
+      <em type="bold">Ållestjåhkanime bagádis </em>
+    </p>
+    <p>Ållestjåhkanimen<em type="bold"> </em>Sámedigge mierredij moarmesmáno 21.b 2008:  <em type="italic">Gåhttjot stivrav biráspolitijkak prográmmav dahkat, bievddegirjje nr 2003: 3, § 52.4, ja vaddet</em> <em type="italic">ållestjåhkanibmáj mierredittjat maŋemusát guovvamánon 2009.</em> </p>
+    <p><em type="bold">Tjadádibme </em>Prosässa tjadáduváj tjuovvo háme milta: </p>
+    <p type="listitem">-  Juogos vidájn ulmutjijn lij sáhkaráddnan ja referänssajuohkusin</p>
+    <p type="listitem">-  Prográmmatjálle prosjäktavirgijn bargaj ragátmános 2008 guovvamánnuj 2009.</p>
+    <p><em type="bold">7. Åvdep sáme birásbarggo</em> </p>
+    <p>Sáme rijkkaorganisásjåvnå álggin organiseridum sáme birásbargujn barggat. Álgos gähttjin ienemusát luonndobirrasij ja ekologak åvdeldimijda suoddjitjit sáme äládusájt. Maŋŋela li sáme organisásjåvnå ájn ienebut bargojt birrasa hárráj álgadam. Nuorttarijka Sámekonferensan Åren 1986 dåhkkiduváj birásprográmma suoddjitjit ja åvddånahtátjit birrasav Sámeednamin. Svieriga Sámedigge vuosedij 1995 ietjas <span type="quote" xml:lang="nob">"Redovisning av Sametingets miljösyn"</span>. 1995 Svieriga Sáme Rijkkalihtto dagáj birásdahkoprográmmav: <span type="quote" xml:lang="sms">"Samiskt Vägval"</span> giehpedittjat tjieldij sisŋep bargov birás- ja demokratiddjaássjijn. Valla SSR ittjij ienebuv dajna barga.</p>
+    <p>Sáme birásbarggo jådeduvvá álkke diehti aj moatten hámen gånnå li ságastallama politijkkárij ja ietjá ednamávkkij åvdåstiddjij gaskan. SSR oassálasstám la dagádijn svieriga FSC standárdav gierddis miehttsebargguj ja álgo rájes årrum stivran svieriga FSCan. Sámedigge ja Sámeráde libá ájn vil doajmmam gasskarijkasasj prosessan muhtem åsij girjes Konventionen om Biologisk Mångfald mav li tjadádam, buojkulvissan artihkal 8j mij la álggoálmmugij oassálasstema birra luonndoluohkkotjuottjudusán, árbbedábak máhttudagá birra ja ålobuj. Maŋemus 15 jage li ienemus tjielde</p>
+    <p>tjadádam ietjasa birásbargojt. Buojkulvissan li vihtta tjielde Jämtlándan aktan väráltluonndofondajn barggam ja tjadádam Agenda 21 prográmmav (1996). Idre ja Mittådalena tjielde barggam libá ISO (14001) sertifierimijn ja tjadádam dåjmalasj birásbargov dalloj. Älla sij ållim sertifierimav dajna gå ilá stuor vuorrádisvuodajt duosstun gå galggin boatsojäládusájn aktijdit. Nåv gåhtjodum Jämtlándavuoge (Tåssåsenhábme) ulmme l gierddis smávjudosbivddohámev dahkat gånnå bivddo aktan boahttsuj ja ietjá juhtusij várijn hiehpá. Moadda priváhtta sáme vidnudagá li ietjasa sertifierim <em type="italic">Naturens Bästa</em> dåbddomerkaj milta (buojkulvissan Ajvin Site, Vägvisaren, Nutti Sami Siida AB, ja nåv vil). Dan nali boahtá vil smidás barggo Laponian - bájkke mij sjattaj UNESCO väráltluonndo- ja kultuvrraárbbe 1996. UNESCO nammadibme dagáj sierra åvdeldimijt<em type="bold"> </em>tjieldij birásbargguj. Aktse tjielde li bargov dåjmalattjat jådedam prosessa álgos 1999. </p>
+    <p>2002 birásgiehtagirjje Sámedikke doajmmaj dagáduváj. Gájkka svieriga fábmudagá li velgulattja dakkár teknijkak dokumentav hássat mij duohtan dahká buorre birásdåjmav birásbálka milta.</p>
+    <p xml:lang="nob">
+      <em type="bold">8. Referensa </em>
+    </p>
+    <p xml:lang="eng">Adams, W.M. &amp; Jeanrenaud, S.J. (2008) <em type="italic">Transition to Sustainability: Towards a Humane and Diverse World</em><em type="bold">. </em>Future of Sustainability Initiative - International Union for Conservation and Nature. </p>
+    <p xml:lang="eng">Allard, Christina (2006) <em type="italic">Two Sides of the Coin: Rights and Duties.</em> Doctoral Thesis, Luleå University of Technology. </p>
+    <p xml:lang="eng">Arctic Council (2004) <em type="italic">Arctic Climate Impact Assessment</em><em type="bold"> Policy Document.</em> Issued by the fourth Arctic Council Ministerial Meeting, Reykjavik. </p>
+    <p xml:lang="eng">Arctic Council (2006) <em type="italic">Sustainable Working Group Work Plan. 2006-2008</em> </p>
+    <p xml:lang="nob">Balto, Asta. (1997) <em type="italic">Samisk baerneoppdragelse i endring.</em> Ad Notam Gylnedal AS, Oslo. </p>
+    <p xml:lang="eng">Bohm, David (1992). <em type="italic">Thought as a System.</em> London: Rutledge.  </p>
+    <p xml:lang="eng">Chamberlin, J. Edward (2003) <em type="italic">If this is your land, where are your stories? Finding common ground.</em> Knopf Canada. </p>
+    <p xml:lang="eng">Commission of the European Communities (2008) <em type="italic">The European Union and the Arctic Region.</em> Communication from the Commission to the European Parliament and the Council. COM (2008) 763 final </p>
+    <p xml:lang="eng">Convention on Biological Diversity (2004) <em type="italic">Akwe: Kon Guidelines.</em> Secretariat of the Convention on Biological Diversity.  </p>
+    <p xml:lang="swe">Danell, Öje (2005) <em type="italic">Renskötselns robusthet – behov av nytt synsätt för att tydliggöra rennäringens förutsättningar och hållbarhet i dess socioekologiska sammanhang</em>. Ragnifer Report No. 10 (2005): 39-49. </p>
+    <p xml:lang="eng">De Chavez, Raymond &amp; Tauli-Corpuz, Victoria (2008) <em type="italic">Guide on climate change &amp; indigenous peoples.</em> TebTebba Foundation: Indigenous Peoples’ International Center for Policy Research &amp; Education. </p>
+    <p xml:lang="nno">Department of Conservation/Te Papa Atawhai (updateras fortlöpande)<em type="italic"> Te Pukenga Atawhai. Te Kete a Te Rito.</em> Kursmaterial om Maori kultur för naturvårdsverkets anställda i Nya Zealand.  </p>
+    <p xml:lang="eng">Fabricius, C., C. Folke, G. Cundill, &amp; L. Schultz (2007)<em type="italic"> Powerless spectators, coping actors, and adaptive co-managers: a synthesis of the role of communities in ecosystem management. </em>Ecology and Society <em type="bold">12</em>(1): 29.  </p>
+    <p xml:lang="nob">Holthaus, Gary (2008) <em type="italic">Learning Native Wisdom</em><em type="bold">.</em> The University Press of Kentucky. </p>
+    <p xml:lang="eng">Hopkins, Rob (2008) <em type="italic">The Transition Handbook – from oil dependency to local resilience</em><em type="bold">.</em> Green Books. </p>
+    <p xml:lang="eng">Humayun Kabir, Dewan Muhammad &amp; Hossain, Jakir (2008) <em type="italic">Resuscitating the Sundarbans:  Customary Use of Biodiversity &amp; Traditional Cultural Practices in Bangladesh. </em>Forest Peoples Programme Publication, UK. </p>
+    <p xml:lang="swe">Formas (2006) <em type="italic">Hållbar rennäring och övrig samerelaterad forskning</em>. Rapport 3:2006. </p>
+    <p xml:lang="sma">Idre Sam<em type="italic">eby www.idresameby.se </em></p>
+    <p xml:lang="eng">IPCC (2007) <em type="italic">Climate Change - An Assessment of the Intergovernmental Panel on Climate Change. </em>Valencia, Spain </p>
+    <p xml:lang="eng">Kawhru, Merata (ed) (2002) <em type="italic">Whenua. Managing our resources.</em> Reed Books, Auckland. </p>
+    <p xml:lang="eng">Kimmerer, Robin (2008) <em type="italic">The Rights of the Land. The Onondaga Nation of Central New York proposes a radical new vision of property rights</em>. Orion Magazine (issue Nov/Dec 2008). </p>
+    <p xml:lang="swe">Kuoljok, Kerstin Eidlitz (1999)  <em type="italic">Moder Jord och andra mödrar – föreställningar om verkligheten bland folken i norr och var syn på den.</em> Carlssons </p>
+    <p xml:lang="swe">Kuhmunen, Gudrun &amp; Sarri, Carina (2008) <em type="italic">Kan samisk traditionell kunskap överföras till en ny tid i den samiska förskolan, och i så fall hur?</em> Luleå Tekniska Universitet. </p>
+    <p>Lindahl, Karin (Red.) (1999) <em type="italic">Mijá Ednam - Samebyarnas Laponiaprogram. </em>Jokkmokk. </p>
+    <p xml:lang="eng">Lohman, Larry (Red.) (2006) <em type="italic">A Critical Conversation on Climate Change, Privatization and Power. </em>Dag Hammarskjöld Foundation.  </p>
+    <p xml:lang="eng">Lohman, Larry (2008) <em type="italic">Interview on climate change</em>. RePublic Magazine. </p>
+    <p xml:lang="nob">Lopez, Barry (2007) <em type="italic">Faithkeeper, interview with Oren Lyons</em><em type="bold">.</em> Orion Magazine (Jan/Feb 2007). </p>
+    <p xml:lang="nob">Martin, Gary J. (2008) <em type="italic">Restoring Resilience</em><em type="bold">.</em> Resurgence Magazine (Sept/Oct 2008). </p>
+    <p xml:lang="eng">Meadows, Donella et al. (2004) <em type="italic">Limits to Growth – The 30 Year Update</em><em type="bold">.</em> Chelsey Green Publishing Company. </p>
+    <p xml:lang="swe">Miljödepartementet (2007)<em type="bold"> Sverige inför klimatförändringarna - hot och möjligheter.</em><em type="italic"> </em>Klimat- och sårbarhetsutredningen. SOU 2007:60  </p>
+    <p xml:lang="eng">Millenium Ecosystem Assessment (2005) <em type="italic">Ecosystems and Human Well-Being. Synthesis</em>. Island Press, Washington DC.  </p>
+    <p xml:lang="swe">Naess, Arne (1981) <em type="italic">Ekologi, samhälle och livsstil</em><em type="bold">.</em> LTs förlag, Stockholm. </p>
+    <p xml:lang="eng">Nilsson, Christina &amp; Nuttall, Mark (Editors) (2008) <em type="italic">Climate Change and Indigenous Peoples. </em>Indigenous Affairs 1-2/08 (International Working Group on Indigenous Affairs). </p>
+    <p xml:lang="nno">Norske Samers Riksförbund (2008) <em type="italic">Miljöpolitiskt Program.</em><em type="bold"> </em></p>
+    <p xml:lang="nob">Norberg-Hodge, Helena (1992) <em type="italic">Ancient Futures: Learning from Ladakh. </em>Sierra Club Books. </p>
+    <p xml:lang="eng">Norberg-Hodge, Helena (2000) <em type="italic">Shifting Direction - From Global Dependence to Local  </em></p>
+    <p xml:lang="eng"><em type="italic">Interdependence.</em><em type="bold"> </em>Publication of the International Society for Ecology and Culture. </p>
+    <p xml:lang="eng">Orr, David (1991) <em type="italic">What is Education for?</em> In Context #27: The Learning Revolution, Context Institute. </p>
+    <p xml:lang="eng">Oviedo, Gonzales &amp;Maffi, Luisa(2000) <em type="italic">Indigenous and Traditional Peoples of the World and Ecoregion Conservation</em><em type="bold"> </em>WWF International/Terralingua. </p>
+    <p xml:lang="swe">Rennäringspolitiska kommitténs betänkande (2001) <em type="italic">En ny rennäringspolitik – öppna samebyar och samverkan med andra markanvändare</em> (Del 1 och 2), SOU 2001:101 </p>
+    <p xml:lang="swe">Samernas Riksförbund (1996) <em type="italic">Samiskt Vägval; Agenda 21 - Handlingsprogram i Miljö och Demokratifrågor. </em>Umeå.  </p>
+    <p xml:lang="sma">Samerådet (1991) <em type="italic">Samerådets Miljöpolitiskt Program. </em>Samerådet. </p>
+    <p xml:lang="nob">Sametinget (1995) <em type="italic">Miljösyn. </em>Sametinget </p>
+    <p xml:lang="nob">Sametinget (2003) <em type="italic">Miljöhandbok. </em>Sametinget. </p>
+    <p xml:lang="nob">Sara, Mikkel Nils (2004 ) <em type="italic">Samisk kunskap i undervisning och läremidler.</em> Hirvonen, Vuokko (red) Samisk skole i plan och praksis. Karasjok: Författernes Förlag. </p>
+    <p xml:lang="nob">Smith, Tuhiwai Linda (1999) <em type="italic">Decolonizing Methodologies: Research and Indigenous Peoples</em> Zed Books. </p>
+    <p xml:lang="nob"><em type="italic">Svenska miljömålen</em><em type="bold"> (</em>2008)<em type="italic"> www.miljomal.nu www.regeringen.se/sb/d/2055 </em></p>
+    <p xml:lang="eng"><em type="italic">The Kimberley Declaration </em>(2002) International Indigenous Peoples Summit on Sustainable Development. Khoi-San Territory – Kimberley, South Africa. </p>
+    <p xml:lang="swe">Tun n, Håkan (2004) <em type="italic">Traditionell Kunskap och lokalsamhällen – artikel 8j i Sverige</em><em type="bold">. </em>Centrum för Biologisk Mångfald, Uppsala.<em type="bold"> </em></p>
+    <p xml:lang="nob">Turner, Nancy J. (2008) <em type="italic">Lessons of the Birch</em>. Resurgence Magazine (issue Sept/Oct 2008). </p>
+    <p>Utsi, Paulus (2000) <em type="italic">Följ stigen.</em> DAT. </p>
+    <p>Utsi, Paulus (1974) <em type="italic">Giela Giela.</em> Almqvist &amp; Wiksell, Uppsala. </p>
+    <p xml:lang="swe">Utsi, Per Mikael (2007): <em type="italic">Traditionell kunskap och sedvänjor inom den samiska kulturen – relaterat till bevarande och hållbart nyttjande av biologisk mångfald</em>. Sametinget, Kiruna &amp; Centrum för biologisk mångfald, Uppsala. </p>
+    <p xml:lang="sma">Världsnaturfonden (1996) <em type="italic">Agenda 21- Fem samebyar I Jämtland. </em>WWF Rapport Nr. 2:96. </p>
+    <p xml:lang="deu">Wackernagel, Mathis &amp; Rees, William E. (1997) <em type="italic">Unser ökologischer Fußabdruck. Wie der Mensch Einfluß auf die Umwelt nimmt. </em>Birkäuser, Basel. </p>
+  </body>
+</document>

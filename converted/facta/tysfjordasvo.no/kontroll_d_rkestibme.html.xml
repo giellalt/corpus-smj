@@ -1,0 +1,85 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Kontroll / Dárkestibme : Tysfjord ASVO</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>444</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="smj"/>
+    </multilingual>
+    <origFileName>http://tysfjordasvo.no/trening_l_sjmudallam/kontroll_d_rkestibme</origFileName>
+    <parallel_text xml:lang="nob" location="kontroll_d_rkestibme.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">Tittel</p>
+    <p type="title" xml:lang="nob">Kontroll / Dárkestibme</p>
+    <p xml:lang="nob">
+      <em type="bold">Tilbake </em>
+    </p>
+    <p xml:lang="nob">
+      <em type="bold">Kontroll av treningssenter/speilsal </em>
+    </p>
+    <p xml:lang="nob">Dette er et ubetjent treningssenter hvor kun medlemmer har adgang. For å komme inn i lokalet brukes personlig nøkkelkort.</p>
+    <p xml:lang="nob">Leder av gruppetreninger kan slippe inn personer som skal delta på gruppetrening. Disse er pliktig å forlate lokalet når treninga er ferdig.</p>
+    <p xml:lang="nob">Tysfjord ASVO gjennomfører uanmeldte kontroller:</p>
+    <p xml:lang="nob">• Kontrolløren(e) skal ha en id brikke som bekrefter at han/hun er informert om bedriftens HMS rutiner.</p>
+    <p xml:lang="nob">• Kontrolløren(e) skal bruke sitt nøkkelkort for intern verifisering.</p>
+    <p xml:lang="nob">• Kontrolløren(e) skal opptre høflig og respektfullt. Kontrollør kan svare på spørsmål, men skal ikke ta initiativ til personlig dialog.</p>
+    <p xml:lang="nob">• Kontrollør kan gi felles informasjon.</p>
+    <p xml:lang="nob">• Kontrollør kan spørre om ditt navn for å sjekke mot medlemslister.</p>
+    <p xml:lang="nob">• Kontrolløren skriver ned hvor mange personer som er i lokalet på kontrolltidspunktet.</p>
+    <p xml:lang="nob">• Kontrolløren skriver ned navn på de som oppholder seg ulovlig i lokalet. Dersom du blir tatt i kontroll vil du bli kontaktet av daglig leder i etterkant.</p>
+    <p xml:lang="nob">• Kontrolløren kan også skrive ned andre forhold som legges frem for daglig leder i etterkant.</p>
+    <p xml:lang="nob">I lokalet er det også informasjon om klageadgang på Tysfjord ASVO. Denne finnes også på vår hjemmeside www.tysfjordasvo.no</p>
+    <p xml:lang="nob">Vi har behov for å gjennomføre kontroller og ber våre kunder respektere det.</p>
+    <p xml:lang="nob">Daglig leder</p>
+    <p>
+      <em type="bold">Lásjmudallamlanjá / spiedjillanjá dárkestibme </em>
+    </p>
+    <p/>
+    <p>Lásjmudallamguovdásj ij la dievnastum ja dåssju sebrulattja bessi sisi. Persåvnålasj tjåvdakårtåv viertti adnet sisi besatjit.</p>
+    <p>Juogoslásjmudallama jådediddje máhttá ulmutjijt sisi luojttet gå la juogoslásjmudallam. Da hæhttuji huodnahav vas guodet gå lásjmudallam nåhkå.</p>
+    <p>Tysfjord ASVO tjadát diededik dárkestimev:</p>
+    <p>• Dárkastiddje galggá identifikasjåvnåv adnet majt duodas sån diehtá viddnudagá HMS rutijnaj birra.</p>
+    <p>• Dárkastiddje galggá ietjas tjåvdakårtåv adnet sisŋeldis duodastibmáj.</p>
+    <p>• Dárkastiddje galggá liehket væhttsá ja buorak láhkáj dárkestimev tjadádit. Bærrájgæhttje máhttá gatjálvisájt vásstedit, valla ij galga iesj persåvnålasj ságastallamav álgadit.</p>
+    <p>• Dárkastiddje máhttá aktisasj diedojt vaddet.</p>
+    <p>• Dárkastiddje máhttá namáv jæsskot navti vaj bæssá sebrulasjlista vuossti dav duodastit.</p>
+    <p>• Dárkastiddje tjáles galla persåvnå huodnahin li gå bærrájgæhttjamin la.</p>
+    <p>• Dárkastiddje tjáles namájt dajda gudi huodnahin loabe dagi li. Bæjválasj jådediddje aktijvuodav válldá sijájn maŋŋela.</p>
+    <p>• Dárkastiddje máhttá aj tjálestit ietjá vidjurij birra majt bæjválasj jådediddjáj maŋŋela diedet.</p>
+    <p>Huodnahin li aj diedo gujddimvejulasjvuodaj birra Tysfjord ASVO:n. Dáv aj gávna mijá næhttabielen www.tysfjordasvo.no</p>
+    <p>Miján la dárbbo bærrájgæhttjamav tjadádit ja ádnop mijá oasste dáv vieledi.</p>
+    <p>Bæjválasj jådediddje</p>
+    <list>
+      <p type="listitem">Forside / Åvddåbielle</p>
+      <p type="listitem" xml:lang="nob">Tilrettelegging / Hiebadibme</p>
+      <p type="listitem" xml:lang="nob">Produksjon / Buvtadibme</p>
+      <p type="listitem" xml:lang="nob">Kurs / Kurrsa</p>
+      <p type="listitem" xml:lang="nob">Butikk / Oases</p>
+      <p type="listitem" xml:lang="nob">Trening / Lásjmudallam <list><p type="listitem" xml:lang="nob">Gruppetrening</p><p type="listitem" xml:lang="nob">Lukket trening (for grupper)</p><p type="listitem" xml:lang="nob"><span type="quote" xml:lang="nob">"Lett på tå"</span> trening for barn/unge</p><p type="listitem" xml:lang="nob">Kontroll / Dárkestibme</p></list></p>
+      <p type="listitem">Utstillinger / Vuosádus</p>
+      <p type="listitem" xml:lang="nob">Duodjebloggen</p>
+      <p type="listitem" xml:lang="nob">Arrangementer</p>
+      <p type="listitem">Om oss / Mijá birra</p>
+      <p type="listitem" xml:lang="nob">Andre tilbud / Ietjá fálaldagá</p>
+      <p type="listitem">Kontakt oss/Válde aktijvuodav</p>
+    </list>
+    <p type="title" xml:lang="nob">Tips en venn</p>
+    <p xml:lang="nob">Idium  Web</p>
+    <p>Edit</p>
+    <p xml:lang="nob">Policy info</p>
+  </body>
+</document>

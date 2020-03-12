@@ -1,0 +1,39 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Sáme doajmmaloahpe Bådødjon</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
+    </author>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>Lokalavisa Nordsalten</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>72</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+    </multilingual>
+    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/s-me-doajmmaloahpe-badodjon.4104</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Sáme doajmmaloahpe Bådødjon</p>
+    <p>Sáme nuoraj doajmmaloahpe la Bådødjon dán vahkkoloahpen. Infonuorra dav dåjmadahttá, ja li gåhttjum dáv doajmmaloahpev <span type="quote">”Gassko”</span>.</p>
+    <p>Dåjmajs la duola dagu biebbmokurssa, paintballspellam ja aj konsærtta Lawra Sombyajn.</p>
+    <p>Sámevahkkoloahpe la nuorajda, ja máksá 200 kråvnå, valla de oattjo dåjmajda oassálasstet - ja aj bårråt.</p>
+    <p>Doajmmaloahpe la alkoholfriddja.</p>
+    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+    <p xml:lang="nob">Regler for kommentering</p>
+    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Sáme doajmmaloahpe Bådødjon"</span> på Facebook</p>
+  </body>
+</document>

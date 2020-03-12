@@ -1,0 +1,43 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Tjáledibme jienastuslåhkuj</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2016</year>
+    <wordcount>193</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.samedigge.no/Valgga/Tjaledibme-jienastuslaahkuj</origFileName>
+    <parallel_text xml:lang="nob" location="innmelding-i-valgmanntallet.html"/>
+    <parallel_text xml:lang="sma" location="sijsebieljelimmie-veeljemelaahkose.html"/>
+    <parallel_text xml:lang="sme" location="diediheapmi-jienastuslohkui.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Tjáledibme jienastuslåhkuj</p>
+    <p>Dån máhtá ietjat jienastuslåhkuj akta goassa tjáledit, valla jus ietjat åvddåla biehtsemáno 30.biejve tjáleda, la siegen vájkkudime galla ájrrasa iesjgeŋga válggabijrra boahtte sámedikkegávddaj 2021-2025 oadtju.</p>
+    <p type="title">Tjáledibme Internehta baktu</p>
+    <p>Jus galga ietjat Internehta baktu diededit, hæhttu sisi låggit ietjat ID-portálajn/MinID.</p>
+    <p>Låggi sisi</p>
+    <p>Gájka gudi ietjasa sábmen sárnnuji, ja gænna juogu</p>
+    <p>a) Suv sijddagiella *le sámegiella* b) Sujna le, jali læhkám li æjgáda, áhkko ja áddjá jali máttaráhkko jali máttarádjá gænna le/lij sámegiella sijddagiellan c) Le ulmutja mánná gut le jali læhkám la jienastuslågon *Sijddagiellan merkaj dat giella mij lij anon sijdan sjattadijn. Álu aneduvvá báhko iednegiella. Jus ienep giela aneduvvin sijdan sjattadijn, galggá sámegiella liehket akta dajs.</p>
+    <p>Sáme gudi li stáhtaviesáda ietjá nuorttarijkan máhtti ietjasa jienastuslåhkuj tjáledit jus biehtsemáno 30.biejve válggajagen li tjáledum álmmuklågon Vuona viesádin maŋemus gålmmå jage válggabiejve åvddåla.</p>
+    <p>Sáme gudi ælla nuorttarijkajs, máhtti ietjasa jienastuslåhkuj tjáledit jus li læhkám tjáledum álmmuklågon Vuona viesádin maŋemus gålmmå jage válggabiejve åvddåla.</p>
+    <p type="title">Tjáledibme páhpersjiemá baktu</p>
+    <p>Viettja pdf-sjiemáv vuollelin, dievde dav ja sáddi dav dievdeduvvam ja vuollájtjáleduvvam Sámediggáj.</p>
+    <p type="title">Diededit ierit Sámedikke jienastuslågos</p>
+    <p>Jus sidá ietjat Sámedikke jienastuslågos ierit diededit, de hæhttu Sámediggáj <em type="italic">e-påstav </em>jali girjev sáddit. Diededime ierit hæhttu ietjat namáv ja personnummarav tjállet. </p>
+  </body>
+</document>

@@ -1,0 +1,46 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>131</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/AEladus/Duodje/Doarjju-duodjeoassasijt-Inka-AS-ja-Manndalen-Husflidlag</origFileName>
+    <parallel_text xml:lang="nob" location="stoetter-duodjibutikkene-inka-as-og-manndalen-husflidlag.html"/>
+    <parallel_text xml:lang="sma" location="duedtiebovride-inka-as-jih-manndalen-husflidslag-daaaarje.html"/>
+    <parallel_text xml:lang="sme" location="doarju-duodjegavppiid-inka-as-ja-manndalen-husflidlag.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Doarjju duodjeoassásijt Inka AS ja Manndalen Husflidlag / Duodje / Æládus / Sámedigge - Sametinget</p>
+    <p type="title">Doarjju duodjeoassásijt Inka AS ja Manndalen Husflidlag</p>
+    <p xml:lang="sme">27. golke 2014</p>
+    <p>Sámediggerade le juollodam dårjav duodjeoassásijda Inka AS i Kárásjjågån ja Manndalen Husflidlag Gájvuonan. Sámedikken le vájkkudimnævvoårnik dåjmajda ma åvddånahtti oasestimev stuoves duodjeoassásijn ma vuobddi goappátjagá ietjasa ja iehtjádij duojijt.</p>
+    <p>
+      <em type="bold">- Inka AS oadtju dáv dårjav dán jage aj, ja oadtju dan diehti 179 500 kr doarjjan Sámedikkes. </em>
+    </p>
+    <p>Manndalen Husflidlag oadtju 175 000 kr. Doajvov dát sjaddá buorren ja viddnudagá jådedi ienep duojev. Javllá rádeájras Silje Karine Muotka.</p>
+    <p>
+      <em type="bold">- Ájggomus dájna doarjjaårnigijn la mij sihtap viddnudagájn stuoves oassásij galggi liehket buorre vidjura vaj bisodi dåjmajdisá. Dan diehti lav ávon gå doarjodip guokta nanos viddnudagá, javllá Muotka maŋemusát. </em>
+    </p>
+    <p>
+      <em type="bold">Aktijvuohta: </em>
+    </p>
+    <p>Sámediggeráde ájras Silje Karine Muotka, skuolkan 984 87 576</p>
+  </body>
+</document>

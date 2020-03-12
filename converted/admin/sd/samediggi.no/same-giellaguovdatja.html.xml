@@ -1,0 +1,102 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>378</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Giella/Samasta-mujna/Artikler/Same-giellaguovdatja</origFileName>
+    <parallel_text xml:lang="nob" location="samiske-spraaksentre.html"/>
+    <parallel_text xml:lang="sma" location="saemien-gielejarngh.html"/>
+    <parallel_text xml:lang="sme" location="sami-giellaguovddazat.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Sáme giellaguovdátja / Artikler / Sámásta mujna / Giella / Sámedigge - Sametinget</p>
+    <p type="title">Sáme giellaguovdátja</p>
+    <p>Sáme giellaguovdátjijn la ájnas rolla sámegielav nannidijn ja åvddånahtedijn. Da li ållagasj ájnnasa lahka birrasijda ja dahki ållo dåjmajt guovlojnisá. Giellaguovdátjij dåjma li viehka mærráj siegen tjalmostahttemin sámegielav lagámus birrasijn, dan båttå gå li æjvvalimsadjen sáme álmmugij. Giellaguovdátjij dåjma li ájnnasa divnajda, mánájda, nuorajda ållessjattugijda ja vuoras ulmutjijda.</p>
+    <p>Giellaguovdátja ásadij duojt dájt giellakursajt, ja tjadádi duojt dájt giellaprosjevtajt. Da fálli kursajt áttjasálggijda massta muhtema vaddi tjuokkajt, ja ietjá praktihkalasj kursajt ma aktidi gielav ja buojkulvissan duodjeåhpadusáv. Giellaguovdátja ásadi dåjmajt degu iehkedijt mánájda, vuorrasij æjvvalimijt, tiebmámanojt ja dahki oahppamnævojt ma li ávkkása giellaåhpadusán.</p>
+    <p>Sámegiela vidjura li moattelágátja guovlos guovlluj. Giellaguovdátja gæhttji vidjurijda ietjasa guovlojn ja álgadi dåjmajt hiebadum dárbojda gen ga guovlon. Aktisasj divna giellaguovdátjijda le tjalmostahttet sámegielav ja viehkedit vaj sámegiella nanniduvvá ja åvddånahteduvvá</p>
+    <p type="title">Sáme giellaguovdátja:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">ALTA Álttá Sámi Giellaguovddáš</p>
+      <p type="listitem" xml:lang="nob">TANA Deanu giellagáddi (SEG)/Tana samiske språksenter</p>
+      <p type="listitem" xml:lang="sme">NESSEBY Isak Saba guovddáš</p>
+      <p type="listitem" xml:lang="nob">PORSANGER Samisk språk- og kultursenter i Porsanger</p>
+      <p type="listitem" xml:lang="nob">KÅFJORD Sámi giellaguovddáš / Samisk språksenter i Kåfjord</p>
+      <p type="listitem" xml:lang="sme">TROMSØ Gáisi Giellaguovddáš i Tromsø</p>
+      <p type="listitem" xml:lang="nob">SKIBOTN Storfjord språksenter, Skibotn</p>
+      <p type="listitem" xml:lang="nob">EVENES Várdobaiki samisk senter i Evenes</p>
+      <p type="listitem" xml:lang="sme">LAVANGEN Ástávuona giellagoahtie, Lavangen</p>
+      <p type="listitem">TYSFJORD Árran julevsáme guovdásj i Tysfjord</p>
+      <p type="listitem">RØYRVIK Gïeleaernie i Røyrvik</p>
+      <p type="listitem" xml:lang="nob">SNÅSA Gïelem nastedh i Snåsa</p>
+      <p type="listitem" xml:lang="nob">RØROS Aajege - samisk språk og kompetansesenter i Røros</p>
+    </list>
+    <p type="title">Åhpadusinstitusjåvnå</p>
+    <p>
+      <em type="bold">Joarkkaskåvlå </em>
+    </p>
+    <list>
+      <p type="listitem" xml:lang="nob">KARASJOK Sámi joatkkaskuvla/ Samisk videregående skole, Karasjok</p>
+      <p type="listitem" xml:lang="nob">KAUTOKEINO Sámi joatkkaskuvla ja boažodoalloskuvla/ Samisk videregående skole og reindriftsskole, Kautokeino</p>
+      <p type="listitem" xml:lang="nob">HAMARØY Knut Hamsun videregående skole/joarkkaskåvllå</p>
+      <p type="listitem" xml:lang="nob">GRONG Kráangken jáarhkeskuvle/ Grong videregående skole, Grong</p>
+      <p type="listitem" xml:lang="nob">RØROS Røros videregående skole, Røros</p>
+      <p type="listitem">JOKKMOKK Sámij åahadusguovdásj/ Samernas utbildningscentrum, Jokkmokk</p>
+    </list>
+    <p>
+      <em type="bold">Allaskåvlå ja universitehta </em>
+    </p>
+    <list>
+      <p type="listitem" xml:lang="sme">KAUTOKEINO Sámi allaskuvla/ Samisk høgskule, Kautokeino</p>
+      <p type="listitem" xml:lang="nob">TROMSØ Norges arktiske universietet, Tromsø</p>
+      <p type="listitem" xml:lang="nob">BODØ Universitetet i Nordland, Bodø</p>
+      <p type="listitem" xml:lang="nob">STEINKJER Høgskolen i Nord Trøndelag, Steinkjer</p>
+      <p type="listitem" xml:lang="nob">UPPSALA Uppsala universitet, Uppsala</p>
+      <p type="listitem" xml:lang="nob">UMEÅ Umeå universitet, Umeå</p>
+    </list>
+    <p type="title">Ietjá luohko</p>
+    <p>
+      <em type="bold">Girjjeskåvlå ja interaktijvalasj åhpadus </em>
+    </p>
+    <list>
+      <p type="listitem" xml:lang="sme">Folkeuniversitetet - Davvin 1,2,3,4</p>
+      <p type="listitem">E-skuvla - Samisk 1, 2 og 3 ja oarjjelsámegiella álggijda</p>
+      <p type="listitem">Gulahalan - nuorttasáme giellakurssa</p>
+      <p type="listitem">OAHPA! - prográmma sunji guhti sihtá nuorttasámegielav hárjjidallat</p>
+      <p type="listitem">Sámásta - julevsáme giellakurssa álggijda</p>
+      <p type="listitem" xml:lang="sme">Eurotalk - Learn Sami máhttá oasteduvvat</p>
+    </list>
+    <p>
+      <em type="bold">Báhkogirje værmádagán </em>
+    </p>
+    <list>
+      <p type="listitem" xml:lang="sme">Sámi sátnevuorká Risten – sámi sátnevuorká/ samisk ordbok</p>
+      <p type="listitem" xml:lang="sme">Sámi báikenamat Norggas ja Ruotas Sámi báikenamat Norggas ja Ruotas /Samiske stedsnavn i Norge og Sverige</p>
+    </list>
+    <p>
+      <em type="bold">Ietján </em>
+    </p>
+    <list>
+      <p type="listitem">Gåvå, girje, filma, jiena oahppamnævo ja digitála luohko. ovttas aktan aktesne</p>
+      <p type="listitem" xml:lang="sme">Divvomprográmma Divvun</p>
+      <p type="listitem" xml:lang="sme">Romssa universitehta giellateknologija guovdásj Sámi giellatekno</p>
+    </list>
+  </body>
+</document>

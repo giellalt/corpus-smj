@@ -1,0 +1,69 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>158</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.samedigge.no/layout/set/print/Valgga</origFileName>
+    <parallel_text xml:lang="nob" location="valg-og-manntall.html"/>
+    <parallel_text xml:lang="sma" location="veeljeme-jih-veeljemelaahkoe.html"/>
+    <parallel_text xml:lang="sme" location="valga-ja-jienastuslohku.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Válgga ja jienastuslåhkuj / Sámedigge - Sametinget</p>
+    <p>
+      <span type="quote">Sámedigge galggá nannit sámij politihkalasj vidjurijt ja åvdedit sámij ássjijt Vuonan ja hiebadahttet vaj sáme máhtti ietjasa gielav, kultuvrav ja sebrudakiellemav tjårgådahttet ja åvddånahttet.</span>
+    </p>
+    <p xml:lang="sme">Sámmedikke birra</p>
+    <p>Válgga ja jienastuslåhkuj</p>
+    <p xml:lang="sme">Stipeanda ja doarjja</p>
+    <p xml:lang="nob">Web-tv</p>
+    <p>Jus galga bessat tjavtja Sámediggeválggaj jienastittjat, de hæhttu ietjat jienastimlåhkuj diededit. Manen i dav dalága dagá?</p>
+    <p xml:lang="sme">Dieđiheapmi jienastuslohkui</p>
+    <p type="title">Válgga ja jienastuslåhkuj</p>
+    <p>Aktan mij ietjama boahtteájgev hábbmip. Mij lip gudi galggi ietjama kultuvrav, árbev ja mijá sáme identitehtav åvddålijguovlluj doalvvot. Valla jus ájgo siegen vájkkudittjat, de hæhttu vuostak liehket oassen dassta. Tjáleda jienastimlåhkuj dálla ja mujte Sámediggeválgan jienastit tjavtjan!</p>
+    <p>
+      <span type="quote">Máhtujn ja vieledimijn  galggap ietjama aktijsasj boahtteájgev hábbmit.</span>
+    </p>
+    <p>Diehto</p>
+    <list>
+      <p type="listitem" xml:lang="sme">Sámediggeválga 2013 – listoevttohusat mat leat boahtán midjiide</p>
+      <p type="listitem">Válgaortnet</p>
+      <p type="listitem" xml:lang="sme">Dáppe sáhtát jienastit sámediggeválggas</p>
+      <p type="listitem">Válgakoarta</p>
+      <p type="listitem" xml:lang="sme">Gii boahtá sisa Sámediggái?</p>
+    </list>
+    <p>Belludagá/Válggabarggoguojme</p>
+    <list>
+      <p type="listitem">Rávkalvis listajda</p>
+      <p type="listitem" xml:lang="sme">Dorjja válgaoasálastimii</p>
+      <p type="listitem" xml:lang="sme">Gosa galget ovddalgihtiijienastagat sáddejuvvot?</p>
+      <p type="listitem" xml:lang="nob">Rutineportalen (ekstern lenke)</p>
+      <p type="listitem" xml:lang="nob">Valgmedarbeider (ekstern lenke)</p>
+    </list>
+    <p>Jienastuslåhkuj</p>
+    <list>
+      <p type="listitem" xml:lang="nob">Sametingets valgmanntall 2013</p>
+      <p type="listitem" xml:lang="sme">Sámedikki jienastuslohkui 2011</p>
+      <p type="listitem">Sámedikke jienastuslåhko 2009</p>
+      <p type="listitem">Sámedikke jienastuslåhko 2005</p>
+    </list>
+    <p xml:lang="fin">Præssa</p>
+    <list>
+      <p type="listitem">Præssadiedádus</p>
+      <p type="listitem">Præssaaktijvuohta</p>
+      <p type="listitem" xml:lang="nob">Kampanjemateriell #endelavdeg</p>
+    </list>
+  </body>
+</document>

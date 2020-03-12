@@ -1,0 +1,54 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>135</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Varresvuohta-ja-sosialla/Varresvuohta</origFileName>
+    <parallel_text xml:lang="nob" location="helse.html"/>
+    <parallel_text xml:lang="sma" location="healsoe.html"/>
+    <parallel_text xml:lang="sme" location="dearvvasvuohta.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Varresvuohta / Varresvuohta ja sosiálla / Sámedigge - Sametinget</p>
+    <p type="title">Varresvuohta</p>
+    <p>Sámedigge barggo avtaárvvusasj varresvuodadievnastusá åvdås sáme álmmugij mij sáme gielas ja kultuvras álggá.</p>
+    <p>Politihkalasj åvdåsvásstediddje</p>
+    <p xml:lang="nob">Rådsmedlem</p>
+    <p xml:lang="sme">NSR</p>
+    <p xml:lang="sme">Gáisi</p>
+    <p>Jur dálla</p>
+    <p xml:lang="sme">Doarju dearvvašvuođaseminára julevsámi guovllus</p>
+    <p xml:lang="sme">Árran julevsámi guovdásj lea daid searvvis geat ožžot doarjaga Sámedikki dea...</p>
+    <p>Lågå ienebuv</p>
+    <p>Doarjju vuostasjviehkkekursav ællobargguj</p>
+    <p>Sámedigge juollot 60 tuvsán kråvnå Helgeland Sámiid Searvij tjadádittjat vuo...</p>
+    <p>Lågå ienebuv</p>
+    <p>Vuoseda divna ássjijt</p>
+    <p>Vuonan suohkana vásstedi vuodovarresvuodadievnastusás (duola dagu stuovesdåktårårnigis, dåktårváktas, boarrásijsijdajs, sijddaskihppijsujtos). Stáhtta vásstet sierravarresvuodadievnastusás (skihppijviesojs, hiehtediededimårnigis, ambulánssadievnastusás, psykiatria ásadusájs). Fylkkasuohkana bádnevarresvuodadievnastusájs vásstedi. Fylkkasuohkana galggi aj álmmukvarresvuoda åvdås barggat fylkajn ja galggi suohkanijt viehkedit sijá álmmukvarresvuoda bargon. Nasjonálá oajválattjajn le åvdåsvásstádus dåhkkidahtte varresvuodadievnastusájt sámijda aj fállat.</p>
+    <p>
+      <em type="bold">Sámedigge sihtá: </em>
+    </p>
+    <list>
+      <p type="listitem">Avtaárvvusasj varresvuodadievnastus sámijda man vuodon le sámgiella ja –kultuvrra.</p>
+      <p type="listitem">Ienep máhtudahka sáme giela ja kultuvra birra juohkka dásen varresvuodadievnastusán. Dán åvdås alep dásen vásstedi.</p>
+    </list>
+  </body>
+</document>

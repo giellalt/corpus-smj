@@ -1,0 +1,58 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>Måsske vas vadjáluvvam</title>
+    <genre code="news"/>
+    <author>
+      <person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/>
+    </author>
+    <author>
+      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
+    </author>
+    <year>2013</year>
+    <publChannel>
+      <publication>
+        <publisher>NRK Sápmi</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>244</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@it.no"/>
+    <origFileName>http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.10995737</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Samegillii</p>
+    <p>
+      <em type="italic">Maŋimuš ođđasat sámegillii </em>
+    </p>
+    <p/>
+    <p type="title">Måsske vas vadjáluvvam</p>
+    <p>Vargga juohkka gidá-dálve vásedi måskega, Divtasvuonan juhkamtjáhtje nåhkå.</p>
+    <p>Suohkan la måttijt jagijt jáhttám dille galggá buorránit, valla ij la gåjt dálátjij mige dassta sjaddam.</p>
+    <p>Dagu divna iehtjáda gudi oadtju tjátjev suohkana ásadusájs, máksi aj Måske-viesáda tjátje åvdås.</p>
+    <p type="title">– Gåpsudallap</p>
+    <p>Werner Johnsen.</p>
+    <p>Gasskaájggásasj årniga båktå moarev ja aj dármedimev, ja viesáda li dal vájbbam gå suohkan la sijáv nievres láhkáj dåmadam.</p>
+    <p>
+      <em type="italic">– Jáhkáv lij 30 jage dás åvddål gå suohkan tsieggij tjáhtjeásadusáv Davve-Måsskåj. Ja juohkka jage lip vájvástuvvam dajna. Gidájt ja giesijt la dal nuoges tjátje ja gájkka riek buoragit doajmmá. Valla gå dal dálvve boahtá de aj tjáhtje nåhkå. Mij lip belkatjam suohkanijn dán birra, valla ij mige dáhpáduvá. Jus ga dal binnáv divudi, de ij la dat viehkken, tsuojggi Måske-viesát, Werner Johnsen. </em>
+    </p>
+    <p>Suohkanoassenammadus la álu dáv ássjev bajedam, ja jådediddje mielas li måskega gåpsudallam.</p>
+    <p>Oarjjevuona suohkannammadusá jådediddje, Karl Gunnar Mikkelsen gávnat guoros rudnev Måsken.</p>
+    <p>
+      <em type="italic">– Tjavtjan lij suohkanoajvve Måsken ja jáhtij divna dá ássje galggin rájdaduvvat ja rievtesláhkáj doajmmat, ja biednigijt dasi biedjat. Valla ælla gåjt ájn luojttám luovas dajt biednigijt, javllá Måske suohkannammadusá jådediddje, Karl Gunnar Mikkelsen. </em>
+    </p>
+    <p>Oarjjevuona suohkannammadusá jådediddje, Karl Gunnar Mikkelsen vuoset udnásj tjáhtjepumpov Måsken.</p>
+    <p type="title">– Vájvan</p>
+    <p>Tor Asgeir Johansen</p>
+    <p>Divtasvuona suohkanoajvve vájvan gå viesáda Måsken dájna dilijn li hæhttum viessot, valla jáhttá dal dilev buoredit.</p>
+    <p>
+      <em type="italic">– Mij lip ássjijn barggamin. Mij dahkap sierra prosjevtav mij boahtá jåhtuj dán gidá ja giese, ja tjavtjan galggá stuoves tjáhtjeásadus Måsken, jáhttá suohkanoajvve Tor Asgeir Johansen. </em>
+    </p>
+  </body>
+</document>

@@ -1,0 +1,64 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>244</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="smj"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.samedigge.no/layout/set/print/Giella/Samasta-mujna/Artikler/Gaaktu-algget-samastamunja</origFileName>
+    <parallel_text xml:lang="nob" location="hvordan-komme-i-gang-med-snakksamisktemae.html"/>
+    <parallel_text xml:lang="sma" location="guktie-aelkedh-saemesthmunnjien.html"/>
+    <parallel_text xml:lang="sme" location="movt-don-alggat-samasmuinna.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Gåktu álgget #sámástamunja / Artikler / Sámásta mujna / Giella / Sámedigge - Sametinget</p>
+    <p type="title">Gåktu álgget #sámástamunja</p>
+    <p type="title">Instagrámma</p>
+    <p>Vuostasj maj hæhttu dahkat la viedtjat áppav Instagram. Dat la gåvvåjuogatjimáppa mij miedet duv gåvåjt juogatjit. Gájbbádus jus jur duv gåvå båhti fáron kámpánnjaj la dujna le rabás profijlla. Dav gehtja dån ietjat biejadusájn.</p>
+    <p>Jus i sidá ietjat profijlav rahpat, de le nubbe vuohke duodde kontov ásadit. Instagram la nåvkå, de dat ij dunji majdik mávse.</p>
+    <p>
+      <em type="bold">Gåktu tevstav biedjat gåvvåj? </em>
+    </p>
+    <p>Gávnnuji moadda applikasjåvnå majt máhtta viedtjat mávso dagi goappátjagá Google Playan ja iTunesin. PicLab ja LineCamera li muhtem ietjá máhttelisvuoda.</p>
+    <p>
+      <em type="bold">Same tjåvdabievdde giehtaskuolkanin </em>
+    </p>
+    <p>Mavas galga e ájn gávnnu sáme tjåvdabievde divna skuolkanijda. Valla huoman gavnnuji moadda vuoge gåktu sámegielak bokstávaj tjállá giehtaskuolkanin.</p>
+    <p type="title" xml:lang="nob">Android</p>
+    <p>Android-skuolkanijda gávnnu nuorttasáme tjåvdabievdde.Scandinavian keybordmahtta viettjaduvvat Google Playas.</p>
+    <p>Jus i sidáScandinavian keyboard:avadnet, de le aj máhttelisHrvatski:avadnet, kroahta tjåvdabievdev, mij la juo biejadum skuolkanij. Danna oadtju bokstávajtáčđšž(gå guhkev dæbtjoacdsz), ájnna bokstávaj ma gáhtu li deŋŧ.</p>
+    <p type="title" xml:lang="sme">iPhone ja Nokia</p>
+    <p>iPhonej jali Nokiaj ij gávnnu nuorttasáme tjåvdabievdde.</p>
+    <p>Nåv gå Android-skuolkanijn, de máhtá adnetHrvatski, kroahta tjåvdabievdev, mij la juo biejadum skuolkanij. Danna oadtju bokstávajtáčđšž(gå guhkev dæbtjoacdsz), ájnna bokstávaj ma gáhtu li deŋŧ.</p>
+    <p type="title">Báhkogirje skuolkanin</p>
+    <p xml:lang="nob">Julevsamegiellaj: http://ntec.no/samisk/</p>
+    <p>Nuorttasámegiellaj: http://giellatekno.uit.no/words/dicts/index.nno.html</p>
+    <p>Oarjjelsámegiellaj: http://giellatekno.uit.no/words/dicts/index.nno.html</p>
+    <p type="title">Ietjá vuoge ja oajvvadusá</p>
+    <p>
+      <em type="bold">Gåktu oadtju sámegielak tjåvdabievdev dáhtámasjijnnaj: </em>
+    </p>
+    <p>Snivva tjielggidus gåktu sámegielak tjåvdabievdev dáhtámasjijnnaj oadtju gávnnu Giellatekno sijddabielen: http://giellatekno.uit.no/doc/infra/docu-keyboard.nno.html</p>
+    <p>
+      <em type="bold">Sámegielak divvomprográmma: </em>
+    </p>
+    <p>Giellatekno sijddabielen máhtá viedtjat Divvomav,duollatjállemræjddo Windowsij, MacOS:aj, OpenOffice &amp; LibraOfficej, aktan InDesignaj. http://divvun.no/no/index.htm</p>
+    <p>Duodden gávnnuji digitála báhkogirje, interaktijva sáme giellakursa jårggålimdievnastus nuorttasámegielas dárogiellaj masjijna baktu.</p>
+  </body>
+</document>
