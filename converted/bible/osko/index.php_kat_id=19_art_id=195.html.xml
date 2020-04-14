@@ -1,47 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>165</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=19&amp;art_id=195</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=19_art_id=195.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=19_art_id=195.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=19_art_id=195.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åhpav: Tjáhtje</p>
-    <p type="title">Gássta le sakramennta</p>
-    <p>Gássta le sakramennta. Sakramennta le konkrehta girkkolasj dahko, vuojnos mærkka jut Jubmel juojddáv mijáj sinna, mijájn jali mijá åvdås dahká mav ep ietjama tjalmij buvte vuojnnet. Ådå testamenta milta le gássta Jesus Kristusis álgaduvvam. Ienemus åsskosebrudagájn javladuvvá <span type="quote">”Áhtje, Bárne ja Ájlis Vuojŋŋanisá namán”</span> (gålmaktesvuohtajavllam) madi tjátjev goajvvi. Jáhkkep aj Ájlis Vuojŋŋanisáv oadtjop gå gástaduvvap. Jáhkkep Jubmel juojddáv mijáj dahká gástan.</p>
-    <p>Fáddarij dahkamus le vihtanit gå mánná gástaduvvá, ja mánáv bajássjattadijn tjuovvot. Fáddara hæhttuji liehket binnemusát 15 jage vuoras ja Vuona girkko gásstavuojnov dåhkkidit.</p>
-    <p>• Muhtema sihti mánáv gástadit njuolgga maŋŋel gå la riegádam. Sij sihti máná aktijvuohta Jubmelijn le årnigis jus juoga soajttá dáhpáduvvá mánnáj.</p>
-    <p>• Gástan le lahka aktijvuohta máná ja Jubmela gaskan – ja máná æjgádij ja fáddarij gaskan. Sij sihti dát aktijvuohta le sijddaj tjanáduvvam.</p>
-    <p>• Máná sijdan gástaduvvi uddni danen gå dat le dáhpe muhtem sajijn, jali mánná le skibás ja æjgáda sihti mánná galggá gástaduvvam jus hæhkkat jábmá.</p>
-    <p>Makkir vælggogisvuoda li dujna fáddarin?</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>165</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=19&amp;art_id=195</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=19_art_id=195.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=19_art_id=195.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=19_art_id=195.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åhpav: Tjáhtje</p>
+<p type="title">Gássta le sakramennta</p>
+<p>Gássta le sakramennta. Sakramennta le konkrehta girkkolasj dahko, vuojnos mærkka jut Jubmel juojddáv mijáj sinna, mijájn jali mijá åvdås dahká mav ep ietjama tjalmij buvte vuojnnet. Ådå testamenta milta le gássta Jesus Kristusis álgaduvvam. Ienemus åsskosebrudagájn javladuvvá <span type="quote">”Áhtje, Bárne ja Ájlis Vuojŋŋanisá namán”</span> (gålmaktesvuohtajavllam) madi tjátjev goajvvi. Jáhkkep aj Ájlis Vuojŋŋanisáv oadtjop gå gástaduvvap. Jáhkkep Jubmel juojddáv mijáj dahká gástan.</p>
+<p>Fáddarij dahkamus le vihtanit gå mánná gástaduvvá, ja mánáv bajássjattadijn tjuovvot. Fáddara hæhttuji liehket binnemusát 15 jage vuoras ja Vuona girkko gásstavuojnov dåhkkidit.</p>
+<p>• Muhtema sihti mánáv gástadit njuolgga maŋŋel gå la riegádam. Sij sihti máná aktijvuohta Jubmelijn le årnigis jus juoga soajttá dáhpáduvvá mánnáj.</p>
+<p>• Gástan le lahka aktijvuohta máná ja Jubmela gaskan – ja máná æjgádij ja fáddarij gaskan. Sij sihti dát aktijvuohta le sijddaj tjanáduvvam.</p>
+<p>• Máná sijdan gástaduvvi uddni danen gå dat le dáhpe muhtem sajijn, jali mánná le skibás ja æjgáda sihti mánná galggá gástaduvvam jus hæhkkat jábmá.</p>
+<p>Makkir vælggogisvuoda li dujna fáddarin?</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

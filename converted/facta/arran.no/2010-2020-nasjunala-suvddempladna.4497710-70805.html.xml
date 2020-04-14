@@ -1,28 +1,6 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>53</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/2010-2020-nasjunala-suvddempladna.4497710-70805.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>2010 - 2020 násjunála suvddempládna - Árran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title">2010 - 2020 násjunála suvddempládna</p>
-    <p>Stivrrajådediddje Johan Petter Barlindhaug, Barlindhaug ASan hålaj Råmsa 14.06. 2007 guovlulasj tjåhkanimen 2010 - 2020 násjunála suvddemplána birra. Barlindhauga låbijn almmudips lågådallamav <span type="quote">"Siebrudakdile rievddadime, æladusiellema dárbo ja suvddemdárbo 2020"</span>, majt dárruj dánna gávna.</p>
-    <p xml:lang="eng">Transport 140607</p>
-    <p xml:lang="nob">3.1 MB</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>53</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/2010-2020-nasjunala-suvddempladna.4497710-70805.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>2010 - 2020 násjunála suvddempládna - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title">2010 - 2020 násjunála suvddempládna</p>
+<p>Stivrrajådediddje Johan Petter Barlindhaug, Barlindhaug ASan hålaj Råmsa 14.06. 2007 guovlulasj tjåhkanimen 2010 - 2020 násjunála suvddemplána birra. Barlindhauga låbijn almmudips lågådallamav <span type="quote">"Siebrudakdile rievddadime, æladusiellema dárbo ja suvddemdárbo 2020"</span>, majt dárruj dánna gávna.</p>
+<p xml:lang="eng">Transport 140607</p>
+<p xml:lang="nob">3.1 MB</p>
+</body></document>

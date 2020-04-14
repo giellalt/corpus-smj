@@ -1,42 +1,6 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Sámegiella vuostasjgiellan</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2008</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>233</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_040408.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty SkapalenJårggålibme: Idar Kintel</p>
-    <p>102 oahppe vádtsi mánáj- ja nuorajskåvlåvÁjluovtan. 11 klássajs li 8 dárogielak ja 3sámegielak  klássa.  Guovtekultuvralasjskåvllå  dárogielajn  ja  sámegielajnavtagærddásasj åhpadimgiellan.Valla esski gå oahppe 4. klássaj álggi devuostasj girjev sámegiellaj oadtju.  Lijmasihtat adnet ienep sáme oahppamnævojt,javlli åhpadiddje. 1.- 4 klássajn li gudásgænna  le  åhpadus  sámegielanvuostasjgiellan,  låges  5.-  7  klássajn  jasæmmi 8.- 10 klássajn.15-16 jage dássta åvddåla Ájluovta skåvllåsámegielan vuostasjgiellan åhpadahttjáj.Dat  rájes  li  ienep  ja  ienep  oahppe  davválljim.  Valla  hásstalus  le  vilá  gååhpaduvvá  sámegiellaj,  madi  girje  lidárogiellaj tjáledum.  Vájvve l ham gåvierttip dárogiellaj låhkåt ja sámegiellajvásstedit, javllá nubbe oahppijs.Åhpadiddje  ålov  biesskedi  ja  dabbmiji</p>
-    <p>åhpadime åvddåla.  Valla åttjudam lipmoattedimmasjijnav  bájnoj,  navti  gåjttjáppa  bájnojt  oadtjop,  javlli  oahppemánájskåvlån.  Adni  aj  guottedahttedáhtámasjijnajt,  ja  oahppamnævojt  mainternehtan gávnnuji.  Suohtas le powerpoint  vuosádusájt  dahkat,  åvdep  báleplanehtaj birra dagájma, javllá vájmmelisbáhttja  4.  klássan.    Prosjæktabargovvuorodip  ja  oahppe  sierraláhkáj  lijkkujiaktisasjbargojda  oahppij  gejna  ledárogiella  vuostasjgiellan,  javlláåhpadiddje Wenche Nergård. Oahppijn libáhkogæhttjalime  fágajn,  vaj  vissása  literminologian  ja  fáhkamoallánagájtdåbddi.- Musihkka le huj suohtas, gå lip aktandivna  1.-  10.  klássajs,  javlli  oahppemánájdásen.-  Midjij  luluj  álkkep  jus  girje  lidjinsámegiellaj  tjáledum,  duola  daguluonndofágan ja sebrudakfágan, de lijmabessat  báhkogirjen  agev  åhtsåt,  javlláoahppe nuorajskåvlån.Valla asstoájgen, sámásti jali dárusti gus? Álu dárogiellaj målssop, måjudi oahppe.Valla giellatjiehpe gåjt dá oahppe sjaddi.Vuodoskåvlå  10  jagij  maññela  buktigålmmå giela; sámegielav, dárogielav ja</p>
-    <p><em type="italic">Oahppamnævo sámegiellaj vájlluji:Oahppe nuorajskåvlån oahppamnævojtsámegiellaj åhtsåli.  Vájvve låhkåtgirjes dárogiellaj, gå vierttip sámegiellajtjállet, javlli.Mangler samiske læremidler: Elevenei ungdomstrinnet ved Drag skolemangler samiske læremidler.  Dumt å</em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Sámegiella vuostasjgiellan</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2008</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>233</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_040408.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty SkapalenJårggålibme: Idar Kintel</p>
+<p>102 oahppe vádtsi mánáj- ja nuorajskåvlåvÁjluovtan. 11 klássajs li 8 dárogielak ja 3sámegielak  klássa.  Guovtekultuvralasjskåvllå  dárogielajn  ja  sámegielajnavtagærddásasj åhpadimgiellan.Valla esski gå oahppe 4. klássaj álggi devuostasj girjev sámegiellaj oadtju.  Lijmasihtat adnet ienep sáme oahppamnævojt,javlli åhpadiddje. 1.- 4 klássajn li gudásgænna  le  åhpadus  sámegielanvuostasjgiellan,  låges  5.-  7  klássajn  jasæmmi 8.- 10 klássajn.15-16 jage dássta åvddåla Ájluovta skåvllåsámegielan vuostasjgiellan åhpadahttjáj.Dat  rájes  li  ienep  ja  ienep  oahppe  davválljim.  Valla  hásstalus  le  vilá  gååhpaduvvá  sámegiellaj,  madi  girje  lidárogiellaj tjáledum.  Vájvve l ham gåvierttip dárogiellaj låhkåt ja sámegiellajvásstedit, javllá nubbe oahppijs.Åhpadiddje  ålov  biesskedi  ja  dabbmiji</p>
+<p>åhpadime åvddåla.  Valla åttjudam lipmoattedimmasjijnav  bájnoj,  navti  gåjttjáppa  bájnojt  oadtjop,  javlli  oahppemánájskåvlån.  Adni  aj  guottedahttedáhtámasjijnajt,  ja  oahppamnævojt  mainternehtan gávnnuji.  Suohtas le powerpoint  vuosádusájt  dahkat,  åvdep  báleplanehtaj birra dagájma, javllá vájmmelisbáhttja  4.  klássan.    Prosjæktabargovvuorodip  ja  oahppe  sierraláhkáj  lijkkujiaktisasjbargojda  oahppij  gejna  ledárogiella  vuostasjgiellan,  javlláåhpadiddje Wenche Nergård. Oahppijn libáhkogæhttjalime  fágajn,  vaj  vissása  literminologian  ja  fáhkamoallánagájtdåbddi.- Musihkka le huj suohtas, gå lip aktandivna  1.-  10.  klássajs,  javlli  oahppemánájdásen.-  Midjij  luluj  álkkep  jus  girje  lidjinsámegiellaj  tjáledum,  duola  daguluonndofágan ja sebrudakfágan, de lijmabessat  báhkogirjen  agev  åhtsåt,  javlláoahppe nuorajskåvlån.Valla asstoájgen, sámásti jali dárusti gus? Álu dárogiellaj målssop, måjudi oahppe.Valla giellatjiehpe gåjt dá oahppe sjaddi.Vuodoskåvlå  10  jagij  maññela  buktigålmmå giela; sámegielav, dárogielav ja</p>
+<p><em type="italic">Oahppamnævo sámegiellaj vájlluji:Oahppe nuorajskåvlån oahppamnævojtsámegiellaj åhtsåli.  Vájvve låhkåtgirjes dárogiellaj, gå vierttip sámegiellajtjállet, javlli.Mangler samiske læremidler: Elevenei ungdomstrinnet ved Drag skolemangler samiske læremidler.  Dumt å</em> </p>
+</body></document>

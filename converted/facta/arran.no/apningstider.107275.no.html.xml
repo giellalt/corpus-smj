@@ -1,61 +1,33 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>185</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/apningstider.107275.no.html</origFileName>
-    <parallel_text xml:lang="eng" location="apningstider.107275.no.html"/>
-    <parallel_text xml:lang="nob" location="apningstider.107275.no.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åpningstider - Árran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title" xml:lang="eng">Åpningstider - Rabásájge - Opening hours</p>
-    <p type="title" xml:lang="nno">Kontor - Sentralbord: Mand-Fred / Mánnod-bierjjed / Mond-Frid : 08:00-15:30</p>
-    <p xml:lang="vep">
-      <em type="italic">Á R R A N M U S E U M </em>
-    </p>
-    <p>
-      <em type="italic">Mandag-Fredag / Mánnodagás-bierjjedahkaj / Monday-Friday: Kl 09.00 – 15.30 </em>
-    </p>
-    <p type="listitem" xml:lang="nob">Museum, salg av duodje, guiding/fortelling om samisk kultur og samfunn.&#13; Musea, duodjevuobddem, oahpestibme/subtsastibme sáme kultuvra ja sebrudagá birra.&#13; Museum, museumshop, guiding/storytelling about Sami culture and society.Utstillinger:</p>
-    <p type="listitem" xml:lang="nob">Viessom: Den samiske gården og sjøsamisk kultur</p>
-    <p type="listitem" xml:lang="nob">Samisk identitet og kultur</p>
-    <p type="listitem" xml:lang="nob">Samisk drakttradisjon, sølv og runebommeVuosádusá:</p>
-    <p type="listitem">Viessom: Sáme sijdda ja merrasáme kultuvrra</p>
-    <p type="listitem">Samisk iesjdåbddo ja kultuvrra</p>
-    <p type="listitem">Sáme bivtasdábe, silba ja goabdes</p>
-    <p type="listitem" xml:lang="eng">Exhibitions:</p>
-    <p type="listitem" xml:lang="eng">Viessom: The Sami farm and coastal Sami culture</p>
-    <p type="listitem" xml:lang="eng">Sami identity and culture</p>
-    <p type="listitem" xml:lang="eng">Sami costume tradition, silver and drumBilletter:</p>
-    <p type="listitem" xml:lang="est">Voksne: Kr.60,00</p>
-    <p type="listitem" xml:lang="nob">Honnør/student: Kr 50,00</p>
-    <p type="listitem" xml:lang="nob">Barn under 6 år: gratis</p>
-    <p type="listitem" xml:lang="nob">Barn 6-18 år: Kr 25,00</p>
-    <p type="listitem" xml:lang="nob">Gruppe over 10 personer: Kr 50,00Bilehta:</p>
-    <p type="listitem">Ållessjattuga: 60 kr</p>
-    <p type="listitem">Álbedim/studenta: 50 kr</p>
-    <p type="listitem">Máná vuollela 6 jage: navku</p>
-    <p type="listitem">Máná 6-18 jagága: 25 kr</p>
-    <p type="listitem">Juohkusa ienep10 ulmutja: 50 krTickets:</p>
-    <p type="listitem" xml:lang="nno">Adults: 60 nok</p>
-    <p type="listitem" xml:lang="nob">Senior/student: 50 nok</p>
-    <p type="listitem" xml:lang="eng">Children under 6 years: free</p>
-    <p type="listitem" xml:lang="eng">Children 6-18 years: 25 nok</p>
-    <p type="listitem" xml:lang="eng">Group of 10 persons: 50 nok</p>
-    <p xml:lang="nob">Les mer...</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>185</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/apningstider.107275.no.html</origFileName><parallel_text xml:lang="eng" location="apningstider.107275.no.html"/><parallel_text xml:lang="nob" location="apningstider.107275.no.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åpningstider - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title" xml:lang="eng">Åpningstider - Rabásájge - Opening hours</p>
+<p type="title" xml:lang="nno">Kontor - Sentralbord: Mand-Fred / Mánnod-bierjjed / Mond-Frid : 08:00-15:30</p>
+<p xml:lang="est"><em type="italic">Á R R A N M U S E U M </em></p>
+<p><em type="italic">Mandag-Fredag / Mánnodagás-bierjjedahkaj / Monday-Friday: Kl 09.00 – 15.30 </em></p>
+<p type="listitem" xml:lang="nob">Museum, salg av duodje, guiding/fortelling om samisk kultur og samfunn.&#13; Musea, duodjevuobddem, oahpestibme/subtsastibme sáme kultuvra ja sebrudagá birra.&#13; Museum, museumshop, guiding/storytelling about Sami culture and society.Utstillinger:</p>
+<p type="listitem" xml:lang="nob">Viessom: Den samiske gården og sjøsamisk kultur</p>
+<p type="listitem" xml:lang="nob">Samisk identitet og kultur</p>
+<p type="listitem" xml:lang="nob">Samisk drakttradisjon, sølv og runebommeVuosádusá:</p>
+<p type="listitem">Viessom: Sáme sijdda ja merrasáme kultuvrra</p>
+<p type="listitem">Samisk iesjdåbddo ja kultuvrra</p>
+<p type="listitem">Sáme bivtasdábe, silba ja goabdes</p>
+<p type="listitem" xml:lang="eng">Exhibitions:</p>
+<p type="listitem" xml:lang="eng">Viessom: The Sami farm and coastal Sami culture</p>
+<p type="listitem" xml:lang="eng">Sami identity and culture</p>
+<p type="listitem" xml:lang="eng">Sami costume tradition, silver and drumBilletter:</p>
+<p type="listitem" xml:lang="est">Voksne: Kr.60,00</p>
+<p type="listitem" xml:lang="nob">Honnør/student: Kr 50,00</p>
+<p type="listitem" xml:lang="nob">Barn under 6 år: gratis</p>
+<p type="listitem" xml:lang="nob">Barn 6-18 år: Kr 25,00</p>
+<p type="listitem" xml:lang="nob">Gruppe over 10 personer: Kr 50,00Bilehta:</p>
+<p type="listitem">Ållessjattuga: 60 kr</p>
+<p type="listitem">Álbedim/studenta: 50 kr</p>
+<p type="listitem">Máná vuollela 6 jage: navku</p>
+<p type="listitem">Máná 6-18 jagága: 25 kr</p>
+<p type="listitem">Juohkusa ienep10 ulmutja: 50 krTickets:</p>
+<p type="listitem" xml:lang="nno">Adults: 60 nok</p>
+<p type="listitem" xml:lang="nob">Senior/student: 50 nok</p>
+<p type="listitem" xml:lang="eng">Children under 6 years: free</p>
+<p type="listitem" xml:lang="eng">Children 6-18 years: 25 nok</p>
+<p type="listitem" xml:lang="eng">Group of 10 persons: 50 nok</p>
+<p xml:lang="nob">Les mer...</p>
+</body></document>

@@ -1,39 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>NSR åhtså nuorajtjállev – NSR</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2015</year>
-    <wordcount>262</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://nsr.no/4267/nsr-ahtsa-nuorajtjallev?lang=smj</origFileName>
-    <parallel_text xml:lang="nob" location="nsr-soker-ungdomssekretaer.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Vuona Sámij Rijkasiebrre</p>
-    <p type="title">NSR åhtså nuorajtjállev</p>
-    <p xml:lang="sme">NSR   NSR-U  NSR-N , nuorat , rabas virge  0</p>
-    <p><em type="italic">NSRa nuorajnammadussaj åhtsåduvvá tjálle 20–25 % virggáj. NSR-N jådet NSRa nuorajdåjmajt. </em> </p>
-    <p>NSR åhtså tjállev gut sjaddá stuoves oassen NSR-familjas, ja máhttá iesjrádálattjat barggat, åvdåsvásstádusáv válldá ja viehket ietjas buorre aktisasjbarggomáhtukvuodajn. Jus buoragit aktan hiehpap de besa nuorajnammadusáv viehkedit ájnas bargoj. Duodden sjatta oassen NSRa dåjmadagás ja dán tjadá besa aj barggat geldulasj bargoj majt dåjmadakjådediddje vaddá.</p>
-    <p><em type="italic">Nuorajnammadusá birra </em>Nuorajnammadus jådet NSRa nuorajdåjmajt, NSRa bieles moalget nuorajgatjálvisáj gáktuj ja NSR:v åvdås sihke nasjonálalattjat ja rijkkagasskasattjat ietjá nuorajsiebrij aktijvuodan. Nuorajnammadusán la jådediddje, nubbejådediddje, gålmmå sebrulattja ja vihtta sadjásasj sebrulattja. Dábálattjat gájka tjåhkani, ja ássjijt mierredi guorrasime/konsensus prinsihpa milta. Nuorajnammadusán la stuoves sadje NSRa rijkkatjåhkanimen. </p>
-    <p xml:lang="nob">NSR-U-ere høsten 2014. <em type="italic">(Foto: Kenneth Hætta) </em></p>
-    <p><em type="italic">Virge birra </em>Nuorajtjálle barggodahkamusá li duola dagu viehkedit nuorajnammadusáv tjåhkanimijn ja tjåhkanimij gaskan, nuorajnammadusá mærrádusájt tjadádit, barggat nuorajnammadusá prosjevtaj ja sebrulasjbargoj. </p>
-    <p>Virggáj dættoduvvá mássjkisvuohta, berustibme politihkas ja siebrrebargos, duodden aj tjállemmáhtudahka. NSR ájggu nannit dåjmadagá sámegiellamáhtudagáv ådå virgádimij baktu. Danen sávvap åhttse buktá nuortta-, julev- ja/jali oarjjelsámegielav sihke njálmálattjat ja tjállálattjat.</p>
-    <p>Barggosadje l NSRa dåjmadagán Guovddagæjnon, valla árvustallap aj vejulasjvuodav sijdas barggat. Maneldibme l vuordedahtte.</p>
-    <p>Sávvap virggáj álgá nav ruvva gå vejulasj. Bálggá sjiehtadusá milta.</p>
-    <p><em type="italic">Jus li gatjálvisá jali sáva vil ienep diedojt </em>, guládalá nuorajnammadusá jådediddjijn Ánde Trosten, tlf. 928 54 972, jali NSRa dåjmadagájådediddjijn Thomas Myrnes Nygård, tlf. 988 50 273. </p>
-    <p><em type="italic">Åhtsåmus aktan CV:jn viertti liehket NSRa háldon åvddål gålgådismánno 7. biejvve 2015. </em>Åhtsåmus elektråvnålattjat sáddiduvvá e-påsta baktu nsr@nsr.no jali dábálasj påsta baktu NSR, Pb. 173, 9521 Guovdageaidnu. </p>
-    <p>Bivddi stáda sámijt káffaj</p>
-    <p xml:lang="sme">Javllavarrudagá NSR presidænntaævtodusás, Aili Keskitalo</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>NSR åhtså nuorajtjállev – NSR</title><genre code="admin"/><author><unknown/></author><year>2015</year><wordcount>259</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://nsr.no/4267/nsr-ahtsa-nuorajtjallev?lang=smj</origFileName><parallel_text xml:lang="nob" location="nsr-soker-ungdomssekretaer.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">NSR åhtså nuorajtjállev</p>
+<p xml:lang="sme">NSR   NSR-U  NSR-N , nuorat , rabas virge  0</p>
+<p><em type="italic">NSRa nuorajnammadussaj åhtsåduvvá tjálle 20–25 % virggáj. NSR-N jådet NSRa nuorajdåjmajt. </em> </p>
+<p>NSR åhtså tjállev gut sjaddá stuoves oassen NSR-familjas, ja máhttá iesjrádálattjat barggat, åvdåsvásstádusáv válldá ja viehket ietjas buorre aktisasjbarggomáhtukvuodajn. Jus buoragit aktan hiehpap de besa nuorajnammadusáv viehkedit ájnas bargoj. Duodden sjatta oassen NSRa dåjmadagás ja dán tjadá besa aj barggat geldulasj bargoj majt dåjmadakjådediddje vaddá.</p>
+<p><em type="italic">Nuorajnammadusá birra </em>Nuorajnammadus jådet NSRa nuorajdåjmajt, NSRa bieles moalget nuorajgatjálvisáj gáktuj ja NSR:v åvdås sihke nasjonálalattjat ja rijkkagasskasattjat ietjá nuorajsiebrij aktijvuodan. Nuorajnammadusán la jådediddje, nubbejådediddje, gålmmå sebrulattja ja vihtta sadjásasj sebrulattja. Dábálattjat gájka tjåhkani, ja ássjijt mierredi guorrasime/konsensus prinsihpa milta. Nuorajnammadusán la stuoves sadje NSRa rijkkatjåhkanimen. </p>
+<p xml:lang="nob">NSR-U-ere høsten 2014. <em type="italic">(Foto: Kenneth Hætta) </em></p>
+<p><em type="italic">Virge birra </em>Nuorajtjálle barggodahkamusá li duola dagu viehkedit nuorajnammadusáv tjåhkanimijn ja tjåhkanimij gaskan, nuorajnammadusá mærrádusájt tjadádit, barggat nuorajnammadusá prosjevtaj ja sebrulasjbargoj. </p>
+<p>Virggáj dættoduvvá mássjkisvuohta, berustibme politihkas ja siebrrebargos, duodden aj tjállemmáhtudahka. NSR ájggu nannit dåjmadagá sámegiellamáhtudagáv ådå virgádimij baktu. Danen sávvap åhttse buktá nuortta-, julev- ja/jali oarjjelsámegielav sihke njálmálattjat ja tjállálattjat.</p>
+<p>Barggosadje l NSRa dåjmadagán Guovddagæjnon, valla árvustallap aj vejulasjvuodav sijdas barggat. Maneldibme l vuordedahtte.</p>
+<p>Sávvap virggáj álgá nav ruvva gå vejulasj. Bálggá sjiehtadusá milta.</p>
+<p><em type="italic">Jus li gatjálvisá jali sáva vil ienep diedojt </em>, guládalá nuorajnammadusá jådediddjijn Ánde Trosten, tlf. 928 54 972, jali NSRa dåjmadagájådediddjijn Thomas Myrnes Nygård, tlf. 988 50 273. </p>
+<p><em type="italic">Åhtsåmus aktan CV:jn viertti liehket NSRa háldon åvddål gålgådismánno 7. biejvve 2015. </em>Åhtsåmus elektråvnålattjat sáddiduvvá e-påsta baktu nsr@nsr.no jali dábálasj påsta baktu NSR, Pb. 173, 9521 Guovdageaidnu. </p>
+<p>Bivddi stáda sámijt káffaj</p>
+<p xml:lang="sme">Javllavarrudagá NSR presidænntaævtodusás, Aili Keskitalo</p>
+</body></document>

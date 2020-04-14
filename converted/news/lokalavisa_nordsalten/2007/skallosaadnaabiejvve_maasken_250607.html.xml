@@ -1,54 +1,20 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Skallosådnåbiejvve Måsken</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Lill Tove" lastname="Paulsen" sex="f" born="" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>522</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/skallosadnabiejvve-masken.4042</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Gåvvim rássjodálkken. Skallolåhkke Kristmar Lindbach, Isabell Thomassen ja Håkon Mikkelsen, hærrá Magne Kolvik ja tjuoggulvis pedagog Heidi Kalvåga siegen.</p>
-    <p type="title">Skallosådnåbiejvve Måsken</p>
-    <p>Juska lidjin dåssju gålmmå skallolåhkke, de lidjin Måsken bassebiejve ållo ulmutja vásse ájllega. Dát dáhpe vuona sinna, gåsi ij rahte jåvsåda, le 7-8 jage vihpam, ja dát biejvve l sjaddam akta dajs ájnnasamos biejvijs Måskegijda.</p>
-    <p>Vuostasj bále skallo lij dáppe lej jagen 1999, subtsas hærrá Magne Kolvik, gut dalloj aj skallij biednagoaden Måsken. Tjuoggulvis pedagog Heidi Kalvåga siegen lej sujna åvdåsvásstádus åhpadit dájt gålmmå skallolåhkkijt Håkon Mikkelsen (Måskes), Isabell Thomassen (Måskes/Innhávas) ja Kristmar Lindbach ( Siljárbáhkkos). Divtasvuonan dættov lip biedjam tjoahkkit skallolåhkkijt aktisasjåhpadibmáj, subtsas Heidi Kalvåg.</p>
-    <p>-Gålmmå biejve lip skåvllim Ájluovtan, ja gålmmå biejve Gásluovtan. Ja de lijma Måsken åvtå ájllega, gånnå riek hávsske lij, subtsas tjoaggulvispedagog.</p>
-    <p>Måske biednagoades li histåvrå ja mujto dålutjis. Vuoras ulmutjij mujtoj millta l biednagoahte birra 120 jage. Tsieggiduváj skåvllådåhpen ja internáhttan, ja anon lij gihtta 1970 tállaj , desik de ådå skåvlåv tsieggijin. Ådå skåvlån gahtsaj gåvvå oabme skåvlås majt la Ivar Urheim mállim. Peder Amundsenin ja Inga Karlsenin badjáni mujto dålusj rájes gå gåvåv vuojnneba. Pederin ja Ingan li buorre mujto, Ingan li aj mujto ma ælla nav buore. Peder Amundsen gut bajás sjattaj Måsken ja álgij skåvllåj jagen 1950, subtsas lidjin ållo máná ja moadda suohttasa. Dalloj lij juo salljo skåvlå guoran gånnå oahppe bállov tjiektjin. Jusska suv iednegiella lij sámegiella sæmmi gå ietjádijn Måsken, de la suv mielas buorre gå vierttij dárogielav oahppat, javllá sån.</p>
-    <p>-Jus ejma la dárogielav oahppat skåvlån, de iv gåjt de diede gåktu lij mannat. Peder Amundsen nuorran sjøssaj manáj, ja maññáj de ietjas barggosajev ásadij gånnå de bargaj 25 jage, desik de sjattaj pensjonissta nágin jagev dás åvddåla.</p>
-    <p>Gåvvå oabme skåvllådåbes båktå aj nievres mujtojt Inga Karlsenin. Sån bajás sjattaj Vuodnabadán, ja hæhttuj sijdas ierit årrot . Smáv skåvlån dalloj skåvllijin guokta vahko, ja vas guokta vahko friddja. Muhtem biejvijt gæhttjiv sijdaguovlluj ganjáltjalmij, subtsas Inga Karlsen, ja javllá sujna li aj buorre mujto internáhta ájges.</p>
-    <p>-Miján lij internáhtan buorre ja låjes iemet gut sámástij. Gå skåvllådåhpåj bådijma de lij gássjel dárogielav dádjadit. Nav gåjt de mån vásediv. Miján lidjin ienemusát dárogiel åhpadiddje, subtsas Inga - gut lij juo skåvllåj álggám nágin jagev åvddål gå Peder Amundsen álgij, birrusin 40-tálla.</p>
-    <p>Sådnåbiejve lij biednagoahte ållu dievas. Lidjin tjåhkanam birrusin 130 ulmutja mæssuj gånnå gulluj sáme- ja dárogiella. Moattes guossijs lidjin juo boahtám biejvev åvddåla, ietjáda vas tjuovvun hærráfilkav Gásluovtas ja Ájláttes dan ideda.</p>
-    <p>Maññela mæsso gåvvijin skallolåhkkijt, åvddål gå Kristmar vuolgij aktan familjajnis ja guossij – ávudalátjit sijddaj Siljárbáhkkuj. Ietjá guosse lidjin gåhtjodum Håkona ja Isabella lusi. Håkon sijdan ietjas guossij ja Isabell skåvlån, gut lij gåhttjum edna guossev káffaj.</p>
-    <p>Fuolke li stuore sámij gaskan Divtasvuonan, dajnas de moattes guossijs lidjin káfan guovten sajen dán sådnåbiejve.</p>
-    <p>Dát skallobiejvve sjattaj dat allabiejvve mij lij vuordedum, njálga biebmoj, oahpes ulmutjij ságastallat, håla ja varrudagá, ja aj tjáhpa lávllaga. Vuojnunagá l lávllomtrádisjåvnnå ájn viesso!</p>
-    <p>Biejvve mujtton - skallolåhkkijda ja midjij ietjádijda gudi lijma danna!</p>
-    <p xml:lang="nob">Tæksta: Børge Strandskog</p>
-    <p>Jårggålibme: Lill-Tove Paulsen</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Skallosådnåbiejvve Måsken"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Skallosådnåbiejvve Måsken</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><person firstname="Lill Tove" lastname="Paulsen" sex="f" born="" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>522</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/skallosadnabiejvve-masken.4042</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Gåvvim rássjodálkken. Skallolåhkke Kristmar Lindbach, Isabell Thomassen ja Håkon Mikkelsen, hærrá Magne Kolvik ja tjuoggulvis pedagog Heidi Kalvåga siegen.</p>
+<p type="title">Skallosådnåbiejvve Måsken</p>
+<p>Juska lidjin dåssju gålmmå skallolåhkke, de lidjin Måsken bassebiejve ållo ulmutja vásse ájllega. Dát dáhpe vuona sinna, gåsi ij rahte jåvsåda, le 7-8 jage vihpam, ja dát biejvve l sjaddam akta dajs ájnnasamos biejvijs Måskegijda.</p>
+<p>Vuostasj bále skallo lij dáppe lej jagen 1999, subtsas hærrá Magne Kolvik, gut dalloj aj skallij biednagoaden Måsken. Tjuoggulvis pedagog Heidi Kalvåga siegen lej sujna åvdåsvásstádus åhpadit dájt gålmmå skallolåhkkijt Håkon Mikkelsen (Måskes), Isabell Thomassen (Måskes/Innhávas) ja Kristmar Lindbach ( Siljárbáhkkos). Divtasvuonan dættov lip biedjam tjoahkkit skallolåhkkijt aktisasjåhpadibmáj, subtsas Heidi Kalvåg.</p>
+<p>-Gålmmå biejve lip skåvllim Ájluovtan, ja gålmmå biejve Gásluovtan. Ja de lijma Måsken åvtå ájllega, gånnå riek hávsske lij, subtsas tjoaggulvispedagog.</p>
+<p>Måske biednagoades li histåvrå ja mujto dålutjis. Vuoras ulmutjij mujtoj millta l biednagoahte birra 120 jage. Tsieggiduváj skåvllådåhpen ja internáhttan, ja anon lij gihtta 1970 tállaj , desik de ådå skåvlåv tsieggijin. Ådå skåvlån gahtsaj gåvvå oabme skåvlås majt la Ivar Urheim mállim. Peder Amundsenin ja Inga Karlsenin badjáni mujto dålusj rájes gå gåvåv vuojnneba. Pederin ja Ingan li buorre mujto, Ingan li aj mujto ma ælla nav buore. Peder Amundsen gut bajás sjattaj Måsken ja álgij skåvllåj jagen 1950, subtsas lidjin ållo máná ja moadda suohttasa. Dalloj lij juo salljo skåvlå guoran gånnå oahppe bállov tjiektjin. Jusska suv iednegiella lij sámegiella sæmmi gå ietjádijn Måsken, de la suv mielas buorre gå vierttij dárogielav oahppat, javllá sån.</p>
+<p>-Jus ejma la dárogielav oahppat skåvlån, de iv gåjt de diede gåktu lij mannat. Peder Amundsen nuorran sjøssaj manáj, ja maññáj de ietjas barggosajev ásadij gånnå de bargaj 25 jage, desik de sjattaj pensjonissta nágin jagev dás åvddåla.</p>
+<p>Gåvvå oabme skåvllådåbes båktå aj nievres mujtojt Inga Karlsenin. Sån bajás sjattaj Vuodnabadán, ja hæhttuj sijdas ierit årrot . Smáv skåvlån dalloj skåvllijin guokta vahko, ja vas guokta vahko friddja. Muhtem biejvijt gæhttjiv sijdaguovlluj ganjáltjalmij, subtsas Inga Karlsen, ja javllá sujna li aj buorre mujto internáhta ájges.</p>
+<p>-Miján lij internáhtan buorre ja låjes iemet gut sámástij. Gå skåvllådåhpåj bådijma de lij gássjel dárogielav dádjadit. Nav gåjt de mån vásediv. Miján lidjin ienemusát dárogiel åhpadiddje, subtsas Inga - gut lij juo skåvllåj álggám nágin jagev åvddål gå Peder Amundsen álgij, birrusin 40-tálla.</p>
+<p>Sådnåbiejve lij biednagoahte ållu dievas. Lidjin tjåhkanam birrusin 130 ulmutja mæssuj gånnå gulluj sáme- ja dárogiella. Moattes guossijs lidjin juo boahtám biejvev åvddåla, ietjáda vas tjuovvun hærráfilkav Gásluovtas ja Ájláttes dan ideda.</p>
+<p>Maññela mæsso gåvvijin skallolåhkkijt, åvddål gå Kristmar vuolgij aktan familjajnis ja guossij – ávudalátjit sijddaj Siljárbáhkkuj. Ietjá guosse lidjin gåhtjodum Håkona ja Isabella lusi. Håkon sijdan ietjas guossij ja Isabell skåvlån, gut lij gåhttjum edna guossev káffaj.</p>
+<p>Fuolke li stuore sámij gaskan Divtasvuonan, dajnas de moattes guossijs lidjin káfan guovten sajen dán sådnåbiejve.</p>
+<p>Dát skallobiejvve sjattaj dat allabiejvve mij lij vuordedum, njálga biebmoj, oahpes ulmutjij ságastallat, håla ja varrudagá, ja aj tjáhpa lávllaga. Vuojnunagá l lávllomtrádisjåvnnå ájn viesso!</p>
+<p>Biejvve mujtton - skallolåhkkijda ja midjij ietjádijda gudi lijma danna!</p>
+<p xml:lang="nob">Tæksta: Børge Strandskog</p>
+<p>Jårggålibme: Lill-Tove Paulsen</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Skallosådnåbiejvve Måsken"</span> på Facebook</p>
+</body></document>

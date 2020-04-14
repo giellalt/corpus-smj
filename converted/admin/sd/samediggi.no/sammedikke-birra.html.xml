@@ -1,43 +1,32 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>148</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra</origFileName>
-    <parallel_text xml:lang="nob" location="om-sametinget.html"/>
-    <parallel_text xml:lang="sma" location="saemiedigkien-bijre.html"/>
-    <parallel_text xml:lang="sme" location="samedikki-birra.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sámmedikke birra / Sámedigge - Sametinget</p>
-    <p type="title" xml:lang="sme">Sámmedikke birra</p>
-    <p>Sámedigge le sámij álmmukválljidum orgádna Vuonan. 39 ájrrasa válljiduvvi gietjat válggaguovlos juohkka nælját jage. Sámedigge galggá nannit sámij politihkalasj dilev ja åvdedit sámij ássjijt Vuonan, barggat vaj sáme álmmuk giehtadaláduvvá avtaárvvusattjat ja rievtesferduk láhkáj ja hiebadahttet vaj sáme máhtti ietjasa gielav, kultuvrav ja sebrudakiellemav åvddånahttet.</p>
-    <list>
-      <p type="listitem" xml:lang="sme">Ájrrasa <list><p type="listitem" xml:lang="sme">Sámediggi giehtagirji</p><p type="listitem">Sjiemá ájrrasida</p></list></p>
-      <p type="listitem" xml:lang="sme">Rabas virggit <list><p type="listitem" xml:lang="sme">Almmolaš ohcciidlisttut</p></list></p>
-      <p type="listitem" xml:lang="sme">Sámediggeviesso <list><p type="listitem">Arkitektonalasj moallánahka</p><p type="listitem">Dájdda Sámedikketsiekkadusán</p><p type="listitem">Sámedikkev guossidit</p><p type="listitem" xml:lang="sme">Sámediggái beassama birra - njuolggadusat</p></list></p>
-      <p type="listitem">Organisasjåvnå struktuvrra <list><p type="listitem">Ållestjåhkanibme</p><p type="listitem">Ållestjåhkanime jådedibme</p><p type="listitem" xml:lang="sme">Komitea</p><p type="listitem" xml:lang="sme">Sámedikki váiddalávdegoddi</p><p type="listitem">Sámedikkeráde</p><p type="listitem">SNPN</p><p type="listitem">Sámedikke vuorrasij ráde</p></list></p>
-      <p type="listitem">Duogásj <list><p type="listitem" xml:lang="sme">Sámediggi 25 jagi</p><p type="listitem">Histåvrrå</p><p type="listitem">Rievtesvuoda</p><p type="listitem">Rádádallamsjiehtadus</p><p type="listitem">Álmmukbiejvve ja nasjåvnålasj gåvåstagá</p></list></p>
-      <p type="listitem">Válde aktijvuodav mijájn <list><p type="listitem">Aktijvuodadiehto Sámedikke barggijda gávna dánna.</p></list></p>
-      <p type="listitem" xml:lang="sme">Suohkanođastus <list><p type="listitem" xml:lang="sme">Sámediggi háliida du oaivila suohkanođastusa birra!</p></list></p>
-    </list>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>148</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra</origFileName><parallel_text xml:lang="nob" location="om-sametinget.html"/><parallel_text xml:lang="sma" location="saemiedigkien-bijre.html"/><parallel_text xml:lang="sme" location="samedikki-birra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sámmedikke birra / Sámedigge - Sametinget</p>
+<p type="title" xml:lang="sme">Sámmedikke birra</p>
+<p>Sámedigge le sámij álmmukválljidum orgádna Vuonan. 39 ájrrasa válljiduvvi gietjat válggaguovlos juohkka nælját jage. Sámedigge galggá nannit sámij politihkalasj dilev ja åvdedit sámij ássjijt Vuonan, barggat vaj sáme álmmuk giehtadaláduvvá avtaárvvusattjat ja rievtesferduk láhkáj ja hiebadahttet vaj sáme máhtti ietjasa gielav, kultuvrav ja sebrudakiellemav åvddånahttet.</p>
+<list><p type="listitem" xml:lang="sme">Ájrrasa <list><p type="listitem" xml:lang="sme">Sámediggi giehtagirji</p>
+<p type="listitem">Sjiemá ájrrasida</p>
+</list></p>
+<p type="listitem" xml:lang="sme">Rabas virggit <list><p type="listitem" xml:lang="sme">Almmolaš ohcciidlisttut</p>
+</list></p>
+<p type="listitem" xml:lang="sme">Sámediggeviesso <list><p type="listitem">Arkitektonalasj moallánahka</p>
+<p type="listitem">Dájdda Sámedikketsiekkadusán</p>
+<p type="listitem">Sámedikkev guossidit</p>
+<p type="listitem" xml:lang="sme">Sámediggái beassama birra - njuolggadusat</p>
+</list></p>
+<p type="listitem">Organisasjåvnå struktuvrra <list><p type="listitem">Ållestjåhkanibme</p>
+<p type="listitem">Ållestjåhkanime jådedibme</p>
+<p type="listitem" xml:lang="sme">Komitea</p>
+<p type="listitem" xml:lang="sme">Sámedikki váiddalávdegoddi</p>
+<p type="listitem">Sámedikkeráde</p>
+<p type="listitem">SNPN</p>
+<p type="listitem">Sámedikke vuorrasij ráde</p>
+</list></p>
+<p type="listitem">Duogásj <list><p type="listitem" xml:lang="sme">Sámediggi 25 jagi</p>
+<p type="listitem">Histåvrrå</p>
+<p type="listitem">Rievtesvuoda</p>
+<p type="listitem">Rádádallamsjiehtadus</p>
+<p type="listitem">Álmmukbiejvve ja nasjåvnålasj gåvåstagá</p>
+</list></p>
+<p type="listitem">Válde aktijvuodav mijájn <list><p type="listitem">Aktijvuodadiehto Sámedikke barggijda gávna dánna.</p>
+</list></p>
+<p type="listitem" xml:lang="sme">Suohkanođastus <list><p type="listitem" xml:lang="sme">Sámediggi háliida du oaivila suohkanođastusa birra!</p>
+</list></p>
+</list></body></document>

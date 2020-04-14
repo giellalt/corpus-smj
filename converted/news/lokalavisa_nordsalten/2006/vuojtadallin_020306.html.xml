@@ -1,38 +1,8 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Vuojtádallin</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>184</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/vuojt-dallin.4175</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Vuojtádallin</p>
-    <p>Jørgen Kintel, Mathias Mikkelsen ja Nils Heika Andersen gudi oassálasstin NRK-gilppusin ”Diedá gus?”</p>
-    <p xml:lang="nob">Norsk kortversjon</p>
-    <p>Dát lij vidát jage rájdon gå Ájluovta skåvllå l oassálasstemin ”Diedá gus?”-gilppusij mij ásaduvvá NRK Sámerádios. Vásse duorastagá lidjin gålmmå oahppe mikrofåvnåj åvdån, ja gulldalidje ællim rat dudálattja gå sátta lij dåssju nuorttasámegiellaj. Oassálasste ettjin rijba vuostasj gierde, ja sijáj mielas lij giella aj muhte rádjáj sivvan dasi.</p>
-    <p>-Ejma dádjada rat divna majt prográmmajådediddje ja duobbmár giehtojga gå dåssju nuorttasámev hålajga, javlli oassálasste Nils Heika Andersen, Jørgen Kintel ja Mathias Mikkelsen.</p>
-    <p>Nils Heika Andersen jáhkká avtan ja vájbi guovten gatjálvisán lij ållu buorebut mannat jus lidjin gatjálvisájt oadtjot sæmmi bále gå då nuppe nav vaj ájádallamájgge lij jur sæmmi guhkke divnajn. –Oanes ájgge lij gal muhttijn ájádalátjit dajna gå oattjojma ietjamij giellaj jårggåluvvam esski maññela, javllá sån ja vuornnu sij lij nievres vuojtádalle. – Ij dal dat majdik dagá jus vuojtádalájma. Suohtas lij dal huoman oassálasstet, valla suohttasabbo lij gal jus lijma divna dádjadit. Doajvov boahtte jahkáj la unnán ietjájduvvam, javllá Nils Heika Andersen.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Vuojtádallin</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>184</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/vuojt-dallin.4175</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Vuojtádallin</p>
+<p>Jørgen Kintel, Mathias Mikkelsen ja Nils Heika Andersen gudi oassálasstin NRK-gilppusin ”Diedá gus?”</p>
+<p xml:lang="nob">Norsk kortversjon</p>
+<p>Dát lij vidát jage rájdon gå Ájluovta skåvllå l oassálasstemin ”Diedá gus?”-gilppusij mij ásaduvvá NRK Sámerádios. Vásse duorastagá lidjin gålmmå oahppe mikrofåvnåj åvdån, ja gulldalidje ællim rat dudálattja gå sátta lij dåssju nuorttasámegiellaj. Oassálasste ettjin rijba vuostasj gierde, ja sijáj mielas lij giella aj muhte rádjáj sivvan dasi.</p>
+<p>-Ejma dádjada rat divna majt prográmmajådediddje ja duobbmár giehtojga gå dåssju nuorttasámev hålajga, javlli oassálasste Nils Heika Andersen, Jørgen Kintel ja Mathias Mikkelsen.</p>
+<p>Nils Heika Andersen jáhkká avtan ja vájbi guovten gatjálvisán lij ållu buorebut mannat jus lidjin gatjálvisájt oadtjot sæmmi bále gå då nuppe nav vaj ájádallamájgge lij jur sæmmi guhkke divnajn. –Oanes ájgge lij gal muhttijn ájádalátjit dajna gå oattjojma ietjamij giellaj jårggåluvvam esski maññela, javllá sån ja vuornnu sij lij nievres vuojtádalle. – Ij dal dat majdik dagá jus vuojtádalájma. Suohtas lij dal huoman oassálasstet, valla suohttasabbo lij gal jus lijma divna dádjadit. Doajvov boahtte jahkáj la unnán ietjájduvvam, javllá Nils Heika Andersen.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

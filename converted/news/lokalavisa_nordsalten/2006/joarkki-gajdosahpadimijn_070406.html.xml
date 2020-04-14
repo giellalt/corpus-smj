@@ -1,36 +1,6 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Joarkki gájdosåhpadimijn</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>87</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/joarkki-g-jdosahpadimijn.4160</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Joarkki gájdosåhpadimijn</p>
-    <p>Gájdosåhpadibme Árranis aj boatte skåvllåjage joarkká. Árran fállá åhpadimev julevsámegiellaj vuodo- ja joarkkakåvlå oahppijda gájka gielladásijda. Åhpadiddje l Árranin, valla oahppe oadtju åhpadimev videokonferánsarustigij tjadá.dan skåvllåj gånnå li bæjválattjat. Norsk kortversjon</p>
-    <p>Skåvlå ma sihti åhpadimev sámegiellaj TV’a baktu, vierttiji ruvvalahkáj Árranij diededit. Åtsådallam vuoset sjaddá nággo tjaktjaj buoremus åhpadimájgev åttjudit gå nav moadda skåvllå sihti dákkár fálaldagáv.</p>
-    <p>Árran la juo dákkár åhpadimvuogijn 8 jage barggam, ja oahppe li vargga ålles Vuonarijkas.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Joarkki gájdosåhpadimijn</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>87</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/joarkki-g-jdosahpadimijn.4160</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Joarkki gájdosåhpadimijn</p>
+<p>Gájdosåhpadibme Árranis aj boatte skåvllåjage joarkká. Árran fállá åhpadimev julevsámegiellaj vuodo- ja joarkkakåvlå oahppijda gájka gielladásijda. Åhpadiddje l Árranin, valla oahppe oadtju åhpadimev videokonferánsarustigij tjadá.dan skåvllåj gånnå li bæjválattjat. Norsk kortversjon</p>
+<p>Skåvlå ma sihti åhpadimev sámegiellaj TV’a baktu, vierttiji ruvvalahkáj Árranij diededit. Åtsådallam vuoset sjaddá nággo tjaktjaj buoremus åhpadimájgev åttjudit gå nav moadda skåvllå sihti dákkár fálaldagáv.</p>
+<p>Árran la juo dákkár åhpadimvuogijn 8 jage barggam, ja oahppe li vargga ålles Vuonarijkas.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

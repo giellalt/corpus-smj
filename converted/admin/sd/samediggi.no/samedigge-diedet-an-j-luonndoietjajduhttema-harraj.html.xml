@@ -1,35 +1,6 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Sámedigge diedet AN:j luonndoietjájduhttema hárráj</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2019</year>
-    <wordcount>108</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/AAdaasa/Samedigge-diedet-AN-j-luonndoietjajduhttema-harraj</origFileName>
-    <parallel_text xml:lang="nob" location="sametinget-rapporterer-til-fn-om-naturinngrep.html"/>
-    <parallel_text xml:lang="sma" location="saemiedigkie-eatnemeskilkehtassi-bijre-en-se-reektie.html"/>
-    <parallel_text xml:lang="sme" location="samediggi-raportere-on-i-luonddulihkahallamiid-birra.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Sámedigge diedet AN:j luonndoietjájduhttema hárráj</p>
-    <p>AN sierradiedediddje gájklágásj nállenuppástime gáktuj, E. Tendayi Achiume, la bivddim árvvalusájt ássjij hárráj ma guosski luondoluohkobuvtadibmáj temáhtalasj diedádussaj luondoluohko buvtadime ja nuppástime hárráj. Dan aktavuodan la Sámedigge diedádusáv dahkam mij tjalmostahttá minerálla buvtadimev, oaljov, rahtebiggimav ja bieggafábmoásadimev ja gåktu dá sáme æládusájda vájkkudi.</p>
-    <p>Sámedigge ij la dakkir árvvalusájt åvddåla buktám, valla diededime aktavuodan tjalmostahttá guovdásj gatjálvisájt ma guosski edna luonndoietjájduhttemij sáme guovlojn. Dajn guovlojn la sáme adno ja æládusdåjma, duola dagu boatsojsujtto ja luossabivddo.</p>
-    <p>Dájna diedádusájn Sámedigge sierradiedediddjáj tjalmostahttá oalle guovdásj ássjijt Vuonan, buojkulvissan gruvvodåjmadagáv Fálesnuoren ja bieggamillofábmotsieggimav Fovsenin. Sierradiedediddje diedádus galggá AN:j åvddåjbiejaduvvat åvddåla biehtsemáno 2019.</p>
-    <p>Ienep diedo diededime birra dánna .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Sámedigge diedet AN:j luonndoietjájduhttema hárráj</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2019</year><wordcount>108</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/AAdaasa/Samedigge-diedet-AN-j-luonndoietjajduhttema-harraj</origFileName><parallel_text xml:lang="nob" location="sametinget-rapporterer-til-fn-om-naturinngrep.html"/><parallel_text xml:lang="sma" location="saemiedigkie-eatnemeskilkehtassi-bijre-en-se-reektie.html"/><parallel_text xml:lang="sme" location="samediggi-raportere-on-i-luonddulihkahallamiid-birra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Sámedigge diedet AN:j luonndoietjájduhttema hárráj</p>
+<p>AN sierradiedediddje gájklágásj nállenuppástime gáktuj, E. Tendayi Achiume, la bivddim árvvalusájt ássjij hárráj ma guosski luondoluohkobuvtadibmáj temáhtalasj diedádussaj luondoluohko buvtadime ja nuppástime hárráj. Dan aktavuodan la Sámedigge diedádusáv dahkam mij tjalmostahttá minerálla buvtadimev, oaljov, rahtebiggimav ja bieggafábmoásadimev ja gåktu dá sáme æládusájda vájkkudi.</p>
+<p>Sámedigge ij la dakkir árvvalusájt åvddåla buktám, valla diededime aktavuodan tjalmostahttá guovdásj gatjálvisájt ma guosski edna luonndoietjájduhttemij sáme guovlojn. Dajn guovlojn la sáme adno ja æládusdåjma, duola dagu boatsojsujtto ja luossabivddo.</p>
+<p>Dájna diedádusájn Sámedigge sierradiedediddjáj tjalmostahttá oalle guovdásj ássjijt Vuonan, buojkulvissan gruvvodåjmadagáv Fálesnuoren ja bieggamillofábmotsieggimav Fovsenin. Sierradiedediddje diedádus galggá AN:j åvddåjbiejaduvvat åvddåla biehtsemáno 2019.</p>
+<p>Ienep diedo diededime birra dánna .</p>
+</body></document>

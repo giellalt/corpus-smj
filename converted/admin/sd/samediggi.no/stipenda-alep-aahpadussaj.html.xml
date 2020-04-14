@@ -1,104 +1,51 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Stipenda alep åhpadussaj</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <wordcount>463</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/Daarja-ja-stipenda/Stipenda-alep-aahpadussaj</origFileName>
-    <parallel_text xml:lang="nob" location="stipend-for-hoeyere-utdanning.html"/>
-    <parallel_text xml:lang="sma" location="stipende-jollebe-oeoehpehtaemman.html"/>
-    <parallel_text xml:lang="sme" location="stipeanda-alit-ohppui.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Stipenda alep åhpadussaj</p>
-    <p xml:lang="nob">Søknadsfrist: 01.10.2019 23:59</p>
-    <p>
-      <em type="italic">​​​​​​Dån máhtá stipendav oadtjot jus la studænntan avtan dajn tjuovvovasj åhpadusájn jagen 2019: </em>
-    </p>
-    <list>
-      <p type="listitem">Sáme mánájgárddeåhpadiddjeåhpadus</p>
-      <p type="listitem">Ietjá mánájgárddeåhpadiddjeåhpadus studentajda tjadádam eksámajn /åbbålasjkarakterajn sámegielan 1. jali 2. giellan joarkkaåhpadusás, jali vásstediddje dáses</p>
-      <p type="listitem">Sáme vuodoskåvllååhpadiddjeåhpadus mastarijn, 1-7 jali 5-10</p>
-      <p type="listitem">Vuodoskåvllååhpadiddjeåhpadus mastarijn sámegiella fáhkasuorgen, 1-7 jali 5-10</p>
-      <p type="listitem">Ietjá åhpadiddjeåhpadus studentajda tjadádam eksámajn /åbbålasjkarakteraj sámegielan 1. jali 2. giellan joarkkaåhpadusás, jali vásstediddje dáses: <list><p type="listitem">Lektoråhpadus 8-13</p><p type="listitem">Praktihkalasj -pedagåvgålasj åhpadus gájkkásasj fágajda</p><p type="listitem">Praktihkalasj -pedagåvgålasj åhpadus viddnofágajda 8-13</p><p type="listitem">Viddnofáhkaåhpadiddjeåhpadus</p><p type="listitem">Fáhkaåhpadiddjeåhpadus praktihkalasj ja estehtalasj fágajn</p></list></p>
-    </list>
-    <p>
-      <em type="italic">Gudi máhtti stipendav åhtsåt? </em>
-    </p>
-    <list>
-      <p type="listitem">Studenta sáme mánájgárdde- ja vuodoskåvllååhpadiddjeåhpadusán ja praktihkalasj -pedagåvgålasj åhpadusán Sáme allaskåvlån</p>
-      <p type="listitem">Studenta oarjjel- ja julevsámegielajn vuodoskåvllååhpadiddjeåhpadusán Nuortta universitiehtan</p>
-      <p type="listitem">Studenta allaskåvlåjn ja universitiehtajn Vuonan gudi li tjáledum Vuona álmmukregisstarin, ja gudi máhtti duodastit tjadádam eksámav jali åbbålasjkarakterav sámegiella 1. jali 2. giellan joarkkaåhpadusás jali vásstediddje dáses</p>
-    </list>
-    <p>
-      <em type="italic">Stipendaj stuorrudagá: </em>
-    </p>
-    <p>
-      <em type="italic">Merustallamnjuolgadusá </em>
-      <em type="italic">I: </em>
-    </p>
-    <list>
-      <p type="listitem">Mánájgárddeåhpadiddjeåhpadus</p>
-      <p type="listitem">Vuodoskåvllååhpadiddjeåhpadus 5-jahkásasj mastar 1-7 ja 5-10 sámegielajn fáhkasuorgen <list><p type="listitem">Binnemusát 30 oahppotjuorga juohkka åhpadusgávdan 25 000 kråvnå</p><p type="listitem">15 ja 29 oahppotjuorgaj gaskan juohkka åhpadusgávdan 10 000 kråvnå</p><p type="listitem">10 ja 14 oahppotjuorgaj gaskan juohkka åhpadusgávdan 5 000 kråvnå</p></list></p>
-    </list>
-    <p xml:lang="est">
-      <em type="italic">Merustallamnjuolgadusá II: </em>
-    </p>
-    <list>
-      <p type="listitem">Lektoråhpadus 8-13</p>
-      <p type="listitem">Praktihkalasj -pedagåvgålasj åhpadus gájkkásasj fágajda</p>
-      <p type="listitem">Praktihkalasj -pedagåvgålasj åhpadus viddnofágajda 8-13</p>
-      <p type="listitem">Viddnofágaåhpadiddjeåhpadus</p>
-      <p type="listitem">Fáhkaåhpadiddjeåhpadusá praktihkalasj ja estehtalasj fágajn <list><p type="listitem">Binnemusát 30 oahppotjuorga juohkka åhpadusgávdan kr 10 000</p><p type="listitem">15 ja 29 oahppotjuorgaj gaskan juohkka åhpadusgávdan kr 5 000</p><p type="listitem">10 ja 14 oahppotjuorgaj gaskan juohkka åhpadusgávdan kr 3 000</p></list></p>
-    </list>
-    <p>
-      <em type="italic">Åhtsåmsjiebmá: </em>
-    </p>
-    <list>
-      <p type="listitem">Sámedikke digitála åhtsåmsjiebmá <em type="italic">galggá </em>aneduvvat. </p>
-    </list>
-    <p>
-      <em type="italic">Åhtsåmsjiebmáj åhttsåj gut ij la Vuona álmmukregisstarin: </em>
-    </p>
-    <list>
-      <p type="listitem">Åhttse gut la studænntan Sáme allaskåvlån jali oarjjel- ja julevsámegielan vuodoskåvllååhpadiddjeåhpadusán Nuortta universitiehtan, ja ij la Vuona álmmukregisstarin - hæhttu iesj Sámedikkijn guládallat sierra åhtsåmsjiemáv åttjudittjat. <list><p type="listitem"><em type="italic">Vuollájtjáleduvvam </em>åhtsåmsjiebmá galggá sáddiduvvat e-påsta baktu åvddåla åhtsåmájggemiere – gidá åhpadusgávddaj guovvamáno 1.biejve ja tjaktja åhpadusgávddaj gålgådismáno 1.biejve. </p></list></p>
-    </list>
-    <p>
-      <em type="italic">Duodastusá ma galggi åhtsåmusáv tjuovvot: </em>
-    </p>
-    <list>
-      <p type="listitem">Duodastus jut dån la studænntan åhpadusán masi stipendav åtså, ja galla oahppotjuokkaj åvdås galga eksámav tjadádit</p>
-      <p type="listitem">Duodastus jut dujna l sámegiella fáhkasuorgen jus illa studænntan avtan sáme vuodoskåvllååhpadusán</p>
-      <p type="listitem">Duodastus jut dån la åhpadusgávddadivudav åhpadusgávda åvdås máksám dan åhpadusgávddaj masi åhtsåmus guosská.</p>
-    </list>
-    <p>
-      <em type="italic">Diededibme: </em>
-    </p>
-    <p>Njuolgadusájn stipendajda alep åhpadussaj gávnnuji sierra mærrádusá diededime, dárkastusá, ruoptus máksema ja fámoduhttema hárráj, duola dagu:</p>
-    <list>
-      <p type="listitem">Galggá buvteduvvat duodastusáv tjadádam eksámas gidá åhpadusgávdas åvddåla 01.10.2019</p>
-      <p type="listitem">Galggá buvteduvvat duodastusáv tjadádam eksámas tjaktja åhpadusgávdas åvddåla 01.02.2020</p>
-    </list>
-    <p>Eksábmaduodastusá sáddiduvvi samediggi@samediggi.no</p>
-    <p>
-      <em type="italic">Guládallamulmusj årnigij: </em>
-    </p>
-    <p>Heidi Salmi , ahkep rádevadde alep åhpadus ja guoradallam, +47 78 47 40 46</p>
-    <p xml:lang="dan">Elektronisk søknadsskjema</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Stipenda alep åhpadussaj</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><wordcount>463</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/Daarja-ja-stipenda/Stipenda-alep-aahpadussaj</origFileName><parallel_text xml:lang="nob" location="stipend-for-hoeyere-utdanning.html"/><parallel_text xml:lang="sma" location="stipende-jollebe-oeoehpehtaemman.html"/><parallel_text xml:lang="sme" location="stipeanda-alit-ohppui.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Stipenda alep åhpadussaj</p>
+<p xml:lang="nob">Søknadsfrist: 01.10.2019 23:59</p>
+<p><em type="italic">​​​​​​Dån máhtá stipendav oadtjot jus la studænntan avtan dajn tjuovvovasj åhpadusájn jagen 2019: </em></p>
+<list><p type="listitem">Sáme mánájgárddeåhpadiddjeåhpadus</p>
+<p type="listitem">Ietjá mánájgárddeåhpadiddjeåhpadus studentajda tjadádam eksámajn /åbbålasjkarakterajn sámegielan 1. jali 2. giellan joarkkaåhpadusás, jali vásstediddje dáses</p>
+<p type="listitem">Sáme vuodoskåvllååhpadiddjeåhpadus mastarijn, 1-7 jali 5-10</p>
+<p type="listitem">Vuodoskåvllååhpadiddjeåhpadus mastarijn sámegiella fáhkasuorgen, 1-7 jali 5-10</p>
+<p type="listitem">Ietjá åhpadiddjeåhpadus studentajda tjadádam eksámajn /åbbålasjkarakteraj sámegielan 1. jali 2. giellan joarkkaåhpadusás, jali vásstediddje dáses: <list><p type="listitem">Lektoråhpadus 8-13</p>
+<p type="listitem">Praktihkalasj -pedagåvgålasj åhpadus gájkkásasj fágajda</p>
+<p type="listitem">Praktihkalasj -pedagåvgålasj åhpadus viddnofágajda 8-13</p>
+<p type="listitem">Viddnofáhkaåhpadiddjeåhpadus</p>
+<p type="listitem">Fáhkaåhpadiddjeåhpadus praktihkalasj ja estehtalasj fágajn</p>
+</list></p>
+</list><p><em type="italic">Gudi máhtti stipendav åhtsåt? </em></p>
+<list><p type="listitem">Studenta sáme mánájgárdde- ja vuodoskåvllååhpadiddjeåhpadusán ja praktihkalasj -pedagåvgålasj åhpadusán Sáme allaskåvlån</p>
+<p type="listitem">Studenta oarjjel- ja julevsámegielajn vuodoskåvllååhpadiddjeåhpadusán Nuortta universitiehtan</p>
+<p type="listitem">Studenta allaskåvlåjn ja universitiehtajn Vuonan gudi li tjáledum Vuona álmmukregisstarin, ja gudi máhtti duodastit tjadádam eksámav jali åbbålasjkarakterav sámegiella 1. jali 2. giellan joarkkaåhpadusás jali vásstediddje dáses</p>
+</list><p><em type="italic">Stipendaj stuorrudagá: </em></p>
+<p><em type="italic">Merustallamnjuolgadusá </em><em type="italic">I: </em></p>
+<list><p type="listitem">Mánájgárddeåhpadiddjeåhpadus</p>
+<p type="listitem">Vuodoskåvllååhpadiddjeåhpadus 5-jahkásasj mastar 1-7 ja 5-10 sámegielajn fáhkasuorgen <list><p type="listitem">Binnemusát 30 oahppotjuorga juohkka åhpadusgávdan 25 000 kråvnå</p>
+<p type="listitem">15 ja 29 oahppotjuorgaj gaskan juohkka åhpadusgávdan 10 000 kråvnå</p>
+<p type="listitem">10 ja 14 oahppotjuorgaj gaskan juohkka åhpadusgávdan 5 000 kråvnå</p>
+</list></p>
+</list><p xml:lang="est"><em type="italic">Merustallamnjuolgadusá II: </em></p>
+<list><p type="listitem">Lektoråhpadus 8-13</p>
+<p type="listitem">Praktihkalasj -pedagåvgålasj åhpadus gájkkásasj fágajda</p>
+<p type="listitem">Praktihkalasj -pedagåvgålasj åhpadus viddnofágajda 8-13</p>
+<p type="listitem">Viddnofágaåhpadiddjeåhpadus</p>
+<p type="listitem">Fáhkaåhpadiddjeåhpadusá praktihkalasj ja estehtalasj fágajn <list><p type="listitem">Binnemusát 30 oahppotjuorga juohkka åhpadusgávdan kr 10 000</p>
+<p type="listitem">15 ja 29 oahppotjuorgaj gaskan juohkka åhpadusgávdan kr 5 000</p>
+<p type="listitem">10 ja 14 oahppotjuorgaj gaskan juohkka åhpadusgávdan kr 3 000</p>
+</list></p>
+</list><p><em type="italic">Åhtsåmsjiebmá: </em></p>
+<list><p type="listitem">Sámedikke digitála åhtsåmsjiebmá <em type="italic">galggá </em>aneduvvat. </p>
+</list><p><em type="italic">Åhtsåmsjiebmáj åhttsåj gut ij la Vuona álmmukregisstarin: </em></p>
+<list><p type="listitem">Åhttse gut la studænntan Sáme allaskåvlån jali oarjjel- ja julevsámegielan vuodoskåvllååhpadiddjeåhpadusán Nuortta universitiehtan, ja ij la Vuona álmmukregisstarin - hæhttu iesj Sámedikkijn guládallat sierra åhtsåmsjiemáv åttjudittjat. <list><p type="listitem"><em type="italic">Vuollájtjáleduvvam </em>åhtsåmsjiebmá galggá sáddiduvvat e-påsta baktu åvddåla åhtsåmájggemiere – gidá åhpadusgávddaj guovvamáno 1.biejve ja tjaktja åhpadusgávddaj gålgådismáno 1.biejve. </p>
+</list></p>
+</list><p><em type="italic">Duodastusá ma galggi åhtsåmusáv tjuovvot: </em></p>
+<list><p type="listitem">Duodastus jut dån la studænntan åhpadusán masi stipendav åtså, ja galla oahppotjuokkaj åvdås galga eksámav tjadádit</p>
+<p type="listitem">Duodastus jut dujna l sámegiella fáhkasuorgen jus illa studænntan avtan sáme vuodoskåvllååhpadusán</p>
+<p type="listitem">Duodastus jut dån la åhpadusgávddadivudav åhpadusgávda åvdås máksám dan åhpadusgávddaj masi åhtsåmus guosská.</p>
+</list><p><em type="italic">Diededibme: </em></p>
+<p>Njuolgadusájn stipendajda alep åhpadussaj gávnnuji sierra mærrádusá diededime, dárkastusá, ruoptus máksema ja fámoduhttema hárráj, duola dagu:</p>
+<list><p type="listitem">Galggá buvteduvvat duodastusáv tjadádam eksámas gidá åhpadusgávdas åvddåla 01.10.2019</p>
+<p type="listitem">Galggá buvteduvvat duodastusáv tjadádam eksámas tjaktja åhpadusgávdas åvddåla 01.02.2020</p>
+</list><p>Eksábmaduodastusá sáddiduvvi samediggi@samediggi.no</p>
+<p><em type="italic">Guládallamulmusj årnigij: </em></p>
+<p>Heidi Salmi , ahkep rádevadde alep åhpadus ja guoradallam, +47 78 47 40 46</p>
+<p xml:lang="dan">Elektronisk søknadsskjema</p>
+</body></document>

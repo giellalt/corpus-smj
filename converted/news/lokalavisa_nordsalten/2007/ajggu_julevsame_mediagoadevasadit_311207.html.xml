@@ -1,51 +1,17 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Ájggu julevsáme mediagoadev ásadit</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>438</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/-jggu-julevs-me-mediagoadev-sadit.4015</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Lars Theodor Kintel</p>
-    <p type="title">Ájggu julevsáme mediagoadev ásadit</p>
-    <p>- Ájádus le guokta julevsáme magasijna aktan gullevasj jiednafálaldagájn almodit. Akta magasijnna le mánájda, ja nubbe magasijnna le gájka iehtjádijda.</p>
-    <p>Dav javllá Lars Theodor Kintel, guhti ájggu julevsáme mediagoadev Ájluoktaj ásadit. Kintela milta galggá <span type="quote">“ållessjattukmágásijnna”</span> liehket 35-40 bællásasj ja niellji jahkáj almoduvvat. <span type="quote">“Mánájmagasijnna”</span> galggá aj niellji jahkáj almoduvvat, valla danna gal e galga sæmmi ållo biele juohkka almodusán. Ulmmejuogos le juohkkahasj guhti julevsámegielav låhkåt buktá. Ulmmeguovllo navti sjaddá julevsáme guovllo, aj Svierigin. Viddnudahkaásadiddje dádjat magasijnajn sjaddá ráddjidum låhkkelåhko, valla jus julevsámegielan galggá boahtteájgge, de dákkir dåjma hæhttuji tjadáduvvat. Giela stáhtus aj laseduvvá, navti ihkap ienebuv sihti dav oahppat, miejnni Kintel.</p>
-    <p>Mediagoahte Ájluovtan aj ájggu jiednafálaldagáv buvtadit, mij jáhkedahtte le sierraláhkáj ájnas vuorrasap sámijda.</p>
-    <p>- Moattes sijás dåssju sámegielav njálmálattjat bukti, ja e tjállet jali låhkåt buvte. Mánájda sjaddá aj suohttasabbo ja måvtåstuhtte gulldalit ienni gå låhkåt, miejnni Kintel guhti jáhkká dát fálaldahka åvddånbuvteduvvá bájkálasj radio, næhttaradioa ja cd:aj baktu ma magasijnajt tjuovvu. Magasijnna galggá tjuovvot sæmmi vuogev gå Bájkkeavijssa Nuortta-Sállto, gånnå dåjmadusá tjállusa tjáleduvvi julevsámegiellaj, tjoahkkájgessusijn dárogiellaj.</p>
-    <p>Jáhkedahtte mediagoade ásadimes båhti 5 jahkevirge dåjmadussaj. Lars Th. Kintel sávvá mediagoahte Árrana lahka ásaduvvá, váj le dan giellabirrusin. Gå Nordlánda fylkkasuohkan dálla le mierredam sáme joarkkaskåvllåfálaldagáv media ja guládallamin Knut Hamsun js:aj Ájluoktaj ásadit, de le dat stuorra ávkken plánidum ásadibmáj. Ráddnávuohta skåvllåfálaldagájn soajttá vaddet hárjjidallamsajijt oahppijda, ja ihkap ienep åhttse skåvllåj, miejnni Kintel.</p>
-    <p>Sån jáhkká almodit guokta iesjgeŋgalágásj magasijna avta ja sæmmi dåjmadusán vaddá ájnas aktisasjdoajmmavájkkudusájt. Máhttelis le duola dagu sámegielak typografav/grafalasj hábbmididdjev ålles virggáj biedjat. Ja gå jáhkedahtte ienemusát nuora virggáj biejaduvvi, de le prosjekta aj nuorajdoajmma.</p>
-    <p>- Le stuorra vánesvuohta formálalasj máhtudagás journalistihkan julevsáme birrasin, valla aktan ådå skåvllåfálaldagájn de soajttá ásadibme Ájluovtan nuorajt journalisstavirggáj giesset, sávat Lars Th. Kintel.</p>
-    <p>Ájluovta mediagoade dábálasj doajmmagålo li merustaláduvvam 2 milijåvnåjda jahkáj, ja gåjt álggodásen ájádaláduvvá dáv ruhtadit 1 milijåvnåjn Sámedikkes ja Nordlánda fylkasuohkanis ja Divtasvuona suohkanis guhtik bielle millijåvnåjn. Divtasvuona suohkan máhttá biednigijt guovtegielakvuodaruhtadårjas viedtjat. Maŋenagi le ájggomus ruhtadimev stuoves ruhtadårjajn Sámedikke budsjehtas ja/jali EU-rudáj baktu oadtjot.</p>
-    <p>- Álggodásen le dát prosjækta Vuona bielen, valla le almma máhttelisvuohta vijdedit julevsáme guovlojda Svieriga bielen, subtsas Kintel, gudi ruhtadårjav åhtså Divtasvuona suohkanis, Nordlánda fylkasuohkanis ja Sámedikkes álggoprosjæktaj gånnå juohkkahasj sijás galggá gålmadisáv gålojs mákset, 27.000 kråvnå. Rádádallamviddnudahka Geelmyden.Kiese galggá álggoprosjekterimav dåjmadit, ålles budsjehtta le 81.000 kråvnå.</p>
-    <p>- Jáhkáv ásadus sjaddá viehkken julevsámegiela boahtteájgev bisodittjat. Dán aktijvuodan le ájnas konstruktijvalasj ja buorre dåjmaj boahtte jagijn. Mediagoahte Ájluovtan sjaddá dákkir buorre dåjmma, oajvvat Lars Th. Kintel.</p>
-    <p>Tæksta: Børge Strandskog Jårggålibme: Idar Kintel</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Ájggu julevsáme mediagoadev ásadit"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Ájggu julevsáme mediagoadev ásadit</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>438</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/-jggu-julevs-me-mediagoadev-sadit.4015</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Lars Theodor Kintel</p>
+<p type="title">Ájggu julevsáme mediagoadev ásadit</p>
+<p>- Ájádus le guokta julevsáme magasijna aktan gullevasj jiednafálaldagájn almodit. Akta magasijnna le mánájda, ja nubbe magasijnna le gájka iehtjádijda.</p>
+<p>Dav javllá Lars Theodor Kintel, guhti ájggu julevsáme mediagoadev Ájluoktaj ásadit. Kintela milta galggá <span type="quote">“ållessjattukmágásijnna”</span> liehket 35-40 bællásasj ja niellji jahkáj almoduvvat. <span type="quote">“Mánájmagasijnna”</span> galggá aj niellji jahkáj almoduvvat, valla danna gal e galga sæmmi ållo biele juohkka almodusán. Ulmmejuogos le juohkkahasj guhti julevsámegielav låhkåt buktá. Ulmmeguovllo navti sjaddá julevsáme guovllo, aj Svierigin. Viddnudahkaásadiddje dádjat magasijnajn sjaddá ráddjidum låhkkelåhko, valla jus julevsámegielan galggá boahtteájgge, de dákkir dåjma hæhttuji tjadáduvvat. Giela stáhtus aj laseduvvá, navti ihkap ienebuv sihti dav oahppat, miejnni Kintel.</p>
+<p>Mediagoahte Ájluovtan aj ájggu jiednafálaldagáv buvtadit, mij jáhkedahtte le sierraláhkáj ájnas vuorrasap sámijda.</p>
+<p>- Moattes sijás dåssju sámegielav njálmálattjat bukti, ja e tjállet jali låhkåt buvte. Mánájda sjaddá aj suohttasabbo ja måvtåstuhtte gulldalit ienni gå låhkåt, miejnni Kintel guhti jáhkká dát fálaldahka åvddånbuvteduvvá bájkálasj radio, næhttaradioa ja cd:aj baktu ma magasijnajt tjuovvu. Magasijnna galggá tjuovvot sæmmi vuogev gå Bájkkeavijssa Nuortta-Sállto, gånnå dåjmadusá tjállusa tjáleduvvi julevsámegiellaj, tjoahkkájgessusijn dárogiellaj.</p>
+<p>Jáhkedahtte mediagoade ásadimes båhti 5 jahkevirge dåjmadussaj. Lars Th. Kintel sávvá mediagoahte Árrana lahka ásaduvvá, váj le dan giellabirrusin. Gå Nordlánda fylkkasuohkan dálla le mierredam sáme joarkkaskåvllåfálaldagáv media ja guládallamin Knut Hamsun js:aj Ájluoktaj ásadit, de le dat stuorra ávkken plánidum ásadibmáj. Ráddnávuohta skåvllåfálaldagájn soajttá vaddet hárjjidallamsajijt oahppijda, ja ihkap ienep åhttse skåvllåj, miejnni Kintel.</p>
+<p>Sån jáhkká almodit guokta iesjgeŋgalágásj magasijna avta ja sæmmi dåjmadusán vaddá ájnas aktisasjdoajmmavájkkudusájt. Máhttelis le duola dagu sámegielak typografav/grafalasj hábbmididdjev ålles virggáj biedjat. Ja gå jáhkedahtte ienemusát nuora virggáj biejaduvvi, de le prosjekta aj nuorajdoajmma.</p>
+<p>- Le stuorra vánesvuohta formálalasj máhtudagás journalistihkan julevsáme birrasin, valla aktan ådå skåvllåfálaldagájn de soajttá ásadibme Ájluovtan nuorajt journalisstavirggáj giesset, sávat Lars Th. Kintel.</p>
+<p>Ájluovta mediagoade dábálasj doajmmagålo li merustaláduvvam 2 milijåvnåjda jahkáj, ja gåjt álggodásen ájádaláduvvá dáv ruhtadit 1 milijåvnåjn Sámedikkes ja Nordlánda fylkasuohkanis ja Divtasvuona suohkanis guhtik bielle millijåvnåjn. Divtasvuona suohkan máhttá biednigijt guovtegielakvuodaruhtadårjas viedtjat. Maŋenagi le ájggomus ruhtadimev stuoves ruhtadårjajn Sámedikke budsjehtas ja/jali EU-rudáj baktu oadtjot.</p>
+<p>- Álggodásen le dát prosjækta Vuona bielen, valla le almma máhttelisvuohta vijdedit julevsáme guovlojda Svieriga bielen, subtsas Kintel, gudi ruhtadårjav åhtså Divtasvuona suohkanis, Nordlánda fylkasuohkanis ja Sámedikkes álggoprosjæktaj gånnå juohkkahasj sijás galggá gålmadisáv gålojs mákset, 27.000 kråvnå. Rádádallamviddnudahka Geelmyden.Kiese galggá álggoprosjekterimav dåjmadit, ålles budsjehtta le 81.000 kråvnå.</p>
+<p>- Jáhkáv ásadus sjaddá viehkken julevsámegiela boahtteájgev bisodittjat. Dán aktijvuodan le ájnas konstruktijvalasj ja buorre dåjmaj boahtte jagijn. Mediagoahte Ájluovtan sjaddá dákkir buorre dåjmma, oajvvat Lars Th. Kintel.</p>
+<p>Tæksta: Børge Strandskog Jårggålibme: Idar Kintel</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Ájggu julevsáme mediagoadev ásadit"</span> på Facebook</p>
+</body></document>

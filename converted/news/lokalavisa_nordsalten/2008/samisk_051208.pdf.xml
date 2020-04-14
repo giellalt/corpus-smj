@@ -1,49 +1,13 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Subtsastin LOSA- skåvllåbiejve birra</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2008</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>169</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_051208.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty SkapalenJårggålibme: Divte Media</p>
-    <p>merkaj Bájkálasj</p>
-    <p>rabddasuohkanijn galggi</p>
-    <p>Næhttaåhpadiddje</p>
-    <p xml:lang="nob"><em type="italic">LÆRER og elever.  Preben Labba, Frida Urheim, Anne Line Jensen og Monica Krogh.  Bak avdelingsleder Atle Mathisen</em> </p>
-    <p>usjudaláv de máhtáv åssudagán.-  Dijmásj  oahppijguoradallama  miltaskåvlån, vuojnijma oahppe sávvin árabutja  ienep  diedov    ja  dan  diehti  lip  aj  9.klássagijt manen válldám vaj bessi Losa-oahppijs  diedojt  oadtjot,  javllá  Ájluovtaskåvlå rádediddje, Gunn Furuhagen.</p>
-    <p>ásadusteknihkka  dåssju  oajvveskåvlånHábmerin  fáladuvvá,  madi  hábbmim  jaduodje,  elektrofáhka,  varresvuoda  jasosiálfáhka,  luonndobarggo,  resturant  ja</p>
-    <p>biebbmofáhka,  dievnastus  ja  jåhtulahka,teknihkalasj ja industrialalasj buvtadibmeStájgo ja Ájluovta åssudagájn fáladuvvi.</p>
-    <p>j</p>
-    <p>8 oahppeDá  jage  li  tjoahkkáj  gáktsa  oahppeÁjluovtan  åssudagá  ma  elektrofágav,teknihkalasj ja industrialalasj buvtadibmev(divudahka) ja varresvuoda ja sosiálfágavvádtsi.  Jus  dákkir  fálaldagáv  válljiji  de16-jagága bessi stádaj jåhttåmis, ja navtiietjas  ja  fámilja  gålojt  unnedi,  duoddenmáhtti ájn avtav jagev gárveduvvat åvddålsijdas jåhttåji.Bájkálasj  bagádalle  ja  koordinatorÁjluovtan,  Atle  Mathisen  gehtjat  vajteknihkalasj vædtsaga doajmmi, duoddenduojna dájna barggodahkamusájn barggá.- Gehtjav vaj oahppe ájggemierijt tjuovvuja næhttaskåvlåj ja vidnudagáj guládaláv.Vidnudagá li riek måvtugit oahppijt duos-stum, valla hásstalusá li diedon gå miján li3-4 oahppe sæmmi prográmmafágan magalggi  barggohárjjánimev  oadtjot,  javllásån.</p>
-    <p>Sihke åhpadusspesialiserim javidnofágalasj  åhpadusprográmmanLOSAn fáladuvvá.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Subtsastin LOSA- skåvllåbiejve birra</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2008</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>169</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_051208.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty SkapalenJårggålibme: Divte Media</p>
+<p>merkaj Bájkálasj</p>
+<p>rabddasuohkanijn galggi</p>
+<p>Næhttaåhpadiddje</p>
+<p xml:lang="nob"><em type="italic">LÆRER og elever.  Preben Labba, Frida Urheim, Anne Line Jensen og Monica Krogh.  Bak avdelingsleder Atle Mathisen</em> </p>
+<p>usjudaláv de máhtáv åssudagán.-  Dijmásj  oahppijguoradallama  miltaskåvlån, vuojnijma oahppe sávvin árabutja  ienep  diedov    ja  dan  diehti  lip  aj  9.klássagijt manen válldám vaj bessi Losa-oahppijs  diedojt  oadtjot,  javllá  Ájluovtaskåvlå rádediddje, Gunn Furuhagen.</p>
+<p>ásadusteknihkka  dåssju  oajvveskåvlånHábmerin  fáladuvvá,  madi  hábbmim  jaduodje,  elektrofáhka,  varresvuoda  jasosiálfáhka,  luonndobarggo,  resturant  ja</p>
+<p>biebbmofáhka,  dievnastus  ja  jåhtulahka,teknihkalasj ja industrialalasj buvtadibmeStájgo ja Ájluovta åssudagájn fáladuvvi.</p>
+<p>j</p>
+<p>8 oahppeDá  jage  li  tjoahkkáj  gáktsa  oahppeÁjluovtan  åssudagá  ma  elektrofágav,teknihkalasj ja industrialalasj buvtadibmev(divudahka) ja varresvuoda ja sosiálfágavvádtsi.  Jus  dákkir  fálaldagáv  válljiji  de16-jagága bessi stádaj jåhttåmis, ja navtiietjas  ja  fámilja  gålojt  unnedi,  duoddenmáhtti ájn avtav jagev gárveduvvat åvddålsijdas jåhttåji.Bájkálasj  bagádalle  ja  koordinatorÁjluovtan,  Atle  Mathisen  gehtjat  vajteknihkalasj vædtsaga doajmmi, duoddenduojna dájna barggodahkamusájn barggá.- Gehtjav vaj oahppe ájggemierijt tjuovvuja næhttaskåvlåj ja vidnudagáj guládaláv.Vidnudagá li riek måvtugit oahppijt duos-stum, valla hásstalusá li diedon gå miján li3-4 oahppe sæmmi prográmmafágan magalggi  barggohárjjánimev  oadtjot,  javllásån.</p>
+<p>Sihke åhpadusspesialiserim javidnofágalasj  åhpadusprográmmanLOSAn fáladuvvá.</p>
+</body></document>

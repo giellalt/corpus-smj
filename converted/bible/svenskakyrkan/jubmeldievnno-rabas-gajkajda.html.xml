@@ -1,36 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>245</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.svenskakyrkan.se/omoss/jubmeldievnno-rabas-gajkajda</origFileName>
-    <parallel_text xml:lang="sma" location="gyrhkesjimmie-gaajhkesidie-gaahpan.html"/>
-    <parallel_text xml:lang="sme" location="ipmilbalvalus-lea-rabas-buohkaide.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Jubmeldievnno rabás gájkajda - Svenska kyrkan - Om oss</p>
-    <p type="title">Jubmeldievnno rabás gájkajda</p>
-    <p type="title">Jubmeldievno basoduvvi juohkka ájllega Svieriga girkko tjoaggulvisájn, ja álu ietjá biejvijt aj. Jubmeldievnno l agev rabás gájkajda.</p>
-    <p>Álgo rájes ristagisá tjåhkanin jubmeldievnnuj. Álgos ällim nåv moaddása. Muhtem sajijn lidjin doalvodum sijá jáhko diehti. Dárbbo lij gávnadit ja gulldalit giehtojt Jesusa birra, gullat tjielggimijt Jesusa viessoma ja jábmema ja bajástjuodtjelime birra.</p>
-    <p>Jubmeldievno hámev árbbijin muhtem mudduj sijá oabme juvdálasj jáhkos. Täkstalåhkåma oasev dåbbdin synagogas. <em type="italic">Máles la ájnas </em>Juo álgon ristagis histåvrån máles sjattaj ájnas oasse aktisasjvuodan. Gieresvuohtamáles lij gå biebmov juogadin. Máles åvdeduváj ruvva dahkuj gå mujttin åhpadisålmmåj maŋemus bårrusav aktan Jesusijn. Gähttjalin sisanádusáv tjielggit gå Jesus lij jábmám ja bajástjuodtjelam. Dat máles, skallo, basoduvvá vilá gájkka ristagis girkkojn dájvvalakkoj.. <em type="italic">Ristagis jubmeldievnno </em>Ristalasj jubeldievnno máhttá dágáduvvat moatteláhkáj valla vargga agev la hieveduslávllom Jubmelij, täkstalåhkåm rámádis ja råhkålvis. <em type="italic">Jubmeldievnno gájkka tjoaggulvisájn </em>Svieriga girkko tjoaggulvisájn basoduvvi jubmeldievnno edasik juohkka ájllega. Valla álu li jubmeldievno aj ietjá biejvijn vahkon. Vahko sárnneskåvvåsin gávna makkir jubmeldievno basoduvvi girkkon årromsaje lahkusin. Álmmoduvvi álu muhtem bájkálasjtidnigin valla moadda tjoaggulvisájt gávna aj webban. </p>
-    <p><em type="italic">Rabás gájkajda </em>Gájka duostoduvvi säbrrat: nuora ja vuorrasa, jáhkkogisá ja gudi e jáhke. Jubmeldievnon vatteduvvá viehkke tjielggit mijá viessomijt ja Jubmelijn gávnadit. Valla jubmeldievnno l aj märkka ja duodastus girkko jáhko ja säbrrama birra sebrudagán. </p>
-    <p>Gesi l ådås dávk dåbddusj vehik amás. Giella márjju l duodalasj ja javladuvvi ja dagáduvvi márjju dago majs la vájvve dádjadit sisanádusáv. Ájllega oajvvejubmeldievno årnigav gávna Sálmmagirje maŋŋegietjen. Máhtá aj agev gatjádit. Buorisboahtem!</p>
-    <p>//</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>245</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.svenskakyrkan.se/omoss/jubmeldievnno-rabas-gajkajda</origFileName><parallel_text xml:lang="sma" location="gyrhkesjimmie-gaajhkesidie-gaahpan.html"/><parallel_text xml:lang="sme" location="ipmilbalvalus-lea-rabas-buohkaide.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Jubmeldievnno rabás gájkajda - Svenska kyrkan - Om oss</p>
+<p type="title">Jubmeldievnno rabás gájkajda</p>
+<p type="title">Jubmeldievno basoduvvi juohkka ájllega Svieriga girkko tjoaggulvisájn, ja álu ietjá biejvijt aj. Jubmeldievnno l agev rabás gájkajda.</p>
+<p>Álgo rájes ristagisá tjåhkanin jubmeldievnnuj. Álgos ällim nåv moaddása. Muhtem sajijn lidjin doalvodum sijá jáhko diehti. Dárbbo lij gávnadit ja gulldalit giehtojt Jesusa birra, gullat tjielggimijt Jesusa viessoma ja jábmema ja bajástjuodtjelime birra.</p>
+<p>Jubmeldievno hámev árbbijin muhtem mudduj sijá oabme juvdálasj jáhkos. Täkstalåhkåma oasev dåbbdin synagogas. <em type="italic">Máles la ájnas </em>Juo álgon ristagis histåvrån máles sjattaj ájnas oasse aktisasjvuodan. Gieresvuohtamáles lij gå biebmov juogadin. Máles åvdeduváj ruvva dahkuj gå mujttin åhpadisålmmåj maŋemus bårrusav aktan Jesusijn. Gähttjalin sisanádusáv tjielggit gå Jesus lij jábmám ja bajástjuodtjelam. Dat máles, skallo, basoduvvá vilá gájkka ristagis girkkojn dájvvalakkoj.. <em type="italic">Ristagis jubmeldievnno </em>Ristalasj jubeldievnno máhttá dágáduvvat moatteláhkáj valla vargga agev la hieveduslávllom Jubmelij, täkstalåhkåm rámádis ja råhkålvis. <em type="italic">Jubmeldievnno gájkka tjoaggulvisájn </em>Svieriga girkko tjoaggulvisájn basoduvvi jubmeldievnno edasik juohkka ájllega. Valla álu li jubmeldievno aj ietjá biejvijn vahkon. Vahko sárnneskåvvåsin gávna makkir jubmeldievno basoduvvi girkkon årromsaje lahkusin. Álmmoduvvi álu muhtem bájkálasjtidnigin valla moadda tjoaggulvisájt gávna aj webban. </p>
+<p><em type="italic">Rabás gájkajda </em>Gájka duostoduvvi säbrrat: nuora ja vuorrasa, jáhkkogisá ja gudi e jáhke. Jubmeldievnon vatteduvvá viehkke tjielggit mijá viessomijt ja Jubmelijn gávnadit. Valla jubmeldievnno l aj märkka ja duodastus girkko jáhko ja säbrrama birra sebrudagán. </p>
+<p>Gesi l ådås dávk dåbddusj vehik amás. Giella márjju l duodalasj ja javladuvvi ja dagáduvvi márjju dago majs la vájvve dádjadit sisanádusáv. Ájllega oajvvejubmeldievno årnigav gávna Sálmmagirje maŋŋegietjen. Máhtá aj agev gatjádit. Buorisboahtem!</p>
+<p>//</p>
+</body></document>

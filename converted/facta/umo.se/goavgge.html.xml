@@ -1,82 +1,40 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>733</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Goavgge</origFileName>
-    <parallel_text xml:lang="fin" location="ahdistus.html"/>
-    <parallel_text xml:lang="fit" location="ahistus.html"/>
-    <parallel_text xml:lang="sma" location="asve.html"/>
-    <parallel_text xml:lang="sme" location="aestus.html"/>
-    <parallel_text xml:lang="swe" location="angest.html"/>
-    <parallel_text location="nervolo.html" xml:lang="rmu"/>
-    <parallel_text location="dar.html" xml:lang="rmy-rka"/>
-    <parallel_text location="dar.html" xml:lang="rmf"/>
-    <parallel_text location="ongesto.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="baridar.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Goavgge</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title">Goavgge</p>
-    <p>Goavgge l garra dåbddo hujás ja balos mav ålles rumáj dåbddå, ja majt ienemusá muhtem bále dåbddi. Goavgge máhttá vájvedit, valla galggá huoman gähttjalit dahkat majt sihtá ja ij garvvet vidjurijs massta jáhkká goavget.</p>
-    <p>Goavgge l signála närvvavuogádagán majt iesj ij máhte stivrrit. Buorre l diehtet goavgge ij la vádálasj ja agev vássá muhtem ájge duogen.</p>
-    <p type="title">Máhttá dåbddut ålles rubmahin</p>
-    <p>Goavgen årrot la sieldes balov ja ráfedimev dåbddåt. Le garra dåbddo mav ålles rumáj dåbddå. Máhttá tsåhke ruvábut ja tjavgabut svargadit avtabále gå ráfeduvvá, vuojŋadahka sjaddá ruváp ja oattje aktij gieseduvvi. Bivástuvvagoahtá, åjvijs sjaddá, skielbestahtjá jali nievret viedjegoahtá jali dättov ratte badjel dåbddåt, degu gássjel vuojŋŋat.</p>
-    <p>Vuostak dåbddo tjavggá ja tjavggá, valla oanegattjan ij desti tjavga. De álu luossjvedahtjá ja goavgge unnu.</p>
-    <p>Goavgge máhttá baludissan dåbddut. Valla oanegattjan agev suodnu, ja ij la vádálasj.</p>
-    <p>Goavgge máhttá umassláhkáj dåbddut umasslágásj bále. Ja ij agev dádjada goavgen la.</p>
-    <p>Muhttijn adná bágov goavgev gå adná juoga l vájvve. Javllá goavgen la buojkulvissan skåvlå gähttjalibmáj jali gå l enas barggon. Valla goavgge l ienep gå sahtebiejve ráfedibme, mij márjju l diertjestime birra.</p>
-    <p type="title">Ij agev diede manen goavget</p>
-    <p>Ienemusá goavgedi muhtem bále, valla l umassláhkáj man garrasit ja man dájvvalakkoj. Muhtema goavgedi val ájnegis bále. Muhtemijn la garra goavgge mij álu ruopptot boahtá, jali goavgge mij bissu guhka ájgev. Máhttá aj oadtjot oanegis <em type="italic">ångestattacker </em>ma ruvvá vássi. </p>
-    <p>Muhttijn diehtá manen goavget. Máhttá goavgedit gå vijor la vájvve, degu gev dåbddå jábmá. Máhttá goavgedit jus la illastuvvam. Jali jus soames la årrum bahá värmmádagán, jali gähttjalam biehttet jali suv ávkástallam.</p>
-    <p>Muhtema goavgedi gähttjalime jali barggoságajdahttema åvddåla. Jali gå galggá juoga sierralágátjav dahkat majt adná baludissan. Máhttá årrot sieldes vájvve, valla diehtá gåjt manen goavgen la. Giehpedis gillat.</p>
-    <p>Goavget aj gå alkoholav juhká jali drogajt adná.</p>
-    <p>Máhttá aj goavgedit váni diedek manen, jali majs ij jahke galggá goavgedit. Muhttijn goavgev vájvebun dahká ja ienebut balldá.</p>
-    <p>Ij gávnnu tjielggá mierre dáj goavggehámij gaskan. Vájku diehtá manen goavget máhttá goavgev ilá garrasin adnet, buojkulvissan jus oadtju tsåhkenjuolav, åjvijs sjatta ja bivvasijt gähttjalimij jali tentámaj åvddåla.</p>
-    <p type="title">Bájnasj oademav ja dåbdojt</p>
-    <p>Goavgge máhttá dahkat dav vájvven luossjvedit ja buoragit oadet. Máhttá smaredit ijájn ja nåvti oadem hiemssiduvvá jali ilá binná oademav oadtjot. Goavgge máhttá aj dahkat vaj sjaddá juolodibme, gierddamahtes ja suhtisj, jali giehpebut håjeduvvá ja tjierrogoahtá.</p>
-    <p type="title">Goavgge goavgedibmáj</p>
-    <p>Goavgge máhttá nåv garra dåbdojt ja tjuovvusijt rubmahin vaddet vaj jáhkká l jábmemin jali vuodalime. Máhttá nåv vájvve vajku majt dahká vaj ij vat goavgeda. De máhttá goavgedit balos goavgedittjat. Gåhtjudallá vuorddemgoavggen.</p>
-    <p>Máhttá aj ballat goavgedimes iehtjádij siegen, ja adnet dav vájvven giehttot. Doalvvot máhttá vaj garvvegoahtá ulmutjijt gejt ajtu sihtá iejvvit ja ij dagá dav mejt ajtu sihtá. Ballo goavgedimes dahká vaj ráddjiduvvá ietjas viessomin.</p>
-    <p>Garvvet dakkirijs majt jáhkká galggá goavgev vaddet ij la buorre, danen gå goavgge máhttá värránit. Ienni galggá árrat viehkev åhtsåt. Gávnnu buorre viehkke.</p>
-    <p type="title">Majt máhttá iesj dahkat?</p>
-    <p>Máhttá goavgev gádodit. Álu máhttá ietjas vuogijt gávnnat suv goavgev dåjmadit. Dála li muhtem gätjástusá.</p>
-    <list>
-      <p type="listitem">Máhttá viehkedit giehttot ietjas goavge birra ulmutjij gejna dåbddå jasskavuodav. Bágojt hábmedit ietjas vájves dåbdojda máhttá giehpedit ájádallat ja dajt dádjadit.</p>
-      <p type="listitem">Moaddásijda viehkev vaddá aj tjállet vájves dåbdoj birra, jali bájnnet jali dahkat ietjáláhkáj.</p>
-      <p type="listitem">Diertjestibme máhttá goavgev lasedit. Jus la diertjestum de máhttá ájádallat gåktu diertjestibme unnedit, dan láhkáj aj goavgev unnedit.</p>
-      <p type="listitem">Máhttá dahkat luossjvedimhárjjidusájt. Gávnnuji viedtjat värmmádagán jali oasstet cd:skierron dálkasboargálin.</p>
-      <p type="listitem">Goavgge álu dahká vaj oaddá nievrebut. Valla jus vuorbástuvvá buoragit oadet de máhttá unnot. Danen la ájnas gähttjalit váttugit oadet.</p>
-      <p type="listitem">Jus labut, mássjki jali váttse de goavgge máhttá unnot.</p>
-      <p type="listitem">Jus suovas, snukti, alkoholav juhká jali juhká edna káfav de máhttá gähttjalit unnedit dajt ja gähttjat jus viehket. Edna nikotijnna ja koffeijnna máhttá goavgev lasedit ja dahkat vaj nievrebut oadá.</p>
-      <p type="listitem">Máhttá goavge birra låhkåt jali iehtjádijs gätjástusájt oadtjot, buojkulvissan internehtan. Gávnnuji siebre majda máhttá säbrrat ma máhtti doarjjot gätjástusáj ja rádij.</p>
-      <p type="listitem">Jus sihtá ulmutjijn ságastit, de máhttá skuolkkat telefåvnnåjourajs muhtemij.</p>
-    </list>
-    <p>Ij galga alkoholav juhkat jali ietjá drogajt válldet unnedittjat ietjas goavgev. Máhttá dåbddut vaj viehket jur dalloj, valla goavgge boahtá ruoptus ja de máhttá väráp sjaddat.</p>
-    <p type="title">Makkir viehkev máhttá oadtjot?</p>
-    <p>Máhttá aj viehkev oadtjot vuogijt gánnat goavges bessat. Dábálamos dåmajdibme l ságastimterapiddja muhtem hábme, dálkas jali luossjvedibme.</p>
-    <p>Mij doajmma avta ulmutjij márjju ij dåjma iehtjádij. Ájnas la viehkev oadtjot mij la hiebadum milta majt iesj dárbaj.</p>
-    <p>Máhttá álgget gå aktavuodav válldá nuorajduostudagájn. Oahppevarresvuodajn jali varresvuohtaguovdátjijn. Jus la dárbulasj de máhttá gejna gávnat viehket aktavuodav válldet buojkulvissan psykologajn jali dåktårijn.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>728</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Goavgge</origFileName><parallel_text xml:lang="fin" location="ahdistus.html"/><parallel_text xml:lang="fit" location="ahistus.html"/><parallel_text xml:lang="sma" location="asve.html"/><parallel_text xml:lang="sme" location="aestus.html"/><parallel_text xml:lang="swe" location="angest.html"/><parallel_text location="nervolo.html" xml:lang="rmu"/><parallel_text location="dar.html" xml:lang="rmy-rka"/><parallel_text location="dar.html" xml:lang="rmf"/><parallel_text location="ongesto.html" xml:lang="rmy-rlo"/><parallel_text location="baridar.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Goavgge</p>
+<p type="title">Goavgge</p>
+<p>Goavgge l garra dåbddo hujás ja balos mav ålles rumáj dåbddå, ja majt ienemusá muhtem bále dåbddi. Goavgge máhttá vájvedit, valla galggá huoman gähttjalit dahkat majt sihtá ja ij garvvet vidjurijs massta jáhkká goavget.</p>
+<p>Goavgge l signála närvvavuogádagán majt iesj ij máhte stivrrit. Buorre l diehtet goavgge ij la vádálasj ja agev vássá muhtem ájge duogen.</p>
+<p type="title">Máhttá dåbddut ålles rubmahin</p>
+<p>Goavgen årrot la sieldes balov ja ráfedimev dåbddåt. Le garra dåbddo mav ålles rumáj dåbddå. Máhttá tsåhke ruvábut ja tjavgabut svargadit avtabále gå ráfeduvvá, vuojŋadahka sjaddá ruváp ja oattje aktij gieseduvvi. Bivástuvvagoahtá, åjvijs sjaddá, skielbestahtjá jali nievret viedjegoahtá jali dättov ratte badjel dåbddåt, degu gássjel vuojŋŋat.</p>
+<p>Vuostak dåbddo tjavggá ja tjavggá, valla oanegattjan ij desti tjavga. De álu luossjvedahtjá ja goavgge unnu.</p>
+<p>Goavgge máhttá baludissan dåbddut. Valla oanegattjan agev suodnu, ja ij la vádálasj.</p>
+<p>Goavgge máhttá umassláhkáj dåbddut umasslágásj bále. Ja ij agev dádjada goavgen la.</p>
+<p>Muhttijn adná bágov goavgev gå adná juoga l vájvve. Javllá goavgen la buojkulvissan skåvlå gähttjalibmáj jali gå l enas barggon. Valla goavgge l ienep gå sahtebiejve ráfedibme, mij márjju l diertjestime birra.</p>
+<p type="title">Ij agev diede manen goavget</p>
+<p>Ienemusá goavgedi muhtem bále, valla l umassláhkáj man garrasit ja man dájvvalakkoj. Muhtema goavgedi val ájnegis bále. Muhtemijn la garra goavgge mij álu ruopptot boahtá, jali goavgge mij bissu guhka ájgev. Máhttá aj oadtjot oanegis <em type="italic">ångestattacker </em>ma ruvvá vássi. </p>
+<p>Muhttijn diehtá manen goavget. Máhttá goavgedit gå vijor la vájvve, degu gev dåbddå jábmá. Máhttá goavgedit jus la illastuvvam. Jali jus soames la årrum bahá värmmádagán, jali gähttjalam biehttet jali suv ávkástallam.</p>
+<p>Muhtema goavgedi gähttjalime jali barggoságajdahttema åvddåla. Jali gå galggá juoga sierralágátjav dahkat majt adná baludissan. Máhttá årrot sieldes vájvve, valla diehtá gåjt manen goavgen la. Giehpedis gillat.</p>
+<p>Goavget aj gå alkoholav juhká jali drogajt adná.</p>
+<p>Máhttá aj goavgedit váni diedek manen, jali majs ij jahke galggá goavgedit. Muhttijn goavgev vájvebun dahká ja ienebut balldá.</p>
+<p>Ij gávnnu tjielggá mierre dáj goavggehámij gaskan. Vájku diehtá manen goavget máhttá goavgev ilá garrasin adnet, buojkulvissan jus oadtju tsåhkenjuolav, åjvijs sjatta ja bivvasijt gähttjalimij jali tentámaj åvddåla.</p>
+<p type="title">Bájnasj oademav ja dåbdojt</p>
+<p>Goavgge máhttá dahkat dav vájvven luossjvedit ja buoragit oadet. Máhttá smaredit ijájn ja nåvti oadem hiemssiduvvá jali ilá binná oademav oadtjot. Goavgge máhttá aj dahkat vaj sjaddá juolodibme, gierddamahtes ja suhtisj, jali giehpebut håjeduvvá ja tjierrogoahtá.</p>
+<p type="title">Goavgge goavgedibmáj</p>
+<p>Goavgge máhttá nåv garra dåbdojt ja tjuovvusijt rubmahin vaddet vaj jáhkká l jábmemin jali vuodalime. Máhttá nåv vájvve vajku majt dahká vaj ij vat goavgeda. De máhttá goavgedit balos goavgedittjat. Gåhtjudallá vuorddemgoavggen.</p>
+<p>Máhttá aj ballat goavgedimes iehtjádij siegen, ja adnet dav vájvven giehttot. Doalvvot máhttá vaj garvvegoahtá ulmutjijt gejt ajtu sihtá iejvvit ja ij dagá dav mejt ajtu sihtá. Ballo goavgedimes dahká vaj ráddjiduvvá ietjas viessomin.</p>
+<p>Garvvet dakkirijs majt jáhkká galggá goavgev vaddet ij la buorre, danen gå goavgge máhttá värránit. Ienni galggá árrat viehkev åhtsåt. Gávnnu buorre viehkke.</p>
+<p type="title">Majt máhttá iesj dahkat?</p>
+<p>Máhttá goavgev gádodit. Álu máhttá ietjas vuogijt gávnnat suv goavgev dåjmadit. Dála li muhtem gätjástusá.</p>
+<list><p type="listitem">Máhttá viehkedit giehttot ietjas goavge birra ulmutjij gejna dåbddå jasskavuodav. Bágojt hábmedit ietjas vájves dåbdojda máhttá giehpedit ájádallat ja dajt dádjadit.</p>
+<p type="listitem">Moaddásijda viehkev vaddá aj tjállet vájves dåbdoj birra, jali bájnnet jali dahkat ietjáláhkáj.</p>
+<p type="listitem">Diertjestibme máhttá goavgev lasedit. Jus la diertjestum de máhttá ájádallat gåktu diertjestibme unnedit, dan láhkáj aj goavgev unnedit.</p>
+<p type="listitem">Máhttá dahkat luossjvedimhárjjidusájt. Gávnnuji viedtjat värmmádagán jali oasstet cd:skierron dálkasboargálin.</p>
+<p type="listitem">Goavgge álu dahká vaj oaddá nievrebut. Valla jus vuorbástuvvá buoragit oadet de máhttá unnot. Danen la ájnas gähttjalit váttugit oadet.</p>
+<p type="listitem">Jus labut, mássjki jali váttse de goavgge máhttá unnot.</p>
+<p type="listitem">Jus suovas, snukti, alkoholav juhká jali juhká edna káfav de máhttá gähttjalit unnedit dajt ja gähttjat jus viehket. Edna nikotijnna ja koffeijnna máhttá goavgev lasedit ja dahkat vaj nievrebut oadá.</p>
+<p type="listitem">Máhttá goavge birra låhkåt jali iehtjádijs gätjástusájt oadtjot, buojkulvissan internehtan. Gávnnuji siebre majda máhttá säbrrat ma máhtti doarjjot gätjástusáj ja rádij.</p>
+<p type="listitem">Jus sihtá ulmutjijn ságastit, de máhttá skuolkkat telefåvnnåjourajs muhtemij.</p>
+</list><p>Ij galga alkoholav juhkat jali ietjá drogajt válldet unnedittjat ietjas goavgev. Máhttá dåbddut vaj viehket jur dalloj, valla goavgge boahtá ruoptus ja de máhttá väráp sjaddat.</p>
+<p type="title">Makkir viehkev máhttá oadtjot?</p>
+<p>Máhttá aj viehkev oadtjot vuogijt gánnat goavges bessat. Dábálamos dåmajdibme l ságastimterapiddja muhtem hábme, dálkas jali luossjvedibme.</p>
+<p>Mij doajmma avta ulmutjij márjju ij dåjma iehtjádij. Ájnas la viehkev oadtjot mij la hiebadum milta majt iesj dárbaj.</p>
+<p>Máhttá álgget gå aktavuodav válldá nuorajduostudagájn. Oahppevarresvuodajn jali varresvuohtaguovdátjijn. Jus la dárbulasj de máhttá gejna gávnat viehket aktavuodav válldet buojkulvissan psykologajn jali dåktårijn.</p>
+</body></document>

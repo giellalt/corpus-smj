@@ -1,51 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Visit Stetind: Kultuvrra: Balkes Stetind</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>516</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.visitstetind.no/smj/kunst_kultur/44-balkes_stetind.html</origFileName>
-    <parallel_text xml:lang="nob" location="44-balkes_stetind.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Stáddá murkkon</p>
-    <p>Åse Haraldsen baktu</p>
-    <p>Peder Balke mála <span type="quote" xml:lang="nob">"Stetind i tåke"</span> le alvos. Kontrássta fábmogis, rihtso luondo ja várnnahis, ulmutja gaskan boahtá tjielggasit åvddån. Gåvvå skádnjat moaddásijn mijás.</p>
-    <p>
-      <em type="italic">Estetihkka - <span type="quote">"vuogas májste teoria"</span> </em>
-    </p>
-    <p>Akti ájgenis lij gasskaidjabiejvve vájvven gå sij gudi nuorttan manádin ettjin besa oadet. Dalloj ij lim Nuortta-Vuodna åvvånis attraksjåvnnå jali ásadum turisstabájkke, farra javllin mijá nuorttalamos rijkkaoase birra <span type="quote">"dat lij nav vasste gå ber vejulasj"</span>. Ja vijdábut .. "ij gal diehttu makkir dájs bájkijs le tjáppemus, valla vastemus .." (amtmann Blom javlaj gå nuorttan manádij jagen 1827.</p>
-    <p>
-      <em type="italic">Ájggegávdda </em>
-    </p>
-    <p>Buorremielakvuohta luondo gáktuj nuorttan bådij dávk vuostatjin nasjonálromantihkajn birrusij 1850. Vuona duobddágij sierralágásjvuodajt gåvvidit sjattaj ájnas ja dájddára manádin lándav birra dajna hálujn gåvvidit dav mij mak lij almma vuona. Dalloj de Peder Balke aktan ietjá mállijiddjij, åhtsin villda vuona luondov. Manádin <span type="quote">"amás"</span> bájkijdadagu Finnmárkkuj, Lofoahttaj, Sognevuodnaj jali Divtasvuodnaj. Dán ájggegávdan gus Stáddá <span type="quote">"ájtsaduváj"</span> motijvvan gåvvådájdan?</p>
-    <p>
-      <em type="italic">Gåvvå nuorttat </em>
-    </p>
-    <p>Mála <span type="quote" xml:lang="nob">"Stetind i tåke"</span> jages 1864 bådij dán Nuortta-Vuona mano maŋŋela. Dát le viehka sierralágásj vuona dájdan ja le nasjonála vuorkán Oslon. <span type="quote">"Dáj nuorttalap duobddágijn le luondo tjáppudagán oajvverolla, madi luondo ielle máná, almatja, li vuollegattja"</span> tjálij dájddár mála birra. Motijvvan dåbddåp Stáddáv moattet ietjá Balke gåvåjs, valla vuorjját snivva jur gåktu luondon. Váre profijlla ja gåktu le sisŋemusán giettses vuona sinna lesj dal suv fascinerim. Tjierggedit tsækkot murkos nievres dálken, jali várre le duogátjin gå ulmutja fælli. Mála ij le almma, friddjavuohta la komposisjåvnån ja gå la duoddistam vuodjodam hávsav ja ulmutja gudi li ferramin. Dát friddjavuohta vuojnnet ja mállit dav mij sunji lij ájnas, - dynamihkka váren ja vuonan, ulmutjij fággádallam luondo fámoj, tjuovga ja sjievnnjeda vuosstebielijt ja horisontála ja vertikála gaskan - le mij suv tjiehppen dagáj. Ja mij maŋŋela le suv dájdav dåbddåsin dahkam.</p>
-    <p>Ietjas karriera álgon mállij Peder Balke gåktu ulmutja vuorddin galgaj. Valla árvvedahtte lesj má luonndo alvos láhkáj suv dájddármiellaj sajijdahttám. Gávnaj ådå ja ietjá vájkkudusájt váj gåvvå galgaj hiehpat suv visjåvnnåj motijvas.</p>
-    <p>Návti ietjas sierralágásj teknihkav åvddånahtij, mij dalloj lij viehka ådåájggásasj dallusj tjábbidahtte, naturalisstalasj máladájda gáktuj. Ja gå dánna javladuvvá ådåájggásasj de miejnni sån buvtij gádodit dav mij sunji ij lim ájnas. Návti suv luondo vásedime, dramatihka ja dynamihka oajvvesisadno tjielgaj. Gå návti álkket gåvvidij de buvtij mállit muhtem dajs tjáppemus gåvåjs majt åvvå nágin dájddár le gudikgoassak gåvvidam vuona luondos.</p>
-    <p>
-      <em type="italic">Dájddára iellem </em>
-    </p>
-    <p>Guhti lij sån, dát dájddár guhti åtsådaláj luonndotjábbudagáv nuorttavuona duobddágin? Gålggåvis javlli, - diehtemvájnogis ja båndor guhti lijkkuj manádit jali bájkálasj mállijiddje Hedmárkos guhti sæmmi berustimijn guossidij Eiffeltårnav Parijsan dagu Stáddáv Divtasvuonan. Ulmusj gænna lij kontrástajs vallje ".. riegádam hæjosvuohtaj, ja diedon lij muv sadje iellemin dakkir mav ittjij aktak udnoda." Ja gå lij <span type="quote">"riegádam sijáj gasskaj gejna ællim ednama"</span> de gal Balke álggo dán iellemin ij lim heva. Valla jur sujsta diŋŋguj fránska gånågis Louis Philipp mállagijt! Kontrásta gal lidjin hæjos báhttjaj, guhti málaoahppaj álgij sæmmi båttå gå gådij, muorrij ja muhkkojt lájoj. Árbbedábálasj giehtabarggoåhpav váldij fágan dagu luondulasj lij dalloj ja ållidij vuorddemusájt gåktu tjáppa gåvvå galgaj. Gávnaj ietjas persåvnålasj vuogev luondos arvusmahtedum. Balke anij luonndo lij stuorámus ja ájnna åhpadiddje.</p>
-    <p>
-      <em type="italic">Gåvvå <span type="quote" xml:lang="nob">"Stetind i tåke"</span> le Nasjonalgalleria háldon ja le sijá låbijn anedum. </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Visit Stetind: Kultuvrra: Balkes Stetind</title><genre code="facta"/><author><unknown/></author><wordcount>516</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.visitstetind.no/smj/kunst_kultur/44-balkes_stetind.html</origFileName><parallel_text xml:lang="nob" location="44-balkes_stetind.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Stáddá murkkon</p>
+<p>Åse Haraldsen baktu</p>
+<p>Peder Balke mála <span type="quote" xml:lang="nob">"Stetind i tåke"</span> le alvos. Kontrássta fábmogis, rihtso luondo ja várnnahis, ulmutja gaskan boahtá tjielggasit åvddån. Gåvvå skádnjat moaddásijn mijás.</p>
+<p><em type="italic">Estetihkka - <span type="quote">"vuogas májste teoria"</span> </em></p>
+<p>Akti ájgenis lij gasskaidjabiejvve vájvven gå sij gudi nuorttan manádin ettjin besa oadet. Dalloj ij lim Nuortta-Vuodna åvvånis attraksjåvnnå jali ásadum turisstabájkke, farra javllin mijá nuorttalamos rijkkaoase birra <span type="quote">"dat lij nav vasste gå ber vejulasj"</span>. Ja vijdábut .. "ij gal diehttu makkir dájs bájkijs le tjáppemus, valla vastemus .." (amtmann Blom javlaj gå nuorttan manádij jagen 1827.</p>
+<p><em type="italic">Ájggegávdda </em></p>
+<p>Buorremielakvuohta luondo gáktuj nuorttan bådij dávk vuostatjin nasjonálromantihkajn birrusij 1850. Vuona duobddágij sierralágásjvuodajt gåvvidit sjattaj ájnas ja dájddára manádin lándav birra dajna hálujn gåvvidit dav mij mak lij almma vuona. Dalloj de Peder Balke aktan ietjá mállijiddjij, åhtsin villda vuona luondov. Manádin <span type="quote">"amás"</span> bájkijdadagu Finnmárkkuj, Lofoahttaj, Sognevuodnaj jali Divtasvuodnaj. Dán ájggegávdan gus Stáddá <span type="quote">"ájtsaduváj"</span> motijvvan gåvvådájdan?</p>
+<p><em type="italic">Gåvvå nuorttat </em></p>
+<p>Mála <span type="quote" xml:lang="nob">"Stetind i tåke"</span> jages 1864 bådij dán Nuortta-Vuona mano maŋŋela. Dát le viehka sierralágásj vuona dájdan ja le nasjonála vuorkán Oslon. <span type="quote">"Dáj nuorttalap duobddágijn le luondo tjáppudagán oajvverolla, madi luondo ielle máná, almatja, li vuollegattja"</span> tjálij dájddár mála birra. Motijvvan dåbddåp Stáddáv moattet ietjá Balke gåvåjs, valla vuorjját snivva jur gåktu luondon. Váre profijlla ja gåktu le sisŋemusán giettses vuona sinna lesj dal suv fascinerim. Tjierggedit tsækkot murkos nievres dálken, jali várre le duogátjin gå ulmutja fælli. Mála ij le almma, friddjavuohta la komposisjåvnån ja gå la duoddistam vuodjodam hávsav ja ulmutja gudi li ferramin. Dát friddjavuohta vuojnnet ja mállit dav mij sunji lij ájnas, - dynamihkka váren ja vuonan, ulmutjij fággádallam luondo fámoj, tjuovga ja sjievnnjeda vuosstebielijt ja horisontála ja vertikála gaskan - le mij suv tjiehppen dagáj. Ja mij maŋŋela le suv dájdav dåbddåsin dahkam.</p>
+<p>Ietjas karriera álgon mállij Peder Balke gåktu ulmutja vuorddin galgaj. Valla árvvedahtte lesj má luonndo alvos láhkáj suv dájddármiellaj sajijdahttám. Gávnaj ådå ja ietjá vájkkudusájt váj gåvvå galgaj hiehpat suv visjåvnnåj motijvas.</p>
+<p>Návti ietjas sierralágásj teknihkav åvddånahtij, mij dalloj lij viehka ådåájggásasj dallusj tjábbidahtte, naturalisstalasj máladájda gáktuj. Ja gå dánna javladuvvá ådåájggásasj de miejnni sån buvtij gádodit dav mij sunji ij lim ájnas. Návti suv luondo vásedime, dramatihka ja dynamihka oajvvesisadno tjielgaj. Gå návti álkket gåvvidij de buvtij mállit muhtem dajs tjáppemus gåvåjs majt åvvå nágin dájddár le gudikgoassak gåvvidam vuona luondos.</p>
+<p><em type="italic">Dájddára iellem </em></p>
+<p>Guhti lij sån, dát dájddár guhti åtsådaláj luonndotjábbudagáv nuorttavuona duobddágin? Gålggåvis javlli, - diehtemvájnogis ja båndor guhti lijkkuj manádit jali bájkálasj mállijiddje Hedmárkos guhti sæmmi berustimijn guossidij Eiffeltårnav Parijsan dagu Stáddáv Divtasvuonan. Ulmusj gænna lij kontrástajs vallje ".. riegádam hæjosvuohtaj, ja diedon lij muv sadje iellemin dakkir mav ittjij aktak udnoda." Ja gå lij <span type="quote">"riegádam sijáj gasskaj gejna ællim ednama"</span> de gal Balke álggo dán iellemin ij lim heva. Valla jur sujsta diŋŋguj fránska gånågis Louis Philipp mállagijt! Kontrásta gal lidjin hæjos báhttjaj, guhti málaoahppaj álgij sæmmi båttå gå gådij, muorrij ja muhkkojt lájoj. Árbbedábálasj giehtabarggoåhpav váldij fágan dagu luondulasj lij dalloj ja ållidij vuorddemusájt gåktu tjáppa gåvvå galgaj. Gávnaj ietjas persåvnålasj vuogev luondos arvusmahtedum. Balke anij luonndo lij stuorámus ja ájnna åhpadiddje.</p>
+<p><em type="italic">Gåvvå <span type="quote" xml:lang="nob">"Stetind i tåke"</span> le Nasjonalgalleria háldon ja le sijá låbijn anedum. </em></p>
+</body></document>

@@ -1,72 +1,46 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>OAJVVADUS NJUOLGADUSAJDA</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>558</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>https://netsam.org/vedtekter/oajvvadus-njuolgadusajda/</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="nob">NetSam</p>
-    <p type="title" xml:lang="nob">Sámi oahpahusfierpmádat – Sámegielåhpadusá værmádahka  – Viermievierhkie saemienlïerehtæmman – Nettverk for samiskopplæring</p>
-    <p xml:lang="nob">Søk</p>
-    <p type="title" xml:lang="nob">OAJVVADUS NJUOLGADUSAJDA</p>
-    <p><em type="italic">§ 1 Namma </em>Værmádagá namma l : </p>
-    <p>NetSam – Sámegielåhpadusá værmádahka</p>
-    <p>NetSam – Sámi oahpahusa fierpmádat</p>
-    <p>NetSam – Viermievierhkie saemienlïerehtæmman</p>
-    <p xml:lang="nob">NetSam – Nettverk for samiskopplæring</p>
-    <p><em type="italic">§ 2 Ulmme </em>Værmádagán le ulmme åvdedit ja åvddånahttet sámegielåhpadusáv dábálasj sáme oahppaplánaj milta ja sámegielaj oahppaplánaj milta Vuonan. Værmádahka galggá åvddånahttet, bærrájgåhtset ja aktisasjbargov ásadit máhtudagáj hárráj sáme åhpadusán/profesjåvnån. Værmádahka galggá aj doajmmat arenan sáme giellaåhpadusá diehto- ja åtsådallamlånudibmáj. </p>
-    <p><em type="italic">§ 3 Sebrulasjvuohta </em>Åhpadiddje, studenta ja skåvllåjådediddje, gudi barggi sámegielåhpadusájn, máhtti sæbrrat værmádahkaj. Institusjåvnå ja iehtjáda, gudi barggi sámegielåhpadusájn, máhtti aj siegen liehket værmádagán. Værmádagá sebrulasjvuohta le nåvku, valla oassálassti vierttiji tjáledit dåjmadagá baktu. Værmádahka ij mávse oassálasstij gålojt ma gulluji værmádagá oassálasstemij. </p>
-    <p><em type="italic">§ 4 Organiserim </em>Værmádagá dåjmadahka/bæjválasj doajmma biejaduvvá Sáme låhkåmguovdátjij. Nannitjit aktijvuodav værmádagán máhtti bájkálasj værmádagá ásaduvvat iesjguhtik dásijn, fágajn ja gielajn. Ásaduvvi aj værmádagá virggeguojmij gaskan, gudi barggi aktisasj hásstalusáj, gånnå máhttá oadtjot bagádallamav mentoris. Værmádaga arkijva, bievddegirje, ruhtalåhko ja rapporterim vuorkuduvvi Sáme låhkåmguovdátjin, gænna l åvdåsvásstádus værmádagá ruhtalågos. Dåjmadahka doajmmá ja vállji næhttatjoavddusav mij la hiebalgis værmádahkaj. </p>
-    <p><em type="italic">§ 5 Ruhtadibme </em>Aktisasjbarggoguojme juollodi rudájt værmádagá doajmmaj. </p>
-    <p><em type="italic">§ 6 Stivrrajuogos </em>Værmádahka jådeduvvá stivras, gånnå máhtti liehket gitta vihtta sebrulattja. Stivrrajuohkusin la jådediddje, nubbenjådediddje ja stivrrasebrulattja. Sihke skåvllåæjgáda/jådediddje ja åhpadiddje bierriji liehket stivrrajuohkusin, ja stivrrajuohkusin bierriji liehket åvdåstiddje sihke nuortta-, julev-, ja oarjjelsáme guovlojs. Stivrrajuohkusa sebrulattja ja persåvnålasj sadjásattja válljiduvvi dábálattjat 2 jahkáj. Válljimin bierri dættoduvvat jut ij ålles stivrrajuogos målsoduvá sæmmi ájge. Stivrrajuogos doajmmá aj válljimnammadussan. Værmádahka gåbttjå stivrrajuohkusa gålojt. </p>
-    <p><em type="italic">§ 7 Stivrrajuohkusa bargo </em>Stivrrajuogos galggá: -giehtadallat ássjijt ma gulluji værmádagá doajmmaj, ja jåhtuj biedjat dåjmajt ma máhtti åvddånahttet dan ulmev. </p>
-    <p>– værmádagá sebrulattjajs oadtjot árvvalusájt dárboj hárráj</p>
-    <p>– diedojt juohket, rapporterit ja tjuovvolit bargojt værmádagán</p>
-    <p><em type="italic">§ 8 Tjåhkanime </em>Juohkusa jådediddje gåhttju aktan dåjmadagájn stivrrajuogostjåhkanimijda ja jådet dajt. Jus jådediddje ij sebra tjåhkanibmáj, de nubbenjådediddje dav jådet. Gåhtjoduvvá tjåhkanimijda nav álu gå jådediddje/stivrrajuogos gávnat. Ásaduvvi ienemusát 4 stivrrajuogostjåhkanime jahkáj. Ålles stivrrajuogos ja sadjásattja æjvvali vuostásj tjåhkanimen juohkka válggagávdan. </p>
-    <p><em type="italic">§ 9 Dåjma </em>Værmádagán le jahkásasj tjåhkanibme. Ásaduvvá dalloj gå li kursa, seminára ja konferánsa. Værmádagá oassálasste máhtti ietja organiserit bájkálasj ja guovlo tjåhkanimijt dárboj milta. Værmádagán galggá liehket ietjas næhttabielle mij ájmon aneduvvá ja ådåstuhteduvvá. Næhttabielen galggi aj bájkálasj juohkusa ja nammadusá oadtjot máhttelisvuodav ietjasa diehtobielev adnet. Stivrrajuogos ásat barggoplánav válggagávddaj. </p>
-    <p><em type="italic">§ 10 Hiejttem </em>Værmádagá hiejttem máhttá dåssju mierreduvvat jahketjåhkanimen (dábálasj jali sierra), ja binnemusát 2/3 ieneplågujn jienastiddjijs registreridum sebrulattjajs. Hiejttemoajvvadus galggá diededuvvat gå jahketjåhkanibmáj gåhtjuduvvá. </p>
-    <p><em type="italic">§ 11 Njuolgadusá </em>Njuolgadusá mierreduvvi værmádagá álgadimtjåhkanimen. Gå njuolgadusá galggi mierreduvvat jali rievddaduvvat, de viertti mærrádusán liehket 2/3 ieneplåhko jienastiddjijs registreridum sebrulattjajs. Jahketjåhkanime gåhttjomin galggi njuolgadusáj rievddadamoajvvadusá boahtet åvddån værmádagá sebrulattjajda. </p>
-    <p>Pdf- fil: Oajvvadus njuolgadusajda</p>
-    <p type="title" xml:lang="nob">Share this:</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Twitter</p>
-      <p type="listitem" xml:lang="nob">Facebook</p>
-      <p type="listitem" xml:lang="nob">Google</p>
-    </list>
-    <p type="title" xml:lang="nob">Lik dette:</p>
-    <p xml:lang="nob">Liker</p>
-    <p xml:lang="nob">Laster...</p>
-    <p type="title" xml:lang="nob">Legg igjen en kommentar Avbryt svar</p>
-    <p xml:lang="nob">Skriv din kommentar her...</p>
-    <p xml:lang="nob">Fyll inn i feltene under, eller klikk på et ikon for å logge inn:</p>
-    <list/>
-    <p xml:lang="nob">E-post (påkrevet)  (Adressen vises aldri offentlig)</p>
-    <p xml:lang="nob">Navn (påkrevet)</p>
-    <p xml:lang="nob">Nettsted</p>
-    <p xml:lang="nob">Du kommenterer med bruk av din WordPress.com konto. ( Logg ut / Endre )   </p>
-    <p xml:lang="nob">Du kommenterer med bruk av din Google+ konto. ( Logg ut / Endre )   </p>
-    <p xml:lang="nob">Du kommenterer med bruk av din Twitter konto. ( Logg ut / Endre )   </p>
-    <p xml:lang="nob">Du kommenterer med bruk av din Facebook konto. ( Logg ut / Endre )   </p>
-    <p xml:lang="nob">w</p>
-    <p xml:lang="nob">Avbryt</p>
-    <p xml:lang="nob">Kobler til %s</p>
-    <p xml:lang="nob">Send meg e-post hvis det kommer oppfølgende kommentarer.</p>
-    <p xml:lang="nob">%d</p>
-    <p xml:lang="nob">bloggere like this:</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>OAJVVADUS NJUOLGADUSAJDA</title><genre code="admin"/><author><unknown/></author><wordcount>558</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="nob"/></multilingual><origFileName>https://netsam.org/vedtekter/oajvvadus-njuolgadusajda/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="nob">NetSam</p>
+<p type="title" xml:lang="nob">Sámi oahpahusfierpmádat – Sámegielåhpadusá værmádahka  – Viermievierhkie saemienlïerehtæmman – Nettverk for samiskopplæring</p>
+<p xml:lang="nob">Søk</p>
+<p type="title" xml:lang="nob">OAJVVADUS NJUOLGADUSAJDA</p>
+<p><em type="italic">§ 1 Namma </em>Værmádagá namma l : </p>
+<p>NetSam – Sámegielåhpadusá værmádahka</p>
+<p>NetSam – Sámi oahpahusa fierpmádat</p>
+<p>NetSam – Viermievierhkie saemienlïerehtæmman</p>
+<p xml:lang="nob">NetSam – Nettverk for samiskopplæring</p>
+<p><em type="italic">§ 2 Ulmme </em>Værmádagán le ulmme åvdedit ja åvddånahttet sámegielåhpadusáv dábálasj sáme oahppaplánaj milta ja sámegielaj oahppaplánaj milta Vuonan. Værmádahka galggá åvddånahttet, bærrájgåhtset ja aktisasjbargov ásadit máhtudagáj hárráj sáme åhpadusán/profesjåvnån. Værmádahka galggá aj doajmmat arenan sáme giellaåhpadusá diehto- ja åtsådallamlånudibmáj. </p>
+<p><em type="italic">§ 3 Sebrulasjvuohta </em>Åhpadiddje, studenta ja skåvllåjådediddje, gudi barggi sámegielåhpadusájn, máhtti sæbrrat værmádahkaj. Institusjåvnå ja iehtjáda, gudi barggi sámegielåhpadusájn, máhtti aj siegen liehket værmádagán. Værmádagá sebrulasjvuohta le nåvku, valla oassálassti vierttiji tjáledit dåjmadagá baktu. Værmádahka ij mávse oassálasstij gålojt ma gulluji værmádagá oassálasstemij. </p>
+<p><em type="italic">§ 4 Organiserim </em>Værmádagá dåjmadahka/bæjválasj doajmma biejaduvvá Sáme låhkåmguovdátjij. Nannitjit aktijvuodav værmádagán máhtti bájkálasj værmádagá ásaduvvat iesjguhtik dásijn, fágajn ja gielajn. Ásaduvvi aj værmádagá virggeguojmij gaskan, gudi barggi aktisasj hásstalusáj, gånnå máhttá oadtjot bagádallamav mentoris. Værmádaga arkijva, bievddegirje, ruhtalåhko ja rapporterim vuorkuduvvi Sáme låhkåmguovdátjin, gænna l åvdåsvásstádus værmádagá ruhtalågos. Dåjmadahka doajmmá ja vállji næhttatjoavddusav mij la hiebalgis værmádahkaj. </p>
+<p><em type="italic">§ 5 Ruhtadibme </em>Aktisasjbarggoguojme juollodi rudájt værmádagá doajmmaj. </p>
+<p><em type="italic">§ 6 Stivrrajuogos </em>Værmádahka jådeduvvá stivras, gånnå máhtti liehket gitta vihtta sebrulattja. Stivrrajuohkusin la jådediddje, nubbenjådediddje ja stivrrasebrulattja. Sihke skåvllåæjgáda/jådediddje ja åhpadiddje bierriji liehket stivrrajuohkusin, ja stivrrajuohkusin bierriji liehket åvdåstiddje sihke nuortta-, julev-, ja oarjjelsáme guovlojs. Stivrrajuohkusa sebrulattja ja persåvnålasj sadjásattja válljiduvvi dábálattjat 2 jahkáj. Válljimin bierri dættoduvvat jut ij ålles stivrrajuogos målsoduvá sæmmi ájge. Stivrrajuogos doajmmá aj válljimnammadussan. Værmádahka gåbttjå stivrrajuohkusa gålojt. </p>
+<p><em type="italic">§ 7 Stivrrajuohkusa bargo </em>Stivrrajuogos galggá: -giehtadallat ássjijt ma gulluji værmádagá doajmmaj, ja jåhtuj biedjat dåjmajt ma máhtti åvddånahttet dan ulmev. </p>
+<p>– værmádagá sebrulattjajs oadtjot árvvalusájt dárboj hárráj</p>
+<p>– diedojt juohket, rapporterit ja tjuovvolit bargojt værmádagán</p>
+<p><em type="italic">§ 8 Tjåhkanime </em>Juohkusa jådediddje gåhttju aktan dåjmadagájn stivrrajuogostjåhkanimijda ja jådet dajt. Jus jådediddje ij sebra tjåhkanibmáj, de nubbenjådediddje dav jådet. Gåhtjoduvvá tjåhkanimijda nav álu gå jådediddje/stivrrajuogos gávnat. Ásaduvvi ienemusát 4 stivrrajuogostjåhkanime jahkáj. Ålles stivrrajuogos ja sadjásattja æjvvali vuostásj tjåhkanimen juohkka válggagávdan. </p>
+<p><em type="italic">§ 9 Dåjma </em>Værmádagán le jahkásasj tjåhkanibme. Ásaduvvá dalloj gå li kursa, seminára ja konferánsa. Værmádagá oassálasste máhtti ietja organiserit bájkálasj ja guovlo tjåhkanimijt dárboj milta. Værmádagán galggá liehket ietjas næhttabielle mij ájmon aneduvvá ja ådåstuhteduvvá. Næhttabielen galggi aj bájkálasj juohkusa ja nammadusá oadtjot máhttelisvuodav ietjasa diehtobielev adnet. Stivrrajuogos ásat barggoplánav válggagávddaj. </p>
+<p><em type="italic">§ 10 Hiejttem </em>Værmádagá hiejttem máhttá dåssju mierreduvvat jahketjåhkanimen (dábálasj jali sierra), ja binnemusát 2/3 ieneplågujn jienastiddjijs registreridum sebrulattjajs. Hiejttemoajvvadus galggá diededuvvat gå jahketjåhkanibmáj gåhtjuduvvá. </p>
+<p><em type="italic">§ 11 Njuolgadusá </em>Njuolgadusá mierreduvvi værmádagá álgadimtjåhkanimen. Gå njuolgadusá galggi mierreduvvat jali rievddaduvvat, de viertti mærrádusán liehket 2/3 ieneplåhko jienastiddjijs registreridum sebrulattjajs. Jahketjåhkanime gåhttjomin galggi njuolgadusáj rievddadamoajvvadusá boahtet åvddån værmádagá sebrulattjajda. </p>
+<p>Pdf- fil: Oajvvadus njuolgadusajda</p>
+<p type="title" xml:lang="nob">Share this:</p>
+<list><p type="listitem" xml:lang="nob">Twitter</p>
+<p type="listitem" xml:lang="nob">Facebook</p>
+<p type="listitem" xml:lang="nob">Google</p>
+</list><p type="title" xml:lang="nob">Lik dette:</p>
+<p xml:lang="nob">Liker</p>
+<p xml:lang="nob">Laster...</p>
+<p type="title" xml:lang="nob">Legg igjen en kommentar Avbryt svar</p>
+<p xml:lang="nob">Skriv din kommentar her...</p>
+<p xml:lang="nob">Fyll inn i feltene under, eller klikk på et ikon for å logge inn:</p>
+<list/><p xml:lang="nob">E-post (påkrevet)  (Adressen vises aldri offentlig)</p>
+<p xml:lang="nob">Navn (påkrevet)</p>
+<p xml:lang="nob">Nettsted</p>
+<p xml:lang="nob">Du kommenterer med bruk av din WordPress.com konto. ( Logg ut / Endre )   </p>
+<p xml:lang="nob">Du kommenterer med bruk av din Google+ konto. ( Logg ut / Endre )   </p>
+<p xml:lang="nob">Du kommenterer med bruk av din Twitter konto. ( Logg ut / Endre )   </p>
+<p xml:lang="nob">Du kommenterer med bruk av din Facebook konto. ( Logg ut / Endre )   </p>
+<p xml:lang="nob">w</p>
+<p xml:lang="nob">Avbryt</p>
+<p xml:lang="nob">Kobler til %s</p>
+<p xml:lang="nob">Send meg e-post hvis det kommer oppfølgende kommentarer.</p>
+<p xml:lang="nob">%d</p>
+<p xml:lang="nob">bloggere like this:</p>
+</body></document>

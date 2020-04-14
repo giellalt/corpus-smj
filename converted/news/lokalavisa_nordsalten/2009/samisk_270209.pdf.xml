@@ -1,54 +1,18 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Julevsáme kultuvrramáhtudagán åhpadum</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>346</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_270209.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty Skapalen Jårggålibme: Idar Kintel/Divte Media AS</p>
-    <p>j</p>
-    <p xml:lang="nob"><em type="italic">Dudálasj studentaguovtes. Jan Folke Sandnes ja Helga Eliassen dánna åhpadusmanon Måsken lijga dudálattja åhpadusájn. Oadtjop ienep ålleslasj dádjadusáv bájkálasj kultuvras, tjoahkkájgiesseba.FORNØYDE STUDENTER.  Jan Folke Sandnes og Helga Eliassen her på ekskursjonstur til Musken var fornøyd med studiet. Man får en mer helhetlig forståelse av den lokale kulturen, oppsummerer de to.</em> </p>
-    <p>Guovtes  dájs  libá  åvdep  suohkanoajvveHábmera suohkanin ja udnásj STH rádeprosjæktajådediddje Jan Folke Sandnes jaåvddåskåvllååhpadiddje Sismeramánájgárden, Helga Eliassen. Goappátjalibá Sagvassdalen bajássjaddam, mij ájgijtjadá le sáme kultuvrraj tjanádum.- <em type="italic">Manen oassálasstebihtte dán åhpadussajja majt dássta oadtjobihtte?-  </em>Munji  lij  riek  buorre  máhttelisvuohtadahkat juojddá mij lij miellagiddis. Le ajnav  lahka,  besav  permisjåvnåv  bargosåhtsåt ja guhkás mannat tjåhkanimijda jasæmmi båttå oattjov ienep oahppotjuokka.Muv  mielas  le  geldulasj  bájkálasjhiståvråjn  ja  ittjiv  máhte  dávmáhttelisvuodav masset, javllá Helga Eli</p>
-    <p xml:lang="nob">assen.</p>
-    <p>j</p>
-    <p>ja iehtjádijda</p>
-    <p>Åhpadusá  ájggomus  le  álggon  årrotjoarkke åhpadusájda sáme gatjálvisáj duondán  humanistalasj  ja  sebrudakdiedalasjfágajn, ja le tiemáhtalattjat gålmmå åsijdajuogedum.  Vuostasj  tjåhkanimen  lijsosiálalasj  organiserim,  ekonomija  jaårromguovlo. Nuppát oasseriektágássjelisvuodajt  ja  iemeálmmu-kássjijt åvdedij. Manemus tjåhkanimen lijtiebmá etnisitehtta, identitehtta ja åssko.</p>
-    <p>-  Oadtjop  ham  gåbdep  ållesvuoda-dádjadusáv ja vuojnnep gåktu vidjura lijtjanádum nubbe nubbáj. Ienep dádjadusávbájkálasj birrusis. Jáhkáv ávkken le munji,</p>
-    <p>javllá Eliassen.Jan Folke Sandnes barggá divna gålmmåNuortta-Sállto suohkanij åvdås suv bargotjadá STH ráden.-  Muv  mielas  le  ájnas  vuojnno  bargogáktuj. Smávvasebrudakvuorodime tjadáli  suohkana  ådå  sjiehtadusájtfylkkasuohkanijn  tjállám.  Duoddenberustav kultuvrrahiståvrås ja Sagvassdállele  histåvrålattjat  læhkám  oassen  nanossáme kultuvras. Guhkev lev mielos læhkámgávnatjit bájkkenamájt, daj namáj sisanovja dajda tjieggnodit. Namájn li sáme mátto,valla li dárojduhtedum, javllá Sandnes.Ja juska le bajássjaddam sihke kultuvrajnja histåvråjn mij le sámevuohtaj tjanádum,de  le  gæhttjalam  tjielggidusáv  gávnnatmoatte ássjáj.- Vuojnnep dilijt vijddásap vuojnon dákkiråhpadusá  tjadá.  Vuostasj  tjåhkanimenájádalliv  dát  lij  gájkguoskavasjsebrudakmáhtudahka  mij  galgaj  vuodonjuohkka  suohkana  virgálattjan,  miejnnisån.- Luluj buorep jus gássjelisvuodajt riektájbirra mannela kursan lidjin buktet, gå ienepduogásjdiedov lip oadtjum.</p>
-    <p>RKK  Ofoten  le  åhpadusá  teknihkalasjtjadádimev  dåjmadam.  Idar  Sørensen  ledudálasj tjadádimijn.-  Ålov  barggap  ienep  fálaldagájtdåjmadittjat guovlon, vaj ulmutja máhttiåhpadusáv  bájkálattjat  joarkket.  Dajnabarggap aktan allaskåvlåj javllá sån.</p>
-    <p>Åhpadusá  mannela  dåssju  gallegattjaeksámav ájggu válldet. Árabut dá tjavtjasubtsastij  vuostasjamanuenssa  BjørnBjerkli  sávvin  gålmmålåges  eksábmajtjáledin. Valla sjaddin dåssju 12.- Ájnnasamos le gå oassálasste ienep die-dov li oadtjum, ja ajtu kurssaduodastusávoadtju, javllá Sørensen.</p>
-    <p>j</p>
-    <p>j j</p>
-    <p>j</p>
-    <p>j</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Julevsáme kultuvrramáhtudagán åhpadum</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2009</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>346</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_270209.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty Skapalen Jårggålibme: Idar Kintel/Divte Media AS</p>
+<p>j</p>
+<p xml:lang="nob"><em type="italic">Dudálasj studentaguovtes. Jan Folke Sandnes ja Helga Eliassen dánna åhpadusmanon Måsken lijga dudálattja åhpadusájn. Oadtjop ienep ålleslasj dádjadusáv bájkálasj kultuvras, tjoahkkájgiesseba.FORNØYDE STUDENTER.  Jan Folke Sandnes og Helga Eliassen her på ekskursjonstur til Musken var fornøyd med studiet. Man får en mer helhetlig forståelse av den lokale kulturen, oppsummerer de to.</em> </p>
+<p>Guovtes  dájs  libá  åvdep  suohkanoajvveHábmera suohkanin ja udnásj STH rádeprosjæktajådediddje Jan Folke Sandnes jaåvddåskåvllååhpadiddje Sismeramánájgárden, Helga Eliassen. Goappátjalibá Sagvassdalen bajássjaddam, mij ájgijtjadá le sáme kultuvrraj tjanádum.- <em type="italic">Manen oassálasstebihtte dán åhpadussajja majt dássta oadtjobihtte?-  </em>Munji  lij  riek  buorre  máhttelisvuohtadahkat juojddá mij lij miellagiddis. Le ajnav  lahka,  besav  permisjåvnåv  bargosåhtsåt ja guhkás mannat tjåhkanimijda jasæmmi båttå oattjov ienep oahppotjuokka.Muv  mielas  le  geldulasj  bájkálasjhiståvråjn  ja  ittjiv  máhte  dávmáhttelisvuodav masset, javllá Helga Eli</p>
+<p xml:lang="nob">assen.</p>
+<p>j</p>
+<p>ja iehtjádijda</p>
+<p>Åhpadusá  ájggomus  le  álggon  årrotjoarkke åhpadusájda sáme gatjálvisáj duondán  humanistalasj  ja  sebrudakdiedalasjfágajn, ja le tiemáhtalattjat gålmmå åsijdajuogedum.  Vuostasj  tjåhkanimen  lijsosiálalasj  organiserim,  ekonomija  jaårromguovlo. Nuppát oasseriektágássjelisvuodajt  ja  iemeálmmu-kássjijt åvdedij. Manemus tjåhkanimen lijtiebmá etnisitehtta, identitehtta ja åssko.</p>
+<p>-  Oadtjop  ham  gåbdep  ållesvuoda-dádjadusáv ja vuojnnep gåktu vidjura lijtjanádum nubbe nubbáj. Ienep dádjadusávbájkálasj birrusis. Jáhkáv ávkken le munji,</p>
+<p>javllá Eliassen.Jan Folke Sandnes barggá divna gålmmåNuortta-Sállto suohkanij åvdås suv bargotjadá STH ráden.-  Muv  mielas  le  ájnas  vuojnno  bargogáktuj. Smávvasebrudakvuorodime tjadáli  suohkana  ådå  sjiehtadusájtfylkkasuohkanijn  tjállám.  Duoddenberustav kultuvrrahiståvrås ja Sagvassdállele  histåvrålattjat  læhkám  oassen  nanossáme kultuvras. Guhkev lev mielos læhkámgávnatjit bájkkenamájt, daj namáj sisanovja dajda tjieggnodit. Namájn li sáme mátto,valla li dárojduhtedum, javllá Sandnes.Ja juska le bajássjaddam sihke kultuvrajnja histåvråjn mij le sámevuohtaj tjanádum,de  le  gæhttjalam  tjielggidusáv  gávnnatmoatte ássjáj.- Vuojnnep dilijt vijddásap vuojnon dákkiråhpadusá  tjadá.  Vuostasj  tjåhkanimenájádalliv  dát  lij  gájkguoskavasjsebrudakmáhtudahka  mij  galgaj  vuodonjuohkka  suohkana  virgálattjan,  miejnnisån.- Luluj buorep jus gássjelisvuodajt riektájbirra mannela kursan lidjin buktet, gå ienepduogásjdiedov lip oadtjum.</p>
+<p>RKK  Ofoten  le  åhpadusá  teknihkalasjtjadádimev  dåjmadam.  Idar  Sørensen  ledudálasj tjadádimijn.-  Ålov  barggap  ienep  fálaldagájtdåjmadittjat guovlon, vaj ulmutja máhttiåhpadusáv  bájkálattjat  joarkket.  Dajnabarggap aktan allaskåvlåj javllá sån.</p>
+<p>Åhpadusá  mannela  dåssju  gallegattjaeksámav ájggu válldet. Árabut dá tjavtjasubtsastij  vuostasjamanuenssa  BjørnBjerkli  sávvin  gålmmålåges  eksábmajtjáledin. Valla sjaddin dåssju 12.- Ájnnasamos le gå oassálasste ienep die-dov li oadtjum, ja ajtu kurssaduodastusávoadtju, javllá Sørensen.</p>
+<p>j</p>
+<p>j j</p>
+<p>j</p>
+<p>j</p>
+</body></document>

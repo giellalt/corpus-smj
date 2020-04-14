@@ -1,38 +1,8 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Juo l de máhttelis ájttegijt gæhttjat</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>125</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/juo-l-de-m-httelis-jttegijt-gahttjat.4112</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Juo l de máhttelis ájttegijt gæhttjat</p>
-    <p>Jus la divtasvuonak ja sidá ietjat ájttegijt lagábut gæhttjat, de la máhttelis jus maná suohkana næhttabælláj www.tysfjord.kommune.no .</p>
-    <p>Divtasvuonagij berajhiståvrrå la vargga gietjen, ja vuostasj listajt la juo máhttelis guovllat. Dá diedádusá aj mañenagi ådåsmahtti.</p>
-    <p>Suohkan la mierredam páhperalmodus divtasvuona berrahij birra ij galga almoduvvat, valla dåssju elektronalasj lahkáj galggá vuoseduvvat – dal ájn.</p>
-    <p>Berajhiståvråv aj dåhkki CD’a baktu låhkåt gå ájgge vehik dåbbán.</p>
-    <p>Divtasvuona suohkan doajvvu ulmutja berrahijt lagábut guoradalli, gehtjatjit jus la riekta dat mij la tjáledum. Jus gávna juoga mij la boasstot, jali jus li dujna duoddediedádusá, diededa suohkanav e-påsta baktu. Dåhkki aj tjállev Finn Rønnebuav diededit, jali iehtjadijt gudi berajguoradallamnammadusán li.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Juo l de máhttelis ájttegijt gæhttjat</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>125</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/juo-l-de-m-httelis-jttegijt-gahttjat.4112</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Juo l de máhttelis ájttegijt gæhttjat</p>
+<p>Jus la divtasvuonak ja sidá ietjat ájttegijt lagábut gæhttjat, de la máhttelis jus maná suohkana næhttabælláj www.tysfjord.kommune.no .</p>
+<p>Divtasvuonagij berajhiståvrrå la vargga gietjen, ja vuostasj listajt la juo máhttelis guovllat. Dá diedádusá aj mañenagi ådåsmahtti.</p>
+<p>Suohkan la mierredam páhperalmodus divtasvuona berrahij birra ij galga almoduvvat, valla dåssju elektronalasj lahkáj galggá vuoseduvvat – dal ájn.</p>
+<p>Berajhiståvråv aj dåhkki CD’a baktu låhkåt gå ájgge vehik dåbbán.</p>
+<p>Divtasvuona suohkan doajvvu ulmutja berrahijt lagábut guoradalli, gehtjatjit jus la riekta dat mij la tjáledum. Jus gávna juoga mij la boasstot, jali jus li dujna duoddediedádusá, diededa suohkanav e-påsta baktu. Dåhkki aj tjállev Finn Rønnebuav diededit, jali iehtjadijt gudi berajguoradallamnammadusán li.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

@@ -1,41 +1,7 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>E vuollána</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>278</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/e-vuoll-na.3903</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>: Ájgodum ruovdderahte (1992). Vuojnnep Strávnjunjev, gånnå dalloj ij ájádallam stasjåvnnå, ja vijdábut nuortas Ájlátte milta ja nuppe stasjåvnnåj Narvijka vuossti, Slabávuodna. Gåvvå: www.nordnorgebanen.no</p>
-    <p type="title">E vuollána</p>
-    <p>Ájggu ruovdderahtestasjåvnåv Strávnjunjen ja Slabávuonan, aksjåvnnåjuogos mij ij ájgo vuollánit. Sij tjuottjodi vissásit guhkedibme Nuortta-Vuonaruovdderahtes bierri liehket ienep ájggeguovddelis gå guossak åvddåla.</p>
-    <p>- Dálla le badjel 50 jage dat rájes gå ruovdderahte Fuosskuj bådij. Muddo le dal <span type="quote">”væhkádahkaj”</span> ja aktisasj gággamij mij tjadná Nuortta-Vuonav aktij ja ásat ådå vuodov rijkaguovlo æládusiellemij, argumenteri aksjåvnnåjuogos.</p>
-    <p>Guhkedibme Nuortta-Vuonarahtes Råmssåj ja Girkkonjárggaj, sijddorahtijn Harstadaj, le jagij tjadá viehka stuorra dårjav adnám nuorttalij rijkaguovlon. Álu li dættodam birásvuojtov jus trafihkav ruovdderahtáj oadtju, guolleæládusá dárbov jåhtelis doalvvomis vuobddemij ja máhttelisvuodajt eksporterimij Ruossjaj ja Asiaj Nuortta-Vuonas. Valla dá rádjáj li sáhkadam bieljedimijda. Ássje le galla politihkalasj dágástallamin læhkám moaddi, ja jagen 1982 ja jagen 1992 diedádus tjáleduváj stuorprosjevta birra. Maŋemus dajs tjoahkkájgiesij ålleslasj rahtebarggo sjaddá 26800 jahkevirgijt bargadahttet ja rahte sjaddá vaddet birrusin 800 barggosajijt mij bissu rijkaguovlon. Ruhtagållo sæmmi båttå merustaláduváj birrusin 17,4 millijárda (1992-kråvnå). Doarespolitihkalasj juogos politihkkárij, ájnegattjaj ja persåvnå birásorganisasjåvnåjda tjanádum ma vilá ássjev dåjman adni. Juohkusin, mij jådeduvvá fuosskovierigis Svein Arnt Uhre, li duola dagu hábmervieriga Hilde Vonstad ja Åslaug Solem. Juogos miejnni guhkedibme Nuortta-Vuonarahtes sjaddá riek ájnas signálla ådå ja dåjmalasj guovllopolitihkkaj nannitjit rijkaguovlov. Ja ráddidusá moalgedum vuorodibme nuorttaguovlojs, gånnå duola dagu doalvvominfrastruktuvrra le ájnas oasse, le ájnas arvusmahttem juohkusa bargguj, tjuodtju www.nordnorgebanen.no. Dánna nammaduvvi moadda argumenta biggimij Nuortta-Vuonarahtes; sjaddá birássuoddjelis strávvev adnet, sjaddá giehpedit gálvvodoalvvomav E6 ja lasedit trafihkkaoaggesvuodav, tjadnat rijkaguovlov aktij ja mannoájgev ålov oanedit. Buojkulvissan nammaduvvá mannoájgge ruovdderahtijn Fuosskos Narvijkkaj sjaddá birrusin 1 tijmma ja 15 minuhta!</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>E vuollána</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2010</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>278</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/e-vuoll-na.3903</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>: Ájgodum ruovdderahte (1992). Vuojnnep Strávnjunjev, gånnå dalloj ij ájádallam stasjåvnnå, ja vijdábut nuortas Ájlátte milta ja nuppe stasjåvnnåj Narvijka vuossti, Slabávuodna. Gåvvå: www.nordnorgebanen.no</p>
+<p type="title">E vuollána</p>
+<p>Ájggu ruovdderahtestasjåvnåv Strávnjunjen ja Slabávuonan, aksjåvnnåjuogos mij ij ájgo vuollánit. Sij tjuottjodi vissásit guhkedibme Nuortta-Vuonaruovdderahtes bierri liehket ienep ájggeguovddelis gå guossak åvddåla.</p>
+<p>- Dálla le badjel 50 jage dat rájes gå ruovdderahte Fuosskuj bådij. Muddo le dal <span type="quote">”væhkádahkaj”</span> ja aktisasj gággamij mij tjadná Nuortta-Vuonav aktij ja ásat ådå vuodov rijkaguovlo æládusiellemij, argumenteri aksjåvnnåjuogos.</p>
+<p>Guhkedibme Nuortta-Vuonarahtes Råmssåj ja Girkkonjárggaj, sijddorahtijn Harstadaj, le jagij tjadá viehka stuorra dårjav adnám nuorttalij rijkaguovlon. Álu li dættodam birásvuojtov jus trafihkav ruovdderahtáj oadtju, guolleæládusá dárbov jåhtelis doalvvomis vuobddemij ja máhttelisvuodajt eksporterimij Ruossjaj ja Asiaj Nuortta-Vuonas. Valla dá rádjáj li sáhkadam bieljedimijda. Ássje le galla politihkalasj dágástallamin læhkám moaddi, ja jagen 1982 ja jagen 1992 diedádus tjáleduváj stuorprosjevta birra. Maŋemus dajs tjoahkkájgiesij ålleslasj rahtebarggo sjaddá 26800 jahkevirgijt bargadahttet ja rahte sjaddá vaddet birrusin 800 barggosajijt mij bissu rijkaguovlon. Ruhtagållo sæmmi båttå merustaláduváj birrusin 17,4 millijárda (1992-kråvnå). Doarespolitihkalasj juogos politihkkárij, ájnegattjaj ja persåvnå birásorganisasjåvnåjda tjanádum ma vilá ássjev dåjman adni. Juohkusin, mij jådeduvvá fuosskovierigis Svein Arnt Uhre, li duola dagu hábmervieriga Hilde Vonstad ja Åslaug Solem. Juogos miejnni guhkedibme Nuortta-Vuonarahtes sjaddá riek ájnas signálla ådå ja dåjmalasj guovllopolitihkkaj nannitjit rijkaguovlov. Ja ráddidusá moalgedum vuorodibme nuorttaguovlojs, gånnå duola dagu doalvvominfrastruktuvrra le ájnas oasse, le ájnas arvusmahttem juohkusa bargguj, tjuodtju www.nordnorgebanen.no. Dánna nammaduvvi moadda argumenta biggimij Nuortta-Vuonarahtes; sjaddá birássuoddjelis strávvev adnet, sjaddá giehpedit gálvvodoalvvomav E6 ja lasedit trafihkkaoaggesvuodav, tjadnat rijkaguovlov aktij ja mannoájgev ålov oanedit. Buojkulvissan nammaduvvá mannoájgge ruovdderahtijn Fuosskos Narvijkkaj sjaddá birrusin 1 tijmma ja 15 minuhta!</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

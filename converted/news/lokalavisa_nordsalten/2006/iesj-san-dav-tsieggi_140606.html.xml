@@ -1,39 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Iesj sån dav tsieggi</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>162</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/iesj-san-dav-tsieggi.4136</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Iesj sån dav tsieggi</p>
-    <p>Eli Britt Øvervoll oadtju viehkev ietjas siessalijs Steffen Paulsen(g.b.) jaPeter Paulsen.</p>
-    <p>Norsk kortversjon/Oanegis dárogiellaj</p>
-    <p>Eli Britt Øvervoll guhti Bjørkvijkan Divtasvuonan årru la iesj dåbåtjav tsieggimin. Dáv oattjoj Bájkálasj ávijssa diehtet lávijs Steffen Paulsenis ja …….. Paulsenis. Såj libá siessala Eli Brittaj, ja huomahijga siesá birra giehttot nav vaj ávijssaj boahtá.</p>
-    <p>Gå Bájkálasj ávijssa bådij gehtjatjit, lij Eli Britt fiellojt ålgusjbielen duorromin. Ja da guokta siessala mak viehkken, edesik madi Bájkálasj ávijssa lij danna.</p>
-    <p>Ja Eli Britt la ållu aktu dáv dåbåtjav áhkkovij tsieggimin.</p>
-    <p>-Sihtiv iehtjam áhkkovij dåbåtjav tsieggit gånnå muhttijn stoahká. Dåbåsj la 5 kvadratmiehtara stuorak. Galgav ájn áltánav biedjat, ja de isolerit sisbieles nav vaj bivval sjaddá. Ja de galgav ájn sisbielen hemsav dahkat, giehttu riek smidás ja vissjalis Eli Britt. Ja da suv siessala dal ávon gå sunnu lávve vat Bjørkvijkkaj boahtá sunnu siegen stågatjit, ja soajttá sij aktan sjaddi dåbåtjin idjadit.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Iesj sån dav tsieggi</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>162</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/iesj-san-dav-tsieggi.4136</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Iesj sån dav tsieggi</p>
+<p>Eli Britt Øvervoll oadtju viehkev ietjas siessalijs Steffen Paulsen(g.b.) jaPeter Paulsen.</p>
+<p>Norsk kortversjon/Oanegis dárogiellaj</p>
+<p>Eli Britt Øvervoll guhti Bjørkvijkan Divtasvuonan årru la iesj dåbåtjav tsieggimin. Dáv oattjoj Bájkálasj ávijssa diehtet lávijs Steffen Paulsenis ja …….. Paulsenis. Såj libá siessala Eli Brittaj, ja huomahijga siesá birra giehttot nav vaj ávijssaj boahtá.</p>
+<p>Gå Bájkálasj ávijssa bådij gehtjatjit, lij Eli Britt fiellojt ålgusjbielen duorromin. Ja da guokta siessala mak viehkken, edesik madi Bájkálasj ávijssa lij danna.</p>
+<p>Ja Eli Britt la ållu aktu dáv dåbåtjav áhkkovij tsieggimin.</p>
+<p>-Sihtiv iehtjam áhkkovij dåbåtjav tsieggit gånnå muhttijn stoahká. Dåbåsj la 5 kvadratmiehtara stuorak. Galgav ájn áltánav biedjat, ja de isolerit sisbieles nav vaj bivval sjaddá. Ja de galgav ájn sisbielen hemsav dahkat, giehttu riek smidás ja vissjalis Eli Britt. Ja da suv siessala dal ávon gå sunnu lávve vat Bjørkvijkkaj boahtá sunnu siegen stågatjit, ja soajttá sij aktan sjaddi dåbåtjin idjadit.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

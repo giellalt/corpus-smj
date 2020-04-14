@@ -1,118 +1,87 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>2029</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Hitta-ratt-i-sjukvarden</origFileName>
-    <parallel_text location="hitta-ratt-i-sjukvarden.html" xml:lang="rmu"/>
-    <parallel_text location="hitta-ratt-i-sjukvarden.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Gávnnat skihpasujton / Hitta rätt i sjukvården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">JulevusámegiellaLulesamiska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Gávnnat skihpasujtonHitta rätt i sjukvården</p>
-    <p type="title">Bagádus riekta sujttuj</p>
-    <p type="title">Sujtto riekta mieren</p>
-    <p>Muhttijn máhttá gássjel diehtet gejna galggá aktavuodav válldet skihpasujton. Gåsi galggá buojkulvissan åhtsåt jus la tjavelgijs, snuohpa mij ij buorrána jali sieldes tjåjvijs?</p>
-    <p>Ienemusát galggá viehkev åhtsåt varresvuohtaguovdátjin jali sämmilágásj ásadusán gájka vájvijs ma e dalága rávka sujtov skihpadåben, dat javllá, hähkka, vájve jali häggaájtediddje. Jus la dárbulasj de doalvoduvvá varresvuohtaguovdátjis ietjá specialisstadåktårijda. Iehkedijt ja ájllegijt åvdemusát aktavuodav válldá hähkkaduostudagájn gånnå årru jus la gássjelisvuohta majna ij máhte vuorddet desik varresvuohtaguovdásj rahpá.</p>
-    <p>Dát täksta tjielggi gájkkasattjat gåktu rabás sujtto doajmmá ja gåsi galggá åhtsåt, valla vehik målsut lánndadikkij ja dajvaj gaskan. Jus ienebuv sihtá diehtet gåktu sujtto dárkkelit doajmmá de hähttu åhtsåt mij la fámon gånnå årru. Lánndadikkij ja dajvaj vebbabielijn ja 1177.se máhttá ienebuv låhkåt.</p>
-    <p type="title">Skihpasujttobagádallam bagát ja diedojt vaddá</p>
-    <p>Ij la agev álkke iesj árvustallat man skibás la. Danen skihpasujttobagádallam gávnnu telefåvnå baktu gånnå máhtalgis skihpasujttára árvustalli gássjelisvuodav, bagádi ja goassa l dárbulasj aj diededi gånnå galggá viehkev åhtsåt. Vuorddemájge máhtti oaneduvvat ja sujtto buoreduvvat jus diehtá gåsi galggá åhtsåt. Gudi li skihpasabmusa viehkev oadtju ruvábut hähkkasujton ja gejna li giehpep vájve danna bessi vuorddemis. Ávkke l gájkajda.</p>
-    <p type="title">Skihpasujtto juogeduvvá rabásujton ja ållesjándursujton</p>
-    <p>Skihpasujtto máhttá juogeduvvat guovten oasen, rabássujton ja ållesjándursujton. Rabássujtto merkaj oadtju häjmmaj mannat maŋŋel gå la manádam skihpasujton, gå ållesjándursujtto merkaj ulmusj la sisitjáledum skihpadåhpåj. Skihpasujto stuorámus oasse dagáduvvá rabássujton. Vuostak gåvåduvvá varresvuohtaguovdásj ja spesialisstaduostudahka. Dan maŋŋela l gåvådibme hähkkaduostudagás mij álu la vuohke åledit ållesjándursujttuj.</p>
-    <p>Gudi dárbahi skihpasujtov hejman máhtti viehkev oadtjot häjmmaskihpasujton. Ienep bájkijn rijkan li kommuvna gudi åvdåsvásstádusáv adni dassta.</p>
-    <p type="title">Varresvuohtaguovdásj</p>
-    <p type="title">Varresvuohtaguovdásj – diehki vuostak åhtså</p>
-    <p>Varresvuohtaguovdásj la vuodo svieriga skihpasujton. Danna li moadda namá ja gåhtjoduvvá buojkulvissan aj fuolkkedåktårduostudahkan, fuolkkedåktårduostudahkan jali varresvuohtaguovdátjin. Diehki ienemusát åhtså gå li gássjelisvuoda ietjas varresvuodajn. Aktavuodav válldá varresvuohtaguovdátjijn manna l åvdåsvásstádus ulmutjijs bájken gånnå årru, jali masi la tjáledum.</p>
-    <p>Varresvuohtaguovdátjin dagáduvvi gájkka riegádimmánáj varresvuohtakåntrållåjs gitta ieme dávdaj dálkudimijda buojkulvissan tjåttåinflammasjåvnnå ja stuoves dávda. Dánna máhttá aj bagádisáv oadtjot jus sihtá suovastimes hiejttet jali ietjas livvodittjat. Jus dárbaj rehabiliterimav de álu dav varresvuohtaguovdátjin oadtju. Jus dåktår árvustallá ulmusj dárbaj ienep specialiseridum sujtov jali rehabiliterimav de máhttá remissav oadtjot spesialisstaduostudahkaj skihpadåben jali ietjá rabássujttoduostudahkaj.</p>
-    <p>Varresvuohtaguovdásj la rahppot árggabiejvijt ja máhttá de riŋŋgit ja ájgev diŋŋgot. Moatten duostudagán la aj rabás duostudahka vissa ájgijn vahkon goassa máhttá manádit jus viehkev dárbaj sämmi biejve váni ájgev diŋgok. Varresvuohtaguovdátjijn la bagádallam telefåvnå baktu ja máhtti aj ásadit häjmmamanádimijt muhtem bále.</p>
-    <p>Moatten varresvuohtaguovdátjin ja lahkaskihpadåben la hähkkaduostudahka gåsi máhttá åhtsåt hähkka vájvij aj iehkedijn, basijn ja vissa bále ijájn. Ienemusát hähttu vuostak riŋŋgit ja ájgev diŋŋgot. Muhtem bájkijn rijkan jouradoajmma dagáduvvá ienni skihpadåbe hähkkaduostudagán.</p>
-    <p type="title">Gájkkasasjdåktårå dahkamusá</p>
-    <p>Dåktårå gudi barggi varresvuohtaguovdátjin li ienemusát gájkkasasjdåktårå. Gåhtjoduvvi aj häjmmadåktårin jali fuolkkedåktårin Gájkka gájkkasasjdåktårå li spesialista gájkkasasjmedisijnan ja sij li smidá ulmutjijt duostutjit umasslágásj symtomaj ja árvustallat gudi sujtov dárbahi ietjá spesialistas jali skihpadåben. Gájkkasasjdåktårå sujttiji gejt li åttjudallam álmmukdávdav , dat javllá dávda ma ienemusát gávnnuji sebrudagán. Sujttiji dálkudimev gå ulmutjin la muhtem stuoves dávdda nåv gåk diabetes jali tsåhkesudidahka. Gájkkasasjdåktårå máhtti aj dálkudit jus ulmutjin la giehppis jali gasskagássjelis depresjåvnnå. Ulmusj galggá máhttet sämmi dåktåra lunna mannat gájkka ietjas vájvij ja nåvti aktelisvuodav ja jasskavuodav dåbddåt – danen gåhttju fuolkkedåktårin.</p>
-    <p>Gájkkasasjdåktårå barggi aj hierediddje sujtujn ja iehtjádij siegen ulmutjijt viehkedi ietjasa viessomvuogev rievddadit. Máhttá årrot buojkulvissan viehkke gå la suovastimes häjtátjit, gähpotjit jali buoredittjat ietjas alkoholadábijt.</p>
-    <p>Gájkkasasj dåktårå bagádi aj skihpasujton. Siján la stuorra aktavuohtavärmmádahka ja diehti masi ietjá spesialisstadåktårå li tjiehpe. Danen máhtti bagádit riekta sujton ja remissav riekta ásadussaj tjállet.</p>
-    <p>Varresvuohtaguovdátjin, nåv gåk skihpadåbijn, máhtti aj gávnnut dåktårå gudi li åhpadusán gudi gåhtjoduvvi AT-dåktårin jali ST-dåktårin. AT-dåktårå li dåktårå gudi dahki ietjasa guovtejahkásasj gájkkasasjbargov vuodoåhpadusá maŋŋela. Barggi álu guhtta máno varresvuohtaguovdátjin. Dájn dåktårijn la gájkkasasjdåktår bagádiddjen ja máhtti bagádisáv gatjádit.</p>
-    <p>ST-dåktårå li dåktåra gudi dahki ietjasa spesialiserimbargov. Varresvuohtaguovdátjin iejvvi ienemusát dåktårijt gudi ietjasa spesialiseriji gájkkasasjdåktårin, valla siján máhtti aj ietjá ulmme. Spesialisstaåhpadus l bájken vihtta jage. ST-dåktårijn varresvuohtaguovdátjin la bagádallam dájvvalakkoj gájkkasasjdåktåris.</p>
-    <p>Le vil dåktårå gudi barggi sadjásattjan varresvuohtaguovdátjijn gå l vádne dåktårijs. Máhtti goappátjagá spesialista ja gudi älla spesialista.</p>
-    <p type="title">Válljit varresvuohtaguovdátjav</p>
-    <p>Máhttelis la iesj válljit makkir varresvuohtaguovdátjij jali dåktårduostudahkaj sihtá gullut. Varresvuohtaguovdásj jali dåktårduostudahka majt vállji máhttá akta gånnå ietjas lánndadikken jali dajvan. Máhttelis la válljit priváhta dåktårduostudagájt jali lánndadikke varresvuohtaguovdátjijt jali dåktårduostudagájt.</p>
-    <p>Sujttoválljim mij la ålles rijkan merkaj moatten lánndadikken ja dajvan aj la ulmutjin riektá válljit ietjas fuolkkedåktåråv. Dahká dav gå aktavuodav válldá varresvuohtaguovdátjijn gåsi sihtá mannat. Jus dat dåktår gesi ietjas sihtá tjáledit ij máhte ådå patientajt duosstot de l máhttelis ietjá primerradåktåråv válljit. Máhttelis la fuolkkedåktåråv målssot akta goassa.</p>
-    <p type="title">Ietjá virggejuohkusa varresvuohtaguovdátjin</p>
-    <p>Le umassláhkáj umasse bájkijn rijkan, valla varresvuohtaguovdátjin máhtti aj distiktaskihpasujtára, vuolepsujtára, skihpagymnásta, gáhppeliddje ja dåktårtjálle barggat. Muhttijn gávnnuji aj barggoterapevta, psykologa, kuratåvrå ja dietista. Varresvuohtaguovdátjin gávnnu álu aj máná- ja iednevarresvuohtasujtto. Biomedisijnalasj guoradalle ja laboratåvrråviehkediddje gávnnuji laboratåvråjn ma li moatten varresvuohtaguovdátjin. Kássan jali duostudagán álu iejvvi duostudiddjev jali dåktårtjállev.</p>
-    <p type="title">Distriktasujtára</p>
-    <p>Distriktasujtára li joarkkaåhpadum skihpasujtára. Siján li praktijkalasj dahkamusá nåv gåk gabnnjadálkudimijt vaddet, dálkkasijt juohket ja hávijt gurppit. Distriktasujtára barggi aj hälsodisvuodav hieredit buojkulvissan lájddit hiejttet suovastim-juohkusijt. Moaddi dahki aj häjmmamanádimijt ulmutjij lunna gudi e máhte boahtet varresvuohtaguovdátjij dálkudibmáj ja åtsådibmáj.</p>
-    <p>Distriktasujtárijn li álu ietjasa duostudagá ulmutjijda vissa stuoves dávdajda nåv gåk buojkulvissan diabetesijn jali astmajn. Sujttiji dálkudime oasev ja siján la riektá muhtem dálkkasijt tjáledit. Gå riŋŋgi varresvuohtaguovdátjij ja li gássjelisvuoda ietjas varresvuodajn de l álu distriktasujtár gut vásstet ja bagát.</p>
-    <p type="title">Vuolepsujtára</p>
-    <p>Vuolepsujtára barggi aktan dåktårij ja distriktasujtárij. Válldi buojkulvissan varraåtsådimijt, tsågev åtsådi EKG:ajn ja hávijt gurppiji. Moatten varresvuohtaguovdátjin dahki aj häjmmamanádimijt. Vuolepsujtára máhtti aj tjåhkkåhit varresvuohtaguovdátja duostudagán. Duostudagán máhttá aj iejvvit dåktårtjállijt, gejn ietján li administratijvalasj dahkamusá varresvuohtaguovdátjin.</p>
-    <p type="title">Skihpagymnásta</p>
-    <p>Skihpagymnásta barggi åvdemusát ulmutjij gejn li vájve labudallat. Máhtti vájve tjavelgijn jali niskijn, jali rehabiliterim vahágij maŋŋela jali dávda nåv gåk buojkulvissan stroke, slaganfalla. Dálkudibme máhttá buojkulvissan årrot bagádis makkir hárjjidallamijt iesj máhttá dahkat, luossjvedibme ja massásja. Skihpagymnásta máhtti aj tjáledit másjkudallamav dálkastjállagin hieredittjat jali giehpedittjat dávdav. Skihpagymnásstaj máhttá åhtsåt váni remissa dagi dåktåris.</p>
-    <p type="title">Naprapáhta ja kiropraktåvrå</p>
-    <p>Naprapáhta ja kiropraktåvrå dálkudi báktjasav lábudimorgánajn Goappásj virggejuohkusa dálkudi giedaj. Muhtem varresvuohtaguovdátjijn gávnnuji kiropraktåvrå, valla gávnnuji aj ienep priváhttadåjmadiddje kiropraktåvrå ja naprapáhta gejn li såbadusá lánndadikkijn ålles rijkan.</p>
-    <p type="title" xml:lang="swe">Barggoterapevta</p>
-    <p>Barggoterapevta viehkedi ulmutjijt gejn la dávdda jali li vahágij boadádallam ådåsis viessot árggan. Gähttjali viehkkenävojt ja li smidá gávnatjit praktijkalasj tjoavddusijt häjmmaj ja árggabäjvváj. Máhttá buojkulvissan viehkedit årudagáv hiebadit vierraståvllåj.</p>
-    <p type="title" xml:lang="swe">Kuratåvrå</p>
-    <p>Kuratåvrå viehkedi psykososiálalasj dårjajn. Máhttá årrot buojkulvissan ságastit ulmutjij hieden. Kuratåvrå vaddi aj rádijt ekonomidja ja bargo ássje birra gå ulmusj la skibás. Kuratåvråjn la álu sosionomaåhpadus joarkkaåhpadusájn sosiálalasj bargon.</p>
-    <p type="title">Psykologa</p>
-    <p>Muhtem bájkijn rijkan gávnnuji aj psykologa varresvuohtaguovdátjin. Psykologa li vádtsám vidájahkásasj allaskåvllååhpadusáv ja duodden jahkásasj praktijkalasj bargov. Vaddi psykologalasj dálkudimev, ja jus siján la åhpadus psykoterapiddjan de máhtti dakkir dálkudimev vaddet.</p>
-    <p>Varresvuohtaguovdátjijn la ienemusát ráddjidum dago birra man ulmme l iesj galggá máhttet vájves vidjurav tjielggit. Psykologa máhttá aj dåktårav viehkedit psykologalasj åtsådimij ma buojkulvissan li dárbulattja rehabiliterimguoradallamijn.</p>
-    <p>Goappátjagá kuratåvrå ja psykologa máhtti lájddit juogosdálkudimijt nåv gåk buojkulvissan strässadálkudimjuohkusijt.</p>
-    <p>Psykologa barggi aj psykiatralasj duostudagájn ja priváhtta dåjman.</p>
-    <p type="title">Dietista</p>
-    <p>Dietista li ássjedåbdde biebbmuj Bagádi jus ulmusj buojkulvissan dárbaj ietjas livvodit jali biebmov ietjájduhttet dávda diehti nåv gåk diabetes ja allergiddja.</p>
-    <p type="title">Máná- ja iednevarresvuohtasujtto</p>
-    <p type="title">Iednevarresvuohtaguovdásj</p>
-    <p>Varresvuohtaguovdátjijn, jali dajda tjadnusin, gávnnu álu iednevarresvuohtaguovdásj, MVC, gånnå gáhppeliddje barggi. Sijájn aktavuodav válldá gatjálvisáj preventijvvanävo ja sjiervvedávdaj birra, jali jus la iesselissan. Ienemus MVC ásadi äjgátjuohkusijt ja danna li kursa riegádime åvddåla. Gáhppeliddje válldi aj sellaåtsådimijt gávnatjit sellarievddadusájt skoahtotjåddågin. Ij mejdik mávse mannat MVC:an, ja álu máhttá aktavuodav válldet akta makkir duostudahkajn.</p>
-    <p type="title">Mánásujttoguovdásj</p>
-    <p>Mánásujttoguovdásj, BVC, l álu varresvuohtaguovdátjij tjanádum. BVC:an barggi skihpsujtára spesialisstaåhpadusájn mánájda, distriktaskihpasujtára ja dåktårå. Dánna máhtti aj mánnásujtára, dat javllá vuolepsujtárá gudi li ietjasa dahkam tjiehppen mánájda, barggat. BVC dahká varresvuohtagehtjadimijt varres mánájs gitta 6 jahkáj, dan maŋŋela máná skåvllåvarresvuohtasujtos viehkev oadtju. BVC gábnnjadálkut aj ja máhttelis la bagádisáv oadtjot buojkulvissan njamádime, biebmo ja oadema birra. Äjgát skihpa mánájda, juska vil áldar, aktavuodav válldá varresvuohtaguovdátjijn jali mánáhähkkaduostudagájn. Ienemusát BVC:an la rabás duostudahka goassa l máhttelis váni ájggediŋŋgoma dagi boahtet. Ienemusát la aj máhttelis ájgev diŋŋgot.</p>
-    <p>Psykologa li tjanádum goappátjagá máná- ja iednevarresvuohtasujttuj.</p>
-    <p type="title">Priváhtta sujtto</p>
-    <p type="title">Priváhtta sujtto såbadusájn</p>
-    <p>Sujtto máhttá dåjmaduvvat goappátjagá lánndadikkes jali dajvas ja priváhtta vidnudagájs majn li såbadus lánndadikkijn jali dajvajn. Gávnnuji buojkulvissan priváhtta varresvuohtaguovdátja ja priváhtta iednevarresvuohtaguovdátja. Ij la sieradus mávsojda jus manná lánndadikke/dajva duostudahkaj jali priváhtta jus såbadus gávnnu.</p>
-    <p type="title">Priváhtta sujtto såbadusá dagi</p>
-    <p>Gávnnuji aj priváhtta sujttovadde majn ij la aktak såbadus lánndadikkijn jali dajvajn. Hähttu de iesj ålles mávsov mákset Máhttá årrot buojkulvissan klinijka ma tjuollamijt kosmehtalasj årijs dahki valla aj ietjá dåktåråduostudagá. Moadda psykologaduosatudagá dåjmaduvvi aj priváhtta dåjman såbadusá dagi lánndadikkijn jali dajvajn.</p>
-    <p>Jus ij diede jus duostudagán la såbadus lánndadikkijn jali dajvajn de l álkkemus åvddåla gatjádit majt manádibme máksá.</p>
-    <p type="title">Spesialisstasujtto</p>
-    <p type="title">Spesialisstaduostudagá</p>
-    <p>Muhtem lánndadikkijn ja dajvajn li tjadáduvvam sujttoválljim sierra suorgijn nåv gåk lijkke, gynekologiddja ja biellje-njunnje-tjåttå. Danna iejvvi dåktårijt gudi li spesialissta ietjá suorgijn gå gájkkásasjmedisijnan. Muhttijn la máhttelis åhtsåt dåhku njuolgga ja muhtem lahkaskihpadåbijn, åvdemusát stuorrastádabájkijn, li hähkkaduostudagá árggabiejvijt. Ietjá vidjurijn rávkaduvvá ulmutjin la remissa ietjas dåktåris varrresvuohtaguovdátjin. Ienemusát manná ruvábut ja binnebuv máksá jus ulmutjin la remissa.</p>
-    <p type="title">Umasslágásj spesialisstadåktårå</p>
-    <p>Spesialisstadåktårå li dåktårå gudi li gärggam ietjas spesalisstabargujn, ienemusát vidájahkásasj åhpadusájn gå li ietjas dåktårlegitimasjåvnåv oadtjum. Gávnnuji dåktårå moatten spesialitehtan. Stuoramusá ietján gå gájkkasasjmedisijnna li internamedisijnna, kirurgiddja, ortopediddja ja psykiatriddja.</p>
-    <p>Internamedisijnára li ássjedåbdde buojkulvissan tsåhke- varravárredávdajda, tjoajvve-tjoallegássjelisvuodajda ja giehpesdávda. Le ienemusát dávdaj birra ma e rávka tjuollamav valla åvdemusát dálkuduvvi dálkkasij jali viessomvuogev rievddadit.</p>
-    <p>Kirugiddja l spesialisstasuorgge manna kirurga åvdemusát tjuola dálkudi dávdajt sisŋep orgánajn. Le buojkulvissan sáhppe- ja månemgiergge, guobbmolákkesinflammasjåvnnå jali ljumskbråck.</p>
-    <p>Ortopeda dálkudi dávdajt labudimorganajn ma dárbahi tjuoladuvvat. Le buojkulvissan juolggedoadjem, ladásdávda jali diskbråck.</p>
-    <p>Psykiahter sujtti ulmutjijt psykalasj gássjelisvuodaj nåv gåk depresjåvnnå, schizofreniddja jali gudi li tjanádum buojkulvissan alkoholaj jali narkohtikaj. Psykiahter ja psykologa l guokta ållu umasslágásj virge. Psykiahter la vuodon legitimeridum dåktår gut la tjadádam spesialisstaåhpadusáv psykiatriddjan. Psykiahterin la tjállemriektá ja máhttá de tjáledit dálkkasijt.</p>
-    <p type="title">Sujtto sierralágásj gássjelisvuodaj</p>
-    <p>Muhtem lánndadikkijn ja dajvajn gávnnuji buojkulvissan boastoadno- ja tjanádumsujtto ja máná–ja nuorapsykiatriddja (BUP) Danna barggi bargge sierralágásj åhpadusájn dakkir gássjelisvuodajda. Máhttelis la remissav oadtjot varresvuohtaguovdátjis valla máhttelis la aj dáj duostudagáj njuolgga aktavuodav válldet.</p>
-    <p>Nuoraduostudagájda ja seksa-ja aktanårroduostudagajda l álu aj máhttelis aktavuodav válldet njuolgga váni remissa dagi. Ienemusá gudi aktavuodav válldi nuorajduostudagáj li 13 ja 25 jage gaskan.</p>
-    <p type="title">Hähkkasujtto</p>
-    <p type="title">Hähkkaduostudagá</p>
-    <p>Hähkkaduostudagá li rahppot jánndurav birra hähkkaskihpadåbijn. Dåhku manná dakkirij ma e máhte vuorddet, buojkulvissan jus hähkkat tjavgga dávdas jali vahágij boadádallá. Le buojkulvissan hähkka bávtjas mielan, doaddjum juolgge jali gå tjavgga varddemav oadtju. Máhttelis la aj mannat hähkkaduostudahkaj jus juo l skibás valla hähkkat nävrru. Máhttá aj remissav oadtjot varresvuohtaguovdátjis hähkkaduostudahkaj jus dåktår varresvuohtaguovdátjin árvustallá hähkkat dárbaj sujttiduvvat skihpadåben.</p>
-    <p type="title">Umasslágásj virggejuohkusa hähkkaduostudagán</p>
-    <p>Hähkkaduostudagán barggi vuolepsujtára, skihpasujtára ja dåktårå. Kuratåvrå li aj dåhku tjanádum.</p>
-    <p>Vuolepsujtára åtsådimijt válldi, hávijt gurppiji ja gähttji vaj sujttiduvvá buorreláhkáj. Sij barggi aj duostudagán</p>
-    <p>Skihpasujtára dahki vuostasj árvustallamav gåktu vädjá, åtsådimijt válldi ja dálkkasijt juohki.</p>
-    <p>Kuratåvrrå åvdemusát doarjju lahkaulmutjijt fällamin jali jábmemin. Máhtti aj doarjjot gejt li boadádallam tsabbmemij jali li boadádallam bággoválldemij.</p>
-    <p>Dåktår gut duosstu hähkkaduostudagán máhttá årrot spesialisstadåktår, valla ienemusát la dåktår åhpadusán, dat javllá ST-dåktår jali AT-dåktår. Spesialisstadåktårijn li moadda ietjá bargo skihpadåben ja ienemusát älla hähkkaduostudagán. Gávnnu gis agev binnemusát spesialisstadåktår tjanádum hähkkaduostudahkaj gesi dåktåra gudi danna barggi máhtti riŋŋgit jus juojnak viehkev dárbahi. Universitähttaskihpadåbij hähkkaduostudagájn máhttá aj iejvvit dåktårkandidahtajt, gudi li dåktåråhpadusán. Sij li hähkkaduostudagán åhpatjit, valla siján älla ietjasa åvdåsvásstádus dálkudimes.</p>
-    <p>Hähkkadåktårå åvdemus dahkamus la árvustallat gåktu ulmusj vädjá, jus la máhttelis dálkudimev oadtjot ja maŋŋela häjmmaj mannat jali jus la dárbulasj sisitjáleduvvat skihpadåbe muhtem åssudagájda sujtov oattjotjit. Ienemusát gávnnuji aj nåv gåhtjoduvvam observasjåvnnåsaje skihpadåben gånnå l máhttelis báhtset muhtem tijma jali nuppe bäjvváj jus dåktår sihtá tjuovvot åvdedimev jali ij la tjielggidum jus dárbaj sisitjáleduvvat vil sujttuj. Muhttijn la dárbulasj dåbelijtjuovvom dálkudibme rabás sujton, ienemusát varresvuohtaguovdátjin jali spesialisstaduostudagán. Máhttelis la de remissav oadtjot jali de dåktår skihpadåben brevav tjállá dåktårij gut galggá dåbelijtjuovvomav sujttit. Muhttijn iesj oadtju aktavuodav válldet ietjas varresvuohtaguovdátjijn dåbelijtjuovvomij.</p>
-    <p type="title">Bájkálasj skihpadåbe ja lahkaskihpadåbe</p>
-    <p>Bájkálasj skihpadåbe ja lahkaskihpadåbe li unnep skihpadåbe majn agev älla hähkkaduostudagá ma li rahppot jánndurav birra. Dánna dåktårå barggi umasslágásj spesialitehtaj. Dálkudibme ienemusát dagáduvvá rabás sujton mij merkaj häjmmaj manná manádime maŋŋela. Dánna gávnnuji aj åssudagá gånnå l máhttelis sisitjáleduvvat jus ij dárbaha sierra sujtov mij hähkkaskihpadåbijn gávnnu.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>2023</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Hitta-ratt-i-sjukvarden</origFileName><parallel_text location="hitta-ratt-i-sjukvarden.html" xml:lang="rmu"/><parallel_text location="hitta-ratt-i-sjukvarden.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Gávnnat skihpasujton / Hitta rätt i sjukvården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Gávnnat skihpasujtonHitta rätt i sjukvården</p>
+<p type="title">Bagádus riekta sujttuj</p>
+<p type="title">Sujtto riekta mieren</p>
+<p>Muhttijn máhttá gássjel diehtet gejna galggá aktavuodav válldet skihpasujton. Gåsi galggá buojkulvissan åhtsåt jus la tjavelgijs, snuohpa mij ij buorrána jali sieldes tjåjvijs?</p>
+<p>Ienemusát galggá viehkev åhtsåt varresvuohtaguovdátjin jali sämmilágásj ásadusán gájka vájvijs ma e dalága rávka sujtov skihpadåben, dat javllá, hähkka, vájve jali häggaájtediddje. Jus la dárbulasj de doalvoduvvá varresvuohtaguovdátjis ietjá specialisstadåktårijda. Iehkedijt ja ájllegijt åvdemusát aktavuodav válldá hähkkaduostudagájn gånnå årru jus la gássjelisvuohta majna ij máhte vuorddet desik varresvuohtaguovdásj rahpá.</p>
+<p>Dát täksta tjielggi gájkkasattjat gåktu rabás sujtto doajmmá ja gåsi galggá åhtsåt, valla vehik målsut lánndadikkij ja dajvaj gaskan. Jus ienebuv sihtá diehtet gåktu sujtto dárkkelit doajmmá de hähttu åhtsåt mij la fámon gånnå årru. Lánndadikkij ja dajvaj vebbabielijn ja 1177.se máhttá ienebuv låhkåt.</p>
+<p type="title">Skihpasujttobagádallam bagát ja diedojt vaddá</p>
+<p>Ij la agev álkke iesj árvustallat man skibás la. Danen skihpasujttobagádallam gávnnu telefåvnå baktu gånnå máhtalgis skihpasujttára árvustalli gássjelisvuodav, bagádi ja goassa l dárbulasj aj diededi gånnå galggá viehkev åhtsåt. Vuorddemájge máhtti oaneduvvat ja sujtto buoreduvvat jus diehtá gåsi galggá åhtsåt. Gudi li skihpasabmusa viehkev oadtju ruvábut hähkkasujton ja gejna li giehpep vájve danna bessi vuorddemis. Ávkke l gájkajda.</p>
+<p type="title">Skihpasujtto juogeduvvá rabásujton ja ållesjándursujton</p>
+<p>Skihpasujtto máhttá juogeduvvat guovten oasen, rabássujton ja ållesjándursujton. Rabássujtto merkaj oadtju häjmmaj mannat maŋŋel gå la manádam skihpasujton, gå ållesjándursujtto merkaj ulmusj la sisitjáledum skihpadåhpåj. Skihpasujto stuorámus oasse dagáduvvá rabássujton. Vuostak gåvåduvvá varresvuohtaguovdásj ja spesialisstaduostudahka. Dan maŋŋela l gåvådibme hähkkaduostudagás mij álu la vuohke åledit ållesjándursujttuj.</p>
+<p>Gudi dárbahi skihpasujtov hejman máhtti viehkev oadtjot häjmmaskihpasujton. Ienep bájkijn rijkan li kommuvna gudi åvdåsvásstádusáv adni dassta.</p>
+<p type="title">Varresvuohtaguovdásj</p>
+<p type="title">Varresvuohtaguovdásj – diehki vuostak åhtså</p>
+<p>Varresvuohtaguovdásj la vuodo svieriga skihpasujton. Danna li moadda namá ja gåhtjoduvvá buojkulvissan aj fuolkkedåktårduostudahkan, fuolkkedåktårduostudahkan jali varresvuohtaguovdátjin. Diehki ienemusát åhtså gå li gássjelisvuoda ietjas varresvuodajn. Aktavuodav válldá varresvuohtaguovdátjijn manna l åvdåsvásstádus ulmutjijs bájken gånnå årru, jali masi la tjáledum.</p>
+<p>Varresvuohtaguovdátjin dagáduvvi gájkka riegádimmánáj varresvuohtakåntrållåjs gitta ieme dávdaj dálkudimijda buojkulvissan tjåttåinflammasjåvnnå ja stuoves dávda. Dánna máhttá aj bagádisáv oadtjot jus sihtá suovastimes hiejttet jali ietjas livvodittjat. Jus dárbaj rehabiliterimav de álu dav varresvuohtaguovdátjin oadtju. Jus dåktår árvustallá ulmusj dárbaj ienep specialiseridum sujtov jali rehabiliterimav de máhttá remissav oadtjot spesialisstaduostudahkaj skihpadåben jali ietjá rabássujttoduostudahkaj.</p>
+<p>Varresvuohtaguovdásj la rahppot árggabiejvijt ja máhttá de riŋŋgit ja ájgev diŋŋgot. Moatten duostudagán la aj rabás duostudahka vissa ájgijn vahkon goassa máhttá manádit jus viehkev dárbaj sämmi biejve váni ájgev diŋgok. Varresvuohtaguovdátjijn la bagádallam telefåvnå baktu ja máhtti aj ásadit häjmmamanádimijt muhtem bále.</p>
+<p>Moatten varresvuohtaguovdátjin ja lahkaskihpadåben la hähkkaduostudahka gåsi máhttá åhtsåt hähkka vájvij aj iehkedijn, basijn ja vissa bále ijájn. Ienemusát hähttu vuostak riŋŋgit ja ájgev diŋŋgot. Muhtem bájkijn rijkan jouradoajmma dagáduvvá ienni skihpadåbe hähkkaduostudagán.</p>
+<p type="title">Gájkkasasjdåktårå dahkamusá</p>
+<p>Dåktårå gudi barggi varresvuohtaguovdátjin li ienemusát gájkkasasjdåktårå. Gåhtjoduvvi aj häjmmadåktårin jali fuolkkedåktårin Gájkka gájkkasasjdåktårå li spesialista gájkkasasjmedisijnan ja sij li smidá ulmutjijt duostutjit umasslágásj symtomaj ja árvustallat gudi sujtov dárbahi ietjá spesialistas jali skihpadåben. Gájkkasasjdåktårå sujttiji gejt li åttjudallam álmmukdávdav , dat javllá dávda ma ienemusát gávnnuji sebrudagán. Sujttiji dálkudimev gå ulmutjin la muhtem stuoves dávdda nåv gåk diabetes jali tsåhkesudidahka. Gájkkasasjdåktårå máhtti aj dálkudit jus ulmutjin la giehppis jali gasskagássjelis depresjåvnnå. Ulmusj galggá máhttet sämmi dåktåra lunna mannat gájkka ietjas vájvij ja nåvti aktelisvuodav ja jasskavuodav dåbddåt – danen gåhttju fuolkkedåktårin.</p>
+<p>Gájkkasasjdåktårå barggi aj hierediddje sujtujn ja iehtjádij siegen ulmutjijt viehkedi ietjasa viessomvuogev rievddadit. Máhttá årrot buojkulvissan viehkke gå la suovastimes häjtátjit, gähpotjit jali buoredittjat ietjas alkoholadábijt.</p>
+<p>Gájkkasasj dåktårå bagádi aj skihpasujton. Siján la stuorra aktavuohtavärmmádahka ja diehti masi ietjá spesialisstadåktårå li tjiehpe. Danen máhtti bagádit riekta sujton ja remissav riekta ásadussaj tjállet.</p>
+<p>Varresvuohtaguovdátjin, nåv gåk skihpadåbijn, máhtti aj gávnnut dåktårå gudi li åhpadusán gudi gåhtjoduvvi AT-dåktårin jali ST-dåktårin. AT-dåktårå li dåktårå gudi dahki ietjasa guovtejahkásasj gájkkasasjbargov vuodoåhpadusá maŋŋela. Barggi álu guhtta máno varresvuohtaguovdátjin. Dájn dåktårijn la gájkkasasjdåktår bagádiddjen ja máhtti bagádisáv gatjádit.</p>
+<p>ST-dåktårå li dåktåra gudi dahki ietjasa spesialiserimbargov. Varresvuohtaguovdátjin iejvvi ienemusát dåktårijt gudi ietjasa spesialiseriji gájkkasasjdåktårin, valla siján máhtti aj ietjá ulmme. Spesialisstaåhpadus l bájken vihtta jage. ST-dåktårijn varresvuohtaguovdátjin la bagádallam dájvvalakkoj gájkkasasjdåktåris.</p>
+<p>Le vil dåktårå gudi barggi sadjásattjan varresvuohtaguovdátjijn gå l vádne dåktårijs. Máhtti goappátjagá spesialista ja gudi älla spesialista.</p>
+<p type="title">Válljit varresvuohtaguovdátjav</p>
+<p>Máhttelis la iesj válljit makkir varresvuohtaguovdátjij jali dåktårduostudahkaj sihtá gullut. Varresvuohtaguovdásj jali dåktårduostudahka majt vállji máhttá akta gånnå ietjas lánndadikken jali dajvan. Máhttelis la válljit priváhta dåktårduostudagájt jali lánndadikke varresvuohtaguovdátjijt jali dåktårduostudagájt.</p>
+<p>Sujttoválljim mij la ålles rijkan merkaj moatten lánndadikken ja dajvan aj la ulmutjin riektá válljit ietjas fuolkkedåktåråv. Dahká dav gå aktavuodav válldá varresvuohtaguovdátjijn gåsi sihtá mannat. Jus dat dåktår gesi ietjas sihtá tjáledit ij máhte ådå patientajt duosstot de l máhttelis ietjá primerradåktåråv válljit. Máhttelis la fuolkkedåktåråv målssot akta goassa.</p>
+<p type="title">Ietjá virggejuohkusa varresvuohtaguovdátjin</p>
+<p>Le umassláhkáj umasse bájkijn rijkan, valla varresvuohtaguovdátjin máhtti aj distiktaskihpasujtára, vuolepsujtára, skihpagymnásta, gáhppeliddje ja dåktårtjálle barggat. Muhttijn gávnnuji aj barggoterapevta, psykologa, kuratåvrå ja dietista. Varresvuohtaguovdátjin gávnnu álu aj máná- ja iednevarresvuohtasujtto. Biomedisijnalasj guoradalle ja laboratåvrråviehkediddje gávnnuji laboratåvråjn ma li moatten varresvuohtaguovdátjin. Kássan jali duostudagán álu iejvvi duostudiddjev jali dåktårtjállev.</p>
+<p type="title">Distriktasujtára</p>
+<p>Distriktasujtára li joarkkaåhpadum skihpasujtára. Siján li praktijkalasj dahkamusá nåv gåk gabnnjadálkudimijt vaddet, dálkkasijt juohket ja hávijt gurppit. Distriktasujtára barggi aj hälsodisvuodav hieredit buojkulvissan lájddit hiejttet suovastim-juohkusijt. Moaddi dahki aj häjmmamanádimijt ulmutjij lunna gudi e máhte boahtet varresvuohtaguovdátjij dálkudibmáj ja åtsådibmáj.</p>
+<p>Distriktasujtárijn li álu ietjasa duostudagá ulmutjijda vissa stuoves dávdajda nåv gåk buojkulvissan diabetesijn jali astmajn. Sujttiji dálkudime oasev ja siján la riektá muhtem dálkkasijt tjáledit. Gå riŋŋgi varresvuohtaguovdátjij ja li gássjelisvuoda ietjas varresvuodajn de l álu distriktasujtár gut vásstet ja bagát.</p>
+<p type="title">Vuolepsujtára</p>
+<p>Vuolepsujtára barggi aktan dåktårij ja distriktasujtárij. Válldi buojkulvissan varraåtsådimijt, tsågev åtsådi EKG:ajn ja hávijt gurppiji. Moatten varresvuohtaguovdátjin dahki aj häjmmamanádimijt. Vuolepsujtára máhtti aj tjåhkkåhit varresvuohtaguovdátja duostudagán. Duostudagán máhttá aj iejvvit dåktårtjállijt, gejn ietján li administratijvalasj dahkamusá varresvuohtaguovdátjin.</p>
+<p type="title">Skihpagymnásta</p>
+<p>Skihpagymnásta barggi åvdemusát ulmutjij gejn li vájve labudallat. Máhtti vájve tjavelgijn jali niskijn, jali rehabiliterim vahágij maŋŋela jali dávda nåv gåk buojkulvissan stroke, slaganfalla. Dálkudibme máhttá buojkulvissan årrot bagádis makkir hárjjidallamijt iesj máhttá dahkat, luossjvedibme ja massásja. Skihpagymnásta máhtti aj tjáledit másjkudallamav dálkastjállagin hieredittjat jali giehpedittjat dávdav. Skihpagymnásstaj máhttá åhtsåt váni remissa dagi dåktåris.</p>
+<p type="title">Naprapáhta ja kiropraktåvrå</p>
+<p>Naprapáhta ja kiropraktåvrå dálkudi báktjasav lábudimorgánajn Goappásj virggejuohkusa dálkudi giedaj. Muhtem varresvuohtaguovdátjijn gávnnuji kiropraktåvrå, valla gávnnuji aj ienep priváhttadåjmadiddje kiropraktåvrå ja naprapáhta gejn li såbadusá lánndadikkijn ålles rijkan.</p>
+<p type="title" xml:lang="swe">Barggoterapevta</p>
+<p>Barggoterapevta viehkedi ulmutjijt gejn la dávdda jali li vahágij boadádallam ådåsis viessot árggan. Gähttjali viehkkenävojt ja li smidá gávnatjit praktijkalasj tjoavddusijt häjmmaj ja árggabäjvváj. Máhttá buojkulvissan viehkedit årudagáv hiebadit vierraståvllåj.</p>
+<p type="title" xml:lang="swe">Kuratåvrå</p>
+<p>Kuratåvrå viehkedi psykososiálalasj dårjajn. Máhttá årrot buojkulvissan ságastit ulmutjij hieden. Kuratåvrå vaddi aj rádijt ekonomidja ja bargo ássje birra gå ulmusj la skibás. Kuratåvråjn la álu sosionomaåhpadus joarkkaåhpadusájn sosiálalasj bargon.</p>
+<p type="title">Psykologa</p>
+<p>Muhtem bájkijn rijkan gávnnuji aj psykologa varresvuohtaguovdátjin. Psykologa li vádtsám vidájahkásasj allaskåvllååhpadusáv ja duodden jahkásasj praktijkalasj bargov. Vaddi psykologalasj dálkudimev, ja jus siján la åhpadus psykoterapiddjan de máhtti dakkir dálkudimev vaddet.</p>
+<p>Varresvuohtaguovdátjijn la ienemusát ráddjidum dago birra man ulmme l iesj galggá máhttet vájves vidjurav tjielggit. Psykologa máhttá aj dåktårav viehkedit psykologalasj åtsådimij ma buojkulvissan li dárbulattja rehabiliterimguoradallamijn.</p>
+<p>Goappátjagá kuratåvrå ja psykologa máhtti lájddit juogosdálkudimijt nåv gåk buojkulvissan strässadálkudimjuohkusijt.</p>
+<p>Psykologa barggi aj psykiatralasj duostudagájn ja priváhtta dåjman.</p>
+<p type="title">Dietista</p>
+<p>Dietista li ássjedåbdde biebbmuj Bagádi jus ulmusj buojkulvissan dárbaj ietjas livvodit jali biebmov ietjájduhttet dávda diehti nåv gåk diabetes ja allergiddja.</p>
+<p type="title">Máná- ja iednevarresvuohtasujtto</p>
+<p type="title">Iednevarresvuohtaguovdásj</p>
+<p>Varresvuohtaguovdátjijn, jali dajda tjadnusin, gávnnu álu iednevarresvuohtaguovdásj, MVC, gånnå gáhppeliddje barggi. Sijájn aktavuodav válldá gatjálvisáj preventijvvanävo ja sjiervvedávdaj birra, jali jus la iesselissan. Ienemus MVC ásadi äjgátjuohkusijt ja danna li kursa riegádime åvddåla. Gáhppeliddje válldi aj sellaåtsådimijt gávnatjit sellarievddadusájt skoahtotjåddågin. Ij mejdik mávse mannat MVC:an, ja álu máhttá aktavuodav válldet akta makkir duostudahkajn.</p>
+<p type="title">Mánásujttoguovdásj</p>
+<p>Mánásujttoguovdásj, BVC, l álu varresvuohtaguovdátjij tjanádum. BVC:an barggi skihpsujtára spesialisstaåhpadusájn mánájda, distriktaskihpasujtára ja dåktårå. Dánna máhtti aj mánnásujtára, dat javllá vuolepsujtárá gudi li ietjasa dahkam tjiehppen mánájda, barggat. BVC dahká varresvuohtagehtjadimijt varres mánájs gitta 6 jahkáj, dan maŋŋela máná skåvllåvarresvuohtasujtos viehkev oadtju. BVC gábnnjadálkut aj ja máhttelis la bagádisáv oadtjot buojkulvissan njamádime, biebmo ja oadema birra. Äjgát skihpa mánájda, juska vil áldar, aktavuodav válldá varresvuohtaguovdátjijn jali mánáhähkkaduostudagájn. Ienemusát BVC:an la rabás duostudahka goassa l máhttelis váni ájggediŋŋgoma dagi boahtet. Ienemusát la aj máhttelis ájgev diŋŋgot.</p>
+<p>Psykologa li tjanádum goappátjagá máná- ja iednevarresvuohtasujttuj.</p>
+<p type="title">Priváhtta sujtto</p>
+<p type="title">Priváhtta sujtto såbadusájn</p>
+<p>Sujtto máhttá dåjmaduvvat goappátjagá lánndadikkes jali dajvas ja priváhtta vidnudagájs majn li såbadus lánndadikkijn jali dajvajn. Gávnnuji buojkulvissan priváhtta varresvuohtaguovdátja ja priváhtta iednevarresvuohtaguovdátja. Ij la sieradus mávsojda jus manná lánndadikke/dajva duostudahkaj jali priváhtta jus såbadus gávnnu.</p>
+<p type="title">Priváhtta sujtto såbadusá dagi</p>
+<p>Gávnnuji aj priváhtta sujttovadde majn ij la aktak såbadus lánndadikkijn jali dajvajn. Hähttu de iesj ålles mávsov mákset Máhttá årrot buojkulvissan klinijka ma tjuollamijt kosmehtalasj årijs dahki valla aj ietjá dåktåråduostudagá. Moadda psykologaduosatudagá dåjmaduvvi aj priváhtta dåjman såbadusá dagi lánndadikkijn jali dajvajn.</p>
+<p>Jus ij diede jus duostudagán la såbadus lánndadikkijn jali dajvajn de l álkkemus åvddåla gatjádit majt manádibme máksá.</p>
+<p type="title">Spesialisstasujtto</p>
+<p type="title">Spesialisstaduostudagá</p>
+<p>Muhtem lánndadikkijn ja dajvajn li tjadáduvvam sujttoválljim sierra suorgijn nåv gåk lijkke, gynekologiddja ja biellje-njunnje-tjåttå. Danna iejvvi dåktårijt gudi li spesialissta ietjá suorgijn gå gájkkásasjmedisijnan. Muhttijn la máhttelis åhtsåt dåhku njuolgga ja muhtem lahkaskihpadåbijn, åvdemusát stuorrastádabájkijn, li hähkkaduostudagá árggabiejvijt. Ietjá vidjurijn rávkaduvvá ulmutjin la remissa ietjas dåktåris varrresvuohtaguovdátjin. Ienemusát manná ruvábut ja binnebuv máksá jus ulmutjin la remissa.</p>
+<p type="title">Umasslágásj spesialisstadåktårå</p>
+<p>Spesialisstadåktårå li dåktårå gudi li gärggam ietjas spesalisstabargujn, ienemusát vidájahkásasj åhpadusájn gå li ietjas dåktårlegitimasjåvnåv oadtjum. Gávnnuji dåktårå moatten spesialitehtan. Stuoramusá ietján gå gájkkasasjmedisijnna li internamedisijnna, kirurgiddja, ortopediddja ja psykiatriddja.</p>
+<p>Internamedisijnára li ássjedåbdde buojkulvissan tsåhke- varravárredávdajda, tjoajvve-tjoallegássjelisvuodajda ja giehpesdávda. Le ienemusát dávdaj birra ma e rávka tjuollamav valla åvdemusát dálkuduvvi dálkkasij jali viessomvuogev rievddadit.</p>
+<p>Kirugiddja l spesialisstasuorgge manna kirurga åvdemusát tjuola dálkudi dávdajt sisŋep orgánajn. Le buojkulvissan sáhppe- ja månemgiergge, guobbmolákkesinflammasjåvnnå jali ljumskbråck.</p>
+<p>Ortopeda dálkudi dávdajt labudimorganajn ma dárbahi tjuoladuvvat. Le buojkulvissan juolggedoadjem, ladásdávda jali diskbråck.</p>
+<p>Psykiahter sujtti ulmutjijt psykalasj gássjelisvuodaj nåv gåk depresjåvnnå, schizofreniddja jali gudi li tjanádum buojkulvissan alkoholaj jali narkohtikaj. Psykiahter ja psykologa l guokta ållu umasslágásj virge. Psykiahter la vuodon legitimeridum dåktår gut la tjadádam spesialisstaåhpadusáv psykiatriddjan. Psykiahterin la tjállemriektá ja máhttá de tjáledit dálkkasijt.</p>
+<p type="title">Sujtto sierralágásj gássjelisvuodaj</p>
+<p>Muhtem lánndadikkijn ja dajvajn gávnnuji buojkulvissan boastoadno- ja tjanádumsujtto ja máná–ja nuorapsykiatriddja (BUP) Danna barggi bargge sierralágásj åhpadusájn dakkir gássjelisvuodajda. Máhttelis la remissav oadtjot varresvuohtaguovdátjis valla máhttelis la aj dáj duostudagáj njuolgga aktavuodav válldet.</p>
+<p>Nuoraduostudagájda ja seksa-ja aktanårroduostudagajda l álu aj máhttelis aktavuodav válldet njuolgga váni remissa dagi. Ienemusá gudi aktavuodav válldi nuorajduostudagáj li 13 ja 25 jage gaskan.</p>
+<p type="title">Hähkkasujtto</p>
+<p type="title">Hähkkaduostudagá</p>
+<p>Hähkkaduostudagá li rahppot jánndurav birra hähkkaskihpadåbijn. Dåhku manná dakkirij ma e máhte vuorddet, buojkulvissan jus hähkkat tjavgga dávdas jali vahágij boadádallá. Le buojkulvissan hähkka bávtjas mielan, doaddjum juolgge jali gå tjavgga varddemav oadtju. Máhttelis la aj mannat hähkkaduostudahkaj jus juo l skibás valla hähkkat nävrru. Máhttá aj remissav oadtjot varresvuohtaguovdátjis hähkkaduostudahkaj jus dåktår varresvuohtaguovdátjin árvustallá hähkkat dárbaj sujttiduvvat skihpadåben.</p>
+<p type="title">Umasslágásj virggejuohkusa hähkkaduostudagán</p>
+<p>Hähkkaduostudagán barggi vuolepsujtára, skihpasujtára ja dåktårå. Kuratåvrå li aj dåhku tjanádum.</p>
+<p>Vuolepsujtára åtsådimijt válldi, hávijt gurppiji ja gähttji vaj sujttiduvvá buorreláhkáj. Sij barggi aj duostudagán</p>
+<p>Skihpasujtára dahki vuostasj árvustallamav gåktu vädjá, åtsådimijt válldi ja dálkkasijt juohki.</p>
+<p>Kuratåvrrå åvdemusát doarjju lahkaulmutjijt fällamin jali jábmemin. Máhtti aj doarjjot gejt li boadádallam tsabbmemij jali li boadádallam bággoválldemij.</p>
+<p>Dåktår gut duosstu hähkkaduostudagán máhttá årrot spesialisstadåktår, valla ienemusát la dåktår åhpadusán, dat javllá ST-dåktår jali AT-dåktår. Spesialisstadåktårijn li moadda ietjá bargo skihpadåben ja ienemusát älla hähkkaduostudagán. Gávnnu gis agev binnemusát spesialisstadåktår tjanádum hähkkaduostudahkaj gesi dåktåra gudi danna barggi máhtti riŋŋgit jus juojnak viehkev dárbahi. Universitähttaskihpadåbij hähkkaduostudagájn máhttá aj iejvvit dåktårkandidahtajt, gudi li dåktåråhpadusán. Sij li hähkkaduostudagán åhpatjit, valla siján älla ietjasa åvdåsvásstádus dálkudimes.</p>
+<p>Hähkkadåktårå åvdemus dahkamus la árvustallat gåktu ulmusj vädjá, jus la máhttelis dálkudimev oadtjot ja maŋŋela häjmmaj mannat jali jus la dárbulasj sisitjáleduvvat skihpadåbe muhtem åssudagájda sujtov oattjotjit. Ienemusát gávnnuji aj nåv gåhtjoduvvam observasjåvnnåsaje skihpadåben gånnå l máhttelis báhtset muhtem tijma jali nuppe bäjvváj jus dåktår sihtá tjuovvot åvdedimev jali ij la tjielggidum jus dárbaj sisitjáleduvvat vil sujttuj. Muhttijn la dárbulasj dåbelijtjuovvom dálkudibme rabás sujton, ienemusát varresvuohtaguovdátjin jali spesialisstaduostudagán. Máhttelis la de remissav oadtjot jali de dåktår skihpadåben brevav tjállá dåktårij gut galggá dåbelijtjuovvomav sujttit. Muhttijn iesj oadtju aktavuodav válldet ietjas varresvuohtaguovdátjijn dåbelijtjuovvomij.</p>
+<p type="title">Bájkálasj skihpadåbe ja lahkaskihpadåbe</p>
+<p>Bájkálasj skihpadåbe ja lahkaskihpadåbe li unnep skihpadåbe majn agev älla hähkkaduostudagá ma li rahppot jánndurav birra. Dánna dåktårå barggi umasslágásj spesialitehtaj. Dálkudibme ienemusát dagáduvvá rabás sujton mij merkaj häjmmaj manná manádime maŋŋela. Dánna gávnnuji aj åssudagá gånnå l máhttelis sisitjáleduvvat jus ij dárbaha sierra sujtov mij hähkkaskihpadåbijn gávnnu.</p>
+</body></document>

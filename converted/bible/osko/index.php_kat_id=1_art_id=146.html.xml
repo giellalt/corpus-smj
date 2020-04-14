@@ -1,49 +1,12 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>59</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=1&amp;art_id=146</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=1_art_id=146.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=1_art_id=146.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=1_art_id=146.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Duv ájádusá</p>
-    <p type="title">Konfirmasjåvnnådábe</p>
-    <p>Vuogas ja hæjos dábe konfirmasjåvnnåj gulluji. Muhtemij mielas le vuogas konfirmerit danen gå ålles jagev tjadá besa vásedit Jubmelav, girkkov ja jáhkov. Iehtjádij mielas le ilá divras konfirmerit ja sisadno ilá binnáv dættoduvvá.</p>
-    <p>Sidá gus oassálasstet ietjada dábijt árvustallat?</p>
-    <p>Subtsasta makkir dábe li vuohkasa ja ma ælla?</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-    <p type="title" xml:lang="nob">kommentarer(0):</p>
-    <p type="title" xml:lang="nob">Skriv en kommentar:</p>
-    <p xml:lang="nob">Navn:</p>
-    <p xml:lang="nob">epost:</p>
-    <p xml:lang="nob">Kommentar:</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>59</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=1&amp;art_id=146</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=1_art_id=146.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=1_art_id=146.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=1_art_id=146.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Duv ájádusá</p>
+<p type="title">Konfirmasjåvnnådábe</p>
+<p>Vuogas ja hæjos dábe konfirmasjåvnnåj gulluji. Muhtemij mielas le vuogas konfirmerit danen gå ålles jagev tjadá besa vásedit Jubmelav, girkkov ja jáhkov. Iehtjádij mielas le ilá divras konfirmerit ja sisadno ilá binnáv dættoduvvá.</p>
+<p>Sidá gus oassálasstet ietjada dábijt árvustallat?</p>
+<p>Subtsasta makkir dábe li vuohkasa ja ma ælla?</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+<p type="title" xml:lang="nob">kommentarer(0):</p>
+<p type="title" xml:lang="nob">Skriv en kommentar:</p>
+<p xml:lang="nob">Navn:</p>
+<p xml:lang="nob">epost:</p>
+<p xml:lang="nob">Kommentar:</p>
+</body></document>

@@ -1,60 +1,18 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>330</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Dierredibme-nissunij-vuosstij</origFileName>
-    <parallel_text xml:lang="nob" location="vold-mot-kvinner.html"/>
-    <parallel_text xml:lang="sma" location="vaedtsoesvoete-nyjsenaejjaj-voeoeste.html"/>
-    <parallel_text xml:lang="sme" location="veahkavalddalasvuohta-nissoniid-vuosta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Dierredibme nissunij vuosstij / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
-    <p type="title">Dierredibme nissunij vuosstij</p>
-    <p>01. njoktje 2013</p>
-    <p>Sámedikkeráde Vibeke Larsen oassálasstá AN:a nissunkommisjåvnnåjNew Yorkan.Dán jagásj AN:a nissunkommisjåvnå fádda le dierredibme nissunij vuosstij. –Moadda álggoálmmuknissuna væráldav miehtáj vásedi dierredimev sijdan ja almulasj oajválattjajs, ja danen sihtap fáttav nissunkommisjåvnå tjåhkanimen låggŋit, javllá rádeájras Vibeke Larsen.</p>
-    <p>AN:a nissunkommisjåvnnå álggá mánnodagá sjnjuktjamáno 4. biejve ja vihpá guokta vahko. Kommisjåvnnå galggá árvustallat mij le åvddåla dagádum dan aktijvuodan, ådå hásstalusájt identifiserit, rijkajgasskasasj standardijt dahkat ja ådå politihkav hábbmit dásseárvo ja nissunij riektáj gáktuj.</p>
-    <p>Sámedigge oassálasstá Vuona delegasjåvnån mav Máná-, dásseárvvo- ja sebradahttemminisstar Inga Marthe Thorkildsen jådet.</p>
-    <p>
-      <em type="bold">Tabu fádda </em>
-    </p>
-    <p>
-      <em type="bold">-Dierredibme nissunij vuosstij le aj hásstalussan sáme sebrudagán. Dav diehtep, valla ep rat diede le gus dat væráp jali buorep gå ietján sebrudagán, javllá rádeájras Vibeke Larsen. </em>
-    </p>
-    <p>2012 tjavtja almodin Sámedigge ja Justijssadepartemænnta aktan dutkamprosjevtav namájn: Dierredibme lahka aktijvuodajn sáme sebrudagájn. Ettjin åvvå fálaldagá boade, ja danen prosjækta vas ådåsis almoduvvá jagen 2013.</p>
-    <p>
-      <em type="bold">-Diehtep dierredibme lahka familjan le dakkir ássje man birra ij sáhkada sáme sebrudagájn ge. Gássjel le sáhkadit ja diehtet dan birra jut dierredibme sijda nielje siejnij sisbielen dahpáduvvá. Valla Sámedigge jáhkká ep goassak gåsik ássjijn boade jus ep duosta dav vuojnnusij låggŋit, javllá Larsen. </em>
-    </p>
-    <p>
-      <em type="bold">-Mij ep åvvånisgalga dåhkkidit dierredimev lahka fámiljan ja danen sihtá sámediggeráde gávnnat ma li sivá gå ulmutja dierredi lahka fámiljav. Sihtap diehtet gåktu almulasj ásadusá viehkedi sámijt gudi li hæhttum dierredimev gierddat ja makta le sáme giella- ja kultuvrramáhtudahka siján, javlláVibeke Larsen. </em>
-    </p>
-    <p>AN:a álggoálmmugij sierrarapportørra James Anaya le javllam dierredibme nissunij ja næjtsoj vuosstij, sihke álggoálmmukålmmåjs ietja ja iehtjádijs, le viehka ájnas ássje gå le sáhka almasjrievtesvuodaássjijs ma álggoálmmugijt vájkkudi.</p>
-    <p xml:lang="sme">
-      <em type="bold">Guotto </em>
-    </p>
-    <p>Sámedigge sihtá ienebut hieredit ja guottojt rievddat dán ássjen.</p>
-    <p>
-      <em type="bold">-Nuorra sáme nissuna galggi diehtet e sij galga gierddat tsábbmut ietjasa guojmijs ja nuorra sáme ålmmå galggi diehtet ij le dåhkkidahtte tsábbmet váj mak navti galggá tjuolmav tjoavddet, javllá rádeájras Vibeke Larsen. </em>
-    </p>
-    <p>Ienep diedo: Rádeájras Vibeke Larsen, + 47 941 30 116 jali vibeke.larsen@samediggi.no</p>
-    <p>http://www.un.org/womenwatch/daw/csw/57sess.htm</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>330</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Dierredibme-nissunij-vuosstij</origFileName><parallel_text xml:lang="nob" location="vold-mot-kvinner.html"/><parallel_text xml:lang="sma" location="vaedtsoesvoete-nyjsenaejjaj-voeoeste.html"/><parallel_text xml:lang="sme" location="veahkavalddalasvuohta-nissoniid-vuosta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Dierredibme nissunij vuosstij / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
+<p type="title">Dierredibme nissunij vuosstij</p>
+<p>01. njoktje 2013</p>
+<p>Sámedikkeráde Vibeke Larsen oassálasstá AN:a nissunkommisjåvnnåjNew Yorkan.Dán jagásj AN:a nissunkommisjåvnå fádda le dierredibme nissunij vuosstij. –Moadda álggoálmmuknissuna væráldav miehtáj vásedi dierredimev sijdan ja almulasj oajválattjajs, ja danen sihtap fáttav nissunkommisjåvnå tjåhkanimen låggŋit, javllá rádeájras Vibeke Larsen.</p>
+<p>AN:a nissunkommisjåvnnå álggá mánnodagá sjnjuktjamáno 4. biejve ja vihpá guokta vahko. Kommisjåvnnå galggá árvustallat mij le åvddåla dagádum dan aktijvuodan, ådå hásstalusájt identifiserit, rijkajgasskasasj standardijt dahkat ja ådå politihkav hábbmit dásseárvo ja nissunij riektáj gáktuj.</p>
+<p>Sámedigge oassálasstá Vuona delegasjåvnån mav Máná-, dásseárvvo- ja sebradahttemminisstar Inga Marthe Thorkildsen jådet.</p>
+<p><em type="bold">Tabu fádda </em></p>
+<p><em type="bold">-Dierredibme nissunij vuosstij le aj hásstalussan sáme sebrudagán. Dav diehtep, valla ep rat diede le gus dat væráp jali buorep gå ietján sebrudagán, javllá rádeájras Vibeke Larsen. </em></p>
+<p>2012 tjavtja almodin Sámedigge ja Justijssadepartemænnta aktan dutkamprosjevtav namájn: Dierredibme lahka aktijvuodajn sáme sebrudagájn. Ettjin åvvå fálaldagá boade, ja danen prosjækta vas ådåsis almoduvvá jagen 2013.</p>
+<p><em type="bold">-Diehtep dierredibme lahka familjan le dakkir ássje man birra ij sáhkada sáme sebrudagájn ge. Gássjel le sáhkadit ja diehtet dan birra jut dierredibme sijda nielje siejnij sisbielen dahpáduvvá. Valla Sámedigge jáhkká ep goassak gåsik ássjijn boade jus ep duosta dav vuojnnusij låggŋit, javllá Larsen. </em></p>
+<p><em type="bold">-Mij ep åvvånisgalga dåhkkidit dierredimev lahka fámiljan ja danen sihtá sámediggeráde gávnnat ma li sivá gå ulmutja dierredi lahka fámiljav. Sihtap diehtet gåktu almulasj ásadusá viehkedi sámijt gudi li hæhttum dierredimev gierddat ja makta le sáme giella- ja kultuvrramáhtudahka siján, javlláVibeke Larsen. </em></p>
+<p>AN:a álggoálmmugij sierrarapportørra James Anaya le javllam dierredibme nissunij ja næjtsoj vuosstij, sihke álggoálmmukålmmåjs ietja ja iehtjádijs, le viehka ájnas ássje gå le sáhka almasjrievtesvuodaássjijs ma álggoálmmugijt vájkkudi.</p>
+<p xml:lang="sme"><em type="bold">Guotto </em></p>
+<p>Sámedigge sihtá ienebut hieredit ja guottojt rievddat dán ássjen.</p>
+<p><em type="bold">-Nuorra sáme nissuna galggi diehtet e sij galga gierddat tsábbmut ietjasa guojmijs ja nuorra sáme ålmmå galggi diehtet ij le dåhkkidahtte tsábbmet váj mak navti galggá tjuolmav tjoavddet, javllá rádeájras Vibeke Larsen. </em></p>
+<p>Ienep diedo: Rádeájras Vibeke Larsen, + 47 941 30 116 jali vibeke.larsen@samediggi.no</p>
+<p>http://www.un.org/womenwatch/daw/csw/57sess.htm</p>
+</body></document>

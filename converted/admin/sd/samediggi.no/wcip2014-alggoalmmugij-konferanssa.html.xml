@@ -1,52 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>144</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Rijkajgasskasasj-barggo/Alta-2013/WCIP2014-alggoalmmugij-konferanssa</origFileName>
-    <parallel_text xml:lang="nob" location="wcip2014-urfolkskonferanse.html"/>
-    <parallel_text xml:lang="sma" location="wcip2014-enn-veartenekonferanse-aalkoealmetji-reaktaj-bijre.html"/>
-    <parallel_text xml:lang="sme" location="wcip2014-on-mailmmikonferansa-2014-algoalbmogiid-birra.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>WCIP2014: álggoálmmugij konferánssa / Áltá 2013 / Rijkajgasskasasj barggo / Sámedigge - Sametinget</p>
-    <p type="title">WCIP2014: álggoálmmugij konferánssa</p>
-    <p>14. njoktje 2013</p>
-    <p>Jagen 2010 mierredij AN:a ållestjåhkanibme tjadádit álggoálmmugij væráltkonferánsav New Yorkan jagen 2014. Konferánssa Áltá 2013 le rijkajgasskasasj álggoálmmuksebrudagá gárvedibme væráltkonferánssaj.</p>
-    <p>Álggoálmmugij riektáj væráltkonferánssa tjadáduvvá ragátmáno 22. ja 23. biejve 2014 New Yorkan, ja dåppe li guokta ållestjåhkanime, jårbbåbievddesesjåvnå ja paneldagástallam.</p>
-    <p>
-      <em type="bold">Ulmme </em>
-    </p>
-    <p>2014 Álggoálmmugij væráltkonferánsa ulmme le perspektijvajt juogadit ja buorre vuogijt stáhtaj ja guovloj gaskan mij guosská álggoálmmugij riektáj ållidit AN:a álggoálmmugij riektáj tjielggidusá milta.</p>
-    <p>
-      <em type="bold">Interaktijva guládallam </em>
-    </p>
-    <p>Åvddål 2014 biehtsemáno galggá interaktijva guládallam tjadáduvvat gånnå álggoálmmuga, AN:a orgána, dutkam- ja åhpadimásadusá, almasjrievtesvuodaorganisasjåvnå, álmmukválljidum åvdåstiddje, sivijla sebrudahka ja nasjonálstáhta hasoduvvi oajvvadusájt buktet væráltkonferánsa gárvedibmen.</p>
-    <p>
-      <em type="bold">Álggoálmmugij riektáj doajmmapládna </em>
-    </p>
-    <p>AN:a ållestjåhkanime javllamáno 21. biejve 2010 mærrádusá milta (A/RES/65/198), galggá væráltkonferánsa boados sjaddat muhtem doajmmapládnaj mij galggá álggoálmmugij riektájt nannit.</p>
-    <p>
-      <em type="bold">Aktijvuohta </em>
-    </p>
-    <p>Sámedigge ja álggoálmmugij globála koordinerimjuogos (Global Coordinating Goup/GCG)</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>144</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Rijkajgasskasasj-barggo/Alta-2013/WCIP2014-alggoalmmugij-konferanssa</origFileName><parallel_text xml:lang="nob" location="wcip2014-urfolkskonferanse.html"/><parallel_text xml:lang="sma" location="wcip2014-enn-veartenekonferanse-aalkoealmetji-reaktaj-bijre.html"/><parallel_text xml:lang="sme" location="wcip2014-on-mailmmikonferansa-2014-algoalbmogiid-birra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>WCIP2014: álggoálmmugij konferánssa / Áltá 2013 / Rijkajgasskasasj barggo / Sámedigge - Sametinget</p>
+<p type="title">WCIP2014: álggoálmmugij konferánssa</p>
+<p>14. njoktje 2013</p>
+<p>Jagen 2010 mierredij AN:a ållestjåhkanibme tjadádit álggoálmmugij væráltkonferánsav New Yorkan jagen 2014. Konferánssa Áltá 2013 le rijkajgasskasasj álggoálmmuksebrudagá gárvedibme væráltkonferánssaj.</p>
+<p>Álggoálmmugij riektáj væráltkonferánssa tjadáduvvá ragátmáno 22. ja 23. biejve 2014 New Yorkan, ja dåppe li guokta ållestjåhkanime, jårbbåbievddesesjåvnå ja paneldagástallam.</p>
+<p><em type="bold">Ulmme </em></p>
+<p>2014 Álggoálmmugij væráltkonferánsa ulmme le perspektijvajt juogadit ja buorre vuogijt stáhtaj ja guovloj gaskan mij guosská álggoálmmugij riektáj ållidit AN:a álggoálmmugij riektáj tjielggidusá milta.</p>
+<p><em type="bold">Interaktijva guládallam </em></p>
+<p>Åvddål 2014 biehtsemáno galggá interaktijva guládallam tjadáduvvat gånnå álggoálmmuga, AN:a orgána, dutkam- ja åhpadimásadusá, almasjrievtesvuodaorganisasjåvnå, álmmukválljidum åvdåstiddje, sivijla sebrudahka ja nasjonálstáhta hasoduvvi oajvvadusájt buktet væráltkonferánsa gárvedibmen.</p>
+<p><em type="bold">Álggoálmmugij riektáj doajmmapládna </em></p>
+<p>AN:a ållestjåhkanime javllamáno 21. biejve 2010 mærrádusá milta (A/RES/65/198), galggá væráltkonferánsa boados sjaddat muhtem doajmmapládnaj mij galggá álggoálmmugij riektájt nannit.</p>
+<p><em type="bold">Aktijvuohta </em></p>
+<p>Sámedigge ja álggoálmmugij globála koordinerimjuogos (Global Coordinating Goup/GCG)</p>
+</body></document>

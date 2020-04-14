@@ -1,53 +1,16 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>286</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Same-ja-inuihta-sjiehtadin-aktisasj-ulmijt-Nuukan</origFileName>
-    <parallel_text xml:lang="nob" location="samer-og-inuitter-enige-om-felles-maalsettinger-i-nuuk.html"/>
-    <parallel_text xml:lang="sma" location="saemieh-jih-inuihth-siemes-tjaaenghkies-ulmiej-bijre-nuuk-sne.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sáme ja inuihta sjiehtadin aktisasj ulmijt Nuukan / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
-    <p type="title">Sáme ja inuihta sjiehtadin aktisasj ulmijt Nuukan</p>
-    <p xml:lang="sme">26. golke 2012</p>
-    <p>Sáme ja inuihta sjiehtadin aktisasj ulmijt ANa væráltkonferánssaj álggoálmmugij hárráj 2014 aktisasj tjåhkanimen Nuukan, gålgådismáno 23.-24. biejve 2012. Sáme ja inuihta le arktalasj guovllo ANa aktisasjvuodan.</p>
-    <p>Sáme parlamentáralasj ráde ja Sámeráde åvdåstin sámijt, madi Kalalit nunaata iesjmierredibme ja Inuit Circumploar Council (ICC) inuihtajt åvdåstin.</p>
-    <p>Presidænnta ja Sáme parlamentáralasj ráde njunnjusj, Egil Olli, javllá sån le riek dudálasj dan buorre aktisasjbargujn sámij ja inuihtaj gaskan.</p>
-    <p>
-      <em type="bold">- Tjåhkanibme tjadáduváj másjkudis láhkáj ja buorre dilijn. Aktisasj arktalasj tjielggidus tjáleduváj lahka aktisasjbargo baktu sámij ja inuihtaj gaskan, ja tjielggidusá sisadno åvdet tjielggasit ájnasvuodav álggoálmmukriektáj, nav gåk dá li ANa álggoálmmuktjielggidusán mij mierreduváj jagen 2007, javllá Egil Olli. </em>
-    </p>
-    <p>Sáme ja inuihta åvddånbukti tjielggidusán vuorddemusájt dåjmaj ja vuorodimijt birra majt væráltkonferánssa bierri mierredit sihkarastátjit tjadádimev álggoálmmugij ulmusjriektájs.</p>
-    <p>
-      <em type="bold">- Mijá aktisasj dille le dåjmalasj ja danna li moadda ásadime oajvvadusájda massta álggoálmmuga ålles væráldis máhtti ávkástallat jus dá oatsoduvvi væráltkonferansan. Jáhkáv mijá aktisasj tjielgadus le buorre árvvalus prosessan væráltkonferánssaj álggoálmmugij hárráj jagen 2014, tjielggi Egil Olli. </em>
-    </p>
-    <p>Egil Olli hæjttá tsuojggidusájn Sáme parlamentáralasj ráde le riek dudálasj arktalasj guovlo hæjttotjállagijn, guovlo vuorodimij væráltkonferánssaj. Tjielggidus åvdet tiemájt dagu álggoálmmugij riektájt iesjmirredimriektáj hárráj; riektáv ednamij, tjáhtjáj, resurssajda ja árbbedábálasj viessomvuogijda.</p>
-    <p>
-      <em type="bold">- Tjielggidus åvdet oajvvadusá duoddetjállagav ANa álggoálmmuktjielggadusssaj ulmijn nannit tjadádimev álggoálmmugij riektájs iesjmierredibmáj ja riektá ednamij ja luohkkojda; dåjma nannitjit åvddånbuktemav álggoálmmukriektájs; kultuvrav, gielav, åhpadusáv ja varresvuodav; álggoálmmugij rádjárasstim riektájs; ja aj oajvvadusáj dåjmajda nannitjit ANa bargov álggoálmmukriektáj, hæjttá Olli. </em>
-    </p>
-    <p>
-      <em type="bold">Guládallamulmusj: </em>
-    </p>
-    <p>Presidænnta ja Sáme parlamentáralasj ráde njunnjusj, Egil Olli. Tlf. 900 26 880</p>
-    <p xml:lang="eng">Nuuk Arctic Declaration on the World Conference on Indigenous Peoples 2014.doc</p>
-    <p xml:lang="nob">47,00 kB</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>286</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Same-ja-inuihta-sjiehtadin-aktisasj-ulmijt-Nuukan</origFileName><parallel_text xml:lang="nob" location="samer-og-inuitter-enige-om-felles-maalsettinger-i-nuuk.html"/><parallel_text xml:lang="sma" location="saemieh-jih-inuihth-siemes-tjaaenghkies-ulmiej-bijre-nuuk-sne.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sáme ja inuihta sjiehtadin aktisasj ulmijt Nuukan / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
+<p type="title">Sáme ja inuihta sjiehtadin aktisasj ulmijt Nuukan</p>
+<p xml:lang="sme">26. golke 2012</p>
+<p>Sáme ja inuihta sjiehtadin aktisasj ulmijt ANa væráltkonferánssaj álggoálmmugij hárráj 2014 aktisasj tjåhkanimen Nuukan, gålgådismáno 23.-24. biejve 2012. Sáme ja inuihta le arktalasj guovllo ANa aktisasjvuodan.</p>
+<p>Sáme parlamentáralasj ráde ja Sámeráde åvdåstin sámijt, madi Kalalit nunaata iesjmierredibme ja Inuit Circumploar Council (ICC) inuihtajt åvdåstin.</p>
+<p>Presidænnta ja Sáme parlamentáralasj ráde njunnjusj, Egil Olli, javllá sån le riek dudálasj dan buorre aktisasjbargujn sámij ja inuihtaj gaskan.</p>
+<p><em type="bold">- Tjåhkanibme tjadáduváj másjkudis láhkáj ja buorre dilijn. Aktisasj arktalasj tjielggidus tjáleduváj lahka aktisasjbargo baktu sámij ja inuihtaj gaskan, ja tjielggidusá sisadno åvdet tjielggasit ájnasvuodav álggoálmmukriektáj, nav gåk dá li ANa álggoálmmuktjielggidusán mij mierreduváj jagen 2007, javllá Egil Olli. </em></p>
+<p>Sáme ja inuihta åvddånbukti tjielggidusán vuorddemusájt dåjmaj ja vuorodimijt birra majt væráltkonferánssa bierri mierredit sihkarastátjit tjadádimev álggoálmmugij ulmusjriektájs.</p>
+<p><em type="bold">- Mijá aktisasj dille le dåjmalasj ja danna li moadda ásadime oajvvadusájda massta álggoálmmuga ålles væráldis máhtti ávkástallat jus dá oatsoduvvi væráltkonferansan. Jáhkáv mijá aktisasj tjielgadus le buorre árvvalus prosessan væráltkonferánssaj álggoálmmugij hárráj jagen 2014, tjielggi Egil Olli. </em></p>
+<p>Egil Olli hæjttá tsuojggidusájn Sáme parlamentáralasj ráde le riek dudálasj arktalasj guovlo hæjttotjállagijn, guovlo vuorodimij væráltkonferánssaj. Tjielggidus åvdet tiemájt dagu álggoálmmugij riektájt iesjmirredimriektáj hárráj; riektáv ednamij, tjáhtjáj, resurssajda ja árbbedábálasj viessomvuogijda.</p>
+<p><em type="bold">- Tjielggidus åvdet oajvvadusá duoddetjállagav ANa álggoálmmuktjielggadusssaj ulmijn nannit tjadádimev álggoálmmugij riektájs iesjmierredibmáj ja riektá ednamij ja luohkkojda; dåjma nannitjit åvddånbuktemav álggoálmmukriektájs; kultuvrav, gielav, åhpadusáv ja varresvuodav; álggoálmmugij rádjárasstim riektájs; ja aj oajvvadusáj dåjmajda nannitjit ANa bargov álggoálmmukriektáj, hæjttá Olli. </em></p>
+<p><em type="bold">Guládallamulmusj: </em></p>
+<p>Presidænnta ja Sáme parlamentáralasj ráde njunnjusj, Egil Olli. Tlf. 900 26 880</p>
+<p xml:lang="eng">Nuuk Arctic Declaration on the World Conference on Indigenous Peoples 2014.doc</p>
+<p xml:lang="nob">47,00 kB</p>
+</body></document>

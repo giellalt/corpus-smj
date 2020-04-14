@@ -1,32 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>70</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/arran-mahtudakasadussan.4496199-108287.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Árran máhtudakásadussan - Árran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title">Árran máhtudakásadussan</p>
-    <p>Árran tjadádij vuoratjismáno 1.b. 2006 - bårggemáno 29.b. 2007 ájggegávdan åvddånahttemprosjektav <span type="quote">"Árranav åvddånahttet sáme máhtudakásadussan diedoj, ådåstahttemij ja árvvoháhkuhime gáktuj"</span> man sisadno le:</p>
-    <p>1: Sáme DuÅ- ja åhpadusprográmma julevsáme guovlon</p>
-    <p>2: Nuorttaguovlo ássjij máhtudagáv lasedit iemeálmmukvuojnojn</p>
-    <p xml:lang="sme">3: Kulturmujtoj árvvoháhkuhimprográmma</p>
-    <p>Innovasjonsprogram Salten, RDA Ofoten ja Nordlánda fylkkasuohan prosjevtav ruhtadin. Prosjevta ragátmáno 17.b. 2007 loahppadiedádusáv dárruj dánna gávna.</p>
-    <p xml:lang="fin">Kompetanse 2007</p>
-    <p xml:lang="nob">11.8 MB</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>70</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/arran-mahtudakasadussan.4496199-108287.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Árran máhtudakásadussan - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title">Árran máhtudakásadussan</p>
+<p>Árran tjadádij vuoratjismáno 1.b. 2006 - bårggemáno 29.b. 2007 ájggegávdan åvddånahttemprosjektav <span type="quote">"Árranav åvddånahttet sáme máhtudakásadussan diedoj, ådåstahttemij ja árvvoháhkuhime gáktuj"</span> man sisadno le:</p>
+<p>1: Sáme DuÅ- ja åhpadusprográmma julevsáme guovlon</p>
+<p>2: Nuorttaguovlo ássjij máhtudagáv lasedit iemeálmmukvuojnojn</p>
+<p xml:lang="sme">3: Kulturmujtoj árvvoháhkuhimprográmma</p>
+<p>Innovasjonsprogram Salten, RDA Ofoten ja Nordlánda fylkkasuohan prosjevtav ruhtadin. Prosjevta ragátmáno 17.b. 2007 loahppadiedádusáv dárruj dánna gávna.</p>
+<p xml:lang="fin">Kompetanse 2007</p>
+<p xml:lang="nob">11.8 MB</p>
+</body></document>

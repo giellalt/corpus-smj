@@ -1,187 +1,111 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>2742</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>   Lulesamisk - <em type="bold">Julevsábmáj</em> </p>
-    <p xml:lang="nob">Dát prosjäkta l biednigahtedum Helse og Rehabiliteringa Lijgge-biednigij</p>
-    <p><em type="italic">Sisadno</em> </p>
-    <p>Sisadno ....................................................................................................2 Manen la buorre njamádit? .................................................................. 3 Gåktu mánná njidtjáj njåmmu gåvvå ........................................................... 4 Dábálasj njamádimvuoge. ...........................................................................4 Iemelágásj vuohttomvuohke..............................................................................5 Juomisjvuohke: ........................................................................................ 5 Vällot: ...................................................................................  6 Galli ja man mälggadav galggá mánná njammat? ...............................................</p>
-    <p>Gåktu diedáv mánná oadtju nuoges biebmov? .................................................. 7 Ilá binná mielkke? .......................................................................................... 7 Giedajn båhtjet ja pummpim  ....................................................................... 8 Giedajn båhtjet .......................................................................................... 8 Pummpim .................................................................................................. 8 Njamun, ruksa ja njammamhiemsse.............................................................. 9 Kåhpåjn biebbmat ............................................................................................. 9 Muv mánna ij lágeda njittjev. .................................................................. 10 Goassa mánáv biebbmagoahtet ietjá biebmujn gå mielkijn ? ................................................ 10 Le gus mánán kolijkka? ................................................................................... 10 Hávve njidtjevárto................................................................................... 11 Tsirnnat ......................................................................................... 11 Buododum mielkkeoare ........................................................................ 11 Njidtjeinflammasjåvnnå..................................................................................... 12 Hiejtedibme ............................................................................................... 12 Njámádibme ja suovastibme .................................................................................</p>
-    <p>Njámádibme ja alkohola/gárevábnnasa.................................................................. 13 Njamádibme ja dálkkasij adno................................................................. 13 Áhtje ánburgge ..................................................................................................</p>
-    <p>Njamádimviehkke........................................................................................... 14 Oajvvadusá låhkåt: .................................................................................................. 14 Njamádimviehkke l dáv nähttagirjátjáv ásadam vattátjit dunji gut njamáda diedojt ja bagádusájt njamádime birra. Njamádimviehke dåbddomärkka l: <em type="bold">Viehkediddje bágo iednes äddnáj. </em>Midjij ij la aktak gatjálvis ilá unne. Mielas doarjjop ja viehkedip duv. </p>
-    <p>
-      <em type="italic">Manen la buorre njamádit? </em>
-    </p>
-    <p>Iednemielkke l buoremus biebbmo njuoragijda, danen gå mielke segadus ja ednakvuohta l agev hiebadum máná dárbbuj. Njamádibme nannot aktavuodav duv ja duv máná gaskan.  Åtsådibme l vuosedam njamádibme suoddji mánáv moatte dávdaj vuosstij buojkulvissan gasskabielljeinflammasjåvnnå, gurgosinfeksjåvnå ja tjoajvvetjoalleinfeksjåvnå. Guhkaájggásattjat vuojnnet njamádibme aj dåjmasj duostotjit iehtjádij siegen buojddudagáv, diabehtesav, allergiddjav ja bårredávdav. Iednemielkke åvdedisj má máná buorep fysalasj ja mielalasj åvddånimev, ja l ihkeva buorre vuojŋamij åvddånibmáj. Njamádibme ij loabeda mánná skihppá, valla iednemielkke unnet vádáv. Dunji njamádibme vaddá suoddjijiddje båhtusav iehtjádij siegen njidtjebårredávddaj, månneráksábårredávddaj ja dákterasjesvuohtaj. Maŋutjissaj, gåjt, iednemielkke l nåvkå, agev varás, ja bårrråmláhkáj!</p>
-    <p>
-      <em type="italic">Gåktu mánna njåmmu njidtjáj gåvvå </em>
-    </p>
-    <p>Dibde mánáv vehik åhtsåt njálmijn åvddål gå oadtju njittjev. Gå buoragit njálmev tsakkas, de bieja mánáv ietjat vuosstij. De máná njálmme l dievdedum njittjes gå iesj njåmmu njidtjáj. Gå aneda mánav ietját vuosstij ja oajvve l luovas de máná gájbbe galggá duv njittjev duohttat. De mielkke gålggå buoragit. Máná oajvve sådjå vehik maŋus vaj njunnje l luovas. Nåvti mánná buktá vuojŋŋat ja dån i dárbaha njittjev anedit ierit.</p>
-    <p>1.  Aneda njittjev bielgijn badjel ja tjuvdij vuolen, degu stuorra C-bokstávva. Tjuvde e galga årrot russjkis oasen (areola).</p>
-    <p>2.  Ávttji mánáv buoragit njálmev tsakkastit gå vehik tjagárda báksemijt njidtjevártujn, njunjes vuollebáksemij. Njidtjevártto l máná njunje buohta.</p>
-    <p>3.  Gå mánná buoragit njálmev tsakkas, de bieja mánáv ietjat vuosstij.</p>
-    <p>
-      <em type="italic">Dábálasj njamádimvuoge. gåvå </em>
-    </p>
-    <p>Juska vil makkir njamádimvuogev vállji, de l ájnas tjåhkkåha jali vällaha buoragit ja ráfálattjat. Tjavggis diehko vájbbadi duv gå la njamádam. Bieja mánáv  buoragit njittje vuosstij, vaj ij sjatta <span type="quote">”givnnjahiddje”</span> njidtjevárton. De dunji háve ruvva sjaddi.</p>
-    <p><em type="bold">Iemelágásj vuohttomvuohke</em>: </p>
-    <p>Mánná vällaj sijdo nanna duv fármen tjåjvijn duv tjoajve vuosstij, ja oajvve maŋus duv vuollegieda nanna. Mánná vällaj duv rievtes vuollegieda nanna gå njammá rievtes njittev. Máná vuolep giehta l duv ålema birra. Duvde máná hárdov vuollegiedajn, ja aneda badáv jali juolgijt giedajn.</p>
-    <p>
-      <em type="bold">Juomisjvuohke: </em>
-    </p>
-    <p>Mánná vällaj sijdo nanna tjåjvijn duv sijdo vuosstij oajvevuole nanna juolgij maŋus. Duvde mánáv ietjat giedajn. Máná nisske/hárddo l duv giedan vaj máhtá mánáv låggŋit njittje buohta. Rievtes giehta máná nanna gå njamáda rievtes njittjev. Máná bahta ja juolge l ståvlå nanna. Nubbe giehta låggŋi ja hábbmi njittjev. Juomisjhámijn la buorre målssot, danen gå:</p>
-    <p type="listitem">•  Mánná njåmmu njidtjáj ietjáláhkáj.</p>
-    <p type="listitem">•  Hávve njidtjevártojn buojkulvissan, juomisjvuohke giehpedisj má hávve oasev.</p>
-    <p type="listitem">•  Jus mánan la vájvve njoammot njidtjáj, de dát vuohke dávk lisj buorre, danen gå dujna l nubbe giehta luovas ja máhtá stivrrit máná oajvev ja</p>
-    <p>njittjev ja <span type="quote">”njamádahtjat”</span> duolla ájgen.</p>
-    <p type="listitem">•  Dát vuohke l aj buorre jus dujna li hármmis stuorra ja låsså njittje, de máhtá duvddet ja hábbmit njittjev C-njoammomijn (giehta vuolen, bielkke</p>
-    <p>gähppadit njittje bajelt).</p>
-    <p type="listitem">•  Jus dujna li juomitja, de máhtá njamádit goappátjijt avtabále.</p>
-    <p type="listitem">• Gå njamáda mánáv gut vällaj Frejka oajvevuolen de dát la buorre</p>
-    <p>vuohke.<em type="bold"> </em></p>
-    <p>
-      <em type="bold">Vällot: </em>
-    </p>
-    <p>Vällaha sijdo nanna juolgij vehik såddjot vaj vällaha nannusit ja ráfálattjat åjvijn val oajvevuole nanna. Mánná vällaj sijdo nanna tjåjvijn duv rubmaha vuosstij. Máná oajvev ja hárdov máhtá duvddet ietjat giedajn jali oajvevuolátjijn. Máhtá njamádit bajemus/nuppev njittjev vani målso sajev, gå såjåda rubmahav vaj bajemus njidtje ållå mánnáj. Mánná máhttá aj vällahit oajvevuole nanna, vaj máhttá njammat bajemus njittjes vani ietjat labuda seŋgan. Dát vuohke l sierraláhkáj hiebalasj tjäjsártjuollama maŋŋela ja sjuokkajvanádimen gå dån i dárbaha seŋgan jårgijdit. Máhttá aj buorre årrot jus mánná vällaj Frejka oajvevuolen.</p>
-    <p>
-      <em type="italic">Galli ja man mälggadav galggá mánná njammat?  </em>
-    </p>
-    <p>Njuoraga li umasslágátja. Muhtema dárbahi bårråt binnáv ja dájvvalakkoj, gå muhtema bårri ienebuv ja vuorjjábut. Mánnáj bierri njittjev fállat juohkka bále gå hálijt njammat. Gå mánná åhtså njálmijn jali ietjas tjuvdijt njammá. Rähtjom vuoset mánná l nielgen, ja bierri fállat njittjev åvddål gå mánná l ilá nielgen. Dibde mánáv njammat nåv mälggadav gå iesj sihtá. Nåvti njittje ávttjiduvvi dahkat jur dav ednakvuodav majt duv mánná dárbaj. Jus mánná oaddá de máhtá suv ávttjit njamátjit gå ruvvi giehtavuodojt, juolgij vuolen, gájbe jali vuolleållula vuolen. Dibde mánáv gärggat nuppe njittjijn åvddål gå fála nuppev.</p>
-    <p>Gå mánná iesj oadtju miededit galli ja man mälggadav sihtá njammat de jahkedahtte dån i váseda dujna l ilá binna mielkke. Iednemielkke l álkke åmastit, ja vássá tjoajvev ruvva. Vahko duogen ienemus máná hálijdi bájken 12 bårrusa jánndurij. Maŋenagi hálijdi vuorjjábut bårråt.</p>
-    <p>
-      <em type="italic">Gåktu diedáv mánná nuoges biebmov oadtju? </em>
-    </p>
-    <p>Ájnnasamos la gähttjat máná rapsajt. Mánná 0-4 vahko rájes gut njidtjemielkev val oadtju, bajkká álu juohkka biejve ja binnemusát 6 luvva rapsa li jánndurij maŋŋel gå mielkke l gålggågoahtám. Jus dåbdå njittje dibmi gå l njamádam, gulá mánná njiella ja mánná ietján vuojnnet la gåhtsemin ja dudálasj, de jahkedahtte mánná oadtju nuoges biebmov. Jus dån huoman ij la visses, de máhtá suv válldet maŋen varresvuohtastasjåvnnåj viehkkitjit suv. Gå njamáda de dárbaha ienep biebmov gå ietján. Dån galgá juhkat gå gåjkå, ja ása tjátjev gå njamáda. Åtsådallama e gávnnu ma máhtti vuosedit ienep mielkev oadtju gå ednagav juhká.</p>
-    <p>
-      <em type="italic">Ilá binna mielkke? </em>
-    </p>
-    <p>Maŋenagi gå duv mánná sjaddá de dárbaj ienep mielkev. Mánná njammá dájvvabut 2-3 biejven ávttjitjit njittjijt ienep mielkev dahkat. Gåhtjudallá   ienedumbiejvven, ja dáhpáduvásj má nåv dájvvalakkoj gå fert 14 biejve, valla målssås ednagit mánás mánnáj.</p>
-    <p>
-      <em type="italic">Gålgådimrefläksa </em>
-    </p>
-    <p>Gå mánná njittjev njammá, de rájaduvvi vuojŋamij signála, ma luovviji hormonav (Oxytocin). Dát hormonas diehko mielkkerávsáj birra giessási vaj mielkke gålgit. Moadda nissuna dåbddi dáv degu njittjen tjuoggu jali njittje tsirnni. Vuostasj vahko riegádahttema maŋŋela mielkke gålggågådisj má gå mánnárehtjasav gullá jali mánnáj ájádallá. Gålgådimrefläksa hiemssiduvásj má aj jus dån la vájbas, vájvedum, balon jali jus la håjen. Sjattasj má mánnáj vájvep mielkev ålgus oadtjot. Ájnas la gähttjalit vuojŋadit ja ájádallat juoga mårredav. Måttijda giehpedisj má ruvvit njittjev vehik, ja jållerdit njidtjevártov várrogit tjuvdij gaskan åvddål gå njamádatjá. Liegga gurbbasa ja juoga lieggasav juhkat buoredisj má gålgådimreflevsav. Dån viertti goallmis gáhttit.</p>
-    <p><em type="italic">Giedajn båhtjet ja pummpim </em> </p>
-    <p>Jus dån i máhte mánáv njamádit danen gå mánná l ilá árrat riegádam jali l skibás, de máhtá giedajn båhtjet jali adnet njidtjepumpav mielkev oattjotjit.</p>
-    <p>
-      <em type="bold">Giedajn båhtjet. </em>
-      <em type="italic">Gåvvå </em>
-    </p>
-    <p type="listitem">•  Ávttji gålgådimreflevsav nåv gåk la åvddålin buojkodum.</p>
-    <p type="listitem">•  Bieja bielkev njidtjevárto badjela, ja tjutjugav vuosstájtjuodtjo sadjáj njijdtjevárto vuolen.</p>
-    <p type="listitem">•  Bieja nuppijt tjuvdijt russjkis oase rabddabälláj.</p>
-    <p type="listitem">•  Diette tjuvdijt mielka vuosstij, ja tjábrri várrogit tjuvdijt aktij gå sirdeduvvi vat åvddålij laboda. Gärddáda sämmiláhkáj.</p>
-    <p type="listitem">•  Gå mielkke gålggå jali tsirggu, de båtje nåv guhkev gå gålggå.</p>
-    <p type="listitem">•  Sirde de tjuvdijt birra desik njittje birra l dimás.</p>
-    <p type="listitem">• Ale dibde tjuvdijt jåhtet lijke nanna, valla sihko jus njuoskas sjaddá.<em type="bold"> </em></p>
-    <p>
-      <em type="bold">Pummpim </em>
-    </p>
-    <p>Buorre l jus pummpi goappásj njittjijt avtabále, ájgev unnet ja lasedisj má mielkkeednakvuodav. Basá giedajt. Ávttji njittjev vaj gålgådimrefläksa álgat.   Bierri pummpit jali giedajn båhtjet ietjat 7-8 jánndurij jus mánná l riegádimmánná, ja pummpit15-20 minuvta juohkka bále. Dåjde, basá ja duoldada åsijt rájnna tjátjen gå la adnám. Båtjedum mielkke bissu ladnjatemperatuvran gitta 8 tijma. Galmánin máhtá vuorkudit gitta 5 biejve. Tjihtánin -20 gradaj vuorkuda gitta 6 mánnuj. Suddadum njidtjemielkev vuorkuda gitta 1 jánndurij galmánin. Lieggi mielkev 37 gradaj lihte sinna mij la vuojodum duollde tjáhtjáj. Ale ådåsis galmmeda suddadum mielkev.</p>
-    <p><em type="italic">Njamun, ruksa ja njammamhiemsse </em> </p>
-    <p>Mánná njammá njittjev ietjáláhkáj gå njamunav ja ruvsav. Moadda máná e máhte goappásj njammamvuogijt, ja hiemssiduvátji má ruvva. Dájda mánájda dávk sjattasj vájvve njammat álkkesláhkáj jus li hárjjánam njamunij jali ruksaj åvddål gå li oahppam njammat rievtesláhkáj. Máhtti aj njittjev ållu nádot, ja sjattasj má gähttjalibme dunji gut hálijda njamádit. Danen dån i bierri mánnáj vaddet njamunav jali ruvsav álgon åvddål gå la visses mánná njittjev buoragit njammá ja buoragit låssu.</p>
-    <p>
-      <em type="italic">Biebbmat kåhpåjn  gåvvå </em>
-    </p>
-    <p><em type="italic"> </em>Jus hähttu mánáv biebbmat ietjáláhkáj gå njamádit muhtem ájgev, de l buorre </p>
-    <p>biebbmat kåhpåjn sajen gå ruvsajn. Bårråmvuohke l ajtu viehka dan sjimuk mij la mánán gå njammá. Nåvti mánná ij njammamhiemssiduvvá. Dibde mánáv tjåhkkåhit buoragit duv fármen, ja duvde máná hárdov, niskev ja maŋŋeoajvev.</p>
-    <p type="listitem">•  Bieja sagárdagáv máná giedaj badjela vaj ij nårddåda kåhpåv.</p>
-    <p type="listitem">•  Ane kåhpåv, njamunruvsa badjegietjev, dálkaskåhpåv jali dakkirav.</p>
-    <p type="listitem">•  Lieggi mielkev 37 grádaj, ja dievde kåhppålahkev.</p>
-    <p type="listitem">•  Gurggala várrogit vaj mielkke däjvvá máná njuoktjamav.</p>
-    <p type="listitem">• Dibde mánáv tjuohkat mielkev. Mielkev ij galga gurggalit mánnáj.</p>
-    <p>Gurggala gå vuojná ja gulá mánná njiellá. Mánná iesj galggá miededit.</p>
-    <p>
-      <em type="italic">Muv mánná ij lágeda njittjev.  </em>
-    </p>
-    <p>Muhtem máná dárbahi guhkep ájgev åhpatjit njammat gå ietjá máná. Gähttjala årrot gierddis, ja ale vuollána. Nuolada rubmahav bajelt ja nuolada mánáv rapsajda. Bieja mánáv ietjat lijke vuosstij, ja dibde mánáv njidjevártov happset ja muossádit. Dan båttå máhtá giedajn båhtjet jali pummpit ietjat, ja mielkev vaddet kåhpåjn. Gähttjala dájvvalakkoj mánnáj njittjev vaddet. Jus mánná rehtju, de jaskada suv åvddål gå bieja njidtjáj. Ájnas la mánná ij nággiduvá</p>
-    <p>njidtjáj. Ano viehkev riegádahttempoliklinihkas, skihpasujtáris jali Njamádimviehkes nåv ruvva gå máhttelis jus vájve sjaddi.</p>
-    <p>
-      <em type="italic">Goassa mánáv biebbmagoahtet ietjá biebmujn gå mielkijn?  </em>
-    </p>
-    <p>Vuonan la bagádum ållåsit njamádit 6 máno, D vitamijnajn val duodden (likse) 4 váhko rájes. Dan maŋŋela l fáladum ietjá biebmo suojmma ja várrogit gå ájn njamáda. Stáhta biebbmoráde bágát njamádimev joarkket ålles vuostasj jagev, ja guhkebuv jus máhtá. Jus mánná ij låso jali jus dån illa vuogas njamádimijn de máhtá biebmujn álgget 4 máno rájes. Jus mánná l nuorap gå 4 máno ja dárbaj duottev, de galggá vaddet iednemielkkeduottev. Jus mánná l nielje máno vuorrasabbo de l ietjá biebbmo gå mielkke bagádum. Aktavuodav válde varresvuohtastasjåvnåjn ja ságasta sijájn dán birra jus dát la ájggásasj gatjálvis dunji.</p>
-    <p>
-      <em type="italic">Le gus mánán kolijkka? </em>
-    </p>
-    <p>Mánán gänna l kolijkka l vájvve jaskadit. Álu giessi juolgijt tjoave vuolláj vuosedittjat siján la bávtjas tjoajven. Åvddål gå diehtá mánán la kolijkka, de hähttu ierittjuolldet ietjá årijt. Mánná buojkulvissan rehtju danen gå l nielgen jali l ilá ednagav bårråm. Jus adná mánná rehtju ienebut gå dábálattjat, de lisj má buorre dåktåra lusi válldet åtsådittjat jus dávdda l oarren. Mánná gut ij hiejtte rähtjomis ienep gå gålmmå tijma bäjvváj, gålmmå biejve vahkkuj ja l rehtjum nåvti maŋemus gålmmå vahko, sujna dávk lisj njuorakkolijkka jus badjelin tjáledum máhttelisvuoda li ierittjuoldedum. Älla gávnnam visses oarev njuorakkolijkkaj, valla buorrán álu bájken gålmmå máno duogen. Äjgádijda l vájves ájgge, ja danen la ájnas oadet ja vuojŋadit nuohkásit. Duosto viehkev fuolkes ja rádnajs jus dujna l máhttelisvuohta dasi. Jus guoktálatta de bierri rádedit skihpasujtárijn jali dåktårijn.</p>
-    <p>
-      <em type="italic">Hávve njidtjevárto  </em>
-    </p>
-    <p>Moadda iedne vehik oadtju hávijt njidtjevártojda vuostasj ájge. Duolla njoammomvuohke ij galga báktjit ietján gå vuostasj biejvijt jali hávijt  njidtjevártojda dahkat. Jus mánán la boasto njoammomvuohke guhka ájgev, de háve ruvvaláhkáj sjaddi njidtjevárton.</p>
-    <p type="listitem">•  Måråda buorre njamádimvuogev ja duolla njoammomvuogev.</p>
-    <p type="listitem">•  Båtje binna iednemielkev njidtjevárttuj. Dibde gåjkkåt rabás ilmen.</p>
-    <p type="listitem">•  Basá giedajt váttugit vaj bakteria e besa njittje sisi hávij ja luottanimij baktu.</p>
-    <p>Aktugattjan bávtjes njamádit vájku älla hávve njidtjevárto. Jus ájn bávtjes gå la njamádam de dávk lisj infeksjåvnnå mij la candidas jali bakteriajs sjaddam. Moatte buojkodi dájt báktasjijt tjuoggomin njittjen. Candidainfeksjåvnån vuojnná muhttijn mánán la vielggis dágge (torsk) njálmen. Ane njamádimrapsatjijt majt</p>
-    <p>máhtá håjggådit jali bassat binnemusát 60 grádan. Njamuna ja máhttelis gásskemstuvssagávne hähttuji aj duoldaduvvat juohkka biejve. Aktavuodav válde doktorijn jali skihpasujtárijn gávnatjit vigev, ja máhttelis dálkudimev.</p>
-    <p>
-      <em type="italic">Tsirnnat </em>
-    </p>
-    <p>Gå mielkke duodalattjat gålggågoahtá muhtem biejve duogen, de moadda nissuna dåbddi njittje tsirnni.                                                                                                                             Buoremus la mánáv njamádit dájvvalakkoj vaj i tsirna. Mánná máhttá njammat nåv dájvvalakkoj ja nåv ednagav majt sihtá. Jus la vájvve hávij de máhtá ráddjit njammamájgev. Gähttjala aj gávnnat mij hávijt dahká. Njittje maŋenagi hiebadi mielkkegålggåmav ednakvuohtaj majt mánná dárbaj.</p>
-    <p>
-      <em type="italic">Buododum mielkkeoare  </em>
-    </p>
-    <p>Gå njittjes oasse ij la guorridum buoragit, de dåbddu báktjasin ja båden. Goallogåditja ja báhkkanittja dávk vehik, valla bissu álu åni ájgev. De hähttu dát oasse guorriduvvat fert nuppe tijma biejven ja muhttijn iján. Buoremus la jus mánná njammá, valla máhtá aj båhtjet giedajn jali pummpit njittjev. Álgada gålgådimreflevsav mij la buojkodum åvddålin. Gå njamáda jali pummpi, de ruvvi vuostak njittjev várrogit gå njávka garra oase badjela njidtjevártto vuosstij. Dáv galga val dahkat gå gålgådimrefläksa l álgadam ja mielkke gålggå. Tjihtijt ij galga ruvvit jus mielkke ij gålgå, ietján de dávk tjábrotja mielkev njittje sällagåhtusa sisi ja dahkat ij-bakterielalasj infeksjåvnåv. Ane binná lidna vuojddasav jali oaljov vaj tjuvde jåhti buorebut. Njamádimrapsatja ullos ja liegga navol jali lávggom máhttá viehkedit.</p>
-    <p>Muhtemijda moadda biejve vásitji má åvddål gå tjihte gáhtu. Nåv guhkev gå tjihte unnu de ij la várálasj. Jus dujna li tjihte ma e unno gå dájvvalakkoj la guorrim njittjijt, jali bissu guhka ájgev, de bierri dåktårijn aktavuodav válldet.</p>
-    <p>
-      <em type="italic">Njidtjeinflammasjåvnnå  </em>
-    </p>
-    <p>Njidtjeinflammasjåvnnå sjattasj má jus dibddá tsirnnamav jali buododum mielkkeårijt váni dálkudahtek, ja/jali bakteria manni hávijda ja luottanimijda njidtjevárton. Njidtje dávk garrasj, båhtånisj, bávtjestisj, báhkkanisj ja ruopsudisj. Hármmadit báhkkana ja skihpasin dåbddu. Muhtem nissuna buorránittji má jánndura duogen båhtjemijn (njamádibme, giehtabåhtjem jali pummpim) fert nuppe tijma biejven ja moaddi iján. Jus i huoman buorrána, de bierri dåktåra lunna mannat. Dárbahittja dávk antibiotihkadálkudimev buorránittjat. Vuojŋada ja oade ednagav, ja dibde iehtjádijt mánáv sujttit. Buorre l válldet mielkkeåtsådimev maŋen dåktårij.</p>
-    <p>Nåvti váldá mielkkeåtsådimev:</p>
-    <p type="listitem">•  Basá giedajt ja ihkap njittjev vuostak.</p>
-    <p type="listitem">•  Álgada gålgådimreflevsav.</p>
-    <p type="listitem">•  Håjggåda vuostasj gålgådisájt.</p>
-    <p type="listitem">•  Ane rájnna glásatjav/gådtjååtsådimglásav ja båtje muhtem millilijttarav mielkes glássaj.</p>
-    <p>
-      <em type="italic">Hiejtedahttem </em>
-    </p>
-    <p>Gå galga mánáv hiejtedit njittjes de l buorre hiejtedit suojmma vaj dån i tsirna. Gádoda avtav bårrusav akta ájgen måttijn biejvijn gaskan, gå dån aj oaneda bårrusijt oattjotjit binnep ja binnep mielkev njittjes. Nåvti unneda mielkev. Ienemusá hiejtedi njamádimev 14 biejven, valla  målssås ulmutjis ulmutjij.</p>
-    <p>
-      <em type="italic">Njamádibme ja suovastibme  </em>
-    </p>
-    <p>Edna selka sigarehtajn gávnnuji iednemielken. Danen la bagádum dån i galga suovastit nåv guhkev gå njamáda. Segadus la alemus jur gå la suovastam. Suovastibme máhttá árret mielkkegålggåmav ja máná gudi li njamádum iednijs gudi suovasti, dájvvabut oadtju kolijkav gå iehtjáda. Iednemielke gájkka ávkij diehti huoman la bagádum njamádit vájku suovasta. Bierri suovastit nåv binnáv gå máhttelis ja jur gå la njamádam vaj selkajs ienemusá li gáhtum åvddål gå vat njamáda. Ale ga suovasta sämmi lanján gå mánná.</p>
-    <p>
-      <em type="italic">Njamádibme ja alkohola/gárevábnnasa </em>
-    </p>
-    <p>Alkohola gávnnu iednemielken ja vaddá mälkkáj sämmi alkoholasegadusáv mij la dujna varán. Njuoragin la ienep njuorasvuohta alkohola vuosstij gå ållessjattugijn, ja ij diede vuolemus rájáv vahágis vájkudibmáj. Danen bierri gárttjodit alkoholaanov vuollemärráj. Duv mielke sisanet sämmi promillav gå varra. Gå promilla l jávkkam varás ja máhtá biljav vuodjet, de l aj jávkkam mielkes ja máhtá njamádit. Ale ane ietjá gárevábnnasijt.</p>
-    <p>
-      <em type="italic">Njamádibme ja dálkkasij adno  </em>
-    </p>
-    <p>Gájkka dálkkasa gávnnuji iednemielken ienebut jali binnebut. Moadda dálkkasa hiehpi njamádimijn. Viertti árvustallat iednemielke ávkij ja dálkkasa duoddevájkudusáj gáktuj jus dån i lágeda njamádit. Gávnnuji ållo diedo dálkkasij ja njamádime birra. Aktavuodav válde  varresvuohtabarggij gudi máhtti åtsådit dájt buorebut. Jus dárbaha adnet dálkkasijt majda dån i dárbaha dálkastjállagav, de lågå agev duoddetjállagin njamádime birra. Jus guoktálatta  njamádimev de bierri agev rádedit duv dåktårijn.</p>
-    <p>
-      <em type="italic">Áhtje ánburgge </em>
-    </p>
-    <p>Áhttjen dujna li ållo ájnas vidno åvddålijguovlluj. Ieddne dárbaj siettov ja vuojŋadit riegadahttema maŋŋela. Vuorbástuvátji njamádimijn la sunji ja mánnáj ájnas. Ávvudalá aktan iednijn gå njamádibme vuorbástuvvá sajen gå sávvat iesj lulu bessat mánáv biebbmat. Hávskudalá mánájn ja åro suv lahka ietjá bálij gå mánná ij rávka iedne njittjev. Nåvti åhpa dádjadit máná signálajt nåv ruvva gå máhttelis. Guorrasa njamádibme l máná ja iedne gasskavuohta. Åro sunnu lahka, ja viehkeda majt máhtá häjmmabargujn ja jus li stuoráp máná. Mujte dån la iedne ja máná ájnnasamos doarjjaulmusj.</p>
-    <p>
-      <em type="italic">Njamádimviehkke </em>
-    </p>
-    <p>Njamádimviehken li iedne ietjasa njamádimvásádusajn ja åhpadimijn njamádimen. Mijá viehkke l nåvkå. Miján älla rabásájge, valla viehkedip asstoájgen. Buorre l jus ij riŋŋgi iján. Jus miján ij la máhttelisvuohta duv viehkedit, de máhtá riŋŋgit iehtjádij listan. Jus dárbaha bagádusájt njamádime birra, de máhta mijájn aktavuodav válldet telefåvnåjn jali e-påvståjn.</p>
-    <p>Gávna mijá nummarijt mijá nähttabielijn <em type="bold">www.ammehjelpen.no  </em>ja girjátjijn ma li ålgusvattedum riegádahttemsajijn. </p>
-    <p>Jus hálijda sebrulattjan, aktavuodav válde mijá dåjmadagájn telefåvnnå: 62 45 52 51 jali e-påvsstå ammehjelpen@c2i.net de oattjo ienep diedojt.</p>
-    <p>
-      <em type="italic">Oajvvadusá låhkåt: </em>
-    </p>
-    <p xml:lang="nob">1.Jolley,Sandra, ja Phillips-Angeles,Ellen, Njamádimviehkke: <span type="quote" xml:lang="nob">”Telefonhandbok for ammespørsmål”</span>.</p>
-    <p xml:lang="nob">2. Nylander,Gro: <span type="quote" xml:lang="nob">”Mamma for første gang”</span>.</p>
-    <p xml:lang="nob">3. Sundhedsstyrelsen i Danmark: <span type="quote" xml:lang="nob">”Håndbog i vellykket amming – en vejleder til sundhedspersonale”</span>.</p>
-    <p xml:lang="nob">4. Helsing, Elisabet, ja Bærug, Anne, Kolibri forlag: <span type="quote" xml:lang="nob">”Ammning”</span>.</p>
-    <p>5. Sosiála- ja varresvuohtadirektoráhtta 2005: Hvordan du ammer ditt barn.</p>
-    <p>Gilda Bjørnson ja Anita S. Schrøder libá hábbmim girjátjav Njámadimvähkkáj. Anne Brenneng la tjuorggam gåvåjt. Gålgådismánon 2005</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>2742</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>   Lulesamisk - <em type="bold">Julevsábmáj</em> </p>
+<p>Dát prosjäkta l biednigahtedum Helse og Rehabiliteringa Lijgge-biednigij</p>
+<p><em type="italic">Sisadno</em> </p>
+<p>Sisadno ....................................................................................................2 Manen la buorre njamádit? .................................................................. 3 Gåktu mánná njidtjáj njåmmu gåvvå ........................................................... 4 Dábálasj njamádimvuoge. ...........................................................................4 Iemelágásj vuohttomvuohke..............................................................................5 Juomisjvuohke: ........................................................................................ 5 Vällot: ...................................................................................  6 Galli ja man mälggadav galggá mánná njammat? ...............................................</p>
+<p>Gåktu diedáv mánná oadtju nuoges biebmov? .................................................. 7 Ilá binná mielkke? .......................................................................................... 7 Giedajn båhtjet ja pummpim  ....................................................................... 8 Giedajn båhtjet .......................................................................................... 8 Pummpim .................................................................................................. 8 Njamun, ruksa ja njammamhiemsse.............................................................. 9 Kåhpåjn biebbmat ............................................................................................. 9 Muv mánna ij lágeda njittjev. .................................................................. 10 Goassa mánáv biebbmagoahtet ietjá biebmujn gå mielkijn ? ................................................ 10 Le gus mánán kolijkka? ................................................................................... 10 Hávve njidtjevárto................................................................................... 11 Tsirnnat ......................................................................................... 11 Buododum mielkkeoare ........................................................................ 11 Njidtjeinflammasjåvnnå..................................................................................... 12 Hiejtedibme ............................................................................................... 12 Njámádibme ja suovastibme .................................................................................</p>
+<p>Njámádibme ja alkohola/gárevábnnasa.................................................................. 13 Njamádibme ja dálkkasij adno................................................................. 13 Áhtje ánburgge ..................................................................................................</p>
+<p>Njamádimviehkke........................................................................................... 14 Oajvvadusá låhkåt: .................................................................................................. 14 Njamádimviehkke l dáv nähttagirjátjáv ásadam vattátjit dunji gut njamáda diedojt ja bagádusájt njamádime birra. Njamádimviehke dåbddomärkka l: <em type="bold">Viehkediddje bágo iednes äddnáj. </em>Midjij ij la aktak gatjálvis ilá unne. Mielas doarjjop ja viehkedip duv. </p>
+<p><em type="italic">Manen la buorre njamádit? </em></p>
+<p>Iednemielkke l buoremus biebbmo njuoragijda, danen gå mielke segadus ja ednakvuohta l agev hiebadum máná dárbbuj. Njamádibme nannot aktavuodav duv ja duv máná gaskan.  Åtsådibme l vuosedam njamádibme suoddji mánáv moatte dávdaj vuosstij buojkulvissan gasskabielljeinflammasjåvnnå, gurgosinfeksjåvnå ja tjoajvvetjoalleinfeksjåvnå. Guhkaájggásattjat vuojnnet njamádibme aj dåjmasj duostotjit iehtjádij siegen buojddudagáv, diabehtesav, allergiddjav ja bårredávdav. Iednemielkke åvdedisj má máná buorep fysalasj ja mielalasj åvddånimev, ja l ihkeva buorre vuojŋamij åvddånibmáj. Njamádibme ij loabeda mánná skihppá, valla iednemielkke unnet vádáv. Dunji njamádibme vaddá suoddjijiddje båhtusav iehtjádij siegen njidtjebårredávddaj, månneráksábårredávddaj ja dákterasjesvuohtaj. Maŋutjissaj, gåjt, iednemielkke l nåvkå, agev varás, ja bårrråmláhkáj!</p>
+<p><em type="italic">Gåktu mánna njåmmu njidtjáj gåvvå </em></p>
+<p>Dibde mánáv vehik åhtsåt njálmijn åvddål gå oadtju njittjev. Gå buoragit njálmev tsakkas, de bieja mánáv ietjat vuosstij. De máná njálmme l dievdedum njittjes gå iesj njåmmu njidtjáj. Gå aneda mánav ietját vuosstij ja oajvve l luovas de máná gájbbe galggá duv njittjev duohttat. De mielkke gålggå buoragit. Máná oajvve sådjå vehik maŋus vaj njunnje l luovas. Nåvti mánná buktá vuojŋŋat ja dån i dárbaha njittjev anedit ierit.</p>
+<p>1.  Aneda njittjev bielgijn badjel ja tjuvdij vuolen, degu stuorra C-bokstávva. Tjuvde e galga årrot russjkis oasen (areola).</p>
+<p>2.  Ávttji mánáv buoragit njálmev tsakkastit gå vehik tjagárda báksemijt njidtjevártujn, njunjes vuollebáksemij. Njidtjevártto l máná njunje buohta.</p>
+<p>3.  Gå mánná buoragit njálmev tsakkas, de bieja mánáv ietjat vuosstij.</p>
+<p><em type="italic">Dábálasj njamádimvuoge. gåvå </em></p>
+<p>Juska vil makkir njamádimvuogev vállji, de l ájnas tjåhkkåha jali vällaha buoragit ja ráfálattjat. Tjavggis diehko vájbbadi duv gå la njamádam. Bieja mánáv  buoragit njittje vuosstij, vaj ij sjatta <span type="quote">”givnnjahiddje”</span> njidtjevárton. De dunji háve ruvva sjaddi.</p>
+<p><em type="bold">Iemelágásj vuohttomvuohke</em>: </p>
+<p>Mánná vällaj sijdo nanna duv fármen tjåjvijn duv tjoajve vuosstij, ja oajvve maŋus duv vuollegieda nanna. Mánná vällaj duv rievtes vuollegieda nanna gå njammá rievtes njittev. Máná vuolep giehta l duv ålema birra. Duvde máná hárdov vuollegiedajn, ja aneda badáv jali juolgijt giedajn.</p>
+<p><em type="bold">Juomisjvuohke: </em></p>
+<p>Mánná vällaj sijdo nanna tjåjvijn duv sijdo vuosstij oajvevuole nanna juolgij maŋus. Duvde mánáv ietjat giedajn. Máná nisske/hárddo l duv giedan vaj máhtá mánáv låggŋit njittje buohta. Rievtes giehta máná nanna gå njamáda rievtes njittjev. Máná bahta ja juolge l ståvlå nanna. Nubbe giehta låggŋi ja hábbmi njittjev. Juomisjhámijn la buorre målssot, danen gå:</p>
+<p type="listitem">•  Mánná njåmmu njidtjáj ietjáláhkáj.</p>
+<p type="listitem">•  Hávve njidtjevártojn buojkulvissan, juomisjvuohke giehpedisj má hávve oasev.</p>
+<p type="listitem">•  Jus mánan la vájvve njoammot njidtjáj, de dát vuohke dávk lisj buorre, danen gå dujna l nubbe giehta luovas ja máhtá stivrrit máná oajvev ja</p>
+<p>njittjev ja <span type="quote">”njamádahtjat”</span> duolla ájgen.</p>
+<p type="listitem">•  Dát vuohke l aj buorre jus dujna li hármmis stuorra ja låsså njittje, de máhtá duvddet ja hábbmit njittjev C-njoammomijn (giehta vuolen, bielkke</p>
+<p>gähppadit njittje bajelt).</p>
+<p type="listitem">•  Jus dujna li juomitja, de máhtá njamádit goappátjijt avtabále.</p>
+<p type="listitem">• Gå njamáda mánáv gut vällaj Frejka oajvevuolen de dát la buorre</p>
+<p>vuohke.<em type="bold"> </em></p>
+<p><em type="bold">Vällot: </em></p>
+<p>Vällaha sijdo nanna juolgij vehik såddjot vaj vällaha nannusit ja ráfálattjat åjvijn val oajvevuole nanna. Mánná vällaj sijdo nanna tjåjvijn duv rubmaha vuosstij. Máná oajvev ja hárdov máhtá duvddet ietjat giedajn jali oajvevuolátjijn. Máhtá njamádit bajemus/nuppev njittjev vani målso sajev, gå såjåda rubmahav vaj bajemus njidtje ållå mánnáj. Mánná máhttá aj vällahit oajvevuole nanna, vaj máhttá njammat bajemus njittjes vani ietjat labuda seŋgan. Dát vuohke l sierraláhkáj hiebalasj tjäjsártjuollama maŋŋela ja sjuokkajvanádimen gå dån i dárbaha seŋgan jårgijdit. Máhttá aj buorre årrot jus mánná vällaj Frejka oajvevuolen.</p>
+<p><em type="italic">Galli ja man mälggadav galggá mánná njammat?  </em></p>
+<p>Njuoraga li umasslágátja. Muhtema dárbahi bårråt binnáv ja dájvvalakkoj, gå muhtema bårri ienebuv ja vuorjjábut. Mánnáj bierri njittjev fállat juohkka bále gå hálijt njammat. Gå mánná åhtså njálmijn jali ietjas tjuvdijt njammá. Rähtjom vuoset mánná l nielgen, ja bierri fállat njittjev åvddål gå mánná l ilá nielgen. Dibde mánáv njammat nåv mälggadav gå iesj sihtá. Nåvti njittje ávttjiduvvi dahkat jur dav ednakvuodav majt duv mánná dárbaj. Jus mánná oaddá de máhtá suv ávttjit njamátjit gå ruvvi giehtavuodojt, juolgij vuolen, gájbe jali vuolleållula vuolen. Dibde mánáv gärggat nuppe njittjijn åvddål gå fála nuppev.</p>
+<p>Gå mánná iesj oadtju miededit galli ja man mälggadav sihtá njammat de jahkedahtte dån i váseda dujna l ilá binna mielkke. Iednemielkke l álkke åmastit, ja vássá tjoajvev ruvva. Vahko duogen ienemus máná hálijdi bájken 12 bårrusa jánndurij. Maŋenagi hálijdi vuorjjábut bårråt.</p>
+<p><em type="italic">Gåktu diedáv mánná nuoges biebmov oadtju? </em></p>
+<p>Ájnnasamos la gähttjat máná rapsajt. Mánná 0-4 vahko rájes gut njidtjemielkev val oadtju, bajkká álu juohkka biejve ja binnemusát 6 luvva rapsa li jánndurij maŋŋel gå mielkke l gålggågoahtám. Jus dåbdå njittje dibmi gå l njamádam, gulá mánná njiella ja mánná ietján vuojnnet la gåhtsemin ja dudálasj, de jahkedahtte mánná oadtju nuoges biebmov. Jus dån huoman ij la visses, de máhtá suv válldet maŋen varresvuohtastasjåvnnåj viehkkitjit suv. Gå njamáda de dárbaha ienep biebmov gå ietján. Dån galgá juhkat gå gåjkå, ja ása tjátjev gå njamáda. Åtsådallama e gávnnu ma máhtti vuosedit ienep mielkev oadtju gå ednagav juhká.</p>
+<p><em type="italic">Ilá binna mielkke? </em></p>
+<p>Maŋenagi gå duv mánná sjaddá de dárbaj ienep mielkev. Mánná njammá dájvvabut 2-3 biejven ávttjitjit njittjijt ienep mielkev dahkat. Gåhtjudallá   ienedumbiejvven, ja dáhpáduvásj má nåv dájvvalakkoj gå fert 14 biejve, valla målssås ednagit mánás mánnáj.</p>
+<p><em type="italic">Gålgådimrefläksa </em></p>
+<p>Gå mánná njittjev njammá, de rájaduvvi vuojŋamij signála, ma luovviji hormonav (Oxytocin). Dát hormonas diehko mielkkerávsáj birra giessási vaj mielkke gålgit. Moadda nissuna dåbddi dáv degu njittjen tjuoggu jali njittje tsirnni. Vuostasj vahko riegádahttema maŋŋela mielkke gålggågådisj má gå mánnárehtjasav gullá jali mánnáj ájádallá. Gålgådimrefläksa hiemssiduvásj má aj jus dån la vájbas, vájvedum, balon jali jus la håjen. Sjattasj má mánnáj vájvep mielkev ålgus oadtjot. Ájnas la gähttjalit vuojŋadit ja ájádallat juoga mårredav. Måttijda giehpedisj má ruvvit njittjev vehik, ja jållerdit njidtjevártov várrogit tjuvdij gaskan åvddål gå njamádatjá. Liegga gurbbasa ja juoga lieggasav juhkat buoredisj má gålgådimreflevsav. Dån viertti goallmis gáhttit.</p>
+<p><em type="italic">Giedajn båhtjet ja pummpim </em> </p>
+<p>Jus dån i máhte mánáv njamádit danen gå mánná l ilá árrat riegádam jali l skibás, de máhtá giedajn båhtjet jali adnet njidtjepumpav mielkev oattjotjit.</p>
+<p><em type="bold">Giedajn båhtjet. </em><em type="italic">Gåvvå </em></p>
+<p type="listitem">•  Ávttji gålgådimreflevsav nåv gåk la åvddålin buojkodum.</p>
+<p type="listitem">•  Bieja bielkev njidtjevárto badjela, ja tjutjugav vuosstájtjuodtjo sadjáj njijdtjevárto vuolen.</p>
+<p type="listitem">•  Bieja nuppijt tjuvdijt russjkis oase rabddabälláj.</p>
+<p type="listitem">•  Diette tjuvdijt mielka vuosstij, ja tjábrri várrogit tjuvdijt aktij gå sirdeduvvi vat åvddålij laboda. Gärddáda sämmiláhkáj.</p>
+<p type="listitem">•  Gå mielkke gålggå jali tsirggu, de båtje nåv guhkev gå gålggå.</p>
+<p type="listitem">•  Sirde de tjuvdijt birra desik njittje birra l dimás.</p>
+<p type="listitem">• Ale dibde tjuvdijt jåhtet lijke nanna, valla sihko jus njuoskas sjaddá.<em type="bold"> </em></p>
+<p><em type="bold">Pummpim </em></p>
+<p>Buorre l jus pummpi goappásj njittjijt avtabále, ájgev unnet ja lasedisj má mielkkeednakvuodav. Basá giedajt. Ávttji njittjev vaj gålgådimrefläksa álgat.   Bierri pummpit jali giedajn båhtjet ietjat 7-8 jánndurij jus mánná l riegádimmánná, ja pummpit15-20 minuvta juohkka bále. Dåjde, basá ja duoldada åsijt rájnna tjátjen gå la adnám. Båtjedum mielkke bissu ladnjatemperatuvran gitta 8 tijma. Galmánin máhtá vuorkudit gitta 5 biejve. Tjihtánin -20 gradaj vuorkuda gitta 6 mánnuj. Suddadum njidtjemielkev vuorkuda gitta 1 jánndurij galmánin. Lieggi mielkev 37 gradaj lihte sinna mij la vuojodum duollde tjáhtjáj. Ale ådåsis galmmeda suddadum mielkev.</p>
+<p><em type="italic">Njamun, ruksa ja njammamhiemsse </em> </p>
+<p>Mánná njammá njittjev ietjáláhkáj gå njamunav ja ruvsav. Moadda máná e máhte goappásj njammamvuogijt, ja hiemssiduvátji má ruvva. Dájda mánájda dávk sjattasj vájvve njammat álkkesláhkáj jus li hárjjánam njamunij jali ruksaj åvddål gå li oahppam njammat rievtesláhkáj. Máhtti aj njittjev ållu nádot, ja sjattasj má gähttjalibme dunji gut hálijda njamádit. Danen dån i bierri mánnáj vaddet njamunav jali ruvsav álgon åvddål gå la visses mánná njittjev buoragit njammá ja buoragit låssu.</p>
+<p><em type="italic">Biebbmat kåhpåjn  gåvvå </em></p>
+<p><em type="italic"> </em>Jus hähttu mánáv biebbmat ietjáláhkáj gå njamádit muhtem ájgev, de l buorre </p>
+<p>biebbmat kåhpåjn sajen gå ruvsajn. Bårråmvuohke l ajtu viehka dan sjimuk mij la mánán gå njammá. Nåvti mánná ij njammamhiemssiduvvá. Dibde mánáv tjåhkkåhit buoragit duv fármen, ja duvde máná hárdov, niskev ja maŋŋeoajvev.</p>
+<p type="listitem">•  Bieja sagárdagáv máná giedaj badjela vaj ij nårddåda kåhpåv.</p>
+<p type="listitem">•  Ane kåhpåv, njamunruvsa badjegietjev, dálkaskåhpåv jali dakkirav.</p>
+<p type="listitem">•  Lieggi mielkev 37 grádaj, ja dievde kåhppålahkev.</p>
+<p type="listitem">•  Gurggala várrogit vaj mielkke däjvvá máná njuoktjamav.</p>
+<p type="listitem">• Dibde mánáv tjuohkat mielkev. Mielkev ij galga gurggalit mánnáj.</p>
+<p>Gurggala gå vuojná ja gulá mánná njiellá. Mánná iesj galggá miededit.</p>
+<p><em type="italic">Muv mánná ij lágeda njittjev.  </em></p>
+<p>Muhtem máná dárbahi guhkep ájgev åhpatjit njammat gå ietjá máná. Gähttjala årrot gierddis, ja ale vuollána. Nuolada rubmahav bajelt ja nuolada mánáv rapsajda. Bieja mánáv ietjat lijke vuosstij, ja dibde mánáv njidjevártov happset ja muossádit. Dan båttå máhtá giedajn båhtjet jali pummpit ietjat, ja mielkev vaddet kåhpåjn. Gähttjala dájvvalakkoj mánnáj njittjev vaddet. Jus mánná rehtju, de jaskada suv åvddål gå bieja njidtjáj. Ájnas la mánná ij nággiduvá</p>
+<p>njidtjáj. Ano viehkev riegádahttempoliklinihkas, skihpasujtáris jali Njamádimviehkes nåv ruvva gå máhttelis jus vájve sjaddi.</p>
+<p><em type="italic">Goassa mánáv biebbmagoahtet ietjá biebmujn gå mielkijn?  </em></p>
+<p>Vuonan la bagádum ållåsit njamádit 6 máno, D vitamijnajn val duodden (likse) 4 váhko rájes. Dan maŋŋela l fáladum ietjá biebmo suojmma ja várrogit gå ájn njamáda. Stáhta biebbmoráde bágát njamádimev joarkket ålles vuostasj jagev, ja guhkebuv jus máhtá. Jus mánná ij låso jali jus dån illa vuogas njamádimijn de máhtá biebmujn álgget 4 máno rájes. Jus mánná l nuorap gå 4 máno ja dárbaj duottev, de galggá vaddet iednemielkkeduottev. Jus mánná l nielje máno vuorrasabbo de l ietjá biebbmo gå mielkke bagádum. Aktavuodav válde varresvuohtastasjåvnåjn ja ságasta sijájn dán birra jus dát la ájggásasj gatjálvis dunji.</p>
+<p><em type="italic">Le gus mánán kolijkka? </em></p>
+<p>Mánán gänna l kolijkka l vájvve jaskadit. Álu giessi juolgijt tjoave vuolláj vuosedittjat siján la bávtjas tjoajven. Åvddål gå diehtá mánán la kolijkka, de hähttu ierittjuolldet ietjá årijt. Mánná buojkulvissan rehtju danen gå l nielgen jali l ilá ednagav bårråm. Jus adná mánná rehtju ienebut gå dábálattjat, de lisj má buorre dåktåra lusi válldet åtsådittjat jus dávdda l oarren. Mánná gut ij hiejtte rähtjomis ienep gå gålmmå tijma bäjvváj, gålmmå biejve vahkkuj ja l rehtjum nåvti maŋemus gålmmå vahko, sujna dávk lisj njuorakkolijkka jus badjelin tjáledum máhttelisvuoda li ierittjuoldedum. Älla gávnnam visses oarev njuorakkolijkkaj, valla buorrán álu bájken gålmmå máno duogen. Äjgádijda l vájves ájgge, ja danen la ájnas oadet ja vuojŋadit nuohkásit. Duosto viehkev fuolkes ja rádnajs jus dujna l máhttelisvuohta dasi. Jus guoktálatta de bierri rádedit skihpasujtárijn jali dåktårijn.</p>
+<p><em type="italic">Hávve njidtjevárto  </em></p>
+<p>Moadda iedne vehik oadtju hávijt njidtjevártojda vuostasj ájge. Duolla njoammomvuohke ij galga báktjit ietján gå vuostasj biejvijt jali hávijt  njidtjevártojda dahkat. Jus mánán la boasto njoammomvuohke guhka ájgev, de háve ruvvaláhkáj sjaddi njidtjevárton.</p>
+<p type="listitem">•  Måråda buorre njamádimvuogev ja duolla njoammomvuogev.</p>
+<p type="listitem">•  Båtje binna iednemielkev njidtjevárttuj. Dibde gåjkkåt rabás ilmen.</p>
+<p type="listitem">•  Basá giedajt váttugit vaj bakteria e besa njittje sisi hávij ja luottanimij baktu.</p>
+<p>Aktugattjan bávtjes njamádit vájku älla hávve njidtjevárto. Jus ájn bávtjes gå la njamádam de dávk lisj infeksjåvnnå mij la candidas jali bakteriajs sjaddam. Moatte buojkodi dájt báktasjijt tjuoggomin njittjen. Candidainfeksjåvnån vuojnná muhttijn mánán la vielggis dágge (torsk) njálmen. Ane njamádimrapsatjijt majt</p>
+<p>máhtá håjggådit jali bassat binnemusát 60 grádan. Njamuna ja máhttelis gásskemstuvssagávne hähttuji aj duoldaduvvat juohkka biejve. Aktavuodav válde doktorijn jali skihpasujtárijn gávnatjit vigev, ja máhttelis dálkudimev.</p>
+<p><em type="italic">Tsirnnat </em></p>
+<p>Gå mielkke duodalattjat gålggågoahtá muhtem biejve duogen, de moadda nissuna dåbddi njittje tsirnni.                                                                                                                             Buoremus la mánáv njamádit dájvvalakkoj vaj i tsirna. Mánná máhttá njammat nåv dájvvalakkoj ja nåv ednagav majt sihtá. Jus la vájvve hávij de máhtá ráddjit njammamájgev. Gähttjala aj gávnnat mij hávijt dahká. Njittje maŋenagi hiebadi mielkkegålggåmav ednakvuohtaj majt mánná dárbaj.</p>
+<p><em type="italic">Buododum mielkkeoare  </em></p>
+<p>Gå njittjes oasse ij la guorridum buoragit, de dåbddu báktjasin ja båden. Goallogåditja ja báhkkanittja dávk vehik, valla bissu álu åni ájgev. De hähttu dát oasse guorriduvvat fert nuppe tijma biejven ja muhttijn iján. Buoremus la jus mánná njammá, valla máhtá aj båhtjet giedajn jali pummpit njittjev. Álgada gålgådimreflevsav mij la buojkodum åvddålin. Gå njamáda jali pummpi, de ruvvi vuostak njittjev várrogit gå njávka garra oase badjela njidtjevártto vuosstij. Dáv galga val dahkat gå gålgådimrefläksa l álgadam ja mielkke gålggå. Tjihtijt ij galga ruvvit jus mielkke ij gålgå, ietján de dávk tjábrotja mielkev njittje sällagåhtusa sisi ja dahkat ij-bakterielalasj infeksjåvnåv. Ane binná lidna vuojddasav jali oaljov vaj tjuvde jåhti buorebut. Njamádimrapsatja ullos ja liegga navol jali lávggom máhttá viehkedit.</p>
+<p>Muhtemijda moadda biejve vásitji má åvddål gå tjihte gáhtu. Nåv guhkev gå tjihte unnu de ij la várálasj. Jus dujna li tjihte ma e unno gå dájvvalakkoj la guorrim njittjijt, jali bissu guhka ájgev, de bierri dåktårijn aktavuodav válldet.</p>
+<p><em type="italic">Njidtjeinflammasjåvnnå  </em></p>
+<p>Njidtjeinflammasjåvnnå sjattasj má jus dibddá tsirnnamav jali buododum mielkkeårijt váni dálkudahtek, ja/jali bakteria manni hávijda ja luottanimijda njidtjevárton. Njidtje dávk garrasj, båhtånisj, bávtjestisj, báhkkanisj ja ruopsudisj. Hármmadit báhkkana ja skihpasin dåbddu. Muhtem nissuna buorránittji má jánndura duogen båhtjemijn (njamádibme, giehtabåhtjem jali pummpim) fert nuppe tijma biejven ja moaddi iján. Jus i huoman buorrána, de bierri dåktåra lunna mannat. Dárbahittja dávk antibiotihkadálkudimev buorránittjat. Vuojŋada ja oade ednagav, ja dibde iehtjádijt mánáv sujttit. Buorre l válldet mielkkeåtsådimev maŋen dåktårij.</p>
+<p>Nåvti váldá mielkkeåtsådimev:</p>
+<p type="listitem">•  Basá giedajt ja ihkap njittjev vuostak.</p>
+<p type="listitem">•  Álgada gålgådimreflevsav.</p>
+<p type="listitem">•  Håjggåda vuostasj gålgådisájt.</p>
+<p type="listitem">•  Ane rájnna glásatjav/gådtjååtsådimglásav ja båtje muhtem millilijttarav mielkes glássaj.</p>
+<p><em type="italic">Hiejtedahttem </em></p>
+<p>Gå galga mánáv hiejtedit njittjes de l buorre hiejtedit suojmma vaj dån i tsirna. Gádoda avtav bårrusav akta ájgen måttijn biejvijn gaskan, gå dån aj oaneda bårrusijt oattjotjit binnep ja binnep mielkev njittjes. Nåvti unneda mielkev. Ienemusá hiejtedi njamádimev 14 biejven, valla  målssås ulmutjis ulmutjij.</p>
+<p><em type="italic">Njamádibme ja suovastibme  </em></p>
+<p>Edna selka sigarehtajn gávnnuji iednemielken. Danen la bagádum dån i galga suovastit nåv guhkev gå njamáda. Segadus la alemus jur gå la suovastam. Suovastibme máhttá árret mielkkegålggåmav ja máná gudi li njamádum iednijs gudi suovasti, dájvvabut oadtju kolijkav gå iehtjáda. Iednemielke gájkka ávkij diehti huoman la bagádum njamádit vájku suovasta. Bierri suovastit nåv binnáv gå máhttelis ja jur gå la njamádam vaj selkajs ienemusá li gáhtum åvddål gå vat njamáda. Ale ga suovasta sämmi lanján gå mánná.</p>
+<p><em type="italic">Njamádibme ja alkohola/gárevábnnasa </em></p>
+<p>Alkohola gávnnu iednemielken ja vaddá mälkkáj sämmi alkoholasegadusáv mij la dujna varán. Njuoragin la ienep njuorasvuohta alkohola vuosstij gå ållessjattugijn, ja ij diede vuolemus rájáv vahágis vájkudibmáj. Danen bierri gárttjodit alkoholaanov vuollemärráj. Duv mielke sisanet sämmi promillav gå varra. Gå promilla l jávkkam varás ja máhtá biljav vuodjet, de l aj jávkkam mielkes ja máhtá njamádit. Ale ane ietjá gárevábnnasijt.</p>
+<p><em type="italic">Njamádibme ja dálkkasij adno  </em></p>
+<p>Gájkka dálkkasa gávnnuji iednemielken ienebut jali binnebut. Moadda dálkkasa hiehpi njamádimijn. Viertti árvustallat iednemielke ávkij ja dálkkasa duoddevájkudusáj gáktuj jus dån i lágeda njamádit. Gávnnuji ållo diedo dálkkasij ja njamádime birra. Aktavuodav válde  varresvuohtabarggij gudi máhtti åtsådit dájt buorebut. Jus dárbaha adnet dálkkasijt majda dån i dárbaha dálkastjállagav, de lågå agev duoddetjállagin njamádime birra. Jus guoktálatta  njamádimev de bierri agev rádedit duv dåktårijn.</p>
+<p><em type="italic">Áhtje ánburgge </em></p>
+<p>Áhttjen dujna li ållo ájnas vidno åvddålijguovlluj. Ieddne dárbaj siettov ja vuojŋadit riegadahttema maŋŋela. Vuorbástuvátji njamádimijn la sunji ja mánnáj ájnas. Ávvudalá aktan iednijn gå njamádibme vuorbástuvvá sajen gå sávvat iesj lulu bessat mánáv biebbmat. Hávskudalá mánájn ja åro suv lahka ietjá bálij gå mánná ij rávka iedne njittjev. Nåvti åhpa dádjadit máná signálajt nåv ruvva gå máhttelis. Guorrasa njamádibme l máná ja iedne gasskavuohta. Åro sunnu lahka, ja viehkeda majt máhtá häjmmabargujn ja jus li stuoráp máná. Mujte dån la iedne ja máná ájnnasamos doarjjaulmusj.</p>
+<p><em type="italic">Njamádimviehkke </em></p>
+<p>Njamádimviehken li iedne ietjasa njamádimvásádusajn ja åhpadimijn njamádimen. Mijá viehkke l nåvkå. Miján älla rabásájge, valla viehkedip asstoájgen. Buorre l jus ij riŋŋgi iján. Jus miján ij la máhttelisvuohta duv viehkedit, de máhtá riŋŋgit iehtjádij listan. Jus dárbaha bagádusájt njamádime birra, de máhta mijájn aktavuodav válldet telefåvnåjn jali e-påvståjn.</p>
+<p>Gávna mijá nummarijt mijá nähttabielijn <em type="bold">www.ammehjelpen.no  </em>ja girjátjijn ma li ålgusvattedum riegádahttemsajijn. </p>
+<p>Jus hálijda sebrulattjan, aktavuodav válde mijá dåjmadagájn telefåvnnå: 62 45 52 51 jali e-påvsstå ammehjelpen@c2i.net de oattjo ienep diedojt.</p>
+<p><em type="italic">Oajvvadusá låhkåt: </em></p>
+<p xml:lang="nob">1.Jolley,Sandra, ja Phillips-Angeles,Ellen, Njamádimviehkke: <span type="quote" xml:lang="nob">”Telefonhandbok for ammespørsmål”</span>.</p>
+<p xml:lang="nob">2. Nylander,Gro: <span type="quote" xml:lang="nob">”Mamma for første gang”</span>.</p>
+<p xml:lang="nob">3. Sundhedsstyrelsen i Danmark: <span type="quote" xml:lang="nob">”Håndbog i vellykket amming – en vejleder til sundhedspersonale”</span>.</p>
+<p xml:lang="nob">4. Helsing, Elisabet, ja Bærug, Anne, Kolibri forlag: <span type="quote" xml:lang="nob">”Ammning”</span>.</p>
+<p>5. Sosiála- ja varresvuohtadirektoráhtta 2005: Hvordan du ammer ditt barn.</p>
+<p>Gilda Bjørnson ja Anita S. Schrøder libá hábbmim girjátjav Njámadimvähkkáj. Anne Brenneng la tjuorggam gåvåjt. Gålgådismánon 2005</p>
+</body></document>

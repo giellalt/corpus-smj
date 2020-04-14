@@ -1,125 +1,82 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1531</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Undersokningar-och-prover/Gynekologisk-cellprovtagning</origFileName>
-    <parallel_text xml:lang="eng" location="gynekologiska-cellprovtagning.html"/>
-    <parallel_text xml:lang="fin" location="gynekologisk-cellprovtagning.html"/>
-    <parallel_text xml:lang="fit" location="gynekoligisk-cellprovtagning.html"/>
-    <parallel_text xml:lang="sma" location="gynekologisk-cellprovtagning.html"/>
-    <parallel_text xml:lang="sme" location="gynekologisk-cellprovtagning-.html"/>
-    <parallel_text xml:lang="swe" location="gynekologisk-cellprovtagning.html"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmn"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmu"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rka"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="yid"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Gynekologalasj sellaåtsådibme / Gynekologisk cellprovtagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">JulevusámegiellaLulesamiska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Gynekologalasj sellaåtsådibmeGynekologisk cellprovtagning</p>
-    <p type="title">Tjoahkkájgäsos</p>
-    <p>Gå dájvvalakkoj vaddá gynekologalasj sellaåtsådimev de máhttá ietjas suoddjit skoahtotjåttåbårredávddaj. Sellaåtsådibme skoahtotjåttån vuollevájmon váldeduvvá ja árrat máhttá vuosedit jus li sellarievddadusá ma lulun båhtusav vaddet skoahtotjåttåbårredávddaj.</p>
-    <p>Ienemus sellarievddadusá ma ájtsaduvvi li giehpep rievddadusá ma ietjastis buorráni, valla muhtemijt la dárbbo ierit válldet. Sieldes vuorjját sellaåtsådibme vuoset bårråmdávdav. Bårredávdda dalloj la árra mieren ja dåmajdibme álkkep sjaddá ja binnep tjuovvobájnatjimij.</p>
-    <p>Nissuna Svierigin dájvvalakkoj gåhtjoduvvi gynekologalasj sellagähttjalibmáj, nåv gåhtjoduvvam screening. Jus la 23 ja 50 jage gaskan de gåhttjom boahtá juohkka goalmát jage. Dan maŋŋela dábálattjat fert vidát jage 60 jahkáj. Jus la vuorrasabbo gå 50 jage de barggovuoge máhtti sieradit ja gånnå rijkan årru.</p>
-    <p>Máhttá aj sellagähttjalimev vaddet jus la gáhppeliddjen jali gynekologa lunna tjadádittjat gynekologalasj åtsådimev ietjá årijs.</p>
-    <p type="title">Gárvedime</p>
-    <p>Ij dárbaha gárvedit sierraláhkáj, valla buorre l jus ij la narggem årrum jali muhtem vuojddasav vuollevájmon adnám jánndurav åvddål åtsådime. Ietján de gähttjalibme sjaddá vájvve dádjadit. Ij ga galga åtsådimev vaddet gå l liejbbe.</p>
-    <p type="title">Gåktu åtsådibme dagáduvvá?</p>
-    <p>Gå gähttjalibme vattá de hähttu vuollerubmahav nuoladit ja viellidit gynekologalasj åtsådimståvllåj. Dåktår jali gáhppeliddje máhttá gähttjalimev válldet umassláhkáj. Ienemusát aneduvvá unna spahtel mij duohtaduvvá skoahtodáhpá vuostij ja dan maŋŋela dibma bårstasj skoahtotjåddåga vuolemus oase vuosstij.</p>
-    <p>Álu oadtju aj vásstedit muhtem gatjálvisájt gähttjalime bále. Vásstádusá li ájnnasa guoradalátjit gähttjalimev riektaláhkáj.</p>
-    <p>Åtsådibme ij bávtjesta ja dagáduvvá val moatten minuvtan. Vásstadusáv sellagähtjalibmáj álu oadtju gudán vahkon.</p>
-    <p type="title">Gåktu dåbddu maŋŋela?</p>
-    <p>Åtsådibme ij la várálasj. Muhttijn varddá vehik maŋŋela valla ij la várálasj.</p>
-    <p type="title">Mij la gynekologalasj sellaåtsådibme?</p>
-    <p type="title">Vaddet sellaåtsådimev</p>
-    <p>Gynekologalasj sellaåtsådibme l åtsådibme mij váldeduvvá skoahtotjåddåga vuolemus oases mij gåhtjudallá skoahtodáhppán mij nåhkå guoddnáj. Åtsådibme máhttá árrat vuosedit jus li sellarievddadusá ma máhtti båhtusav vaddet skoahtotjåttåbårredávddaj. Ienemus sellarievddadusá ma ielveduvvi li giehpep rievddadusá ma ietjastis buorráni, valla muhtemijt hähttu ierit válldet. Åtsådibme máhttá aj vuosedit bårråmdávdav, ihka vil la vuorjját.</p>
-    <p>Jus dájvvalakkoj vaddá sellaåtsådimev de oadtju nanos suojev skoahtotjåttåbårredávddaj gå sellarievddadusájt máhtti gávnnat åvddål gå li bårredávddaj åvdeduvvam.</p>
-    <p>Sellaåtsådibme váldeduvvá skoahtotjåddåga vuolemus oases, skoahtodáhpás mij nåhkå guoddnáj. Skoahto = Livmoder Månem = Äggstock Skoahtotjåttå = Livmoderhals Skoahtodáhppá = Livmodertapp Guoddná = Slida</p>
-    <p type="title">Kontrållå dájvvalakkoj</p>
-    <p>Gynekologalasj sellaåtsådibme gullu varresvuohtakonrållåjda, nåv gåhtjåduvvam screening, masi nissuna Svierigin gåhtjoduvvi dájvvalakkoj. Gå sellarievddadusá árrat ielveduvvi ja dálkuduvvi, le dat dahkam vaj skoahtotjåttåbårredávdda dajt maŋemus 40 jagijt la oalle binnum.</p>
-    <p type="title">Sellaåtsådibme ietjá bálijn</p>
-    <p>Gynekologalasj sellaåtsådimev vatteduvvá aj jus la gáhppeliddje jali gynekologa lunna gynekologalasj åtsådimev ietjá årijs tjadádime. Muhttijn sellaåtsådibme l gynekologa guoradallamis oasse jus buojkulvissan li varddemsjáhtasime, valla máhttá aj buorre dille screeningåtsådimev vaddet. Hiebalasj la jus lijká l muddo åtsådimev vaddet, jali jus la vajálduhttám åvdep sellaåtsådimkontrållåv.</p>
-    <p type="title">Sellarievddadime ja bårredávdda</p>
-    <p>Sellarievddadimij oarre máhttá årrot vájvve skoaden bakteriajs jali gasskabåddåsasj virusinfeksjåvnås dagádum. Le sellarievssadusáj dábálamos tjärdda ma máhtti buorránit ietjastis. Ietjá sellarievddadusá ma lulun båhtusav vaddet skohtotjåttåbårredávddaj, máhtti ierit váldeduvvat unnep tjuollamijn.</p>
-    <p>Jus la sellaåtsådibme mij ij la iemelágásj de guoradallam dagáduvvá ja álu gåhtjoduvvá dåktåråtsådibmáj. Máhttá de oajvvadusáv oadtjot sellarievddadusá galggi tjuoladuvvat jali galggá vuorddet rievddadusájt ietjastis buorránit.</p>
-    <p>Guhka ájgge gihtjá åvddål gå sellarievddadusá åvdeduvvi skoahtotjåttåbårredávddaj, dábálattjat lågev gitta lågenanvihtta jage. Le vuorjját gå juo åvdedum bårredávdda ielveduvvá sellaåtsådimen, valla dáhpáduvvá ájnegasj bále. Bårredávdda dalloj la árra mieren ja dálkudibme máhttá álkkebut sjaddat binnep tjuovvobájnatjimij.</p>
-    <p>Juohkka jage vargga 450 svieriga nissuna åttjudi skohtotjåttåbårredávdav gå ålobu, bájkoj 30 000 nissuna, diededuvvi siján li sellarievddadusá.</p>
-    <p type="title">Nissuna gåhtjoduvvi dájvvalakkoj</p>
-    <p type="title">Nissuna gåhtjoduvvi juohkka goalmát jage</p>
-    <p>Gájkka nissuna 23 ja 50 jage gaskan gåhtjoduvvi sellaåtsådibmáj juohkka goalmát jage. Dan maŋŋela gåhtjoduvvá juohkka vidát jage gå la 50 ja 60 jage gaskan. Jus la vuorrasap gå 50 jage de ájgge gåhttjoma gaskan målsudi vehik gånnå rijkan årru. Nissuna gudi åvdebut li dåmajduvvam sellarievddadusájda máhtti aj dárbahit sellaåtsådimkontrållåjt 60 jage maŋŋela.</p>
-    <p>Gåhttjom rájaduvvá årudahkaj gånna l álmmuktjáledum ja agev la iesjmiedogis oassálasstet.</p>
-    <p type="title">Makkir duostudahkaj åtsådimev vaddá?</p>
-    <p>Gå la gåhttjomav oadtjum de gáhppeliddje sellaåtsådimev válldá lagámus gáhppeliddjeduostudagán, mij aj gåhtjudallá iednijsujttoguovdátjin. Ienemusát oadtju mierredum ájgev ja máhttá dav ådåsis diŋŋgot. Muhtem bájkijn máhttá aj ådåsis diŋŋgot ietjá duostudahkaj.</p>
-    <p>Jus vaddá sellaåtsådimev gynekologalasj åtsådime bále, buojkulvissan gynekologa lunna jali preventijvvanävorádevaddema lunna, de åtsådime álu aj registarduvvi vaj oadtju boahtte fáladusáv sellaåtsådimkontrållåj maŋŋel gå li gålmmå jali vihtta gållåm.</p>
-    <p type="title">Muhtema e dárbaha åtsådimev vaddet</p>
-    <p type="title">Gudi li nuorabu gå 23 jage ja vuorrasappo gå 60 jage e gåhtjoduvá</p>
-    <p>Jus la nuorap gå 23 jage ij gåhtjoduvá sellaåtsådimkontrållåjda. Sellarievddadusá li ietjastis åbbå dábálattja åvddål 23 jage, valla ienemusá gáhtu ietjastis nåv nuorra nissunijn. Le sierralágásj vuorjját gå skoahtotjåttåbårredávdda åvdån gå l nåv nuorra. Jus la oassálasstám gynekologalasj sellaåtsådimkontrållåj ja li moadda iemelágásj sellaåtsådime årrum gå l dävddám 60 jage l máhttelisvuohta maŋebut viessomin åvdet skoahtotjåttåbårråmdávdav sieldes unne.</p>
-    <p type="title">Gudi älla seksav adnám e dárbaha åtsådimev vaddet</p>
-    <p>Jus ij la goassak seksav adnám de ij dárbaha sellaåtsådimev vaddet. Skoahtotjåttåbårredávdda badján nissunijn gudi li seksav adnám ja li HPV vissa tjerdas, humana papillomavirus soaboduvvam.</p>
-    <p type="title">Jus la homoseksuella</p>
-    <p>Jus la homoseksuella de l buorre sellaåtsådimkontållåjn mannat dájvvalakkoj danen gå virus mij máhttá dahkat sellarievddadusájt dávk soabosj nissunis nissunij.</p>
-    <p type="title">Jus la skoadov ierit tjuollam</p>
-    <p>Jus la ålles skoadov ierit tjuollam, mij gåhtjudallá ålles hysterektomiddjan, de ij dárbaha mannat sellaåtsådimkontrållåjn, danen gå skoahtodáhppá de l aj ierittjuoladum. Valla jus tjuollam dagáduváj skoahtotjåttåbårråmdávda jali sellarievddadusáj diehti beras boahtteájgemannat kontrållåjn. Váldeduvvá de åtsådibme guodná bajemus oases.</p>
-    <p>Jus juorrul makkir tjuollamtjerdav la tjadádam jali ma li ierit tjuoladum de máhttá gatjádit klinijkan gånnå tjuoladuvvi. Gáhppeliddje gáhppeliddjeduostudagán jali iednesuojttoguovdátjin álu máhtti viehkedit dáv diededimev åttjudit. Jus juorrula de l buorep åtsådimev vaddet sihkarvuoda diehti.</p>
-    <p type="title">Nåvti åtsådibme dagáduvvá</p>
-    <p type="title">Gárvedime</p>
-    <p>Ij dárbaha gárvedit sellaåtsådime åvddåla sierraláhkáj, valla ij galga seksav adnet jali adnet avtak vuojddasav guodnán jánndurav åtsådime åvddåla. Sellaåtsådibme ietján sjaddá vájvve dádjadit. Ij ga galgga åtsådimev vaddet gå l liejbbe.</p>
-    <p type="title">Åtsådibme skoahtodáhpás</p>
-    <p>Åtsådime åvddåla hähttu nuoladit vuollerubmahav ja viellidit gynekologalasj åtsådimståvllåj. Åtsådiddje, gut la gáhppeliddje jali dåktår, várrogit sierri guodná sijddovijddudagáv dábálasj gynekologalasj instrumentaj ma galggi rumajlieggasa årrot.</p>
-    <p>Gåktu åtsådibme váldeduvvá målsut duostudagás duostudahkaj. Dábálattjat spahtel muoras jali plástas gähppadit duohtaduvvá skoahtodáhppá vuosstij ja de dibma bårstasj aneduvvá skoahtotjåddåga vuolemus oasen.</p>
-    <p>Åtsådibme ruvva manná ja dábálattjat la val moatten minuvtan. Ij baktji. Muhtema dåbddi vájvev valla ruvva vássá.</p>
-    <p type="title">Gatjálvisá vásstedit</p>
-    <p>Álu hähttu vásstedit muhtem gatjálvisájt åtsådime bále, buojkulvissan</p>
-    <list>
-      <p type="listitem">goassa lij liejbe vuostasj biejvve, jali jus läjbboma li gáhtum</p>
-      <p type="listitem">jus preventijvvanävojt adná ja makkirijt</p>
-      <p type="listitem">jus dálkuduvvá hormåvnaj klimakteriavájvijda</p>
-      <p type="listitem">jus la iesselissan jali l mánáv riegádahttám maŋemus jage.</p>
-    </list>
-    <p>Diedo rájaduvvi aktan åtsådimijn ja giehpet laboratåvrråj ietjas árvvalimev dahkat.</p>
-    <p type="title">Maŋŋela máhttá varddemav mij ij la várálasj oadtjot</p>
-    <p>Skoahtotjåddåga skoade gähppadit varddá ja l dábálattjat binná varddemav åtsådime maŋŋela oadtju. Varddem gáhtu muhtem biejve duogen.</p>
-    <p type="title">Gudi li iesselissan máhtti åtsådimev vaddet</p>
-    <p>Åtsådibme l ållu vádádagi ja máhttá åtsådimev dahkat aj gå l iesselissan. Májnoduvvá åtsådimev vaddá maŋemusát 15 iesselisváhkon danen gå guoradallam rievddadiddje åtsådimes máhttá vájvep jus iesselisvuohta l guhkev åvddånam.</p>
-    <p type="title">Goassa vásstádusáv oadtju?</p>
-    <p type="title">Ienemus vásstádusá e rievddadusájt vuoseda</p>
-    <p>Gudán vahkon beras brevav åtsådimvásstádusájn oadtjot, valla muhttijn máhttá guhkep ájgev gihtjat. Bájkoj 95 åtsådimijs 100 li sellarievddadusáj dagi ja árvvaluvvi iemelágátjin. Vásstádusáv rádji njuolgga årudahkaj laboratåvrås.</p>
-    <p>Jus åtsådibme vatteduváj gynekologaduostudagán jali preventijvvanävoduostudagán de ienemusát gut åtsådimev válldij gänna åvdåsvásstádusáv rádjat vásstádusás.</p>
-    <p>Vuorjjás bálijn älla åtsådimev máhttám guoradallat, buojkulvissan jus gávnnuj edna liejbbevarra danna. Gåhtjoduvvá de ådå sellaåtsådibmáj.</p>
-    <p type="title">Jus åtsådimen li sellarievddadusá</p>
-    <p>Jus sellaåtsådibme vuoset muhtemlágásj sellarievddadusájt de guoradaláduvvá vijddábut. Jus li unna sellarievddadusá ja l ållim 30 jali 35 jage, áldarmierre mierreduvvá gånnå rijkan årru, de dábálattjat åtsådibme dalága åtsåduvvá virusgähttjalimijn. Gähttjalibme gehtjat jus la HPV tjärdda, humana papillomavirus, mij máhttelisvuodav vaddá skoahtotjåttåbårredávddaj. Gejn val li sämmibále dát HPV-tjärdda dárbahi boahtet åtsådibmáj. Jus li giehppis sellarievddadusá majn älla dakkir virus de val dárbaj ådå sellaåtsådimev válldet jage maŋŋela.</p>
-    <p>Gájkka sellarievddadusáj gáktuj nissunijn gudi li nuorabu gå 30 jali 35 jage dálásj ájge májnoduvvá åtsåduvvat gynekologas, valla muhtem bájkijn rijkan dan sadjáj gåhtjoduvvá ådå sellaåtsådibmáj gáhppeliddje lunna. Nissuna gudi li vuorrasappo gå 30 jali 35 jage ja gejn li ietjá sellarievddadusá gå da unna, májnoduvvi aj gynekologas åtsåduvvat.</p>
-    <p type="title">Sellåtsådime e vatte ålles suojev bårredávddaj</p>
-    <p>Sellaåtsådime dájvvalakkoj vaddi nanos suojev skoahtotjåttåbårredávddaj, valla ij la ålles. Máhttá skoahtotjåttåbårråmdávdav oadtjot vájku sellaåtsådime li iemelágátja årrum, valla l sieldes vuorjját. Ietján gå mannat sellaåtsådimkontrållåjn dájvvalakkoj de beras agev sujtov åhtsåt jus oadtju varddemijt narggema maŋŋela, jus moaddi oadtju varddemijt liejbij gaskan, jali jus varddemijt oadtju maŋŋel gå l häjttám läjbbot.</p>
-    <p>Máhttá agev aktavuodav válldet skihpasujttorádevaddemijn jus rádev sihtá gejna galggá aktavuodav válldet.</p>
-    <p type="title">Máhttá balov dåbddåt åtsådibmáj ja åtsådimvásstádussaj</p>
-    <p>Sellaåtsådimev vaddet máhttá gähttjalibmen dåbddut. Máhttá buojkulvissan balov dåbddåt dan ájgen gå åtsådimvásstádusáv vuorddá. Buorre l ájádallat sellaåtsådime l vuohke ietjas suoddjit bårredávddaj. Rievddadusá ma ielveduvvi máhtti gájkkásattjat ierit váldeduvvat álkkep tjuollamijn vaj bässá bårråmdávda åvdedimes boahtteájgen.</p>
-    <p>Le vuorjját gå åtsådibme vuoset la åvdedum bårredávdda. Galli bårredávdda ielveduvvá sellaåtsådimkontrållå baktu de l álu nåv árra mieren vaj dåmajdibme giehpep sjaddá ja binnep tjuovvobájnatjimij. Sellaåtsådime baktu li dávdav máhttám ielvvet ja máhttelisvuohta garrasit skihppát unnu.</p>
-    <p type="title">Iesj mierret jus åtsådime galggi vuorkkiduvvat</p>
-    <p>Åtsådimev majt vaddá sellaåtsådimen álu vuorkkiduvvá. Ådå åtsådime máhtti buojkulvissan buohtastahteduvvat oabmásij ja umasslágásj dåbelijtjuovvoma dagáduvvat. Åtsådime máhtti vil aneduvvat åtsådibmáj jali ietjá måhkkåj mij la dåhkkidum åtsådimetijkalasj juohkusis. Jus ij sidá åtsådime galggá vuorkkiduvvat boahtteájggáj de máhttá dav javllat gesi åtsådimev dahká, ja de biejsteduvvá dan maŋŋela.</p>
-    <p>Diedo åtsådime birra vuorkkiduvvi aj kvalitähttaregistarin mij aneduvvá buoredittjat sujtov. Jus ij sidá suv diedo galggi aneduvvat dán måhkkåj de máhttá rávkkat vaj ierit váldeduvvi.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1525</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Undersokningar-och-prover/Gynekologisk-cellprovtagning</origFileName><parallel_text xml:lang="eng" location="gynekologiska-cellprovtagning.html"/><parallel_text xml:lang="fin" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="fit" location="gynekoligisk-cellprovtagning.html"/><parallel_text xml:lang="sma" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="sme" location="gynekologisk-cellprovtagning-.html"/><parallel_text xml:lang="swe" location="gynekologisk-cellprovtagning.html"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmn"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmu"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rka"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="yid"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rlo"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Gynekologalasj sellaåtsådibme / Gynekologisk cellprovtagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Gynekologalasj sellaåtsådibmeGynekologisk cellprovtagning</p>
+<p type="title">Tjoahkkájgäsos</p>
+<p>Gå dájvvalakkoj vaddá gynekologalasj sellaåtsådimev de máhttá ietjas suoddjit skoahtotjåttåbårredávddaj. Sellaåtsådibme skoahtotjåttån vuollevájmon váldeduvvá ja árrat máhttá vuosedit jus li sellarievddadusá ma lulun båhtusav vaddet skoahtotjåttåbårredávddaj.</p>
+<p>Ienemus sellarievddadusá ma ájtsaduvvi li giehpep rievddadusá ma ietjastis buorráni, valla muhtemijt la dárbbo ierit válldet. Sieldes vuorjját sellaåtsådibme vuoset bårråmdávdav. Bårredávdda dalloj la árra mieren ja dåmajdibme álkkep sjaddá ja binnep tjuovvobájnatjimij.</p>
+<p>Nissuna Svierigin dájvvalakkoj gåhtjoduvvi gynekologalasj sellagähttjalibmáj, nåv gåhtjoduvvam screening. Jus la 23 ja 50 jage gaskan de gåhttjom boahtá juohkka goalmát jage. Dan maŋŋela dábálattjat fert vidát jage 60 jahkáj. Jus la vuorrasabbo gå 50 jage de barggovuoge máhtti sieradit ja gånnå rijkan årru.</p>
+<p>Máhttá aj sellagähttjalimev vaddet jus la gáhppeliddjen jali gynekologa lunna tjadádittjat gynekologalasj åtsådimev ietjá årijs.</p>
+<p type="title">Gárvedime</p>
+<p>Ij dárbaha gárvedit sierraláhkáj, valla buorre l jus ij la narggem årrum jali muhtem vuojddasav vuollevájmon adnám jánndurav åvddål åtsådime. Ietján de gähttjalibme sjaddá vájvve dádjadit. Ij ga galga åtsådimev vaddet gå l liejbbe.</p>
+<p type="title">Gåktu åtsådibme dagáduvvá?</p>
+<p>Gå gähttjalibme vattá de hähttu vuollerubmahav nuoladit ja viellidit gynekologalasj åtsådimståvllåj. Dåktår jali gáhppeliddje máhttá gähttjalimev válldet umassláhkáj. Ienemusát aneduvvá unna spahtel mij duohtaduvvá skoahtodáhpá vuostij ja dan maŋŋela dibma bårstasj skoahtotjåddåga vuolemus oase vuosstij.</p>
+<p>Álu oadtju aj vásstedit muhtem gatjálvisájt gähttjalime bále. Vásstádusá li ájnnasa guoradalátjit gähttjalimev riektaláhkáj.</p>
+<p>Åtsådibme ij bávtjesta ja dagáduvvá val moatten minuvtan. Vásstadusáv sellagähtjalibmáj álu oadtju gudán vahkon.</p>
+<p type="title">Gåktu dåbddu maŋŋela?</p>
+<p>Åtsådibme ij la várálasj. Muhttijn varddá vehik maŋŋela valla ij la várálasj.</p>
+<p type="title">Mij la gynekologalasj sellaåtsådibme?</p>
+<p type="title">Vaddet sellaåtsådimev</p>
+<p>Gynekologalasj sellaåtsådibme l åtsådibme mij váldeduvvá skoahtotjåddåga vuolemus oases mij gåhtjudallá skoahtodáhppán mij nåhkå guoddnáj. Åtsådibme máhttá árrat vuosedit jus li sellarievddadusá ma máhtti båhtusav vaddet skoahtotjåttåbårredávddaj. Ienemus sellarievddadusá ma ielveduvvi li giehpep rievddadusá ma ietjastis buorráni, valla muhtemijt hähttu ierit válldet. Åtsådibme máhttá aj vuosedit bårråmdávdav, ihka vil la vuorjját.</p>
+<p>Jus dájvvalakkoj vaddá sellaåtsådimev de oadtju nanos suojev skoahtotjåttåbårredávddaj gå sellarievddadusájt máhtti gávnnat åvddål gå li bårredávddaj åvdeduvvam.</p>
+<p>Sellaåtsådibme váldeduvvá skoahtotjåddåga vuolemus oases, skoahtodáhpás mij nåhkå guoddnáj. Skoahto = Livmoder Månem = Äggstock Skoahtotjåttå = Livmoderhals Skoahtodáhppá = Livmodertapp Guoddná = Slida</p>
+<p type="title">Kontrållå dájvvalakkoj</p>
+<p>Gynekologalasj sellaåtsådibme gullu varresvuohtakonrållåjda, nåv gåhtjåduvvam screening, masi nissuna Svierigin gåhtjoduvvi dájvvalakkoj. Gå sellarievddadusá árrat ielveduvvi ja dálkuduvvi, le dat dahkam vaj skoahtotjåttåbårredávdda dajt maŋemus 40 jagijt la oalle binnum.</p>
+<p type="title">Sellaåtsådibme ietjá bálijn</p>
+<p>Gynekologalasj sellaåtsådimev vatteduvvá aj jus la gáhppeliddje jali gynekologa lunna gynekologalasj åtsådimev ietjá årijs tjadádime. Muhttijn sellaåtsådibme l gynekologa guoradallamis oasse jus buojkulvissan li varddemsjáhtasime, valla máhttá aj buorre dille screeningåtsådimev vaddet. Hiebalasj la jus lijká l muddo åtsådimev vaddet, jali jus la vajálduhttám åvdep sellaåtsådimkontrållåv.</p>
+<p type="title">Sellarievddadime ja bårredávdda</p>
+<p>Sellarievddadimij oarre máhttá årrot vájvve skoaden bakteriajs jali gasskabåddåsasj virusinfeksjåvnås dagádum. Le sellarievssadusáj dábálamos tjärdda ma máhtti buorránit ietjastis. Ietjá sellarievddadusá ma lulun båhtusav vaddet skohtotjåttåbårredávddaj, máhtti ierit váldeduvvat unnep tjuollamijn.</p>
+<p>Jus la sellaåtsådibme mij ij la iemelágásj de guoradallam dagáduvvá ja álu gåhtjoduvvá dåktåråtsådibmáj. Máhttá de oajvvadusáv oadtjot sellarievddadusá galggi tjuoladuvvat jali galggá vuorddet rievddadusájt ietjastis buorránit.</p>
+<p>Guhka ájgge gihtjá åvddål gå sellarievddadusá åvdeduvvi skoahtotjåttåbårredávddaj, dábálattjat lågev gitta lågenanvihtta jage. Le vuorjját gå juo åvdedum bårredávdda ielveduvvá sellaåtsådimen, valla dáhpáduvvá ájnegasj bále. Bårredávdda dalloj la árra mieren ja dálkudibme máhttá álkkebut sjaddat binnep tjuovvobájnatjimij.</p>
+<p>Juohkka jage vargga 450 svieriga nissuna åttjudi skohtotjåttåbårredávdav gå ålobu, bájkoj 30 000 nissuna, diededuvvi siján li sellarievddadusá.</p>
+<p type="title">Nissuna gåhtjoduvvi dájvvalakkoj</p>
+<p type="title">Nissuna gåhtjoduvvi juohkka goalmát jage</p>
+<p>Gájkka nissuna 23 ja 50 jage gaskan gåhtjoduvvi sellaåtsådibmáj juohkka goalmát jage. Dan maŋŋela gåhtjoduvvá juohkka vidát jage gå la 50 ja 60 jage gaskan. Jus la vuorrasap gå 50 jage de ájgge gåhttjoma gaskan målsudi vehik gånnå rijkan årru. Nissuna gudi åvdebut li dåmajduvvam sellarievddadusájda máhtti aj dárbahit sellaåtsådimkontrållåjt 60 jage maŋŋela.</p>
+<p>Gåhttjom rájaduvvá årudahkaj gånna l álmmuktjáledum ja agev la iesjmiedogis oassálasstet.</p>
+<p type="title">Makkir duostudahkaj åtsådimev vaddá?</p>
+<p>Gå la gåhttjomav oadtjum de gáhppeliddje sellaåtsådimev válldá lagámus gáhppeliddjeduostudagán, mij aj gåhtjudallá iednijsujttoguovdátjin. Ienemusát oadtju mierredum ájgev ja máhttá dav ådåsis diŋŋgot. Muhtem bájkijn máhttá aj ådåsis diŋŋgot ietjá duostudahkaj.</p>
+<p>Jus vaddá sellaåtsådimev gynekologalasj åtsådime bále, buojkulvissan gynekologa lunna jali preventijvvanävorádevaddema lunna, de åtsådime álu aj registarduvvi vaj oadtju boahtte fáladusáv sellaåtsådimkontrållåj maŋŋel gå li gålmmå jali vihtta gållåm.</p>
+<p type="title">Muhtema e dárbaha åtsådimev vaddet</p>
+<p type="title">Gudi li nuorabu gå 23 jage ja vuorrasappo gå 60 jage e gåhtjoduvá</p>
+<p>Jus la nuorap gå 23 jage ij gåhtjoduvá sellaåtsådimkontrållåjda. Sellarievddadusá li ietjastis åbbå dábálattja åvddål 23 jage, valla ienemusá gáhtu ietjastis nåv nuorra nissunijn. Le sierralágásj vuorjját gå skoahtotjåttåbårredávdda åvdån gå l nåv nuorra. Jus la oassálasstám gynekologalasj sellaåtsådimkontrållåj ja li moadda iemelágásj sellaåtsådime årrum gå l dävddám 60 jage l máhttelisvuohta maŋebut viessomin åvdet skoahtotjåttåbårråmdávdav sieldes unne.</p>
+<p type="title">Gudi älla seksav adnám e dárbaha åtsådimev vaddet</p>
+<p>Jus ij la goassak seksav adnám de ij dárbaha sellaåtsådimev vaddet. Skoahtotjåttåbårredávdda badján nissunijn gudi li seksav adnám ja li HPV vissa tjerdas, humana papillomavirus soaboduvvam.</p>
+<p type="title">Jus la homoseksuella</p>
+<p>Jus la homoseksuella de l buorre sellaåtsådimkontållåjn mannat dájvvalakkoj danen gå virus mij máhttá dahkat sellarievddadusájt dávk soabosj nissunis nissunij.</p>
+<p type="title">Jus la skoadov ierit tjuollam</p>
+<p>Jus la ålles skoadov ierit tjuollam, mij gåhtjudallá ålles hysterektomiddjan, de ij dárbaha mannat sellaåtsådimkontrållåjn, danen gå skoahtodáhppá de l aj ierittjuoladum. Valla jus tjuollam dagáduváj skoahtotjåttåbårråmdávda jali sellarievddadusáj diehti beras boahtteájgemannat kontrållåjn. Váldeduvvá de åtsådibme guodná bajemus oases.</p>
+<p>Jus juorrul makkir tjuollamtjerdav la tjadádam jali ma li ierit tjuoladum de máhttá gatjádit klinijkan gånnå tjuoladuvvi. Gáhppeliddje gáhppeliddjeduostudagán jali iednesuojttoguovdátjin álu máhtti viehkedit dáv diededimev åttjudit. Jus juorrula de l buorep åtsådimev vaddet sihkarvuoda diehti.</p>
+<p type="title">Nåvti åtsådibme dagáduvvá</p>
+<p type="title">Gárvedime</p>
+<p>Ij dárbaha gárvedit sellaåtsådime åvddåla sierraláhkáj, valla ij galga seksav adnet jali adnet avtak vuojddasav guodnán jánndurav åtsådime åvddåla. Sellaåtsådibme ietján sjaddá vájvve dádjadit. Ij ga galgga åtsådimev vaddet gå l liejbbe.</p>
+<p type="title">Åtsådibme skoahtodáhpás</p>
+<p>Åtsådime åvddåla hähttu nuoladit vuollerubmahav ja viellidit gynekologalasj åtsådimståvllåj. Åtsådiddje, gut la gáhppeliddje jali dåktår, várrogit sierri guodná sijddovijddudagáv dábálasj gynekologalasj instrumentaj ma galggi rumajlieggasa årrot.</p>
+<p>Gåktu åtsådibme váldeduvvá målsut duostudagás duostudahkaj. Dábálattjat spahtel muoras jali plástas gähppadit duohtaduvvá skoahtodáhppá vuosstij ja de dibma bårstasj aneduvvá skoahtotjåddåga vuolemus oasen.</p>
+<p>Åtsådibme ruvva manná ja dábálattjat la val moatten minuvtan. Ij baktji. Muhtema dåbddi vájvev valla ruvva vássá.</p>
+<p type="title">Gatjálvisá vásstedit</p>
+<p>Álu hähttu vásstedit muhtem gatjálvisájt åtsådime bále, buojkulvissan</p>
+<list><p type="listitem">goassa lij liejbe vuostasj biejvve, jali jus läjbboma li gáhtum</p>
+<p type="listitem">jus preventijvvanävojt adná ja makkirijt</p>
+<p type="listitem">jus dálkuduvvá hormåvnaj klimakteriavájvijda</p>
+<p type="listitem">jus la iesselissan jali l mánáv riegádahttám maŋemus jage.</p>
+</list><p>Diedo rájaduvvi aktan åtsådimijn ja giehpet laboratåvrråj ietjas árvvalimev dahkat.</p>
+<p type="title">Maŋŋela máhttá varddemav mij ij la várálasj oadtjot</p>
+<p>Skoahtotjåddåga skoade gähppadit varddá ja l dábálattjat binná varddemav åtsådime maŋŋela oadtju. Varddem gáhtu muhtem biejve duogen.</p>
+<p type="title">Gudi li iesselissan máhtti åtsådimev vaddet</p>
+<p>Åtsådibme l ållu vádádagi ja máhttá åtsådimev dahkat aj gå l iesselissan. Májnoduvvá åtsådimev vaddá maŋemusát 15 iesselisváhkon danen gå guoradallam rievddadiddje åtsådimes máhttá vájvep jus iesselisvuohta l guhkev åvddånam.</p>
+<p type="title">Goassa vásstádusáv oadtju?</p>
+<p type="title">Ienemus vásstádusá e rievddadusájt vuoseda</p>
+<p>Gudán vahkon beras brevav åtsådimvásstádusájn oadtjot, valla muhttijn máhttá guhkep ájgev gihtjat. Bájkoj 95 åtsådimijs 100 li sellarievddadusáj dagi ja árvvaluvvi iemelágátjin. Vásstádusáv rádji njuolgga årudahkaj laboratåvrås.</p>
+<p>Jus åtsådibme vatteduváj gynekologaduostudagán jali preventijvvanävoduostudagán de ienemusát gut åtsådimev válldij gänna åvdåsvásstádusáv rádjat vásstádusás.</p>
+<p>Vuorjjás bálijn älla åtsådimev máhttám guoradallat, buojkulvissan jus gávnnuj edna liejbbevarra danna. Gåhtjoduvvá de ådå sellaåtsådibmáj.</p>
+<p type="title">Jus åtsådimen li sellarievddadusá</p>
+<p>Jus sellaåtsådibme vuoset muhtemlágásj sellarievddadusájt de guoradaláduvvá vijddábut. Jus li unna sellarievddadusá ja l ållim 30 jali 35 jage, áldarmierre mierreduvvá gånnå rijkan årru, de dábálattjat åtsådibme dalága åtsåduvvá virusgähttjalimijn. Gähttjalibme gehtjat jus la HPV tjärdda, humana papillomavirus, mij máhttelisvuodav vaddá skoahtotjåttåbårredávddaj. Gejn val li sämmibále dát HPV-tjärdda dárbahi boahtet åtsådibmáj. Jus li giehppis sellarievddadusá majn älla dakkir virus de val dárbaj ådå sellaåtsådimev válldet jage maŋŋela.</p>
+<p>Gájkka sellarievddadusáj gáktuj nissunijn gudi li nuorabu gå 30 jali 35 jage dálásj ájge májnoduvvá åtsåduvvat gynekologas, valla muhtem bájkijn rijkan dan sadjáj gåhtjoduvvá ådå sellaåtsådibmáj gáhppeliddje lunna. Nissuna gudi li vuorrasappo gå 30 jali 35 jage ja gejn li ietjá sellarievddadusá gå da unna, májnoduvvi aj gynekologas åtsåduvvat.</p>
+<p type="title">Sellåtsådime e vatte ålles suojev bårredávddaj</p>
+<p>Sellaåtsådime dájvvalakkoj vaddi nanos suojev skoahtotjåttåbårredávddaj, valla ij la ålles. Máhttá skoahtotjåttåbårråmdávdav oadtjot vájku sellaåtsådime li iemelágátja årrum, valla l sieldes vuorjját. Ietján gå mannat sellaåtsådimkontrållåjn dájvvalakkoj de beras agev sujtov åhtsåt jus oadtju varddemijt narggema maŋŋela, jus moaddi oadtju varddemijt liejbij gaskan, jali jus varddemijt oadtju maŋŋel gå l häjttám läjbbot.</p>
+<p>Máhttá agev aktavuodav válldet skihpasujttorádevaddemijn jus rádev sihtá gejna galggá aktavuodav válldet.</p>
+<p type="title">Máhttá balov dåbddåt åtsådibmáj ja åtsådimvásstádussaj</p>
+<p>Sellaåtsådimev vaddet máhttá gähttjalibmen dåbddut. Máhttá buojkulvissan balov dåbddåt dan ájgen gå åtsådimvásstádusáv vuorddá. Buorre l ájádallat sellaåtsådime l vuohke ietjas suoddjit bårredávddaj. Rievddadusá ma ielveduvvi máhtti gájkkásattjat ierit váldeduvvat álkkep tjuollamijn vaj bässá bårråmdávda åvdedimes boahtteájgen.</p>
+<p>Le vuorjját gå åtsådibme vuoset la åvdedum bårredávdda. Galli bårredávdda ielveduvvá sellaåtsådimkontrållå baktu de l álu nåv árra mieren vaj dåmajdibme giehpep sjaddá ja binnep tjuovvobájnatjimij. Sellaåtsådime baktu li dávdav máhttám ielvvet ja máhttelisvuohta garrasit skihppát unnu.</p>
+<p type="title">Iesj mierret jus åtsådime galggi vuorkkiduvvat</p>
+<p>Åtsådimev majt vaddá sellaåtsådimen álu vuorkkiduvvá. Ådå åtsådime máhtti buojkulvissan buohtastahteduvvat oabmásij ja umasslágásj dåbelijtjuovvoma dagáduvvat. Åtsådime máhtti vil aneduvvat åtsådibmáj jali ietjá måhkkåj mij la dåhkkidum åtsådimetijkalasj juohkusis. Jus ij sidá åtsådime galggá vuorkkiduvvat boahtteájggáj de máhttá dav javllat gesi åtsådimev dahká, ja de biejsteduvvá dan maŋŋela.</p>
+<p>Diedo åtsådime birra vuorkkiduvvi aj kvalitähttaregistarin mij aneduvvá buoredittjat sujtov. Jus ij sidá suv diedo galggi aneduvvat dán måhkkåj de máhttá rávkkat vaj ierit váldeduvvi.</p>
+</body></document>

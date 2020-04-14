@@ -1,44 +1,7 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>210</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=175&amp;art_id=204</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=175_art_id=204.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=175_art_id=204.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=175_art_id=204.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åhpav: Girkko</p>
-    <p type="title">Sáme girkkomusihkka</p>
-    <p>Ájgij tjadá li moadda sálma almoduvvam nuortta-, oarjjel- ja julevsámegiellaj. Sáme sálmmagirjijn li ienemus oassáj sálma ma li dárogielas jali suomagielas jårggåluvvam, valla álgos dujskagielas ja ietjá gielajs båhti. Ájn li dåssju muhtem gallegasj sálma ma li dagádum sámijs ja gåvvidi sáme almmavuohta- ja åsskodádjadusáv. Sáme sálma le ájnas oasse jubmeldievnastusás.</p>
-    <p>Mij le sierralágásj sáme sálmaj? Suojmma lávllom ja modulerim. Sáme sálma ja juojggusa li muodugattja. Orgelmusihkka le sáme lávllomvuogev hebadam. Orgelmusihkka galggá sálmmalávllomav nannit ja viehkedit tjoaggulvisáv aktan lávllot. Dat gájbbet tjoaggulvisá lávllomvuohke le orgelmusihkkaj hiebaduvvam. Sáme sálmmalávllom ij la læhkám vuojga orgelmusihkkaj hiebaduvvam ja navti le orgelmusihkka árbbedábálasj lávllomvuogev hebadam. Juojgan le sierra sadje sáme musihkan. Moaddása sihti ieredit girkkolasj ja iehpe-girkkolasj musihka gaskan. Juojggam le gássjel dåhkkidit muhtem birrasijn. Danen ij la juojgga luondulasj jubmeldievnastusán. Sij gudi li guhkemusát juojggam jubmeldievnastusáj aktijvuodan, li oarjjelsáme.</p>
-    <p>Oarjjelsáme guovlojn le læhkám ulmme sáme musihkkaárbbedábijt oassáj oadtjot liturgijas ja jubmeldievnastusás. Juojggam le moaddásijda sáme identitehtta, ja moaddásij mielas sáme musihkkaárbbedábij adno jubmeldievnastusán tjadná kulturmoalgedimev ja jáhkov navti váj ulmutja dåbddi ienebut girkkuj gulluji. Oarjjelsámegiella sjattaj almulasj tjállemgiellan jagen 1978. Dan åvddåla lij oarjjelsámegiella dåssju njálmálasj giella. Gávnnuji sálma ma li oarjjelsámegiellaj tjáleduvvam, melodija sámegielajn tåvnnågiellan ja gávnnuji sálma ma li jårggåluvvam ja udnásj melodijada hiebaduvvam.</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>210</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=175&amp;art_id=204</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=175_art_id=204.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=175_art_id=204.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=175_art_id=204.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åhpav: Girkko</p>
+<p type="title">Sáme girkkomusihkka</p>
+<p>Ájgij tjadá li moadda sálma almoduvvam nuortta-, oarjjel- ja julevsámegiellaj. Sáme sálmmagirjijn li ienemus oassáj sálma ma li dárogielas jali suomagielas jårggåluvvam, valla álgos dujskagielas ja ietjá gielajs båhti. Ájn li dåssju muhtem gallegasj sálma ma li dagádum sámijs ja gåvvidi sáme almmavuohta- ja åsskodádjadusáv. Sáme sálma le ájnas oasse jubmeldievnastusás.</p>
+<p>Mij le sierralágásj sáme sálmaj? Suojmma lávllom ja modulerim. Sáme sálma ja juojggusa li muodugattja. Orgelmusihkka le sáme lávllomvuogev hebadam. Orgelmusihkka galggá sálmmalávllomav nannit ja viehkedit tjoaggulvisáv aktan lávllot. Dat gájbbet tjoaggulvisá lávllomvuohke le orgelmusihkkaj hiebaduvvam. Sáme sálmmalávllom ij la læhkám vuojga orgelmusihkkaj hiebaduvvam ja navti le orgelmusihkka árbbedábálasj lávllomvuogev hebadam. Juojgan le sierra sadje sáme musihkan. Moaddása sihti ieredit girkkolasj ja iehpe-girkkolasj musihka gaskan. Juojggam le gássjel dåhkkidit muhtem birrasijn. Danen ij la juojgga luondulasj jubmeldievnastusán. Sij gudi li guhkemusát juojggam jubmeldievnastusáj aktijvuodan, li oarjjelsáme.</p>
+<p>Oarjjelsáme guovlojn le læhkám ulmme sáme musihkkaárbbedábijt oassáj oadtjot liturgijas ja jubmeldievnastusás. Juojggam le moaddásijda sáme identitehtta, ja moaddásij mielas sáme musihkkaárbbedábij adno jubmeldievnastusán tjadná kulturmoalgedimev ja jáhkov navti váj ulmutja dåbddi ienebut girkkuj gulluji. Oarjjelsámegiella sjattaj almulasj tjállemgiellan jagen 1978. Dan åvddåla lij oarjjelsámegiella dåssju njálmálasj giella. Gávnnuji sálma ma li oarjjelsámegiellaj tjáleduvvam, melodija sámegielajn tåvnnågiellan ja gávnnuji sálma ma li jårggåluvvam ja udnásj melodijada hiebaduvvam.</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

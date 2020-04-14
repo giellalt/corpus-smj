@@ -1,46 +1,7 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>97</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=192&amp;art_id=249</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=192_art_id=249.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=192_art_id=249.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=192_art_id=249.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åhpav: Dållå</p>
-    <p type="title">3.	Galga vuojŋastimbiejvev ájllisin adnet.</p>
-    <p>
-      <em type="italic">Galggap jubmelbalulattjan suv iehttset, vaj sárnev ja Jubmela bágov ep álbeda, ájnat dav ájllisin adnep, miellusit gulldalip ja oahppap. </em>
-    </p>
-    <p>Jubmel almev ja ednamav gudán biejven sjivnnjedij ja giehttjit biejve vuojŋadaláj. Jubmel vuojnij ulmutja vuojŋadimbiejvev dárbahin váj árggabiejve stressas ja sjuttes bessi vuojŋadit. Vuojŋastimbiejvev ájllisin adnet mierkki dav biejvev galggap Jubmelij vaddet. Máhtá jubmeldievnastussaj vuolgget. Jali råhkådallat æjgádij, oarbbenij jali iehtjádij siegen, jali Rámádin låhkåt jali ságastallat muhtem ássje birra Rámádis. Jubmelij råhkådallap ja Suv guddnedip duola dagu gå jubmeldievnastussaj mannap, Rámádav låhkåp ja råhkådallap.</p>
-    <p>Gåktu dij sådnåbiejvev ávvudallabihtit?</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>97</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=192&amp;art_id=249</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=192_art_id=249.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=192_art_id=249.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=192_art_id=249.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åhpav: Dållå</p>
+<p type="title">3.	Galga vuojŋastimbiejvev ájllisin adnet.</p>
+<p><em type="italic">Galggap jubmelbalulattjan suv iehttset, vaj sárnev ja Jubmela bágov ep álbeda, ájnat dav ájllisin adnep, miellusit gulldalip ja oahppap. </em></p>
+<p>Jubmel almev ja ednamav gudán biejven sjivnnjedij ja giehttjit biejve vuojŋadaláj. Jubmel vuojnij ulmutja vuojŋadimbiejvev dárbahin váj árggabiejve stressas ja sjuttes bessi vuojŋadit. Vuojŋastimbiejvev ájllisin adnet mierkki dav biejvev galggap Jubmelij vaddet. Máhtá jubmeldievnastussaj vuolgget. Jali råhkådallat æjgádij, oarbbenij jali iehtjádij siegen, jali Rámádin låhkåt jali ságastallat muhtem ássje birra Rámádis. Jubmelij råhkådallap ja Suv guddnedip duola dagu gå jubmeldievnastussaj mannap, Rámádav låhkåp ja råhkådallap.</p>
+<p>Gåktu dij sådnåbiejvev ávvudallabihtit?</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

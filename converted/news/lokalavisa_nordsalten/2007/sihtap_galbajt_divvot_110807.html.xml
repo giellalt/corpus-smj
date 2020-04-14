@@ -1,43 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Sihtap galbajt divvot</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>174</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/sihtap-galbajt-divvot.4037</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Sihtap galbajt divvot</p>
-    <p>Julevsáme guovdásj Árran la vehik tjiegán ja nágin kilomehtara ierit E6as. Jus lidjin galba rahtebællán divodum, de lidjin ienep turista Árranav guossidit, jáhkká dávvervuorka jådediddje.</p>
-    <p>Dán rádjáj dá giese li 300 ulmutja guossidam Árranav. Guovdátjin li læhkám niellja oahpestiddje ma li juohkám bargov gaskasa. Guokta mańemus vahko Kristin Lindbach guossijt vuosstáj válddá, vuosádallá dávvervuorkán ja ietján Árranin jus sihti. Gå Bájkáĺasj ávijssa guossidij Árranav mańemus mánnodagá, båhtin soames guosse, ienemus oasse ålggorijkaga.</p>
-    <p>-Jáhkáv moattes vuodji vásuk gå e majdik diede mijá birra. Gávnnu galla galbba Árrana birra rahtebællán E6an, valla dat turistajda binnáv subtsas jus e majdik diede mijá birra, javllá dávvervuorká jådediddje Lars Børge Myklevold. Valla sån jáhkká buorep sjaddá jus gávnnap vuogijt gåktu máhttep diedojt juogadit. Ja sávav buorep dilev gå Hamsun guovdásj tsieggiduvvá. –Jáhkáv dá gålmmå guovdátja - KUN, Hámsunguovdásj ja Árran máhtti aktan barggat, ja aj mij gullu guossimi, javllá Myklevold.</p>
-    <p xml:lang="nob">Galbba = skilt</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Sihtap galbajt divvot"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Sihtap galbajt divvot</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>174</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/sihtap-galbajt-divvot.4037</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Sihtap galbajt divvot</p>
+<p>Julevsáme guovdásj Árran la vehik tjiegán ja nágin kilomehtara ierit E6as. Jus lidjin galba rahtebællán divodum, de lidjin ienep turista Árranav guossidit, jáhkká dávvervuorka jådediddje.</p>
+<p>Dán rádjáj dá giese li 300 ulmutja guossidam Árranav. Guovdátjin li læhkám niellja oahpestiddje ma li juohkám bargov gaskasa. Guokta mańemus vahko Kristin Lindbach guossijt vuosstáj válddá, vuosádallá dávvervuorkán ja ietján Árranin jus sihti. Gå Bájkáĺasj ávijssa guossidij Árranav mańemus mánnodagá, båhtin soames guosse, ienemus oasse ålggorijkaga.</p>
+<p>-Jáhkáv moattes vuodji vásuk gå e majdik diede mijá birra. Gávnnu galla galbba Árrana birra rahtebællán E6an, valla dat turistajda binnáv subtsas jus e majdik diede mijá birra, javllá dávvervuorká jådediddje Lars Børge Myklevold. Valla sån jáhkká buorep sjaddá jus gávnnap vuogijt gåktu máhttep diedojt juogadit. Ja sávav buorep dilev gå Hamsun guovdásj tsieggiduvvá. –Jáhkáv dá gålmmå guovdátja - KUN, Hámsunguovdásj ja Árran máhtti aktan barggat, ja aj mij gullu guossimi, javllá Myklevold.</p>
+<p xml:lang="nob">Galbba = skilt</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Sihtap galbajt divvot"</span> på Facebook</p>
+</body></document>

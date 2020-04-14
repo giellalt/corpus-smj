@@ -1,44 +1,16 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>76</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/index.php?id=5416153&amp;showtipform=1&amp;cat=99245&amp;gb=</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Tysfjord kommune : Diedo - Tips en venn</p>
-    <p type="title">Diedo</p>
-    <p xml:lang="nob">11.02.2014</p>
-    <p xml:lang="nob">
-      <em type="bold">13.02.2014 </em>
-    </p>
-    <p xml:lang="nob">Kl. 08:30 - 10:00</p>
-    <p>Tjåhkanibme Divtasvuona suohkanijn</p>
-    <p>aktisasjbarggosjiehtadusá gáktuj</p>
-    <p xml:lang="nob">Kl. 10:00 - 11:00</p>
-    <p>Tjåhkanibme suohkanstivra ájrrarij. Sámedikkepresidænnta</p>
-    <p>buktá dánna sárnunusav</p>
-    <p xml:lang="nob">Kl. 11:00 - 12:00</p>
-    <p>Guossidibme Báhpaviesosaljo skihppijvieson ja huoksoviesojn</p>
-    <p xml:lang="nob">Kl. 12:00</p>
-    <p>Bårådibme rádegoaden</p>
-    <p>Divtasvuona demænssasiebrre bivddi rabás tjåhkanibmáj sámedikkepresindentajn Aili Keskitalojn, gasskavahko guovvamáno 12.b kl. 19:00 Árrana auditåvrån, Ájluovtan. Tebmá: Sáme varresvuodadievnastusá julevsáme bájken. Guládallamulmusj, Sámedikken: Marja Kristiina Partapuoli, tlf. 78 48 42 36, Marja.Kristiina.Partapuoli@samediggi.no</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>76</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/index.php?id=5416153&amp;showtipform=1&amp;cat=99245&amp;gb=</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Tysfjord kommune : Diedo - Tips en venn</p>
+<p type="title">Diedo</p>
+<p xml:lang="nob">11.02.2014</p>
+<p xml:lang="nob"><em type="bold">13.02.2014 </em></p>
+<p xml:lang="nob">Kl. 08:30 - 10:00</p>
+<p>Tjåhkanibme Divtasvuona suohkanijn</p>
+<p>aktisasjbarggosjiehtadusá gáktuj</p>
+<p xml:lang="nob">Kl. 10:00 - 11:00</p>
+<p>Tjåhkanibme suohkanstivra ájrrarij. Sámedikkepresidænnta</p>
+<p>buktá dánna sárnunusav</p>
+<p xml:lang="nob">Kl. 11:00 - 12:00</p>
+<p>Guossidibme Báhpaviesosaljo skihppijvieson ja huoksoviesojn</p>
+<p xml:lang="nob">Kl. 12:00</p>
+<p>Bårådibme rádegoaden</p>
+<p>Divtasvuona demænssasiebrre bivddi rabás tjåhkanibmáj sámedikkepresindentajn Aili Keskitalojn, gasskavahko guovvamáno 12.b kl. 19:00 Árrana auditåvrån, Ájluovtan. Tebmá: Sáme varresvuodadievnastusá julevsáme bájken. Guládallamulmusj, Sámedikken: Marja Kristiina Partapuoli, tlf. 78 48 42 36, Marja.Kristiina.Partapuoli@samediggi.no</p>
+</body></document>

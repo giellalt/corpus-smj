@@ -1,60 +1,20 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Allamáhtudahka Árranij</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Gunnar" lastname="Grytøyr" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>333</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/allam-htudahka-rranij.4051</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Allamáhtudahka Árranij</p>
-    <p>Árran le aktisattjat barggagoahtám allaskåvlåjn Bådåddjon ja Scott Polar Research Institutajn Cambridgan Englandan. Boados dássta sjaddá guoradallaminstituhtta nuorttaguovloåhpadussaj mij ásaduvvá Árranij Ájluoktaj. Navti ienep barggosaje ja duodde dåjma julevsáme guovdátjij båhti. Boahtteájggáj galggá Árran guoradallamdahkamusájt válldet almulasjvuoda åvdås ja ájnas dahkamusguoradallamijt æládusiellemij.</p>
-    <p>Sjiehtadus allaskåvlåjn Bådådjon vuollájtjáleduváj vásse bierjjedagá, aktisasjbarggo ieññilsk instituhtajn bæssátjij åvddåla.</p>
-    <p>- Dát le ájnas midjij. Dálla máhttep máhtudagáv ja máhtukvuodav buoredit, ja guoradallaminstituhttan nuorttaguov-loåhpadussaj sjaddat. Navti Árran sjaddá sierralágásj máhtudagáv åvddånahttet gå álggoálmmuga birra le sáhka, subtsas Árrana direktørra, Filip Mikkelsen.</p>
-    <p>
-      <em type="italic">Háldadimvásstádus </em>
-    </p>
-    <p>Árran-direktørra subtsas li moadda jage juo gæhttjalam guoradallamav julevsáme guovdátjij ásadit.</p>
-    <p>- Åvdedibme nuorttaguovlojs le dav máhttelisvuodav vaddám majt lip vuorddám. Árran le juo koordinator sáme institusjåvnåjda nuorttaguovllo-bargon. Sihtap ietja háldadimvásstádusáv guoradallaminstituhtas, valla hæhttup ietjama tjadnat ásadum guoradallaminstitusjåvnnåj mij fágalasj åvdåsvásstádusáv válldá. Dav dåssju allaskåvlå ja universitehta máhtti dahkat, dættot Mikkelsen.</p>
-    <p>- Sjiehtadus allaskåvlåjn Bådådjon merkaj mij dal formálalattjat máhttep guoradallambargoj álgget ja máhttep Vuona guoradallamrádes rudájt åhtsåt.</p>
-    <p>
-      <em type="italic">Máhtudagáv nannit </em>
-    </p>
-    <p>Bæssátjij åvddåla lidjin åvdåstiddje Árranis Cambridgan Englandan gånnå Scott Polar Research Instituhtajn aktisasjbarggosjiehtadusáv dahkin. Instituhtta le dajs åvdemusájs væráldin mij guosská nuorttaguovllo-gatjálvisájda. Aktisasjbarggo Árrana ja duon máhtulasj Ieññilsk institusjåvnå gaskan sjaddá dáhpáduvvat guovte suorgen.</p>
-    <p>- Studænntalånudibme sjaddá guovdálasj aktisasjbargon. Studenta Ieññils instituhtas máhtti Divtasvuonan barggat ja studenta Vuonas sæmmi láhkáj Englandan, gå barggi Master- ja doktorgrádaåhpadusáj. Duodden Scott Polar Research Institut sjaddá ájnas leverandørra ja bagádalle mij nanni máhtudagáv mijá lunna, javllá Árran-direktørra – guhti jáhkká aktisasjbarggoprosjækta sjaddá ájnas Árranij ja dájda guovlojda boahtteájggáj, ja mañenagi sjaddi aj moadda allamáhtudak-barggosaje dajda guovlojda.</p>
-    <p>
-      <em type="italic">Rávkká ressursajt </em>
-    </p>
-    <p>- Hásstalussan sjaddá birrásav nannit. Dat le åvddånahttembarggo mij rávkká sihke almasjlasj ja ekonomalasj ressursajt, ja barggo sjaddá ádjánit. Mikkelsen fylkadikkev Nordlándan diededij aktisasjprosjevta birra åvdep mánnodagá. - Dárbahip vuodoruhtadimev jådedittjat dáv, ja sávav fylkadiggepolitihkkára máhtti mijáv viehkedit bargujn guovdálasj oajvválattjaj gáktuj váj dajt rudájt oadtjop majt dárbahip, hæjttá Filip Mikkelsen.</p>
-    <p xml:lang="nob">Tæksta: Børge Strandskog</p>
-    <p>Jårggålibme: Idar Kintel</p>
-    <p>Vuorkágávvá: Sander Andersen</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Allamáhtudahka Árranij"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Allamáhtudahka Árranij</title><genre code="news"/><author><person firstname="Gunnar" lastname="Grytøyr" sex="m" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>333</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/allam-htudahka-rranij.4051</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Allamáhtudahka Árranij</p>
+<p>Árran le aktisattjat barggagoahtám allaskåvlåjn Bådåddjon ja Scott Polar Research Institutajn Cambridgan Englandan. Boados dássta sjaddá guoradallaminstituhtta nuorttaguovloåhpadussaj mij ásaduvvá Árranij Ájluoktaj. Navti ienep barggosaje ja duodde dåjma julevsáme guovdátjij båhti. Boahtteájggáj galggá Árran guoradallamdahkamusájt válldet almulasjvuoda åvdås ja ájnas dahkamusguoradallamijt æládusiellemij.</p>
+<p>Sjiehtadus allaskåvlåjn Bådådjon vuollájtjáleduváj vásse bierjjedagá, aktisasjbarggo ieññilsk instituhtajn bæssátjij åvddåla.</p>
+<p>- Dát le ájnas midjij. Dálla máhttep máhtudagáv ja máhtukvuodav buoredit, ja guoradallaminstituhttan nuorttaguov-loåhpadussaj sjaddat. Navti Árran sjaddá sierralágásj máhtudagáv åvddånahttet gå álggoálmmuga birra le sáhka, subtsas Árrana direktørra, Filip Mikkelsen.</p>
+<p><em type="italic">Háldadimvásstádus </em></p>
+<p>Árran-direktørra subtsas li moadda jage juo gæhttjalam guoradallamav julevsáme guovdátjij ásadit.</p>
+<p>- Åvdedibme nuorttaguovlojs le dav máhttelisvuodav vaddám majt lip vuorddám. Árran le juo koordinator sáme institusjåvnåjda nuorttaguovllo-bargon. Sihtap ietja háldadimvásstádusáv guoradallaminstituhtas, valla hæhttup ietjama tjadnat ásadum guoradallaminstitusjåvnnåj mij fágalasj åvdåsvásstádusáv válldá. Dav dåssju allaskåvlå ja universitehta máhtti dahkat, dættot Mikkelsen.</p>
+<p>- Sjiehtadus allaskåvlåjn Bådådjon merkaj mij dal formálalattjat máhttep guoradallambargoj álgget ja máhttep Vuona guoradallamrádes rudájt åhtsåt.</p>
+<p><em type="italic">Máhtudagáv nannit </em></p>
+<p>Bæssátjij åvddåla lidjin åvdåstiddje Árranis Cambridgan Englandan gånnå Scott Polar Research Instituhtajn aktisasjbarggosjiehtadusáv dahkin. Instituhtta le dajs åvdemusájs væráldin mij guosská nuorttaguovllo-gatjálvisájda. Aktisasjbarggo Árrana ja duon máhtulasj Ieññilsk institusjåvnå gaskan sjaddá dáhpáduvvat guovte suorgen.</p>
+<p>- Studænntalånudibme sjaddá guovdálasj aktisasjbargon. Studenta Ieññils instituhtas máhtti Divtasvuonan barggat ja studenta Vuonas sæmmi láhkáj Englandan, gå barggi Master- ja doktorgrádaåhpadusáj. Duodden Scott Polar Research Institut sjaddá ájnas leverandørra ja bagádalle mij nanni máhtudagáv mijá lunna, javllá Árran-direktørra – guhti jáhkká aktisasjbarggoprosjækta sjaddá ájnas Árranij ja dájda guovlojda boahtteájggáj, ja mañenagi sjaddi aj moadda allamáhtudak-barggosaje dajda guovlojda.</p>
+<p><em type="italic">Rávkká ressursajt </em></p>
+<p>- Hásstalussan sjaddá birrásav nannit. Dat le åvddånahttembarggo mij rávkká sihke almasjlasj ja ekonomalasj ressursajt, ja barggo sjaddá ádjánit. Mikkelsen fylkadikkev Nordlándan diededij aktisasjprosjevta birra åvdep mánnodagá. - Dárbahip vuodoruhtadimev jådedittjat dáv, ja sávav fylkadiggepolitihkkára máhtti mijáv viehkedit bargujn guovdálasj oajvválattjaj gáktuj váj dajt rudájt oadtjop majt dárbahip, hæjttá Filip Mikkelsen.</p>
+<p xml:lang="nob">Tæksta: Børge Strandskog</p>
+<p>Jårggålibme: Idar Kintel</p>
+<p>Vuorkágávvá: Sander Andersen</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Allamáhtudahka Árranij"</span> på Facebook</p>
+</body></document>

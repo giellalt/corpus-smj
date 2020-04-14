@@ -1,41 +1,11 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>53</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/Hoyremeny/Artiklerressurser/Tjoahkkaj/index.html</origFileName>
-    <parallel_text xml:lang="nob" location="sfs_veiledning_38_a-skrive-.html"/>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_38_a-skrive-s.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_38_huskeliste-for-skrif.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Tjoahkkájgessusav tjállet</p>
-    <p type="title">Tjoahkkájgessusav tjállet</p>
-    <p xml:lang="nob">Hovedinnhold</p>
-    <list>
-      <p type="listitem">Lågå tevstav moaddi.</p>
-      <p type="listitem">Mierkki guovdásj bágojt ja gárgadisájt</p>
-      <p type="listitem">Tjále tjåvdabágojt</p>
-      <p type="listitem">Tjále gatjálvisájt tækstaj.</p>
-      <p type="listitem">Tjále tjoahkkájgessusav ietjat bágoj.</p>
-      <p type="listitem">Gå tjálá, máhtá gæhttjat tjåvdabágojda jali gatjálvisájda.Vuoseda tjoahkkájgessusav åhpadiddjáj jali iehtjádijda nav vaj máhtá bagádallamijt oadtjot gåktu máhtá buoredit tjoahkkájgessusav.</p>
-      <p type="listitem">Ane bagádallamijt majt le oadtjum, ja tjále buoredum tjoahkkájgessusav.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>53</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/Hoyremeny/Artiklerressurser/Tjoahkkaj/index.html</origFileName><parallel_text xml:lang="nob" location="sfs_veiledning_38_a-skrive-.html"/><parallel_text xml:lang="sma" location="sfs_veiledning_38_a-skrive-s.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_38_huskeliste-for-skrif.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Tjoahkkájgessusav tjállet</p>
+<p type="title">Tjoahkkájgessusav tjállet</p>
+<p xml:lang="nob">Hovedinnhold</p>
+<list><p type="listitem">Lågå tevstav moaddi.</p>
+<p type="listitem">Mierkki guovdásj bágojt ja gárgadisájt</p>
+<p type="listitem">Tjále tjåvdabágojt</p>
+<p type="listitem">Tjále gatjálvisájt tækstaj.</p>
+<p type="listitem">Tjále tjoahkkájgessusav ietjat bágoj.</p>
+<p type="listitem">Gå tjálá, máhtá gæhttjat tjåvdabágojda jali gatjálvisájda.Vuoseda tjoahkkájgessusav åhpadiddjáj jali iehtjádijda nav vaj máhtá bagádallamijt oadtjot gåktu máhtá buoredit tjoahkkájgessusav.</p>
+<p type="listitem">Ane bagádallamijt majt le oadtjum, ja tjále buoredum tjoahkkájgessusav.</p>
+</list></body></document>

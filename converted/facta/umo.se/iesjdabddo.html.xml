@@ -1,107 +1,59 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>785</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Iesjdabddo</origFileName>
-    <parallel_text xml:lang="eng" location="self-esteem.html"/>
-    <parallel_text xml:lang="fin" location="itsetunto.html"/>
-    <parallel_text xml:lang="fit" location="ittentunto.html"/>
-    <parallel_text xml:lang="sma" location="jijtjedomtese.html"/>
-    <parallel_text xml:lang="sme" location="iedovdu.html"/>
-    <parallel_text xml:lang="swe" location="sjalvkansla.html"/>
-    <parallel_text location="korkorioset.html" xml:lang="rmn"/>
-    <parallel_text location="soluskansla.html" xml:lang="rmu"/>
-    <parallel_text location="iri-zor.html" xml:lang="rmy-rka"/>
-    <parallel_text location="alejn-opshats.html" xml:lang="yid"/>
-    <parallel_text location="manuesko-aaripe-sjalvkansla.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="iegohoiba.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Iesjdåbddo</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title">Iesjdåbddo</p>
-    <p>Iesjdåbddo l ájádusá ietjas birra. Ij la dan birra jus la tjiehppe vaj tjuorbbe juojddá dagátjit, ájnat dåbddåt árvulattjat val gávnnut. Dåbddåt ulmusj dåhkki dav máhttá hárjjidallat.</p>
-    <p>Dan mieren iesjdåbddo l bájnasj ednagit gåktu viessu ja vädjá. Buorre iesjdåbddo dahká dakkirijt ma li allasis buore, vaj duosstá dagojt majt sihtá dahkat, duosstá ådå aktavuodajt válldet ja máhttá javllat goappátjagá sidáv ja iv sidá.</p>
-    <p>Jus la gássjelisvuohta ietjas iesjdåbdujn máhttá ienni sjaddat vaj ij dagá dakkirijt majt luluj sihtat. Márjju ienni dahká dagojt majt ajtu ij sidá jali dagojt dahká iehtjádij diehti gå ietjas diehti.</p>
-    <p type="title">Iesjdåbddo ja iesjåssko ij la sämmilágásj.</p>
-    <p>Iesjdåbddo ja iesjåssko muhttijn segaduvvi, vájku älla ållu sämmi dåbdo.</p>
-    <p>Iesjåssko l dagojda tjanádum, de man ednagav jáhkká ájmmut.</p>
-    <p>Iesjdåbddo l gåktu ietjas sisbielev gähttjá goappátjagá ietjas fábmogis ja fámodis bielij.</p>
-    <p>Jus la buorre iesjdåbddo de ij bájneduvá nåv ednagit massta iehtjáda adni ja ájádalli ietjas birra. Duosstá ietjaslágásj årrot. Ij berusta jus gájka e ane duv buoremussan dagojt dahkat.</p>
-    <p>Jus ulmutjin la vuollegis iesjdåbddo de máhttá ienni sieldes vájvven dåbddut ájnegasj javllamusáj buojkulvissan ietjas nägo birra.</p>
-    <p type="title">Aktavuohta fámo ja iesjdåbdo gaskan</p>
-    <p>Gávnnu aktavuohta iesjdåbdo ja fámo gaskan manna l ietjas viessoma badjel. Gå dåbddå iesj máhttá mierredit ja bájnatjit ietjas viessomav de l giehpep buorre iesjdåbdov adnet.</p>
-    <p>Ienni iesjdåbddo máhttá vuollánit jus ietjas dåbddu fámodibmen. Máhttá buojkulvissan gássjel dåbddut ietjas vidjurav bájnatjit gå guhka ájgev la bargov åhtsåm ja ij la avtak oadtjum, jali gej aktan årru ilá ednagav mierredi ietjas viessoma badjel.</p>
-    <p type="title">Gåktu la buorre iesjdåbddo?</p>
-    <p>Ietjas iesjdåbddo máhttá viessomgávdan buorep ja nievrep ja máhttá aj umasslágásj nanos umasslágásj vidjurijn årrot. Gå ulmutjin la buorre iesjdåbddo de máhttá ulmusj:</p>
-    <list>
-      <p type="listitem">dåbddåt sån dåhkki, vájku ij la tjiehppe gájkka dagojda</p>
-      <p type="listitem">dåbddåt ietjanis la riektá sajev valldet, vuojnnut ja gullut ja dåbddåt ietjas guddnedum</p>
-      <p type="listitem">duosstat giehttot gåktu vädjá ja ietjas vuojnojt</p>
-      <p type="listitem">Guorrasit, e vuojn gájka sunji lijkku</p>
-      <p type="listitem">dåbddåt ietjanis la riektá javllat sidáv ja iv sidá</p>
-      <p type="listitem">viehkev ádnot gå dárbaj</p>
-      <p type="listitem">dåbddåt sujna l loahpe buoragit viedjet, ja ietjas gáhttit ja dagojt dahkat majs buoragit vädjá</p>
-      <p type="listitem">duosstat gähttjalit ådå dagojt ja ådå vidjurijt</p>
-      <p type="listitem">duosstat dáhppudallat</p>
-      <p type="listitem">duosstat ulmutjij aktavuodav válldet</p>
-      <p type="listitem">goappátjagá buorre ja nievres lájtov iehtjádijda javllat</p>
-      <p type="listitem">duosstat ietjas årrot ja gåk sivddi</p>
-      <p type="listitem">dåbddåt ietjas buorren vájku gájkka ij la ållesláhkáj</p>
-      <p type="listitem">duosstát ietjas dagojt dåbdåstit ja mav la dahkam</p>
-      <p type="listitem">dåbdåstit mieddemijt ja ándagisav ádnot jus la soabmásav báktijim</p>
-      <p type="listitem">máhttá ietjas guddnedit vaddet ja rámmpot</p>
-    </list>
-    <p type="title">Gåktu l vuollegis iesjdåbddo?</p>
-    <p>Gå iesjdåbddo la rassje de máhttá ulmusj:</p>
-    <list>
-      <p type="listitem">ietjas nievrren dåbddåt, ja adnet ij la aktak árvvo</p>
-      <p type="listitem">dahkat dagojt ma älla buoraga allasis</p>
-      <p type="listitem">ij sihtat iehtjádij säbrástallat</p>
-      <p type="listitem">ij sihtat ådå dagojt gähttjalit</p>
-      <p type="listitem">gähttjalit ietjas iehtjádijda hiebadit venagisvuohta- ja gieresvuohtaaktavuodajn</p>
-      <p type="listitem">ij viessomsajev válldet ja ij ga vuojnnut umasse vidjurijn</p>
-      <p type="listitem">iehtjádijt lållåt ja udnodimen årrot</p>
-      <p type="listitem">Sieldes håjeduvvá jus dáhppudallá juojnak</p>
-    </list>
-    <p>Nievres iesjdåbddo máhttá aj vuojnnut gå ulmusj dårru, nuppástallá jali l bahá iehtjádijda. Máhttá aj gähttjalit tjiehkat nievres iesjdåbdov gå gähttjal årrot sieldes tjiehppe ja buoremus gájkkaj jali ietjas birra goarssu.</p>
-    <p type="title">Manen oadtju vuollegis iesjdåbdov?</p>
-    <p>Gávnnuji moattelágásj oare dasi gå l vuollegis iesjdåbddo. Gájka dárbahi árvvon aneduvvat, vuojneduvvat ja guddneduvvat ietjas diehti. Iesjdåbddo vuollán jus la bajássjaddamin álu gullam sån ij la nuoges buorre, ij dåhkki masik jali l vájvve.</p>
-    <p>Sämmibále máhttá ulmusj gut la árvvon aneduvvam val gå sån la buoragit dåjmadam, buojkulvissan idråhttågilbbusin jali gähttjalimen skåvlån, jáhkket sån val dåhkki gå la juoga buoragit dahkam. Ij dåhkki val gå gávnnu.</p>
-    <p>Iesjdåbddo bájneduvvá aj negatijvalattjat jus ij åbbå vuojneduvá bajássjaddamin, buojkulvissan jus äjgáda jali gej bajássjaddá älla hejman nåv ednagit, jus li skihpasa, boastoaddne jali ilá enas la ietjasa viessomin vaj e asta ja e nagá ietjasa mánájt vuojnnet.</p>
-    <p>Dåbddo ij dåhkkit máhttá vuododuvvat gå ulmutja li umassláhkáj njuorrasa. Jus la njuoras de máhttá vuollegis iesjdåbddo, juska vil la buoragit bajássjaddam.</p>
-    <p>Ihka masi vuododuvvá l vuollegis iesjdåbddo, de máhttá buoreduvvat.</p>
-    <p type="title">Ietjas dåbddåt sierralágátjin, siebrrevuodadagi ja ietjas buohtastahttet iehtjádij</p>
-    <p>Máhttá aj ájnas ietjas iesjdåbdduj man sjimuk la fuolkijn jali ulmutjij gej aktavuodav adná bajássjaddamájgen. Jus gájkka iehtjáda lijkkuji spårttåj ja iesj ij la åbbå miellogis, de máhttá dåbddåt boasstot la dádjadum ja dármeduvvat. Ietjá vidjura ma máhtti iesjdåbdov vuoledit márjju li:</p>
-    <list>
-      <p type="listitem">ietjas dåbddåt siebrrevuodadagi jali l nuppástuvvam</p>
-      <p type="listitem">bargodibme</p>
-      <p type="listitem">vájvve l mierredit majt galggá ietjas viessomijn dahkat, ja makkir åhpadusáv válljit jali makkir virgev galggá</p>
-      <p type="listitem">psykalattjat nievret vädjá ja buojkulvissan la sieldes goavgen jali garra håjen.</p>
-    </list>
-    <p>Moattes ietjasa buohtastahtti gej dåbddi jali ulmutjij rekláman ja median. Dadi alep rávkalvisá li ietjanis –galggá buorre gájkka dagojda – dadi gássjelap la dåbddut ietjajnis dudálasj.</p>
-    <p type="title">Iesjdåbddo ij agev vuojnnu ålgolt</p>
-    <p>Gássjel la ålgoldis vuojnnet gåktu ulmusj ietjas iesjdåbdov dåbddå. Muhtem gut ålgolt vuojnnet la vuorbálasj, mij la fávrro, tjiehppe l skåvlån jali bargon ja sujna li edna rádna, sujna máhttá ajtu vuollegis iesjdåbddo ja dåbddåt sån ij dåhkki ja rähkku.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>780</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Iesjdabddo</origFileName><parallel_text xml:lang="eng" location="self-esteem.html"/><parallel_text xml:lang="fin" location="itsetunto.html"/><parallel_text xml:lang="fit" location="ittentunto.html"/><parallel_text xml:lang="sma" location="jijtjedomtese.html"/><parallel_text xml:lang="sme" location="iedovdu.html"/><parallel_text xml:lang="swe" location="sjalvkansla.html"/><parallel_text location="korkorioset.html" xml:lang="rmn"/><parallel_text location="soluskansla.html" xml:lang="rmu"/><parallel_text location="iri-zor.html" xml:lang="rmy-rka"/><parallel_text location="alejn-opshats.html" xml:lang="yid"/><parallel_text location="manuesko-aaripe-sjalvkansla.html" xml:lang="rmy-rlo"/><parallel_text location="iegohoiba.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Iesjdåbddo</p>
+<p type="title">Iesjdåbddo</p>
+<p>Iesjdåbddo l ájádusá ietjas birra. Ij la dan birra jus la tjiehppe vaj tjuorbbe juojddá dagátjit, ájnat dåbddåt árvulattjat val gávnnut. Dåbddåt ulmusj dåhkki dav máhttá hárjjidallat.</p>
+<p>Dan mieren iesjdåbddo l bájnasj ednagit gåktu viessu ja vädjá. Buorre iesjdåbddo dahká dakkirijt ma li allasis buore, vaj duosstá dagojt majt sihtá dahkat, duosstá ådå aktavuodajt válldet ja máhttá javllat goappátjagá sidáv ja iv sidá.</p>
+<p>Jus la gássjelisvuohta ietjas iesjdåbdujn máhttá ienni sjaddat vaj ij dagá dakkirijt majt luluj sihtat. Márjju ienni dahká dagojt majt ajtu ij sidá jali dagojt dahká iehtjádij diehti gå ietjas diehti.</p>
+<p type="title">Iesjdåbddo ja iesjåssko ij la sämmilágásj.</p>
+<p>Iesjdåbddo ja iesjåssko muhttijn segaduvvi, vájku älla ållu sämmi dåbdo.</p>
+<p>Iesjåssko l dagojda tjanádum, de man ednagav jáhkká ájmmut.</p>
+<p>Iesjdåbddo l gåktu ietjas sisbielev gähttjá goappátjagá ietjas fábmogis ja fámodis bielij.</p>
+<p>Jus la buorre iesjdåbddo de ij bájneduvá nåv ednagit massta iehtjáda adni ja ájádalli ietjas birra. Duosstá ietjaslágásj årrot. Ij berusta jus gájka e ane duv buoremussan dagojt dahkat.</p>
+<p>Jus ulmutjin la vuollegis iesjdåbddo de máhttá ienni sieldes vájvven dåbddut ájnegasj javllamusáj buojkulvissan ietjas nägo birra.</p>
+<p type="title">Aktavuohta fámo ja iesjdåbdo gaskan</p>
+<p>Gávnnu aktavuohta iesjdåbdo ja fámo gaskan manna l ietjas viessoma badjel. Gå dåbddå iesj máhttá mierredit ja bájnatjit ietjas viessomav de l giehpep buorre iesjdåbdov adnet.</p>
+<p>Ienni iesjdåbddo máhttá vuollánit jus ietjas dåbddu fámodibmen. Máhttá buojkulvissan gássjel dåbddut ietjas vidjurav bájnatjit gå guhka ájgev la bargov åhtsåm ja ij la avtak oadtjum, jali gej aktan årru ilá ednagav mierredi ietjas viessoma badjel.</p>
+<p type="title">Gåktu la buorre iesjdåbddo?</p>
+<p>Ietjas iesjdåbddo máhttá viessomgávdan buorep ja nievrep ja máhttá aj umasslágásj nanos umasslágásj vidjurijn årrot. Gå ulmutjin la buorre iesjdåbddo de máhttá ulmusj:</p>
+<list><p type="listitem">dåbddåt sån dåhkki, vájku ij la tjiehppe gájkka dagojda</p>
+<p type="listitem">dåbddåt ietjanis la riektá sajev valldet, vuojnnut ja gullut ja dåbddåt ietjas guddnedum</p>
+<p type="listitem">duosstat giehttot gåktu vädjá ja ietjas vuojnojt</p>
+<p type="listitem">Guorrasit, e vuojn gájka sunji lijkku</p>
+<p type="listitem">dåbddåt ietjanis la riektá javllat sidáv ja iv sidá</p>
+<p type="listitem">viehkev ádnot gå dárbaj</p>
+<p type="listitem">dåbddåt sujna l loahpe buoragit viedjet, ja ietjas gáhttit ja dagojt dahkat majs buoragit vädjá</p>
+<p type="listitem">duosstat gähttjalit ådå dagojt ja ådå vidjurijt</p>
+<p type="listitem">duosstat dáhppudallat</p>
+<p type="listitem">duosstat ulmutjij aktavuodav válldet</p>
+<p type="listitem">goappátjagá buorre ja nievres lájtov iehtjádijda javllat</p>
+<p type="listitem">duosstat ietjas årrot ja gåk sivddi</p>
+<p type="listitem">dåbddåt ietjas buorren vájku gájkka ij la ållesláhkáj</p>
+<p type="listitem">duosstát ietjas dagojt dåbdåstit ja mav la dahkam</p>
+<p type="listitem">dåbdåstit mieddemijt ja ándagisav ádnot jus la soabmásav báktijim</p>
+<p type="listitem">máhttá ietjas guddnedit vaddet ja rámmpot</p>
+</list><p type="title">Gåktu l vuollegis iesjdåbddo?</p>
+<p>Gå iesjdåbddo la rassje de máhttá ulmusj:</p>
+<list><p type="listitem">ietjas nievrren dåbddåt, ja adnet ij la aktak árvvo</p>
+<p type="listitem">dahkat dagojt ma älla buoraga allasis</p>
+<p type="listitem">ij sihtat iehtjádij säbrástallat</p>
+<p type="listitem">ij sihtat ådå dagojt gähttjalit</p>
+<p type="listitem">gähttjalit ietjas iehtjádijda hiebadit venagisvuohta- ja gieresvuohtaaktavuodajn</p>
+<p type="listitem">ij viessomsajev válldet ja ij ga vuojnnut umasse vidjurijn</p>
+<p type="listitem">iehtjádijt lållåt ja udnodimen årrot</p>
+<p type="listitem">Sieldes håjeduvvá jus dáhppudallá juojnak</p>
+</list><p>Nievres iesjdåbddo máhttá aj vuojnnut gå ulmusj dårru, nuppástallá jali l bahá iehtjádijda. Máhttá aj gähttjalit tjiehkat nievres iesjdåbdov gå gähttjal årrot sieldes tjiehppe ja buoremus gájkkaj jali ietjas birra goarssu.</p>
+<p type="title">Manen oadtju vuollegis iesjdåbdov?</p>
+<p>Gávnnuji moattelágásj oare dasi gå l vuollegis iesjdåbddo. Gájka dárbahi árvvon aneduvvat, vuojneduvvat ja guddneduvvat ietjas diehti. Iesjdåbddo vuollán jus la bajássjaddamin álu gullam sån ij la nuoges buorre, ij dåhkki masik jali l vájvve.</p>
+<p>Sämmibále máhttá ulmusj gut la árvvon aneduvvam val gå sån la buoragit dåjmadam, buojkulvissan idråhttågilbbusin jali gähttjalimen skåvlån, jáhkket sån val dåhkki gå la juoga buoragit dahkam. Ij dåhkki val gå gávnnu.</p>
+<p>Iesjdåbddo bájneduvvá aj negatijvalattjat jus ij åbbå vuojneduvá bajássjaddamin, buojkulvissan jus äjgáda jali gej bajássjaddá älla hejman nåv ednagit, jus li skihpasa, boastoaddne jali ilá enas la ietjasa viessomin vaj e asta ja e nagá ietjasa mánájt vuojnnet.</p>
+<p>Dåbddo ij dåhkkit máhttá vuododuvvat gå ulmutja li umassláhkáj njuorrasa. Jus la njuoras de máhttá vuollegis iesjdåbddo, juska vil la buoragit bajássjaddam.</p>
+<p>Ihka masi vuododuvvá l vuollegis iesjdåbddo, de máhttá buoreduvvat.</p>
+<p type="title">Ietjas dåbddåt sierralágátjin, siebrrevuodadagi ja ietjas buohtastahttet iehtjádij</p>
+<p>Máhttá aj ájnas ietjas iesjdåbdduj man sjimuk la fuolkijn jali ulmutjij gej aktavuodav adná bajássjaddamájgen. Jus gájkka iehtjáda lijkkuji spårttåj ja iesj ij la åbbå miellogis, de máhttá dåbddåt boasstot la dádjadum ja dármeduvvat. Ietjá vidjura ma máhtti iesjdåbdov vuoledit márjju li:</p>
+<list><p type="listitem">ietjas dåbddåt siebrrevuodadagi jali l nuppástuvvam</p>
+<p type="listitem">bargodibme</p>
+<p type="listitem">vájvve l mierredit majt galggá ietjas viessomijn dahkat, ja makkir åhpadusáv válljit jali makkir virgev galggá</p>
+<p type="listitem">psykalattjat nievret vädjá ja buojkulvissan la sieldes goavgen jali garra håjen.</p>
+</list><p>Moattes ietjasa buohtastahtti gej dåbddi jali ulmutjij rekláman ja median. Dadi alep rávkalvisá li ietjanis –galggá buorre gájkka dagojda – dadi gássjelap la dåbddut ietjajnis dudálasj.</p>
+<p type="title">Iesjdåbddo ij agev vuojnnu ålgolt</p>
+<p>Gássjel la ålgoldis vuojnnet gåktu ulmusj ietjas iesjdåbdov dåbddå. Muhtem gut ålgolt vuojnnet la vuorbálasj, mij la fávrro, tjiehppe l skåvlån jali bargon ja sujna li edna rádna, sujna máhttá ajtu vuollegis iesjdåbddo ja dåbddåt sån ij dåhkki ja rähkku.</p>
+</body></document>

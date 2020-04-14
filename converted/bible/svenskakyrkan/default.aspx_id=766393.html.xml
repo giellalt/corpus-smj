@@ -1,35 +1,8 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>151</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=766393</origFileName>
-    <parallel_text xml:lang="fin" location="default.aspx_id=655209.html"/>
-    <parallel_text xml:lang="sme" location="default.aspx_id=767264.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Skallujlåhkåt - Svenska kyrkan - Om oss</p>
-    <p type="title">Skallujlåhkåt</p>
-    <p type="title">Skallujlåhkåm l fálaldahka dunji gut la viessomis miellogis ja sidá diehtet ienebuv ristalasj jáhko birra ja majt dunji mierkki.</p>
-    <p>Skallujlåhkåmájgen oattjo iehtjádij siegen ságástallamij, ságastimij ja jubmeldievnoj baktu máhttelisvuodav ájádallat birra gut dån la ja masi jáhká. Jáhkkogatjálvisáj birra l nåv gåk gut la Jesus ja mij la tjáledum Rámadin. Vuodo l aj ulmutjij ássjij birra, buojkulvissan mij la duolla ja mij ij la vierre, venakvuoda, gieresvuoda, seksa, viessoma sisanádusá birra. Ássje maj gájkka ulmutjijn la aktavuohta danen gå ij aktak vieso ietjas viessomav aktu.</p>
-    <p>Skallujlåhkåmájgge l hiejtedum skallidimjubmeldievnujn. Skallo l duv gástadusá duodastibme. Jubmela åvdån li gájkka ulmutja árvulattja. Skallujlåhkåm la vuohke duodastit dáv jur dunji.</p>
-    <p><em type="italic">Skallujlåhkåmläger sámijda </em>Svieriga girkko juohkka jage ásat sáme skallujlåhkåmlägerav aktijbargon Sáme girkkorádijn Svieriga girkkon, Sáme referänssajuohkusijn Härnösánda ja Julevu stiftan, ja Sámenuorajn. Ienep diededimev lägera birra 2012 aktavuodav válde Birgitta Simmajn Julev stiftan: 0920-4924 58. </p>
-    <p>//</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>151</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.svenskakyrkan.se/default.aspx?id=766393</origFileName><parallel_text xml:lang="fin" location="default.aspx_id=655209.html"/><parallel_text xml:lang="sme" location="default.aspx_id=767264.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Skallujlåhkåt - Svenska kyrkan - Om oss</p>
+<p type="title">Skallujlåhkåt</p>
+<p type="title">Skallujlåhkåm l fálaldahka dunji gut la viessomis miellogis ja sidá diehtet ienebuv ristalasj jáhko birra ja majt dunji mierkki.</p>
+<p>Skallujlåhkåmájgen oattjo iehtjádij siegen ságástallamij, ságastimij ja jubmeldievnoj baktu máhttelisvuodav ájádallat birra gut dån la ja masi jáhká. Jáhkkogatjálvisáj birra l nåv gåk gut la Jesus ja mij la tjáledum Rámadin. Vuodo l aj ulmutjij ássjij birra, buojkulvissan mij la duolla ja mij ij la vierre, venakvuoda, gieresvuoda, seksa, viessoma sisanádusá birra. Ássje maj gájkka ulmutjijn la aktavuohta danen gå ij aktak vieso ietjas viessomav aktu.</p>
+<p>Skallujlåhkåmájgge l hiejtedum skallidimjubmeldievnujn. Skallo l duv gástadusá duodastibme. Jubmela åvdån li gájkka ulmutja árvulattja. Skallujlåhkåm la vuohke duodastit dáv jur dunji.</p>
+<p><em type="italic">Skallujlåhkåmläger sámijda </em>Svieriga girkko juohkka jage ásat sáme skallujlåhkåmlägerav aktijbargon Sáme girkkorádijn Svieriga girkkon, Sáme referänssajuohkusijn Härnösánda ja Julevu stiftan, ja Sámenuorajn. Ienep diededimev lägera birra 2012 aktavuodav válde Birgitta Simmajn Julev stiftan: 0920-4924 58. </p>
+<p>//</p>
+</body></document>

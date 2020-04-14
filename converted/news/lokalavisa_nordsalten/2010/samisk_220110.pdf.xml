@@ -1,51 +1,17 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Bállotjiektjam ja valástallam bisot årudagáv</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>393</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_220110.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty SkapalenJårggålibme:</p>
-    <p xml:lang="nob">Divte Media AS/Idar Kintel</p>
-    <p>5, 7 ja 11 tjiektjijdaTjiektjamsalljo sjaddá 64 x 100mehtera. Ájádus le saljov mierkkitguokta saljojda 7 tjiektjijda doarrásoajvvesaljos, juohkka tjiektjamåsijn 40x 64 mehterijn. Duodden le máhttelismierkkit saljojt 5 tjiektjijda (4 saljostuorrudagájn 20 x 40 m) sæmmi láhkájgåk salljo 7 tjiektjijda. Gæhttjijda sjaddájalgga lulás, mij ij nav ålov ietjájduvásalljorievddadimes ja bissu vargga daguåvddåla.</p>
-    <p>kråvnå åvddål prosjækta le ållåsitruhtaduvvam.- Valástallamjuohkusin le åhtsåmusSparebanken Narvikan, javlláprosjæktavásstediddje Per Arne Ráhka.Sån gåvvit åvdep vahkov sierralágásjvahkkon midjij.- Javlaj åvddåla oattjojmaruhtaloahpádusáv fylkkasuohkanis avtamillijåvnå kråvnåj. Ådåjakmáno 15.biejve rájaj suohkan åhtsåmusávhisstemrudájda, ja biejvet mannelaoattjojma duodastum ruhtadårjavsámedikkes. Sæmmi biejve aj NC vattij100 000 kråvnå, javllá riek dudálasjRáhka.- Dálla ruhtadibme le vargga gárves.Birrusin 14 biejve duogen oadtjopvásstádusáv bánkas, javllá sån.</p>
-    <p>HoajddoDahkorássesaljujn e besa bargos ájmondav anedit, valla le juska binnep barggogå luonndorássesaljujn. Dahkorássesaljogummijijn dievdedum vierttiji akti jaliguokti vahkkuj bisoduvvat ja dahkorásevuobdde buktá dárbulasj vædtsagijt. Ij ledárbulasj saljov tjáhttjit gå dahkorásenle sæmmi friksjåvnnå juska le luvás jaligåjkes.- Jahkásasj doajmma- ja hoajddogållo limerustaládum birrusin 50 000 kråvnåjdagå barggo væhkkálakkoj bargaduvvá.Boahtteájggáj le máhttelis aktansierralágásj masjijnav oasstet jaliBådåddjos lájggit, javllá Ráhka.Gå ij sjatta vuolleliekkas saljon, dejáhkki buoremus le jus dibddep saljovmuohttet dálven åvddål saljov goajvvopsnjuktjamáno manegietjen. De ihkapdåhkki tjiektjat vuoratjismáno álgon.Viessomájgge gummidievdedumásadusáj ij le dåbdos, valla vuobddejáhkki le sæmmi guhka ájgge gåsáddudievdedum dahkorásen, 10 - 12jage- Dahkorássesalljo sjaddá arvusmahttemnuorajda. Dat merkaj mij guovlojn ajnásstetjiektjijt máhttep oadtjot, javlláRáhka.</p>
-    <p>jj</p>
-    <p>sihkarasstá ulmmejåksåmav.Aktisasjbarggoguojme galggi aktanruhtadit konkrehtalasj dåjmajt ma gullujidákkir tjoahkke, ålleslasj strategijajboahtteájge årudagájda jaåvddånahttemij, javllá sámedikkeráde.</p>
-    <p>j</p>
-    <p>Gárves giesen 2011?Vuodobargujn sjaddi jáhkedahtte álggetgidán/giesen ja Ráhka mielas e galganav diertjestit.- Muv dádjadusá milta vuodogåbtjåsgalggá manep dálve badjel tjuodtjot, vajle máhttelis hieredit gássjelisvuodajtvuodujn. Dan mannela máhttep njuolggitåvddål máhtav jållerdip giesen 2011.Jalgga le læhkám vuodo dágástallamijjus tjiektjamsalljo bierri liehket gånnåuddni le. Buoremus lij saljov ásaditgarra vuoduj, valla de lidjin máksusasjaddat ietjálágátja, javllá sån.</p>
-    <p>GárvesFylkkasuohkan le åvddåla mierredamavtav millijåvnåv dahkorássesalljujjuollodit. Ålles ruhtagållo lemerustaládum 5,5 millijåvnå kråvnåjda,gånnå 2,2 ruhtaduvvi hisstemrudájs,600 000 le iesjmávsos, akta millijåvnnåle suohkana iesjmávsos ja NorwegianCrystallites ruhtadoarjja 100 000kråvnåj. Gå oadjtu 400 000  kråvnåSámedikkes, vájlluji dåssju 200 000</p>
-    <p>j</p>
-    <p>j</p>
-    <p>j j</p>
-    <p>Máhttelis sámegilppusav ásaditDuodden dan bállotjiektjamdoajmmajmij Vuona Bállotjiektjamlihtosorganiseriduvvá, le Ájluovtan ájnasdoajmma mij Sáme bállotjiektjamlihtosorganiseriduvvá. BállotjiektjamjuohkusaÁjluovtaguovlos li badjel 25 jageoassálasstám sámegilppusijn ja sámebállotjiektjamgilpustallamijn sihkevuona ja svieriga bielen. Dájs li sihkenissun- ja ålmmåjuohkusa. Guhkev lejuo ájgodum sámegilppusijt Ájluovtanásadit, valla dáj nievres salljodilij diehtiij le læhkám máhttelis.Dahkorássesaljujn sjaddi máhttelisvuodarahpusit vaj máhttep sámebállotjiektjamgilppusav dánna tjadádit.- Dákkir aktijvuodan rahpus ådå værált.Bállotjiektjam le guovddavalástallam.Valástallam mij tjoahkkij sihke mánájt,nuorajt ja ållessjattugijt berustahtekåskos ja etnisitehtas, javllá Ráhka.</p>
-    <p xml:lang="nob"><em type="italic">PER ARNE</em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Bállotjiektjam ja valástallam bisot årudagáv</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="m" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2010</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>399</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_220110.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty SkapalenJårggålibme:</p>
+<p xml:lang="nob">Divte Media AS/Idar Kintel</p>
+<p>5, 7 ja 11 tjiektjijdaTjiektjamsalljo sjaddá 64 x 100mehtera. Ájádus le saljov mierkkitguokta saljojda 7 tjiektjijda doarrásoajvvesaljos, juohkka tjiektjamåsijn 40x 64 mehterijn. Duodden le máhttelismierkkit saljojt 5 tjiektjijda (4 saljostuorrudagájn 20 x 40 m) sæmmi láhkájgåk salljo 7 tjiektjijda. Gæhttjijda sjaddájalgga lulás, mij ij nav ålov ietjájduvásalljorievddadimes ja bissu vargga daguåvddåla.</p>
+<p>kråvnå åvddål prosjækta le ållåsitruhtaduvvam.- Valástallamjuohkusin le åhtsåmusSparebanken Narvikan, javlláprosjæktavásstediddje Per Arne Ráhka.Sån gåvvit åvdep vahkov sierralágásjvahkkon midjij.- Javlaj åvddåla oattjojmaruhtaloahpádusáv fylkkasuohkanis avtamillijåvnå kråvnåj. Ådåjakmáno 15.biejve rájaj suohkan åhtsåmusávhisstemrudájda, ja biejvet mannelaoattjojma duodastum ruhtadårjavsámedikkes. Sæmmi biejve aj NC vattij100 000 kråvnå, javllá riek dudálasjRáhka.- Dálla ruhtadibme le vargga gárves.Birrusin 14 biejve duogen oadtjopvásstádusáv bánkas, javllá sån.</p>
+<p>HoajddoDahkorássesaljujn e besa bargos ájmondav anedit, valla le juska binnep barggogå luonndorássesaljujn. Dahkorássesaljogummijijn dievdedum vierttiji akti jaliguokti vahkkuj bisoduvvat ja dahkorásevuobdde buktá dárbulasj vædtsagijt. Ij ledárbulasj saljov tjáhttjit gå dahkorásenle sæmmi friksjåvnnå juska le luvás jaligåjkes.- Jahkásasj doajmma- ja hoajddogållo limerustaládum birrusin 50 000 kråvnåjdagå barggo væhkkálakkoj bargaduvvá.Boahtteájggáj le máhttelis aktansierralágásj masjijnav oasstet jaliBådåddjos lájggit, javllá Ráhka.Gå ij sjatta vuolleliekkas saljon, dejáhkki buoremus le jus dibddep saljovmuohttet dálven åvddål saljov goajvvopsnjuktjamáno manegietjen. De ihkapdåhkki tjiektjat vuoratjismáno álgon.Viessomájgge gummidievdedumásadusáj ij le dåbdos, valla vuobddejáhkki le sæmmi guhka ájgge gåsáddudievdedum dahkorásen, 10 - 12jage- Dahkorássesalljo sjaddá arvusmahttemnuorajda. Dat merkaj mij guovlojn ajnásstetjiektjijt máhttep oadtjot, javlláRáhka.</p>
+<p>jj</p>
+<p>sihkarasstá ulmmejåksåmav.Aktisasjbarggoguojme galggi aktanruhtadit konkrehtalasj dåjmajt ma gullujidákkir tjoahkke, ålleslasj strategijajboahtteájge årudagájda jaåvddånahttemij, javllá sámedikkeráde.</p>
+<p>j</p>
+<p>Gárves giesen 2011?Vuodobargujn sjaddi jáhkedahtte álggetgidán/giesen ja Ráhka mielas e galganav diertjestit.- Muv dádjadusá milta vuodogåbtjåsgalggá manep dálve badjel tjuodtjot, vajle máhttelis hieredit gássjelisvuodajtvuodujn. Dan mannela máhttep njuolggitåvddål máhtav jållerdip giesen 2011.Jalgga le læhkám vuodo dágástallamijjus tjiektjamsalljo bierri liehket gånnåuddni le. Buoremus lij saljov ásaditgarra vuoduj, valla de lidjin máksusasjaddat ietjálágátja, javllá sån.</p>
+<p>GárvesFylkkasuohkan le åvddåla mierredamavtav millijåvnåv dahkorássesalljujjuollodit. Ålles ruhtagållo lemerustaládum 5,5 millijåvnå kråvnåjda,gånnå 2,2 ruhtaduvvi hisstemrudájs,600 000 le iesjmávsos, akta millijåvnnåle suohkana iesjmávsos ja NorwegianCrystallites ruhtadoarjja 100 000kråvnåj. Gå oadjtu 400 000  kråvnåSámedikkes, vájlluji dåssju 200 000</p>
+<p>j</p>
+<p>j</p>
+<p>j j</p>
+<p>Máhttelis sámegilppusav ásaditDuodden dan bállotjiektjamdoajmmajmij Vuona Bállotjiektjamlihtosorganiseriduvvá, le Ájluovtan ájnasdoajmma mij Sáme bállotjiektjamlihtosorganiseriduvvá. BállotjiektjamjuohkusaÁjluovtaguovlos li badjel 25 jageoassálasstám sámegilppusijn ja sámebállotjiektjamgilpustallamijn sihkevuona ja svieriga bielen. Dájs li sihkenissun- ja ålmmåjuohkusa. Guhkev lejuo ájgodum sámegilppusijt Ájluovtanásadit, valla dáj nievres salljodilij diehtiij le læhkám máhttelis.Dahkorássesaljujn sjaddi máhttelisvuodarahpusit vaj máhttep sámebállotjiektjamgilppusav dánna tjadádit.- Dákkir aktijvuodan rahpus ådå værált.Bállotjiektjam le guovddavalástallam.Valástallam mij tjoahkkij sihke mánájt,nuorajt ja ållessjattugijt berustahtekåskos ja etnisitehtas, javllá Ráhka.</p>
+<p xml:lang="nob"><em type="italic">PER ARNE</em> </p>
+</body></document>

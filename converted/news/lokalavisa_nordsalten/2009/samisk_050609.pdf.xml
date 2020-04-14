@@ -1,51 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Finngirkko Marhaugan</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Bjørn" lastname="Stemland" sex="m" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>295</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_050609.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta/gåvå: Bjørn Stemland Jårggålibme: Divte Media AS</p>
-    <p xml:lang="nob"><em type="italic">Arne B. Vaag, Arne Marhaug, Greta Sollie  ja arkeologistudænnta Thomas Marhaug  guoradalli bátsidisájt dållåsajes mij lij muhtem gámánGábmádieván.   Arne B. Vaag, Arne Marhaug, Greta Sollie  og arkeologistudent Thomas Marhaug - studerer restene av  ildstedet som varinne i en av gammene på Gamhaugen.</em> </p>
-    <p>Mikkelsen  Sámedikkes.  -  Le  ájnas  ahtedát barggo álggá nav árrat gå máhttelis,juo  vuodoskåvlån.  Vierttip  dal  bargovjåhtuj  biedjat  ja  konkretiserit  dåjmajt,stipendaj jali ietjá dåjmaj baktu.</p>
-    <p>Tjåhkanimen lidjin åvdåstiddje Nordlánda</p>
-    <p>Sáme kultsadje</p>
-    <p>låsså lavnnjimis svarkestin. De áludålutjis giehttun, ja máná gatjádahkestjuovvun.Arne Håkon Thomassen, guhti barggáarkeologan Sámedikken, subtsas báhkofinngirkko boahtá bágos giergge  ja ledárojduhteduvvam girkkon dárogiellaj.Manepnamma Finnstein, majtSkramstadan gávnnap, máhttá navtisæmmi miejnnit, namálattjat sámesiejddesadje.</p>
-    <p>Vat moadda namá sæmmiluonndobåhtusij! Dánna le hyhtovtsieggim, ja subtsas gå sån nágin jagedássta åvddåla dievá birra galgaj vedjavdahkat, de oattjoj arkeologajt guovlovguoradalátjit, ja sij gávnnin moaddabátsidisá gámájs.Sáme årrujin Marhaug-gæddáj 1600-1700 jagijn gå lij niedajáhke, nievresælloguohtomguovlo ja gå stálpe rájkestinJåhkåmåhke guovlojn. Jus galggin dálvijtjadá bierggit de vierttijin jåhttåt, jamoattes dási årrujin. Sij jårbbå gámájttsieggijin sisnep tsiekkadusájn, biesijn jasoahkerissijn sisnemusán ja lavnjijnålgolt. Biesse ja risse galggin divtugin</p>
-    <p>adnet váj tjáhtje ittjij tsiekkadussaj jåvsåvaj mårnåj. Slihtura dagu sávtsa, gusá janágin boahttsu lidjin dábálattja.Sáme aj lidjin tjiehpes bivdde. Dålusjherredsmiehttseoajvve Jan. A Laxaatsieggij moadda diehtogalbaGábmádieván. Akta galbajs diededt 37dajs 57 vuotjedum biernajs Fuoldán1700-jagij manemus oasen sámijsvuotjeduvvin.Vuollelin  nuorttabielen Allmennik-jávres, gávnajma bátsidisájt stuorragámás gassko sáddjimbældon.Dáttja Marhaugaj årrujin birrusij 1840,ja de lidjin sáme gáhtum  jali lidjindábálasj sijddalahán årrum aktan ietjáálmmugijn.</p>
-    <p>jj</p>
-    <p>Bátsadisá moattet gámásArne Marhaug mijáv Gamhågenijdoalvoj várddasijn Almenning-jávrráj,Marhaugjávrráj  jali Nordfold-jávrráj.</p>
-    <p>j j</p>
-    <p>skåvlås, Árranis, KnutHamsun joarkkaskåvlås,Bådådjo Allaskåvlås, Sámedikkesja  Divtasvuona  suohkanis.  Bajeduvvinoajvvadusá gåktu åhpadiddjevánesvuodavtjoavddet,  dagu  dal  stipendadårjajtnannidit, ja julevsámegiellaåhpadusáv alepdássen juohkka jage tjadádit.Mikkelsen la dudálasj bargo åvddånimijn.-  Tjåhkanimen  gulájma  oassálasstijdárbojt, ja gájkajn lij positivalasj miella.Fylkkamánne  oattjoj  åvdåsvásstádusávoajvvadusáv  buktet  prosjæktajuohkusadoajmmaj ja stuorrudahka hárráj.</p>
-    <p>Tæksta/Gåvvå:Maria Mikkelsen</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Finngirkko Marhaugan</title><genre code="news"/><author><person firstname="Bjørn" lastname="Stemland" sex="m" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2009</year><publChannel><publication><publisher>Lokalavisa nordsalten</publisher></publication></publChannel><wordcount>295</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_050609.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta/gåvå: Bjørn Stemland Jårggålibme: Divte Media AS</p>
+<p xml:lang="nob"><em type="italic">Arne B. Vaag, Arne Marhaug, Greta Sollie  ja arkeologistudænnta Thomas Marhaug  guoradalli bátsidisájt dållåsajes mij lij muhtem gámánGábmádieván.   Arne B. Vaag, Arne Marhaug, Greta Sollie  og arkeologistudent Thomas Marhaug - studerer restene av  ildstedet som varinne i en av gammene på Gamhaugen.</em> </p>
+<p>Mikkelsen  Sámedikkes.  -  Le  ájnas  ahtedát barggo álggá nav árrat gå máhttelis,juo  vuodoskåvlån.  Vierttip  dal  bargovjåhtuj  biedjat  ja  konkretiserit  dåjmajt,stipendaj jali ietjá dåjmaj baktu.</p>
+<p>Tjåhkanimen lidjin åvdåstiddje Nordlánda</p>
+<p>Sáme kultsadje</p>
+<p>låsså lavnnjimis svarkestin. De áludålutjis giehttun, ja máná gatjádahkestjuovvun.Arne Håkon Thomassen, guhti barggáarkeologan Sámedikken, subtsas báhkofinngirkko boahtá bágos giergge  ja ledárojduhteduvvam girkkon dárogiellaj.Manepnamma Finnstein, majtSkramstadan gávnnap, máhttá navtisæmmi miejnnit, namálattjat sámesiejddesadje.</p>
+<p>Vat moadda namá sæmmiluonndobåhtusij! Dánna le hyhtovtsieggim, ja subtsas gå sån nágin jagedássta åvddåla dievá birra galgaj vedjavdahkat, de oattjoj arkeologajt guovlovguoradalátjit, ja sij gávnnin moaddabátsidisá gámájs.Sáme årrujin Marhaug-gæddáj 1600-1700 jagijn gå lij niedajáhke, nievresælloguohtomguovlo ja gå stálpe rájkestinJåhkåmåhke guovlojn. Jus galggin dálvijtjadá bierggit de vierttijin jåhttåt, jamoattes dási årrujin. Sij jårbbå gámájttsieggijin sisnep tsiekkadusájn, biesijn jasoahkerissijn sisnemusán ja lavnjijnålgolt. Biesse ja risse galggin divtugin</p>
+<p>adnet váj tjáhtje ittjij tsiekkadussaj jåvsåvaj mårnåj. Slihtura dagu sávtsa, gusá janágin boahttsu lidjin dábálattja.Sáme aj lidjin tjiehpes bivdde. Dålusjherredsmiehttseoajvve Jan. A Laxaatsieggij moadda diehtogalbaGábmádieván. Akta galbajs diededt 37dajs 57 vuotjedum biernajs Fuoldán1700-jagij manemus oasen sámijsvuotjeduvvin.Vuollelin  nuorttabielen Allmennik-jávres, gávnajma bátsidisájt stuorragámás gassko sáddjimbældon.Dáttja Marhaugaj årrujin birrusij 1840,ja de lidjin sáme gáhtum  jali lidjindábálasj sijddalahán årrum aktan ietjáálmmugijn.</p>
+<p>jj</p>
+<p>Bátsadisá moattet gámásArne Marhaug mijáv Gamhågenijdoalvoj várddasijn Almenning-jávrráj,Marhaugjávrráj  jali Nordfold-jávrráj.</p>
+<p>j j</p>
+<p>skåvlås, Árranis, KnutHamsun joarkkaskåvlås,Bådådjo Allaskåvlås, Sámedikkesja  Divtasvuona  suohkanis.  Bajeduvvinoajvvadusá gåktu åhpadiddjevánesvuodavtjoavddet,  dagu  dal  stipendadårjajtnannidit, ja julevsámegiellaåhpadusáv alepdássen juohkka jage tjadádit.Mikkelsen la dudálasj bargo åvddånimijn.-  Tjåhkanimen  gulájma  oassálasstijdárbojt, ja gájkajn lij positivalasj miella.Fylkkamánne  oattjoj  åvdåsvásstádusávoajvvadusáv  buktet  prosjæktajuohkusadoajmmaj ja stuorrudahka hárráj.</p>
+<p>Tæksta/Gåvvå:Maria Mikkelsen</p>
+</body></document>

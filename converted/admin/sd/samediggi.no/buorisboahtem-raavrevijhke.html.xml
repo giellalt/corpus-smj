@@ -1,35 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>151</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Buorisboahtem-Raavrevijhke</origFileName>
-    <parallel_text xml:lang="nob" location="velkommen-roeyrvik.html"/>
-    <parallel_text xml:lang="sma" location="buerie-baaeteme-raavrevijhke.html"/>
-    <parallel_text xml:lang="sme" location="bures-boahtin-raavrevijhke.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Buorisboahtem Raavrevijhke / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
-    <p type="title">Buorisboahtem Raavrevijhke</p>
-    <p xml:lang="sma">28. goevte 2013</p>
-    <p>Sámedigge ja Raavrevijhke suohkan vuollájtjálli aktisasjbarggosjiehtadusáv guovtegielakvuoda gáktuj. – Viehka ávvusav gå Raavrevijhke suohkan sihtá oassálasstet oarjjelsámegielav åvddånahttet ja åvdedit, javllá rádeájras Ellinor Marita Jåma. Raavrevijhke le Jåma sijddasuohkan.</p>
-    <p>Sámedikken li aktisasjbarggosjiehtadusá lågij suohkanij ja nieljij fylkkasuohkanij. Raavrevijhke suohkana sjiehtadus vuollájtjáleduváj gå Sámedigge, suohkana ja fylkkasuohkana æjvvalin aktisasjbarggosjiehtadusájt tjuovvolit.</p>
-    <p>
-      <em type="bold">-Suohkana ja fylkkasuohkana li ájnnasa gå galggá sámegielav åvddånahttet. Danen lip viehka ávon gå suohkana ja fylkkasuohkana åvdåsvásstádusáv válldi váj sámegiela galggi ielle giela boahtteájgijda aj. Sámedikke ulmme le aktisasjbarggosjiehtadusá galggi ræjddon buorre guládallamij ja aktisasjbargguj sámegiela vuoksjuj. Majt uddni válljit mierkki juojddáv sámegielaj boahtteájggáj, javllá rádeájrasEllinor Marita Jåma. </em>
-    </p>
-    <p>Sáme giellaháldadimguovlon li sáme- ja dárogiela avtaárvvusasj giela. Dat mierkki juohkkahattjan le riektá sámegiellaj dievnastuvvat gå válldá aktijvuodav suohkanijn ja ietjá almulasj ásadusájn.</p>
-    <p>Ienep diedo:Rádeájras Ellinor Marita Jåma, + 47 916 13 460</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>151</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Buorisboahtem-Raavrevijhke</origFileName><parallel_text xml:lang="nob" location="velkommen-roeyrvik.html"/><parallel_text xml:lang="sma" location="buerie-baaeteme-raavrevijhke.html"/><parallel_text xml:lang="sme" location="bures-boahtin-raavrevijhke.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Buorisboahtem Raavrevijhke / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
+<p type="title">Buorisboahtem Raavrevijhke</p>
+<p xml:lang="sma">28. goevte 2013</p>
+<p>Sámedigge ja Raavrevijhke suohkan vuollájtjálli aktisasjbarggosjiehtadusáv guovtegielakvuoda gáktuj. – Viehka ávvusav gå Raavrevijhke suohkan sihtá oassálasstet oarjjelsámegielav åvddånahttet ja åvdedit, javllá rádeájras Ellinor Marita Jåma. Raavrevijhke le Jåma sijddasuohkan.</p>
+<p>Sámedikken li aktisasjbarggosjiehtadusá lågij suohkanij ja nieljij fylkkasuohkanij. Raavrevijhke suohkana sjiehtadus vuollájtjáleduváj gå Sámedigge, suohkana ja fylkkasuohkana æjvvalin aktisasjbarggosjiehtadusájt tjuovvolit.</p>
+<p><em type="bold">-Suohkana ja fylkkasuohkana li ájnnasa gå galggá sámegielav åvddånahttet. Danen lip viehka ávon gå suohkana ja fylkkasuohkana åvdåsvásstádusáv válldi váj sámegiela galggi ielle giela boahtteájgijda aj. Sámedikke ulmme le aktisasjbarggosjiehtadusá galggi ræjddon buorre guládallamij ja aktisasjbargguj sámegiela vuoksjuj. Majt uddni válljit mierkki juojddáv sámegielaj boahtteájggáj, javllá rádeájrasEllinor Marita Jåma. </em></p>
+<p>Sáme giellaháldadimguovlon li sáme- ja dárogiela avtaárvvusasj giela. Dat mierkki juohkkahattjan le riektá sámegiellaj dievnastuvvat gå válldá aktijvuodav suohkanijn ja ietjá almulasj ásadusájn.</p>
+<p>Ienep diedo:Rádeájras Ellinor Marita Jåma, + 47 916 13 460</p>
+</body></document>

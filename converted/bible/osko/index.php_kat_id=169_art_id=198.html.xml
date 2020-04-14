@@ -1,47 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>95</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=169&amp;art_id=198</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=169_art_id=198.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=169_art_id=198.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=169_art_id=198.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åhpav: Biejvve</p>
-    <p type="title">Gieresvuoda evangelium</p>
-    <p>Gieresvuohta le gierddis ja buorre. Gieresvuohta ij le udnodibme, ij ga ietjas rámpo, ij ga stuorástalá. Ij le hæhkkaráduk, ij ga ietjastalle, ij le suhtisj, ij ga bahájt vuorkuda.</p>
-    <p>De bissu dá gålmmå: Jáhkko, doajvvo ja gieresvuohta, ja dajs gájkin stuorámus le gieresvuohta. 1.Kor 13, 4-5,13</p>
-    <p>Grehkagiellaj gávnnuji gålmmå bágo ma mierkkiji gieresvuohta: Eros, phileos ja agape.</p>
-    <p><em type="bold">Eros </em>le gieresvuohta ålmmå ja nissuna gaskan. </p>
-    <p><em type="bold">Phileos </em>le gieresvuohta guojmmealmatjijda jali gieresvuohta almatjij gaskan ráddnan. </p>
-    <p><em type="bold">Agape </em>, jubmelasj gieresvuohta, gieresvuohta mij Jubmelin le. Dáv gieresvuodav lip vájmojnimme oadtjum Ájlis Vuojŋŋanisá baktu. </p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>95</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=169&amp;art_id=198</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=169_art_id=198.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=169_art_id=198.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=169_art_id=198.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åhpav: Biejvve</p>
+<p type="title">Gieresvuoda evangelium</p>
+<p>Gieresvuohta le gierddis ja buorre. Gieresvuohta ij le udnodibme, ij ga ietjas rámpo, ij ga stuorástalá. Ij le hæhkkaráduk, ij ga ietjastalle, ij le suhtisj, ij ga bahájt vuorkuda.</p>
+<p>De bissu dá gålmmå: Jáhkko, doajvvo ja gieresvuohta, ja dajs gájkin stuorámus le gieresvuohta. 1.Kor 13, 4-5,13</p>
+<p>Grehkagiellaj gávnnuji gålmmå bágo ma mierkkiji gieresvuohta: Eros, phileos ja agape.</p>
+<p><em type="bold">Eros </em>le gieresvuohta ålmmå ja nissuna gaskan. </p>
+<p><em type="bold">Phileos </em>le gieresvuohta guojmmealmatjijda jali gieresvuohta almatjij gaskan ráddnan. </p>
+<p><em type="bold">Agape </em>, jubmelasj gieresvuohta, gieresvuohta mij Jubmelin le. Dáv gieresvuodav lip vájmojnimme oadtjum Ájlis Vuojŋŋanisá baktu. </p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

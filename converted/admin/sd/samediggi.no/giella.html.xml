@@ -1,202 +1,159 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Giella</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2019</year>
-    <wordcount>2240</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>https://www.samedigge.no/Dievnastusa/Giella</origFileName>
-    <parallel_text xml:lang="nob" location="spraak.html"/>
-    <parallel_text xml:lang="sma" location="giele.html"/>
-    <parallel_text xml:lang="sme" location="giella.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Giella</p>
-    <p>Giella l ájnas kulturguodde ja iesjdåbddomærkka. Vuodulasj almasjrievtesvuohta l adnet mahttelisvuodav ietjas gielav adnet, ja álggoálmmugin la sámijn duodden vil riektá, ietjasa giella suodjaluvvá.</p>
-    <p>Sámedigge barggá vaj:</p>
-    <list>
-      <p type="listitem">Sámegielaj háldadimguovllo vijdeduvvá, bagádallamij ja aktisasjbargo suohkanij oajválattjaj baktu.</p>
-      <p type="listitem">Ienep giellaarena ásaduvvi, barggamin sáme giellaguovdátjijt ásadittjat ja dårjav sierra gielladåjmajda vaddet.</p>
-      <p type="listitem">Vaj sámegiela galggi viesso giellan adjáj åvddålijguovlluj liehket, vuorodime mánájt ja nuorajt.</p>
-    </list>
-    <p><em type="italic">Biejve </em>: Gålgådismáno 21. - 27. biejvij 2019 </p>
-    <p><em type="italic">Sadje </em>: Rijkav miehtáj </p>
-    <p><em type="italic">Gesi </em>: Gájkdivna li bivddidum </p>
-    <p>Le gus dån goassak ussjolam, manen sámegiella ij mielkkepáhkijn, galbajn jalik næhttabielijn vuojnnu? Dájna la dån bivddidum Giellavahkkuj 2019. Sebra giellalåpptimij!</p>
-    <p>Sáme giallanammadus almodij gålgådismáno 10. biejve 2016 guorahallamav VAT 2016: 18.</p>
-    <p>Guoradallama ulmme l læhkám árvustallat ja árvvalit dåjmajt nannitjit doajmme ja avtaárvvusasj almulasj dievnastusájt sámegielajda.</p>
-    <p xml:lang="nob">De mest brukte samiske språkene i Norge i dag er nordsamisk, lulesamisk og sørsamisk. Pitesamisk og østsamisk er i en vitaliseringsfase i Norge.</p>
-    <p xml:lang="nob">De samiske språkområdene strekker seg tradisjonelt over deler av Norge, Sverige, Finland og Russland. Riksgrensene er trukket på tvers av språkgrensene.</p>
-    <p xml:lang="nob">Stedsnavnloven gir bestemmelser om stedsnavn i offentlig bruk. Loven gjelder i hele landet og dermed også i hele det samiske språkområdet. Stedsnavnloven skal sikre samiske stedsnavn i samsvar med nasjonalt lovverk og internasjonale avtaler og konvensjoner. Det stilles krav til bruk av korrekt stavemåte og bruk av samiske tegn.</p>
-    <p>Sámegielaj háldadimguovlon li sámegiella ja dárogiella avtaárvvusasj giela. Dát merkaj, gájkajn la riektá dievnastusájt sámegiellaj oadtjot gå válldi aktijvuodav almmulasj ásadusáj ma li sámegielaj háldadimguovlo sisbielen.</p>
-    <p xml:lang="nob">Den samiske folkegruppen i Norge skal kunne sikre og utvikle sitt språk, kultur og sitt samfunnsliv.</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Alle har rett til svar på samisk når de henvender seg til et lokalt offentlig organ i forvaltningsområdet for samisk språk.</p>
-      <p type="listitem" xml:lang="nob">Alle har rett til å bruke samisk i rettsvesenet.</p>
-      <p type="listitem" xml:lang="nob">Alle som ønsker å bruke samisk overfor lokale og regionale offentlige helse- og sosialinstitusjoner i forvaltningsområdet, har rett til å bli betjent på samisk.</p>
-      <p type="listitem" xml:lang="nob">Samiske barn under barnevernets omsorg har rett til å bruke sitt morsmål.</p>
-      <p type="listitem" xml:lang="nob">Alle har rett til individuelle kirkelige tjenester på samisk i Den norske kirkes menigheter i forvaltningsområdet.</p>
-      <p type="listitem" xml:lang="nob">Ansatte i et lokalt eller regionalt offentlig organ i forvaltningsområdet har rett til permisjon med lønn for å skaffe seg kunnskap i samisk når organet har behov for slik kunnskap.</p>
-      <p type="listitem" xml:lang="nob">Alle har rett til opplæring i samisk i grunnskolen og i den videregående skole.</p>
-    </list>
-    <p xml:lang="nob">Sametingene i Sverige, Finland og Norge igangsatte et treårig grenseoverskridende samarbeidsprosjekt. Videreføringsprosjektet Sámi Giellagáldu er det samiske folkets felles og samtidig øverste vedtaksorgan i spørsmål som vedrører samiske språk.</p>
-    <p>Aktisasj gájkka giellaguovdátjijda la ulmme sámegielajt tjalmostahttet ja viehkedit vaj sámegiela bisoduvvá ja åvddånahteduvvá.</p>
-    <p>Giellaguovdátja ietjasa dåjmaj baktu li ållu guovdátjin sámegielav ietjasa lagámus birrasijn tjalmostahttemin.</p>
-    <p>Sámegiela vidjura li moattelágátja guovlos guovlluj. Giellaguovdátja gæhttji vidjurijda ietjasa guovlojn ja álgadi dåjmajt hiebadum dárbojda gen ga guovlon.</p>
-    <p xml:lang="nob">Sametingsrådet samarbeider med ulike forsknings- og utviklingsaktører for å styrke det språkteknologiske tilbudet innen alle de samiske språkene. De samiske språkene trenger språkbrukere, og aktive språkbrukere behøver moderne hjelpemidler for data, nett og mobile enheter.</p>
-    <p xml:lang="nob">Valg av språk til sitt barn er kanskje ikke alltid et ukomplisert valg, og mange opplever endel problemstillinger i forbindelse med det. Sametinget vil bidra til bevisstgjøring blant foreldre om språkvalg, spre informasjon og veiledning samt være til støtte for foreldre.</p>
-    <p type="title">Giellavahkko 2019</p>
-    <p><em type="italic">Biejve </em>: Gålgådismáno 21. - 27. biejvij 2019 </p>
-    <p><em type="italic">Sadje </em>: Rijkav miehtáj </p>
-    <p><em type="italic">Gesi </em>: Gájkdivna li bivddidum </p>
-    <p>Le gus dån goassak ussjolam, manen sámegiella ij mielkkepáhkijn, galbajn jalik næhttabielijn vuojnnu? Dájna la dån bivddidum Giellavahkkuj 2019. Sebra giellalåpptimij!</p>
-    <p xml:lang="nob">21.10 27.10</p>
-    <p type="title">Giellavahkko 2019</p>
-    <p>Sáme giellavahko ulmme l sáme gielaj árvov låpptit, ja buoredit máhtov sáme giela ja kultuvra birra <em type="italic">ålles </em>sebrudagán. Jur dan vahkon galggi sámegiela gullut ja vuojnnut juohkka sajen. </p>
-    <p><em type="italic">Biejve </em>: Gålgådismáno 21. - 27. biejvij 2019 </p>
-    <p><em type="italic">Sadje </em>: Rijkav miehtáj </p>
-    <p><em type="italic">Gesi </em>: Gájkdivna li bivddidum </p>
-    <p>Le gus dån goassak ussjolam, manen sámegiella ij mielkkepáhkijn, galbajn jalik næhttabielijn vuojnnu? Dájna la dån bivddidum Giellavahkkuj 2019. Sebra giellalåpptimij!</p>
-    <p>Le gus dån goassak ussjolam, manen sámegiella ij mielkkepáhkijn, galbajn jalik næhttabielijn vuojnnu? Sámedigge sihtá jut sámegiela galggi luondulasj oassen sebrudagás liehket, ja danen bivddip Giellavahkkuj, gålgådismáno 21. - 27. biejvij 2019. Giellavahko baktu sihtá Sámedigge tjalmostahttet sámegielajt gájkka sebrudaksuorgen vuojnnusin dahkat. Majna dån máhtá viehkedit? Åttjuda bájkálasj kafieja bårråmusfálov avta sámegiellaj jårggålittjat, ásada giellakafiejav jali gatsosta Giellavahko plakáhtav ietjat vinndegij. Márjju dujna li ietjá buorre ájádusá ja sidá Giellavahkkuj sæbrrat? Tjálesta giellalokten@samediggi.no, jali guládalá ietjat lagámus sáme giellaguovdátjijn!</p>
-    <p>Lågå aj: Giellavahkko 2019</p>
-    <p xml:lang="nob">Vis alle arrangementer</p>
-    <p type="title">Mij la Giellavahkko?</p>
-    <p>Giellavahko ulmme l sáme gielaj árvov låpptit, ja buoredit máhtov sáme giela ja kultuvra birra <em type="italic">ålles </em>sebrudagán. Jur dan vahkon galggi sámegiela gullut ja vuojnnut juohkka sajen. </p>
-    <p>Giellavahkon mij aktan tjalmostahttep ja buoredip máhtov sámegielaj birra ålles sebrudagán. Priváhta ja almulasj ásadusá, æládusiellem, organisasjåvnå ja ietjá oassevállde bivddiduvvi sámegielajt tjalmostahtátjit jur dan vahkon. Aktan válldep stuoráp åvdåsvásstádusáv sámegielaj gullumis, vuojnnemis ja adnemis gájkajn sebrudaksuorgijn.</p>
-    <p>Giellavahkko l oassen Sámedikke guhkesájggásasj giellaratjástimes – Giellalåpptim, ja dat la aj Sámedikke AN álggoálmmugij rijkajgasskasasj giellajage oajvvetjalmostibme.</p>
-    <p type="title">Manen la Giellavahkko ájnas?</p>
-    <p>Vájku li ájteduvvam gáhtomis, de sámegiela ájn bissu. Doajvvo le. Sámij gaskan la diedulasjvuohta giela ja giellaválljima gáktuj, ja ienep ja ienep ulmutja válljiji sæbrrat kursajda åttjudittjat gielav ruoptus mav mijá mátto li massám. Guovlojn gånnå sámegiella ij la måttijt buolvajt aneduvvam, dálla nuorra ållessjattuga sámegielav ruoptus válldi ja várrogisát gæhttjali dav vijddásappo mánájdisájda vaddet. Ådå sámegielak buolvva sámegielak mánáj li sjaddamin dálla.</p>
-    <p>Vuona sebrudahka la aj sáme kultuvrav fármastam, ja sáme rijkav miehtáj åtsådalli juhte sijá kultuvrra ja giela ienebut dåhkkiduvvi. Berustibme sáme sebrudahkaj la stuorre, ja ájgge goassa aktisasj giellaratjástimev dahkat, ij lulu buorep.</p>
-    <p type="title">Majna dån máhtá viehkedit?</p>
-    <p>Åttjuda bájkálasj kafieja bårråmusfálov avta sámegiellaj jårggålittjat, ásada giellakafiejav jali gatsosta Giellavahko plakáhtav ietjat vinndegij.</p>
-    <p>Márjju dujna li ietjá buorre ájádusá ja sidá Giellavahkkuj sæbrrat?</p>
-    <p>Tjálesta giellalokten@samediggi.no , jali guládalá ietjat lagámus sáme giellaguovdátjijn!</p>
-    <p>Moadda sáme giellaguovdátja ájggu Giellavahkov ávvudallat. Jus sidá viehkedit jali dujna li ájádusá, de guládalá daj.</p>
-    <p>Dánna gávna guládallamdiedojt gájkka sáme giellaguovdátjijda Vuonan</p>
-    <p>Goarrista mijá Facebook- dáhpádusáv ådåsmahttemijt tjuovudittjat!</p>
-    <p>Lågå aj: Mij la giellalåpptim? Lågå aj: Rijkajgasskasasj álggoálmmukgielaj jahke – IYIL 2019</p>
-    <p type="title">Viedtjala almodusáv (flyer), viehkeda mijáv diedov oablodittjat!</p>
-    <p type="title">Hjertespråket/Vaajmoegïele/Vájmogiella/Váibmogiella</p>
-    <p>Sáme giallanammadus almodij gålgådismáno 10. biejve 2016 guorahallamav VAT 2016: 18.</p>
-    <p>Guoradallama ulmme l læhkám árvustallat ja árvvalit dåjmajt nannitjit doajmme ja avtaárvvusasj almulasj dievnastusájt sámegielajda.</p>
-    <p xml:lang="nob">09.10 10.10</p>
-    <p type="title" xml:lang="sme">Giellaseminára - Anár</p>
-    <p>Vuona, Svieriga ja Suoma sámedikke ásadi aktisasj giellaseminárav dålkåjda, jårggåliddjijda ja ietjá giellabarggijda.</p>
-    <p>Sámedikke ásadi aktan 9.-10.10.2019 giellaseminárav Anárin ållagasj sidjij gudi sámegielaj barggi: jårggåliddjen, dålkkån jali ietjá giellabarggen. Seminárra ásaduvvá Vuona, Svieriga ja Suoma sámedikkij ja Sáme Giellagáldo aktisasjbarggon ja la oassen sámedikkij AN:a álggoálmmukgielaj jage tjalmostahttemis.</p>
-    <p>Dán gålmå sámedikke aktisasj ásadime ussjolmis la giellabarggij máhtudagáv doarjjot, vaddet máhttelisvuodav tjiegŋalabbo giellaássjijt dágástalátjit ja dålkåj, jårggåliddjij ja giellabarggij bargguj tjiegŋodit guoskavasj gatjálvisájda, máhttelisvuodajda ja hásstalusájda. Dát seminárra fállá aj máhttelisvuodav ådå værmádagáv ja aktisasjbarggogasskavuodajt giellabarggij gaskan dagátjit ja náv aj nanostuhttet rájájrasstijiddje aktisasjbargov sámegielaj gáktuj.</p>
-    <p>Ávos sámedikke bivddi gájka giellaberustiddjijt giellaseminárraj 9.-10.10.2019 Anárij!</p>
-    <p>Seminára prográmma ja ietjá diedo almoduvvi maŋŋela.</p>
-    <p>Diededibme seminárraj oassálasstet rabáduvvá tjaktjagiesen 2019.</p>
-    <p>Lassediedo:</p>
-    <p xml:lang="sme">Anne Kirste Aikio , mobiltelefåvnån +358 40 7075626 Mikkel Rasmus Logje , mobiltelefåvnån +47 412 65 375 Marie Louise Allas , mobiltelefåvnån +46 70-367 46 82</p>
-    <p>Lågå ienep</p>
-    <p xml:lang="nob">Vis alle arrangementer</p>
-    <p xml:lang="nob">NOU 2016: 18 – Hjertespråket</p>
-    <p xml:lang="sme">NOU 2016: 18 – Oanehisveršuvdna, njealji gillii</p>
-    <p type="title" xml:lang="nob">Fakta om samiske språk</p>
-    <p xml:lang="nob">De mest brukte samiske språkene i Norge i dag er nordsamisk, lulesamisk og sørsamisk. Pitesamisk og østsamisk er i en vitaliseringsfase i Norge.</p>
-    <p xml:lang="nob">De samiske språkområdene strekker seg tradisjonelt over deler av Norge, Sverige, Finland og Russland. Riksgrensene er trukket på tvers av språkgrensene.</p>
-    <p xml:lang="nob">I internasjonal sammenheng er alle samiske språk karakterisert som truede, alvorlig truede eller nesten utdødde språk.</p>
-    <p xml:lang="nob">Samiske språk er beskyttet av blant annet ILO-konvensjon 169, Norges grunnlov, Stedsnavnloven, Samelovens språkregel i Norge og gjennom opplæringsloven.</p>
-    <p xml:lang="nob">Internasjonalt er samiske språk beskyttet av blant annet nordisk språkdeklarasjon og European Charter for Regional and Minority Languages.</p>
-    <p xml:lang="nob">Se mer fakta om samiske språk på internettsiden til Store norske leksikon .</p>
-    <p type="title" xml:lang="nob">Samiske stedsnavn</p>
-    <p xml:lang="nob">Stedsnavnloven gir bestemmelser om stedsnavn i offentlig bruk. Loven gjelder i hele landet og dermed også i hele det samiske språkområdet. Stedsnavnloven skal sikre samiske stedsnavn i samsvar med nasjonalt lovverk og internasjonale avtaler og konvensjoner. Det stilles krav til bruk av korrekt stavemåte og bruk av samiske tegn.</p>
-    <p type="title" xml:lang="nob">Sametingets stedsnavntjeneste:</p>
-    <p xml:lang="nob">Sametingets stedsnavntjeneste tilbyr informasjon og hjelp i arbeidet med samiske stedsnavn.</p>
-    <p xml:lang="nob">Alle statlige, fylkeskommunale og kommunale organ som skal vedta skrivemåter av stedsnavn, skal legge saken fram for stedsnavntjenesten.</p>
-    <p xml:lang="nob">Ta kontakt med Sametinget ved spørsmål om stedsnavn, per epost eller ring +47 78 47 40 00.</p>
-    <p type="title">Sámegielaj háldadimguovllo</p>
-    <p>Sámegielaj háldadimguovlon li sámegiella ja dárogiella avtaárvvusasj giela. Dát merkaj, gájkajn la riektá dievnastusájt sámegiellaj oadtjot gå válldi aktijvuodav almmulasj ásadusáj ma li sámegielaj háldadimguovlo sisbielen.</p>
-    <p>Sámegielaj háldadimguovlon li Guovdageinnu, Kárášjoga, Deanu, Unjárga ja Porsáŋgu suohkana Finnmárkon, Gáivuona ja Loabága suohkana Tråmsån, Divtasvuona ja Aarborte suohkana Nordlándan, Snåase, Raarvihke ja Røros suohkana Trøøndelaagen fylhkentjïelten.</p>
-    <p>Njieljja nuorttalamos fylkasuohkana, Finnmárkko, Tråmsså, Nordlánnda ja Trøøndelaage gulluji aj háldadimguovlluj.</p>
-    <p type="title" xml:lang="nob">Rettigheter</p>
-    <p xml:lang="nob">Den samiske folkegruppen i Norge skal kunne sikre og utvikle sitt språk, kultur og sitt samfunnsliv.</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Alle har rett til svar på samisk når de henvender seg til et lokalt offentlig organ i forvaltningsområdet for samisk språk.</p>
-      <p type="listitem" xml:lang="nob">Alle har rett til å bruke samisk i rettsvesenet.</p>
-      <p type="listitem" xml:lang="nob">Alle som ønsker å bruke samisk overfor lokale og regionale offentlige helse- og sosialinstitusjoner i forvaltningsområdet, har rett til å bli betjent på samisk.</p>
-      <p type="listitem" xml:lang="nob">Samiske barn under barnevernets omsorg har rett til å bruke sitt morsmål.</p>
-      <p type="listitem" xml:lang="nob">Alle har rett til individuelle kirkelige tjenester på samisk i Den norske kirkes menigheter i forvaltningsområdet.</p>
-      <p type="listitem" xml:lang="nob">Ansatte i et lokalt eller regionalt offentlig organ i forvaltningsområdet har rett til permisjon med lønn for å skaffe seg kunnskap i samisk når organet har behov for slik kunnskap.</p>
-      <p type="listitem" xml:lang="nob">Alle har rett til opplæring i samisk i grunnskolen og i den videregående skole.</p>
-    </list>
-    <p type="title" xml:lang="nob">Lover og forskrifter som omhandler samisk språk</p>
-    <p xml:lang="nob">Lov om Sametinget og andre samiske rettsforhold (sameloven):</p>
-    <p xml:lang="nob">Kapittel 3. Samisk språk.</p>
-    <p xml:lang="nob">Forskrifter som hører til Lov om Sametinget og andre samiske rettsforhold (sameloven) som omhandler samisk språk:</p>
-    <p xml:lang="nob">Forskrift til sameloven (lov 12. juni 1987 nr. 56) om forvaltningsområdet for samisk språk</p>
-    <p xml:lang="nob">Forskrift til samelovens språkregler</p>
-    <p xml:lang="nob">Forskrift til rett om opplæring i samisk</p>
-    <p xml:lang="nob">Lov om stadnamn:</p>
-    <p xml:lang="nob">Lov om stadnamn</p>
-    <p xml:lang="nob">Forskrift til lov om stadnamn</p>
-    <p type="title" xml:lang="sme">Sámi Giellagáldu</p>
-    <p xml:lang="nob">Sametingene i Sverige, Finland og Norge igangsatte et treårig grenseoverskridende samarbeidsprosjekt. Videreføringsprosjektet Sámi Giellagáldu er det samiske folkets felles og samtidig øverste vedtaksorgan i spørsmål som vedrører samiske språk.</p>
-    <p xml:lang="nob">09.10 10.10</p>
-    <p type="title" xml:lang="sme">Giellaseminára - Anár</p>
-    <p>Vuona, Svieriga ja Suoma sámedikke ásadi aktisasj giellaseminárav dålkåjda, jårggåliddjijda ja ietjá giellabarggijda.</p>
-    <p>Sámedikke ásadi aktan 9.-10.10.2019 giellaseminárav Anárin ållagasj sidjij gudi sámegielaj barggi: jårggåliddjen, dålkkån jali ietjá giellabarggen. Seminárra ásaduvvá Vuona, Svieriga ja Suoma sámedikkij ja Sáme Giellagáldo aktisasjbarggon ja la oassen sámedikkij AN:a álggoálmmukgielaj jage tjalmostahttemis.</p>
-    <p>Dán gålmå sámedikke aktisasj ásadime ussjolmis la giellabarggij máhtudagáv doarjjot, vaddet máhttelisvuodav tjiegŋalabbo giellaássjijt dágástalátjit ja dålkåj, jårggåliddjij ja giellabarggij bargguj tjiegŋodit guoskavasj gatjálvisájda, máhttelisvuodajda ja hásstalusájda. Dát seminárra fállá aj máhttelisvuodav ådå værmádagáv ja aktisasjbarggogasskavuodajt giellabarggij gaskan dagátjit ja náv aj nanostuhttet rájájrasstijiddje aktisasjbargov sámegielaj gáktuj.</p>
-    <p>Ávos sámedikke bivddi gájka giellaberustiddjijt giellaseminárraj 9.-10.10.2019 Anárij!</p>
-    <p>Seminára prográmma ja ietjá diedo almoduvvi maŋŋela.</p>
-    <p>Diededibme seminárraj oassálasstet rabáduvvá tjaktjagiesen 2019.</p>
-    <p>Lassediedo:</p>
-    <p xml:lang="sme">Anne Kirste Aikio , mobiltelefåvnån +358 40 7075626 Mikkel Rasmus Logje , mobiltelefåvnån +47 412 65 375 Marie Louise Allas , mobiltelefåvnån +46 70-367 46 82</p>
-    <p>Lågå ienep</p>
-    <p xml:lang="nob">Vis alle arrangementer</p>
-    <p type="title" xml:lang="nob">Tilbyr språkhjelp</p>
-    <p xml:lang="nob">Sámi Giellagáldu er et faglig sakkyndig organ, som tilbyr språkhjelp og veiledning i spørsmål som gjelder bruken av de samiske språkene. Sámi Giellagáldu godkjenner nye termer, vedtar normering, språkrøkt, stedsnavn, utvikling av språket og navnetjeneste og gir informasjon om de samiske språkene.</p>
-    <p xml:lang="nob">Språkbrukerne kan sende språkspørsmål til Sámi Giellagáldu via facebook-siden eller via e-post . Sámi Giellagáldu tilbyr språkhjelp i forbindelse med sør-, lule- og nordsamisk og også enaresamisk og østsamisk.</p>
-    <p xml:lang="nob">Mer informasjon om virksomheten til det felles nordiske språkorganet finner du på hjemmesidene til Sámi Giellagáldu .</p>
-    <p type="title">Sáme giellaguovdátja</p>
-    <p>Aktisasj gájkka giellaguovdátjijda la ulmme sámegielajt tjalmostahttet ja viehkedit vaj sámegiela bisoduvvá ja åvddånahteduvvá.</p>
-    <p>Giellaguovdátja ietjasa dåjmaj baktu li ållu guovdátjin sámegielav ietjasa lagámus birrasijn tjalmostahttemin.</p>
-    <p>Sámegiela vidjura li moattelágátja guovlos guovlluj. Giellaguovdátja gæhttji vidjurijda ietjasa guovlojn ja álgadi dåjmajt hiebadum dárbojda gen ga guovlon.</p>
-    <p>Jus sidá ienep diedojt giellaguovdátjij fálaldagáj birra, guládalá njuolgga:</p>
-    <list>
-      <p type="listitem" xml:lang="sme">Áltá: Álttá Sámi Giellaguovddáš</p>
-      <p type="listitem" xml:lang="sme">Deatnu: Deanu giellagáddi (SEG)</p>
-      <p type="listitem" xml:lang="sme">Unjárga: Isak Saba guovddáš</p>
-      <p type="listitem" xml:lang="sme">Porsáŋgu: Sámi giella- ja kulturguovddáš</p>
-      <p type="listitem" xml:lang="sme">Gáivuotna: Sámi giellaguovddáš</p>
-      <p type="listitem" xml:lang="sme">Guovdageaidnu: Giellagiisá</p>
-      <p type="listitem" xml:lang="sme">Romsa: Gáisi Giellaguovddáš</p>
-      <p type="listitem" xml:lang="nob">Omasvuotna: Storfjord språksenter</p>
-      <p type="listitem" xml:lang="sme">Evenášši: Várdobáiki</p>
-      <p type="listitem" xml:lang="sme">Loabát: Ástávuona giellagoahtie</p>
-      <p type="listitem">Divtasvuodna: Árran julevsáme guovdásj</p>
-      <p type="listitem" xml:lang="sme">Raarvihke: Gïeleaernie</p>
-      <p type="listitem" xml:lang="sme">Snåase: Gïelem nastedh</p>
-      <p type="listitem" xml:lang="sme">Röörose: Aajege Saemien giele- jih maahtoejarnge</p>
-    </list>
-    <p type="title" xml:lang="nob">Språkteknologi</p>
-    <p xml:lang="nob">Sametingsrådet samarbeider med ulike forsknings- og utviklingsaktører for å styrke det språkteknologiske tilbudet innen alle de samiske språkene. De samiske språkene trenger språkbrukere, og aktive språkbrukere behøver moderne hjelpemidler for data, nett og mobile enheter.</p>
-    <p xml:lang="nob">Divvun-prosjektet og talesyntese for nordsamisk språk er begge viktige språkprosjekter som i sin tid ble etablert i Sametingets regi, men som nå er overført til UiT Norges Arktiske Universitet. Sametinget samarbeider om allerede eksisterende og nye prosjekter for å øke antallet og kvaliteten av teknologiske språkverktøy.</p>
-    <p type="title" xml:lang="nob">Snakk samisk med barnet</p>
-    <p xml:lang="nob">Valg av språk til sitt barn er kanskje ikke alltid et ukomplisert valg, og mange opplever endel problemstillinger i forbindelse med det. Sametinget vil bidra til bevisstgjøring blant foreldre om språkvalg, spre informasjon og veiledning samt være til støtte for foreldre.</p>
-    <p xml:lang="nob">Sametinget har hatt en språkkampanje Snakk samisk med barnet, i perioden høsten 2016 - våren 2017. Formålet med kampanjen var å belyse temaet språkvalg for barn, og to-/flerspråklighet. Kampanjen har en egen Facebook -side .</p>
-    <p xml:lang="nob">Her finner du mer informasjon om tospråklighet og barns språkutvikling.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Giella</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2019</year><wordcount>2240</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>https://www.samedigge.no/Dievnastusa/Giella</origFileName><parallel_text xml:lang="sma" location="giele.html"/><parallel_text xml:lang="sme" location="giella.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Giella</p>
+<p>Giella l ájnas kulturguodde ja iesjdåbddomærkka. Vuodulasj almasjrievtesvuohta l adnet mahttelisvuodav ietjas gielav adnet, ja álggoálmmugin la sámijn duodden vil riektá, ietjasa giella suodjaluvvá.</p>
+<p>Sámedigge barggá vaj:</p>
+<list><p type="listitem">Sámegielaj háldadimguovllo vijdeduvvá, bagádallamij ja aktisasjbargo suohkanij oajválattjaj baktu.</p>
+<p type="listitem">Ienep giellaarena ásaduvvi, barggamin sáme giellaguovdátjijt ásadittjat ja dårjav sierra gielladåjmajda vaddet.</p>
+<p type="listitem">Vaj sámegiela galggi viesso giellan adjáj åvddålijguovlluj liehket, vuorodime mánájt ja nuorajt.</p>
+</list><p><em type="italic">Biejve </em>: Gålgådismáno 21. - 27. biejvij 2019 </p>
+<p><em type="italic">Sadje </em>: Rijkav miehtáj </p>
+<p><em type="italic">Gesi </em>: Gájkdivna li bivddidum </p>
+<p>Le gus dån goassak ussjolam, manen sámegiella ij mielkkepáhkijn, galbajn jalik næhttabielijn vuojnnu? Dájna la dån bivddidum Giellavahkkuj 2019. Sebra giellalåpptimij!</p>
+<p>Sáme giallanammadus almodij gålgådismáno 10. biejve 2016 guorahallamav VAT 2016: 18.</p>
+<p>Guoradallama ulmme l læhkám árvustallat ja árvvalit dåjmajt nannitjit doajmme ja avtaárvvusasj almulasj dievnastusájt sámegielajda.</p>
+<p xml:lang="nob">De mest brukte samiske språkene i Norge i dag er nordsamisk, lulesamisk og sørsamisk. Pitesamisk og østsamisk er i en vitaliseringsfase i Norge.</p>
+<p xml:lang="nob">De samiske språkområdene strekker seg tradisjonelt over deler av Norge, Sverige, Finland og Russland. Riksgrensene er trukket på tvers av språkgrensene.</p>
+<p xml:lang="nob">Stedsnavnloven gir bestemmelser om stedsnavn i offentlig bruk. Loven gjelder i hele landet og dermed også i hele det samiske språkområdet. Stedsnavnloven skal sikre samiske stedsnavn i samsvar med nasjonalt lovverk og internasjonale avtaler og konvensjoner. Det stilles krav til bruk av korrekt stavemåte og bruk av samiske tegn.</p>
+<p>Sámegielaj háldadimguovlon li sámegiella ja dárogiella avtaárvvusasj giela. Dát merkaj, gájkajn la riektá dievnastusájt sámegiellaj oadtjot gå válldi aktijvuodav almmulasj ásadusáj ma li sámegielaj háldadimguovlo sisbielen.</p>
+<p xml:lang="nob">Den samiske folkegruppen i Norge skal kunne sikre og utvikle sitt språk, kultur og sitt samfunnsliv.</p>
+<list><p type="listitem" xml:lang="nob">Alle har rett til svar på samisk når de henvender seg til et lokalt offentlig organ i forvaltningsområdet for samisk språk.</p>
+<p type="listitem" xml:lang="nob">Alle har rett til å bruke samisk i rettsvesenet.</p>
+<p type="listitem" xml:lang="nob">Alle som ønsker å bruke samisk overfor lokale og regionale offentlige helse- og sosialinstitusjoner i forvaltningsområdet, har rett til å bli betjent på samisk.</p>
+<p type="listitem" xml:lang="nob">Samiske barn under barnevernets omsorg har rett til å bruke sitt morsmål.</p>
+<p type="listitem" xml:lang="nob">Alle har rett til individuelle kirkelige tjenester på samisk i Den norske kirkes menigheter i forvaltningsområdet.</p>
+<p type="listitem" xml:lang="nob">Ansatte i et lokalt eller regionalt offentlig organ i forvaltningsområdet har rett til permisjon med lønn for å skaffe seg kunnskap i samisk når organet har behov for slik kunnskap.</p>
+<p type="listitem" xml:lang="nob">Alle har rett til opplæring i samisk i grunnskolen og i den videregående skole.</p>
+</list><p xml:lang="nob">Sametingene i Sverige, Finland og Norge igangsatte et treårig grenseoverskridende samarbeidsprosjekt. Videreføringsprosjektet Sámi Giellagáldu er det samiske folkets felles og samtidig øverste vedtaksorgan i spørsmål som vedrører samiske språk.</p>
+<p>Aktisasj gájkka giellaguovdátjijda la ulmme sámegielajt tjalmostahttet ja viehkedit vaj sámegiela bisoduvvá ja åvddånahteduvvá.</p>
+<p>Giellaguovdátja ietjasa dåjmaj baktu li ållu guovdátjin sámegielav ietjasa lagámus birrasijn tjalmostahttemin.</p>
+<p>Sámegiela vidjura li moattelágátja guovlos guovlluj. Giellaguovdátja gæhttji vidjurijda ietjasa guovlojn ja álgadi dåjmajt hiebadum dárbojda gen ga guovlon.</p>
+<p xml:lang="nob">Sametingsrådet samarbeider med ulike forsknings- og utviklingsaktører for å styrke det språkteknologiske tilbudet innen alle de samiske språkene. De samiske språkene trenger språkbrukere, og aktive språkbrukere behøver moderne hjelpemidler for data, nett og mobile enheter.</p>
+<p xml:lang="nob">Valg av språk til sitt barn er kanskje ikke alltid et ukomplisert valg, og mange opplever endel problemstillinger i forbindelse med det. Sametinget vil bidra til bevisstgjøring blant foreldre om språkvalg, spre informasjon og veiledning samt være til støtte for foreldre.</p>
+<p type="title">Giellavahkko 2019</p>
+<p><em type="italic">Biejve </em>: Gålgådismáno 21. - 27. biejvij 2019 </p>
+<p><em type="italic">Sadje </em>: Rijkav miehtáj </p>
+<p><em type="italic">Gesi </em>: Gájkdivna li bivddidum </p>
+<p>Le gus dån goassak ussjolam, manen sámegiella ij mielkkepáhkijn, galbajn jalik næhttabielijn vuojnnu? Dájna la dån bivddidum Giellavahkkuj 2019. Sebra giellalåpptimij!</p>
+<p xml:lang="nob">21.10 27.10</p>
+<p type="title">Giellavahkko 2019</p>
+<p>Sáme giellavahko ulmme l sáme gielaj árvov låpptit, ja buoredit máhtov sáme giela ja kultuvra birra <em type="italic">ålles </em>sebrudagán. Jur dan vahkon galggi sámegiela gullut ja vuojnnut juohkka sajen. </p>
+<p><em type="italic">Biejve </em>: Gålgådismáno 21. - 27. biejvij 2019 </p>
+<p><em type="italic">Sadje </em>: Rijkav miehtáj </p>
+<p><em type="italic">Gesi </em>: Gájkdivna li bivddidum </p>
+<p>Le gus dån goassak ussjolam, manen sámegiella ij mielkkepáhkijn, galbajn jalik næhttabielijn vuojnnu? Dájna la dån bivddidum Giellavahkkuj 2019. Sebra giellalåpptimij!</p>
+<p>Le gus dån goassak ussjolam, manen sámegiella ij mielkkepáhkijn, galbajn jalik næhttabielijn vuojnnu? Sámedigge sihtá jut sámegiela galggi luondulasj oassen sebrudagás liehket, ja danen bivddip Giellavahkkuj, gålgådismáno 21. - 27. biejvij 2019. Giellavahko baktu sihtá Sámedigge tjalmostahttet sámegielajt gájkka sebrudaksuorgen vuojnnusin dahkat. Majna dån máhtá viehkedit? Åttjuda bájkálasj kafieja bårråmusfálov avta sámegiellaj jårggålittjat, ásada giellakafiejav jali gatsosta Giellavahko plakáhtav ietjat vinndegij. Márjju dujna li ietjá buorre ájádusá ja sidá Giellavahkkuj sæbrrat? Tjálesta giellalokten@samediggi.no, jali guládalá ietjat lagámus sáme giellaguovdátjijn!</p>
+<p>Lågå aj: Giellavahkko 2019</p>
+<p xml:lang="nob">Vis alle arrangementer</p>
+<p type="title">Mij la Giellavahkko?</p>
+<p>Giellavahko ulmme l sáme gielaj árvov låpptit, ja buoredit máhtov sáme giela ja kultuvra birra <em type="italic">ålles </em>sebrudagán. Jur dan vahkon galggi sámegiela gullut ja vuojnnut juohkka sajen. </p>
+<p>Giellavahkon mij aktan tjalmostahttep ja buoredip máhtov sámegielaj birra ålles sebrudagán. Priváhta ja almulasj ásadusá, æládusiellem, organisasjåvnå ja ietjá oassevállde bivddiduvvi sámegielajt tjalmostahtátjit jur dan vahkon. Aktan válldep stuoráp åvdåsvásstádusáv sámegielaj gullumis, vuojnnemis ja adnemis gájkajn sebrudaksuorgijn.</p>
+<p>Giellavahkko l oassen Sámedikke guhkesájggásasj giellaratjástimes – Giellalåpptim, ja dat la aj Sámedikke AN álggoálmmugij rijkajgasskasasj giellajage oajvvetjalmostibme.</p>
+<p type="title">Manen la Giellavahkko ájnas?</p>
+<p>Vájku li ájteduvvam gáhtomis, de sámegiela ájn bissu. Doajvvo le. Sámij gaskan la diedulasjvuohta giela ja giellaválljima gáktuj, ja ienep ja ienep ulmutja válljiji sæbrrat kursajda åttjudittjat gielav ruoptus mav mijá mátto li massám. Guovlojn gånnå sámegiella ij la måttijt buolvajt aneduvvam, dálla nuorra ållessjattuga sámegielav ruoptus válldi ja várrogisát gæhttjali dav vijddásappo mánájdisájda vaddet. Ådå sámegielak buolvva sámegielak mánáj li sjaddamin dálla.</p>
+<p>Vuona sebrudahka la aj sáme kultuvrav fármastam, ja sáme rijkav miehtáj åtsådalli juhte sijá kultuvrra ja giela ienebut dåhkkiduvvi. Berustibme sáme sebrudahkaj la stuorre, ja ájgge goassa aktisasj giellaratjástimev dahkat, ij lulu buorep.</p>
+<p type="title">Majna dån máhtá viehkedit?</p>
+<p>Åttjuda bájkálasj kafieja bårråmusfálov avta sámegiellaj jårggålittjat, ásada giellakafiejav jali gatsosta Giellavahko plakáhtav ietjat vinndegij.</p>
+<p>Márjju dujna li ietjá buorre ájádusá ja sidá Giellavahkkuj sæbrrat?</p>
+<p>Tjálesta giellalokten@samediggi.no , jali guládalá ietjat lagámus sáme giellaguovdátjijn!</p>
+<p>Moadda sáme giellaguovdátja ájggu Giellavahkov ávvudallat. Jus sidá viehkedit jali dujna li ájádusá, de guládalá daj.</p>
+<p>Dánna gávna guládallamdiedojt gájkka sáme giellaguovdátjijda Vuonan</p>
+<p>Goarrista mijá Facebook- dáhpádusáv ådåsmahttemijt tjuovudittjat!</p>
+<p>Lågå aj: Mij la giellalåpptim? Lågå aj: Rijkajgasskasasj álggoálmmukgielaj jahke – IYIL 2019</p>
+<p type="title">Viedtjala almodusáv (flyer), viehkeda mijáv diedov oablodittjat!</p>
+<p type="title">Hjertespråket/Vaajmoegïele/Vájmogiella/Váibmogiella</p>
+<p>Sáme giallanammadus almodij gålgådismáno 10. biejve 2016 guorahallamav VAT 2016: 18.</p>
+<p>Guoradallama ulmme l læhkám árvustallat ja árvvalit dåjmajt nannitjit doajmme ja avtaárvvusasj almulasj dievnastusájt sámegielajda.</p>
+<p xml:lang="nob">09.10 10.10</p>
+<p type="title" xml:lang="sme">Giellaseminára - Anár</p>
+<p>Vuona, Svieriga ja Suoma sámedikke ásadi aktisasj giellaseminárav dålkåjda, jårggåliddjijda ja ietjá giellabarggijda.</p>
+<p>Sámedikke ásadi aktan 9.-10.10.2019 giellaseminárav Anárin ållagasj sidjij gudi sámegielaj barggi: jårggåliddjen, dålkkån jali ietjá giellabarggen. Seminárra ásaduvvá Vuona, Svieriga ja Suoma sámedikkij ja Sáme Giellagáldo aktisasjbarggon ja la oassen sámedikkij AN:a álggoálmmukgielaj jage tjalmostahttemis.</p>
+<p>Dán gålmå sámedikke aktisasj ásadime ussjolmis la giellabarggij máhtudagáv doarjjot, vaddet máhttelisvuodav tjiegŋalabbo giellaássjijt dágástalátjit ja dålkåj, jårggåliddjij ja giellabarggij bargguj tjiegŋodit guoskavasj gatjálvisájda, máhttelisvuodajda ja hásstalusájda. Dát seminárra fállá aj máhttelisvuodav ådå værmádagáv ja aktisasjbarggogasskavuodajt giellabarggij gaskan dagátjit ja náv aj nanostuhttet rájájrasstijiddje aktisasjbargov sámegielaj gáktuj.</p>
+<p>Ávos sámedikke bivddi gájka giellaberustiddjijt giellaseminárraj 9.-10.10.2019 Anárij!</p>
+<p>Seminára prográmma ja ietjá diedo almoduvvi maŋŋela.</p>
+<p>Diededibme seminárraj oassálasstet rabáduvvá tjaktjagiesen 2019.</p>
+<p>Lassediedo:</p>
+<p xml:lang="sme">Anne Kirste Aikio , mobiltelefåvnån +358 40 7075626 Mikkel Rasmus Logje , mobiltelefåvnån +47 412 65 375 Marie Louise Allas , mobiltelefåvnån +46 70-367 46 82</p>
+<p>Lågå ienep</p>
+<p xml:lang="nob">Vis alle arrangementer</p>
+<p xml:lang="nob">NOU 2016: 18 – Hjertespråket</p>
+<p xml:lang="sme">NOU 2016: 18 – Oanehisveršuvdna, njealji gillii</p>
+<p type="title" xml:lang="nob">Fakta om samiske språk</p>
+<p xml:lang="nob">De mest brukte samiske språkene i Norge i dag er nordsamisk, lulesamisk og sørsamisk. Pitesamisk og østsamisk er i en vitaliseringsfase i Norge.</p>
+<p xml:lang="nob">De samiske språkområdene strekker seg tradisjonelt over deler av Norge, Sverige, Finland og Russland. Riksgrensene er trukket på tvers av språkgrensene.</p>
+<p xml:lang="nob">I internasjonal sammenheng er alle samiske språk karakterisert som truede, alvorlig truede eller nesten utdødde språk.</p>
+<p xml:lang="nob">Samiske språk er beskyttet av blant annet ILO-konvensjon 169, Norges grunnlov, Stedsnavnloven, Samelovens språkregel i Norge og gjennom opplæringsloven.</p>
+<p xml:lang="nob">Internasjonalt er samiske språk beskyttet av blant annet nordisk språkdeklarasjon og European Charter for Regional and Minority Languages.</p>
+<p xml:lang="nob">Se mer fakta om samiske språk på internettsiden til Store norske leksikon .</p>
+<p type="title" xml:lang="nob">Samiske stedsnavn</p>
+<p xml:lang="nob">Stedsnavnloven gir bestemmelser om stedsnavn i offentlig bruk. Loven gjelder i hele landet og dermed også i hele det samiske språkområdet. Stedsnavnloven skal sikre samiske stedsnavn i samsvar med nasjonalt lovverk og internasjonale avtaler og konvensjoner. Det stilles krav til bruk av korrekt stavemåte og bruk av samiske tegn.</p>
+<p type="title" xml:lang="nob">Sametingets stedsnavntjeneste:</p>
+<p xml:lang="nob">Sametingets stedsnavntjeneste tilbyr informasjon og hjelp i arbeidet med samiske stedsnavn.</p>
+<p xml:lang="nob">Alle statlige, fylkeskommunale og kommunale organ som skal vedta skrivemåter av stedsnavn, skal legge saken fram for stedsnavntjenesten.</p>
+<p xml:lang="nob">Ta kontakt med Sametinget ved spørsmål om stedsnavn, per epost eller ring +47 78 47 40 00.</p>
+<p type="title">Sámegielaj háldadimguovllo</p>
+<p>Sámegielaj háldadimguovlon li sámegiella ja dárogiella avtaárvvusasj giela. Dát merkaj, gájkajn la riektá dievnastusájt sámegiellaj oadtjot gå válldi aktijvuodav almmulasj ásadusáj ma li sámegielaj háldadimguovlo sisbielen.</p>
+<p>Sámegielaj háldadimguovlon li Guovdageinnu, Kárášjoga, Deanu, Unjárga ja Porsáŋgu suohkana Finnmárkon, Gáivuona ja Loabága suohkana Tråmsån, Divtasvuona ja Aarborte suohkana Nordlándan, Snåase, Raarvihke ja Røros suohkana Trøøndelaagen fylhkentjïelten.</p>
+<p>Njieljja nuorttalamos fylkasuohkana, Finnmárkko, Tråmsså, Nordlánnda ja Trøøndelaage gulluji aj háldadimguovlluj.</p>
+<p type="title" xml:lang="nob">Rettigheter</p>
+<p xml:lang="nob">Den samiske folkegruppen i Norge skal kunne sikre og utvikle sitt språk, kultur og sitt samfunnsliv.</p>
+<list><p type="listitem" xml:lang="nob">Alle har rett til svar på samisk når de henvender seg til et lokalt offentlig organ i forvaltningsområdet for samisk språk.</p>
+<p type="listitem" xml:lang="nob">Alle har rett til å bruke samisk i rettsvesenet.</p>
+<p type="listitem" xml:lang="nob">Alle som ønsker å bruke samisk overfor lokale og regionale offentlige helse- og sosialinstitusjoner i forvaltningsområdet, har rett til å bli betjent på samisk.</p>
+<p type="listitem" xml:lang="nob">Samiske barn under barnevernets omsorg har rett til å bruke sitt morsmål.</p>
+<p type="listitem" xml:lang="nob">Alle har rett til individuelle kirkelige tjenester på samisk i Den norske kirkes menigheter i forvaltningsområdet.</p>
+<p type="listitem" xml:lang="nob">Ansatte i et lokalt eller regionalt offentlig organ i forvaltningsområdet har rett til permisjon med lønn for å skaffe seg kunnskap i samisk når organet har behov for slik kunnskap.</p>
+<p type="listitem" xml:lang="nob">Alle har rett til opplæring i samisk i grunnskolen og i den videregående skole.</p>
+</list><p type="title" xml:lang="nob">Lover og forskrifter som omhandler samisk språk</p>
+<p xml:lang="nob">Lov om Sametinget og andre samiske rettsforhold (sameloven):</p>
+<p xml:lang="nob">Kapittel 3. Samisk språk.</p>
+<p xml:lang="nob">Forskrifter som hører til Lov om Sametinget og andre samiske rettsforhold (sameloven) som omhandler samisk språk:</p>
+<p xml:lang="nob">Forskrift til sameloven (lov 12. juni 1987 nr. 56) om forvaltningsområdet for samisk språk</p>
+<p xml:lang="nob">Forskrift til samelovens språkregler</p>
+<p xml:lang="nob">Forskrift til rett om opplæring i samisk</p>
+<p xml:lang="nob">Lov om stadnamn:</p>
+<p xml:lang="nob">Lov om stadnamn</p>
+<p xml:lang="nob">Forskrift til lov om stadnamn</p>
+<p type="title" xml:lang="sme">Sámi Giellagáldu</p>
+<p xml:lang="nob">Sametingene i Sverige, Finland og Norge igangsatte et treårig grenseoverskridende samarbeidsprosjekt. Videreføringsprosjektet Sámi Giellagáldu er det samiske folkets felles og samtidig øverste vedtaksorgan i spørsmål som vedrører samiske språk.</p>
+<p xml:lang="nob">09.10 10.10</p>
+<p type="title" xml:lang="sme">Giellaseminára - Anár</p>
+<p>Vuona, Svieriga ja Suoma sámedikke ásadi aktisasj giellaseminárav dålkåjda, jårggåliddjijda ja ietjá giellabarggijda.</p>
+<p>Sámedikke ásadi aktan 9.-10.10.2019 giellaseminárav Anárin ållagasj sidjij gudi sámegielaj barggi: jårggåliddjen, dålkkån jali ietjá giellabarggen. Seminárra ásaduvvá Vuona, Svieriga ja Suoma sámedikkij ja Sáme Giellagáldo aktisasjbarggon ja la oassen sámedikkij AN:a álggoálmmukgielaj jage tjalmostahttemis.</p>
+<p>Dán gålmå sámedikke aktisasj ásadime ussjolmis la giellabarggij máhtudagáv doarjjot, vaddet máhttelisvuodav tjiegŋalabbo giellaássjijt dágástalátjit ja dålkåj, jårggåliddjij ja giellabarggij bargguj tjiegŋodit guoskavasj gatjálvisájda, máhttelisvuodajda ja hásstalusájda. Dát seminárra fállá aj máhttelisvuodav ådå værmádagáv ja aktisasjbarggogasskavuodajt giellabarggij gaskan dagátjit ja náv aj nanostuhttet rájájrasstijiddje aktisasjbargov sámegielaj gáktuj.</p>
+<p>Ávos sámedikke bivddi gájka giellaberustiddjijt giellaseminárraj 9.-10.10.2019 Anárij!</p>
+<p>Seminára prográmma ja ietjá diedo almoduvvi maŋŋela.</p>
+<p>Diededibme seminárraj oassálasstet rabáduvvá tjaktjagiesen 2019.</p>
+<p>Lassediedo:</p>
+<p xml:lang="sme">Anne Kirste Aikio , mobiltelefåvnån +358 40 7075626 Mikkel Rasmus Logje , mobiltelefåvnån +47 412 65 375 Marie Louise Allas , mobiltelefåvnån +46 70-367 46 82</p>
+<p>Lågå ienep</p>
+<p xml:lang="nob">Vis alle arrangementer</p>
+<p type="title" xml:lang="nob">Tilbyr språkhjelp</p>
+<p xml:lang="nob">Sámi Giellagáldu er et faglig sakkyndig organ, som tilbyr språkhjelp og veiledning i spørsmål som gjelder bruken av de samiske språkene. Sámi Giellagáldu godkjenner nye termer, vedtar normering, språkrøkt, stedsnavn, utvikling av språket og navnetjeneste og gir informasjon om de samiske språkene.</p>
+<p xml:lang="nob">Språkbrukerne kan sende språkspørsmål til Sámi Giellagáldu via facebook-siden eller via e-post . Sámi Giellagáldu tilbyr språkhjelp i forbindelse med sør-, lule- og nordsamisk og også enaresamisk og østsamisk.</p>
+<p xml:lang="nob">Mer informasjon om virksomheten til det felles nordiske språkorganet finner du på hjemmesidene til Sámi Giellagáldu .</p>
+<p type="title">Sáme giellaguovdátja</p>
+<p>Aktisasj gájkka giellaguovdátjijda la ulmme sámegielajt tjalmostahttet ja viehkedit vaj sámegiela bisoduvvá ja åvddånahteduvvá.</p>
+<p>Giellaguovdátja ietjasa dåjmaj baktu li ållu guovdátjin sámegielav ietjasa lagámus birrasijn tjalmostahttemin.</p>
+<p>Sámegiela vidjura li moattelágátja guovlos guovlluj. Giellaguovdátja gæhttji vidjurijda ietjasa guovlojn ja álgadi dåjmajt hiebadum dárbojda gen ga guovlon.</p>
+<p>Jus sidá ienep diedojt giellaguovdátjij fálaldagáj birra, guládalá njuolgga:</p>
+<list><p type="listitem" xml:lang="sme">Áltá: Álttá Sámi Giellaguovddáš</p>
+<p type="listitem" xml:lang="sme">Deatnu: Deanu giellagáddi (SEG)</p>
+<p type="listitem" xml:lang="sme">Unjárga: Isak Saba guovddáš</p>
+<p type="listitem" xml:lang="sme">Porsáŋgu: Sámi giella- ja kulturguovddáš</p>
+<p type="listitem" xml:lang="sme">Gáivuotna: Sámi giellaguovddáš</p>
+<p type="listitem" xml:lang="sme">Guovdageaidnu: Giellagiisá</p>
+<p type="listitem" xml:lang="sme">Romsa: Gáisi Giellaguovddáš</p>
+<p type="listitem" xml:lang="nob">Omasvuotna: Storfjord språksenter</p>
+<p type="listitem" xml:lang="sme">Evenášši: Várdobáiki</p>
+<p type="listitem" xml:lang="sme">Loabát: Ástávuona giellagoahtie</p>
+<p type="listitem">Divtasvuodna: Árran julevsáme guovdásj</p>
+<p type="listitem" xml:lang="sme">Raarvihke: Gïeleaernie</p>
+<p type="listitem" xml:lang="sme">Snåase: Gïelem nastedh</p>
+<p type="listitem" xml:lang="sme">Röörose: Aajege Saemien giele- jih maahtoejarnge</p>
+</list><p type="title" xml:lang="nob">Språkteknologi</p>
+<p xml:lang="nob">Sametingsrådet samarbeider med ulike forsknings- og utviklingsaktører for å styrke det språkteknologiske tilbudet innen alle de samiske språkene. De samiske språkene trenger språkbrukere, og aktive språkbrukere behøver moderne hjelpemidler for data, nett og mobile enheter.</p>
+<p xml:lang="nob">Divvun-prosjektet og talesyntese for nordsamisk språk er begge viktige språkprosjekter som i sin tid ble etablert i Sametingets regi, men som nå er overført til UiT Norges Arktiske Universitet. Sametinget samarbeider om allerede eksisterende og nye prosjekter for å øke antallet og kvaliteten av teknologiske språkverktøy.</p>
+<p type="title" xml:lang="nob">Snakk samisk med barnet</p>
+<p xml:lang="nob">Valg av språk til sitt barn er kanskje ikke alltid et ukomplisert valg, og mange opplever endel problemstillinger i forbindelse med det. Sametinget vil bidra til bevisstgjøring blant foreldre om språkvalg, spre informasjon og veiledning samt være til støtte for foreldre.</p>
+<p xml:lang="nob">Sametinget har hatt en språkkampanje Snakk samisk med barnet, i perioden høsten 2016 - våren 2017. Formålet med kampanjen var å belyse temaet språkvalg for barn, og to-/flerspråklighet. Kampanjen har en egen Facebook -side .</p>
+<p xml:lang="nob">Her finner du mer informasjon om tospråklighet og barns språkutvikling.</p>
+</body></document>

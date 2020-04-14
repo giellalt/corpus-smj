@@ -1,49 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>222</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/julevsamegiella/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="fin" location="nat-min-default.html"/>
-    <parallel_text xml:lang="sma" location="nat-min-default.html"/>
-    <parallel_text xml:lang="sme" location="nat-min-default.html"/>
-    <parallel_text xml:lang="swe" location="nat-min-default.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Svieriga rijkalasj unneplågo - Länsstyrelsen i Stockholm</p>
-    <list/>
-    <p type="title">Svieriga rijkalasj unneplågo</p>
-    <p>
-      <em type="italic">Lenastivrra Stockholma lenan (Länsstyrelsen i Stockholms län) ja Sámedigge(Sametinget) li ådåjakmáno 1.b. 2010 rajes oajvveåvdåsvásstediddje aktidittjat ja dåbelijtjuovvot gåktu Svieriga unneplågopolitijkka tjadáduvvá rijkan. </em>
-    </p>
-    <p>Javllamánon 1999 rijkabiejvve mierredij Svierik(Sverige) galgaj säbrrat Europaráde(Europarådet) rábmakonvensjåvnnåj suoje birra rijkalasj unneplågojda ja europalasj biejadus rijkadajva- jali unneplågogiela birra. Rijkabiejve(Riksdagen) mierredin aj unneplågopolitijka birra ja vidá rijkalasj unneplågo dåhkkidimev ja sijá gielajt (gájkka várietehta).</p>
-    <p type="title">Svieriga rijkalasj unneplågo ja unneplågogiela</p>
-    <p>Vihtta dåhkkidum rijkalasj unneplågo Svierigin li juvdára, roma, sáme (gudi aj li iemeálmmuga), svieriksuobmelattja ja duorosliegega. Histåvrålasj unneplågogiela li jiddisch, romagiella, sámegiella, suomagiella ja meängiella. Aktisattjat unneplågogielajda l gå sij li álmmugahttám Svierigav guhka ájgev ja sij li juohkusa tjielgga aktisasjvuodajn. Siján li aj ietjasa religiåvnålasj, gielalasj jali kultuvralasj sierratjärdda ja sihti ietjasa identitehtav bisodit.</p>
-    <p type="title">Ráddidusá unneplågopolitijkka</p>
-    <p>Unneplågopolitijkka gåbttjå ássjijt suoddjima ja dårja birra rijkalasj unneplågojda ja histåvrålasj unneplågogielajda. Buoredit rijkalasj unneplågoj suojev l Svieriga bargo oasse suoddjit ulmutja riektájt.</p>
-    <p type="title">Unneplågopolitijkalasj strategiddja</p>
-    <p>2009 jagen ráddidus oahpásmuhtij ådå unneplågopolitijkalasj strategiddjav biedjamdagoj nannidittjat rijkalasj unneplågoj riektájt ájn vil. Oassen ráddidusá strategiddjan la aj fámon ådåjakmáno 1.b. 2010 rájes láhka rijkalasj unneplågoj ja unneplågogielaj birra. Strategiddja sisanet muhtem oajvvadusájt nannidittjat rijkalasj unneplågoj riektájt praktijkalattjat, iehtjádij siegen biedjamdago:</p>
-    <list>
-      <p type="listitem">nannidittjat Europaráde unneplågokonvensjåvnåj buorep tjuovvomav ja tjadádum biedjamdagoj dåbelitjuovvomav</p>
-      <p type="listitem">vuosteldittjat rijkalasj unneplågoj nuppástallamav ja rasjesvuodav</p>
-      <p type="listitem">nannidittjat rijkalasj unneplågoj iesjstivrrimav ja vájkudimfámov</p>
-      <p type="listitem">åvdedittjat rijkalasj unneplågogielaj bisodimev</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>222</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/julevsamegiella/Pages/default.aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-default.html"/><parallel_text xml:lang="sma" location="nat-min-default.html"/><parallel_text xml:lang="sme" location="nat-min-default.html"/><parallel_text xml:lang="swe" location="nat-min-default.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Svieriga rijkalasj unneplågo - Länsstyrelsen i Stockholm</p>
+<list/><p type="title">Svieriga rijkalasj unneplågo</p>
+<p><em type="italic">Lenastivrra Stockholma lenan (Länsstyrelsen i Stockholms län) ja Sámedigge(Sametinget) li ådåjakmáno 1.b. 2010 rajes oajvveåvdåsvásstediddje aktidittjat ja dåbelijtjuovvot gåktu Svieriga unneplågopolitijkka tjadáduvvá rijkan. </em></p>
+<p>Javllamánon 1999 rijkabiejvve mierredij Svierik(Sverige) galgaj säbrrat Europaráde(Europarådet) rábmakonvensjåvnnåj suoje birra rijkalasj unneplågojda ja europalasj biejadus rijkadajva- jali unneplågogiela birra. Rijkabiejve(Riksdagen) mierredin aj unneplågopolitijka birra ja vidá rijkalasj unneplågo dåhkkidimev ja sijá gielajt (gájkka várietehta).</p>
+<p type="title">Svieriga rijkalasj unneplågo ja unneplågogiela</p>
+<p>Vihtta dåhkkidum rijkalasj unneplågo Svierigin li juvdára, roma, sáme (gudi aj li iemeálmmuga), svieriksuobmelattja ja duorosliegega. Histåvrålasj unneplågogiela li jiddisch, romagiella, sámegiella, suomagiella ja meängiella. Aktisattjat unneplågogielajda l gå sij li álmmugahttám Svierigav guhka ájgev ja sij li juohkusa tjielgga aktisasjvuodajn. Siján li aj ietjasa religiåvnålasj, gielalasj jali kultuvralasj sierratjärdda ja sihti ietjasa identitehtav bisodit.</p>
+<p type="title">Ráddidusá unneplågopolitijkka</p>
+<p>Unneplågopolitijkka gåbttjå ássjijt suoddjima ja dårja birra rijkalasj unneplågojda ja histåvrålasj unneplågogielajda. Buoredit rijkalasj unneplågoj suojev l Svieriga bargo oasse suoddjit ulmutja riektájt.</p>
+<p type="title">Unneplågopolitijkalasj strategiddja</p>
+<p>2009 jagen ráddidus oahpásmuhtij ådå unneplågopolitijkalasj strategiddjav biedjamdagoj nannidittjat rijkalasj unneplågoj riektájt ájn vil. Oassen ráddidusá strategiddjan la aj fámon ådåjakmáno 1.b. 2010 rájes láhka rijkalasj unneplågoj ja unneplågogielaj birra. Strategiddja sisanet muhtem oajvvadusájt nannidittjat rijkalasj unneplågoj riektájt praktijkalattjat, iehtjádij siegen biedjamdago:</p>
+<list><p type="listitem">nannidittjat Europaráde unneplågokonvensjåvnåj buorep tjuovvomav ja tjadádum biedjamdagoj dåbelitjuovvomav</p>
+<p type="listitem">vuosteldittjat rijkalasj unneplågoj nuppástallamav ja rasjesvuodav</p>
+<p type="listitem">nannidittjat rijkalasj unneplågoj iesjstivrrimav ja vájkudimfámov</p>
+<p type="listitem">åvdedittjat rijkalasj unneplågogielaj bisodimev</p>
+</list></body></document>

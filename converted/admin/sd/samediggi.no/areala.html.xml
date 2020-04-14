@@ -1,67 +1,26 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>295</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Biras-arealla-ja-kultursuodjalus/Areala</origFileName>
-    <parallel_text xml:lang="nob" location="areal.html"/>
-    <parallel_text xml:lang="sma" location="areale.html"/>
-    <parallel_text xml:lang="sme" location="areala.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Areála / Birás, areálla ja kultursuodjalus / Sámedigge - Sametinget</p>
-    <p>Åtså biednikdårjav</p>
-    <p type="title" xml:lang="sme">Areála</p>
-    <p>Sámedikken le badjásasj åvdåsvásstádus åbbålasj tjuovvolimes ja bagádallamis gájkka plánajs, vájkkudimguoradallamijs ja mærrádusájs ma tjuovvu pládna- ja tsiekkaduslága pládnaoasev mij guosská luonndovuodov nannitjit sáme kultuvrraj, æládusájda ja sebrudakiellemij. Dát le pládna- ja tsiekkaduslága milta.</p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="nob">Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="nob">Sørsamisk</p>
-    <p>Jur dálla</p>
-    <p>Sámediggediedádus areálla- ja biráspolitihkas – Bivddim árvvalusájda</p>
-    <p>Sámediggeráde sihtá árvvalusájt sámediggediedádussaj areálajs ja birrasijs....</p>
-    <p>Lågå ienebuv</p>
-    <p>Vuoseda divna ássjijt</p>
-    <p>
-      <em type="bold">Sámedikke ájggomussan le: </em>
-    </p>
-    <list>
-      <p type="listitem">Tjuovvot areállaháldadimev lájttálisát ja vuosteldimfábmudagáv adnet sáme kultuvrav, æládusájt ja sebrudakiellemav nannitjit</p>
-      <p type="listitem">Buorre ságastallamijt suohkanij dagu pládnafábmudahkan jådedit nav vaj sáme berustime praktihkalattjat tjuovvoluvvi.</p>
-    </list>
-    <p>
-      <em type="bold">Sámedigge barggá dálla dáj ássjij: </em>
-    </p>
-    <list>
-      <p type="listitem">Suohkanij areállaplánaj</p>
-      <p type="listitem">Fylkaj oasseplánaj kulturmujtoj ja bieggamilloelfámo hárráj</p>
-      <p type="listitem">Biebmadimásadusáj ásadimsajij</p>
-    </list>
-    <p><em type="bold">Sámedikke åvdåsvásstádus </em>Sámedikken le badjásasj åvdåsvásstádus åbbålasj tjuovvolimes ja bagádallamis ietjas plánimbagádusá gáktuj. Sámedikke plánimbagádusá milta oassálasstá Sámedigge ájnas diedoj plánima gáktuj pládnafábmudagáj gáktuj. Sámedigge vaddá javllamusájt ja buktá aj vuosteldimijt suohkanplánaj areállaåsijda ja regulerimplánajda. Sámedigge máhttá aj åvdedit vuosteldimijt konsesjåvnåj ássjegiehtadallamijn tjátjádakregulerimlága, energijalága ja tjáhtjeresurssalága milta, ja Sámedigge máhttá gájbbedit guovlloplánajt Birássuodjalimdepartementa giehtadallamij jus plána ålgusti jali e bærrájgåtse berustimijt ma li ájnnasa sáme kultuvrraj ja æládusájda. </p>
-    <p><em type="bold">Duv vájkkudime </em>Sámedikke bargon fysihkalasj plánimijn li bájkálasj diedo ja dádjadusá ájnnasa Sámedikke árvustallamijn ja javllamusájn. Pládna- ja tsiekkaduslága milta li aj suohkana vælggogisá sihkarasstet dåjmajt nannitjit almma oassálasstemav gånnå ulmmen la oadtjot diedulasj guorrasimev njuolgga vájkkuduvvam sáme berustimij ja bájkálasj sebrudagáj. Árrat åvddånbuktet tjielgga vuojnojt oajvvadusájda ja dåjmajda le ájnas guládibmáj ja vaj Sámedigge máhttá vuojnojt tjuovvolit. </p>
-    <p type="title">Sámedikke pládnabagádus</p>
-    <p>Sámedigge mierredij plánimbagádusáv jagen 2010. Plánimbagádus láhtjá dilev nav vaj gájkka plána, vájkkudimguoradallama ja mærrádusá ma tjuovvu pládna- ja tsiekkaduslága pládnaoasev nanniji sáme kultuvra luonndovuodov, æládusájt ja sebrudakiellemav.</p>
-    <list/>
-    <p>
-      <span type="quote">Sámedikke plánimbagádus láhtjá dilev nav vaj gájkka plána, vájkkudimguoradallama ja mærrádusá ma tjuovvu pládna- ja tsiekkaduslága pládnaoasev nanniji sáme kultuvra luonndovuodov, æládusájt ja sebrudakiellemav. </span>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>295</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Biras-arealla-ja-kultursuodjalus/Areala</origFileName><parallel_text xml:lang="nob" location="areal.html"/><parallel_text xml:lang="sma" location="areale.html"/><parallel_text xml:lang="sme" location="areala.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Areála / Birás, areálla ja kultursuodjalus / Sámedigge - Sametinget</p>
+<p>Åtså biednikdårjav</p>
+<p type="title" xml:lang="sme">Areála</p>
+<p>Sámedikken le badjásasj åvdåsvásstádus åbbålasj tjuovvolimes ja bagádallamis gájkka plánajs, vájkkudimguoradallamijs ja mærrádusájs ma tjuovvu pládna- ja tsiekkaduslága pládnaoasev mij guosská luonndovuodov nannitjit sáme kultuvrraj, æládusájda ja sebrudakiellemij. Dát le pládna- ja tsiekkaduslága milta.</p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="nob">Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="nob">Sørsamisk</p>
+<p>Jur dálla</p>
+<p>Sámediggediedádus areálla- ja biráspolitihkas – Bivddim árvvalusájda</p>
+<p>Sámediggeráde sihtá árvvalusájt sámediggediedádussaj areálajs ja birrasijs....</p>
+<p>Lågå ienebuv</p>
+<p>Vuoseda divna ássjijt</p>
+<p><em type="bold">Sámedikke ájggomussan le: </em></p>
+<list><p type="listitem">Tjuovvot areállaháldadimev lájttálisát ja vuosteldimfábmudagáv adnet sáme kultuvrav, æládusájt ja sebrudakiellemav nannitjit</p>
+<p type="listitem">Buorre ságastallamijt suohkanij dagu pládnafábmudahkan jådedit nav vaj sáme berustime praktihkalattjat tjuovvoluvvi.</p>
+</list><p><em type="bold">Sámedigge barggá dálla dáj ássjij: </em></p>
+<list><p type="listitem">Suohkanij areállaplánaj</p>
+<p type="listitem">Fylkaj oasseplánaj kulturmujtoj ja bieggamilloelfámo hárráj</p>
+<p type="listitem">Biebmadimásadusáj ásadimsajij</p>
+</list><p><em type="bold">Sámedikke åvdåsvásstádus </em>Sámedikken le badjásasj åvdåsvásstádus åbbålasj tjuovvolimes ja bagádallamis ietjas plánimbagádusá gáktuj. Sámedikke plánimbagádusá milta oassálasstá Sámedigge ájnas diedoj plánima gáktuj pládnafábmudagáj gáktuj. Sámedigge vaddá javllamusájt ja buktá aj vuosteldimijt suohkanplánaj areállaåsijda ja regulerimplánajda. Sámedigge máhttá aj åvdedit vuosteldimijt konsesjåvnåj ássjegiehtadallamijn tjátjádakregulerimlága, energijalága ja tjáhtjeresurssalága milta, ja Sámedigge máhttá gájbbedit guovlloplánajt Birássuodjalimdepartementa giehtadallamij jus plána ålgusti jali e bærrájgåtse berustimijt ma li ájnnasa sáme kultuvrraj ja æládusájda. </p>
+<p><em type="bold">Duv vájkkudime </em>Sámedikke bargon fysihkalasj plánimijn li bájkálasj diedo ja dádjadusá ájnnasa Sámedikke árvustallamijn ja javllamusájn. Pládna- ja tsiekkaduslága milta li aj suohkana vælggogisá sihkarasstet dåjmajt nannitjit almma oassálasstemav gånnå ulmmen la oadtjot diedulasj guorrasimev njuolgga vájkkuduvvam sáme berustimij ja bájkálasj sebrudagáj. Árrat åvddånbuktet tjielgga vuojnojt oajvvadusájda ja dåjmajda le ájnas guládibmáj ja vaj Sámedigge máhttá vuojnojt tjuovvolit. </p>
+<p type="title">Sámedikke pládnabagádus</p>
+<p>Sámedigge mierredij plánimbagádusáv jagen 2010. Plánimbagádus láhtjá dilev nav vaj gájkka plána, vájkkudimguoradallama ja mærrádusá ma tjuovvu pládna- ja tsiekkaduslága pládnaoasev nanniji sáme kultuvra luonndovuodov, æládusájt ja sebrudakiellemav.</p>
+<list/><p><span type="quote">Sámedikke plánimbagádus láhtjá dilev nav vaj gájkka plána, vájkkudimguoradallama ja mærrádusá ma tjuovvu pládna- ja tsiekkaduslága pládnaoasev nanniji sáme kultuvra luonndovuodov, æládusájt ja sebrudakiellemav. </span></p>
+</body></document>

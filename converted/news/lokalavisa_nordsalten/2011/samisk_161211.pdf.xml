@@ -1,45 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Lågådallam Áhkkánjárgan</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Geir" lastname="Smelror" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Ingrid katrine" lastname="Kintel" sex="f" born="1988" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2011</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>178</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2011/samisk_161211.pdf</origFileName>
-    <parallel_text xml:lang="nob" location="lars_holdt_foredrag_231211.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Geir Smelror Jårggålibme: Divte Media AS/Ingrid Kintel</p>
-    <p xml:lang="nob"><em type="italic">ÁRRAN-DIREKTØR holdt foredrag for over 80 NAV-ansatte i Ofoten.</em> </p>
-    <p>oasev váldátjit sijá barggosajes. - Sihtap liehket rabás guovdásj. Divna vierttiji bessat liehket sáme ietjasa láhkáj. Gávnnuji moadda <span type="quote">«rávvissáme»</span>, gejna li sáme ájttega, valla gudi ihkap e dåbdå ietjasa sábmen danen gå e gielav máhte jali e gápptáj tjána. Dá galggi aj dåbddåt ietjasa buorisboahtem Árranin, javlaj Andreassen, ja jårkij: - Sidáv aj galggá luondulasj liehket dádtjaj diehki boahtet. Árran berus mijá aktisasj histåvrås, juska diedon sáme bielev tjalmostip. Hæjto bielen direktørra aj guorristij dágástallamav namá birra Narvik/ Áhkkánjárgga. Larssa ittjij jáhke lij sáhka álmmuga balo birra jur sáme nammaj, ij ga vuosstemiella sámevuodas, valla farra ballo massemis ietjas identitehtav, sijddadåbdov. Hiejtij javllamijn ahte Vuonarijkan lip ilá mælggadav ålgodam sáme namájt. - Miján le aj sijddadåbddo tjanádum sáme namájda, javlaj Lars Magne Andreassen.</p>
-    <p>j</p>
-    <p>Thomas Amundsen hárjjidalle Stabækan</p>
-    <p>Gåktu Bájkkeávijssa åvdep vahko tjálij, lij Ájluovta Thomas Amundsen akta åhttsijs hárjjidallebargguj Stabæka nuorraåssudagán. Dálla galggá sáme rijkajuohkusa hárjjidalle álgget hárjjidallen Stabækan ådåjagij mannela. Ajtu joarkká sáme nissunij rijkkajuohkusa hárjjidallen.</p>
-    <p>jj</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Lågådallam Áhkkánjárgan</title><genre code="news"/><author><person firstname="Geir" lastname="Smelror" sex="m" born="" nationality="nor"/></author><translator><person firstname="Ingrid katrine" lastname="Kintel" sex="f" born="1988" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2011</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>178</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2011/samisk_161211.pdf</origFileName><parallel_text xml:lang="nob" location="lars_holdt_foredrag_231211.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Geir Smelror Jårggålibme: Divte Media AS/Ingrid Kintel</p>
+<p xml:lang="nob"><em type="italic">ÁRRAN-DIREKTØR holdt foredrag for over 80 NAV-ansatte i Ofoten.</em> </p>
+<p>oasev váldátjit sijá barggosajes. - Sihtap liehket rabás guovdásj. Divna vierttiji bessat liehket sáme ietjasa láhkáj. Gávnnuji moadda <span type="quote">«rávvissáme»</span>, gejna li sáme ájttega, valla gudi ihkap e dåbdå ietjasa sábmen danen gå e gielav máhte jali e gápptáj tjána. Dá galggi aj dåbddåt ietjasa buorisboahtem Árranin, javlaj Andreassen, ja jårkij: - Sidáv aj galggá luondulasj liehket dádtjaj diehki boahtet. Árran berus mijá aktisasj histåvrås, juska diedon sáme bielev tjalmostip. Hæjto bielen direktørra aj guorristij dágástallamav namá birra Narvik/ Áhkkánjárgga. Larssa ittjij jáhke lij sáhka álmmuga balo birra jur sáme nammaj, ij ga vuosstemiella sámevuodas, valla farra ballo massemis ietjas identitehtav, sijddadåbdov. Hiejtij javllamijn ahte Vuonarijkan lip ilá mælggadav ålgodam sáme namájt. - Miján le aj sijddadåbddo tjanádum sáme namájda, javlaj Lars Magne Andreassen.</p>
+<p>j</p>
+<p>Thomas Amundsen hárjjidalle Stabækan</p>
+<p>Gåktu Bájkkeávijssa åvdep vahko tjálij, lij Ájluovta Thomas Amundsen akta åhttsijs hárjjidallebargguj Stabæka nuorraåssudagán. Dálla galggá sáme rijkajuohkusa hárjjidalle álgget hárjjidallen Stabækan ådåjagij mannela. Ajtu joarkká sáme nissunij rijkkajuohkusa hárjjidallen.</p>
+<p>jj</p>
+</body></document>

@@ -1,45 +1,8 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>45</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=215&amp;art_id=258</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=215_art_id=258.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=215_art_id=258.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=215_art_id=258.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">1</p>
-    <p xml:lang="nob">2</p>
-    <p xml:lang="nob">3</p>
-    <p>Åhpav: Girkko</p>
-    <p type="title">Sorsele girkko</p>
-    <p>Sorsele girkkon le bájnos glássamálak sáme motijvajn. Sámenissun ruoppsis oarjjelsáme gahperijn anet mánátjav fármen ja sámenæjttso nuorttalap sámegahperijn gehtjat juohkusij gudi Jesusa birra tjuodtju. Sij li gárvodum dagu lij dábálasj Jesusa ájgen. Båsskå le mállaga åvddågietjen.</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>45</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=215&amp;art_id=258</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=215_art_id=258.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=215_art_id=258.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=215_art_id=258.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">1</p>
+<p xml:lang="nob">2</p>
+<p xml:lang="nob">3</p>
+<p>Åhpav: Girkko</p>
+<p type="title">Sorsele girkko</p>
+<p>Sorsele girkkon le bájnos glássamálak sáme motijvajn. Sámenissun ruoppsis oarjjelsáme gahperijn anet mánátjav fármen ja sámenæjttso nuorttalap sámegahperijn gehtjat juohkusij gudi Jesusa birra tjuodtju. Sij li gárvodum dagu lij dábálasj Jesusa ájgen. Båsskå le mállaga åvddågietjen.</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

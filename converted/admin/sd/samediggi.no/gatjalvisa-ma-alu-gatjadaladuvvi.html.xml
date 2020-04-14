@@ -1,67 +1,21 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Gatjálvisá ma álu gatjádaláduvvi</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2017</year>
-    <wordcount>281</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/Valgga/Sametingsvalget-2017/Gatjalvisa-ma-alu-gatjadaladuvvi</origFileName>
-    <parallel_text xml:lang="nob" location="ofte-stilte-spoersmaal-om-sametingsvalget.html"/>
-    <parallel_text xml:lang="sme" location="davja-jerron-gazaldagat-samediggevalgga-birra.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Gatjálvisá ma álu gatjádaláduvvi</p>
-    <p>Dánna lip tjoahkkim vásstádusájt gatjálvisájda ma álu gatjádaláduvvi sámediggeválga 2017 birra.</p>
-    <p>
-      <em type="italic">Goassa l válggabiejvve? </em>
-    </p>
-    <p>Sámediggeválga válggabiejvve l <em type="italic">mánnodagá ragátmáno 11. biejve 2017 </em>. Muhtem suohkanin la válgga adjáj sådnåbiejve ragátmáno 10. biejve. </p>
-    <p>
-      <em type="italic">Gånnå máhtá válggabiejve jienastit? </em>
-    </p>
-    <p>Válggabiejve hæhttu jienastit dan suohkanin gånnå la Sámedikke jienastuslåhkuj tjáledum. Dån la tjáledum jienastuslåhkuj dan suohkanin gånnå álmmuklågo milta biehtsemáno 30. biejve 2017 la duv årromadræssan.</p>
-    <p>
-      <em type="italic">Gut máhttá sámediggeválgan 2017 jienastit? </em>
-    </p>
-    <p>Gájka gudi li Sámedikke jienastuslåhkuj tjáledum åvddåla biehtsemáno 30. biejve 2017, máhtti dan jage válgan jienastit.</p>
-    <p>
-      <em type="italic">Gut hæhttu árabut jienastit? </em>
-    </p>
-    <p><em type="italic">Dån hæhttu árabut jienastit jus duv suohkanin li binnep gå 30 sámedikke jienastuslågon tjáledum. </em>Jus dát duv suohkanij guosská, de diededuvvá dan birra válggakårtån mav oattjo. Dån máhtá aj ietjat suohkanijn njuolgga guládallat dáv guoradalátjit. </p>
-    <p>
-      <em type="italic">Goassa máhtá árabut jienastit? </em>
-    </p>
-    <p>Dábálasj árabut jienastibme bissu <em type="italic">bårggemáno 10. biejves gitta ragátmáno 8. bæjvváj </em>. </p>
-    <p>
-      <em type="italic">Gånnå máhtá árabut jienastit? </em>
-    </p>
-    <p>Dån máhtá árabut jienastit vájk makkir suohkanin Vuonan. Dan diehti máhtá jienastit ietjá suohkanin gå dan suohkanin gånnå åro ja la jienastuslåhkuj tjáledum. Dån máhtá aj ietjat suohkanijn guládallat goassa ja gånnå máhtá árabut jienastit.</p>
-    <p>
-      <em type="italic">Majt hæhttuv buktet gå jienastit ájgov? </em>
-    </p>
-    <p><em type="italic">Dån dárbaha fábmogis duodastusáv </em>(duola dagu pássa, vuodjemkårttå, báŋŋkakårttå gåvåjn) <em type="italic">. </em>Dån i dárbaha válggakårtåv buktet. Valla huoman ávttjip válggakårtåv maŋen váldátjit. Válggakårttå válggafunksjoneraj bargov álkkebun dahká ja iesj ájgev sæstá. </p>
-    <p>
-      <em type="italic">Manen iv la válggakårtåv oadtjum? </em>
-    </p>
-    <p>Gájka jienastiddje oadtju válggakårtåv påstan dan álmmukjienastuslågo tjáledum adræssaj mij li siján biehtsemáno 30. biejve 2017. Jus illa válggakårtåv oadtjum, de soajttá la påstan láhppum, jali dån la sirddemav maŋŋela biehtsemáno 30. biejve diededam.</p>
-    <p>
-      <em type="italic">Máhtáv gus ådåsit jienastit válggabiejve jus lav árabut jienastam? </em>
-    </p>
-    <p>Jus la árabut jienastam de i máhte válggabiejve jienastit. I ga máhte moaddi árabut jienastit.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Gatjálvisá ma álu gatjádaláduvvi</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2017</year><wordcount>281</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/Valgga/Sametingsvalget-2017/Gatjalvisa-ma-alu-gatjadaladuvvi</origFileName><parallel_text xml:lang="nob" location="ofte-stilte-spoersmaal-om-sametingsvalget.html"/><parallel_text xml:lang="sme" location="davja-jerron-gazaldagat-samediggevalgga-birra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Gatjálvisá ma álu gatjádaláduvvi</p>
+<p>Dánna lip tjoahkkim vásstádusájt gatjálvisájda ma álu gatjádaláduvvi sámediggeválga 2017 birra.</p>
+<p><em type="italic">Goassa l válggabiejvve? </em></p>
+<p>Sámediggeválga válggabiejvve l <em type="italic">mánnodagá ragátmáno 11. biejve 2017 </em>. Muhtem suohkanin la válgga adjáj sådnåbiejve ragátmáno 10. biejve. </p>
+<p><em type="italic">Gånnå máhtá válggabiejve jienastit? </em></p>
+<p>Válggabiejve hæhttu jienastit dan suohkanin gånnå la Sámedikke jienastuslåhkuj tjáledum. Dån la tjáledum jienastuslåhkuj dan suohkanin gånnå álmmuklågo milta biehtsemáno 30. biejve 2017 la duv årromadræssan.</p>
+<p><em type="italic">Gut máhttá sámediggeválgan 2017 jienastit? </em></p>
+<p>Gájka gudi li Sámedikke jienastuslåhkuj tjáledum åvddåla biehtsemáno 30. biejve 2017, máhtti dan jage válgan jienastit.</p>
+<p><em type="italic">Gut hæhttu árabut jienastit? </em></p>
+<p><em type="italic">Dån hæhttu árabut jienastit jus duv suohkanin li binnep gå 30 sámedikke jienastuslågon tjáledum. </em>Jus dát duv suohkanij guosská, de diededuvvá dan birra válggakårtån mav oattjo. Dån máhtá aj ietjat suohkanijn njuolgga guládallat dáv guoradalátjit. </p>
+<p><em type="italic">Goassa máhtá árabut jienastit? </em></p>
+<p>Dábálasj árabut jienastibme bissu <em type="italic">bårggemáno 10. biejves gitta ragátmáno 8. bæjvváj </em>. </p>
+<p><em type="italic">Gånnå máhtá árabut jienastit? </em></p>
+<p>Dån máhtá árabut jienastit vájk makkir suohkanin Vuonan. Dan diehti máhtá jienastit ietjá suohkanin gå dan suohkanin gånnå åro ja la jienastuslåhkuj tjáledum. Dån máhtá aj ietjat suohkanijn guládallat goassa ja gånnå máhtá árabut jienastit.</p>
+<p><em type="italic">Majt hæhttuv buktet gå jienastit ájgov? </em></p>
+<p><em type="italic">Dån dárbaha fábmogis duodastusáv </em>(duola dagu pássa, vuodjemkårttå, báŋŋkakårttå gåvåjn) <em type="italic">. </em>Dån i dárbaha válggakårtåv buktet. Valla huoman ávttjip válggakårtåv maŋen váldátjit. Válggakårttå válggafunksjoneraj bargov álkkebun dahká ja iesj ájgev sæstá. </p>
+<p><em type="italic">Manen iv la válggakårtåv oadtjum? </em></p>
+<p>Gájka jienastiddje oadtju válggakårtåv påstan dan álmmukjienastuslågo tjáledum adræssaj mij li siján biehtsemáno 30. biejve 2017. Jus illa válggakårtåv oadtjum, de soajttá la påstan láhppum, jali dån la sirddemav maŋŋela biehtsemáno 30. biejve diededam.</p>
+<p><em type="italic">Máhtáv gus ådåsit jienastit válggabiejve jus lav árabut jienastam? </em></p>
+<p>Jus la árabut jienastam de i máhte válggabiejve jienastit. I ga máhte moaddi árabut jienastit.</p>
+</body></document>

@@ -1,69 +1,29 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>688</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Liejbbe</origFileName>
-    <parallel_text xml:lang="fin" location="kuukautiset.html"/>
-    <parallel_text xml:lang="fit" location="mensi.html"/>
-    <parallel_text xml:lang="sma" location="gujnelemmie.html"/>
-    <parallel_text xml:lang="sme" location="manodavddat.html"/>
-    <parallel_text xml:lang="swe" location="mens.html"/>
-    <parallel_text location="rattepha.html" xml:lang="rmu"/>
-    <parallel_text location="lolo-kurko.html" xml:lang="rmy-rka"/>
-    <parallel_text location="meni.html" xml:lang="rmf"/>
-    <parallel_text location="zuvliako-on-mens.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="mensturacija.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Liejbbe</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title">Liejbbe</p>
-    <p>Liejbbe la varddem skoados majt niejda oadtju åbbå dájvvalakkoj pubertehta rájes. Liejbbe la rubmaha vuohke vuosedit pubertehtan la.</p>
-    <p>Niejddan álu månneluovvanibme l fert máno pubertehta rájes gitta klimakteriaj. Avtabále gå månneluovvanibme de tsuodtsa skoadon assu duostotjit månev jus sahkkiduvvá. Sahkkiduvátjit månne hähttu sájojt guodnán oadjot. Máhttá de iesselissan sjaddat, valla jus månne ij sahkkiduvá de skoahtosjnjárttjá boahtá ålgus varddemin. Dat la liejbbe.</p>
-    <p type="title">Goassa läjbbogoahtá?</p>
-    <p>Makkir álldarin läjbbogoahtá l umasslágásj. Danen gå gájka pubertähttaj båhti sierra ájge Jus pubertehtaj boahtá árrat jali maŋŋet de ij la mavga majt máhttá stivrrit.</p>
-    <p>Ienemusá álu läjbbogåhti 12 -14 jagágin. Valla máhttá läjbbogoahtet juo 9 jagágin jali esski 16 jagágin váni juoga l boasstot. Jus ij la vuostasj läjbbomav oadtjum gå l 16-17 jagák de galggá dåktårin manádit.</p>
-    <p>Vuostasj läjbbom máhttá boahtet hähkkat. Máhttá vájvven dåbddut. Márjju ij la aktak klássan läjbbogoahtám. Márjju ájádallá makkir suojev adnet ja ihkap la vájválasj sáhkadit muhtem ållessjattugijn dan birra.</p>
-    <p>Soajttá vuostasj läjbbomav la hálijdam. Ienemus rádna márjju li läjbbogoahtám ja gähppánimev dåbddå gå vijmak la akta <span type="quote">“juohkusin”</span>.</p>
-    <p type="title">Man ednagav varddá?</p>
-    <p>Man ednagav varddá rievddá ulmutjis ulmutjij, jur gåk rievddá galla biejve läjbbu. Läjbbomin varddá 20-80 millilijttara varra, de vargga ienemusát desilijttarav. Gå varra segaduvvá rumájlåssjkusijn ja sjnjártjájn skoados álu dåbddu ienebun.</p>
-    <p type="title" xml:lang="swe">Ednagav varddet</p>
-    <p>Moatte adni sij varddi ednagav vájku ij la nåv enas. Jus dárbaj målssot liejbbesuojev dájvvalakkoj jut vájveduvvá jali jus hähttu adnet guovtegerdak liejbbesuojev vaj ij varde tjadá de l dujna nåv gåhtjodum valjes liejbbe. Boahtá dassta vaj gávnnu enas avtat ábnnasis skoadon låsjkijdahttá giellomvaráv. Dahká vaj varddema e binno ja ienebuv varddá. Jus ednagav varddá de máhttá dåbddåt vájbbasav ja fámodisvuodav. Le gå varraárvvo l vuollegasj.</p>
-    <p>Jus la valjes liejbbe de máhttá skåvllåvarresvuohtasujttujn, nuorajduostudagájn jali varresvuohtaguovdátjijn aktavuodav válldet. Viehkev oadtju tablehtaj ma binnedi varddemav, buojkulvissan p-tablehta.</p>
-    <p type="title">Målsudahkes liejbbe</p>
-    <p>Gå l läjbbogoahtám de l dábálasj dat la målsudahkes. Dat javllá, jut ij boade sämmi ájge juohkka máno. Ienemusájda álu duolliduvvá maŋenagi vaj juohkka liejbbegasska, biejvve gå läjbbogoahtá gitta boahtte liejbe álgguj, li 21-35 biejve gaskan. Buorre l gähttjat liejbev gå tjállá biejvijt rijmmuj jali ietjá tjálálvisgirjjáj. De álkket vuojnná jus liejbbe boahtá dájvvalakkoj ja de diehtet boahtte máno liejbev. De älvvá aj jus liejbbe la maŋŋunam muhtem máno.</p>
-    <p>Muhtemijn la agev målsudahkes liejbbe, ij la vádálasj valla jus vájvalussjá, de liejbbe boahtá dájvvalakkoj buojkulvissan p-tablehtaj viehkken.</p>
-    <p type="title">Maŋŋunam jali  gáhtom liejbbe</p>
-    <p type="title">Iesselissan</p>
-    <p>Luondulasj oarre gå liejbbe gáhtu l, iesselissan la sjaddam. Iesselissan sjaddat gå sájojt la oadtjum guoddnáj, ja vargga agev narggema baktu. Jus adná njávkadimseksav ja varás sájo li tjuvdijn ja dalága dajt biedjá guoddnáj de l aj vádá iesselissan sjaddat.</p>
-    <p>Jus jáhkká liejbbe l gáhtum danen gå iesselissan la sjaddam de l buorre iesselisåtsådimev dahkat. Iesselisåtsådime oasstá dálkasboargálin ja moatten biebbmoboargálin ja dievnastusboargálin. Máhttá aj åtsådimev mávsodak nuorajduostudagán jali iednijsujttoguovdátjin dahkat.</p>
-    <p type="title">Strässa, birásmålssom jali livvodibme</p>
-    <p>Liejbbe máhttá aj moattelágásj årijs gáhtot. Jus läjbbom ber moadda vahko maŋŋunam jali gáhtu avtav jali guokta máno de máhtti umasse oare dasi, buojkulvissan birásmålssom jali l gasskabåddåsattjat stressidum.</p>
-    <p>Jus liejbbe gáhto guhkep ájgev de l buorre åtsådit oarev. Dan oarre máhttá årrot buojkulvissan ilá sieldes stressidum, nievret viessu, hárjjidallá ednagit, li bårråmgássjelisvuoda jali muhtem dávdda. Le rubmaha vuohke diededit juoga l boasstot. Jus dåbddå viehkev jali dårjav dárbaj ietjas tjuolmajt tjoavddet de máhttá buojkulvissan skåvllåvarresvuohtasujtujn jali nuorajduostudagájn aktavuodav válldet.</p>
-    <p>Jus liejbbe gáhtu ienep gå biellejagev de agev galggá dåktårijn aktavuodav válldet buojkulvissan nuorajduostudagán jali varresvuohtaguovdátjin. Viehkev de oadtju åtsådit manen ij boade, máhttá muhttijn varraåtsådimijt guodet ma mihttiji hormonaoasev varán. Jus la dárbulasj de máhttá tablehtajt oadtjot ma liejbev álgadi.</p>
-    <p type="title">Vájve liejbe åvddåla – ‘PMS’</p>
-    <p>Bájken vahko liejbe åvddåla ja gitta álggemij de låsjkosednakvuohta rubmahin lassán. Dahká jut njittje bávtjesti ja máhttá dåbddåt båhtånimev rubmahin. Gåhtjudallá åvddåliejbbedåbddo, ‘PMS’ Hormona li dan oarre ja dahki jut suhttá, gähppadit båstådalá jali hådju. Máhttá aj oajvveluottudagáv oadtjot, njálgugijt hálijdit jali tjásmagisájt oadtjot. Ienemusájda gudi dåbddi ‘PMS:av’ álu la värámus gålmmå gitta nielje biejvij liejbe åvddål ja gáhtot gå läjbbogoahtá, valla máhttá aj bissot muhtem biejvev läjbodijn.</p>
-    <p>’PMS’-vájve máhtti aj buorránit jus labut jali luossjvedimhárjjidusájt dahká. Buorre l aj ednagit oadet ja gähttjalit sierraláhkaj sietton årrot ja ij stressit dájt biejvijt gå dåbddå vájvijt.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>683</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Liejbbe</origFileName><parallel_text xml:lang="fin" location="kuukautiset.html"/><parallel_text xml:lang="fit" location="mensi.html"/><parallel_text xml:lang="sma" location="gujnelemmie.html"/><parallel_text xml:lang="sme" location="manodavddat.html"/><parallel_text xml:lang="swe" location="mens.html"/><parallel_text location="rattepha.html" xml:lang="rmu"/><parallel_text location="lolo-kurko.html" xml:lang="rmy-rka"/><parallel_text location="meni.html" xml:lang="rmf"/><parallel_text location="zuvliako-on-mens.html" xml:lang="rmy-rlo"/><parallel_text location="mensturacija.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Liejbbe</p>
+<p type="title">Liejbbe</p>
+<p>Liejbbe la varddem skoados majt niejda oadtju åbbå dájvvalakkoj pubertehta rájes. Liejbbe la rubmaha vuohke vuosedit pubertehtan la.</p>
+<p>Niejddan álu månneluovvanibme l fert máno pubertehta rájes gitta klimakteriaj. Avtabále gå månneluovvanibme de tsuodtsa skoadon assu duostotjit månev jus sahkkiduvvá. Sahkkiduvátjit månne hähttu sájojt guodnán oadjot. Máhttá de iesselissan sjaddat, valla jus månne ij sahkkiduvá de skoahtosjnjárttjá boahtá ålgus varddemin. Dat la liejbbe.</p>
+<p type="title">Goassa läjbbogoahtá?</p>
+<p>Makkir álldarin läjbbogoahtá l umasslágásj. Danen gå gájka pubertähttaj båhti sierra ájge Jus pubertehtaj boahtá árrat jali maŋŋet de ij la mavga majt máhttá stivrrit.</p>
+<p>Ienemusá álu läjbbogåhti 12 -14 jagágin. Valla máhttá läjbbogoahtet juo 9 jagágin jali esski 16 jagágin váni juoga l boasstot. Jus ij la vuostasj läjbbomav oadtjum gå l 16-17 jagák de galggá dåktårin manádit.</p>
+<p>Vuostasj läjbbom máhttá boahtet hähkkat. Máhttá vájvven dåbddut. Márjju ij la aktak klássan läjbbogoahtám. Márjju ájádallá makkir suojev adnet ja ihkap la vájválasj sáhkadit muhtem ållessjattugijn dan birra.</p>
+<p>Soajttá vuostasj läjbbomav la hálijdam. Ienemus rádna márjju li läjbbogoahtám ja gähppánimev dåbddå gå vijmak la akta <span type="quote">“juohkusin”</span>.</p>
+<p type="title">Man ednagav varddá?</p>
+<p>Man ednagav varddá rievddá ulmutjis ulmutjij, jur gåk rievddá galla biejve läjbbu. Läjbbomin varddá 20-80 millilijttara varra, de vargga ienemusát desilijttarav. Gå varra segaduvvá rumájlåssjkusijn ja sjnjártjájn skoados álu dåbddu ienebun.</p>
+<p type="title" xml:lang="swe">Ednagav varddet</p>
+<p>Moatte adni sij varddi ednagav vájku ij la nåv enas. Jus dárbaj målssot liejbbesuojev dájvvalakkoj jut vájveduvvá jali jus hähttu adnet guovtegerdak liejbbesuojev vaj ij varde tjadá de l dujna nåv gåhtjodum valjes liejbbe. Boahtá dassta vaj gávnnu enas avtat ábnnasis skoadon låsjkijdahttá giellomvaráv. Dahká vaj varddema e binno ja ienebuv varddá. Jus ednagav varddá de máhttá dåbddåt vájbbasav ja fámodisvuodav. Le gå varraárvvo l vuollegasj.</p>
+<p>Jus la valjes liejbbe de máhttá skåvllåvarresvuohtasujttujn, nuorajduostudagájn jali varresvuohtaguovdátjijn aktavuodav válldet. Viehkev oadtju tablehtaj ma binnedi varddemav, buojkulvissan p-tablehta.</p>
+<p type="title">Målsudahkes liejbbe</p>
+<p>Gå l läjbbogoahtám de l dábálasj dat la målsudahkes. Dat javllá, jut ij boade sämmi ájge juohkka máno. Ienemusájda álu duolliduvvá maŋenagi vaj juohkka liejbbegasska, biejvve gå läjbbogoahtá gitta boahtte liejbe álgguj, li 21-35 biejve gaskan. Buorre l gähttjat liejbev gå tjállá biejvijt rijmmuj jali ietjá tjálálvisgirjjáj. De álkket vuojnná jus liejbbe boahtá dájvvalakkoj ja de diehtet boahtte máno liejbev. De älvvá aj jus liejbbe la maŋŋunam muhtem máno.</p>
+<p>Muhtemijn la agev målsudahkes liejbbe, ij la vádálasj valla jus vájvalussjá, de liejbbe boahtá dájvvalakkoj buojkulvissan p-tablehtaj viehkken.</p>
+<p type="title">Maŋŋunam jali  gáhtom liejbbe</p>
+<p type="title">Iesselissan</p>
+<p>Luondulasj oarre gå liejbbe gáhtu l, iesselissan la sjaddam. Iesselissan sjaddat gå sájojt la oadtjum guoddnáj, ja vargga agev narggema baktu. Jus adná njávkadimseksav ja varás sájo li tjuvdijn ja dalága dajt biedjá guoddnáj de l aj vádá iesselissan sjaddat.</p>
+<p>Jus jáhkká liejbbe l gáhtum danen gå iesselissan la sjaddam de l buorre iesselisåtsådimev dahkat. Iesselisåtsådime oasstá dálkasboargálin ja moatten biebbmoboargálin ja dievnastusboargálin. Máhttá aj åtsådimev mávsodak nuorajduostudagán jali iednijsujttoguovdátjin dahkat.</p>
+<p type="title">Strässa, birásmålssom jali livvodibme</p>
+<p>Liejbbe máhttá aj moattelágásj årijs gáhtot. Jus läjbbom ber moadda vahko maŋŋunam jali gáhtu avtav jali guokta máno de máhtti umasse oare dasi, buojkulvissan birásmålssom jali l gasskabåddåsattjat stressidum.</p>
+<p>Jus liejbbe gáhto guhkep ájgev de l buorre åtsådit oarev. Dan oarre máhttá årrot buojkulvissan ilá sieldes stressidum, nievret viessu, hárjjidallá ednagit, li bårråmgássjelisvuoda jali muhtem dávdda. Le rubmaha vuohke diededit juoga l boasstot. Jus dåbddå viehkev jali dårjav dárbaj ietjas tjuolmajt tjoavddet de máhttá buojkulvissan skåvllåvarresvuohtasujtujn jali nuorajduostudagájn aktavuodav válldet.</p>
+<p>Jus liejbbe gáhtu ienep gå biellejagev de agev galggá dåktårijn aktavuodav válldet buojkulvissan nuorajduostudagán jali varresvuohtaguovdátjin. Viehkev de oadtju åtsådit manen ij boade, máhttá muhttijn varraåtsådimijt guodet ma mihttiji hormonaoasev varán. Jus la dárbulasj de máhttá tablehtajt oadtjot ma liejbev álgadi.</p>
+<p type="title">Vájve liejbe åvddåla – ‘PMS’</p>
+<p>Bájken vahko liejbe åvddåla ja gitta álggemij de låsjkosednakvuohta rubmahin lassán. Dahká jut njittje bávtjesti ja máhttá dåbddåt båhtånimev rubmahin. Gåhtjudallá åvddåliejbbedåbddo, ‘PMS’ Hormona li dan oarre ja dahki jut suhttá, gähppadit båstådalá jali hådju. Máhttá aj oajvveluottudagáv oadtjot, njálgugijt hálijdit jali tjásmagisájt oadtjot. Ienemusájda gudi dåbddi ‘PMS:av’ álu la värámus gålmmå gitta nielje biejvij liejbe åvddål ja gáhtot gå läjbbogoahtá, valla máhttá aj bissot muhtem biejvev läjbodijn.</p>
+<p>’PMS’-vájve máhtti aj buorránit jus labut jali luossjvedimhárjjidusájt dahká. Buorre l aj ednagit oadet ja gähttjalit sierraláhkaj sietton årrot ja ij stressit dájt biejvijt gå dåbddå vájvijt.</p>
+</body></document>

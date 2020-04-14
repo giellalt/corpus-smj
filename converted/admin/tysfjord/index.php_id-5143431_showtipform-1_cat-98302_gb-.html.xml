@@ -1,49 +1,22 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>240</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/index.php?id=5143431&amp;showtipform=1&amp;cat=98302&amp;gb=</origFileName>
-    <parallel_text xml:lang="nob" location="ungdomstilbud.98302.no.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tysfjord kommune : Asstoájggefálaldagá nuorajda Divtasvuonan - Tips en venn</p>
-    <p type="title">Asstoájggefálaldagá nuorajda Divtasvuonan</p>
-    <p xml:lang="nob">18.12.2012</p>
-    <p>Divtasvuona nuorajn le vijdes asstoájggefálaldahka.</p>
-    <p>Gehtja aj Siebre jus sidá ienep diedojt majt Divtasvuodna máhttá mánájda ja nuorajda fállat.</p>
-    <p>Moadda fálaldagá gávnnuji Divtasvuona mánájda ja nuorajda. Dåjmalattjat bargaduvvá váj dá fálaldagá ájn buorebun galggi sjaddat.</p>
-    <p>Drag Aktivitetspark dálla tsieggiduvvá ja dåppe sjaddá vijdes asstoájggefálaldahka. Besa ienebuv Drag Aktivitetspark prosjevta birra</p>
-    <p>dáppe</p>
-    <p>låhkåt.</p>
-    <p>Bargaduvvá guokta dahkorássetjiektjamsaljo ásadit suohkanin, avtav Ájluovtan ja nuppev Gásluovtan.</p>
-    <p>Návti bessi máná ja nuora suohtastallat bállotjiektjamijn viehka vuohkasap saljon gå udnásj tjievrrasaljojn.</p>
-    <p>Divtasvuona valástallamsiebrijn le vijdes fálaldahka vuodjamis ja bállotjiektjamis tjuojggamij ja giessevalástallamij.</p>
-    <p>Goappátjij bielen vuonas nuora paintballav spelli.</p>
-    <p>Dan aktijvuodan galggi ásaduvvat moadda iehketbiejve/iehkeda gånnå nuora bessi tjåhkanit, organiseridum ja aj iehpeorganiseridum.</p>
-    <p>Sierra saje paintballaj maŋenagi ásaduvvi goappátjij bielijn vuonas.</p>
-    <p>Musihkkabirás Divtasvuonan le viehka buorre, ja ådå banda ja juohkusa ihti duolloj-dálloj. Moaddása dájs li boahtám Divtasvuona Kultuvrraskåvlå diehti.</p>
-    <p>Ja dá banda li luondulasj oassálasste bluesfestiválan <span type="quote" xml:lang="nob">"Sement-Blues"</span> mij ásaduvvá juohkka nuppát jage.</p>
-    <p>Divtasvuonan li sierralágásj máhttelisvuoda jus soaptso ålggon juogu de nuoren jali váren.</p>
-    <p>Miján le Stáddá, Vuona nasjonálvárre, gånnå li viehka buorre máhttelisvuoda goarŋŋot. Rádjebálges Jiellevárráj ásaduváj jagen 2007 ja dat le viehka buorre álggo jus sidá mijá oavdos luondov vásedit.</p>
-    <p>Vuodnabadán le canyon man muodattjav dåssju Amerikan gávna. Duodden li Divtasvuonan tjáppa rájge Oarjjevuonan ja Gásluovtan.</p>
-    <p>Dát tjáppa luonndo le vuorddemin duv! Bivddem- ja guollimmáhttelisvuoda li viehka buore, ja Divtasvuonan le dåjmalasj Bivdde- ja guollársiebrre gånnå li sierra fálaldagá nuorajda.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>240</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/index.php?id=5143431&amp;showtipform=1&amp;cat=98302&amp;gb=</origFileName><parallel_text xml:lang="nob" location="ungdomstilbud.98302.no.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tysfjord kommune : Asstoájggefálaldagá nuorajda Divtasvuonan - Tips en venn</p>
+<p type="title">Asstoájggefálaldagá nuorajda Divtasvuonan</p>
+<p xml:lang="nob">18.12.2012</p>
+<p>Divtasvuona nuorajn le vijdes asstoájggefálaldahka.</p>
+<p>Gehtja aj Siebre jus sidá ienep diedojt majt Divtasvuodna máhttá mánájda ja nuorajda fállat.</p>
+<p>Moadda fálaldagá gávnnuji Divtasvuona mánájda ja nuorajda. Dåjmalattjat bargaduvvá váj dá fálaldagá ájn buorebun galggi sjaddat.</p>
+<p>Drag Aktivitetspark dálla tsieggiduvvá ja dåppe sjaddá vijdes asstoájggefálaldahka. Besa ienebuv Drag Aktivitetspark prosjevta birra</p>
+<p>dáppe</p>
+<p>låhkåt.</p>
+<p>Bargaduvvá guokta dahkorássetjiektjamsaljo ásadit suohkanin, avtav Ájluovtan ja nuppev Gásluovtan.</p>
+<p>Návti bessi máná ja nuora suohtastallat bállotjiektjamijn viehka vuohkasap saljon gå udnásj tjievrrasaljojn.</p>
+<p>Divtasvuona valástallamsiebrijn le vijdes fálaldahka vuodjamis ja bállotjiektjamis tjuojggamij ja giessevalástallamij.</p>
+<p>Goappátjij bielen vuonas nuora paintballav spelli.</p>
+<p>Dan aktijvuodan galggi ásaduvvat moadda iehketbiejve/iehkeda gånnå nuora bessi tjåhkanit, organiseridum ja aj iehpeorganiseridum.</p>
+<p>Sierra saje paintballaj maŋenagi ásaduvvi goappátjij bielijn vuonas.</p>
+<p>Musihkkabirás Divtasvuonan le viehka buorre, ja ådå banda ja juohkusa ihti duolloj-dálloj. Moaddása dájs li boahtám Divtasvuona Kultuvrraskåvlå diehti.</p>
+<p>Ja dá banda li luondulasj oassálasste bluesfestiválan <span type="quote" xml:lang="nob">"Sement-Blues"</span> mij ásaduvvá juohkka nuppát jage.</p>
+<p>Divtasvuonan li sierralágásj máhttelisvuoda jus soaptso ålggon juogu de nuoren jali váren.</p>
+<p>Miján le Stáddá, Vuona nasjonálvárre, gånnå li viehka buorre máhttelisvuoda goarŋŋot. Rádjebálges Jiellevárráj ásaduváj jagen 2007 ja dat le viehka buorre álggo jus sidá mijá oavdos luondov vásedit.</p>
+<p>Vuodnabadán le canyon man muodattjav dåssju Amerikan gávna. Duodden li Divtasvuonan tjáppa rájge Oarjjevuonan ja Gásluovtan.</p>
+<p>Dát tjáppa luonndo le vuorddemin duv! Bivddem- ja guollimmáhttelisvuoda li viehka buore, ja Divtasvuonan le dåjmalasj Bivdde- ja guollársiebrre gånnå li sierra fálaldagá nuorajda.</p>
+</body></document>

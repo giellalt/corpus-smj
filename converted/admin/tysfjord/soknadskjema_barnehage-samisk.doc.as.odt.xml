@@ -1,85 +1,59 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>169</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/getfile.php/644024.1172.rqqrxxbvee/Soknadskjema+barnehage-samisk.doc.as.odt</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Divtasvuona Suohkan</p>
-    <p>Bajássjaddam ja åhpadus</p>
-    <p>8590 Gásluokta</p>
-    <p>Sisiválldem jagen</p>
-    <p>Oajvvesisiválldem</p>
-    <p>Åhtsåmus sajev mánájgárden</p>
-    <p>Tjále dádjadahtte</p>
-    <p type="title">Åskeldisvuodajn giehtadaláduvvat</p>
-    <p type="title">Mánná</p>
-    <p xml:lang="nob">Persåvnnånummar:</p>
-    <p>Mañep namma:</p>
-    <p>Åvdep namma</p>
-    <p>Le gus mánán máhttelisvuohta ståhkat sijda lahka?</p>
-    <p>Le gus mánán ståhkam rádna?</p>
-    <p>Máná åvdåstiddje</p>
-    <p>Sij/sån gen siegen</p>
-    <p>mánná årru.</p>
-    <p xml:lang="nob">Persåvnnånummar:</p>
-    <p>Mañep namma</p>
-    <p>Åvdep namma</p>
-    <p>Barggovadde/skåvllå:</p>
-    <p>Virggeprosænnta ja guhkkudahka</p>
-    <p>   stuoves    sadjásasj</p>
-    <p>Telef. barggov./skåvllå</p>
-    <p xml:lang="nob">Persåvnnånummar:</p>
-    <p>Mañep namma</p>
-    <p>Åvdep namma</p>
-    <p>Barggovadde/skåvllå:</p>
-    <p>Virggeprosænnta ja guhkkudahka</p>
-    <p>   stuoves    sadjásasj</p>
-    <p>Telef. barggov./skåvllå</p>
-    <p>Virggeprosænnta ja guhkkudahka hæhttu vatteduvvat.</p>
-    <p type="title">Famillja</p>
-    <p xml:lang="nob">Adræssa</p>
-    <p>Poasstanr./bájkke</p>
-    <p>Telefåvnnå</p>
-    <p>Iellemvuohke:</p>
-    <p>  Válldum   Aktanårro   Aktugasj</p>
-    <p>Galla máná li familjan ja goassa li riegádam (jahke):</p>
-    <p>Diedo manen mánnáj sadje mánajgárden åtsåduvvá.</p>
-    <p>Diedo máná varresvuoda birra</p>
-    <p>majt mánájgárdde bierri diehtet</p>
-    <p>Ietjá diedo.</p>
-    <p>Le gus mánná sajev adnám mánájgárden åvddåla? (Man guhkev):____________</p>
-    <p>Goassátjis sadje mánájgárden åhtsåduvvá?_______________________________________</p>
-    <p>Le gus mánán sadje mánájgárden dálla, makkir?________________________</p>
-    <p>Mánájgárdde ja sadjesládja (ålles/bielle) gåsi åhtsåduvvá:</p>
-    <p xml:lang="nob">__________________________________</p>
-    <p>(Gå mánán la bielle sadje de la mánná mánájgárden fært nuppe biejve)</p>
-    <p>Mån/måj sárnnun diedojt badjelin duolla</p>
-    <p xml:lang="nob">______________________________</p>
-    <p>Sadje ja dato</p>
-    <p xml:lang="nob">____________________________________</p>
-    <p>Vuollájtjállem</p>
-    <p xml:lang="nob">______________________________</p>
-    <p>Sadje ja dato</p>
-    <p xml:lang="nob">_____________________________________</p>
-    <p>Vuollájtjállem</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>169</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/getfile.php/644024.1172.rqqrxxbvee/Soknadskjema+barnehage-samisk.doc.as.odt</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Divtasvuona Suohkan</p>
+<p>Bajássjaddam ja åhpadus</p>
+<p>8590 Gásluokta</p>
+<p>Sisiválldem jagen</p>
+<p>Oajvvesisiválldem</p>
+<p>Åhtsåmus sajev mánájgárden</p>
+<p>Tjále dádjadahtte</p>
+<p type="title">Åskeldisvuodajn giehtadaláduvvat</p>
+<p type="title">Mánná</p>
+<p xml:lang="swe">Persåvnnånummar:</p>
+<p>Mañep namma:</p>
+<p>Åvdep namma</p>
+<p>Le gus mánán máhttelisvuohta ståhkat sijda lahka?</p>
+<p>Le gus mánán ståhkam rádna?</p>
+<p>Máná åvdåstiddje</p>
+<p>Sij/sån gen siegen</p>
+<p>mánná årru.</p>
+<p xml:lang="swe">Persåvnnånummar:</p>
+<p>Mañep namma</p>
+<p>Åvdep namma</p>
+<p>Barggovadde/skåvllå:</p>
+<p>Virggeprosænnta ja guhkkudahka</p>
+<p>   stuoves    sadjásasj</p>
+<p>Telef. barggov./skåvllå</p>
+<p xml:lang="swe">Persåvnnånummar:</p>
+<p>Mañep namma</p>
+<p>Åvdep namma</p>
+<p>Barggovadde/skåvllå:</p>
+<p>Virggeprosænnta ja guhkkudahka</p>
+<p>   stuoves    sadjásasj</p>
+<p>Telef. barggov./skåvllå</p>
+<p>Virggeprosænnta ja guhkkudahka hæhttu vatteduvvat.</p>
+<p type="title">Famillja</p>
+<p xml:lang="nob">Adræssa</p>
+<p>Poasstanr./bájkke</p>
+<p>Telefåvnnå</p>
+<p>Iellemvuohke:</p>
+<p>  Válldum   Aktanårro   Aktugasj</p>
+<p>Galla máná li familjan ja goassa li riegádam (jahke):</p>
+<p>Diedo manen mánnáj sadje mánajgárden åtsåduvvá.</p>
+<p>Diedo máná varresvuoda birra</p>
+<p>majt mánájgárdde bierri diehtet</p>
+<p>Ietjá diedo.</p>
+<p>Le gus mánná sajev adnám mánájgárden åvddåla? (Man guhkev):____________</p>
+<p>Goassátjis sadje mánájgárden åhtsåduvvá?_______________________________________</p>
+<p>Le gus mánán sadje mánájgárden dálla, makkir?________________________</p>
+<p>Mánájgárdde ja sadjesládja (ålles/bielle) gåsi åhtsåduvvá:</p>
+<p xml:lang="nob">__________________________________</p>
+<p>(Gå mánán la bielle sadje de la mánná mánájgárden fært nuppe biejve)</p>
+<p>Mån/måj sárnnun diedojt badjelin duolla</p>
+<p xml:lang="nob">______________________________</p>
+<p>Sadje ja dato</p>
+<p xml:lang="nob">____________________________________</p>
+<p>Vuollájtjállem</p>
+<p xml:lang="nob">______________________________</p>
+<p>Sadje ja dato</p>
+<p xml:lang="nob">_____________________________________</p>
+<p>Vuollájtjállem</p>
+</body></document>

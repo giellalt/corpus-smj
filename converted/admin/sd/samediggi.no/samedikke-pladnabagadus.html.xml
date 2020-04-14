@@ -1,77 +1,32 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>287</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Biras-arealla-ja-kultursuodjalus/Areala/Samedikke-pladnabagadus/Samedikke-pladnabagadus</origFileName>
-    <parallel_text xml:lang="nob" location="sametinget-planveileder.html"/>
-    <parallel_text xml:lang="sme" location="samedikki-planaveahkki.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sámedikke pládnabagádus / Sámedikke pládnabagádus / Areála / Birás, areálla ja kultursuodjalus / Sámedigge - Sametinget</p>
-    <p type="title">Sámedikke pládnabagádus</p>
-    <p><em type="italic">Politihkalasj ássje: </em>Sámedigge mierredij plánimbagádusáv jagen 2010. Plánimbagádus láhtjá dilev nav vaj gájkka plána, vájkkudimguoradallama ja mærrádusá ma tjuovvu pládna- ja tsiekkaduslága pládnaoasev nanniji sáme kultuvra luonndovuodov, æládusájt ja sebrudakiellemav </p>
-    <p type="title" xml:lang="nob">Se alle hendelser i saken</p>
-    <p xml:lang="nob"><em type="italic">Siste hendelse: </em>17.tsïen 2012  <em type="italic">Sametinget planveileder </em></p>
-    <p xml:lang="nob">04.tsïen 2012</p>
-    <p>
-      <em type="italic">Sámedikke njuolgadusá árvustalátjit sáme vieledimijt ietjájduvvam adnuj miehtses </em>
-    </p>
-    <p xml:lang="nob">17.tsïen 2012</p>
-    <p xml:lang="nob">
-      <em type="bold">Sametinget planveileder </em>
-    </p>
-    <p xml:lang="nob">17.tsïen 2012</p>
-    <p xml:lang="sme">
-      <em type="italic">Sámedikki plánaveahkki </em>
-    </p>
-    <p xml:lang="nob">17.tsïen 2012</p>
-    <p xml:lang="nob">
-      <em type="italic">Sametinget planveileder </em>
-    </p>
-    <p xml:lang="nob">17.tsïen 2012</p>
-    <p xml:lang="sme">
-      <em type="bold">Sámedikki plánaveahkki </em>
-    </p>
-    <p xml:lang="nob">17.tsïen 2012</p>
-    <p>
-      <em type="italic">Sámedikke pládnabagádus </em>
-    </p>
-    <p xml:lang="nob">17.tsïen 2012</p>
-    <p xml:lang="sme">
-      <em type="italic">Sámedikki plánaveahkki </em>
-    </p>
-    <p xml:lang="nob">17.tsïen 2012</p>
-    <p>
-      <em type="bold">Sámedikke pládnabagádus </em>
-    </p>
-    <p xml:lang="nob">17.tsïen 2012</p>
-    <p xml:lang="nob">(9 av 9)</p>
-    <p type="title">Sámedikke pládnabagádus</p>
-    <p>Sámedigge mierredij plánimbagádusáv jagen 2010. Plánimbagádus láhtjá dilev nav vaj gájkka plána, vájkkudimguoradallama ja mærrádusá ma tjuovvu pládna- ja tsiekkaduslága pládnaoasev nanniji sáme kultuvra luonndovuodov, æládusájt ja sebrudakiellemav (bs. § 3-2).</p>
-    <p>Sámedikke vælggogisvuohta oassálastátjit plánimijda sisadná aj máhttelisvuodav rievtesvuodav lága milta vuosteldit areállaplánaj aktijvuodajn ja guovlolasj plánajt vuosteldit depártamentaj åvddåj jus ássje ma li ájnnasa sáme kultuvrraj jali æládusdåjmajda ælla bærrájgåtsedum (jf. §§ 5-4 og 8-4). Dá mærrádusá lágan li dahkam nav vaj Sámedigge hæhttu tjielggit ietjas vuodov pládnabárgo oassálasstemij.</p>
-    <p>Sámedikke plánimbagádus le viehkkenævvon systematiseritjit ja vattátjit tjoahkkediedojt dajs plánimvieledusájs sáme kultuvra hárráj, ja ma tjuovvu doajmme lágajs ja rijkajgasskasasj lágajs plánimav pládna- ja tsiekkaduslága milta. Plánimbagádus le danen dagádum muhtem bagádustjuokkajs jali njuolgadusájs masi vas li tjiegŋalap kommentára. Finnmárkolága § 4 milta mierret Sámedigge njuolgadusájt árvustalátjit sáme vieledusájt miehtse adnema ietjájduhttemijs (dás rájes gåhtjodum njuolgadusá miehtse adnema ietjájduhttemijs). Njuolgadusá li dåhkkidum departementas. Dát plánimbagádusán li unnán ietjálágásj ássjediehttelis ja geográfalasj doajmmaguovllo gå njuolgadusá miehtse adnema ietjájduhttemijs Finnmárkon. Dæddo le biejadum jut doajmmaguovllo li avtalágátja, ja dán plánimbagádusá ássjediehttelis sisadno ja njuolgadusájn miehtse adnema ietjájduhttemijs li aj avtalágátja.</p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="nob">Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="nob">Sørsamisk</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>287</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Biras-arealla-ja-kultursuodjalus/Areala/Samedikke-pladnabagadus/Samedikke-pladnabagadus</origFileName><parallel_text xml:lang="nob" location="sametinget-planveileder.html"/><parallel_text xml:lang="sme" location="samedikki-planaveahkki.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sámedikke pládnabagádus / Sámedikke pládnabagádus / Areála / Birás, areálla ja kultursuodjalus / Sámedigge - Sametinget</p>
+<p type="title">Sámedikke pládnabagádus</p>
+<p><em type="italic">Politihkalasj ássje: </em>Sámedigge mierredij plánimbagádusáv jagen 2010. Plánimbagádus láhtjá dilev nav vaj gájkka plána, vájkkudimguoradallama ja mærrádusá ma tjuovvu pládna- ja tsiekkaduslága pládnaoasev nanniji sáme kultuvra luonndovuodov, æládusájt ja sebrudakiellemav </p>
+<p type="title" xml:lang="nob">Se alle hendelser i saken</p>
+<p xml:lang="nob"><em type="italic">Siste hendelse: </em>17.tsïen 2012  <em type="italic">Sametinget planveileder </em></p>
+<p xml:lang="nob">04.tsïen 2012</p>
+<p><em type="italic">Sámedikke njuolgadusá árvustalátjit sáme vieledimijt ietjájduvvam adnuj miehtses </em></p>
+<p xml:lang="nob">17.tsïen 2012</p>
+<p xml:lang="nob"><em type="bold">Sametinget planveileder </em></p>
+<p xml:lang="nob">17.tsïen 2012</p>
+<p xml:lang="sme"><em type="italic">Sámedikki plánaveahkki </em></p>
+<p xml:lang="nob">17.tsïen 2012</p>
+<p xml:lang="nob"><em type="italic">Sametinget planveileder </em></p>
+<p xml:lang="nob">17.tsïen 2012</p>
+<p xml:lang="sme"><em type="bold">Sámedikki plánaveahkki </em></p>
+<p xml:lang="nob">17.tsïen 2012</p>
+<p><em type="italic">Sámedikke pládnabagádus </em></p>
+<p xml:lang="nob">17.tsïen 2012</p>
+<p xml:lang="sme"><em type="italic">Sámedikki plánaveahkki </em></p>
+<p xml:lang="nob">17.tsïen 2012</p>
+<p><em type="bold">Sámedikke pládnabagádus </em></p>
+<p xml:lang="nob">17.tsïen 2012</p>
+<p xml:lang="nob">(9 av 9)</p>
+<p type="title">Sámedikke pládnabagádus</p>
+<p>Sámedigge mierredij plánimbagádusáv jagen 2010. Plánimbagádus láhtjá dilev nav vaj gájkka plána, vájkkudimguoradallama ja mærrádusá ma tjuovvu pládna- ja tsiekkaduslága pládnaoasev nanniji sáme kultuvra luonndovuodov, æládusájt ja sebrudakiellemav (bs. § 3-2).</p>
+<p>Sámedikke vælggogisvuohta oassálastátjit plánimijda sisadná aj máhttelisvuodav rievtesvuodav lága milta vuosteldit areállaplánaj aktijvuodajn ja guovlolasj plánajt vuosteldit depártamentaj åvddåj jus ássje ma li ájnnasa sáme kultuvrraj jali æládusdåjmajda ælla bærrájgåtsedum (jf. §§ 5-4 og 8-4). Dá mærrádusá lágan li dahkam nav vaj Sámedigge hæhttu tjielggit ietjas vuodov pládnabárgo oassálasstemij.</p>
+<p>Sámedikke plánimbagádus le viehkkenævvon systematiseritjit ja vattátjit tjoahkkediedojt dajs plánimvieledusájs sáme kultuvra hárráj, ja ma tjuovvu doajmme lágajs ja rijkajgasskasasj lágajs plánimav pládna- ja tsiekkaduslága milta. Plánimbagádus le danen dagádum muhtem bagádustjuokkajs jali njuolgadusájs masi vas li tjiegŋalap kommentára. Finnmárkolága § 4 milta mierret Sámedigge njuolgadusájt árvustalátjit sáme vieledusájt miehtse adnema ietjájduhttemijs (dás rájes gåhtjodum njuolgadusá miehtse adnema ietjájduhttemijs). Njuolgadusá li dåhkkidum departementas. Dát plánimbagádusán li unnán ietjálágásj ássjediehttelis ja geográfalasj doajmmaguovllo gå njuolgadusá miehtse adnema ietjájduhttemijs Finnmárkon. Dæddo le biejadum jut doajmmaguovllo li avtalágátja, ja dán plánimbagádusá ássjediehttelis sisadno ja njuolgadusájn miehtse adnema ietjájduhttemijs li aj avtalágátja.</p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="nob">Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="nob">Sørsamisk</p>
+</body></document>

@@ -1,50 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Gállábárne - subtsas vuostasj sámij birra</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Ingar" lastname="Skogvold" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>193</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_300409.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>Norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta/Gåva: Ingar N. Skogvold Jårggålibme: Idar Kintel/Divte Media AS</p>
-    <p xml:lang="nob"><em type="italic">Gålmmå viehkediddje (Thomas Aamo, Jens Solvold, Martin Kristoffer Liljebakk) vantsavaktan biejve bárnijn (Martin Nicolaisen) tsieggijin vaj sån jiehtanisáj lándas besaj.DE TRE HJELPERNE (Thomas Aamo, Jens Solvold, Martin Kristoffer Liljebakk) bygde båtsammen med solsønnen ( Martin Nicolaisen) slik at han kunne komme seg til jettenes land.</em> </p>
-    <p>juojddáv tjadádit. Suohtas lijjuojgav oahppat, moalgedinmuhtema oahppijs, åvddål gålåhpadin dáv prosjevtaj jur esskiåhpadum juojgajn.</p>
-    <p xml:lang="nob"><em type="italic">Bagádalle Toril Johansen lij subtsastiddje jajienav stivrrij vuosádusán.INSTRUKTØR Toril Johansen var bådeforteller og lydmaker under forestillingen.</em> </p>
-    <p>Vuosádusá åvddåla lidjin moaddaoahppe hálvva asidisá ja luohkajtjuojven. Valla loajtoj ságastallamamannela åvddål gå gæhttje sisi bessin, jahásstalusáj bagádalles suohtastallat, galgájkka buoragit manáj. Vuosádusámannela oahppe Johansenav májnodin,ja máhttin subtsastit ålov lidjin dáguokta biejvijn oahppam. Dánna lijsáhka duola dagu Gállabárnne livuostasj sámebáhtja sielo, niego máhttisuohttasa liehket, ja ep dárbaha ballat gågalggá vuosádusán oassálasstet ja lebuoremus aktisattjat barggat gå ájgo</p>
-    <p xml:lang="nob"><em type="italic">Biejve bárnne (MartinNicolaisen) dårru vuorasjiehttanisájn (TobiasWestgård) oattjotjitloabev suv niejdajnválldut (Ida Nøstdahl).SOLSØNNEN (MartinNicolaisen) kjempermed gammeljetten(Tobias Westgård) om åfå lov til å gifte seg meddatteren(Ida Nøstdahl).</em> </p>
-    <p>j</p>
-    <p>j</p>
-    <p>j</p>
-    <p>j</p>
-    <p>j jj</p>
-    <p><em type="italic">Nuorra oavdástalle tjåhkanam vuosádusa mannela aktan bagádalle Toril Johansen (gassko), guládallamåhpadiddje Astrid G. Nilsen ja guosseoahppe Rebekka B. Corneliussen.j j</em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Gállábárne - subtsas vuostasj sámij birra</title><genre code="news"/><author><person firstname="Ingar" lastname="Skogvold" sex="m" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2009</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>193</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_300409.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>Norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta/Gåva: Ingar N. Skogvold Jårggålibme: Idar Kintel/Divte Media AS</p>
+<p xml:lang="nob"><em type="italic">Gålmmå viehkediddje (Thomas Aamo, Jens Solvold, Martin Kristoffer Liljebakk) vantsavaktan biejve bárnijn (Martin Nicolaisen) tsieggijin vaj sån jiehtanisáj lándas besaj.DE TRE HJELPERNE (Thomas Aamo, Jens Solvold, Martin Kristoffer Liljebakk) bygde båtsammen med solsønnen ( Martin Nicolaisen) slik at han kunne komme seg til jettenes land.</em> </p>
+<p>juojddáv tjadádit. Suohtas lijjuojgav oahppat, moalgedinmuhtema oahppijs, åvddål gålåhpadin dáv prosjevtaj jur esskiåhpadum juojgajn.</p>
+<p xml:lang="nob"><em type="italic">Bagádalle Toril Johansen lij subtsastiddje jajienav stivrrij vuosádusán.INSTRUKTØR Toril Johansen var bådeforteller og lydmaker under forestillingen.</em> </p>
+<p>Vuosádusá åvddåla lidjin moaddaoahppe hálvva asidisá ja luohkajtjuojven. Valla loajtoj ságastallamamannela åvddål gå gæhttje sisi bessin, jahásstalusáj bagádalles suohtastallat, galgájkka buoragit manáj. Vuosádusámannela oahppe Johansenav májnodin,ja máhttin subtsastit ålov lidjin dáguokta biejvijn oahppam. Dánna lijsáhka duola dagu Gállabárnne livuostasj sámebáhtja sielo, niego máhttisuohttasa liehket, ja ep dárbaha ballat gågalggá vuosádusán oassálasstet ja lebuoremus aktisattjat barggat gå ájgo</p>
+<p xml:lang="nob"><em type="italic">Biejve bárnne (MartinNicolaisen) dårru vuorasjiehttanisájn (TobiasWestgård) oattjotjitloabev suv niejdajnválldut (Ida Nøstdahl).SOLSØNNEN (MartinNicolaisen) kjempermed gammeljetten(Tobias Westgård) om åfå lov til å gifte seg meddatteren(Ida Nøstdahl).</em> </p>
+<p>j</p>
+<p>j</p>
+<p>j</p>
+<p>j</p>
+<p>j jj</p>
+<p><em type="italic">Nuorra oavdástalle tjåhkanam vuosádusa mannela aktan bagádalle Toril Johansen (gassko), guládallamåhpadiddje Astrid G. Nilsen ja guosseoahppe Rebekka B. Corneliussen.j j</em> </p>
+</body></document>

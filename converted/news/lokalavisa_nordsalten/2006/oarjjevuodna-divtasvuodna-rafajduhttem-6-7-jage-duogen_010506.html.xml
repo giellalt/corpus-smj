@@ -1,43 +1,13 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Oarjjevuodna – Divtasvuodna: Ráfájduhttem 6-7 jage duogen?</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>297</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/oarjjevuodna-divtasvuodna-r-f-jduhttem-6-7-jage-duogen.4155</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Oarjjevuodna – Divtasvuodna: Ráfájduhttem 6-7 jage duogen?</p>
-    <p>Fylkkamánne birásgáhttimnjunnjusj Roar Høgseth ij jáhke Oarjjevuodna – Divtasvuodna ráfájduhteduvvá åvddål gå edesiik 6-7 jage li ájn vássám.</p>
-    <p xml:lang="nob">Norsk kortversjon</p>
-    <p>Álgos galgaj ieme lágásj násjunalpárkka sjaddat, valla ednamæjgáda, sáme birrusa, ja aj Sámedigge vuosstálasstin dajda plánajda. Dajna de ráfájduhttempládna ganugij.</p>
-    <p>Ságastallamij tjadá sjattaj boados juohkusav válljit mij galgaj ævtodusáv åvddånbuktet gåktu galggá julevsáme dáfojt nasjunalpárkplánaj baktu ráfájduhttet sisñep dáfojn Divtasvuonan, Hábmerin ja Fuoldán.</p>
-    <p>Ja dát pládna l dal gergas. Pládna l dagádum Sámedikke ja birásgáhttimdepartementa åvdås, ja birásgáhttimministar ja sámedikke sadjásasjpresidænnta dáv plánav giehtaj oattjojga vásse vahko.</p>
-    <p>Pládnabarggo gåvåstahttá bargov ráfájduhttet dáv luonndodáfov gånnå lij sáme viessum ájgij tjadá, ja dát ráfájduhttembarggo l de oadtjum násjunálalasj tjanástagáv.</p>
-    <p>-Mij lip ájádallam ja ævtodam gåktu dát ráfájduhttembarggo galggá joarkket, ja aj ævtodam gåktu stivrrimjuogos galggá liehket. Dán stivrrimjuohkusin li akta juohkka suohkanis mij guoskadallá, duodden ájrrasav fylkkamánnes ja fylkkasuohkanis. Duodden li aj sáme ájrrasa dán juohkusin. Mij lip aj vuosedam makkár darbo lij ådå tjielggidusájs dajna gå dálásj lágá e dárbojt gåbtjå, subtsas akta njunnjutjijs dán juohkusin Roar Høgseth. Høgseth la birásgáhttimnjunnjusj Fylkamánnen ja akta guovtet njunnjutjijs juohkusin. Nubbe njunnusj lij Filip Mikkelsen.</p>
-    <p>Juohkusa mielas galggá dát sierraláhka gåbttjåt dajt dárbojt ma e gávnnu ietjá lágajn ja njuolgadusájn, ja aj doajmmat dagu pládna- ja tsieggimlága badjel.</p>
-    <p>Høgseth jáhkká dá giehtos dáfo ráfájduhteduvvi, valla ij diede goassa, ja makkár hámen. –Jus dáfo ráfájduhteduvvá, ja dan baktu oadtjop ållu ådå vidjurijt mij guosská ráfájduhttemij dákkár dáfojs, de sjaddá ållu ådå ja geldulasj dille gånnå li æládusrijdo vieledum, javllá Høgseth.</p>
-    <p>Departemænnta galggá dal mierredit jus barggo joarkka. Ja jus manná gåktu dát juogos la ájggeplánav dahkam, de esski 6-7 jage duogen sjaddá mierredus Stuorradikken jus dáfo galggi ráfájduhteduvvat, ja makkár hámen.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Oarjjevuodna – Divtasvuodna: Ráfájduhttem 6-7 jage duogen?</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>297</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/oarjjevuodna-divtasvuodna-r-f-jduhttem-6-7-jage-duogen.4155</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Oarjjevuodna – Divtasvuodna: Ráfájduhttem 6-7 jage duogen?</p>
+<p>Fylkkamánne birásgáhttimnjunnjusj Roar Høgseth ij jáhke Oarjjevuodna – Divtasvuodna ráfájduhteduvvá åvddål gå edesiik 6-7 jage li ájn vássám.</p>
+<p xml:lang="nob">Norsk kortversjon</p>
+<p>Álgos galgaj ieme lágásj násjunalpárkka sjaddat, valla ednamæjgáda, sáme birrusa, ja aj Sámedigge vuosstálasstin dajda plánajda. Dajna de ráfájduhttempládna ganugij.</p>
+<p>Ságastallamij tjadá sjattaj boados juohkusav válljit mij galgaj ævtodusáv åvddånbuktet gåktu galggá julevsáme dáfojt nasjunalpárkplánaj baktu ráfájduhttet sisñep dáfojn Divtasvuonan, Hábmerin ja Fuoldán.</p>
+<p>Ja dát pládna l dal gergas. Pládna l dagádum Sámedikke ja birásgáhttimdepartementa åvdås, ja birásgáhttimministar ja sámedikke sadjásasjpresidænnta dáv plánav giehtaj oattjojga vásse vahko.</p>
+<p>Pládnabarggo gåvåstahttá bargov ráfájduhttet dáv luonndodáfov gånnå lij sáme viessum ájgij tjadá, ja dát ráfájduhttembarggo l de oadtjum násjunálalasj tjanástagáv.</p>
+<p>-Mij lip ájádallam ja ævtodam gåktu dát ráfájduhttembarggo galggá joarkket, ja aj ævtodam gåktu stivrrimjuogos galggá liehket. Dán stivrrimjuohkusin li akta juohkka suohkanis mij guoskadallá, duodden ájrrasav fylkkamánnes ja fylkkasuohkanis. Duodden li aj sáme ájrrasa dán juohkusin. Mij lip aj vuosedam makkár darbo lij ådå tjielggidusájs dajna gå dálásj lágá e dárbojt gåbtjå, subtsas akta njunnjutjijs dán juohkusin Roar Høgseth. Høgseth la birásgáhttimnjunnjusj Fylkamánnen ja akta guovtet njunnjutjijs juohkusin. Nubbe njunnusj lij Filip Mikkelsen.</p>
+<p>Juohkusa mielas galggá dát sierraláhka gåbttjåt dajt dárbojt ma e gávnnu ietjá lágajn ja njuolgadusájn, ja aj doajmmat dagu pládna- ja tsieggimlága badjel.</p>
+<p>Høgseth jáhkká dá giehtos dáfo ráfájduhteduvvi, valla ij diede goassa, ja makkár hámen. –Jus dáfo ráfájduhteduvvá, ja dan baktu oadtjop ållu ådå vidjurijt mij guosská ráfájduhttemij dákkár dáfojs, de sjaddá ållu ådå ja geldulasj dille gånnå li æládusrijdo vieledum, javllá Høgseth.</p>
+<p>Departemænnta galggá dal mierredit jus barggo joarkka. Ja jus manná gåktu dát juogos la ájggeplánav dahkam, de esski 6-7 jage duogen sjaddá mierredus Stuorradikken jus dáfo galggi ráfájduhteduvvat, ja makkár hámen.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

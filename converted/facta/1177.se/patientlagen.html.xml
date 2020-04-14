@@ -1,78 +1,37 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>592</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Patientlagen</origFileName>
-    <parallel_text xml:lang="eng" location="patientlagen.html"/>
-    <parallel_text xml:lang="fin" location="patientlagen.html"/>
-    <parallel_text xml:lang="fit" location="patientlagen.html"/>
-    <parallel_text xml:lang="sma" location="patientlagen.html"/>
-    <parallel_text xml:lang="sme" location="patientlagen.html"/>
-    <parallel_text xml:lang="swe" location="patientlagen.html"/>
-    <parallel_text location="patientlagen.html" xml:lang="rmy-rka"/>
-    <parallel_text location="patientlagen.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="patientlagen.html" xml:lang="rmf"/>
-    <parallel_text location="patientlagen.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Patiänntaláhka / Patientlagen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">JulevusámegiellaLulesamiska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title">PatiänntaláhkaPatientlagen</p>
-    <p>Patiänntaláhka l dagádum dunji gut la patiännta. Danna buojkoduvvá dån galga diedov oadtjot duv skibádagá birra ja makkir dálkudime gávnnuji. De dån aj máhtá oassálasstet ja mierredit duv sujto birra. Dån galga aj diedov oadtjot gånnå máhtá válljit sujtov majt dárbaha.</p>
-    <p type="title">Diededibme</p>
-    <p>Vájku gut dån la ja makkir vidjura dujna li de sujttobargge galggi vaddet dujni diedojt majt dárbaha. Merkaj buojkulvissan dån márjju dárbaha dålkåv jali tjálalasj diededimev, dádjadittjat gåktu åtsådibme galggá sjaddat.</p>
-    <p>Diededibme galggá hiebadum duv vidjurij ja ietjat åvdeldimijda. Ájnas la vaj galga dádjadit ja oassálasstet duv sujton. Dån iesj vállji man aktijvalasj dån sidá årrot, valla dujna l agev máhttelisvuohta javllat majt sidá.</p>
-    <p>Gå dåbdå dån dádjada makkir alternatijva ja máhttelisvuoda li dujna de máhtá miededit, jali juogaláhkáj javllat gåktu sidá. Dån máhtá aj válljit vuornnot sujttuj mij fáladuvvá. Vájku la aj miededam muhtem sujtuj de máhtá rievddadit.</p>
-    <p>Mánán aj galggá årrot máhttelisvuohta ietjas vuojnov javllat. Jus mánná l unnagasj de máhttá dagáduvvat aktan máná sujttoaddnijn, valla dadi vuorrasap mánna l dadi ájnasabbo l sån oadtju oassálasstet ietjas sujton. Vaj máhtá aktijvalasj årrot sujton ja mierredit la ájnas mánná aj dádjat diededimev.</p>
-    <p type="title">Majt máhttá diededibme sisanedit?</p>
-    <p>Dån galga oadtjot diededimev birra</p>
-    <list>
-      <p type="listitem">duv varresvuohtavijor</p>
-      <p type="listitem">makkir barggovuoge gávnnuji åtsådibmáj, sujttuj ja dálkudibmáj makkir viehkkenävo gávnnuji</p>
-      <p type="listitem">goassa máhtá vuorddet sujtov oadtjot</p>
-      <p type="listitem">majt dálkudibme ja sujtto vuordeduvvá båhtusin</p>
-      <p type="listitem">makkir vádá ådå skibádagájda ja tjuovvobájnatjimijda gávnnuji</p>
-      <p type="listitem">gåktu maŋŋelsujtto, majt márjju dárbaha, sjaddá</p>
-      <p type="listitem">makkir barggovuoge gávnnuji hierdittjat skibádagáv jali vahágav</p>
-      <p type="listitem">máhttelisvuoda Oadjodåjmadagán oadtjot ienep diededimev sujtov åhtsåt EES-rijkan jali Schweizan.</p>
-    </list>
-    <p>Muhttijn márjju duv lagámusá dárbahi diededimev oadtjot duv sujto birra. Sekretessa diehti lagámusá val máhtti diededuvvat jus iesj oassálastá manádimen jali l miededam.</p>
-    <p>Hähkka vidjurijn, jus dån buojkulvissan la jámálguvvam ja ij máhte miededit, de huoman sujtov oattjo jus duv hägga l nihtedum.</p>
-    <p type="title">Válljit rabás sujtov ålles rijkan</p>
-    <p>Dån galga oadtjot diededimev birra makkir sujtov duv lánndadigge máhttá fállat ja jus dån máhtá sujtov oadtjot ietja lánndadikken.</p>
-    <p>Valla máhtá aj válljit rábássujtov akta gånnå Svierigin. Merkaj dån máhtá válljit sujttoguovdátjav jali rabás spesialisstaduostudagáv manádibmáj jali åtsådibmáj. Buojkulvis rabás spesialisstasujttuj la gråstarratjuollama.</p>
-    <p>Ij la ájnas jus sujttovadde l almulasj jali priváhtta gå sujtto l lánndadikkes biednigahtedum.</p>
-    <p>Válljit sujttoguovdátji gullut muhttijn gåhtjoduvvá tjáledibmen. Valla dujna l agev máhttelisvuohta mannat akta makkir sujttoguovdátji sidá ålles Svierigin. Sujttoguovdátjin máhtá aj válljit stuoves dåktåraktavuodav.</p>
-    <p>Dån máhtá aj válljit aleprabássujtov dajvakskihpadåben ietjá lánndadikken, buojkulvissan bårredávda gehtjadibme.</p>
-    <p type="title">Duv medisijnalasj dárbo mierredi</p>
-    <p>Gå sujtov åtså ietjá lánndadikken de duv medisijnalasj dárbo mierredi goassa sujtov oattjo. Duv medisijnalasj dárbo dåktåris merustaláduvvi. Dån galgá oadtjot rabássujtov sämmi vidjurijda gå gájka gudi li álmmuktjáledum dan lánndadikken. Merkaj buojkulvissan dån mávsá sämmi madev patiänntamákson gå gájkka iehtjáda gudi rabássujtov åhtsi. Dån hähttu iesj räjsojt ja viessomav mákset gå vállji sujtov ietjá lánndadikken.</p>
-    <p>Dån, gut boadá ietjá lánndadikkes, ij sujttogarantiddjas gåbtjåduvá lánndadikken majt vállji.</p>
-    <p type="title">Ådå medisijnalasj merustallam</p>
-    <p>Jus dujna l hägganihtte jali sierraláhkáj tjavgga skibádahka jali vahák ja galga gássjelis medisijnalasj märrádusájt mierredit de máhtá rávkkat ådå medisijnalasj merustallamav oadtjot. Dav oattjo ietjá dåktåris gå iemelágasj dåktåris, juogo de duv häjmmalánndadikken jali ietjá lánndadikken.</p>
-    <p>Duv häjmmalánndadigge máksá gålojt ådå medisijnalasj merustallama åvdås.</p>
-    <p type="title">Máhttá årrot umassláhkáj jus dån dárbaha remissav</p>
-    <p>Jus remissa rávkaduvvá rabás spesialisstasujttuj duv häjmmalánndadikken jali dan lánndadikken gånnå sujtov åtså de hähttu remissav adnet duv sujttoguovdátjis.</p>
-    <p type="title">Jus dån illa dudálasj</p>
-    <p>Juohkka lánndadikken gávnnu patiänntasiebrreráde mij galggá duv viehkedit jus dån ij dåbdå oasálasjvuodav duv sujton jali ietjáláhkáj illa sujtujn dudálasj. Patiänntasiebrreráde máhttá buojkulvissan duv viehkedit sahkadit åvdåsvásste sujttobargij ja diededimev oadtjot gåktu máhtá diededit majt la vásedam.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>586</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Patientlagen</origFileName><parallel_text xml:lang="eng" location="patientlagen.html"/><parallel_text xml:lang="fin" location="patientlagen.html"/><parallel_text xml:lang="fit" location="patientlagen.html"/><parallel_text xml:lang="sma" location="patientlagen.html"/><parallel_text xml:lang="sme" location="patientlagen.html"/><parallel_text xml:lang="swe" location="patientlagen.html"/><parallel_text location="patientlagen.html" xml:lang="rmy-rka"/><parallel_text location="patientlagen.html" xml:lang="rmy-rlo"/><parallel_text location="patientlagen.html" xml:lang="rmf"/><parallel_text location="patientlagen.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Patiänntaláhka / Patientlagen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">PatiänntaláhkaPatientlagen</p>
+<p>Patiänntaláhka l dagádum dunji gut la patiännta. Danna buojkoduvvá dån galga diedov oadtjot duv skibádagá birra ja makkir dálkudime gávnnuji. De dån aj máhtá oassálasstet ja mierredit duv sujto birra. Dån galga aj diedov oadtjot gånnå máhtá válljit sujtov majt dárbaha.</p>
+<p type="title">Diededibme</p>
+<p>Vájku gut dån la ja makkir vidjura dujna li de sujttobargge galggi vaddet dujni diedojt majt dárbaha. Merkaj buojkulvissan dån márjju dárbaha dålkåv jali tjálalasj diededimev, dádjadittjat gåktu åtsådibme galggá sjaddat.</p>
+<p>Diededibme galggá hiebadum duv vidjurij ja ietjat åvdeldimijda. Ájnas la vaj galga dádjadit ja oassálasstet duv sujton. Dån iesj vállji man aktijvalasj dån sidá årrot, valla dujna l agev máhttelisvuohta javllat majt sidá.</p>
+<p>Gå dåbdå dån dádjada makkir alternatijva ja máhttelisvuoda li dujna de máhtá miededit, jali juogaláhkáj javllat gåktu sidá. Dån máhtá aj válljit vuornnot sujttuj mij fáladuvvá. Vájku la aj miededam muhtem sujtuj de máhtá rievddadit.</p>
+<p>Mánán aj galggá årrot máhttelisvuohta ietjas vuojnov javllat. Jus mánná l unnagasj de máhttá dagáduvvat aktan máná sujttoaddnijn, valla dadi vuorrasap mánna l dadi ájnasabbo l sån oadtju oassálasstet ietjas sujton. Vaj máhtá aktijvalasj årrot sujton ja mierredit la ájnas mánná aj dádjat diededimev.</p>
+<p type="title">Majt máhttá diededibme sisanedit?</p>
+<p>Dån galga oadtjot diededimev birra</p>
+<list><p type="listitem">duv varresvuohtavijor</p>
+<p type="listitem">makkir barggovuoge gávnnuji åtsådibmáj, sujttuj ja dálkudibmáj makkir viehkkenävo gávnnuji</p>
+<p type="listitem">goassa máhtá vuorddet sujtov oadtjot</p>
+<p type="listitem">majt dálkudibme ja sujtto vuordeduvvá båhtusin</p>
+<p type="listitem">makkir vádá ådå skibádagájda ja tjuovvobájnatjimijda gávnnuji</p>
+<p type="listitem">gåktu maŋŋelsujtto, majt márjju dárbaha, sjaddá</p>
+<p type="listitem">makkir barggovuoge gávnnuji hierdittjat skibádagáv jali vahágav</p>
+<p type="listitem">máhttelisvuoda Oadjodåjmadagán oadtjot ienep diededimev sujtov åhtsåt EES-rijkan jali Schweizan.</p>
+</list><p>Muhttijn márjju duv lagámusá dárbahi diededimev oadtjot duv sujto birra. Sekretessa diehti lagámusá val máhtti diededuvvat jus iesj oassálastá manádimen jali l miededam.</p>
+<p>Hähkka vidjurijn, jus dån buojkulvissan la jámálguvvam ja ij máhte miededit, de huoman sujtov oattjo jus duv hägga l nihtedum.</p>
+<p type="title">Válljit rabás sujtov ålles rijkan</p>
+<p>Dån galga oadtjot diededimev birra makkir sujtov duv lánndadigge máhttá fállat ja jus dån máhtá sujtov oadtjot ietja lánndadikken.</p>
+<p>Valla máhtá aj válljit rábássujtov akta gånnå Svierigin. Merkaj dån máhtá válljit sujttoguovdátjav jali rabás spesialisstaduostudagáv manádibmáj jali åtsådibmáj. Buojkulvis rabás spesialisstasujttuj la gråstarratjuollama.</p>
+<p>Ij la ájnas jus sujttovadde l almulasj jali priváhtta gå sujtto l lánndadikkes biednigahtedum.</p>
+<p>Válljit sujttoguovdátji gullut muhttijn gåhtjoduvvá tjáledibmen. Valla dujna l agev máhttelisvuohta mannat akta makkir sujttoguovdátji sidá ålles Svierigin. Sujttoguovdátjin máhtá aj válljit stuoves dåktåraktavuodav.</p>
+<p>Dån máhtá aj válljit aleprabássujtov dajvakskihpadåben ietjá lánndadikken, buojkulvissan bårredávda gehtjadibme.</p>
+<p type="title">Duv medisijnalasj dárbo mierredi</p>
+<p>Gå sujtov åtså ietjá lánndadikken de duv medisijnalasj dárbo mierredi goassa sujtov oattjo. Duv medisijnalasj dárbo dåktåris merustaláduvvi. Dån galgá oadtjot rabássujtov sämmi vidjurijda gå gájka gudi li álmmuktjáledum dan lánndadikken. Merkaj buojkulvissan dån mávsá sämmi madev patiänntamákson gå gájkka iehtjáda gudi rabássujtov åhtsi. Dån hähttu iesj räjsojt ja viessomav mákset gå vállji sujtov ietjá lánndadikken.</p>
+<p>Dån, gut boadá ietjá lánndadikkes, ij sujttogarantiddjas gåbtjåduvá lánndadikken majt vállji.</p>
+<p type="title">Ådå medisijnalasj merustallam</p>
+<p>Jus dujna l hägganihtte jali sierraláhkáj tjavgga skibádahka jali vahák ja galga gássjelis medisijnalasj märrádusájt mierredit de máhtá rávkkat ådå medisijnalasj merustallamav oadtjot. Dav oattjo ietjá dåktåris gå iemelágasj dåktåris, juogo de duv häjmmalánndadikken jali ietjá lánndadikken.</p>
+<p>Duv häjmmalánndadigge máksá gålojt ådå medisijnalasj merustallama åvdås.</p>
+<p type="title">Máhttá årrot umassláhkáj jus dån dárbaha remissav</p>
+<p>Jus remissa rávkaduvvá rabás spesialisstasujttuj duv häjmmalánndadikken jali dan lánndadikken gånnå sujtov åtså de hähttu remissav adnet duv sujttoguovdátjis.</p>
+<p type="title">Jus dån illa dudálasj</p>
+<p>Juohkka lánndadikken gávnnu patiänntasiebrreráde mij galggá duv viehkedit jus dån ij dåbdå oasálasjvuodav duv sujton jali ietjáláhkáj illa sujtujn dudálasj. Patiänntasiebrreráde máhttá buojkulvissan duv viehkedit sahkadit åvdåsvásste sujttobargij ja diededimev oadtjot gåktu máhtá diededit majt la vásedam.</p>
+</body></document>

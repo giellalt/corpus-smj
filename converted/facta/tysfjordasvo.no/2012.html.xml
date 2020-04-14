@@ -1,86 +1,71 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Samiske dager 2012 : Tysfjord ASVO</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>526</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://tysfjordasvo.no/arrangementer/samiskedager_s_mebiejve/_2012</origFileName>
-    <parallel_text xml:lang="nob" location="2012.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="nob">Samiske dager 2012</p>
-    <p>Sáme biejve 2012</p>
-    <p xml:lang="nob">Torsdag 2.2.2012 fra kl. 10 (til 15)</p>
-    <p>Duorastagá guovvamáno 2. biejve kl. 10 -15</p>
-    <p xml:lang="nob">Malerkurs med Roald Ellingsen (dag 1). Vi selger materiell: lerret, farger, pensler.</p>
-    <p xml:lang="nob">Deltakere må betale for materiell. Det er ingen deltakeravgift.</p>
-    <p xml:lang="nob">Det er plass til 12 stykker. Påmelding ved oppmøte.</p>
-    <p>Mállimkurssa Roald Ellingsena baktu. Mij vuobddep dárbbagijt: lerrettyddjav, bájnojt, pænnsilijt</p>
-    <p xml:lang="nob">Fredag 2.2.2012 fra kl. 10 (til 15)</p>
-    <p>Bierjjedagá guovvamáno 3. biejve kl. 10-15</p>
-    <p xml:lang="nob">Malerkurs med Roald Ellingsen (dag 2).</p>
-    <p>Mállimkurssa Roald Ellingsena baktu. Mij vuobddep dárbbagijt: lerrettyddjav, bájnojt,</p>
-    <p>pænnsilijt</p>
-    <p xml:lang="nob">Årets aktiviteter for barn og unge vil foregå utendørs. Vi lager bål og byr på varm drikke (kaffe/te/saft/buljong). Man må eventuelt ha med seg noe å steke.</p>
-    <p xml:lang="nob">Vi lager deig til pinnebrød. Hvis man ønsker å steke pinnebrød må vi få beskjed om hvor mange som kommer på forhånd. Ring eller bruk mail: post@tysfjordasvo.no</p>
-    <p xml:lang="nob">Tirsdagen passer sannsynligvis best for småtrinnet og onsdagen for mellomtrinnet.</p>
-    <p>Dán jage dåjma mánájda ja nuorajda li ålggodåjma. Dijstagá hiehpá dávk ienemusát skåvlåj smávvadásegijda ja gasskavahkko gasskadásegijda.</p>
-    <p>Mij dahkap dålåv ja liegga juohkusijt fállap (káfav/tiejav/sáftav/liemav). Soajttá viertti biebmov maŋen válldet majt goardá. Mij dájgev dahkap majt såppijn goardá (soabbelájbev). Jus sidá såppijn goarddet, de hæhttup diedov åvddåla oadtjot man moattes båhti. Riŋŋgu jali mejlli: post@tysfjordasvo.no</p>
-    <p xml:lang="nob">Tirsdag 7.2.2012 fra kl. 10 (til 14)</p>
-    <p>Dijstagá guovvamáno 7. biejve kl. 10 -14</p>
-    <p xml:lang="nob">Klyve ved og pakke bålved. For inntil 4 personer, 2 klyver og 2 pakker.</p>
-    <p>Muorajt luoddot ja dållåmuorajt tjáhkkit. Nielje ulmutja barggo, guovtes luoddu ja guovtes páhkkiji.</p>
-    <p xml:lang="nob">Lage bål. Kompetansebevis.</p>
-    <p>Dålåv dahkat. Máhtudakduodastus.</p>
-    <p xml:lang="nob">Steke pinnebrød (vi har laget deig på forhånd) og eventuelt annet medbrakt.</p>
-    <p xml:lang="nob">I tillegg har vi varm kaffe/te/saft/buljong.</p>
-    <p>Soabbelájbev goarddet (dájgev juo åvdutjis lip dahkam). Ja soajttá goarddep aj ietjá biebmojt majt maŋen li válldám. Duodden le liegga juohkusa; káffa, tiedja, sáffta, liebma.</p>
-    <p xml:lang="nob">Skirenn (ca. 400-600 meter) med lassokasting på kaiområdet.</p>
-    <p xml:lang="nob">Hvis det ikke blir nok snø: løp. Start kl. 11, 12, 13. Deltakerdiplom.</p>
-    <p>Tjuojggam (sulá 400-600 mehtera) sjuohppimijn kádja bájken. Jus ij sjatta tjuojggammuohta: Viehkam. Álggá kl. 11, 12, 13. Oassálasstemduodastus.</p>
-    <p xml:lang="nob">Onsdag 8.2.2012 fra kl. 10 (til 14)</p>
-    <p>Gasskavahkko guovvamáno 8. biejve kl 10 - 14</p>
-    <p xml:lang="nob">Klyve ved og pakke bålved. For inntil 4 personer, 2 klyver og 2 pakker.</p>
-    <p>Muorajt luoddot ja dållåmuorajt tjáhkkit. Nielje ulmutja barggo, guovtes luoddu ja guovtes tjáhkkiji.</p>
-    <p xml:lang="nob">Lage bål. Kompetansebevis.</p>
-    <p>Dålåv dahkat. Máhtudakduodastus.</p>
-    <p xml:lang="nob">Steke pinnebrød (vi har laget deig på forhånd) og eventuelt annet medbrakt.</p>
-    <p xml:lang="nob">I tillegg har vi varm kaffe/te/saft/buljong.</p>
-    <p>Soabbelájbev goarddet (dájgev juo åvdutjis lip dahkam). Ja soajttá goarddep aj ietjá biebmojt majt maŋen li válldám. Duodden le liegga juohkusa; káffa, tiedja, sáffta, liebma.</p>
-    <p xml:lang="nob">Lære å lage kullstifter og lage ei tegning med kullstifter. Kompetansebevis.</p>
-    <p>Mij oahppap dahkat stiftajt tjadájs ja daj tjuorggat. Oassálasstemduodastus.</p>
-    <list>
-      <p type="listitem">Forside / Åvddåbielle</p>
-      <p type="listitem" xml:lang="nob">Tilrettelegging / Hiebadibme</p>
-      <p type="listitem" xml:lang="nob">Produksjon / Buvtadibme</p>
-      <p type="listitem" xml:lang="nob">Kurs / Kurrsa</p>
-      <p type="listitem" xml:lang="nob">Butikk / Oases</p>
-      <p type="listitem" xml:lang="nob">Trening / Lásjmudallam</p>
-      <p type="listitem">Utstillinger / Vuosádus</p>
-      <p type="listitem" xml:lang="nob">Duodjebloggen</p>
-      <p type="listitem" xml:lang="nob">Arrangementer <list><p type="listitem" xml:lang="nob">Samiskedager/Sámebiejve <list><p type="listitem" xml:lang="nob">Om Samiske dager</p><p type="listitem" xml:lang="nob">2015</p><p type="listitem" xml:lang="nob">2014</p><p type="listitem" xml:lang="nob">2013</p><p type="listitem" xml:lang="nob">2012</p><p type="listitem" xml:lang="nob">2011</p><p type="listitem" xml:lang="nob">2010</p><p type="listitem" xml:lang="nob">2009</p></list></p><p type="listitem" xml:lang="nob">Ut på tur i Dragsområdet</p><p type="listitem" xml:lang="nob">Mineralløpet</p><p type="listitem" xml:lang="nob">Helse-kosthold-trening</p><p type="listitem" xml:lang="nob">Kunstmaling - workshop</p></list></p>
-      <p type="listitem">Om oss / Mijá birra</p>
-      <p type="listitem" xml:lang="nob">Andre tilbud / Ietjá fálaldagá</p>
-      <p type="listitem">Kontakt oss/Válde aktijvuodav</p>
-    </list>
-    <p type="title" xml:lang="nob">Tips en venn</p>
-    <p xml:lang="nob">Idium  Web</p>
-    <p>Edit</p>
-    <p xml:lang="nob">Policy info</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Samiske dager 2012 : Tysfjord ASVO</title><genre code="facta"/><author><unknown/></author><wordcount>526</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://tysfjordasvo.no/arrangementer/samiskedager_s_mebiejve/_2012</origFileName><parallel_text xml:lang="nob" location="2012.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="nob">Samiske dager 2012</p>
+<p>Sáme biejve 2012</p>
+<p xml:lang="nob">Torsdag 2.2.2012 fra kl. 10 (til 15)</p>
+<p>Duorastagá guovvamáno 2. biejve kl. 10 -15</p>
+<p xml:lang="nob">Malerkurs med Roald Ellingsen (dag 1). Vi selger materiell: lerret, farger, pensler.</p>
+<p xml:lang="nob">Deltakere må betale for materiell. Det er ingen deltakeravgift.</p>
+<p xml:lang="nob">Det er plass til 12 stykker. Påmelding ved oppmøte.</p>
+<p>Mállimkurssa Roald Ellingsena baktu. Mij vuobddep dárbbagijt: lerrettyddjav, bájnojt, pænnsilijt</p>
+<p xml:lang="nob">Fredag 2.2.2012 fra kl. 10 (til 15)</p>
+<p>Bierjjedagá guovvamáno 3. biejve kl. 10-15</p>
+<p xml:lang="nob">Malerkurs med Roald Ellingsen (dag 2).</p>
+<p>Mállimkurssa Roald Ellingsena baktu. Mij vuobddep dárbbagijt: lerrettyddjav, bájnojt,</p>
+<p>pænnsilijt</p>
+<p xml:lang="nob">Årets aktiviteter for barn og unge vil foregå utendørs. Vi lager bål og byr på varm drikke (kaffe/te/saft/buljong). Man må eventuelt ha med seg noe å steke.</p>
+<p xml:lang="nob">Vi lager deig til pinnebrød. Hvis man ønsker å steke pinnebrød må vi få beskjed om hvor mange som kommer på forhånd. Ring eller bruk mail: post@tysfjordasvo.no</p>
+<p xml:lang="nob">Tirsdagen passer sannsynligvis best for småtrinnet og onsdagen for mellomtrinnet.</p>
+<p>Dán jage dåjma mánájda ja nuorajda li ålggodåjma. Dijstagá hiehpá dávk ienemusát skåvlåj smávvadásegijda ja gasskavahkko gasskadásegijda.</p>
+<p>Mij dahkap dålåv ja liegga juohkusijt fállap (káfav/tiejav/sáftav/liemav). Soajttá viertti biebmov maŋen válldet majt goardá. Mij dájgev dahkap majt såppijn goardá (soabbelájbev). Jus sidá såppijn goarddet, de hæhttup diedov åvddåla oadtjot man moattes båhti. Riŋŋgu jali mejlli: post@tysfjordasvo.no</p>
+<p xml:lang="nob">Tirsdag 7.2.2012 fra kl. 10 (til 14)</p>
+<p>Dijstagá guovvamáno 7. biejve kl. 10 -14</p>
+<p xml:lang="nob">Klyve ved og pakke bålved. For inntil 4 personer, 2 klyver og 2 pakker.</p>
+<p>Muorajt luoddot ja dållåmuorajt tjáhkkit. Nielje ulmutja barggo, guovtes luoddu ja guovtes páhkkiji.</p>
+<p xml:lang="nob">Lage bål. Kompetansebevis.</p>
+<p>Dålåv dahkat. Máhtudakduodastus.</p>
+<p xml:lang="nob">Steke pinnebrød (vi har laget deig på forhånd) og eventuelt annet medbrakt.</p>
+<p xml:lang="nob">I tillegg har vi varm kaffe/te/saft/buljong.</p>
+<p>Soabbelájbev goarddet (dájgev juo åvdutjis lip dahkam). Ja soajttá goarddep aj ietjá biebmojt majt maŋen li válldám. Duodden le liegga juohkusa; káffa, tiedja, sáffta, liebma.</p>
+<p xml:lang="nob">Skirenn (ca. 400-600 meter) med lassokasting på kaiområdet.</p>
+<p xml:lang="nob">Hvis det ikke blir nok snø: løp. Start kl. 11, 12, 13. Deltakerdiplom.</p>
+<p>Tjuojggam (sulá 400-600 mehtera) sjuohppimijn kádja bájken. Jus ij sjatta tjuojggammuohta: Viehkam. Álggá kl. 11, 12, 13. Oassálasstemduodastus.</p>
+<p xml:lang="nob">Onsdag 8.2.2012 fra kl. 10 (til 14)</p>
+<p>Gasskavahkko guovvamáno 8. biejve kl 10 - 14</p>
+<p xml:lang="nob">Klyve ved og pakke bålved. For inntil 4 personer, 2 klyver og 2 pakker.</p>
+<p>Muorajt luoddot ja dållåmuorajt tjáhkkit. Nielje ulmutja barggo, guovtes luoddu ja guovtes tjáhkkiji.</p>
+<p xml:lang="nob">Lage bål. Kompetansebevis.</p>
+<p>Dålåv dahkat. Máhtudakduodastus.</p>
+<p xml:lang="nob">Steke pinnebrød (vi har laget deig på forhånd) og eventuelt annet medbrakt.</p>
+<p xml:lang="nob">I tillegg har vi varm kaffe/te/saft/buljong.</p>
+<p>Soabbelájbev goarddet (dájgev juo åvdutjis lip dahkam). Ja soajttá goarddep aj ietjá biebmojt majt maŋen li válldám. Duodden le liegga juohkusa; káffa, tiedja, sáffta, liebma.</p>
+<p xml:lang="nob">Lære å lage kullstifter og lage ei tegning med kullstifter. Kompetansebevis.</p>
+<p>Mij oahppap dahkat stiftajt tjadájs ja daj tjuorggat. Oassálasstemduodastus.</p>
+<list><p type="listitem">Forside / Åvddåbielle</p>
+<p type="listitem" xml:lang="nob">Tilrettelegging / Hiebadibme</p>
+<p type="listitem" xml:lang="nob">Produksjon / Buvtadibme</p>
+<p type="listitem" xml:lang="nob">Kurs / Kurrsa</p>
+<p type="listitem" xml:lang="nob">Butikk / Oases</p>
+<p type="listitem">Trening / Lásjmudallam</p>
+<p type="listitem">Utstillinger / Vuosádus</p>
+<p type="listitem" xml:lang="nob">Duodjebloggen</p>
+<p type="listitem" xml:lang="nob">Arrangementer <list><p type="listitem" xml:lang="nob">Samiskedager/Sámebiejve <list><p type="listitem" xml:lang="nob">Om Samiske dager</p>
+<p type="listitem" xml:lang="nob">2015</p>
+<p type="listitem" xml:lang="nob">2014</p>
+<p type="listitem" xml:lang="nob">2013</p>
+<p type="listitem" xml:lang="nob">2012</p>
+<p type="listitem" xml:lang="nob">2011</p>
+<p type="listitem" xml:lang="nob">2010</p>
+<p type="listitem" xml:lang="nob">2009</p>
+</list></p>
+<p type="listitem" xml:lang="nob">Ut på tur i Dragsområdet</p>
+<p type="listitem" xml:lang="nob">Mineralløpet</p>
+<p type="listitem" xml:lang="nob">Helse-kosthold-trening</p>
+<p type="listitem" xml:lang="nob">Kunstmaling - workshop</p>
+</list></p>
+<p type="listitem">Om oss / Mijá birra</p>
+<p type="listitem" xml:lang="nob">Andre tilbud / Ietjá fálaldagá</p>
+<p type="listitem">Kontakt oss/Válde aktijvuodav</p>
+</list><p type="title" xml:lang="nob">Tips en venn</p>
+<p xml:lang="nob">Idium  Web</p>
+<p>Edit</p>
+<p xml:lang="nob">Policy info</p>
+</body></document>

@@ -1,118 +1,68 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Komitea / Organisasjåvnå struktuvrra / Sámmedikke birra  / Sámedigge - Sametinget</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>298</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Organisasjaavnaa-struktuvrra/Komitea</origFileName>
-    <parallel_text xml:lang="nob" location="komiteer.html"/>
-    <parallel_text xml:lang="sma" location="moenehtsh.html"/>
-    <parallel_text xml:lang="sme" location="lavdegottit.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="sme">Komitea</p>
-    <p>Divna Sámedikke ájrrasa li sebrulattja avtan gålmåt fáhkakomiteas ma giehtadalli ássjijt ja åvdedi árvvalusájt Sámedikke ållestjåhkanibmáj.</p>
-    <p>Fáhkakomitea li dá:</p>
-    <list>
-      <p type="listitem">
-        <em type="bold">Pládna- ja biednigahttemkomitea: </em>
-      </p>
-    </list>
-    <p xml:lang="sme">Kirsti Guvsám (Njunnjusasj)</p>
-    <p xml:lang="sme">Ronny Wilhelmsen (Lijggenjunnjusasj)</p>
-    <p xml:lang="nob">Toril Bakken Kåven</p>
-    <p xml:lang="nob">Aud Marthinsen</p>
-    <p xml:lang="sme">Láilá Susanne Vars</p>
-    <p xml:lang="nob">Vibeke Larsen</p>
-    <p xml:lang="nob">Knut Inge Store</p>
-    <p xml:lang="sme">Ellen Kristina Saba</p>
-    <p xml:lang="sme">Jovna Zakarias Dunfjell</p>
-    <p xml:lang="sme">Anita P. Ravna</p>
-    <p xml:lang="sme">Laila Nystad</p>
-    <p xml:lang="nob">Henrik Olsen</p>
-    <p xml:lang="sme">Beaska Niillas</p>
-    <list>
-      <p type="listitem">
-        <em type="bold">Bajássjaddam-, hukso- ja åhpaduskomitea: </em>
-      </p>
-    </list>
-    <p>Ellinor Marita Jåma (Njunnjusasj)</p>
-    <p>Viktor Inge Paulsen (Lijggenjunnjusasj)</p>
-    <p xml:lang="nob">Kjellrun Wilhelmsen</p>
-    <p xml:lang="sme">Lars Oddmund Sandvik</p>
-    <p xml:lang="sme">Johan Vasara</p>
-    <p xml:lang="sme">John Kappfjell</p>
-    <p xml:lang="sme">Lise-Katrine Mo</p>
-    <p xml:lang="nob">Lars Filip Paulsen</p>
-    <p xml:lang="sme">Sandra Márjá West</p>
-    <p xml:lang="nob">Ann-Mari Thomassen</p>
-    <p xml:lang="sme">Silje Karine Muotka</p>
-    <p xml:lang="sme">Jørn Are Gaski</p>
-    <p xml:lang="nob">Hartvik Hansen</p>
-    <list>
-      <p type="listitem">
-        <em type="bold">Æládus- ja kultuvrrakomitea: </em>
-      </p>
-    </list>
-    <p xml:lang="sme">Mariann Wollmann Magga (Njunnjusasj)</p>
-    <p xml:lang="sme">Mathis Nilsen Eira (Lijggenjunnjusasj)</p>
-    <p xml:lang="nob">Christina Henriksen</p>
-    <p xml:lang="nob">Tor Gunnar Nystad</p>
-    <p xml:lang="sme">Thomas Åhrén</p>
-    <p xml:lang="sme">Marit Kirsten A. Gaup</p>
-    <p xml:lang="eng">Per Mathis Oskal</p>
-    <p xml:lang="nob">Per A. Bæhr</p>
-    <p xml:lang="nob">Marie Therese N. Aslaksen</p>
-    <p xml:lang="nob">Arthur Tørfoss</p>
-    <p xml:lang="sme">Isak Mathis O. Hætta</p>
-    <p xml:lang="nob">Inger Eline Eriksen</p>
-    <p xml:lang="nob">Kjetil Romsdal</p>
-    <p>Komiteatjåhkanime tjadáduvvi ållestjåhkanimij åvddålattja. Dábálattjat mierreduvvi niellja vahko komitea- ja ållestjåhkanimijda. Komiteatjåhkanime tjadáduvvi mánnodagá ja dijstagá, ållestjåhkanibme gasskavahkos bierjjedahkaj.</p>
-    <p>Duodden fáhkakomiteajda gávnnuji aj Dárkastuskomitea ja Válggakomitea.</p>
-    <p><em type="bold">Dárkastuskomitea </em>galggá parlamentalattjat dárkestit ja stivrrit dåjmajt ma biednigahteduvvi Sámedikke budsjehta baktu. Oasse dássta le aj dárkestit Sámedikke jahkebiedniklågov ja soajtedahtte tsuojggidusajt biedniklåhkuj Rijkkadárkastusás. Komitea máhttá aj tjadádit guoradallamijt Sámedikke háldadusan majs komitea adná dárbov. </p>
-    <p>Dárkastuskomitea vaddá mærrádusárvvalusájt Sámedikke ållestjåhkanibmáj ássjijn majt dat giehtadallá, juogu sierra ássjen jali komitea jahkediedádusá baktu.</p>
-    <list>
-      <p type="listitem" xml:lang="sme">
-        <em type="bold">Dárkastuskomitea: </em>
-      </p>
-    </list>
-    <p xml:lang="sme">John Kappfjell (Njunnjusasj)</p>
-    <p xml:lang="sme">Marie Therese Nordsletta Aslaksen (Lijggenjunnjusasj)</p>
-    <p xml:lang="nob">Tor Gunnar Nystad</p>
-    <p xml:lang="sme">Silje Karine Muotka</p>
-    <p xml:lang="nob">Arthur Tørfoss</p>
-    <p><em type="bold">Válggakomitea </em>giehtadallá ássjijt gånnå Sámedikke ållestjåhkanibme galggá mierredit válgaj birra orgánajda Sámedikke sis- jali ålgusjbielen. Komitea dahkamus le gárvedit ássjev ja árvvalusáv vaddet ållestjåhkanibmáj dan ássjen majt komitea le ållestjåhkanimes oadtjum. </p>
-    <list>
-      <p type="listitem" xml:lang="sme">
-        <em type="bold">Válggakomitea: </em>
-      </p>
-    </list>
-    <p xml:lang="sme">Mathis Nilsen Eira (Njunnjusasj)</p>
-    <p xml:lang="sme">Marit Kirsten Anti Gaup (Lijggenjunnjusasj)</p>
-    <p xml:lang="sme">Sandra Márjá West</p>
-    <p xml:lang="nob">Lars Filip Paulsen</p>
-    <p xml:lang="sme">Isak Mathis O. Hætta <em type="bold">Lijggeájrrasa: </em></p>
-    <p xml:lang="nob">Viktor Paulsen</p>
-    <p xml:lang="nob">Christina Henriksen</p>
-    <p xml:lang="eng">Per Mathis Oskal</p>
-    <p>Ellinor Marita Jåma</p>
-    <p xml:lang="nob">Toril Bakken Kåven</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Komitea / Organisasjåvnå struktuvrra / Sámmedikke birra  / Sámedigge - Sametinget</title><genre code="admin"/><author><unknown/></author><wordcount>298</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Organisasjaavnaa-struktuvrra/Komitea</origFileName><parallel_text xml:lang="nob" location="komiteer.html"/><parallel_text xml:lang="sma" location="moenehtsh.html"/><parallel_text xml:lang="sme" location="lavdegottit.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="sme">Komitea</p>
+<p>Divna Sámedikke ájrrasa li sebrulattja avtan gålmåt fáhkakomiteas ma giehtadalli ássjijt ja åvdedi árvvalusájt Sámedikke ållestjåhkanibmáj.</p>
+<p>Fáhkakomitea li dá:</p>
+<list><p type="listitem"><em type="bold">Pládna- ja biednigahttemkomitea: </em></p>
+</list><p xml:lang="sme">Kirsti Guvsám (Njunnjusasj)</p>
+<p xml:lang="sme">Ronny Wilhelmsen (Lijggenjunnjusasj)</p>
+<p xml:lang="nob">Toril Bakken Kåven</p>
+<p xml:lang="nob">Aud Marthinsen</p>
+<p xml:lang="sme">Láilá Susanne Vars</p>
+<p xml:lang="nob">Vibeke Larsen</p>
+<p xml:lang="nob">Knut Inge Store</p>
+<p xml:lang="sme">Ellen Kristina Saba</p>
+<p xml:lang="sme">Jovna Zakarias Dunfjell</p>
+<p xml:lang="sme">Anita P. Ravna</p>
+<p xml:lang="sme">Laila Nystad</p>
+<p xml:lang="nob">Henrik Olsen</p>
+<p xml:lang="sme">Beaska Niillas</p>
+<list><p type="listitem"><em type="bold">Bajássjaddam-, hukso- ja åhpaduskomitea: </em></p>
+</list><p>Ellinor Marita Jåma (Njunnjusasj)</p>
+<p>Viktor Inge Paulsen (Lijggenjunnjusasj)</p>
+<p xml:lang="nob">Kjellrun Wilhelmsen</p>
+<p xml:lang="sme">Lars Oddmund Sandvik</p>
+<p xml:lang="sme">Johan Vasara</p>
+<p xml:lang="sme">John Kappfjell</p>
+<p xml:lang="sme">Lise-Katrine Mo</p>
+<p xml:lang="nob">Lars Filip Paulsen</p>
+<p xml:lang="sme">Sandra Márjá West</p>
+<p>Ann-Mari Thomassen</p>
+<p xml:lang="sme">Silje Karine Muotka</p>
+<p xml:lang="sme">Jørn Are Gaski</p>
+<p xml:lang="nob">Hartvik Hansen</p>
+<list><p type="listitem"><em type="bold">Æládus- ja kultuvrrakomitea: </em></p>
+</list><p xml:lang="sme">Mariann Wollmann Magga (Njunnjusasj)</p>
+<p xml:lang="sme">Mathis Nilsen Eira (Lijggenjunnjusasj)</p>
+<p xml:lang="nob">Christina Henriksen</p>
+<p xml:lang="nob">Tor Gunnar Nystad</p>
+<p xml:lang="sme">Thomas Åhrén</p>
+<p xml:lang="sme">Marit Kirsten A. Gaup</p>
+<p xml:lang="eng">Per Mathis Oskal</p>
+<p xml:lang="nob">Per A. Bæhr</p>
+<p xml:lang="nob">Marie Therese N. Aslaksen</p>
+<p xml:lang="nob">Arthur Tørfoss</p>
+<p xml:lang="sme">Isak Mathis O. Hætta</p>
+<p xml:lang="nob">Inger Eline Eriksen</p>
+<p xml:lang="nob">Kjetil Romsdal</p>
+<p>Komiteatjåhkanime tjadáduvvi ållestjåhkanimij åvddålattja. Dábálattjat mierreduvvi niellja vahko komitea- ja ållestjåhkanimijda. Komiteatjåhkanime tjadáduvvi mánnodagá ja dijstagá, ållestjåhkanibme gasskavahkos bierjjedahkaj.</p>
+<p>Duodden fáhkakomiteajda gávnnuji aj Dárkastuskomitea ja Válggakomitea.</p>
+<p><em type="bold">Dárkastuskomitea </em>galggá parlamentalattjat dárkestit ja stivrrit dåjmajt ma biednigahteduvvi Sámedikke budsjehta baktu. Oasse dássta le aj dárkestit Sámedikke jahkebiedniklågov ja soajtedahtte tsuojggidusajt biedniklåhkuj Rijkkadárkastusás. Komitea máhttá aj tjadádit guoradallamijt Sámedikke háldadusan majs komitea adná dárbov. </p>
+<p>Dárkastuskomitea vaddá mærrádusárvvalusájt Sámedikke ållestjåhkanibmáj ássjijn majt dat giehtadallá, juogu sierra ássjen jali komitea jahkediedádusá baktu.</p>
+<list><p type="listitem" xml:lang="sme"><em type="bold">Dárkastuskomitea: </em></p>
+</list><p xml:lang="sme">John Kappfjell (Njunnjusasj)</p>
+<p xml:lang="sme">Marie Therese Nordsletta Aslaksen (Lijggenjunnjusasj)</p>
+<p xml:lang="nob">Tor Gunnar Nystad</p>
+<p xml:lang="sme">Silje Karine Muotka</p>
+<p xml:lang="nob">Arthur Tørfoss</p>
+<p><em type="bold">Válggakomitea </em>giehtadallá ássjijt gånnå Sámedikke ållestjåhkanibme galggá mierredit válgaj birra orgánajda Sámedikke sis- jali ålgusjbielen. Komitea dahkamus le gárvedit ássjev ja árvvalusáv vaddet ållestjåhkanibmáj dan ássjen majt komitea le ållestjåhkanimes oadtjum. </p>
+<list><p type="listitem" xml:lang="sme"><em type="bold">Válggakomitea: </em></p>
+</list><p xml:lang="sme">Mathis Nilsen Eira (Njunnjusasj)</p>
+<p xml:lang="sme">Marit Kirsten Anti Gaup (Lijggenjunnjusasj)</p>
+<p xml:lang="sme">Sandra Márjá West</p>
+<p xml:lang="nob">Lars Filip Paulsen</p>
+<p xml:lang="sme">Isak Mathis O. Hætta <em type="bold">Lijggeájrrasa: </em></p>
+<p xml:lang="nob">Viktor Paulsen</p>
+<p xml:lang="nob">Christina Henriksen</p>
+<p xml:lang="eng">Per Mathis Oskal</p>
+<p>Ellinor Marita Jåma</p>
+<p xml:lang="nob">Toril Bakken Kåven</p>
+</body></document>

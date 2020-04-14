@@ -1,58 +1,19 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>MIJ LA RÁDNASTALLAM</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Svenn-Egil" lastname="Duolljá" sex="m" born="" nationality=""/>
-    </author>
-    <year>2017</year>
-    <wordcount>304</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://arran.no/giellaguovdaasj/?Article=155</origFileName>
-    <parallel_text xml:lang="nob" location="hva_er_radnastallam.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Mij la Rádnastallam</p>
-    <p>G</p>
-    <p xml:lang="nob">K</p>
-    <p xml:lang="eng">I</p>
-    <p xml:lang="nob">Arran Live</p>
-    <p>j</p>
-    <p xml:lang="nob">k</p>
-    <p xml:lang="nob">i</p>
-    <p xml:lang="eng">o</p>
-    <p xml:lang="nob">e</p>
-    <p xml:lang="nob">l</p>
-    <p xml:lang="eng">h</p>
-    <p xml:lang="nob">m</p>
-    <list/>
-    <p xml:lang="nob">L</p>
-    <p type="title" xml:lang="nob">Ønsker du å motta nyhetsbrev fra Árran?</p>
-    <p xml:lang="nob">Registrer inn din epostadresse under. Du kan også kontakte oss pr epost: poassta@arran.no eller telefon +47 757 75 100</p>
-    <p xml:lang="eng">Email Address</p>
-    <p xml:lang="eng">w</p>
-    <p>&gt; Mijá bargo  / Giellaguovdásj</p>
-    <p type="title">Mij la Rádnastallam</p>
-    <p>Rádnastallam la giellaarená julevsámegielak mánájda 1-10 klássan vuodoskåvlån - sierraláhkáj mánájda gejn sámegiella l vuostasjgiellan. Ulmme prosjevtajn la máná galggi sámástit, gånnå máná iesj válljiji sámegielav guládallamgiellan.</p>
-    <p>Rádnastallam</p>
-    <p xml:lang="nob">07.09.2017</p>
-    <p xml:lang="nob">15:30</p>
-    <p>Svenn-Egil Duolljá</p>
-    <p>Rádnastallama ulmme l oadtjot mánájt sámástittjat, gånnå mánná iesj aktijvalattjat vállji sámegielav guládallamgiellan. Giellaarenán li nuora gaskan 20-30 jage jådediddje. Dán prosjevtan la aj nubbe ulmme, máná galggi rádnastallat nuoraj gudi li sæmmi gielladilen dagu máná ietja, dán láhkáj de lulun nuora sjaddat gielalasj åvddågåvvån mánájda. Gå sámegielak nuora ja máná æjvvali rádnastallamij de doajvvop dát buktá gielalasj båhtusijt.</p>
-    <p>Galggap suohtas dåjmajt aktan dahkat. Dajnas de ij la Rádnastallam degu dábálasj skåvllådille. Máná juo muhtem mærráj sámegielav máhtti, ja Rádnastallam sjaddá arená gånnå sámegielav bessi adnet. Dát la arená gånnå sámegielas le dárbbo ja gånnå sámegiella l <em type="italic">kul </em>. Dát la ållu ietjá giellaarená majt máná dåbddi skåvlås. </p>
-    <p>Rádnastallamin galggap suohtas dåjmajt aktan dahkat sámegielajn guládallamgiellan, dajnas li diedon dåjma guovdátjin. Galggap tjadádit dåjmajt ma mánáj mielas li suohttasa. Aktan mánáj gárvedip dåjmajt ja ståhkusijt báles bálláj. Juohkka vahko álgon sáddip sms æjgádijda diedoj dåjmaj birra.</p>
-    <p>Jus máná galggi sæbrrat rádnastallamij de vierttiji sámegielav ságastit, ælla dåssju nuora gudi galggi sámástit, máná vierttiji aj gaskanisá ja nuorajda sámástit. Jus máná mielas le vehik unugis sámástit de oadtju mánná huoman sæbrrat. Jus náginin la dárbbo dárustit de lip mierredam sierra bájkev gånnå l loahpe dárustit, dat gut sihtá dárustit oadtju de mannat dasi. Ietján galggá gájkka guládallam sámegiellaj doajmmat.</p>
-    <p>Rádnastallam tjuovvu Divtasvuona suohkana skåvllåruvtov, álggá ragátmáno ja hæjttá vuoratjismáno.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>MIJ LA RÁDNASTALLAM</title><genre code="facta"/><author><person firstname="Svenn-Egil" lastname="Duolljá" sex="m" born="" nationality=""/></author><year>2017</year><wordcount>291</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="nob"/><language xml:lang="eng"/></multilingual><origFileName>http://arran.no/giellaguovdaasj/?Article=155</origFileName><parallel_text xml:lang="nob" location="hva_er_radnastallam.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Mij la Rádnastallam</p>
+<p xml:lang="nob">L</p>
+<p type="title" xml:lang="nob">Ønsker du å motta nyhetsbrev fra Árran?</p>
+<p xml:lang="nob">Registrer inn din epostadresse under. Du kan også kontakte oss pr epost: poassta@arran.no eller telefon +47 757 75 100</p>
+<p xml:lang="eng">Email Address</p>
+<p xml:lang="eng">w</p>
+<p>&gt; Mijá bargo  / Giellaguovdásj</p>
+<p type="title">Mij la Rádnastallam</p>
+<p>Rádnastallam la giellaarená julevsámegielak mánájda 1-10 klássan vuodoskåvlån - sierraláhkáj mánájda gejn sámegiella l vuostasjgiellan. Ulmme prosjevtajn la máná galggi sámástit, gånnå máná iesj válljiji sámegielav guládallamgiellan.</p>
+<p>Rádnastallam</p>
+<p xml:lang="nob">07.09.2017</p>
+<p xml:lang="nob">15:30</p>
+<p>Svenn-Egil Duolljá</p>
+<p>Rádnastallama ulmme l oadtjot mánájt sámástittjat, gånnå mánná iesj aktijvalattjat vállji sámegielav guládallamgiellan. Giellaarenán li nuora gaskan 20-30 jage jådediddje. Dán prosjevtan la aj nubbe ulmme, máná galggi rádnastallat nuoraj gudi li sæmmi gielladilen dagu máná ietja, dán láhkáj de lulun nuora sjaddat gielalasj åvddågåvvån mánájda. Gå sámegielak nuora ja máná æjvvali rádnastallamij de doajvvop dát buktá gielalasj båhtusijt.</p>
+<p>Galggap suohtas dåjmajt aktan dahkat. Dajnas de ij la Rádnastallam degu dábálasj skåvllådille. Máná juo muhtem mærráj sámegielav máhtti, ja Rádnastallam sjaddá arená gånnå sámegielav bessi adnet. Dát la arená gånnå sámegielas le dárbbo ja gånnå sámegiella l <em type="italic">kul </em>. Dát la ållu ietjá giellaarená majt máná dåbddi skåvlås. </p>
+<p>Rádnastallamin galggap suohtas dåjmajt aktan dahkat sámegielajn guládallamgiellan, dajnas li diedon dåjma guovdátjin. Galggap tjadádit dåjmajt ma mánáj mielas li suohttasa. Aktan mánáj gárvedip dåjmajt ja ståhkusijt báles bálláj. Juohkka vahko álgon sáddip sms æjgádijda diedoj dåjmaj birra.</p>
+<p>Jus máná galggi sæbrrat rádnastallamij de vierttiji sámegielav ságastit, ælla dåssju nuora gudi galggi sámástit, máná vierttiji aj gaskanisá ja nuorajda sámástit. Jus máná mielas le vehik unugis sámástit de oadtju mánná huoman sæbrrat. Jus náginin la dárbbo dárustit de lip mierredam sierra bájkev gånnå l loahpe dárustit, dat gut sihtá dárustit oadtju de mannat dasi. Ietján galggá gájkka guládallam sámegiellaj doajmmat.</p>
+<p>Rádnastallam tjuovvu Divtasvuona suohkana skåvllåruvtov, álggá ragátmáno ja hæjttá vuoratjismáno.</p>
+</body></document>

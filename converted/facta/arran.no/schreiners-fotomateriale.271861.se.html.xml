@@ -1,37 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>410</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/schreiners-fotomateriale.271861.se.html</origFileName>
-    <parallel_text xml:lang="nob" location="schreiners-fotomateriale.271861.se.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Schreiner dutkeguojme gåvå Divtasvuonas / Bilder etter forskerparet Schreiner i Tysfjord - Árran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title" xml:lang="nob">Schreiner dutkeguojme gåvå Divtasvuonas  /  Bilder etter forskerparet Schreiner i Tysfjord</p>
-    <p>Dutke guovtes  Alette ja Kristian Schreiner dagájga ietjaska dutkambargov sámij siegen Divtasvuonan 1914 ja 1921 jagen.  Dáv dutkammateriálav le Árran ietjasa hállduj oadtjum. /</p>
-    <p xml:lang="nob">Forskerne Alette og Kristian Schreiner gjorde feltarbeid blant samene i Tysfjord i årene 1914 og 1921. Materialet etter dette arbeidet har Árran fått ansvar for.</p>
-    <p xml:lang="nno">K. Schreiner og Einar Skjelnes</p>
-    <p xml:lang="nob">Et bilde fra fotoalbumet til Johan Brun (d.e.)</p>
-    <p xml:lang="nno">Crania Lapponica av G. Düben og Lis-Mari Hjortfors</p>
-    <p>Gåvvididdje Johan Brun (d.v.), lij aj maŋen ja gåvvij moadda gåvå majt Árran dal æjggu. Muhtem oasse Schreinera tjoahkkes le ájn Oslo universitehta æjgon.</p>
-    <p>Dáv dutkama duodastittjat ja gaskostittjat galggá Árran aktisattjat Nordlánda árkijvajn digitaliserit. Dá dutke guovtes sidájga duodastuhttet fysihkalasj-antropologa sierra dåbddomerkajt sierraláhkáj sámijs. Oajvve mihttimij ja ålgoldis rumájmihtoj registrerim duola dagu man alluga ulmutja lidjin, vuopptabájnojt j.n.v. sihtin ávkástallat ulmusjnálle ieredibmáj gå duodastit galggin jut nubbe ulmusjnálle lij buorebut åvddånahtedum gå ietjes. Valla dán ájádallamij ejga Schreinera guovtes guorrasa.</p>
-    <p>Sosialdarwinissma ja ulmusjnálle ieredibme lij dábálasj sierra gåjt de 1920-30-jagijn mij de Europán doalvoj moatte tjævto vájkkudusájda. Dálásj ájge máhttá dáv materiálav ietjá tjalmij gæhttjat. Dutke guoktá Divtasvuona manos le ållo árvulasj duodastusá báhtsám, gåvå ja gåvå ulmutjijs ma li buorre kvalitehtas ja ma hæhttuji vuorkkiduvvat, duodastuvvat ja gaskostuvvat dálásj ájádallamij gáktuj.</p>
-    <p xml:lang="nob">Forskerne Alette og Kristian Schreiner gjorde feltarbeid blant samene i Tysfjord i årene 1914 og 1921. Materialet etter dette arbeidet har Árran fått ansvar for. Fotografen Johan Brun (d.e.), var med på turene og tok mange av bildene Árran nå eier. En del av De Schreinerske samlinger eies fremdeles av Universitetet i Oslo.</p>
-    <p xml:lang="nob">For å dokumentere og formidle denne forskningen skal Árran digitalisere materialet i samarbeid med Arkiv i Nordland. Forskerne ønsket å kartlegge de fysisk-antropologiske særtrekk i den norske befolkning, og var spesielt interesserte i samer. Resultater fra skallemålinger og registrering av andre ytre kroppslige kjennetegn som kroppshøyde, hårfarge etc. ville man bruke i rasehygiene som bevis på at noen raser var bedre utviklet enn andre. Denne tenkingen tok imidlertid ekteparet Schreiner avstand fra.</p>
-    <p xml:lang="nob">Sosialdarwinisme og rasehygiene var ganske vanlig spesielt på 1920- og 30-tallet som førte til tragiske konsekvenser i Europa. I dag kan man se materialet i et annet lys. Etter forskernes turer i Tysfjord er det blitt igjen mye verdifull dokumentasjon, bilder, portretter av høy kvalitet som bør oppbevares, identifiseres og formidles i dagens kontekst.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>410</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/schreiners-fotomateriale.271861.se.html</origFileName><parallel_text xml:lang="nob" location="schreiners-fotomateriale.271861.se.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Schreiner dutkeguojme gåvå Divtasvuonas / Bilder etter forskerparet Schreiner i Tysfjord - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title" xml:lang="nob">Schreiner dutkeguojme gåvå Divtasvuonas  /  Bilder etter forskerparet Schreiner i Tysfjord</p>
+<p>Dutke guovtes  Alette ja Kristian Schreiner dagájga ietjaska dutkambargov sámij siegen Divtasvuonan 1914 ja 1921 jagen.  Dáv dutkammateriálav le Árran ietjasa hállduj oadtjum. /</p>
+<p xml:lang="nob">Forskerne Alette og Kristian Schreiner gjorde feltarbeid blant samene i Tysfjord i årene 1914 og 1921. Materialet etter dette arbeidet har Árran fått ansvar for.</p>
+<p xml:lang="nno">K. Schreiner og Einar Skjelnes</p>
+<p xml:lang="nob">Et bilde fra fotoalbumet til Johan Brun (d.e.)</p>
+<p xml:lang="nno">Crania Lapponica av G. Düben og Lis-Mari Hjortfors</p>
+<p>Gåvvididdje Johan Brun (d.v.), lij aj maŋen ja gåvvij moadda gåvå majt Árran dal æjggu. Muhtem oasse Schreinera tjoahkkes le ájn Oslo universitehta æjgon.</p>
+<p>Dáv dutkama duodastittjat ja gaskostittjat galggá Árran aktisattjat Nordlánda árkijvajn digitaliserit. Dá dutke guovtes sidájga duodastuhttet fysihkalasj-antropologa sierra dåbddomerkajt sierraláhkáj sámijs. Oajvve mihttimij ja ålgoldis rumájmihtoj registrerim duola dagu man alluga ulmutja lidjin, vuopptabájnojt j.n.v. sihtin ávkástallat ulmusjnálle ieredibmáj gå duodastit galggin jut nubbe ulmusjnálle lij buorebut åvddånahtedum gå ietjes. Valla dán ájádallamij ejga Schreinera guovtes guorrasa.</p>
+<p>Sosialdarwinissma ja ulmusjnálle ieredibme lij dábálasj sierra gåjt de 1920-30-jagijn mij de Europán doalvoj moatte tjævto vájkkudusájda. Dálásj ájge máhttá dáv materiálav ietjá tjalmij gæhttjat. Dutke guoktá Divtasvuona manos le ållo árvulasj duodastusá báhtsám, gåvå ja gåvå ulmutjijs ma li buorre kvalitehtas ja ma hæhttuji vuorkkiduvvat, duodastuvvat ja gaskostuvvat dálásj ájádallamij gáktuj.</p>
+<p xml:lang="nob">Forskerne Alette og Kristian Schreiner gjorde feltarbeid blant samene i Tysfjord i årene 1914 og 1921. Materialet etter dette arbeidet har Árran fått ansvar for. Fotografen Johan Brun (d.e.), var med på turene og tok mange av bildene Árran nå eier. En del av De Schreinerske samlinger eies fremdeles av Universitetet i Oslo.</p>
+<p xml:lang="nob">For å dokumentere og formidle denne forskningen skal Árran digitalisere materialet i samarbeid med Arkiv i Nordland. Forskerne ønsket å kartlegge de fysisk-antropologiske særtrekk i den norske befolkning, og var spesielt interesserte i samer. Resultater fra skallemålinger og registrering av andre ytre kroppslige kjennetegn som kroppshøyde, hårfarge etc. ville man bruke i rasehygiene som bevis på at noen raser var bedre utviklet enn andre. Denne tenkingen tok imidlertid ekteparet Schreiner avstand fra.</p>
+<p xml:lang="nob">Sosialdarwinisme og rasehygiene var ganske vanlig spesielt på 1920- og 30-tallet som førte til tragiske konsekvenser i Europa. I dag kan man se materialet i et annet lys. Etter forskernes turer i Tysfjord er det blitt igjen mye verdifull dokumentasjon, bilder, portretter av høy kvalitet som bør oppbevares, identifiseres og formidles i dagens kontekst.</p>
+</body></document>

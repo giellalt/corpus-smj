@@ -1,42 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>101</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/merraaeladusa-kultuvrra-ja-aeladusfoanndaj.5019302-99245.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tysfjord kommune : Merraæládusá kultuvrra ja æládusfoanndaj</p>
-    <p type="title">Merraæládusá kultuvrra ja æládusfoanndaj</p>
-    <p xml:lang="nob">10.02.2012</p>
-    <p>Divtasvuona suohkan almoda dájna biejadum ruhtadårjav Merraæládusá kultuvrra ja æládusfoanndaj mij vuostatjin juogeduvvá jagen 2012. Foannda la jåhtuj boahtám biebmadimásadusáj álgadiddjen gå Musken Laks OV:an ja Nordlaks OV:an li guollebiebmadimkonsesjåvnå suohkanin.</p>
-    <p>Foanda ulmme le láhtjet åvddånahttemij æládus- ja kultuvravuododum dåjmajn. Foannda galggá dårjadit æládus- ja kultuvrradagojt majn li guhkesájggásasj båhtusa. Foanndan la jahkásattjat 2 miljåvnå kråvnå gålmån jagen. Foannda juogeduvvá birrusjij 50 % guokti jahkáj.</p>
-    <p>Suohkanstivrra l mierredam njuolgadusájt Merraæládusá Kultuvrra- ja Æládusfoanndaj.</p>
-    <p>Åhtsåmus sáddiduvvá:</p>
-    <p>Divtasvuona suohkanij</p>
-    <p>poasstaboaksa 104</p>
-    <p>8591 Gásluokta/Kjøpsvik</p>
-    <p>jali e-poasstaj:</p>
-    <p xml:lang="nob">postmottak@tysfjord.kommune.no</p>
-    <p>
-      <em type="bold">Åhtsåmbiejvve: 1 b. sjnjuktjamánon 2012. </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>101</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/merraaeladusa-kultuvrra-ja-aeladusfoanndaj.5019302-99245.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tysfjord kommune : Merraæládusá kultuvrra ja æládusfoanndaj</p>
+<p type="title">Merraæládusá kultuvrra ja æládusfoanndaj</p>
+<p xml:lang="nob">10.02.2012</p>
+<p>Divtasvuona suohkan almoda dájna biejadum ruhtadårjav Merraæládusá kultuvrra ja æládusfoanndaj mij vuostatjin juogeduvvá jagen 2012. Foannda la jåhtuj boahtám biebmadimásadusáj álgadiddjen gå Musken Laks OV:an ja Nordlaks OV:an li guollebiebmadimkonsesjåvnå suohkanin.</p>
+<p>Foanda ulmme le láhtjet åvddånahttemij æládus- ja kultuvravuododum dåjmajn. Foannda galggá dårjadit æládus- ja kultuvrradagojt majn li guhkesájggásasj båhtusa. Foanndan la jahkásattjat 2 miljåvnå kråvnå gålmån jagen. Foannda juogeduvvá birrusjij 50 % guokti jahkáj.</p>
+<p>Suohkanstivrra l mierredam njuolgadusájt Merraæládusá Kultuvrra- ja Æládusfoanndaj.</p>
+<p>Åhtsåmus sáddiduvvá:</p>
+<p>Divtasvuona suohkanij</p>
+<p>poasstaboaksa 104</p>
+<p>8591 Gásluokta/Kjøpsvik</p>
+<p>jali e-poasstaj:</p>
+<p xml:lang="nob">postmottak@tysfjord.kommune.no</p>
+<p><em type="bold">Åhtsåmbiejvve: 1 b. sjnjuktjamánon 2012. </em></p>
+</body></document>

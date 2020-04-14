@@ -1,53 +1,20 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>136</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Biras-arealla-ja-kultursuodjalus</origFileName>
-    <parallel_text xml:lang="sma" location="byjrese-areale-jih-kultuvrevarjelimmie.html"/>
-    <parallel_text xml:lang="sme" location="biras-areala-ja-kultursuodjaleapmi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Birás, areálla ja kultursuodjalus / Sámedigge - Sametinget</p>
-    <p>Åtså biednikdårjav</p>
-    <p type="title">Birás, areálla ja kultursuodjalus</p>
-    <p>Resurssaguovlo, luondo moattebelakvuohta, kulturmujto ja kulturduobddága li ájnas oassen dassta mij gåhtjoduvvá materiálalasj kulturvuodo sáme kultuvrraj. Dát le vuodon sáme æládusájda, årrumijda, kulturiellemij ja sebrudakåvddånahttemij. Arealáj, luondo ja kulturárbe háldadibme le danen ájnas nannitjit vuodov sáme kultuvrraj bisodittjat ja  åvddånahtátjit.</p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="nob">Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="nob">Sørsamisk</p>
-    <list>
-      <p type="listitem">Kulturmujto</p>
-      <p type="listitem">Luondo moattebelakvuohta</p>
-      <p type="listitem" xml:lang="sme">Areála</p>
-      <p type="listitem">Energija ja minerála</p>
-      <p type="listitem">Sáme huonajsuodjalibme</p>
-    </list>
-    <p type="title">Sámedigge barggá</p>
-    <list>
-      <p type="listitem">Dættodit guoddelis ja guhkesájggásasj vuojnov gájkka areálaj ja resursaj adnemij sáme guovlojn</p>
-      <p type="listitem">Kulturmujto ja kulturduobddága bisoduvvi ja aneduvvi vuodon sáme iesjdåbddo-, kultuvra-, ja sebrudakåvddånahttemij. Kulturmujto galggi háldaduvvat histåvrålasj gálldon.</p>
-      <p type="listitem">Luondo biologalasj, duobddágij ja geologalasj moattebelakvuohta ja økologalasj prosessa háldaduvvi guoddelis adnema ja suodjalime baktu, nav aj dá vaddi sáme kultuvrraj vuodov.</p>
-    </list>
-    <p type="title">Diedo Birás, areálla ja kultursuodjalus</p>
-    <p>Sámedikke le háldadimfábmudahka kulturmujttolága milta ja pládna- ja tsiekkaduslága milta.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>136</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Biras-arealla-ja-kultursuodjalus</origFileName><parallel_text xml:lang="sma" location="byjrese-areale-jih-kultuvrevarjelimmie.html"/><parallel_text xml:lang="sme" location="biras-areala-ja-kultursuodjaleapmi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Birás, areálla ja kultursuodjalus / Sámedigge - Sametinget</p>
+<p>Åtså biednikdårjav</p>
+<p type="title">Birás, areálla ja kultursuodjalus</p>
+<p>Resurssaguovlo, luondo moattebelakvuohta, kulturmujto ja kulturduobddága li ájnas oassen dassta mij gåhtjoduvvá materiálalasj kulturvuodo sáme kultuvrraj. Dát le vuodon sáme æládusájda, årrumijda, kulturiellemij ja sebrudakåvddånahttemij. Arealáj, luondo ja kulturárbe háldadibme le danen ájnas nannitjit vuodov sáme kultuvrraj bisodittjat ja  åvddånahtátjit.</p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="nob">Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="nob">Sørsamisk</p>
+<list><p type="listitem">Kulturmujto</p>
+<p type="listitem">Luondo moattebelakvuohta</p>
+<p type="listitem" xml:lang="sme">Areála</p>
+<p type="listitem">Energija ja minerála</p>
+<p type="listitem">Sáme huonajsuodjalibme</p>
+</list><p type="title">Sámedigge barggá</p>
+<list><p type="listitem">Dættodit guoddelis ja guhkesájggásasj vuojnov gájkka areálaj ja resursaj adnemij sáme guovlojn</p>
+<p type="listitem">Kulturmujto ja kulturduobddága bisoduvvi ja aneduvvi vuodon sáme iesjdåbddo-, kultuvra-, ja sebrudakåvddånahttemij. Kulturmujto galggi háldaduvvat histåvrålasj gálldon.</p>
+<p type="listitem">Luondo biologalasj, duobddágij ja geologalasj moattebelakvuohta ja økologalasj prosessa háldaduvvi guoddelis adnema ja suodjalime baktu, nav aj dá vaddi sáme kultuvrraj vuodov.</p>
+</list><p type="title">Diedo Birás, areálla ja kultursuodjalus</p>
+<p>Sámedikke le háldadimfábmudahka kulturmujttolága milta ja pládna- ja tsiekkaduslága milta.</p>
+</body></document>

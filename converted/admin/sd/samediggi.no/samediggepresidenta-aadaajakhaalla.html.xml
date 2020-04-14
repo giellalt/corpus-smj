@@ -1,56 +1,24 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>733</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Organisasjaavnaa-struktuvrra/Samedikkerade/Haala-ja-tjallaga/Samediggepresidenta-aadaajakhaalla</origFileName>
-    <parallel_text xml:lang="nob" location="sametingspresidentens-nyttaarstale-2014.html"/>
-    <parallel_text xml:lang="sma" location="saemiedigkiepresidenten-orrejaepienhaaaleme.html"/>
-    <parallel_text xml:lang="sme" location="samedikki-presideantta-oddajagisardni.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sámediggepresidenta ådåjakhålla / Håla ja tjállaga / Sámedikkeráde / Organisasjåvnå struktuvrra / Sámmedikke birra / Sámedigge - Sametinget</p>
-    <p type="title">Sámediggepresidenta ådåjakhålla</p>
-    <p>Dánna máhttebihtit låhkåt sámediggepresidenta Aili Keskitalo ådåjakhålav. Hålla sáddiduvvá, NRK 1 :n.</p>
-    <p>
-      <em type="bold">Gieres gájkka divna. </em>
-    </p>
-    <p>Jagen 2013 bivddiduváj oarjjelsáme Frode Fjellheim oassálastátjit musihkajn Disneya ådå, animeridum stuorfilmmaj <span type="quote">”Frozen”</span>. Juojgga Eatnemen Vuelie ja Fjellheima musihkalasj vaddasa oadtju dal ålles væráldav gulldalittjat – juojgav. Sæmmi aj vuojnnep ietjá kultuvrramoalgedimijn. Sáme kultuvrra vuojttá aktelattjat ådå ulmutjijt.</p>
-    <p>Mijá kultuvrra le giddidum ruohtsaj mijá ávkkim- ja årromguovlojda. Dan diehti oajvvadip UNESCO:j niellja kultuvrramujttoguovlo Várjjagin tjoahkkáj avta væráltárbbesadjen. Luonndo mijá birra <span type="quote">“mujttá”</span>, ja dálásj ájge subtsas sáme histåvråv kultuvrramujtoj, bajkkenamáj, båvaj ja giehtoj baktu.</p>
-    <p>Valla álu vásedip giehto mijájs giehtoduvvi iehtjádijs gå mijájs. Da giehtoduvvi kritihkalasj politihka retorihka baktu, skandálaj baktu medijajn, ja værmádakavijsaj ármodis javllamussajij baktu. Giehtoduvvá aj dan baktu massta ij giehtoduvá mijá birra – skåvlåjn ja ietjá almulasj arenajn. Juohkka ájnna álmmuk hálijt dåhkkiduvvat ja vieleduvvat buoremusás, gærrásabmusis ja tjáppemusás mijá kultuvran. dav hálijdip mij aj.</p>
-    <p>Uddni de sidáv giehttot dunji mijá gievrajs. Sijájs gudi juohkka biejve hábbmiji ja ådåstuhtti. Sij li gudi gådi mijáv dan sisi mij la iesj sáradis mijá sebrudagán: mijá histåvrrå, mijá niego ja mijá vásádusá gudi mij lip.</p>
-    <p>Mån sáhkadav dájddárijs. Æjgádijs gudi gålådi ájgev oassálassti ásadit sámegiellaåhpadusáv gånnå ij gávnnu åvdutjis. Rahtjalis ulmutjijs gudi sihkarassti nuorajn la valástallamfállo aj boahtte tjaktjaj. Barnes guhti viehket sámegielak iednes ja dálkudiddjev vaj dádjadibá nubbe nuppev buorebut ja dajna sihkarasstá buoremus sujtov ja værddogisvuodav sunji guhti le skibás.</p>
-    <p>Guoktalåkniellja nuorra gievra diededin ietjasa mielastisá giellaambassadørran Sámedikke giellakampánnjaj #Sámástamunji vásse tjavtja. Gielan ja aktisasjvuodan la gåktu mij definerip ietjama ja væráldav mijá birra: gudi lijma, gudi lip ja gudi sjaddap.</p>
-    <p>Giellagievrra ij la sån guhti hæhttu miejnnit giella le álkke ávkkit. Gievrra le sån guhti dahká dav, juska le gássjel. De le jur gå le gássjelamos, majt vállji ja majt daga le ájnnasamos. Dat la mijá aktisasj vásstádus, vásstádus mav ep mahte iehtjádijda dådjet.</p>
-    <p>Ållagattjat sidáv rámmpot værddogisvuohtabargov majt mijá unneplågo ájrrasa dahki. Uddni hæhttup dåbdåstit gå homofijlaj ja lesbaj rievtesvuoda ælla man ga rádjáj duodalattjat vieleduvvam sámepolitihkan.</p>
-    <p>Givseldime ja badjelgæhttjama gávnnuji, mijá skåvlåjn ja mijá bájkálasj sebrudagájn aj. Vinjo sámijda merkaj dat ij la máhttelis viessot dievalasj ja buorre iellemav sijddaguovlojn. Miján la dárbbo ienep nuorra ja ållesjattugis gievrajs gudi givseldimijt vuosteldi.</p>
-    <p>Tjavtjan 2013 tjádaduváj giehttjit válgga Sámediggáj. Dán jage le 25 jage dallutjis gå Sámedigge vuostasj bále rabáduváj Gånågisás Olav V. Sámedigge le boados garra ja vájmmelis, valla ráfálasj rievtesvuohtarahtjamusájs Áltá-ássjen. Ájádusá parlamentas Vuona iemeálmmugij ásaduvvin látte ja sáme gievrajs aktan. Guovtet álmmugis gudi lijga miellusa guorrasittjat tjoavddusijda, ienni gå rijdojda ja niejddemijda boahtte ájgen.</p>
-    <p>Mij oajbbop vilá åhpadime diehti sámegielan ja sámegiellaj. Mijá giela li ájtedum giela. Ja árbbedábálasj æládusá, nåv gå ællosujtto, adnet li ienebut ja ienebut rijdduj boahtám stuorsebrudagá sávadusáj ienep minerálajt råggåt. Merrasámij sijda ájteduvvi binnep máhttelisvuodaj baktu guollitjit ja viessomuháv meras oattjotjit. Dá hásstalusá ja moadda ietjá hásstalusá tjanádum stáhta ja iemeálmmuga aktijvuohtaj li vilá tjoavdek.</p>
-    <p>Mij lip gájka oadtjum máhttelisvuodajt gehtjastittjat muhtem sáme gievrajda rájdo baktu<span type="quote">”Den stille kampen”</span> NRK:an vásse tjavtja. Vuojnnám lip gievra gávnnuji juohkka bájkálasj sebrudagán ja moatten sebrudaksuorgen. Valla muhtema gatjádi man guhkev galggap tjalmostahttet dárojduhttempolitihkkaj ja niejddemijda?</p>
-    <p>Duohtavuohta le dárojduhttem ja niejddem le mijá aktisasj histåvrrå, sáme ja látte. Mij, goappátja álmmuga, lip vaháguvvama dassta – goabbák iehtjama láhkáj. Mån dádjadav gå muhtema sihti vajálduhttet ja tjiehkat. Valla mij viessop uddni båhtusij dat histåvrås. Ja nåv guhkev gå dat sjaddá dåssju sáme ássjen, de dat gássjeduhttá åvddånahttemav, goappátjagá sámijda ja láttijda.</p>
-    <p>Guokta álmmuga li vaháguvvam dáhpádusájs, goabbák ietjaska láhkáj. Luohtádus ja kultuvrra li tsuovkkanam. Divvot dav mij la tsuovkkanam gájbbet lasedum ratjástimijt goappátjaga Sámedikkes ja Vuona oajválattjajs. Mån bivddiv dan diehti Vuona oajválattjajt ådå ságastallamijda, ja oasálasjvuodav, friddjavuohtaj ienedittjat sáme iellemsjuvesvuodav ja ådå sáme iesjráddimhámijda.</p>
-    <p>Giesen 2013 bivddij Sámedigge 600 ájrrasa divna værálda iemeálmmukguovlojs Áltáj. Danna båhtin værálda iemeálmmuga ájgás aktisasj prinsihpalasj vuodudahkaj. Dat lij sierra lágásj histåvrålasj dahpadus, mij dálla vájkkut værálda iemeálmmuga oassálassti avta buohta stáhtaj dán jage konferánssaj iemeálmmugij rievtesvuodaj birra AN:a oajvvetjåhkanime ásadime baktu. Sámedigge joarkka rijkkagasskasasj bargojt, ja galggá boahtte jagijt liehket åvdemusán barggamin rievtesferdukvuoda diehti ja iemeálmmugij rievtesvuodaj dåhkkidime diehti.</p>
-    <p>Sij gudi ietjájduhtti væráldav, li gudi jáhkki værált máhttá ietjájduvvat. Sadje gávnnu ienep rievtesferdukvuohtaj ja ienep iellemsjuvesvuohtaj. Åro gievrran jagen 2014. Gávnnu agev ulmusj guhti dárbaj liegga giedav, ja agev ássje mij dárbaj vájmov mij svahtjá ja berus.</p>
-    <p>
-      <em type="bold">Buorre ođđa jahki </em>
-    </p>
-    <p>
-      <em type="bold">Buorre ådå jahke </em>
-    </p>
-    <p>
-      <em type="bold">Buerie orre jaepie </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>733</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Organisasjaavnaa-struktuvrra/Samedikkerade/Haala-ja-tjallaga/Samediggepresidenta-aadaajakhaalla</origFileName><parallel_text xml:lang="nob" location="sametingspresidentens-nyttaarstale-2014.html"/><parallel_text xml:lang="sma" location="saemiedigkiepresidenten-orrejaepienhaaaleme.html"/><parallel_text xml:lang="sme" location="samedikki-presideantta-oddajagisardni.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sámediggepresidenta ådåjakhålla / Håla ja tjállaga / Sámedikkeráde / Organisasjåvnå struktuvrra / Sámmedikke birra / Sámedigge - Sametinget</p>
+<p type="title">Sámediggepresidenta ådåjakhålla</p>
+<p>Dánna máhttebihtit låhkåt sámediggepresidenta Aili Keskitalo ådåjakhålav. Hålla sáddiduvvá, NRK 1 :n.</p>
+<p><em type="bold">Gieres gájkka divna. </em></p>
+<p>Jagen 2013 bivddiduváj oarjjelsáme Frode Fjellheim oassálastátjit musihkajn Disneya ådå, animeridum stuorfilmmaj <span type="quote">”Frozen”</span>. Juojgga Eatnemen Vuelie ja Fjellheima musihkalasj vaddasa oadtju dal ålles væráldav gulldalittjat – juojgav. Sæmmi aj vuojnnep ietjá kultuvrramoalgedimijn. Sáme kultuvrra vuojttá aktelattjat ådå ulmutjijt.</p>
+<p>Mijá kultuvrra le giddidum ruohtsaj mijá ávkkim- ja årromguovlojda. Dan diehti oajvvadip UNESCO:j niellja kultuvrramujttoguovlo Várjjagin tjoahkkáj avta væráltárbbesadjen. Luonndo mijá birra <span type="quote">“mujttá”</span>, ja dálásj ájge subtsas sáme histåvråv kultuvrramujtoj, bajkkenamáj, båvaj ja giehtoj baktu.</p>
+<p>Valla álu vásedip giehto mijájs giehtoduvvi iehtjádijs gå mijájs. Da giehtoduvvi kritihkalasj politihka retorihka baktu, skandálaj baktu medijajn, ja værmádakavijsaj ármodis javllamussajij baktu. Giehtoduvvá aj dan baktu massta ij giehtoduvá mijá birra – skåvlåjn ja ietjá almulasj arenajn. Juohkka ájnna álmmuk hálijt dåhkkiduvvat ja vieleduvvat buoremusás, gærrásabmusis ja tjáppemusás mijá kultuvran. dav hálijdip mij aj.</p>
+<p>Uddni de sidáv giehttot dunji mijá gievrajs. Sijájs gudi juohkka biejve hábbmiji ja ådåstuhtti. Sij li gudi gådi mijáv dan sisi mij la iesj sáradis mijá sebrudagán: mijá histåvrrå, mijá niego ja mijá vásádusá gudi mij lip.</p>
+<p>Mån sáhkadav dájddárijs. Æjgádijs gudi gålådi ájgev oassálassti ásadit sámegiellaåhpadusáv gånnå ij gávnnu åvdutjis. Rahtjalis ulmutjijs gudi sihkarassti nuorajn la valástallamfállo aj boahtte tjaktjaj. Barnes guhti viehket sámegielak iednes ja dálkudiddjev vaj dádjadibá nubbe nuppev buorebut ja dajna sihkarasstá buoremus sujtov ja værddogisvuodav sunji guhti le skibás.</p>
+<p>Guoktalåkniellja nuorra gievra diededin ietjasa mielastisá giellaambassadørran Sámedikke giellakampánnjaj #Sámástamunji vásse tjavtja. Gielan ja aktisasjvuodan la gåktu mij definerip ietjama ja væráldav mijá birra: gudi lijma, gudi lip ja gudi sjaddap.</p>
+<p>Giellagievrra ij la sån guhti hæhttu miejnnit giella le álkke ávkkit. Gievrra le sån guhti dahká dav, juska le gássjel. De le jur gå le gássjelamos, majt vállji ja majt daga le ájnnasamos. Dat la mijá aktisasj vásstádus, vásstádus mav ep mahte iehtjádijda dådjet.</p>
+<p>Ållagattjat sidáv rámmpot værddogisvuohtabargov majt mijá unneplågo ájrrasa dahki. Uddni hæhttup dåbdåstit gå homofijlaj ja lesbaj rievtesvuoda ælla man ga rádjáj duodalattjat vieleduvvam sámepolitihkan.</p>
+<p>Givseldime ja badjelgæhttjama gávnnuji, mijá skåvlåjn ja mijá bájkálasj sebrudagájn aj. Vinjo sámijda merkaj dat ij la máhttelis viessot dievalasj ja buorre iellemav sijddaguovlojn. Miján la dárbbo ienep nuorra ja ållesjattugis gievrajs gudi givseldimijt vuosteldi.</p>
+<p>Tjavtjan 2013 tjádaduváj giehttjit válgga Sámediggáj. Dán jage le 25 jage dallutjis gå Sámedigge vuostasj bále rabáduváj Gånågisás Olav V. Sámedigge le boados garra ja vájmmelis, valla ráfálasj rievtesvuohtarahtjamusájs Áltá-ássjen. Ájádusá parlamentas Vuona iemeálmmugij ásaduvvin látte ja sáme gievrajs aktan. Guovtet álmmugis gudi lijga miellusa guorrasittjat tjoavddusijda, ienni gå rijdojda ja niejddemijda boahtte ájgen.</p>
+<p>Mij oajbbop vilá åhpadime diehti sámegielan ja sámegiellaj. Mijá giela li ájtedum giela. Ja árbbedábálasj æládusá, nåv gå ællosujtto, adnet li ienebut ja ienebut rijdduj boahtám stuorsebrudagá sávadusáj ienep minerálajt råggåt. Merrasámij sijda ájteduvvi binnep máhttelisvuodaj baktu guollitjit ja viessomuháv meras oattjotjit. Dá hásstalusá ja moadda ietjá hásstalusá tjanádum stáhta ja iemeálmmuga aktijvuohtaj li vilá tjoavdek.</p>
+<p>Mij lip gájka oadtjum máhttelisvuodajt gehtjastittjat muhtem sáme gievrajda rájdo baktu<span type="quote">”Den stille kampen”</span> NRK:an vásse tjavtja. Vuojnnám lip gievra gávnnuji juohkka bájkálasj sebrudagán ja moatten sebrudaksuorgen. Valla muhtema gatjádi man guhkev galggap tjalmostahttet dárojduhttempolitihkkaj ja niejddemijda?</p>
+<p>Duohtavuohta le dárojduhttem ja niejddem le mijá aktisasj histåvrrå, sáme ja látte. Mij, goappátja álmmuga, lip vaháguvvama dassta – goabbák iehtjama láhkáj. Mån dádjadav gå muhtema sihti vajálduhttet ja tjiehkat. Valla mij viessop uddni båhtusij dat histåvrås. Ja nåv guhkev gå dat sjaddá dåssju sáme ássjen, de dat gássjeduhttá åvddånahttemav, goappátjagá sámijda ja láttijda.</p>
+<p>Guokta álmmuga li vaháguvvam dáhpádusájs, goabbák ietjaska láhkáj. Luohtádus ja kultuvrra li tsuovkkanam. Divvot dav mij la tsuovkkanam gájbbet lasedum ratjástimijt goappátjaga Sámedikkes ja Vuona oajválattjajs. Mån bivddiv dan diehti Vuona oajválattjajt ådå ságastallamijda, ja oasálasjvuodav, friddjavuohtaj ienedittjat sáme iellemsjuvesvuodav ja ådå sáme iesjráddimhámijda.</p>
+<p>Giesen 2013 bivddij Sámedigge 600 ájrrasa divna værálda iemeálmmukguovlojs Áltáj. Danna båhtin værálda iemeálmmuga ájgás aktisasj prinsihpalasj vuodudahkaj. Dat lij sierra lágásj histåvrålasj dahpadus, mij dálla vájkkut værálda iemeálmmuga oassálassti avta buohta stáhtaj dán jage konferánssaj iemeálmmugij rievtesvuodaj birra AN:a oajvvetjåhkanime ásadime baktu. Sámedigge joarkka rijkkagasskasasj bargojt, ja galggá boahtte jagijt liehket åvdemusán barggamin rievtesferdukvuoda diehti ja iemeálmmugij rievtesvuodaj dåhkkidime diehti.</p>
+<p>Sij gudi ietjájduhtti væráldav, li gudi jáhkki værált máhttá ietjájduvvat. Sadje gávnnu ienep rievtesferdukvuohtaj ja ienep iellemsjuvesvuohtaj. Åro gievrran jagen 2014. Gávnnu agev ulmusj guhti dárbaj liegga giedav, ja agev ássje mij dárbaj vájmov mij svahtjá ja berus.</p>
+<p><em type="bold">Buorre ođđa jahki </em></p>
+<p><em type="bold">Buorre ådå jahke </em></p>
+<p><em type="bold">Buerie orre jaepie </em></p>
+</body></document>

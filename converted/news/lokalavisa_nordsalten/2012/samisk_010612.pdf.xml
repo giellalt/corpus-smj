@@ -1,47 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Dåssju muhtem gallegattja giellakursajda oassálassti</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Lars theodor" lastname="Kintel" sex="m" born="1986" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>370</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2012/samisk_010612.pdf</origFileName>
-    <parallel_text xml:lang="nob" location="lav_deltakelse_paa_spraakkursene_020612.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty Skapalen Jårggålibme:Divte</p>
-    <p xml:lang="nob">Th. Kintel</p>
-    <p>Media AS/Lars</p>
-    <p>Árran le vuoratjismáno rájes guokta Sámásta-kursajt tjadádam gasskavahkojt ja duorastagájt juohkka vahko. Kursa vihpi 12-13 vahko 3 máno bádjel. Sámásta I le sidjij gudi e åvvånis sámegielav buvte, madi Sámásta II kurssaj le vuostasj kurssa vuodon, ja sidjij gudi vehi sámegielav juo åvdutjis bukti. Kursa li biejven ja åhpadibme le ållessjattugijda. Kursa li hiebadum sidjij gudi li diededam, ja gájkajda rabás ja hiehpi álggijda ja sidjij gudi juo vehi bukti. Kursa li navti, madi oassálasste iesj oahpponævoj åvdås máksi. Valla vájku Árran le gæhttjalim hiebadit buoremus láhkáj de ælla jur dievas kursa. -Lulujma gal 30 oassálasstij nagádit, javllá Samuel Gælok, guhti sávvá ienebu lulujin kursajda oassálasstet. Goappátja kursajn li tjoahkkáj 10 oassálasste, vihtta guhtik. -Gæhttjalip buoremus láhkáj kursajt stuoves ájgijn tjadádit ja hárjjánam dábijda oadtjot. Valla kursa li prosjevtajda tjanádum. Doarjja Nordlánda fylkkasuohkanis ja Sámedikkes</p>
-    <p xml:lang="nob"><em type="bold">Ruoppsislistan</em> </p>
-    <p>Sámegiella le UNESCO ruoppsis listan ájtedum gielaj. Guovte vahko duogen åvddån biedjá sámedikkeráde muhtem varás guoradallamav mij vuoset sámegiela dilev uddni. Moatten sajen Vuonan li sámegiela hoallij låhko alvos láhkáj binnum. Ragátmánon galggá Sámedigge giehtadallat muhtem diedádusáv giela gáktuj. Akta dåjmajs majna politihkkára li barggamin le oadtjot ienebujt sámástittjat. Ráddidus le aj diededam dárbaj sámegielajt ienebut vuorodit. Sámegielaj doajmmaplánan javllá ráddidus ierit ietján: «Sámegielaj boahtteájgev nannit gájbbet aj ájnegis sámes jut sån iesj gæhttjal ietjas máhtudagáv nannit ja åvddånahttet, gielav adnet nav moadda aktijvuodan dagu vejulasj, ja nav guhkás gå vejulasj sámegielastis boahtte buolvajda sirddet.»</p>
-    <p>biejaduvvam. Beras lulujin stuoves ájge ja stuovas doarjja, oajvvat Gælok.</p>
-    <p>Dálven le aj Sámásta 3-kurssa læhkám iehkedijt sidjij gudi sihti dav bargo maDálven le aj Sámásta 3-kurssa læhkám iehkedijt sidjij gudi sihti dav bargo ma -Gæhttjalip aj Sámásta 4-kursav ásadit, javllá Gælok. <em type="italic">-Gåktu dån jáhká galggá ienep</em> <em type="italic">oassálasstijt oadtjot?</em> -Jáhkáv aj le ruhtadile duogen fámiljajda. Jus lidjin permisjåvnåv oadtjot aktan bálkkájn de lij dat ålov tjoavddám. Jus duola dagu Divtasvuona suohkan, mij le sámegiela háldadimguovlon, lij máhttet vaddet friddja aktan bálkkáj, sierraláhkáj barggijda varresvuoda- ja huksosuorgen ja bajássjaddamsuorgen, de lidjin ienebu sijájs oassálasstet, miejnni Gælok. Åhpadus le navti jut oassálasste hæhttuji iesj barggat vehi tjåhkanimij gaskan. -Gájbbeduvvá oassálasste barggi viehka ålov aktu, sihke giellaåhpajn, bágoj ja dahkamusáj. Sierraláhkáj nuorajt åhtsåp, gudi galggi gielav vijddásappot boahtte buolvajda sirddet, låhpat Gælok. </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Dåssju muhtem gallegattja giellakursajda oassálassti</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><person firstname="Lars theodor" lastname="Kintel" sex="m" born="1986" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2012</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>370</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2012/samisk_010612.pdf</origFileName><parallel_text xml:lang="nob" location="lav_deltakelse_paa_spraakkursene_020612.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty Skapalen Jårggålibme:Divte</p>
+<p xml:lang="nob">Th. Kintel</p>
+<p>Media AS/Lars</p>
+<p>Árran le vuoratjismáno rájes guokta Sámásta-kursajt tjadádam gasskavahkojt ja duorastagájt juohkka vahko. Kursa vihpi 12-13 vahko 3 máno bádjel. Sámásta I le sidjij gudi e åvvånis sámegielav buvte, madi Sámásta II kurssaj le vuostasj kurssa vuodon, ja sidjij gudi vehi sámegielav juo åvdutjis bukti. Kursa li biejven ja åhpadibme le ållessjattugijda. Kursa li hiebadum sidjij gudi li diededam, ja gájkajda rabás ja hiehpi álggijda ja sidjij gudi juo vehi bukti. Kursa li navti, madi oassálasste iesj oahpponævoj åvdås máksi. Valla vájku Árran le gæhttjalim hiebadit buoremus láhkáj de ælla jur dievas kursa. -Lulujma gal 30 oassálasstij nagádit, javllá Samuel Gælok, guhti sávvá ienebu lulujin kursajda oassálasstet. Goappátja kursajn li tjoahkkáj 10 oassálasste, vihtta guhtik. -Gæhttjalip buoremus láhkáj kursajt stuoves ájgijn tjadádit ja hárjjánam dábijda oadtjot. Valla kursa li prosjevtajda tjanádum. Doarjja Nordlánda fylkkasuohkanis ja Sámedikkes</p>
+<p><em type="bold">Ruoppsislistan</em> </p>
+<p>Sámegiella le UNESCO ruoppsis listan ájtedum gielaj. Guovte vahko duogen åvddån biedjá sámedikkeráde muhtem varás guoradallamav mij vuoset sámegiela dilev uddni. Moatten sajen Vuonan li sámegiela hoallij låhko alvos láhkáj binnum. Ragátmánon galggá Sámedigge giehtadallat muhtem diedádusáv giela gáktuj. Akta dåjmajs majna politihkkára li barggamin le oadtjot ienebujt sámástittjat. Ráddidus le aj diededam dárbaj sámegielajt ienebut vuorodit. Sámegielaj doajmmaplánan javllá ráddidus ierit ietján: «Sámegielaj boahtteájgev nannit gájbbet aj ájnegis sámes jut sån iesj gæhttjal ietjas máhtudagáv nannit ja åvddånahttet, gielav adnet nav moadda aktijvuodan dagu vejulasj, ja nav guhkás gå vejulasj sámegielastis boahtte buolvajda sirddet.»</p>
+<p>biejaduvvam. Beras lulujin stuoves ájge ja stuovas doarjja, oajvvat Gælok.</p>
+<p>Dálven le aj Sámásta 3-kurssa læhkám iehkedijt sidjij gudi sihti dav bargo maDálven le aj Sámásta 3-kurssa læhkám iehkedijt sidjij gudi sihti dav bargo ma -Gæhttjalip aj Sámásta 4-kursav ásadit, javllá Gælok. <em type="italic">-Gåktu dån jáhká galggá ienep</em> <em type="italic">oassálasstijt oadtjot?</em> -Jáhkáv aj le ruhtadile duogen fámiljajda. Jus lidjin permisjåvnåv oadtjot aktan bálkkájn de lij dat ålov tjoavddám. Jus duola dagu Divtasvuona suohkan, mij le sámegiela háldadimguovlon, lij máhttet vaddet friddja aktan bálkkáj, sierraláhkáj barggijda varresvuoda- ja huksosuorgen ja bajássjaddamsuorgen, de lidjin ienebu sijájs oassálasstet, miejnni Gælok. Åhpadus le navti jut oassálasste hæhttuji iesj barggat vehi tjåhkanimij gaskan. -Gájbbeduvvá oassálasste barggi viehka ålov aktu, sihke giellaåhpajn, bágoj ja dahkamusáj. Sierraláhkáj nuorajt åhtsåp, gudi galggi gielav vijddásappot boahtte buolvajda sirddet, låhpat Gælok. </p>
+</body></document>

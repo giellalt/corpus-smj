@@ -1,43 +1,13 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Sámebielle bissu!</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>158</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/s-mebielle-bissu.4063</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Sámebielle bissu!</p>
-    <p>Vuostasj sámegielabielle Bájkálasj ávijsan lij ådåjakmáno 10. biejve 2003.</p>
-    <p>Norsk kortversjon/Oanegis dárogiellaj</p>
-    <p>Avta gaskav lij baládahtte Bájkálasj ávijssa galgaj sámebielijn hiejttet. Valla ávijsa stivrra l mierredam sámebielijn joarkket.</p>
-    <p>Niellja jage dás åvddål álgadij Bájkálasj ávijsa sámebielijn. Vuostasj bielle julevsámegiellaj lij ådåjakmáno 10. biejve 2003, ja mån lav dav bielev tjuovvum vuostasj bokstáva rájes gitta udnásj bæjvváj.</p>
-    <p>Muv virgge Bájkálasj ávijsan dájna nummarijn nåhkå, valla ávijssa gæhttjal aj boahtte jahkáj joarkket jus la máhttelis hásstalusájt tjoavddet mij guosská ruhtadibmáj, ja aj tjállijda.</p>
-    <p>Mån lav gijttevasj gå lav oadtjum máhttelisvuodav ietjam giellaj tjállet, ja dan láhkáj aj ietjam gielav åvdedit ávijsa tjadá. Doajvov sámegiella vuojnnu ájn moadda jage dán ávijsan.</p>
-    <p>Sidáv gájka låhkkijt ja aktisasjbarggoguojmijt gijttet, ja aj gijttet sijáv gejt lav ságájdahttám. Dijá dagi ij lim åvvå majdik dájs bielijs sjaddat.</p>
-    <p>Tjuovvus vuorbbe boahtte bargujn!</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér "Sámebielle bissu!" på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Sámebielle bissu!</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>158</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/s-mebielle-bissu.4063</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Sámebielle bissu!</p>
+<p>Vuostasj sámegielabielle Bájkálasj ávijsan lij ådåjakmáno 10. biejve 2003.</p>
+<p>Norsk kortversjon/Oanegis dárogiellaj</p>
+<p>Avta gaskav lij baládahtte Bájkálasj ávijssa galgaj sámebielijn hiejttet. Valla ávijsa stivrra l mierredam sámebielijn joarkket.</p>
+<p>Niellja jage dás åvddål álgadij Bájkálasj ávijsa sámebielijn. Vuostasj bielle julevsámegiellaj lij ådåjakmáno 10. biejve 2003, ja mån lav dav bielev tjuovvum vuostasj bokstáva rájes gitta udnásj bæjvváj.</p>
+<p>Muv virgge Bájkálasj ávijsan dájna nummarijn nåhkå, valla ávijssa gæhttjal aj boahtte jahkáj joarkket jus la máhttelis hásstalusájt tjoavddet mij guosská ruhtadibmáj, ja aj tjállijda.</p>
+<p>Mån lav gijttevasj gå lav oadtjum máhttelisvuodav ietjam giellaj tjállet, ja dan láhkáj aj ietjam gielav åvdedit ávijsa tjadá. Doajvov sámegiella vuojnnu ájn moadda jage dán ávijsan.</p>
+<p>Sidáv gájka låhkkijt ja aktisasjbarggoguojmijt gijttet, ja aj gijttet sijáv gejt lav ságájdahttám. Dijá dagi ij lim åvvå majdik dájs bielijs sjaddat.</p>
+<p>Tjuovvus vuorbbe boahtte bargujn!</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér "Sámebielle bissu!" på Facebook</p>
+</body></document>

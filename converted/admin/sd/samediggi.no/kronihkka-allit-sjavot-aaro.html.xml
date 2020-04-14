@@ -1,46 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Kronihkka: Allit sjávot åro</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2017</year>
-    <wordcount>524</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/Samedikke-birra/Arkiv-perioden-2016-2017/AAdaasa/Kronihkka-Allit-sjavot-aaro</origFileName>
-    <parallel_text xml:lang="nob" location="kronikk-ikke-vaer-taus.html"/>
-    <parallel_text xml:lang="sma" location="aellieh-sjeavohth-aarroeh.html"/>
-    <parallel_text xml:lang="sme" location="kronihkka-ale-oro-jienajavohaga.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Kronihkka: Allit sjávot åro</p>
-    <p>Kronihkka guoradallamdiedádusá almodimes: vahágahttema birra lahka gasskavuodan sáme sebrudagán snjuktjamáno 8. biejve.</p>
-    <p>Uddni, nissunbiejven, Sámedigge ja Justijssadepartemænnta åvddånbukti åtsådimdiedádusáv vahágahttema birra lahka gasskavuodan sáme sebrudagán. Diedádusá vuodon li ságastallama fáhkabarggij ja viehkkeinstánsaj Sámen, ja tjalmostahttá gåktu sáme vaháguvvama viehkkeapparáhtas duostoduvvi. Jus li vidjura sáme sebrudagá sisbielen vaj ålgusjbielen ma vájkkudi galla vahágahttema dagáduvvi, adjáj dåmaduvvi.</p>
-    <p>Mij mujttep Saminor:a åtsådimdiedádus mij 2015 almoduváj, ja åvddånbuvtij jut 49% sáme nissunijs lidjin vaháguvvam. Dá lågo mijáv alvaduhttin, ja biejaj tiemáv bajemussaj politihkalasj ássjelistan Sámen. Mij dárbahijma dádjadit manen dat dáhpáduvvá?</p>
-    <p>Fáhkaulmutja ja bulkke li oassálasstám ájnas jienaj diedádusán. Sivva le rámmpot sijá máhtukvuodav ja sidodav lájttálisát ietjasa bargov ja hásstalusájt gehtjatjit. Edna buorre barggo sijá fáhkasuorgen dagáduvvá, valla vuoseduvvá aj stuorra hásstalusájda. Viehkkeapparáhtta diehtá aj dat la suorgge edna sjávodisvuodaj ja <em type="italic">tabu </em>:aj. Gássjel la njuolgga gatjádit vahágahttema birra. Valla gåktu akta giehtadalle javllá: <span type="quote">“Jus duosta gatjádit, duossti ulmutja vásstedit”</span>. </p>
-    <p>Vuoseduvvá aj, gávnnuji sierra hásstalusá duosstomin vaháguvvamijt sáme duogátjijn. Luohtádus sáme álmmugin bulkkáj ja viehkkeapparáhttaj ij la heva. Dát vádna luohtádus viertti dádjaduvvat gåvvimin la garra dárojduhttem- ja mastadimpolitihkav sámij vuosstáj. Vuojnnet la nav, adjáj dán aktijvuodan guoddep dav låsså árbev dárojduhttempolitihkas. Gåktu akta oassevállde guoradallamin javllá: <span type="quote">“Iv la nav vuojga láttij birrasin barggam, valla jáhkáv miján vádnun luohtádus, dat guosská histåvrålasj traumajda dajnas gå sáme li láttijda masstam, bákko tjadá hæhttujin dárustit. Mij ep luohteda avtak oajválattjaj, girkko ja skåvllå ja diedaåtsådiddje, dakkir ulmutjijt gejda ájgij tjadá lip oahppam ij galga luohtedit”</span>.</p>
-    <p>Ságastit sieldes illastimij birra buoremusát dahká iednegiellasis viehkkeapparáhttaj mij dádjat sebrudagáv gånnå viessu.</p>
-    <p>Moatten sáme sebrudagán la miján garra sjávodisvuodakultuvrra. Moattes e dåhkkida diededimev vahágahttema birra. Dat máhttá ålles familja árvov biejsstet, márjju ålles sáme sebrudagá árvov. Sivá li aj jáhkket moadda ájnegattja li vaháguvvam skámov tjiegadittjat. Læstadiánarij tjoaggulvis la ájnas moatte sámijda, valla ij gudik goassak máhte riekta sjaddat gå åssko aneduvvá vaháguvvamav sivádittjat ja skámádittjat. Dáj birra vierttip duosstat tjielggasit diededit. Vahágahttem ij la priváhta ássje mij sisbielen galggá tjoavdeduvvat. Vahágahttem la siválasj stráffuduvvat ja galggá riektávuogádagán dåmaduvvat, dat vuogádagás massta mij sáme aj li oassen.</p>
-    <p>Mij dárbahip aj låhpadit jahtov gievras sáme birra, guhti gájkka gierddat galggá. Gártjedam miellaguotto jut sáme næjtso ja nissuna galggi hæhttut gierddat vahágahttemav ietjasa lagámusájs hæhttup dåssjidit. Mij dárbahip sebrudagáv, gånnå ulmutja priváhta rájá vieleduvvi ja gånnå vahágahttem ij gudik goassak dåhkkiduvá. Ij dåhkki ilá ednagit dættoduvvat: åvdåsvásstádus vahágahttemis la vahágahtte duogen, ij vaháguvvama.</p>
-    <p>Dájna diedádusájn lip vijddásappot lávkkim, vahágahttema vuosstij oajbbot lahka gasskavuodan sáme sebrudagán. Vahágahttem ij binnu juska tiebmá guoradaláduvvá, valla mij lip siegen <em type="italic">tabu </em>:ajt tiemá birra doadjemin gå bihkusit ássjev ságastallap. Mån jáhkáv sáme sebrudahka l gárves dakkir dágástallamij. </p>
-    <p>Valla dáv bargov ep máhte galluga dahkat. Guokta jage dássta åvddåla Saminor ietjas lågojt åvddånbuktin. Dat rájes lip binnáv guovdásj oajválattjajs gullam. Máhtudagájn mij dálla le miján, merkahi konkrehtalasj dåjma viertti doajmmaj biejaduvvat. Valla mij dárbahip ienep máhtudagáv suorgen, ep åvvånis diede nav ålov gå dárbahip dan suorgen.</p>
-    <p>Sámedikkeráde sjaddá dáv gåtsedit guovdásj oajválattjaj ságastallamin. Vierttip tjielggasit diededit mij dárbahip sierra dåjmajt dáv gássjelisvuodav duostotjit, ja mij dárbahip dajt dåjmajt dálla. Gå sáme álmmuk la gárves sjávodisvuodav ja skámov doajátjit ij stuorsebrudahka máhte tjielgga sjávodisvuodajn vásstedit.</p>
-    <p xml:lang="sme">
-      <em type="italic">Vibeke Larsen, </em>
-      <em type="italic">sámedikkepresidæntta </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Kronihkka: Allit sjávot åro</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2017</year><wordcount>524</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/Samedikke-birra/Arkiv-perioden-2016-2017/AAdaasa/Kronihkka-Allit-sjavot-aaro</origFileName><parallel_text xml:lang="nob" location="kronikk-ikke-vaer-taus.html"/><parallel_text xml:lang="sma" location="aellieh-sjeavohth-aarroeh.html"/><parallel_text xml:lang="sme" location="kronihkka-ale-oro-jienajavohaga.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Kronihkka: Allit sjávot åro</p>
+<p>Kronihkka guoradallamdiedádusá almodimes: vahágahttema birra lahka gasskavuodan sáme sebrudagán snjuktjamáno 8. biejve.</p>
+<p>Uddni, nissunbiejven, Sámedigge ja Justijssadepartemænnta åvddånbukti åtsådimdiedádusáv vahágahttema birra lahka gasskavuodan sáme sebrudagán. Diedádusá vuodon li ságastallama fáhkabarggij ja viehkkeinstánsaj Sámen, ja tjalmostahttá gåktu sáme vaháguvvama viehkkeapparáhtas duostoduvvi. Jus li vidjura sáme sebrudagá sisbielen vaj ålgusjbielen ma vájkkudi galla vahágahttema dagáduvvi, adjáj dåmaduvvi.</p>
+<p>Mij mujttep Saminor:a åtsådimdiedádus mij 2015 almoduváj, ja åvddånbuvtij jut 49% sáme nissunijs lidjin vaháguvvam. Dá lågo mijáv alvaduhttin, ja biejaj tiemáv bajemussaj politihkalasj ássjelistan Sámen. Mij dárbahijma dádjadit manen dat dáhpáduvvá?</p>
+<p>Fáhkaulmutja ja bulkke li oassálasstám ájnas jienaj diedádusán. Sivva le rámmpot sijá máhtukvuodav ja sidodav lájttálisát ietjasa bargov ja hásstalusájt gehtjatjit. Edna buorre barggo sijá fáhkasuorgen dagáduvvá, valla vuoseduvvá aj stuorra hásstalusájda. Viehkkeapparáhtta diehtá aj dat la suorgge edna sjávodisvuodaj ja <em type="italic">tabu </em>:aj. Gássjel la njuolgga gatjádit vahágahttema birra. Valla gåktu akta giehtadalle javllá: <span type="quote">“Jus duosta gatjádit, duossti ulmutja vásstedit”</span>. </p>
+<p>Vuoseduvvá aj, gávnnuji sierra hásstalusá duosstomin vaháguvvamijt sáme duogátjijn. Luohtádus sáme álmmugin bulkkáj ja viehkkeapparáhttaj ij la heva. Dát vádna luohtádus viertti dádjaduvvat gåvvimin la garra dárojduhttem- ja mastadimpolitihkav sámij vuosstáj. Vuojnnet la nav, adjáj dán aktijvuodan guoddep dav låsså árbev dárojduhttempolitihkas. Gåktu akta oassevállde guoradallamin javllá: <span type="quote">“Iv la nav vuojga láttij birrasin barggam, valla jáhkáv miján vádnun luohtádus, dat guosská histåvrålasj traumajda dajnas gå sáme li láttijda masstam, bákko tjadá hæhttujin dárustit. Mij ep luohteda avtak oajválattjaj, girkko ja skåvllå ja diedaåtsådiddje, dakkir ulmutjijt gejda ájgij tjadá lip oahppam ij galga luohtedit”</span>.</p>
+<p>Ságastit sieldes illastimij birra buoremusát dahká iednegiellasis viehkkeapparáhttaj mij dádjat sebrudagáv gånnå viessu.</p>
+<p>Moatten sáme sebrudagán la miján garra sjávodisvuodakultuvrra. Moattes e dåhkkida diededimev vahágahttema birra. Dat máhttá ålles familja árvov biejsstet, márjju ålles sáme sebrudagá árvov. Sivá li aj jáhkket moadda ájnegattja li vaháguvvam skámov tjiegadittjat. Læstadiánarij tjoaggulvis la ájnas moatte sámijda, valla ij gudik goassak máhte riekta sjaddat gå åssko aneduvvá vaháguvvamav sivádittjat ja skámádittjat. Dáj birra vierttip duosstat tjielggasit diededit. Vahágahttem ij la priváhta ássje mij sisbielen galggá tjoavdeduvvat. Vahágahttem la siválasj stráffuduvvat ja galggá riektávuogádagán dåmaduvvat, dat vuogádagás massta mij sáme aj li oassen.</p>
+<p>Mij dárbahip aj låhpadit jahtov gievras sáme birra, guhti gájkka gierddat galggá. Gártjedam miellaguotto jut sáme næjtso ja nissuna galggi hæhttut gierddat vahágahttemav ietjasa lagámusájs hæhttup dåssjidit. Mij dárbahip sebrudagáv, gånnå ulmutja priváhta rájá vieleduvvi ja gånnå vahágahttem ij gudik goassak dåhkkiduvá. Ij dåhkki ilá ednagit dættoduvvat: åvdåsvásstádus vahágahttemis la vahágahtte duogen, ij vaháguvvama.</p>
+<p>Dájna diedádusájn lip vijddásappot lávkkim, vahágahttema vuosstij oajbbot lahka gasskavuodan sáme sebrudagán. Vahágahttem ij binnu juska tiebmá guoradaláduvvá, valla mij lip siegen <em type="italic">tabu </em>:ajt tiemá birra doadjemin gå bihkusit ássjev ságastallap. Mån jáhkáv sáme sebrudahka l gárves dakkir dágástallamij. </p>
+<p>Valla dáv bargov ep máhte galluga dahkat. Guokta jage dássta åvddåla Saminor ietjas lågojt åvddånbuktin. Dat rájes lip binnáv guovdásj oajválattjajs gullam. Máhtudagájn mij dálla le miján, merkahi konkrehtalasj dåjma viertti doajmmaj biejaduvvat. Valla mij dárbahip ienep máhtudagáv suorgen, ep åvvånis diede nav ålov gå dárbahip dan suorgen.</p>
+<p>Sámedikkeráde sjaddá dáv gåtsedit guovdásj oajválattjaj ságastallamin. Vierttip tjielggasit diededit mij dárbahip sierra dåjmajt dáv gássjelisvuodav duostotjit, ja mij dárbahip dajt dåjmajt dálla. Gå sáme álmmuk la gárves sjávodisvuodav ja skámov doajátjit ij stuorsebrudahka máhte tjielgga sjávodisvuodajn vásstedit.</p>
+<p xml:lang="sme"><em type="italic">Vibeke Larsen, </em><em type="italic">sámedikkepresidæntta </em></p>
+</body></document>

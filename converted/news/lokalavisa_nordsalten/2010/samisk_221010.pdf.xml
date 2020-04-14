@@ -1,50 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Dåhkki gus mujtojt buoredit?</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Ingrid" lastname="Kintel" sex="f" born="1988" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>274</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/samisk_221010.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty SkapalenJårggålibme: Divte Media AS / Ingrid Kintel</p>
-    <p>Fáktá</p>
-    <p xml:lang="nob"><em type="bold">Institute of Healing Memories</em> </p>
-    <p>.Vuododum 1998. Ásadi seminárajt Oarjje-Afrikan ja ietjá lándajn gåktu nievres mujtojt buoredit. Tjalmosti gåktu násjåvnå histåvrrå almatjav vájkkut.</p>
-    <p><em type="bold">Muddo såbadit</em> </p>
-    <p><em type="bold">Diehtojuohkem</em> </p>
-    <p>Åvdep jådediddje såbadusprosjevtas, Rolf Steffensen, lij sån guhti gåhtjoj afrikánajt boahtet. - Dát le buorre máhttelisvuohta oahppat Oarjje-Afrikas. Geldulasj le gullat sijá åtsådallamijt ja båhtusijt. Såbadusbargo baktu Oarjje-Afrikan lev oahpástuvvam Themba Lonzijn, guhti åvdebut le jådedam seminárajt sáme- ja oarjje-afrikána nuoraj gaskan. Ållu vuostasj workshopa rájes, jagen 2005, lip åtsådallam siján li buorre vuoge ma li mijá vájmojda jåksåm. Oahppat máhttep dáj vuogij birra, ja gæhttjalit lahkanit nubbe nuppev ja gássjelisvuodajt ietjamij sebrudagán, javlaj Steffensen.</p>
-    <p>Ingar Kuoljok, Solvår Turi ja Anne Kalstad Mikkelsen. Ingar Kuoljok buorástahtij sámegiellaj, dárogiellaj ja iennilsgiellaj ja javlaj dán semináratja baktu lij hállo oahppat nubbe nuppes dáppe Divtasvuonan ja Oarjje-Afrikas. Árrana vuolepdirektørra, Lars Magne Andreassen, gåhtjoj afrikánajt buorisboahtem. - Dát le ájnas tjåhkanibme dan prosessan gånnå sihtap buoredit ietjama mujtojt ma li sáme identitehttaj tjanádum. Dárbahip giehttot dán birra ja joarkket prosessajn mij juo le álgadum, vierttip tjuovvot dav bálggáv. Miján le buorre viehkke vuogijt gávnatjit ja mujtojt buoredittjat. Lev ávon ja gijttevasj guossidimes Oarjje-Afrikas. Siján le ållo mijáj juogadit, ja buorre inspirásjåvnnån midjij, javlaj Andreassen.</p>
-    <p>Instituhtta Cape Townan semináraj baktu dahki sierra ságastallamjuohkusijt gånnå oasslasste bessi subtsastit ietjasa vásádusáj birra. Instituhta jådediddje, Michael Lapsey, javllá dåbdåstime duogen le jus galggá nahkat viessot ietjas vásádusáj. - Tjiegadibme le læhkám ájnas oasse dassta mij le dáhpáduvvam. Dárbahip dåbdåstit, valla oajvvegássjelisvuohta le álu ieneplågo dádjadahtesvuohta dåbdåstimes, javlaj. Lapsey le manádam væráldav birra subtsastime ietjas histåvråv. Bådij njuolgga</p>
-    <p>j jj</p>
-    <p><em type="bold">Ressurssajuogos</em> <em type="bold">såbadusprosjevtan</em> </p>
-    <p>Resurssajuohkusin prosjevtan li Rolf</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Dåhkki gus mujtojt buoredit?</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><person firstname="Ingrid" lastname="Kintel" sex="f" born="1988" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2010</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>274</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/samisk_221010.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty SkapalenJårggålibme: Divte Media AS / Ingrid Kintel</p>
+<p>Fáktá</p>
+<p xml:lang="nob"><em type="bold">Institute of Healing Memories</em> </p>
+<p>.Vuododum 1998. Ásadi seminárajt Oarjje-Afrikan ja ietjá lándajn gåktu nievres mujtojt buoredit. Tjalmosti gåktu násjåvnå histåvrrå almatjav vájkkut.</p>
+<p><em type="bold">Muddo såbadit</em> </p>
+<p><em type="bold">Diehtojuohkem</em> </p>
+<p>Åvdep jådediddje såbadusprosjevtas, Rolf Steffensen, lij sån guhti gåhtjoj afrikánajt boahtet. - Dát le buorre máhttelisvuohta oahppat Oarjje-Afrikas. Geldulasj le gullat sijá åtsådallamijt ja båhtusijt. Såbadusbargo baktu Oarjje-Afrikan lev oahpástuvvam Themba Lonzijn, guhti åvdebut le jådedam seminárajt sáme- ja oarjje-afrikána nuoraj gaskan. Ållu vuostasj workshopa rájes, jagen 2005, lip åtsådallam siján li buorre vuoge ma li mijá vájmojda jåksåm. Oahppat máhttep dáj vuogij birra, ja gæhttjalit lahkanit nubbe nuppev ja gássjelisvuodajt ietjamij sebrudagán, javlaj Steffensen.</p>
+<p>Ingar Kuoljok, Solvår Turi ja Anne Kalstad Mikkelsen. Ingar Kuoljok buorástahtij sámegiellaj, dárogiellaj ja iennilsgiellaj ja javlaj dán semináratja baktu lij hállo oahppat nubbe nuppes dáppe Divtasvuonan ja Oarjje-Afrikas. Árrana vuolepdirektørra, Lars Magne Andreassen, gåhtjoj afrikánajt buorisboahtem. - Dát le ájnas tjåhkanibme dan prosessan gånnå sihtap buoredit ietjama mujtojt ma li sáme identitehttaj tjanádum. Dárbahip giehttot dán birra ja joarkket prosessajn mij juo le álgadum, vierttip tjuovvot dav bálggáv. Miján le buorre viehkke vuogijt gávnatjit ja mujtojt buoredittjat. Lev ávon ja gijttevasj guossidimes Oarjje-Afrikas. Siján le ållo mijáj juogadit, ja buorre inspirásjåvnnån midjij, javlaj Andreassen.</p>
+<p>Instituhtta Cape Townan semináraj baktu dahki sierra ságastallamjuohkusijt gånnå oasslasste bessi subtsastit ietjasa vásádusáj birra. Instituhta jådediddje, Michael Lapsey, javllá dåbdåstime duogen le jus galggá nahkat viessot ietjas vásádusáj. - Tjiegadibme le læhkám ájnas oasse dassta mij le dáhpáduvvam. Dárbahip dåbdåstit, valla oajvvegássjelisvuohta le álu ieneplågo dádjadahtesvuohta dåbdåstimes, javlaj. Lapsey le manádam væráldav birra subtsastime ietjas histåvråv. Bådij njuolgga</p>
+<p>j jj</p>
+<p><em type="bold">Ressurssajuogos</em> <em type="bold">såbadusprosjevtan</em> </p>
+<p>Resurssajuohkusin prosjevtan li Rolf</p>
+</body></document>

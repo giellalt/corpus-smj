@@ -1,64 +1,25 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>185</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=168&amp;art_id=197</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=168_art_id=197.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=168_art_id=197.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=168_art_id=197.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åhpav: Tjáhtje</p>
-    <p type="title">Javllamus Mariaj</p>
-    <p>Usjudalá vuostak dán birra:</p>
-    <p>· Gåktu jáhká le æjgádin sjaddat lågenanjagágin?</p>
-    <p>· Mij jáhká soajttá ienemus hásstalussan sjaddat gå galggá nuorran æjgádin sjaddat?</p>
-    <p>· Gåktu jáhká le iesselissan sjaddat stuoves gasskavuoda ålggolin?</p>
-    <p>
-      <em type="bold">Lågå subttsasav Maria birra Lukasin 1, 26-38.  </em>
-    </p>
-    <p>· Mij le dán tevsta sisadno?</p>
-    <p>· Makkir tiemá li fáddan tevstan?</p>
-    <p>· Majt usjudalá gå tevstav lågå?</p>
-    <p>· Gejt iejvvip subttsasin?</p>
-    <p>· Majt oadtjop diehtet Maria birra? Majt oadtjop diehtet ieŋŋgila Gabriela birra?</p>
-    <p>· Majt Maria dahká gå oadtju ieŋŋgilav guossáj?</p>
-    <p>· Majt ieŋŋgil Mariaj javllá?</p>
-    <p>· Mij le Maria måråj dasi majt ieŋŋgil subtsas?</p>
-    <p>· Majt ieŋŋgil Jubmela birra javllá?</p>
-    <p>· Gej soajttá sæmmi lágásj åtsådallama dagu Maria ja Josef uddni?</p>
-    <p>· Gåktu nuora gudi uddni iesselissan sjaddi vuosstáj váldeduvvi?</p>
-    <p>· Majt usjudalá dan birra gå muhtem nuora hasoduvvi tsuovkkanittjat?</p>
-    <p>·Gåktu beras lulujin nuorra næjtso ja báhtja gudi æjgádin sjaddaba, vuosstáj váldeduvvat?</p>
-    <p>Lågå subttsasav ájn akti ja usjudalá dán birra:</p>
-    <p>· Majt máhttep dahkat nuoraj åvdås gudi æjgádin sjaddaba?</p>
-    <p>· Gåktu máhtti nuora gudi æjgádin sjaddi vásedit Jubmel le sijá siegen, dagu Jubmel lij Maria ja Josefa siegen?</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>185</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=168&amp;art_id=197</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=168_art_id=197.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=168_art_id=197.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=168_art_id=197.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åhpav: Tjáhtje</p>
+<p type="title">Javllamus Mariaj</p>
+<p>Usjudalá vuostak dán birra:</p>
+<p>· Gåktu jáhká le æjgádin sjaddat lågenanjagágin?</p>
+<p>· Mij jáhká soajttá ienemus hásstalussan sjaddat gå galggá nuorran æjgádin sjaddat?</p>
+<p>· Gåktu jáhká le iesselissan sjaddat stuoves gasskavuoda ålggolin?</p>
+<p><em type="bold">Lågå subttsasav Maria birra Lukasin 1, 26-38.  </em></p>
+<p>· Mij le dán tevsta sisadno?</p>
+<p>· Makkir tiemá li fáddan tevstan?</p>
+<p>· Majt usjudalá gå tevstav lågå?</p>
+<p>· Gejt iejvvip subttsasin?</p>
+<p>· Majt oadtjop diehtet Maria birra? Majt oadtjop diehtet ieŋŋgila Gabriela birra?</p>
+<p>· Majt Maria dahká gå oadtju ieŋŋgilav guossáj?</p>
+<p>· Majt ieŋŋgil Mariaj javllá?</p>
+<p>· Mij le Maria måråj dasi majt ieŋŋgil subtsas?</p>
+<p>· Majt ieŋŋgil Jubmela birra javllá?</p>
+<p>· Gej soajttá sæmmi lágásj åtsådallama dagu Maria ja Josef uddni?</p>
+<p>· Gåktu nuora gudi uddni iesselissan sjaddi vuosstáj váldeduvvi?</p>
+<p>· Majt usjudalá dan birra gå muhtem nuora hasoduvvi tsuovkkanittjat?</p>
+<p>·Gåktu beras lulujin nuorra næjtso ja báhtja gudi æjgádin sjaddaba, vuosstáj váldeduvvat?</p>
+<p>Lågå subttsasav ájn akti ja usjudalá dán birra:</p>
+<p>· Majt máhttep dahkat nuoraj åvdås gudi æjgádin sjaddaba?</p>
+<p>· Gåktu máhtti nuora gudi æjgádin sjaddi vásedit Jubmel le sijá siegen, dagu Jubmel lij Maria ja Josefa siegen?</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

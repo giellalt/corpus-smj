@@ -1,45 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Sáme Stájggo</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Gunnar" lastname="Grytøyr" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2008</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>231</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_280308.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Gunnar GrytøyrJårggålibme: Idar Kintel</p>
-    <p xml:lang="nob">Sidsel Bakke og Eva Ditte Donat</p>
-    <p>årromsajijt Stájgon, sáme bájkkenamájt ja boahttsuæládusáv Stájgon uddni. Lågådallam aj sjaddá identitehtamålssoma birra, iehpetjielgas máttoj ja sierra ulmusjtjerdalasj rájáj birra ja gåvvidibmij birra tjanádum jábmemij, nannidum bargojn duola dagu Stájgon. Lågådalle li arkeologa, historikkára ja ietjá dutke Bådådjos, Råmsås ja NuorttaSáltos. Duodden bájkálasj historikkára ja ælloniehkke lahkabirrasijs båhti. Semináras ij majdik dárbaha mákset, le navku aktan biebmujn, ja le rabás juohkka mielos ulmutjij.</p>
-    <p>uddni Eira fámillja dájna æládusájn barggá. - Gássjelis lij gávnnat náginav guhti máhtij 1800/1900 jagij birra subtsastit, dalloj sáme gáhtun Stájgo histåvrås, valla jáhkáv lip gávnnam dajt gudi ienemusát dan birra máhtti. Ájnas le oadtjot nav ållo diedov gå máhttelis dáj ássjij birra, lip dan diehti gåhttjum skåvllåásadusáv vaj da aj máhtti oahpásmuvvat Stájgo suohkana sáme histåvråjn, javllá Eva Ditte Donat guhti le Sálto dávvervuorká ájras Stájgon. Aktisasjbargo álgadibme tjalmostahtátjit <span type="quote">«sáme Stájgov»</span> bådij Anne Kalstad Mikkelsenis, åvddånbuktemnjunnjusj Árran – julevsáme guovdátjin Ájluovtan.</p>
-    <p>Sån bivdij Sálto dávvervuorkáv ja Stájgo sagaspellav, luondulasj histåvrrååvddånbuktema Stájgon, oassálastátjit seminárraj. - Dán seminára baktu ájggop åvddånbuktet histåvrålasj åvddånimev Stájgon vaj ienep duolla sjaddá gå sáme histåvrrå oadtju ietjas luondulasj sajev Stájgo histåvrån. Buorep diehto sáme kultuvrra birra vaddá stuoráp moattegerdakvuodav ja boanndot Stájgo sagaspellav, sáme sebrudagáv, Stájgo suohkanav ja Nuortta-Sáltov, tjáleduvvá præssadiedádusán Anne Kalstad Mikkelsenis. Seminárra ájggu gåvvit tiemájt duola dagu ulmusjtjerdalasj gasskavuodajt li vikingájgen, dålusj merrasámij</p>
-    <p xml:lang="nob">Reinflokk Knedal, Steigen</p>
-    <p>j</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Sáme Stájggo</title><genre code="news"/><author><person firstname="Gunnar" lastname="Grytøyr" sex="m" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2008</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>231</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_280308.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Gunnar GrytøyrJårggålibme: Idar Kintel</p>
+<p xml:lang="nob">Sidsel Bakke og Eva Ditte Donat</p>
+<p>årromsajijt Stájgon, sáme bájkkenamájt ja boahttsuæládusáv Stájgon uddni. Lågådallam aj sjaddá identitehtamålssoma birra, iehpetjielgas máttoj ja sierra ulmusjtjerdalasj rájáj birra ja gåvvidibmij birra tjanádum jábmemij, nannidum bargojn duola dagu Stájgon. Lågådalle li arkeologa, historikkára ja ietjá dutke Bådådjos, Råmsås ja NuorttaSáltos. Duodden bájkálasj historikkára ja ælloniehkke lahkabirrasijs båhti. Semináras ij majdik dárbaha mákset, le navku aktan biebmujn, ja le rabás juohkka mielos ulmutjij.</p>
+<p>uddni Eira fámillja dájna æládusájn barggá. - Gássjelis lij gávnnat náginav guhti máhtij 1800/1900 jagij birra subtsastit, dalloj sáme gáhtun Stájgo histåvrås, valla jáhkáv lip gávnnam dajt gudi ienemusát dan birra máhtti. Ájnas le oadtjot nav ållo diedov gå máhttelis dáj ássjij birra, lip dan diehti gåhttjum skåvllåásadusáv vaj da aj máhtti oahpásmuvvat Stájgo suohkana sáme histåvråjn, javllá Eva Ditte Donat guhti le Sálto dávvervuorká ájras Stájgon. Aktisasjbargo álgadibme tjalmostahtátjit <span type="quote">«sáme Stájgov»</span> bådij Anne Kalstad Mikkelsenis, åvddånbuktemnjunnjusj Árran – julevsáme guovdátjin Ájluovtan.</p>
+<p>Sån bivdij Sálto dávvervuorkáv ja Stájgo sagaspellav, luondulasj histåvrrååvddånbuktema Stájgon, oassálastátjit seminárraj. - Dán seminára baktu ájggop åvddånbuktet histåvrålasj åvddånimev Stájgon vaj ienep duolla sjaddá gå sáme histåvrrå oadtju ietjas luondulasj sajev Stájgo histåvrån. Buorep diehto sáme kultuvrra birra vaddá stuoráp moattegerdakvuodav ja boanndot Stájgo sagaspellav, sáme sebrudagáv, Stájgo suohkanav ja Nuortta-Sáltov, tjáleduvvá præssadiedádusán Anne Kalstad Mikkelsenis. Seminárra ájggu gåvvit tiemájt duola dagu ulmusjtjerdalasj gasskavuodajt li vikingájgen, dålusj merrasámij</p>
+<p xml:lang="nob">Reinflokk Knedal, Steigen</p>
+<p>j</p>
+</body></document>

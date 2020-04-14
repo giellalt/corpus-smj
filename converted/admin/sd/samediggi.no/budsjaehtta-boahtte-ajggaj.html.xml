@@ -1,54 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>237</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Organisasjaavnaa-struktuvrra/Samedikkerade/Haala-ja-tjallaga/Budsjaehtta-boahtte-ajggaj</origFileName>
-    <parallel_text xml:lang="nob" location="et-budsjett-for-fremtiden.html"/>
-    <parallel_text xml:lang="sma" location="akte-budsjedte-baaetijen-aajkan.html"/>
-    <parallel_text xml:lang="sme" location="buseahtta-boahtteaiggi-varas.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Budsjæhtta boahtte ájggáj / Håla ja tjállaga / Sámedikkeráde / Organisasjåvnå struktuvrra / Sámmedikke birra / Sámedigge - Sametinget</p>
-    <p type="title">Budsjæhtta boahtte ájggáj</p>
-    <p>
-      <em type="bold">Sámedikke budsjæhtta 2015-jahkáj mierreduváj ållestjåhkanimen bierjjedagá javllamáno 5. biejve. Rádeájras Ann-Mari Thomassen la dudálasj gå Sámedigge le mierredam budsjehtav mij låppti sáme sebrudagáj boahtte ájggáj. </em>
-    </p>
-    <p>
-      <em type="bold">- Sámedigge sihtá jagen 2015 vuorodit sámemánáj oahppamnævojt ja mijá aktisasj kultuvrraárbev hiebadahtedijn sáme museajt åvddånahtátjit vijdábut, javllá rádeájras Thomassen. </em>
-    </p>
-    <p>2015-jage budsjehtan li 21 025 000,- åhttsij oasse oahppamnævoj åvddånahttemij, dát la 3 400 000 kråvnå lassánibme jage 2014 rájes.</p>
-    <p>
-      <em type="bold">- Sámemánáj oahppamnævojt vuorodijn sihtap viehkedit vaj ienep sáme máná galggi oadtjot sáme skåvllågirjijt ávkkit. Dat la viehka ájnas giela boahtteájggáj ja mánáj åvddånahttemij, javllá rádeájras Ann-Mari Thomassen. </em>
-    </p>
-    <p>Juollodibme sáme museajda le aj lasedum. 27 752 000,- rájes jagen 2014 gitta 31 970 000,- rádjá jagen 2015. Dát la 4 218 000,- lassánibme.</p>
-    <p>Rádeájras Thomassen tsuojgot sáme musea li viehka maŋebun vuona museajs mij guosská ekonomalasj åvddånahttemav ja dát juollodibme boahtá viehkken vinjogisvuodav njuolggitjit, ja duodden sáme kultuvrraárbev álkkebun ávkástalátjit.</p>
-    <p>
-      <em type="bold">- Aktisasj sáme kultuvrraárbbe le boanndá, valla viehka ållo dassta le vuorkkidum arkijvajda ja tjællárijda. Sihtap sáme museajt vuorodit dajna gå le niddo ájnas mijá kultuvrradávvera oadtju værddogis sijdajt ja sjaddi bárrusin gajkajda. Kultuvrraárbe baktu nannip Sámeednamav boahtte ájgijda. </em>
-    </p>
-    <p>Ålles biednikmierre stuoda ja åtsådahtte vájkkudimnævojda le 2015-jage budsjehtan 270 722 000,-. Lassánibme 2014-jages le 1 897 000,-.</p>
-    <p>
-      <em type="bold">Gejna ságastit: </em>
-    </p>
-    <p>Rádeájras Ann-Mari Thomassen, skuolkan 900 57 123.</p>
-    <p type="title">&lt;b&gt;Sámedikke budsjæhtta 2015 (norsk)&lt;/b&gt;</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>237</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Organisasjaavnaa-struktuvrra/Samedikkerade/Haala-ja-tjallaga/Budsjaehtta-boahtte-ajggaj</origFileName><parallel_text xml:lang="nob" location="et-budsjett-for-fremtiden.html"/><parallel_text xml:lang="sma" location="akte-budsjedte-baaetijen-aajkan.html"/><parallel_text xml:lang="sme" location="buseahtta-boahtteaiggi-varas.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Budsjæhtta boahtte ájggáj / Håla ja tjállaga / Sámedikkeráde / Organisasjåvnå struktuvrra / Sámmedikke birra / Sámedigge - Sametinget</p>
+<p type="title">Budsjæhtta boahtte ájggáj</p>
+<p><em type="bold">Sámedikke budsjæhtta 2015-jahkáj mierreduváj ållestjåhkanimen bierjjedagá javllamáno 5. biejve. Rádeájras Ann-Mari Thomassen la dudálasj gå Sámedigge le mierredam budsjehtav mij låppti sáme sebrudagáj boahtte ájggáj. </em></p>
+<p><em type="bold">- Sámedigge sihtá jagen 2015 vuorodit sámemánáj oahppamnævojt ja mijá aktisasj kultuvrraárbev hiebadahtedijn sáme museajt åvddånahtátjit vijdábut, javllá rádeájras Thomassen. </em></p>
+<p>2015-jage budsjehtan li 21 025 000,- åhttsij oasse oahppamnævoj åvddånahttemij, dát la 3 400 000 kråvnå lassánibme jage 2014 rájes.</p>
+<p><em type="bold">- Sámemánáj oahppamnævojt vuorodijn sihtap viehkedit vaj ienep sáme máná galggi oadtjot sáme skåvllågirjijt ávkkit. Dat la viehka ájnas giela boahtteájggáj ja mánáj åvddånahttemij, javllá rádeájras Ann-Mari Thomassen. </em></p>
+<p>Juollodibme sáme museajda le aj lasedum. 27 752 000,- rájes jagen 2014 gitta 31 970 000,- rádjá jagen 2015. Dát la 4 218 000,- lassánibme.</p>
+<p>Rádeájras Thomassen tsuojgot sáme musea li viehka maŋebun vuona museajs mij guosská ekonomalasj åvddånahttemav ja dát juollodibme boahtá viehkken vinjogisvuodav njuolggitjit, ja duodden sáme kultuvrraárbev álkkebun ávkástalátjit.</p>
+<p><em type="bold">- Aktisasj sáme kultuvrraárbbe le boanndá, valla viehka ållo dassta le vuorkkidum arkijvajda ja tjællárijda. Sihtap sáme museajt vuorodit dajna gå le niddo ájnas mijá kultuvrradávvera oadtju værddogis sijdajt ja sjaddi bárrusin gajkajda. Kultuvrraárbe baktu nannip Sámeednamav boahtte ájgijda. </em></p>
+<p>Ålles biednikmierre stuoda ja åtsådahtte vájkkudimnævojda le 2015-jage budsjehtan 270 722 000,-. Lassánibme 2014-jages le 1 897 000,-.</p>
+<p><em type="bold">Gejna ságastit: </em></p>
+<p>Rádeájras Ann-Mari Thomassen, skuolkan 900 57 123.</p>
+<p type="title">&lt;b&gt;Sámedikke budsjæhtta 2015 (norsk)&lt;/b&gt;</p>
+</body></document>

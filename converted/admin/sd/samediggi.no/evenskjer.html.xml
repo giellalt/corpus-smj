@@ -1,38 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Evenskjer</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <wordcount>65</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/Samedikke-birra/Guladala-Samedikkijn/Evenskjer</origFileName>
-    <parallel_text xml:lang="nob" location="evenskjer.html"/>
-    <parallel_text xml:lang="sma" location="evenskjer.html"/>
-    <parallel_text xml:lang="sme" location="evenskjer.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Sámedikke birra</p>
-    <p>Sámedigge le sámij álmmukválljidum orgádna Vuonan. 39 ájrrasa válljiduvvi gietjat válggaguovlos juohkka nælját jage. Sámedigge galggá nannit sámij politihkalasj dilev ja åvdedit sámij ássjijt Vuonan, barggat vaj sáme álmmuk giehtadaláduvvá avtaárvvusattjat ja rievtesferduk láhkáj ja hiebadahttet vaj sáme máhtti ietjasa gielav, kultuvrav ja sebrudakiellemav åvddånahttet.</p>
-    <p type="title" xml:lang="nno">Evenskjer</p>
-    <p xml:lang="nno">Hjørnegården, Postboks 46, 9439 Evenskjer</p>
-    <p xml:lang="koi">+47 78 47 40 00</p>
-    <p xml:lang="sme">samediggi@samediggi.no</p>
-    <p xml:lang="dan">Åpningstider, mandag-fredag: 08.00-15.30</p>
-    <p type="title" xml:lang="fkv">Ansatte</p>
-    <p xml:lang="nob">Vis flere</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Evenskjer</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><wordcount>65</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/Samedikke-birra/Guladala-Samedikkijn/Evenskjer</origFileName><parallel_text xml:lang="nob" location="evenskjer.html"/><parallel_text xml:lang="sma" location="evenskjer.html"/><parallel_text xml:lang="sme" location="evenskjer.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Sámedikke birra</p>
+<p>Sámedigge le sámij álmmukválljidum orgádna Vuonan. 39 ájrrasa válljiduvvi gietjat válggaguovlos juohkka nælját jage. Sámedigge galggá nannit sámij politihkalasj dilev ja åvdedit sámij ássjijt Vuonan, barggat vaj sáme álmmuk giehtadaláduvvá avtaárvvusattjat ja rievtesferduk láhkáj ja hiebadahttet vaj sáme máhtti ietjasa gielav, kultuvrav ja sebrudakiellemav åvddånahttet.</p>
+<p type="title" xml:lang="nno">Evenskjer</p>
+<p xml:lang="nno">Hjørnegården, Postboks 46, 9439 Evenskjer</p>
+<p xml:lang="vep">+47 78 47 40 00</p>
+<p xml:lang="sme">samediggi@samediggi.no</p>
+<p xml:lang="dan">Åpningstider, mandag-fredag: 08.00-15.30</p>
+<p type="title" xml:lang="fkv">Ansatte</p>
+<p xml:lang="nob">Vis flere</p>
+</body></document>

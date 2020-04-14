@@ -1,34 +1,4 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Ruhtadoarjja sáme sebrijda</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>51</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/ruhtadoarjja-s-me-sebrijda.4191</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Ruhtadoarjja sáme sebrijda</p>
-    <p>Dán jage aj juohká Nordlánda fylkkasuohkan ruhtadårjav sáme siebrijda ja institusjåvnåjda. Ulmme dájna ruhtadårjajn la nannit ja åvdånahttet sáme gielav ja kultuvrav. Dåhkki doajmmarudájt ja aj sierra prosjevtajda åhtsåt. Åhtsåmájgge l guovvamáno 15. biejve.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Ruhtadoarjja sáme sebrijda</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>51</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/ruhtadoarjja-s-me-sebrijda.4191</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Ruhtadoarjja sáme sebrijda</p>
+<p>Dán jage aj juohká Nordlánda fylkkasuohkan ruhtadårjav sáme siebrijda ja institusjåvnåjda. Ulmme dájna ruhtadårjajn la nannit ja åvdånahttet sáme gielav ja kultuvrav. Dåhkki doajmmarudájt ja aj sierra prosjevtajda åhtsåt. Åhtsåmájgge l guovvamáno 15. biejve.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

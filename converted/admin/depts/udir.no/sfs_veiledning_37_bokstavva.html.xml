@@ -1,90 +1,52 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>755</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/Hoyremeny/Artiklerressurser/bokstavva/index.html</origFileName>
-    <parallel_text xml:lang="nob" location="sfs_veiledning_37_om-boksta.html"/>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_37_om-bokstav.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_37_om-bokstavopplaringe.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Bokstávvaåhpadusá birra – árvustallam bargadahttijn</p>
-    <p type="title">Bokstávvaåhpadusá birra – árvustallam bargadahttijn</p>
-    <p xml:lang="nob">Hovedinnhold</p>
-    <p>Dát artihkal guoradallá muhtem bielijt álggoåhpadusán ma gulluji bokstávvaåhpadussaj ja låhkåm-ja tjállemåvddånahttemij.</p>
-    <p>Ulmme álggoåhpadusájn le oahppe galggi nav smidás låhkke sjaddat vaj sij máhtti duolla låhkåt moattelágásj tevstajt, sisanov dádjadit ja ávkken adnet dav diedov majt lågådahttijn oadtju. Oahppe galggi aj oahppat dádjadáhtte tevstajt tjállet ja guládallat tevstaj tjadá . Duodden galggi sij oahppat dábálasj tjállemnjuolgadusájt. Buohtalakkoj boktávvaåhpadussaj barggi oahppe ietjá giellaåvddånahttemdåjmaj.</p>
-    <p type="title">Dábálattjat</p>
-    <p>Le ájnas åhpadiddje dárkkelit gåhtso gåktu álggolåhkken låhkåm åvddån. Oahppijn le dárbbo buorre ja moattelágásj duorjojda ja hárjjidallamijda. Sij galggi sige njálmálattjat ja tjálálattjat máhttet vuojnnet ja gullat aktisasjvuodav giellajienaj ja tjállemmerkaj gaskan. Maŋenagi galggi sij aj máhttet moadda giellajiena ja tjállemmerka aktan tjadnat báhkon ja moallánahkkon.</p>
-    <p>Åhpadiddje viertti dåbddåt jiednavuogádagáv juohkka avta oahppe giellasuorgen ja diehtet gåktu dát giellasuorgge sierat sáme tjállemgielas. Le ájnas oahppe li diedulattja tjállemgiella le konvensjåvnnå ja tjállemgiella ij álu tjuovo giellasuorgev. Sierraláhkáj le ájnas åhpadiddje tjielggi sieradusájt giellasuorgij ja tjállemgiela gaskan ja vuoset gåktu dát tjoavdeduvvá tjállemgielan.</p>
-    <p>Le ájnas oahppe hárjjáni bokstávajt riekta tjállet. Sjierta máhtti liehket gássjel jårggålit. Åhpadidddje diedulattjat ja systemalattjat åhpat ja hárjjidalátjit le assto. Le buorre jus oahppe máhtti vuojnnet gåktu bokstáva galggi tjáleduvvat medin tjálli, juogu bokstávvagoaden jali plakáhtan gånnå bokstávaj alludahka, hábme ja tjállemguovllo tjielgga vuojnnuj boahtá.</p>
-    <p>Oahppe vierttiji låhkåt juojddáv juohkka biejve. Álgon le nuoges sij låhki avtav jali guokta bokstáva. Maŋenagi laseduvvi bokstáva nav vaj sjaddi stávvala, bágo, gárgadisá ja tevsta. Låhkåm hiebaduvvá ájnegis oahppe máhtudáhkaj.</p>
-    <p>Oahppe vierttiji juojddá juohkka biejve tjállet. Jus oahppijn le binná åtsådallama tjállet, tjálli sij vuostak ietjas namáv jali ihkap álggobokstávav familjasebrulattjaj namájn ja maŋŋela ålles namáv. Dagá vidjurijt gånnå le luondulasj tjállet. Oahppe tjálli duola degu namájt tjuorggasijda, diededimijt ja mujttolistajt, ja ietjas åtsådallamij birra tjálli. Oahppe tjálli gåvådallamtjállagijt, bokstávajt, bagojt ja gárgadisájt ja gitta ålles tevstajda.</p>
-    <p>Oahppe vierttiji vejulasjvuodav oadtjot njálmálattjat juohkka biejve åvddånbuktet. Sij subtsasti, gatjálvisájt vásstedi, tjielggiji ja åvddånbukti vuojnojt. Sij oahppeguojmij ja åhpadiddjijn ságasti. Vaj oahppe galggi åvdånahttet sige gielalattjat ja njálmálattjat åvddånbuktet le ájnas dættov biedjat sij galggi ålles gárgadisájt hábmedit. Jus oahppe jur vásstedi ájnegisbágoj, máhttá åhpadiddje nuppádis javllat ålles gárggadisájn ja alodit oahppijt sæmmi láhkáj barggat</p>
-    <p type="title">Buojkulvisá majt åhpadiddje árvustallá</p>
-    <p>Dála tjuovvu muhtem momenta ma li ájnnasa oahppij låhkåm-ja tjállemåvddånahttemin. Juohkka oahppe árvustalladuvvá sierra ja álu nav vaj le máhttelis duoddeviehkev árrat ássat jus oahppe rahtjá. Juohkka bokstávva sierra árvustalladuvvá.</p>
-    <p>Oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">gullat fonemav gå la dat aktu/gå jienaduvvá sieradum ietjá fonemajs</p>
-      <p type="listitem">gulldalit fonemav bágo álgon, gullat makkir bágo álggi vattedum fonemajn, ja gulldalit fonemav gå la dat bágo sinna ja gå/jus la dat bágo gietjen.</p>
-      <p type="listitem">jienadit fonemav aktu</p>
-      <p type="listitem">tjállet bokstávav mij fonebmaj gullu</p>
-      <p type="listitem">dåbddåt sige stuorbokstávav ja unnesbokstávatjav</p>
-      <p type="listitem">tjállet bokstávav riekta tjállemguovlluj, sige stuor- ja unnesbokstáva</p>
-      <p type="listitem">dåbddåt bokstávav ja máhttet jienadit fonemav mij bokstávvaj gullu</p>
-      <p type="listitem">tsuojggit makkir bokstávva gullu makkir fonebmaj gå bokstávva le ietjá bokstávaj gasken, duola degu aktan ietjá luovas bokstávaj jali tevstan</p>
-      <p type="listitem">tjállet bokstávav gå fonebma jienaduvvá</p>
-      <p type="listitem">tjállet bokstávvakombinasjåvnav mij fonebmaj gullu, duola degu sj, nj,lj, ie, uo, oa</p>
-      <p type="listitem">tjállet grafemav mij gullu fonebmaj gå fonebma jienaduvvá aktan ietjá fonemaj stávvalijn, bágojn ja gárgadisájn. a. gå le bágo álgon b. gå le gassko bágo c. gå/jus le bágo gietjen</p>
-      <p type="listitem">åhtsåt bágojt ma fonemajn álggi</p>
-    </list>
-    <p type="title">Árvustallam</p>
-    <p>Dála tjuovvu buojkulvissjiebmá åhpadiddje máhttá adnet árvustallamin gå oahppe barggi vattedum bokstávajn ja jienajn, duola degu a.</p>
-    <p>Oahppe máhtti adnet sæmmilágásj sjiemáv gå sij ietjasa árvustalli. Valla sjiemán viertti de binnep tjuokka. Giella álkkebun dagáduvvá, ja sjiebmá dagáduvvá guovte hábmáj, akta stuorbokstávaj ja nubbe unnesbokstávaj. Ane tjuorggasijt duodden tækstaj. Biellje máhttá gåvåstit oahppe galggá gulldalit, tjalmme vuoset oahppe galggá gæhttjat ja blyánnta subtsas oahppe galggá tjállet.</p>
-    <p>
-      <em type="bold">Åhpadusmihttomiere </em>
-    </p>
-    <p>
-      <em type="bold">Dáv iv nuohkásit máhte </em>
-    </p>
-    <p>
-      <em type="bold">Dáv máhtáv </em>
-    </p>
-    <p>
-      <em type="bold">Dáv huj buoragit máhtáv </em>
-    </p>
-    <p>jienadit jienav</p>
-    <p>dåbddåt jienav gå åhpadiddje jienat moadda jiena maŋŋálakkoj</p>
-    <p>gullat jus bágon le dat jiedna</p>
-    <p>gullat jus jiedna le álgon, gassko jali bágo gietjen</p>
-    <p>låhkåt galli jiedna gullu bágon</p>
-    <p>åhtsåt bágojt ma jienajn álggi</p>
-    <p>låhkåt galli bokstávva gávnnu bágon ja gárgadisán</p>
-    <p>giedajn tjállet bokstávav riekta tjállemguovlluj, sige stuor- ja unnesbokstávajt</p>
-    <p>tjállet bágov mij bokstávajn álggá</p>
-    <p>tjállet bágov gånnå bokstávva le gassko jali gietjen</p>
-    <p>tjállet bokstávav ja bágov bokstávajn dáhtámásjijnajn</p>
-    <p>dåbddåt bokstávav moattelágásj terdaj, hámij ja stuorrudagáj</p>
-    <p type="title">Girjálasjvuohta nuorttasámegiellaj álggoåhpadusá birra</p>
-    <p xml:lang="nob">Baal, Lisa - Wirkola, Kirsten 2007: <em type="italic">Ávkin ja hávskin – Rávvagat mo álglohkanoahpahusain bargat. </em>[Kárášjohka:] Sámediggi 2007 </p>
-    <p>Eira, Inga Ravna 1994: <em type="italic">Lohkanoahppu Hállama Vuođul </em>. [Guovdageaidnu]: Sámi oahpahusráđđi. 2. preanttus. </p>
-    <p>Eira, Karen Inga - Gaup, Inger Ellen 2009: <em type="italic">Ánin Dánin. Oahpaheaddji neavagirji. </em>Kárášjohka: Davvi Girji os. </p>
-    <p>Wirkola, Kirsten - Baal, Lisa 2003: <em type="italic">Hoahkat ja stoahkat. </em><em type="italic">Rávvagat mo sámegielain bargat 1. luohkás. </em>[Kárášjohka:] Sámediggi 2003. </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>755</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/Hoyremeny/Artiklerressurser/bokstavva/index.html</origFileName><parallel_text xml:lang="nob" location="sfs_veiledning_37_om-boksta.html"/><parallel_text xml:lang="sma" location="sfs_veiledning_37_om-bokstav.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_37_om-bokstavopplaringe.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Bokstávvaåhpadusá birra – árvustallam bargadahttijn</p>
+<p type="title">Bokstávvaåhpadusá birra – árvustallam bargadahttijn</p>
+<p xml:lang="nob">Hovedinnhold</p>
+<p>Dát artihkal guoradallá muhtem bielijt álggoåhpadusán ma gulluji bokstávvaåhpadussaj ja låhkåm-ja tjállemåvddånahttemij.</p>
+<p>Ulmme álggoåhpadusájn le oahppe galggi nav smidás låhkke sjaddat vaj sij máhtti duolla låhkåt moattelágásj tevstajt, sisanov dádjadit ja ávkken adnet dav diedov majt lågådahttijn oadtju. Oahppe galggi aj oahppat dádjadáhtte tevstajt tjállet ja guládallat tevstaj tjadá . Duodden galggi sij oahppat dábálasj tjállemnjuolgadusájt. Buohtalakkoj boktávvaåhpadussaj barggi oahppe ietjá giellaåvddånahttemdåjmaj.</p>
+<p type="title">Dábálattjat</p>
+<p>Le ájnas åhpadiddje dárkkelit gåhtso gåktu álggolåhkken låhkåm åvddån. Oahppijn le dárbbo buorre ja moattelágásj duorjojda ja hárjjidallamijda. Sij galggi sige njálmálattjat ja tjálálattjat máhttet vuojnnet ja gullat aktisasjvuodav giellajienaj ja tjállemmerkaj gaskan. Maŋenagi galggi sij aj máhttet moadda giellajiena ja tjállemmerka aktan tjadnat báhkon ja moallánahkkon.</p>
+<p>Åhpadiddje viertti dåbddåt jiednavuogádagáv juohkka avta oahppe giellasuorgen ja diehtet gåktu dát giellasuorgge sierat sáme tjállemgielas. Le ájnas oahppe li diedulattja tjállemgiella le konvensjåvnnå ja tjállemgiella ij álu tjuovo giellasuorgev. Sierraláhkáj le ájnas åhpadiddje tjielggi sieradusájt giellasuorgij ja tjállemgiela gaskan ja vuoset gåktu dát tjoavdeduvvá tjállemgielan.</p>
+<p>Le ájnas oahppe hárjjáni bokstávajt riekta tjállet. Sjierta máhtti liehket gássjel jårggålit. Åhpadidddje diedulattjat ja systemalattjat åhpat ja hárjjidalátjit le assto. Le buorre jus oahppe máhtti vuojnnet gåktu bokstáva galggi tjáleduvvat medin tjálli, juogu bokstávvagoaden jali plakáhtan gånnå bokstávaj alludahka, hábme ja tjállemguovllo tjielgga vuojnnuj boahtá.</p>
+<p>Oahppe vierttiji låhkåt juojddáv juohkka biejve. Álgon le nuoges sij låhki avtav jali guokta bokstáva. Maŋenagi laseduvvi bokstáva nav vaj sjaddi stávvala, bágo, gárgadisá ja tevsta. Låhkåm hiebaduvvá ájnegis oahppe máhtudáhkaj.</p>
+<p>Oahppe vierttiji juojddá juohkka biejve tjállet. Jus oahppijn le binná åtsådallama tjállet, tjálli sij vuostak ietjas namáv jali ihkap álggobokstávav familjasebrulattjaj namájn ja maŋŋela ålles namáv. Dagá vidjurijt gånnå le luondulasj tjállet. Oahppe tjálli duola degu namájt tjuorggasijda, diededimijt ja mujttolistajt, ja ietjas åtsådallamij birra tjálli. Oahppe tjálli gåvådallamtjállagijt, bokstávajt, bagojt ja gárgadisájt ja gitta ålles tevstajda.</p>
+<p>Oahppe vierttiji vejulasjvuodav oadtjot njálmálattjat juohkka biejve åvddånbuktet. Sij subtsasti, gatjálvisájt vásstedi, tjielggiji ja åvddånbukti vuojnojt. Sij oahppeguojmij ja åhpadiddjijn ságasti. Vaj oahppe galggi åvdånahttet sige gielalattjat ja njálmálattjat åvddånbuktet le ájnas dættov biedjat sij galggi ålles gárgadisájt hábmedit. Jus oahppe jur vásstedi ájnegisbágoj, máhttá åhpadiddje nuppádis javllat ålles gárggadisájn ja alodit oahppijt sæmmi láhkáj barggat</p>
+<p type="title">Buojkulvisá majt åhpadiddje árvustallá</p>
+<p>Dála tjuovvu muhtem momenta ma li ájnnasa oahppij låhkåm-ja tjállemåvddånahttemin. Juohkka oahppe árvustalladuvvá sierra ja álu nav vaj le máhttelis duoddeviehkev árrat ássat jus oahppe rahtjá. Juohkka bokstávva sierra árvustalladuvvá.</p>
+<p>Oahppe galggá máhttet</p>
+<list><p type="listitem">gullat fonemav gå la dat aktu/gå jienaduvvá sieradum ietjá fonemajs</p>
+<p type="listitem">gulldalit fonemav bágo álgon, gullat makkir bágo álggi vattedum fonemajn, ja gulldalit fonemav gå la dat bágo sinna ja gå/jus la dat bágo gietjen.</p>
+<p type="listitem">jienadit fonemav aktu</p>
+<p type="listitem">tjállet bokstávav mij fonebmaj gullu</p>
+<p type="listitem">dåbddåt sige stuorbokstávav ja unnesbokstávatjav</p>
+<p type="listitem">tjállet bokstávav riekta tjállemguovlluj, sige stuor- ja unnesbokstáva</p>
+<p type="listitem">dåbddåt bokstávav ja máhttet jienadit fonemav mij bokstávvaj gullu</p>
+<p type="listitem">tsuojggit makkir bokstávva gullu makkir fonebmaj gå bokstávva le ietjá bokstávaj gasken, duola degu aktan ietjá luovas bokstávaj jali tevstan</p>
+<p type="listitem">tjállet bokstávav gå fonebma jienaduvvá</p>
+<p type="listitem">tjállet bokstávvakombinasjåvnav mij fonebmaj gullu, duola degu sj, nj,lj, ie, uo, oa</p>
+<p type="listitem">tjállet grafemav mij gullu fonebmaj gå fonebma jienaduvvá aktan ietjá fonemaj stávvalijn, bágojn ja gárgadisájn. a. gå le bágo álgon b. gå le gassko bágo c. gå/jus le bágo gietjen</p>
+<p type="listitem">åhtsåt bágojt ma fonemajn álggi</p>
+</list><p type="title">Árvustallam</p>
+<p>Dála tjuovvu buojkulvissjiebmá åhpadiddje máhttá adnet árvustallamin gå oahppe barggi vattedum bokstávajn ja jienajn, duola degu a.</p>
+<p>Oahppe máhtti adnet sæmmilágásj sjiemáv gå sij ietjasa árvustalli. Valla sjiemán viertti de binnep tjuokka. Giella álkkebun dagáduvvá, ja sjiebmá dagáduvvá guovte hábmáj, akta stuorbokstávaj ja nubbe unnesbokstávaj. Ane tjuorggasijt duodden tækstaj. Biellje máhttá gåvåstit oahppe galggá gulldalit, tjalmme vuoset oahppe galggá gæhttjat ja blyánnta subtsas oahppe galggá tjállet.</p>
+<p><em type="bold">Åhpadusmihttomiere </em></p>
+<p><em type="bold">Dáv iv nuohkásit máhte </em></p>
+<p><em type="bold">Dáv máhtáv </em></p>
+<p><em type="bold">Dáv huj buoragit máhtáv </em></p>
+<p>jienadit jienav</p>
+<p>dåbddåt jienav gå åhpadiddje jienat moadda jiena maŋŋálakkoj</p>
+<p>gullat jus bágon le dat jiedna</p>
+<p>gullat jus jiedna le álgon, gassko jali bágo gietjen</p>
+<p>låhkåt galli jiedna gullu bágon</p>
+<p>åhtsåt bágojt ma jienajn álggi</p>
+<p>låhkåt galli bokstávva gávnnu bágon ja gárgadisán</p>
+<p>giedajn tjállet bokstávav riekta tjállemguovlluj, sige stuor- ja unnesbokstávajt</p>
+<p>tjállet bágov mij bokstávajn álggá</p>
+<p>tjállet bágov gånnå bokstávva le gassko jali gietjen</p>
+<p>tjállet bokstávav ja bágov bokstávajn dáhtámásjijnajn</p>
+<p>dåbddåt bokstávav moattelágásj terdaj, hámij ja stuorrudagáj</p>
+<p type="title">Girjálasjvuohta nuorttasámegiellaj álggoåhpadusá birra</p>
+<p xml:lang="nob">Baal, Lisa - Wirkola, Kirsten 2007: <em type="italic">Ávkin ja hávskin – Rávvagat mo álglohkanoahpahusain bargat. </em>[Kárášjohka:] Sámediggi 2007 </p>
+<p>Eira, Inga Ravna 1994: <em type="italic">Lohkanoahppu Hállama Vuođul </em>. [Guovdageaidnu]: Sámi oahpahusráđđi. 2. preanttus. </p>
+<p>Eira, Karen Inga - Gaup, Inger Ellen 2009: <em type="italic">Ánin Dánin. Oahpaheaddji neavagirji. </em>Kárášjohka: Davvi Girji os. </p>
+<p>Wirkola, Kirsten - Baal, Lisa 2003: <em type="italic">Hoahkat ja stoahkat. </em><em type="italic">Rávvagat mo sámegielain bargat 1. luohkás. </em>[Kárášjohka:] Sámediggi 2003. </p>
+</body></document>

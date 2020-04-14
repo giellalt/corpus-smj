@@ -1,40 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Niehko guodtjasij</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Birgit" lastname="Andersen" sex="f" born="1984" nationality="nor"/>
-    </author>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>307</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/niehko-guodtjasij.4055</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Privat</p>
-    <p type="title">Niehko guodtjasij</p>
-    <p>Elena Paulsena niehko lij ålggorijkkaj mannat lågåtjit spánskagielav ja kultuvra birra åhpatjit. Bårggemáno 31. biejve álgij suv manno, gånnå ájgoj guossidit New Yorkav, åvddål sån manáj Cabareteaj, mij gullu Dominikána republikkaj.</p>
-    <p>Danna galgaj gålmån mánon oahppat spánskagielav, ja aj mávsodagá mánáj siegen barggat.</p>
-    <p>Elena vuostasj muossádibme Cabaretes lij sáddo, ållo tjuojka ja bivvasa. Amás råme tjuoggin ja vájvedin Vuona studentajt vuostasj vahkov, valla Elena dasi ruvva hárjjánij. Pálma, stráddu, mánnodihpe ja varás muorjema lidjin viehkken. Elena manáj 30 ietjá studentaj siegen, ja aktan årrun hotellan dan unna bájkátjin. Elena lij vuorbálasj ja <span type="quote">"oattjoj ietjas familjav"</span> aj, gen siegen álu lij. Skåvlån lidjin dárogielåhpådiddje ja åhpådiddje datga bájkes. Oahppin histåvråv ja girjálasjvuodav duodden spánskagiellaj. Elena mielas lij dát ájnas, gå ham galgaj oahppat ållu ådå gielav og årrot amás lándan. Elena duov dáv dagáj, familjas siegen. Sijá baktu bargov oattjoj skåvlån ja muossádij aj ednagav, duola dagu Værálda rámmátbiejvev, gå rájdon váttsij bájke manáj siegen. Oattjoj aj muossádit <span type="quote">"graduationav"</span> ja guossidit <span type="quote" xml:lang="nob">"public school-av"</span>. Elena ådå ulmutjijda oahpástuváj, ienemusát slumman, Callejonan, gånnå skåvllå la. Oattjoj ållo rádnajt ålles væráldis. Suv mielas lidjin riek hávsskes ulmutja Cabaretean. Gå sån lij scooterijn mannamin, tjuorvudin ulmutja sunji "Hola Elena!", jali dåssju "Elena!". Buoragit Elena mujttá gå hotella biebbmodahkke sidáj sunji juojddá vaddet. Ráktsa lij, mij lij nav njálgge gadtsat juska lij moaodda váhko ålggorijkan læhkám. Elena ávttji nuorajt ålggorijkkaj manátjit, ållagasj å-lánndaj. Suv mielas la buorre ådå muossádimijt návddahit. Vuojnnet ietjá væráldav, gånnå divna ij la sammiláhkáj juohkka sajen. Vuojnnet ietjá kultuvrav, dagu dal goalmát væráldav. Elena nubbe niehko aj guodtjasij. Surffit. Valla diedon vierttij aj låhkåt eksámajda, tjálálasj ja njálmálasj eksámajda. Gå dajt lij tjadádam, buorre árvvomihtoj, vuolgij biejves bájtádum næjttso sijddaj, javlav ávvudalátjit.</p>
-    <p>Sijdan, Vuonan.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Niehko guodtjasij"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Niehko guodtjasij</title><genre code="news"/><author><person firstname="Birgit" lastname="Andersen" sex="f" born="1984" nationality="nor"/></author><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>307</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/niehko-guodtjasij.4055</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Privat</p>
+<p type="title">Niehko guodtjasij</p>
+<p>Elena Paulsena niehko lij ålggorijkkaj mannat lågåtjit spánskagielav ja kultuvra birra åhpatjit. Bårggemáno 31. biejve álgij suv manno, gånnå ájgoj guossidit New Yorkav, åvddål sån manáj Cabareteaj, mij gullu Dominikána republikkaj.</p>
+<p>Danna galgaj gålmån mánon oahppat spánskagielav, ja aj mávsodagá mánáj siegen barggat.</p>
+<p>Elena vuostasj muossádibme Cabaretes lij sáddo, ållo tjuojka ja bivvasa. Amás råme tjuoggin ja vájvedin Vuona studentajt vuostasj vahkov, valla Elena dasi ruvva hárjjánij. Pálma, stráddu, mánnodihpe ja varás muorjema lidjin viehkken. Elena manáj 30 ietjá studentaj siegen, ja aktan årrun hotellan dan unna bájkátjin. Elena lij vuorbálasj ja <span type="quote">"oattjoj ietjas familjav"</span> aj, gen siegen álu lij. Skåvlån lidjin dárogielåhpådiddje ja åhpådiddje datga bájkes. Oahppin histåvråv ja girjálasjvuodav duodden spánskagiellaj. Elena mielas lij dát ájnas, gå ham galgaj oahppat ållu ådå gielav og årrot amás lándan. Elena duov dáv dagáj, familjas siegen. Sijá baktu bargov oattjoj skåvlån ja muossádij aj ednagav, duola dagu Værálda rámmátbiejvev, gå rájdon váttsij bájke manáj siegen. Oattjoj aj muossádit <span type="quote">"graduationav"</span> ja guossidit <span type="quote" xml:lang="nob">"public school-av"</span>. Elena ådå ulmutjijda oahpástuváj, ienemusát slumman, Callejonan, gånnå skåvllå la. Oattjoj ållo rádnajt ålles væráldis. Suv mielas lidjin riek hávsskes ulmutja Cabaretean. Gå sån lij scooterijn mannamin, tjuorvudin ulmutja sunji "Hola Elena!", jali dåssju "Elena!". Buoragit Elena mujttá gå hotella biebbmodahkke sidáj sunji juojddá vaddet. Ráktsa lij, mij lij nav njálgge gadtsat juska lij moaodda váhko ålggorijkan læhkám. Elena ávttji nuorajt ålggorijkkaj manátjit, ållagasj å-lánndaj. Suv mielas la buorre ådå muossádimijt návddahit. Vuojnnet ietjá væráldav, gånnå divna ij la sammiláhkáj juohkka sajen. Vuojnnet ietjá kultuvrav, dagu dal goalmát væráldav. Elena nubbe niehko aj guodtjasij. Surffit. Valla diedon vierttij aj låhkåt eksámajda, tjálálasj ja njálmálasj eksámajda. Gå dajt lij tjadádam, buorre árvvomihtoj, vuolgij biejves bájtádum næjttso sijddaj, javlav ávvudalátjit.</p>
+<p>Sijdan, Vuonan.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Niehko guodtjasij"</span> på Facebook</p>
+</body></document>

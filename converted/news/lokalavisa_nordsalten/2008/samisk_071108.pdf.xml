@@ -1,48 +1,12 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Aktan julevsáme oahppamnævoj diehti</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Ingar" lastname="Skogvold" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2008</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>223</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_071108.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Ingar N. SkogvoldJårggålibme: Divte Media AS</p>
-    <p><em type="bold">j</em> </p>
-    <p>fálaldagáv oadtjot ja giela árvov nannit.</p>
-    <p>28. Stuorradiggediedádusán Sámepolitihkka (2007-2008), ráddidus tjalmostahttá sierraláhkáj man ájnas le sámegielav almulasj háldadusán ja dievnnumin nannit. Ráddidus le bivddám sámedikkev aktisasjbargguj sámegiela doajmmaplánav buvtátjit, vaj vuojnni ållesvuodav udnásj bargos mij viertti tjadáduvvat sámegielajn. Vaj sámegiella galggá bisoduvvat viesso giellan, giella viertti dåjmalattjat aneduvvat. Jus galggap dájna vuorbástuvvát de le dárbbo fálaldagájs sámegiellaj mánájgárdijn ja skåvlåjn, ja jut dile hiebaduvvi dasi. Guokta jage máhtudahkalåpptima álgo mannela li ilá binná oahppogirje/ oahpponævo daj gålmmå sámegielajn. Åhpaduslihtto miejnni sáme oahpponævojn stuorámus mærráj bierriji liehket sæmmi ævto gå oahpponævo girjjedárogiellaj ja ådådárogiellaj. Divtasvuona Åhpaduslihto njunnjusj, Odd N. Jensen, sávvá dájna</p>
-    <p>barggat julevsáme oahppogirjij/ oahpponævoj buvtadimijn, mij sjaddá julevsáme álmmugij viehka ájnas.</p>
-    <p>Sámedigge oajvvát Ájluovta skåvllå Divtasvuonan galggá julevsáme guovlo ressurssaskåvllå liehket. Dan diehti Sámedigge ájggu 2 millijåvnå gæhttjalimprosjæktaj juollodit. Skåvllå oattjoj 70 000 kråvnå åvdebut dán tjavtja plánitjit ressurssaskåvlå tjadádimev. Ressurssaskåvllå galggá julevsáme oahpponævojt buvtadit ja fállat guhkásåhpadimev julevsámegiellaj. Åhpadusnævo galggi aj juogeduvvat web-bielen.</p>
-    <p>Manenagi ájggu Ájluovta skåvllå fállat åhpadusgárvvidusájt sáme ássjij birra ietjá vuodoskåvlåjda ja åvddånahttet aktisasjbarggoprosjevtajt vuodoskåvlåj svieriga bielen. Ájluovta skåvllå le guovtekultuvralasj, dárogielajn ja sámegielajn sæmmiárvvusasj åhpadusgiellan. Skåvlån li 102 oahppe skåvllåjage 2007/2008, ja skåvllå le sihke mánáj- ja nuorajskåvllå. Skåvlån li 11 klássa, gånnå 8 li dárogielak ja 3</p>
-    <p><em type="italic">Divtasvuona Åhpaduslihto njunnjusj, Odd N.</em> <em type="italic">Jensen.</em> </p>
-    <p><em type="bold">j</em> </p>
-    <p><em type="bold">jj</em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Aktan julevsáme oahppamnævoj diehti</title><genre code="news"/><author><person firstname="Ingar" lastname="Skogvold" sex="m" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2008</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>223</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_071108.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Ingar N. SkogvoldJårggålibme: Divte Media AS</p>
+<p><em type="bold">j</em> </p>
+<p>fálaldagáv oadtjot ja giela árvov nannit.</p>
+<p>28. Stuorradiggediedádusán Sámepolitihkka (2007-2008), ráddidus tjalmostahttá sierraláhkáj man ájnas le sámegielav almulasj háldadusán ja dievnnumin nannit. Ráddidus le bivddám sámedikkev aktisasjbargguj sámegiela doajmmaplánav buvtátjit, vaj vuojnni ållesvuodav udnásj bargos mij viertti tjadáduvvat sámegielajn. Vaj sámegiella galggá bisoduvvat viesso giellan, giella viertti dåjmalattjat aneduvvat. Jus galggap dájna vuorbástuvvát de le dárbbo fálaldagájs sámegiellaj mánájgárdijn ja skåvlåjn, ja jut dile hiebaduvvi dasi. Guokta jage máhtudahkalåpptima álgo mannela li ilá binná oahppogirje/ oahpponævo daj gålmmå sámegielajn. Åhpaduslihtto miejnni sáme oahpponævojn stuorámus mærráj bierriji liehket sæmmi ævto gå oahpponævo girjjedárogiellaj ja ådådárogiellaj. Divtasvuona Åhpaduslihto njunnjusj, Odd N. Jensen, sávvá dájna</p>
+<p>barggat julevsáme oahppogirjij/ oahpponævoj buvtadimijn, mij sjaddá julevsáme álmmugij viehka ájnas.</p>
+<p>Sámedigge oajvvát Ájluovta skåvllå Divtasvuonan galggá julevsáme guovlo ressurssaskåvllå liehket. Dan diehti Sámedigge ájggu 2 millijåvnå gæhttjalimprosjæktaj juollodit. Skåvllå oattjoj 70 000 kråvnå åvdebut dán tjavtja plánitjit ressurssaskåvlå tjadádimev. Ressurssaskåvllå galggá julevsáme oahpponævojt buvtadit ja fállat guhkásåhpadimev julevsámegiellaj. Åhpadusnævo galggi aj juogeduvvat web-bielen.</p>
+<p>Manenagi ájggu Ájluovta skåvllå fállat åhpadusgárvvidusájt sáme ássjij birra ietjá vuodoskåvlåjda ja åvddånahttet aktisasjbarggoprosjevtajt vuodoskåvlåj svieriga bielen. Ájluovta skåvllå le guovtekultuvralasj, dárogielajn ja sámegielajn sæmmiárvvusasj åhpadusgiellan. Skåvlån li 102 oahppe skåvllåjage 2007/2008, ja skåvllå le sihke mánáj- ja nuorajskåvllå. Skåvlån li 11 klássa, gånnå 8 li dárogielak ja 3</p>
+<p><em type="italic">Divtasvuona Åhpaduslihto njunnjusj, Odd N.</em> <em type="italic">Jensen.</em> </p>
+<p><em type="bold">j</em> </p>
+<p><em type="bold">jj</em> </p>
+</body></document>

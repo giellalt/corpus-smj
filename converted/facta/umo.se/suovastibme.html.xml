@@ -1,81 +1,37 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>610</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Suovastibme</origFileName>
-    <parallel_text xml:lang="fin" location="tupakointi.html"/>
-    <parallel_text xml:lang="fit" location="polttaminen-eli-tupakointi.html"/>
-    <parallel_text xml:lang="sma" location="rievhkestimmie.html"/>
-    <parallel_text xml:lang="sme" location="borgguheapmi.html"/>
-    <parallel_text xml:lang="swe" location="rokning.html"/>
-    <parallel_text location="tyja.html" xml:lang="rmu"/>
-    <parallel_text location="te-phes-duhano.html" xml:lang="rmy-rka"/>
-    <parallel_text location="thuviba.html" xml:lang="rmf"/>
-    <parallel_text location="kana-pel-pe-duxano.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="pijbe-cigare.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Suovastibme</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title">Suovastibme</p>
-    <p>Gå dubágajt suovas de njammá moadda tuvsán sälggás ábnnasa. Suovastibme máhttá båhtusav vaddet umasslágásj vahágijda ja dávdajda, ja bájken fert nubbe ulmusj gut suovas jábmá árabut gå majt sån lij dahkam váni suovastime dagi. Duodden dasi li dubága divrrasa, ja máhttá dahkat vaj tjásmagisájt, nievrep väjov ja binnep seksuálahálov oadtju. Huoman la dábálasj suovastahtjá danen gå sihtá årrot buossjen jali fávrron årrot.</p>
-    <p>Suoddjitjit nuorra ulmutjijt vádájs dubágajt adnet, de gávnnu láhka gånnå l tjáledum ij la loahpe dubágajt oasstet jus ij la 18 jage ållim.</p>
-    <p type="title">Dubága</p>
-    <p>Máhttá suovastit dubágajt sigarehtajn, sigarrajn, sigarillajn, bijpajn ja tjáhtjebijbájn. Sigarehta li dábálabmusa. Sigarehta e val sisaneda dubágajt, suovan tsahkkidum sigarehtas gávnnuji bájken 4000 kemidjalasj ábnnasa. Dajs moatte máhtti bårredávdav dahkat. Vádálamos ábnnasa li:</p>
-    <list>
-      <p type="listitem">Nikotijnna, ábnas mij la val loabedum dubágajn ja buktagijn ma galggi viehkedit sijájt gudi sihti suovastimes jali snuktimis hiejttet. Nikotijnna la nåv vádálasj vaj jus oattjoj nikotijnav nieljet sigarehtas njuolgga várráj de luluj jábmet.</p>
-      <p type="listitem"><em type="italic">Cyanväte </em>, sälggás gássa. </p>
-      <p type="listitem">Kolmonoxid, sälggás gássa mij iehtjádij siegen gávnnu bijllabátsidisgásajn.</p>
-      <p type="listitem">Darvve, mij sisanet moattelágásj ábnnasijt, dajs muhtema máhtti bårredávdav dahkat. Ietján gå sigarehtajn de darvve aneduvvá iehtjádij siegen asfaltan ja bájnojn.</p>
-      <p type="listitem">Ietjá vádálasj ábnnasijda buojkulvis la slidja, <em type="italic">kadmium </em>, <em type="italic">ammoniak </em>, <em type="italic">bensen </em>ja radioaktijvalasj <em type="italic">polonium </em>. </p>
-    </list>
-    <p type="title">Manen suovastahtjá?</p>
-    <p>Vuostasj bále gå suovas la dábálamos rádnaj siegen. Sihtá gähttjalit gåktu smáhkku ja gåktu dåbddu. Márjju adná dav buossjen. Vallak ij aktak ane buoragit smáhkku vuostasj bále.</p>
-    <p>Muhtema suovasti vuojnnutjit jali dåbddutjit vuorrasabbon, jali iesjrádugattja. Máhttá aj dåbddut degu álkkep la ietjá ulmutjij säbrástallat, gudi aj suovasti.</p>
-    <p type="title">Ienemusá diehti dat la vádálasj.</p>
-    <p>Ienemusá diehti vádálasj la suovastit. Álkke la ájádallat dávdajt ij åttjudalá, jali hiejttet galggá åvddål gå vádálasj sjaddá.</p>
-    <p>Jus suovastahtjam de gávnnuji muhtem båhtusa majt máhttá ielvvet åbbå ruvva, buojkulvissan nievrep väjov oadtju. Rumáj ij máhte ållesláhkáj ilmev adnet gå vuojŋŋá jus suovas, ja nikotijnna mij gávnnu dubágajn dahká tsåhke ruvábut svargat.</p>
-    <p>Dadi árabut viessomin suovastahtjá, dadi stuoráp máhttelisvuoda li dubágajs tjanáduvvat ja oattjotjit vahágijt ja dávdajt suovastimes. Åvddål gå gähppá li ållåsit åvdeduvvam de li sierraláhkáj rasje suovvaj. Vájku ij galga máhttet dubágajt åttjudit jus ij la 18 jage dävddám, de moatte gudi li nuorabu suovastahtji.</p>
-    <p type="title">Passijvalasj suovastibme</p>
-    <p>Jus la lahkusin ulmutjij gudi suovasti, buojkulvissan la sämmi lanján, de vuojŋa sisi gásajt ma gávnnuji suovan. Gåhtjudallá passijvalasj suovastibmen. Danen gå passijvalasj suovastibme aj la vádálasj de suovastibme l buorgodum bårråmsajijn, káfeajn, barggosajijn ja almulasj sajijn.</p>
-    <p type="title">Hiejttet suovastimes</p>
-    <p>Álkket la dubágajs tjanáduvvat. Val måttij sigarehtaj maŋŋela de vuojŋŋama máhtti nikotijnas tjanáduvvat Dubágajs tjanádum merkaj rumáj la hárjjánam nikotijnav oadtjot, vájvve sjaddá jus ij suovasta, nåv gåhtjoduvvam abstinänssavájvven. Le dåmadimvuohke aj masi dähppu, dáhpen sjaddá suovastit.</p>
-    <p>Vájvve l hiejttet suovastimes, ihka vil sihtá dassta bessat. Valla l máhttelis, ja dadi árabut suovastimes häjttá dadi buorep la. Ienemus vahága ja dávda majt suovastibme vaddá, máhtti gáhtot jus suovastimes häjttá.</p>
-    <p type="title">Buorre oare ij suovastit.</p>
-    <list>
-      <p type="listitem">Biedniga iehtjádijda, danen gå l divras suovastit.</p>
-      <p type="listitem">Jus ij suovasta de l buorep vädjo.</p>
-      <p type="listitem">Varrásap la váni sigarehtaj dagi, dálla ja boahtteájgen.</p>
-      <p type="listitem">Oattjosj má guhkep viessomav jus ij suovasta.</p>
-      <p type="listitem">Ij dárbaha äjgádijt ja iehtjádijt suhttadit ja håjen dahkat.</p>
-      <p type="listitem">Ij dárbaha tjadnasin årrot ja dåbddåt abstinänssavájvijt degu suovastimhálov, stressiduvvat jali ráfeduvvat.</p>
-      <p type="listitem">Biktasa e happsijda suovvan.</p>
-      <p type="listitem">Ij dárbaha nievres vuojŋadagáv jali visská bánijt oadtjot.</p>
-      <p type="listitem">Jus ij la 18 jage ållim de máhttá suohttasap dagojt dahkat ietjas ájgijn gå gähttjalit dubágajt åttjudit.</p>
-      <p type="listitem">Ij dárbaha joarmmot åvddåájgen.</p>
-      <p type="listitem">Dubáksáddjim bäjsstá birrasav moatteláhkáj ja sáddjára sälkkás muorrodimnävojs vahágahteduvvi.</p>
-    </list>
-    <p>Juorrulit jus galggá suovastit vaj ij, de máhttá gähttjalit listajt ma li ienep ja binnep ávkálattja tjállet. Máhtti smávva dåjma ja stuorra dåjma, ma guosski ietjas viessomij, ietjá ulmutjijda, birrasij ja iehtjádijda. Le ietjas lista, ja iesj mierret makkirav galggá tjuovvot, gåktu sihtá suovastimijn dahkat.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>605</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Suovastibme</origFileName><parallel_text xml:lang="fin" location="tupakointi.html"/><parallel_text xml:lang="fit" location="polttaminen-eli-tupakointi.html"/><parallel_text xml:lang="sma" location="rievhkestimmie.html"/><parallel_text xml:lang="sme" location="borgguheapmi.html"/><parallel_text xml:lang="swe" location="rokning.html"/><parallel_text location="tyja.html" xml:lang="rmu"/><parallel_text location="te-phes-duhano.html" xml:lang="rmy-rka"/><parallel_text location="thuviba.html" xml:lang="rmf"/><parallel_text location="kana-pel-pe-duxano.html" xml:lang="rmy-rlo"/><parallel_text location="pijbe-cigare.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Suovastibme</p>
+<p type="title">Suovastibme</p>
+<p>Gå dubágajt suovas de njammá moadda tuvsán sälggás ábnnasa. Suovastibme máhttá båhtusav vaddet umasslágásj vahágijda ja dávdajda, ja bájken fert nubbe ulmusj gut suovas jábmá árabut gå majt sån lij dahkam váni suovastime dagi. Duodden dasi li dubága divrrasa, ja máhttá dahkat vaj tjásmagisájt, nievrep väjov ja binnep seksuálahálov oadtju. Huoman la dábálasj suovastahtjá danen gå sihtá årrot buossjen jali fávrron årrot.</p>
+<p>Suoddjitjit nuorra ulmutjijt vádájs dubágajt adnet, de gávnnu láhka gånnå l tjáledum ij la loahpe dubágajt oasstet jus ij la 18 jage ållim.</p>
+<p type="title">Dubága</p>
+<p>Máhttá suovastit dubágajt sigarehtajn, sigarrajn, sigarillajn, bijpajn ja tjáhtjebijbájn. Sigarehta li dábálabmusa. Sigarehta e val sisaneda dubágajt, suovan tsahkkidum sigarehtas gávnnuji bájken 4000 kemidjalasj ábnnasa. Dajs moatte máhtti bårredávdav dahkat. Vádálamos ábnnasa li:</p>
+<list><p type="listitem">Nikotijnna, ábnas mij la val loabedum dubágajn ja buktagijn ma galggi viehkedit sijájt gudi sihti suovastimes jali snuktimis hiejttet. Nikotijnna la nåv vádálasj vaj jus oattjoj nikotijnav nieljet sigarehtas njuolgga várráj de luluj jábmet.</p>
+<p type="listitem"><em type="italic">Cyanväte </em>, sälggás gássa. </p>
+<p type="listitem">Kolmonoxid, sälggás gássa mij iehtjádij siegen gávnnu bijllabátsidisgásajn.</p>
+<p type="listitem">Darvve, mij sisanet moattelágásj ábnnasijt, dajs muhtema máhtti bårredávdav dahkat. Ietján gå sigarehtajn de darvve aneduvvá iehtjádij siegen asfaltan ja bájnojn.</p>
+<p type="listitem">Ietjá vádálasj ábnnasijda buojkulvis la slidja, <em type="italic">kadmium </em>, <em type="italic">ammoniak </em>, <em type="italic">bensen </em>ja radioaktijvalasj <em type="italic">polonium </em>. </p>
+</list><p type="title">Manen suovastahtjá?</p>
+<p>Vuostasj bále gå suovas la dábálamos rádnaj siegen. Sihtá gähttjalit gåktu smáhkku ja gåktu dåbddu. Márjju adná dav buossjen. Vallak ij aktak ane buoragit smáhkku vuostasj bále.</p>
+<p>Muhtema suovasti vuojnnutjit jali dåbddutjit vuorrasabbon, jali iesjrádugattja. Máhttá aj dåbddut degu álkkep la ietjá ulmutjij säbrástallat, gudi aj suovasti.</p>
+<p type="title">Ienemusá diehti dat la vádálasj.</p>
+<p>Ienemusá diehti vádálasj la suovastit. Álkke la ájádallat dávdajt ij åttjudalá, jali hiejttet galggá åvddål gå vádálasj sjaddá.</p>
+<p>Jus suovastahtjam de gávnnuji muhtem båhtusa majt máhttá ielvvet åbbå ruvva, buojkulvissan nievrep väjov oadtju. Rumáj ij máhte ållesláhkáj ilmev adnet gå vuojŋŋá jus suovas, ja nikotijnna mij gávnnu dubágajn dahká tsåhke ruvábut svargat.</p>
+<p>Dadi árabut viessomin suovastahtjá, dadi stuoráp máhttelisvuoda li dubágajs tjanáduvvat ja oattjotjit vahágijt ja dávdajt suovastimes. Åvddål gå gähppá li ållåsit åvdeduvvam de li sierraláhkáj rasje suovvaj. Vájku ij galga máhttet dubágajt åttjudit jus ij la 18 jage dävddám, de moatte gudi li nuorabu suovastahtji.</p>
+<p type="title">Passijvalasj suovastibme</p>
+<p>Jus la lahkusin ulmutjij gudi suovasti, buojkulvissan la sämmi lanján, de vuojŋa sisi gásajt ma gávnnuji suovan. Gåhtjudallá passijvalasj suovastibmen. Danen gå passijvalasj suovastibme aj la vádálasj de suovastibme l buorgodum bårråmsajijn, káfeajn, barggosajijn ja almulasj sajijn.</p>
+<p type="title">Hiejttet suovastimes</p>
+<p>Álkket la dubágajs tjanáduvvat. Val måttij sigarehtaj maŋŋela de vuojŋŋama máhtti nikotijnas tjanáduvvat Dubágajs tjanádum merkaj rumáj la hárjjánam nikotijnav oadtjot, vájvve sjaddá jus ij suovasta, nåv gåhtjoduvvam abstinänssavájvven. Le dåmadimvuohke aj masi dähppu, dáhpen sjaddá suovastit.</p>
+<p>Vájvve l hiejttet suovastimes, ihka vil sihtá dassta bessat. Valla l máhttelis, ja dadi árabut suovastimes häjttá dadi buorep la. Ienemus vahága ja dávda majt suovastibme vaddá, máhtti gáhtot jus suovastimes häjttá.</p>
+<p type="title">Buorre oare ij suovastit.</p>
+<list><p type="listitem">Biedniga iehtjádijda, danen gå l divras suovastit.</p>
+<p type="listitem">Jus ij suovasta de l buorep vädjo.</p>
+<p type="listitem">Varrásap la váni sigarehtaj dagi, dálla ja boahtteájgen.</p>
+<p type="listitem">Oattjosj má guhkep viessomav jus ij suovasta.</p>
+<p type="listitem">Ij dárbaha äjgádijt ja iehtjádijt suhttadit ja håjen dahkat.</p>
+<p type="listitem">Ij dárbaha tjadnasin årrot ja dåbddåt abstinänssavájvijt degu suovastimhálov, stressiduvvat jali ráfeduvvat.</p>
+<p type="listitem">Biktasa e happsijda suovvan.</p>
+<p type="listitem">Ij dárbaha nievres vuojŋadagáv jali visská bánijt oadtjot.</p>
+<p type="listitem">Jus ij la 18 jage ållim de máhttá suohttasap dagojt dahkat ietjas ájgijn gå gähttjalit dubágajt åttjudit.</p>
+<p type="listitem">Ij dárbaha joarmmot åvddåájgen.</p>
+<p type="listitem">Dubáksáddjim bäjsstá birrasav moatteláhkáj ja sáddjára sälkkás muorrodimnävojs vahágahteduvvi.</p>
+</list><p>Juorrulit jus galggá suovastit vaj ij, de máhttá gähttjalit listajt ma li ienep ja binnep ávkálattja tjállet. Máhtti smávva dåjma ja stuorra dåjma, ma guosski ietjas viessomij, ietjá ulmutjijda, birrasij ja iehtjádijda. Le ietjas lista, ja iesj mierret makkirav galggá tjuovvot, gåktu sihtá suovastimijn dahkat.</p>
+</body></document>

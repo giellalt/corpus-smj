@@ -1,73 +1,31 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>401</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Giella/Same-bajkkenama</origFileName>
-    <parallel_text xml:lang="nob" location="samiske-stedsnavn.html"/>
-    <parallel_text xml:lang="sma" location="saemien-sijjienommh.html"/>
-    <parallel_text xml:lang="sme" location="samegiel-baikenamat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sáme bájkkenamá / Giella / Sámedigge - Sametinget</p>
-    <p type="title">Sáme bájkkenamá</p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="eng">President</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="sme">Ávjovárri</p>
-    <p>Bájkkenammaláhka guosská ålles sáme giellaguovlluj. Bájkkenammaláhka galggá sihkarasstet sáme bájkkenamá li nasjonála lágaj ja rijkajgasskasasj sjiehtadusáj ja konvensjåvnåj milta. Gájbbádusá li namma galggá riekta tjáledum ja riekta sáme merkaj.</p>
-    <list>
-      <p type="listitem">Mærrádusáj milta galggá sáme namma agev vuostatjin tjuodtjot sáme giellaháldadimguovlon. Njuolgadustjállaginn oajvvaduvvá aj dibddet suohkanav válljit jus sáme namma galggá vuostatjin tjuodtjot aj dakkir sajijn ma ælla sáme giellaháldadimguovlos oassen.</p>
-      <p type="listitem">Sáme bájkkenamá ma aneduvvi ulmutjijs gudi stuovvásit bajken årru jali li æladusá baktu bájkkaj dábálattjat tjanáduvvam, galggi almulasj oajválattjajs aneduvvat galbajn, kártajn jnv (§9).</p>
-    </list>
-    <p>
-      <em type="bold">Nammakonsulænntadievnastus: </em>
-    </p>
-    <p>Bájkkenammalága § 11 vaddá Sámediggáj fámov sáme bájkkenamma konsulentajt nammadit.</p>
-    <p>Nammakonsulænntadievnastus ásaduváj jagen 1991 gå bájkkenammaláhka doajmmaj bådij Vuonan. Moadda bájkkenammakonsulænntadievnastusá ásaduvvin, duola dagu sáme ja suomagiela namáj gáktuj.</p>
-    <p>Nammakonsulenta li fágalasj vásstediddje árvvalusájda makkir tjállemvuogijt oajvvadi almulasj aktijvuodajn adnet.</p>
-    <p>Sáme guovllo Vuonan le bájkkenammalága baktu gielalattjat gålmå oassáj juogeduvvam, váj oarjjelsáme guovlon bájkkenamájt oarjjelsáme tjállemvuoge milta normeri, julevsámegiela guovlon julevsáme tjállemvuogev adni ja nuorttasámegiela guovlon vas nuorttasáme tjállemvuogev.</p>
-    <p>Nuorttasámegiella:Jonny Inge Nutti</p>
-    <p>Julevsámegiella: Kåre Tjihkkom</p>
-    <p>Oarjjelsámegiella: Ole Henrik Magga</p>
-    <p>Bájkkenammaláhka.</p>
-    <p>
-      <em type="bold">Ássjegiehtadallam mij sáme namájda gullu: </em>
-    </p>
-    <list>
-      <p type="listitem">Muhtem nammaássjev bajet bájkkenammalága milta. § 5 vuostasj ladás subtsas guhtimusj bæssá nammaássjev bajedit.</p>
-      <p type="listitem">Ássje mierrediddje ásadussaj sáddiduvvá (§ 5 nuppet ja goalmát ladás subtsas mij mierrediddje ásadus le makkár namáj gáktuj).</p>
-      <p type="listitem">Mierrediddje ásadus ássjev gárvet gájkka diedoj milta ma gávnnuji.</p>
-      <p type="listitem">Ássje guláskuddamij sáddiduvvá guovtijn mánujn gulákuddamájggemierijn.</p>
-      <p type="listitem">Suohkan bærrájgæhttjá jut gájka gejn le guláskuddamriektá bessi javllamusáv buktet ja sáddi ássjev sáme nammakonsulænntadievnastussaj tjállemvuoge oajvvadusá diehti.</p>
-      <p type="listitem">Nammakonsulænnta viertti guovte máno duogen ássjev mierrediddje ásadussaj sáddit mij de mærrádusáv dahká. Mærrádus suohkanij sáddiduvvá, mij mærrádusáv almot lága § 6 milta (diedoj gujttimvejulasjvuoda birra § 10 milta). Mærrádus sáddiduvvá aj sáme nammakonsulænntadievnastussaj, ietjá ásadusájda ma galggi namáv adnet ja guovdásj bájkkenammaregisstarij Stáhta kárttadåjmadagá guovllokontåvrån.</p>
-    </list>
-    <p>
-      <em type="bold">Sáme bájkkenamá nehtan </em>
-    </p>
-    <p>Stáhta Kárttadåjmadahka le ådå dievnastusájt åvddånahttemin nehtan, ja dálla bæssá sáme bájkkenamájt åhtsåt nehta baktu. Norgesglasset le kártta gånnå bæssá åhtsåt. Besa navigerit kártajn, adressajt åhtsåt, koordináhtatjoahkkájt transformerit ja zoomit sisi ja ålgus gåsi de sidá. Máhtá åhtsåt ienep gå 450 000 bájkkenamá ja 23 000 sáme bájkkenamá Vuonan ja sæmmi båttå namáv kárttaj oadtjot. Vijdábut máhtá gahttunadressajt Vuonan åhtsåt ja dajt unnep kártatjin vuojnnet. Norgesglasset ådå versjåvnån ja kártta skåvlån li betaversjåvnå, dat merkaj dájt li ájn åvddånahttemin, ja hábbmim ja funksjonálitehtta soajttá hæhkkat rievddat.</p>
-    <p>Norgesglasset ådå versjåvnnå</p>
-    <p>Kártta skåvlån betaversjåvnnå</p>
-    <p>
-      <span type="quote">Sámedikken le ulmme sámegielajt nannit vaj sjaddi luondulasj oassen vuona almulasjvuodas.</span>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>401</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Giella/Same-bajkkenama</origFileName><parallel_text xml:lang="nob" location="samiske-stedsnavn.html"/><parallel_text xml:lang="sma" location="saemien-sijjienommh.html"/><parallel_text xml:lang="sme" location="samegiel-baikenamat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sáme bájkkenamá / Giella / Sámedigge - Sametinget</p>
+<p type="title">Sáme bájkkenamá</p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="eng">President</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="sme">Ávjovárri</p>
+<p>Bájkkenammaláhka guosská ålles sáme giellaguovlluj. Bájkkenammaláhka galggá sihkarasstet sáme bájkkenamá li nasjonála lágaj ja rijkajgasskasasj sjiehtadusáj ja konvensjåvnåj milta. Gájbbádusá li namma galggá riekta tjáledum ja riekta sáme merkaj.</p>
+<list><p type="listitem">Mærrádusáj milta galggá sáme namma agev vuostatjin tjuodtjot sáme giellaháldadimguovlon. Njuolgadustjállaginn oajvvaduvvá aj dibddet suohkanav válljit jus sáme namma galggá vuostatjin tjuodtjot aj dakkir sajijn ma ælla sáme giellaháldadimguovlos oassen.</p>
+<p type="listitem">Sáme bájkkenamá ma aneduvvi ulmutjijs gudi stuovvásit bajken årru jali li æladusá baktu bájkkaj dábálattjat tjanáduvvam, galggi almulasj oajválattjajs aneduvvat galbajn, kártajn jnv (§9).</p>
+</list><p><em type="bold">Nammakonsulænntadievnastus: </em></p>
+<p>Bájkkenammalága § 11 vaddá Sámediggáj fámov sáme bájkkenamma konsulentajt nammadit.</p>
+<p>Nammakonsulænntadievnastus ásaduváj jagen 1991 gå bájkkenammaláhka doajmmaj bådij Vuonan. Moadda bájkkenammakonsulænntadievnastusá ásaduvvin, duola dagu sáme ja suomagiela namáj gáktuj.</p>
+<p>Nammakonsulenta li fágalasj vásstediddje árvvalusájda makkir tjállemvuogijt oajvvadi almulasj aktijvuodajn adnet.</p>
+<p>Sáme guovllo Vuonan le bájkkenammalága baktu gielalattjat gålmå oassáj juogeduvvam, váj oarjjelsáme guovlon bájkkenamájt oarjjelsáme tjállemvuoge milta normeri, julevsámegiela guovlon julevsáme tjállemvuogev adni ja nuorttasámegiela guovlon vas nuorttasáme tjállemvuogev.</p>
+<p>Nuorttasámegiella:Jonny Inge Nutti</p>
+<p>Julevsámegiella: Kåre Tjihkkom</p>
+<p>Oarjjelsámegiella: Ole Henrik Magga</p>
+<p>Bájkkenammaláhka.</p>
+<p><em type="bold">Ássjegiehtadallam mij sáme namájda gullu: </em></p>
+<list><p type="listitem">Muhtem nammaássjev bajet bájkkenammalága milta. § 5 vuostasj ladás subtsas guhtimusj bæssá nammaássjev bajedit.</p>
+<p type="listitem">Ássje mierrediddje ásadussaj sáddiduvvá (§ 5 nuppet ja goalmát ladás subtsas mij mierrediddje ásadus le makkár namáj gáktuj).</p>
+<p type="listitem">Mierrediddje ásadus ássjev gárvet gájkka diedoj milta ma gávnnuji.</p>
+<p type="listitem">Ássje guláskuddamij sáddiduvvá guovtijn mánujn gulákuddamájggemierijn.</p>
+<p type="listitem">Suohkan bærrájgæhttjá jut gájka gejn le guláskuddamriektá bessi javllamusáv buktet ja sáddi ássjev sáme nammakonsulænntadievnastussaj tjállemvuoge oajvvadusá diehti.</p>
+<p type="listitem">Nammakonsulænnta viertti guovte máno duogen ássjev mierrediddje ásadussaj sáddit mij de mærrádusáv dahká. Mærrádus suohkanij sáddiduvvá, mij mærrádusáv almot lága § 6 milta (diedoj gujttimvejulasjvuoda birra § 10 milta). Mærrádus sáddiduvvá aj sáme nammakonsulænntadievnastussaj, ietjá ásadusájda ma galggi namáv adnet ja guovdásj bájkkenammaregisstarij Stáhta kárttadåjmadagá guovllokontåvrån.</p>
+</list><p><em type="bold">Sáme bájkkenamá nehtan </em></p>
+<p>Stáhta Kárttadåjmadahka le ådå dievnastusájt åvddånahttemin nehtan, ja dálla bæssá sáme bájkkenamájt åhtsåt nehta baktu. Norgesglasset le kártta gånnå bæssá åhtsåt. Besa navigerit kártajn, adressajt åhtsåt, koordináhtatjoahkkájt transformerit ja zoomit sisi ja ålgus gåsi de sidá. Máhtá åhtsåt ienep gå 450 000 bájkkenamá ja 23 000 sáme bájkkenamá Vuonan ja sæmmi båttå namáv kárttaj oadtjot. Vijdábut máhtá gahttunadressajt Vuonan åhtsåt ja dajt unnep kártatjin vuojnnet. Norgesglasset ådå versjåvnån ja kártta skåvlån li betaversjåvnå, dat merkaj dájt li ájn åvddånahttemin, ja hábbmim ja funksjonálitehtta soajttá hæhkkat rievddat.</p>
+<p>Norgesglasset ådå versjåvnnå</p>
+<p>Kártta skåvlån betaversjåvnnå</p>
+<p><span type="quote">Sámedikken le ulmme sámegielajt nannit vaj sjaddi luondulasj oassen vuona almulasjvuodas.</span></p>
+</body></document>

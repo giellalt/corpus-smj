@@ -1,47 +1,11 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title> Divtasvuona suohkan/Tysfjord kommune</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Geir" lastname="Smelror" sex="m" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>136</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/-divtasvuona-suohkan-tysfjord-kommune.10113</origFileName>
-    <parallel_text xml:lang="nob" location="tysfjord_kommune_090912.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Dievnastusguojmmebargge Unn-Mari H. Gerhardsen telefåvnåv vásstet sihke dárogiellaj ja sámegiellaj.</p>
-    <p type="title">-	Divtasvuona suohkan/Tysfjord kommune</p>
-    <p>Muhttijn gå Divtasvuona suohkanij riŋŋgu, de væhttsás nissun vásstet: - Divtasvuona suohkan/Tysfjord kommune. De le dievnastusguojmmebargge Unn-Mari H. Gerhardsen barggamin telefåvnnåváktan duostudagán.</p>
-    <p>Gå gatjádip man diehti suohkanin e agev telefåvnåv duosto goappátja gielajda, sámegiellaj ja dárogiellaj, vásstet oajvve dievnastusåssudagás Ante Martin Eriksen.</p>
-    <p>– Lip barggamin ássjijn, ja muv åssudagán galggap giellaåhpadimev álgadit vaj gájka oahppi åvddånbuktet suohkanav goappátja gielajda, dan diehti gå suohkan le oasse sáme giellaguovlos.</p>
-    <p>- Eriksen subtsas suohkana giellakonsulænnta Britt-Inger Tuorda sjaddá oasse dán bargos.</p>
-    <p>Suohkana háldadusoajvve, Konrad Sætra moalget tjavtja birán le dát sajen ja sivva manen ij la åvddåla dagáduvvam, le barggedille dievnastusåssudagán.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"-	Divtasvuona suohkan/Tysfjord kommune"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title> Divtasvuona suohkan/Tysfjord kommune</title><genre code="news"/><author><person firstname="Geir" lastname="Smelror" sex="m" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2012</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>136</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/no/-divtasvuona-suohkan-tysfjord-kommune.10113</origFileName><parallel_text xml:lang="nob" location="tysfjord_kommune_090912.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Dievnastusguojmmebargge Unn-Mari H. Gerhardsen telefåvnåv vásstet sihke dárogiellaj ja sámegiellaj.</p>
+<p type="title">-	Divtasvuona suohkan/Tysfjord kommune</p>
+<p>Muhttijn gå Divtasvuona suohkanij riŋŋgu, de væhttsás nissun vásstet: - Divtasvuona suohkan/Tysfjord kommune. De le dievnastusguojmmebargge Unn-Mari H. Gerhardsen barggamin telefåvnnåváktan duostudagán.</p>
+<p>Gå gatjádip man diehti suohkanin e agev telefåvnåv duosto goappátja gielajda, sámegiellaj ja dárogiellaj, vásstet oajvve dievnastusåssudagás Ante Martin Eriksen.</p>
+<p>– Lip barggamin ássjijn, ja muv åssudagán galggap giellaåhpadimev álgadit vaj gájka oahppi åvddånbuktet suohkanav goappátja gielajda, dan diehti gå suohkan le oasse sáme giellaguovlos.</p>
+<p>- Eriksen subtsas suohkana giellakonsulænnta Britt-Inger Tuorda sjaddá oasse dán bargos.</p>
+<p>Suohkana háldadusoajvve, Konrad Sætra moalget tjavtja birán le dát sajen ja sivva manen ij la åvddåla dagáduvvam, le barggedille dievnastusåssudagán.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"-	Divtasvuona suohkan/Tysfjord kommune"</span> på Facebook</p>
+</body></document>

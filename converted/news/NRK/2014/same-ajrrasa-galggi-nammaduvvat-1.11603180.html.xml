@@ -1,58 +1,25 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Sáme ájrrasa galggi nammaduvvat - NRK Sápmi - sámegillii</title>
-    <genre code="news"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>241</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.nrk.no/sapmi/samegillii/same-ajrrasa-galggi-nammaduvvat-1.11603180</origFileName>
-    <parallel_text xml:lang="nob" location="soker-samer-til-tdms-planlegging-1.11603360.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">NRK</p>
-    <p xml:lang="nno">Meny</p>
-    <p>Guovvamánon Divtasvuona, Hábmera ja Stájgo suohkanoajve (STH-nammadus) aktan Sámedikkerádijn tjåhkanin gånnå ságastallam lij varresvuodafálaldagá julevsáme guovlon hiebadahtedum sámij dárboj gáktuj, ja vat ådåsis guovllo medisijnalasj guovdásj (TDMS) ássjijn barggagoahtet.</p>
-    <list>
-      <p type="listitem">
-        <em type="italic">Lågå aj: Guorrasin ådåsis DMSajn barggagoahtet  </em>
-      </p>
-    </list>
-    <p type="title">Sáme ájrrasa nammaduvvi</p>
-    <p>Henrik Olsen, gejna le varresvuodaássjij åvdåsvásstádus Sámedikkeráden subtsas Sámedikkeráde galggá gålmmå bájkálasj sáme ájrrasijt TDMS-barggojuohkusij nammadit.</p>
-    <p>– Mij lip bájkálasj siebrijs gatjádallam gudi dakkir barggojuohkusin bierri liehket, ja sijájs vásstádusáv vuorddep.</p>
-    <p>
-      <em type="italic">Olsen diedet sij li niellja bájkálasj siebrijs gatjádallam. Dá siebre li Divtasvuona demænssasiebrre, Sálto Sámesiebrre, Árran julevsáme guovdásj ja Doajmma Siebrre Julevsábme. </em>
-    </p>
-    <p>– Dá niellja siebre li dán ássjen dåjmalattja læhkám ja tjoahken gåbddudagáv åvdåsti.</p>
-    <p>Ájggemierre vásstedit la sjnjuktjamáno 17. biejve, mij la boahtte mánnodagá.</p>
-    <p>– Gå STH-nammadus boahtte bále tjåhkani, de lip mierredam gev sihtap oajvvadit.</p>
-    <p type="title">TDMS-prosjevtajn joarkket</p>
-    <p>Sámedikkeráde subtsas ælla ájn oajvvadusájt oadtjum, valla javllá Sálto Sámesiebrre sihtá Sámedikkeráde galggá lagábut mandáhtav tjielggit.</p>
-    <p>
-      <em type="italic">– Mijá mielas bierri barggojuogos iesj mandáhtav mierredit. Valla la luondulasj joarkket dajna bargujn mij la juo álgadum, vásstet Olsen. </em>
-    </p>
-    <p type="title">Suohkanoajve ja sáme ájrrasa</p>
-    <p>STH-nammadus aktan gålmmå sáme ájrrasij sjaddá prosjevta barggojuogos.</p>
-    <p>– Valla barggojuogos iesj mierret jus barggojuohkusav galggi stuoredit, duola dagu fáhkamáhtudagájn jali hiebalgis institusjåvnåj, javllá Olsen.</p>
-    <p>Olsen nammat muhtema sávvi Sámedigge galggá dán juohkin oassálasstet, valla jur dát ij Sámediggáj gullu.</p>
-    <p>– Jusska ij Sámediggáj gullu, de máhttep máhtudagájn viehkedit jus sihti.</p>
-    <p type="title">Avtaárvvusasj varresvuohta</p>
-    <p xml:lang="nob">Mer om  Avtaárvvusasj varresvuohta</p>
-    <p type="title" xml:lang="nob">Likeverdige helsetjenester i Nord-Salten</p>
-    <p xml:lang="nob">Mer om  Likeverdige helsetjenester i Nord-Salten</p>
-    <p type="title" xml:lang="sme">Ođđasat</p>
-    <p type="title">Ådåsa julevsábmáj</p>
-    <p type="title" xml:lang="sma">Åarjelsaemiengïelesne</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Sáme ájrrasa galggi nammaduvvat - NRK Sápmi - sámegillii</title><genre code="news"/><author><unknown/></author><wordcount>239</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.nrk.no/sapmi/samegillii/same-ajrrasa-galggi-nammaduvvat-1.11603180</origFileName><parallel_text xml:lang="nob" location="soker-samer-til-tdms-planlegging-1.11603360.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Guovvamánon Divtasvuona, Hábmera ja Stájgo suohkanoajve (STH-nammadus) aktan Sámedikkerádijn tjåhkanin gånnå ságastallam lij varresvuodafálaldagá julevsáme guovlon hiebadahtedum sámij dárboj gáktuj, ja vat ådåsis guovllo medisijnalasj guovdásj (TDMS) ássjijn barggagoahtet.</p>
+<list><p type="listitem"><em type="italic">Lågå aj: Guorrasin ådåsis DMSajn barggagoahtet  </em></p>
+</list><p type="title">Sáme ájrrasa nammaduvvi</p>
+<p>Henrik Olsen, gejna le varresvuodaássjij åvdåsvásstádus Sámedikkeráden subtsas Sámedikkeráde galggá gålmmå bájkálasj sáme ájrrasijt TDMS-barggojuohkusij nammadit.</p>
+<p>– Mij lip bájkálasj siebrijs gatjádallam gudi dakkir barggojuohkusin bierri liehket, ja sijájs vásstádusáv vuorddep.</p>
+<p><em type="italic">Olsen diedet sij li niellja bájkálasj siebrijs gatjádallam. Dá siebre li Divtasvuona demænssasiebrre, Sálto Sámesiebrre, Árran julevsáme guovdásj ja Doajmma Siebrre Julevsábme. </em></p>
+<p>– Dá niellja siebre li dán ássjen dåjmalattja læhkám ja tjoahken gåbddudagáv åvdåsti.</p>
+<p>Ájggemierre vásstedit la sjnjuktjamáno 17. biejve, mij la boahtte mánnodagá.</p>
+<p>– Gå STH-nammadus boahtte bále tjåhkani, de lip mierredam gev sihtap oajvvadit.</p>
+<p type="title">TDMS-prosjevtajn joarkket</p>
+<p>Sámedikkeráde subtsas ælla ájn oajvvadusájt oadtjum, valla javllá Sálto Sámesiebrre sihtá Sámedikkeráde galggá lagábut mandáhtav tjielggit.</p>
+<p><em type="italic">– Mijá mielas bierri barggojuogos iesj mandáhtav mierredit. Valla la luondulasj joarkket dajna bargujn mij la juo álgadum, vásstet Olsen. </em></p>
+<p type="title">Suohkanoajve ja sáme ájrrasa</p>
+<p>STH-nammadus aktan gålmmå sáme ájrrasij sjaddá prosjevta barggojuogos.</p>
+<p>– Valla barggojuogos iesj mierret jus barggojuohkusav galggi stuoredit, duola dagu fáhkamáhtudagájn jali hiebalgis institusjåvnåj, javllá Olsen.</p>
+<p>Olsen nammat muhtema sávvi Sámedigge galggá dán juohkin oassálasstet, valla jur dát ij Sámediggáj gullu.</p>
+<p>– Jusska ij Sámediggáj gullu, de máhttep máhtudagájn viehkedit jus sihti.</p>
+<p type="title">Avtaárvvusasj varresvuohta</p>
+<p xml:lang="nob">Mer om  Avtaárvvusasj varresvuohta</p>
+<p type="title" xml:lang="nob">Likeverdige helsetjenester i Nord-Salten</p>
+<p xml:lang="nob">Mer om  Likeverdige helsetjenester i Nord-Salten</p>
+<p type="title" xml:lang="sme">Ođđasat</p>
+<p type="title">Ådåsa julevsábmáj</p>
+<p type="title" xml:lang="sma">Åarjelsaemiengïelesne</p>
+</body></document>

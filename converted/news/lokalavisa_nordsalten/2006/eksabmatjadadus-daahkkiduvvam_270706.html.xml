@@ -1,39 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Eksábmatjadádus dåhkkiduvvam</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>118</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/eks-bmatjad-dus-dahkkiduvvam.4126</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Eksábmatjadádus dåhkkiduvvam</p>
-    <p>-Eksábma majt Árran giellaklássajn biehtsemánon tjadáduváj lij dåhkkiduvvam mijájs, subtsas Ketil Sivertsen guhti l sadjásaj rektor Knut Hamsun joarkkaskåvlån.</p>
-    <p>Norsk kortversjon/Oanegis dárogiellaj</p>
-    <p>Sivertsen vuoset ártihkkalij guokta vahko dás åvddål mij subtsastij soames oahppij birra Árranin gudi ællim rat dudálattja njálmálasj eksámatjadádusáj.</p>
-    <p>-Kurssa lij Knut Hamsun joarkkaskåvlå åvdåsvásstádus. Árran lij teknihkalasj ásadiddje. Jus riekta, de galggin oahppe Knut Hamsun js’aj gujddit, javllá Sivertsen.</p>
-    <p>Sivertsena mielas ællim vige juogu dal dahkamusáj jali gåktu eksábma tjadáduváj.</p>
-    <p>-Juohkka eksáman la agev soames guhti máhtti <span type="quote">”månnat”</span> makkár dahkamusájt oadtju, valla mij lip tjuovvum juohkka birástjállusijt ja njuolgadusájt, ja skåvlås lij aj dát giehtos eksábma dåhkkiduvvam, javllá Sivertsen.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Eksábmatjadádus dåhkkiduvvam</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>118</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/eks-bmatjad-dus-dahkkiduvvam.4126</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Eksábmatjadádus dåhkkiduvvam</p>
+<p>-Eksábma majt Árran giellaklássajn biehtsemánon tjadáduváj lij dåhkkiduvvam mijájs, subtsas Ketil Sivertsen guhti l sadjásaj rektor Knut Hamsun joarkkaskåvlån.</p>
+<p>Norsk kortversjon/Oanegis dárogiellaj</p>
+<p>Sivertsen vuoset ártihkkalij guokta vahko dás åvddål mij subtsastij soames oahppij birra Árranin gudi ællim rat dudálattja njálmálasj eksámatjadádusáj.</p>
+<p>-Kurssa lij Knut Hamsun joarkkaskåvlå åvdåsvásstádus. Árran lij teknihkalasj ásadiddje. Jus riekta, de galggin oahppe Knut Hamsun js’aj gujddit, javllá Sivertsen.</p>
+<p>Sivertsena mielas ællim vige juogu dal dahkamusáj jali gåktu eksábma tjadáduváj.</p>
+<p>-Juohkka eksáman la agev soames guhti máhtti <span type="quote">”månnat”</span> makkár dahkamusájt oadtju, valla mij lip tjuovvum juohkka birástjállusijt ja njuolgadusájt, ja skåvlås lij aj dát giehtos eksábma dåhkkiduvvam, javllá Sivertsen.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

@@ -1,38 +1,4 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Subttsasa riegádime ja jábmema birra sáme sijdajn</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Anne" lastname="Kalstad Mikkelsen" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>221</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_210510.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Prosjevta ulmmen le aj årrum dokumenterit árbbedábálasj sáme diedojt. Dát diehto máhttá buktet åvddån guovdásj árvojt sáme sebrudagán ja aj viessomvuogijt. Máhtti gus dá árbbedábe ja diehto midjij uddni majdik buktet? Ja gåktus de boahtte buolvaj? Ådåstuhttem ja láttájduvvam le dahkam nav vaj muhtem dájs dábijs gáhtomin li. Prosjevtas åvddånboahtá jut moadda dábe li iellemin ájn, muhtema vas e desti gávnnu. Moadda árbbedábe le Tjoahkkimbargos boahtá åvddån jut muhtem dábe ma li jábmema birra ja hávddádimij aktijvuodajs ælla rat rievddam. Diedon tjuovvu jasskavuohta ja oahpes dille dájt dábijt gå ieme láhkáj li. Mij gullu riegádimijda, de le ållo rievddam. Sáme tsaggeieddne ij das gávnnu ja riegádimbájkken le Narvijkka ja Bådåddjo. Konfirmásjåvnnå le de ájnas. Berraha ja rádna tjåhkani ja ávvodibme máhttá moadda biejve bissot. Prosjevtas åvddån boahtá moattes li sáme bielijt ietjas iellemin åhtsåmin. Gáppte lij vargga gáhtum avtav gaskav. Dálla skalluj låhki vargga gájka gáptijn. Moattes subtsastiddjijs li ietjas konfirmásjåvnnåájges Gásluovtan vuodnasåkkijs láttij sæhkáj boahtet lij sidjij låssåt. Gájkka uvsa dåbddujin dahppot, valla ulmutja vuodnasåkkijs diehtin guovtev gålmåv goadev gånnå uvsa lidjin rahpasa. Prosjevta birra oattjo gullat álmmuktjåhkanimen moarmesmáno 31. biejve Árranin. Gájka li buorisboahtám tjoahkkimbargo birra gulátjit. Ådå gåvå aj vuoseduvvi. Moadda dájs árbbedábijs le aj sæmmiláhkáj gå ietjá viesádij lunna dájs bájkijs. Buorisboahtem tjåhkanibmáj. Sihtap adjáj gullat majt dij dáj birra javllabihtit.</p>
-    <p><em type="bold">AnneKalstad Mikkelsen</em> <em type="bold">Prosjæktajådediddje</em> <em type="bold">Árran</em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Subttsasa riegádime ja jábmema birra sáme sijdajn</title><genre code="news"/><author><person firstname="Anne" lastname="Kalstad Mikkelsen" sex="m" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2010</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>221</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_210510.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Prosjevta ulmmen le aj årrum dokumenterit árbbedábálasj sáme diedojt. Dát diehto máhttá buktet åvddån guovdásj árvojt sáme sebrudagán ja aj viessomvuogijt. Máhtti gus dá árbbedábe ja diehto midjij uddni majdik buktet? Ja gåktus de boahtte buolvaj? Ådåstuhttem ja láttájduvvam le dahkam nav vaj muhtem dájs dábijs gáhtomin li. Prosjevtas åvddånboahtá jut moadda dábe li iellemin ájn, muhtema vas e desti gávnnu. Moadda árbbedábe le Tjoahkkimbargos boahtá åvddån jut muhtem dábe ma li jábmema birra ja hávddádimij aktijvuodajs ælla rat rievddam. Diedon tjuovvu jasskavuohta ja oahpes dille dájt dábijt gå ieme láhkáj li. Mij gullu riegádimijda, de le ållo rievddam. Sáme tsaggeieddne ij das gávnnu ja riegádimbájkken le Narvijkka ja Bådåddjo. Konfirmásjåvnnå le de ájnas. Berraha ja rádna tjåhkani ja ávvodibme máhttá moadda biejve bissot. Prosjevtas åvddån boahtá moattes li sáme bielijt ietjas iellemin åhtsåmin. Gáppte lij vargga gáhtum avtav gaskav. Dálla skalluj låhki vargga gájka gáptijn. Moattes subtsastiddjijs li ietjas konfirmásjåvnnåájges Gásluovtan vuodnasåkkijs láttij sæhkáj boahtet lij sidjij låssåt. Gájkka uvsa dåbddujin dahppot, valla ulmutja vuodnasåkkijs diehtin guovtev gålmåv goadev gånnå uvsa lidjin rahpasa. Prosjevta birra oattjo gullat álmmuktjåhkanimen moarmesmáno 31. biejve Árranin. Gájka li buorisboahtám tjoahkkimbargo birra gulátjit. Ådå gåvå aj vuoseduvvi. Moadda dájs árbbedábijs le aj sæmmiláhkáj gå ietjá viesádij lunna dájs bájkijs. Buorisboahtem tjåhkanibmáj. Sihtap adjáj gullat majt dij dáj birra javllabihtit.</p>
+<p><em type="bold">AnneKalstad Mikkelsen</em> <em type="bold">Prosjæktajådediddje</em> <em type="bold">Árran</em> </p>
+</body></document>

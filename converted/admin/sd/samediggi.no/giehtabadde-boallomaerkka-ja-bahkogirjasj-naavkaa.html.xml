@@ -1,49 +1,19 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>70</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Giella/Samasta-mujna/Giehtabadde-boallomaerkka-ja-bahkogirjasj-naavkaa</origFileName>
-    <parallel_text xml:lang="nob" location="bestill-gratis-lommeparloer-armbaand-og-buttons.html"/>
-    <parallel_text xml:lang="sma" location="aaadtjoeh-namhtah-gietebaantem-baaaloem-jih-baakoegaerjetjem.html"/>
-    <parallel_text xml:lang="sme" location="oacco-nuvtta-giehtabatti-boallomearkka-ja-satnegirjjaza.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Giehtabádde, boallomærkka ja báhkogirjásj nåvkå / Sámásta mujna / Giella / Sámedigge - Sametinget</p>
-    <p type="title">Rávvimsjiebmá</p>
-    <p>Vállji ådå</p>
-    <p>Namma ja adræssa</p>
-    <p>Duodasta rávvagav</p>
-    <p>Gijtto rávvagis</p>
-    <p>Báhkogirjásj</p>
-    <p>Nuorttasámegiella boallomærkka</p>
-    <p>Nuorttasámegiella giehtabádde stuorrudahka unne</p>
-    <p>Nuorttasámegiella giehtabádde stuorrudahka stuorra</p>
-    <p>Oarjjelsámegiella boallomærkka</p>
-    <p>Oarjjelsámegiella giehtabádde stuorrudahka unne</p>
-    <p>Oarjjelsámegiella giehtabádde stuorrudahka stuorra</p>
-    <p>Julevsámegiella boallomærkka</p>
-    <p>Julevsámegiella giehtabádde stuorrudahka unne</p>
-    <p>Julevsámegiella giehtabádde stuorrudahka stuorra</p>
-    <p>Jus sidá ienep gå avtav válljidum buktagis/buktagijs, de dánna dievde galla sidá juohkka diŋgas.</p>
-    <p xml:lang="nob">Antall</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>70</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Giella/Samasta-mujna/Giehtabadde-boallomaerkka-ja-bahkogirjasj-naavkaa</origFileName><parallel_text xml:lang="nob" location="bestill-gratis-lommeparloer-armbaand-og-buttons.html"/><parallel_text xml:lang="sma" location="aaadtjoeh-namhtah-gietebaantem-baaaloem-jih-baakoegaerjetjem.html"/><parallel_text xml:lang="sme" location="oacco-nuvtta-giehtabatti-boallomearkka-ja-satnegirjjaza.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Giehtabádde, boallomærkka ja báhkogirjásj nåvkå / Sámásta mujna / Giella / Sámedigge - Sametinget</p>
+<p type="title">Rávvimsjiebmá</p>
+<p>Vállji ådå</p>
+<p>Namma ja adræssa</p>
+<p>Duodasta rávvagav</p>
+<p>Gijtto rávvagis</p>
+<p>Báhkogirjásj</p>
+<p>Nuorttasámegiella boallomærkka</p>
+<p>Nuorttasámegiella giehtabádde stuorrudahka unne</p>
+<p>Nuorttasámegiella giehtabádde stuorrudahka stuorra</p>
+<p>Oarjjelsámegiella boallomærkka</p>
+<p>Oarjjelsámegiella giehtabádde stuorrudahka unne</p>
+<p>Oarjjelsámegiella giehtabádde stuorrudahka stuorra</p>
+<p>Julevsámegiella boallomærkka</p>
+<p>Julevsámegiella giehtabádde stuorrudahka unne</p>
+<p>Julevsámegiella giehtabádde stuorrudahka stuorra</p>
+<p>Jus sidá ienep gå avtav válljidum buktagis/buktagijs, de dánna dievde galla sidá juohkka diŋgas.</p>
+<p xml:lang="nob">Antall</p>
+</body></document>

@@ -1,62 +1,22 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>ÁRRANA DUODJEPROSJÆKTA</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Martin" lastname="Rimpi" sex="m" born="" nationality=""/>
-    </author>
-    <year>2016</year>
-    <wordcount>320</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://arran.no/prosjevta/?Article=80</origFileName>
-    <parallel_text xml:lang="nob" location="duodjeprosjektet_ved_arran.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Árrana duodjeprosjækta</p>
-    <p>G</p>
-    <p xml:lang="nob">K</p>
-    <p xml:lang="eng">I</p>
-    <p xml:lang="nob">Arran Live</p>
-    <p>j</p>
-    <p xml:lang="nob">k</p>
-    <p xml:lang="nob">i</p>
-    <p xml:lang="eng">o</p>
-    <p xml:lang="nob">e</p>
-    <p xml:lang="nob">l</p>
-    <p xml:lang="eng">h</p>
-    <p xml:lang="nob">m</p>
-    <list/>
-    <p xml:lang="nob">L</p>
-    <p type="title" xml:lang="nob">Ønsker du å motta nyhetsbrev fra Árran?</p>
-    <p xml:lang="nob">Registrer inn din epostadresse under. Du kan også kontakte oss pr epost: poassta@arran.no eller telefon +47 757 75 100</p>
-    <p xml:lang="eng">Email Address</p>
-    <p xml:lang="eng">w</p>
-    <p>&gt; Prosjevta</p>
-    <list/>
-    <p type="title">Árrana duodjeprosjækta</p>
-    <p>Árranin le jagij 2014-2017 prosjækta man ulmme l duojev qsadit æládussan julevsáme guovlon. Prosjevtan li dá dåjma; viddnodoajmma ja innovásjåvnnå, MasterClasses, duodjebagádallamdievnastus ja barggolanjá, oassás ja næhttaoassás duodjárijda.</p>
-    <p xml:lang="nob">03.02.2016</p>
-    <p xml:lang="nob">12:25</p>
-    <p>Martin Rimpi</p>
-    <p>Jáhkádisáj milta de le duodje ájn álgon jådedimgálvvon julevsáme guovlon, gallegasj duodjárij gejn duodje le ájnna- jali duoddeæládussan. Jahkedahtte de le jådedibmáj stuorra máhttelisvuoda, juga mij åvddånboahtá duodjárij lågos Sis-Finnmarkos.</p>
-    <p>Prosjevta oajvveulmmen le jut duodje galggá ásaduvvat nanos æládussan julevsáme guovlon Vuonan viddnodåjmaj ja innovásjåvnå baktu ja buktet konkrehta vidnudakásadimijt julevsáme kultuvrravuodojn.</p>
-    <p>10 ulmutja duodjeduogátjijn ja mahtudahka joarkkadáses galggi rekruttieriduvvat, gudi de oadtju fáladuvvi moattejahkásasj prográmmaj mij galggá doalvvot konkrehta duodjevidnudakásadimijda.</p>
-    <p>Bagádallam dibma ja garra duojen fáladuvvá Árrana duodjelanjájn bagádiddjijs. Bagádallam le rabás fálaldahka.</p>
-    <p>Duodjeprográmma oassálasste fáladuvvi viehkev vidnudakåvddånahttijs gudi galggi oassálasstijt arvusmahttet ietjasa vidnudagájt ásadittjat, vejulasj gründerij værmádagáv doajmmat, dåbddåt åhpadustjadádimev ja aktijvuodav åhpadusinstitusjåvnåj adnet, dahkat ájnegis oassálasstáj kariæreplánajt, viehkedit sijáv ruhtadoarjjagijt vidnudakásadimáj åhtsåt ja oassálasstijt doarjjot gitta desik vidnudahka le ásaduvvám, ja nav guhkás mav tijmmaressurssa le.</p>
-    <p>Oassálasstijda galggá aj fáladuvvat MasterClasses måvttå- ja industrihábmedimijn, produktaåvddånahhtemav ja ietjá vuogijt ja prosessajt ma sijá buvtakidéajt oadtju jåhtuj.</p>
-    <p>Árran galggá næhttaoassásav ásadit mav duodjára máhtti ávkástallat ja árvustallá fállat barggosajijt duodjelanjájn mávso dagi muhtem ájggáj ja ásadit musea- duodjeoassásav gånnå buktaga vuobdeduvvi.</p>
-    <p>Duodjeprosjevta ulmmen le jut binnemusát gålmås le registreriduvvam æládussisbåhtusijn gå prosjækta låhpaduvvá. Prográmma baktu galggá aj åvddånboahtet binnemusát akta buvta, buvtajuogos jali dievnastus gånnå le nasjonalalasj jåhtemvejulasjvuoda, ja dát jådedimájádusá åvddånahttem galggá álgeduvvam.</p>
-    <p>Prosjækta organiseriduvvá ja stivrriduvvá dagu prosjæktan dábálasj risikoajn, prosjæktastivrajn ja jådedimijn gudi Árranis virggáduvvi aktan fáhkavásstediddje bagádiddjij, doarjjadåjmaj ja lågådallij ma barggoåsijt prosjevtas dahki. Prosjækta le merustaláduvvam mákset 3,1 m kråvnå 3 jage nalluj.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>ÁRRANA DUODJEPROSJÆKTA</title><genre code="facta"/><author><person firstname="Martin" lastname="Rimpi" sex="m" born="" nationality=""/></author><year>2016</year><wordcount>307</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="nob"/><language xml:lang="eng"/></multilingual><origFileName>http://arran.no/prosjevta/?Article=80</origFileName><parallel_text xml:lang="nob" location="duodjeprosjektet_ved_arran.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Árrana duodjeprosjækta</p>
+<p xml:lang="nob">L</p>
+<p type="title" xml:lang="nob">Ønsker du å motta nyhetsbrev fra Árran?</p>
+<p xml:lang="nob">Registrer inn din epostadresse under. Du kan også kontakte oss pr epost: poassta@arran.no eller telefon +47 757 75 100</p>
+<p xml:lang="eng">Email Address</p>
+<p xml:lang="eng">w</p>
+<p>&gt; Prosjevta</p>
+<list/><p type="title">Árrana duodjeprosjækta</p>
+<p>Árranin le jagij 2014-2017 prosjækta man ulmme l duojev qsadit æládussan julevsáme guovlon. Prosjevtan li dá dåjma; viddnodoajmma ja innovásjåvnnå, MasterClasses, duodjebagádallamdievnastus ja barggolanjá, oassás ja næhttaoassás duodjárijda.</p>
+<p xml:lang="nob">03.02.2016</p>
+<p xml:lang="nob">12:25</p>
+<p>Martin Rimpi</p>
+<p>Jáhkádisáj milta de le duodje ájn álgon jådedimgálvvon julevsáme guovlon, gallegasj duodjárij gejn duodje le ájnna- jali duoddeæládussan. Jahkedahtte de le jådedibmáj stuorra máhttelisvuoda, juga mij åvddånboahtá duodjárij lågos Sis-Finnmarkos.</p>
+<p>Prosjevta oajvveulmmen le jut duodje galggá ásaduvvat nanos æládussan julevsáme guovlon Vuonan viddnodåjmaj ja innovásjåvnå baktu ja buktet konkrehta vidnudakásadimijt julevsáme kultuvrravuodojn.</p>
+<p>10 ulmutja duodjeduogátjijn ja mahtudahka joarkkadáses galggi rekruttieriduvvat, gudi de oadtju fáladuvvi moattejahkásasj prográmmaj mij galggá doalvvot konkrehta duodjevidnudakásadimijda.</p>
+<p>Bagádallam dibma ja garra duojen fáladuvvá Árrana duodjelanjájn bagádiddjijs. Bagádallam le rabás fálaldahka.</p>
+<p>Duodjeprográmma oassálasste fáladuvvi viehkev vidnudakåvddånahttijs gudi galggi oassálasstijt arvusmahttet ietjasa vidnudagájt ásadittjat, vejulasj gründerij værmádagáv doajmmat, dåbddåt åhpadustjadádimev ja aktijvuodav åhpadusinstitusjåvnåj adnet, dahkat ájnegis oassálasstáj kariæreplánajt, viehkedit sijáv ruhtadoarjjagijt vidnudakásadimáj åhtsåt ja oassálasstijt doarjjot gitta desik vidnudahka le ásaduvvám, ja nav guhkás mav tijmmaressurssa le.</p>
+<p>Oassálasstijda galggá aj fáladuvvat MasterClasses måvttå- ja industrihábmedimijn, produktaåvddånahhtemav ja ietjá vuogijt ja prosessajt ma sijá buvtakidéajt oadtju jåhtuj.</p>
+<p>Árran galggá næhttaoassásav ásadit mav duodjára máhtti ávkástallat ja árvustallá fállat barggosajijt duodjelanjájn mávso dagi muhtem ájggáj ja ásadit musea- duodjeoassásav gånnå buktaga vuobdeduvvi.</p>
+<p>Duodjeprosjevta ulmmen le jut binnemusát gålmås le registreriduvvam æládussisbåhtusijn gå prosjækta låhpaduvvá. Prográmma baktu galggá aj åvddånboahtet binnemusát akta buvta, buvtajuogos jali dievnastus gånnå le nasjonalalasj jåhtemvejulasjvuoda, ja dát jådedimájádusá åvddånahttem galggá álgeduvvam.</p>
+<p>Prosjækta organiseriduvvá ja stivrriduvvá dagu prosjæktan dábálasj risikoajn, prosjæktastivrajn ja jådedimijn gudi Árranis virggáduvvi aktan fáhkavásstediddje bagádiddjij, doarjjadåjmaj ja lågådallij ma barggoåsijt prosjevtas dahki. Prosjækta le merustaláduvvam mákset 3,1 m kråvnå 3 jage nalluj.</p>
+</body></document>

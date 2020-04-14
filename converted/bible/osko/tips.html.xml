@@ -1,45 +1,17 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Trosopplæring på samisk</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>217</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.abc-company.no/osku/ls/tips.html</origFileName>
-    <parallel_text xml:lang="nob" location="tips.html"/>
-    <parallel_text xml:lang="sma" location="tips.html"/>
-    <parallel_text xml:lang="sme" location="tips.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104790 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Viehkke:</p>
-    <p><em type="italic">Loggi sisi </em>I hæhttu sisi loggit. </p>
-    <p><em type="italic">Majt dárbaha? </em>Næhttabájkke le dagádum Flashan. Dárbaha Adobe Flash Player 9 jali ådåsap versjåvnåv. Dáv prográmmav nåvkå oattjo. Viettja prográmmav: www.adobe.com ) </p>
-    <p><em type="italic">Giella? </em>Vállji giela: osko.no - dárogiella osku.no - nuorttasámegiella jahkko.no - julevsámegiella jaahkoe.no - oarjjelsámegiella </p>
-    <p><em type="italic">Gåktu joarká? </em>Pijlaj baktu biele badjegietjen maná åvddån ja ruoptus. Makkir bielle ja galla biele gávnnuji vuoseduvvá. Gåvåj baktu maná vuolletiemájda ja spelajda. </p>
-    <p><em type="italic">Sálmma </em>Næhttabájken li sálma majt máhtá lávllot ja báddit, ja ietjat gulldalit. Ij la máhttelis lávllagijt viedtjat. Jus báddit galga de dieddela <span type="quote">“lávllot”</span> boalov. </p>
-    <p>Jus galga ietjat gulldalit de dieddela <span type="quote">“Gulldala ietjat”</span> boalov.</p>
-    <p><em type="italic">Dahkamusá </em>Næhttabájken li moatte lágásj dahkamusá. Muhtemijn vásstádus dalága boahtá, ietjá dahkamusájt vássteda gåk sidá ja dajt máhtá tjáledahttet jali næhttapedagogaj sáddit. Næhttapedagoga dåhkkit dahkamusájt majt le oadtjum, ja dij gudi divna dahkamusájt vásstedihpit oadtjobihtit vuojtov påstan. </p>
-    <p><em type="italic">Ságastallam </em>Næhttabájken li moadda ságastallamdahkamusá. Besa sáhkadit gej sidá, mánáj jali ållessjattugij. Sáhkadallama baktu åhpa. </p>
-    <p><em type="italic">Popup-blokkerim </em>Jus dujna le Win XP service pack 2, de hæhttu popup-blokkerimav jáddit jus galga bessat båhtusijt jnv. vuorkkit. Álge Internet Explorer ja de dási maná: Verktøy - Popup-blokkering - Innstillinger for Popup-blokkering. </p>
-    <p><em type="italic">Vihkediedádus mij ActiveX-kontrollaj guosská </em>Jus dujna le Win XP service pack 2 de ihkap oattjo vihkediedádusáv AciveX-kontrolla installerima gáktuj. De dav installeri ActiveX-kontrolla boalo dieddelime baktu. </p>
-    <p xml:lang="nob">Om oss</p>
-    <p>Åvddåbælláj</p>
-    <p>Eskuvla:</p>
-    <p>Addnenamma:</p>
-    <p>Bessambáhko:</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Trosopplæring på samisk</title><genre code="bible"/><author><unknown/></author><wordcount>217</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.abc-company.no/osku/ls/tips.html</origFileName><parallel_text xml:lang="nob" location="tips.html"/><parallel_text xml:lang="sma" location="tips.html"/><parallel_text xml:lang="sme" location="tips.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104790 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Viehkke:</p>
+<p><em type="italic">Loggi sisi </em>I hæhttu sisi loggit. </p>
+<p><em type="italic">Majt dárbaha? </em>Næhttabájkke le dagádum Flashan. Dárbaha Adobe Flash Player 9 jali ådåsap versjåvnåv. Dáv prográmmav nåvkå oattjo. Viettja prográmmav: www.adobe.com ) </p>
+<p><em type="italic">Giella? </em>Vállji giela: osko.no - dárogiella osku.no - nuorttasámegiella jahkko.no - julevsámegiella jaahkoe.no - oarjjelsámegiella </p>
+<p><em type="italic">Gåktu joarká? </em>Pijlaj baktu biele badjegietjen maná åvddån ja ruoptus. Makkir bielle ja galla biele gávnnuji vuoseduvvá. Gåvåj baktu maná vuolletiemájda ja spelajda. </p>
+<p><em type="italic">Sálmma </em>Næhttabájken li sálma majt máhtá lávllot ja báddit, ja ietjat gulldalit. Ij la máhttelis lávllagijt viedtjat. Jus báddit galga de dieddela <span type="quote">“lávllot”</span> boalov. </p>
+<p>Jus galga ietjat gulldalit de dieddela <span type="quote">“Gulldala ietjat”</span> boalov.</p>
+<p><em type="italic">Dahkamusá </em>Næhttabájken li moatte lágásj dahkamusá. Muhtemijn vásstádus dalága boahtá, ietjá dahkamusájt vássteda gåk sidá ja dajt máhtá tjáledahttet jali næhttapedagogaj sáddit. Næhttapedagoga dåhkkit dahkamusájt majt le oadtjum, ja dij gudi divna dahkamusájt vásstedihpit oadtjobihtit vuojtov påstan. </p>
+<p><em type="italic">Ságastallam </em>Næhttabájken li moadda ságastallamdahkamusá. Besa sáhkadit gej sidá, mánáj jali ållessjattugij. Sáhkadallama baktu åhpa. </p>
+<p><em type="italic">Popup-blokkerim </em>Jus dujna le Win XP service pack 2, de hæhttu popup-blokkerimav jáddit jus galga bessat båhtusijt jnv. vuorkkit. Álge Internet Explorer ja de dási maná: Verktøy - Popup-blokkering - Innstillinger for Popup-blokkering. </p>
+<p><em type="italic">Vihkediedádus mij ActiveX-kontrollaj guosská </em>Jus dujna le Win XP service pack 2 de ihkap oattjo vihkediedádusáv AciveX-kontrolla installerima gáktuj. De dav installeri ActiveX-kontrolla boalo dieddelime baktu. </p>
+<p xml:lang="nob">Om oss</p>
+<p>Åvddåbælláj</p>
+<p>Eskuvla:</p>
+<p>Addnenamma:</p>
+<p>Bessambáhko:</p>
+</body></document>

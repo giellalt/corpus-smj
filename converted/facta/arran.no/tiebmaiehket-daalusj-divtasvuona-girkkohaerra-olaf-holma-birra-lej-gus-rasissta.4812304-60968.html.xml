@@ -1,46 +1,20 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>255</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/tiebmaiehket-daalusj-divtasvuona-girkkohaerra-olaf-holma-birra-lej-gus-rasissta.4812304-60968.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tiebmáiehket - Dålusj Divtasvuona girkkohærrá Olaf Holma birra, - lej gus rasissta? - Ãrran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title">Tiebmáiehket - Dålusj Divtasvuona girkkohærrá Olaf Holma birra, - lej gus rasissta?</p>
-    <p xml:lang="nno">
-      <em type="italic"><span type="quote" xml:lang="dan">“Den nu paagaaende Civilisationsbestræbelse lige overfor Lapperne tro jeg vil bringe mange Skuffelser. Den er næppe skikke til at staa paa et Skibsdæk eller foran en Forretningspult, i hvem Nomaden stikker frem hvert Øieblik.”</span> </em>
-    </p>
-    <p>Dát sitáhtta le girjes Nordlandsk Prestegaard mav Olaf Holm tjálij soames jagijt maÅÅela gå Divtasvuonas jådij.</p>
-    <p>Olaf Holm lej girkkohærrá Divtasvuonan 1800-lågo låhpan. Girjen  ”En nordlandsk prestegaard ” ja moatten ietjá tjállusijn tjállám le Divtasvuonagij viessomdilij birra. Muhtem tjállusa sámij birra le ållu sælldásit tjáledum, sierraláhkáj gå diehtep sån lij mijá girkkohærrá. Tjállusin <span type="quote" xml:lang="eng">"Kvinnelige Missions Arbeidere"</span> 1907 jages 16. bielen  tjállá náv:</p>
-    <p xml:lang="dan">
-      <em type="italic">"..... Jeg tror, Lappen er omtrent uimodtagelig for det, vi kalder høiere Kultur, altsaa den Kultur, hvorpaa vi nu lever. Han har, saavidt jeg kan skjønne, ikke Betingelser for at danne ordnet Samfundsliv for Flid, Regelbundethed, og en vis Disciplin i alle forholde, som tilhører alt høiere Samfundsliv.” </em>
-    </p>
-    <p>- Guhtimusj lij Olaf Holm? Tjálij gus ienebuv? Lej gus rasissta?  Gåktu galggap dálásj ájge suv dádjadit?</p>
-    <p>Dá gatjálvisá li guovdátjin ságastallamijda Árrana tiebmáiehkedin dijstagá bårggemáno 31. biejve.</p>
-    <p>Bájkálasjhiståvrråtjálle Nils Kristian Sørensen Gásluovtas ja  åsskodiedagis Roald Kristiansen Tråmså universitehtas  álgadibá goabbák lågådallamijn.</p>
-    <p>Nils Kristian Sørensen Gásluovtas: Olaf Holm girkkohærrá ja rasissta?</p>
-    <p>Roald Kristiansen: Olaf Holm girkkohærrán ja Divtasvuona bájkálasjsebrudagá  gehtjadallen</p>
-    <p>Buorisboahtem tiebmáiehkedij!</p>
-    <p xml:lang="nno">Skriv et innlegg</p>
-    <p xml:lang="eng">Posting</p>
-    <p xml:lang="kal">Navn: *</p>
-    <p xml:lang="eng">E-post:</p>
-    <p xml:lang="est">Tema: *</p>
-    <p xml:lang="nno">Melding: *</p>
-    <p xml:lang="nob">Fylles ikke ut om du er et menneske:</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>255</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/tiebmaiehket-daalusj-divtasvuona-girkkohaerra-olaf-holma-birra-lej-gus-rasissta.4812304-60968.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tiebmáiehket - Dålusj Divtasvuona girkkohærrá Olaf Holma birra, - lej gus rasissta? - Ãrran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title">Tiebmáiehket - Dålusj Divtasvuona girkkohærrá Olaf Holma birra, - lej gus rasissta?</p>
+<p xml:lang="swe"><em type="italic"><span type="quote" xml:lang="dan">“Den nu paagaaende Civilisationsbestræbelse lige overfor Lapperne tro jeg vil bringe mange Skuffelser. Den er næppe skikke til at staa paa et Skibsdæk eller foran en Forretningspult, i hvem Nomaden stikker frem hvert Øieblik.”</span> </em></p>
+<p>Dát sitáhtta le girjes Nordlandsk Prestegaard mav Olaf Holm tjálij soames jagijt maÅÅela gå Divtasvuonas jådij.</p>
+<p>Olaf Holm lej girkkohærrá Divtasvuonan 1800-lågo låhpan. Girjen  ”En nordlandsk prestegaard ” ja moatten ietjá tjállusijn tjállám le Divtasvuonagij viessomdilij birra. Muhtem tjállusa sámij birra le ållu sælldásit tjáledum, sierraláhkáj gå diehtep sån lij mijá girkkohærrá. Tjállusin <span type="quote" xml:lang="eng">"Kvinnelige Missions Arbeidere"</span> 1907 jages 16. bielen  tjállá náv:</p>
+<p xml:lang="dan"><em type="italic">"..... Jeg tror, Lappen er omtrent uimodtagelig for det, vi kalder høiere Kultur, altsaa den Kultur, hvorpaa vi nu lever. Han har, saavidt jeg kan skjønne, ikke Betingelser for at danne ordnet Samfundsliv for Flid, Regelbundethed, og en vis Disciplin i alle forholde, som tilhører alt høiere Samfundsliv.” </em></p>
+<p>- Guhtimusj lij Olaf Holm? Tjálij gus ienebuv? Lej gus rasissta?  Gåktu galggap dálásj ájge suv dádjadit?</p>
+<p>Dá gatjálvisá li guovdátjin ságastallamijda Árrana tiebmáiehkedin dijstagá bårggemáno 31. biejve.</p>
+<p>Bájkálasjhiståvrråtjálle Nils Kristian Sørensen Gásluovtas ja  åsskodiedagis Roald Kristiansen Tråmså universitehtas  álgadibá goabbák lågådallamijn.</p>
+<p>Nils Kristian Sørensen Gásluovtas: Olaf Holm girkkohærrá ja rasissta?</p>
+<p>Roald Kristiansen: Olaf Holm girkkohærrán ja Divtasvuona bájkálasjsebrudagá  gehtjadallen</p>
+<p>Buorisboahtem tiebmáiehkedij!</p>
+<p xml:lang="nno">Skriv et innlegg</p>
+<p xml:lang="eng">Posting</p>
+<p xml:lang="kal">Navn: *</p>
+<p xml:lang="eng">E-post:</p>
+<p xml:lang="est">Tema: *</p>
+<p xml:lang="nno">Melding: *</p>
+<p xml:lang="nob">Fylles ikke ut om du er et menneske:</p>
+</body></document>

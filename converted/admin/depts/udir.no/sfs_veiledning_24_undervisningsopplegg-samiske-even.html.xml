@@ -1,149 +1,96 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1082</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/Jo3/Undervisningsopplegg-Samiske-even/index.html</origFileName>
-    <parallel_text xml:lang="nob" location="sfs_veiledning_24_undervisningsopplegg-samiske.html"/>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_24_undervisningsopplegg-samiske-.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_24_undervisningsopplegg-samiske-eventyr-og.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Sáme dålusj subttsasa ja álggoálmmugij subttsasa</p>
-    <p type="title">Sáme dålusj subttsasa ja álggoálmmugij subttsasa</p>
-    <p xml:lang="nob">Hovedinnhold</p>
-    <p><em type="italic">Dásse: </em>Jo3 - oahppogárvedime åhpadusprográmma ja lasádusá dábálasj oahppomáhtudahkaj - viddnofágalasj åhpadusprográmma </p>
-    <p><em type="italic">Tiebmá: </em>sáme subtsastallamvuohke ja ietjá álggoálmmuk subtsastallamvuoge </p>
-    <p><em type="italic">Ájgge: </em>gávtset tijmas lågev tijmmaj </p>
-    <p xml:lang="nob">Vis alle</p>
-    <p type="title">Álgadus</p>
-    <p>Dát åhpadimgárvvidus le buojkulvis gåktu oahppe máhtti barggat jåvsåtjit máhtudakmihtojt ma li nammadum vuollelin. Dánna vuoseduvvá gåktu máhtudakmihto båhti vuojnnuj åhpadusmihttomierijn, ma li lávke gåktu jåksåt máhtudakmihtojt. Åhpadimgárvvidus vuoset muhtem barggamvuogijt, gåktu vuodotjehpudagá åvtåstuhteduvvi ja gåktu åhpadiddje hiebat åhpadusáv oahppijda ja árvustallá sijájt bargadahttijn. Le aj buojkulvisá gåktu oahppe ietjasa ja guhtik guojmesa árvustalli.</p>
-    <p>Åhpadimgárvvidus vuoset gåktu oahppe máhtti buohtastahttet guovte álggoálmmugij</p>
-    <p type="title">Máhtudakmihto LK06-S an</p>
-    <p>
-      <em type="italic">Máhtudakmihto </em>
-      <em type="italic">Jo2 - oahppogárvedime åhpadusprográmma ja lasádusá dábálasj oahppomáhtudahkaj - viddnofágalasj åhpadusprográmma maŋŋela </em>
-    </p>
-    <p>Árbbedábálasj máhtto</p>
-    <p>
-      <em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em>
-    </p>
-    <list>
-      <p type="listitem">tjielggit sáme subtsastallamdábev</p>
-      <p type="listitem">subttsasijt subtsastallat gånnå adná elementajt sáme subtsastallamdábes</p>
-      <p type="listitem">buohtastahttet sáme subttsasijt ietjá álggoálmmugij ja ietjá kultuvraj subttsasij</p>
-    </list>
-    <p type="title">Åhpadusmihttomiere</p>
-    <p>Máhtudakmihto båhti vuojnnuj åhpadusmihttomierijn, ma li lávke jåvsåtjit máhtudakmihtojt.</p>
-    <p>Oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">subtsastit sáme subtsastallamvuoge birra</p>
-      <p type="listitem">tjielggit guovdásj moallánagájt ma sáme subtsastallamvuohkáj gulluji</p>
-      <p type="listitem">mujttalit dålusj subttsasav mij la sierralágásj sáme</p>
-      <p type="listitem">tjállet subtsasav mij la sáme vuohkáj</p>
-      <p type="listitem">åhtsåt gåktu sáme dålusj subtsas ja inuihta dålusj subtsas libá muodogattja ja gåktu æbá la</p>
-    </list>
-    <p type="title">Vuodotjehpudagá</p>
-    <p><em type="italic">Máhttet låhkåt: </em>Oahppe låhki duov dáv dålusj subtsasav, giehtov, dijdav ja ietjá tevstajt ma tiebmáj gulluji. Sij låhki guokta subtsasa majt galggi buohtastahttet. </p>
-    <p><em type="italic">Máhttet njálmálattjat åvddånbuktet: </em>Oahppe subttsasav njálmálattjat åvddånbukti. </p>
-    <p><em type="italic">Máhttet tjálálattjat åvddånbuktet: </em>Oahppe tjálli subtssasav, tjálli sierra dåbddåmerkajt gå buohtastahtti subtssasijt duot dát kultuvras. </p>
-    <p><em type="italic">Máhttet digitála ræjdojt adnet: </em>Oahppe tjálli subttsasav dáhtámasjijnan ja divvu ietjasa tevstajt maŋŋela gå åhpadiddje ja/jali oahppeguojmme le tjálálattjet ja/jali njálmálattjat diededam. Sij máhtti sjiemáv dahkat gånnå buohtastahtti subttsasijt iesjgeŋga kultuvras. </p>
-    <p type="title">Oahppamdåjma</p>
-    <p>Åhpadiddje oahpásmahttá tiemáv subtsastit árbbedábálasj sáme dålusj subtssasav, jali dibdá oahppijt jiednabáttev gulldalit dakkir subtssasasijn.</p>
-    <p>Oahppe ságasti aktan majt sij diehti sierra dåbddåmerkaj birra sáme subtastallamvuogen. Åhpadidddje tjielggi sáme árbbedáben ij álu le álkke sieradit nammadusájt ja snivva tjielggit mij la dålusj subtsas ja mij la subtsas/giehtto.</p>
-    <p>Maŋŋela subtsas åhpadiddje álggoálmmugij girjálasjvuoda birra histåvrålasj perspektijvan.</p>
-    <p>Oahppe gæhttji avtav jali moadda filma. Máhttelis la DVDajt luojggat Sámedikke oahpponævvoguovdátjin Guovdagæjnon. Oahppe ságasti filmaj sisanoj birra.</p>
-    <p>Filmmabuojkulvisá:</p>
-    <list>
-      <p type="listitem"><em type="italic">Subttsasa duot dát guovlos ( </em>DVD) </p>
-      <p type="listitem" xml:lang="nob"><em type="italic">Niellja almmuksubttsasa ( </em>DVD) </p>
-      <p type="listitem" xml:lang="nob"><em type="italic">Lohkanboddu 1 ja 2 </em>, Sara Margrethe Oskal muitala muitalusaid </p>
-      <p type="listitem"><em type="italic">Heamturh eatnamistie, gaedtijste, Heamturt eatnam subttsasa duoppet dáppet, Máidnasat duoppil dáppil </em>(DVD) </p>
-      <p type="listitem"><em type="italic">Gánda ja Golleloddi </em>(DVD) </p>
-      <p type="listitem"><em type="italic">Máret áhkku muitala </em>(DVD) </p>
-      <p type="listitem">
-        <em type="italic">Máret áhkku muitala muitalusa </em>
-      </p>
-    </list>
-    <p>Oahppe ságasti aktan makkir dåbddomerka li dålusj subtssasijn, ja tjálli aktisasj listav dåbddåmerkaj. Dåbddåmerka vuodon, tjálli oahppe ietja subtssasijt. Hárjjidalli subtsastit subtssasijt, ja oahppeguojmmáj, juohkusij jali ålles klássaj subtsasti. Oahppe gulldali guhtik guojmesa subtssasijt ja diededi makkir dåbddomerkajt ielvvin ja majt sáme subtsastallamvuoges dåbddin.</p>
-    <p>Oahppe låhki avtav sáme ja avtav inuihta dålusj subtssasav ja buohtastahtti dajt.</p>
-    <p>Dålusj subtsas oajvvádusá</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Nisu guhte náitalii reahkain (inuittisk eventyr) i boka <em type="italic">Mearragátti muitalusat </em></p>
-      <p type="listitem">Niejdda guhti sjattaj gållegoallesen(samisk eventyr) bok </p>
-    </list>
-    <p>Oahppe dahki sjiemáv majt sij adni gå buohtastahtti sáme dålusj subtssasijt ietjá álggoálmmukij subttsasij. Sjiemán la gålmmå gárggása. Gåro gárggásij tjálli mij la sierralágásj sáme subtssasijn. Oalges gárggásij tjálli sij mij la sierralágásj árbbedáben majna sij buohtastahtti. Gasskogárggásij tjálli oahppe mij la sæmmilágásj dajn guovte kultuvrajn. Máhttá bájnojn mierkkit gåro ja oalges gárggásin dajt tjuokkajt ma li sierralágátja dajn guovte kultuvran.</p>
-    <p>Sæmmiláhkáj máhtti oahppe buohtastahttet sáme dålusj subttsasav subttsasijn ietjá árbbedábes.</p>
-    <p type="title">Hiebadum åhpadus</p>
-    <p>Subtssasijt majt oahppe låhki, máhtti guhkebu ja oanebu, ja iesjgeñgalágásj gásjelisvuodaj. Muhtema li oahppijda oahpes ja iehtjáda vas ådå. Gå oahppe ietja galggi subtsastit, buohtastahttet ja tjállet subttsasijt le álkkebu vuodon válldet oahpes subttsasijt gå amás subttsasijt..</p>
-    <p>Muhtem oahppe subtsasti binnáv sáme subtsastallamvuoge birra, medin iehtjáda snivva tjielggiji ájnnasamos dåbddåmerkajt.</p>
-    <p>Muhtem oahppe diktiji subtssasijt ma sisanojn ja ásadimijn li vargga sæmmi gå álggoversjåvnnå subttsasin majt sij åvtåtjis dåbddi, jali ahtjak li låhkåm. Iehtjáda vas luovviji ietjasa ájnegissubttsasijs, sjáŋŋara sisbielen tjálli ja sæmmi boahta aj sáme árbbedábij milta.</p>
-    <p>Oahppe ietja válljiji gallásij ja gesi sihti subtssasav subtsastit. Muhtema jálot subtsasti jur åhpadiddjáj jali oahppeguojmmáj. Iehtjáda soapptsu gå le ienep gulldalidje.</p>
-    <p>Muhtem oahppe låhki ienep subttsasijt ja subtssasijt moattet álggoálmmugijs ja buohtastahtti dajt ietjá subttsasij.</p>
-    <p>Duodden njálmálattjat subtsastit máhtti muhtema drámátiserit subtssasav.</p>
-    <p type="title">Guhkásåhpadibme</p>
-    <p>Dát åhpadimgárvvidus hiehpá buoragit guhkásåhpadibmen danen gå oahppe galggi subtsastit, ságastit ja buohtastahttet subttsasijt. Åhpadiddje sjaddá gulldalidje ja ságastallam- ja/jali dágástallamguojmme. Åhpadiddje oadtju buorre vejulasjvuodav åhpadit ja dibddet oahppev hárjjidallat árbbedábálasj bágojt ja moallánagájt.</p>
-    <p type="title">Árvustallam</p>
-    <p>
-      <em type="italic">Árvustallam bargadahttijn </em>
-    </p>
-    <p>Åhpadiddje oahppijt bargadahttijn njálmálattjat ja/jali tjálálattjat árvustallá. Mávsulasj le diededit oahppijda dan láhkáj sij diehti majna galggi barggat vaj ietjasa máhtudagájt åvdedi. Sij aj dárbahi bagádallamijt gåktu sij máhtti dav dahkat.</p>
-    <p>Gå oahppe subttsasijt tjálli, de vuostasj tjállusij oadtju diededimijt. Sij oadtju diehtet mij la buorre, ja bagádallamijt gåktu joarkket bargov subttsasijn. Vuoduj válldit listav dåbddåmerkaj. Majt la oahppe maŋen válldám ja mij vájllu?</p>
-    <p>Åhpadiddje máhttá adnet Árvustallamsjiebmá: Prosjæktabarggo- njálmálasj åvddånbuktem ja Árvustallamsjiebmá: Guhkestjálos árvustallamin. Dá aj dåhkkiji gå oahppe galggi ietjasa jali guhtik guojmesa árvustallat. </p>
-    <p><em type="italic">Iesjárvustallam jali guhtik guojmesa árvustallam </em>Dála le buojkulvis majt oahppe máhtti adnet gå galggi ietjasa árvustallat, ja/jali gå galggi diededimijt nubbe nubbáj vaddet. Sij árvustalli majt sij bukti ja majt máhtti/vierttiji dahkat jåvsåtjit alep máhtudagájt. </p>
-    <p>Namma:</p>
-    <p>Biejvve:</p>
-    <p>
-      <em type="bold">Åhpadusmihttomiere </em>
-    </p>
-    <p>
-      <em type="bold">Dáv ij riekta máhte </em>
-    </p>
-    <p>
-      <em type="bold">Dáv máhtáv </em>
-    </p>
-    <p>
-      <em type="bold">Dáv máhtáv huj buoragit </em>
-    </p>
-    <p>sáme subtsastallamdábe birra subtsastit</p>
-    <p>tjielggit guovdásj moallánagájt ma sáme subtsastallamdáhpáj gulluji</p>
-    <p>mujttalit subttsasav sáme vuogijn</p>
-    <p>sierralágásj sáme subttsasav tjállet</p>
-    <p>guoradallat gåktu sáme ja inuihta subttsasa li muodulattja jali ælla</p>
-    <p>sierralágásj sáme subttsasav tjállet</p>
-    <p type="title" xml:lang="nob">Resursa</p>
-    <p xml:lang="nob">FRIIS, JENS ANDREAS 1999: Áfruvvá. I: Else Søndergaard (red) et al.: Mearragátti muitalusat. S. 23-24. Indre Billefjord: Iđut. Eventyret <span type="quote">“Áfruvvá”</span> er første gang publisert i: Friis, J.A. 1871: Eventyr og Folkesagn. Christiania: Cammermeyer</p>
-    <p xml:lang="nob">BERGSLAND, KNUT 1987: Gåebrehki soptsesh. (Røros-samiske tekster). Oslo: Universitetsforlaget, 2. utgave.</p>
-    <p xml:lang="nob">BIRKELAND, KIRSTI 2002: Staaloeh vienhtieh aske lea dålle. [Oslo:] J.W. Cappelens Forlag as</p>
-    <p xml:lang="nob">BULL, ELLA HOLM - BERGSLAND, KNUT 1993: Lohkede saemien. Kárášjohka: Davvi Girji o.s., 2. utgave. (bok og kassetter)</p>
-    <p xml:lang="nob">QVIGSTAD, JUST KNUD 1996: Aarporten jih Åarjel-smaaregen soptsesh. 2. utgave. [Kautokeino:] Samisk utdanningsråd.</p>
-    <p>Dájt dåhkki luojkkat Sámedikke oahpponævoguovdátjin, Kautokeino.</p>
-    <p xml:lang="nob">Lohkanboddu 1 ja 2, Sara Margrethe Oskal muitala muitalusaid (VHS163 og 164)</p>
-    <p>Gánda ja Golleloddi (DVD 97)</p>
-    <p xml:lang="nob">Njieljie åålmeg-heamturh. Saemiedigkie 2002 (liten bok og cd)</p>
-    <p>Heamturh eatnamistie, gaedtijste. Heamturt eatnam subttsasa duoppet dáppet. Máidnasat duoppil dáppil DVD. 2007. Oslo: Norsk filminstitutt</p>
-    <p xml:lang="nob"><span type="quote">“Máret áhkku muitala”</span>. Produsent: NRK Sámi Radio 1991 28 min. (Sametingets læremiddelsentral DVD 130)</p>
-    <p xml:lang="nob"><span type="quote">"Máret áhkku muitala muitalusa"</span>. Produsent: NRK Sámi Radio 1991.</p>
-    <p>Qvigstad, Just: <em type="italic">Subttsasa Nordlándas </em>. Forlaget Báhko 2008, 46 s. </p>
-    <p xml:lang="nob">Storjord, Thorbjørn: <em type="italic">Lulesamiske eventyr </em>, Bodø lærerhøgskole 1991, 42 s. </p>
-    <p xml:lang="nob">Julevsámebåddå; http://sverigesradio.se/sida/gruppsida.aspx?programid=3967&amp;grupp=13550</p>
-    <p xml:lang="nob">TOVE SOLUM; <em type="italic">Verden er så stor så stor </em>, Solun forlag 2003 </p>
-    <p xml:lang="nob">KLAUS SLAVENSKY; <em type="italic">Sangens kraft </em>, Det danske senter for menneskerettigheter 1994 </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1082</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/Jo3/Undervisningsopplegg-Samiske-even/index.html</origFileName><parallel_text xml:lang="nob" location="sfs_veiledning_24_undervisningsopplegg-samiske.html"/><parallel_text xml:lang="sma" location="sfs_veiledning_24_undervisningsopplegg-samiske-.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_24_undervisningsopplegg-samiske-eventyr-og.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Sáme dålusj subttsasa ja álggoálmmugij subttsasa</p>
+<p type="title">Sáme dålusj subttsasa ja álggoálmmugij subttsasa</p>
+<p xml:lang="nob">Hovedinnhold</p>
+<p><em type="italic">Dásse: </em>Jo3 - oahppogárvedime åhpadusprográmma ja lasádusá dábálasj oahppomáhtudahkaj - viddnofágalasj åhpadusprográmma </p>
+<p><em type="italic">Tiebmá: </em>sáme subtsastallamvuohke ja ietjá álggoálmmuk subtsastallamvuoge </p>
+<p><em type="italic">Ájgge: </em>gávtset tijmas lågev tijmmaj </p>
+<p xml:lang="nob">Vis alle</p>
+<p type="title">Álgadus</p>
+<p>Dát åhpadimgárvvidus le buojkulvis gåktu oahppe máhtti barggat jåvsåtjit máhtudakmihtojt ma li nammadum vuollelin. Dánna vuoseduvvá gåktu máhtudakmihto båhti vuojnnuj åhpadusmihttomierijn, ma li lávke gåktu jåksåt máhtudakmihtojt. Åhpadimgárvvidus vuoset muhtem barggamvuogijt, gåktu vuodotjehpudagá åvtåstuhteduvvi ja gåktu åhpadiddje hiebat åhpadusáv oahppijda ja árvustallá sijájt bargadahttijn. Le aj buojkulvisá gåktu oahppe ietjasa ja guhtik guojmesa árvustalli.</p>
+<p>Åhpadimgárvvidus vuoset gåktu oahppe máhtti buohtastahttet guovte álggoálmmugij</p>
+<p type="title">Máhtudakmihto LK06-S an</p>
+<p><em type="italic">Máhtudakmihto </em><em type="italic">Jo2 - oahppogárvedime åhpadusprográmma ja lasádusá dábálasj oahppomáhtudahkaj - viddnofágalasj åhpadusprográmma maŋŋela </em></p>
+<p>Árbbedábálasj máhtto</p>
+<p><em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em></p>
+<list><p type="listitem">tjielggit sáme subtsastallamdábev</p>
+<p type="listitem">subttsasijt subtsastallat gånnå adná elementajt sáme subtsastallamdábes</p>
+<p type="listitem">buohtastahttet sáme subttsasijt ietjá álggoálmmugij ja ietjá kultuvraj subttsasij</p>
+</list><p type="title">Åhpadusmihttomiere</p>
+<p>Máhtudakmihto båhti vuojnnuj åhpadusmihttomierijn, ma li lávke jåvsåtjit máhtudakmihtojt.</p>
+<p>Oahppe galggá máhttet</p>
+<list><p type="listitem">subtsastit sáme subtsastallamvuoge birra</p>
+<p type="listitem">tjielggit guovdásj moallánagájt ma sáme subtsastallamvuohkáj gulluji</p>
+<p type="listitem">mujttalit dålusj subttsasav mij la sierralágásj sáme</p>
+<p type="listitem">tjállet subtsasav mij la sáme vuohkáj</p>
+<p type="listitem">åhtsåt gåktu sáme dålusj subtsas ja inuihta dålusj subtsas libá muodogattja ja gåktu æbá la</p>
+</list><p type="title">Vuodotjehpudagá</p>
+<p><em type="italic">Máhttet låhkåt: </em>Oahppe låhki duov dáv dålusj subtsasav, giehtov, dijdav ja ietjá tevstajt ma tiebmáj gulluji. Sij låhki guokta subtsasa majt galggi buohtastahttet. </p>
+<p><em type="italic">Máhttet njálmálattjat åvddånbuktet: </em>Oahppe subttsasav njálmálattjat åvddånbukti. </p>
+<p><em type="italic">Máhttet tjálálattjat åvddånbuktet: </em>Oahppe tjálli subtssasav, tjálli sierra dåbddåmerkajt gå buohtastahtti subtssasijt duot dát kultuvras. </p>
+<p><em type="italic">Máhttet digitála ræjdojt adnet: </em>Oahppe tjálli subttsasav dáhtámasjijnan ja divvu ietjasa tevstajt maŋŋela gå åhpadiddje ja/jali oahppeguojmme le tjálálattjet ja/jali njálmálattjat diededam. Sij máhtti sjiemáv dahkat gånnå buohtastahtti subttsasijt iesjgeŋga kultuvras. </p>
+<p type="title">Oahppamdåjma</p>
+<p>Åhpadiddje oahpásmahttá tiemáv subtsastit árbbedábálasj sáme dålusj subtssasav, jali dibdá oahppijt jiednabáttev gulldalit dakkir subtssasasijn.</p>
+<p>Oahppe ságasti aktan majt sij diehti sierra dåbddåmerkaj birra sáme subtastallamvuogen. Åhpadidddje tjielggi sáme árbbedáben ij álu le álkke sieradit nammadusájt ja snivva tjielggit mij la dålusj subtsas ja mij la subtsas/giehtto.</p>
+<p>Maŋŋela subtsas åhpadiddje álggoálmmugij girjálasjvuoda birra histåvrålasj perspektijvan.</p>
+<p>Oahppe gæhttji avtav jali moadda filma. Máhttelis la DVDajt luojggat Sámedikke oahpponævvoguovdátjin Guovdagæjnon. Oahppe ságasti filmaj sisanoj birra.</p>
+<p>Filmmabuojkulvisá:</p>
+<list><p type="listitem"><em type="italic">Subttsasa duot dát guovlos ( </em>DVD) </p>
+<p type="listitem"><em type="italic">Niellja almmuksubttsasa ( </em>DVD) </p>
+<p type="listitem" xml:lang="nob"><em type="italic">Lohkanboddu 1 ja 2 </em>, Sara Margrethe Oskal muitala muitalusaid </p>
+<p type="listitem"><em type="italic">Heamturh eatnamistie, gaedtijste, Heamturt eatnam subttsasa duoppet dáppet, Máidnasat duoppil dáppil </em>(DVD) </p>
+<p type="listitem"><em type="italic">Gánda ja Golleloddi </em>(DVD) </p>
+<p type="listitem"><em type="italic">Máret áhkku muitala </em>(DVD) </p>
+<p type="listitem"><em type="italic">Máret áhkku muitala muitalusa </em></p>
+</list><p>Oahppe ságasti aktan makkir dåbddomerka li dålusj subtssasijn, ja tjálli aktisasj listav dåbddåmerkaj. Dåbddåmerka vuodon, tjálli oahppe ietja subtssasijt. Hárjjidalli subtsastit subtssasijt, ja oahppeguojmmáj, juohkusij jali ålles klássaj subtsasti. Oahppe gulldali guhtik guojmesa subtssasijt ja diededi makkir dåbddomerkajt ielvvin ja majt sáme subtsastallamvuoges dåbddin.</p>
+<p>Oahppe låhki avtav sáme ja avtav inuihta dålusj subtssasav ja buohtastahtti dajt.</p>
+<p>Dålusj subtsas oajvvádusá</p>
+<list><p type="listitem" xml:lang="nob">Nisu guhte náitalii reahkain (inuittisk eventyr) i boka <em type="italic">Mearragátti muitalusat </em></p>
+<p type="listitem">Niejdda guhti sjattaj gållegoallesen(samisk eventyr) bok </p>
+</list><p>Oahppe dahki sjiemáv majt sij adni gå buohtastahtti sáme dålusj subtssasijt ietjá álggoálmmukij subttsasij. Sjiemán la gålmmå gárggása. Gåro gárggásij tjálli mij la sierralágásj sáme subtssasijn. Oalges gárggásij tjálli sij mij la sierralágásj árbbedáben majna sij buohtastahtti. Gasskogárggásij tjálli oahppe mij la sæmmilágásj dajn guovte kultuvrajn. Máhttá bájnojn mierkkit gåro ja oalges gárggásin dajt tjuokkajt ma li sierralágátja dajn guovte kultuvran.</p>
+<p>Sæmmiláhkáj máhtti oahppe buohtastahttet sáme dålusj subttsasav subttsasijn ietjá árbbedábes.</p>
+<p type="title">Hiebadum åhpadus</p>
+<p>Subtssasijt majt oahppe låhki, máhtti guhkebu ja oanebu, ja iesjgeñgalágásj gásjelisvuodaj. Muhtema li oahppijda oahpes ja iehtjáda vas ådå. Gå oahppe ietja galggi subtsastit, buohtastahttet ja tjállet subttsasijt le álkkebu vuodon válldet oahpes subttsasijt gå amás subttsasijt..</p>
+<p>Muhtem oahppe subtsasti binnáv sáme subtsastallamvuoge birra, medin iehtjáda snivva tjielggiji ájnnasamos dåbddåmerkajt.</p>
+<p>Muhtem oahppe diktiji subtssasijt ma sisanojn ja ásadimijn li vargga sæmmi gå álggoversjåvnnå subttsasin majt sij åvtåtjis dåbddi, jali ahtjak li låhkåm. Iehtjáda vas luovviji ietjasa ájnegissubttsasijs, sjáŋŋara sisbielen tjálli ja sæmmi boahta aj sáme árbbedábij milta.</p>
+<p>Oahppe ietja válljiji gallásij ja gesi sihti subtssasav subtsastit. Muhtema jálot subtsasti jur åhpadiddjáj jali oahppeguojmmáj. Iehtjáda soapptsu gå le ienep gulldalidje.</p>
+<p>Muhtem oahppe låhki ienep subttsasijt ja subtssasijt moattet álggoálmmugijs ja buohtastahtti dajt ietjá subttsasij.</p>
+<p>Duodden njálmálattjat subtsastit máhtti muhtema drámátiserit subtssasav.</p>
+<p type="title">Guhkásåhpadibme</p>
+<p>Dát åhpadimgárvvidus hiehpá buoragit guhkásåhpadibmen danen gå oahppe galggi subtsastit, ságastit ja buohtastahttet subttsasijt. Åhpadiddje sjaddá gulldalidje ja ságastallam- ja/jali dágástallamguojmme. Åhpadiddje oadtju buorre vejulasjvuodav åhpadit ja dibddet oahppev hárjjidallat árbbedábálasj bágojt ja moallánagájt.</p>
+<p type="title">Árvustallam</p>
+<p><em type="italic">Árvustallam bargadahttijn </em></p>
+<p>Åhpadiddje oahppijt bargadahttijn njálmálattjat ja/jali tjálálattjat árvustallá. Mávsulasj le diededit oahppijda dan láhkáj sij diehti majna galggi barggat vaj ietjasa máhtudagájt åvdedi. Sij aj dárbahi bagádallamijt gåktu sij máhtti dav dahkat.</p>
+<p>Gå oahppe subttsasijt tjálli, de vuostasj tjállusij oadtju diededimijt. Sij oadtju diehtet mij la buorre, ja bagádallamijt gåktu joarkket bargov subttsasijn. Vuoduj válldit listav dåbddåmerkaj. Majt la oahppe maŋen válldám ja mij vájllu?</p>
+<p>Åhpadiddje máhttá adnet Árvustallamsjiebmá: Prosjæktabarggo- njálmálasj åvddånbuktem ja Árvustallamsjiebmá: Guhkestjálos árvustallamin. Dá aj dåhkkiji gå oahppe galggi ietjasa jali guhtik guojmesa árvustallat. </p>
+<p><em type="italic">Iesjárvustallam jali guhtik guojmesa árvustallam </em>Dála le buojkulvis majt oahppe máhtti adnet gå galggi ietjasa árvustallat, ja/jali gå galggi diededimijt nubbe nubbáj vaddet. Sij árvustalli majt sij bukti ja majt máhtti/vierttiji dahkat jåvsåtjit alep máhtudagájt. </p>
+<p>Namma:</p>
+<p>Biejvve:</p>
+<p><em type="bold">Åhpadusmihttomiere </em></p>
+<p><em type="bold">Dáv ij riekta máhte </em></p>
+<p><em type="bold">Dáv máhtáv </em></p>
+<p><em type="bold">Dáv máhtáv huj buoragit </em></p>
+<p>sáme subtsastallamdábe birra subtsastit</p>
+<p>tjielggit guovdásj moallánagájt ma sáme subtsastallamdáhpáj gulluji</p>
+<p>mujttalit subttsasav sáme vuogijn</p>
+<p>sierralágásj sáme subttsasav tjállet</p>
+<p>guoradallat gåktu sáme ja inuihta subttsasa li muodulattja jali ælla</p>
+<p>sierralágásj sáme subttsasav tjállet</p>
+<p type="title" xml:lang="nob">Resursa</p>
+<p xml:lang="nob">FRIIS, JENS ANDREAS 1999: Áfruvvá. I: Else Søndergaard (red) et al.: Mearragátti muitalusat. S. 23-24. Indre Billefjord: Iđut. Eventyret <span type="quote">“Áfruvvá”</span> er første gang publisert i: Friis, J.A. 1871: Eventyr og Folkesagn. Christiania: Cammermeyer</p>
+<p xml:lang="nob">BERGSLAND, KNUT 1987: Gåebrehki soptsesh. (Røros-samiske tekster). Oslo: Universitetsforlaget, 2. utgave.</p>
+<p xml:lang="nob">BIRKELAND, KIRSTI 2002: Staaloeh vienhtieh aske lea dålle. [Oslo:] J.W. Cappelens Forlag as</p>
+<p xml:lang="nob">BULL, ELLA HOLM - BERGSLAND, KNUT 1993: Lohkede saemien. Kárášjohka: Davvi Girji o.s., 2. utgave. (bok og kassetter)</p>
+<p xml:lang="nob">QVIGSTAD, JUST KNUD 1996: Aarporten jih Åarjel-smaaregen soptsesh. 2. utgave. [Kautokeino:] Samisk utdanningsråd.</p>
+<p>Dájt dåhkki luojkkat Sámedikke oahpponævoguovdátjin, Kautokeino.</p>
+<p xml:lang="nob">Lohkanboddu 1 ja 2, Sara Margrethe Oskal muitala muitalusaid (VHS163 og 164)</p>
+<p>Gánda ja Golleloddi (DVD 97)</p>
+<p xml:lang="nob">Njieljie åålmeg-heamturh. Saemiedigkie 2002 (liten bok og cd)</p>
+<p>Heamturh eatnamistie, gaedtijste. Heamturt eatnam subttsasa duoppet dáppet. Máidnasat duoppil dáppil DVD. 2007. Oslo: Norsk filminstitutt</p>
+<p xml:lang="nob"><span type="quote">“Máret áhkku muitala”</span>. Produsent: NRK Sámi Radio 1991 28 min. (Sametingets læremiddelsentral DVD 130)</p>
+<p xml:lang="nob"><span type="quote">"Máret áhkku muitala muitalusa"</span>. Produsent: NRK Sámi Radio 1991.</p>
+<p>Qvigstad, Just: <em type="italic">Subttsasa Nordlándas </em>. Forlaget Báhko 2008, 46 s. </p>
+<p xml:lang="nob">Storjord, Thorbjørn: <em type="italic">Lulesamiske eventyr </em>, Bodø lærerhøgskole 1991, 42 s. </p>
+<p xml:lang="nob">Julevsámebåddå; http://sverigesradio.se/sida/gruppsida.aspx?programid=3967&amp;grupp=13550</p>
+<p xml:lang="nob">TOVE SOLUM; <em type="italic">Verden er så stor så stor </em>, Solun forlag 2003 </p>
+<p xml:lang="nob">KLAUS SLAVENSKY; <em type="italic">Sangens kraft </em>, Det danske senter for menneskerettigheter 1994 </p>
+</body></document>

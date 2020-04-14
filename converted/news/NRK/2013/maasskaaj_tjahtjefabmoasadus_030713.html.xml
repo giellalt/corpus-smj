@@ -1,48 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Måsskåj tjáhtjefábmoásadus</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/>
-    </author>
-    <year>2013</year>
-    <publChannel>
-      <publication>
-        <publisher>NRK Sápmi</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>118</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@it.no"/>
-    <origFileName>http://nrk.no/kanal/nrk_sapmi/samegillii/1.11114349</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Samegillii</p>
-    <p>
-      <em type="italic">Maŋimuš ođđasat sámegillii </em>
-    </p>
-    <p/>
-    <p type="title">Måsskåj tjáhtjefábmoásadus</p>
-    <p>Bæjválasj jådediddje Simon Andersen, MuskenSenter AS la sån gut sihtá dulvvadit Rumbojávrijt ja Niejdavákkjávrev ja ásadit tjáhtjefábmoásadusáv Måsskåj, Divtasvuodnaj.</p>
-    <p>Vidnudahka MuskenSenter AS pláni tsieggit tjáhtjefábmoásadusáv Måsskåj, Divtasvuonan.</p>
-    <p>Duolli lij diededimtjåhkanibme Måsken dáj plánaj birra, ja dåppe aj NRK manáj.</p>
-    <p>Vidnudahka MuskenSenter AS la diededam Vuona tjátjádak- ja energijadirektoráhttaj (NVE:aj) vidnudagá plánaj birra ásadit tjáhtjefábmoásadusáv Måsskåj, Divtasvuonan.</p>
-    <p>Ássje l dálla vuostasj guláskuddamin bårggemáno vuostasj biejve rádjáj, ja vuollelin subtsas MuskenSenter:a bæjválasj jådediddje, Simon Andersen ienebuv dáj plánaj birra.</p>
-    <p>
-      <em type="italic">GULLDAL DÁNNA MUSKENSENTERA PLÁNAJ BIRRA: </em>
-    </p>
-    <p type="title">Vuosteldi dulvvadimplánajt</p>
-    <p>Divna e spættjo giedajt dájda plánajda MuskenSenteris.</p>
-    <p>Sidjij gejda ássje guosská, Davve-Vássjága sjaddi vuosteldit dájt plánajt, javllá Davve-Vássjá sijda jådediddje, Oddmund Paulsen dánna vuollelin.</p>
-    <p>
-      <em type="italic">MANEN DAV GULLDAL DÁNNA: </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Måsskåj tjáhtjefábmoásadus</title><genre code="news"/><author><person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/></author><year>2013</year><publChannel><publication><publisher>NRK Sápmi</publisher></publication></publChannel><wordcount>118</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@it.no"/><origFileName>http://nrk.no/kanal/nrk_sapmi/samegillii/1.11114349</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Samegillii</p>
+<p><em type="italic">Maŋimuš ođđasat sámegillii </em></p>
+<p/>
+<p type="title">Måsskåj tjáhtjefábmoásadus</p>
+<p>Bæjválasj jådediddje Simon Andersen, MuskenSenter AS la sån gut sihtá dulvvadit Rumbojávrijt ja Niejdavákkjávrev ja ásadit tjáhtjefábmoásadusáv Måsskåj, Divtasvuodnaj.</p>
+<p>Vidnudahka MuskenSenter AS pláni tsieggit tjáhtjefábmoásadusáv Måsskåj, Divtasvuonan.</p>
+<p>Duolli lij diededimtjåhkanibme Måsken dáj plánaj birra, ja dåppe aj NRK manáj.</p>
+<p>Vidnudahka MuskenSenter AS la diededam Vuona tjátjádak- ja energijadirektoráhttaj (NVE:aj) vidnudagá plánaj birra ásadit tjáhtjefábmoásadusáv Måsskåj, Divtasvuonan.</p>
+<p>Ássje l dálla vuostasj guláskuddamin bårggemáno vuostasj biejve rádjáj, ja vuollelin subtsas MuskenSenter:a bæjválasj jådediddje, Simon Andersen ienebuv dáj plánaj birra.</p>
+<p><em type="italic">GULLDAL DÁNNA MUSKENSENTERA PLÁNAJ BIRRA: </em></p>
+<p type="title">Vuosteldi dulvvadimplánajt</p>
+<p>Divna e spættjo giedajt dájda plánajda MuskenSenteris.</p>
+<p>Sidjij gejda ássje guosská, Davve-Vássjága sjaddi vuosteldit dájt plánajt, javllá Davve-Vássjá sijda jådediddje, Oddmund Paulsen dánna vuollelin.</p>
+<p><em type="italic">MANEN DAV GULLDAL DÁNNA: </em></p>
+</body></document>

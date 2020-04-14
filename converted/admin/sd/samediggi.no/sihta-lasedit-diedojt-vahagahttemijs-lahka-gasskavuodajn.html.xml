@@ -1,55 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>390</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Varresvuohta-ja-sosialla/Sosialla/Sihta-lasedit-diedojt-vahagahttemijs-lahka-gasskavuodajn</origFileName>
-    <parallel_text xml:lang="nob" location="vil-oeke-kunnskapen-om-vold-i-naere-relasjoner.html"/>
-    <parallel_text xml:lang="sma" location="saejhta-daajroem-lissiehtidh-vaedtsoesvoeten-bijre-lihke-fuelhkine.html"/>
-    <parallel_text xml:lang="sme" location="haliidit-buoridit-mahtu-veahkavalddi-birra-lagas-oktavuodain.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sihtá lasedit diedojt vahágahttemijs lahka gasskavuodajn / Sosiálla / Varresvuohta ja sosiálla / Sámedigge - Sametinget</p>
-    <p type="title">Sihtá lasedit diedojt vahágahttemijs lahka gasskavuodajn</p>
-    <p xml:lang="sme">16. goeve 2014</p>
-    <p>Sámedikke budsjehtan 2015 jahkáj le juolloduvvam 450 000,- prosjæktaj vahágahttemijs lahka gasskavuodajn sáme sebrudagán. Prosjækta le aktisasjbarggo Justijssa- ja gárvedimdepartementajn. Ájggomus prosjevtajn la guoradallat makkár faktåvrå sáme sebrudagán vájkkudi vahágahttemijt lahka gasskavuodajn ja man galli, ja duodden gåktu ilmodibme, duostudibme ja viehkkedåjma máhtti hiebadahteduvvat buoremus láhkaj sáme álmmugij.</p>
-    <p>
-      <em type="bold">- Sámediggeráde sihtá liehket oassálasste sebrudagán duostudittjat vahágahttemijt nissunij vuossti. Doajvvop mij oadtjop ådå diedojt gåktu viehkkeásadus máhttá vahágahtedum ulmutjijt duosstot ja vaddet buoremus viehkev gå máhttelis, javllá rádeájras Henrik Olsen. </em>
-    </p>
-    <p>Vahágahttema lahka gasskavuodajn li duodalasj gássjelisvuoda sebrudagán ja bahádahko. Merustaládum la gassko 75 000 ja 150 000 ulmutja Vuonan jahkásattjat boadádalli vahágahttemijda lahka gasskavuodan. Vargga 10 % nissunijs Vuonan li nákkujn váldáduvvam, lahkke sijás lidjin nuorabu 18 jages. Dåssju 11% váldáduvvamijs diededuvvi politijaj.</p>
-    <p>
-      <em type="bold">- Miján ij la oarre jáhkket vidjura li ietjálágátja sáme sebrudagán. Sámedigge barggá vaj viehkke- ja doarjjaásadusá hæhttuji adnet máhttudagájt vahágahtedum ulmutja gielan ja kultuvran. Dát la ållagattjat ájnas gå ulmusj la várnajhamos dilen, javllá rádeájras Olsen. </em>
-    </p>
-    <p>Rádeájras Henrik Olsen dættot vijdábut gájkka illastibme sáme nissunijs ja næjtsojs seksuálalattjat ja vahágahttemláhkáj ij la dåhkkidahtte.</p>
-    <p>
-      <em type="bold">- Miján la dárbbo tsuojgos sáme hållaulmutjijt gudi åvdedi dáv javllamusáv goappátjagá skåvlån, nuoraj birrasin ja sebrudakorganisasjåvnåjn. Viehkkeásadus viertti sjaddat smidáp gatjádittjat nissunijs jus vahágahttemijt vásedi, ja duosstat dákkir hielles ássjes sáhkadit. Dåbdåstit vahágisdago dáhpáduvvi ietjas ja lahka ulmutjij iellemin la læhkám ja vilá le dakkára massta ij ságasta. Dan diehti ij goassak galga liehket juorrulibme vahágisdahkken la vásstádus vierredagos, ij goassak sujna gut vaháguvvá. Vahágahttem nissunij vuossti ij la priváhta ássje. Dat la bahádahko mij viertti giehtadaláduvvat dan milta. </em>
-    </p>
-    <p>Vahágahttema lahka gasskavuodajn le aj duodas buohtaárvvogássjelisvuohta. Juska sæmmi ållo nissuna gå ålmmå vásedi vahágahttemijt iellemguojmestisá, de li ienemusát nissuna gudi nákkujn váldádalli ja nissuna gudi vásedi bahámus vahágahttemijt.</p>
-    <p>
-      <em type="bold">Lasedime sáme buohtaárvvoorganisasjåvnåjda </em>
-    </p>
-    <p>Doarjja sáme buohtaárvvoorganisasjåvnåjda le læhkám majt åhtså, ja avta biednikmieren moadda jage.</p>
-    <p>Sámediggeráde le dan diehti ávon gå máhttá dårjav dájda organisasjåvnåjda lasedit aj boahtte jage budsjehtan. Gå sjaddá njuolgga doarjjan de dahká dat álkkebun dårjav månnat åvddålij guovlluj.</p>
-    <p>
-      <em type="bold">- Mij barggap buohtaárvulasj sáme sebrudagá diehti avta rievtesvuodaj, vælggogisvuodaj ja máhttelisvuodaj goappásj sjiervijda. Same buohtaárvvoorganisasjåvnå li ájnas dåmadiddje dan bargon. Da åvdedi buohtaárvvo politihkalasj ássjijt sáme sebrudagán ja da hásstali Sámedikkev buohtaárvvoássjijn, javllá rádeájras Henrik Olsen maŋemusát. </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>390</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Varresvuohta-ja-sosialla/Sosialla/Sihta-lasedit-diedojt-vahagahttemijs-lahka-gasskavuodajn</origFileName><parallel_text xml:lang="nob" location="vil-oeke-kunnskapen-om-vold-i-naere-relasjoner.html"/><parallel_text xml:lang="sma" location="saejhta-daajroem-lissiehtidh-vaedtsoesvoeten-bijre-lihke-fuelhkine.html"/><parallel_text xml:lang="sme" location="haliidit-buoridit-mahtu-veahkavalddi-birra-lagas-oktavuodain.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sihtá lasedit diedojt vahágahttemijs lahka gasskavuodajn / Sosiálla / Varresvuohta ja sosiálla / Sámedigge - Sametinget</p>
+<p type="title">Sihtá lasedit diedojt vahágahttemijs lahka gasskavuodajn</p>
+<p xml:lang="sme">16. goeve 2014</p>
+<p>Sámedikke budsjehtan 2015 jahkáj le juolloduvvam 450 000,- prosjæktaj vahágahttemijs lahka gasskavuodajn sáme sebrudagán. Prosjækta le aktisasjbarggo Justijssa- ja gárvedimdepartementajn. Ájggomus prosjevtajn la guoradallat makkár faktåvrå sáme sebrudagán vájkkudi vahágahttemijt lahka gasskavuodajn ja man galli, ja duodden gåktu ilmodibme, duostudibme ja viehkkedåjma máhtti hiebadahteduvvat buoremus láhkaj sáme álmmugij.</p>
+<p><em type="bold">- Sámediggeráde sihtá liehket oassálasste sebrudagán duostudittjat vahágahttemijt nissunij vuossti. Doajvvop mij oadtjop ådå diedojt gåktu viehkkeásadus máhttá vahágahtedum ulmutjijt duosstot ja vaddet buoremus viehkev gå máhttelis, javllá rádeájras Henrik Olsen. </em></p>
+<p>Vahágahttema lahka gasskavuodajn li duodalasj gássjelisvuoda sebrudagán ja bahádahko. Merustaládum la gassko 75 000 ja 150 000 ulmutja Vuonan jahkásattjat boadádalli vahágahttemijda lahka gasskavuodan. Vargga 10 % nissunijs Vuonan li nákkujn váldáduvvam, lahkke sijás lidjin nuorabu 18 jages. Dåssju 11% váldáduvvamijs diededuvvi politijaj.</p>
+<p><em type="bold">- Miján ij la oarre jáhkket vidjura li ietjálágátja sáme sebrudagán. Sámedigge barggá vaj viehkke- ja doarjjaásadusá hæhttuji adnet máhttudagájt vahágahtedum ulmutja gielan ja kultuvran. Dát la ållagattjat ájnas gå ulmusj la várnajhamos dilen, javllá rádeájras Olsen. </em></p>
+<p>Rádeájras Henrik Olsen dættot vijdábut gájkka illastibme sáme nissunijs ja næjtsojs seksuálalattjat ja vahágahttemláhkáj ij la dåhkkidahtte.</p>
+<p><em type="bold">- Miján la dárbbo tsuojgos sáme hållaulmutjijt gudi åvdedi dáv javllamusáv goappátjagá skåvlån, nuoraj birrasin ja sebrudakorganisasjåvnåjn. Viehkkeásadus viertti sjaddat smidáp gatjádittjat nissunijs jus vahágahttemijt vásedi, ja duosstat dákkir hielles ássjes sáhkadit. Dåbdåstit vahágisdago dáhpáduvvi ietjas ja lahka ulmutjij iellemin la læhkám ja vilá le dakkára massta ij ságasta. Dan diehti ij goassak galga liehket juorrulibme vahágisdahkken la vásstádus vierredagos, ij goassak sujna gut vaháguvvá. Vahágahttem nissunij vuossti ij la priváhta ássje. Dat la bahádahko mij viertti giehtadaláduvvat dan milta. </em></p>
+<p>Vahágahttema lahka gasskavuodajn le aj duodas buohtaárvvogássjelisvuohta. Juska sæmmi ållo nissuna gå ålmmå vásedi vahágahttemijt iellemguojmestisá, de li ienemusát nissuna gudi nákkujn váldádalli ja nissuna gudi vásedi bahámus vahágahttemijt.</p>
+<p><em type="bold">Lasedime sáme buohtaárvvoorganisasjåvnåjda </em></p>
+<p>Doarjja sáme buohtaárvvoorganisasjåvnåjda le læhkám majt åhtså, ja avta biednikmieren moadda jage.</p>
+<p>Sámediggeráde le dan diehti ávon gå máhttá dårjav dájda organisasjåvnåjda lasedit aj boahtte jage budsjehtan. Gå sjaddá njuolgga doarjjan de dahká dat álkkebun dårjav månnat åvddålij guovlluj.</p>
+<p><em type="bold">- Mij barggap buohtaárvulasj sáme sebrudagá diehti avta rievtesvuodaj, vælggogisvuodaj ja máhttelisvuodaj goappásj sjiervijda. Same buohtaárvvoorganisasjåvnå li ájnas dåmadiddje dan bargon. Da åvdedi buohtaárvvo politihkalasj ássjijt sáme sebrudagán ja da hásstali Sámedikkev buohtaárvvoássjijn, javllá rádeájras Henrik Olsen maŋemusát. </em></p>
+</body></document>

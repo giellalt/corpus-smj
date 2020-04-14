@@ -1,44 +1,13 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>GÅLLEGIELLA- Nuorttarijkaj sáme giellaguddnebálkká juogeduvvá tjavtjan 2018</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2018</year>
-    <wordcount>165</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/AAdaasa/GAALLEGIELLA-Nuorttarijkaj-same-giellaguddnebalkka-juogeduvva-tjavtjan-2018</origFileName>
-    <parallel_text xml:lang="nob" location="foreslaa-din-kandidat-til-gollegiella-2018.html"/>
-    <parallel_text xml:lang="sma" location="raeresth-dov-kandidaatem-gulliegielese-2018.html"/>
-    <parallel_text xml:lang="sme" location="evttot-kandidahta-jagi-2018-giellabalkkasupmai.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">GÅLLEGIELLA- Nuorttarijkaj sáme giellaguddnebálkká juogeduvvá tjavtjan 2018</p>
-    <p>GÅLLEGIELLA- Nuorttarijkaj sáme giellaguddnebálkká juogeduvvá gávtsát bále tjavtjan 2018, sámeministarij ja sámedikkepresidentaj jahkásasj tjåhkanimen basádismáno Oslon.</p>
-    <p>Giellaguddnebálkká juogeduvvá aktugattjajda jali organisasjåvnåjda Vuonan, Svierigin, Suoman jali Gárjjelin sámegielajt åvddånahtátjit.</p>
-    <p>Gållegiella- Nuorttarijkaj sáme giellaguddnebálkká l ásaduvvam sámeministarijs ja sámedikkepresidentajs Vuonan, Svierigin ja Suoman. Guddnebálkká juogeduvvá fert nuppát jage, vuostasj bále jagen 2004. Guddnebálkká stuorrudak le 15 000 euro.</p>
-    <p type="title">Giellaguddnebálkká ulmme</p>
-    <p>Giellaguddnebálkká ulmme l sámegielajt åvddånahttet ja várjjalit Vuonan, Svierigin, Suoman ja Gárjjelin.</p>
-    <p type="title">Gut máhttá giellaguddnebálkáv oadtjot?</p>
-    <p>Giellaguddnebálkká juogeduvvá aktugattjajda, juohkusijda, organisasjåvnåjda, siebrijda ja institusjåvnåjda gudi li árvostahttám sámegielav/sámegielajt tjálalattjat, njálmálattjat jali ietjá láhkáj. Gájklágátja álggaga ma åvddånahtti gielav vieleduvvi. Guddnebálkká máhttá juogeduvvat guoktásij.</p>
-    <p type="title">Oajvvada åhttsev!</p>
-    <p>Viesádijt, organisasjåvnåjt, institusjåvnåjt ja fábmudagájt Vuonan, Svierigin, Suoman ja Gárjjelin máhtti nammadit åhttsev giellaguddnebálkkáj 2018. Buvte tjálalasj oajvvadusáv vuojtten ja tjálalasj tjielggidusájn 2 biele.</p>
-    <p>
-      <em type="italic">Sáddi oajvvadusáv åvddål ragátmáno 9. biejve 2018. Diededibme rájaduvvá árvustallamrádáj: </em>
-    </p>
-    <p xml:lang="nno">Gollegiella - bedømningskomiteen SAMI, Kommunal- og moderniseringsdepartementet, Postboks 8112 Dep, 0032 Oslo, Norway Tel: +47 22 24 68 46 e-mail: postmottak@kmd.dep.no</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>GÅLLEGIELLA- Nuorttarijkaj sáme giellaguddnebálkká juogeduvvá tjavtjan 2018</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2018</year><wordcount>165</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/AAdaasa/GAALLEGIELLA-Nuorttarijkaj-same-giellaguddnebalkka-juogeduvva-tjavtjan-2018</origFileName><parallel_text xml:lang="nob" location="foreslaa-din-kandidat-til-gollegiella-2018.html"/><parallel_text xml:lang="sma" location="raeresth-dov-kandidaatem-gulliegielese-2018.html"/><parallel_text xml:lang="sme" location="evttot-kandidahta-jagi-2018-giellabalkkasupmai.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">GÅLLEGIELLA- Nuorttarijkaj sáme giellaguddnebálkká juogeduvvá tjavtjan 2018</p>
+<p>GÅLLEGIELLA- Nuorttarijkaj sáme giellaguddnebálkká juogeduvvá gávtsát bále tjavtjan 2018, sámeministarij ja sámedikkepresidentaj jahkásasj tjåhkanimen basádismáno Oslon.</p>
+<p>Giellaguddnebálkká juogeduvvá aktugattjajda jali organisasjåvnåjda Vuonan, Svierigin, Suoman jali Gárjjelin sámegielajt åvddånahtátjit.</p>
+<p>Gållegiella- Nuorttarijkaj sáme giellaguddnebálkká l ásaduvvam sámeministarijs ja sámedikkepresidentajs Vuonan, Svierigin ja Suoman. Guddnebálkká juogeduvvá fert nuppát jage, vuostasj bále jagen 2004. Guddnebálkká stuorrudak le 15 000 euro.</p>
+<p type="title">Giellaguddnebálkká ulmme</p>
+<p>Giellaguddnebálkká ulmme l sámegielajt åvddånahttet ja várjjalit Vuonan, Svierigin, Suoman ja Gárjjelin.</p>
+<p type="title">Gut máhttá giellaguddnebálkáv oadtjot?</p>
+<p>Giellaguddnebálkká juogeduvvá aktugattjajda, juohkusijda, organisasjåvnåjda, siebrijda ja institusjåvnåjda gudi li árvostahttám sámegielav/sámegielajt tjálalattjat, njálmálattjat jali ietjá láhkáj. Gájklágátja álggaga ma åvddånahtti gielav vieleduvvi. Guddnebálkká máhttá juogeduvvat guoktásij.</p>
+<p type="title">Oajvvada åhttsev!</p>
+<p>Viesádijt, organisasjåvnåjt, institusjåvnåjt ja fábmudagájt Vuonan, Svierigin, Suoman ja Gárjjelin máhtti nammadit åhttsev giellaguddnebálkkáj 2018. Buvte tjálalasj oajvvadusáv vuojtten ja tjálalasj tjielggidusájn 2 biele.</p>
+<p><em type="italic">Sáddi oajvvadusáv åvddål ragátmáno 9. biejve 2018. Diededibme rájaduvvá árvustallamrádáj: </em></p>
+<p xml:lang="nno">Gollegiella - bedømningskomiteen SAMI, Kommunal- og moderniseringsdepartementet, Postboks 8112 Dep, 0032 Oslo, Norway Tel: +47 22 24 68 46 e-mail: postmottak@kmd.dep.no</p>
+</body></document>

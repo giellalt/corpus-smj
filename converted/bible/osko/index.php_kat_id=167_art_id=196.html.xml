@@ -1,46 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>96</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=167&amp;art_id=196</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=167_art_id=196.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=167_art_id=196.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=167_art_id=196.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åhpav: Tjáhtje</p>
-    <p type="title">Konfirmasjåvnnå</p>
-    <p>Gásta baktu sjaddap oassen ristagis girkkos. Æjgáda ja fáddara máná åvdås dáv dahki. Konfirmasjåvnån nuora ietja åvdåsvásstádusáv válldi. Danen le luondulasj juohkkahattjaj guhti le girkkon gástaduvvam, girkkon aj konfirmeriduvvat. Konfirmasjåvnnå mierkki duodastus. Konfirmasjåvnån duodas Jubmel jut loahpádusá majt gástan vattij, ájn li ájmon.</p>
-    <p>Konfirmasjåvnnåájgen besa ienep diehtet ietjat jáhko birra, Rámáda birra ienebuv oahppat, ristagis jáhko birra ságastit, girkkuj oahppásin sjaddat, ådå ájádusájt oadtjot iellema birra, ja berustahttáj girkko, bájkálasj sebrudagá ja værálda åvdås.</p>
-    <p>Mij le ájnnasamos sivva gå sidá konfirmeriduvvat? Mav ietjat konfirmasjåvnnåájge gáktuj sávada?</p>
-    <p>Lågå ienebut konfirmasjåvnå birra</p>
-    <p>dappe.</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>96</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=167&amp;art_id=196</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=167_art_id=196.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=167_art_id=196.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=167_art_id=196.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åhpav: Tjáhtje</p>
+<p type="title">Konfirmasjåvnnå</p>
+<p>Gásta baktu sjaddap oassen ristagis girkkos. Æjgáda ja fáddara máná åvdås dáv dahki. Konfirmasjåvnån nuora ietja åvdåsvásstádusáv válldi. Danen le luondulasj juohkkahattjaj guhti le girkkon gástaduvvam, girkkon aj konfirmeriduvvat. Konfirmasjåvnnå mierkki duodastus. Konfirmasjåvnån duodas Jubmel jut loahpádusá majt gástan vattij, ájn li ájmon.</p>
+<p>Konfirmasjåvnnåájgen besa ienep diehtet ietjat jáhko birra, Rámáda birra ienebuv oahppat, ristagis jáhko birra ságastit, girkkuj oahppásin sjaddat, ådå ájádusájt oadtjot iellema birra, ja berustahttáj girkko, bájkálasj sebrudagá ja værálda åvdås.</p>
+<p>Mij le ájnnasamos sivva gå sidá konfirmeriduvvat? Mav ietjat konfirmasjåvnnåájge gáktuj sávada?</p>
+<p>Lågå ienebut konfirmasjåvnå birra</p>
+<p>dappe.</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

@@ -1,45 +1,12 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Gimnásaåhpadus |  Samernas Utbildningscentrum</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>231</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.samernas.se/799-2/728-2/?lang=ls</origFileName>
-    <parallel_text xml:lang="sme" location="oahpahusat_sami-joatkkaskuvlaprogramma_lang_sm9.html"/>
-    <parallel_text xml:lang="swe" location="utbildningar_gymnasieutbildning9.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Sáme Gimnásaprográmma</p>
-    <p><em type="italic">Åhpadus la Jåhkåmåhke kommuvna gimnásaskåvlån, Bokenskåvlån. </em>Tjavtjan 2014 li Bokenskåvlån Jåhkåmåhken guokta gimnásaprográmma, Sáme Prográmma (gárvet allaskåvllåj) ja Sáme Vidnudakprográmma. </p>
-    <list>
-      <p type="listitem">Sáme Prográmman la sebrudakprográmma vuodon.</p>
-      <p type="listitem">Sáme Vidnudakprográmma l virggeåhpadus.</p>
-    </list>
-    <p><em type="italic">Sáme Prográmma </em>Dunji gut sidá låhkåt sáme gimnásaåhpadusáv. Dån lågå sämmi ábnnasijt degu sebrudakprográmman. Lågå aj sámegielav, boatsojäládusåhpav, kultuvrav, duojev j.n.v. Sáme Prográmma åhpadus galggá buorre vuodov vaddet oahppijda vaj miella bissu åhpadusáv ja bargov sáme kultuvrra- ja äládussuorgijn joarkket. Åhpadus hábbmiduvvá aktan Bokenskåvlåjn. Ienemus oasse åhpadusás la Bokenskåvlån. Åhpadus la vuostatjin dunji gut la sámeintegrerigav ja sámeskåvlåv mannam jali gänna la dan lágásj duohke. </p>
-    <p><em type="italic">Sisadno </em>Vuodoábnnasa (Dárogiella A+B, Ieŋŋgis A, Matematijkka A, Estetalasj doajmma, Idråhttå ja varresvuohta A, Luonndo A, Jáhkkudahka A, Sebrudahka A) </p>
-    <p>Aktisasj ábnnasa: Sáme kultuvrra ja histåvrrå AB, Sámegiella AB, Duodje ABC, Judosmáhttudahka/Boatsojäládus, Turissma-luonndo-kultuvrra ja birás, Ieŋŋgis B, Matematijkka B, Luonndo B. Válljidahtte kursa: Iellem, Datåvrrå, Idråhttå ja varresvuohta B. Sierre vállja (Boatsojäládus)</p>
-    <p>Ienep diedo Sáme prográmma birra</p>
-    <p><em type="italic">Sáme Vidnudakprográmma </em>Åhpadus vaddá tjiegŋalap máhttudagájt barggat ja åvdedit sáme äládusáv nåv gåk boatsojäládusáv, duojev, biebmov, sáme kultuvrav ja histårjåv, vidnudagáv, vuojánteknijkav, turismav ja sámegielav. </p>
-    <p><em type="italic">Sisadno </em>Aktisasj ábnnasa gimnásan: Ieŋŋgis, Histårjjå, Idråhttå ja varresvuohta, Matematijkka, Luonndo, Jáhkkudahka, Sebrudahka, Dárogiella. </p>
-    <p>Prográmmatjiegŋudibme: Duodje, Vidnudahka, Sáme histårjjå, Nanos turissma, Bivddo ja miehttseiellesujtto, Sámegiella, Låvssim, Boatsoj ja luonndo, Boatsoj ja boatsojäládus, Sámebiebbmo ja Doalvvoma luondon. Ienep diedo Sáme Vidnudakåhpadusá birra Ienep diedo de aktavuodav válde Bokenskåvlåjn! 0971-17000</p>
-    <p type="title">Giella</p>
-    <p type="title">Duodje</p>
-    <p type="title">Boatsojäládus</p>
-    <p type="title">Sáme biebbmo</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Gimnásaåhpadus |  Samernas Utbildningscentrum</title><genre code="facta"/><author><unknown/></author><wordcount>226</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.samernas.se/799-2/728-2/?lang=ls</origFileName><parallel_text xml:lang="sme" location="oahpahusat_sami-joatkkaskuvlaprogramma_lang_sm9.html"/><parallel_text xml:lang="swe" location="utbildningar_gymnasieutbildning9.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Sáme Gimnásaprográmma</p>
+<p><em type="italic">Åhpadus la Jåhkåmåhke kommuvna gimnásaskåvlån, Bokenskåvlån. </em>Tjavtjan 2014 li Bokenskåvlån Jåhkåmåhken guokta gimnásaprográmma, Sáme Prográmma (gárvet allaskåvllåj) ja Sáme Vidnudakprográmma. </p>
+<list><p type="listitem">Sáme Prográmman la sebrudakprográmma vuodon.</p>
+<p type="listitem">Sáme Vidnudakprográmma l virggeåhpadus.</p>
+</list><p><em type="italic">Sáme Prográmma </em>Dunji gut sidá låhkåt sáme gimnásaåhpadusáv. Dån lågå sämmi ábnnasijt degu sebrudakprográmman. Lågå aj sámegielav, boatsojäládusåhpav, kultuvrav, duojev j.n.v. Sáme Prográmma åhpadus galggá buorre vuodov vaddet oahppijda vaj miella bissu åhpadusáv ja bargov sáme kultuvrra- ja äládussuorgijn joarkket. Åhpadus hábbmiduvvá aktan Bokenskåvlåjn. Ienemus oasse åhpadusás la Bokenskåvlån. Åhpadus la vuostatjin dunji gut la sámeintegrerigav ja sámeskåvlåv mannam jali gänna la dan lágásj duohke. </p>
+<p><em type="italic">Sisadno </em>Vuodoábnnasa (Dárogiella A+B, Ieŋŋgis A, Matematijkka A, Estetalasj doajmma, Idråhttå ja varresvuohta A, Luonndo A, Jáhkkudahka A, Sebrudahka A) </p>
+<p>Aktisasj ábnnasa: Sáme kultuvrra ja histåvrrå AB, Sámegiella AB, Duodje ABC, Judosmáhttudahka/Boatsojäládus, Turissma-luonndo-kultuvrra ja birás, Ieŋŋgis B, Matematijkka B, Luonndo B. Válljidahtte kursa: Iellem, Datåvrrå, Idråhttå ja varresvuohta B. Sierre vállja (Boatsojäládus)</p>
+<p>Ienep diedo Sáme prográmma birra</p>
+<p><em type="italic">Sáme Vidnudakprográmma </em>Åhpadus vaddá tjiegŋalap máhttudagájt barggat ja åvdedit sáme äládusáv nåv gåk boatsojäládusáv, duojev, biebmov, sáme kultuvrav ja histårjåv, vidnudagáv, vuojánteknijkav, turismav ja sámegielav. </p>
+<p><em type="italic">Sisadno </em>Aktisasj ábnnasa gimnásan: Ieŋŋgis, Histårjjå, Idråhttå ja varresvuohta, Matematijkka, Luonndo, Jáhkkudahka, Sebrudahka, Dárogiella. </p>
+<p>Prográmmatjiegŋudibme: Duodje, Vidnudahka, Sáme histårjjå, Nanos turissma, Bivddo ja miehttseiellesujtto, Sámegiella, Låvssim, Boatsoj ja luonndo, Boatsoj ja boatsojäládus, Sámebiebbmo ja Doalvvoma luondon. Ienep diedo Sáme Vidnudakåhpadusá birra Ienep diedo de aktavuodav válde Bokenskåvlåjn! 0971-17000</p>
+</body></document>

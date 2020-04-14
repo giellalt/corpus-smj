@@ -1,54 +1,20 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>154</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/julevsamegiella/Pages/stahtadoarrja.aspx</origFileName>
-    <parallel_text xml:lang="fin" location="nat-min-valtiontuki.html"/>
-    <parallel_text xml:lang="sma" location="nat-min-staatedaarjoeh.html"/>
-    <parallel_text xml:lang="sme" location="nat-min-stahtadoarjja.html"/>
-    <parallel_text xml:lang="swe" location="nat-min-statsbidrag.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Stáhtadoarrja - Länsstyrelsen i Stockholm</p>
-    <list/>
-    <p type="title">Stáhtadoarrja</p>
-    <p>
-      <em type="italic">Ålles budjehtas 97 miljåvnå kråvnå majt ráddidus várraj biedjá unneplågopolitijkkaj 2014, mávseduvvi 70 miljåvnå kråvnå kommuvnajda ja lánndadikkijda stáhtadoarjjan. </em>
-    </p>
-    <p type="title">Masi biedniga oadtju aneduvvat?</p>
-    <p>Stáhtadoarjja galggá aneduvvat rádedimen unneplågoj ja lassegålojda unneplågolága dahkama gáktuj, ij dakkirijda majt juo åvdebut la välggogis dahkat, buojkulvissan dålkåv bálkkit ja juogadit stuoves siebrredårjav. Máhttelis adnosuorge li iehtjádij siegen:</p>
-    <list>
-      <p type="listitem">dialoga ja rádedibme unneplågoj</p>
-      <p type="listitem">guoradallam</p>
-      <p type="listitem">diededimdago ja jårggålime</p>
-      <p type="listitem">organisasjåvnnågähttjam ja rievddadime</p>
-      <p type="listitem">kultuvrra- giellabiedjamdago</p>
-      <p type="listitem">unneplågojt ja unneplågogielajt vuojnnusij buktet, buojkulvissan galbbit</p>
-      <p type="listitem">álggo ássambiedjamdago,buojkulvissan girjálasjvuoda oasstem, pedagogalasj ábnnasa</p>
-      <p type="listitem">barggegåloj oasse</p>
-      <p type="listitem">doajmmaplána</p>
-    </list>
-    <p type="title">Nåv ednagav kommuvna oadtju</p>
-    <p>Vuodobiedniklåhko kommuvnnaj la 660 000 kronor jahkáj. Kommuvna binnep</p>
-    <p>gå 50 000 viesájdiddje oadtju 1 vuodobiedniklågov gitta 80 000 viesájdiddje oadtju 1,5 vuodobiedniklågov gitta 100 000 viesájdiddje oadtju 2 vuodobiedniklågo gitta 400 000 viesájdiddje oadtju 3 vuodobiedniklågo 400 000 viesájdiddje jali ienebu oadtju 4 vuodobiedniklågo</p>
-    <p>Kommuvnna ma säbrri ienep gå avta tjuottjudusguovlluj oadtju duottev 500 000 kråvnå.</p>
-    <p>Lánndadigge/bájke oadtju 250 000 kråvnå.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>154</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/julevsamegiella/Pages/stahtadoarrja.aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-valtiontuki.html"/><parallel_text xml:lang="sma" location="nat-min-staatedaarjoeh.html"/><parallel_text xml:lang="sme" location="nat-min-stahtadoarjja.html"/><parallel_text xml:lang="swe" location="nat-min-statsbidrag.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Stáhtadoarrja - Länsstyrelsen i Stockholm</p>
+<list/><p type="title">Stáhtadoarrja</p>
+<p><em type="italic">Ålles budjehtas 97 miljåvnå kråvnå majt ráddidus várraj biedjá unneplågopolitijkkaj 2014, mávseduvvi 70 miljåvnå kråvnå kommuvnajda ja lánndadikkijda stáhtadoarjjan. </em></p>
+<p type="title">Masi biedniga oadtju aneduvvat?</p>
+<p>Stáhtadoarjja galggá aneduvvat rádedimen unneplågoj ja lassegålojda unneplågolága dahkama gáktuj, ij dakkirijda majt juo åvdebut la välggogis dahkat, buojkulvissan dålkåv bálkkit ja juogadit stuoves siebrredårjav. Máhttelis adnosuorge li iehtjádij siegen:</p>
+<list><p type="listitem">dialoga ja rádedibme unneplågoj</p>
+<p type="listitem">guoradallam</p>
+<p type="listitem">diededimdago ja jårggålime</p>
+<p type="listitem">organisasjåvnnågähttjam ja rievddadime</p>
+<p type="listitem">kultuvrra- giellabiedjamdago</p>
+<p type="listitem">unneplågojt ja unneplågogielajt vuojnnusij buktet, buojkulvissan galbbit</p>
+<p type="listitem">álggo ássambiedjamdago,buojkulvissan girjálasjvuoda oasstem, pedagogalasj ábnnasa</p>
+<p type="listitem">barggegåloj oasse</p>
+<p type="listitem">doajmmaplána</p>
+</list><p type="title">Nåv ednagav kommuvna oadtju</p>
+<p>Vuodobiedniklåhko kommuvnnaj la 660 000 kronor jahkáj. Kommuvna binnep</p>
+<p>gå 50 000 viesájdiddje oadtju 1 vuodobiedniklågov gitta 80 000 viesájdiddje oadtju 1,5 vuodobiedniklågov gitta 100 000 viesájdiddje oadtju 2 vuodobiedniklågo gitta 400 000 viesájdiddje oadtju 3 vuodobiedniklågo 400 000 viesájdiddje jali ienebu oadtju 4 vuodobiedniklågo</p>
+<p>Kommuvnna ma säbrri ienep gå avta tjuottjudusguovlluj oadtju duottev 500 000 kråvnå.</p>
+<p>Lánndadigge/bájke oadtju 250 000 kråvnå.</p>
+</body></document>

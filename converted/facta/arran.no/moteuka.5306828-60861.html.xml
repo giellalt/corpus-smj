@@ -1,46 +1,23 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>251</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/moteuka.5306828-60861.html</origFileName>
-    <parallel_text xml:lang="nob" location="moteuka.5306828-60861.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Moteuka - Árran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title" xml:lang="nob">Bragstad, Svakko og Tapio Pittja på Árran.</p>
-    <p type="title" xml:lang="fin">Moteuka</p>
-    <p xml:lang="nob">En uke med make-up og skjønnhet, mote og samisk design på Árran. // Árranin le vahkko gånnå li hiervvim ja tjævlásvuohta, måvtå ja sáme hábbmimvuoge guovdátjin.</p>
-    <p type="title" xml:lang="deu">PROGRAM</p>
-    <p xml:lang="nno"><em type="italic">Mandag 30. september </em>kl 13.00: Foredrag v/ Erlend Elias Bragstad, stylist, makeup-artist </p>
-    <p xml:lang="nno"><em type="italic">Tirsdag 1. oktober </em>kl. 18.00 Motevisning og sminkeshow. Kolleksjoner av Anna Stina Svakko og Lise Tapio Pittja. Erlend Bragstad er konferansier og stylist.  </p>
-    <p xml:lang="nno">Etter motevisningen: Sminkeshow med Erlend Bragstad i samarbeid med Reidun Holmvaag, Oriflame.</p>
-    <p xml:lang="nno"><em type="italic">Onsdag 2. oktober </em>: Samisk design, workshop og foredrag. kl. 13.00–17.00 og 18.00-20.00.  </p>
-    <p xml:lang="nno">Designere Anna Stina Svakko og Lise Tapio Pittja.</p>
-    <p xml:lang="nno"><em type="italic">Torsdag 3. oktober </em>: Samisk design, workshop og foredrag. kl. 13.00–17.00 og 18.00-20.00.  </p>
-    <p xml:lang="nno">Designere Anna Stina Svakko og Lise Tapio Pittja.</p>
-    <p>Arrangører Tysfjord ASVO AS, Duodje Nordlánnda, Árran</p>
-    <p xml:lang="nno">Følg med for mer info.</p>
-    <p><em type="italic">Mánnodagá ragátmáno 30. b. </em>kl 13.00: Lågådallam Erlend Bragstad baktu, stájlissta, ja hiervvimtjiehppe </p>
-    <p><em type="italic">Dijstagá gålg. 1. b. </em>kl. 18.00: Måvttåvuosádus ja smiŋŋkimsjåvva. Biktasa majt Anna Stina Svakko ja Lise Tapio Pittja libá hábbmim ja gårrum. Erlend Bragstad galggá stájlisstan ja vuosádusáv jådedit.  </p>
-    <p>Måvttåvuosádusá maŋŋela le barggojuogos smiŋŋkimijs Erlend Bragstad baktu Orriflame vidnudagájn aktisattjat.</p>
-    <p><em type="italic">Gasskavahko gålg. 2. b. </em>le sáme hábbmimvuogij birra, barggojuogos ja lågådallama. kl. 13.00–17.00 ja 18.00-20.00.  </p>
-    <p>Hábbmididdje libá Anna Stina Svakko ja Lise Tapio Pittja.</p>
-    <p><em type="italic">Duorastagá gålg. 2. b. </em>le sáme hábbmimvuoge, barggojuogos ja lågådallam. kl. 13.00–17.00 ja 18.00-20.00.  </p>
-    <p>Hábbmididdje libá Anna Stina Svakko ja Lise Tapio Pittja.</p>
-    <p>Ásadiddje li Tysfjord ASVO AS, Duodje Nordlánnda, Árran</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>251</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/moteuka.5306828-60861.html</origFileName><parallel_text xml:lang="nob" location="moteuka.5306828-60861.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Moteuka - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title" xml:lang="nob">Bragstad, Svakko og Tapio Pittja på Árran.</p>
+<p type="title" xml:lang="fin">Moteuka</p>
+<p xml:lang="nob">En uke med make-up og skjønnhet, mote og samisk design på Árran. // Árranin le vahkko gånnå li hiervvim ja tjævlásvuohta, måvtå ja sáme hábbmimvuoge guovdátjin.</p>
+<p type="title" xml:lang="deu">PROGRAM</p>
+<p xml:lang="nno"><em type="italic">Mandag 30. september </em>kl 13.00: Foredrag v/ Erlend Elias Bragstad, stylist, makeup-artist </p>
+<p xml:lang="nno"><em type="italic">Tirsdag 1. oktober </em>kl. 18.00 Motevisning og sminkeshow. Kolleksjoner av Anna Stina Svakko og Lise Tapio Pittja. Erlend Bragstad er konferansier og stylist.  </p>
+<p xml:lang="nno">Etter motevisningen: Sminkeshow med Erlend Bragstad i samarbeid med Reidun Holmvaag, Oriflame.</p>
+<p xml:lang="nno"><em type="italic">Onsdag 2. oktober </em>: Samisk design, workshop og foredrag. kl. 13.00–17.00 og 18.00-20.00.  </p>
+<p xml:lang="nno">Designere Anna Stina Svakko og Lise Tapio Pittja.</p>
+<p xml:lang="nno"><em type="italic">Torsdag 3. oktober </em>: Samisk design, workshop og foredrag. kl. 13.00–17.00 og 18.00-20.00.  </p>
+<p xml:lang="nno">Designere Anna Stina Svakko og Lise Tapio Pittja.</p>
+<p>Arrangører Tysfjord ASVO AS, Duodje Nordlánnda, Árran</p>
+<p xml:lang="nno">Følg med for mer info.</p>
+<p><em type="italic">Mánnodagá ragátmáno 30. b. </em>kl 13.00: Lågådallam Erlend Bragstad baktu, stájlissta, ja hiervvimtjiehppe </p>
+<p><em type="italic">Dijstagá gålg. 1. b. </em>kl. 18.00: Måvttåvuosádus ja smiŋŋkimsjåvva. Biktasa majt Anna Stina Svakko ja Lise Tapio Pittja libá hábbmim ja gårrum. Erlend Bragstad galggá stájlisstan ja vuosádusáv jådedit.  </p>
+<p>Måvttåvuosádusá maŋŋela le barggojuogos smiŋŋkimijs Erlend Bragstad baktu Orriflame vidnudagájn aktisattjat.</p>
+<p><em type="italic">Gasskavahko gålg. 2. b. </em>le sáme hábbmimvuogij birra, barggojuogos ja lågådallama. kl. 13.00–17.00 ja 18.00-20.00.  </p>
+<p>Hábbmididdje libá Anna Stina Svakko ja Lise Tapio Pittja.</p>
+<p><em type="italic">Duorastagá gålg. 2. b. </em>le sáme hábbmimvuoge, barggojuogos ja lågådallam. kl. 13.00–17.00 ja 18.00-20.00.  </p>
+<p>Hábbmididdje libá Anna Stina Svakko ja Lise Tapio Pittja.</p>
+<p>Ásadiddje li Tysfjord ASVO AS, Duodje Nordlánnda, Árran</p>
+</body></document>

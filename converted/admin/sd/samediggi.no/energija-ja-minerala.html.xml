@@ -1,62 +1,27 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>230</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Biras-arealla-ja-kultursuodjalus/Energija-ja-minerala</origFileName>
-    <parallel_text xml:lang="nob" location="energi-og-mineraler.html"/>
-    <parallel_text xml:lang="sma" location="energije-jih-mineraalh.html"/>
-    <parallel_text xml:lang="sme" location="energiija-ja-mineralat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Energija ja minerála / Birás, areálla ja kultursuodjalus / Sámedigge - Sametinget</p>
-    <p type="title">Energija ja minerála</p>
-    <p>Sámedikken ij la háldadimfábmudahka konsesjåvnnåmærrádusájs energijatsiekkadusájs ja minerálladåjmajs. Lága ma dákkár dåjmajt reguleriji li, tjátjádakregulerimláhka, energijaláhka, tjáhtjeresurssaláhka ja minerálláhka. Háldadimfábmudahka dáj lágaj baktu le Norges Vassdrag og Energidirektorat (Vuona tjátjádak ja Enerigijadirekroráhtta) ja Direktoratet for mineralforvaltning (Minerálajháldadim dierektoráhtta). Dá lága li ájnnasa danen gå dåjmajt reguleriji ma vuorddedahtte bukti stuorra vájkkudusájt sáme kultuvra luonndovuoduj.</p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="nob">Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="nob">Nordre</p>
-    <p>Jur dálla</p>
-    <p>Tjårggi strávvesihkarvuodav Nuortta-Vuonan</p>
-    <p>Sámedigge le konsultasjåvnåj baktu Oalljo- ja energijadepartementajn mierred...</p>
-    <p>Lågå ienebuv</p>
-    <p>Ij råkkådahka Nussirin juska regulerimpládna le dåhkkiduvvam</p>
-    <p>Sámediggeráde ájras Silje Karine Muotka ballá birrasijn ja ælloæládusá boaht...</p>
-    <p>Lågå ienebuv</p>
-    <p>Vuoseda divna ássjijt</p>
-    <p>
-      <em type="bold">Sámedigge barggá dálla dáj ássjij: </em>
-    </p>
-    <list>
-      <p type="listitem">Sámedikke energijastrategija</p>
-      <p type="listitem">Oassálasstem fylkkaoasseplánimijn bieggamilloj birra Finnmárko fylkan</p>
-      <p type="listitem">Guládallamij ja konsultasåvnåj smávvaelfábmoásadusáj ja biggamillotsieggimij birra.</p>
-      <p type="listitem">Guládallamij ja konsultasåvnåj elfábmolinnjatsieggimij birra</p>
-      <p type="listitem" xml:lang="sme">Sjeihtadallama doajmmakonsesjåvnå birra gruvvodåjmadime Fálesnuori suohkanin.</p>
-      <p type="listitem">Guoradallambargo sjiehtadusá tjuovvolibme gruvvodåjmadime Guovdageaidnu suohkanin.</p>
-      <p type="listitem">Sjehtadus guoradallamij birra gålle ja goahpárluohko Kárášjoga suohkanin</p>
-      <p type="listitem">Oassálasstem Finnmárko minerállaforumin</p>
-    </list>
-    <p><em type="bold">Sámedikke åvdåsvásstádus: </em>Sámedigge ij la háldadimfábmudahka tjátjádakregulerimlága, energijalága, tjáhtjeresurssalága ja minerállalága milta. Mærrádusá dáj lágaj milta e máhte huoman mierreduvvat åvddåla konsultasjåvnå li Sámedikkijn læhkám. Minerállaássjijn li Sámedikken sierra prosessa minerálaktørajn njuolgga ja vuordeduvvá jut sjiehtadallama tjadáduvvi åvddåla máhttá doajmmakonsesjåvnåv åhståt. </p>
-    <p><em type="bold">Duv vájkkudibme: </em>Sáme rievtesvuodaj æjgádij ja bájkálasj sebrudagáj berustime ja rievtesvuoda li ájnnasa bærrájgåhtset mærrádusprosessan. Danen barggá Sámedigge jut almma konsultasjåvnå tjadáduvvi sijáj, ja vaj sij båhti sæhkáj sjiehtadallamijda doajmmavidnudagájn. </p>
-    <list/>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>230</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Biras-arealla-ja-kultursuodjalus/Energija-ja-minerala</origFileName><parallel_text xml:lang="nob" location="energi-og-mineraler.html"/><parallel_text xml:lang="sma" location="energije-jih-mineraalh.html"/><parallel_text xml:lang="sme" location="energiija-ja-mineralat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Energija ja minerála / Birás, areálla ja kultursuodjalus / Sámedigge - Sametinget</p>
+<p type="title">Energija ja minerála</p>
+<p>Sámedikken ij la háldadimfábmudahka konsesjåvnnåmærrádusájs energijatsiekkadusájs ja minerálladåjmajs. Lága ma dákkár dåjmajt reguleriji li, tjátjádakregulerimláhka, energijaláhka, tjáhtjeresurssaláhka ja minerálláhka. Háldadimfábmudahka dáj lágaj baktu le Norges Vassdrag og Energidirektorat (Vuona tjátjádak ja Enerigijadirekroráhtta) ja Direktoratet for mineralforvaltning (Minerálajháldadim dierektoráhtta). Dá lága li ájnnasa danen gå dåjmajt reguleriji ma vuorddedahtte bukti stuorra vájkkudusájt sáme kultuvra luonndovuoduj.</p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="nob">Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="nob">Nordre</p>
+<p>Jur dálla</p>
+<p>Tjårggi strávvesihkarvuodav Nuortta-Vuonan</p>
+<p>Sámedigge le konsultasjåvnåj baktu Oalljo- ja energijadepartementajn mierred...</p>
+<p>Lågå ienebuv</p>
+<p>Ij råkkådahka Nussirin juska regulerimpládna le dåhkkiduvvam</p>
+<p>Sámediggeráde ájras Silje Karine Muotka ballá birrasijn ja ælloæládusá boaht...</p>
+<p>Lågå ienebuv</p>
+<p>Vuoseda divna ássjijt</p>
+<p><em type="bold">Sámedigge barggá dálla dáj ássjij: </em></p>
+<list><p type="listitem">Sámedikke energijastrategija</p>
+<p type="listitem">Oassálasstem fylkkaoasseplánimijn bieggamilloj birra Finnmárko fylkan</p>
+<p type="listitem">Guládallamij ja konsultasåvnåj smávvaelfábmoásadusáj ja biggamillotsieggimij birra.</p>
+<p type="listitem">Guládallamij ja konsultasåvnåj elfábmolinnjatsieggimij birra</p>
+<p type="listitem" xml:lang="sme">Sjeihtadallama doajmmakonsesjåvnå birra gruvvodåjmadime Fálesnuori suohkanin.</p>
+<p type="listitem">Guoradallambargo sjiehtadusá tjuovvolibme gruvvodåjmadime Guovdageaidnu suohkanin.</p>
+<p type="listitem">Sjehtadus guoradallamij birra gålle ja goahpárluohko Kárášjoga suohkanin</p>
+<p type="listitem">Oassálasstem Finnmárko minerállaforumin</p>
+</list><p><em type="bold">Sámedikke åvdåsvásstádus: </em>Sámedigge ij la háldadimfábmudahka tjátjádakregulerimlága, energijalága, tjáhtjeresurssalága ja minerállalága milta. Mærrádusá dáj lágaj milta e máhte huoman mierreduvvat åvddåla konsultasjåvnå li Sámedikkijn læhkám. Minerállaássjijn li Sámedikken sierra prosessa minerálaktørajn njuolgga ja vuordeduvvá jut sjiehtadallama tjadáduvvi åvddåla máhttá doajmmakonsesjåvnåv åhståt. </p>
+<p><em type="bold">Duv vájkkudibme: </em>Sáme rievtesvuodaj æjgádij ja bájkálasj sebrudagáj berustime ja rievtesvuoda li ájnnasa bærrájgåhtset mærrádusprosessan. Danen barggá Sámedigge jut almma konsultasjåvnå tjadáduvvi sijáj, ja vaj sij båhti sæhkáj sjiehtadallamijda doajmmavidnudagájn. </p>
+<list/></body></document>

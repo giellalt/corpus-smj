@@ -1,38 +1,7 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>PRD: Mánáj applikasjåvnnå “10/20 bágo” almoduvvá</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2019</year>
-    <wordcount>134</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/AAdaasa/PRD-Manaj-applikasjaavnnaa-10-20-bago-almoduvva</origFileName>
-    <parallel_text xml:lang="nob" location="prm-barneapplikasjonen-10-20-bago-lanseres.html"/>
-    <parallel_text xml:lang="sma" location="prm-baejhkoehtimmie-maanaapplikasjovneste-10-20-bago.html"/>
-    <parallel_text xml:lang="sme" location="prd-manaidapplikasuvdna-10-20-bago-almmuhuvvo.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">PRD: Mánáj applikasjåvnnå <span type="quote">“10/20 bágo”</span> almoduvvá</p>
-    <p>Dijstagá gålgådismáno 22. biejve kloahkka 11:30 almoduvvá mánáj applikasjåvnnå <span type="quote">“10/20 bágo”</span> City Scenan Áltán.</p>
-    <p>Sámedigge l sáme giellavahko aktijvuodan hábbmim applikasjåvnåv mij åvdemusát la hiebaduvvam mánájgárddemánájda ja vuodoskåvllåoahppijda. Ulmme appajn la åhpadit gájka mánájgárddemánájda ja vuodoskåvllåoahppijda 10/20 bágo sámegielajda.</p>
-    <p>– Sámegielajt vuojnnusin dahkamis la aj sáhka máhttogaskostimes. Mij sihtap jut sebrudahka galggá oadtjot ienep máhtov ja dádjadusáv sámegielajs, kultuvras ja sebrudakiellemis. Mij jáhkkep jus gájka máná sámegielajda oahpásmuvvi, de la dat siegen gielaj árvov låpptimin ja sæmmi bále aj låppti dádjadusáv gielaj sieradusájs, javllá sámedikkeráde Silje Karine Muotka.</p>
-    <p>Bágo appan li goappátjagá julev-, oarjjel- ja nuorttasámegiellaj ja dájda bágojda li aj jiednabátte. Duodden máhttá appan vahkkobiejvijt, lågojt, bájnojt ja guokta mánájlávllaga oahppat.</p>
-    <p>
-      <em type="italic">Jus li gatjálvisá jali ságájdahtátjit, guládalá sámedikkerádijn Silje Karine Muotka, mobijlla +47 984 87 576, silje.karine.muotka@samediggi.no </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>PRD: Mánáj applikasjåvnnå “10/20 bágo” almoduvvá</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2019</year><wordcount>134</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/AAdaasa/PRD-Manaj-applikasjaavnnaa-10-20-bago-almoduvva</origFileName><parallel_text xml:lang="nob" location="prm-barneapplikasjonen-10-20-bago-lanseres.html"/><parallel_text xml:lang="sma" location="prm-baejhkoehtimmie-maanaapplikasjovneste-10-20-bago.html"/><parallel_text xml:lang="sme" location="prd-manaidapplikasuvdna-10-20-bago-almmuhuvvo.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">PRD: Mánáj applikasjåvnnå <span type="quote">“10/20 bágo”</span> almoduvvá</p>
+<p>Dijstagá gålgådismáno 22. biejve kloahkka 11:30 almoduvvá mánáj applikasjåvnnå <span type="quote">“10/20 bágo”</span> City Scenan Áltán.</p>
+<p>Sámedigge l sáme giellavahko aktijvuodan hábbmim applikasjåvnåv mij åvdemusát la hiebaduvvam mánájgárddemánájda ja vuodoskåvllåoahppijda. Ulmme appajn la åhpadit gájka mánájgárddemánájda ja vuodoskåvllåoahppijda 10/20 bágo sámegielajda.</p>
+<p>– Sámegielajt vuojnnusin dahkamis la aj sáhka máhttogaskostimes. Mij sihtap jut sebrudahka galggá oadtjot ienep máhtov ja dádjadusáv sámegielajs, kultuvras ja sebrudakiellemis. Mij jáhkkep jus gájka máná sámegielajda oahpásmuvvi, de la dat siegen gielaj árvov låpptimin ja sæmmi bále aj låppti dádjadusáv gielaj sieradusájs, javllá sámedikkeráde Silje Karine Muotka.</p>
+<p>Bágo appan li goappátjagá julev-, oarjjel- ja nuorttasámegiellaj ja dájda bágojda li aj jiednabátte. Duodden máhttá appan vahkkobiejvijt, lågojt, bájnojt ja guokta mánájlávllaga oahppat.</p>
+<p><em type="italic">Jus li gatjálvisá jali ságájdahtátjit, guládalá sámedikkerádijn Silje Karine Muotka, mobijlla +47 984 87 576, silje.karine.muotka@samediggi.no </em></p>
+</body></document>

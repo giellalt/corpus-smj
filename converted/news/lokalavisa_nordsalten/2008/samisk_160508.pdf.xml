@@ -1,51 +1,17 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Julevsáme boatsojsujtto - histåvrrå jali ájn máhttelisvuoda?</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2008</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>263</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_160508.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p xml:lang="nob">Tæksta: Børge Strandskog</p>
-    <p>Jårggålibme: Idar Kintel</p>
-    <p>John  Johnsen  Vadnem  ællosujtojnLangásen gitta jahkáj 1965.</p>
-    <p>60-jagij  gassko  hiejteduváj  manemusárbbedábálasj  boatsojbarggojuogosNuortta-Sálto  guovlon,  -  julevsámeboatsojbarggo sjattaj (gasskabåddåsattjat?)histåvrrån...</p>
-    <p>ders  J.  Kalstad  ja  John  J.  Langås  (Vad-nem),  gájka  Divtasvuonas.  Dálvve  jagiesseguohtomin  dáj  guovten  guovlojnlidjin  birrusin  600  boahttsu  jagen  1955.Tjavtjan  1955  njuovvin  ja  vuobddinbirrusij 450 boahttsu ælos. Birrusin 115boahttsu  báhtsin,  ja  guovlon  guohtun.Jagen 1960 lidjin vilá vihtta ælloniehke jatjoahkkáj 300 boahttsu giesseguohtominMurkosjávren  ja  dálvveguohtominHábmerin.  Valla  dåssju  guovtesælloniehkijs adnin boahttsuvoajvveæládussan, Anders ja Karl A. Kal-stad. Jagen 1964 diededijga Karl ja NilsKalstad sunnun lidjin åvdåsvásstádus 200boahttsujs, massta  lidjingæhttjoboahttsu. Davvelin vuonan bargaj</p>
-    <p>j j</p>
-    <p>guohtomin Vinkfjell stáhtaviesádimvuodav  åtsåj.  Lappefogdamoalgedij sihke ælloniehkke ja suv áhkká(Marit  f.  Skum)  lijga  riek  tjiehpesboahttsubargge  gejt  sávadij  vuonastáhttaviesádin besajga. Guohtoma dajnguovlojn  lidjin  riek  buorre,  gå  boahttsuællim danna guohtum måttijn jagijn.</p>
-    <p>Valla ájn le Nuortta-Sálton boatsojsujtto.Guohtomguovlon Stájggo-Hábmer(Oarjje-Fuolldá,  Hábmer,  Stájggo  jaDivtasvuodna) le nanos boatsojsujtto, madiFrostisen guohtomguovlon (Divtasvuodnaja Bálák) ælla boahttsu vil. Doajmmajagen2004-2005  diedet  boatsojsujttoháldadusvuostatjin nammadum guovlon lidjin 675boahttsu ja Frostisenin 42 boahttsu. Gájkkaboatsojsujtto  dáj  guovten  guovlojntjadáduvvi ådåboahtte nuorttasámijs (duoladagu fámilja Labba ja Eira).</p>
-    <p>Jages  1965  gávnnuji  galla  buojkulvisásáme  Divtasvuonas  li  gæhttjalam  ådåsisásadit bájkálasj, julevsáme boatsojsujtovguovlon.  Sáme  Divtasvuonas  li  uddniælloniehke  Vuollnán,  ma  almulattjatdåmaduvvi  dåhkkidum  nuorttasámeboatsojsujttárijs guovlon. Iehtjáda æjggujiboahttsujt ma gehtjaduvvi berrahijs Sirgestjieldes Svieriga bielen.</p>
-    <p>Gávnnu  galla  tjielgas  miella  julevsámeboatsojsujttodábijt joarkket...</p>
-    <p>j</p>
-    <p>Gáldo: NOU 2007:14 (sámeriektájuohkusij)</p>
-    <p>j j</p>
-    <p>Ælloniehke Skotstind guovlon jagen 1956lidjin Johan Johnsen Kalvågstraum ja An-dreas  Johnsen,  goappátja  Hábmeris,birrusij 60 boahttsu tjoahken. Jagen 1960lij ællo sæmmi stuorak, ja lappefogda tjálijnáv:  Dáj  guokta  boahttsubarggijda  leboatsojsujtto  vuojnunagá  budáldibmen.Jagen 1965 lij Johan J. Kalvågstraum ájnnaboatsojsujttár, 100 boahttsuj. Jagen 1970ællim tjáledum boahttsu dan guovlon.</p>
-    <p>Ælloniehke  guovlojn  Hábmer  jaMurkosjávrre jagen 1956 lidjin Nils Kal</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Julevsáme boatsojsujtto - histåvrrå jali ájn máhttelisvuoda?</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2008</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>263</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_160508.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p xml:lang="nob">Tæksta: Børge Strandskog</p>
+<p>Jårggålibme: Idar Kintel</p>
+<p>John  Johnsen  Vadnem  ællosujtojnLangásen gitta jahkáj 1965.</p>
+<p>60-jagij  gassko  hiejteduváj  manemusárbbedábálasj  boatsojbarggojuogosNuortta-Sálto  guovlon,  -  julevsámeboatsojbarggo sjattaj (gasskabåddåsattjat?)histåvrrån...</p>
+<p>ders  J.  Kalstad  ja  John  J.  Langås  (Vad-nem),  gájka  Divtasvuonas.  Dálvve  jagiesseguohtomin  dáj  guovten  guovlojnlidjin  birrusin  600  boahttsu  jagen  1955.Tjavtjan  1955  njuovvin  ja  vuobddinbirrusij 450 boahttsu ælos. Birrusin 115boahttsu  báhtsin,  ja  guovlon  guohtun.Jagen 1960 lidjin vilá vihtta ælloniehke jatjoahkkáj 300 boahttsu giesseguohtominMurkosjávren  ja  dálvveguohtominHábmerin.  Valla  dåssju  guovtesælloniehkijs adnin boahttsuvoajvveæládussan, Anders ja Karl A. Kal-stad. Jagen 1964 diededijga Karl ja NilsKalstad sunnun lidjin åvdåsvásstádus 200boahttsujs, massta  lidjingæhttjoboahttsu. Davvelin vuonan bargaj</p>
+<p>j j</p>
+<p>guohtomin Vinkfjell stáhtaviesádimvuodav  åtsåj.  Lappefogdamoalgedij sihke ælloniehkke ja suv áhkká(Marit  f.  Skum)  lijga  riek  tjiehpesboahttsubargge  gejt  sávadij  vuonastáhttaviesádin besajga. Guohtoma dajnguovlojn  lidjin  riek  buorre,  gå  boahttsuællim danna guohtum måttijn jagijn.</p>
+<p>Valla ájn le Nuortta-Sálton boatsojsujtto.Guohtomguovlon Stájggo-Hábmer(Oarjje-Fuolldá,  Hábmer,  Stájggo  jaDivtasvuodna) le nanos boatsojsujtto, madiFrostisen guohtomguovlon (Divtasvuodnaja Bálák) ælla boahttsu vil. Doajmmajagen2004-2005  diedet  boatsojsujttoháldadusvuostatjin nammadum guovlon lidjin 675boahttsu ja Frostisenin 42 boahttsu. Gájkkaboatsojsujtto  dáj  guovten  guovlojntjadáduvvi ådåboahtte nuorttasámijs (duoladagu fámilja Labba ja Eira).</p>
+<p>Jages  1965  gávnnuji  galla  buojkulvisásáme  Divtasvuonas  li  gæhttjalam  ådåsisásadit bájkálasj, julevsáme boatsojsujtovguovlon.  Sáme  Divtasvuonas  li  uddniælloniehke  Vuollnán,  ma  almulattjatdåmaduvvi  dåhkkidum  nuorttasámeboatsojsujttárijs guovlon. Iehtjáda æjggujiboahttsujt ma gehtjaduvvi berrahijs Sirgestjieldes Svieriga bielen.</p>
+<p>Gávnnu  galla  tjielgas  miella  julevsámeboatsojsujttodábijt joarkket...</p>
+<p>j</p>
+<p>Gáldo: NOU 2007:14 (sámeriektájuohkusij)</p>
+<p>j j</p>
+<p>Ælloniehke Skotstind guovlon jagen 1956lidjin Johan Johnsen Kalvågstraum ja An-dreas  Johnsen,  goappátja  Hábmeris,birrusij 60 boahttsu tjoahken. Jagen 1960lij ællo sæmmi stuorak, ja lappefogda tjálijnáv:  Dáj  guokta  boahttsubarggijda  leboatsojsujtto  vuojnunagá  budáldibmen.Jagen 1965 lij Johan J. Kalvågstraum ájnnaboatsojsujttár, 100 boahttsuj. Jagen 1970ællim tjáledum boahttsu dan guovlon.</p>
+<p>Ælloniehke  guovlojn  Hábmer  jaMurkosjávrre jagen 1956 lidjin Nils Kal</p>
+</body></document>

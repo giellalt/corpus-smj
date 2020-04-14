@@ -1,79 +1,27 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>551</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Same-guovlo-ajn-bahtsi</origFileName>
-    <parallel_text xml:lang="nob" location="fremdeles-nedgang-i-de-samiske-omraadene.html"/>
-    <parallel_text xml:lang="sma" location="annje-vueliedimmie-saemien-dajvine.html"/>
-    <parallel_text xml:lang="sme" location="sami-guovlluin-lea-ain-fuones-ahtanussan.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sáme guovlo ájn báhtsi / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
-    <p type="title">Sáme guovlo ájn báhtsi</p>
-    <p>24. voerhtje 2012</p>
-    <p>
-      <em type="bold">Sáme guovlojn li ájn stuorra hásstalusá ieritjåhtema ja ásadimij vuoksjuj. Dav vuoset muhtem rapportta mav Telemarksforskning le S </em>
-      <em type="bold">ámedikke åvdås dahkam </em>
-      <em type="bold">. </em>
-    </p>
-    <p>Rapportta <em type="bold"><span type="quote" xml:lang="nob">”Næringsutvikling, innovasjon og attraktivitet. Samisk område”</span> </em>le joarkka åvdep æládujsårnigijs majt Telemarkforskning le Sámedikke åvdås dahkam. Dát rapportta gåvvit sáme guovlo åvddånimev viesádij, åhpadusdáse, æládusåvddånime, innovasjåvnå ja bivno gáktuj. Sáme guovllo le 24 suohkana Nuortta-Trøndelága, Nordlánda, Råmså ja Finnmárko fylkajn. </p>
-    <p>
-      <em type="bold">Ieritjåhtem </em>
-    </p>
-    <p>Analyjssa vuoset ulmusjlåhko sáme guovlo suohkanijn le binnum, aj jagen 2010, mij lij jahke goassa ienemus suohkana Vuonan sjaddin. Ienep sirdulattja li binnedam sáme guovlo ulmusjlågo binnedimev maŋemus jagijt, valla ij nuoges váj riegádimlåhko ja ålgusjåhtem e álmmuklågov binneda. Dat oasse Nuortta-Vuonas mij le sáme guovloj ålggolin laset álmmuklågov.</p>
-    <p>
-      <em type="bold">Binnep barggosaje </em>
-    </p>
-    <p>Álmmuklågo binnedibme gullu aktan barggosajij binnedimij. Sáme guovlon li binnep barggosaje jagen 2010 gå 2000, madi barggosaje lándan li lassánam 11 prosentaj.</p>
-    <p>Nuortta-Vuona fylkajn, sáme guovloj ålggolin, li barggosaje lassánam gaskal guhtta ja lågenanniellja prosenta sæmmi ájggudagán. Sáme guovlon li moadda vuodoæládus- ja industriabarggosaje. Maŋemus guokta jage li dáj æládusáj barggosaje binnum ienep gå nieljijn tjuodijn.</p>
-    <p>
-      <em type="bold">-Sámedigge le mierredam ådå æládusdiedádusáv jagen 2011. Oajvveulmme le ásadit nanos ja valjes æládusiellemav man vuodo le ja mij vielet sáme kultuvrav, luondov ja birrasav, ja dilev láhtjá rávas bájkálasj sebrudagájda gånnå ulmutja sihti årrot, javllá sámediggeráde Marianne Balto. Hæhttup nievres åvddånimev sáme guovlojn rievddat, javllá Balto. </em>
-    </p>
-    <p>
-      <em type="bold">Ælla heva ásadime ja innovasjåvnå </em>
-    </p>
-    <p>Viddnudagáj åvddånattem analyseriduvvá <em type="bold">NæringsNM:an </em>, mij viddnudagáj mávsánisvuodav, sjattov ja ådåásadimijt mihtti aktan æládusiellema stuorrudagáv. Moaddasij sáme suohkanijs le viehka unna æládusiellem álmmuklågo gáktuj, ja ælla vuojga ådåásadime ja mávsánisvuohta. Moadda suohkanijn li galla stuorra oasse viddnudagájs maj sisboados sjaddá jagen 2010. Ienemus oasse sáme suohkanijs gal nievret bierggiji NæringsNM:an. Analyjssa vuoset muhtem suohkana buoragit rijbbi, dagu Dætno ja Evenássje. </p>
-    <p>Guoradallam vuoset aj sáme guovlojn ij le vuojga innovasjåvnnå.</p>
-    <p>
-      <em type="bold">Åvddånahttem </em>
-    </p>
-    <p>Telemarksforskning adná bivnospyramidav åvddånahttemav gåvvidittjat. Bivnospyramijdda tjielggi bájkij åvddånahttemav daj bivnosvuoda gáktuj gålmå dimensjåvnåj milta:</p>
-    <p>
-      <em type="bold">1) Bivnos viddnudagájda vuodoæládusájn. </em>
-    </p>
-    <p>
-      <em type="bold">2) Bivnos guossijda. </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="bold">3) Bivnos årromsadjen. </em>
-    </p>
-    <p>Sáme guovlon li vuodoæládusá binnum. Vuodoæládusá li primæræládusá, industria ja teknologalasj dievnastusá. Dáj æládusáj dåbddomærkka le buvta nasjonála jali rijkajgasskasasj márnánin vuobdeduvvi. <em type="bold">Sáme guovlon li viehka binná barggosaje teknologalasj dievnastusáj, mij li vuodoæládus mij sjaddá. </em>Muhtem sáme guovlo suohkanijn ajtu vuodoæládusá sjaddi, dagu Divtasvuonan, Fálesnuoren, Ivgon ja Unjárgan. </p>
-    <p>Sáme guovlon ælla ájgij tjadá læhkám heva guosseæládusájs. Sáme guovlojs tjoahkkáj le stuorra oaseslissa. Dát oaseslissam le galla binnum, ja <em type="bold">moadda sáme suohkanijn guosseæládusá sjaddi </em>, dagu Røyrvik, Loppa, Unjárgga, Hábmer, Snåasa aktan ietjá. </p>
-    <p>Stuorra gássjelisvuohta sáme suohkanij sjatto gáktuj le årrombivnos. Moadda sáme suohkanijn le alvos ålgusjåhtem, ja stuoráp ålgusjåhtem gå galgaj barggosajesjatto milta. Dat mierkki unna årromsadjebivnos. Dánna li vas muhtem sáme suohkana ma ælla dagu iehtjáda ja majna le alla årromsadjebivnos, dagu Letto milta. Dat mierkki unna årromsadjebivnos. Dánna li vas muhtem sáme suohkana ma ælla dagu iehtjáda ja majna le alla årromsadjebivnos, dagu Lebesby, Sørreisa ja Unjárgga.</p>
-    <p>
-      <em type="bold">-Sáme guovlojn li moadda máhttelisvuoda árvvodahkama gáktuj sáme kultuvra ja dábij vuodon, valla de dárbaj buorre birástagá, dutkam, ådåásadime ja ådåhábbmim, javllá sámediggeráde Marianne Balto. </em>
-    </p>
-    <p><em type="bold">Jus sidá ienep diehtet: </em>Válde aktijvuodav Telemarkforskning prosjektajådediddjijn Knut Vareide + 47 98 22 00 04 jali Sámediggerádijn Marianne Balto + 47 480 63 358 </p>
-    <p xml:lang="nob">Næringsutvikling, innovasjon og attraktivitet i Samisk område (2012).pdf</p>
-    <p xml:lang="nob">3,60 MB</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>551</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Same-guovlo-ajn-bahtsi</origFileName><parallel_text xml:lang="nob" location="fremdeles-nedgang-i-de-samiske-omraadene.html"/><parallel_text xml:lang="sma" location="annje-vueliedimmie-saemien-dajvine.html"/><parallel_text xml:lang="sme" location="sami-guovlluin-lea-ain-fuones-ahtanussan.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sáme guovlo ájn báhtsi / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
+<p type="title">Sáme guovlo ájn báhtsi</p>
+<p>24. voerhtje 2012</p>
+<p><em type="bold">Sáme guovlojn li ájn stuorra hásstalusá ieritjåhtema ja ásadimij vuoksjuj. Dav vuoset muhtem rapportta mav Telemarksforskning le S </em><em type="bold">ámedikke åvdås dahkam </em><em type="bold">. </em></p>
+<p>Rapportta <em type="bold"><span type="quote" xml:lang="nob">”Næringsutvikling, innovasjon og attraktivitet. Samisk område”</span> </em>le joarkka åvdep æládujsårnigijs majt Telemarkforskning le Sámedikke åvdås dahkam. Dát rapportta gåvvit sáme guovlo åvddånimev viesádij, åhpadusdáse, æládusåvddånime, innovasjåvnå ja bivno gáktuj. Sáme guovllo le 24 suohkana Nuortta-Trøndelága, Nordlánda, Råmså ja Finnmárko fylkajn. </p>
+<p><em type="bold">Ieritjåhtem </em></p>
+<p>Analyjssa vuoset ulmusjlåhko sáme guovlo suohkanijn le binnum, aj jagen 2010, mij lij jahke goassa ienemus suohkana Vuonan sjaddin. Ienep sirdulattja li binnedam sáme guovlo ulmusjlågo binnedimev maŋemus jagijt, valla ij nuoges váj riegádimlåhko ja ålgusjåhtem e álmmuklågov binneda. Dat oasse Nuortta-Vuonas mij le sáme guovloj ålggolin laset álmmuklågov.</p>
+<p><em type="bold">Binnep barggosaje </em></p>
+<p>Álmmuklågo binnedibme gullu aktan barggosajij binnedimij. Sáme guovlon li binnep barggosaje jagen 2010 gå 2000, madi barggosaje lándan li lassánam 11 prosentaj.</p>
+<p>Nuortta-Vuona fylkajn, sáme guovloj ålggolin, li barggosaje lassánam gaskal guhtta ja lågenanniellja prosenta sæmmi ájggudagán. Sáme guovlon li moadda vuodoæládus- ja industriabarggosaje. Maŋemus guokta jage li dáj æládusáj barggosaje binnum ienep gå nieljijn tjuodijn.</p>
+<p><em type="bold">-Sámedigge le mierredam ådå æládusdiedádusáv jagen 2011. Oajvveulmme le ásadit nanos ja valjes æládusiellemav man vuodo le ja mij vielet sáme kultuvrav, luondov ja birrasav, ja dilev láhtjá rávas bájkálasj sebrudagájda gånnå ulmutja sihti årrot, javllá sámediggeráde Marianne Balto. Hæhttup nievres åvddånimev sáme guovlojn rievddat, javllá Balto. </em></p>
+<p><em type="bold">Ælla heva ásadime ja innovasjåvnå </em></p>
+<p>Viddnudagáj åvddånattem analyseriduvvá <em type="bold">NæringsNM:an </em>, mij viddnudagáj mávsánisvuodav, sjattov ja ådåásadimijt mihtti aktan æládusiellema stuorrudagáv. Moaddasij sáme suohkanijs le viehka unna æládusiellem álmmuklågo gáktuj, ja ælla vuojga ådåásadime ja mávsánisvuohta. Moadda suohkanijn li galla stuorra oasse viddnudagájs maj sisboados sjaddá jagen 2010. Ienemus oasse sáme suohkanijs gal nievret bierggiji NæringsNM:an. Analyjssa vuoset muhtem suohkana buoragit rijbbi, dagu Dætno ja Evenássje. </p>
+<p>Guoradallam vuoset aj sáme guovlojn ij le vuojga innovasjåvnnå.</p>
+<p><em type="bold">Åvddånahttem </em></p>
+<p>Telemarksforskning adná bivnospyramidav åvddånahttemav gåvvidittjat. Bivnospyramijdda tjielggi bájkij åvddånahttemav daj bivnosvuoda gáktuj gålmå dimensjåvnåj milta:</p>
+<p><em type="bold">1) Bivnos viddnudagájda vuodoæládusájn. </em></p>
+<p><em type="bold">2) Bivnos guossijda. </em></p>
+<p xml:lang="nob"><em type="bold">3) Bivnos årromsadjen. </em></p>
+<p>Sáme guovlon li vuodoæládusá binnum. Vuodoæládusá li primæræládusá, industria ja teknologalasj dievnastusá. Dáj æládusáj dåbddomærkka le buvta nasjonála jali rijkajgasskasasj márnánin vuobdeduvvi. <em type="bold">Sáme guovlon li viehka binná barggosaje teknologalasj dievnastusáj, mij li vuodoæládus mij sjaddá. </em>Muhtem sáme guovlo suohkanijn ajtu vuodoæládusá sjaddi, dagu Divtasvuonan, Fálesnuoren, Ivgon ja Unjárgan. </p>
+<p>Sáme guovlon ælla ájgij tjadá læhkám heva guosseæládusájs. Sáme guovlojs tjoahkkáj le stuorra oaseslissa. Dát oaseslissam le galla binnum, ja <em type="bold">moadda sáme suohkanijn guosseæládusá sjaddi </em>, dagu Røyrvik, Loppa, Unjárgga, Hábmer, Snåasa aktan ietjá. </p>
+<p>Stuorra gássjelisvuohta sáme suohkanij sjatto gáktuj le årrombivnos. Moadda sáme suohkanijn le alvos ålgusjåhtem, ja stuoráp ålgusjåhtem gå galgaj barggosajesjatto milta. Dat mierkki unna årromsadjebivnos. Dánna li vas muhtem sáme suohkana ma ælla dagu iehtjáda ja majna le alla årromsadjebivnos, dagu Letto milta. Dat mierkki unna årromsadjebivnos. Dánna li vas muhtem sáme suohkana ma ælla dagu iehtjáda ja majna le alla årromsadjebivnos, dagu Lebesby, Sørreisa ja Unjárgga.</p>
+<p><em type="bold">-Sáme guovlojn li moadda máhttelisvuoda árvvodahkama gáktuj sáme kultuvra ja dábij vuodon, valla de dárbaj buorre birástagá, dutkam, ådåásadime ja ådåhábbmim, javllá sámediggeráde Marianne Balto. </em></p>
+<p><em type="bold">Jus sidá ienep diehtet: </em>Válde aktijvuodav Telemarkforskning prosjektajådediddjijn Knut Vareide + 47 98 22 00 04 jali Sámediggerádijn Marianne Balto + 47 480 63 358 </p>
+<p xml:lang="nob">Næringsutvikling, innovasjon og attraktivitet i Samisk område (2012).pdf</p>
+<p xml:lang="nob">3,60 MB</p>
+</body></document>

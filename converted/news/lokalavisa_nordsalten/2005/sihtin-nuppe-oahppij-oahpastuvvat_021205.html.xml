@@ -1,43 +1,7 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Sihtin nuppe oahppij oahpástuvvat</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sandra" lastname="Nystø Rahka" sex="f" born="1987" nationality="nor"/>
-    </author>
-    <author>
-      <person firstname="Eskil" lastname="Mikkelsen" sex="m" born="1989" nationality="nor"/>
-    </author>
-    <author>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </author>
-    <year>2005</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>204</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/sihtin-nuppe-oahppij-oahp-stuvvat.4205</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">folk</p>
-    <p type="title">Sihtin nuppe oahppij oahpástuvvat</p>
-    <p>Vásse vahko lidjin divna 1. klássaga aktisasjsuorges Knut Hamsuna joarkkaskåvlås tjoahken Hábmelin. Ulmme dájna guossidimijn la oahpástuvvat nubbe nuppijn, ja oahppijt alodit nav vaj nuppe jahkáj aj åhtsi.</p>
-    <p xml:lang="nob">Norsk kortversjon</p>
-    <p>Divna 32 vuostasjklássaga Knut Hamsuna joarkkaskåvlån aktisasjsuorges Stájgon ja Hábmerin lidjin tjåhkanam Hábmerin vásse vahko. Dáv lij juohkka jage dáhkam. Dárogielaåhpadiddje ja prosjæktajådediddje Tore Hestbråten lij riek mihá gå oahppe Stájgos ieddneskåvllåj Hábmerij båhtin. -Dan baktu oahpástuvvi oahppe nubbe nuppijn, ja sæmmi båttå aj musikálajn barggap mav ihkap åvddånbuktep juogu filma jali teáhtara baktu. Duodden la aj ulmme oahppijt alodit nav vaj boahtte jage Hábmerij båhti skåvlåv váttsátjit, måjudallá Hestbråten. Kristina Sandnes Oppájdes ja Eirik Hansen Stájgos javllaba suohtas ja geldulasj lij nuppij vuostasjklássagij æjvvalit ja sijájn oahpástuvvat. -Ep la mij goassak åvddåla æjvvalam, ja riek geldulasj lij sijájn oahpástuvvat. Muhtema ham diedon båhti diek skåvlåv váttsátjit vat boahtte jage, javllaba oahppe guovtes. Ja dat la de akta ulmijs dájna tjåhkanimijn. Skåvllåoajvve Jens Erik Bjørklund-Lassena mielas la riek buorre ja ájnas gå klássa 1b Stájgos ieddneskåvlåv guossidij. -Oahppe Stájgos ja Hábmeris oahpástuvvi nubbe nuppijn, ja de ihkap Stájgo oahppe båhti Hábmerij boahtte jage, javllá sån.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Sihtin nuppe oahppij oahpástuvvat</title><genre code="news"/><author><person firstname="Sandra" lastname="Nystø Rahka" sex="f" born="1987" nationality="nor"/></author><author><person firstname="Eskil" lastname="Mikkelsen" sex="m" born="1989" nationality="nor"/></author><author><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></author><year>2005</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>204</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/sihtin-nuppe-oahppij-oahp-stuvvat.4205</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">folk</p>
+<p type="title">Sihtin nuppe oahppij oahpástuvvat</p>
+<p>Vásse vahko lidjin divna 1. klássaga aktisasjsuorges Knut Hamsuna joarkkaskåvlås tjoahken Hábmelin. Ulmme dájna guossidimijn la oahpástuvvat nubbe nuppijn, ja oahppijt alodit nav vaj nuppe jahkáj aj åhtsi.</p>
+<p xml:lang="nob">Norsk kortversjon</p>
+<p>Divna 32 vuostasjklássaga Knut Hamsuna joarkkaskåvlån aktisasjsuorges Stájgon ja Hábmerin lidjin tjåhkanam Hábmerin vásse vahko. Dáv lij juohkka jage dáhkam. Dárogielaåhpadiddje ja prosjæktajådediddje Tore Hestbråten lij riek mihá gå oahppe Stájgos ieddneskåvllåj Hábmerij båhtin. -Dan baktu oahpástuvvi oahppe nubbe nuppijn, ja sæmmi båttå aj musikálajn barggap mav ihkap åvddånbuktep juogu filma jali teáhtara baktu. Duodden la aj ulmme oahppijt alodit nav vaj boahtte jage Hábmerij båhti skåvlåv váttsátjit, måjudallá Hestbråten. Kristina Sandnes Oppájdes ja Eirik Hansen Stájgos javllaba suohtas ja geldulasj lij nuppij vuostasjklássagij æjvvalit ja sijájn oahpástuvvat. -Ep la mij goassak åvddåla æjvvalam, ja riek geldulasj lij sijájn oahpástuvvat. Muhtema ham diedon båhti diek skåvlåv váttsátjit vat boahtte jage, javllaba oahppe guovtes. Ja dat la de akta ulmijs dájna tjåhkanimijn. Skåvllåoajvve Jens Erik Bjørklund-Lassena mielas la riek buorre ja ájnas gå klássa 1b Stájgos ieddneskåvlåv guossidij. -Oahppe Stájgos ja Hábmeris oahpástuvvi nubbe nuppijn, ja de ihkap Stájgo oahppe båhti Hábmerij boahtte jage, javllá sån.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

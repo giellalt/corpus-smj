@@ -1,44 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Avtamielakvuodajn værálda álggoálmmugij</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="f" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>385</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_111209.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty SkapalenJårggålibme: Divte Media, Idar Kintel</p>
-    <p>máhtudagájn ja máhtukvuodajn ja sávvapbessap bievde birra tjåhkkåhitsjiehtadallamijda. Tjállep gålmmåparagráfa majt sávvap ja jáhkkeppresidænnta Egil Olli bæssá åvdedit jusbágov oadtju. Gå mij oassálasstep dátvuoset Vuonarijkka álggoálmmugijduodalattjat barggá, javllá Gintal.</p>
-    <p>Væráltvijddásasj gatjálvis dárbaj væráltvijddásasj tjoavddusijtDálkádaknjunnjusjtjåhkanimen tjåhkanimoadda værálda oajvemus njunnjutjijs.<em type="italic">- Dát le politihkalasj ássje alla dásen.Gåktu jáhká mij ájnegisá unna Nuortta-Sálton máhttep dåbddåt miján levájkkudimfábmo?</em>- Dálkádakluojttemij vierttip ållesværáldin viessot. Dálkádakrievddamamijáv jåksi vájku gånnå lip. Ájnas leluojttemijt binnedit ja vahágijt binneditgå dá sjaddi båhtusijt oadtjotjuohkkahattjajda. Dálkádakrievddama liduola dagu ienep dálkev ja stuorratemperatuvrrasvahkastimijt buktám. Jusvuojnnep duola dagu merragierragav.Jagen 2050 le nuorre Divtasvuonan jamijá guovlojn badjánam moaddasentimehterij ja dav vierttiji dálásjnávsstetsiegge ájádallat.Gintal mielas le ájnas sáme ja látte aktanvierttiji barggat dálkádaktjoavddusijtgávnatjit.- Vierttip dálkádakluojttemijt binnedit jabarggatvuolledálkádakluojttemsebrudagá vuosstibarggat ja bæjválasj iellemij tjoavddusijtsadjáj oadtjot ma sieradusáv dahki.Duola dagu binnebuv bijlajn vuodjet jafarra syhkaldit.- Ij dat ienebut stádaulmutjijt guoska,dánna Nuortta-Sálton le guhkásaktisasjfievroj gaskan.- Riekta le dat. Valla máhttelis le siesstetoasstemijn duola dagu ekologalasjbiebmojt oasstet. Divtasvuonanluonndoruhtadibme vilá le nanos.Ulmutja bierriji diedulattjat dajnajoarkket. Joarkket sarvva- jarievsakbivdujn, luosav ja dábmugavbivddet ja muorjjit. Dá li dåjma ma livuohkasa birrasij. Biergov Brasilasoasstet ij buorev tjuovo. Dannarássjovuomev buolljot tjuolasti vaj buvegalggi guohtomsajev oadtjot ja dat ájn </p>
-    <p xml:lang="nob"><em type="italic">Jon Petter Gintal i København.   Gåvvå/foto: Gunn Britt Retter</em> </p>
-    <p>Lasedum åvdåsvásstádus ja berustibme positivalattjat vájkkut<em type="italic">- Gåktu le industrialiserigijn sámeguovlojn, e gus sáme aj galga oasevdassta oadtjot?- </em>Dat le gatjálvis bisodime ja suodjalimebirra. Muv mielas adno le ájnnasabbo,gåktu luondov ávkádallat váni davbiejsstemis. Miján li stuorra hásstalusámij guosská ruodná energiav. Fossilfámos biegga- ja tjáhtjefábmuj. Ájnas leálggoálmmugij duobddága aneduvvi,valla duola dagu bieggamillopárkkaællosujtov vájkkut. Álldo miessijn lesierraláhkáj dássta vájkkuduvvá. Dánmanen båhti tjuovvovasj infrastruktuvrradagu rahte ja fábmoledniga. Dákkirindustriåvddånahttem ij agevdálkádakluojttemijt binneda, valla sjaddádåssju rievddam. Buorep lij jus stáhttaåstij ruodná fábmo sertifikáhtajt ja dajtbálkestij. Navti ruodná sertifikáhtamáhtti vierre tjoavddusa liehket, javllávájmmelis birásrádediddje. </p>
-    <p>avta bále adnet. Mån jáhkáv le máhttelisoadtjot divna bieggamillopárkajt, vallade vierttiji álggoálmmuga ja addneprosessan oassálasstet ja guovlojt gávnatgånnå ij luondov ja judosiellemavbiejste. Buorre dille juohkkahattjajda lemáhttelis, valla dat guosská vidnudagájtja dåjmadiddjijt, miejnni Gintal. Suvmielas le imálasj gå vuona Statkraft ijåvvå vieleda svieriga sámijt, ja navtinievrep etihkav tjadádi gå Vuonan.- <em type="italic">Majt ájádalá dån sijddabájke birra gåle stuorstádan værálda oajvemuspolitihkkárij?- </em>Ájádaláv Divtasvuodna le riek tjáppabájkke oavdos luondujn ja geldulasjsebrudagájn guokta kultuvraj. Mån levnanosit guovlluj tjanádam ja miján lehyhtto Oarjjevuonan gånnå lev nav álugå máhttelis. Muv mielas le ájnas barggatvaj árbbedábálasjálggoálmmukmáhtudahka vuodo sjaddáduodastimen dálkádakrievddamijt jaåvdedittjat positijvalasjhiebadahttemstrategijajt, hæjttá Jon </p>
-    <p>Ájggu sjiehtadallamijda oassálasstet</p>
-    <p>j</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Avtamielakvuodajn værálda álggoálmmugij</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="f" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2009</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>385</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_111209.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty SkapalenJårggålibme: Divte Media, Idar Kintel</p>
+<p>máhtudagájn ja máhtukvuodajn ja sávvapbessap bievde birra tjåhkkåhitsjiehtadallamijda. Tjállep gålmmåparagráfa majt sávvap ja jáhkkeppresidænnta Egil Olli bæssá åvdedit jusbágov oadtju. Gå mij oassálasstep dátvuoset Vuonarijkka álggoálmmugijduodalattjat barggá, javllá Gintal.</p>
+<p>Væráltvijddásasj gatjálvis dárbaj væráltvijddásasj tjoavddusijtDálkádaknjunnjusjtjåhkanimen tjåhkanimoadda værálda oajvemus njunnjutjijs.<em type="italic">- Dát le politihkalasj ássje alla dásen.Gåktu jáhká mij ájnegisá unna Nuortta-Sálton máhttep dåbddåt miján levájkkudimfábmo?</em>- Dálkádakluojttemij vierttip ållesværáldin viessot. Dálkádakrievddamamijáv jåksi vájku gånnå lip. Ájnas leluojttemijt binnedit ja vahágijt binneditgå dá sjaddi båhtusijt oadtjotjuohkkahattjajda. Dálkádakrievddama liduola dagu ienep dálkev ja stuorratemperatuvrrasvahkastimijt buktám. Jusvuojnnep duola dagu merragierragav.Jagen 2050 le nuorre Divtasvuonan jamijá guovlojn badjánam moaddasentimehterij ja dav vierttiji dálásjnávsstetsiegge ájádallat.Gintal mielas le ájnas sáme ja látte aktanvierttiji barggat dálkádaktjoavddusijtgávnatjit.- Vierttip dálkádakluojttemijt binnedit jabarggatvuolledálkádakluojttemsebrudagá vuosstibarggat ja bæjválasj iellemij tjoavddusijtsadjáj oadtjot ma sieradusáv dahki.Duola dagu binnebuv bijlajn vuodjet jafarra syhkaldit.- Ij dat ienebut stádaulmutjijt guoska,dánna Nuortta-Sálton le guhkásaktisasjfievroj gaskan.- Riekta le dat. Valla máhttelis le siesstetoasstemijn duola dagu ekologalasjbiebmojt oasstet. Divtasvuonanluonndoruhtadibme vilá le nanos.Ulmutja bierriji diedulattjat dajnajoarkket. Joarkket sarvva- jarievsakbivdujn, luosav ja dábmugavbivddet ja muorjjit. Dá li dåjma ma livuohkasa birrasij. Biergov Brasilasoasstet ij buorev tjuovo. Dannarássjovuomev buolljot tjuolasti vaj buvegalggi guohtomsajev oadtjot ja dat ájn </p>
+<p xml:lang="nob"><em type="italic">Jon Petter Gintal i København.   Gåvvå/foto: Gunn Britt Retter</em> </p>
+<p>Lasedum åvdåsvásstádus ja berustibme positivalattjat vájkkut<em type="italic">- Gåktu le industrialiserigijn sámeguovlojn, e gus sáme aj galga oasevdassta oadtjot?- </em>Dat le gatjálvis bisodime ja suodjalimebirra. Muv mielas adno le ájnnasabbo,gåktu luondov ávkádallat váni davbiejsstemis. Miján li stuorra hásstalusámij guosská ruodná energiav. Fossilfámos biegga- ja tjáhtjefábmuj. Ájnas leálggoálmmugij duobddága aneduvvi,valla duola dagu bieggamillopárkkaællosujtov vájkkut. Álldo miessijn lesierraláhkáj dássta vájkkuduvvá. Dánmanen båhti tjuovvovasj infrastruktuvrradagu rahte ja fábmoledniga. Dákkirindustriåvddånahttem ij agevdálkádakluojttemijt binneda, valla sjaddádåssju rievddam. Buorep lij jus stáhttaåstij ruodná fábmo sertifikáhtajt ja dajtbálkestij. Navti ruodná sertifikáhtamáhtti vierre tjoavddusa liehket, javllávájmmelis birásrádediddje. </p>
+<p>avta bále adnet. Mån jáhkáv le máhttelisoadtjot divna bieggamillopárkajt, vallade vierttiji álggoálmmuga ja addneprosessan oassálasstet ja guovlojt gávnatgånnå ij luondov ja judosiellemavbiejste. Buorre dille juohkkahattjajda lemáhttelis, valla dat guosská vidnudagájtja dåjmadiddjijt, miejnni Gintal. Suvmielas le imálasj gå vuona Statkraft ijåvvå vieleda svieriga sámijt, ja navtinievrep etihkav tjadádi gå Vuonan.- <em type="italic">Majt ájádalá dån sijddabájke birra gåle stuorstádan værálda oajvemuspolitihkkárij?- </em>Ájádaláv Divtasvuodna le riek tjáppabájkke oavdos luondujn ja geldulasjsebrudagájn guokta kultuvraj. Mån levnanosit guovlluj tjanádam ja miján lehyhtto Oarjjevuonan gånnå lev nav álugå máhttelis. Muv mielas le ájnas barggatvaj árbbedábálasjálggoálmmukmáhtudahka vuodo sjaddáduodastimen dálkádakrievddamijt jaåvdedittjat positijvalasjhiebadahttemstrategijajt, hæjttá Jon </p>
+<p>Ájggu sjiehtadallamijda oassálasstet</p>
+<p>j</p>
+</body></document>

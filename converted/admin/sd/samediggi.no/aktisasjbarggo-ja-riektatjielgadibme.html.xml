@@ -1,79 +1,29 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>384</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/AEladus/Boatsojaeladus/Aktisasjbarggo-ja-riektatjielgadibme</origFileName>
-    <parallel_text xml:lang="nob" location="samarbeid-og-rettighetsavklaring.html"/>
-    <parallel_text xml:lang="sma" location="laavenjostoe-jih-reaktatjielkestimmie.html"/>
-    <parallel_text xml:lang="sme" location="ovttasbargu-ja-vuoigatvuodacielggadeapmi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Aktisasjbarggo ja riektátjielgadibme / Boatsojæládus / Æládus / Sámedigge - Sametinget</p>
-    <p type="title">Aktisasjbarggo ja riektátjielgadibme</p>
-    <p>21. njoktje 2014</p>
-    <p>Vuona ja Svieriga ælloguohtomkonvensjåvnå barggojuogos buktá bierjjedagá snjuktjamáno 21. biejve rievddadimoajvvadusájt Vuona ja Svieriga ælloguohtomkonvensjåvnnåj Vuona ednambarggo- ja biebbmominsstarij Sylvi Listhaug ja Svieriga ednamdáfominsstarij Eskil Erlandsson.</p>
-    <p>Barggojuohkusin li åvdåstiddje Vuona ja Svieriga sámedikkijs, Svieriga sámij rijkkalihtos ja Vuona ællosámij rijkkalihtos. Barggojuohkusa jådediddjen le Ellinor Marita Jåma Vuona Sámedikkes.</p>
-    <p>Barggojuogos la ságastallamij baktu tjieldij dahkam oajvvadusáv ådå konvensjåvnnåtækstaj. Barggojuohkusin li stuorra vuorddámusá juhte ráddidusá biedji barggojuohkusa bargov ja oajvvadusájt vuodon ælloguohtomkonvensjåvnå dåhkkidibmáj.</p>
-    <p>Barggojuogos la biedjam vuoduj juhte aktisasjbarggosjiehtadusá lulun liehket oajvvenjuolgadussan tjieldij gaskan. Iehpesemasvuohta gæhttjaluvvá vuostak tjoavdeduvvat sjiehtadusáj baktu ja dan maŋŋela márjju såbadahttem Ælloguohtomnammadusá viehkijn.</p>
-    <p>
-      <em type="bold">-Boadodis sjiehtadallama tjoavdeduvvi Ælloguohtomnammadusá baktu mij mierret guohtombájkijt, guohtomájgijt ja boatsojlågov. Gujddimorgádna le Alepgæhttjalimnammadus, mij låhpalattjat mierret, subtsas barggojuohkusa jådediddje Ellinor Marita Jåma. </em>
-    </p>
-    <p>
-      <em type="bold">Guohtomriektáj kárttim ja sihkarasstem </em>
-    </p>
-    <p>Nasjåvnålasj ælloæláduspolitihkka le jagij nalluj divvum tjieldij guohtomguovlojt. Barggojuogos adná mierrediddjen boahtteájgij ælloæládussaj rájáj rastá juhte tjadáduvvá riektátjielggidus vaj riektávuodo tjielggá nåv vaj guohtomvuodudahka boahtte ájgij tjoavdeduvvá váni stuorra rijdoj.</p>
-    <p>Muhtem ælloniehke ælla ásadam dáhperievtesvuodajt ietjasa ådå guovlojda. Dát la ájnas oasse daj hásstalusájs ma ájgij nalluj li bájnnám ællobargov rájaj rastá.</p>
-    <p>
-      <em type="bold">-Dat iehpesihkarvuohta mij la dagádum nasjåvnålasj politihkas ja luluj tjoavdeduvvat almulasj kárttima ja rievtesvuodaj dåhkkidime baktu dajda guovlojda, javllá Jåma. </em>
-    </p>
-    <p>
-      <em type="bold">Urudisá ájtti ælloæládusáv </em>
-    </p>
-    <p>
-      <em type="bold">-Stuorra urudismáddo le konvensjåvnnåguovlojn goappátjijn rijkajn. Vidjura li ájtton ekonomalasj, ekologalasj ja kultuvralasj guoddelisvuohtaj goappátjijn rijkajn. Urudisá ájtti iellemvuodov moaddásijda, javllá barggojuohkusa jådediddje Ellinor Marita Jåma. </em>
-    </p>
-    <p>
-      <em type="bold">-Nasjåvnålasj urudispolitihkka viertti vieledit ælloæládusá båhtusijt konvensjåvnnåguovlojn goappátjijn rijkajn, javllá Jåma. </em>
-    </p>
-    <p>
-      <em type="bold">Ælloæládusá guovloj suodjalibme </em>
-    </p>
-    <p>Aktelattjat dagáduvvi gártjedime guohtomguovlojn goappátjijn rijkajn gånnå konvensjåvnnå le fámon. Same bieles váseduvvá dát degu guohtomguovlojn ælla riektá ja oalle suoje.</p>
-    <p>
-      <em type="bold">-Luluj liehket paradoksan jus ælloæládus rájáj rastá suoddjiduvvá konvensjåvnå baktu, ja dan ga maŋŋela ájteduvvá gártjedimijs ietja guovlos, javllá Jåma. </em>
-    </p>
-    <p>
-      <em type="bold">Tjuovvolibme vijddábut </em>
-    </p>
-    <p>Sámediggeráde ájras Henrik Olsen gijttá barggojuohkusav bargos. Sån gijttá aj divna tjieldijt ma li viehkedam prosessan.</p>
-    <p>
-      <em type="bold">-Sámediggeráde vuorddá dála juhte Svieriga ja Vuona ráddidusá tjuovvoli barggojuohkusa oajvvadusájt. Ájnas le mij oadtjop konvensjåvnåv mij válldá várajda gájkka oassálasstij riektájt ja ássjijt buorre láhkaj, javllá Sámediggeráde ájras Henrik Olsen. </em>
-    </p>
-    <p>Dála li barggojuohkusa divvomoajvvadusá:</p>
-    <p xml:lang="nob">Den samiske arbeidsgruppas forslag til endringer i norsk-svensk reinbeitekonvensjon.pdf</p>
-    <p xml:lang="nob">383,40 kB</p>
-    <p>Lågå ienebut bargos: http://www.sametinget.no/Naeringer/Reindrift/Norsk-svensk-reinbeitekonvensjon</p>
-    <p>Ienep diedo:</p>
-    <p>Barggojuohkusa jådediddje: Ellinor Marita Jåma, + 47 916 13 460</p>
-    <p>Sámediggeráde ájras Henrik Olsen, + 47 907 75 219</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>384</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/AEladus/Boatsojaeladus/Aktisasjbarggo-ja-riektatjielgadibme</origFileName><parallel_text xml:lang="nob" location="samarbeid-og-rettighetsavklaring.html"/><parallel_text xml:lang="sma" location="laavenjostoe-jih-reaktatjielkestimmie.html"/><parallel_text xml:lang="sme" location="ovttasbargu-ja-vuoigatvuodacielggadeapmi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Aktisasjbarggo ja riektátjielgadibme / Boatsojæládus / Æládus / Sámedigge - Sametinget</p>
+<p type="title">Aktisasjbarggo ja riektátjielgadibme</p>
+<p>21. njoktje 2014</p>
+<p>Vuona ja Svieriga ælloguohtomkonvensjåvnå barggojuogos buktá bierjjedagá snjuktjamáno 21. biejve rievddadimoajvvadusájt Vuona ja Svieriga ælloguohtomkonvensjåvnnåj Vuona ednambarggo- ja biebbmominsstarij Sylvi Listhaug ja Svieriga ednamdáfominsstarij Eskil Erlandsson.</p>
+<p>Barggojuohkusin li åvdåstiddje Vuona ja Svieriga sámedikkijs, Svieriga sámij rijkkalihtos ja Vuona ællosámij rijkkalihtos. Barggojuohkusa jådediddjen le Ellinor Marita Jåma Vuona Sámedikkes.</p>
+<p>Barggojuogos la ságastallamij baktu tjieldij dahkam oajvvadusáv ådå konvensjåvnnåtækstaj. Barggojuohkusin li stuorra vuorddámusá juhte ráddidusá biedji barggojuohkusa bargov ja oajvvadusájt vuodon ælloguohtomkonvensjåvnå dåhkkidibmáj.</p>
+<p>Barggojuogos la biedjam vuoduj juhte aktisasjbarggosjiehtadusá lulun liehket oajvvenjuolgadussan tjieldij gaskan. Iehpesemasvuohta gæhttjaluvvá vuostak tjoavdeduvvat sjiehtadusáj baktu ja dan maŋŋela márjju såbadahttem Ælloguohtomnammadusá viehkijn.</p>
+<p><em type="bold">-Boadodis sjiehtadallama tjoavdeduvvi Ælloguohtomnammadusá baktu mij mierret guohtombájkijt, guohtomájgijt ja boatsojlågov. Gujddimorgádna le Alepgæhttjalimnammadus, mij låhpalattjat mierret, subtsas barggojuohkusa jådediddje Ellinor Marita Jåma. </em></p>
+<p><em type="bold">Guohtomriektáj kárttim ja sihkarasstem </em></p>
+<p>Nasjåvnålasj ælloæláduspolitihkka le jagij nalluj divvum tjieldij guohtomguovlojt. Barggojuogos adná mierrediddjen boahtteájgij ælloæládussaj rájáj rastá juhte tjadáduvvá riektátjielggidus vaj riektávuodo tjielggá nåv vaj guohtomvuodudahka boahtte ájgij tjoavdeduvvá váni stuorra rijdoj.</p>
+<p>Muhtem ælloniehke ælla ásadam dáhperievtesvuodajt ietjasa ådå guovlojda. Dát la ájnas oasse daj hásstalusájs ma ájgij nalluj li bájnnám ællobargov rájaj rastá.</p>
+<p><em type="bold">-Dat iehpesihkarvuohta mij la dagádum nasjåvnålasj politihkas ja luluj tjoavdeduvvat almulasj kárttima ja rievtesvuodaj dåhkkidime baktu dajda guovlojda, javllá Jåma. </em></p>
+<p><em type="bold">Urudisá ájtti ælloæládusáv </em></p>
+<p><em type="bold">-Stuorra urudismáddo le konvensjåvnnåguovlojn goappátjijn rijkajn. Vidjura li ájtton ekonomalasj, ekologalasj ja kultuvralasj guoddelisvuohtaj goappátjijn rijkajn. Urudisá ájtti iellemvuodov moaddásijda, javllá barggojuohkusa jådediddje Ellinor Marita Jåma. </em></p>
+<p><em type="bold">-Nasjåvnålasj urudispolitihkka viertti vieledit ælloæládusá båhtusijt konvensjåvnnåguovlojn goappátjijn rijkajn, javllá Jåma. </em></p>
+<p><em type="bold">Ælloæládusá guovloj suodjalibme </em></p>
+<p>Aktelattjat dagáduvvi gártjedime guohtomguovlojn goappátjijn rijkajn gånnå konvensjåvnnå le fámon. Same bieles váseduvvá dát degu guohtomguovlojn ælla riektá ja oalle suoje.</p>
+<p><em type="bold">-Luluj liehket paradoksan jus ælloæládus rájáj rastá suoddjiduvvá konvensjåvnå baktu, ja dan ga maŋŋela ájteduvvá gártjedimijs ietja guovlos, javllá Jåma. </em></p>
+<p><em type="bold">Tjuovvolibme vijddábut </em></p>
+<p>Sámediggeráde ájras Henrik Olsen gijttá barggojuohkusav bargos. Sån gijttá aj divna tjieldijt ma li viehkedam prosessan.</p>
+<p><em type="bold">-Sámediggeráde vuorddá dála juhte Svieriga ja Vuona ráddidusá tjuovvoli barggojuohkusa oajvvadusájt. Ájnas le mij oadtjop konvensjåvnåv mij válldá várajda gájkka oassálasstij riektájt ja ássjijt buorre láhkaj, javllá Sámediggeráde ájras Henrik Olsen. </em></p>
+<p>Dála li barggojuohkusa divvomoajvvadusá:</p>
+<p xml:lang="nob">Den samiske arbeidsgruppas forslag til endringer i norsk-svensk reinbeitekonvensjon.pdf</p>
+<p xml:lang="nob">383,40 kB</p>
+<p>Lågå ienebut bargos: http://www.sametinget.no/Naeringer/Reindrift/Norsk-svensk-reinbeitekonvensjon</p>
+<p>Ienep diedo:</p>
+<p>Barggojuohkusa jådediddje: Ellinor Marita Jåma, + 47 916 13 460</p>
+<p>Sámediggeráde ájras Henrik Olsen, + 47 907 75 219</p>
+</body></document>

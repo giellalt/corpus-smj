@@ -1,40 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>71° nord Vuodnabadás Tjierrekluoktaj</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>145</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/71-nord-vuodnabad-s-tjierrekluoktaj.4058</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Oassevállde TV-prográmman 71° nord båhtin vuolus Tjierrekluoktaj. Gåro bielen prográmmajådediddje Tom Stiansen. Gåvvå l TV-prográmmas.</p>
-    <p type="title">71° nord Vuodnabadás Tjierrekluoktaj</p>
-    <p>Dán jagásj 71° nord-prográmman TV-Norgin lij aj oasse Divtasvuonas. Dáhpádus mánnodagá lij gå oassevállde mannin váttse Vuodnabadás Tjierrekluoktaj.</p>
-    <p>Norsk kortversjon /Oanegis dárogiellaj</p>
-    <p>Vuodnabadás mannin da gietjav oassevállde Sájvvajávrráj(Vuodnabatjávrráj). Jávrev <span type="quote">”suhkin”</span> miehtáj gårvudagá nanna majt ietja dahkin dajs dárbbagijs majt guoddin. Jávre skåhpes gállin juovaj gitta Ávtjejávrráj. Dassta vat máhttsin ruoptus, ja mannin bálggá milta gitta Kanåvnnåj gånnå aj idjadin. Biejvet maññela galggin Tjierrekluoktaj jåvsådit. Åvdås gå nav guhkás båhtin, tjádjánin gitta Svieriga rijkkarádjáj. Ja vuostasj bále 71° nord-prográmmajn lidjin oassevállde ietjá rijkkaj jåvsådam.</p>
-    <p>Jåvsådin gåjt Tjierrekluoktaj åvddål ájggemiere, ja dajna lij vuojtto bessat Stetinda hotellan Gásluovtan bullarlávkan tjåhkudallat, ja njálga biebmojt bårråt.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"71° nord Vuodnabadás Tjierrekluoktaj"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>71° nord Vuodnabadás Tjierrekluoktaj</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>145</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/71-nord-vuodnabad-s-tjierrekluoktaj.4058</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Oassevállde TV-prográmman 71° nord båhtin vuolus Tjierrekluoktaj. Gåro bielen prográmmajådediddje Tom Stiansen. Gåvvå l TV-prográmmas.</p>
+<p type="title">71° nord Vuodnabadás Tjierrekluoktaj</p>
+<p>Dán jagásj 71° nord-prográmman TV-Norgin lij aj oasse Divtasvuonas. Dáhpádus mánnodagá lij gå oassevállde mannin váttse Vuodnabadás Tjierrekluoktaj.</p>
+<p>Norsk kortversjon /Oanegis dárogiellaj</p>
+<p>Vuodnabadás mannin da gietjav oassevállde Sájvvajávrráj(Vuodnabatjávrráj). Jávrev <span type="quote">”suhkin”</span> miehtáj gårvudagá nanna majt ietja dahkin dajs dárbbagijs majt guoddin. Jávre skåhpes gállin juovaj gitta Ávtjejávrráj. Dassta vat máhttsin ruoptus, ja mannin bálggá milta gitta Kanåvnnåj gånnå aj idjadin. Biejvet maññela galggin Tjierrekluoktaj jåvsådit. Åvdås gå nav guhkás båhtin, tjádjánin gitta Svieriga rijkkarádjáj. Ja vuostasj bále 71° nord-prográmmajn lidjin oassevállde ietjá rijkkaj jåvsådam.</p>
+<p>Jåvsådin gåjt Tjierrekluoktaj åvddål ájggemiere, ja dajna lij vuojtto bessat Stetinda hotellan Gásluovtan bullarlávkan tjåhkudallat, ja njálga biebmojt bårråt.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"71° nord Vuodnabadás Tjierrekluoktaj"</span> på Facebook</p>
+</body></document>

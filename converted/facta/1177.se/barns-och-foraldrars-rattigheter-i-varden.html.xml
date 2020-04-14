@@ -1,125 +1,72 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1420</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Barns-och-foraldrars-rattigheter-i-varden</origFileName>
-    <parallel_text xml:lang="eng" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
-    <parallel_text xml:lang="fin" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
-    <parallel_text xml:lang="fit" location="barns-och-.html"/>
-    <parallel_text xml:lang="sma" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
-    <parallel_text xml:lang="sme" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
-    <parallel_text xml:lang="swe" location="barns-och-foraldrars-rattigheter-i-varden2.html"/>
-    <parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmn"/>
-    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmu"/>
-    <parallel_text location="barns-och-foraldrars-rattigheter.html" xml:lang="rmy-rka"/>
-    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="yid"/>
-    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Mánáj ja äjgádij rievtesvuoda sujton / Barns och föräldrars rättigheter i vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">JulevusámegiellaLulesamiska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Mánáj ja äjgádij rievtesvuoda sujtonBarns och föräldrars rättigheter i vården</p>
-    <p type="title">Ma li sujto rievtesvuoda?</p>
-    <p>Mánáj ja äjgádij rievtesvuoda aktan gulluji sujttovaddema välggogisvuohtaj årrojda. Välggogisvuoda gávnnuji varresvuohta- ja skihpasujttolágan (HSL) ja patiänntasihkarvuohtalágan (PSL). Ij la dåssju duobbmoståvllåj gujddit rievtesvuodajt oattjotjit. HSL javllá gåktu sujtto Svierigin galggá organiseriduvvat ja dåjmaduvvat. HSL:a vuodoájádus la gájkka ulmutja Svierigin galggi oadtjot buorre ja tjårgugis sujtov sämmi vidjurijda. HSL:a milta sujtto galggá vatteduvvat aktan patienta miededimijn, dat javllá patiännta la miededam sujttuj.</p>
-    <p>PSL la sujttovaddij åvdåsvásstádusá birra.Gudi galggi gähttjat vaj sujtto tjårgugit dåjmaduvvá ja patientan la máhttelisvuohta bajedit vigijt sujton. PSL sisanet aj gähtjo birra varresvuohta- ja skihpasujto badjel, dat javllá gåktu varresvuohta – ja skihpasujtto váttugit gehtjaduvvá ja gåktu gehtjadibme dåbelijtjuovoduvvá ja máhttelis vige dåjmaduvvi.</p>
-    <p>Ietjá lágan mij sisanet mánáj ja äjgádij birra, äjgátbálkka, l tjáledum vaj máná sujttoaddnen la riektá ja välggogisvuohta mierredit ássjijn ma gulluji mánnáj. Sujtto l gitta mánná l 18 jage ållim, jali gitta mánná válldu jus sjaddá åvddål gå mánná l 18 jagák. Máná sujttoaddne gut gálggá miededit sujttuj mij mánnáj fáladuvvá.</p>
-    <p>Máná åvdedime gáktuj galggá stuoráp vieledibme váldeduvvá majt mánná iesj sihtá. Mánán galggá de aktanbájnnem mij ájge milta rievddaduvvá iesjmierredibmáj. Mánáj riektá gávnnuji aj buojkodum FN:a konvensjåvnån mánáj riektáj birra, mánájkonvensjåvnån, rijkajgasskasasj lihtto majt Svierik la vuollájtjállam. Mánájkonvensjåvnnå sisanet iehtjádij siegen:</p>
-    <list>
-      <p type="listitem">Mánájn la riektá viessomij ja buoremus máhttelis varresvuohtaj ja skihpasujttuj.</p>
-      <p type="listitem">Máná buoremus galggá stivrrit gájkka märrádusájt ma mánájda gulluji.</p>
-      <p type="listitem">Mánájn la riektá ietjasa vuojnov javllat ja roahttov oadtjot.</p>
-      <p type="listitem">Äjgádijn la alemus åvdåsvásstádus mánás.</p>
-      <p type="listitem">Mánájn li rievtesvuohta suodjáj ietjas priváhttaviessomij ja integritähttaj.</p>
-    </list>
-    <p type="title">Mánáj rievtesvuohta sujton</p>
-    <p>Ij gávnnu nanostum áldar goassa mánná oadtju oassálasstet ja mierredit sujttovidjurin. Máná riekta iesj mierredit la aktidum máná åvdedime gáktuj man vájvve märrádus la ja man árvulasj la máná boahtteájge varresvuohtaj.</p>
-    <p>Dadi vuorrasap mánná sjaddá, dadi dájvvalakkoj dárbahi goappátjagá máná ja äjgáda miededit, miededit sujtov mij fáladuvvá. Åvdåsvásstádiddje sujtos gudi árvustalli goassa mánná máhttá oassálasstet ja mierredit sujttovidjurin.</p>
-    <p>Buojkuldagá majda mánájn li riektá sujton:</p>
-    <list>
-      <p type="listitem">Äjgádav maŋen adnet dan ájgen gå mánná l sujttoåssudagán/skihpadåben sisitjáledum. Máná galggi åvdemusát sujttiduvvat mánájåssudagán manna gávnnuji bargge ájnas mánájmáhttudagájn, skåvllååhpadusájn,ståhkamgávnij ja ietjá dåjmajt ma vuojŋastimev vaddi.</p>
-      <p type="listitem">Máhttelisvuohta åtsådimev jali dåmajdimev oanegav boarkkit jali ådåsis gähttjalit ietjá bále.</p>
-      <p type="listitem">Vuorrasap mánájn la dábálattjat riektá aktu ságastit sujttobarggij váni äjgáda oassálassti jali hähttuji diehtet majt mánná l giehttum.</p>
-      <p type="listitem">Vuorrasap mánán la rievtesvuohta sujtov åhtsåt ja rievtesvuohta rádedimev jali båhtusav gullat váni äjgáda dagi.</p>
-      <p type="listitem">Jus mánná l sisitjáledum sujttoåssudagán/skihpadåben, ja iesj sihtá, de oarbbena máhtti manádit suv lunna ja jus la máhttelis danna oadet.</p>
-      <p type="listitem">Bárnen la rievtesvuohta oadtjot diededimev ja iesj mierredit jus sihtá jali ij birratjuohpaduvvat. Bárnen gut birratjuohpaduvvá la riektá dálkkasij mij báktjasav giehpet. Tjuollam galggá legitimeridum dåktåris dagáduvvat jali ulmutjis sierralágásj låbijn.</p>
-      <p type="listitem">Gájkka birratjuohppam niejdajda ja nissunijda l buorgodum Svierigin, juska vil niejdda l miededam tjuollamij.</p>
-      <p type="listitem">Mánájn la riektá doarjjaj, rádáj ja diededibmáj jus äjgádin la funksjåvnnåvuoledibme, vasstes vahák, skibádahka rubmahin, psykalasj ärránibme, l alkoholaj tjanádum jali ietjá ábnnasijda majda l tjanádum jali vuordedahtte jábmá.</p>
-      <p type="listitem">Bessat vielgijs mávsedak sujttomanádimijs. Äjgáda li välggogisá mákset gå sujtov hähttu mákset.</p>
-    </list>
-    <p>Buojkuldagá majda mánná máhttá oassálasstet ja mierredit sujton:</p>
-    <list>
-      <p type="listitem">Gåktu mánná sihtá dálkkasav válldet buojkulvissan tablähttan, bahtatjoale baktu jali låssjkusin.</p>
-      <p type="listitem">Makkir tjuvden jali giedan tjuoggom galggá dagáduvvat ja jus mánná sihtá jámálguhttemvuojddasav lijkkáj tjuoggoma åvddåla.</p>
-      <p type="listitem">Jus mánná sihtá vaddet tsuottsajt ja sellajt.</p>
-      <p type="listitem">Vuorrasap máná ietja mierredi jus sihti diedojt vaddet ietjas varresvuohtavidjurij birra ja gesi. Tjuolldasijn dakkir diedojda ma máhtti dárbulattja guoradallamijj sosiáladievnastusán jali vierredahkoguoradallamin.</p>
-      <p type="listitem">Vuorrasap mánájn la riektá tsaggat journálladiedojt ietjá sujttoåssudagájda jali sujttovaddijda, buojkulvissan jus la manádam nuorajduostudagán.</p>
-    </list>
-    <p>Buojkuldagá majda máná e máhte oassálasstet ja mierredit birra:</p>
-    <list>
-      <p type="listitem">Alvos märrádusájt ma rávkki medisijnalasj máhttudagájt buojkulvissan jus tjuollam, dåmajdibme jali åtsådibme galggá dagáduvvát jali ij. Máná máhtti dájvvalakkoj oassálasstet ja bájnatjit dáj sujttodagoj åsijt.</p>
-      <p type="listitem">Máná ja nuora e máhte hilggot sujtov jus sujttiduvvi soahpomlága milta, láhka sierralágásj njuolgadusáj nuoraj sujtto birra (LVU) jali lahká psykiatralasj nággosujto birra (LPT). Dájt märrádusájt máhttá gujddit.</p>
-      <p type="listitem">Máná e ietja oattjo mierredit jus li nuoges vuorrasa mierredittjat. Le sujto åvdåsvásstediddje gut árvustallá goassa mánná máhttá märrádusájn oassálasstet sujto birra.</p>
-    </list>
-    <p type="title">Sujttoaddne rievtesvuoda sujton</p>
-    <p>Sujttoaddnen la dábálattjat riektá oassálasstet gájkka ságastallamijn ja märrádusájn sujton mij gullu ietjas mánnáj. Máná buoremus la agev njuolgadussan. Mánájn la aj riektá álldara ja åvdedime gáktuj märrádusájn oassálasstet.</p>
-    <p>Muhttijn sjaddi vájves vidjura gå galggá mierreduvvat, sierraláhkáj jus ij ájgás boade birra mij la <span type="quote">"buoremus"</span> mánnáj. Muhttijn ij gávnnu aktak riekta buorre oajvvadus. Ålåtjit aktisasj tjoavddusij la buorre jus äjgát adná nuoges diededimev, buojkulvissan låhkåt jali gatjádit barggijs ja åtsådit makkir båhtusijt märrádusá vaddi.</p>
-    <p>Buojkulvis majda sujttoaddnen la rievtesvuohta/máhttá oassálasstet ja mierredit:</p>
-    <list>
-      <p type="listitem">Mierredit jus mánná galggá sujttiduvvat jali ij. Ij la fámon jus mánná sujttiduvvá lága milta sierralágásj njuolgadusáj nuoraj sujtto birra (LVU). soahpomlágá jali láhká psykiatralasj nággosujto birra (LPT).</p>
-      <p type="listitem">Vuodonjuolgadus la goappásj sujttoaddne galggaba dåhkkidit sujttuj. Hähkka vidjurijn jali ássjijn ma älla nåv ájnnasa l nuoges nubbe sujttoaddne miededimijn. Jus sujttoaddne äbá ájgás boade de máhttá máná ietjas vuojnno mierredibme. Jus sujddoaddne vuorjját jali e goassak ájgás boade máná sujto birra de muhttijn máhttá ájnna tjoavdos årrot akta äjgát äjgádijs oadtju sujtto. Jus akta sujttoaddnijs ij sidá mánnáj máhttelisvuohta vatteduvvat psykiatralasj jali psykologalasj guoradallamij jali dåmajdibmáj mij HSL:as gåbtjåduvvá, de sosiálasiebrreráde máhttá mierredit nåvti sjaddá.</p>
-      <p type="listitem">Diededimev oadtjot máná varresvuoda birra, makkir åtsådime, dálkudime ja dahkotjerda ma máhtti sjaddat ja mij máhttá sjaddat jus ij dálkuda.</p>
-      <p type="listitem">Buktet ietjas oajvvadusájt ja vuojnojt sujto birra.</p>
-      <p type="listitem">Boarkkit álgedum dálkudimev jali hilggot åtsådimijt jali dálkkasijt. Ij la fámon jus mánná sujttiduvvá lága milta sierralágásj njuolgadusáj nuoraj sujto birra (LVU), soahpomlága, jali psykiatralasj nággosujto birra(LPT).</p>
-      <p type="listitem">Bessat årrot maŋen jali mánáv gitta anedit vájves åtsådimen jali dálkudimen. Máhttá lahkusin årrot jaskadittjat mánáv åvddåla ja maŋŋela.</p>
-      <p type="listitem">Oadet máná lunna jus mánná sujttiduvvá sujttoåssudagán/skihpadåben.</p>
-      <p type="listitem">Sujttoåssudagáv/skihpadåbe vuosedibme ja barggovuogij ja njuolgadusáj tjielggidibme.</p>
-      <p type="listitem">Dårjav oadtjot máná sujtujn viehkedit jus mánná l sisitjáledum sujttoåssudahkaj/skihpadåhpåj.</p>
-      <p type="listitem">Vatteduvvat giella- ja gullodålkåv.</p>
-      <p type="listitem">Mierredit jus mánná galggá oassálasstet åtsådimprosjevtan jali ij.</p>
-      <p type="listitem">Mierredit jus ulmutja åhpadusán oassálassti jali gähttji gå mánná dálkuduvvá jali åtsåduvvá.</p>
-      <p type="listitem">Äjgádijn la rievtesvuohta miededit sujtov dårjajn lágas sierralágásj njuolgadusá nuoraj sujto birra (LVU). Buojkulvissan jus avtanik la nuorra álldarin lågenangålmå ja lågenanavtse jage gaskan gänna l stuorra dárbbo sujtos ja/jali dálkkasis, valla ij sidá ietjas dálkudit. Äjgáda de máhtti aktavuodav válldet sosiálasiebrrerádijn mij dalága máhttá ábjjamav dahkat jali tjuottjudusriektán åhtsåt sujtov dårjajn LVU:as. Sosiálasiebrreráde máhttá maŋŋela fuolkev viehkedit riekta sujttuj.</p>
-      <p type="listitem">Máná journálas moattádusáv oadtjot. Valla vuorrasap máná galggi miededit vaj journállamoattádusá ålgusvatteduvvi. Muhtem sierralágásj vidjurijn máhttá aj årrot sekretässa máná suodjáj sujttoaddne vuosstij.</p>
-      <p type="listitem">Jus mánán la tjavgga skibádahka jali galggá tjadádit gássjelis sujttodagov de l riektá ájn avtat spesialistas nuppev árvustallamav oadtjot.</p>
-      <p type="listitem">Gasskabåddåsasj äjgátbiednigav oadtjot vádnuibme båhtuj jus äjgát la mánájn skihpadåben årrum.</p>
-      <p type="listitem">Ekonomalasj mávsov oadtjot patiänntaduodastusá jali dálkasduodastusá baktu muhtem vidurijn jus mánná l skáddum sujto ja dálkudime gáktuj.</p>
-      <p type="listitem">Jus sujttobargge árvustalli vaj åge varresvuohta l ájtedum iesselis nissuna persåvnålasj vidjurij diehti de bargge máhtti aktavuodav válldet sosiáladievnastusájn. Sosiáladievnastus máhttá fállat iesselis nissunij dårjav ja viehkev åge suodjáj.</p>
-      <p type="listitem">Iesselis nissun gut máhttá mierredit jus tjuollam jali ietjá dahko galggá åhkáj suv tjoajven dagáduvvat.</p>
-    </list>
-    <p>Buojkuldagá majda äjgádijn älla riektá:</p>
-    <list>
-      <p type="listitem">Äjgádijn ij la rievtesvuohta rávkkat dálkudimev mánnáj jus dálkudibme l diehtagij ja tjårguk máhtalgisvuohtaj vuosstij sujton.</p>
-      <p type="listitem">Äjgádijn ij la riektá nádot ietjas mánnáj häggagádjom dálkudimev.</p>
-      <p type="listitem">Äjgádijn ij la rievtesvuohta nádot ietjas mánnáj medisijnalasj sujtov ja dálkudimev jus ietján luluj alvos vádá máná varresvuohtaj jali åvdedibmáj. Sujttobargge bajedi sosiálasiebrrerádáj gudi máhtti dåmadit lága dårjajn sierralágásj njuolgadusáj nuoraj sujto birra (LVU). Åvdåsvásstádus de målsuduvvá sosiálasiebrrerádáj mierredit sujttoájgen.</p>
-      <p type="listitem">Äjgádijn älla riektá hilggot sujtov jus mánán la tjavgga soahpomdávdda ja hähttu sujttiduvvat soahpomlága milta.</p>
-      <p type="listitem">Äjgádijn ij la riektá hilggot sujtov jus mánná sujttiduvvá lága milta psykiatralasj nággosujto birra (LPT).</p>
-      <p type="listitem">Jus skihpasujttobargge gáddi mánná vasstet vaháguvvá juogaláhkáj jus diehto vatteduvvá äjgádijda, de bargge máhtti nádot äjgádijda dav diedov vaddet.</p>
-      <p type="listitem">Äjgádijn ij la riektá moattádusáv oadtjot vuorrasap máná journálas. Vuorrasap máná hähttuji dåhkkidit journállamoattádus ålgus vatteduvvi.</p>
-      <p type="listitem">Äjgádijn älla rievtesvuohta hieredit diedojt máná journálan ietjá sujttovaddijda.</p>
-    </list>
-    <p type="title">Gej aktavuodav válldá gujddimusáj?</p>
-    <p>Dá nåv gåhtjoduvvam patiänntariektá e sisaneda äjgádin máhttá duobbmoståvllåj mannat ja rávkkat ietjas máná <span type="quote">"riektáv"</span>. Máhttelisvuoda li gis aktavuodav válldet patiänntasiebrrerádijn man dahkamusá li iehtjádij siegen patientajt viehkedit dárbulasj diededimev oadtjot ájmujda váldátjit ietjasa ássjijt varresvuohta- ja skihpasujton.</p>
-    <p>Jus adná ietjas mánnáj l boasto sujtto jali dåmajdibme vattedum de galggá åvdemusát aktavuodav válldet duostudagájn jali åssudagájn gånnå mánná dálkuduváj. Siján la välggogisvuohta guoradallat mij la sjaddam. Máhttá aj aktavuodav válldet patiänntasiebbrerádijn jali bajedit Sosiálastivrraj.</p>
-    <p>Máhttá aj vatteduvvat ekonomalasj mávsálvisáv jus aktavuodav válldá Patiänntaduodasdusájn jali Dálkasduodastusájn. Jus äjgádin adná mánná vahágij dejvadallam de máhttá polijssabajedimev dahkat. De máhttá dáhpádusáv duobbmoståvlås gähttjaluvvat.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1414</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Barns-och-foraldrars-rattigheter-i-varden</origFileName><parallel_text xml:lang="eng" location="barns-och-foraldrars-rattigheter-i-varden.html"/><parallel_text xml:lang="fin" location="barns-och-foraldrars-rattigheter-i-varden.html"/><parallel_text xml:lang="fit" location="barns-och-.html"/><parallel_text xml:lang="sma" location="barns-och-foraldrars-rattigheter-i-varden.html"/><parallel_text xml:lang="sme" location="barns-och-foraldrars-rattigheter-i-varden.html"/><parallel_text xml:lang="swe" location="barns-och-foraldrars-rattigheter-i-varden2.html"/><parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmn"/><parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmu"/><parallel_text location="barns-och-foraldrars-rattigheter.html" xml:lang="rmy-rka"/><parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="yid"/><parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmy-rlo"/><parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Mánáj ja äjgádij rievtesvuoda sujton / Barns och föräldrars rättigheter i vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Mánáj ja äjgádij rievtesvuoda sujtonBarns och föräldrars rättigheter i vården</p>
+<p type="title">Ma li sujto rievtesvuoda?</p>
+<p>Mánáj ja äjgádij rievtesvuoda aktan gulluji sujttovaddema välggogisvuohtaj årrojda. Välggogisvuoda gávnnuji varresvuohta- ja skihpasujttolágan (HSL) ja patiänntasihkarvuohtalágan (PSL). Ij la dåssju duobbmoståvllåj gujddit rievtesvuodajt oattjotjit. HSL javllá gåktu sujtto Svierigin galggá organiseriduvvat ja dåjmaduvvat. HSL:a vuodoájádus la gájkka ulmutja Svierigin galggi oadtjot buorre ja tjårgugis sujtov sämmi vidjurijda. HSL:a milta sujtto galggá vatteduvvat aktan patienta miededimijn, dat javllá patiännta la miededam sujttuj.</p>
+<p>PSL la sujttovaddij åvdåsvásstádusá birra.Gudi galggi gähttjat vaj sujtto tjårgugit dåjmaduvvá ja patientan la máhttelisvuohta bajedit vigijt sujton. PSL sisanet aj gähtjo birra varresvuohta- ja skihpasujto badjel, dat javllá gåktu varresvuohta – ja skihpasujtto váttugit gehtjaduvvá ja gåktu gehtjadibme dåbelijtjuovoduvvá ja máhttelis vige dåjmaduvvi.</p>
+<p>Ietjá lágan mij sisanet mánáj ja äjgádij birra, äjgátbálkka, l tjáledum vaj máná sujttoaddnen la riektá ja välggogisvuohta mierredit ássjijn ma gulluji mánnáj. Sujtto l gitta mánná l 18 jage ållim, jali gitta mánná válldu jus sjaddá åvddål gå mánná l 18 jagák. Máná sujttoaddne gut gálggá miededit sujttuj mij mánnáj fáladuvvá.</p>
+<p>Máná åvdedime gáktuj galggá stuoráp vieledibme váldeduvvá majt mánná iesj sihtá. Mánán galggá de aktanbájnnem mij ájge milta rievddaduvvá iesjmierredibmáj. Mánáj riektá gávnnuji aj buojkodum FN:a konvensjåvnån mánáj riektáj birra, mánájkonvensjåvnån, rijkajgasskasasj lihtto majt Svierik la vuollájtjállam. Mánájkonvensjåvnnå sisanet iehtjádij siegen:</p>
+<list><p type="listitem">Mánájn la riektá viessomij ja buoremus máhttelis varresvuohtaj ja skihpasujttuj.</p>
+<p type="listitem">Máná buoremus galggá stivrrit gájkka märrádusájt ma mánájda gulluji.</p>
+<p type="listitem">Mánájn la riektá ietjasa vuojnov javllat ja roahttov oadtjot.</p>
+<p type="listitem">Äjgádijn la alemus åvdåsvásstádus mánás.</p>
+<p type="listitem">Mánájn li rievtesvuohta suodjáj ietjas priváhttaviessomij ja integritähttaj.</p>
+</list><p type="title">Mánáj rievtesvuohta sujton</p>
+<p>Ij gávnnu nanostum áldar goassa mánná oadtju oassálasstet ja mierredit sujttovidjurin. Máná riekta iesj mierredit la aktidum máná åvdedime gáktuj man vájvve märrádus la ja man árvulasj la máná boahtteájge varresvuohtaj.</p>
+<p>Dadi vuorrasap mánná sjaddá, dadi dájvvalakkoj dárbahi goappátjagá máná ja äjgáda miededit, miededit sujtov mij fáladuvvá. Åvdåsvásstádiddje sujtos gudi árvustalli goassa mánná máhttá oassálasstet ja mierredit sujttovidjurin.</p>
+<p>Buojkuldagá majda mánájn li riektá sujton:</p>
+<list><p type="listitem">Äjgádav maŋen adnet dan ájgen gå mánná l sujttoåssudagán/skihpadåben sisitjáledum. Máná galggi åvdemusát sujttiduvvat mánájåssudagán manna gávnnuji bargge ájnas mánájmáhttudagájn, skåvllååhpadusájn,ståhkamgávnij ja ietjá dåjmajt ma vuojŋastimev vaddi.</p>
+<p type="listitem">Máhttelisvuohta åtsådimev jali dåmajdimev oanegav boarkkit jali ådåsis gähttjalit ietjá bále.</p>
+<p type="listitem">Vuorrasap mánájn la dábálattjat riektá aktu ságastit sujttobarggij váni äjgáda oassálassti jali hähttuji diehtet majt mánná l giehttum.</p>
+<p type="listitem">Vuorrasap mánán la rievtesvuohta sujtov åhtsåt ja rievtesvuohta rádedimev jali båhtusav gullat váni äjgáda dagi.</p>
+<p type="listitem">Jus mánná l sisitjáledum sujttoåssudagán/skihpadåben, ja iesj sihtá, de oarbbena máhtti manádit suv lunna ja jus la máhttelis danna oadet.</p>
+<p type="listitem">Bárnen la rievtesvuohta oadtjot diededimev ja iesj mierredit jus sihtá jali ij birratjuohpaduvvat. Bárnen gut birratjuohpaduvvá la riektá dálkkasij mij báktjasav giehpet. Tjuollam galggá legitimeridum dåktåris dagáduvvat jali ulmutjis sierralágásj låbijn.</p>
+<p type="listitem">Gájkka birratjuohppam niejdajda ja nissunijda l buorgodum Svierigin, juska vil niejdda l miededam tjuollamij.</p>
+<p type="listitem">Mánájn la riektá doarjjaj, rádáj ja diededibmáj jus äjgádin la funksjåvnnåvuoledibme, vasstes vahák, skibádahka rubmahin, psykalasj ärránibme, l alkoholaj tjanádum jali ietjá ábnnasijda majda l tjanádum jali vuordedahtte jábmá.</p>
+<p type="listitem">Bessat vielgijs mávsedak sujttomanádimijs. Äjgáda li välggogisá mákset gå sujtov hähttu mákset.</p>
+</list><p>Buojkuldagá majda mánná máhttá oassálasstet ja mierredit sujton:</p>
+<list><p type="listitem">Gåktu mánná sihtá dálkkasav válldet buojkulvissan tablähttan, bahtatjoale baktu jali låssjkusin.</p>
+<p type="listitem">Makkir tjuvden jali giedan tjuoggom galggá dagáduvvat ja jus mánná sihtá jámálguhttemvuojddasav lijkkáj tjuoggoma åvddåla.</p>
+<p type="listitem">Jus mánná sihtá vaddet tsuottsajt ja sellajt.</p>
+<p type="listitem">Vuorrasap máná ietja mierredi jus sihti diedojt vaddet ietjas varresvuohtavidjurij birra ja gesi. Tjuolldasijn dakkir diedojda ma máhtti dárbulattja guoradallamijj sosiáladievnastusán jali vierredahkoguoradallamin.</p>
+<p type="listitem">Vuorrasap mánájn la riektá tsaggat journálladiedojt ietjá sujttoåssudagájda jali sujttovaddijda, buojkulvissan jus la manádam nuorajduostudagán.</p>
+</list><p>Buojkuldagá majda máná e máhte oassálasstet ja mierredit birra:</p>
+<list><p type="listitem">Alvos märrádusájt ma rávkki medisijnalasj máhttudagájt buojkulvissan jus tjuollam, dåmajdibme jali åtsådibme galggá dagáduvvát jali ij. Máná máhtti dájvvalakkoj oassálasstet ja bájnatjit dáj sujttodagoj åsijt.</p>
+<p type="listitem">Máná ja nuora e máhte hilggot sujtov jus sujttiduvvi soahpomlága milta, láhka sierralágásj njuolgadusáj nuoraj sujtto birra (LVU) jali lahká psykiatralasj nággosujto birra (LPT). Dájt märrádusájt máhttá gujddit.</p>
+<p type="listitem">Máná e ietja oattjo mierredit jus li nuoges vuorrasa mierredittjat. Le sujto åvdåsvásstediddje gut árvustallá goassa mánná máhttá märrádusájn oassálasstet sujto birra.</p>
+</list><p type="title">Sujttoaddne rievtesvuoda sujton</p>
+<p>Sujttoaddnen la dábálattjat riektá oassálasstet gájkka ságastallamijn ja märrádusájn sujton mij gullu ietjas mánnáj. Máná buoremus la agev njuolgadussan. Mánájn la aj riektá álldara ja åvdedime gáktuj märrádusájn oassálasstet.</p>
+<p>Muhttijn sjaddi vájves vidjura gå galggá mierreduvvat, sierraláhkáj jus ij ájgás boade birra mij la <span type="quote">"buoremus"</span> mánnáj. Muhttijn ij gávnnu aktak riekta buorre oajvvadus. Ålåtjit aktisasj tjoavddusij la buorre jus äjgát adná nuoges diededimev, buojkulvissan låhkåt jali gatjádit barggijs ja åtsådit makkir båhtusijt märrádusá vaddi.</p>
+<p>Buojkulvis majda sujttoaddnen la rievtesvuohta/máhttá oassálasstet ja mierredit:</p>
+<list><p type="listitem">Mierredit jus mánná galggá sujttiduvvat jali ij. Ij la fámon jus mánná sujttiduvvá lága milta sierralágásj njuolgadusáj nuoraj sujtto birra (LVU). soahpomlágá jali láhká psykiatralasj nággosujto birra (LPT).</p>
+<p type="listitem">Vuodonjuolgadus la goappásj sujttoaddne galggaba dåhkkidit sujttuj. Hähkka vidjurijn jali ássjijn ma älla nåv ájnnasa l nuoges nubbe sujttoaddne miededimijn. Jus sujttoaddne äbá ájgás boade de máhttá máná ietjas vuojnno mierredibme. Jus sujddoaddne vuorjját jali e goassak ájgás boade máná sujto birra de muhttijn máhttá ájnna tjoavdos årrot akta äjgát äjgádijs oadtju sujtto. Jus akta sujttoaddnijs ij sidá mánnáj máhttelisvuohta vatteduvvat psykiatralasj jali psykologalasj guoradallamij jali dåmajdibmáj mij HSL:as gåbtjåduvvá, de sosiálasiebrreráde máhttá mierredit nåvti sjaddá.</p>
+<p type="listitem">Diededimev oadtjot máná varresvuoda birra, makkir åtsådime, dálkudime ja dahkotjerda ma máhtti sjaddat ja mij máhttá sjaddat jus ij dálkuda.</p>
+<p type="listitem">Buktet ietjas oajvvadusájt ja vuojnojt sujto birra.</p>
+<p type="listitem">Boarkkit álgedum dálkudimev jali hilggot åtsådimijt jali dálkkasijt. Ij la fámon jus mánná sujttiduvvá lága milta sierralágásj njuolgadusáj nuoraj sujto birra (LVU), soahpomlága, jali psykiatralasj nággosujto birra(LPT).</p>
+<p type="listitem">Bessat årrot maŋen jali mánáv gitta anedit vájves åtsådimen jali dálkudimen. Máhttá lahkusin årrot jaskadittjat mánáv åvddåla ja maŋŋela.</p>
+<p type="listitem">Oadet máná lunna jus mánná sujttiduvvá sujttoåssudagán/skihpadåben.</p>
+<p type="listitem">Sujttoåssudagáv/skihpadåbe vuosedibme ja barggovuogij ja njuolgadusáj tjielggidibme.</p>
+<p type="listitem">Dårjav oadtjot máná sujtujn viehkedit jus mánná l sisitjáledum sujttoåssudahkaj/skihpadåhpåj.</p>
+<p type="listitem">Vatteduvvat giella- ja gullodålkåv.</p>
+<p type="listitem">Mierredit jus mánná galggá oassálasstet åtsådimprosjevtan jali ij.</p>
+<p type="listitem">Mierredit jus ulmutja åhpadusán oassálassti jali gähttji gå mánná dálkuduvvá jali åtsåduvvá.</p>
+<p type="listitem">Äjgádijn la rievtesvuohta miededit sujtov dårjajn lágas sierralágásj njuolgadusá nuoraj sujto birra (LVU). Buojkulvissan jus avtanik la nuorra álldarin lågenangålmå ja lågenanavtse jage gaskan gänna l stuorra dárbbo sujtos ja/jali dálkkasis, valla ij sidá ietjas dálkudit. Äjgáda de máhtti aktavuodav válldet sosiálasiebrrerádijn mij dalága máhttá ábjjamav dahkat jali tjuottjudusriektán åhtsåt sujtov dårjajn LVU:as. Sosiálasiebrreráde máhttá maŋŋela fuolkev viehkedit riekta sujttuj.</p>
+<p type="listitem">Máná journálas moattádusáv oadtjot. Valla vuorrasap máná galggi miededit vaj journállamoattádusá ålgusvatteduvvi. Muhtem sierralágásj vidjurijn máhttá aj årrot sekretässa máná suodjáj sujttoaddne vuosstij.</p>
+<p type="listitem">Jus mánán la tjavgga skibádahka jali galggá tjadádit gássjelis sujttodagov de l riektá ájn avtat spesialistas nuppev árvustallamav oadtjot.</p>
+<p type="listitem">Gasskabåddåsasj äjgátbiednigav oadtjot vádnuibme båhtuj jus äjgát la mánájn skihpadåben årrum.</p>
+<p type="listitem">Ekonomalasj mávsov oadtjot patiänntaduodastusá jali dálkasduodastusá baktu muhtem vidurijn jus mánná l skáddum sujto ja dálkudime gáktuj.</p>
+<p type="listitem">Jus sujttobargge árvustalli vaj åge varresvuohta l ájtedum iesselis nissuna persåvnålasj vidjurij diehti de bargge máhtti aktavuodav válldet sosiáladievnastusájn. Sosiáladievnastus máhttá fállat iesselis nissunij dårjav ja viehkev åge suodjáj.</p>
+<p type="listitem">Iesselis nissun gut máhttá mierredit jus tjuollam jali ietjá dahko galggá åhkáj suv tjoajven dagáduvvat.</p>
+</list><p>Buojkuldagá majda äjgádijn älla riektá:</p>
+<list><p type="listitem">Äjgádijn ij la rievtesvuohta rávkkat dálkudimev mánnáj jus dálkudibme l diehtagij ja tjårguk máhtalgisvuohtaj vuosstij sujton.</p>
+<p type="listitem">Äjgádijn ij la riektá nádot ietjas mánnáj häggagádjom dálkudimev.</p>
+<p type="listitem">Äjgádijn ij la rievtesvuohta nádot ietjas mánnáj medisijnalasj sujtov ja dálkudimev jus ietján luluj alvos vádá máná varresvuohtaj jali åvdedibmáj. Sujttobargge bajedi sosiálasiebrrerádáj gudi máhtti dåmadit lága dårjajn sierralágásj njuolgadusáj nuoraj sujto birra (LVU). Åvdåsvásstádus de målsuduvvá sosiálasiebrrerádáj mierredit sujttoájgen.</p>
+<p type="listitem">Äjgádijn älla riektá hilggot sujtov jus mánán la tjavgga soahpomdávdda ja hähttu sujttiduvvat soahpomlága milta.</p>
+<p type="listitem">Äjgádijn ij la riektá hilggot sujtov jus mánná sujttiduvvá lága milta psykiatralasj nággosujto birra (LPT).</p>
+<p type="listitem">Jus skihpasujttobargge gáddi mánná vasstet vaháguvvá juogaláhkáj jus diehto vatteduvvá äjgádijda, de bargge máhtti nádot äjgádijda dav diedov vaddet.</p>
+<p type="listitem">Äjgádijn ij la riektá moattádusáv oadtjot vuorrasap máná journálas. Vuorrasap máná hähttuji dåhkkidit journállamoattádus ålgus vatteduvvi.</p>
+<p type="listitem">Äjgádijn älla rievtesvuohta hieredit diedojt máná journálan ietjá sujttovaddijda.</p>
+</list><p type="title">Gej aktavuodav válldá gujddimusáj?</p>
+<p>Dá nåv gåhtjoduvvam patiänntariektá e sisaneda äjgádin máhttá duobbmoståvllåj mannat ja rávkkat ietjas máná <span type="quote">"riektáv"</span>. Máhttelisvuoda li gis aktavuodav válldet patiänntasiebrrerádijn man dahkamusá li iehtjádij siegen patientajt viehkedit dárbulasj diededimev oadtjot ájmujda váldátjit ietjasa ássjijt varresvuohta- ja skihpasujton.</p>
+<p>Jus adná ietjas mánnáj l boasto sujtto jali dåmajdibme vattedum de galggá åvdemusát aktavuodav válldet duostudagájn jali åssudagájn gånnå mánná dálkuduváj. Siján la välggogisvuohta guoradallat mij la sjaddam. Máhttá aj aktavuodav válldet patiänntasiebbrerádijn jali bajedit Sosiálastivrraj.</p>
+<p>Máhttá aj vatteduvvat ekonomalasj mávsálvisáv jus aktavuodav válldá Patiänntaduodasdusájn jali Dálkasduodastusájn. Jus äjgádin adná mánná vahágij dejvadallam de máhttá polijssabajedimev dahkat. De máhttá dáhpádusáv duobbmoståvlås gähttjaluvvat.</p>
+</body></document>

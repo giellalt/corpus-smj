@@ -1,69 +1,22 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>– Julevsámegiella l ruoppsis listan</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/>
-    </author>
-    <year>2013</year>
-    <publChannel>
-      <publication>
-        <publisher>NRK Sápmi</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>346</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@it.no"/>
-    <origFileName>http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.11106328</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Samegillii</p>
-    <p>
-      <em type="italic">Maŋimuš ođđasat sámegillii </em>
-    </p>
-    <p/>
-    <p type="title">– Julevsámegiella l ruoppsis listan</p>
-    <p>Sáme ássjij stáhtatjálle Ragnhild Vassvik ja stáhtaráde Rigmor Aasrud, Árran - julevsáme guovdátjin.</p>
-    <p>Dav javlaj sáme ássjij stáhtaráde Rigmor Aasrud maŋŋáj gå sån Árran – julevsáme guovdátjav ja Divtasvuona ASVO:v, Divtasvuonan guossidij árabut dán vahko.</p>
-    <p>
-      <em type="italic">– Julevsámegiella le ham ruoppsislista, ij dal sládja, valla ruoppsislistak giella. Gå li ruoppsislista slája de álu mij gæhttjalip suoddjit dajt vaj várjjalit dajt slájajt, ja dánna li soames hásstalusá julevsámegiela hárráj aj, javlaj stáhtaráde ådåstuhttem- háldadus ja girkkodepartementan suv hålan Árranin. </em>
-    </p>
-    <p type="title">Ittjij rudájt jáhte</p>
-    <p>Sån sidáj ietjas tjalmij gæhttjat, ja gulldalit gåktu barggi sáme guovdátjijn.</p>
-    <p>Ittjij de stáhtaráde makkirik rudájt jáhte daj moadda prosjevtajda ma li jådon Árranin juogu dal giela hárráj jali musea prosjevtajda, valla Árrana direktørra la huoman riek dudálasj.</p>
-    <p>
-      <em type="italic">– Muv mielas lij hávsske gå stáhtaráde aktan suv vegajn astijdij mijáv guossidit, gå råhtos árggabiejven ep dal agev dåbdå mij sijájt jåksåp. Uddni galla dåbddåp mij lip sijáj bessam ságastit ietjama hásstalusáj birra, sierraláhkáj julevsáme giellabargo birra, javllá Árrana direktørra Lars Andreassen. </em>
-    </p>
-    <p>
-      <em type="italic">– Le gus stáhtaráde didjij jáhttám lasse ruhtadoarjjagav, jus ga ij la njuolgga dav dánna nammadam? </em>
-    </p>
-    <p>– Ejma mij dal dánna njuolgga biednigijt sáva, valla sávajma dádjadusáv mijá dárbojda, ja jus sij dádjadi mijá dárbojt, de ietjastis dat tjoavdeduvvá, javllá Andreassen.</p>
-    <p>
-      <em type="italic">– Så dån jáhká biedniga goajkádi Árranij? </em>
-    </p>
-    <p>
-      <em type="italic">– Dav de ållåsit jáhkáv, javllá Andreassen. </em>
-    </p>
-    <p>Sij tjåhkanin Árranij, Barggijbelludagá njunnjutja. Árran-direktørra Lars Andreassen (gåro bielen) duostoj guossijt, stáhtarádev Rigmor Aasrud, stuordiggeájrrasav Eirik Sivertsen, Árran-stivrrajådediddjev Sonja Steen ja Divtasvuona suohkanoajvev, Tor Asgeir Johansen.</p>
-    <p type="title">Giellaássje guovdátjin</p>
-    <p>Stáhtaráde alvaduváj divna daj dåjmaj birra ma li Árranin, ja sidáj ietjas bieljij gullat gåktu sierraláhkáj giellabarggo doajmma.</p>
-    <p>
-      <em type="italic">– Julevsámegiella la akta dajs gielajs mij galggá suoddjiduvvat, valla mij diehtep dat barggo l hásstaliddjes barggo. Dan diehti la buorre munji mannat gæhttjamin gåktu barggi. Mij galggap vijddábut barggat sámegielaj doajmmaplánajn, ja de la munji viehka ávkálasj oadtjot gæhttjat gåktu giellabarggo doajmmá bæjválattjat. Ja dav majt dánna lav vuojnnám la geldulasj ja miellagiddis vuojnnet, javlaj Aasrud NRK:aj åvdås aj manádij Divtasvuona ASVO milta ja dassta Lofoahttaj. </em>
-    </p>
-    <list>
-      <p type="listitem">
-        <em type="italic">Lågå aj: Aasrud Árranij </em>
-      </p>
-    </list>
-    <p>
-      <em type="italic">GULLDAL ÁSSJEV DÁNNA: </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>– Julevsámegiella l ruoppsis listan</title><genre code="news"/><author><person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/></author><year>2013</year><publChannel><publication><publisher>NRK Sápmi</publisher></publication></publChannel><wordcount>346</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@it.no"/><origFileName>http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.11106328</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Samegillii</p>
+<p><em type="italic">Maŋimuš ođđasat sámegillii </em></p>
+<p/>
+<p type="title">– Julevsámegiella l ruoppsis listan</p>
+<p>Sáme ássjij stáhtatjálle Ragnhild Vassvik ja stáhtaráde Rigmor Aasrud, Árran - julevsáme guovdátjin.</p>
+<p>Dav javlaj sáme ássjij stáhtaráde Rigmor Aasrud maŋŋáj gå sån Árran – julevsáme guovdátjav ja Divtasvuona ASVO:v, Divtasvuonan guossidij árabut dán vahko.</p>
+<p><em type="italic">– Julevsámegiella le ham ruoppsislista, ij dal sládja, valla ruoppsislistak giella. Gå li ruoppsislista slája de álu mij gæhttjalip suoddjit dajt vaj várjjalit dajt slájajt, ja dánna li soames hásstalusá julevsámegiela hárráj aj, javlaj stáhtaráde ådåstuhttem- háldadus ja girkkodepartementan suv hålan Árranin. </em></p>
+<p type="title">Ittjij rudájt jáhte</p>
+<p>Sån sidáj ietjas tjalmij gæhttjat, ja gulldalit gåktu barggi sáme guovdátjijn.</p>
+<p>Ittjij de stáhtaráde makkirik rudájt jáhte daj moadda prosjevtajda ma li jådon Árranin juogu dal giela hárráj jali musea prosjevtajda, valla Árrana direktørra la huoman riek dudálasj.</p>
+<p><em type="italic">– Muv mielas lij hávsske gå stáhtaráde aktan suv vegajn astijdij mijáv guossidit, gå råhtos árggabiejven ep dal agev dåbdå mij sijájt jåksåp. Uddni galla dåbddåp mij lip sijáj bessam ságastit ietjama hásstalusáj birra, sierraláhkáj julevsáme giellabargo birra, javllá Árrana direktørra Lars Andreassen. </em></p>
+<p><em type="italic">– Le gus stáhtaráde didjij jáhttám lasse ruhtadoarjjagav, jus ga ij la njuolgga dav dánna nammadam? </em></p>
+<p>– Ejma mij dal dánna njuolgga biednigijt sáva, valla sávajma dádjadusáv mijá dárbojda, ja jus sij dádjadi mijá dárbojt, de ietjastis dat tjoavdeduvvá, javllá Andreassen.</p>
+<p><em type="italic">– Så dån jáhká biedniga goajkádi Árranij? </em></p>
+<p><em type="italic">– Dav de ållåsit jáhkáv, javllá Andreassen. </em></p>
+<p>Sij tjåhkanin Árranij, Barggijbelludagá njunnjutja. Árran-direktørra Lars Andreassen (gåro bielen) duostoj guossijt, stáhtarádev Rigmor Aasrud, stuordiggeájrrasav Eirik Sivertsen, Árran-stivrrajådediddjev Sonja Steen ja Divtasvuona suohkanoajvev, Tor Asgeir Johansen.</p>
+<p type="title">Giellaássje guovdátjin</p>
+<p>Stáhtaráde alvaduváj divna daj dåjmaj birra ma li Árranin, ja sidáj ietjas bieljij gullat gåktu sierraláhkáj giellabarggo doajmma.</p>
+<p><em type="italic">– Julevsámegiella la akta dajs gielajs mij galggá suoddjiduvvat, valla mij diehtep dat barggo l hásstaliddjes barggo. Dan diehti la buorre munji mannat gæhttjamin gåktu barggi. Mij galggap vijddábut barggat sámegielaj doajmmaplánajn, ja de la munji viehka ávkálasj oadtjot gæhttjat gåktu giellabarggo doajmmá bæjválattjat. Ja dav majt dánna lav vuojnnám la geldulasj ja miellagiddis vuojnnet, javlaj Aasrud NRK:aj åvdås aj manádij Divtasvuona ASVO milta ja dassta Lofoahttaj. </em></p>
+<list><p type="listitem"><em type="italic">Lågå aj: Aasrud Árranij </em></p>
+</list><p><em type="italic">GULLDAL ÁSSJEV DÁNNA: </em></p>
+</body></document>

@@ -1,132 +1,99 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>DO birra Om DO på lulesamiska</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2011</year>
-    <publChannel>
-      <publication>
-        <publisher>Diskrimineringsombudsmannen</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>1111</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <origFileName>http://www.do.se/Documents/sprak/lulesamiska/DO%20birra%20(Om%20DO)%20G1%20SMJ-SE%20(lulesamiska)%202011.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Om DO  på lulesamiska</p>
-    <p>Le gus dån nuppástuvvam?</p>
-    <p>Máhtá de bajedit Nuppástimoahttsáj (DO).</p>
-    <p>DO máhttá aj duv viehkedit gåktu dån máhtá  barggat vaj ij aktak galga nuppástuvvat.</p>
-    <p>Lågå ienebuv girjátjin.</p>
-    <p>DO – avta riektájda gájkajda</p>
-    <p><em type="bold">DO barggá nuppástallama vuossti. DO barggá vaj gájkajn galggi avta riektá  DO barggá aj gájkajn galggi avta máhttelisvuoda.</em> </p>
-    <p>
-      <em type="bold">DO ulmme l galggá álkke dádjadit gájkka ulmutjijda  jut gájkajn li avta árvvo. </em>
-    </p>
-    <p>DO l stáhta fábmudahka. Fábmudahka barggá ráddidusá åvdås. Fábmudagán la åvdåsvásstádus.  DO barggá nuppastallama vuossti.</p>
-    <p>DO barggagådij ådåjakmáno 1.b. 2009.  Åvdebut gávnnujin niellja umasse oahttse nuppástallama vuossti.  Dálla gávnnu akta oahttse nuppástallama vuossti.  DO l dat.</p>
-    <p>Dån márjju aná dån la nuppástuvvam  moatteláhkáj, buojkulvissan dajna gå duv máddo  l ietja rijkas ja dajna gå dån la bieljijs.  Bieljijs la gå dujna l gássjelisvuohta gullat.</p>
-    <p>Jali dån la nuppástuvvam dajna gå dån la homoseksuálalasj ja dajna gå dujna l dysleksia.</p>
-    <p>Homoseksuálalasj la ålmåj gut gierru ietja ålmmåj  jali nissun gut gierru ietjá nissunij.  Dysleksia l gå dujna l gássjelisvuohta låhkåt ja tjállet.</p>
-    <p>De dal máhtti gájka gudi adni sij li  nuppástuvvam aktavuodav válldet DO:jn.</p>
-    <p>Ådåjakmáno 1.b. 2009 Svierik oattjoj ådå lágav.</p>
-    <p>Lágan l nammadum jut buorgodum la nuppástallat  dajna gå soames la ålmåj jali nissun.</p>
-    <p>Nuppástallat mierkki rievtugahtes årrot  soabmása vuossti ja giehtadallat ulmutjav nievrebut.</p>
-    <p>Dála li ienep buojkulvisá masi l buorgodum.</p>
-    <p>Buorgodum la nuppástallat  dajna gå soames ietjas ij dåbdå nissunin  ja ij ga ietjas dåbdå ålmmån.</p>
-    <p>Buorgodum la nuppástallat  Dajna gå nissun gárvvun ålmmån  jali dajna gå ålmåj gárvvun nissunin.</p>
-    <p>Buorgodum la soabmásav nuppástallat  dajna gå ålmåj la gierrum ietjá ålmmåj  jali dajna gå nissun la gierrum ietjá nissunij.</p>
-    <p>Buorgodum la nuppástit soabmásav  suv lijkkebájno diehti  álmmukjuohkusa diehti masi ulmutjin la aktavuohta  jali rijka diehti gåsstå ulmusj boahtá.</p>
-    <p>Buorgodum la soabmásav nuppástallat  jáhko jali jáhkkudagá diehti.  Jáhkkudahka l buojkulvissan buddissta, juvdá, ristagis jali muslima.</p>
-    <p>Buorgodum la nuppástallat  dajna gå soabmásin la sáhtusvuohta. Sáhtusvuohta l buojkulvissan gå soabmásin la  gássjelisvuohta vádtset, gássjelisvuohta vuojnnet jali gásselisvuohta gullat.</p>
-    <p>Buorgodum la nuppástallat soabmásav  suv álldara diehti.</p>
-    <p>DO máhttá duv viehkedit jus la nuppástuvvam.</p>
-    <p>DO máhttá aj duv viehkedit jus sjatta nievrebut giehtadaládum  dajna gå dån la äjgátloaben,  dajna gå dån ájgo äjgátloahpáj jali dajna gå la årrum äjgátloaben.</p>
-    <p>Äjgátloaben la soames gut la hejman bargos  avtajn suv mánájs jali måttijn mánájn.</p>
-    <p>DO máhttá duv viehkedit</p>
-    <p>DO máhttá duosstot duv bajedimev nuppástallama gáktuj.</p>
-    <p>DO máhttá åtsådit mij la dáhpáduvvam.</p>
-    <p>DO máhttá diededit makkir riektá dujna li ma gávnnuji nuppástallamágan.</p>
-    <p>DO máhttá diededit gåktu dån galga dahkat gå la nuppástuvvam.</p>
-    <p>DO máhttá åvdåstit duv duobbmoståvlån.</p>
-    <p>DO máhttá duosstot duv bajedimev jus aná dån la   nuppástuvvam gå dån ájgo äjgátloahpaj jali  gå dån la äjgátloaben jali gå dån boadá ruoptus äjgátloabes.</p>
-    <p>DO máhttá giehttot gåktu dån galga dahkat tsakkatjit  nuppástallamav boahtteájgen.</p>
-    <p>Le gus dån nuppástuvvam?</p>
-    <p>Bajeda DO:aj jus dån aná dån la  nuppástuvvam.</p>
-    <p>Nuppástallat mierkki rievtegahtes årrot  soabmása vuossti ja giehtadallat ulmutjav nievrebut  buojkulvissan dajna gå ulmusj la nissun.</p>
-    <p>DO:aj bajedit la nåvkå. Ij mávse majdik.</p>
-    <p>Nuppástallamlágan nammaduvvá jut buorgodum la  nuppástallat bargon, skåvlån ja allaskåvlån.</p>
-    <p>Buorgodum la aj nuppástallat boargálin  ja gå oastá årudagáv jali lájggi årudagáv.</p>
-    <p>Buorgodum la aj nuppástallat ietjá suorgijn buojkulvissan skihpadåben, jali sosiáladievnastusán.</p>
-    <p>Dån máhtá bajedit DO:aj jus aná  dån la nuppástuvvam.</p>
-    <p>Buojkulvisá nuppástallamij</p>
-    <p>Ållo ulmutja riŋŋgiji, e-påvståv rádji jailtjálli brevajt DO:aj dajna gå ádni sij</p>
-    <p>li nuppástuvvam.</p>
-    <p>Dála li muhtem buojkulvisá.</p>
-    <p>Buojkulvisá li sáddná ja li dáhpáduvvam oallevuodan.</p>
-    <p>Valla ulmutjij namá li rievddadum. Namá älla ulmutja oalle namma.</p>
-    <p>Mira ittjij bargov oattjo dajna gå adná oajvvegåbttjåsav.</p>
-    <p>Homoseksuálalasj párra ejga oattjo aktan boahtet skåvllådánssaj.</p>
-    <p>Roja la romalasj fábmalis nissun.  Ålmåj gut dåbev äjggu gånnå Roja årru målsoj lásav dåben.  Roja ja suv gålmmå máná ettjin besa sisi sijá lájggoviessuj.</p>
-    <p>Carl ittjij loabeduvá kursan mannat dajna gå sån lij hiv-positijvalasj.</p>
-    <p>Sara ittjij barggoságastallamij oattjo boahtet dajna gå sån lij fábmális.</p>
-    <p>Åhpadiddje l baha Alexa vuossti dajna gå  Alex javlla sån ij sidá årrot niejddan ja ij ga bárnnen.</p>
-    <p>Frank la bargov åhtsåm.</p>
-    <p>Sån ij bargov oattjo dajna gå sån la vuorrasabbo 55 jagágijs.</p>
-    <p>Nåvti dån bajeda</p>
-    <p>Dån máhtá riŋŋgit DO:aj ja gatjádit vidjurij birra, valla dån i máhte bajedimev dahkat telefåvnå baktu.</p>
-    <p>Dån galga tjállet duv bajedimev  Nuppástimoahttsáj, DO.</p>
-    <p>Bajedimen galga tjállet duv namáv, adressav  ja duv telefåvnnånummarav.. Buorre l jus dån aj tjálá duv e-påvsståadressav.</p>
-    <p>Dån galga tjállet namáv gesi bajedibme guosská. Máhttá årrot buojkulvissan skåvllå,  allaskåvllå, barggovadde, vidnudahka jali fábmudahka.</p>
-    <p>Tjále aj manen dån jáhká dån la nuppástuvvam,  Tjále jus jáhká buojkulvissan la duv áldar,  duv jáhkkudahka jali duv sáhtusvuohta.</p>
-    <p>Dån máhtá tjállet brevav DO:aj jali dievddet páhppárav  mij gávnnu DO webbabielen <em type="italic">www.do.se.</em> </p>
-    <p>Dån galga ruvva bajedit jus aná  dån la nuppástuvvam.</p>
-    <p>Gå la rádjam sisi bajedimev DO:aj  de dahkap guoradallamav.  Mierkki mij låhkåp dárkkelit majt dån la tjállám ja åtsådip mij la dáhpáduvvam.</p>
-    <p>Ulmusj gev la bajedam nuppástallamij  miededuvvá aj giehttot majt sån adná  l dáhpáduvvam.</p>
-    <p>DO mierret de mij galggá dáhpáduvvat.</p>
-    <p>DO márjju guorras dån la nuppástuvvam. Väjá oadtjot biednigijt jali iehtjádav gässta dån la nuppástuvvam.</p>
-    <p>Muhttijn duv bajedibme mierkki  ietjá ulmutja e dejvadalá nuppástallamij.</p>
-    <p>Riektá l ij nuppástuvvat.</p>
-    <p>Váraj bieja dájt gå bajeda DO:aj</p>
-    <p><em type="bold">1. </em>Dån galga tjállet bajedimev jus aná dån la nuppástuvvam. <em type="bold">2. </em>Dån galga ruvva rádjat bajedimev DO:aj jus dån aná dån la nuppástuvvam <em type="bold">3. </em>Dån galga tjállet manen dån aná dån la nuppástuvvam. </p>
-    <p>Vuosstálasste!</p>
-    <p>Giehto jus dån illastuvá ja rievtugahtes giehtadaláduvá. Barggovadde, skåvllå jali allaskåvllå galggá duv viehkedit vaj dån i illastuvá ja rievtugahtes giehtadaláduvá nuppádis. Bargon fáhkka máhttá aj viehkedit duv.</p>
-    <p>Avta riektá gájkajda</p>
-    <p>Barga gus dån vaj gájkajn galggi avta riektá?</p>
-    <p>Barggovaddijn, skåvlåjn ja allaskåvlåjn li åvdåsvásstádus  vaj gájkajda vatteduvvi avta riektá.</p>
-    <p>Siján la aj åvdåsvásstádus vaj ij aktak nuppástuvá jali illastuvvá.</p>
-    <p>Illastit la hárddet ja bahá årrot soabmása vuossti.</p>
-    <p>Barggovadde hähttu barggat vaj gájkájn.galggi avta riektá ja  máhttelisvuoda barggoiellemin.</p>
-    <p>Láhka nammat barggovadden 25 barggij jali ienebu gálggá gávnnut plána mij vuoset  nissunijn ja ålmmåjn li avta riektá barggosajen.</p>
-    <p>Barggovadde galggá aj mierredit majt galggi dahkat  vaj ij aktak galgá nuppástuvvat suv sjierve,  suv mátto, suv rijka jali suv jáhkkudagá diehti.</p>
-    <p>Skåvlåjn ja allaskåvlåjn galggi aj gávnnut plána. Plánan galggá nammadum  majt sij galggi dahkat vaj gájkajn galggi avta riektá ja  vaj ij aktak galga nuppástuvvat.</p>
-    <p>DO máhttá viehkedit barggovaddijt, allaskåvlåjt ja skåvlåjt tjuovvot majt nuppástallamláhka nammat.</p>
-    <p>Sidá gus diehtet ienebuv bargo birra nuppástallama vuossti? Sidá gus diehtet ienebuv man birra l nammadum lágan  nuppástallama birra?</p>
-    <p>DO webbabielen www.do.se gávnnuji ienep diedo ja buojkulvisá nuppástallamij.</p>
-    <p>Aktavuodav válde DO:jn</p>
-    <p>Sidá gus ienep diedojt nuppástallama birra?  Sidá gus ságastit soabmásijn oattjotjit diedojt gåktu  dån dagá bajedimev?</p>
-    <p>Riŋŋgi  DO:aj</p>
-    <p>Tjále DO:aj</p>
-    <p>Telefåvnnå 08 120 20 700 jali 020 36 36 66 (nåvkå) Täkstatelefåvnnå 08 120 20 820 Prässa-telefåvnnå 08 120 20 710</p>
-    <p>Diskrimineringsombudsmannen (DO) Box 3686 103 59 Stockholm Fáksa 08 120 20 800</p>
-    <p>DO webbabielle</p>
-    <p>www.do.se</p>
-    <p>E-påvsstå  DO:aj</p>
-    <p>E-påvsstå do@do.seO,</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>DO birra Om DO på lulesamiska</title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2011</year><publChannel><publication><publisher>Diskrimineringsombudsmannen</publisher></publication></publChannel><wordcount>1113</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><origFileName>http://www.do.se/Documents/sprak/lulesamiska/DO%20birra%20(Om%20DO)%20G1%20SMJ-SE%20(lulesamiska)%202011.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Om DO  på lulesamiska</p>
+<p>Le gus dån nuppástuvvam?</p>
+<p>Máhtá de bajedit Nuppástimoahttsáj (DO).</p>
+<p>DO máhttá aj duv viehkedit gåktu dån máhtá  barggat vaj ij aktak galga nuppástuvvat.</p>
+<p>Lågå ienebuv girjátjin.</p>
+<p>DO – avta riektájda gájkajda</p>
+<p><em type="bold">DO barggá nuppástallama vuossti. DO barggá vaj gájkajn galggi avta riektá  DO barggá aj gájkajn galggi avta máhttelisvuoda.</em> </p>
+<p><em type="bold">DO ulmme l galggá álkke dádjadit gájkka ulmutjijda  jut gájkajn li avta árvvo. </em></p>
+<p>DO l stáhta fábmudahka. Fábmudahka barggá ráddidusá åvdås. Fábmudagán la åvdåsvásstádus.  DO barggá nuppastallama vuossti.</p>
+<p>DO barggagådij ådåjakmáno 1.b. 2009.  Åvdebut gávnnujin niellja umasse oahttse nuppástallama vuossti.  Dálla gávnnu akta oahttse nuppástallama vuossti.  DO l dat.</p>
+<p>Dån márjju aná dån la nuppástuvvam  moatteláhkáj, buojkulvissan dajna gå duv máddo  l ietja rijkas ja dajna gå dån la bieljijs.  Bieljijs la gå dujna l gássjelisvuohta gullat.</p>
+<p>Jali dån la nuppástuvvam dajna gå dån la homoseksuálalasj ja dajna gå dujna l dysleksia.</p>
+<p>Homoseksuálalasj la ålmåj gut gierru ietja ålmmåj  jali nissun gut gierru ietjá nissunij.  Dysleksia l gå dujna l gássjelisvuohta låhkåt ja tjállet.</p>
+<p>De dal máhtti gájka gudi adni sij li  nuppástuvvam aktavuodav válldet DO:jn.</p>
+<p>Ådåjakmáno 1.b. 2009 Svierik oattjoj ådå lágav.</p>
+<p>Lágan l nammadum jut buorgodum la nuppástallat  dajna gå soames la ålmåj jali nissun.</p>
+<p>Nuppástallat mierkki rievtugahtes årrot  soabmása vuossti ja giehtadallat ulmutjav nievrebut.</p>
+<p>Dála li ienep buojkulvisá masi l buorgodum.</p>
+<p>Buorgodum la nuppástallat  dajna gå soames ietjas ij dåbdå nissunin  ja ij ga ietjas dåbdå ålmmån.</p>
+<p>Buorgodum la nuppástallat  Dajna gå nissun gárvvun ålmmån  jali dajna gå ålmåj gárvvun nissunin.</p>
+<p>Buorgodum la soabmásav nuppástallat  dajna gå ålmåj la gierrum ietjá ålmmåj  jali dajna gå nissun la gierrum ietjá nissunij.</p>
+<p>Buorgodum la nuppástit soabmásav  suv lijkkebájno diehti  álmmukjuohkusa diehti masi ulmutjin la aktavuohta  jali rijka diehti gåsstå ulmusj boahtá.</p>
+<p>Buorgodum la soabmásav nuppástallat  jáhko jali jáhkkudagá diehti.  Jáhkkudahka l buojkulvissan buddissta, juvdá, ristagis jali muslima.</p>
+<p>Buorgodum la nuppástallat  dajna gå soabmásin la sáhtusvuohta. Sáhtusvuohta l buojkulvissan gå soabmásin la  gássjelisvuohta vádtset, gássjelisvuohta vuojnnet jali gásselisvuohta gullat.</p>
+<p>Buorgodum la nuppástallat soabmásav  suv álldara diehti.</p>
+<p>DO máhttá duv viehkedit jus la nuppástuvvam.</p>
+<p>DO máhttá aj duv viehkedit jus sjatta nievrebut giehtadaládum  dajna gå dån la äjgátloaben,  dajna gå dån ájgo äjgátloahpáj jali dajna gå la årrum äjgátloaben.</p>
+<p>Äjgátloaben la soames gut la hejman bargos  avtajn suv mánájs jali måttijn mánájn.</p>
+<p>DO máhttá duv viehkedit</p>
+<p>DO máhttá duosstot duv bajedimev nuppástallama gáktuj.</p>
+<p>DO máhttá åtsådit mij la dáhpáduvvam.</p>
+<p>DO máhttá diededit makkir riektá dujna li ma gávnnuji nuppástallamágan.</p>
+<p>DO máhttá diededit gåktu dån galga dahkat gå la nuppástuvvam.</p>
+<p>DO máhttá åvdåstit duv duobbmoståvlån.</p>
+<p>DO máhttá duosstot duv bajedimev jus aná dån la   nuppástuvvam gå dån ájgo äjgátloahpaj jali  gå dån la äjgátloaben jali gå dån boadá ruoptus äjgátloabes.</p>
+<p>DO máhttá giehttot gåktu dån galga dahkat tsakkatjit  nuppástallamav boahtteájgen.</p>
+<p>Le gus dån nuppástuvvam?</p>
+<p>Bajeda DO:aj jus dån aná dån la  nuppástuvvam.</p>
+<p>Nuppástallat mierkki rievtegahtes årrot  soabmása vuossti ja giehtadallat ulmutjav nievrebut  buojkulvissan dajna gå ulmusj la nissun.</p>
+<p>DO:aj bajedit la nåvkå. Ij mávse majdik.</p>
+<p>Nuppástallamlágan nammaduvvá jut buorgodum la  nuppástallat bargon, skåvlån ja allaskåvlån.</p>
+<p>Buorgodum la aj nuppástallat boargálin  ja gå oastá årudagáv jali lájggi årudagáv.</p>
+<p>Buorgodum la aj nuppástallat ietjá suorgijn buojkulvissan skihpadåben, jali sosiáladievnastusán.</p>
+<p>Dån máhtá bajedit DO:aj jus aná  dån la nuppástuvvam.</p>
+<p>Buojkulvisá nuppástallamij</p>
+<p>Ållo ulmutja riŋŋgiji, e-påvståv rádji jailtjálli brevajt DO:aj dajna gå ádni sij</p>
+<p>li nuppástuvvam.</p>
+<p>Dála li muhtem buojkulvisá.</p>
+<p>Buojkulvisá li sáddná ja li dáhpáduvvam oallevuodan.</p>
+<p>Valla ulmutjij namá li rievddadum. Namá älla ulmutja oalle namma.</p>
+<p>Mira ittjij bargov oattjo dajna gå adná oajvvegåbttjåsav.</p>
+<p>Homoseksuálalasj párra ejga oattjo aktan boahtet skåvllådánssaj.</p>
+<p>Roja la romalasj fábmalis nissun.  Ålmåj gut dåbev äjggu gånnå Roja årru målsoj lásav dåben.  Roja ja suv gålmmå máná ettjin besa sisi sijá lájggoviessuj.</p>
+<p>Carl ittjij loabeduvá kursan mannat dajna gå sån lij hiv-positijvalasj.</p>
+<p>Sara ittjij barggoságastallamij oattjo boahtet dajna gå sån lij fábmális.</p>
+<p>Åhpadiddje l baha Alexa vuossti dajna gå  Alex javlla sån ij sidá årrot niejddan ja ij ga bárnnen.</p>
+<p>Frank la bargov åhtsåm.</p>
+<p>Sån ij bargov oattjo dajna gå sån la vuorrasabbo 55 jagágijs.</p>
+<p>Nåvti dån bajeda</p>
+<p>Dån máhtá riŋŋgit DO:aj ja gatjádit vidjurij birra, valla dån i máhte bajedimev dahkat telefåvnå baktu.</p>
+<p>Dån galga tjállet duv bajedimev  Nuppástimoahttsáj, DO.</p>
+<p>Bajedimen galga tjállet duv namáv, adressav  ja duv telefåvnnånummarav.. Buorre l jus dån aj tjálá duv e-påvsståadressav.</p>
+<p>Dån galga tjállet namáv gesi bajedibme guosská. Máhttá årrot buojkulvissan skåvllå,  allaskåvllå, barggovadde, vidnudahka jali fábmudahka.</p>
+<p>Tjále aj manen dån jáhká dån la nuppástuvvam,  Tjále jus jáhká buojkulvissan la duv áldar,  duv jáhkkudahka jali duv sáhtusvuohta.</p>
+<p>Dån máhtá tjállet brevav DO:aj jali dievddet páhppárav  mij gávnnu DO webbabielen <em type="italic">www.do.se.</em> </p>
+<p>Dån galga ruvva bajedit jus aná  dån la nuppástuvvam.</p>
+<p>Gå la rádjam sisi bajedimev DO:aj  de dahkap guoradallamav.  Mierkki mij låhkåp dárkkelit majt dån la tjállám ja åtsådip mij la dáhpáduvvam.</p>
+<p>Ulmusj gev la bajedam nuppástallamij  miededuvvá aj giehttot majt sån adná  l dáhpáduvvam.</p>
+<p>DO mierret de mij galggá dáhpáduvvat.</p>
+<p>DO márjju guorras dån la nuppástuvvam. Väjá oadtjot biednigijt jali iehtjádav gässta dån la nuppástuvvam.</p>
+<p>Muhttijn duv bajedibme mierkki  ietjá ulmutja e dejvadalá nuppástallamij.</p>
+<p>Riektá l ij nuppástuvvat.</p>
+<p>Váraj bieja dájt gå bajeda DO:aj</p>
+<p><em type="bold">1. </em>Dån galga tjállet bajedimev jus aná dån la nuppástuvvam. <em type="bold">2. </em>Dån galga ruvva rádjat bajedimev DO:aj jus dån aná dån la nuppástuvvam <em type="bold">3. </em>Dån galga tjállet manen dån aná dån la nuppástuvvam. </p>
+<p>Vuosstálasste!</p>
+<p>Giehto jus dån illastuvá ja rievtugahtes giehtadaláduvá. Barggovadde, skåvllå jali allaskåvllå galggá duv viehkedit vaj dån i illastuvá ja rievtugahtes giehtadaláduvá nuppádis. Bargon fáhkka máhttá aj viehkedit duv.</p>
+<p>Avta riektá gájkajda</p>
+<p>Barga gus dån vaj gájkajn galggi avta riektá?</p>
+<p>Barggovaddijn, skåvlåjn ja allaskåvlåjn li åvdåsvásstádus  vaj gájkajda vatteduvvi avta riektá.</p>
+<p>Siján la aj åvdåsvásstádus vaj ij aktak nuppástuvá jali illastuvvá.</p>
+<p>Illastit la hárddet ja bahá årrot soabmása vuossti.</p>
+<p>Barggovadde hähttu barggat vaj gájkájn.galggi avta riektá ja  máhttelisvuoda barggoiellemin.</p>
+<p>Láhka nammat barggovadden 25 barggij jali ienebu gálggá gávnnut plána mij vuoset  nissunijn ja ålmmåjn li avta riektá barggosajen.</p>
+<p>Barggovadde galggá aj mierredit majt galggi dahkat  vaj ij aktak galgá nuppástuvvat suv sjierve,  suv mátto, suv rijka jali suv jáhkkudagá diehti.</p>
+<p>Skåvlåjn ja allaskåvlåjn galggi aj gávnnut plána. Plánan galggá nammadum  majt sij galggi dahkat vaj gájkajn galggi avta riektá ja  vaj ij aktak galga nuppástuvvat.</p>
+<p>DO máhttá viehkedit barggovaddijt, allaskåvlåjt ja skåvlåjt tjuovvot majt nuppástallamláhka nammat.</p>
+<p>Sidá gus diehtet ienebuv bargo birra nuppástallama vuossti? Sidá gus diehtet ienebuv man birra l nammadum lágan  nuppástallama birra?</p>
+<p>DO webbabielen www.do.se gávnnuji ienep diedo ja buojkulvisá nuppástallamij.</p>
+<p>Aktavuodav válde DO:jn</p>
+<p>Sidá gus ienep diedojt nuppástallama birra?  Sidá gus ságastit soabmásijn oattjotjit diedojt gåktu  dån dagá bajedimev?</p>
+<p>Riŋŋgi  DO:aj</p>
+<p>Tjále DO:aj</p>
+<p>Telefåvnnå 08 120 20 700 jali 020 36 36 66 (nåvkå) Täkstatelefåvnnå 08 120 20 820 Prässa-telefåvnnå 08 120 20 710</p>
+<p>Diskrimineringsombudsmannen (DO) Box 3686 103 59 Stockholm Fáksa 08 120 20 800</p>
+<p>DO webbabielle</p>
+<p>www.do.se</p>
+<p>E-påvsstå  DO:aj</p>
+<p>E-påvsstå do@do.seO,</p>
+</body></document>

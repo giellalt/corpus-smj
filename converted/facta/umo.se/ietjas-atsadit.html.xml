@@ -1,75 +1,35 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>709</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Ietjas-atsadit</origFileName>
-    <parallel_text xml:lang="fin" location="seksitautitestit.html"/>
-    <parallel_text xml:lang="fit" location="testata-ittea.html"/>
-    <parallel_text xml:lang="sma" location="teestedh.html"/>
-    <parallel_text xml:lang="sme" location="testet-ieas.html"/>
-    <parallel_text xml:lang="swe" location="att-testa-sig.html"/>
-    <parallel_text location="te-rodepha-siro.html" xml:lang="rmu"/>
-    <parallel_text location="te-probilpe-o-manu.html" xml:lang="rmy-rka"/>
-    <parallel_text location="te-lel-frestiba.html" xml:lang="rmf"/>
-    <parallel_text location="te-testulij-pe-o-manu.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="testiribe-korkori-pes.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Ietjas åtsådit</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title">Ietjas åtsådit</p>
-    <p>Jus la seksav adnám váni preventijvvanävoj dagi de l agev buorre ietjas åtsådit sjiervvedávdajda. Gåktu gähttjalibme dagáduvvá mierreduvvá makkir sjiervvedávdaj ietjas åtsåt. Álu vaddá gådtjå- jali varraåtsådimev. Jus åtsåt sjiervvedávddaj mij gávnnu soahpomsuodjelágan de ij dárbaha mavga mákset.</p>
-    <p>Seksav adnet máhttá årrot vuogas, suohtas ja geldulasj. Sjaddá muhttijn nåvti vaj dan båttån ij lágeda dakkirijt majt ajtu diehtá li ájnnasa. Buojkulvissan galggá preventijvvanävojt adnet binnedittjat vádáv muhtem sjiervvedávdav oadtjot. Jus dáv dåbddå de márjju l muddo ietjas åtsådit.</p>
-    <p type="title">Manen galggá ietjas sjiervvedávdajda åtsådit?</p>
-    <p>Agev la buorre ietjas åtsådit sjiervvedávdajda jus la seksav adnám váni preventijvvanävoj dagi. Ájnas la aj jus ietjas dåbddu varrásin danen gå muhtem sjiervvedávda e dåbddomerkajt vatte.</p>
-    <p>Jus la gávnnam soabmásav gejna sihtá stuoves gasskavuodav ja ájggu hiejttet preventijvvanävojt adnemis, de l aj buorre goappátja mannaba ja ietjaska åtsådibá.</p>
-    <p>Máhttá aj gejna la seksuálalattjat rádnastallam la ietjas åtsådam ja sjiervvedávdav gávnnam. Jus dávdda gávnnu soahpomsuodjelágan, de máhttá brevav jali telefåvnnåságastimev oadtjot muhtem duostudagás gånnå gåhtjoduvvá ietjas åtsådit.</p>
-    <p>Ij diehttu iesj la sjiervvedávdav oadtjum, valla välggogis la lága milta ietjas åtsådit unnedittjat vádav dávdda vijddábut oabllu.</p>
-    <p type="title">Goassa galggá ietjas åtsådit sjiervvedávdajda?</p>
-    <p>Ij la goassak ilá maŋŋet ietjas åtsådit sjiervvedávdajda jus la seksav adnám váni preventijvvanävoj dagi. Muhtem dávdaj máhtti gihtjat moadda máno ja muhttijn vájku jagijt, dat rájes gå dajt oattjoj desik juojddá älvvá.</p>
-    <p>Muhttijn gis la ilá árrat ietjas åtsådit. Ij la máhttelis ietjas åtsådit biejve maŋŋela gå l seksav adnám, danen gå virus jali bakteria mij la oarren infeksjåvnnåj ij la háhppidam ienedit åtsådimen vuojnnutjit.</p>
-    <p>Klamidiaj ja gonorréaj buojkulvissan máhttá ietjas åtsådit áramusát vahkov maŋŋela gå l seksav adnám váni preventijvvanävoj dagi. Valla muhtem dávdajda, nåv gåk buojkulvissan hiv, máhttá sjaddat vuorddet gålmmå máno soahpomis åvddål åtsådibme vissásit vuoset jus adná dav dávdav.</p>
-    <p>Vájku makkir dávdda de galggá duostudahkaj mannat jus ballá jali li vájve. Jus diehtá vádá l stuorre sjiervvedávdav la oadtjum, buojkulvissan jus diehtá gejna la seksav adnám la sjiervvedávdda, de muhttijn oadtju dálkudimev åvddål gå åtsådimvásstádusá li gárvvása.</p>
-    <p>Jus ij la avtajnik seksav adnám de ij máhte sjiervvedávdav oadtjot. De ij ga dárbaha ietjas åtsådit.</p>
-    <p type="title">Gånnå máhttá ietjas åtsådit sjiervvedávdajda?</p>
-    <p>Jus sihtá ietjas åtsådit sjiervvedávddaj de máhttá mannat nuorajduostudahkaj, lijkke- ja sjiervveduostudahkaj jali varresvuohtaguovdátjij. RFSU:an li aj duostudagá gånnå máhttá ietjas åtsådit sjiervvedávdajda.</p>
-    <p>Niejda máhtti aj mannat nissunklinihkkaj jali gynekologaj. Klamidiaåtsådimev máhttá aj rávvit värmmádagán jali oasstet dálkasboargálin.</p>
-    <p>Aktavuodav válldá skihpasujttorádevaddemijn 1177 diedojt oattjotjit gåsi galggá mannat ja ietjas åtsådit.</p>
-    <p type="title">Gåktu åtsådibme dagáduvvá?</p>
-    <p>Ietjas åtsådit sjiervvedávdajda ruvva manná ja l álkke. Gåktu gähttjalibme dagáduvvá mierreduvvá makkir dávddaj ietjas åtsåt ja gåktu la seksav adnám ja gåktu l soaboduvvam.</p>
-    <p>Jus la guoddnánarggemav adnám de álu oadtju gådtjååtsådimev vaddet. Bárnijda gudi li ietjasa klamidiaj åtsådittjat, la álu gådtjååtsådibme nuoges. Niejda hähttuji aj åtsådimev guodnás vaddet. Iesj dav dahká bomullosákkijn majt oadtju gå manná ietjas åtsådittjat jali rávvi åtsådimev häjmmaj.</p>
-    <p>Jus diehtá galggá åtsådimev vaddet de ij galga tjissadit avta jali guovte tijma åvddål gå ietjas åtsåt.</p>
-    <p>Muhtem dávdajda, åvdemusát gonorréan, åtsådimev vatteduvvá sekka åtsådimsákkijn mij vuojnnu degu sekka topsa. Åtsådimságge duohtaduvvá várrogit skoadáj guodnán, gådtjåbåttsåj, tjåddågij jali vuolemusán bahtatjoalen. Gåsstå åtsådibmev mierreduvvá gåktu l seksav adnám. Le márjju vájválasj, valla álu ruvva dagáduvvá ja ij nåv ednagit dåbddu.</p>
-    <p>Ietjá dávdajda máhttá vaddet varraåtsådimev. Dagáduvvá gå tjuoggi sekka nálujn avtan giehtagáva varraváren.</p>
-    <p>Jus åtsådalle gáddá ulmutjin la herpes, de muhttijn åtsådibme vatteduvvá herpestjirmagis bomullosákkijn.</p>
-    <p>Jus li vuojnos kondiloma de ij la åtsådibme dárbulasj, danen gå åtsådiddje ienemusát dalága vuojnná mij la.</p>
-    <p type="title">Goassa vásstádusáv oadtju?</p>
-    <p>Ienemus åtsådimijda oadtju vásstádusáv avtan vahkon. Gå åtsådimev vaddá de álu ájgás boahtá duostudagájn gåktu diededimev oadtju. Buojkulvissan jus galggi riŋŋgit, brevav tjállet jali jus galggá dåhku boahtet.</p>
-    <p>Vásstádusáv vuorddet máhttá vájvven. Le luondulasj balon årrot ja ájgge desik vásstádus boahtá dåbddusj guhkken. Jus nievret viessu de l buorre ságastit soabmásijn ietjas ájádusáj ja dåbdoj birra. Máhttá årrot ráddna, soames fuolken jali ietjá lahka ulmusj.</p>
-    <p>Máhttá aj aktavuodav válldet nuorajduostudagájn. Bargge danna viehkedi gå dåbddu vájvven ja li hárjjánam gatjálvisájda ja ájádusájda sjiervvedávdaj birra.</p>
-    <p type="title">Majt máksá ietjas åtsådit?</p>
-    <p>Sjiervvedávdajda ma gávnnuji soahpomsuodjelágan, buojkulvissan klamidia, gonorré ja hiv la mávsodak ietjas åtsådit juska man vuoras la jali gånnå dav dahká.</p>
-    <p>Årrombájkke ja duostudahka stivrri mávsov ga la ietjas åtsådittjat sjiervvedávdajda. Álu ietjas åtsåt moatte dávddaj sämmibále. Nuoges la jus dajs akta soahpomsuodjelágas gåbtjåduvvá.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>704</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Ietjas-atsadit</origFileName><parallel_text xml:lang="fin" location="seksitautitestit.html"/><parallel_text xml:lang="fit" location="testata-ittea.html"/><parallel_text xml:lang="sma" location="teestedh.html"/><parallel_text xml:lang="sme" location="testet-ieas.html"/><parallel_text xml:lang="swe" location="att-testa-sig.html"/><parallel_text location="te-rodepha-siro.html" xml:lang="rmu"/><parallel_text location="te-probilpe-o-manu.html" xml:lang="rmy-rka"/><parallel_text location="te-lel-frestiba.html" xml:lang="rmf"/><parallel_text location="te-testulij-pe-o-manu.html" xml:lang="rmy-rlo"/><parallel_text location="testiribe-korkori-pes.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Ietjas åtsådit</p>
+<p type="title">Ietjas åtsådit</p>
+<p>Jus la seksav adnám váni preventijvvanävoj dagi de l agev buorre ietjas åtsådit sjiervvedávdajda. Gåktu gähttjalibme dagáduvvá mierreduvvá makkir sjiervvedávdaj ietjas åtsåt. Álu vaddá gådtjå- jali varraåtsådimev. Jus åtsåt sjiervvedávddaj mij gávnnu soahpomsuodjelágan de ij dárbaha mavga mákset.</p>
+<p>Seksav adnet máhttá årrot vuogas, suohtas ja geldulasj. Sjaddá muhttijn nåvti vaj dan båttån ij lágeda dakkirijt majt ajtu diehtá li ájnnasa. Buojkulvissan galggá preventijvvanävojt adnet binnedittjat vádáv muhtem sjiervvedávdav oadtjot. Jus dáv dåbddå de márjju l muddo ietjas åtsådit.</p>
+<p type="title">Manen galggá ietjas sjiervvedávdajda åtsådit?</p>
+<p>Agev la buorre ietjas åtsådit sjiervvedávdajda jus la seksav adnám váni preventijvvanävoj dagi. Ájnas la aj jus ietjas dåbddu varrásin danen gå muhtem sjiervvedávda e dåbddomerkajt vatte.</p>
+<p>Jus la gávnnam soabmásav gejna sihtá stuoves gasskavuodav ja ájggu hiejttet preventijvvanävojt adnemis, de l aj buorre goappátja mannaba ja ietjaska åtsådibá.</p>
+<p>Máhttá aj gejna la seksuálalattjat rádnastallam la ietjas åtsådam ja sjiervvedávdav gávnnam. Jus dávdda gávnnu soahpomsuodjelágan, de máhttá brevav jali telefåvnnåságastimev oadtjot muhtem duostudagás gånnå gåhtjoduvvá ietjas åtsådit.</p>
+<p>Ij diehttu iesj la sjiervvedávdav oadtjum, valla välggogis la lága milta ietjas åtsådit unnedittjat vádav dávdda vijddábut oabllu.</p>
+<p type="title">Goassa galggá ietjas åtsådit sjiervvedávdajda?</p>
+<p>Ij la goassak ilá maŋŋet ietjas åtsådit sjiervvedávdajda jus la seksav adnám váni preventijvvanävoj dagi. Muhtem dávdaj máhtti gihtjat moadda máno ja muhttijn vájku jagijt, dat rájes gå dajt oattjoj desik juojddá älvvá.</p>
+<p>Muhttijn gis la ilá árrat ietjas åtsådit. Ij la máhttelis ietjas åtsådit biejve maŋŋela gå l seksav adnám, danen gå virus jali bakteria mij la oarren infeksjåvnnåj ij la háhppidam ienedit åtsådimen vuojnnutjit.</p>
+<p>Klamidiaj ja gonorréaj buojkulvissan máhttá ietjas åtsådit áramusát vahkov maŋŋela gå l seksav adnám váni preventijvvanävoj dagi. Valla muhtem dávdajda, nåv gåk buojkulvissan hiv, máhttá sjaddat vuorddet gålmmå máno soahpomis åvddål åtsådibme vissásit vuoset jus adná dav dávdav.</p>
+<p>Vájku makkir dávdda de galggá duostudahkaj mannat jus ballá jali li vájve. Jus diehtá vádá l stuorre sjiervvedávdav la oadtjum, buojkulvissan jus diehtá gejna la seksav adnám la sjiervvedávdda, de muhttijn oadtju dálkudimev åvddål gå åtsådimvásstádusá li gárvvása.</p>
+<p>Jus ij la avtajnik seksav adnám de ij máhte sjiervvedávdav oadtjot. De ij ga dárbaha ietjas åtsådit.</p>
+<p type="title">Gånnå máhttá ietjas åtsådit sjiervvedávdajda?</p>
+<p>Jus sihtá ietjas åtsådit sjiervvedávddaj de máhttá mannat nuorajduostudahkaj, lijkke- ja sjiervveduostudahkaj jali varresvuohtaguovdátjij. RFSU:an li aj duostudagá gånnå máhttá ietjas åtsådit sjiervvedávdajda.</p>
+<p>Niejda máhtti aj mannat nissunklinihkkaj jali gynekologaj. Klamidiaåtsådimev máhttá aj rávvit värmmádagán jali oasstet dálkasboargálin.</p>
+<p>Aktavuodav válldá skihpasujttorádevaddemijn 1177 diedojt oattjotjit gåsi galggá mannat ja ietjas åtsådit.</p>
+<p type="title">Gåktu åtsådibme dagáduvvá?</p>
+<p>Ietjas åtsådit sjiervvedávdajda ruvva manná ja l álkke. Gåktu gähttjalibme dagáduvvá mierreduvvá makkir dávddaj ietjas åtsåt ja gåktu la seksav adnám ja gåktu l soaboduvvam.</p>
+<p>Jus la guoddnánarggemav adnám de álu oadtju gådtjååtsådimev vaddet. Bárnijda gudi li ietjasa klamidiaj åtsådittjat, la álu gådtjååtsådibme nuoges. Niejda hähttuji aj åtsådimev guodnás vaddet. Iesj dav dahká bomullosákkijn majt oadtju gå manná ietjas åtsådittjat jali rávvi åtsådimev häjmmaj.</p>
+<p>Jus diehtá galggá åtsådimev vaddet de ij galga tjissadit avta jali guovte tijma åvddål gå ietjas åtsåt.</p>
+<p>Muhtem dávdajda, åvdemusát gonorréan, åtsådimev vatteduvvá sekka åtsådimsákkijn mij vuojnnu degu sekka topsa. Åtsådimságge duohtaduvvá várrogit skoadáj guodnán, gådtjåbåttsåj, tjåddågij jali vuolemusán bahtatjoalen. Gåsstå åtsådibmev mierreduvvá gåktu l seksav adnám. Le márjju vájválasj, valla álu ruvva dagáduvvá ja ij nåv ednagit dåbddu.</p>
+<p>Ietjá dávdajda máhttá vaddet varraåtsådimev. Dagáduvvá gå tjuoggi sekka nálujn avtan giehtagáva varraváren.</p>
+<p>Jus åtsådalle gáddá ulmutjin la herpes, de muhttijn åtsådibme vatteduvvá herpestjirmagis bomullosákkijn.</p>
+<p>Jus li vuojnos kondiloma de ij la åtsådibme dárbulasj, danen gå åtsådiddje ienemusát dalága vuojnná mij la.</p>
+<p type="title">Goassa vásstádusáv oadtju?</p>
+<p>Ienemus åtsådimijda oadtju vásstádusáv avtan vahkon. Gå åtsådimev vaddá de álu ájgás boahtá duostudagájn gåktu diededimev oadtju. Buojkulvissan jus galggi riŋŋgit, brevav tjállet jali jus galggá dåhku boahtet.</p>
+<p>Vásstádusáv vuorddet máhttá vájvven. Le luondulasj balon årrot ja ájgge desik vásstádus boahtá dåbddusj guhkken. Jus nievret viessu de l buorre ságastit soabmásijn ietjas ájádusáj ja dåbdoj birra. Máhttá årrot ráddna, soames fuolken jali ietjá lahka ulmusj.</p>
+<p>Máhttá aj aktavuodav válldet nuorajduostudagájn. Bargge danna viehkedi gå dåbddu vájvven ja li hárjjánam gatjálvisájda ja ájádusájda sjiervvedávdaj birra.</p>
+<p type="title">Majt máksá ietjas åtsådit?</p>
+<p>Sjiervvedávdajda ma gávnnuji soahpomsuodjelágan, buojkulvissan klamidia, gonorré ja hiv la mávsodak ietjas åtsådit juska man vuoras la jali gånnå dav dahká.</p>
+<p>Årrombájkke ja duostudahka stivrri mávsov ga la ietjas åtsådittjat sjiervvedávdajda. Álu ietjas åtsåt moatte dávddaj sämmibále. Nuoges la jus dajs akta soahpomsuodjelágas gåbtjåduvvá.</p>
+</body></document>

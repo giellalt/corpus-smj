@@ -1,76 +1,38 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>265</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Biras-arealla-ja-kultursuodjalus/Luondo-moattebelakvuohta</origFileName>
-    <parallel_text xml:lang="nob" location="naturmangfold.html"/>
-    <parallel_text xml:lang="sma" location="eatnemegellievoete.html"/>
-    <parallel_text xml:lang="sme" location="luonddusladdjivuohta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Luondo moattebelakvuohta / Birás, areálla ja kultursuodjalus / Sámedigge - Sametinget</p>
-    <p type="title">Luondo moattebelakvuohta</p>
-    <p>Sámedikken ij la mákkárik háldadimfábmudahka luondo moattebelakvuodav bisodittjat ja ávkástallamijda. Luonndomoattebelakvuohtalága mærrádusá galggi árvustaláduvvat gáljkka mierredimijn ma máhtti luondon moattebelakvuodav vájkkudit. Lágan le ulmmen ierit ietján sáme kultuvra vuodov nannit, sáme árbbedábálasj diedojt biedjat vuodon háldadimen ja dættodit sáme kultuvra luondovuodov vieledit gájkka dåjmajn lága milta. Sámedigge le guládallamorgádna ja moatten ássjijn konsultasjåvnnåbielle Fylkamánnáj, Luonndoháldadus direktoráhttaj ja Birássuodjalusdepartemænntaj dåjmajda ja mærrádusájda lága milta.</p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="nob">Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="nob">Sørsamisk</p>
-    <p>
-      <em type="bold">Sámedikke ájggomussan le: </em>
-    </p>
-    <list>
-      <p type="listitem">Arbbedábálasj sáme luondo adnem bisoduvvá ja åvddånahteduvvá dan láhkáj vaj luondo moattebelakvuohta bisoduvvá. Dát dáhpáduvvá áktijvuodajn ja konsulterimij baktu stáhta birássuodjalime fábmudagáj.</p>
-    </list>
-    <p>
-      <em type="bold">Dálla barggá Sámedigge dáj ássjij: </em>
-    </p>
-    <list>
-      <p type="listitem">Njuolgadustjála guovllosuodjalime birra (nasjonálpárka, suodjalimduobddága, luonndoreserváhta)</p>
-      <p type="listitem">Njuolgadustjála gidálåddima birra Guovdagæjnon</p>
-      <p type="listitem">Njuolgadustjála sierra luonndtjerdaj birra (buojk. giettij, jiekkij, miehtsij birra)</p>
-      <p type="listitem">Njuolgadustjála vuoroduvvam iellemslájaj birra (bisodit ájtedum slájajt buojk. várregásajt, sválajt)</p>
-      <p type="listitem">Njuolgadustjála luossaguoládusáv regulerima birra(meran ja jågåjn)</p>
-      <p type="listitem">Suodjalimguovloj stivrajt ásadit.</p>
-      <p type="listitem">Nasjonálpárkaj háldadimplánajt mierredit</p>
-    </list>
-    <p><em type="bold">Sámedikke vásstádus </em>Sámedigge ij la háldadusfábmudahkan luonndomoattebelakvuohtalága milta, valla guládallamorgádna ja konsulterimbielle stáhta birássuodjalimfábmudagáj mærrádusájn ja dåjmajn ma máhtti sáme berustimijt vájkkudit. </p>
-    <p><em type="bold">Duv vájkkudahttem </em>Sámedigge dættot bájkálasj diedojt ja dájadusájt mærrádusájn mij guosská luondo moattebelakvuoda adnemav ja suodjalimev. Tjoavddusa vájmmelis bájkálasj vájkkudahttemij mærrádusprosessajn li danen sjaddam ienep dábálattjan. Dát dáhpáduvvá sierra láhkáj mærrádusájn ma guosski mærrádusájda luosa suodjalimen ja háldadimev. </p>
-    <p type="title" xml:lang="sme">Suodjaluvvonguovllustivrrat</p>
-    <p xml:lang="nob">17.12.2013</p>
-    <p xml:lang="sme">Konvenšuvnnat, lágat ja láhkaásahusat</p>
-    <p xml:lang="sme">Sámediggi bargá dan ala ahte árbevirolaš sámi geavahus bi...</p>
-    <p>Lågå ienebuv</p>
-    <p xml:lang="nob">Senere hendelser</p>
-    <p type="title" xml:lang="sme">Suodjaluvvonguovllustivrrat</p>
-    <p xml:lang="nob">17.12.2013</p>
-    <p xml:lang="sme">Konvenšuvnnat, lágat ja láhkaásahusat</p>
-    <p xml:lang="sme">Sámediggi bargá dan ala ahte árbevirolaš sámi geavahus bi...</p>
-    <p>Lågå ienebuv</p>
-    <p xml:lang="nob">Senere hendelser</p>
-    <p type="title" xml:lang="nob">Verneplanarbeid</p>
-    <p xml:lang="nob">04.01.2012</p>
-    <p xml:lang="sme">Suodjalimguovloj stivra</p>
-    <p>Jagen 2010 de Sámedigge ja Birássuodjalimdepartemænnta gu...</p>
-    <p>Lågå ienebuv</p>
-    <p xml:lang="nob">Senere hendelser</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>265</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Biras-arealla-ja-kultursuodjalus/Luondo-moattebelakvuohta</origFileName><parallel_text xml:lang="nob" location="naturmangfold.html"/><parallel_text xml:lang="sma" location="eatnemegellievoete.html"/><parallel_text xml:lang="sme" location="luonddusladdjivuohta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Luondo moattebelakvuohta / Birás, areálla ja kultursuodjalus / Sámedigge - Sametinget</p>
+<p type="title">Luondo moattebelakvuohta</p>
+<p>Sámedikken ij la mákkárik háldadimfábmudahka luondo moattebelakvuodav bisodittjat ja ávkástallamijda. Luonndomoattebelakvuohtalága mærrádusá galggi árvustaláduvvat gáljkka mierredimijn ma máhtti luondon moattebelakvuodav vájkkudit. Lágan le ulmmen ierit ietján sáme kultuvra vuodov nannit, sáme árbbedábálasj diedojt biedjat vuodon háldadimen ja dættodit sáme kultuvra luondovuodov vieledit gájkka dåjmajn lága milta. Sámedigge le guládallamorgádna ja moatten ássjijn konsultasjåvnnåbielle Fylkamánnáj, Luonndoháldadus direktoráhttaj ja Birássuodjalusdepartemænntaj dåjmajda ja mærrádusájda lága milta.</p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="nob">Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="nob">Sørsamisk</p>
+<p><em type="bold">Sámedikke ájggomussan le: </em></p>
+<list><p type="listitem">Arbbedábálasj sáme luondo adnem bisoduvvá ja åvddånahteduvvá dan láhkáj vaj luondo moattebelakvuohta bisoduvvá. Dát dáhpáduvvá áktijvuodajn ja konsulterimij baktu stáhta birássuodjalime fábmudagáj.</p>
+</list><p><em type="bold">Dálla barggá Sámedigge dáj ássjij: </em></p>
+<list><p type="listitem">Njuolgadustjála guovllosuodjalime birra (nasjonálpárka, suodjalimduobddága, luonndoreserváhta)</p>
+<p type="listitem">Njuolgadustjála gidálåddima birra Guovdagæjnon</p>
+<p type="listitem">Njuolgadustjála sierra luonndtjerdaj birra (buojk. giettij, jiekkij, miehtsij birra)</p>
+<p type="listitem">Njuolgadustjála vuoroduvvam iellemslájaj birra (bisodit ájtedum slájajt buojk. várregásajt, sválajt)</p>
+<p type="listitem">Njuolgadustjála luossaguoládusáv regulerima birra(meran ja jågåjn)</p>
+<p type="listitem">Suodjalimguovloj stivrajt ásadit.</p>
+<p type="listitem">Nasjonálpárkaj háldadimplánajt mierredit</p>
+</list><p><em type="bold">Sámedikke vásstádus </em>Sámedigge ij la háldadusfábmudahkan luonndomoattebelakvuohtalága milta, valla guládallamorgádna ja konsulterimbielle stáhta birássuodjalimfábmudagáj mærrádusájn ja dåjmajn ma máhtti sáme berustimijt vájkkudit. </p>
+<p><em type="bold">Duv vájkkudahttem </em>Sámedigge dættot bájkálasj diedojt ja dájadusájt mærrádusájn mij guosská luondo moattebelakvuoda adnemav ja suodjalimev. Tjoavddusa vájmmelis bájkálasj vájkkudahttemij mærrádusprosessajn li danen sjaddam ienep dábálattjan. Dát dáhpáduvvá sierra láhkáj mærrádusájn ma guosski mærrádusájda luosa suodjalimen ja háldadimev. </p>
+<p type="title" xml:lang="sme">Suodjaluvvonguovllustivrrat</p>
+<p xml:lang="nob">17.12.2013</p>
+<p xml:lang="sme">Konvenšuvnnat, lágat ja láhkaásahusat</p>
+<p xml:lang="sme">Sámediggi bargá dan ala ahte árbevirolaš sámi geavahus bi...</p>
+<p>Lågå ienebuv</p>
+<p xml:lang="nob">Senere hendelser</p>
+<p type="title" xml:lang="sme">Suodjaluvvonguovllustivrrat</p>
+<p xml:lang="nob">17.12.2013</p>
+<p xml:lang="sme">Konvenšuvnnat, lágat ja láhkaásahusat</p>
+<p xml:lang="sme">Sámediggi bargá dan ala ahte árbevirolaš sámi geavahus bi...</p>
+<p>Lågå ienebuv</p>
+<p xml:lang="nob">Senere hendelser</p>
+<p type="title" xml:lang="nob">Verneplanarbeid</p>
+<p xml:lang="nob">04.01.2012</p>
+<p xml:lang="sme">Suodjalimguovloj stivra</p>
+<p>Jagen 2010 de Sámedigge ja Birássuodjalimdepartemænnta gu...</p>
+<p>Lågå ienebuv</p>
+<p xml:lang="nob">Senere hendelser</p>
+</body></document>

@@ -1,51 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>51</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=42&amp;art_id=44</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=42_art_id=44.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=42_art_id=44.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=42_art_id=44.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kristuskránssa</p>
-    <p type="title" xml:lang="nob">Ilden</p>
-    <p xml:lang="nob">Ilden</p>
-    <p xml:lang="nob">Ilden er en kjær venn</p>
-    <p xml:lang="nob">som ikke lar seg fange</p>
-    <p xml:lang="nob">dens varme og lys</p>
-    <p xml:lang="nob">gir råd og godt mot</p>
-    <p xml:lang="nob">åpner hjertets stier</p>
-    <p xml:lang="nob">i den store vide verden</p>
-    <p>Paulus Utsi</p>
-    <p>Gáldu/ kilde: Utsi, Paulus – Utsi, Inger: Giela gielain. Divttat. Dikter.</p>
-    <p xml:lang="nob">Oversettelse norsk: Rávdná Turi Henriksen (2011)</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>51</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=42&amp;art_id=44</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=42_art_id=44.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=42_art_id=44.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=42_art_id=44.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kristuskránssa</p>
+<p type="title" xml:lang="nob">Ilden</p>
+<p xml:lang="nob">Ilden</p>
+<p xml:lang="nob">Ilden er en kjær venn</p>
+<p xml:lang="nob">som ikke lar seg fange</p>
+<p xml:lang="nob">dens varme og lys</p>
+<p xml:lang="nob">gir råd og godt mot</p>
+<p xml:lang="nob">åpner hjertets stier</p>
+<p xml:lang="nob">i den store vide verden</p>
+<p>Paulus Utsi</p>
+<p>Gáldu/ kilde: Utsi, Paulus – Utsi, Inger: Giela gielain. Divttat. Dikter.</p>
+<p xml:lang="nob">Oversettelse norsk: Rávdná Turi Henriksen (2011)</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

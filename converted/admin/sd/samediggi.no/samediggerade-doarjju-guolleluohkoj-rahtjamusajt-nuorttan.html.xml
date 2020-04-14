@@ -1,40 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>233</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/AEladus/Marijna-aeladusa/Samediggerade-doarjju-guolleluohkoj-rahtjamusajt-nuorttan</origFileName>
-    <parallel_text xml:lang="nob" location="sametingsraadet-stoetter-kystaksjonen.html"/>
-    <parallel_text xml:lang="sma" location="saemiedigkieraerie-goeoelemevierhtiegaemhpoem-daaarjohte-noerhtene.html"/>
-    <parallel_text xml:lang="sme" location="samediggeraddi-doarju-rahcamusa-guolleresurssaid-ovddas-davvin.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sámediggeráde doarjju guolleluohkoj rahtjamusájt nuorttan / Marijna æládusá / Æládus / Sámedigge - Sametinget</p>
-    <p type="title">Sámediggeráde doarjju guolleluohkoj rahtjamusájt nuorttan</p>
-    <p xml:lang="sme">18. goevte 2014</p>
-    <p>Sámedigge-ráde doarjju nåv gåhtjos merragáddevuosteldimev ja gájbbádusájt jut suvddemvælggogisvuoda nuorttan vierttiji vieleduvvat, nåv gåktu Stuorradigge álgon mierredij. - Guollima ja riektá guollit le iesj viessomsuodna ja dahká vuodudagáv goappátjagá årruhijda ja åvddånahttemij viehka moatten sajen Nuortta-Vuonan, javllá rádeájras Silje Karine Muotka.</p>
-    <p>Sån dættot juska vil moadda jage li gållåm tjavgga ja garra regulerimij, de li da dåjma majt guolle ja guolleæládus dahki guovddelis ja guodde tjårge.</p>
-    <p>– Juorrulahtek dåhkki tjuottjodit ulmutjijn li riekta bivdduj ja guolleháldadibmáj ietjasij lahkamerajn ja Barentsmeran årruhij baktu vuonajn ja merragátten Nuortta-Vuonan. Bájkálasj ulmutjij gasskavuohta guolleluohkojda lij mij mierredij gå Vuodna vuojtij rijddoássjev brihta trålárij ja oajválattjaj, javllá Muotka.</p>
-    <p>Dan rijdo duohkusin lij guollimsebrudagá ja Vuodna ittjij desti lágeda Stuorbritannia trålárijt guollimin vuonaj sinna. Duobbmo jages 1953 tjuottjot årruha, ja guolleluohkoj ávkkim merragáttev miehtáj, dahki bájkálasj dáhpenjuolgadusájt ma li guovddelisán Haaga duobbmoståvlå guodudagán. Sámedigge le bargoj baktu guollimássjij ja Merragáddeguollimnammadusá giehtadallamij baktu oadtjum tjadádum rievddadusájt ja duottijt Merraluohkkolágan, Oassálasstelágan ja Finnmárkolágan ma stivrriji bájkálasj æjgátvuodav ja háldadimev.</p>
-    <p>– Trålárij ieme suvddemvælggogisvuohta le vilá fámon ja galggá dåmaduvvat mærrádusá sisano milta. Jus suvddemvelgulasjvuohta ij anoduvá, de vierttiji oase ruoptus váldeduvvat ja juogeduvvat merragátte guollárvantsajda vælggogisvuodaj bájkálattjat suvddet, dættot Muotka.</p>
-    <p><em type="bold">Aktijvuohta </em>Rádeájras Silje Karine Muotka, skuolkan +47 984 87 576 Seniorrádediddje Inge Arne Eriksen, skuolkan 91 52 02 02 </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>233</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/AEladus/Marijna-aeladusa/Samediggerade-doarjju-guolleluohkoj-rahtjamusajt-nuorttan</origFileName><parallel_text xml:lang="nob" location="sametingsraadet-stoetter-kystaksjonen.html"/><parallel_text xml:lang="sma" location="saemiedigkieraerie-goeoelemevierhtiegaemhpoem-daaarjohte-noerhtene.html"/><parallel_text xml:lang="sme" location="samediggeraddi-doarju-rahcamusa-guolleresurssaid-ovddas-davvin.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sámediggeráde doarjju guolleluohkoj rahtjamusájt nuorttan / Marijna æládusá / Æládus / Sámedigge - Sametinget</p>
+<p type="title">Sámediggeráde doarjju guolleluohkoj rahtjamusájt nuorttan</p>
+<p xml:lang="sme">18. goevte 2014</p>
+<p>Sámedigge-ráde doarjju nåv gåhtjos merragáddevuosteldimev ja gájbbádusájt jut suvddemvælggogisvuoda nuorttan vierttiji vieleduvvat, nåv gåktu Stuorradigge álgon mierredij. - Guollima ja riektá guollit le iesj viessomsuodna ja dahká vuodudagáv goappátjagá årruhijda ja åvddånahttemij viehka moatten sajen Nuortta-Vuonan, javllá rádeájras Silje Karine Muotka.</p>
+<p>Sån dættot juska vil moadda jage li gållåm tjavgga ja garra regulerimij, de li da dåjma majt guolle ja guolleæládus dahki guovddelis ja guodde tjårge.</p>
+<p>– Juorrulahtek dåhkki tjuottjodit ulmutjijn li riekta bivdduj ja guolleháldadibmáj ietjasij lahkamerajn ja Barentsmeran årruhij baktu vuonajn ja merragátten Nuortta-Vuonan. Bájkálasj ulmutjij gasskavuohta guolleluohkojda lij mij mierredij gå Vuodna vuojtij rijddoássjev brihta trålárij ja oajválattjaj, javllá Muotka.</p>
+<p>Dan rijdo duohkusin lij guollimsebrudagá ja Vuodna ittjij desti lágeda Stuorbritannia trålárijt guollimin vuonaj sinna. Duobbmo jages 1953 tjuottjot årruha, ja guolleluohkoj ávkkim merragáttev miehtáj, dahki bájkálasj dáhpenjuolgadusájt ma li guovddelisán Haaga duobbmoståvlå guodudagán. Sámedigge le bargoj baktu guollimássjij ja Merragáddeguollimnammadusá giehtadallamij baktu oadtjum tjadádum rievddadusájt ja duottijt Merraluohkkolágan, Oassálasstelágan ja Finnmárkolágan ma stivrriji bájkálasj æjgátvuodav ja háldadimev.</p>
+<p>– Trålárij ieme suvddemvælggogisvuohta le vilá fámon ja galggá dåmaduvvat mærrádusá sisano milta. Jus suvddemvelgulasjvuohta ij anoduvá, de vierttiji oase ruoptus váldeduvvat ja juogeduvvat merragátte guollárvantsajda vælggogisvuodaj bájkálattjat suvddet, dættot Muotka.</p>
+<p><em type="bold">Aktijvuohta </em>Rádeájras Silje Karine Muotka, skuolkan +47 984 87 576 Seniorrádediddje Inge Arne Eriksen, skuolkan 91 52 02 02 </p>
+</body></document>

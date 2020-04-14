@@ -1,73 +1,33 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>770</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Guopparinfeksjavnna-vuollevajmon</origFileName>
-    <parallel_text xml:lang="fin" location="hiivatulehdus.html"/>
-    <parallel_text xml:lang="fit" location="svamppia-sukuelimessa-eli-alapaassa.html"/>
-    <parallel_text xml:lang="sma" location="goebperh-tsavhnosne.html"/>
-    <parallel_text xml:lang="sme" location="guoppar-vuolledabiin.html"/>
-    <parallel_text xml:lang="swe" location="svamp-i-underlivet.html"/>
-    <parallel_text location="rappani-an-minshe.html" xml:lang="rmu"/>
-    <parallel_text location="infektacija-makar-le-purne.html" xml:lang="rmy-rka"/>
-    <parallel_text location="balanis-aro-teluni-trupos.html" xml:lang="rmf"/>
-    <parallel_text location="fungus-svamp-ande-telunipe-vagina-penis.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="parnothavdipa.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Guopparinfeksjåvnnå vuollevájmon</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title">Guopparinfeksjåvnnå vuollevájmon</p>
-    <p>Guoppar gávnnu luondulattjat ienemusájn vuollevájmon. Muhttijn ienet ja de máhttá vájvijt vaddet. Le sieldes dábálasj niejdajn. Nieljet niejdas gålmå muhtem bále viessomin guopparinfeksjåvnås vájvástuvvi ja moaddásijda moaddi ruoptus boahtá. Bárne aj máhtti guopparinfeksjåvnåv oadtjot. Guopparinfeksjåvnnå ij la vádálasj valla máhttá vájvedit danen gå álu sagŋet ja gihpot.</p>
-    <p type="title">Manen oadtju vájvev guopparinfeksjåvnåjn?</p>
-    <p>Ij diehttu manen oadtju vájvev guopparinfeksjåvnåjn. Valla akta oarre máhttá årrot gå muhtem dálkkasav bårrå, buojkulvissan antibiotikav, mij oajttá ávkálasj bakteriajt ma vuollevájmon iemeláhkáj gávnnuji vaj guoppar sjaddagoahtá.</p>
-    <p>Guopparinfeksjåvnå oarre máhttá aj årrot gå immuvnnavárjjo l vuoledum ietjá oares, buojkulvissan gå l skihppámin jali ednagit la diertjestam.</p>
-    <p>Hormåvnnåavtalágásjvuohta rubmahin máhttá aj bájnatjit. Danen la dábálasj guopparinfeksjåvnåv oadtju jur liejbe åvddåla jali jus la iesselissan.</p>
-    <p>Guopparinfeksjåvnnå ij la sjiervvedávdda. Máhttá sirdeduvvat narkedijn valla ij la dábálasj. Guoppar gis ij máhte sirdeduvvat njálmmeseksa baktu jali gå manná sämmi hivsigin gå ulmusj gänna l guopparinfeksjåvnnå.</p>
-    <p type="title">Gåktu älvvá sujna l guopparinfeksjåvnnå?</p>
-    <p>Niejddan ienemusát älvvá sujna l guopparinfeksjåvnnå danen gå guoddnánjálme birra ja guoddnábaksimijn sagŋet. Guoddnábaksema máhtti aj ruopsudit ja båhtånit. Låssjkusa máhtti viskudit, gåjkkåt ja smållen sjaddat, valla muhttijn li njárbe ja muhtem bále ij la åvvå låsjkos gå l guopparinfeksjåvnnå.</p>
-    <p>Guopparinfeksjåvnnå dahká aj vaj máhttá gihpodit jali báktjit gå gåttjåt jali seksav adná. Muhttijn guoddnábaksema ja sjnjibtjo ruobbu.</p>
-    <p>Bárnijn álu buohtjaoajvve, buohtja, guollavuossa jali sjnjibtjo ruopsudi, gåjkki ja råsjmagin sjaddi gå l guopparinfeksjåvnnå. Máhttá aj oadtjot vielggis dákkev buohtjaoajvváj jali buohtjaoajve birra, åvddånáhke vuolláj, jali buohtjaj. Dágge l álu vájvep ierit bassat gå smegma mij luondulattjat gávnnu åvddånáhke vuolen.</p>
-    <p type="title">Gåktu bässá guopparinfeksjåvnås?</p>
-    <p>Jus li binná vájve guopparinfeksjåvnås guodnán jali buohtjan de vargga agev gáhtu ietjastis muhtem biejve duogen váni dálkudime dagi.</p>
-    <p>Valla muhttijn ij gádo, jali sagŋet ja gihpot nåv ednagit vaj ruvva sihtá juojddá dahkat. Jus la vuostasj bále gå gássjelisvuodav oadtju de galggá aktavuodav válldet nuorraduostudagájn, lijkke- sjiervveduostudagájn åtsådittjat vaj ajtu l sujna guopparinfeksjåvnnå. Jus duostudahkaj manná de oadtju åtsådimev dahkat. Álu ruvva manná danen gå gut åtsåt gähppadit vuojnná jus la guopparinfeksjåvnnå.</p>
-    <p>Jus la guopparinfeksjåvnåv åvdebut oadtjum ja dåbddå gássjelisvuodajt de máhttá oasstet muhtem dálkkasav guopparinfeksjåvnnåj dálkastjállagahtá dálkkasijs mij gávnnu dálkasboargálin Gávnnuji vuojddasin maj guodnáv ja guoddnábaksemijt jali buotjav ja guollavuossav vuojddá. Niejdajda gávnnuji aj tablehta, nåv gåhtjodum vagitorium, majt guodnáj tjuvdij tsåggå, ja vuojdas majt tsirggu sisi unna plásstatsirgunijn. Åni ájgev duogen gå l dálkkasijt válldám de máhttá gihpodit ja sagŋedit ienebuv, valla álu ruvva gáhtu.</p>
-    <p>Jus ålles dálkudimev ållit de vargga gájka buorráni dálkastjáladak dálkkasij. Jus ij buorrána jali guopparinfeksjåvnnå ruoptus boahtá dájvvábut gå guokti jahkebälláj de luluj vat aktavuodav válldet nuorraduostudagájn, lijkke- jali sjiervveduostudagájn jali varresvuohtaguovdátjijn viehkev oattjotjit.</p>
-    <p>Ájnas la jut ij adnet guoppargádodim dálkkasijt ilá dájvvalakkoj jali dárbo dagi danen gå máhttá dahkat vájvep ja vájvep guopparinfeksjåvnåv gádodit jali vat ruoptus boahtá åni ájge duogen. Máhttá aj tsuottsav gåjkkådit ja dav rasjeduhttet mij máhttá båhtusav vaddet ietjá gássjelisvuodajda.</p>
-    <p type="title">Majt dahká vaj guopparinfeksjåvnåv ij galga oadtjot?</p>
-    <p>Danen gå ij la tjielgas manen guopparinfeksjåvnåv oadtju de l gássjel dan vuossti suoddjit.</p>
-    <p>Muhttijn javladuvvá vádá guopparinfeksjåvnnå lassán jus álu bassá vuollevájmov ja sájbujn. Ij mige gávnnu mij vuoset la nåvti. Valla jus la guopparinfeksjåvnnå jali álu guopparinfeksjåvnåjt oadtju ja álu ednagit basát de máhttá buorep sjaddat jus binnebut basát. Guopparinfeksjåvnnå jali ij de l nuoges vuollevájmov bassat akti bäjvváj vuorgas tjátjijn. Ij galga dábálasj sájbov adnet vuollevájmmuj danen gå gåjkkåt. Jus sihtá de ienni máhttá hájadis oaljov adnet.</p>
-    <p type="title">Gatjálvisá ja vásstádusá guopparinfeksjåvnå birra vuollevájmon</p>
-    <p type="title">Oadtju gus guopparinfeksjåvnåv striŋŋas, bivvalis ja baskes biktasijs?</p>
-    <p>E gávnnu diedalasj duodastusá vaj bivvalis, baskes biktasa jali striŋŋa lulun dahkat vaj giehpebut guopparinfeksjåvnåv oadtju. Valla jus la guopparinfeksjåvnnå de máhttá gihpodit ja sagŋedit binnebut jus li sisbåvså jali ånibåvså bomullos ja luovas biktasa. Máhttá giehpedit sisbiktasahtá oadet ja jus la niejdda ij adnet sisbåksåsuojev.</p>
-    <p type="title">Gáhtu gus guopparinfeksjåvnnå jus vuojddá vuollevájmov yoghurtajn?</p>
-    <p>Le boasto sága yoghurt luluj giehpedit guopparinfeksjåvnnåj ja dasi älla diedalasj duodastusá. Yoghurt gis máhttá dåbddut tjoasskodiddjen ja dat oares buorak saŋátjijda.</p>
-    <p type="title">Máhttá gus guopparinfeksjåvnnå soahpot?</p>
-    <p>Guopparinfeksjåvnnå ij soabo buojkulvissan hivsigij baktu. Guopparinfeksjåvnnå máhttá gis soahpot guoddnánarkkemin vájku ij la dábálasj.</p>
-    <p type="title">Oadtju gus guopparinfeksjåvnåv gå edna såhkkårav bårrå?</p>
-    <p>E gávnnu diedalasj duodastusá guopparinfeksjåvnnå la tjanádum dasi gå edna såhkkåråv bårrå. Valla jus li vájve guopparinfeksjåvnåjn de l diedon vádádagi gähttjalit jus rievddadum bårråmdábe dahki vaj buorep sjaddá.</p>
-    <p type="title">Máhttá gus seksav adnet jus la guopparinfeksjåvnnå?</p>
-    <p>Ij la vádálasj seksav adnet gå l guopparinfeksjåvnnå valla danen gå tsuottsa li rasje de máhttá oadtjot smávva luottanimijt dajn ja máhttá bávtjestit buojkulvissan narkkemin. Jus la guoddnánarkkem de gávnnu vádá guopparinfeksjåvnnå såhpu. Vádá l vil stuoráp ulmusj sjiervvedávdas soaboduvvá jus la guoddnánarkkem sämmibále gå l guopparinfeksjåvnnå danen gå li smávva luottanime tsuottsajn mij dahká infeksjåvnåjt giehpebut oadtju jali såhpu.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>765</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Guopparinfeksjavnna-vuollevajmon</origFileName><parallel_text xml:lang="fin" location="hiivatulehdus.html"/><parallel_text xml:lang="fit" location="svamppia-sukuelimessa-eli-alapaassa.html"/><parallel_text xml:lang="sma" location="goebperh-tsavhnosne.html"/><parallel_text xml:lang="sme" location="guoppar-vuolledabiin.html"/><parallel_text xml:lang="swe" location="svamp-i-underlivet.html"/><parallel_text location="rappani-an-minshe.html" xml:lang="rmu"/><parallel_text location="infektacija-makar-le-purne.html" xml:lang="rmy-rka"/><parallel_text location="balanis-aro-teluni-trupos.html" xml:lang="rmf"/><parallel_text location="fungus-svamp-ande-telunipe-vagina-penis.html" xml:lang="rmy-rlo"/><parallel_text location="parnothavdipa.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Guopparinfeksjåvnnå vuollevájmon</p>
+<p type="title">Guopparinfeksjåvnnå vuollevájmon</p>
+<p>Guoppar gávnnu luondulattjat ienemusájn vuollevájmon. Muhttijn ienet ja de máhttá vájvijt vaddet. Le sieldes dábálasj niejdajn. Nieljet niejdas gålmå muhtem bále viessomin guopparinfeksjåvnås vájvástuvvi ja moaddásijda moaddi ruoptus boahtá. Bárne aj máhtti guopparinfeksjåvnåv oadtjot. Guopparinfeksjåvnnå ij la vádálasj valla máhttá vájvedit danen gå álu sagŋet ja gihpot.</p>
+<p type="title">Manen oadtju vájvev guopparinfeksjåvnåjn?</p>
+<p>Ij diehttu manen oadtju vájvev guopparinfeksjåvnåjn. Valla akta oarre máhttá årrot gå muhtem dálkkasav bårrå, buojkulvissan antibiotikav, mij oajttá ávkálasj bakteriajt ma vuollevájmon iemeláhkáj gávnnuji vaj guoppar sjaddagoahtá.</p>
+<p>Guopparinfeksjåvnå oarre máhttá aj årrot gå immuvnnavárjjo l vuoledum ietjá oares, buojkulvissan gå l skihppámin jali ednagit la diertjestam.</p>
+<p>Hormåvnnåavtalágásjvuohta rubmahin máhttá aj bájnatjit. Danen la dábálasj guopparinfeksjåvnåv oadtju jur liejbe åvddåla jali jus la iesselissan.</p>
+<p>Guopparinfeksjåvnnå ij la sjiervvedávdda. Máhttá sirdeduvvat narkedijn valla ij la dábálasj. Guoppar gis ij máhte sirdeduvvat njálmmeseksa baktu jali gå manná sämmi hivsigin gå ulmusj gänna l guopparinfeksjåvnnå.</p>
+<p type="title">Gåktu älvvá sujna l guopparinfeksjåvnnå?</p>
+<p>Niejddan ienemusát älvvá sujna l guopparinfeksjåvnnå danen gå guoddnánjálme birra ja guoddnábaksimijn sagŋet. Guoddnábaksema máhtti aj ruopsudit ja båhtånit. Låssjkusa máhtti viskudit, gåjkkåt ja smållen sjaddat, valla muhttijn li njárbe ja muhtem bále ij la åvvå låsjkos gå l guopparinfeksjåvnnå.</p>
+<p>Guopparinfeksjåvnnå dahká aj vaj máhttá gihpodit jali báktjit gå gåttjåt jali seksav adná. Muhttijn guoddnábaksema ja sjnjibtjo ruobbu.</p>
+<p>Bárnijn álu buohtjaoajvve, buohtja, guollavuossa jali sjnjibtjo ruopsudi, gåjkki ja råsjmagin sjaddi gå l guopparinfeksjåvnnå. Máhttá aj oadtjot vielggis dákkev buohtjaoajvváj jali buohtjaoajve birra, åvddånáhke vuolláj, jali buohtjaj. Dágge l álu vájvep ierit bassat gå smegma mij luondulattjat gávnnu åvddånáhke vuolen.</p>
+<p type="title">Gåktu bässá guopparinfeksjåvnås?</p>
+<p>Jus li binná vájve guopparinfeksjåvnås guodnán jali buohtjan de vargga agev gáhtu ietjastis muhtem biejve duogen váni dálkudime dagi.</p>
+<p>Valla muhttijn ij gádo, jali sagŋet ja gihpot nåv ednagit vaj ruvva sihtá juojddá dahkat. Jus la vuostasj bále gå gássjelisvuodav oadtju de galggá aktavuodav válldet nuorraduostudagájn, lijkke- sjiervveduostudagájn åtsådittjat vaj ajtu l sujna guopparinfeksjåvnnå. Jus duostudahkaj manná de oadtju åtsådimev dahkat. Álu ruvva manná danen gå gut åtsåt gähppadit vuojnná jus la guopparinfeksjåvnnå.</p>
+<p>Jus la guopparinfeksjåvnåv åvdebut oadtjum ja dåbddå gássjelisvuodajt de máhttá oasstet muhtem dálkkasav guopparinfeksjåvnnåj dálkastjállagahtá dálkkasijs mij gávnnu dálkasboargálin Gávnnuji vuojddasin maj guodnáv ja guoddnábaksemijt jali buotjav ja guollavuossav vuojddá. Niejdajda gávnnuji aj tablehta, nåv gåhtjodum vagitorium, majt guodnáj tjuvdij tsåggå, ja vuojdas majt tsirggu sisi unna plásstatsirgunijn. Åni ájgev duogen gå l dálkkasijt válldám de máhttá gihpodit ja sagŋedit ienebuv, valla álu ruvva gáhtu.</p>
+<p>Jus ålles dálkudimev ållit de vargga gájka buorráni dálkastjáladak dálkkasij. Jus ij buorrána jali guopparinfeksjåvnnå ruoptus boahtá dájvvábut gå guokti jahkebälláj de luluj vat aktavuodav válldet nuorraduostudagájn, lijkke- jali sjiervveduostudagájn jali varresvuohtaguovdátjijn viehkev oattjotjit.</p>
+<p>Ájnas la jut ij adnet guoppargádodim dálkkasijt ilá dájvvalakkoj jali dárbo dagi danen gå máhttá dahkat vájvep ja vájvep guopparinfeksjåvnåv gádodit jali vat ruoptus boahtá åni ájge duogen. Máhttá aj tsuottsav gåjkkådit ja dav rasjeduhttet mij máhttá båhtusav vaddet ietjá gássjelisvuodajda.</p>
+<p type="title">Majt dahká vaj guopparinfeksjåvnåv ij galga oadtjot?</p>
+<p>Danen gå ij la tjielgas manen guopparinfeksjåvnåv oadtju de l gássjel dan vuossti suoddjit.</p>
+<p>Muhttijn javladuvvá vádá guopparinfeksjåvnnå lassán jus álu bassá vuollevájmov ja sájbujn. Ij mige gávnnu mij vuoset la nåvti. Valla jus la guopparinfeksjåvnnå jali álu guopparinfeksjåvnåjt oadtju ja álu ednagit basát de máhttá buorep sjaddat jus binnebut basát. Guopparinfeksjåvnnå jali ij de l nuoges vuollevájmov bassat akti bäjvváj vuorgas tjátjijn. Ij galga dábálasj sájbov adnet vuollevájmmuj danen gå gåjkkåt. Jus sihtá de ienni máhttá hájadis oaljov adnet.</p>
+<p type="title">Gatjálvisá ja vásstádusá guopparinfeksjåvnå birra vuollevájmon</p>
+<p type="title">Oadtju gus guopparinfeksjåvnåv striŋŋas, bivvalis ja baskes biktasijs?</p>
+<p>E gávnnu diedalasj duodastusá vaj bivvalis, baskes biktasa jali striŋŋa lulun dahkat vaj giehpebut guopparinfeksjåvnåv oadtju. Valla jus la guopparinfeksjåvnnå de máhttá gihpodit ja sagŋedit binnebut jus li sisbåvså jali ånibåvså bomullos ja luovas biktasa. Máhttá giehpedit sisbiktasahtá oadet ja jus la niejdda ij adnet sisbåksåsuojev.</p>
+<p type="title">Gáhtu gus guopparinfeksjåvnnå jus vuojddá vuollevájmov yoghurtajn?</p>
+<p>Le boasto sága yoghurt luluj giehpedit guopparinfeksjåvnnåj ja dasi älla diedalasj duodastusá. Yoghurt gis máhttá dåbddut tjoasskodiddjen ja dat oares buorak saŋátjijda.</p>
+<p type="title">Máhttá gus guopparinfeksjåvnnå soahpot?</p>
+<p>Guopparinfeksjåvnnå ij soabo buojkulvissan hivsigij baktu. Guopparinfeksjåvnnå máhttá gis soahpot guoddnánarkkemin vájku ij la dábálasj.</p>
+<p type="title">Oadtju gus guopparinfeksjåvnåv gå edna såhkkårav bårrå?</p>
+<p>E gávnnu diedalasj duodastusá guopparinfeksjåvnnå la tjanádum dasi gå edna såhkkåråv bårrå. Valla jus li vájve guopparinfeksjåvnåjn de l diedon vádádagi gähttjalit jus rievddadum bårråmdábe dahki vaj buorep sjaddá.</p>
+<p type="title">Máhttá gus seksav adnet jus la guopparinfeksjåvnnå?</p>
+<p>Ij la vádálasj seksav adnet gå l guopparinfeksjåvnnå valla danen gå tsuottsa li rasje de máhttá oadtjot smávva luottanimijt dajn ja máhttá bávtjestit buojkulvissan narkkemin. Jus la guoddnánarkkem de gávnnu vádá guopparinfeksjåvnnå såhpu. Vádá l vil stuoráp ulmusj sjiervvedávdas soaboduvvá jus la guoddnánarkkem sämmibále gå l guopparinfeksjåvnnå danen gå li smávva luottanime tsuottsajn mij dahká infeksjåvnåjt giehpebut oadtju jali såhpu.</p>
+</body></document>

@@ -1,44 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>218</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/AEladus/Duodje/Sihta-duodjeaeladusav-nannit</origFileName>
-    <parallel_text xml:lang="nob" location="vil-styrke-duodjinaeringen.html"/>
-    <parallel_text xml:lang="sma" location="saejhta-duedtiejielemem-naennoestehtedh.html"/>
-    <parallel_text xml:lang="sme" location="haliida-nannet-duodjeealahusa.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sihtá duodjeæládusáv nannit / Duodje / Æládus / Sámedigge - Sametinget</p>
-    <p type="title">Sihtá duodjeæládusáv nannit</p>
-    <p xml:lang="sme">14. goevte 2014</p>
-    <p>Sámedikke rádeájras Silje Karine Muotka hálijt árvustallat ietjá máhttelisvuodajt udnasj doarjjaårnigijda árbbedábálasj sámeduodjáj.– Ij la sáhka unnedimes, ájnat gålådit biednigijt æládussaj ienebut ulmmelattjat, javllá Muotka.</p>
-    <p>Uddni (duorastagá) iejvvi Silje Karine Muotka duodjeorganisasjåvnåj ájrrasijt ságastalátjit hásstalusáj ja åtsådallamij birra udnasj doajmmadoarjjaårniga birra duodjáj. Oarren tjåhkanibmáj lij tjála mij bigot lájttalahtte vidjurijt moatte doarjjaoadtjoj lunna gudi oadtju doajmmadårjav uddni.</p>
-    <p>- Mij sihtap viehkedit ávkkásvuohtaj ja æládusá åvddånahttemij árbbedábálasj ja iesjbuvtadum duoje hárráj. Dadi bahábut vuoset tjála mij ep jåvsåda buorre mærráj udnasj årnigij ja njuolgadusá. Dan diehti lip diededam duodjeorganisasjåvnåjt mij álggep åhtsåt ietjá máhttelisvuodajt dálásj årnigij sadjáj, javlla Muotka.</p>
-    <p>Tjála vuoset duola degu viehka ålos duodjárijs gudi dálla oadtju doajmmadårjav, ienep mærráj vuobdatji oassto duojijt gå ietjasij iesjdagádum ja árbbedábálasj duojijt. Biedniklåhkotjallem ja oasesduodastahttem le aj árvustaládum vádnásin. Muodugasj árvustallama jagen 2012 biedniklåhkojages 2010 vuoset muodugasj vánesvuodajt. Dálla sihtá Muotka ássjev bajedit dagástallamij Sámedikke ållestjåhkanimen.</p>
-    <p>- Mij diehtep nuohkásav vaj hæhttup dahkat juojddájt. Dál de gåhttjop duodjeorganisasjåvnåjt prosæssaj gehtjatjit makkir ietja máhttelisvuoda gávnnuji. Miján la aktisasj ulmme æládussåbadusájn. Dat la nannit dajt duodjárijt gudi hálijdi ietjasa dájddaduojijt ávkkás æládussan åvddånahtedit, dættot Moutka.</p>
-    <p><em type="bold">Aktijvuohta </em>Sámediggeráde ájras Silje Karine Muotka, skuolkan +47 984 87 576 </p>
-    <p xml:lang="sme">Rapport 2014 duodji.pdf</p>
-    <p xml:lang="nob">275,61 kB</p>
-    <p xml:lang="nob">Rapport 2012.pdf</p>
-    <p xml:lang="nob">855,84 kB</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>218</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/AEladus/Duodje/Sihta-duodjeaeladusav-nannit</origFileName><parallel_text xml:lang="nob" location="vil-styrke-duodjinaeringen.html"/><parallel_text xml:lang="sma" location="saejhta-duedtiejielemem-naennoestehtedh.html"/><parallel_text xml:lang="sme" location="haliida-nannet-duodjeealahusa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sihtá duodjeæládusáv nannit / Duodje / Æládus / Sámedigge - Sametinget</p>
+<p type="title">Sihtá duodjeæládusáv nannit</p>
+<p xml:lang="sme">14. goevte 2014</p>
+<p>Sámedikke rádeájras Silje Karine Muotka hálijt árvustallat ietjá máhttelisvuodajt udnasj doarjjaårnigijda árbbedábálasj sámeduodjáj.– Ij la sáhka unnedimes, ájnat gålådit biednigijt æládussaj ienebut ulmmelattjat, javllá Muotka.</p>
+<p>Uddni (duorastagá) iejvvi Silje Karine Muotka duodjeorganisasjåvnåj ájrrasijt ságastalátjit hásstalusáj ja åtsådallamij birra udnasj doajmmadoarjjaårniga birra duodjáj. Oarren tjåhkanibmáj lij tjála mij bigot lájttalahtte vidjurijt moatte doarjjaoadtjoj lunna gudi oadtju doajmmadårjav uddni.</p>
+<p>- Mij sihtap viehkedit ávkkásvuohtaj ja æládusá åvddånahttemij árbbedábálasj ja iesjbuvtadum duoje hárráj. Dadi bahábut vuoset tjála mij ep jåvsåda buorre mærráj udnasj årnigij ja njuolgadusá. Dan diehti lip diededam duodjeorganisasjåvnåjt mij álggep åhtsåt ietjá máhttelisvuodajt dálásj årnigij sadjáj, javlla Muotka.</p>
+<p>Tjála vuoset duola degu viehka ålos duodjárijs gudi dálla oadtju doajmmadårjav, ienep mærráj vuobdatji oassto duojijt gå ietjasij iesjdagádum ja árbbedábálasj duojijt. Biedniklåhkotjallem ja oasesduodastahttem le aj árvustaládum vádnásin. Muodugasj árvustallama jagen 2012 biedniklåhkojages 2010 vuoset muodugasj vánesvuodajt. Dálla sihtá Muotka ássjev bajedit dagástallamij Sámedikke ållestjåhkanimen.</p>
+<p>- Mij diehtep nuohkásav vaj hæhttup dahkat juojddájt. Dál de gåhttjop duodjeorganisasjåvnåjt prosæssaj gehtjatjit makkir ietja máhttelisvuoda gávnnuji. Miján la aktisasj ulmme æládussåbadusájn. Dat la nannit dajt duodjárijt gudi hálijdi ietjasa dájddaduojijt ávkkás æládussan åvddånahtedit, dættot Moutka.</p>
+<p><em type="bold">Aktijvuohta </em>Sámediggeráde ájras Silje Karine Muotka, skuolkan +47 984 87 576 </p>
+<p xml:lang="sme">Rapport 2014 duodji.pdf</p>
+<p xml:lang="nob">275,61 kB</p>
+<p xml:lang="nob">Rapport 2012.pdf</p>
+<p xml:lang="nob">855,84 kB</p>
+</body></document>

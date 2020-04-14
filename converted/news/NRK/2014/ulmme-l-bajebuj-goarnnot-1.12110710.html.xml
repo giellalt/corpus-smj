@@ -1,55 +1,29 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Ulmme l bajebuj goarññot - NRK Sápmi</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2014</year>
-    <wordcount>580</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Sandra Ráhka" email="sandra.rahka@gmail.com"/>
-    <multilingual/>
-    <origFileName>http://www.nrk.no/sapmi/ulmme-l-bajebuj-goarnnot-1.12110710</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 109023 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">NRK</p>
-    <p xml:lang="nno">Meny</p>
-    <p type="title">Ulmme l bajebuj goarññot</p>
-    <p>Ájluovta valástallamsiebrre Divtasvuonan ij vuollána juska dal hásstalusá li, ja juska dal mållagáhttára e muorajn sjatta. Boahtte gávda vat tjiektjamij njåmmu, valla ådå hárjjidalle libá dal garra ulmev biedjam.</p>
-    <p>– Måj dal sihtin gæhttjalit, valla jus tjiektje e berusta hárjjidallat, de en joarke.</p>
-    <p>Arne Johan Turi la dal akta guovtet hárjjidallijs Ájluovta valástallamsiebren Divtasvuonan. Nubbe Arne Johana siegen la Børge Kjær, ja nav de bierri Ájluovta tjiektje liehket dudálattja dajna gå li oadtjum vájbi dán guovlo buoremus bállotjiektjamhárjjidallijt.</p>
-    <p>Arne Johan gæhttjá åvddålij guovlluj ja javllá boados la dal tjiektjij åvdåsvásstádus.</p>
-    <p>– Mij lip dal niellja gávda tjiektjam. Álgijma vas tjiektjamijn maŋŋáj gå lij båddå, nav vaj niellja jage dás åvddål tjievtjajma vidát divisjåvnån. Ja de besajma nælját divisjåvnnåj. Danna lip guokta jage tjiektjam.</p>
-    <p>Ájgge l dal boahtám ájádalátjit majt hálijdip dájna bállotjiektjamijn. Ja mij lip dal ájádallagoahtám ij la gus ájgge boahtám goarŋŋot ájn avtav divisjåvnåv. Dajna l de miján ulmme.</p>
-    <p type="title" xml:lang="sme">Buoremus mákso</p>
-    <p>Arne Johan Turi gæhttjá åvddålij guovlluj, ja sån la juo ulmmesárgev bajebuv biedjam. Aktan Børge Kjerajn libá dal åvdåsvásstádusáv válldám boahtte gávdas.</p>
-    <p>– Da la dal ietjamij duogen man ålov gillap hárjjidallat, ja man buoragit sihtap dilev láhtjet mij guosská bállotjiektjamij. Mån gal jáhkáv dat la vejulasj. Jus ep dasi jáhke, de ep galga biedjat dahkkár mihttomierev.</p>
-    <p>Bállotjiektjamav la Arne Johan berustam juo mánná rájes. Ja sån la moadda tjiektjamjuohkusa hárjjidallam, ja iesj maŋen læhkám tjiektjamin. Duodden stuoves bargguj Sámedikke háldadusán Ájluovtan galggá sån gæhttjalit Ájluovta báhtjajt bajep divisjåvnnåj låggŋit.</p>
-    <p>Juska l dal ållo barggo, ja sån ij oattjo ruhtamávsov dassta, de la Arne Johanij stuorámus ja buoremus mákso gå bæssá oasev bállotjiektjamis niektit.</p>
-    <p>– Buoremus mákso dájna barggat li dal vásádusá dajna gå bállotjiektjam la maŋen læhkám ålles viessomájgev dallutjis gå lidjiv báhtjasj Guovdagæjnon. Mån berustav bállotjiektjamij sierraláhkáj ålov. Nubbe la at Ájluokta la unna bájkásj. Jus mij nahkap buorre láhkáj bállov tjiektjat, de dat vaddá buorre iesjdåbdov ålles bájkkáj. Da la juoga mij la muv mielas miellagiddavasj dájna barggat.</p>
-    <p type="title">Stuorra berustibme</p>
-    <p>Moaddi la badjelasj tjuodes gudi båhti gehtjatjit gå Ájluovta báhtja fággádi bállujn sijddatjiektjamsaljon. Dat la aj maŋen Arne Johanav buossjodime.</p>
-    <p>– Mån diedáv ålos berusti bállotjiektjamav dánna Ájluovtan. Ja gå de vil buoragit manná, dagu dal gå favoritjuohkusa Fuossko/Sprint ja Grand/Bådåddjo vuosstáj tjiektjap, ja mij tjasskep dajt, de dat vaddá dahkkár dåbdov gájkajda. Ja dat la juoga mij de buossjot.</p>
-    <p>Hásstalusá li dal aj dagu dal rekruterijga hárráj. Arne Johan ij balá tjiektjijs dajna gå li moadda nuorra tjiektje. Valla mållagáhttára e dal muoran sjatta.</p>
-    <p>– Gå lip de mihttomierev biedjam hálijdip nælját divisjåvnåv vuojttet, de lip gæhttjagoahtám makkár vejulasjvuoda le mij guosská tjiektjijda dán dáfon, ja Ájluovta báhtja gudi bajep divisjåvnån tjiektji. Mij lip juo guláskuddam sijájn. Le gus vejulasj boahtet ruoptus Ájluoktaj tjievtjatjit boahtte jage? Dajna aj gæhttjat gávnnu gus buorre mållagáhttár.</p>
-    <p>Mij lip dal juohkka jage oadtjum bajás ådå tjiektjijt. Ja dánna li moadda nuorra tjiektje gudi lidjin vehik maŋen maŋemus gávdan. Vuojnáv dal sihkarit válldi dav lávkev vaj sjaddi stuovvása dán mijá bállotjiektjamsiebren. Vuorbbe aj gå la miján riek buorre dahkorássesalljo nav vaj la aj miján buorre vejulasjvuoda.</p>
-    <p type="title">Stuorámus ávvo</p>
-    <p>Juska l javllaájgge, da la aj Arne Johanij máhttelisvuoda iejvvit sijáv gudi li sijddaj javlajda, ja dav de ávkálasstá ja nav ásat hárjjidallamijt juska l dal javllaájgge.</p>
-    <p>Tjåhkanime, hárjjidallama ja ságastallama la vejulasj gå gájka li tjoahken, hæjttá Arne Johan Turi guhti dal ienemusát ávvus gå de fámillja tjåhkan javllabiejvijda.</p>
-    <p xml:lang="nno">Publisert</p>
-    <p xml:lang="nno">Del på Facebook</p>
-    <p xml:lang="nno">Del på Twitter</p>
-    <p xml:lang="nno">Del på Google+</p>
-    <p xml:lang="nno">Send med epost</p>
-    <p type="title" xml:lang="sme">Oanehaččat</p>
-    <list/>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Ulmme l bajebuj goarññot - NRK Sápmi</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="unknown" born="" nationality=""/></author><year>2014</year><wordcount>578</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Sandra Ráhka" email="sandra.rahka@gmail.com"/><multilingual/><origFileName>http://www.nrk.no/sapmi/ulmme-l-bajebuj-goarnnot-1.12110710</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 109023 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Ulmme l bajebuj goarññot</p>
+<p>Ájluovta valástallamsiebrre Divtasvuonan ij vuollána juska dal hásstalusá li, ja juska dal mållagáhttára e muorajn sjatta. Boahtte gávda vat tjiektjamij njåmmu, valla ådå hárjjidalle libá dal garra ulmev biedjam.</p>
+<p>– Måj dal sihtin gæhttjalit, valla jus tjiektje e berusta hárjjidallat, de en joarke.</p>
+<p>Arne Johan Turi la dal akta guovtet hárjjidallijs Ájluovta valástallamsiebren Divtasvuonan. Nubbe Arne Johana siegen la Børge Kjær, ja nav de bierri Ájluovta tjiektje liehket dudálattja dajna gå li oadtjum vájbi dán guovlo buoremus bállotjiektjamhárjjidallijt.</p>
+<p>Arne Johan gæhttjá åvddålij guovlluj ja javllá boados la dal tjiektjij åvdåsvásstádus.</p>
+<p>– Mij lip dal niellja gávda tjiektjam. Álgijma vas tjiektjamijn maŋŋáj gå lij båddå, nav vaj niellja jage dás åvddål tjievtjajma vidát divisjåvnån. Ja de besajma nælját divisjåvnnåj. Danna lip guokta jage tjiektjam.</p>
+<p>Ájgge l dal boahtám ájádalátjit majt hálijdip dájna bállotjiektjamijn. Ja mij lip dal ájádallagoahtám ij la gus ájgge boahtám goarŋŋot ájn avtav divisjåvnåv. Dajna l de miján ulmme.</p>
+<p type="title">Buoremus mákso</p>
+<p>Arne Johan Turi gæhttjá åvddålij guovlluj, ja sån la juo ulmmesárgev bajebuv biedjam. Aktan Børge Kjerajn libá dal åvdåsvásstádusáv válldám boahtte gávdas.</p>
+<p>– Da la dal ietjamij duogen man ålov gillap hárjjidallat, ja man buoragit sihtap dilev láhtjet mij guosská bállotjiektjamij. Mån gal jáhkáv dat la vejulasj. Jus ep dasi jáhke, de ep galga biedjat dahkkár mihttomierev.</p>
+<p>Bállotjiektjamav la Arne Johan berustam juo mánná rájes. Ja sån la moadda tjiektjamjuohkusa hárjjidallam, ja iesj maŋen læhkám tjiektjamin. Duodden stuoves bargguj Sámedikke háldadusán Ájluovtan galggá sån gæhttjalit Ájluovta báhtjajt bajep divisjåvnnåj låggŋit.</p>
+<p>Juska l dal ållo barggo, ja sån ij oattjo ruhtamávsov dassta, de la Arne Johanij stuorámus ja buoremus mákso gå bæssá oasev bállotjiektjamis niektit.</p>
+<p>– Buoremus mákso dájna barggat li dal vásádusá dajna gå bállotjiektjam la maŋen læhkám ålles viessomájgev dallutjis gå lidjiv báhtjasj Guovdagæjnon. Mån berustav bállotjiektjamij sierraláhkáj ålov. Nubbe la at Ájluokta la unna bájkásj. Jus mij nahkap buorre láhkáj bállov tjiektjat, de dat vaddá buorre iesjdåbdov ålles bájkkáj. Da la juoga mij la muv mielas miellagiddavasj dájna barggat.</p>
+<p type="title">Stuorra berustibme</p>
+<p>Moaddi la badjelasj tjuodes gudi båhti gehtjatjit gå Ájluovta báhtja fággádi bállujn sijddatjiektjamsaljon. Dat la aj maŋen Arne Johanav buossjodime.</p>
+<p>– Mån diedáv ålos berusti bállotjiektjamav dánna Ájluovtan. Ja gå de vil buoragit manná, dagu dal gå favoritjuohkusa Fuossko/Sprint ja Grand/Bådåddjo vuosstáj tjiektjap, ja mij tjasskep dajt, de dat vaddá dahkkár dåbdov gájkajda. Ja dat la juoga mij de buossjot.</p>
+<p>Hásstalusá li dal aj dagu dal rekruterijga hárráj. Arne Johan ij balá tjiektjijs dajna gå li moadda nuorra tjiektje. Valla mållagáhttára e dal muoran sjatta.</p>
+<p>– Gå lip de mihttomierev biedjam hálijdip nælját divisjåvnåv vuojttet, de lip gæhttjagoahtám makkár vejulasjvuoda le mij guosská tjiektjijda dán dáfon, ja Ájluovta báhtja gudi bajep divisjåvnån tjiektji. Mij lip juo guláskuddam sijájn. Le gus vejulasj boahtet ruoptus Ájluoktaj tjievtjatjit boahtte jage? Dajna aj gæhttjat gávnnu gus buorre mållagáhttár.</p>
+<p>Mij lip dal juohkka jage oadtjum bajás ådå tjiektjijt. Ja dánna li moadda nuorra tjiektje gudi lidjin vehik maŋen maŋemus gávdan. Vuojnáv dal sihkarit válldi dav lávkev vaj sjaddi stuovvása dán mijá bállotjiektjamsiebren. Vuorbbe aj gå la miján riek buorre dahkorássesalljo nav vaj la aj miján buorre vejulasjvuoda.</p>
+<p type="title">Stuorámus ávvo</p>
+<p>Juska l javllaájgge, da la aj Arne Johanij máhttelisvuoda iejvvit sijáv gudi li sijddaj javlajda, ja dav de ávkálasstá ja nav ásat hárjjidallamijt juska l dal javllaájgge.</p>
+<p>Tjåhkanime, hárjjidallama ja ságastallama la vejulasj gå gájka li tjoahken, hæjttá Arne Johan Turi guhti dal ienemusát ávvus gå de fámillja tjåhkan javllabiejvijda.</p>
+<p xml:lang="nno">Publisert</p>
+<p xml:lang="nno">Del på Facebook</p>
+<p xml:lang="nno">Del på Twitter</p>
+<p xml:lang="nno">Del på Google+</p>
+<p xml:lang="nno">Send med epost</p>
+<p type="title" xml:lang="sme">Oanehaččat</p>
+<list/></body></document>

@@ -1,104 +1,95 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>637</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.unginordland.no/infonuorra-2/julevsamegiella/kultuvrra-asstoajgge/vuossamanne.90574.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="backpacker.90658.aspx.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Vuossamanne - Nordland fylkeskommune</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Nfk.no</p>
-      <p type="listitem" xml:lang="nob">Intranett</p>
-      <p type="listitem" xml:lang="nob">Større skrift</p>
-      <p type="listitem" xml:lang="nob">Lytt til tekst</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nob">Forside</p>
-      <p type="listitem" xml:lang="nob">Norsk <list><p type="listitem" xml:lang="nob">Rettigheter</p><p type="listitem">Duodje</p><p type="listitem" xml:lang="nob">Samisk religion</p><p type="listitem" xml:lang="nob">Kultur</p><p type="listitem" xml:lang="nob">Samisk mat</p><p type="listitem" xml:lang="nob">Samiske klær</p><p type="listitem" xml:lang="nob">Kjente samer</p></list></p>
-      <p type="listitem">Julevsámegiella <list><p type="listitem">Barggo</p><p type="listitem">Julevsámegiella</p><p type="listitem">Kultuvrra &amp; asstoájgge</p><p type="listitem">Riektá</p><p type="listitem" xml:lang="nob">Stipennda</p><p type="listitem">Varresvuohta</p></list></p>
-      <p type="listitem" xml:lang="nob">Åarjelsaemiengïele <list><p type="listitem" xml:lang="nob">Barkoe</p><p type="listitem">Kultuvre &amp; eejehtimmie</p><p type="listitem">Reaktah</p><p type="listitem" xml:lang="nob">Staarne</p><p type="listitem">Ööhpehtimmie</p></list></p>
-      <p type="listitem">Davvisámegiella <list><p type="listitem">Sámigiella</p><p type="listitem">Bargu</p><p type="listitem">Dearvvšvuohta</p><p type="listitem" xml:lang="nob">Stipeanda</p><p type="listitem">Kultuvra &amp; asttuáigi</p><p type="listitem">Oahppu</p><p type="listitem">Vuoigatvođat</p></list></p>
-    </list>
-    <list>
-      <p type="listitem">Infonuorra</p>
-      <p type="listitem">Julevsámegiella</p>
-      <p type="listitem">Kultuvrra &amp; asstoájgge</p>
-    </list>
-    <p type="title">Vuossamanne</p>
-    <p>Gå ájgo guhkes mannuj vuolgget, de buorre plánim ja gárvedibme rávkaduvvá.</p>
-    <p><em type="italic">PÁSSA JA VISUM </em>Åvddål gå vuolgá, gehtja vaj pássa ij la gahttjam, jali ruvva gahttjá. Muhtem rijka rávkki pássa binnemusát 6 máno galggá fámon årrot åvddål rijkaj besa.  </p>
-    <p>Visumav muhtem rijkajda dárbaha, danen gehtja jus rijkan(rijkajn) gåsi galga le/li visumvälggogisvuohta. Ålggorijkadepartementa webbabielijn gehtja de dav gávna. Visumav viertti ájge bále åvddåla åhtsåt, danen gå máhttá ádjánit åvvdål giehtadallá. Mujte visum le gasskabåddåsasj ja bissu vissa ájgev.</p>
-    <p><em type="italic">VAKSIJNA </em>Makkir vaksijnajt dárbaha mierreduvvá gåsi ja goassa le manátjit. Bájkálasj varresvuohtastásjåvnnå máhttá viehkedit makkir vaksijnajt viertti válldet. Moadda vaksijnajt galggi váldeduvvat ájge bále åvddåla, gárveda ájge bále. Gå vaksinerida de oattjo vaksijnnakårtåv majt viertti maŋen adnet. Muhtem rijka rávkki dujna le duodastus ietjat vaksijnaj hárráj.  </p>
-    <p><em type="italic">DÁVDDA </em>Jus manon muhtem álkes åvddålnjuolgadusájt tjuovo de varrásin biso. Vádav binneda dávdajt bv. tjadádagáv oadtjot. Návti tjadádagás bessat:  </p>
-    <p type="listitem">Buorre giehtahygiena</p>
-    <p type="listitem">Biebmo - máhtá bårråt gájkka ma li tjadámalestum jali basedum. Varás lájbijda li aj sämmi. Garve njuosska sálladav ja muorjánijt jus iesj ij dajt snivvva dåjde ja sihko.</p>
-    <p type="listitem">Tjáhtje - ale tjátjev tjáhtjebåhttsås jugá, dåssjå duoldadum jali ruvsan. Tjáhtjeruvsa låhkke galggá doajedak årrot. Gå banijt skuoro de tjátjev doajedak ruvsas jali desifiseridum tjátjev ane. Galmas ij gájkka rugev oajte, várri aj jiegŋabiehkijs.</p>
-    <p type="listitem">Jiegŋa - Gárve jieŋas majt i dåbdå, sierraláhkáj ma älla doajedak páhppárij sinna.</p>
-    <p type="listitem">Jus biebmojt ja juhkusijt gahttunvuobddijs oastá de dähppomvadá lassán.</p>
-    <p>Duv mannoapotehkan dá máhtti/vierttiji gávnnut:</p>
-    <p type="listitem">Plåsståra ja sterijlla kompressa</p>
-    <p type="listitem">Pinsähtta, skárjá ja termomehter</p>
-    <p type="listitem">Bomullo ja q-tips</p>
-    <p type="listitem">Hávverájnnimdálkas</p>
-    <p type="listitem">Luoddudak-ja febergiehpedim táblehta (Paracetamol)</p>
-    <p type="listitem">Hydrokortisonvuojdas råbmebårrumij ja ruoppijda</p>
-    <p type="listitem">Biejvvevuojdas</p>
-    <p type="listitem">Tjuojggavuojdas</p>
-    <p type="listitem">Tjadádakganugahttemdálkkasa degu Imodium ja Loperamid ( ij mánájda 12 jage nuorabu)</p>
-    <p type="listitem">Ieme dálkkasa</p>
-    <p type="listitem" xml:lang="nob">Kondoma</p>
-    <p type="listitem">Doarjjagurbbasa</p>
-    <p type="listitem">Sáhkada ietjat dåktårijn jus li ietja ájnas ássje.</p>
-    <p><em type="italic">DUODASTUS JA EKONOMIDDJA </em>Duodastusáv viertti adnet. Ásada duodastusáv mij le fámon jårbbå räjsov. Hátte li umasslágátja, diedojt åttjuda umasse duodastussiebrijs.  </p>
-    <p>Vuogas le almma budsjehta dahkat. Budsjehta viertti sisanedit gålojt:</p>
-    <p type="listitem">Háledimbiljähttaj</p>
-    <p type="listitem">Mannoduodastussaj</p>
-    <p type="listitem">Vaksijnajda</p>
-    <p type="listitem">Medisijnna nävojda</p>
-    <p type="listitem">Visumijda</p>
-    <p type="listitem">Sålbbebiednigijda</p>
-    <p type="listitem">Hähkka gålojda 	Visa-jali mastercard le dárbulasj. Ålggorijkan máhtá biednigijt ienemus báŋŋkaautomátajn viedtjat. Vuorrádussan le juohkka bále gå biednigijt viettja de le bájken 30 kråvnå gållo. Duodden le aj 0,5 % biedniklågos majt viettja(målsosuvvá báŋkas báŋŋkaj). Gájkka majt viettja ja máksusijt kårtåjn le vuogas tjálestit. Dan diehti gå le dárbulasj ekonomidjav gähttjat</p>
-    <p>HUOMAHA! Skandiabáŋkan ij le gållo ålgorijkan biednigijt viedtjat.</p>
-    <p><em type="italic">VUOSSA SISADNO </em>Gássjel le mierredit majt galga válldet maŋen, valla mujte galga vuossav guoddet. Vuossa sisadno viertti huoman årrot:  </p>
-    <p type="listitem">Biktasa – vuogas le tsåggåt juojddá majt aktit mannuj, bäjvvásattjat ja hávsskudallamij máhtá. Máhttá ienemusáv álbet räjson oasstet.</p>
-    <p type="listitem">Buorre gábmagijt le A ja O</p>
-    <p type="listitem">Oademvuossa</p>
-    <p type="listitem">Toalähttarustajt</p>
-    <p type="listitem">Sagárdagájt – vuogas le tsåggåt guokta sagárdagá. Jus akta le duolvas de nubbe le lijggen.</p>
-    <p type="listitem">Diehtogirjijt ij galga Vuonan oasstet. Álbebut oastá rijkajn gåsi vuolgá. Máhtá ietjat girjijt muhtem rijkajn binná mávsujn målssot.</p>
-    <p type="listitem">Sålbbelámpov- Muhtem rijkajn elektrisitehtav vissa ájgij jánndurin jáddiji.</p>
-    <p type="listitem">Sålbbenijbev</p>
-    <p type="listitem">Båktemklåhkav</p>
-    <p type="listitem">Goarromrustajt</p>
-    <p type="listitem" xml:lang="nob">BUORRE DIEDO</p>
-    <p type="listitem">Vuogas le pássav, vaksijnnakårtåv, háledimbiljehtajt ja visumav moattedit. Bårto moatte sajijda vuossan. Jus lihpit moaddása manon, de juohkit moattedimijt. Jus dajt biesstebihtit de le álkep ådåstuhttet.</p>
-    <p type="listitem">Jus lihpit moattes aktan manon de le vuogas toalähttarustajt aktan adnet. Sajev dagátjit ja noadev giehpedittjat.</p>
-    <p type="listitem">Ietjá mannijs guládalá rijkaj birra gåsi ájgo mannat. Siján li edna diedo gåsi máhttá mannat.GÁVNAS LIŊŊKAT</p>
-    <p xml:lang="nob">Eurotrip Excite Hostelworld Kilroytravels Let´s Go Utenriksdepartementet - Reiseinformasjon og reiseråd Utenriksdepartementet - Visumfrie land Vaksinasjonssenter</p>
-    <list>
-      <p type="listitem">RSS</p>
-      <p type="listitem" xml:lang="nob">Share on print   Skriv ut</p>
-      <p type="listitem" xml:lang="nob">Share on twitter   Del på Twitter</p>
-      <p type="listitem" xml:lang="nob">Share on facebook   Del på Facebook</p>
-    </list>
-    <p xml:lang="nob">Redaktør: Geir Johnsen | Webansvarlig: Håvard Vognild | CMS/Webdesign: ACOS</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>637</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.unginordland.no/infonuorra-2/julevsamegiella/kultuvrra-asstoajgge/vuossamanne.90574.aspx</origFileName><parallel_text xml:lang="sma" location="backpacker.90658.aspx.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Vuossamanne - Nordland fylkeskommune</p>
+<list><p type="listitem" xml:lang="nob">Nfk.no</p>
+<p type="listitem" xml:lang="nob">Intranett</p>
+<p type="listitem" xml:lang="nob">Større skrift</p>
+<p type="listitem" xml:lang="nob">Lytt til tekst</p>
+</list><list><p type="listitem" xml:lang="nob">Forside</p>
+<p type="listitem" xml:lang="nob">Norsk <list><p type="listitem" xml:lang="nob">Rettigheter</p>
+<p type="listitem">Duodje</p>
+<p type="listitem" xml:lang="nob">Samisk religion</p>
+<p type="listitem" xml:lang="nob">Kultur</p>
+<p type="listitem" xml:lang="nob">Samisk mat</p>
+<p type="listitem" xml:lang="nob">Samiske klær</p>
+<p type="listitem" xml:lang="nob">Kjente samer</p>
+</list></p>
+<p type="listitem">Julevsámegiella <list><p type="listitem">Barggo</p>
+<p type="listitem">Julevsámegiella</p>
+<p type="listitem">Kultuvrra &amp; asstoájgge</p>
+<p type="listitem">Riektá</p>
+<p type="listitem" xml:lang="nob">Stipennda</p>
+<p type="listitem">Varresvuohta</p>
+</list></p>
+<p type="listitem" xml:lang="nob">Åarjelsaemiengïele <list><p type="listitem" xml:lang="nob">Barkoe</p>
+<p type="listitem">Kultuvre &amp; eejehtimmie</p>
+<p type="listitem">Reaktah</p>
+<p type="listitem" xml:lang="nob">Staarne</p>
+<p type="listitem">Ööhpehtimmie</p>
+</list></p>
+<p type="listitem">Davvisámegiella <list><p type="listitem">Sámigiella</p>
+<p type="listitem">Bargu</p>
+<p type="listitem">Dearvvšvuohta</p>
+<p type="listitem" xml:lang="nob">Stipeanda</p>
+<p type="listitem">Kultuvra &amp; asttuáigi</p>
+<p type="listitem">Oahppu</p>
+<p type="listitem">Vuoigatvođat</p>
+</list></p>
+</list><list><p type="listitem">Infonuorra</p>
+<p type="listitem">Julevsámegiella</p>
+<p type="listitem">Kultuvrra &amp; asstoájgge</p>
+</list><p type="title">Vuossamanne</p>
+<p>Gå ájgo guhkes mannuj vuolgget, de buorre plánim ja gárvedibme rávkaduvvá.</p>
+<p><em type="italic">PÁSSA JA VISUM </em>Åvddål gå vuolgá, gehtja vaj pássa ij la gahttjam, jali ruvva gahttjá. Muhtem rijka rávkki pássa binnemusát 6 máno galggá fámon årrot åvddål rijkaj besa.  </p>
+<p>Visumav muhtem rijkajda dárbaha, danen gehtja jus rijkan(rijkajn) gåsi galga le/li visumvälggogisvuohta. Ålggorijkadepartementa webbabielijn gehtja de dav gávna. Visumav viertti ájge bále åvddåla åhtsåt, danen gå máhttá ádjánit åvvdål giehtadallá. Mujte visum le gasskabåddåsasj ja bissu vissa ájgev.</p>
+<p><em type="italic">VAKSIJNA </em>Makkir vaksijnajt dárbaha mierreduvvá gåsi ja goassa le manátjit. Bájkálasj varresvuohtastásjåvnnå máhttá viehkedit makkir vaksijnajt viertti válldet. Moadda vaksijnajt galggi váldeduvvat ájge bále åvddåla, gárveda ájge bále. Gå vaksinerida de oattjo vaksijnnakårtåv majt viertti maŋen adnet. Muhtem rijka rávkki dujna le duodastus ietjat vaksijnaj hárráj.  </p>
+<p><em type="italic">DÁVDDA </em>Jus manon muhtem álkes åvddålnjuolgadusájt tjuovo de varrásin biso. Vádav binneda dávdajt bv. tjadádagáv oadtjot. Návti tjadádagás bessat:  </p>
+<p type="listitem">Buorre giehtahygiena</p>
+<p type="listitem">Biebmo - máhtá bårråt gájkka ma li tjadámalestum jali basedum. Varás lájbijda li aj sämmi. Garve njuosska sálladav ja muorjánijt jus iesj ij dajt snivvva dåjde ja sihko.</p>
+<p type="listitem">Tjáhtje - ale tjátjev tjáhtjebåhttsås jugá, dåssjå duoldadum jali ruvsan. Tjáhtjeruvsa låhkke galggá doajedak årrot. Gå banijt skuoro de tjátjev doajedak ruvsas jali desifiseridum tjátjev ane. Galmas ij gájkka rugev oajte, várri aj jiegŋabiehkijs.</p>
+<p type="listitem">Jiegŋa - Gárve jieŋas majt i dåbdå, sierraláhkáj ma älla doajedak páhppárij sinna.</p>
+<p type="listitem">Jus biebmojt ja juhkusijt gahttunvuobddijs oastá de dähppomvadá lassán.</p>
+<p>Duv mannoapotehkan dá máhtti/vierttiji gávnnut:</p>
+<p type="listitem">Plåsståra ja sterijlla kompressa</p>
+<p type="listitem">Pinsähtta, skárjá ja termomehter</p>
+<p type="listitem">Bomullo ja q-tips</p>
+<p type="listitem">Hávverájnnimdálkas</p>
+<p type="listitem">Luoddudak-ja febergiehpedim táblehta (Paracetamol)</p>
+<p type="listitem">Hydrokortisonvuojdas råbmebårrumij ja ruoppijda</p>
+<p type="listitem">Biejvvevuojdas</p>
+<p type="listitem">Tjuojggavuojdas</p>
+<p type="listitem">Tjadádakganugahttemdálkkasa degu Imodium ja Loperamid ( ij mánájda 12 jage nuorabu)</p>
+<p type="listitem">Ieme dálkkasa</p>
+<p type="listitem" xml:lang="nob">Kondoma</p>
+<p type="listitem">Doarjjagurbbasa</p>
+<p type="listitem">Sáhkada ietjat dåktårijn jus li ietja ájnas ássje.</p>
+<p><em type="italic">DUODASTUS JA EKONOMIDDJA </em>Duodastusáv viertti adnet. Ásada duodastusáv mij le fámon jårbbå räjsov. Hátte li umasslágátja, diedojt åttjuda umasse duodastussiebrijs.  </p>
+<p>Vuogas le almma budsjehta dahkat. Budsjehta viertti sisanedit gålojt:</p>
+<p type="listitem">Háledimbiljähttaj</p>
+<p type="listitem">Mannoduodastussaj</p>
+<p type="listitem">Vaksijnajda</p>
+<p type="listitem">Medisijnna nävojda</p>
+<p type="listitem">Visumijda</p>
+<p type="listitem">Sålbbebiednigijda</p>
+<p type="listitem">Hähkka gålojda 	Visa-jali mastercard le dárbulasj. Ålggorijkan máhtá biednigijt ienemus báŋŋkaautomátajn viedtjat. Vuorrádussan le juohkka bále gå biednigijt viettja de le bájken 30 kråvnå gållo. Duodden le aj 0,5 % biedniklågos majt viettja(målsosuvvá báŋkas báŋŋkaj). Gájkka majt viettja ja máksusijt kårtåjn le vuogas tjálestit. Dan diehti gå le dárbulasj ekonomidjav gähttjat</p>
+<p>HUOMAHA! Skandiabáŋkan ij le gållo ålgorijkan biednigijt viedtjat.</p>
+<p><em type="italic">VUOSSA SISADNO </em>Gássjel le mierredit majt galga válldet maŋen, valla mujte galga vuossav guoddet. Vuossa sisadno viertti huoman årrot:  </p>
+<p type="listitem">Biktasa – vuogas le tsåggåt juojddá majt aktit mannuj, bäjvvásattjat ja hávsskudallamij máhtá. Máhttá ienemusáv álbet räjson oasstet.</p>
+<p type="listitem">Buorre gábmagijt le A ja O</p>
+<p type="listitem">Oademvuossa</p>
+<p type="listitem">Toalähttarustajt</p>
+<p type="listitem">Sagárdagájt – vuogas le tsåggåt guokta sagárdagá. Jus akta le duolvas de nubbe le lijggen.</p>
+<p type="listitem">Diehtogirjijt ij galga Vuonan oasstet. Álbebut oastá rijkajn gåsi vuolgá. Máhtá ietjat girjijt muhtem rijkajn binná mávsujn målssot.</p>
+<p type="listitem">Sålbbelámpov- Muhtem rijkajn elektrisitehtav vissa ájgij jánndurin jáddiji.</p>
+<p type="listitem">Sålbbenijbev</p>
+<p type="listitem">Båktemklåhkav</p>
+<p type="listitem">Goarromrustajt</p>
+<p type="listitem" xml:lang="nob">BUORRE DIEDO</p>
+<p type="listitem">Vuogas le pássav, vaksijnnakårtåv, háledimbiljehtajt ja visumav moattedit. Bårto moatte sajijda vuossan. Jus lihpit moaddása manon, de juohkit moattedimijt. Jus dajt biesstebihtit de le álkep ådåstuhttet.</p>
+<p type="listitem">Jus lihpit moattes aktan manon de le vuogas toalähttarustajt aktan adnet. Sajev dagátjit ja noadev giehpedittjat.</p>
+<p type="listitem">Ietjá mannijs guládalá rijkaj birra gåsi ájgo mannat. Siján li edna diedo gåsi máhttá mannat.GÁVNAS LIŊŊKAT</p>
+<p xml:lang="nob">Eurotrip Excite Hostelworld Kilroytravels Let´s Go Utenriksdepartementet - Reiseinformasjon og reiseråd Utenriksdepartementet - Visumfrie land Vaksinasjonssenter</p>
+<list><p type="listitem">RSS</p>
+<p type="listitem" xml:lang="nob">Share on print   Skriv ut</p>
+<p type="listitem" xml:lang="nob">Share on twitter   Del på Twitter</p>
+<p type="listitem" xml:lang="nob">Share on facebook   Del på Facebook</p>
+</list><p xml:lang="nob">Redaktør: Geir Johnsen | Webansvarlig: Håvard Vognild | CMS/Webdesign: ACOS</p>
+</body></document>

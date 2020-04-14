@@ -1,45 +1,11 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>“Typisk norsk” ?</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>278</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/-typisk-norsk-.4038</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Ælla dåssju rejna. Sáme lidjin ájnnasa dan oases majt dádjadip dagu <span type="quote" xml:lang="nob">“typisk norsk kystkultur”</span>, jáhkkeba Lars Børge Myklevold ja oahpesdiddje Kristin Lindbach.</p>
-    <p type="title" xml:lang="nob"><span type="quote" xml:lang="nob">“Typisk norsk”</span> ?</p>
-    <p>- Lofotguollim, gevsa ja bårjåsvantsa moaddási gåvåstahttá Vuonarijka merrakultuvrav, ja sámijt li tjadnam ællosujttuj ja miehttse æládussaj. Dajt vuojnojt sihtap vehik divvot, javllá Lars Børge Myklevold gut barggá dávvervuorkán, Árranin. Akta dajs vuosádusájs dávvervuorkán subtsas jur dan birra .....</p>
-    <p>1100-tállan subtsas Snorre gånågisá Sigurd Slembe birra, sån bálkkij sámijt biggitjit ietjas ådå hávsav, ja tjuohte jagijt mańńela nammadi gáldo sáme vanntsabiggárij birra. 1600-1700 tállan Nuortta Vuonarijkan vuojnnet dat æládus lij ienemusát sámij gasskan. Divtasvuonan diehtep sáme biggijin stuor jávtajt, duodden aj biggijin unnep ja stuoráp gevsajt Hábmelin, Fuolldán ja Divtasvuonan.</p>
-    <p>- Vanntsabiggim sámij gasskan lij vuojnnet ájnas oasse dassta majt mij gåhttjop <span type="quote" xml:lang="nob">“typisk norsk kystkultur”</span>, javllá Lars Børge Myklevold, ja dat duodastuvvá gå diehtep sáme ietja åttjudin vantsajt Lofoahttaj guollitjit sæmmi láhkáj gå látte. Histåvrrålasj gáldoj millta lidjin sámijn mijá guovlon stuorra vantsa majt gåhtjudip <span type="quote" xml:lang="nob">“åttringer”</span>, ja Bergunijn oasástallin sæmmi gå ietjá bånndura ja guollára. Duo dá gávne dávvervuorkan subtsasti sámijn lij aktijvuohta ietjádij.</p>
-    <p>- 1800-tálla mańńegiehtjen lidjin tjubuga tsakkadum dajn sajijn Lofoahtan gånnå guollijin. Sáme ettjin sidá gådijn årrot, valla sihtin farra tjubugijn årrot madi guollijin, javllá Myklevold, ja sån de vuojnná dá dålusj dádjadusá vierttiji dåssjen dagáduvvat.</p>
-    <p>- Sihtap ådåstuhttet Nuortta Vuonarijka merrahiståvråv ja vuosedit sáme l ájnas oasse dassta. Sámijn ja láttijn li guobbák kultuvrra, valla dålen lij lagáp aktisasjvuohta ja avtarádij barggin sámij ja láttij gasskan, ja dasi ep la ållu jáhkkám, hæjttá Lars Børge Myklevold.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér "<span type="quote" xml:lang="nob">“Typisk norsk”</span> ?" på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>“Typisk norsk” ?</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>278</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/-typisk-norsk-.4038</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Ælla dåssju rejna. Sáme lidjin ájnnasa dan oases majt dádjadip dagu <span type="quote" xml:lang="nob">“typisk norsk kystkultur”</span>, jáhkkeba Lars Børge Myklevold ja oahpesdiddje Kristin Lindbach.</p>
+<p type="title" xml:lang="nob"><span type="quote" xml:lang="nob">“Typisk norsk”</span> ?</p>
+<p>- Lofotguollim, gevsa ja bårjåsvantsa moaddási gåvåstahttá Vuonarijka merrakultuvrav, ja sámijt li tjadnam ællosujttuj ja miehttse æládussaj. Dajt vuojnojt sihtap vehik divvot, javllá Lars Børge Myklevold gut barggá dávvervuorkán, Árranin. Akta dajs vuosádusájs dávvervuorkán subtsas jur dan birra .....</p>
+<p>1100-tállan subtsas Snorre gånågisá Sigurd Slembe birra, sån bálkkij sámijt biggitjit ietjas ådå hávsav, ja tjuohte jagijt mańńela nammadi gáldo sáme vanntsabiggárij birra. 1600-1700 tállan Nuortta Vuonarijkan vuojnnet dat æládus lij ienemusát sámij gasskan. Divtasvuonan diehtep sáme biggijin stuor jávtajt, duodden aj biggijin unnep ja stuoráp gevsajt Hábmelin, Fuolldán ja Divtasvuonan.</p>
+<p>- Vanntsabiggim sámij gasskan lij vuojnnet ájnas oasse dassta majt mij gåhttjop <span type="quote" xml:lang="nob">“typisk norsk kystkultur”</span>, javllá Lars Børge Myklevold, ja dat duodastuvvá gå diehtep sáme ietja åttjudin vantsajt Lofoahttaj guollitjit sæmmi láhkáj gå látte. Histåvrrålasj gáldoj millta lidjin sámijn mijá guovlon stuorra vantsa majt gåhtjudip <span type="quote" xml:lang="nob">“åttringer”</span>, ja Bergunijn oasástallin sæmmi gå ietjá bånndura ja guollára. Duo dá gávne dávvervuorkan subtsasti sámijn lij aktijvuohta ietjádij.</p>
+<p>- 1800-tálla mańńegiehtjen lidjin tjubuga tsakkadum dajn sajijn Lofoahtan gånnå guollijin. Sáme ettjin sidá gådijn årrot, valla sihtin farra tjubugijn årrot madi guollijin, javllá Myklevold, ja sån de vuojnná dá dålusj dádjadusá vierttiji dåssjen dagáduvvat.</p>
+<p>- Sihtap ådåstuhttet Nuortta Vuonarijka merrahiståvråv ja vuosedit sáme l ájnas oasse dassta. Sámijn ja láttijn li guobbák kultuvrra, valla dålen lij lagáp aktisasjvuohta ja avtarádij barggin sámij ja láttij gasskan, ja dasi ep la ållu jáhkkám, hæjttá Lars Børge Myklevold.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér "<span type="quote" xml:lang="nob">“Typisk norsk”</span> ?" på Facebook</p>
+</body></document>

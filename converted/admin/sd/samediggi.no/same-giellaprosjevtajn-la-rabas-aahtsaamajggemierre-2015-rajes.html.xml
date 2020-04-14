@@ -1,45 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>121</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Giella/Same-giellahaldadimguovllo/Same-giellaprosjevtajn-la-rabas-aahtsaamajggemierre-2015-rajes</origFileName>
-    <parallel_text xml:lang="nob" location="samiske-spraakprosjekter-har-aapen-soeknadsfrist-fra-2015.html"/>
-    <parallel_text xml:lang="sma" location="saemien-gieleprosjekth-raehpas-ohtsememieriem-aatna-2015-raejeste.html"/>
-    <parallel_text xml:lang="sme" location="sami-giellaproseavttaide-lea-rabas-ohcanaigemearri-2015-rajes.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sáme giellaprosjevtajn la rabás åhtsåmájggemierre 2015 rájes / Sáme giellaháldadimguovllo / Giella / Sámedigge - Sametinget</p>
-    <p type="title">Sáme giellaprosjevtajn la rabás åhtsåmájggemierre 2015 rájes</p>
-    <p xml:lang="nob">09. tsïengele 2015</p>
-    <p>2015 rájes la rabás åhtsåmájggemierre doarjjaårnigis sáme giellaprosjevtajda. Åhtsåmusájt máhttá dajna rádjat akta goassa dán jage, ja da giehtadaláduvvi maŋŋenagi gå båhti.</p>
-    <p>
-      <em type="bold">-Dán rievddadibme båhtusa li åhttse galggi oadtjot vásstádusáv árabut gå åvddåla, vaj máhtti álgadit prosjevtajdisá nåv árrat gå máhttelis, javllá Sámedikke presidænnta Aili Keskitalo. </em>
-    </p>
-    <p>Sámedigge le aj gádodam jahkásasj vuorodimijt ma dálátjij li mierredam åhtsåmusáj hámev. Dálla merustaláduvvi åhtsåmusá kvalitehta ja bájkálasj dárboj milta.</p>
-    <p>
-      <em type="bold">-Dájna rievddadusájn la miján buorre máhttelisvuoda doarjjot buorre giellaåvddånahttemprosjevtajt ma li tjanádum dajda dárbojda ma li geŋga guovlon, javllá Keskitalo. </em>
-    </p>
-    <p>
-      <em type="bold">Åhtsåmsjiemá ja njuolgadusá biejaduvvi Sámedikke sijddasijdduj ådåjakmáno gasskamutto 2015. </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>121</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Giella/Same-giellahaldadimguovllo/Same-giellaprosjevtajn-la-rabas-aahtsaamajggemierre-2015-rajes</origFileName><parallel_text xml:lang="nob" location="samiske-spraakprosjekter-har-aapen-soeknadsfrist-fra-2015.html"/><parallel_text xml:lang="sma" location="saemien-gieleprosjekth-raehpas-ohtsememieriem-aatna-2015-raejeste.html"/><parallel_text xml:lang="sme" location="sami-giellaproseavttaide-lea-rabas-ohcanaigemearri-2015-rajes.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sáme giellaprosjevtajn la rabás åhtsåmájggemierre 2015 rájes / Sáme giellaháldadimguovllo / Giella / Sámedigge - Sametinget</p>
+<p type="title">Sáme giellaprosjevtajn la rabás åhtsåmájggemierre 2015 rájes</p>
+<p xml:lang="nob">09. tsïengele 2015</p>
+<p>2015 rájes la rabás åhtsåmájggemierre doarjjaårnigis sáme giellaprosjevtajda. Åhtsåmusájt máhttá dajna rádjat akta goassa dán jage, ja da giehtadaláduvvi maŋŋenagi gå båhti.</p>
+<p><em type="bold">-Dán rievddadibme båhtusa li åhttse galggi oadtjot vásstádusáv árabut gå åvddåla, vaj máhtti álgadit prosjevtajdisá nåv árrat gå máhttelis, javllá Sámedikke presidænnta Aili Keskitalo. </em></p>
+<p>Sámedigge le aj gádodam jahkásasj vuorodimijt ma dálátjij li mierredam åhtsåmusáj hámev. Dálla merustaláduvvi åhtsåmusá kvalitehta ja bájkálasj dárboj milta.</p>
+<p><em type="bold">-Dájna rievddadusájn la miján buorre máhttelisvuoda doarjjot buorre giellaåvddånahttemprosjevtajt ma li tjanádum dajda dárbojda ma li geŋga guovlon, javllá Keskitalo. </em></p>
+<p><em type="bold">Åhtsåmsjiemá ja njuolgadusá biejaduvvi Sámedikke sijddasijdduj ådåjakmáno gasskamutto 2015. </em></p>
+</body></document>

@@ -1,64 +1,28 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>áme varresvuodafálaldahka Valnesfjord Varresvuodavalástallamguovdátjin</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>587</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/s-me-varresvuodaf-laldahka-valnesfjord-varresvuodaval-stallamguovd-tjin.10528</origFileName>
-    <parallel_text xml:lang="nob" location="samisk_helsetilbud_181212.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Prosjæktajådediddje Erling Urheim galggá ruvva åvddånbuktet prosjevta hæjttodiedádusáv, gånnå le læhkám máhtudaklåpptimdåjma ja fálaldagá sáme mánájda ja nuorajda dá tjavtja. Dálla sávvá sån ja guovdásj rudájt åttjudit åvddånahttemij. – Dát le ållu ådå Vuonan, javllá Urheim. Gåvvå: Kitty Skapalen</p>
-    <p type="title">Sáme varresvuodafálaldahka Valnesfjord Varresvuodavalástallamguovdátjin</p>
-    <p>Gæhttjalimprosjækta le jagev vihpam, valla dálla máhtsadimguovdásj sihtá joarkket bargov ietjas oatsodimfálaldagájn sáme mánájda ja nuorajda</p>
-    <p>Ulmme le sáme kultuvra- ja luonndodádjadusáv máhtsadime ja oatsodimprográmmajn adnet, gånnå sáme iellemrijbbamav åmasti ja gånnå sáme árvo li vuodon, sihke årromin ja årroma maŋŋela. Prosjæktajådediddje Erling Urheim javllá åvddånahttem le árvulasj.</p>
-    <p>- Ájnas le bærrájgæhttjat dav máhtudagáv mij le åttjuduvvam ja vaj oadtju stuoves dåjmav joarkke bargguj, miejnni sån.</p>
-    <p type="title">Fuolkes ávkástalli</p>
-    <p>Sáme ávkástalli sierraláhkáj oahppásijt ja berrahav gå gássjelisvuoda ja varresvuodahásstalusá badjáni, valla ájnas le aj aktisattjat barggat almulasj varresvuodafálaldagáj vaj juohkkahattja varresvuoda dille sjaddá nav buorre gå máhttelis. Jages 2012 mierredij Sosiálasj- ja varresvuodadepartemænnta VVLGav nasjonálalasj máhtudahkaguovdátjin mánájda ja nuorajda doajmmahieredimijn ja vuojnni le ájnas nasjonálalasj máhtudahkaguovdásj aj gåtset iemeálmmuga ja unneplåhkojuohkusij dárbojt. Sáme e dárbaha sierralágásj sujtov, valla varresvuodadåjmadahka viertti oahppat sámijt duosstot ja vaddet sámijt avtaárvulasj dálkudimfálaldagáv. Pasienta ja terapeuta gaskan le ájnas makkir miellaguoddo terapauta vuoset ja jus dálkudibme galggá vuorbástuvvat de viertti årrot aktisasj guorrasibme ja dádjadus hásstalussaj ja guorrasibme ulme birra. Terapeuta viertti danen gávnnat dac sosiálalasj dásev gånnå pasiænnta le.</p>
-    <p>Sáme fálaldahka le ienep gå dåssju duodje ja ålggobiejve sáme sisanojn. Sihti ålles sáme perspektijvav dálkudibmáj.</p>
-    <p>- Valla gatjálvis le jus dåktåra, skihppijsujttár, psykologa, ja sosionoma li gárvvása sámijt iejvvit psykososiálajs suorgen, ussjol Urheim.</p>
-    <p>Ålgop birástagán li dættodam kultuvrramerkajt majt sáme ja ietjáda guovdátjin dåbddi. Luonndoiellempedagoga nanni máhtudagáv sáme árbbedábij birra luonndoiellema hárráj, gáhkkimijn, loavddagav tsieggit ja kultuvrajn dållågátten.</p>
-    <p>- Annfinn Pavalla láhkáj. Vuodon le sáhka sábmen årrot le ressursa mij guosská gåktu ájádallat gå la luondon. Sån subtsas ij le dåssju sajes sadjáj vádtset márfijt goardátjit. Galggap váttsedahttijn muossádit, luondov dåbddåt ja biejvve le mij áhttje ja iellema vuodo ednamin. Tiebmá le gåktu biebbmo sjaddá ja majt luondon bårråp. Dåjmalattja li aj máhtudagáv låpptim, duola dagu gå duodjebagádalle Lillian Urheim le duojev åhpadam, subtsas prosjæktajådediddje.</p>
-    <p type="title">Sáme álmmukdálkas</p>
-    <p>Fágalasj máhtudahka le ájnas ja sávvi virggáj biedjat ulmutjijt gænna le sáme giella- ja kultuvrramáhtudahka gudi máhtti buorre láhkáj sáme pasientav duosstot. Moadda tiemá li giehtadaláduvvam jage duogen. Duola dagu sáme álmmukdálkkasa sajev. Sjatto ma hædodi ja linedi skihpudagájt ja lågådibme.</p>
-    <p>- Ij la sadje dakkir máhtudahkaj dálkudimen guovdátjin jur dálla, valla vierttiji dåbddåt suorgev vieledussan juohkkahattja riektáj jáhkátjit massta væddjáji. Gehtjadam lip aj máhttelisvuodav guossidit bájkijt luondon nanos energijajn, subtsas prosjæktajådediddje Urheim.</p>
-    <p>Sávvi åvddånahttet vuogev luonddoterapiav, lulun aktisattjat barggat ietjá institusjåvnåj dagu SÁNAG ja Hellingerinsituhtajn gudi ávkástalli psykoterapivuogev familljajuohkusijn.</p>
-    <p type="title">Ådå fágalasj bálggájt váttsasj</p>
-    <p>Dåktår ja dutke Árran julevsáme guovdátjin, Fred Andersena milta, le VVLG stuorámus hásstalus sáme prosjevtan sjåpkadit sáme kultuvrramáhtudagáv klinihkalasj bargguj.</p>
-    <p>- Sáme kultuvrramáhtudahka viertti juogeduvvat varresvuodafágalasj máhtsadibmáj, de la máhttelis dievnastit sámijt avtaárvulasj láhkáj, miejnni sån.</p>
-    <p>Gatjálvis le jus sáme galggi ietjas juohkusijda jali galggá sáme kultuvrra ja iellemvuojnno sjaddat oase terapias sjåpkadum juohkusin.</p>
-    <p>Andersena mielas viertti VVLG ådå fágalasj bálggájt váttsatjit.</p>
-    <p>- Gávnnu binná jali ij åvvånis máhtudahka anedum sáme kultuvrra- ja árbbeábemáhtudagá birra klinihkalasj máhtudakvuodo varresvuodadievnastusán, tjállá Andersen VVLGaj.</p>
-    <p>Geográfalattjat le Valnesfjord láhka sihke julevsáme- ja oarjjesáme guovlov ja vuojnnep lahkavuohta sáme suohkanijda le ájnas aktisasjbargguj ja máhtudakjuohkemij sijá gaskan.</p>
-    <p>- Åvddånahttema hárráj le ájnas guhkesájggásasj perspektijvajn, valla lip tjanádum prosjæktarudájda, subtsas Urheim</p>
-    <p>VVLG le åtsåm rudájt Sámedikkes mávsátjit vijddásap jådov prosjevtas.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Sáme varresvuodafálaldahka Valnesfjord Varresvuodavalástallamguovdátjin"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>áme varresvuodafálaldahka Valnesfjord Varresvuodavalástallamguovdátjin</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2012</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>587</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/s-me-varresvuodaf-laldahka-valnesfjord-varresvuodaval-stallamguovd-tjin.10528</origFileName><parallel_text xml:lang="nob" location="samisk_helsetilbud_181212.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Prosjæktajådediddje Erling Urheim galggá ruvva åvddånbuktet prosjevta hæjttodiedádusáv, gånnå le læhkám máhtudaklåpptimdåjma ja fálaldagá sáme mánájda ja nuorajda dá tjavtja. Dálla sávvá sån ja guovdásj rudájt åttjudit åvddånahttemij. – Dát le ållu ådå Vuonan, javllá Urheim. Gåvvå: Kitty Skapalen</p>
+<p type="title">Sáme varresvuodafálaldahka Valnesfjord Varresvuodavalástallamguovdátjin</p>
+<p>Gæhttjalimprosjækta le jagev vihpam, valla dálla máhtsadimguovdásj sihtá joarkket bargov ietjas oatsodimfálaldagájn sáme mánájda ja nuorajda</p>
+<p>Ulmme le sáme kultuvra- ja luonndodádjadusáv máhtsadime ja oatsodimprográmmajn adnet, gånnå sáme iellemrijbbamav åmasti ja gånnå sáme árvo li vuodon, sihke årromin ja årroma maŋŋela. Prosjæktajådediddje Erling Urheim javllá åvddånahttem le árvulasj.</p>
+<p>- Ájnas le bærrájgæhttjat dav máhtudagáv mij le åttjuduvvam ja vaj oadtju stuoves dåjmav joarkke bargguj, miejnni sån.</p>
+<p type="title">Fuolkes ávkástalli</p>
+<p>Sáme ávkástalli sierraláhkáj oahppásijt ja berrahav gå gássjelisvuoda ja varresvuodahásstalusá badjáni, valla ájnas le aj aktisattjat barggat almulasj varresvuodafálaldagáj vaj juohkkahattja varresvuoda dille sjaddá nav buorre gå máhttelis. Jages 2012 mierredij Sosiálasj- ja varresvuodadepartemænnta VVLGav nasjonálalasj máhtudahkaguovdátjin mánájda ja nuorajda doajmmahieredimijn ja vuojnni le ájnas nasjonálalasj máhtudahkaguovdásj aj gåtset iemeálmmuga ja unneplåhkojuohkusij dárbojt. Sáme e dárbaha sierralágásj sujtov, valla varresvuodadåjmadahka viertti oahppat sámijt duosstot ja vaddet sámijt avtaárvulasj dálkudimfálaldagáv. Pasienta ja terapeuta gaskan le ájnas makkir miellaguoddo terapauta vuoset ja jus dálkudibme galggá vuorbástuvvat de viertti årrot aktisasj guorrasibme ja dádjadus hásstalussaj ja guorrasibme ulme birra. Terapeuta viertti danen gávnnat dac sosiálalasj dásev gånnå pasiænnta le.</p>
+<p>Sáme fálaldahka le ienep gå dåssju duodje ja ålggobiejve sáme sisanojn. Sihti ålles sáme perspektijvav dálkudibmáj.</p>
+<p>- Valla gatjálvis le jus dåktåra, skihppijsujttár, psykologa, ja sosionoma li gárvvása sámijt iejvvit psykososiálajs suorgen, ussjol Urheim.</p>
+<p>Ålgop birástagán li dættodam kultuvrramerkajt majt sáme ja ietjáda guovdátjin dåbddi. Luonndoiellempedagoga nanni máhtudagáv sáme árbbedábij birra luonndoiellema hárráj, gáhkkimijn, loavddagav tsieggit ja kultuvrajn dållågátten.</p>
+<p>- Annfinn Pavalla láhkáj. Vuodon le sáhka sábmen årrot le ressursa mij guosská gåktu ájádallat gå la luondon. Sån subtsas ij le dåssju sajes sadjáj vádtset márfijt goardátjit. Galggap váttsedahttijn muossádit, luondov dåbddåt ja biejvve le mij áhttje ja iellema vuodo ednamin. Tiebmá le gåktu biebbmo sjaddá ja majt luondon bårråp. Dåjmalattja li aj máhtudagáv låpptim, duola dagu gå duodjebagádalle Lillian Urheim le duojev åhpadam, subtsas prosjæktajådediddje.</p>
+<p type="title">Sáme álmmukdálkas</p>
+<p>Fágalasj máhtudahka le ájnas ja sávvi virggáj biedjat ulmutjijt gænna le sáme giella- ja kultuvrramáhtudahka gudi máhtti buorre láhkáj sáme pasientav duosstot. Moadda tiemá li giehtadaláduvvam jage duogen. Duola dagu sáme álmmukdálkkasa sajev. Sjatto ma hædodi ja linedi skihpudagájt ja lågådibme.</p>
+<p>- Ij la sadje dakkir máhtudahkaj dálkudimen guovdátjin jur dálla, valla vierttiji dåbddåt suorgev vieledussan juohkkahattja riektáj jáhkátjit massta væddjáji. Gehtjadam lip aj máhttelisvuodav guossidit bájkijt luondon nanos energijajn, subtsas prosjæktajådediddje Urheim.</p>
+<p>Sávvi åvddånahttet vuogev luonddoterapiav, lulun aktisattjat barggat ietjá institusjåvnåj dagu SÁNAG ja Hellingerinsituhtajn gudi ávkástalli psykoterapivuogev familljajuohkusijn.</p>
+<p type="title">Ådå fágalasj bálggájt váttsasj</p>
+<p>Dåktår ja dutke Árran julevsáme guovdátjin, Fred Andersena milta, le VVLG stuorámus hásstalus sáme prosjevtan sjåpkadit sáme kultuvrramáhtudagáv klinihkalasj bargguj.</p>
+<p>- Sáme kultuvrramáhtudahka viertti juogeduvvat varresvuodafágalasj máhtsadibmáj, de la máhttelis dievnastit sámijt avtaárvulasj láhkáj, miejnni sån.</p>
+<p>Gatjálvis le jus sáme galggi ietjas juohkusijda jali galggá sáme kultuvrra ja iellemvuojnno sjaddat oase terapias sjåpkadum juohkusin.</p>
+<p>Andersena mielas viertti VVLG ådå fágalasj bálggájt váttsatjit.</p>
+<p>- Gávnnu binná jali ij åvvånis máhtudahka anedum sáme kultuvrra- ja árbbeábemáhtudagá birra klinihkalasj máhtudakvuodo varresvuodadievnastusán, tjállá Andersen VVLGaj.</p>
+<p>Geográfalattjat le Valnesfjord láhka sihke julevsáme- ja oarjjesáme guovlov ja vuojnnep lahkavuohta sáme suohkanijda le ájnas aktisasjbargguj ja máhtudakjuohkemij sijá gaskan.</p>
+<p>- Åvddånahttema hárráj le ájnas guhkesájggásasj perspektijvajn, valla lip tjanádum prosjæktarudájda, subtsas Urheim</p>
+<p>VVLG le åtsåm rudájt Sámedikkes mávsátjit vijddásap jådov prosjevtas.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Sáme varresvuodafálaldahka Valnesfjord Varresvuodavalástallamguovdátjin"</span> på Facebook</p>
+</body></document>

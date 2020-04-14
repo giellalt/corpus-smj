@@ -1,46 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Sáme histåvrrå ja kultuvrra girjjevuorkájda Divtasvuonan</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2008</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>109</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_150208.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p xml:lang="nob">Tæksta: Kitty SkapalenGåvå: Frode Jenssen</p>
-    <p>Jårggålibme: Idar Kintel</p>
-    <p>vuodoskåvlån jaGirjjevuorkká</p>
-    <p><em type="italic">Diehtemvájnogis máná: Stuorra, tjáppa bájnnogåvå subtsasti sáme luondo ja kultuvra birra.Nysgjerrige unger: Store flotte fargebilder forteller om samisk natur og kultur.</em> </p>
-    <p>giellaháldadimguovlluj, ájnna suohkaninNordlándan.  Jagen  2006  2  millijåvnåjuolloduvvin,  ja  lasse  3  millijåvnåjuolloduvvin  jagen  2007.  Vuostasjjuollodimes báhtsin 1,6 millijåvnå jáhkaj</p>
-    <p>2007,  ja  navti  suohkan  oattjoj  3,6millijåvnå anátjit dán ulmmáj åvdep jage.Girjjevuorkká  le  oasev  oadtjum  dajsrudájs, duola dagu girjálasj-vuodaåvddånbuktemij</p>
-    <p>Oahppe li dálátjij sláddim gåvvågirjijn jadajt gehtjadam.- Ja girje ruvva luojkaduvvin. Vuojnunagáoahppe berusti, javllá Bragstad.</p>
-    <p><em type="italic">Bessi ietja sáme kultuvra birra låhkåt: Gå girje li dárogiellaj tjáleduvvam de máhtti Fredrik,Tony ja Ron Even ietja ja aktan iehtjádij klássan sáme girjijt guoradallat.</em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Sáme histåvrrå ja kultuvrra girjjevuorkájda Divtasvuonan</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2008</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>109</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_150208.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p xml:lang="nob">Tæksta: Kitty SkapalenGåvå: Frode Jenssen</p>
+<p>Jårggålibme: Idar Kintel</p>
+<p>vuodoskåvlån jaGirjjevuorkká</p>
+<p><em type="italic">Diehtemvájnogis máná: Stuorra, tjáppa bájnnogåvå subtsasti sáme luondo ja kultuvra birra.Nysgjerrige unger: Store flotte fargebilder forteller om samisk natur og kultur.</em> </p>
+<p>giellaháldadimguovlluj, ájnna suohkaninNordlándan.  Jagen  2006  2  millijåvnåjuolloduvvin,  ja  lasse  3  millijåvnåjuolloduvvin  jagen  2007.  Vuostasjjuollodimes báhtsin 1,6 millijåvnå jáhkaj</p>
+<p>2007,  ja  navti  suohkan  oattjoj  3,6millijåvnå anátjit dán ulmmáj åvdep jage.Girjjevuorkká  le  oasev  oadtjum  dajsrudájs, duola dagu girjálasj-vuodaåvddånbuktemij</p>
+<p>Oahppe li dálátjij sláddim gåvvågirjijn jadajt gehtjadam.- Ja girje ruvva luojkaduvvin. Vuojnunagáoahppe berusti, javllá Bragstad.</p>
+<p><em type="italic">Bessi ietja sáme kultuvra birra låhkåt: Gå girje li dárogiellaj tjáleduvvam de máhtti Fredrik,Tony ja Ron Even ietja ja aktan iehtjádij klássan sáme girjijt guoradallat.</em> </p>
+</body></document>

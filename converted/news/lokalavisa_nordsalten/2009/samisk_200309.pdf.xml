@@ -1,55 +1,19 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Guokta vuorrasap ålmmå Måske skåvlån</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>308</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_200309.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty SkapalenJårggålibme: Divte Media</p>
-    <p>málestit,  jus  lij  boahttsubierggo  jali guolle de lij áhtje barggo jur vuossjat. De gåjt máhtáv oahppijt åhpadit gåktu boahttsubiergov málestit, tjajmmá sån.</p>
-    <p>Buorre mahtudahka</p>
-    <p>Åmon ja Urheiman li valjes máhtudagá ja  åhpadus  bargguj.  Goappátja  libá åvdep  rektora  Måske  skåvlån  ja  libá stuoráp ja unnep oahppijt åhpadam ienep gå 80 jage tjoahkkáj. Buorre máhtudahka le gal ajtu sunnun.-  Ælla  goassak  náv  skåvllidum</p>
-    <p>åhpadiddje  Måske  skåvlån  læhkám, tjajmmá Urheim vájmulattjat, ja vuoset suv virggeguojmme Willy Åmo le lektor lasseåhpadusájn, sån le iesj adjunnkta duoddeåhpadusájn ja nubbe</p>
-    <p>virggeguojmen Kristin Lindbachan le aj universitehtaåhpadus.  Åvdep  rektora mielas le ájnas ietjas ådåsmahttet. - Vierttip ietjama ådåsmahttet, ja dát lesierraláhkáj ájnas åhpadiddjijda, miejnni</p>
-    <p>sån. - Dádjadam riekta dahkiv gå åhpadiddjen sjaddin. Vilá lågåv ja lev dutkambargov joarkkám ja iv goassak gerga. Ulmme le ham  mánájt  åhpadit.  Vierttip ådåsmahttet  ja  hiebadahttet  dan  ájggáj ja birrasij gånnå lip, javllá Urheim.</p>
-    <p>Headhuntiduváj</p>
-    <p>Åmo headhuntiduváj suohkanoajves iesj ja ittjij åvvånis virggáj åtså. -  Dutkambargoj  dálla  bargav.  Valla suttalussjiv oahppijt, javllá sån. Galggásebrudakfágan ja luonndofágan åhpadit.</p>
-    <p>- Luonndofáhka le galla munji lagámus. Sihke  álmmukskåvlå  ja  alep  åhpadusá baktu lev oahppam humanistalasj oasse le vuodo divna åhpadibmáj. Biologalasj oasse oahppamprosessav ásat, javllá sån. Iesj  le  merrasábme  Gásluovtas  ja  suv dutkambargo  baktu  guoradaláj  jur tjielggimåhpadusáv. -  Juohkkahattjan  le  ietjas  tjielgadus.Juohkkahasj vuojnná ássjijt ietjas diles.</p>
-    <p>Dálla  rievddat  ådå  árggabiejvijda</p>
-    <p>jåhtelisvantsajn  Måsskåj  gássjelisvuohtan vuojne. - Vierttijiv oajven rádjat ja gæhttjalitdádjadit gåktu skåvllå le uddni. Vierttijiv</p>
-    <p>aj  diehtet  jus  oahppe  muv vuosstájválldin. Buorre oahppobirás ja soapptsom  le  ájnas  vuodo  oahppamij. Ájnas  lij  munji  diehtet  oahppe  muv dánna sihtin adnet, javllá sån. Vuorrasap  ålmmåguoktá  virgge  dáv skåvllåjagev  vihpá  gåjt  dal  ájn,  valla Urheim ihkap guhkebuv joarkká. -  Ihkap  boahtte  skåvllåjage  joarkáv,måjudallá sån.</p>
-    <p>Åmo ij ållu diede. -  Mij  vijdábut  dáhpáduvvá  iehtjáda mierredi.  Valla  akta  le  visses;  oahppá iesj nav guhkev gå åhpat, låhpat sån.</p>
-    <p>jj</p>
-    <p>j</p>
-    <p>j j</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Guokta vuorrasap ålmmå Måske skåvlån</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2009</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>308</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_200309.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty SkapalenJårggålibme: Divte Media</p>
+<p>málestit,  jus  lij  boahttsubierggo  jali guolle de lij áhtje barggo jur vuossjat. De gåjt máhtáv oahppijt åhpadit gåktu boahttsubiergov málestit, tjajmmá sån.</p>
+<p>Buorre mahtudahka</p>
+<p>Åmon ja Urheiman li valjes máhtudagá ja  åhpadus  bargguj.  Goappátja  libá åvdep  rektora  Måske  skåvlån  ja  libá stuoráp ja unnep oahppijt åhpadam ienep gå 80 jage tjoahkkáj. Buorre máhtudahka le gal ajtu sunnun.-  Ælla  goassak  náv  skåvllidum</p>
+<p>åhpadiddje  Måske  skåvlån  læhkám, tjajmmá Urheim vájmulattjat, ja vuoset suv virggeguojmme Willy Åmo le lektor lasseåhpadusájn, sån le iesj adjunnkta duoddeåhpadusájn ja nubbe</p>
+<p>virggeguojmen Kristin Lindbachan le aj universitehtaåhpadus.  Åvdep  rektora mielas le ájnas ietjas ådåsmahttet. - Vierttip ietjama ådåsmahttet, ja dát lesierraláhkáj ájnas åhpadiddjijda, miejnni</p>
+<p>sån. - Dádjadam riekta dahkiv gå åhpadiddjen sjaddin. Vilá lågåv ja lev dutkambargov joarkkám ja iv goassak gerga. Ulmme le ham  mánájt  åhpadit.  Vierttip ådåsmahttet  ja  hiebadahttet  dan  ájggáj ja birrasij gånnå lip, javllá Urheim.</p>
+<p>Headhuntiduváj</p>
+<p>Åmo headhuntiduváj suohkanoajves iesj ja ittjij åvvånis virggáj åtså. -  Dutkambargoj  dálla  bargav.  Valla suttalussjiv oahppijt, javllá sån. Galggásebrudakfágan ja luonndofágan åhpadit.</p>
+<p>- Luonndofáhka le galla munji lagámus. Sihke  álmmukskåvlå  ja  alep  åhpadusá baktu lev oahppam humanistalasj oasse le vuodo divna åhpadibmáj. Biologalasj oasse oahppamprosessav ásat, javllá sån. Iesj  le  merrasábme  Gásluovtas  ja  suv dutkambargo  baktu  guoradaláj  jur tjielggimåhpadusáv. -  Juohkkahattjan  le  ietjas  tjielgadus.Juohkkahasj vuojnná ássjijt ietjas diles.</p>
+<p>Dálla  rievddat  ådå  árggabiejvijda</p>
+<p>jåhtelisvantsajn  Måsskåj  gássjelisvuohtan vuojne. - Vierttijiv oajven rádjat ja gæhttjalitdádjadit gåktu skåvllå le uddni. Vierttijiv</p>
+<p>aj  diehtet  jus  oahppe  muv vuosstájválldin. Buorre oahppobirás ja soapptsom  le  ájnas  vuodo  oahppamij. Ájnas  lij  munji  diehtet  oahppe  muv dánna sihtin adnet, javllá sån. Vuorrasap  ålmmåguoktá  virgge  dáv skåvllåjagev  vihpá  gåjt  dal  ájn,  valla Urheim ihkap guhkebuv joarkká. -  Ihkap  boahtte  skåvllåjage  joarkáv,måjudallá sån.</p>
+<p>Åmo ij ållu diede. -  Mij  vijdábut  dáhpáduvvá  iehtjáda mierredi.  Valla  akta  le  visses;  oahppá iesj nav guhkev gå åhpat, låhpat sån.</p>
+<p>jj</p>
+<p>j</p>
+<p>j j</p>
+</body></document>

@@ -1,43 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>83</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/ajluovta-mannagardde.96478.se.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tysfjord kommune : Ájluovta mánnájgárdde</p>
-    <p type="title">Ájluovta mánnájgárdde</p>
-    <p xml:lang="nob">11.12.2012</p>
-    <p xml:lang="nob">
-      <em type="bold">Drag barnehage </em>
-    </p>
-    <p xml:lang="nob">8270 DRAG</p>
-    <p xml:lang="nob">Tlf:</p>
-    <p xml:lang="nob">75 77 36 66</p>
-    <p>Fáksa:</p>
-    <p>Rahpamájge:</p>
-    <p>Mánnodagás bierjjedahkaj 07.30 - 16.30</p>
-    <p xml:lang="nob">Styrer:</p>
-    <p xml:lang="nob">Lill-Bente Langseth Nilsen</p>
-    <p>Ájluovta mánájgárde le suohkanæjgo mánájgárdde. Mánájgárden le akta åssudahka, sajijn 18 mánájda jagij 1-5.</p>
-    <p>Mánájgárdde le Ájluovta gassko, ja dåppet ij le vuojga guhkás skåvllåj, mæhttsáj, jávrráj, fiervváj, spábbatjiektjamsalljuj jalik rámbuvddaj. Mánájgárdde ålliduváj jagen 1991 ja le ådåájggásasj. Goahteguorra le smilltjá, ja moatteláhkáj dåhkki stuvssit. Gárde ålgusjbielen le miehttse, ja mánájgárdde birás le viek tjábbe.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>83</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/ajluovta-mannagardde.96478.se.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tysfjord kommune : Ájluovta mánnájgárdde</p>
+<p type="title">Ájluovta mánnájgárdde</p>
+<p xml:lang="nob">11.12.2012</p>
+<p xml:lang="nob"><em type="bold">Drag barnehage </em></p>
+<p xml:lang="nob">8270 DRAG</p>
+<p xml:lang="nob">Tlf:</p>
+<p xml:lang="nob">75 77 36 66</p>
+<p>Fáksa:</p>
+<p>Rahpamájge:</p>
+<p>Mánnodagás bierjjedahkaj 07.30 - 16.30</p>
+<p xml:lang="nob">Styrer:</p>
+<p xml:lang="nob">Lill-Bente Langseth Nilsen</p>
+<p>Ájluovta mánájgárde le suohkanæjgo mánájgárdde. Mánájgárden le akta åssudahka, sajijn 18 mánájda jagij 1-5.</p>
+<p>Mánájgárdde le Ájluovta gassko, ja dåppet ij le vuojga guhkás skåvllåj, mæhttsáj, jávrráj, fiervváj, spábbatjiektjamsalljuj jalik rámbuvddaj. Mánájgárdde ålliduváj jagen 1991 ja le ådåájggásasj. Goahteguorra le smilltjá, ja moatteláhkáj dåhkki stuvssit. Gárde ålgusjbielen le miehttse, ja mánájgárdde birás le viek tjábbe.</p>
+</body></document>

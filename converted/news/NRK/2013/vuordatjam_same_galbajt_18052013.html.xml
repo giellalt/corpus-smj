@@ -1,54 +1,16 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Guhtta jage vuordatjam sáme galbajt</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/>
-    </author>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2013</year>
-    <publChannel>
-      <publication>
-        <publisher>NRK Sápmi</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>200</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <origFileName>http://nrk.no/kanal/nrk_sapmi/samegillii/1.10953726</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Samegillii</p>
-    <p>
-      <em type="italic">Maŋimuš ođđasat sámegillii </em>
-    </p>
-    <p/>
-    <p type="title">Guhtta jage vuordatjam sáme galbajt</p>
-    <p>Miriam Paulsen ij lijkku gå li dåssju dárogielak galba Divtasvuonan.</p>
-    <p>Guhtta jage l gållåm dallutjis gå Divtasvuona suohkan oassálasstij sáme giellaháldadimguovlluj, valla bijllarahtij milta la dåssju suohkana namma mij la sámegiellaj ja mij vuoset boahtám la sáme suohkanij. Bájkenammagalba vilá vádnuni.</p>
-    <p>Guokta jage dás åvddål åtsådij sámedikkepolitihkkár Miriam Paulsen nammagalbajt sámegiellaj bijllarahtij milta ietjas sijddasuohkanin.</p>
-    <p>Sæmmi bále sáddij Divtasvuona suohkan nammaoajvvadusájt Stáhta bijllarahtedåjmadahkaj, valla dálátjij ælla galba sámegiellaj ihtám rahtij milta.</p>
-    <list>
-      <p type="listitem"><em type="italic">Lågå aj </em>: På tide her også </p>
-    </list>
-    <p type="title">Politihkkára mielas la dal muddo juoga dáhpáduvvá</p>
-    <p>
-      <em type="italic">– Ælváv badjelasj guokta jage la gållåm, ja vilá ælla bájkenammagalba sadjásisá. Munji vuojnnet dagu Stáhta rahtedåjmadagán li berustahtes guotto sáme galbajt åttjudit, javllá NSR:a sámedikkepolitihkkár Miriam Paulsen. </em>
-    </p>
-    <p>Marianne Eilertsen, gen åvdåsvásstádus li galbajda Stáhta rahtedåjmadagán jáhttá dal dille ietjájduvvá.</p>
-    <p>– Suohkana namma galbajn Divtasvuonan li dal sadjásisá, ja bierriv javllat gå ålles guovlluj gehtja, de la ållo dáhpáduvvam sáme galbaj hárráj, ja dat la de juoga masi tjalmostip. Mij válldep ássjijt maŋenagi, ja bájkenammagalba båhti dal sadjásisá gidá guovlluj.</p>
-    <p>Dát sámepolitihkkárav ávvudahttá.</p>
-    <p>
-      <em type="italic">– Mån la ávon gå sån jáhttá sáme galba dal sadjásisá båhti. Doajvov ålles suohkan dal galbbiduvvá, ij dåssju Ájluovtasuorre, javllá Miriam Paulsen. </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Guhtta jage vuordatjam sáme galbajt</title><genre code="news"/><author><person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/></author><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2013</year><publChannel><publication><publisher>NRK Sápmi</publisher></publication></publChannel><wordcount>200</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><origFileName>http://nrk.no/kanal/nrk_sapmi/samegillii/1.10953726</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Samegillii</p>
+<p><em type="italic">Maŋimuš ođđasat sámegillii </em></p>
+<p/>
+<p type="title">Guhtta jage vuordatjam sáme galbajt</p>
+<p>Miriam Paulsen ij lijkku gå li dåssju dárogielak galba Divtasvuonan.</p>
+<p>Guhtta jage l gållåm dallutjis gå Divtasvuona suohkan oassálasstij sáme giellaháldadimguovlluj, valla bijllarahtij milta la dåssju suohkana namma mij la sámegiellaj ja mij vuoset boahtám la sáme suohkanij. Bájkenammagalba vilá vádnuni.</p>
+<p>Guokta jage dás åvddål åtsådij sámedikkepolitihkkár Miriam Paulsen nammagalbajt sámegiellaj bijllarahtij milta ietjas sijddasuohkanin.</p>
+<p>Sæmmi bále sáddij Divtasvuona suohkan nammaoajvvadusájt Stáhta bijllarahtedåjmadahkaj, valla dálátjij ælla galba sámegiellaj ihtám rahtij milta.</p>
+<list><p type="listitem"><em type="italic">Lågå aj </em>: På tide her også </p>
+</list><p type="title">Politihkkára mielas la dal muddo juoga dáhpáduvvá</p>
+<p><em type="italic">– Ælváv badjelasj guokta jage la gållåm, ja vilá ælla bájkenammagalba sadjásisá. Munji vuojnnet dagu Stáhta rahtedåjmadagán li berustahtes guotto sáme galbajt åttjudit, javllá NSR:a sámedikkepolitihkkár Miriam Paulsen. </em></p>
+<p>Marianne Eilertsen, gen åvdåsvásstádus li galbajda Stáhta rahtedåjmadagán jáhttá dal dille ietjájduvvá.</p>
+<p>– Suohkana namma galbajn Divtasvuonan li dal sadjásisá, ja bierriv javllat gå ålles guovlluj gehtja, de la ållo dáhpáduvvam sáme galbaj hárráj, ja dat la de juoga masi tjalmostip. Mij válldep ássjijt maŋenagi, ja bájkenammagalba båhti dal sadjásisá gidá guovlluj.</p>
+<p>Dát sámepolitihkkárav ávvudahttá.</p>
+<p><em type="italic">– Mån la ávon gå sån jáhttá sáme galba dal sadjásisá båhti. Doajvov ålles suohkan dal galbbiduvvá, ij dåssju Ájluovtasuorre, javllá Miriam Paulsen. </em></p>
+</body></document>

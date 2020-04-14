@@ -1,265 +1,180 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Julevsámegiella/nordsamisk</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="" lastname="Sametinget opplæringsavdelingen" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2001</year>
-    <wordcount>2444</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>LULESAMISK_1___TEKSTHEFTE.doc</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate  1.14 ; file-specific xsl  $Revision: 1.1 $; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Julevsámegiella/Lulesamisk</p>
-    <p xml:lang="nob">VUODOSKÅVLÅ EKSÁBMA JAGEN 2000</p>
-    <p xml:lang="nob">SÁMEGIELLA VUOSTASJGIELLAN</p>
-    <p xml:lang="nob">TÆKSTATJOAHKKE</p>
-    <p>NUORA</p>
-    <p xml:lang="nob">Bilde nr 01</p>
-    <p xml:lang="nob">Læringssenteret</p>
-    <p xml:lang="nob">
-      <em type="bold">SISADNO </em>
-    </p>
-    <p>Gieresvuohta s 3</p>
-    <p>Dikta s 4-5</p>
-    <p>
-      <em type="bold">Asstoájggevædtsaga s 6-7 </em>
-    </p>
-    <p>Irggádallam s 8-9</p>
-    <p>Mańemus suohtastallam- friddja ulmutjin s 10</p>
-    <p>Lagásjvuohta s 11</p>
-    <p>Nuora æjvvali, Ankarede s 12</p>
-    <p>Fisj - man suohtas s 13-14</p>
-    <p>Spánska nuora guossástalli Finmarkov s 15</p>
-    <p>Gehtja gåk Ánde gárvot s 16 <em type="bold">Gieresvuohta </em></p>
-    <p>Gieresvuohta l dåbddo mijá sinna. Ienemusát ájádallap dat gullu dåssju nuppij ulmutjij gáktuj, duola dagu gieresvuohta æjgádij ja mánáj gaskan, irgge ja moarse gaskan, oarbbenij gaskan, valla gieresvuohta l aj ulmutjij ja juhtusij gaskan. Gieresvuohta bihkusuvvá duola dagu dagoj baktu, majt nubbe nuppe åvdås dahkap, gå nuppijt viehkedip ja ándagissaj luojttep. Gieresvuohta boahtá vuojnnusij gå nubbe nuppev juojggap, diktaj, novellaj, romanaj ja ietjá tevstaj baktu. Álu jáhkkep gieresvuodav dåssju vuorbbe ja ávvo tjuovvu, valla gieresvuodav tjuovvu aj gávkasvuohta ja surggo.</p>
-    <p>Sáme åhpadiddje ja romantjálle, Anders Larsen, giehttu náv gieresvuoda birra romanan <span type="quote">”Beaiveálgu”</span>: Jus ávvo ij gieresvuodav tjuovo, de tjuovvu surggo. Jus iellem ij gieresvuodav tjuovo, de tjuovvu jábmem.</p>
-    <p>Ådå Testamentan la dála náv gieresvuoda birra tjáledum 1. Kor. 13, 4-7 ja 13:</p>
-    <p>Gieresvuohta le gierddis ja buorre. Gieresvuohta ij le udnodibme, ij ga ietjas rámpo, ij ga stuorástalá. Ij le gårrat, ij ga ietjastalle, ij le suhtisj, ij ga bahájt vuorkuda. Ij vierrevuodas ávvudalá, sádnesvuodas galla. Gieresvuohta gájkka guoddá, gájkka jáhkká, gájkka doajvvu ja gájkka gierddá.</p>
-    <p>De bissu dá gålmmå: Jáhkko, doajvvo ja gieresvuohta, ja dajs gájkin stuorámus le gieresvuohta.</p>
-    <p xml:lang="nob">Bilde nr 12</p>
-    <p>
-      <em type="bold">Divttat </em>
-    </p>
-    <p>Varraváre</p>
-    <p>vijddáni</p>
-    <p>rubmahav tjadádi</p>
-    <p>iellemvadde</p>
-    <p>Ábmut soabttsu suv lunna</p>
-    <p>ja ij máhte ietján</p>
-    <p>gå lijkkut sunji</p>
-    <p>ja diedá majt dagáj?</p>
-    <p>- giedjek-sájov sáddjij</p>
-    <p xml:lang="nob">vinndeginis</p>
-    <p>mij luluj sjaddat</p>
-    <p>dasik máhttsá</p>
-    <p>garra ednamijs</p>
-    <p xml:lang="nob">(Girjes <em type="italic">amuk …Den fremmede </em>, Th. Blaasværs forlag, tjálle: Stig Gælok) </p>
-    <p>gieresvuohta</p>
-    <p>ij boade åtså</p>
-    <p>ájnat juhtsá</p>
-    <p>gå vuolggá bádan</p>
-    <p xml:lang="nob">vatte vil akti</p>
-    <p>båttåtjav iellemistat</p>
-    <p>dåssju dåbdo diehti</p>
-    <p>iehtseduvvam</p>
-    <p>soabmásis gut la lahka</p>
-    <p>(Girjes <em type="italic">gålmåsuorak </em>, bágo o.s, tjálle: Kåre Tjihkkom) </p>
-    <p>dujna gænna l gieresvuohta</p>
-    <p>giese muv bajás</p>
-    <p>dájs juovajs</p>
-    <p>guláv lieggasav</p>
-    <p>liegga giedav</p>
-    <p>muv ratte vuosstij</p>
-    <p>mån æhtsáv duv</p>
-    <p>(Girjes <em type="italic">O, Oarjjevuodna </em>. Jårgalæddji Å.s, tjálle: Stig Gælok) </p>
-    <p>Gå iehket germudahtjá, ja gájka oaddádi</p>
-    <p>de dahpav mån goadenim uvsav.</p>
-    <p>Ja tsitsátja, de nåhkådi guhtik biesenis,</p>
-    <p>De tjańa dån goahtásit adjáj.</p>
-    <p>Val mańńela iv diede gåk ájgev gållådit,</p>
-    <p>Jut guhka ijájt åhtsålav gieres rádnatjam.</p>
-    <p>De ij la mujna oaddátjit miella.</p>
-    <p>Dál tjuottjo åvdån spiedjila, vuoptajt rájddamin</p>
-    <p>-nåv stuorre ja alvos la duv tjalmme.</p>
-    <p>De svahtjá ma duv vájmmo. Majt åhtsål vájmmo duv?</p>
-    <p>-Dav i ájn dån vásstedit máhte!</p>
-    <p>Jut aktak ij la oadtjum duv lahka boahtet ájn.</p>
-    <p>Ja ståvlå badjel gahtsahi biktasattja duv.</p>
-    <p>Duv vuolppo, duv guobátja, duv gierdde.</p>
-    <p>Juo l germudimen buoldan, ja tjaktja l boahtemin,</p>
-    <p>Ja russna l lávvamin giettij miehtáj.</p>
-    <p>Gåjt miehttsebálggáj nanna li moattes tjádjánam.</p>
-    <p>Ja nástája tjuovggagåhti iján.</p>
-    <p>Na jus i máhte iehkedij boahtet rádnatjam,</p>
-    <p>De diededaste muv goassa dån boadá vat.</p>
-    <p>Mån iv la duv vuojnnám juo ådno.</p>
-    <p>(Tækste ja tjuojalvis: Arnulf Øverland.</p>
-    <p>Sábmáj: Kurt Tore Andersen/Kåre Tjihkkom.</p>
-    <p>Girjes <em type="italic">Hańńá boade gáddáj </em>. Th.Blaasværs forlag.) </p>
-    <p>
-      <em type="bold">Asstoájggevædtsaga </em>
-    </p>
-    <p xml:lang="nob">Bilde nr. 13 Bilde nr. 14</p>
-    <p xml:lang="nob">Bilde nr. 15</p>
-    <p xml:lang="nob">Bilde nr. 16 Bilde nr. 17</p>
-    <p xml:lang="nob">
-      <em type="bold">Skateboard </em>
-    </p>
-    <p>Krattfinn Snowboard &amp; Skateklubb ásadij huj buorre álgov dán jagásj skateájggáj, gå tjadádin <span type="quote" xml:lang="nob">"Season Kick Off"</span> Leavnjan.Skateboard la sjaddam miellagiddis valástallam Finnmárko nuoraj gaskan. Dat duodastuváj gå Krattfinn Snowboard &amp; Skateklubban lij <span type="quote" xml:lang="nob">"Season Kick Off"</span> Leavnjan áttjak. Vargga 50 nuora Leavnjas, Kárášogas ja Áltás lidjin tjoahken gilpustallamijda ja skateboardståhkamijda.</p>
-    <p>
-      <em type="bold">Nuoajda ja nuorajn </em>
-    </p>
-    <p>Gå gidájduvvá ja muohta gáhtu, de moattes snowboardav skateboardajn målssu. Moattes næjtsojs galla snowboardav gæhttjali, valla næjtso valástallamlanján lidjin ållu ietjá måhkij dasi boahtám. - Boahtám lip diedon báhtjajt gehtjatjit, skutjerdi muhtem <span type="quote" xml:lang="nob">"fjortisa"</span>. - Næjtso farra rollerbladesij sjiejsiji javlli, ja e åvvånis gehtjasta ietjá sadjáj gå báhtjajda gå gæhttjali másjkugit tjællot. Diehti vuojn næjtso sidjij gæhttji.</p>
-    <p>
-      <em type="bold">Váralasj valástallam </em>
-    </p>
-    <p>Nikolai Fiskergårdan ja Sturla Morselin ælla makkirak buorre tjielgadusá gatjálvissaj manen sij skateboardaj li nåv mielastuvvam. Ihkap dajna gå næjtso e diedá åvvånis duosta, gæhttjal Sturla tjielggit. -Le suohtas. -Le váralasj valástallam. Badjáni sierralágásj dåbdo gå nagá jamáhttegoadá ådå triksajt. Ij la val agev rubmahij nav buorre. Garra skating galla dåbddu rubmahij. Vahágijs galla ij rat besa. Svijlla ruvámusát vákkájt ja juolggeláhtasijt dæjvvá, subtsas Sturla.</p>
-    <p>Guokta jánndura tjelludalli, triksiji ja gilpustalli báhtja</p>
-    <p>
-      <em type="bold">( </em>
-      <em type="bold">Sagat nr. 52/ 2000 reportassja mij la jårggåluvvam, oaneduvvam ja hiebaduvvam) </em>
-    </p>
-    <p>
-      <em type="bold">Báhkotjielggidusá: </em>
-    </p>
-    <p>Tjiektjamsyhkal = juongalágásj juvllafiello juolgij vuolen gånnå l stivrra</p>
-    <p xml:lang="nob">Bilde nr. 18</p>
-    <p>Per Anders la Kárášjogas ierit ja moaddi l Leavnnjan læhkám ståhkamin</p>
-    <p>
-      <em type="bold">I </em>
-      <em type="bold">rggádallam ja suoggńu </em>
-    </p>
-    <p>
-      <em type="bold">Irggádallam </em>
-    </p>
-    <p>Irgádallam lij mássjat, mælggadav mássjat </p>
-    <p>Dålusj nuorajda ij lim rat álgge moarsev jali irggev gávnnat. Gássjel lij gå ettjin oattjo æjvvalit nav álu gå dálla. Valla vissa vuohke lij gåktu næjttso ja báhttja galgajda dåmadit. Báhttja galgaj irggeságajt jådedit ja vuosedit sån næjtsov berus ja de dåmadit nav vaj næjttso sunji lijkku. Nanos gieresvuohta sujna galgaj. Næjttso vat galgaj sælldát tjævlástallat ja báhtjas gájddadit, vargga tjiehkádallat vaj ij la ietjas báhttjaj nággimin. Tjiehkádallam lij goanssta næjttsuj vuojnnet jus báhttja suv åhtså, jus duodalasj berustibme l.</p>
-    <p>Náv mujttal soames irggesassá: -Mujtáv akti gå lijma guokta báhtja låvdagoaden. Tjaktja lij. Ælov lijma gæhttjamin. Danna lahkusin låvdagoade lijga guokta næjtso, nuorra fávros næjtso. Ja måj dal diedon plánav juo lijma dahkam. Gå sjevnjut ja ulmutja oaddádahtji, de galgajma dåhku næjtsoj lusi njáhkat. Næjtso guovtes goabbák låvdagoaden ådijga - iehtjáda dal aj lidjin dåppe, diedon. Muv moarssesassá lij vuoras iednes soames iehkeda báhtsám. Biejven lidjiv gávnnam låvdagoaden gåggu næjttso ådij. Lidjiv aj gæhttjam gåggu dåhkki loavddaga vuolev suogńalit vaj luluv njuolgga ja jasska suv lusi boahtet.</p>
-    <p>Vájmmo diedon svatjáj nuorravuoda vuorddagijs ja hálojs gå de vijmak idja sjattaj ja iehtjam goades ålgus njáhkaliv. Jåvsådiv låvdagoahtáj, dan bælláj gåggu suv oademsadje lij, ja de låvdahielmev várrogisát gajkkogåhtiv. Buoragit manáj ja sisi bessiv! Várrogisát gåbttjåsav bajediv ja sujsta rattev njávkkagåhtiv, vaj smaret. Iesj lidjin suv hárddobielen. Vuoj man vuorbbe gå suv lidna lijkev gulliv! Vijmak gåjt de viehka garrasit tjábrrijiv, ja hæhkkat de viessuj. Vuoneváhkkosassá muv lusi jårgijdij, doahppij soappev ja oajvváj muv tjaskij: - Ja makkár bahálasj dáppe sjievnnjedijt njáhká! Bednaga tsiellagåhtin, ja månnå de uksarájge ålgus. Majdis gå låvdahælmmáj snårrujiv, ja áhkkus de ájn moaddi háhppidij muv dåsskåt åvddål gå iehtjama låvdagoahtáj bádan bessiv. Idedis lij mujna gállo ållu sáhppen. Ja dajnas de ittjiv ulmutjij vuojnnusij mannat.</p>
-    <p>Ja jus irggádallamis duohtavuohta sjattaj, de ij lim ietján gå suoggńuj vuolgget.</p>
-    <p xml:lang="nob">Bilde nr. 07</p>
-    <p>
-      <em type="bold">Suoggńu </em>
-    </p>
-    <p>Åvddål gå suoggńuj vuolggin, de vierttij báhttja oadtjot suoggńoloabev niejda æjgádijs. Jus dav oattjoj, de hæhttuj lagámusájt tjoahkkistit ja vuolgget. Vuojánav hæhttujin tjábbát hiervvit. Gå suoggńofárro næjtso sijddaj bådij ja akti goade birra miehtebiejvev vuojij, de galgaj suoggńooajvve goahtáj tjágńat ja ássjev åvdedit. Jus næjttsuj lij miella báhtjajn válldut, de galgaj mannat irgge hierge lusi ja válmosmuorav gálggat ja sihtat suoggńofáro goahtáj. Suoggńooajvve ságav jådedij. Åvddål gå suoggńoságajt åvdedin, de suoggńofárro káffij ja biebmojt divnajda fállaj.</p>
-    <p>Vattáldakgijssá suoggńuj gulluj. Báhtjan galgaj vattáldakgijssá næjttsuj. Dan sinna galggin duola dagu sillbaavve ja suormmasa ja ietjá herva vil. Gå gærggin vattáldagájt gehtjadimes, de gatjádij báhtja ieddne makta næjttso lij vattáldagájda dudálasj. Jus gájkka manáj buoragit, de gájka vuolggin báhpa/hærrá lusi livsigijt tjálátjit. Valla ejga oattjo válldut åvddål gå gålmmå vahko lidjin gållåm.</p>
-    <p>Såjtij aj næjttso ittjij lágeda dav báhtjav gut bådij suoggńudittjat, ja dalloj diedon ittjij váldas mige sjatta. Dalloj de báhttja oattjoj næjtsos gálbenáhkev.</p>
-    <p>(S 1/93 - ” <em type="italic">Irggádallam lej ållu ájnas dålen </em>”. Min Áigi-” <em type="italic">Irgádallam </em><em type="italic">lij mássjat, mælggadav mássjat </em>.” Dá reprotasja li aktig tjanádum ja oaneduvvam ja hiebaduvvam). </p>
-    <p xml:lang="nob">Bilde nr. 12</p>
-    <p>
-      <em type="bold"><span type="quote">«Mańemus suohtastallam- friddja ulmutjin»</span> </em>
-    </p>
-    <p>Dáhpe bådij Vuonarijkkaj birrusin 100 jage dás åvddåla. Ållu álgos lij dát suohtastallam dåssju ålmmåjda gudi lidjin válldutjit. 40 jage dán mańńela, de næjtso aj dákkir suohtastallamijt dahkagåhtin. Vuostasj ájge lidjin dá suohtastallama dåssju válldárij lagámusáj gaskan. Esski de dájt mańemus 20-25 jage li dá álmmugij vuojnnusij boahtám.</p>
-    <p>Ole Marius Myrland tjállá ietjas oajvvefáhkatjállagin <span type="quote" xml:lang="nob">”Vennskap og ydmykelse”</span> dáj suohtastallamij birra ja javllá dá suohtastallama li dagádum válldárij rádnajs nav vaj ietja æbá majdik dassta diede. Suohtastallama álu dála náv álggi: Rádna doalvvu irggev jali moarsev juosik, ja de gárvodi suv ietjá biktasijda, ja de hæhttu bihko, ulmutjij tjalmij åvdån juojddá dahkat. Iehkedis la de muddo mańemus jugálvissaj, mij la ájnas oasse dákkir suohtastallamin.</p>
-    <p>(Coop 1/2000, jårggåluvvam, oaneduvvam ja hiebaduvvam)</p>
-    <p>Sáme li aj dákkir suohtastallamij álggám. Dá mańemus suohtastallama åvddål válda galggi mak mujtton årrot man suohtas lij viessot åvddål gå vállduji.</p>
-    <p>Ávijssa <span type="quote">”Ságat”</span> nr. 85/2000 giehttu gåktu Sølvi Persenij manáj, gå rádna lidjin gávnadam sunji suohttasav suv mańemus biejvijda friddja ulmutjin.</p>
-    <p>(Ságat 85/2000 - oaneduvvam ja hiebaduvvam)</p>
-    <p>
-      <em type="bold">Báhkotjielggidusá: </em>
-    </p>
-    <p>Friddja ulmusj=ulmusj gut ij la válldum</p>
-    <p>Mańemus suohtastallam- friddja ulmutjin=mańemus suohtastallama åvddål válda</p>
-    <p xml:lang="nob">Bilde nr. 20</p>
-    <p>Dála l Sølvi Persen giesseguovddela tjuojggen gárvodum. Sujna li juvllasabega, jælmma ja rivggoj vielggis válldárbiktasa. Deanusálddin la tjuojggamin ja dahká duov dáv majt suv rádna li sunji mierredam. Válldár iesj javllá sunji lij riek hávsske rádnajis siegen.</p>
-    <p>
-      <em type="bold">Lagásjvuohta </em>
-    </p>
-    <p xml:lang="nob">Bilde nr. 21</p>
-    <p xml:lang="nob">Bilde nr. 22 Bilde nr. 23</p>
-    <p xml:lang="nob">Bilde nr. 11 Bilde nr. 24NUORA ÆJVVALI</p>
-    <p>Sáme nuorajn la agev årrum miella æjvvalit duola dagu márnánijn, girkkoájllegijt jna. Dálásj ájge li ihtám ietjá æjvvalimsaje duola dagu kultur- musihkka- ja valástallamásadusá.</p>
-    <p>
-      <em type="bold">Giessemujto Ankaredes </em>
-    </p>
-    <p>Tjuovggis, bivvalis giesseijá. Amás ulmutjij æjvvalit, sijájn oahpástuvvat, suohtastallat - ja gå ájn de háhppit girkkon vádtset.</p>
-    <p>Ieme dábe milta li Ankaredej tjåhkanam ulmutja moattet buolvas, stuoraga ja unnagattja. Mihttsamárájge ja tjavtjajt aj li dáppe girkkobase. Tjåhkanime hiebaduvvi ienemusát mihttsamárajda. Dalloj vuojn nav ållusij hiehpá dåhku mannat.</p>
-    <p>
-      <em type="bold">Ednak vuojnnet - ednak gullat </em>
-    </p>
-    <p>Dájda márnánijda ålos nuorajs tjåhkani. Bierjjedagá ja lávvodagá li ávvudallama. Nuora tjåhkani ávvudallamijda ja aj låvdagådijn tjåhkudalátjit. Giesseijá ruvva vássi ja dajnas de ij dåhkki sujbbot, valla ållu ietjáláhkáj doajmmat. Ij diedon dåhkki dåssju suohtastallat gå dá márnána li ájgij tjadá girkkoájllegin årrum. Dåppe de viertti girkkomæsson aj mannat. Ulmutja válldudi, mánájt gástadi, ja dåppe l aj girkkogárdde. Sådnåbiejve, mæsso mańńela, de li sjuohppima ja ietjá dáhpádusá. Ja esski sådnåbiejve iehkeda de suohtastalle ållessjattuga ja máná aktan båhtin.</p>
-    <p>
-      <em type="bold">Ålos iesj guhtik guovlos </em>
-    </p>
-    <p>Ankarede l Jämtlándan, Svierigin. Vuona bielen la vas Røyrvik Trøndelagan lagámus bájkke. Dájt mańemus jagijt li sága dáj márnánij ja dáhpádusáj birra gullum nuortas aj, ja nav de ålos dåbbelijs aj dåhku vuolggi.</p>
-    <p>(Š nr. 4/1994 reportassja l oaneduvvam ja hiebaduvvam)</p>
-    <p xml:lang="nob">Bilde nr. 25</p>
-    <p xml:lang="nob">Bilde nr. 26</p>
-    <p>
-      <em type="bold">Fissj man suohtas! </em>
-    </p>
-    <p>Dijmásj tjavtja tjåhkanin 16 nuora Deanus lånudallamprosjevtav dagátjit. Prosjekta vuorbástuváj, ja snjuktjamáno båhti 14 nuora Detnuj. Aktan de gávtsebæjvvásasj programmav tjadádi. Bårggemáno vuostasj biejve vuolggin Deanus 13 nuora ja guokta jådediddje Liguria guovlluj Nuortta-Italian. Lågev biejve dåppe lidjin.</p>
-    <p>Mano duogásj lij Italia nuoraj manno Detnuj gånnå bessin åtsådallat dálvev Sáme ednamin, aj idjastallamav duoddarin.</p>
-    <p>Mańńela gå sij lidjin dáppe mannam, de gárvvidatjájma mij sijá guossáj vuolgátjit. Lijma sjiehtadam galgajma årrot sæmmi sajen gå sij, ja dajna de lidjin lájggim soames viesov bájken man namma l Noli. Viesso lij ållu sierralágásj, 1200-jagijn tsieggidum, valla mańńela diedon divodum.</p>
-    <p>Prosjevta oajvveulmme lij guolástus, ja dajna de oattjojma ienebuv Italia guollebivddemvuogij birra oahppat. Lijma fáron gæhttjamin gå guollára lidjin nuohttimin. Mij vas giehtojma Deanu luossabivdo birra.</p>
-    <p>Dálven gå italiaga dáppe mannin, de bessin mijá siegen duoddarij, ja mij de sijá siegen besajma mæhttsáj. Miehtsen váttsedijn bådijma soames bájkkáj gånnå vijnav dahki. Danna lij miján båddå, ja oattjojma májstatjit moattelágásj juhkusijt.</p>
-    <p>Gå váttsatjijma smáv stádatjijt dåppe gæhttjamin, de bivddiduvájma mállásijda báhkojådediddje lusi. Dåppe mijáv moattelágásj pizzaj ja focacciaj guossodin, ja juhkusin diedon vijnav oattjojma. Dan mańńela de báhkojådediddjev sáme <span type="quote">”lunchaj”</span> gåhtjojma. Guossodijma suv gåjkkebiergujn ja suovas- ja spihkkaluosajn, majt lijma fáron válldám.</p>
-    <p>Gå dákkár oarjjelij guovlojn la mannamin, de dasi aj gullu fiervvágátten vællahit, ja vuojadit aj. Vargga juohkka biejve besajma fiervvágáttáj biejvev niektitjit. Ij dal dåhkki dåssju veludallat. Dan diehti lijma sjuohpanijt fáron válldám, ja de sjuohpanastijma danna. Ålos galla imájdallin mijá suohtas dåjmav.</p>
-    <p>Mańemus iehkedij lij Italiak juogos dahkam hiejttemmállásijt ålggon. Mij ejma diede majdik ietján gå ålggon lip båråtjit. Mállása lidjin dagádum dagu gasskaájggegávdas, ja de lidjin gárvvunam dagu dallusj ulmutja. Dalloj de sáńardijma gå ejma la gáptijt fáron válldám.</p>
-    <p>Vájvve lij sijddaj vuolgget gå ejma diede goassa vat æjvvalip. Valla doajvvomin lip ij nav guhkes ájgge dasi sjatta.</p>
-    <p>(Š- nr.15/.2000 reportassja l oaneduvvam ja hiebaduvvam)</p>
-    <p xml:lang="nob">Bilde nr. 27</p>
-    <p xml:lang="nob">Bilde nr. 28</p>
-    <p>Bildetekst 27: Diskotehkka mij ij la jur dakkár gå sijdan.</p>
-    <p>Bildetekst 28: Ålles juogos, Genova stádan váttsatjime</p>
-    <p>
-      <em type="bold">Spanska </em>
-      <em type="bold">nuora guossástalli Finnmárkov </em>
-    </p>
-    <p>Dijmmá lidjin 11 nuora Porsáńgus Madrijdan. Dåppe lidjin spannska ja rumenak nuoraj siegen guokta vahko. Dåppe lånudallin åtsådallamijt ja rádnástallin. Vásse vahko de oadtjun porsáńgulattja guossijt Spanias.</p>
-    <p>
-      <em type="bold">Moadda åtsådallama </em>
-    </p>
-    <p>Vuostasj majt spannska nuora Finnmarkon bessin åtsådallat lej boahtet bájkálasj guollára lusi, gånnå gåjkkeguolev oadtjun bårråt. Dan mańńela lidjin Vasisin idjadime, ja dåppe oadtjun vuojnnet gasskaidjabiejvev man tjábbe dat la. Bessin aj Rávttošvuome luonndosuodjalamguovlluj gånnå oahpestiddje lij fáron, ja mannulahkaj Finnmárkov birra. Spannska nuora oadtjun oasev sámekultuvras åtsådallat gå låvdagoaden oadtjun idjadit. Sámekultuvras oadtjun aj oasev gå lidjin Kárášjogan Sápmi vuosádusán. Guovdageainnun lidjin sibllasmirjo lunna man namma l Juhls sølvsmie, gånnå aj sáme dávverijt vuosádalli. Áltán lidjin dávvervuorkán gånnå li dåbdos báktegåvå. Åvddål gå mannulahka Finnmárkov birra någåj manádin ájn de Máhkarávju Nordkappan, væráldav birra dåbdos bájke.</p>
-    <p>
-      <em type="bold">Tjuovggis ijá </em>
-    </p>
-    <p>Spanskajda lidjin tjuovggis ijá gássjelabmusa. - Dánna l gájkka nav tjábbe, tjáppa luonndo. Gájkka l ållu buorre, javllá spannska næjttso Maria.</p>
-    <p>
-      <em type="bold">Spannskabiejvve </em>
-    </p>
-    <p>Åvddål gå spannskalattja sijddaj vuolggin de spannskabiejvev dahkin, gånnå spannska biebmoj guossodin ja miellahávsskudagáv rádnajdisá dahkin.</p>
-    <p>Boahtte jáhkáj la pládna Romanian æjvvalit.</p>
-    <p xml:lang="nob">(Sagat nr. 87/2000)</p>
-    <p xml:lang="nob">Bilde nr. 29</p>
-    <p>EU Youth for Europe lånådallam prográmma aktijvuodan li spannska nuora læhkám badjel vahkov Kárášjogån. Uddni manni vas ruoptot ietjasa sijddabájkijda Sevillaj Spaniaj. - Mij lip duodaj loapptám ájgev huj buoragit dáppen Kárášjogån, javlli sij.</p>
-    <p>
-      <em type="bold"><span type="quote">“Gehtja gåk Ánde gárvot”</span> </em>
-    </p>
-    <p>Binná rudájs Sáme ednamin dahká mijáv juohkkaláhkáj kreatijvvan. Nåv gåk diehtebihtit ælla miján rat oahppamnævo. Ja ij gus de hieba ávkástallat ávnasijt moadda láhkáj, nåv gåk Ande Somby <span type="quote" xml:lang="nob">”pin-up”</span> gåvå?! Dánna jårggålip dåssjo gåvåjt nuppe guovlluj. Dassta ihtá mánnágirjje <span type="quote">”Gehtja gåk Ánde gárvot”</span>. </p>
-    <p>
-      <em type="bold">Sáme ednama: Juks-áhkká </em>
-    </p>
-    <p>Girjje álggá dála náv: ”Ánde la tjuodtjomin sisbåvsåj mańńela gå nuoladij. Sån sihta dálla gárvodit, ja ij la dal dat nåv gássjel. Gehtja gåk Ánde tsåggo båvsåjt. Ja sån náhká skirtov aj tsåggåt.</p>
-    <p>-Valla Ánde! Ale gahperav tsåkkå åvdål gå skirtov la tsåggåm! </p>
-    <p>Vuostak avtav sasev, ja de nuppev sasev. Oajvev galga tsåggåt dan rájggáj mij la sasij gaskan. Dálvváj gå tjoassku, de ájggu Ánde muoddáv gárvvunit. Gehtja ja åhpa gåk Ánde gárvot”. </p>
-    <p>
-      <em type="bold">Páhperdoahkko Ánde </em>
-    </p>
-    <p>Girje namma? <em type="bold">“ </em>Gehtja gåk Ánde gárvot <em type="bold">”. </em>Ánde sajttaj aj dåbdos doktorjurissta ja åvddågåvvå ållo sáme mánájda. Vuordáv ij gus aktak páhperdoahkov Ándis dagá, váj iehtja bessi gárvodit ja nuoladit Ándiv, diedon vuostak gatjálvis makkir dálkke l ålggon… </p>
-    <p>
-      <em type="bold">Dánna máhtá aj biedjat </em>
-    </p>
-    <p>Ánde guhka vuoptaj, Ánde oanes vuoptaj, Ánde afrobárgáldagáj j.n.v. Máhtá aj iesj biesskedit biktasijt Ándij, jus sidá muhtem <span type="quote">“ietjálágásj”</span> stijlav Ándij. </p>
-    <p>
-      <em type="bold">Ale suorggana.. </em>
-    </p>
-    <p>Jus mánná hådjan Ándij jali jus li ietjá åvddågåvå gå láhkatjiehppe, de ale suorggana. Miján la ham ålles bállotjiektjamjuogos Guovdageainnon .. Dav juoga Sámedikke åhpadusåssudahkaj.</p>
-    <p>Min Áigi nr. 7/2001</p>
-    <p xml:lang="nob">Bilde nr. 30</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Julevsámegiella/nordsamisk</title><genre code="facta"/><author><person firstname="" lastname="Sametinget opplæringsavdelingen" sex="unknown" born="" nationality=""/></author><year>2001</year><wordcount>2444</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>LULESAMISK_1___TEKSTHEFTE.doc</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate  1.14 ; file-specific xsl  $Revision: 1.1 $; common.xsl  $Revision: 154948 $; </version></header><body><p>Julevsámegiella/Lulesamisk</p>
+<p xml:lang="nob">VUODOSKÅVLÅ EKSÁBMA JAGEN 2000</p>
+<p xml:lang="nob">SÁMEGIELLA VUOSTASJGIELLAN</p>
+<p xml:lang="nob">TÆKSTATJOAHKKE</p>
+<p>NUORA</p>
+<p xml:lang="nob">Bilde nr 01</p>
+<p xml:lang="nob">Læringssenteret</p>
+<p xml:lang="nob"><em type="bold">SISADNO </em></p>
+<p>Gieresvuohta s 3</p>
+<p>Dikta s 4-5</p>
+<p><em type="bold">Asstoájggevædtsaga s 6-7 </em></p>
+<p>Irggádallam s 8-9</p>
+<p>Mańemus suohtastallam- friddja ulmutjin s 10</p>
+<p>Lagásjvuohta s 11</p>
+<p>Nuora æjvvali, Ankarede s 12</p>
+<p>Fisj - man suohtas s 13-14</p>
+<p>Spánska nuora guossástalli Finmarkov s 15</p>
+<p>Gehtja gåk Ánde gárvot s 16 <em type="bold">Gieresvuohta </em></p>
+<p>Gieresvuohta l dåbddo mijá sinna. Ienemusát ájádallap dat gullu dåssju nuppij ulmutjij gáktuj, duola dagu gieresvuohta æjgádij ja mánáj gaskan, irgge ja moarse gaskan, oarbbenij gaskan, valla gieresvuohta l aj ulmutjij ja juhtusij gaskan. Gieresvuohta bihkusuvvá duola dagu dagoj baktu, majt nubbe nuppe åvdås dahkap, gå nuppijt viehkedip ja ándagissaj luojttep. Gieresvuohta boahtá vuojnnusij gå nubbe nuppev juojggap, diktaj, novellaj, romanaj ja ietjá tevstaj baktu. Álu jáhkkep gieresvuodav dåssju vuorbbe ja ávvo tjuovvu, valla gieresvuodav tjuovvu aj gávkasvuohta ja surggo.</p>
+<p>Sáme åhpadiddje ja romantjálle, Anders Larsen, giehttu náv gieresvuoda birra romanan <span type="quote">”Beaiveálgu”</span>: Jus ávvo ij gieresvuodav tjuovo, de tjuovvu surggo. Jus iellem ij gieresvuodav tjuovo, de tjuovvu jábmem.</p>
+<p>Ådå Testamentan la dála náv gieresvuoda birra tjáledum 1. Kor. 13, 4-7 ja 13:</p>
+<p>Gieresvuohta le gierddis ja buorre. Gieresvuohta ij le udnodibme, ij ga ietjas rámpo, ij ga stuorástalá. Ij le gårrat, ij ga ietjastalle, ij le suhtisj, ij ga bahájt vuorkuda. Ij vierrevuodas ávvudalá, sádnesvuodas galla. Gieresvuohta gájkka guoddá, gájkka jáhkká, gájkka doajvvu ja gájkka gierddá.</p>
+<p>De bissu dá gålmmå: Jáhkko, doajvvo ja gieresvuohta, ja dajs gájkin stuorámus le gieresvuohta.</p>
+<p xml:lang="nob">Bilde nr 12</p>
+<p><em type="bold">Divttat </em></p>
+<p>Varraváre</p>
+<p>vijddáni</p>
+<p>rubmahav tjadádi</p>
+<p>iellemvadde</p>
+<p>Ábmut soabttsu suv lunna</p>
+<p>ja ij máhte ietján</p>
+<p>gå lijkkut sunji</p>
+<p>ja diedá majt dagáj?</p>
+<p>- giedjek-sájov sáddjij</p>
+<p xml:lang="nob">vinndeginis</p>
+<p>mij luluj sjaddat</p>
+<p>dasik máhttsá</p>
+<p>garra ednamijs</p>
+<p xml:lang="nob">(Girjes <em type="italic">amuk …Den fremmede </em>, Th. Blaasværs forlag, tjálle: Stig Gælok) </p>
+<p>gieresvuohta</p>
+<p>ij boade åtså</p>
+<p>ájnat juhtsá</p>
+<p>gå vuolggá bádan</p>
+<p xml:lang="nob">vatte vil akti</p>
+<p>båttåtjav iellemistat</p>
+<p>dåssju dåbdo diehti</p>
+<p>iehtseduvvam</p>
+<p>soabmásis gut la lahka</p>
+<p>(Girjes <em type="italic">gålmåsuorak </em>, bágo o.s, tjálle: Kåre Tjihkkom) </p>
+<p>dujna gænna l gieresvuohta</p>
+<p>giese muv bajás</p>
+<p>dájs juovajs</p>
+<p>guláv lieggasav</p>
+<p>liegga giedav</p>
+<p>muv ratte vuosstij</p>
+<p>mån æhtsáv duv</p>
+<p>(Girjes <em type="italic">O, Oarjjevuodna </em>. Jårgalæddji Å.s, tjálle: Stig Gælok) </p>
+<p>Gå iehket germudahtjá, ja gájka oaddádi</p>
+<p>de dahpav mån goadenim uvsav.</p>
+<p>Ja tsitsátja, de nåhkådi guhtik biesenis,</p>
+<p>De tjańa dån goahtásit adjáj.</p>
+<p>Val mańńela iv diede gåk ájgev gållådit,</p>
+<p>Jut guhka ijájt åhtsålav gieres rádnatjam.</p>
+<p>De ij la mujna oaddátjit miella.</p>
+<p>Dál tjuottjo åvdån spiedjila, vuoptajt rájddamin</p>
+<p>-nåv stuorre ja alvos la duv tjalmme.</p>
+<p>De svahtjá ma duv vájmmo. Majt åhtsål vájmmo duv?</p>
+<p>-Dav i ájn dån vásstedit máhte!</p>
+<p>Jut aktak ij la oadtjum duv lahka boahtet ájn.</p>
+<p>Ja ståvlå badjel gahtsahi biktasattja duv.</p>
+<p>Duv vuolppo, duv guobátja, duv gierdde.</p>
+<p>Juo l germudimen buoldan, ja tjaktja l boahtemin,</p>
+<p>Ja russna l lávvamin giettij miehtáj.</p>
+<p>Gåjt miehttsebálggáj nanna li moattes tjádjánam.</p>
+<p>Ja nástája tjuovggagåhti iján.</p>
+<p>Na jus i máhte iehkedij boahtet rádnatjam,</p>
+<p>De diededaste muv goassa dån boadá vat.</p>
+<p>Mån iv la duv vuojnnám juo ådno.</p>
+<p>(Tækste ja tjuojalvis: Arnulf Øverland.</p>
+<p>Sábmáj: Kurt Tore Andersen/Kåre Tjihkkom.</p>
+<p>Girjes <em type="italic">Hańńá boade gáddáj </em>. Th.Blaasværs forlag.) </p>
+<p><em type="bold">Asstoájggevædtsaga </em></p>
+<p xml:lang="nob">Bilde nr. 13 Bilde nr. 14</p>
+<p xml:lang="nob">Bilde nr. 15</p>
+<p xml:lang="nob">Bilde nr. 16 Bilde nr. 17</p>
+<p xml:lang="nob"><em type="bold">Skateboard </em></p>
+<p>Krattfinn Snowboard &amp; Skateklubb ásadij huj buorre álgov dán jagásj skateájggáj, gå tjadádin <span type="quote" xml:lang="nob">"Season Kick Off"</span> Leavnjan.Skateboard la sjaddam miellagiddis valástallam Finnmárko nuoraj gaskan. Dat duodastuváj gå Krattfinn Snowboard &amp; Skateklubban lij <span type="quote" xml:lang="nob">"Season Kick Off"</span> Leavnjan áttjak. Vargga 50 nuora Leavnjas, Kárášogas ja Áltás lidjin tjoahken gilpustallamijda ja skateboardståhkamijda.</p>
+<p><em type="bold">Nuoajda ja nuorajn </em></p>
+<p>Gå gidájduvvá ja muohta gáhtu, de moattes snowboardav skateboardajn målssu. Moattes næjtsojs galla snowboardav gæhttjali, valla næjtso valástallamlanján lidjin ållu ietjá måhkij dasi boahtám. - Boahtám lip diedon báhtjajt gehtjatjit, skutjerdi muhtem <span type="quote" xml:lang="nob">"fjortisa"</span>. - Næjtso farra rollerbladesij sjiejsiji javlli, ja e åvvånis gehtjasta ietjá sadjáj gå báhtjajda gå gæhttjali másjkugit tjællot. Diehti vuojn næjtso sidjij gæhttji.</p>
+<p><em type="bold">Váralasj valástallam </em></p>
+<p>Nikolai Fiskergårdan ja Sturla Morselin ælla makkirak buorre tjielgadusá gatjálvissaj manen sij skateboardaj li nåv mielastuvvam. Ihkap dajna gå næjtso e diedá åvvånis duosta, gæhttjal Sturla tjielggit. -Le suohtas. -Le váralasj valástallam. Badjáni sierralágásj dåbdo gå nagá jamáhttegoadá ådå triksajt. Ij la val agev rubmahij nav buorre. Garra skating galla dåbddu rubmahij. Vahágijs galla ij rat besa. Svijlla ruvámusát vákkájt ja juolggeláhtasijt dæjvvá, subtsas Sturla.</p>
+<p>Guokta jánndura tjelludalli, triksiji ja gilpustalli báhtja</p>
+<p><em type="bold">( </em><em type="bold">Sagat nr. 52/ 2000 reportassja mij la jårggåluvvam, oaneduvvam ja hiebaduvvam) </em></p>
+<p><em type="bold">Báhkotjielggidusá: </em></p>
+<p>Tjiektjamsyhkal = juongalágásj juvllafiello juolgij vuolen gånnå l stivrra</p>
+<p xml:lang="nob">Bilde nr. 18</p>
+<p>Per Anders la Kárášjogas ierit ja moaddi l Leavnnjan læhkám ståhkamin</p>
+<p><em type="bold">I </em><em type="bold">rggádallam ja suoggńu </em></p>
+<p><em type="bold">Irggádallam </em></p>
+<p>Irgádallam lij mássjat, mælggadav mássjat </p>
+<p>Dålusj nuorajda ij lim rat álgge moarsev jali irggev gávnnat. Gássjel lij gå ettjin oattjo æjvvalit nav álu gå dálla. Valla vissa vuohke lij gåktu næjttso ja báhttja galgajda dåmadit. Báhttja galgaj irggeságajt jådedit ja vuosedit sån næjtsov berus ja de dåmadit nav vaj næjttso sunji lijkku. Nanos gieresvuohta sujna galgaj. Næjttso vat galgaj sælldát tjævlástallat ja báhtjas gájddadit, vargga tjiehkádallat vaj ij la ietjas báhttjaj nággimin. Tjiehkádallam lij goanssta næjttsuj vuojnnet jus báhttja suv åhtså, jus duodalasj berustibme l.</p>
+<p>Náv mujttal soames irggesassá: -Mujtáv akti gå lijma guokta báhtja låvdagoaden. Tjaktja lij. Ælov lijma gæhttjamin. Danna lahkusin låvdagoade lijga guokta næjtso, nuorra fávros næjtso. Ja måj dal diedon plánav juo lijma dahkam. Gå sjevnjut ja ulmutja oaddádahtji, de galgajma dåhku næjtsoj lusi njáhkat. Næjtso guovtes goabbák låvdagoaden ådijga - iehtjáda dal aj lidjin dåppe, diedon. Muv moarssesassá lij vuoras iednes soames iehkeda báhtsám. Biejven lidjiv gávnnam låvdagoaden gåggu næjttso ådij. Lidjiv aj gæhttjam gåggu dåhkki loavddaga vuolev suogńalit vaj luluv njuolgga ja jasska suv lusi boahtet.</p>
+<p>Vájmmo diedon svatjáj nuorravuoda vuorddagijs ja hálojs gå de vijmak idja sjattaj ja iehtjam goades ålgus njáhkaliv. Jåvsådiv låvdagoahtáj, dan bælláj gåggu suv oademsadje lij, ja de låvdahielmev várrogisát gajkkogåhtiv. Buoragit manáj ja sisi bessiv! Várrogisát gåbttjåsav bajediv ja sujsta rattev njávkkagåhtiv, vaj smaret. Iesj lidjin suv hárddobielen. Vuoj man vuorbbe gå suv lidna lijkev gulliv! Vijmak gåjt de viehka garrasit tjábrrijiv, ja hæhkkat de viessuj. Vuoneváhkkosassá muv lusi jårgijdij, doahppij soappev ja oajvváj muv tjaskij: - Ja makkár bahálasj dáppe sjievnnjedijt njáhká! Bednaga tsiellagåhtin, ja månnå de uksarájge ålgus. Majdis gå låvdahælmmáj snårrujiv, ja áhkkus de ájn moaddi háhppidij muv dåsskåt åvddål gå iehtjama låvdagoahtáj bádan bessiv. Idedis lij mujna gállo ållu sáhppen. Ja dajnas de ittjiv ulmutjij vuojnnusij mannat.</p>
+<p>Ja jus irggádallamis duohtavuohta sjattaj, de ij lim ietján gå suoggńuj vuolgget.</p>
+<p xml:lang="nob">Bilde nr. 07</p>
+<p><em type="bold">Suoggńu </em></p>
+<p>Åvddål gå suoggńuj vuolggin, de vierttij báhttja oadtjot suoggńoloabev niejda æjgádijs. Jus dav oattjoj, de hæhttuj lagámusájt tjoahkkistit ja vuolgget. Vuojánav hæhttujin tjábbát hiervvit. Gå suoggńofárro næjtso sijddaj bådij ja akti goade birra miehtebiejvev vuojij, de galgaj suoggńooajvve goahtáj tjágńat ja ássjev åvdedit. Jus næjttsuj lij miella báhtjajn válldut, de galgaj mannat irgge hierge lusi ja válmosmuorav gálggat ja sihtat suoggńofáro goahtáj. Suoggńooajvve ságav jådedij. Åvddål gå suoggńoságajt åvdedin, de suoggńofárro káffij ja biebmojt divnajda fállaj.</p>
+<p>Vattáldakgijssá suoggńuj gulluj. Báhtjan galgaj vattáldakgijssá næjttsuj. Dan sinna galggin duola dagu sillbaavve ja suormmasa ja ietjá herva vil. Gå gærggin vattáldagájt gehtjadimes, de gatjádij báhtja ieddne makta næjttso lij vattáldagájda dudálasj. Jus gájkka manáj buoragit, de gájka vuolggin báhpa/hærrá lusi livsigijt tjálátjit. Valla ejga oattjo válldut åvddål gå gålmmå vahko lidjin gållåm.</p>
+<p>Såjtij aj næjttso ittjij lágeda dav báhtjav gut bådij suoggńudittjat, ja dalloj diedon ittjij váldas mige sjatta. Dalloj de báhttja oattjoj næjtsos gálbenáhkev.</p>
+<p>(S 1/93 - ” <em type="italic">Irggádallam lej ållu ájnas dålen </em>”. Min Áigi-” <em type="italic">Irgádallam </em><em type="italic">lij mássjat, mælggadav mássjat </em>.” Dá reprotasja li aktig tjanádum ja oaneduvvam ja hiebaduvvam). </p>
+<p xml:lang="nob">Bilde nr. 12</p>
+<p><em type="bold"><span type="quote">«Mańemus suohtastallam- friddja ulmutjin»</span> </em></p>
+<p>Dáhpe bådij Vuonarijkkaj birrusin 100 jage dás åvddåla. Ållu álgos lij dát suohtastallam dåssju ålmmåjda gudi lidjin válldutjit. 40 jage dán mańńela, de næjtso aj dákkir suohtastallamijt dahkagåhtin. Vuostasj ájge lidjin dá suohtastallama dåssju válldárij lagámusáj gaskan. Esski de dájt mańemus 20-25 jage li dá álmmugij vuojnnusij boahtám.</p>
+<p>Ole Marius Myrland tjállá ietjas oajvvefáhkatjállagin <span type="quote" xml:lang="nob">”Vennskap og ydmykelse”</span> dáj suohtastallamij birra ja javllá dá suohtastallama li dagádum válldárij rádnajs nav vaj ietja æbá majdik dassta diede. Suohtastallama álu dála náv álggi: Rádna doalvvu irggev jali moarsev juosik, ja de gárvodi suv ietjá biktasijda, ja de hæhttu bihko, ulmutjij tjalmij åvdån juojddá dahkat. Iehkedis la de muddo mańemus jugálvissaj, mij la ájnas oasse dákkir suohtastallamin.</p>
+<p>(Coop 1/2000, jårggåluvvam, oaneduvvam ja hiebaduvvam)</p>
+<p>Sáme li aj dákkir suohtastallamij álggám. Dá mańemus suohtastallama åvddål válda galggi mak mujtton årrot man suohtas lij viessot åvddål gå vállduji.</p>
+<p>Ávijssa <span type="quote">”Ságat”</span> nr. 85/2000 giehttu gåktu Sølvi Persenij manáj, gå rádna lidjin gávnadam sunji suohttasav suv mańemus biejvijda friddja ulmutjin.</p>
+<p>(Ságat 85/2000 - oaneduvvam ja hiebaduvvam)</p>
+<p><em type="bold">Báhkotjielggidusá: </em></p>
+<p>Friddja ulmusj=ulmusj gut ij la válldum</p>
+<p>Mańemus suohtastallam- friddja ulmutjin=mańemus suohtastallama åvddål válda</p>
+<p xml:lang="nob">Bilde nr. 20</p>
+<p>Dála l Sølvi Persen giesseguovddela tjuojggen gárvodum. Sujna li juvllasabega, jælmma ja rivggoj vielggis válldárbiktasa. Deanusálddin la tjuojggamin ja dahká duov dáv majt suv rádna li sunji mierredam. Válldár iesj javllá sunji lij riek hávsske rádnajis siegen.</p>
+<p><em type="bold">Lagásjvuohta </em></p>
+<p xml:lang="nob">Bilde nr. 21</p>
+<p xml:lang="nob">Bilde nr. 22 Bilde nr. 23</p>
+<p xml:lang="nob">Bilde nr. 11 Bilde nr. 24NUORA ÆJVVALI</p>
+<p>Sáme nuorajn la agev årrum miella æjvvalit duola dagu márnánijn, girkkoájllegijt jna. Dálásj ájge li ihtám ietjá æjvvalimsaje duola dagu kultur- musihkka- ja valástallamásadusá.</p>
+<p><em type="bold">Giessemujto Ankaredes </em></p>
+<p>Tjuovggis, bivvalis giesseijá. Amás ulmutjij æjvvalit, sijájn oahpástuvvat, suohtastallat - ja gå ájn de háhppit girkkon vádtset.</p>
+<p>Ieme dábe milta li Ankaredej tjåhkanam ulmutja moattet buolvas, stuoraga ja unnagattja. Mihttsamárájge ja tjavtjajt aj li dáppe girkkobase. Tjåhkanime hiebaduvvi ienemusát mihttsamárajda. Dalloj vuojn nav ållusij hiehpá dåhku mannat.</p>
+<p><em type="bold">Ednak vuojnnet - ednak gullat </em></p>
+<p>Dájda márnánijda ålos nuorajs tjåhkani. Bierjjedagá ja lávvodagá li ávvudallama. Nuora tjåhkani ávvudallamijda ja aj låvdagådijn tjåhkudalátjit. Giesseijá ruvva vássi ja dajnas de ij dåhkki sujbbot, valla ållu ietjáláhkáj doajmmat. Ij diedon dåhkki dåssju suohtastallat gå dá márnána li ájgij tjadá girkkoájllegin årrum. Dåppe de viertti girkkomæsson aj mannat. Ulmutja válldudi, mánájt gástadi, ja dåppe l aj girkkogárdde. Sådnåbiejve, mæsso mańńela, de li sjuohppima ja ietjá dáhpádusá. Ja esski sådnåbiejve iehkeda de suohtastalle ållessjattuga ja máná aktan båhtin.</p>
+<p><em type="bold">Ålos iesj guhtik guovlos </em></p>
+<p>Ankarede l Jämtlándan, Svierigin. Vuona bielen la vas Røyrvik Trøndelagan lagámus bájkke. Dájt mańemus jagijt li sága dáj márnánij ja dáhpádusáj birra gullum nuortas aj, ja nav de ålos dåbbelijs aj dåhku vuolggi.</p>
+<p>(Š nr. 4/1994 reportassja l oaneduvvam ja hiebaduvvam)</p>
+<p xml:lang="nob">Bilde nr. 25</p>
+<p xml:lang="nob">Bilde nr. 26</p>
+<p><em type="bold">Fissj man suohtas! </em></p>
+<p>Dijmásj tjavtja tjåhkanin 16 nuora Deanus lånudallamprosjevtav dagátjit. Prosjekta vuorbástuváj, ja snjuktjamáno båhti 14 nuora Detnuj. Aktan de gávtsebæjvvásasj programmav tjadádi. Bårggemáno vuostasj biejve vuolggin Deanus 13 nuora ja guokta jådediddje Liguria guovlluj Nuortta-Italian. Lågev biejve dåppe lidjin.</p>
+<p>Mano duogásj lij Italia nuoraj manno Detnuj gånnå bessin åtsådallat dálvev Sáme ednamin, aj idjastallamav duoddarin.</p>
+<p>Mańńela gå sij lidjin dáppe mannam, de gárvvidatjájma mij sijá guossáj vuolgátjit. Lijma sjiehtadam galgajma årrot sæmmi sajen gå sij, ja dajna de lidjin lájggim soames viesov bájken man namma l Noli. Viesso lij ållu sierralágásj, 1200-jagijn tsieggidum, valla mańńela diedon divodum.</p>
+<p>Prosjevta oajvveulmme lij guolástus, ja dajna de oattjojma ienebuv Italia guollebivddemvuogij birra oahppat. Lijma fáron gæhttjamin gå guollára lidjin nuohttimin. Mij vas giehtojma Deanu luossabivdo birra.</p>
+<p>Dálven gå italiaga dáppe mannin, de bessin mijá siegen duoddarij, ja mij de sijá siegen besajma mæhttsáj. Miehtsen váttsedijn bådijma soames bájkkáj gånnå vijnav dahki. Danna lij miján båddå, ja oattjojma májstatjit moattelágásj juhkusijt.</p>
+<p>Gå váttsatjijma smáv stádatjijt dåppe gæhttjamin, de bivddiduvájma mállásijda báhkojådediddje lusi. Dåppe mijáv moattelágásj pizzaj ja focacciaj guossodin, ja juhkusin diedon vijnav oattjojma. Dan mańńela de báhkojådediddjev sáme <span type="quote">”lunchaj”</span> gåhtjojma. Guossodijma suv gåjkkebiergujn ja suovas- ja spihkkaluosajn, majt lijma fáron válldám.</p>
+<p>Gå dákkár oarjjelij guovlojn la mannamin, de dasi aj gullu fiervvágátten vællahit, ja vuojadit aj. Vargga juohkka biejve besajma fiervvágáttáj biejvev niektitjit. Ij dal dåhkki dåssju veludallat. Dan diehti lijma sjuohpanijt fáron válldám, ja de sjuohpanastijma danna. Ålos galla imájdallin mijá suohtas dåjmav.</p>
+<p>Mańemus iehkedij lij Italiak juogos dahkam hiejttemmállásijt ålggon. Mij ejma diede majdik ietján gå ålggon lip båråtjit. Mállása lidjin dagádum dagu gasskaájggegávdas, ja de lidjin gárvvunam dagu dallusj ulmutja. Dalloj de sáńardijma gå ejma la gáptijt fáron válldám.</p>
+<p>Vájvve lij sijddaj vuolgget gå ejma diede goassa vat æjvvalip. Valla doajvvomin lip ij nav guhkes ájgge dasi sjatta.</p>
+<p>(Š- nr.15/.2000 reportassja l oaneduvvam ja hiebaduvvam)</p>
+<p xml:lang="nob">Bilde nr. 27</p>
+<p xml:lang="nob">Bilde nr. 28</p>
+<p>Bildetekst 27: Diskotehkka mij ij la jur dakkár gå sijdan.</p>
+<p>Bildetekst 28: Ålles juogos, Genova stádan váttsatjime</p>
+<p><em type="bold">Spanska </em><em type="bold">nuora guossástalli Finnmárkov </em></p>
+<p>Dijmmá lidjin 11 nuora Porsáńgus Madrijdan. Dåppe lidjin spannska ja rumenak nuoraj siegen guokta vahko. Dåppe lånudallin åtsådallamijt ja rádnástallin. Vásse vahko de oadtjun porsáńgulattja guossijt Spanias.</p>
+<p><em type="bold">Moadda åtsådallama </em></p>
+<p>Vuostasj majt spannska nuora Finnmarkon bessin åtsådallat lej boahtet bájkálasj guollára lusi, gånnå gåjkkeguolev oadtjun bårråt. Dan mańńela lidjin Vasisin idjadime, ja dåppe oadtjun vuojnnet gasskaidjabiejvev man tjábbe dat la. Bessin aj Rávttošvuome luonndosuodjalamguovlluj gånnå oahpestiddje lij fáron, ja mannulahkaj Finnmárkov birra. Spannska nuora oadtjun oasev sámekultuvras åtsådallat gå låvdagoaden oadtjun idjadit. Sámekultuvras oadtjun aj oasev gå lidjin Kárášjogan Sápmi vuosádusán. Guovdageainnun lidjin sibllasmirjo lunna man namma l Juhls sølvsmie, gånnå aj sáme dávverijt vuosádalli. Áltán lidjin dávvervuorkán gånnå li dåbdos báktegåvå. Åvddål gå mannulahka Finnmárkov birra någåj manádin ájn de Máhkarávju Nordkappan, væráldav birra dåbdos bájke.</p>
+<p><em type="bold">Tjuovggis ijá </em></p>
+<p>Spanskajda lidjin tjuovggis ijá gássjelabmusa. - Dánna l gájkka nav tjábbe, tjáppa luonndo. Gájkka l ållu buorre, javllá spannska næjttso Maria.</p>
+<p><em type="bold">Spannskabiejvve </em></p>
+<p>Åvddål gå spannskalattja sijddaj vuolggin de spannskabiejvev dahkin, gånnå spannska biebmoj guossodin ja miellahávsskudagáv rádnajdisá dahkin.</p>
+<p>Boahtte jáhkáj la pládna Romanian æjvvalit.</p>
+<p xml:lang="nob">(Sagat nr. 87/2000)</p>
+<p xml:lang="nob">Bilde nr. 29</p>
+<p>EU Youth for Europe lånådallam prográmma aktijvuodan li spannska nuora læhkám badjel vahkov Kárášjogån. Uddni manni vas ruoptot ietjasa sijddabájkijda Sevillaj Spaniaj. - Mij lip duodaj loapptám ájgev huj buoragit dáppen Kárášjogån, javlli sij.</p>
+<p><em type="bold"><span type="quote">“Gehtja gåk Ánde gárvot”</span> </em></p>
+<p>Binná rudájs Sáme ednamin dahká mijáv juohkkaláhkáj kreatijvvan. Nåv gåk diehtebihtit ælla miján rat oahppamnævo. Ja ij gus de hieba ávkástallat ávnasijt moadda láhkáj, nåv gåk Ande Somby <span type="quote" xml:lang="nob">”pin-up”</span> gåvå?! Dánna jårggålip dåssjo gåvåjt nuppe guovlluj. Dassta ihtá mánnágirjje <span type="quote">”Gehtja gåk Ánde gárvot”</span>. </p>
+<p><em type="bold">Sáme ednama: Juks-áhkká </em></p>
+<p>Girjje álggá dála náv: ”Ánde la tjuodtjomin sisbåvsåj mańńela gå nuoladij. Sån sihta dálla gárvodit, ja ij la dal dat nåv gássjel. Gehtja gåk Ánde tsåggo båvsåjt. Ja sån náhká skirtov aj tsåggåt.</p>
+<p>-Valla Ánde! Ale gahperav tsåkkå åvdål gå skirtov la tsåggåm! </p>
+<p>Vuostak avtav sasev, ja de nuppev sasev. Oajvev galga tsåggåt dan rájggáj mij la sasij gaskan. Dálvváj gå tjoassku, de ájggu Ánde muoddáv gárvvunit. Gehtja ja åhpa gåk Ánde gárvot”. </p>
+<p><em type="bold">Páhperdoahkko Ánde </em></p>
+<p>Girje namma? <em type="bold">“ </em>Gehtja gåk Ánde gárvot <em type="bold">”. </em>Ánde sajttaj aj dåbdos doktorjurissta ja åvddågåvvå ållo sáme mánájda. Vuordáv ij gus aktak páhperdoahkov Ándis dagá, váj iehtja bessi gárvodit ja nuoladit Ándiv, diedon vuostak gatjálvis makkir dálkke l ålggon… </p>
+<p><em type="bold">Dánna máhtá aj biedjat </em></p>
+<p>Ánde guhka vuoptaj, Ánde oanes vuoptaj, Ánde afrobárgáldagáj j.n.v. Máhtá aj iesj biesskedit biktasijt Ándij, jus sidá muhtem <span type="quote">“ietjálágásj”</span> stijlav Ándij. </p>
+<p><em type="bold">Ale suorggana.. </em></p>
+<p>Jus mánná hådjan Ándij jali jus li ietjá åvddågåvå gå láhkatjiehppe, de ale suorggana. Miján la ham ålles bállotjiektjamjuogos Guovdageainnon .. Dav juoga Sámedikke åhpadusåssudahkaj.</p>
+<p>Min Áigi nr. 7/2001</p>
+<p xml:lang="nob">Bilde nr. 30</p>
+</body></document>

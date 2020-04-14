@@ -1,44 +1,7 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>166</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=177&amp;art_id=206</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=177_art_id=206.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=177_art_id=206.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=177_art_id=206.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åhpav: Ednam</p>
-    <p type="title">Aajja subtsas</p>
-    <p>Aajja subtsas dallutjis gå suv máttaráddjá hejajda galgaj. Sujna lij guhka váttsos ja ittjij avtan biejven jåvsåda. Hæhttuj ijástallat muhtem båvnij guoran jávrregátten. Gå idedis vas smaredij de ájtsaj oadám lij moadda ráboj gassko. Valla ittjij ballá. Gullam lij man gássjel lij suvddet jábbmegijt váres vuolus gitta merragáddáj gånnå girkko lij gå ællim vedja. Danen lagámusá luonnduj hávddádin. Dalloj ettjin gávnnu njuolgadusá dan hárráj. Sij gudi jábmin beras lulujin vuojŋadallat lahkusin dåppe gånnå ulmutja båhtin mieddel, navti ettjin dárbaha liehket aktugattja madi bajástjuodtjelimev vuordatjin. Vuordedijn bessin gullat gå ulmutja jåhtålin mieddel æloj. Bessin hávsskudallat jienaj daj smáv miesijs ma ruovggin áldostis gávnnat. Nav guhkev gå sij gudi viessu e dåssjev háreda sijáv gudi li jábmám, de bessin ráfen idjadit.</p>
-    <p>Dát subtsas le jábmema birra. Rámát javllá <span type="quote">"láhppup"</span> gå jábmep ( 1 kor 15, 18 ). Akti boahtteájgen galggá Jesus ruopptot boahtet værálda gånågissan. Galggá ietjas rijkav vuododit gånnå ij desti makkirak bahá gávnnu.</p>
-    <p>Makkir aktijvuohta le dujna jábmemij ja hávddádallamij?</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>166</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=177&amp;art_id=206</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=177_art_id=206.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=177_art_id=206.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=177_art_id=206.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åhpav: Ednam</p>
+<p type="title">Aajja subtsas</p>
+<p>Aajja subtsas dallutjis gå suv máttaráddjá hejajda galgaj. Sujna lij guhka váttsos ja ittjij avtan biejven jåvsåda. Hæhttuj ijástallat muhtem båvnij guoran jávrregátten. Gå idedis vas smaredij de ájtsaj oadám lij moadda ráboj gassko. Valla ittjij ballá. Gullam lij man gássjel lij suvddet jábbmegijt váres vuolus gitta merragáddáj gånnå girkko lij gå ællim vedja. Danen lagámusá luonnduj hávddádin. Dalloj ettjin gávnnu njuolgadusá dan hárráj. Sij gudi jábmin beras lulujin vuojŋadallat lahkusin dåppe gånnå ulmutja båhtin mieddel, navti ettjin dárbaha liehket aktugattja madi bajástjuodtjelimev vuordatjin. Vuordedijn bessin gullat gå ulmutja jåhtålin mieddel æloj. Bessin hávsskudallat jienaj daj smáv miesijs ma ruovggin áldostis gávnnat. Nav guhkev gå sij gudi viessu e dåssjev háreda sijáv gudi li jábmám, de bessin ráfen idjadit.</p>
+<p>Dát subtsas le jábmema birra. Rámát javllá <span type="quote">"láhppup"</span> gå jábmep ( 1 kor 15, 18 ). Akti boahtteájgen galggá Jesus ruopptot boahtet værálda gånågissan. Galggá ietjas rijkav vuododit gånnå ij desti makkirak bahá gávnnu.</p>
+<p>Makkir aktijvuohta le dujna jábmemij ja hávddádallamij?</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

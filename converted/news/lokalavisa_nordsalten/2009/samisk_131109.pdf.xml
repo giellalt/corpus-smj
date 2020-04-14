@@ -1,48 +1,12 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Biebbmogirjásj mujttalibmáj ja arvusmahttemij</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>334</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_131109.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty Skapalen Jårggålibme: Divte Media</p>
-    <p xml:lang="nob"><em type="italic">Mihá. Demænssasiebrre Divtasvuonan le buorre bargov dahkam. Dánna áttjak prienntidum girjátjin Sámebiebbmo vuorrasijda.      Stolte og glade. Demensforeningen i Tysfjord har gjort et godt stykke arbeid. Hermed det nytrykte heftet Samisk mat for eldre.</em> </p>
-    <p>sijá lagámusá.- Lip riek dudálattja gå bargujn lip ållim,javlli sebrulattja gudi gájka li barggamvaj galggin ållit.</p>
-    <p>GuoradallambarggoTjálle ja prosjæktavásstediddjeNajonalsiebren Nordlandan, Råmsån jaFinnmárkon, Tordis Jentoft rámmpotdav ratjástimev majt siebrre le dahkam.</p>
-    <p xml:lang="nob"><em type="italic">Aktisasjvuohta bievde birra. Prosjækta le ienep mielajt giddim gå sebrulattjajtdemænssasiebren. Dánna ulmutja Vuodnabadán bessi mállebiebmov májsstelit.Fellesskap rundt bordet. Prosjektet har engasjert mange flere enn medlemmene idemensforeninga. Her er det folk i Hellmobotn som får smake på blodmaten.</em> </p>
-    <p>Báhko girjjealmmudagás Árraninprienntiduvvam ja ihkap ienep girjátjijtdåhkki prienntit.</p>
-    <p>vuorrasappo li læhkám ájnasressurssaulmutja. Prosjevta baktujuohkka oassálasste le árvov oadtjumietjas máhtudagás ja åtsådallamijs, jaaktisasj åtsådallama ja fysihkalasjlabudallam le ájnas sosiálalasj oasevadnám. Gå iehtjádij máhtudagájt árvonadni ja ådåsmahtti, aktanoassálasstemijn sosiálalasj ja fysihkalasjdåjmaj juohkkahattja iellem lebuoreduvvam.- Biebbmooajvvadusá li sáme- jadárogiellaj ja gåvå galggi dementajdamujttalimev åttjudit, ruoptus dan ájggájgå dákkir biebbmo lij luondulasj oasseárggabiejves, javllá siebre tjálle jaskihppijsujttár Dragstunan, PernilleKrogh Storøy. Girjásj le dåssjugålmmålåkvihtta girjátjijdaprienntiduvvam.<em type="italic">- Manen ij ienep?</em>- Ejma riekta diede gåktu galgaj sjaddatja de lij ham miján riekknima majtvierttijma tjuovvot, javllá siebrenjunnjusj Inga Karlsen, guhti miedet </p>
-    <p>Duv biebbmo le duv hælssoSiebrre árrat åhtsåmusáv buvtij jadættodin prosjækta galgaj liehketduostodim ja diehtobarggo.- Juohkusin le buorreaktisasjbarggomáhtukvuohta, jadádjadav le guhkes barggo læhkám,sáhkadit ulmutjij bájken, skuolkadit,oasestit ja diedádusáv tjállet, javlláJentoft.Ja siebrre bájke årrojt rámmpu gudi linav moattes tjoahkkáj boahtám ja gudi ligæhttjaliddjen læhkám.- Bårrusa li aktisasjvuodav jaságastallamijt åvdedam bievde birraálldarij doarrás, ja dát le berustahttámienebujt gå dåssju mijáv siebre aktsesebrulattja. Ja bájkálattja li gæhttjaliddjelæhkám ja gájkka li hekkav bierggim,måjut Inga Karlsen.</p>
-    <p>- Siebrre le stuorra jaájnas bargov dahkam.Iv le gullam muodugasjbargo birra Nuortta-Vuonan, javllá sån jarámmpot álgadiddjevInga Karlsen ja ållesstivrav ja juohkusav mali ålov åvddånbuktemijnbarggam.- Prosjæktabargon lestuorra árvvo, ja gåprosjevta gållo dåssjulij 105 000 kråvnå mij ijle nav ållo, de le siebrreålov dahkam. Girjásj lediehtonævvo majna lestuorra árvvo ietjastis.Barggo le aj tjoahkkelæhkám ja aj ulmutjijtsiebre ålggolinberustallam, javllá sån.</p>
-    <p>Sáme- jadárogiellajUlmme dájnaprosjevtajn le læhkámarenav ásaditlånudallamijmáhtudagás biebmo jabiebbmoárbbedábij</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Biebbmogirjásj mujttalibmáj ja arvusmahttemij</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2009</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>335</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_131109.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty Skapalen Jårggålibme: Divte Media</p>
+<p xml:lang="nob"><em type="italic">Mihá. Demænssasiebrre Divtasvuonan le buorre bargov dahkam. Dánna áttjak prienntidum girjátjin Sámebiebbmo vuorrasijda.      Stolte og glade. Demensforeningen i Tysfjord har gjort et godt stykke arbeid. Hermed det nytrykte heftet Samisk mat for eldre.</em> </p>
+<p>sijá lagámusá.- Lip riek dudálattja gå bargujn lip ållim,javlli sebrulattja gudi gájka li barggamvaj galggin ållit.</p>
+<p>GuoradallambarggoTjálle ja prosjæktavásstediddjeNajonalsiebren Nordlandan, Råmsån jaFinnmárkon, Tordis Jentoft rámmpotdav ratjástimev majt siebrre le dahkam.</p>
+<p xml:lang="nob"><em type="italic">Aktisasjvuohta bievde birra. Prosjækta le ienep mielajt giddim gå sebrulattjajtdemænssasiebren. Dánna ulmutja Vuodnabadán bessi mállebiebmov májsstelit.Fellesskap rundt bordet. Prosjektet har engasjert mange flere enn medlemmene idemensforeninga. Her er det folk i Hellmobotn som får smake på blodmaten.</em> </p>
+<p>Báhko girjjealmmudagás Árraninprienntiduvvam ja ihkap ienep girjátjijtdåhkki prienntit.</p>
+<p>vuorrasappo li læhkám ájnasressurssaulmutja. Prosjevta baktujuohkka oassálasste le árvov oadtjumietjas máhtudagás ja åtsådallamijs, jaaktisasj åtsådallama ja fysihkalasjlabudallam le ájnas sosiálalasj oasevadnám. Gå iehtjádij máhtudagájt árvonadni ja ådåsmahtti, aktanoassálasstemijn sosiálalasj ja fysihkalasjdåjmaj juohkkahattja iellem lebuoreduvvam.- Biebbmooajvvadusá li sáme- jadárogiellaj ja gåvå galggi dementajdamujttalimev åttjudit, ruoptus dan ájggájgå dákkir biebbmo lij luondulasj oasseárggabiejves, javllá siebre tjálle jaskihppijsujttár Dragstunan, PernilleKrogh Storøy. Girjásj le dåssjugålmmålåkvihtta girjátjijdaprienntiduvvam.<em type="italic">- Manen ij ienep?</em>- Ejma riekta diede gåktu galgaj sjaddatja de lij ham miján riekknima majtvierttijma tjuovvot, javllá siebrenjunnjusj Inga Karlsen, guhti miedet </p>
+<p>Duv biebbmo le duv hælssoSiebrre árrat åhtsåmusáv buvtij jadættodin prosjækta galgaj liehketduostodim ja diehtobarggo.- Juohkusin le buorreaktisasjbarggomáhtukvuohta, jadádjadav le guhkes barggo læhkám,sáhkadit ulmutjij bájken, skuolkadit,oasestit ja diedádusáv tjállet, javlláJentoft.Ja siebrre bájke årrojt rámmpu gudi linav moattes tjoahkkáj boahtám ja gudi ligæhttjaliddjen læhkám.- Bårrusa li aktisasjvuodav jaságastallamijt åvdedam bievde birraálldarij doarrás, ja dát le berustahttámienebujt gå dåssju mijáv siebre aktsesebrulattja. Ja bájkálattja li gæhttjaliddjelæhkám ja gájkka li hekkav bierggim,måjut Inga Karlsen.</p>
+<p>- Siebrre le stuorra jaájnas bargov dahkam.Iv le gullam muodugasjbargo birra Nuortta-Vuonan, javllá sån jarámmpot álgadiddjevInga Karlsen ja ållesstivrav ja juohkusav mali ålov åvddånbuktemijnbarggam.- Prosjæktabargon lestuorra árvvo, ja gåprosjevta gållo dåssjulij 105 000 kråvnå mij ijle nav ållo, de le siebrreålov dahkam. Girjásj lediehtonævvo majna lestuorra árvvo ietjastis.Barggo le aj tjoahkkelæhkám ja aj ulmutjijtsiebre ålggolinberustallam, javllá sån.</p>
+<p>Sáme- jadárogiellajUlmme dájnaprosjevtajn le læhkámarenav ásaditlånudallamijmáhtudagás biebmo jabiebbmoárbbedábij</p>
+</body></document>

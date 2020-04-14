@@ -1,79 +1,45 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>863</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/avvudallama-moatten-biejven-arranin.5676439-60861.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Ávvudallama moatten biejven Árranin - Árran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title">Sámij álmmukbiejvve 2015</p>
-    <p type="title">Ávvudallama moatten biejven Árranin</p>
-    <p>Dán jage ávvudallap Sámij álmmukbiejvev, guovvamáno 6.biejvev, moatten biejven. Sáme lávllom- ja subtsastimdábe, sáme biebbmo ja hålla bæjvváj li guovdásj oase ávvudallamis. Duodden dajda lip mierredam Kalaalit Nunaatav/Ruonasednamav tjalmostit.</p>
-    <p xml:lang="kal">
-      <em type="italic">Gåvvåvuosádus Kalaanit Nunaatas: 3913 Tasiilaq Ole G. Jensena baktu </em>
-    </p>
-    <p type="title">Ávvudallama moatten biejven - Sámij álmmukbiejvve guovvamáno 6. b.</p>
-    <p>Dán jage ávvudallap Sámij álmmukbiejvev valjes prográmmajn. Sáme lávllom- ja subtsastimdábe, sáme biebbmo ja hålla bæjvváj li guovdásj oase ávvudallamis. Duodden dajda lip mierredam Kalaalit Nunaatav/Ruonasednamav tjalmostit. Lågådallamij, gåvvåvuosádusá, dájda, buvtadagáj ja subttsasij baktu lagábut oahpásmuvvap Ruonasednama álmmugij ja kultuvrraj. Dán jagásj dájddavuosádus moattebájnok, vargga niehkolágásj jiegŋabiernaj, giddi mielav ja njuorat, ja la ietjastis estehtalasj muossádibme. Ietjá iemeálmmugijt æjvvalit máhttá aj boanndodit vaj buktá ådå perspektijvajt ja ådå dádjadusáv ietjama kultuvrraj.</p>
-    <p type="title" xml:lang="deu">PROGRÁMMA:</p>
-    <p>Ådåjakmáno 30.b.</p>
-    <p>Kl. 08.00 Gåvvåvuosádus Kalaanit Nunaatas: <em type="italic">3913 Tasiilaq </em>Ole G. Jensena baktu </p>
-    <p xml:lang="kal">
-      <em type="italic">Nunaga- Nunarsuup avannaani. / Buuti Pedersen </em>
-    </p>
-    <p>Guovvamáno 4.b.</p>
-    <p>kl. 10.00 Vuosádusrahpam <em type="italic">Nunaga- Nunarsuup avannaani </em>Kalaalit Nuunata/Ruonasednama dájddaris Buuti Pedersen. Museajådediddje Harrieth Aira vuosádusáv rahpá. Mikkel Eskil Mikkelsen lávllu. </p>
-    <p>10.30 - 13.30 Buvtadahka dájddarijn Buuti Pedersen Ájluovta skåvlå 5.klássaj. Tiemá li bájnnooahppa ja såddimteknihka. Árbbedábálasj sámebiebbmo; mállegáhkko ja liebma, guossoduvvá.</p>
-    <p>Guovvamáno 5.b.</p>
-    <p>10- 13.30 Buvtadahka dájddarijn Buuti Pedersen Gásluovta skåvlå 5.klássaj. Tiemá li bájnnooahppa ja såddimteknihka. Árbbedábálasj sámebiebbmo; mállegáhkko ja liebma, guossoduvvá.</p>
-    <p>Guovvamáno 6.b.</p>
-    <p>Guosse Laskestada skåvlå gasskadáses, Stájggo, ja 6. ja 7. klássa Hábmera oajvveskåvlås.</p>
-    <p>Kl. 10.00 Sámegielak subtsastimbåddå gámán. Adrian Nystø Mikkelsen, fáhkaåhpadiddje ja May-Judith Amundsen, fáhkaåhpadiddje</p>
-    <p xml:lang="kal">Kl. 10.30 Oahpestibme álmmukbiejvevuosádusán <em type="italic">Nunaga- Nunarsuup avannaani </em>Kalaalit Nunaata/Ruonasednama dájddaris Buuti Pedersen </p>
-    <p>Kl. 11.00 Sáme giela, lávllagij, båvvaj ja subttsasij birra. Heidi Andersen, rádevadde ja Jørgen Kintel, fáhkaåhpadiddje, låptån. Båddå låhpaduvvá mállegáhkojn ja liemajn (oahppe guossoduvvi)</p>
-    <p>Kl. 12.00 Vuosádus/subtsas <em type="italic">Áhko vuohttomlávla, </em>Louise Fontaina baktu </p>
-    <p>Moatten kultuvran la dáhpen vuohttomlávllagav, vuolev jali soames bágov áhkos ja ádjás oadtjot. Louise Fontaina subtsas le dallutjis gå sån lågejagák Ruonasednama nejtsutjin hæhttuj vuolgget Dánmarkkuj årutjijt soames dánska familja lunna. Ietjá Ruonasednama mánáj siegen galgaj sån ållu ietjálagátjin sjaddat - galgaj sjaddat dánsska. Moadda jage maŋŋela gå ruoptus sijddaj bådij, ittjij des iednijnis máhte guládallat. Massám lij iednegielas. Sån åhtsågådij identitehtav, aktijvuodav ja dåhkkidimev. Dat doalvoj suv ruoptus åtsåtjijt majt lij láhppám, dagu vuohttomlávllagav mav áhkostis lij oadtjum. Louise Fontain subtsas sijvos ja álkkesláhkáj, huoman sån vájmojt njuorat.</p>
-    <p>Kl. 13.00 Hålla bæjvváj. Drag Jiena lávllu</p>
-    <p>Káffa, gáhko ja árbbedábálasj sáme biebbmo oasen</p>
-    <p>Kl. 17.00 Mæsso Ájluovta/Ájlátte girkkon ja girkkokáffa Árranin</p>
-    <p xml:lang="sme">
-      <em type="italic">Louise Fontain/Foto: Louise Fontain </em>
-    </p>
-    <p>Guovvamáno 9.b.</p>
-    <p>Kl. 09.00-11.15 3.ja 4. klássa Hábmera oajvveskåvlås guossen. Duodjuhibme tiebmán. Lilian Urheim, duodjebagádalle ja Heidi Andersen, rádevadde, baktu. Guossoduvvá mállegáhkujn ja liemajn</p>
-    <p>Kl. 10.00-10.45 Guosse 1.-4. klássas Laskestad skåvlås, Stájggo.</p>
-    <p>Kl. 10.00-10.45 Unnemus oahppe guossidi mánájgárdev ja li tjåhkanimbåttån. 3.-4. klássaoahppe oahpestaláduvvi musean.</p>
-    <p>Kl. 11.00 – 11.45 Lávllaga, båva ja subttsasa Laskestad skåvllåj. Anne Kalstad Mikkelsen, rádevadde ja Mikkel Eskil Mikkelsen, fáhkaåhpadiddje, baktu</p>
-    <p>Guovvamáno 10.b.</p>
-    <p>kl. 10.00 Lågådallam: <em type="italic">Kalaalit Nunaat/Ruonasednam - kolonijas iesjmierredibmáj, riektá sierra stáhttan sjaddat </em>, åtsådimjådediddje Sven-Roald Nystø baktu. </p>
-    <p type="title">Dájddárij/artistajbirra:</p>
-    <p xml:lang="nob">
-      <em type="italic">Buuti Pedersen: </em>
-    </p>
-    <p>Buuti Pedersen la Kalaalit Nunaata/Ruonasednama dåbddosamos ja viehka árvon anedum dájddár. Ietjas dájddárvuodajn ja dåjmalasj sæbrrama baktu duon dán kultuvrrajgullevasj prosjæktaj maŋemus 30 jage, le sujna guovdásj rålla Ruonasednama dájdav ja kultuvrav åvddånahttemin. Ietjas moadda tjuorggasij ja hiervvimij ja stuorra berustimijn le sån luottajt miehtáj Ruonasednamav guodám. Suv gájkbelakvuodajn ja dájddadagoj glássas, relieffas, malerijas ja akvarellas le sån miellagiddis gaskostit. Duodden dasi sihtá Árran aj álggoálmmukdájdav tjalmostahttet.</p>
-    <p>Dájddárvuodajnis baktu le sån ållusijt njuoradam, e val dåssju sij gudi Ruonasednamin dájdas ja kultuvras berusti. Sån la duodaj nahkam Ruonasednama dájdav ienebujda dåbddusin dahkat, rijkasin ja aj ålggorijkajn. Buuti la barggam prosjevtaj moatten rijkan, Ruonasednama åvdåstiddjen vuosádusájn ja aktisasjbargon ietjá dájddarij ietjá kultuvrajs. Ietjas 30 jage barggoiellemin la sån barggam moattelágásj prosjevtaj duola dagu Danmárkon, Færsuollujn, Islándan, Vuonan, Suoman, Svierigin, Dujskan, Frankrijkan ja Ruossjan.</p>
-    <p>Buuti la åvdemusát dåbddusin ietjas moattebájnok, vargga niehkolágásj jiegŋabiernajs. Stuorra, bieddjis biernaj tjavgga stuvssim ja dánssim nubbe nuppij li Buutiv dájdanis mielastuhttám ja arvusmahttám. Dájdda lij åhpadus mij maŋŋela åvddånahteduváj persåvnålasj dádjadussaj jiegŋabiernajs, gånnå sirdeduvvi ietjasa luondulasj universas ienep myhtalasj væráldij. Gallegasj sárgastagáj nahká labudahtte jiegŋabiernajt gåvvit. Muhtem bále vuojnnu dagu dánssa, ietjá bále fármastibmen jali stuvssimin. Bierna li álu dagu álkkes láhkáj sárggiduvvam, sárgastagájn mij le hábmen. Dát dættoduvvá tjielgga bájnoj, ábaj vuosstebiellen álkkes sárgastahkaj. Dát gåvvåj ráfev buktá, valla bájno li huoman tjielggasa ja fábmogisá.</p>
-    <p xml:lang="vep">
-      <em type="italic">Louise Fontain: </em>
-    </p>
-    <p>Bodil Mette Louise Amalie Fontain gåhtjoduvvá Najavaraq ietjas familjas Kalaalit Nunaatan/Ruonasednamin. Aktan bådnjijnis jådedibá ekologalasj båndorsijdav 40 km Aarportes (Hattfjelldalas), 500 m badjelin nuore ja 9 km lagámus ráddnágoades. Sujna li vihtta máná ja sån la gåvvår.</p>
-    <p>Louise Fontain le adnám moadda gåvvåvuosádusájt Vuonan ja aj Ruonasednamin. Jagen 2014 oassálastij soames teahter-ja dánssamfestiválan Japanin ja Ruossjan. Radiodokumentárra NRKP2:an <em type="italic">Beretninger om et glemt liv </em>le Louise Fontaina subttsasa birra. </p>
-    <p xml:lang="nob">
-      <em type="italic">Ole G. Jensen: </em>
-    </p>
-    <p>Ienep gå 30 jage la Ole G. Jensen Kalaalit Nunaata/Ruonasednama dájdaj ja kultuvrajn barggam. Måttijt jagijt la årrum bájken Tasiilaq Lulle-Ruonasednamin ja la barggam Ruonasednama sijddastivra kulturdåjmadagán. Sån la museajt Tassilaqan ja Qaqortoqan. Sån la moadda girje Ruonasednama birra tjállám ja la gåvvim ja tjállám moatte ájggetjállagijda ja avijsajda. Gåvvåvuosádus vuoset árggaiellemav gåktu le Tasiilaqa iemeårruj. Vuosádus la vuosádaláduvvam måttijn sajijn Ruonasednamin ja Vuonan. Gåvvåvuosádusájn <em type="italic">3913 Tasiilaq </em>vuoset Ole G. Jensen tjáppa ja hávsskes gåvåjt Tasiilaqas, bájkke Lulle-Ruonasednamin. </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>863</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/avvudallama-moatten-biejven-arranin.5676439-60861.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Ávvudallama moatten biejven Árranin - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title">Sámij álmmukbiejvve 2015</p>
+<p type="title">Ávvudallama moatten biejven Árranin</p>
+<p>Dán jage ávvudallap Sámij álmmukbiejvev, guovvamáno 6.biejvev, moatten biejven. Sáme lávllom- ja subtsastimdábe, sáme biebbmo ja hålla bæjvváj li guovdásj oase ávvudallamis. Duodden dajda lip mierredam Kalaalit Nunaatav/Ruonasednamav tjalmostit.</p>
+<p xml:lang="kal"><em type="italic">Gåvvåvuosádus Kalaanit Nunaatas: 3913 Tasiilaq Ole G. Jensena baktu </em></p>
+<p type="title">Ávvudallama moatten biejven - Sámij álmmukbiejvve guovvamáno 6. b.</p>
+<p>Dán jage ávvudallap Sámij álmmukbiejvev valjes prográmmajn. Sáme lávllom- ja subtsastimdábe, sáme biebbmo ja hålla bæjvváj li guovdásj oase ávvudallamis. Duodden dajda lip mierredam Kalaalit Nunaatav/Ruonasednamav tjalmostit. Lågådallamij, gåvvåvuosádusá, dájda, buvtadagáj ja subttsasij baktu lagábut oahpásmuvvap Ruonasednama álmmugij ja kultuvrraj. Dán jagásj dájddavuosádus moattebájnok, vargga niehkolágásj jiegŋabiernaj, giddi mielav ja njuorat, ja la ietjastis estehtalasj muossádibme. Ietjá iemeálmmugijt æjvvalit máhttá aj boanndodit vaj buktá ådå perspektijvajt ja ådå dádjadusáv ietjama kultuvrraj.</p>
+<p type="title" xml:lang="deu">PROGRÁMMA:</p>
+<p>Ådåjakmáno 30.b.</p>
+<p>Kl. 08.00 Gåvvåvuosádus Kalaanit Nunaatas: <em type="italic">3913 Tasiilaq </em>Ole G. Jensena baktu </p>
+<p xml:lang="kal"><em type="italic">Nunaga- Nunarsuup avannaani. / Buuti Pedersen </em></p>
+<p>Guovvamáno 4.b.</p>
+<p>kl. 10.00 Vuosádusrahpam <em type="italic">Nunaga- Nunarsuup avannaani </em>Kalaalit Nuunata/Ruonasednama dájddaris Buuti Pedersen. Museajådediddje Harrieth Aira vuosádusáv rahpá. Mikkel Eskil Mikkelsen lávllu. </p>
+<p>10.30 - 13.30 Buvtadahka dájddarijn Buuti Pedersen Ájluovta skåvlå 5.klássaj. Tiemá li bájnnooahppa ja såddimteknihka. Árbbedábálasj sámebiebbmo; mállegáhkko ja liebma, guossoduvvá.</p>
+<p>Guovvamáno 5.b.</p>
+<p>10- 13.30 Buvtadahka dájddarijn Buuti Pedersen Gásluovta skåvlå 5.klássaj. Tiemá li bájnnooahppa ja såddimteknihka. Árbbedábálasj sámebiebbmo; mállegáhkko ja liebma, guossoduvvá.</p>
+<p>Guovvamáno 6.b.</p>
+<p>Guosse Laskestada skåvlå gasskadáses, Stájggo, ja 6. ja 7. klássa Hábmera oajvveskåvlås.</p>
+<p>Kl. 10.00 Sámegielak subtsastimbåddå gámán. Adrian Nystø Mikkelsen, fáhkaåhpadiddje ja May-Judith Amundsen, fáhkaåhpadiddje</p>
+<p xml:lang="kal">Kl. 10.30 Oahpestibme álmmukbiejvevuosádusán <em type="italic">Nunaga- Nunarsuup avannaani </em>Kalaalit Nunaata/Ruonasednama dájddaris Buuti Pedersen </p>
+<p>Kl. 11.00 Sáme giela, lávllagij, båvvaj ja subttsasij birra. Heidi Andersen, rádevadde ja Jørgen Kintel, fáhkaåhpadiddje, låptån. Båddå låhpaduvvá mállegáhkojn ja liemajn (oahppe guossoduvvi)</p>
+<p>Kl. 12.00 Vuosádus/subtsas <em type="italic">Áhko vuohttomlávla, </em>Louise Fontaina baktu </p>
+<p>Moatten kultuvran la dáhpen vuohttomlávllagav, vuolev jali soames bágov áhkos ja ádjás oadtjot. Louise Fontaina subtsas le dallutjis gå sån lågejagák Ruonasednama nejtsutjin hæhttuj vuolgget Dánmarkkuj årutjijt soames dánska familja lunna. Ietjá Ruonasednama mánáj siegen galgaj sån ållu ietjálagátjin sjaddat - galgaj sjaddat dánsska. Moadda jage maŋŋela gå ruoptus sijddaj bådij, ittjij des iednijnis máhte guládallat. Massám lij iednegielas. Sån åhtsågådij identitehtav, aktijvuodav ja dåhkkidimev. Dat doalvoj suv ruoptus åtsåtjijt majt lij láhppám, dagu vuohttomlávllagav mav áhkostis lij oadtjum. Louise Fontain subtsas sijvos ja álkkesláhkáj, huoman sån vájmojt njuorat.</p>
+<p>Kl. 13.00 Hålla bæjvváj. Drag Jiena lávllu</p>
+<p>Káffa, gáhko ja árbbedábálasj sáme biebbmo oasen</p>
+<p>Kl. 17.00 Mæsso Ájluovta/Ájlátte girkkon ja girkkokáffa Árranin</p>
+<p xml:lang="sme"><em type="italic">Louise Fontain/Foto: Louise Fontain </em></p>
+<p>Guovvamáno 9.b.</p>
+<p>Kl. 09.00-11.15 3.ja 4. klássa Hábmera oajvveskåvlås guossen. Duodjuhibme tiebmán. Lilian Urheim, duodjebagádalle ja Heidi Andersen, rádevadde, baktu. Guossoduvvá mállegáhkujn ja liemajn</p>
+<p>Kl. 10.00-10.45 Guosse 1.-4. klássas Laskestad skåvlås, Stájggo.</p>
+<p>Kl. 10.00-10.45 Unnemus oahppe guossidi mánájgárdev ja li tjåhkanimbåttån. 3.-4. klássaoahppe oahpestaláduvvi musean.</p>
+<p>Kl. 11.00 – 11.45 Lávllaga, båva ja subttsasa Laskestad skåvllåj. Anne Kalstad Mikkelsen, rádevadde ja Mikkel Eskil Mikkelsen, fáhkaåhpadiddje, baktu</p>
+<p>Guovvamáno 10.b.</p>
+<p>kl. 10.00 Lågådallam: <em type="italic">Kalaalit Nunaat/Ruonasednam - kolonijas iesjmierredibmáj, riektá sierra stáhttan sjaddat </em>, åtsådimjådediddje Sven-Roald Nystø baktu. </p>
+<p type="title">Dájddárij/artistajbirra:</p>
+<p xml:lang="nob"><em type="italic">Buuti Pedersen: </em></p>
+<p>Buuti Pedersen la Kalaalit Nunaata/Ruonasednama dåbddosamos ja viehka árvon anedum dájddár. Ietjas dájddárvuodajn ja dåjmalasj sæbrrama baktu duon dán kultuvrrajgullevasj prosjæktaj maŋemus 30 jage, le sujna guovdásj rålla Ruonasednama dájdav ja kultuvrav åvddånahttemin. Ietjas moadda tjuorggasij ja hiervvimij ja stuorra berustimijn le sån luottajt miehtáj Ruonasednamav guodám. Suv gájkbelakvuodajn ja dájddadagoj glássas, relieffas, malerijas ja akvarellas le sån miellagiddis gaskostit. Duodden dasi sihtá Árran aj álggoálmmukdájdav tjalmostahttet.</p>
+<p>Dájddárvuodajnis baktu le sån ållusijt njuoradam, e val dåssju sij gudi Ruonasednamin dájdas ja kultuvras berusti. Sån la duodaj nahkam Ruonasednama dájdav ienebujda dåbddusin dahkat, rijkasin ja aj ålggorijkajn. Buuti la barggam prosjevtaj moatten rijkan, Ruonasednama åvdåstiddjen vuosádusájn ja aktisasjbargon ietjá dájddarij ietjá kultuvrajs. Ietjas 30 jage barggoiellemin la sån barggam moattelágásj prosjevtaj duola dagu Danmárkon, Færsuollujn, Islándan, Vuonan, Suoman, Svierigin, Dujskan, Frankrijkan ja Ruossjan.</p>
+<p>Buuti la åvdemusát dåbddusin ietjas moattebájnok, vargga niehkolágásj jiegŋabiernajs. Stuorra, bieddjis biernaj tjavgga stuvssim ja dánssim nubbe nuppij li Buutiv dájdanis mielastuhttám ja arvusmahttám. Dájdda lij åhpadus mij maŋŋela åvddånahteduváj persåvnålasj dádjadussaj jiegŋabiernajs, gånnå sirdeduvvi ietjasa luondulasj universas ienep myhtalasj væráldij. Gallegasj sárgastagáj nahká labudahtte jiegŋabiernajt gåvvit. Muhtem bále vuojnnu dagu dánssa, ietjá bále fármastibmen jali stuvssimin. Bierna li álu dagu álkkes láhkáj sárggiduvvam, sárgastagájn mij le hábmen. Dát dættoduvvá tjielgga bájnoj, ábaj vuosstebiellen álkkes sárgastahkaj. Dát gåvvåj ráfev buktá, valla bájno li huoman tjielggasa ja fábmogisá.</p>
+<p xml:lang="sme"><em type="italic">Louise Fontain: </em></p>
+<p>Bodil Mette Louise Amalie Fontain gåhtjoduvvá Najavaraq ietjas familjas Kalaalit Nunaatan/Ruonasednamin. Aktan bådnjijnis jådedibá ekologalasj båndorsijdav 40 km Aarportes (Hattfjelldalas), 500 m badjelin nuore ja 9 km lagámus ráddnágoades. Sujna li vihtta máná ja sån la gåvvår.</p>
+<p>Louise Fontain le adnám moadda gåvvåvuosádusájt Vuonan ja aj Ruonasednamin. Jagen 2014 oassálastij soames teahter-ja dánssamfestiválan Japanin ja Ruossjan. Radiodokumentárra NRKP2:an <em type="italic">Beretninger om et glemt liv </em>le Louise Fontaina subttsasa birra. </p>
+<p xml:lang="nob"><em type="italic">Ole G. Jensen: </em></p>
+<p>Ienep gå 30 jage la Ole G. Jensen Kalaalit Nunaata/Ruonasednama dájdaj ja kultuvrajn barggam. Måttijt jagijt la årrum bájken Tasiilaq Lulle-Ruonasednamin ja la barggam Ruonasednama sijddastivra kulturdåjmadagán. Sån la museajt Tassilaqan ja Qaqortoqan. Sån la moadda girje Ruonasednama birra tjállám ja la gåvvim ja tjállám moatte ájggetjállagijda ja avijsajda. Gåvvåvuosádus vuoset árggaiellemav gåktu le Tasiilaqa iemeårruj. Vuosádus la vuosádaláduvvam måttijn sajijn Ruonasednamin ja Vuonan. Gåvvåvuosádusájn <em type="italic">3913 Tasiilaq </em>vuoset Ole G. Jensen tjáppa ja hávsskes gåvåjt Tasiilaqas, bájkke Lulle-Ruonasednamin. </p>
+</body></document>

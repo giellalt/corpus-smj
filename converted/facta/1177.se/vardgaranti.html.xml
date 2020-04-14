@@ -1,71 +1,26 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>408</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Vardgaranti</origFileName>
-    <parallel_text xml:lang="eng" location="vardgaranti.html"/>
-    <parallel_text xml:lang="fin" location="vardgaranti.html"/>
-    <parallel_text xml:lang="fit" location="vardgaranti.html"/>
-    <parallel_text xml:lang="sma" location="vardgaranti.html"/>
-    <parallel_text xml:lang="sme" location="vardgaranti.html"/>
-    <parallel_text xml:lang="swe" location="vardgarantier.html"/>
-    <parallel_text location="vardgaranti.html" xml:lang="rmn"/>
-    <parallel_text location="vardgaranti.html" xml:lang="rmu"/>
-    <parallel_text location="vardgaranti.html" xml:lang="rmy-rka"/>
-    <parallel_text location="vardgaranti.html" xml:lang="yid"/>
-    <parallel_text location="vardgaranti.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="vardgaranti.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Sujttogarantiddja / Vårdgaranti - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">JulevusámegiellaLulesamiska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title">SujttogarantiddjaVårdgaranti</p>
-    <p type="title">Sujtto sierra ájge sinna</p>
-    <p type="title">Sujttogarantiddja mij la fámon ålles rijkan</p>
-    <p>Sujttogarantiddja merkaj galggá sujtov sierra ájge sinna oadtjot. Le láhkabiejadum oasse varresvuohta-ja skihpasujttolágan. Sujttogarantiddja diedet makkir ájggemierijn galggá sujtov lánndadikkes jali dajvas fáladuvvat. Sujttolgarantiddja ij stivrri jus sujtov jali makkir sujtov galggá oadtjot.</p>
-    <p>Sujttogarantiddja diedet man mälggadav ienemusát galggá dárbahit vuorddet desik sujtov oadtju. Sierra ájggemiere li umasslágásj sujttotjerdajda, buojkulvissan 7 biejve iejvvitjit dåktåråv varresvuohtaguovdátjin jali 90 biejve manádimev dagátjit, jali dálkudimev oadtjot spesialiseridum sujton. Jus ij la máhttelis sujtov oadtjot ájggemierij sinna sujttoåssudagán gåsi l åhtsåm, de fáladuvvá manádimev jali dálkudimev ietjá sujttoåssudagán. Muhttijn máhttá sujtov fáladuvvat ietjá lánndadikke sujttoåssudagán. Agev la iesjmiedogis guorrasit jali ij fáladussaj mij javllá sujtov ruvábut oadtju ietjá sujttoåssudagán gå gånnå l åhtsåm.</p>
-    <p>Sujttogarantiddja ij guoska hähkka sujttuj. Jus hähkkat skihppá jali vahágahteduvvá de galggá sujtov oadtjott nåv ruvva máhttelis.</p>
-    <p type="title">Rijkalasj Sujttogarantiddja 0-7-90-90</p>
-    <p>Sujttogarantidja milta l rievtesvuohta:</p>
-    <list>
-      <p type="listitem">0 – Aktavuohtaj primerrasujtujn sämmi biejve. Sämmi biejve gå viehkev åhtså de galggá aktavuodav oadtjot primerrasujtujn, buojkulvissan varresvuohtaguovdátjijn jali skihpasujttorádevaddemijn. Máhttá telefåvnå jali manádime baktu.</p>
-      <p type="listitem">7 – Dåktårmanádibmáj primerrasujton gietjan biejven. Jus sujttobargge árvustalli ulmusj dárbaj dåktårav iejvvit de galggá ájgev oadtjot ienemusát gietjan biejven, buojkulvissan varresvuohtaguovdátjin jali fuolkkedåktåra lunna.</p>
-      <p type="listitem">90 – Manádibmáj spesialiseridum sujton 90 biejve sinna. Jus remissav oadtju spesialiseridum sujttuj de galggá ájgev oadtjott 90 biejve sinna. Fámon la aj jus la sujtov åhtsåm váni remissa dagi.</p>
-      <p type="listitem">90 – Dálkudibmáj 90 biejve sinna. Dálkudim märrádusá maŋŋela, buojkulvissan tjuollamij, galggá oadtjot 90 biejve sinna.</p>
-    </list>
-    <p type="title">Goassa sujttogarantiddja ij la fámon?</p>
-    <p>Sujttogarantiddja ij guoska</p>
-    <list>
-      <p type="listitem">ruoptomanádibmáj</p>
-      <p type="listitem">jus aktak medisijnak årijs hähttu vuorddet guhkebut garantiddja ájggemierijs</p>
-      <p type="listitem">medisijnak dievnastussaj, buojkulvissan laboratåvrrå- ja gåvvååtsådime</p>
-      <p type="listitem">guoradallamijda ja åtsådimijda</p>
-      <p type="listitem">viehkkenävvodoalvodibijda, tjuoldas la gulldalimbierggasa gähttjalibme</p>
-      <p type="listitem">jus ij guorrasa sujttofálluj ietjá sujttoåssudagán (jus maŋebut iehtjádav mierret de máhttá guorrasit fáladussaj).</p>
-    </list>
-    <p type="title">Vuorddemájge sujton</p>
-    <p>Gávnnu rijkalasj vebbabielle gånnå máhttá tjuovvot sujtogarantiddjav ja vuorddemájgijt, Vantetider.se. Vebbabielen gávnná gájkka lánndadikkij ja dajvaj vuorddemájgijt.</p>
-    <p type="title">Sujtto ietjá sajen</p>
-    <p>Jus fáladuvvá manádimev jali dálkudimev, mij ij la máhttelis oadtjot sujttogarantiddja ájggemiere sinna, de galggá sujtov ietjá sujttoåssudagán fáladuvvat. Máhttá årrot varresvuohtaguovdátjin, skihpadåben jali vissa priváhtta duostudagájn. Máhttá iesj åvddånbuktet sávaldagáv gåsi sihtá boahtet, valla jus sujttogarantiddja galggá fámon årrot de ij máhte friddja válljit. Jus ij sidá sujtov ietjá sajen gå manna la åhtsåm de máhttá luohpat sujttogarantiddja fáladusás. Máhttá merkahit guhkep ájgev hähttu vuorddet Jus maŋebut gáhtá de agev máhttá ietjas sujttovaddijn aktavuodav válldet. Sujttogarantiddja de fábmuj boahtá dát biejves.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>402</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Vardgaranti</origFileName><parallel_text xml:lang="eng" location="vardgaranti.html"/><parallel_text xml:lang="fin" location="vardgaranti.html"/><parallel_text xml:lang="fit" location="vardgaranti.html"/><parallel_text xml:lang="sma" location="vardgaranti.html"/><parallel_text xml:lang="sme" location="vardgaranti.html"/><parallel_text xml:lang="swe" location="vardgarantier.html"/><parallel_text location="vardgaranti.html" xml:lang="rmn"/><parallel_text location="vardgaranti.html" xml:lang="rmu"/><parallel_text location="vardgaranti.html" xml:lang="rmy-rka"/><parallel_text location="vardgaranti.html" xml:lang="yid"/><parallel_text location="vardgaranti.html" xml:lang="rmy-rlo"/><parallel_text location="vardgaranti.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Sujttogarantiddja / Vårdgaranti - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">SujttogarantiddjaVårdgaranti</p>
+<p type="title">Sujtto sierra ájge sinna</p>
+<p type="title">Sujttogarantiddja mij la fámon ålles rijkan</p>
+<p>Sujttogarantiddja merkaj galggá sujtov sierra ájge sinna oadtjot. Le láhkabiejadum oasse varresvuohta-ja skihpasujttolágan. Sujttogarantiddja diedet makkir ájggemierijn galggá sujtov lánndadikkes jali dajvas fáladuvvat. Sujttolgarantiddja ij stivrri jus sujtov jali makkir sujtov galggá oadtjot.</p>
+<p>Sujttogarantiddja diedet man mälggadav ienemusát galggá dárbahit vuorddet desik sujtov oadtju. Sierra ájggemiere li umasslágásj sujttotjerdajda, buojkulvissan 7 biejve iejvvitjit dåktåråv varresvuohtaguovdátjin jali 90 biejve manádimev dagátjit, jali dálkudimev oadtjot spesialiseridum sujton. Jus ij la máhttelis sujtov oadtjot ájggemierij sinna sujttoåssudagán gåsi l åhtsåm, de fáladuvvá manádimev jali dálkudimev ietjá sujttoåssudagán. Muhttijn máhttá sujtov fáladuvvat ietjá lánndadikke sujttoåssudagán. Agev la iesjmiedogis guorrasit jali ij fáladussaj mij javllá sujtov ruvábut oadtju ietjá sujttoåssudagán gå gånnå l åhtsåm.</p>
+<p>Sujttogarantiddja ij guoska hähkka sujttuj. Jus hähkkat skihppá jali vahágahteduvvá de galggá sujtov oadtjott nåv ruvva máhttelis.</p>
+<p type="title">Rijkalasj Sujttogarantiddja 0-7-90-90</p>
+<p>Sujttogarantidja milta l rievtesvuohta:</p>
+<list><p type="listitem">0 – Aktavuohtaj primerrasujtujn sämmi biejve. Sämmi biejve gå viehkev åhtså de galggá aktavuodav oadtjot primerrasujtujn, buojkulvissan varresvuohtaguovdátjijn jali skihpasujttorádevaddemijn. Máhttá telefåvnå jali manádime baktu.</p>
+<p type="listitem">7 – Dåktårmanádibmáj primerrasujton gietjan biejven. Jus sujttobargge árvustalli ulmusj dárbaj dåktårav iejvvit de galggá ájgev oadtjot ienemusát gietjan biejven, buojkulvissan varresvuohtaguovdátjin jali fuolkkedåktåra lunna.</p>
+<p type="listitem">90 – Manádibmáj spesialiseridum sujton 90 biejve sinna. Jus remissav oadtju spesialiseridum sujttuj de galggá ájgev oadtjott 90 biejve sinna. Fámon la aj jus la sujtov åhtsåm váni remissa dagi.</p>
+<p type="listitem">90 – Dálkudibmáj 90 biejve sinna. Dálkudim märrádusá maŋŋela, buojkulvissan tjuollamij, galggá oadtjot 90 biejve sinna.</p>
+</list><p type="title">Goassa sujttogarantiddja ij la fámon?</p>
+<p>Sujttogarantiddja ij guoska</p>
+<list><p type="listitem">ruoptomanádibmáj</p>
+<p type="listitem">jus aktak medisijnak årijs hähttu vuorddet guhkebut garantiddja ájggemierijs</p>
+<p type="listitem">medisijnak dievnastussaj, buojkulvissan laboratåvrrå- ja gåvvååtsådime</p>
+<p type="listitem">guoradallamijda ja åtsådimijda</p>
+<p type="listitem">viehkkenävvodoalvodibijda, tjuoldas la gulldalimbierggasa gähttjalibme</p>
+<p type="listitem">jus ij guorrasa sujttofálluj ietjá sujttoåssudagán (jus maŋebut iehtjádav mierret de máhttá guorrasit fáladussaj).</p>
+</list><p type="title">Vuorddemájge sujton</p>
+<p>Gávnnu rijkalasj vebbabielle gånnå máhttá tjuovvot sujtogarantiddjav ja vuorddemájgijt, Vantetider.se. Vebbabielen gávnná gájkka lánndadikkij ja dajvaj vuorddemájgijt.</p>
+<p type="title">Sujtto ietjá sajen</p>
+<p>Jus fáladuvvá manádimev jali dálkudimev, mij ij la máhttelis oadtjot sujttogarantiddja ájggemiere sinna, de galggá sujtov ietjá sujttoåssudagán fáladuvvat. Máhttá årrot varresvuohtaguovdátjin, skihpadåben jali vissa priváhtta duostudagájn. Máhttá iesj åvddånbuktet sávaldagáv gåsi sihtá boahtet, valla jus sujttogarantiddja galggá fámon årrot de ij máhte friddja válljit. Jus ij sidá sujtov ietjá sajen gå manna la åhtsåm de máhttá luohpat sujttogarantiddja fáladusás. Máhttá merkahit guhkep ájgev hähttu vuorddet Jus maŋebut gáhtá de agev máhttá ietjas sujttovaddijn aktavuodav válldet. Sujttogarantiddja de fábmuj boahtá dát biejves.</p>
+</body></document>

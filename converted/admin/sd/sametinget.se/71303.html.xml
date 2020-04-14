@@ -1,41 +1,11 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>162</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/71303</origFileName>
-    <parallel_text xml:lang="sma" location="71305.html"/>
-    <parallel_text xml:lang="sme" location="4025.html"/>
-    <parallel_text xml:lang="swe" location="4024.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>GÅLLEGIELLA – Nuorttarijkaj sáme giellaguddnebálkká - Sametinget</p>
-    <p type="title">GÅLLEGIELLA – Nuorttarijkaj sáme giellaguddnebálkká</p>
-    <p>GÅLLEGIELLA – Nuorttarijkaj sáme giellaguddnebálkká juogeduvvá gudát bále tjavtjan 2014, sámeministarijt ja sámedikkepresidentajt jahkásasj tjåhkanimen Helsingforsan. Giellaguddnebálkká juogeduvvá aktugattjajda jali organisasjåvnåjda Vuonan, Svierigin, Suoman jali Gárjjelin sámegielav åvddånahttem.</p>
-    <p>Gållegiella - Nuorttarijkaj sáme giellaguddnebálkká l ásaduvvam sámeministarijs ja sámedikkepresidentajs Vuonan, Svierigin, Suoman. Guddnebálkká juogeduvvá fert nuppát jagev, vuostasj bále jahke 2004. Guddnebálkká stuorrudak la 15 000 euro.</p>
-    <p><em type="italic">Giellaguddnebálkká ulmme </em>Giellaguddnebálkká ulmme l, gielav åvddånahttet ja várjjalit Vuonan, Svierigin, Suoman ja Gárjjelin. </p>
-    <p><em type="italic">Gut máhttá giellaguddnebálkáv oadtjot? </em>Giellaguddnebálkká juogeduvvá aktugattjajda, juohkusijda, organisasjåvnåjda, siebrijda ja institusjåvnåjda gudi li arvusmahttám sámegielav tjálalattjat, njálmálattjat jali ietjá láhkáj. Gájklágátja álggaga ma åvddånahtti gielav vieleduvvi. Guddnebálkká máhttá juogeduvvat. </p>
-    <p><em type="italic">Oajvvada åhttsev! </em>Viesádijt, organisasjåvnåjt, institusjåvnåjt ja fábmudagájt Vuonan, Svierigin, Suoman ja Gárjjelin máhtti nammadit åhttsev giellaguddnebálkkáj 2014. Buvte tjálalasj oajvvadusáv bálkkávuojtten aktan tjálalasj tjielggidusájn 1-2 biele. Sáddi oajvvadusáv åvddål moarmesmáno 30. biejve 2014. </p>
-    <p>
-      <em type="italic">Guládallamdiehto árvustallamjuohkusij: </em>
-    </p>
-    <p><em type="italic">Gollegiella – árvustallamjuogos </em>Sámediggi/Saamelaiskäräjät SAJOS 99870 Anár/Inari, Finland </p>
-    <p>Tel: +358 108 393 100 E-poassta: info@samediggi.fi</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>162</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/71303</origFileName><parallel_text xml:lang="sma" location="71305.html"/><parallel_text xml:lang="sme" location="4025.html"/><parallel_text xml:lang="swe" location="4024.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>GÅLLEGIELLA – Nuorttarijkaj sáme giellaguddnebálkká - Sametinget</p>
+<p type="title">GÅLLEGIELLA – Nuorttarijkaj sáme giellaguddnebálkká</p>
+<p>GÅLLEGIELLA – Nuorttarijkaj sáme giellaguddnebálkká juogeduvvá gudát bále tjavtjan 2014, sámeministarijt ja sámedikkepresidentajt jahkásasj tjåhkanimen Helsingforsan. Giellaguddnebálkká juogeduvvá aktugattjajda jali organisasjåvnåjda Vuonan, Svierigin, Suoman jali Gárjjelin sámegielav åvddånahttem.</p>
+<p>Gållegiella - Nuorttarijkaj sáme giellaguddnebálkká l ásaduvvam sámeministarijs ja sámedikkepresidentajs Vuonan, Svierigin, Suoman. Guddnebálkká juogeduvvá fert nuppát jagev, vuostasj bále jahke 2004. Guddnebálkká stuorrudak la 15 000 euro.</p>
+<p><em type="italic">Giellaguddnebálkká ulmme </em>Giellaguddnebálkká ulmme l, gielav åvddånahttet ja várjjalit Vuonan, Svierigin, Suoman ja Gárjjelin. </p>
+<p><em type="italic">Gut máhttá giellaguddnebálkáv oadtjot? </em>Giellaguddnebálkká juogeduvvá aktugattjajda, juohkusijda, organisasjåvnåjda, siebrijda ja institusjåvnåjda gudi li arvusmahttám sámegielav tjálalattjat, njálmálattjat jali ietjá láhkáj. Gájklágátja álggaga ma åvddånahtti gielav vieleduvvi. Guddnebálkká máhttá juogeduvvat. </p>
+<p><em type="italic">Oajvvada åhttsev! </em>Viesádijt, organisasjåvnåjt, institusjåvnåjt ja fábmudagájt Vuonan, Svierigin, Suoman ja Gárjjelin máhtti nammadit åhttsev giellaguddnebálkkáj 2014. Buvte tjálalasj oajvvadusáv bálkkávuojtten aktan tjálalasj tjielggidusájn 1-2 biele. Sáddi oajvvadusáv åvddål moarmesmáno 30. biejve 2014. </p>
+<p><em type="italic">Guládallamdiehto árvustallamjuohkusij: </em></p>
+<p><em type="italic">Gollegiella – árvustallamjuogos </em>Sámediggi/Saamelaiskäräjät SAJOS 99870 Anár/Inari, Finland </p>
+<p>Tel: +358 108 393 100 E-poassta: info@samediggi.fi</p>
+</body></document>

@@ -1,44 +1,8 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Oahpponævo nuorttasámegiellaj</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2011</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>236</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2011/samisk_281011.pdf</origFileName>
-    <parallel_text xml:lang="nob" location="laeremidler_paa_nordsamisk.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty Skapalen Jårggålibme: Divte Media / Idar Kintel</p>
-    <p>j jj</p>
-    <p>j</p>
-    <p><em type="bold">Moattebájnuk tjuorggasa</em> </p>
-    <p>- Le bierik girjjealmmudahka gudi jáhkki mån máhtáv dav dahkat, måjot sån. Ja girjjealmmudahka le IDUT almmudahka. - Da jáhkki mån máhtáv, måjudallá sån loabdet. Ep gal huoman dåbdå suv loabddásin, valla duodalattjan ja njuolgga. - Fága tjanáduvvi aktij ja riekknimdahkamusájt ja nágin iennilsbágo låhkåmgirjen gávnná, subtsas Lindbach, guhti álgos sidáj girjev hábbmidit statistihka milta man álu gávnnap juohkka bokstávav sáme bágujn, måjudasstá sån. - Statistihkalattjat galgajma álgget bokstávajn G. Valla dav ittjij girjjealmmudahka dåhkkida. Valla sån miejnni le sierralágásj gå li fonetihka birra giehttum dán áldarjuohkusij. - Fonetihkka giehttu jienadimorgána anatomija ja fysiologija birra, gåktu giellajienajt jienadit, ja dánna bessi oahppe gæhttjalit ja guoradallat jienadimev ja gåktu njálmev ja tjåddågav labuda jienadittjat dajt moattelágásj giellajienajt, subtsas sån. Girje li juo juogeduvvam ja anon oahppijs. - Jáhkáv ja sávav girje li geldulattja. Girje manemus bielijn guokta næjtso ságastallaba. Akta nuorttasámegiellaj ja nubbe julevsámegiellaj. - <em type="italic">Le gus máhttelis dát aj sjaddá julevsáme oahpponævvon ja ij dåssju</em> <em type="italic">nuorttasámegiellaj?</em> <em type="italic">- </em>Iv dav sidá. Ihkap gássjelisvuodagráda rievddaduvvá ja ihkap ij hieba dasi. Ij gåjt sjatta njuolgga jårggåluvvat, subtsas girjjetjálle. Valla Lindbach tjállá ietjá girjijt låhkkijda. - Valla e sjatta ienep oahpponævvogirje, måjot sån sluohkasit. </p>
-    <p><em type="italic">Duot dát ássje oahppogirjijn. Harald Lindbach le oahppogirjijt nuorttasámegiellaj</em> <em type="italic">tjállám. Jus båhti oahppogirje julevsámegiellaj sæmmi girjjetjálles ij diehttu.</em> <em type="italic">Litt av hvert i lærebøkene. Harald Lindbach har skrevet nordsamiske lærebøker. Om</em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Oahpponævo nuorttasámegiellaj</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2011</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>236</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2011/samisk_281011.pdf</origFileName><parallel_text xml:lang="nob" location="laeremidler_paa_nordsamisk.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty Skapalen Jårggålibme: Divte Media / Idar Kintel</p>
+<p>j jj</p>
+<p>j</p>
+<p><em type="bold">Moattebájnuk tjuorggasa</em> </p>
+<p>- Le bierik girjjealmmudahka gudi jáhkki mån máhtáv dav dahkat, måjot sån. Ja girjjealmmudahka le IDUT almmudahka. - Da jáhkki mån máhtáv, måjudallá sån loabdet. Ep gal huoman dåbdå suv loabddásin, valla duodalattjan ja njuolgga. - Fága tjanáduvvi aktij ja riekknimdahkamusájt ja nágin iennilsbágo låhkåmgirjen gávnná, subtsas Lindbach, guhti álgos sidáj girjev hábbmidit statistihka milta man álu gávnnap juohkka bokstávav sáme bágujn, måjudasstá sån. - Statistihkalattjat galgajma álgget bokstávajn G. Valla dav ittjij girjjealmmudahka dåhkkida. Valla sån miejnni le sierralágásj gå li fonetihka birra giehttum dán áldarjuohkusij. - Fonetihkka giehttu jienadimorgána anatomija ja fysiologija birra, gåktu giellajienajt jienadit, ja dánna bessi oahppe gæhttjalit ja guoradallat jienadimev ja gåktu njálmev ja tjåddågav labuda jienadittjat dajt moattelágásj giellajienajt, subtsas sån. Girje li juo juogeduvvam ja anon oahppijs. - Jáhkáv ja sávav girje li geldulattja. Girje manemus bielijn guokta næjtso ságastallaba. Akta nuorttasámegiellaj ja nubbe julevsámegiellaj. - <em type="italic">Le gus máhttelis dát aj sjaddá julevsáme oahpponævvon ja ij dåssju</em> <em type="italic">nuorttasámegiellaj?</em> <em type="italic">- </em>Iv dav sidá. Ihkap gássjelisvuodagráda rievddaduvvá ja ihkap ij hieba dasi. Ij gåjt sjatta njuolgga jårggåluvvat, subtsas girjjetjálle. Valla Lindbach tjállá ietjá girjijt låhkkijda. - Valla e sjatta ienep oahpponævvogirje, måjot sån sluohkasit. </p>
+<p><em type="italic">Duot dát ássje oahppogirjijn. Harald Lindbach le oahppogirjijt nuorttasámegiellaj</em> <em type="italic">tjállám. Jus båhti oahppogirje julevsámegiellaj sæmmi girjjetjálles ij diehttu.</em> <em type="italic">Litt av hvert i lærebøkene. Harald Lindbach har skrevet nordsamiske lærebøker. Om</em> </p>
+</body></document>

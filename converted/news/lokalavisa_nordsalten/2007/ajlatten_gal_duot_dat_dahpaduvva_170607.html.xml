@@ -1,46 +1,12 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Ájlátten gal duot dát dáhpáduvvá!</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Lill Tove" lastname="Paulsen" sex="f" born="" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>318</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/-jl-tten-gal-duot-d-t-d-hp-duvv-.4043</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>GÅHTTJU Mihttsamára ávudallamij. Drag Aktivitet ja gårobieles: Thorstein Solstrøm, Ingrid Kintel ja Inge Olsen gåhttju nuorajt, 16 jagágijt ja vuorrasappojt hávsskudalátjit ja suohtastalátjit Ájláddáj Mihttsamára.</p>
-    <p type="title">Ájlátten gal duot dát dáhpáduvvá!</p>
-    <p>Sávvi buorre dálgev, dåjmajt ja 30-40 nuora guhti oassálassti. Mihttsamára galggi Ájlátten suohtastallat volleybállujn, paintbállujn, gilppusij, ståhkusij ja njálga biebmoj.</p>
-    <p>Organisasjåvnnå <span type="quote">“Drag Aktivitet”</span> tjadát dáv ásadimev, ja oadtjum li biednikdårjav moattet guovlos majna dáv tjadádi. Nordlánnda fylkkasuohkan ja Frifond li rudájt juollodam. Dát ásadus gånnå e galga mahkkirak juhkusa (alkohol) gullu divna nuorajdi, ij la dåssju sáme nuorajda nav gåktu ávijsajn la tjáledum.</p>
-    <p>-Divna guhti li 16 jagága ja vuorrasappo bessi oassálasstet, ja ij la ga dárbbo diededit åvddål gå boadá. Vuorddep åvdemusát nuorajt mijá bájkes, valla jus Hábmelnuora båhti de ep rája sijáv, tjajmát Inge Olsen. Ingrid Kintela, Simon Paulsena ja Thorstein Solstrøma siegen le sån ásaduskomitéan. Vierttiji aj viehkev oadtjot ietjá nuorajs guhti gulluji Drag Aktivitehttaj, vaj bessi tjadádit dáv biejvev Ájlátten.</p>
-    <p>Ienemus oasse dåjmajs galggá liehket dannák Ájlát fiervvágátten, gånnå l stuor giedde. Dánna l partytællta ja dållå gånnå máhtti biebmojt basset, ja gånnå ståhki ja gilpustalli. Volleybállojalgga mij la sáddujs dagádum le dannák rahtebællán. Dajna nuora Drag Aktivitehtan dijmmá barggin, ja álu anon la. Mihttsamára aj galggi danna volleybállov spellat. Paintbállo l aj sierraláhkáj doajmma majt nuora berusti. Ásadiddjijn li ietjajnis vædtsaga ja bagádalle. Almulasj doarjjaga dahki vaj máhtti tjadádit dáv biejvev, ja danen e aktak dárbaha mákset dán oassálasstemij Ájlátten.</p>
-    <p>-Ja e ga aktak dárbaha biebmojs mákset iehkedis. Dánna oattjo bårråt gallánibmáj, subtsasti Ingrid Kintel, Thorstein Solstrøm ja Inge Olsen – ja diedon doajvvu buorre dálkev dan biejve. Hávsskedabbo l. Valla jus nievres dálkijn boahtá, de la miján ietjá tjåvddusa.</p>
-    <p>- Vuordatjip tjáhpa dálkev, ållo nuorajt ja hávsskes biejvev. Ájládde l sadje nuorajdi Mihttsamára, subtsasti dá gålmmå ásadiddje.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title">Diskutér "Ájlátten gal duot dát dáhpáduvvá!" på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Ájlátten gal duot dát dáhpáduvvá!</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><person firstname="Lill Tove" lastname="Paulsen" sex="f" born="" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>318</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/-jl-tten-gal-duot-d-t-d-hp-duvv-.4043</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>GÅHTTJU Mihttsamára ávudallamij. Drag Aktivitet ja gårobieles: Thorstein Solstrøm, Ingrid Kintel ja Inge Olsen gåhttju nuorajt, 16 jagágijt ja vuorrasappojt hávsskudalátjit ja suohtastalátjit Ájláddáj Mihttsamára.</p>
+<p type="title">Ájlátten gal duot dát dáhpáduvvá!</p>
+<p>Sávvi buorre dálgev, dåjmajt ja 30-40 nuora guhti oassálassti. Mihttsamára galggi Ájlátten suohtastallat volleybállujn, paintbállujn, gilppusij, ståhkusij ja njálga biebmoj.</p>
+<p>Organisasjåvnnå <span type="quote">“Drag Aktivitet”</span> tjadát dáv ásadimev, ja oadtjum li biednikdårjav moattet guovlos majna dáv tjadádi. Nordlánnda fylkkasuohkan ja Frifond li rudájt juollodam. Dát ásadus gånnå e galga mahkkirak juhkusa (alkohol) gullu divna nuorajdi, ij la dåssju sáme nuorajda nav gåktu ávijsajn la tjáledum.</p>
+<p>-Divna guhti li 16 jagága ja vuorrasappo bessi oassálasstet, ja ij la ga dárbbo diededit åvddål gå boadá. Vuorddep åvdemusát nuorajt mijá bájkes, valla jus Hábmelnuora båhti de ep rája sijáv, tjajmát Inge Olsen. Ingrid Kintela, Simon Paulsena ja Thorstein Solstrøma siegen le sån ásaduskomitéan. Vierttiji aj viehkev oadtjot ietjá nuorajs guhti gulluji Drag Aktivitehttaj, vaj bessi tjadádit dáv biejvev Ájlátten.</p>
+<p>Ienemus oasse dåjmajs galggá liehket dannák Ájlát fiervvágátten, gånnå l stuor giedde. Dánna l partytællta ja dållå gånnå máhtti biebmojt basset, ja gånnå ståhki ja gilpustalli. Volleybállojalgga mij la sáddujs dagádum le dannák rahtebællán. Dajna nuora Drag Aktivitehtan dijmmá barggin, ja álu anon la. Mihttsamára aj galggi danna volleybállov spellat. Paintbállo l aj sierraláhkáj doajmma majt nuora berusti. Ásadiddjijn li ietjajnis vædtsaga ja bagádalle. Almulasj doarjjaga dahki vaj máhtti tjadádit dáv biejvev, ja danen e aktak dárbaha mákset dán oassálasstemij Ájlátten.</p>
+<p>-Ja e ga aktak dárbaha biebmojs mákset iehkedis. Dánna oattjo bårråt gallánibmáj, subtsasti Ingrid Kintel, Thorstein Solstrøm ja Inge Olsen – ja diedon doajvvu buorre dálkev dan biejve. Hávsskedabbo l. Valla jus nievres dálkijn boahtá, de la miján ietjá tjåvddusa.</p>
+<p>- Vuordatjip tjáhpa dálkev, ållo nuorajt ja hávsskes biejvev. Ájládde l sadje nuorajdi Mihttsamára, subtsasti dá gålmmå ásadiddje.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title">Diskutér "Ájlátten gal duot dát dáhpáduvvá!" på Facebook</p>
+</body></document>

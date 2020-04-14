@@ -1,54 +1,30 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <wordcount>411</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 32698 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Diehto nasjonálalasj gæhttjalimij birra   </p>
-    <p>5. ja 8. klássagij åvdåstiddjida/æjgádijda </p>
-    <p>Manen nasjonálalasj gæhttjalimijt tjadádit? </p>
-    <p>Nasjonálalasj gæhttjalime galggi diededit jus oahppij máhtudahka l oahppoulmij milta. Oahppoplánan le vuodotjehpudahka dán láhkáj tjielggiduvvam:</p>
-    <p type="listitem">• Máhttet njálmálattjat åvddånbuktet </p>
-    <p type="listitem">• Máhttet tjálalattjat åvddånbuktet </p>
-    <p type="listitem">• Máhttet låhkåt </p>
-    <p type="listitem">• Máhttet riekknit </p>
-    <p type="listitem">• Máhttet digitála vædsagijt adnet </p>
-    <p>Dá máhtudagá li ájnnasa åhpadussaj ja åvddånibmáj juohkka fágan ja merkaj ålov gåktu oahppe rijbadi skåvlån ja boahtte ájgen. Danen le vuodotjehpudahka oasse juohkka fágajn. Oahppe hæhttuji buojkulvissan máhttet låhkåt váj diedojt máhttet tjoahkkit, máhttet dålkkut ja ájádallat luonndofága sisano birra. Hæhttuji máhttet riekknit váj bukti giehtadallat ja buohtastahttet tállajt ja lågojt fáhkalasj tiemáj birra sebrudakfágan. Biebbmo ja varresvuodafágan vierttiji barggonjuolgadusájt máhttet låhkåt ja vierttiji aj buktet riekknit man ålov dárbahi gå galggi biebojt dahkat.</p>
-    <p>Jagen 2008 galggi 5. ja 8. klássaga gålmmå nasjonálalasj gæhttjalime tjadádit: </p>
-    <p type="listitem">• Dárogiella låhkåt </p>
-    <p type="listitem" xml:lang="deu">• Riekknit </p>
-    <p type="listitem">• Iieŋŋilsgiellaj låhkåt </p>
-    <p>Nasjonálalasj gæhttjalime ieŋŋilisgiellaj galggi elektråvnålattjat tjadáduvvat. Låhkåm dárogiellaj ja riekknim tjadáduvvi vas giehtatjállema baktu. Dá ælla gæhttjalime dárogielfágan ja matematikkfágan, valla låhkåmin ja reikknimin moattelágásj fágajn.</p>
-    <p>Gæhttjalime båhtusa vuosedi oahppij dásev låhkåmin, riekknimin ja låhkåmin ieŋŋilsgiellaj.  Skåvlå, suohkana ja oajválattja galggi dáv diedov adnet váj åhpadibme buoremus lágijn tjadáduvvá.</p>
-    <p>Guhti gæhttjalimijt galggi tjadádit? </p>
-    <p>2008 nasjonálalasj gæhttjalime tjadáduvvi oahppijda 5. ja 8. klássan, vuodoskåvlån. Gæhttjalime li bákkulattja, gehtja åhpaduslága biehtsemáno 23. biejve 2006 njuolgadusájt, § 2-4, ja privatskåvllålága snjilltjamáno 14. biejve 2006 njuolgadusájt, § 2-4.</p>
-    <p>Skåvllå máhttá mierredit bessat sæbrramis nasjonálalasj gæhttjalimijda. Oahppijn gænna li sierralágásj dárbo åhpaduslága 5. kapihttala milta, jali oahppijn gænna li sierralágásj giellaåhpadibme åhpaduslága milta bessi nasjonálalasj gæhttjalimijda sæbrramis. Vájku oahppe ij dárbaha sæbrrat, de máhttá huoman iesj/ åvdåstiddje mierredit jus sihtá gæhttjalimev tjadádit.</p>
-    <p>Oahppe guhti e nasjonálalasj gæhttjalimijt mierredimbæjvváj tjadáda, oadtju vejulasjvuodav gæhttjalimev maŋŋela tjadádit.</p>
-    <p>Goassa gæhttjalime galggi tjadáduvvat? </p>
-    <p>Dán jage, ragátmáno galggi divna gæhttjalime tjadáduvvat.</p>
-    <p>Tjadádibme 5. klássagijda Dijstahka 23.09:    Riekknim Duorastahka 25.09:  Låhkåm dárogiellaj 36 ja 37 váhko:    Ieŋŋilsgiellaj låhkåt    (elektråvnnålasj  gæhttjalibme) </p>
-    <p>Tjadádibme 8. klássagijda Dijstahka 23.09:    Riekknim Duorastahka 25.09:  Dárogiellaj låhkåt 38 ja 39 váhko:    Ieŋŋilsgiellaj låhkåt   (elektråvnnålasj  gæhttjalibme) </p>
-    <p>Låhkåma ja riekknima gæhttalimij ájgge le 90 minuhta goappátjij dásijn. Elektråvnnålasj gæhttjalibme låhkåmis ieŋŋilsgielan vihpá 60 minuhta goappátjij dásijn.</p>
-    <p>Makkir dahkamusájt oahppe galggi tjoavddet? </p>
-    <p>Gæhttjalimij sisado l kombinasjåvnnå motteválljimdahkamusáj ja Gájkka Máhtudaklåpptima oahppoplána gávnnuji åhpadusdirektoráhta sijddasijdon www.udir.no/grep. Oahppoplánaj sisadno le duola dagu 4. ja 7. dáse máhtudakulme ma li vuodon 5. ja 8. dáse nasjonálalasj gæhttjalimijda.</p>
-    <p>Åvdåstiddje/æjgáda máhtti oadtjot ienep diedojt nasjonálalasj gæhttjalimij birra skåvlås.</p>
-    <p xml:lang="sme">Kolstadgata 1 Postboks 2924 Tøyen 0608 OSLO Telefåvnnå 23 30 12 00 Telefaks 23 30 12 99 www.utdanningsdirektoratet.no</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><wordcount>411</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 32698 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Diehto nasjonálalasj gæhttjalimij birra   </p>
+<p>5. ja 8. klássagij åvdåstiddjida/æjgádijda </p>
+<p>Manen nasjonálalasj gæhttjalimijt tjadádit? </p>
+<p>Nasjonálalasj gæhttjalime galggi diededit jus oahppij máhtudahka l oahppoulmij milta. Oahppoplánan le vuodotjehpudahka dán láhkáj tjielggiduvvam:</p>
+<p type="listitem">• Máhttet njálmálattjat åvddånbuktet </p>
+<p type="listitem">• Máhttet tjálalattjat åvddånbuktet </p>
+<p type="listitem">• Máhttet låhkåt </p>
+<p type="listitem">• Máhttet riekknit </p>
+<p type="listitem">• Máhttet digitála vædsagijt adnet </p>
+<p>Dá máhtudagá li ájnnasa åhpadussaj ja åvddånibmáj juohkka fágan ja merkaj ålov gåktu oahppe rijbadi skåvlån ja boahtte ájgen. Danen le vuodotjehpudahka oasse juohkka fágajn. Oahppe hæhttuji buojkulvissan máhttet låhkåt váj diedojt máhttet tjoahkkit, máhttet dålkkut ja ájádallat luonndofága sisano birra. Hæhttuji máhttet riekknit váj bukti giehtadallat ja buohtastahttet tállajt ja lågojt fáhkalasj tiemáj birra sebrudakfágan. Biebbmo ja varresvuodafágan vierttiji barggonjuolgadusájt máhttet låhkåt ja vierttiji aj buktet riekknit man ålov dárbahi gå galggi biebojt dahkat.</p>
+<p>Jagen 2008 galggi 5. ja 8. klássaga gålmmå nasjonálalasj gæhttjalime tjadádit: </p>
+<p type="listitem">• Dárogiella låhkåt </p>
+<p type="listitem" xml:lang="deu">• Riekknit </p>
+<p type="listitem">• Iieŋŋilsgiellaj låhkåt </p>
+<p>Nasjonálalasj gæhttjalime ieŋŋilisgiellaj galggi elektråvnålattjat tjadáduvvat. Låhkåm dárogiellaj ja riekknim tjadáduvvi vas giehtatjállema baktu. Dá ælla gæhttjalime dárogielfágan ja matematikkfágan, valla låhkåmin ja reikknimin moattelágásj fágajn.</p>
+<p>Gæhttjalime båhtusa vuosedi oahppij dásev låhkåmin, riekknimin ja låhkåmin ieŋŋilsgiellaj.  Skåvlå, suohkana ja oajválattja galggi dáv diedov adnet váj åhpadibme buoremus lágijn tjadáduvvá.</p>
+<p>Guhti gæhttjalimijt galggi tjadádit? </p>
+<p>2008 nasjonálalasj gæhttjalime tjadáduvvi oahppijda 5. ja 8. klássan, vuodoskåvlån. Gæhttjalime li bákkulattja, gehtja åhpaduslága biehtsemáno 23. biejve 2006 njuolgadusájt, § 2-4, ja privatskåvllålága snjilltjamáno 14. biejve 2006 njuolgadusájt, § 2-4.</p>
+<p>Skåvllå máhttá mierredit bessat sæbrramis nasjonálalasj gæhttjalimijda. Oahppijn gænna li sierralágásj dárbo åhpaduslága 5. kapihttala milta, jali oahppijn gænna li sierralágásj giellaåhpadibme åhpaduslága milta bessi nasjonálalasj gæhttjalimijda sæbrramis. Vájku oahppe ij dárbaha sæbrrat, de máhttá huoman iesj/ åvdåstiddje mierredit jus sihtá gæhttjalimev tjadádit.</p>
+<p>Oahppe guhti e nasjonálalasj gæhttjalimijt mierredimbæjvváj tjadáda, oadtju vejulasjvuodav gæhttjalimev maŋŋela tjadádit.</p>
+<p>Goassa gæhttjalime galggi tjadáduvvat? </p>
+<p>Dán jage, ragátmáno galggi divna gæhttjalime tjadáduvvat.</p>
+<p>Tjadádibme 5. klássagijda Dijstahka 23.09:    Riekknim Duorastahka 25.09:  Låhkåm dárogiellaj 36 ja 37 váhko:    Ieŋŋilsgiellaj låhkåt    (elektråvnnålasj  gæhttjalibme) </p>
+<p>Tjadádibme 8. klássagijda Dijstahka 23.09:    Riekknim Duorastahka 25.09:  Dárogiellaj låhkåt 38 ja 39 váhko:    Ieŋŋilsgiellaj låhkåt   (elektråvnnålasj  gæhttjalibme) </p>
+<p>Låhkåma ja riekknima gæhttalimij ájgge le 90 minuhta goappátjij dásijn. Elektråvnnålasj gæhttjalibme låhkåmis ieŋŋilsgielan vihpá 60 minuhta goappátjij dásijn.</p>
+<p>Makkir dahkamusájt oahppe galggi tjoavddet? </p>
+<p>Gæhttjalimij sisado l kombinasjåvnnå motteválljimdahkamusáj ja Gájkka Máhtudaklåpptima oahppoplána gávnnuji åhpadusdirektoráhta sijddasijdon www.udir.no/grep. Oahppoplánaj sisadno le duola dagu 4. ja 7. dáse máhtudakulme ma li vuodon 5. ja 8. dáse nasjonálalasj gæhttjalimijda.</p>
+<p>Åvdåstiddje/æjgáda máhtti oadtjot ienep diedojt nasjonálalasj gæhttjalimij birra skåvlås.</p>
+<p xml:lang="sme">Kolstadgata 1 Postboks 2924 Tøyen 0608 OSLO Telefåvnnå 23 30 12 00 Telefaks 23 30 12 99 www.utdanningsdirektoratet.no</p>
+</body></document>

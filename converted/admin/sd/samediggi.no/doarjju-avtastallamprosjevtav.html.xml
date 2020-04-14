@@ -1,50 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Doarjju avtastallamprosjevtav</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2017</year>
-    <wordcount>262</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/AAdaasa/Doarjju-avtastallamprosjevtav</origFileName>
-    <parallel_text xml:lang="nob" location="stoetter-verddestallan-prosjekt.html"/>
-    <parallel_text xml:lang="sma" location="verddestallan-prosjektem-daaaarje.html"/>
-    <parallel_text xml:lang="sme" location="dorjot-verddestallan-proseavtta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Doarjju avtastallamprosjevtav</p>
-    <p><em type="italic">Sámedikkeráde juollot 320.000 kråvnå Guovdagæjno nuorajskåvllåj mij galggá aktan barggat avtastallamsijdajn (verddesiida </em>) <em type="italic">oahppijt åhpadittjat boatsojsujto ja avtastallama birra. </em></p>
-    <p>Guovdagæjno nuorajskåvllå ájggu ásadit aktisasjbargov avtastallamsijdajn (boatsojsujttosijdajn). Sijdda galggá sjaddat stuoves avtastallamsijddan skåvllåj, gåsi oahppe aktan åhpadiddjij bessi mannat boatsojsujto ja avtastallama birra oahppat, ja oahppat majda dakkir <span type="quote">«boatsojsujttorádna»</span> (nuorttasábmáj verdde) la viehkken boatsojsujttobargon. Oahppe galggi oassálasstet ienemus bargojda ja dahkamusájda boatsojsujton, sæmmi láhkáj duot dát dahkamus luondulattjat boatsojsujtov jagev miehtáj tjuovvu.</p>
-    <p>Prosjevta dahkamusá ja dåjma galggi filmmiduvvat ja åvddånahteduvvat oahpponævvon, ma sæmmi bále sjaddi duodastussan man láhkáj åhpadusariedná máhttá klássalanjás sirdeduvvat.</p>
-    <p>
-      <em type="italic">Duodje ienemus fágajda </em>
-    </p>
-    <p>Guovdagæjno nuorajskåvllå galggá aj oahppijt oahpásmahttet duon dán duodjuhimvuohkáj nuortta,- julev- ja oarjjelsámeguovlos. Åhpadiddje galggi oahpástuvvat ja árvvon adnegoahtet duodjeåhpadusáv gájkajn fágajn åvdedittjat sáme skåvlå sisanov ja oahppij árbbediedov.</p>
-    <p>Duodjeåhpadus galggá oassen ienemus skåvllåfágajn sjaddat, duola dagu galggi oahppe matematihkav dádjadit duoje baktu. Skåvllå galggá aktan barggat Sáme Allaskåvlåjn ja ietjá duodjedåjmadiddje gåsstå luondulattjat máhtudagáv viedtjá.</p>
-    <p>
-      <em type="italic">– Ájnas la árbbediedov skåvlån nannit </em>
-    </p>
-    <p>Sámedikkerádesebrulasj Juhána Biera Biret Márjá/Berit Marie P.E. Eira javllá, goappátja prosjevta li ájnas viehkken man láhkáj árbbediedov máhttá skåvlån joarkket.</p>
-    <p>– Mijá mielas la árbbediehto skåvlån nanniduvvá. Prosjækta l siegen åvddånahttemin sámegielav, iesjdåbdov ja árbbediedov vaddet, gå oahppe praktihkalasj dahkamusáj ja dåjmaj baktu oahppi sáme termajt sáme boatsojsujton.</p>
-    <p>Eira javllá, sáme skåvlåjn galggá sáme sisadno gånnå oahppe bessi dåbddåt ietjasa sáme kulturárbev ja sáme gielav.</p>
-    <p>-Jur gå oahppe dákkir prosjevtajn barggi, oahppi mihástallat ietjasa sáme iesjdåbdos ja sáme kulturárbes, ja dåbdijdi jasskavuodav ietjasa iesjdåbdojn, javllá Eira.</p>
-    <p>
-      <em type="italic">Gatjálvisá jali ságájdahtátjit, guládalá sámedikkerádijn Juhána Biera Biret Márjájn/Berit Marie P.E. Eirajn, mob. +47 913 28 626. </em>
-    </p>
-    <p>Gåvå</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Doarjju avtastallamprosjevtav</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2017</year><wordcount>262</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/AAdaasa/Doarjju-avtastallamprosjevtav</origFileName><parallel_text xml:lang="nob" location="stoetter-verddestallan-prosjekt.html"/><parallel_text xml:lang="sma" location="verddestallan-prosjektem-daaaarje.html"/><parallel_text xml:lang="sme" location="dorjot-verddestallan-proseavtta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Doarjju avtastallamprosjevtav</p>
+<p><em type="italic">Sámedikkeráde juollot 320.000 kråvnå Guovdagæjno nuorajskåvllåj mij galggá aktan barggat avtastallamsijdajn (verddesiida </em>) <em type="italic">oahppijt åhpadittjat boatsojsujto ja avtastallama birra. </em></p>
+<p>Guovdagæjno nuorajskåvllå ájggu ásadit aktisasjbargov avtastallamsijdajn (boatsojsujttosijdajn). Sijdda galggá sjaddat stuoves avtastallamsijddan skåvllåj, gåsi oahppe aktan åhpadiddjij bessi mannat boatsojsujto ja avtastallama birra oahppat, ja oahppat majda dakkir <span type="quote">«boatsojsujttorádna»</span> (nuorttasábmáj verdde) la viehkken boatsojsujttobargon. Oahppe galggi oassálasstet ienemus bargojda ja dahkamusájda boatsojsujton, sæmmi láhkáj duot dát dahkamus luondulattjat boatsojsujtov jagev miehtáj tjuovvu.</p>
+<p>Prosjevta dahkamusá ja dåjma galggi filmmiduvvat ja åvddånahteduvvat oahpponævvon, ma sæmmi bále sjaddi duodastussan man láhkáj åhpadusariedná máhttá klássalanjás sirdeduvvat.</p>
+<p><em type="italic">Duodje ienemus fágajda </em></p>
+<p>Guovdagæjno nuorajskåvllå galggá aj oahppijt oahpásmahttet duon dán duodjuhimvuohkáj nuortta,- julev- ja oarjjelsámeguovlos. Åhpadiddje galggi oahpástuvvat ja árvvon adnegoahtet duodjeåhpadusáv gájkajn fágajn åvdedittjat sáme skåvlå sisanov ja oahppij árbbediedov.</p>
+<p>Duodjeåhpadus galggá oassen ienemus skåvllåfágajn sjaddat, duola dagu galggi oahppe matematihkav dádjadit duoje baktu. Skåvllå galggá aktan barggat Sáme Allaskåvlåjn ja ietjá duodjedåjmadiddje gåsstå luondulattjat máhtudagáv viedtjá.</p>
+<p><em type="italic">– Ájnas la árbbediedov skåvlån nannit </em></p>
+<p>Sámedikkerádesebrulasj Juhána Biera Biret Márjá/Berit Marie P.E. Eira javllá, goappátja prosjevta li ájnas viehkken man láhkáj árbbediedov máhttá skåvlån joarkket.</p>
+<p>– Mijá mielas la árbbediehto skåvlån nanniduvvá. Prosjækta l siegen åvddånahttemin sámegielav, iesjdåbdov ja árbbediedov vaddet, gå oahppe praktihkalasj dahkamusáj ja dåjmaj baktu oahppi sáme termajt sáme boatsojsujton.</p>
+<p>Eira javllá, sáme skåvlåjn galggá sáme sisadno gånnå oahppe bessi dåbddåt ietjasa sáme kulturárbev ja sáme gielav.</p>
+<p>-Jur gå oahppe dákkir prosjevtajn barggi, oahppi mihástallat ietjasa sáme iesjdåbdos ja sáme kulturárbes, ja dåbdijdi jasskavuodav ietjasa iesjdåbdojn, javllá Eira.</p>
+<p><em type="italic">Gatjálvisá jali ságájdahtátjit, guládalá sámedikkerádijn Juhána Biera Biret Márjájn/Berit Marie P.E. Eirajn, mob. +47 913 28 626. </em></p>
+<p>Gåvå</p>
+</body></document>

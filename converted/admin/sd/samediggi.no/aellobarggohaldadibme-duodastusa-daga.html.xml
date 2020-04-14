@@ -1,51 +1,13 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>248</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/AEllobarggohaldadibme-duodastusa-daga</origFileName>
-    <parallel_text xml:lang="nob" location="en-reindriftsforvaltning-uten-legitimitet.html"/>
-    <parallel_text xml:lang="sma" location="akte-baaatsoeburriejreereme-bielelen-luhpiesvoete.html"/>
-    <parallel_text xml:lang="sme" location="boazodoallohalddaseapmi-legitimitehta-haga.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Ællobarggoháldadibme duodastusá dagá / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
-    <p type="title">Ællobarggoháldadibme duodastusá dagá</p>
-    <p xml:lang="nob">21. tsïengele 2013</p>
-    <p>Ednambarggo- ja biebbmodepartemænnta ij berusta Sámedikke ja Vuona Ællosámij Rijkasiebre tsuojggidusáv (NBR) hiejttedimes ællobarggoháldadime guovllojådediddjes ja Fylkkamánne vuollájbiedjamav háldadimkontåvråjs.</p>
-    <p>
-      <em type="bold">- Dákkir ålgoduvvam Sámedikkes ja NBRas le munji riek alvos. Rievddama sjaddi dáhpáduvvat Sámedikke guorrasime dagi, javllá sámedikkeráde ájras Ellinor Marita Jåma. </em>
-    </p>
-    <p>Diededime dagi tjuottjodij Ednambarggo- ja biebbmodepartemænnta sáhkadiedádusán vuoratjismánon 2011 gåktu ællobarggoháldadibme galgaj rievdaduvvat. Rádádallama organiserimrievddama birra álgaduvvin esski snjuktjamánon 2012 maŋŋel gå departemænnta dåhkkidi árvvaladdat ietjá tjoavddusijt.</p>
-    <p>
-      <em type="bold">- Sámedigge ja NBR li oajvvadam snivva ájádallam såhpamusoajvvadusájt, valla departemænnta ij le sihtam mijá vuossti boahtet. Muv mielas máhttá gatjádit jus departemænnta le rádádallam buoremus ájggomusáj ja ulmijn guorrasit nav gåk vierttiji, javllá Ellinor Marita Jåma. </em>
-    </p>
-    <p>Ællobarggo le ájnna æládus mij le kultuvralasj sáme æládus, ja le tjiehkagiergge sáme kultuvran. Stuorradigge le badjel 20 jage ja moaddi moalgedam sámepolitihkalasj ulmme le sirddet mierredimfámov ássjijn ma sierraláhkáj sáme álmmugav guoskat sáme sebrudahkaj. Stáhtta le aj álmmukriektálattjat vælggogis nannit vaj sáme iesj mierredit gåktu háldadit ietjas æládusájt.</p>
-    <p>
-      <em type="bold">- Departemænnta vállji ællobarggoháldadimev mij guodá guoskavasj sámepolitihkav ja álmmukriektálasj vælggogisvuodajt. Oadtjop ællobarggoháldadimev duodastusá dagá. Akta båhtus dássta le Sámedigge viertti gæssádit nammadum ájrrasijt Ællobarggostivras. Háldadibme duodastusá dagá le hæjos háldadibme. Dát rievdadibme sjaddá ájggomusáj vuossti doajmmat, javllá Ellinor Marita Jåma. </em>
-    </p>
-    <p>Ednambarggo- ja biebbmodepartementa oajvvadus rievddamij ællobarggolágas guovllostivrra hiejttema hárráj, aktan vuollájbiedjamijn ællobarggoháldadusás Fylkkamánnáj galggá giehtadaláduvvat Sámedikke ållestjåhkanimes åvddål láhkaárvvalus åvdeduvvá Stuorradiggáj.</p>
-    <p>
-      <em type="bold">Guládallamulmusj: </em>
-    </p>
-    <p>Rádeájras Ellinor Marita Jåma , tlf. 916 13 460.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>248</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/AEllobarggohaldadibme-duodastusa-daga</origFileName><parallel_text xml:lang="nob" location="en-reindriftsforvaltning-uten-legitimitet.html"/><parallel_text xml:lang="sma" location="akte-baaatsoeburriejreereme-bielelen-luhpiesvoete.html"/><parallel_text xml:lang="sme" location="boazodoallohalddaseapmi-legitimitehta-haga.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Ællobarggoháldadibme duodastusá dagá / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
+<p type="title">Ællobarggoháldadibme duodastusá dagá</p>
+<p xml:lang="nob">21. tsïengele 2013</p>
+<p>Ednambarggo- ja biebbmodepartemænnta ij berusta Sámedikke ja Vuona Ællosámij Rijkasiebre tsuojggidusáv (NBR) hiejttedimes ællobarggoháldadime guovllojådediddjes ja Fylkkamánne vuollájbiedjamav háldadimkontåvråjs.</p>
+<p><em type="bold">- Dákkir ålgoduvvam Sámedikkes ja NBRas le munji riek alvos. Rievddama sjaddi dáhpáduvvat Sámedikke guorrasime dagi, javllá sámedikkeráde ájras Ellinor Marita Jåma. </em></p>
+<p>Diededime dagi tjuottjodij Ednambarggo- ja biebbmodepartemænnta sáhkadiedádusán vuoratjismánon 2011 gåktu ællobarggoháldadibme galgaj rievdaduvvat. Rádádallama organiserimrievddama birra álgaduvvin esski snjuktjamánon 2012 maŋŋel gå departemænnta dåhkkidi árvvaladdat ietjá tjoavddusijt.</p>
+<p><em type="bold">- Sámedigge ja NBR li oajvvadam snivva ájádallam såhpamusoajvvadusájt, valla departemænnta ij le sihtam mijá vuossti boahtet. Muv mielas máhttá gatjádit jus departemænnta le rádádallam buoremus ájggomusáj ja ulmijn guorrasit nav gåk vierttiji, javllá Ellinor Marita Jåma. </em></p>
+<p>Ællobarggo le ájnna æládus mij le kultuvralasj sáme æládus, ja le tjiehkagiergge sáme kultuvran. Stuorradigge le badjel 20 jage ja moaddi moalgedam sámepolitihkalasj ulmme le sirddet mierredimfámov ássjijn ma sierraláhkáj sáme álmmugav guoskat sáme sebrudahkaj. Stáhtta le aj álmmukriektálattjat vælggogis nannit vaj sáme iesj mierredit gåktu háldadit ietjas æládusájt.</p>
+<p><em type="bold">- Departemænnta vállji ællobarggoháldadimev mij guodá guoskavasj sámepolitihkav ja álmmukriektálasj vælggogisvuodajt. Oadtjop ællobarggoháldadimev duodastusá dagá. Akta båhtus dássta le Sámedigge viertti gæssádit nammadum ájrrasijt Ællobarggostivras. Háldadibme duodastusá dagá le hæjos háldadibme. Dát rievdadibme sjaddá ájggomusáj vuossti doajmmat, javllá Ellinor Marita Jåma. </em></p>
+<p>Ednambarggo- ja biebbmodepartementa oajvvadus rievddamij ællobarggolágas guovllostivrra hiejttema hárráj, aktan vuollájbiedjamijn ællobarggoháldadusás Fylkkamánnáj galggá giehtadaláduvvat Sámedikke ållestjåhkanimes åvddål láhkaárvvalus åvdeduvvá Stuorradiggáj.</p>
+<p><em type="bold">Guládallamulmusj: </em></p>
+<p>Rádeájras Ellinor Marita Jåma , tlf. 916 13 460.</p>
+</body></document>

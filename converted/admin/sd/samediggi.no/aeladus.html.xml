@@ -1,57 +1,23 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>122</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/AEladus</origFileName>
-    <parallel_text xml:lang="nob" location="naeringer.html"/>
-    <parallel_text xml:lang="sma" location="jielemh.html"/>
-    <parallel_text xml:lang="sme" location="ealahusat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Æládus / Sámedigge - Sametinget</p>
-    <p>Åtså biednikdårjav</p>
-    <p type="title">Æládus</p>
-    <p>Bisodit ja åvddånahttet  sámeæládusvuogijt  la duodastus æládusvuodon sámijda, ja la duohtavuohta åvddånahttemi sámekultuvrraj ja viesso sámegiellaj.</p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="nob">Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="nob">Nordre</p>
-    <list>
-      <p type="listitem">Boatsojæládus</p>
-      <p type="listitem">Marijna æládusá</p>
-      <p type="listitem">Ednambarggo</p>
-      <p type="listitem">Duodje</p>
-      <p type="listitem">Moattelágásj æládusiellem</p>
-      <p type="listitem">Kulturæládus</p>
-      <p type="listitem" xml:lang="sme">Árvvodahko prográmma</p>
-    </list>
-    <p type="title">Sámedigge barggá</p>
-    <list>
-      <p type="listitem">Nanos ja ålolágásj æládusiellem</p>
-      <p type="listitem">Æládusiellem mij tsieggi ja válddá berustibmáj sáme kultuvrav, luondov ja birrusav</p>
-      <p type="listitem">Æládusiellem mij dahká vuodov viessonanos bájkálasj sebrudahkaj gånnå almatja sihti årrot</p>
-    </list>
-    <p type="title">Duogásj</p>
-    <p>Sáme æládusá li dijdalattjat årrum tjaddnum luonnduj. Sáme li viedtjam viessomlájbev ja sisboadov tjuohppamis miehttsevaddásij baktu, guollimis, ednambargos ja ællobargos, mij aj la vaddám ábnnasijt duodjáj ja fert slaje joarkkagárvedimbierggasijda. Sáme vierrek hárjján åvddånahttet nåv vaj ij bieste sijá ietjas kultuvrav.</p>
-    <p>Dat mássjkedis ja oajvvás vuojnno rievddamusájda ja ådåájádallamijda la ájnas árvvo sámeæládusåvddånahttemin uddniga.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>122</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/AEladus</origFileName><parallel_text xml:lang="nob" location="naeringer.html"/><parallel_text xml:lang="sma" location="jielemh.html"/><parallel_text xml:lang="sme" location="ealahusat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Æládus / Sámedigge - Sametinget</p>
+<p>Åtså biednikdårjav</p>
+<p type="title">Æládus</p>
+<p>Bisodit ja åvddånahttet  sámeæládusvuogijt  la duodastus æládusvuodon sámijda, ja la duohtavuohta åvddånahttemi sámekultuvrraj ja viesso sámegiellaj.</p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="nob">Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="nob">Nordre</p>
+<list><p type="listitem">Boatsojæládus</p>
+<p type="listitem">Marijna æládusá</p>
+<p type="listitem">Ednambarggo</p>
+<p type="listitem">Duodje</p>
+<p type="listitem">Moattelágásj æládusiellem</p>
+<p type="listitem">Kulturæládus</p>
+<p type="listitem" xml:lang="sme">Árvvodahko prográmma</p>
+</list><p type="title">Sámedigge barggá</p>
+<list><p type="listitem">Nanos ja ålolágásj æládusiellem</p>
+<p type="listitem">Æládusiellem mij tsieggi ja válddá berustibmáj sáme kultuvrav, luondov ja birrusav</p>
+<p type="listitem">Æládusiellem mij dahká vuodov viessonanos bájkálasj sebrudahkaj gånnå almatja sihti årrot</p>
+</list><p type="title">Duogásj</p>
+<p>Sáme æládusá li dijdalattjat årrum tjaddnum luonnduj. Sáme li viedtjam viessomlájbev ja sisboadov tjuohppamis miehttsevaddásij baktu, guollimis, ednambargos ja ællobargos, mij aj la vaddám ábnnasijt duodjáj ja fert slaje joarkkagárvedimbierggasijda. Sáme vierrek hárjján åvddånahttet nåv vaj ij bieste sijá ietjas kultuvrav.</p>
+<p>Dat mássjkedis ja oajvvás vuojnno rievddamusájda ja ådåájádallamijda la ájnas árvvo sámeæládusåvddånahttemin uddniga.</p>
+</body></document>

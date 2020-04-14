@@ -1,73 +1,30 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>506</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Rijkajgasskasasj-barggo/Same-aktisasjbarggo</origFileName>
-    <parallel_text xml:lang="nob" location="samisk-samarbeid.html"/>
-    <parallel_text xml:lang="sma" location="saemien-laavenjostoe.html"/>
-    <parallel_text xml:lang="sme" location="sami-ovttasbargu.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sáme aktisasjbarggo / Rijkajgasskasasj barggo / Sámedigge - Sametinget</p>
-    <p>Åtså biednikdårjav</p>
-    <p type="title">Sáme aktisasjbarggo</p>
-    <p>Sáme li álggoálmmuk nieljen rijkan. Rijkajgasskasasj dimensjåvnnå luluj danen oassen sáme sebrudakiellemis. Vuona Sámedigge le dåjmalattjat oassálasstám aktisasjbargguj aktan nuorttarijkaj sámedikkij ja ruossja biele sáme organisasjåvnåj.</p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="eng">President</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="sme">Ávjovárri</p>
-    <p>Jur dálla</p>
-    <p>Sáme stuortjåhkanibme Ubbmemin</p>
-    <p>Duorastagá guovvamáno 20. b tjåhkani sámediggeájrrasa Suomas, Vuonas ja Svie...</p>
-    <p>Lågå ienebuv</p>
-    <p>Vuoseda divna ássjijt</p>
-    <p>
-      <em type="bold">Sámedigge dáj ássjij barggá: </em>
-    </p>
-    <list>
-      <p type="listitem">Vijdes aktisasjbarggo sámij gaskan rijkkarájáj rastá</p>
-      <p type="listitem">Vaj sáme almmukválljidum orgána bessi ietjasa åvdåstit rijkajgasskasasj mærrádusprosessajn ma njuolgga álggoálmmugijda ja sámijda guosski.</p>
-      <p type="listitem">Sáme parlamentáralasj ráde rållav nannit sáme sebrudagá åvddånahttemin Nuorttarijkajn ja Ruossjan.</p>
-    </list>
-    <p>
-      <em type="bold">Sáme parlamentáralasj ráde </em>
-    </p>
-    <p>Suoma, Svieriga ja Vuona Sámedikke li aktisasj orgánav ásadam, Sáme parlamentáralasj rádev. Ráde le institusjonaliseridum aktisasjbarggo sámedikkij gaskan ássjin ma guosski sámijda moatten stáhtajn jali sámijda avta álmmugin. Tjálledoajmmá tjuovvu dav sámedikkev gænna le presidenntaámmát. Sáme parlamentáralasj ráde sjaddá ájnas orgádna dán ådå nuorttarijkaj aktisasjbargon åvddålijguovlluj, ja aj rijkajgasskasasj aktijvuodan. Danen le ájnas ráden le buorre aktisasjbarggoævto ja åvddånahttemvejulasjvuoda.</p>
-    <p>Sáme parlamentáralasj ráden ij la sierra dåjmadahka gånnå le máhtudahka ja fábmo dåjmalattjat rijkajgasskasasj dásen barggat. Dåj ietjá nuorttarijkaj sámedikkij vuoksjuj le Vuona sámedikken vijddásap vejulasjvuohta sáme riektáj bárggat Nuorttarijkajn. Danen le viehka ájnas vaj Vuona sámedigge aktan Suoma ja Svieriga sámedikkij gájksábmelasj álggoálmmukberustimijt vuorodi.</p>
-    <p>
-      <em type="bold">Sámeráde </em>
-    </p>
-    <p>Sámeráde le gájksábmelasj kultuvrrapolitihkalasj ja politihkalasj ásadibme navti váj le áktisasjbarggoásadussan sáme organisasjåvnåjda Suoman, Vuonan, Svierigin ja Ruossja føderasjåvnån. Rijkajgasskasattjat aneduvvá Sámeráde NGO:an, non-governmental organization. Ráde gájkbadjásasj ulmme le sámij berustimijt avtan álmmugin nannit, nannit sámij aktijvuodav rijkkarájáj rastá ja barggat dan vuoksjuj vaj sáme boahtteájggáj aj avta álmmugin aneduvvi. Sámeráde le viehka ájnas ja dåbdos álggoálmmukaktørra rijkajgasskasattjat. Sámeráden le alla máhtudahka ja vijdes rijkajgasskasasj værmástahka. Sámedigge ja Sámeráde aktan barggi muhtem rijkajgasskasasj suorgijn, ja iesjgeŋgalágásj rollaj ma buorre mudduj nuppe nubbáj hiehpi. Ájnas le dát joarkká ja åvddånahteduvvá.</p>
-    <p>Sámedigge aj aktan doajmmá ja bárgga ietjá sáme- ja álggoálmmukorganisasjåvnåj, ásadusás ja værmástagáj ma rijkkarájáj rastá bárggi. Diehtojuohkem ja sjuggelis aktisasjbarggo luojvojdis organisasjåvnåj ja ásadusájn le viehka ájnas jus sáme vuojnoj galggá rijkajgasskasasj arenan åvddån boahtet. Sámediggeráde sihtá dáj iesjgudik orgánaj ja aj ådå ásadusáj aktisasjbargov nannit.</p>
-    <p>Ráden li 15 ájrrasa, vidás vuona bieles, nieljes svieriga bieljes, nieljes suoma bieles ja guovtes ruossja bieles. Lågå ienebuv Sámeráde birra dáppe.</p>
-    <p>
-      <em type="bold">Ruossja biele sáme </em>
-    </p>
-    <p>Dá rádjáj ælla ruossja biele sámijn sierra álmmukválljidum orgána. Ájnas le viehkedit vaj Ruossja sáme oadtju buorep ævtojt nannit ja åvddåanahttet gielaska, kultuvraska ja sebrudagáska. Ruossja biele sáme li oadtjum jienav Sáme parlamentáralasj ráden. Luondulasj le maŋenagi sijá fámov dán forumin nannit. Sámedikkeráden le åbbålasj ulmmen dilev láhtjet váj álggoálmmuga ietja dåjmajt jåhtuj biedji sebrudakåvddånahttema diehti ietjasa guovlojn ja bájkalasj sebrudagájn nuorttaguovlojn, váj sijá materiálalasj vuodo kultuvra hárráj sihkarasteduvvá. Fuolkkevuohta le agev læhkám ájnas álggoálmmuksebrudagájn. Nissuna li sierráláhkáj ájnnasa ja li álu ajnnasamos árbbedáhpe- ja giellaguodde. Danen li dåjma ma guosski nissunijda viehka ávkálattja ålles álggoálmmuksebrudahkaj.</p>
-    <p><em type="bold">Sámedigge Svierigin </em>Sámedigge Svierigin ásaduváj jagen 1993. </p>
-    <p><em type="bold">Sámedigge Suoman </em>Suoman ásaduváj sámegatjálvisáj nammadus jagen 1973. Maŋŋela sámedikkij ásaduvvamij Vuonan ja Svierigin, sjattaj nammadus Sámediggen rievddadum jagen 1996. </p>
-    <list/>
-    <p>
-      <span type="quote">Vuona Sámedigge le dåjmalattjat oassálasstám aktisasjbargguj aktan nuorttarijkaj sámedikkij ja ruossja biele sáme organisasjåvnåj.</span>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>506</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Rijkajgasskasasj-barggo/Same-aktisasjbarggo</origFileName><parallel_text xml:lang="nob" location="samisk-samarbeid.html"/><parallel_text xml:lang="sma" location="saemien-laavenjostoe.html"/><parallel_text xml:lang="sme" location="sami-ovttasbargu.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sáme aktisasjbarggo / Rijkajgasskasasj barggo / Sámedigge - Sametinget</p>
+<p>Åtså biednikdårjav</p>
+<p type="title">Sáme aktisasjbarggo</p>
+<p>Sáme li álggoálmmuk nieljen rijkan. Rijkajgasskasasj dimensjåvnnå luluj danen oassen sáme sebrudakiellemis. Vuona Sámedigge le dåjmalattjat oassálasstám aktisasjbargguj aktan nuorttarijkaj sámedikkij ja ruossja biele sáme organisasjåvnåj.</p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="eng">President</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="sme">Ávjovárri</p>
+<p>Jur dálla</p>
+<p>Sáme stuortjåhkanibme Ubbmemin</p>
+<p>Duorastagá guovvamáno 20. b tjåhkani sámediggeájrrasa Suomas, Vuonas ja Svie...</p>
+<p>Lågå ienebuv</p>
+<p>Vuoseda divna ássjijt</p>
+<p><em type="bold">Sámedigge dáj ássjij barggá: </em></p>
+<list><p type="listitem">Vijdes aktisasjbarggo sámij gaskan rijkkarájáj rastá</p>
+<p type="listitem">Vaj sáme almmukválljidum orgána bessi ietjasa åvdåstit rijkajgasskasasj mærrádusprosessajn ma njuolgga álggoálmmugijda ja sámijda guosski.</p>
+<p type="listitem">Sáme parlamentáralasj ráde rållav nannit sáme sebrudagá åvddånahttemin Nuorttarijkajn ja Ruossjan.</p>
+</list><p><em type="bold">Sáme parlamentáralasj ráde </em></p>
+<p>Suoma, Svieriga ja Vuona Sámedikke li aktisasj orgánav ásadam, Sáme parlamentáralasj rádev. Ráde le institusjonaliseridum aktisasjbarggo sámedikkij gaskan ássjin ma guosski sámijda moatten stáhtajn jali sámijda avta álmmugin. Tjálledoajmmá tjuovvu dav sámedikkev gænna le presidenntaámmát. Sáme parlamentáralasj ráde sjaddá ájnas orgádna dán ådå nuorttarijkaj aktisasjbargon åvddålijguovlluj, ja aj rijkajgasskasasj aktijvuodan. Danen le ájnas ráden le buorre aktisasjbarggoævto ja åvddånahttemvejulasjvuoda.</p>
+<p>Sáme parlamentáralasj ráden ij la sierra dåjmadahka gånnå le máhtudahka ja fábmo dåjmalattjat rijkajgasskasasj dásen barggat. Dåj ietjá nuorttarijkaj sámedikkij vuoksjuj le Vuona sámedikken vijddásap vejulasjvuohta sáme riektáj bárggat Nuorttarijkajn. Danen le viehka ájnas vaj Vuona sámedigge aktan Suoma ja Svieriga sámedikkij gájksábmelasj álggoálmmukberustimijt vuorodi.</p>
+<p><em type="bold">Sámeráde </em></p>
+<p>Sámeráde le gájksábmelasj kultuvrrapolitihkalasj ja politihkalasj ásadibme navti váj le áktisasjbarggoásadussan sáme organisasjåvnåjda Suoman, Vuonan, Svierigin ja Ruossja føderasjåvnån. Rijkajgasskasattjat aneduvvá Sámeráde NGO:an, non-governmental organization. Ráde gájkbadjásasj ulmme le sámij berustimijt avtan álmmugin nannit, nannit sámij aktijvuodav rijkkarájáj rastá ja barggat dan vuoksjuj vaj sáme boahtteájggáj aj avta álmmugin aneduvvi. Sámeráde le viehka ájnas ja dåbdos álggoálmmukaktørra rijkajgasskasattjat. Sámeráden le alla máhtudahka ja vijdes rijkajgasskasasj værmástahka. Sámedigge ja Sámeráde aktan barggi muhtem rijkajgasskasasj suorgijn, ja iesjgeŋgalágásj rollaj ma buorre mudduj nuppe nubbáj hiehpi. Ájnas le dát joarkká ja åvddånahteduvvá.</p>
+<p>Sámedigge aj aktan doajmmá ja bárgga ietjá sáme- ja álggoálmmukorganisasjåvnåj, ásadusás ja værmástagáj ma rijkkarájáj rastá bárggi. Diehtojuohkem ja sjuggelis aktisasjbarggo luojvojdis organisasjåvnåj ja ásadusájn le viehka ájnas jus sáme vuojnoj galggá rijkajgasskasasj arenan åvddån boahtet. Sámediggeráde sihtá dáj iesjgudik orgánaj ja aj ådå ásadusáj aktisasjbargov nannit.</p>
+<p>Ráden li 15 ájrrasa, vidás vuona bieles, nieljes svieriga bieljes, nieljes suoma bieles ja guovtes ruossja bieles. Lågå ienebuv Sámeráde birra dáppe.</p>
+<p><em type="bold">Ruossja biele sáme </em></p>
+<p>Dá rádjáj ælla ruossja biele sámijn sierra álmmukválljidum orgána. Ájnas le viehkedit vaj Ruossja sáme oadtju buorep ævtojt nannit ja åvddåanahttet gielaska, kultuvraska ja sebrudagáska. Ruossja biele sáme li oadtjum jienav Sáme parlamentáralasj ráden. Luondulasj le maŋenagi sijá fámov dán forumin nannit. Sámedikkeráden le åbbålasj ulmmen dilev láhtjet váj álggoálmmuga ietja dåjmajt jåhtuj biedji sebrudakåvddånahttema diehti ietjasa guovlojn ja bájkalasj sebrudagájn nuorttaguovlojn, váj sijá materiálalasj vuodo kultuvra hárráj sihkarasteduvvá. Fuolkkevuohta le agev læhkám ájnas álggoálmmuksebrudagájn. Nissuna li sierráláhkáj ájnnasa ja li álu ajnnasamos árbbedáhpe- ja giellaguodde. Danen li dåjma ma guosski nissunijda viehka ávkálattja ålles álggoálmmuksebrudahkaj.</p>
+<p><em type="bold">Sámedigge Svierigin </em>Sámedigge Svierigin ásaduváj jagen 1993. </p>
+<p><em type="bold">Sámedigge Suoman </em>Suoman ásaduváj sámegatjálvisáj nammadus jagen 1973. Maŋŋela sámedikkij ásaduvvamij Vuonan ja Svierigin, sjattaj nammadus Sámediggen rievddadum jagen 1996. </p>
+<list/><p><span type="quote">Vuona Sámedigge le dåjmalattjat oassálasstám aktisasjbargguj aktan nuorttarijkaj sámedikkij ja ruossja biele sáme organisasjåvnåj.</span></p>
+</body></document>

@@ -1,76 +1,47 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Dålvudimstivrra</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2013</year>
-    <wordcount>441</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>https://www.transportstyrelsen.se/en/Other-languages/Julevsamegiella-Lule-Sami/</origFileName>
-    <parallel_text xml:lang="sme" location="johtolatstivra.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Julevsámegiella (Lule Sami) - Transportstyrelsen</p>
-    <p xml:lang="swe">Gå direkt till innehållet på sidan</p>
-    <p xml:lang="eng">Swedish Other languages Contact us</p>
-    <list>
-      <p type="listitem" xml:lang="eng">Other languages</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="eng">(Arabic) العربية</p>
-      <p type="listitem" xml:lang="eng">Arli (Romani Chib)</p>
-      <p type="listitem" xml:lang="eng">Bosanski (Bosnian)</p>
-      <p type="listitem" xml:lang="eng">Español (Spanish)</p>
-      <p type="listitem" xml:lang="eng">Eesti (estonian)</p>
-      <p type="listitem" xml:lang="eng">Hrvatski (Croatian)</p>
-      <p type="listitem">Julevsámegiella (Lule Sami)  <list><p type="listitem">Dålvudimstivrajn aktavuodav válldet</p></list></p>
-      <p type="listitem">Meänkieli</p>
-      <p type="listitem">Sámigiella (Northern Sami)</p>
-      <p type="listitem" xml:lang="eng">Soomaali (Somali)</p>
-      <p type="listitem" xml:lang="eng">Srpski (Serbian)</p>
-      <p type="listitem" xml:lang="eng">Suomi (Finnish)</p>
-      <p type="listitem" xml:lang="eng">(Southern Kurdish) كوردی</p>
-      <p type="listitem" xml:lang="eng">Polski (Polish)</p>
-      <p type="listitem" xml:lang="eng">Eesti (Estonian)</p>
-      <p type="listitem" xml:lang="eng">Latvijas (Latvian)</p>
-      <p type="listitem" xml:lang="eng">Lietuvos (Lithuanian)</p>
-      <p type="listitem" xml:lang="eng">Slovenščina (Slovenian)</p>
-      <p type="listitem" xml:lang="eng">Deutsch (German)</p>
-      <p type="listitem" xml:lang="eng">Pусский (Russian)</p>
-    </list>
-    <p xml:lang="eng">Other languages</p>
-    <p>...</p>
-    <p>Julevsámegiella (Lule Sami)</p>
-    <p type="title">Julevsámegiella (Lule Sami)</p>
-    <p>Dålvudimstivrra bargga jåvsådittjat buorre åledibmáj, alla kvalitähttaj, sihkar ja biráshiebadum dålvudimijda ruovdderahten, ilmmedålvudimen, merradålvudimen ja vedjan. Dahkap njuolgadusájt, låbijt vaddep ja dåbelijtjuovvop gåktu tjuovoduvvi. Mijá registarij viehkken barggap iehtjádij siegen mávsoj, låbij ja äjgátlådnomij.</p>
-    <p>Miján li 1 750 bargge 13 bájken rijkan. Dåjma stuoramus oasse l Borlängen, Norrköpingin ja Örebroan. Oajvvekontåvrrå l Norrköpingin.</p>
-    <p type="title">Mijá doajmmaidea</p>
-    <p>Åvdedip ålediddje dålvudimvuogádagáv sihkarvuoda, birrasa ja varresvuoda gáktuj. Roattojn tjuovvusijda viesájdiddjijda ja äládusiellemij hábbmip njuolgadusájt ja dåbelijtjuovvop vaj tjuovoduvvi. Vaddep sebrudahkaj diedojt dålvudagáj ja vuoddjij birra. Barggap ållesvuohtavuojnojn ja dåjmalasjvuodajn ja miján la alla dievnastusmierre mijá aktavuodan birásväráldijn.</p>
-    <p type="title">Vuojántrafijkka</p>
-    <p>Gájkka vuoddje, aktan gudi duolmmu jali vádtsi, gåbtjåduvvi mijá trafijkkanjuolgadusájs. Li fámon juohkka sajen, goappátjagá vedjan ja ednamin. Ietján gå trafijkkanjuolgadusá åvdåsvásstedip väddjamärkkabiejadusá anodimes. Dahkap ja juogadip aj gájkka svieriga vuodjemkårtåjt ja registardimgalbajt. Tjuottjodip biejadusájt vuoddjeåhpadusa birra ja vuoddjegähttjalimijt, ja dahkap máhttudakgähttjalimijt gájkka vuoddjemkårttådåhkkimvuodajda. Viddnotrafijkkaj hábbmip njuolgadusájt iehtjadij siegen mij rávkaduvvá viddnovuoddjemáhttudahkaj, almodip trafijkkaloabev gálvvo- ja bussavidnudagájda ja njuolgadusájt låsså vuojánij mihttaj ja dädduj.Ietjá teknijkalasj vuojánrávkalvisá mierreduvvi iemeláhkáj rijkajgasskasasj märrádusáj baktu gånnå Dålvudimstivrra oassálasstá, ja rávkalvisá tjielgastuhteduvvi maŋŋela mijá biejadusájn. Váksjup aj márnánav vuojángehtjadibmáj.</p>
-    <p type="title">Ruovdderahte</p>
-    <p>Vaddep ja gehtjadip loabev gesi sihtá ruovdderahtetrafijkav Svierigin dåjmadit. Máhttá årrot gájkka stuorra infrastruktuvrratjuottjodiddjijs buojkulvissan Dålvudimdåjmadahka gitta priváhtta ruovderahtevidnudagajda. Dåhkkidip aj vuojánijt, infrakstruktuvrav, rahteásadusájt ja signállavuogádagájt åvddål adnuj båhti. Sihkarvuohtastivrrimvuogádagá gähttjo ja bessam ráhtijda dagáduvvá sämmi vidjurijda ja åvdåsvásstátedip aj njuolgadusájs varresvuoda ja varresvuohtaåtsådimij birra gejda barggi rahtetrafijkan.</p>
-    <p type="title">Merradålvudibme</p>
-    <p>Dåbelijtjuovvop vaj njuolgadusá ja loabe ma li fámon svierik ja ålggorijkak hávsajda mijá merrabájkijn tjuovoduvvi. Bargon dåjmadip gehtjadimijt ja sujnnimijt goappátjagá hávsajn ja hámnajn. Gehtjadip vaj gálvo bårdoduvvi ja juogaduvvi rievtesláhkáj, ja barggijn hávsan li riekta máhttudahka. Vidnudagá ma barggi tjuovvohávsaj galggi vil dievddet sihkarvuohtarávkalvisájt ma gávnnuji hierdittjat ja giehtadalátjit vahágijt. Dánna gávnnu aj merradålvudimregistar, mij tjoaggá diedojt vadnasij ja hávsaj birra ma loabev dárbahi.</p>
-    <p type="title">Ilmmedålvudibme</p>
-    <p>Barggap tjuovvojda sihkar ja jasskis ilmmedålvudagáv ja hálediddjesuorgge ieritváldedum njuolgadusáj galggá sämmilágásj vidjurij milta doajmmat. Oassen dan bargon åvdåsvásstedip moadda duodastusajs ja lisensajs hálediddjijda, hálediddjevidnudagájs ja háledimsajijs. Moadda njuolgadusá ja biejadusá ilmmedålvudimen mierreduvvi rijkajgasskasattjat. Dålvudimstivra dahkamus la hiebadit dajt mijá vuogádahkaj, kommuniserit makkir njuolgadusá ma li fámon ja gehtjadit vaj tjuovoduvvi. Almodip aj trafijkkalåbijt gejda sihti vuojtulasj ilmmedålvudimev Svierigin dåjmadit.</p>
-    <p type="title" xml:lang="eng">Sub pages</p>
-    <p>Dålvudimstivrajn aktavuodav válldet</p>
-    <p type="title" xml:lang="eng">pagefooter/comment/header</p>
-    <p type="title" xml:lang="swe">Om sidan</p>
-    <p type="title" xml:lang="swe">Dela sidans innehåll</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Dålvudimstivrra</title><genre code="facta"/><author><unknown/></author><year>2013</year><wordcount>441</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>https://www.transportstyrelsen.se/en/Other-languages/Julevsamegiella-Lule-Sami/</origFileName><parallel_text xml:lang="sme" location="johtolatstivra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Julevsámegiella (Lule Sami) - Transportstyrelsen</p>
+<p xml:lang="swe">Gå direkt till innehållet på sidan</p>
+<p xml:lang="eng">Swedish Other languages Contact us</p>
+<list><p type="listitem" xml:lang="eng">Other languages</p>
+</list><list><p type="listitem" xml:lang="eng">(Arabic) العربية</p>
+<p type="listitem" xml:lang="eng">Arli (Romani Chib)</p>
+<p type="listitem" xml:lang="eng">Bosanski (Bosnian)</p>
+<p type="listitem" xml:lang="eng">Español (Spanish)</p>
+<p type="listitem" xml:lang="eng">Eesti (estonian)</p>
+<p type="listitem" xml:lang="eng">Hrvatski (Croatian)</p>
+<p type="listitem">Julevsámegiella (Lule Sami)  <list><p type="listitem">Dålvudimstivrajn aktavuodav válldet</p>
+</list></p>
+<p type="listitem">Meänkieli</p>
+<p type="listitem">Sámigiella (Northern Sami)</p>
+<p type="listitem" xml:lang="eng">Soomaali (Somali)</p>
+<p type="listitem" xml:lang="eng">Srpski (Serbian)</p>
+<p type="listitem" xml:lang="eng">Suomi (Finnish)</p>
+<p type="listitem" xml:lang="eng">(Southern Kurdish) كوردی</p>
+<p type="listitem" xml:lang="eng">Polski (Polish)</p>
+<p type="listitem" xml:lang="eng">Eesti (Estonian)</p>
+<p type="listitem" xml:lang="eng">Latvijas (Latvian)</p>
+<p type="listitem" xml:lang="eng">Lietuvos (Lithuanian)</p>
+<p type="listitem" xml:lang="eng">Slovenščina (Slovenian)</p>
+<p type="listitem" xml:lang="eng">Deutsch (German)</p>
+<p type="listitem" xml:lang="eng">Pусский (Russian)</p>
+</list><p xml:lang="eng">Other languages</p>
+<p>...</p>
+<p>Julevsámegiella (Lule Sami)</p>
+<p type="title">Julevsámegiella (Lule Sami)</p>
+<p>Dålvudimstivrra bargga jåvsådittjat buorre åledibmáj, alla kvalitähttaj, sihkar ja biráshiebadum dålvudimijda ruovdderahten, ilmmedålvudimen, merradålvudimen ja vedjan. Dahkap njuolgadusájt, låbijt vaddep ja dåbelijtjuovvop gåktu tjuovoduvvi. Mijá registarij viehkken barggap iehtjádij siegen mávsoj, låbij ja äjgátlådnomij.</p>
+<p>Miján li 1 750 bargge 13 bájken rijkan. Dåjma stuoramus oasse l Borlängen, Norrköpingin ja Örebroan. Oajvvekontåvrrå l Norrköpingin.</p>
+<p type="title">Mijá doajmmaidea</p>
+<p>Åvdedip ålediddje dålvudimvuogádagáv sihkarvuoda, birrasa ja varresvuoda gáktuj. Roattojn tjuovvusijda viesájdiddjijda ja äládusiellemij hábbmip njuolgadusájt ja dåbelijtjuovvop vaj tjuovoduvvi. Vaddep sebrudahkaj diedojt dålvudagáj ja vuoddjij birra. Barggap ållesvuohtavuojnojn ja dåjmalasjvuodajn ja miján la alla dievnastusmierre mijá aktavuodan birásväráldijn.</p>
+<p type="title">Vuojántrafijkka</p>
+<p>Gájkka vuoddje, aktan gudi duolmmu jali vádtsi, gåbtjåduvvi mijá trafijkkanjuolgadusájs. Li fámon juohkka sajen, goappátjagá vedjan ja ednamin. Ietján gå trafijkkanjuolgadusá åvdåsvásstedip väddjamärkkabiejadusá anodimes. Dahkap ja juogadip aj gájkka svieriga vuodjemkårtåjt ja registardimgalbajt. Tjuottjodip biejadusájt vuoddjeåhpadusa birra ja vuoddjegähttjalimijt, ja dahkap máhttudakgähttjalimijt gájkka vuoddjemkårttådåhkkimvuodajda. Viddnotrafijkkaj hábbmip njuolgadusájt iehtjadij siegen mij rávkaduvvá viddnovuoddjemáhttudahkaj, almodip trafijkkaloabev gálvvo- ja bussavidnudagájda ja njuolgadusájt låsså vuojánij mihttaj ja dädduj.Ietjá teknijkalasj vuojánrávkalvisá mierreduvvi iemeláhkáj rijkajgasskasasj märrádusáj baktu gånnå Dålvudimstivrra oassálasstá, ja rávkalvisá tjielgastuhteduvvi maŋŋela mijá biejadusájn. Váksjup aj márnánav vuojángehtjadibmáj.</p>
+<p type="title">Ruovdderahte</p>
+<p>Vaddep ja gehtjadip loabev gesi sihtá ruovdderahtetrafijkav Svierigin dåjmadit. Máhttá årrot gájkka stuorra infrastruktuvrratjuottjodiddjijs buojkulvissan Dålvudimdåjmadahka gitta priváhtta ruovderahtevidnudagajda. Dåhkkidip aj vuojánijt, infrakstruktuvrav, rahteásadusájt ja signállavuogádagájt åvddål adnuj båhti. Sihkarvuohtastivrrimvuogádagá gähttjo ja bessam ráhtijda dagáduvvá sämmi vidjurijda ja åvdåsvásstátedip aj njuolgadusájs varresvuoda ja varresvuohtaåtsådimij birra gejda barggi rahtetrafijkan.</p>
+<p type="title">Merradålvudibme</p>
+<p>Dåbelijtjuovvop vaj njuolgadusá ja loabe ma li fámon svierik ja ålggorijkak hávsajda mijá merrabájkijn tjuovoduvvi. Bargon dåjmadip gehtjadimijt ja sujnnimijt goappátjagá hávsajn ja hámnajn. Gehtjadip vaj gálvo bårdoduvvi ja juogaduvvi rievtesláhkáj, ja barggijn hávsan li riekta máhttudahka. Vidnudagá ma barggi tjuovvohávsaj galggi vil dievddet sihkarvuohtarávkalvisájt ma gávnnuji hierdittjat ja giehtadalátjit vahágijt. Dánna gávnnu aj merradålvudimregistar, mij tjoaggá diedojt vadnasij ja hávsaj birra ma loabev dárbahi.</p>
+<p type="title">Ilmmedålvudibme</p>
+<p>Barggap tjuovvojda sihkar ja jasskis ilmmedålvudagáv ja hálediddjesuorgge ieritváldedum njuolgadusáj galggá sämmilágásj vidjurij milta doajmmat. Oassen dan bargon åvdåsvásstedip moadda duodastusajs ja lisensajs hálediddjijda, hálediddjevidnudagájs ja háledimsajijs. Moadda njuolgadusá ja biejadusá ilmmedålvudimen mierreduvvi rijkajgasskasattjat. Dålvudimstivra dahkamus la hiebadit dajt mijá vuogádahkaj, kommuniserit makkir njuolgadusá ma li fámon ja gehtjadit vaj tjuovoduvvi. Almodip aj trafijkkalåbijt gejda sihti vuojtulasj ilmmedålvudimev Svierigin dåjmadit.</p>
+<p type="title" xml:lang="eng">Sub pages</p>
+<p>Dålvudimstivrajn aktavuodav válldet</p>
+<p type="title" xml:lang="eng">pagefooter/comment/header</p>
+<p type="title" xml:lang="swe">Om sidan</p>
+<p type="title" xml:lang="swe">Dela sidans innehåll</p>
+</body></document>

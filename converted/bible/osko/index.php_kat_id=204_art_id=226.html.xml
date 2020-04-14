@@ -1,59 +1,22 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>112</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=204&amp;art_id=226</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=204_art_id=226.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=204_art_id=226.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=204_art_id=226.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åhpav: Soahke</p>
-    <p type="title">Ádjás</p>
-    <p>Muv iedne namma le/lej:_____________________________,ja sån riegádij dán biejve ______________</p>
-    <p>bájken man namma le ______________________.</p>
-    <p>Suv vuostasj maŋep namma lij  _______________________.</p>
-    <p>Sån bajássjattaj bájken man namma le __________________________.</p>
-    <p>Muv áhkko ja áddjá ædnám bielen lijga _______________________________________________</p>
-    <p>Dáv sunnu birra diedáv:__________________________________________________________________</p>
-    <p xml:lang="nob">_____________________________________________________________________________________</p>
-    <p xml:lang="nob">_____________________________________________________________________________________</p>
-    <p>Muv áhtje namma le/lej:_____________________________, ja sån riegádij dán biejve ___________</p>
-    <p>bájken man namma le ____________.</p>
-    <p>Sån bajássjattaj bájken man namma le  __________________________.</p>
-    <p>Muv áhkko ja áddjá áhtjám bielen lijga _______________________________________________</p>
-    <p>Dáv sunnu birra diedáv:__________________________________________________________________</p>
-    <p xml:lang="nob">_____________________________________________________________________________________</p>
-    <p xml:lang="nob">_____________________________________________________________________________________</p>
-    <p>Áhttját ja æddnát lijga _____________jage vuorrasa gå æjvvalijga bájken man namma le ______________.</p>
-    <p>Válldujga jagen  _____________, ja årrujga bájkkáj man namma le_______________________________.</p>
-    <p>Dij sjattajda ________________oarbbena, ja sijáj namá li ______________________________________.</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>112</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=204&amp;art_id=226</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=204_art_id=226.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=204_art_id=226.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=204_art_id=226.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åhpav: Soahke</p>
+<p type="title">Ádjás</p>
+<p>Muv iedne namma le/lej:_____________________________,ja sån riegádij dán biejve ______________</p>
+<p>bájken man namma le ______________________.</p>
+<p>Suv vuostasj maŋep namma lij  _______________________.</p>
+<p>Sån bajássjattaj bájken man namma le __________________________.</p>
+<p>Muv áhkko ja áddjá ædnám bielen lijga _______________________________________________</p>
+<p>Dáv sunnu birra diedáv:__________________________________________________________________</p>
+<p xml:lang="nob">_____________________________________________________________________________________</p>
+<p xml:lang="nob">_____________________________________________________________________________________</p>
+<p>Muv áhtje namma le/lej:_____________________________, ja sån riegádij dán biejve ___________</p>
+<p>bájken man namma le ____________.</p>
+<p>Sån bajássjattaj bájken man namma le  __________________________.</p>
+<p>Muv áhkko ja áddjá áhtjám bielen lijga _______________________________________________</p>
+<p>Dáv sunnu birra diedáv:__________________________________________________________________</p>
+<p xml:lang="nob">_____________________________________________________________________________________</p>
+<p xml:lang="nob">_____________________________________________________________________________________</p>
+<p>Áhttját ja æddnát lijga _____________jage vuorrasa gå æjvvalijga bájken man namma le ______________.</p>
+<p>Válldujga jagen  _____________, ja årrujga bájkkáj man namma le_______________________________.</p>
+<p>Dij sjattajda ________________oarbbena, ja sijáj namá li ______________________________________.</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

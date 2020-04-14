@@ -1,42 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Doarjja nuorajkonferánssaj seksualitehta ja råhtsatjime hárráj</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2019</year>
-    <wordcount>203</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/AAdaasa/Doarjja-nuorajkonferanssaj-seksualitehta-ja-raahtsatjime-harraj</origFileName>
-    <parallel_text xml:lang="nob" location="stoette-til-ungdomskonferanse-om-seksualitet-og-seksuelle-overgrep.html"/>
-    <parallel_text xml:lang="sma" location="daaarjoe-noerekonferansese-seksualiteeten-jih-seksuelle-daaresjimmiej-bijre.html"/>
-    <parallel_text xml:lang="sme" location="doarjja-nuoraidkonferansii-seksualitehta-ja-seksuala-vearredaguid-birra.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Doarjja nuorajkonferánssaj seksualitehta ja råhtsatjime hárráj</p>
-    <p>Sámedigge juollot 205.000 kråvnå doarjjan Árran julevsáme guovdátjij Divtasvuonan ásadittjat nuorajkonferánsav mij galggá rahpat ságastallamijda seksualitehta ja råhtsatjime hárráj.</p>
-    <p>Tjadádime sáme nuorajkonferánsav, Árran ållagasj nuorajt tjalmostahtti Divtasvuonaássje maŋŋáj. Sij sihti oaggásvuodav tjalmostahttet; oaggásvuohta ietjasa rájájs, liehket Divtasvuonas, ietjasa identitiehtan sábmen liehket, mihástallat ietjasa kultuvras, árvvogisvuodas, dåjvujn ja jáhkujn boahtteájggáj.</p>
-    <p>
-      <em type="italic">– Ariená nuorajda la ájnas, ja ållagasj ájnas la gå dagáduvvi ariená gånnå nuora bessi goappátjagá sisanov hábbmit ja ságastallamav jådedit. Ávvusav dát álgadimes, mij la boahtám Árranis ja Doajmmasiebrre Julevsámes (DSJ), javllá sámedikkeráde Mikkel Eskil Mikkelsen. </em>
-    </p>
-    <p>Konferánsan galggi ájggeguovddelis tiemá, duola dagu rájájt biedjat, seksualitiehta tjábbudagás, gåktu nubbe nuppijt huksat, rájá madtjuhime ja nálsodime gaskan. Konferánssa l oassen prosjevtas Jasska/Trygg.</p>
-    <p>Ájnas aspækta dát konferánsas la sávadus viehkedit ariednáj gånnå mánáj ja nuoraj identitiehtta nanostuhteduvvi, tjadádime dåjmajt gånnå sáme giella ja kultuvrra l vuodon, ja viehkedit oaggásvuohtaj ja mihástallamij ietjasa sáme identitiehta hárráj.</p>
-    <p>– Sámedigge vuojnná ájnas tiebmá konferánsan bajeduvvá. Divtasvuonaássje maŋŋela ållusin lidjin moadda gatjálvisá, ja moadda negatijva dåbdo ja alvaduhttema. Vuogas la gå Árran sihtá tjalmostahttet seksualitiehtav ja råhtsatjimev tiebmán, nuorragierdde ulmmejuohkusin, javllá sámedikkeráde Mikkel Eskil Mikkelsen, ja vuorbev vijddásap bargojn Árranij sávvá.</p>
-    <p>
-      <em type="italic">Ságájdahtátjit ja gatjálvisájda, guládalá sámedikkerádijn Mikkel Eskil Mikkelsen , mob. 917 42 161 </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Doarjja nuorajkonferánssaj seksualitehta ja råhtsatjime hárráj</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2019</year><wordcount>203</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/AAdaasa/Doarjja-nuorajkonferanssaj-seksualitehta-ja-raahtsatjime-harraj</origFileName><parallel_text xml:lang="nob" location="stoette-til-ungdomskonferanse-om-seksualitet-og-seksuelle-overgrep.html"/><parallel_text xml:lang="sma" location="daaarjoe-noerekonferansese-seksualiteeten-jih-seksuelle-daaresjimmiej-bijre.html"/><parallel_text xml:lang="sme" location="doarjja-nuoraidkonferansii-seksualitehta-ja-seksuala-vearredaguid-birra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Doarjja nuorajkonferánssaj seksualitehta ja råhtsatjime hárráj</p>
+<p>Sámedigge juollot 205.000 kråvnå doarjjan Árran julevsáme guovdátjij Divtasvuonan ásadittjat nuorajkonferánsav mij galggá rahpat ságastallamijda seksualitehta ja råhtsatjime hárráj.</p>
+<p>Tjadádime sáme nuorajkonferánsav, Árran ållagasj nuorajt tjalmostahtti Divtasvuonaássje maŋŋáj. Sij sihti oaggásvuodav tjalmostahttet; oaggásvuohta ietjasa rájájs, liehket Divtasvuonas, ietjasa identitiehtan sábmen liehket, mihástallat ietjasa kultuvras, árvvogisvuodas, dåjvujn ja jáhkujn boahtteájggáj.</p>
+<p><em type="italic">– Ariená nuorajda la ájnas, ja ållagasj ájnas la gå dagáduvvi ariená gånnå nuora bessi goappátjagá sisanov hábbmit ja ságastallamav jådedit. Ávvusav dát álgadimes, mij la boahtám Árranis ja Doajmmasiebrre Julevsámes (DSJ), javllá sámedikkeráde Mikkel Eskil Mikkelsen. </em></p>
+<p>Konferánsan galggi ájggeguovddelis tiemá, duola dagu rájájt biedjat, seksualitiehta tjábbudagás, gåktu nubbe nuppijt huksat, rájá madtjuhime ja nálsodime gaskan. Konferánssa l oassen prosjevtas Jasska/Trygg.</p>
+<p>Ájnas aspækta dát konferánsas la sávadus viehkedit ariednáj gånnå mánáj ja nuoraj identitiehtta nanostuhteduvvi, tjadádime dåjmajt gånnå sáme giella ja kultuvrra l vuodon, ja viehkedit oaggásvuohtaj ja mihástallamij ietjasa sáme identitiehta hárráj.</p>
+<p>– Sámedigge vuojnná ájnas tiebmá konferánsan bajeduvvá. Divtasvuonaássje maŋŋela ållusin lidjin moadda gatjálvisá, ja moadda negatijva dåbdo ja alvaduhttema. Vuogas la gå Árran sihtá tjalmostahttet seksualitiehtav ja råhtsatjimev tiebmán, nuorragierdde ulmmejuohkusin, javllá sámedikkeráde Mikkel Eskil Mikkelsen, ja vuorbev vijddásap bargojn Árranij sávvá.</p>
+<p><em type="italic">Ságájdahtátjit ja gatjálvisájda, guládalá sámedikkerádijn Mikkel Eskil Mikkelsen , mob. 917 42 161 </em></p>
+</body></document>

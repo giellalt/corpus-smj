@@ -1,46 +1,18 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>129</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/index.php?id=5062562&amp;showtipform=1&amp;cat=99352&amp;gb=</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Tysfjord kommune : Fuolkkebiejvve Ráluovta/Rørvijka sijdan - Tips en venn</p>
-    <p type="title">Fuolkkebiejvve Ráluovta/Rørvijka sijdan</p>
-    <p xml:lang="nob">07.06.2012</p>
-    <p xml:lang="nob">Av: Ingvild Foshaug Lange</p>
-    <p>Sådnåbiejve /ájllega 17 b. biehtsemánon kl 11-15, de vaden sjaddá <span type="quote">”rabás sijdda”</span> Ráluovta sijdan, Divtasvuonan –dåjmabiejvev ålles fuolkkáj . Guossida dav divudam sijdav, mij la suodjaluvádum Riksantikvaris.</p>
-    <p>
-      <em type="bold">Mejt máhtá vuojnnet ja årrot maŋen: </em>
-    </p>
-    <p>-oahpestimev ja subttsasav</p>
-    <p>-hestajt ja rijddit</p>
-    <p>-vuontjajt ja kanijnajt</p>
-    <p>- vuosádallamav smirjjobargos smirjon</p>
-    <p>-hestagámahåjggåmav</p>
-    <p>-oahpestimev lájddijiddjijn/oahpestiddjijn</p>
-    <p>-biebmov ja juhkusav oasstet</p>
-    <p>Ásadus/hásadus le nåvkå  ja sidjijda  guti guossidi Ráluovta sijdav dav sådnåbiejvev/ájllegav, bessi mávsok  rahtehålgå tjadá. Bessat Ráluoktaj, de galggá gávvat E6:is  Gálbbeluoktaj/Kalvijkkaj, vuosedimev le ájn dassta.</p>
-    <p>Dálkke ij hieret. Jus rássjo (dálkke)  sjaddá, de li bievde ja ståvlå sinna gájkka dåbijn.</p>
-    <p>Ásadus/hásadus le aktisasj barggo Ráluovta sijdda vuododusájn, Nuortta-Sálto hæsstasiebrijn, Divtasvuona suohkanijn  ja davvervuorkájn, Museum Nord, Divtasvuona suohkan.</p>
-    <p xml:lang="swe"/>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>129</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/index.php?id=5062562&amp;showtipform=1&amp;cat=99352&amp;gb=</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Tysfjord kommune : Fuolkkebiejvve Ráluovta/Rørvijka sijdan - Tips en venn</p>
+<p type="title">Fuolkkebiejvve Ráluovta/Rørvijka sijdan</p>
+<p xml:lang="nob">07.06.2012</p>
+<p xml:lang="nob">Av: Ingvild Foshaug Lange</p>
+<p>Sådnåbiejve /ájllega 17 b. biehtsemánon kl 11-15, de vaden sjaddá <span type="quote">”rabás sijdda”</span> Ráluovta sijdan, Divtasvuonan –dåjmabiejvev ålles fuolkkáj . Guossida dav divudam sijdav, mij la suodjaluvádum Riksantikvaris.</p>
+<p><em type="bold">Mejt máhtá vuojnnet ja årrot maŋen: </em></p>
+<p>-oahpestimev ja subttsasav</p>
+<p>-hestajt ja rijddit</p>
+<p>-vuontjajt ja kanijnajt</p>
+<p>- vuosádallamav smirjjobargos smirjon</p>
+<p>-hestagámahåjggåmav</p>
+<p>-oahpestimev lájddijiddjijn/oahpestiddjijn</p>
+<p>-biebmov ja juhkusav oasstet</p>
+<p>Ásadus/hásadus le nåvkå  ja sidjijda  guti guossidi Ráluovta sijdav dav sådnåbiejvev/ájllegav, bessi mávsok  rahtehålgå tjadá. Bessat Ráluoktaj, de galggá gávvat E6:is  Gálbbeluoktaj/Kalvijkkaj, vuosedimev le ájn dassta.</p>
+<p>Dálkke ij hieret. Jus rássjo (dálkke)  sjaddá, de li bievde ja ståvlå sinna gájkka dåbijn.</p>
+<p>Ásadus/hásadus le aktisasj barggo Ráluovta sijdda vuododusájn, Nuortta-Sálto hæsstasiebrijn, Divtasvuona suohkanijn  ja davvervuorkájn, Museum Nord, Divtasvuona suohkan.</p>
+<p xml:lang="swe"/>
+</body></document>

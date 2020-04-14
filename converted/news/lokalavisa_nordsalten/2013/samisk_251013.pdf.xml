@@ -1,49 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Gatjálvis le liehket nav gåktu ulmusj le</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2013</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nord-Salten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>320</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no "/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2013/samisk_251013.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p><em type="bold">- Gatjálvis le liehket</em> <em type="bold">nav gåktu ulmusj le</em> </p>
-    <p>Egil vállji manádit muhtem ájgev. - Guhka ja buorre loahpe Portugalan, nav guhkás ierit gå máhttelis. Madi ulmutja bessin sáhkadit gaskanisá, subtsas sån. Ja vierttij gárvedit åvddål sijddaj manáj. Ja reaksjåvnå båhtin, buoragit ja nievret. - Vehi smadje sjattaj, valla ienemusát positijva diededime. Nuorajn li læhkám ja ájn ienep <span type="quote">«ja de majt»</span>-vuojnno dási, madi moadda vuorrasijda le læhkám gássjelis dåhkkidit, javllá Svenn-Egil.</p>
-    <p>Bájkkejudos lej huoman oassálasste sivva manen Svenn-Egil Divtasvuonas jådij sæmmi jage. Ájluovtajn buohtastahtedum le Råmså stuorstáda. Danna máhtij Svenn-Egil viessot homofijllan ja ulmutja vuojnnet ettjin berusta. Ja danna aj iejvvij Bruceav, amerikanarav guhti mannela sjattaj suv gállasjålmmån ådåjakmánon 2009. Hávskes seremonija Diggevieson Råmsån sjattaj vuostasj sáme <span type="quote">«homohedja»</span> Vuonarijkan, dåssju nágin vahko mannel gå ådå gállasjvuodaláhka doajmmagådij.</p>
-    <p>Munnuj hedja lij juokkirik láhkáj dåssju hedja. Dåbdduj luondulattjan munnuj. Sæmmi bále le válldut symbåvlålasj dáhpádus. Munnuj lej duodastit ietjama gieresvuodav nubbe nubbáj. Ja ihkap lin oassálasstám værjoduhttet juojddáv mij le læhkám iebdes ja gássjelis. Ájnegis ulmutja máhtti sierradusáv dahkat ja vájkkudit ja væráldav buoredit. Mannela diehtep aj ietjá sáme Divtasvuonas li <span type="quote">«skáhpas»</span> ålgus boahtám, subtsas Svenn-Egil.</p>
-    <p>Ja jur dákkir vuorjjás subttsasa, dagu Svenn-Egila, galggá sirddevuosádus Árranin vuosádallat, jienajn ja gåvåj. Subttsasa moattebelak Vuonarijkas. Ulmutjij birra gudi li åvdån vádtsám. Svenn-Egil Knutsen Duolljá válljij tabuav boarkkit homofilija birra sáme sebrudagán ja vattij homofijlajda muodov. Dáv dagáj dan diehti gå sihtá liehket dav gev la. - Gatjálvis le liehket nav gåktu ulmusj le, åskeldit ietjas dåbdojt, ja bessat viessot ietjas iellemav, tjuottjot sån.</p>
-    <p>Moatte jagij mannela Råmsån le SvennEgil ruoptus Divtasvuodnaj jåhtåm aktan ietjas Bruce Morén-Duolljájn. <span type="quote">«Unna goadátjij miehtsen»</span>. Iesj barggá nuorttarijkalasj giellaprosjevtajn, GiellaGálldo, kåntåvrråsajijn Sámedikken kulturguovdátjin Árranin. Bruce le dutke Råmså Universitehtan ja ruvva vuostasjamanuensis Nordlánda Universitehtan. Dåbddåba buoragit vuosstájváldedum lagosbirrusin, soapptsoba ja buoragit adneba.</p>
-    <p>- Soajttá gehtjaduvvin <span type="quote">«imálattjan»</span>, ij ållu A4, valla dåbddin dåhkkiduvvam ja buorisboahtem. Bájkkejuhtusav en ielve...</p>
-    <p>Tæksta: Børge Strandskog Jårggålibme: Divte Media AS</p>
-    <p>jj</p>
-    <p>j</p>
-    <p>jj jj</p>
-    <p>jj</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Gatjálvis le liehket nav gåktu ulmusj le</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2013</year><publChannel><publication><publisher>Lokalavisa Nord-Salten</publisher></publication></publChannel><wordcount>320</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no "/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2013/samisk_251013.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p><em type="bold">- Gatjálvis le liehket</em> <em type="bold">nav gåktu ulmusj le</em> </p>
+<p>Egil vállji manádit muhtem ájgev. - Guhka ja buorre loahpe Portugalan, nav guhkás ierit gå máhttelis. Madi ulmutja bessin sáhkadit gaskanisá, subtsas sån. Ja vierttij gárvedit åvddål sijddaj manáj. Ja reaksjåvnå båhtin, buoragit ja nievret. - Vehi smadje sjattaj, valla ienemusát positijva diededime. Nuorajn li læhkám ja ájn ienep <span type="quote">«ja de majt»</span>-vuojnno dási, madi moadda vuorrasijda le læhkám gássjelis dåhkkidit, javllá Svenn-Egil.</p>
+<p>Bájkkejudos lej huoman oassálasste sivva manen Svenn-Egil Divtasvuonas jådij sæmmi jage. Ájluovtajn buohtastahtedum le Råmså stuorstáda. Danna máhtij Svenn-Egil viessot homofijllan ja ulmutja vuojnnet ettjin berusta. Ja danna aj iejvvij Bruceav, amerikanarav guhti mannela sjattaj suv gállasjålmmån ådåjakmánon 2009. Hávskes seremonija Diggevieson Råmsån sjattaj vuostasj sáme <span type="quote">«homohedja»</span> Vuonarijkan, dåssju nágin vahko mannel gå ådå gállasjvuodaláhka doajmmagådij.</p>
+<p>Munnuj hedja lij juokkirik láhkáj dåssju hedja. Dåbdduj luondulattjan munnuj. Sæmmi bále le válldut symbåvlålasj dáhpádus. Munnuj lej duodastit ietjama gieresvuodav nubbe nubbáj. Ja ihkap lin oassálasstám værjoduhttet juojddáv mij le læhkám iebdes ja gássjelis. Ájnegis ulmutja máhtti sierradusáv dahkat ja vájkkudit ja væráldav buoredit. Mannela diehtep aj ietjá sáme Divtasvuonas li <span type="quote">«skáhpas»</span> ålgus boahtám, subtsas Svenn-Egil.</p>
+<p>Ja jur dákkir vuorjjás subttsasa, dagu Svenn-Egila, galggá sirddevuosádus Árranin vuosádallat, jienajn ja gåvåj. Subttsasa moattebelak Vuonarijkas. Ulmutjij birra gudi li åvdån vádtsám. Svenn-Egil Knutsen Duolljá válljij tabuav boarkkit homofilija birra sáme sebrudagán ja vattij homofijlajda muodov. Dáv dagáj dan diehti gå sihtá liehket dav gev la. - Gatjálvis le liehket nav gåktu ulmusj le, åskeldit ietjas dåbdojt, ja bessat viessot ietjas iellemav, tjuottjot sån.</p>
+<p>Moatte jagij mannela Råmsån le SvennEgil ruoptus Divtasvuodnaj jåhtåm aktan ietjas Bruce Morén-Duolljájn. <span type="quote">«Unna goadátjij miehtsen»</span>. Iesj barggá nuorttarijkalasj giellaprosjevtajn, GiellaGálldo, kåntåvrråsajijn Sámedikken kulturguovdátjin Árranin. Bruce le dutke Råmså Universitehtan ja ruvva vuostasjamanuensis Nordlánda Universitehtan. Dåbddåba buoragit vuosstájváldedum lagosbirrusin, soapptsoba ja buoragit adneba.</p>
+<p>- Soajttá gehtjaduvvin <span type="quote">«imálattjan»</span>, ij ållu A4, valla dåbddin dåhkkiduvvam ja buorisboahtem. Bájkkejuhtusav en ielve...</p>
+<p>Tæksta: Børge Strandskog Jårggålibme: Divte Media AS</p>
+<p>jj</p>
+<p>j</p>
+<p>jj jj</p>
+<p>jj</p>
+</body></document>

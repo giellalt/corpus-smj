@@ -1,78 +1,35 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>726</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Tystnadplikt-och-sekretess</origFileName>
-    <parallel_text xml:lang="eng" location="professional-secrecy-and-confidentiality.html"/>
-    <parallel_text xml:lang="fin" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="fit" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="sma" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="sme" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="swe" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text location="tystnadsplikt-och-sekretess-.html" xml:lang="rmn"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmu"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rka"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="yid"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Sjávovälggogisvuohta ja sekretässa / Tystnadplikt och sekretess - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">JulevusámegiellaLulesamiska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Sjávovälggogisvuohta ja sekretässaTystnadplikt och sekretess</p>
-    <p type="title">Mij la fámon?</p>
-    <p type="title">Gájkajn sujton la sjávovälggogisvuohta</p>
-    <p>Gå aktavuodav válldá sujtujn de l ájnas åskov dåbddå barggijda majt iejvvi. Åskeldibme l ájnas dåbddåtjit jasskavuodav ja duosstat jálot ságastit vájvij jali dåbddomerkaj birra ma li sujna ja dan láhkáj oadtjot sujtov majt dárbaj. Danen la gájkajn gudi barggi varresvuohta- ja skihpasujton sjávovälggogisvuohta. Vuodoprinsihppa l ij aktak sujton oattjo diedojt vaddet jus ij la iesj ij la dav miededam. Guosská buojkulvissan patienta skibádagá diedojda, dálkudimev jali priváhta vidjurijda.</p>
-    <p>Skihpasujton la fámon sämmi sekretässasuodje gájkka patientajda juska sujna l riektá Svierigin viessot jali ij.</p>
-    <p>Gejda barggi stáhtan, lánndadikkijn ja kommuvnajn stivrriduvvá sjávovälggogisvuohta almulasjvuohta- ja sekretässalágas valla gudi barggi priváhta sujttovadde lunna galggi tjuovvot patiänntasihkarvuohtalága njuolgadusájt sjávovälggogisvuoda birra. Gut doadjá sjávovälggogisvuodav máhttá duobbmoståvlån duobbmiduvvat jali ietjáláhkáj stráffuduvvat fábmudagájs gejn li gähttjo sujto badjela.</p>
-    <p>Barggijn skihpadåben jali varresvuohtaguovdátjin la sjávovälggogisvuohta. Le val gudi patientav sujttiji gudi oadtju nubbe nuppijn patienta varresvuoda jali persåvnålasj vidjurij birra ságastit. Merkaj buojkulvissan dåktår oadtju rádedit patienta dálkudimev nuppijn dåktårijn val jus sujttiba sämmi ulmutjav.</p>
-    <p>Sjávovälggogisvuohta guosská gájkka barggijda majt iejvvi sujton. Juska l almulasj jali priváhta sujton ja juska li dåktåra, skihpasujtára jali administratijvalasj bargge. Dålkåjn ja jårggåliddjijn gudi barggi dahkamusá milta varresvuohta- ja skihpasujton la aj sjávovälggogisvuohta. Sjávovälggogisvuohta guosská aj gejda dálkasboargálin barggi.</p>
-    <p type="title">Iesj mierret</p>
-    <p>Lága merkahi ij åbbå lahkaulmutjijn la riektá diedojt oadtjot mij javladuvvá ja dagáduvvá skihpadåben jus iesj ij sidá galggi diedojt oadtjot. Bargge gahtji gejda oadtju diedojt vaddet. Iesj de vállji gejda oadtju diededit. Buojkulvissan máhttá tjuollama åvddåla giehttot barggijda vaj oadtju giehttot gåktå tjuollam la vuorbástam buojkulvissan lahkaulmutjij åvddål iesj la gåhttsåm.</p>
-    <p>Mánájda gullu sujttoaddnen ienemusát la riektá diedojt oadtjot ietjas máná sujtos ja diehtet mij la juornálan tjáledum. Valla gå mánná vuorrasabbo sjaddá, de álu rávkaduvvá mánná dasi miedet.</p>
-    <p>Jus sujton jali sosiáladievnastusán gáddá mánná báktjoduvvá ietjas sujttoaddne lunna, jali sujttoaddne ij máhte mánáv suoddjit, de journála ij ålgus vatteduvá.</p>
-    <p>Patiänntajournála gåbtjåduvvi aj sekretessas ja ájnegattja gudi oadtju journálav låhkåt li bargge gudi patientav sujttiji masi journála guosská. Ij la ájnas jus journálla gávnnu datåvrån jali jus la páhppárij tjáledum.</p>
-    <p type="title">Tjuolldasa</p>
-    <p type="title">Tjuolldasa sjávovälggogisvuodas</p>
-    <p>Vájku sekretässa ja sjávovälggogisvuohta l vijdesbirástiddje de sekretässa máhttá doajeduvvat muhtem vidjurijn, váni patienta miededime dagi. Buojkulvissan jus</p>
-    <list>
-      <p type="listitem">duobbmoståvllå, guoddaliddje-, polijssa, kråvnnåsunnde- jali värrofábmudahka rávkká oadtjot diedojt jus vissa ulmusj gávnnu sujttoásadusán</p>
-      <p type="listitem">sosiálastivra ráde riektálasj, sosiálalasj ja medisijnalasj ássjijda dárbahi diedojt ietjas doajmmaj</p>
-      <p type="listitem">dålvudakstivrra dárbaj diedojt gähttjalittjat ulmutja dåhkkidimvuodav vuodjemkårtåv, traktåvrråkårtåv jali taxivuoddjelegitimasjåvnåv adnet</p>
-      <p type="listitem">diedo li dárbulattja gå galggá gähttjaluvvat jus oahppe galggá allaskåvllååhpadusás dahpaduvvat</p>
-      <p type="listitem">diedo li dárbulattja riektámedisijnalasj åtsådibmáj.</p>
-    </list>
-    <p>Vierredago gáddema gáktuj mij la nåv alvos vaj vaddá unnemusát jagev fáŋgan de sujttobarggijn la riektá sjávovälggogisvuodav doadjet polijssabajedimev bajedittjat ja gatjálvisájt vásstedit goappátjagá polijssa-ja guoddaliddjefábmudagájs. Dakkir vierredago li buojkulvissan gåddem, bággoválldem ja vastes tsábbmem. Gávnnuji aj muhtem trafijkkavierredago vuolep stráffamierijn buojkulvissan vuodjemjuhkalisvuohta majt sujttobarggijn la riektá bajedit.</p>
-    <p type="title">Sierralágásj tjuolldasa mánájda</p>
-    <p>Mánáj gáktuj de tjuolldasa sjávovälggogisvuodas dagáduvvi jus sujttobargge gáddi mánná vierredahkuj dejvadallá. Máhttá årrot tsábbmem jali seksuálalasj illastibme.</p>
-    <p>Jus sujttobargge gáddi mánná báktjoduvvá de bargge galggi dakkir gáddemijt bajedit sosiáladievnastussaj, mij guoradallá ja soajttá polijssabajedimev dahká. Fámon la aj jus juoŋgalágásj guoradallam dagáduvvá mij guosská mánájda lågenangávtse ja nuorabu suodjedárbbuj. Sujttobargge li de välggogisá diedojt vaddet ma máhtti årrot ájnnasa guoradallamij.</p>
-    <p type="title">Ij aktak áldarmierre mánájda ietja mierredit</p>
-    <p>Smávva mánáj gáktuj de li sujttoaddne gudi mierredi jus diedo galggi vatteduvvat jali ij. Gå mánná vuorrasap sjaddá ja nuohkásit dádjat dán gáktuj de mánná iesj oadtju mierredit jus sujttobargge oadtju diedojt vaddet ja gesi. Ij de gávnnu avtak sierra áldarmierre goassa mánná iesj oadtju mierredit, valla mierreduvvá ulmutjis ulmutjij. Máhttá merkahit sujttoaddne e oattjo diedojt máná varresvuoda birra.</p>
-    <p type="title">Oadjodåjmadahka ja duodastusvidnudagá</p>
-    <p>Iesj mierret jus varresvuohta-ja skihpasujtto galggá diedojt vaddet ietjas dávdaj ja dálkudime birra. Valla jus la skibás ja åhtså skihpamávsálvisáv oadjodåjmadagás de skihpasujttobargge oadtju diedojt vaddet ma li dárbulattja merustalátjit jus la riektá skihpamávsálvissaj.</p>
-    <p>Fámon la aj jus vahágij jali dávddaj boahttu ja sihtá mávsálvisáv ietjas duodastussiebres. Duodastusvidnudagán la de riektá diedojt oadtjot ma rávkaduvvi merustalátjit jus la riektá mávsálvissaj.</p>
-    <p type="title">Sjávovälggogisvuoda doadjema</p>
-    <p>Vájku gávnnuji sierra vidjura gå skihpasujttobargge oadtju doadjet jali galggi sjávovälggogisvuodav doadjet de l val ájnegis bále. Sjávovälggogisvuohta vuodoájádus la patientav suoddjitjit.</p>
-    <p>Jus patiänntan gáddá sujttobarggijs muhtem la sjávovälggogisvuodav doadjám de máhttá bajedit dav polijssaj jali Sosiálastivrraj. Máhttá båhtusav vaddet vaj dat ulmusj guoddaluvvá ja duobbmiduvvá.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>720</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Tystnadplikt-och-sekretess</origFileName><parallel_text xml:lang="eng" location="professional-secrecy-and-confidentiality.html"/><parallel_text xml:lang="fin" location="tystnadsplikt-och-sekretess.html"/><parallel_text xml:lang="fit" location="tystnadsplikt-och-sekretess.html"/><parallel_text xml:lang="sma" location="tystnadsplikt-och-sekretess.html"/><parallel_text xml:lang="sme" location="tystnadsplikt-och-sekretess.html"/><parallel_text xml:lang="swe" location="tystnadsplikt-och-sekretess.html"/><parallel_text location="tystnadsplikt-och-sekretess-.html" xml:lang="rmn"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmu"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rka"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="yid"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rlo"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Sjávovälggogisvuohta ja sekretässa / Tystnadplikt och sekretess - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Sjávovälggogisvuohta ja sekretässaTystnadplikt och sekretess</p>
+<p type="title">Mij la fámon?</p>
+<p type="title">Gájkajn sujton la sjávovälggogisvuohta</p>
+<p>Gå aktavuodav válldá sujtujn de l ájnas åskov dåbddå barggijda majt iejvvi. Åskeldibme l ájnas dåbddåtjit jasskavuodav ja duosstat jálot ságastit vájvij jali dåbddomerkaj birra ma li sujna ja dan láhkáj oadtjot sujtov majt dárbaj. Danen la gájkajn gudi barggi varresvuohta- ja skihpasujton sjávovälggogisvuohta. Vuodoprinsihppa l ij aktak sujton oattjo diedojt vaddet jus ij la iesj ij la dav miededam. Guosská buojkulvissan patienta skibádagá diedojda, dálkudimev jali priváhta vidjurijda.</p>
+<p>Skihpasujton la fámon sämmi sekretässasuodje gájkka patientajda juska sujna l riektá Svierigin viessot jali ij.</p>
+<p>Gejda barggi stáhtan, lánndadikkijn ja kommuvnajn stivrriduvvá sjávovälggogisvuohta almulasjvuohta- ja sekretässalágas valla gudi barggi priváhta sujttovadde lunna galggi tjuovvot patiänntasihkarvuohtalága njuolgadusájt sjávovälggogisvuoda birra. Gut doadjá sjávovälggogisvuodav máhttá duobbmoståvlån duobbmiduvvat jali ietjáláhkáj stráffuduvvat fábmudagájs gejn li gähttjo sujto badjela.</p>
+<p>Barggijn skihpadåben jali varresvuohtaguovdátjin la sjávovälggogisvuohta. Le val gudi patientav sujttiji gudi oadtju nubbe nuppijn patienta varresvuoda jali persåvnålasj vidjurij birra ságastit. Merkaj buojkulvissan dåktår oadtju rádedit patienta dálkudimev nuppijn dåktårijn val jus sujttiba sämmi ulmutjav.</p>
+<p>Sjávovälggogisvuohta guosská gájkka barggijda majt iejvvi sujton. Juska l almulasj jali priváhta sujton ja juska li dåktåra, skihpasujtára jali administratijvalasj bargge. Dålkåjn ja jårggåliddjijn gudi barggi dahkamusá milta varresvuohta- ja skihpasujton la aj sjávovälggogisvuohta. Sjávovälggogisvuohta guosská aj gejda dálkasboargálin barggi.</p>
+<p type="title">Iesj mierret</p>
+<p>Lága merkahi ij åbbå lahkaulmutjijn la riektá diedojt oadtjot mij javladuvvá ja dagáduvvá skihpadåben jus iesj ij sidá galggi diedojt oadtjot. Bargge gahtji gejda oadtju diedojt vaddet. Iesj de vállji gejda oadtju diededit. Buojkulvissan máhttá tjuollama åvddåla giehttot barggijda vaj oadtju giehttot gåktå tjuollam la vuorbástam buojkulvissan lahkaulmutjij åvddål iesj la gåhttsåm.</p>
+<p>Mánájda gullu sujttoaddnen ienemusát la riektá diedojt oadtjot ietjas máná sujtos ja diehtet mij la juornálan tjáledum. Valla gå mánná vuorrasabbo sjaddá, de álu rávkaduvvá mánná dasi miedet.</p>
+<p>Jus sujton jali sosiáladievnastusán gáddá mánná báktjoduvvá ietjas sujttoaddne lunna, jali sujttoaddne ij máhte mánáv suoddjit, de journála ij ålgus vatteduvá.</p>
+<p>Patiänntajournála gåbtjåduvvi aj sekretessas ja ájnegattja gudi oadtju journálav låhkåt li bargge gudi patientav sujttiji masi journála guosská. Ij la ájnas jus journálla gávnnu datåvrån jali jus la páhppárij tjáledum.</p>
+<p type="title">Tjuolldasa</p>
+<p type="title">Tjuolldasa sjávovälggogisvuodas</p>
+<p>Vájku sekretässa ja sjávovälggogisvuohta l vijdesbirástiddje de sekretässa máhttá doajeduvvat muhtem vidjurijn, váni patienta miededime dagi. Buojkulvissan jus</p>
+<list><p type="listitem">duobbmoståvllå, guoddaliddje-, polijssa, kråvnnåsunnde- jali värrofábmudahka rávkká oadtjot diedojt jus vissa ulmusj gávnnu sujttoásadusán</p>
+<p type="listitem">sosiálastivra ráde riektálasj, sosiálalasj ja medisijnalasj ássjijda dárbahi diedojt ietjas doajmmaj</p>
+<p type="listitem">dålvudakstivrra dárbaj diedojt gähttjalittjat ulmutja dåhkkidimvuodav vuodjemkårtåv, traktåvrråkårtåv jali taxivuoddjelegitimasjåvnåv adnet</p>
+<p type="listitem">diedo li dárbulattja gå galggá gähttjaluvvat jus oahppe galggá allaskåvllååhpadusás dahpaduvvat</p>
+<p type="listitem">diedo li dárbulattja riektámedisijnalasj åtsådibmáj.</p>
+</list><p>Vierredago gáddema gáktuj mij la nåv alvos vaj vaddá unnemusát jagev fáŋgan de sujttobarggijn la riektá sjávovälggogisvuodav doadjet polijssabajedimev bajedittjat ja gatjálvisájt vásstedit goappátjagá polijssa-ja guoddaliddjefábmudagájs. Dakkir vierredago li buojkulvissan gåddem, bággoválldem ja vastes tsábbmem. Gávnnuji aj muhtem trafijkkavierredago vuolep stráffamierijn buojkulvissan vuodjemjuhkalisvuohta majt sujttobarggijn la riektá bajedit.</p>
+<p type="title">Sierralágásj tjuolldasa mánájda</p>
+<p>Mánáj gáktuj de tjuolldasa sjávovälggogisvuodas dagáduvvi jus sujttobargge gáddi mánná vierredahkuj dejvadallá. Máhttá årrot tsábbmem jali seksuálalasj illastibme.</p>
+<p>Jus sujttobargge gáddi mánná báktjoduvvá de bargge galggi dakkir gáddemijt bajedit sosiáladievnastussaj, mij guoradallá ja soajttá polijssabajedimev dahká. Fámon la aj jus juoŋgalágásj guoradallam dagáduvvá mij guosská mánájda lågenangávtse ja nuorabu suodjedárbbuj. Sujttobargge li de välggogisá diedojt vaddet ma máhtti årrot ájnnasa guoradallamij.</p>
+<p type="title">Ij aktak áldarmierre mánájda ietja mierredit</p>
+<p>Smávva mánáj gáktuj de li sujttoaddne gudi mierredi jus diedo galggi vatteduvvat jali ij. Gå mánná vuorrasap sjaddá ja nuohkásit dádjat dán gáktuj de mánná iesj oadtju mierredit jus sujttobargge oadtju diedojt vaddet ja gesi. Ij de gávnnu avtak sierra áldarmierre goassa mánná iesj oadtju mierredit, valla mierreduvvá ulmutjis ulmutjij. Máhttá merkahit sujttoaddne e oattjo diedojt máná varresvuoda birra.</p>
+<p type="title">Oadjodåjmadahka ja duodastusvidnudagá</p>
+<p>Iesj mierret jus varresvuohta-ja skihpasujtto galggá diedojt vaddet ietjas dávdaj ja dálkudime birra. Valla jus la skibás ja åhtså skihpamávsálvisáv oadjodåjmadagás de skihpasujttobargge oadtju diedojt vaddet ma li dárbulattja merustalátjit jus la riektá skihpamávsálvissaj.</p>
+<p>Fámon la aj jus vahágij jali dávddaj boahttu ja sihtá mávsálvisáv ietjas duodastussiebres. Duodastusvidnudagán la de riektá diedojt oadtjot ma rávkaduvvi merustalátjit jus la riektá mávsálvissaj.</p>
+<p type="title">Sjávovälggogisvuoda doadjema</p>
+<p>Vájku gávnnuji sierra vidjura gå skihpasujttobargge oadtju doadjet jali galggi sjávovälggogisvuodav doadjet de l val ájnegis bále. Sjávovälggogisvuohta vuodoájádus la patientav suoddjitjit.</p>
+<p>Jus patiänntan gáddá sujttobarggijs muhtem la sjávovälggogisvuodav doadjám de máhttá bajedit dav polijssaj jali Sosiálastivrraj. Máhttá båhtusav vaddet vaj dat ulmusj guoddaluvvá ja duobbmiduvvá.</p>
+</body></document>

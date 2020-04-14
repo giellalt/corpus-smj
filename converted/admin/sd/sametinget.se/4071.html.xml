@@ -1,37 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>126</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/4071</origFileName>
-    <parallel_text xml:lang="sme" location="3082.html"/>
-    <parallel_text xml:lang="swe" location="1128.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Vidnudakstruktuvrra - Sametinget</p>
-    <p type="title">Vidnudakstruktuvrra</p>
-    <p>Svierigin ällosujtto dåjmaduvvá ienep gå 900 ällosujttovidnudagájn. Ällosujton le aj älljabivddo ja guollebivddo.</p>
-    <p>Aktidimäládus</p>
-    <p>Ällosujtto álu dåjmaduvvá aktidimen ietjá äládusáj degu duodje ja turissma. Bajásanedittjat ietjas ållåsit ällosujtos vidnudagán bierriji 500-600 boahttsu. Gávnnuji bájken 900 ällosujttovidnudagá. Iemelágásj märostime milta 2500 ulmutja ållåsit jali muhtem mudduj ällosujtos viessu. Gávnnuji bájken 4 600 älloniehke, dájs 85 prosännta gávnnuji Norrbottena lenan. Ällosujttovidnudahka álu sujtti boahttsujt moatte älloniehkijda. Tjielden gávnnuji moadda ällosujttovidnudagá.</p>
-    <p>Äládus ienemusát ålmmåj</p>
-    <p>2005 lågoj milta rijka boahttsu 77 prosännta ålmmåjs äjgoduvvi. Vidnudagájn ienep gå 400 boahttsu älo 93 prosännta ålmmå äjgguji. Stuorámus sisboahto boatsojbiergo vuobddemis boahtá. Stuorámus gålo li vuojána ja bensijnna.</p>
-    <p>Konsumsjåvnnå</p>
-    <p>Látte merustaláduvvi gasskamieren 0,2 kg boatsojbiergov bårråt buohta 15 kg slidorbiergujn. 250 tånnå boatsojbierggo vuobdeduvvá boargálin massta 200 tånnå tsáhpusin.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>126</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/4071</origFileName><parallel_text xml:lang="sme" location="3082.html"/><parallel_text xml:lang="swe" location="1128.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Vidnudakstruktuvrra - Sametinget</p>
+<p type="title">Vidnudakstruktuvrra</p>
+<p>Svierigin ällosujtto dåjmaduvvá ienep gå 900 ällosujttovidnudagájn. Ällosujton le aj älljabivddo ja guollebivddo.</p>
+<p>Aktidimäládus</p>
+<p>Ällosujtto álu dåjmaduvvá aktidimen ietjá äládusáj degu duodje ja turissma. Bajásanedittjat ietjas ållåsit ällosujtos vidnudagán bierriji 500-600 boahttsu. Gávnnuji bájken 900 ällosujttovidnudagá. Iemelágásj märostime milta 2500 ulmutja ållåsit jali muhtem mudduj ällosujtos viessu. Gávnnuji bájken 4 600 älloniehke, dájs 85 prosännta gávnnuji Norrbottena lenan. Ällosujttovidnudahka álu sujtti boahttsujt moatte älloniehkijda. Tjielden gávnnuji moadda ällosujttovidnudagá.</p>
+<p>Äládus ienemusát ålmmåj</p>
+<p>2005 lågoj milta rijka boahttsu 77 prosännta ålmmåjs äjgoduvvi. Vidnudagájn ienep gå 400 boahttsu älo 93 prosännta ålmmå äjgguji. Stuorámus sisboahto boatsojbiergo vuobddemis boahtá. Stuorámus gålo li vuojána ja bensijnna.</p>
+<p>Konsumsjåvnnå</p>
+<p>Látte merustaláduvvi gasskamieren 0,2 kg boatsojbiergov bårråt buohta 15 kg slidorbiergujn. 250 tånnå boatsojbierggo vuobdeduvvá boargálin massta 200 tånnå tsáhpusin.</p>
+</body></document>

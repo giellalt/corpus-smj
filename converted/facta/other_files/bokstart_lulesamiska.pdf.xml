@@ -1,91 +1,49 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Bokstart</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>689</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.kulturradet.se/Documents/L%C3%A4sfr%C3%A4mjande/Bokstart/Lulesamiska_A4_WEB.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p><em type="bold">Unnán duv máná gielas gudámánuga rájes</em> </p>
-    <p type="listitem">•  Juo dálla ságas duv mánná dujna vejnudallama, jienaj ja labudime</p>
-    <p>baktu. Ruvva boahtá mánná aj álgget jienajt dahkagoahtet ma gulluji degu bágo, degu dal da-da ja ta-ta.</p>
-    <p type="listitem">•  Duv mánná aj álggá dåbdåt vidjurijt ja maŋenagi dádjadahtjá bágojt</p>
-    <p>degu gehtja ja bágojt ieddne ja áhttje.</p>
-    <p type="listitem">•  Duv mánná ávvudallá ja gieres ságastit dujna, ståhkat gehtja dál ja</p>
-    <p>álkkep labudimståhkusijt degu lájbo, lájbo unna gáhkov.</p>
-    <p><em type="bold">Ságasta divnaj birra</em> </p>
-    <p>Ságasta divnaj birra ma dáhpáduvvi ja mij dabrre duv máná mielav. Åna, gärddádum gárgadisáj ja jus dal aj lidnásup jienajn. Ságasta biebbmo, biktasij birra ja majt vuojnnebihtte ja majt mánná barggá. Vuoset at dån gulldala, ja vásstet dan láhkáj vaj mánná sihtá joarket ságastallamav.</p>
-    <p>
-      <em type="bold">Målsuda ja gärddáda </em>
-    </p>
-    <p>Gärddáda máná jienav, árvveda majt dat sisadná ja tjielggi dav duv bágoj. Vuorde dasik mánná vásstet jienajn jali siejvvemijn åvddål joarká. Mánná juo dálla oahppa vuorodit gå ságas ja dádjat aktavuodav bágo ja diŋga gaskan.</p>
-    <p>
-      <em type="bold">Ståga gielajn </em>
-    </p>
-    <p>Lávlo lávlojt, gärddáda báhkogietjijt, gihkkutja ja ståga lávlloståhkusijt. Giekte tjuvdijt ja juolggetjuvdijt, spitjo ja murá ja dájo!</p>
-    <p><em type="bold">Ságasta- lågå aktan</em> </p>
-    <p>Gå mánná máhttá tjuovvot duv tjalmijt ja gåsi tjuvdev giejggi sjaddá girjje mielladabrelis oahpes. Vuoseda tjuvdijn ja giehtto gåvåj birra. Åro ielvvis majt duv mánná årru lijkkumin. Álggon la mielladabrre oadne, valla maŋenagi allu máná máhtto ja tjuovvom.</p>
-    <p><em type="bold">Binnásj duv máná gielas 18 manuga rájes</em> </p>
-    <p type="listitem">• Duv mánná dádjat gitta 200 árgabäjválasjbágojt</p>
-    <p type="listitem">•  Mánná iesj adná birrusij 25 bágo, valla bágo máhtti sisadnet duov</p>
-    <p>dáv, duon dán ássjen</p>
-    <p type="listitem">• Mánná álggá biedjat aktij bágojt, degu dal <span type="quote">“áhttje bijlla”</span>, <span type="quote">“dåla l biena”</span></p>
-    <p> <em type="bold">Ságastihtit ålov nubbe nuppijn  </em>Divna máná dárbahi viehkev ja hárjjidallamav åvddånahttemijn ietjas gielav. Giehttut majt lihpit barggamin, degu dal: dal måj galggin gárvedit biebmov, de måj mannin tjiehkaj...       </p>
-    <p><em type="bold">Dålkku ja åvdeda majt mánná javllá</em> </p>
-    <p>Gå dån aná máná ietjas bágojt ja duoddi ådåsij, de dån viehkeda mánáv åvddånahttet suv gielav. Jus mánná javllá <span type="quote">“namnam”</span> dån máhtá javllat: juo, dat la biebbmo ja dal måj galggin bårråt.</p>
-    <p>
-      <em type="bold">Gatjáda ja vuordde vasstádusáv  </em>
-    </p>
-    <p>Gatjáda mánás daj birra majt dahkabihtte ja vuojnnebihtte. Ale åro ilá háhppel iesj vásstedit. Jus vásstádus árro de máhtá maŋenagi viehkedit.</p>
-    <p>
-      <em type="bold">Dagá aktavuodav máná ietjas väráldi </em>
-    </p>
-    <p>Dat la álkkep oahppat ådå diŋgajt jus biedjá jårkav juojddáj majt mánná juo diehtá. Jus vuojnnebihtte gåvåv båvsåjs, de dån máhtá vuosedit máná ietjas båvsåjt ja javllat: dujna li aj båvså, jussta degu báhtjan girjen.</p>
-    <p>
-      <em type="bold">Ále njuolggo mánáv dalá </em>
-    </p>
-    <p>Jus duv mánná javllá <span type="quote">“dáhtto”</span> farra gå gáhtto, de dån viehkeda suv buoremusát jus vássteda åna gárgadisájn gånnå dån iesj aná bágov: juo, dat la unna gáhttusj. Majt gáhtto javllá?</p>
-    <p>
-      <em type="bold">Sáhka- låhkke aktan </em>
-    </p>
-    <p>Mánán li dal ållo ávvo ålot girjes majt <span type="quote">“låhkåt”</span> máhttebihtte aktan. Ane buorev astov. Gatjáda rabás gatjálvisájt mij dáhpáduvvá girjijs ja bieja aktij máná ietjas vásádusájda: majt jáhká...? Ja: mujták...? Gulldal tjårggå majt mánná adná ja ussjol.</p>
-    <p><em type="bold">Unnán duv máná gielas jagágis</em> </p>
-    <p type="listitem">•  Dal duv mánná buorebut álggá máhttet ságastit ja vuoset siejv</p>
-    <p>vemijn, jienaj dav majt lihppe gähttjamin gå sihtá juojddáv giehttot dunji.</p>
-    <p type="listitem">•  Duv mánná ruvva máhttá javllat suv vuostasj bágojt mij la dánna ja</p>
-    <p>dálla, degu bållå, bierna ja gehtja.</p>
-    <p type="listitem">•  Duv mánná dádjat ålov ienep bágov gå dav majt máhttá javllat ja</p>
-    <p>dárbaj duv viehkev ienebut gå goassak åvddål, dålkkut ja javllat juojddáv dan birra.</p>
-    <p>
-      <em type="bold">Tjuovo máná mielav ja bieja bágojt dasi </em>
-    </p>
-    <p>Dån máhttá adnet divnajt majt vuojnnebihtte ja dahkabihtte árggabiejven at åvddånahttet máná gielav. Gå sån javllá dåla, ja giejggi tjuvdev gáhttuj dån máhtá vásstedit: Juo, dat la gáhtto. Lijkkuk dån gáhttov? Mujtte val vuorddalit máná vásstádusáv.</p>
-    <p>
-      <em type="bold">Målsuda ja gärddáda ållu </em>
-    </p>
-    <p>Gå mánná oahppá ådå bágojt sån dárbaj gullat dajt moaddi ja sierra vásádusájn. Gå sån doallá biernav javla: Dat la fijnna bierna. Bierna la rusjkat. Dat la duv bierna. Mån aj lijkkuv biernav.</p>
-    <p>
-      <em type="bold">Åro ielvvis ja gulldala </em>
-    </p>
-    <p>Gå dån gulldala berustimijn de boahtá mánná dåbdåt at dat la oasálasj. Dan láhkáj mánná oahppa vuorodit gå giehttu nubbe nubbáj.</p>
-    <p>
-      <em type="bold">Ståga gielajn </em>
-    </p>
-    <p>Lávlo lávlojt, gärddáda báhkogietjijt, gihkkutja ja ståga lávlloståhkusijt. Giekte tjuvdijt ja juolggetjuvdijt, spitjo ja murá ja dájo!</p>
-    <p>
-      <em type="bold">Huomahahtte giehttojt ja låhkke aktan </em>
-    </p>
-    <p>Giehtto åna giehtojt, degu dal máná bierna birra jali bussas majna lihppe manon. Ságasta vehkagåvåj birra. Dal dåj máhttebihtte álgget låhkåt álkkep gåvvågirjijt aktan.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Bokstart</title><genre code="facta"/><author><unknown/></author><wordcount>689</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.kulturradet.se/Documents/L%C3%A4sfr%C3%A4mjande/Bokstart/Lulesamiska_A4_WEB.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Unnán duv máná gielas gudámánuga rájes</em> </p>
+<p type="listitem">•  Juo dálla ságas duv mánná dujna vejnudallama, jienaj ja labudime</p>
+<p>baktu. Ruvva boahtá mánná aj álgget jienajt dahkagoahtet ma gulluji degu bágo, degu dal da-da ja ta-ta.</p>
+<p type="listitem">•  Duv mánná aj álggá dåbdåt vidjurijt ja maŋenagi dádjadahtjá bágojt</p>
+<p>degu gehtja ja bágojt ieddne ja áhttje.</p>
+<p type="listitem">•  Duv mánná ávvudallá ja gieres ságastit dujna, ståhkat gehtja dál ja</p>
+<p>álkkep labudimståhkusijt degu lájbo, lájbo unna gáhkov.</p>
+<p><em type="bold">Ságasta divnaj birra</em> </p>
+<p>Ságasta divnaj birra ma dáhpáduvvi ja mij dabrre duv máná mielav. Åna, gärddádum gárgadisáj ja jus dal aj lidnásup jienajn. Ságasta biebbmo, biktasij birra ja majt vuojnnebihtte ja majt mánná barggá. Vuoset at dån gulldala, ja vásstet dan láhkáj vaj mánná sihtá joarket ságastallamav.</p>
+<p><em type="bold">Målsuda ja gärddáda </em></p>
+<p>Gärddáda máná jienav, árvveda majt dat sisadná ja tjielggi dav duv bágoj. Vuorde dasik mánná vásstet jienajn jali siejvvemijn åvddål joarká. Mánná juo dálla oahppa vuorodit gå ságas ja dádjat aktavuodav bágo ja diŋga gaskan.</p>
+<p><em type="bold">Ståga gielajn </em></p>
+<p>Lávlo lávlojt, gärddáda báhkogietjijt, gihkkutja ja ståga lávlloståhkusijt. Giekte tjuvdijt ja juolggetjuvdijt, spitjo ja murá ja dájo!</p>
+<p><em type="bold">Ságasta- lågå aktan</em> </p>
+<p>Gå mánná máhttá tjuovvot duv tjalmijt ja gåsi tjuvdev giejggi sjaddá girjje mielladabrelis oahpes. Vuoseda tjuvdijn ja giehtto gåvåj birra. Åro ielvvis majt duv mánná årru lijkkumin. Álggon la mielladabrre oadne, valla maŋenagi allu máná máhtto ja tjuovvom.</p>
+<p><em type="bold">Binnásj duv máná gielas 18 manuga rájes</em> </p>
+<p type="listitem">• Duv mánná dádjat gitta 200 árgabäjválasjbágojt</p>
+<p type="listitem">•  Mánná iesj adná birrusij 25 bágo, valla bágo máhtti sisadnet duov</p>
+<p>dáv, duon dán ássjen</p>
+<p type="listitem">• Mánná álggá biedjat aktij bágojt, degu dal <span type="quote">“áhttje bijlla”</span>, <span type="quote">“dåla l biena”</span></p>
+<p> <em type="bold">Ságastihtit ålov nubbe nuppijn  </em>Divna máná dárbahi viehkev ja hárjjidallamav åvddånahttemijn ietjas gielav. Giehttut majt lihpit barggamin, degu dal: dal måj galggin gárvedit biebmov, de måj mannin tjiehkaj...       </p>
+<p><em type="bold">Dålkku ja åvdeda majt mánná javllá</em> </p>
+<p>Gå dån aná máná ietjas bágojt ja duoddi ådåsij, de dån viehkeda mánáv åvddånahttet suv gielav. Jus mánná javllá <span type="quote">“namnam”</span> dån máhtá javllat: juo, dat la biebbmo ja dal måj galggin bårråt.</p>
+<p><em type="bold">Gatjáda ja vuordde vasstádusáv  </em></p>
+<p>Gatjáda mánás daj birra majt dahkabihtte ja vuojnnebihtte. Ale åro ilá háhppel iesj vásstedit. Jus vásstádus árro de máhtá maŋenagi viehkedit.</p>
+<p><em type="bold">Dagá aktavuodav máná ietjas väráldi </em></p>
+<p>Dat la álkkep oahppat ådå diŋgajt jus biedjá jårkav juojddáj majt mánná juo diehtá. Jus vuojnnebihtte gåvåv båvsåjs, de dån máhtá vuosedit máná ietjas båvsåjt ja javllat: dujna li aj båvså, jussta degu báhtjan girjen.</p>
+<p><em type="bold">Ále njuolggo mánáv dalá </em></p>
+<p>Jus duv mánná javllá <span type="quote">“dáhtto”</span> farra gå gáhtto, de dån viehkeda suv buoremusát jus vássteda åna gárgadisájn gånnå dån iesj aná bágov: juo, dat la unna gáhttusj. Majt gáhtto javllá?</p>
+<p><em type="bold">Sáhka- låhkke aktan </em></p>
+<p>Mánán li dal ållo ávvo ålot girjes majt <span type="quote">“låhkåt”</span> máhttebihtte aktan. Ane buorev astov. Gatjáda rabás gatjálvisájt mij dáhpáduvvá girjijs ja bieja aktij máná ietjas vásádusájda: majt jáhká...? Ja: mujták...? Gulldal tjårggå majt mánná adná ja ussjol.</p>
+<p><em type="bold">Unnán duv máná gielas jagágis</em> </p>
+<p type="listitem">•  Dal duv mánná buorebut álggá máhttet ságastit ja vuoset siejv</p>
+<p>vemijn, jienaj dav majt lihppe gähttjamin gå sihtá juojddáv giehttot dunji.</p>
+<p type="listitem">•  Duv mánná ruvva máhttá javllat suv vuostasj bágojt mij la dánna ja</p>
+<p>dálla, degu bållå, bierna ja gehtja.</p>
+<p type="listitem">•  Duv mánná dádjat ålov ienep bágov gå dav majt máhttá javllat ja</p>
+<p>dárbaj duv viehkev ienebut gå goassak åvddål, dålkkut ja javllat juojddáv dan birra.</p>
+<p><em type="bold">Tjuovo máná mielav ja bieja bágojt dasi </em></p>
+<p>Dån máhttá adnet divnajt majt vuojnnebihtte ja dahkabihtte árggabiejven at åvddånahttet máná gielav. Gå sån javllá dåla, ja giejggi tjuvdev gáhttuj dån máhtá vásstedit: Juo, dat la gáhtto. Lijkkuk dån gáhttov? Mujtte val vuorddalit máná vásstádusáv.</p>
+<p><em type="bold">Målsuda ja gärddáda ållu </em></p>
+<p>Gå mánná oahppá ådå bágojt sån dárbaj gullat dajt moaddi ja sierra vásádusájn. Gå sån doallá biernav javla: Dat la fijnna bierna. Bierna la rusjkat. Dat la duv bierna. Mån aj lijkkuv biernav.</p>
+<p><em type="bold">Åro ielvvis ja gulldala </em></p>
+<p>Gå dån gulldala berustimijn de boahtá mánná dåbdåt at dat la oasálasj. Dan láhkáj mánná oahppa vuorodit gå giehttu nubbe nubbáj.</p>
+<p><em type="bold">Ståga gielajn </em></p>
+<p>Lávlo lávlojt, gärddáda báhkogietjijt, gihkkutja ja ståga lávlloståhkusijt. Giekte tjuvdijt ja juolggetjuvdijt, spitjo ja murá ja dájo!</p>
+<p><em type="bold">Huomahahtte giehttojt ja låhkke aktan </em></p>
+<p>Giehtto åna giehtojt, degu dal máná bierna birra jali bussas majna lihppe manon. Ságasta vehkagåvåj birra. Dal dåj máhttebihtte álgget låhkåt álkkep gåvvågirjijt aktan.</p>
+</body></document>

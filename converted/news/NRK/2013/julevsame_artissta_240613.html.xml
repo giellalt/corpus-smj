@@ -1,56 +1,21 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>ulevsáme artissta sjållerdij gæhttjijt</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/>
-    </author>
-    <year>2013</year>
-    <publChannel>
-      <publication>
-        <publisher>NRK Sápmi</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>289</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@it.no"/>
-    <origFileName>http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.11097715</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Samegillii</p>
-    <p>
-      <em type="italic">Maŋimuš ođđasat sámegillii </em>
-    </p>
-    <p/>
-    <p type="title">Julevsáme artissta sjållerdij gæhttjijt</p>
-    <p>Lovisa Negga mielav båvtij konsertan, Ájluovtan, Divtasvuonan.</p>
-    <p>Lovisa Negga tjadádij vásse bierjjedagá konsertav Ájluovta doajmmamárnánin, ja sån suv musihkajn ja subttsasijn sjållerdij oasseválldijt gudi lidjin konsertan.</p>
-    <p>Låvdagoahtáj lidjin tjágŋam sidja gudi sihtin gulldalit ja gæhttjat Lovisa Negga konsertav Ájluovta doajmmamárnánin vásse bierjjedagá.</p>
-    <p>Ja jus ga konsærtta maŋŋunij guovtijn tijmajn, de gæhttje ettjin sijddaj vádtsá, farra gierddisit vuorŋedin dasik sån siednaj bådij.</p>
-    <p>Anna Kuoljok</p>
-    <p>Le siebrre <span type="quote">“Buolvas buolvvaj”</span> gen duogen libá Anna Kuoljok ja Ingar Nikolaisen Kuoljok gudi lijga åttjudam Lovisa Neggav boadátjit Ájluoktaj konsertav tjadádittjat.</p>
-    <p>
-      <em type="italic">– Måj sihtin Ájluovta doajmmamárnán galggá aj sáme kultuvrav tjalmostahttet, javlaj Anna Kuoljok gå sån rabáj konsertav ja ånisemináratjav bierjjedagá sivvan manen såj lijga oadtjum Lovisa Neggav konsertav tjadádittjat. </em>
-    </p>
-    <p type="title">Ittjij bajássjatta sámevuodajn</p>
-    <p>22- jagák julevsáme musihkkárin Lovisa Neggan gut dán dálve dåbddusin sjattaj suv julevsáme elektropoplávllagijn <span type="quote">“Mihá ja Gievrra”</span>, lij duodden suv musihkkaj aj edna subtsastit suv bajássjaddamis ja gåktu dat la vájkkudam suv sáme identitehtav.</p>
-    <p>Ednasa jáhkki sån la Jåhkåmåhkek gå guoddá Negga-fuolkkenámáv, valla nav ij la.</p>
-    <p>Sån la bajássjaddám Oarjje-Svierigin, Linköpingin, sijdan gånnå bárep ittjij ságastuvá suv sáme duogátja birra.</p>
-    <p>Suv áddjá la sábme, valla Lovisa Negga sijdan ittjij goassak giehtoduvá dat bieles suv duogátjis.</p>
-    <p>Dan diehti la sujna sierra subtsas majt sån juogij konsærttaoasseválldij.</p>
-    <p>
-      <em type="italic">– Esski dájt maŋemus jagijt lav usjudallagoahtám ietjam duogátjav, ja dat la munji sjaddám viehka ájnas dálla. Mån hálijdav oahppat julevsáme gielav, majt iv la muv sijdan gullam, ja mån usjudaláv gielav oahppat musihka baktu, subtsas Lovisa Negga gut luojtij suv vuostasj lávllagav julevsábmáj dán dálvve, ja gut nav gåk mij árvvedip la barggamin nuppijn lávllagijn sámegiellaj. </em>
-    </p>
-    <p>Sidjij gudi ettjin konsertav Ájluovta doajmmamárnánin gulá, máhtti dálla dánna gulldalit oasev suv konsertas Ájluovtan.</p>
-    <p>
-      <em type="italic">GULLDAL LOVISA NEGGAV – KONSERTAS ÁJLUOVTA DOAJMMAMÁRNÁNIN: </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>ulevsáme artissta sjållerdij gæhttjijt</title><genre code="news"/><author><person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/></author><year>2013</year><publChannel><publication><publisher>NRK Sápmi</publisher></publication></publChannel><wordcount>289</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@it.no"/><origFileName>http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.11097715</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Samegillii</p>
+<p><em type="italic">Maŋimuš ođđasat sámegillii </em></p>
+<p/>
+<p type="title">Julevsáme artissta sjållerdij gæhttjijt</p>
+<p>Lovisa Negga mielav båvtij konsertan, Ájluovtan, Divtasvuonan.</p>
+<p>Lovisa Negga tjadádij vásse bierjjedagá konsertav Ájluovta doajmmamárnánin, ja sån suv musihkajn ja subttsasijn sjållerdij oasseválldijt gudi lidjin konsertan.</p>
+<p>Låvdagoahtáj lidjin tjágŋam sidja gudi sihtin gulldalit ja gæhttjat Lovisa Negga konsertav Ájluovta doajmmamárnánin vásse bierjjedagá.</p>
+<p>Ja jus ga konsærtta maŋŋunij guovtijn tijmajn, de gæhttje ettjin sijddaj vádtsá, farra gierddisit vuorŋedin dasik sån siednaj bådij.</p>
+<p>Anna Kuoljok</p>
+<p>Le siebrre <span type="quote">“Buolvas buolvvaj”</span> gen duogen libá Anna Kuoljok ja Ingar Nikolaisen Kuoljok gudi lijga åttjudam Lovisa Neggav boadátjit Ájluoktaj konsertav tjadádittjat.</p>
+<p><em type="italic">– Måj sihtin Ájluovta doajmmamárnán galggá aj sáme kultuvrav tjalmostahttet, javlaj Anna Kuoljok gå sån rabáj konsertav ja ånisemináratjav bierjjedagá sivvan manen såj lijga oadtjum Lovisa Neggav konsertav tjadádittjat. </em></p>
+<p type="title">Ittjij bajássjatta sámevuodajn</p>
+<p>22- jagák julevsáme musihkkárin Lovisa Neggan gut dán dálve dåbddusin sjattaj suv julevsáme elektropoplávllagijn <span type="quote">“Mihá ja Gievrra”</span>, lij duodden suv musihkkaj aj edna subtsastit suv bajássjaddamis ja gåktu dat la vájkkudam suv sáme identitehtav.</p>
+<p>Ednasa jáhkki sån la Jåhkåmåhkek gå guoddá Negga-fuolkkenámáv, valla nav ij la.</p>
+<p>Sån la bajássjaddám Oarjje-Svierigin, Linköpingin, sijdan gånnå bárep ittjij ságastuvá suv sáme duogátja birra.</p>
+<p>Suv áddjá la sábme, valla Lovisa Negga sijdan ittjij goassak giehtoduvá dat bieles suv duogátjis.</p>
+<p>Dan diehti la sujna sierra subtsas majt sån juogij konsærttaoasseválldij.</p>
+<p><em type="italic">– Esski dájt maŋemus jagijt lav usjudallagoahtám ietjam duogátjav, ja dat la munji sjaddám viehka ájnas dálla. Mån hálijdav oahppat julevsáme gielav, majt iv la muv sijdan gullam, ja mån usjudaláv gielav oahppat musihka baktu, subtsas Lovisa Negga gut luojtij suv vuostasj lávllagav julevsábmáj dán dálvve, ja gut nav gåk mij árvvedip la barggamin nuppijn lávllagijn sámegiellaj. </em></p>
+<p>Sidjij gudi ettjin konsertav Ájluovta doajmmamárnánin gulá, máhtti dálla dánna gulldalit oasev suv konsertas Ájluovtan.</p>
+<p><em type="italic">GULLDAL LOVISA NEGGAV – KONSERTAS ÁJLUOVTA DOAJMMAMÁRNÁNIN: </em></p>
+</body></document>

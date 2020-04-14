@@ -1,40 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>105 000 kråvnå julevsáme biebmokurssaj</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>180</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/105-000-kravna-julevs-me-biebmokurssaj.4073</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Vájbi gåjkkeguolle la temán gå Divtasvuona demenssiebrre ásat kursav gåktu sáme iemelágásj biebmojt galggá gárvedit.</p>
-    <p type="title">105 000 kråvnå julevsáme biebmokurssaj</p>
-    <p>Nasjonalforeningen for Folkehelsen la oadtjum 105 000 kråvnå Norsk Tipping Extra-spelas biebbmokursav ásadittjat julevsáme dáfon Vuona bielen. Kurssa jåhtuj boahtá, ja Divtasvuona demenssiebrre l teknihkalasj ásadiddje. Norsk kortversjon/Oanegis dárogiellaj</p>
-    <p>Helse og Rehabilitering, guhti æjggu Extraspelav, la juollodam 2,6 miiljåvnå kråvnå siebrijda Nordlánda fylkan gudi varresvuodajn barggi, ja Nasjonalforeningen for Folkehelsen la dajna rudájt oadtjum julevsáme biebbmokurssaj.</p>
-    <p>Nasjonalforeningen for Folkehelsena bæjvásasj jådediddje Tordis Jentoft subtsas kurssa tjadáduvvá Divtasvuonaguovlon boahtte jage.</p>
-    <p>-Kurssa dal jåhtuj boahtá gå teknihkalasj ásadiddje la gárves, ja árvvedahtte ij mige sjatta åvddål boahtte jage, javllá Jentoft ja joarkká: -Riek ájnas la dålusj biebmojt vieledit ja aj gåktu dahki biebojt iemeláhkáj, valla sæmmi ájnas la aj vaddet máhttelisvuodav vuorasulmutjijda ja dajda gænna l demens, ásvas biebmov dagátjit. Dárbbo l aj bæjválasj biebmov vieledit, ja bæjválasj biebmov dahkat nav ásvas gå máhttelis, javllá Jentoft mañutjissaj.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"105 000 kråvnå julevsáme biebmokurssaj"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>105 000 kråvnå julevsáme biebmokurssaj</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>180</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/105-000-kravna-julevs-me-biebmokurssaj.4073</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Vájbi gåjkkeguolle la temán gå Divtasvuona demenssiebrre ásat kursav gåktu sáme iemelágásj biebmojt galggá gárvedit.</p>
+<p type="title">105 000 kråvnå julevsáme biebmokurssaj</p>
+<p>Nasjonalforeningen for Folkehelsen la oadtjum 105 000 kråvnå Norsk Tipping Extra-spelas biebbmokursav ásadittjat julevsáme dáfon Vuona bielen. Kurssa jåhtuj boahtá, ja Divtasvuona demenssiebrre l teknihkalasj ásadiddje. Norsk kortversjon/Oanegis dárogiellaj</p>
+<p>Helse og Rehabilitering, guhti æjggu Extraspelav, la juollodam 2,6 miiljåvnå kråvnå siebrijda Nordlánda fylkan gudi varresvuodajn barggi, ja Nasjonalforeningen for Folkehelsen la dajna rudájt oadtjum julevsáme biebbmokurssaj.</p>
+<p>Nasjonalforeningen for Folkehelsena bæjvásasj jådediddje Tordis Jentoft subtsas kurssa tjadáduvvá Divtasvuonaguovlon boahtte jage.</p>
+<p>-Kurssa dal jåhtuj boahtá gå teknihkalasj ásadiddje la gárves, ja árvvedahtte ij mige sjatta åvddål boahtte jage, javllá Jentoft ja joarkká: -Riek ájnas la dålusj biebmojt vieledit ja aj gåktu dahki biebojt iemeláhkáj, valla sæmmi ájnas la aj vaddet máhttelisvuodav vuorasulmutjijda ja dajda gænna l demens, ásvas biebmov dagátjit. Dárbbo l aj bæjválasj biebmov vieledit, ja bæjválasj biebmov dahkat nav ásvas gå máhttelis, javllá Jentoft mañutjissaj.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"105 000 kråvnå julevsáme biebmokurssaj"</span> på Facebook</p>
+</body></document>

@@ -1,40 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Dálla oattjo superstipendav</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2018</year>
-    <wordcount>200</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/Dievnastusa/Opplaering-og-laeremidler/Dalla-oattjo-superstipendav</origFileName>
-    <parallel_text xml:lang="nob" location="klart-for-superstipend.html"/>
-    <parallel_text xml:lang="sma" location="daelie-superstipendem-aaadtjoeh.html"/>
-    <parallel_text xml:lang="sme" location="dal-oaccut-superstipeandda.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Dálla oattjo superstipendav</p>
-    <p>
-      <em type="italic">Sámeednam dárbaj ienep sámegielak åhpadiddjijt mánájgárdijn ja vuodoskåvlån. Danen Sámedigge dálla juollot superstipendav 50.000 kråvnnåj sidjij gudi dájn suorgijn låhki. </em>
-    </p>
-    <p xml:lang="nno">VIDEO | Roger Manndal</p>
-    <p>2018 rájes Sámedigge juollot 50.000 kråvnå jahkáj superstipænndan sidjij gudi låhki vuodoskåvllååhpadiddjeåhpadusáv jali mánájgárddeåhpadiddjeåhpadusáv man la sámegiella fáhkan.</p>
-    <p>Sámedikke ållestjåhkanibme la mierredam, stipænnda alep åhpadussaj jages 2018 vatteduvvá dåssju mánájgárddeåhpadiddje åhpadusá ja iesjgeŋga åhpadiddje åhpadusáj studentajda . Sámedigge dájt åhpadusájt vuorot dajnas gå vádnuni viehka ållo sámegielak åhpadiddje mánájgárdijn ja vuodoskåvlån. (lenke)</p>
-    <p>2018 tjavtjan álgaduvvá oarjjel- ja julevsáme åhpadiddjeåhpadusáv masterdásen 1-7 Nuortta Universitiehtan . Sáme Allaskåvlån álgaduváj tjavtjan 2017 vuodoskåvllååhpadiddjeåhpadusáv 1-7 ja 5-10. Studenta dájn åhpadusájn bessi stipendav Sámedikkes åhtsåt. Superstipænnda juolloduvvá adjáj sidjij gænna li læhkám sámegiella vuostasj- jali nubbengiellan joarkkaskåvlån ja gudi låhki vuodoskåvllååhpadiddjeåhpadusáv man sámegiella l fáhkan jali mánájgárddeåhpadiddjeåhpadusáv. Njuolgadusá stipendajda dánna gávna .</p>
-    <p>Duodden dasi jut gájka åhpadiddje bargov oadtju maŋŋela gå li åhpadusájn gærggam, de la dálla aj rudálattjat gánnedahtte åhpadiddjeåhpadusáv álgget ja tjadádit. Stáhta lådnakássa l ásadam sierra årnigijt sidjij gudi normieriduvvam ájgev ållidi, la li aj sierra årniga sidjij gudi Nuortta-Vuodnaj barggagåhti åhpadusá maŋŋela ja sidjij gænna li sámegiella fáhkan. Lågå ienebuv Stáhta lådnakássa bielijn dánna ja dánna .</p>
-    <p>Åhtsåmájggemierre alep åhpadussaj la vuoratjismáno 15. biejve.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Dálla oattjo superstipendav</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2018</year><wordcount>200</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/Dievnastusa/Opplaering-og-laeremidler/Dalla-oattjo-superstipendav</origFileName><parallel_text xml:lang="nob" location="klart-for-superstipend.html"/><parallel_text xml:lang="sma" location="daelie-superstipendem-aaadtjoeh.html"/><parallel_text xml:lang="sme" location="dal-oaccut-superstipeandda.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Dálla oattjo superstipendav</p>
+<p><em type="italic">Sámeednam dárbaj ienep sámegielak åhpadiddjijt mánájgárdijn ja vuodoskåvlån. Danen Sámedigge dálla juollot superstipendav 50.000 kråvnnåj sidjij gudi dájn suorgijn låhki. </em></p>
+<p xml:lang="nno">VIDEO | Roger Manndal</p>
+<p>2018 rájes Sámedigge juollot 50.000 kråvnå jahkáj superstipænndan sidjij gudi låhki vuodoskåvllååhpadiddjeåhpadusáv jali mánájgárddeåhpadiddjeåhpadusáv man la sámegiella fáhkan.</p>
+<p>Sámedikke ållestjåhkanibme la mierredam, stipænnda alep åhpadussaj jages 2018 vatteduvvá dåssju mánájgárddeåhpadiddje åhpadusá ja iesjgeŋga åhpadiddje åhpadusáj studentajda . Sámedigge dájt åhpadusájt vuorot dajnas gå vádnuni viehka ållo sámegielak åhpadiddje mánájgárdijn ja vuodoskåvlån. (lenke)</p>
+<p>2018 tjavtjan álgaduvvá oarjjel- ja julevsáme åhpadiddjeåhpadusáv masterdásen 1-7 Nuortta Universitiehtan . Sáme Allaskåvlån álgaduváj tjavtjan 2017 vuodoskåvllååhpadiddjeåhpadusáv 1-7 ja 5-10. Studenta dájn åhpadusájn bessi stipendav Sámedikkes åhtsåt. Superstipænnda juolloduvvá adjáj sidjij gænna li læhkám sámegiella vuostasj- jali nubbengiellan joarkkaskåvlån ja gudi låhki vuodoskåvllååhpadiddjeåhpadusáv man sámegiella l fáhkan jali mánájgárddeåhpadiddjeåhpadusáv. Njuolgadusá stipendajda dánna gávna .</p>
+<p>Duodden dasi jut gájka åhpadiddje bargov oadtju maŋŋela gå li åhpadusájn gærggam, de la dálla aj rudálattjat gánnedahtte åhpadiddjeåhpadusáv álgget ja tjadádit. Stáhta lådnakássa l ásadam sierra årnigijt sidjij gudi normieriduvvam ájgev ållidi, la li aj sierra årniga sidjij gudi Nuortta-Vuodnaj barggagåhti åhpadusá maŋŋela ja sidjij gænna li sámegiella fáhkan. Lågå ienebuv Stáhta lådnakássa bielijn dánna ja dánna .</p>
+<p>Åhtsåmájggemierre alep åhpadussaj la vuoratjismáno 15. biejve.</p>
+</body></document>

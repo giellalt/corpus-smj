@@ -1,52 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Sámedikkev guossidit</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2017</year>
-    <wordcount>138</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>https://www.samedigge.no/Samedikke-birra/Samedikkev-guossidit</origFileName>
-    <parallel_text xml:lang="nob" location="besoeke-sametinget.html"/>
-    <parallel_text xml:lang="sma" location="saemiedigkiem-vaaksjodh.html"/>
-    <parallel_text xml:lang="sme" location="oahppaladdat-samedikki.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Sámedikkev guossidit</p>
-    <p>Sámedigge Kárášjågån la rabás guossijda.</p>
-    <p>Oahpestibme Sámediggevieson la juohkka biejve mánnodagá rájes bierjjedahkaj kloahkka 13.00. Oahpestimgiela li dárogiella, sámegiella ja ieŋŋilsgiella.</p>
-    <p>Juohkka oahpestibme bissu birrusij 30 minuhta. Ij sjiehta ienep gå 25 ulmutja juohkka juohkusij. Oahpestime li nåvkå.</p>
-    <p type="title">Hiebadum fálaldahka juohkusijda</p>
-    <p>Skåvllåoahppijda ja –klássajda nuorajdásen ja joarkkaskåvlån, organisasjåvnåjda, ásadusájda ja medijáj fáladuvvá hiebadum oahpestimev, aktan åni lågådallamij Sámedikke, sámepolitihka jali ietjá guoskavasj tiemáj birra. Fálaldahka agev hiebaduvvá háldadusá máhtukvuoda ja politihkalasj dåjmaj milta vieson.</p>
-    <p>Guládalá <em type="italic">Guládallamåssudagájn </em>jus dujna li sierra dárbo. </p>
-    <p type="title">Rabás tjåhkanime</p>
-    <p>Tjåhkanime Sámedikke ållestjåhkanimen ja juohkusijn li rahpasa gulldaliddjijda. Ållestjåhkanimen ja ja juohkusijn li birrusij niellja tjåhkanime jahkáj. Tjåhkanimij bále la aj bårådimladnja rabás gulldaliddjijda.</p>
-    <p type="title">Sámedikke girjjevuorkká</p>
-    <p>Sámedikke girjjevuorkká låhkåm- ja oahpposajij la rabás 09.00 ja 15.30 gaskan, ja máhttá aneduvvat gulldaliddjijs.</p>
-    <p>
-      <em type="italic">Guládalá Sámedikkijn </em>
-    </p>
-    <p>Mánnodagás bierjjedahkaj 08.00-15.30</p>
-    <p>Telefåvnnå: +47 78 47 40 00 samediggi@samediggi.no</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Sámedikkev guossidit</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2017</year><wordcount>138</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>https://www.samedigge.no/Samedikke-birra/Samedikkev-guossidit</origFileName><parallel_text xml:lang="nob" location="besoeke-sametinget.html"/><parallel_text xml:lang="sma" location="saemiedigkiem-vaaksjodh.html"/><parallel_text xml:lang="sme" location="oahppaladdat-samedikki.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Sámedikkev guossidit</p>
+<p>Sámedigge Kárášjågån la rabás guossijda.</p>
+<p>Oahpestibme Sámediggevieson la juohkka biejve mánnodagá rájes bierjjedahkaj kloahkka 13.00. Oahpestimgiela li dárogiella, sámegiella ja ieŋŋilsgiella.</p>
+<p>Juohkka oahpestibme bissu birrusij 30 minuhta. Ij sjiehta ienep gå 25 ulmutja juohkka juohkusij. Oahpestime li nåvkå.</p>
+<p type="title">Hiebadum fálaldahka juohkusijda</p>
+<p>Skåvllåoahppijda ja –klássajda nuorajdásen ja joarkkaskåvlån, organisasjåvnåjda, ásadusájda ja medijáj fáladuvvá hiebadum oahpestimev, aktan åni lågådallamij Sámedikke, sámepolitihka jali ietjá guoskavasj tiemáj birra. Fálaldahka agev hiebaduvvá háldadusá máhtukvuoda ja politihkalasj dåjmaj milta vieson.</p>
+<p>Guládalá <em type="italic">Guládallamåssudagájn </em>jus dujna li sierra dárbo. </p>
+<p type="title">Rabás tjåhkanime</p>
+<p>Tjåhkanime Sámedikke ållestjåhkanimen ja juohkusijn li rahpasa gulldaliddjijda. Ållestjåhkanimen ja ja juohkusijn li birrusij niellja tjåhkanime jahkáj. Tjåhkanimij bále la aj bårådimladnja rabás gulldaliddjijda.</p>
+<p type="title">Sámedikke girjjevuorkká</p>
+<p>Sámedikke girjjevuorkká låhkåm- ja oahpposajij la rabás 09.00 ja 15.30 gaskan, ja máhttá aneduvvat gulldaliddjijs.</p>
+<p><em type="italic">Guládalá Sámedikkijn </em></p>
+<p>Mánnodagás bierjjedahkaj 08.00-15.30</p>
+<p>Telefåvnnå: +47 78 47 40 00 samediggi@samediggi.no</p>
+</body></document>

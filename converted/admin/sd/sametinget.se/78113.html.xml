@@ -1,37 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>234</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/78113</origFileName>
-    <parallel_text xml:lang="sme" location="77967.html"/>
-    <parallel_text xml:lang="swe" location="77959.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åssudakoajvve ekonomiddjaj ja tjuottjodibmáj - Sametinget</p>
-    <p type="title">Åssudakoajvve ekonomiddjaj ja tjuottjodibmáj</p>
-    <p>Sámedikke dåjmadagán li gålmmå åssudagá ja akta stába. Ekonomiddja- ja tjuottjodimåssudahka gåbttjå ekonomidjav, barggijt, IT:av ja sisŋásj dievnastusáv.</p>
-    <p><em type="italic">Barggodahkamuhá </em>Åssudakoajvve barggá dåjmadakoajve vuollelin ja gullu Sámedikke lájddimjuohkusij. Dån åvdåsvássteda dåjmadakdårjav ássjijn ma gulluji presidiuma ja stivra j.v.å. barggodahkamuhájda. </p>
-    <p>Dån åvdåsvássteda fábmudagá ekonomalasj tjuottjudusáv, bargge- ja doajmmaåvdedimev ekonomiddja- ja tjuottjodimåssudagán ja sisŋásj dievnastusáv. Barggodahkamuhájn li budjähttabarggo, budjähttadåbelijtjuovvom, jahketjielggidibme, tjielggidimássje, dåbelijtjuovvomássje ja åvdedit barggovuogijt ja prosessajt ekonomiddjaj fábmudagán. Åssudakoajvve l aj barggijoajvve, sihkarvuohtavárjjalimoajvve ja IT-aktijdiddje.</p>
-    <p><em type="italic">Gut la dån? </em>Åhtsåp lájddijiddjev gänna l buorre fábmo åvdedittjat, måvtåstuhtátjit ja lájdditjit ietjas barggijt. Dån la strategak, dujna la buorre åtsådim- ja struktuvrakmáhtto vaj máhttá plánerit, deligerit ja lájddit dåjmav biejadum ulmijda. Duv dieddemahtes prestissja ja guládallam máhttudahka dahká duv hiebalattjan buorre aktavuodajt dahkat goappátjagá organisasasjåvnå sissŋelin ja ålggolin. Barggovadde biedjá edna dättov duv iesjvuodajda. </p>
-    <p>Åhtsåp duv gänna l sivilekonomakeksáma jali ietjá åhpadus majt adnep hiebalattjan virggáj. Dujna l duodastum lájddimmáhtalgisvuohta ja lulu almulasj tjuottjudusán barggam. Buorak la jus la politijkalasj stivrrimdum organisasjåvnån barggam. Sámegiellamáhto ja máhto sáme kultuvra ja sebrudagá birra li ánssidime. Sämmi l jus dujna l barggoiellemmáhtalgisvuohta ekonomidjas, bargges, IT:as ja sisŋásjdievnastusás.</p>
-    <p><em type="italic">Aktavuohtaulmutja </em>Åtså ja lågå ienebuv virge birra www.experis.se JobID: 942363. Ienep diedojt oattjo åttjudimkonsultas Inger Sundgren, telefåvnnå 070-3774891 jali e-påvsstå: inger.sundgren@se.experis.com Maŋemus åhtsåmbiejvve l gålgådismáno 5 biejve. </p>
-    <p>Fáhkaj aktavuohtaulmutja li Staffan Falkefjeld SACO-S åvdås, tel. 0980-780 36 ja Eva Svonni ST-Sápmi åvdås, tel. 0980-780 33.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>234</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/78113</origFileName><parallel_text xml:lang="sme" location="77967.html"/><parallel_text xml:lang="swe" location="77959.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åssudakoajvve ekonomiddjaj ja tjuottjodibmáj - Sametinget</p>
+<p type="title">Åssudakoajvve ekonomiddjaj ja tjuottjodibmáj</p>
+<p>Sámedikke dåjmadagán li gålmmå åssudagá ja akta stába. Ekonomiddja- ja tjuottjodimåssudahka gåbttjå ekonomidjav, barggijt, IT:av ja sisŋásj dievnastusáv.</p>
+<p><em type="italic">Barggodahkamuhá </em>Åssudakoajvve barggá dåjmadakoajve vuollelin ja gullu Sámedikke lájddimjuohkusij. Dån åvdåsvássteda dåjmadakdårjav ássjijn ma gulluji presidiuma ja stivra j.v.å. barggodahkamuhájda. </p>
+<p>Dån åvdåsvássteda fábmudagá ekonomalasj tjuottjudusáv, bargge- ja doajmmaåvdedimev ekonomiddja- ja tjuottjodimåssudagán ja sisŋásj dievnastusáv. Barggodahkamuhájn li budjähttabarggo, budjähttadåbelijtjuovvom, jahketjielggidibme, tjielggidimássje, dåbelijtjuovvomássje ja åvdedit barggovuogijt ja prosessajt ekonomiddjaj fábmudagán. Åssudakoajvve l aj barggijoajvve, sihkarvuohtavárjjalimoajvve ja IT-aktijdiddje.</p>
+<p><em type="italic">Gut la dån? </em>Åhtsåp lájddijiddjev gänna l buorre fábmo åvdedittjat, måvtåstuhtátjit ja lájdditjit ietjas barggijt. Dån la strategak, dujna la buorre åtsådim- ja struktuvrakmáhtto vaj máhttá plánerit, deligerit ja lájddit dåjmav biejadum ulmijda. Duv dieddemahtes prestissja ja guládallam máhttudahka dahká duv hiebalattjan buorre aktavuodajt dahkat goappátjagá organisasasjåvnå sissŋelin ja ålggolin. Barggovadde biedjá edna dättov duv iesjvuodajda. </p>
+<p>Åhtsåp duv gänna l sivilekonomakeksáma jali ietjá åhpadus majt adnep hiebalattjan virggáj. Dujna l duodastum lájddimmáhtalgisvuohta ja lulu almulasj tjuottjudusán barggam. Buorak la jus la politijkalasj stivrrimdum organisasjåvnån barggam. Sámegiellamáhto ja máhto sáme kultuvra ja sebrudagá birra li ánssidime. Sämmi l jus dujna l barggoiellemmáhtalgisvuohta ekonomidjas, bargges, IT:as ja sisŋásjdievnastusás.</p>
+<p><em type="italic">Aktavuohtaulmutja </em>Åtså ja lågå ienebuv virge birra www.experis.se JobID: 942363. Ienep diedojt oattjo åttjudimkonsultas Inger Sundgren, telefåvnnå 070-3774891 jali e-påvsstå: inger.sundgren@se.experis.com Maŋemus åhtsåmbiejvve l gålgådismáno 5 biejve. </p>
+<p>Fáhkaj aktavuohtaulmutja li Staffan Falkefjeld SACO-S åvdås, tel. 0980-780 36 ja Eva Svonni ST-Sápmi åvdås, tel. 0980-780 33.</p>
+</body></document>

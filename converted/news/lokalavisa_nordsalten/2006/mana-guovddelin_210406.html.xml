@@ -1,50 +1,16 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Máná guovddelin</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>479</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/m-n-guovddelin.4158</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Máná guovddelin</p>
-    <p>Njunnjusj Beate Mikkelsen(o.b.), Vivian Aira ja Karia-Anne Thomassen lij stivran Sáme æjgátværmástagán Nuortta-Sálton. Duodden li aj Arnhild Lindbach ja Beate Rahka Knutsen, valla æbá la gåvån.</p>
-    <p xml:lang="nob">Norsk kortversjon</p>
-    <p>Sáme æjgáda li ietjasa værmástagav vuododam niellja jage dás åvddål. Dån vahko válljiduváj ådå stivrra Sáme æjgátværmástagán Nuortta Sálton, ja da æjgáda sihti ietjasa mánáj bajassjaddamdilev buoredit, duola dagu sámegiela åhpadusáv nannit, ja dajt skåvlåjt vájkkudit ma ælla sáme guovddelis bájkijn.</p>
-    <p>Ietja li åtsådallam gåktu dárojduhttem sijájt máhtti vájkkudit, ja dajt åtsådallamijt e sidá ietjasa mánájda sirddet. Sihti farra mánájdisá buorre bajássjaddamvuogijt vaddet, ja aj doarjodit nubbe nuppev gå la dárbbo. Dajna l Sáme Æjgátværmástak vuododuvvam, ja ulmme dájna værmástagájn la gåtsedit ja nannit sáme fámiljaj, mánáj ja æjgádij berustimijt sebrudagán. Dan ulme åvdås sihti barggat dåjmaj ja aktisasjbargoj tjadá ietjá orgánaj.</p>
-    <p>Sáme æjgátværmástak vuododuváj jagen 2002, ja gávnnu ålles rijkan. Værmástagán li 5 bájkálasj siebre, akta dajs la Nuortta-Sálton, ja dán máno 25. biejve tjåhkani æjgádi dán værmástagán vuostasj rijkatjåhkanibmáj Råmssåj. Duodden la aj sæmmi biejve stuorra æjgátkonferánssa riektáj ja åvdåsvásstádusáj birra mij ásaduvvá Åhpadus- ja guoradallamdepartementa rádeorgánas Foreldreutvalget for grunnskolen.</p>
-    <p>-Sihtap barggat sáme birrusa ja bajassjaddamdile diehti, ja aj liehket dagu fáhkasiebrre sáme æjgádijda mij guosská riektájt mánnágárdijda ja skåvlåjda. Dajna de sihtap vájkkudit nav vaj ietjama máná oadtju buorre fálaldagájt åhpadibmáj ja bajássjaddamij. Jus ep máhte ássjev tjoavddet, de gåjt galggap gæhttjalit vuosedit gånnå viehkev gávnná, subtsas ådå njunnjusj Sáme Æjgátværmástagán Nuortta Sálton, Beate Mikkelsen.</p>
-    <p>
-      <em type="italic">Bagádusájt </em>
-    </p>
-    <p>Sáme æjgáda Nuortta Sálton sihti aj ienep dåjmajt ma guosski sijáj bargojda, ja sihti aj ienep æjgádijt mañen. Stivrraájrrasa dán bájkálasj æjgátværmástagán sihti vuostak dárbojda gæhttjat, ja sihti dajna æjgádijs gullat gånnå gáma gåddå.</p>
-    <p>–Mij ietja dárbahip viehkev ja bagádusájt gåktu galggap dahkat ja majt galggap dahkat gå mijáj máná ålggolin sáme guovddelis bájkijn galggi dagu åhpadusáv skåvlåjn oadtjot. Danna dåbddåp li moadda iehpetjielgasvuoda, ja ep rat diede makkár riektá li miján, ja gåktu galggap skåvlåj barggat nav vaj máná oadtju dav åhpadusáv majt galggi. Ij la val álgge systema vuosstáj barggat, javlli æjgáda ja stivrraájrrasa æjgátværmástagán, Karianne Thomassen ja Vivian Aira, ja doajvvu Sáme æjgátværmástak la sunnuj viehkken aj. Sihti aj nuppijt æjgádijt doarjjat, viehkedit ja bagádit, ja giellaássje li ájnnasa dájda nuorra æjgádijda.</p>
-    <p>
-      <em type="italic">Oahpástuvvat </em>
-    </p>
-    <p>Sáme Æjgátværmástak sihtá liehket dagu æjvvalimsadje sáme æjgádijda, ja dajna de gåhttju iehpeformálalasj æjvvalibmáj moarmesmáno 6. biejve gånnå sihti aktijdit nuppij æjgádij.</p>
-    <p>–Galggap soames stuorra låvdagoahtáj tjåhkanit hávsskudalátjit, valla galggap aj diedon giehttot hásstalusáj birra. Ájnnasamos dan æjvvalimen la huoman hávsskudallat, aktan liehket, ja gulldalit majt guhtik ájádallá ja gåktu galggap ienebut aktan barggat. Duodden makkár ássje li ájnnasa. Valla ienemusát sihtap dåssju æjvvalit ja ienebut oahpástuvvat. Dajna de sávvap gájka æjgádijt buorisboahtem aktan mánájdisá, juska ælla mijá værmástagán, javlli dá nuorra æjgáda.</p>
-    <p>Mierredam lij biejvev goassa æjvvalij, ja Bájkálsjávijsan sihti biejvet åvddåla diededit gånnå ja gallen dát æjvvalibme sjaddá.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Máná guovddelin</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>479</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/m-n-guovddelin.4158</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Máná guovddelin</p>
+<p>Njunnjusj Beate Mikkelsen(o.b.), Vivian Aira ja Karia-Anne Thomassen lij stivran Sáme æjgátværmástagán Nuortta-Sálton. Duodden li aj Arnhild Lindbach ja Beate Rahka Knutsen, valla æbá la gåvån.</p>
+<p xml:lang="nob">Norsk kortversjon</p>
+<p>Sáme æjgáda li ietjasa værmástagav vuododam niellja jage dás åvddål. Dån vahko válljiduváj ådå stivrra Sáme æjgátværmástagán Nuortta Sálton, ja da æjgáda sihti ietjasa mánáj bajassjaddamdilev buoredit, duola dagu sámegiela åhpadusáv nannit, ja dajt skåvlåjt vájkkudit ma ælla sáme guovddelis bájkijn.</p>
+<p>Ietja li åtsådallam gåktu dárojduhttem sijájt máhtti vájkkudit, ja dajt åtsådallamijt e sidá ietjasa mánájda sirddet. Sihti farra mánájdisá buorre bajássjaddamvuogijt vaddet, ja aj doarjodit nubbe nuppev gå la dárbbo. Dajna l Sáme Æjgátværmástak vuododuvvam, ja ulmme dájna værmástagájn la gåtsedit ja nannit sáme fámiljaj, mánáj ja æjgádij berustimijt sebrudagán. Dan ulme åvdås sihti barggat dåjmaj ja aktisasjbargoj tjadá ietjá orgánaj.</p>
+<p>Sáme æjgátværmástak vuododuváj jagen 2002, ja gávnnu ålles rijkan. Værmástagán li 5 bájkálasj siebre, akta dajs la Nuortta-Sálton, ja dán máno 25. biejve tjåhkani æjgádi dán værmástagán vuostasj rijkatjåhkanibmáj Råmssåj. Duodden la aj sæmmi biejve stuorra æjgátkonferánssa riektáj ja åvdåsvásstádusáj birra mij ásaduvvá Åhpadus- ja guoradallamdepartementa rádeorgánas Foreldreutvalget for grunnskolen.</p>
+<p>-Sihtap barggat sáme birrusa ja bajassjaddamdile diehti, ja aj liehket dagu fáhkasiebrre sáme æjgádijda mij guosská riektájt mánnágárdijda ja skåvlåjda. Dajna de sihtap vájkkudit nav vaj ietjama máná oadtju buorre fálaldagájt åhpadibmáj ja bajássjaddamij. Jus ep máhte ássjev tjoavddet, de gåjt galggap gæhttjalit vuosedit gånnå viehkev gávnná, subtsas ådå njunnjusj Sáme Æjgátværmástagán Nuortta Sálton, Beate Mikkelsen.</p>
+<p><em type="italic">Bagádusájt </em></p>
+<p>Sáme æjgáda Nuortta Sálton sihti aj ienep dåjmajt ma guosski sijáj bargojda, ja sihti aj ienep æjgádijt mañen. Stivrraájrrasa dán bájkálasj æjgátværmástagán sihti vuostak dárbojda gæhttjat, ja sihti dajna æjgádijs gullat gånnå gáma gåddå.</p>
+<p>–Mij ietja dárbahip viehkev ja bagádusájt gåktu galggap dahkat ja majt galggap dahkat gå mijáj máná ålggolin sáme guovddelis bájkijn galggi dagu åhpadusáv skåvlåjn oadtjot. Danna dåbddåp li moadda iehpetjielgasvuoda, ja ep rat diede makkár riektá li miján, ja gåktu galggap skåvlåj barggat nav vaj máná oadtju dav åhpadusáv majt galggi. Ij la val álgge systema vuosstáj barggat, javlli æjgáda ja stivrraájrrasa æjgátværmástagán, Karianne Thomassen ja Vivian Aira, ja doajvvu Sáme æjgátværmástak la sunnuj viehkken aj. Sihti aj nuppijt æjgádijt doarjjat, viehkedit ja bagádit, ja giellaássje li ájnnasa dájda nuorra æjgádijda.</p>
+<p><em type="italic">Oahpástuvvat </em></p>
+<p>Sáme Æjgátværmástak sihtá liehket dagu æjvvalimsadje sáme æjgádijda, ja dajna de gåhttju iehpeformálalasj æjvvalibmáj moarmesmáno 6. biejve gånnå sihti aktijdit nuppij æjgádij.</p>
+<p>–Galggap soames stuorra låvdagoahtáj tjåhkanit hávsskudalátjit, valla galggap aj diedon giehttot hásstalusáj birra. Ájnnasamos dan æjvvalimen la huoman hávsskudallat, aktan liehket, ja gulldalit majt guhtik ájádallá ja gåktu galggap ienebut aktan barggat. Duodden makkár ássje li ájnnasa. Valla ienemusát sihtap dåssju æjvvalit ja ienebut oahpástuvvat. Dajna de sávvap gájka æjgádijt buorisboahtem aktan mánájdisá, juska ælla mijá værmástagán, javlli dá nuorra æjgáda.</p>
+<p>Mierredam lij biejvev goassa æjvvalij, ja Bájkálsjávijsan sihti biejvet åvddåla diededit gånnå ja gallen dát æjvvalibme sjaddá.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

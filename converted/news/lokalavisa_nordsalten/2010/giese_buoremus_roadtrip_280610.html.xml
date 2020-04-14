@@ -1,49 +1,13 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Giese buoremus roadtrip!</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>234</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/giese-buoremus-roadtrip.3896</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Sandra Nystø</p>
-    <p type="title">Giese buoremus roadtrip!</p>
-    <p>Akta giessedáhpádusájs sáme nuorajda le dá vahko læhkám juojggambussa mij le vuodjám Girkkonjárgas nuorttat Ankaredej oarjás.</p>
-    <p>Gasskavahko dá vahko vuoddjáj bussa juojggij Girkkonjárgas Ankaredej. Iektu båhtin Divtasvuodnaj gånnå fáron válldin 7-8 nuorajt Ájluovtas. Ájllegav li Ankareden, guhkken oarjjelsáme vuovden, gånnå buolva åvddåla li æjvvalam loajtos sæbrástallamij dålå birra ja gámájn mihttsamára tjuovggis giesseiján. - Lip riek dudálattja gå vijmak lip nahkam tjadádit dav man birra lip juo guhkev sáhkadam, javllá Sandra Nystø Rahka Ájluovtas. Sån le ájras Vuona Sámij Rijkasiebre nuorajnammadusán, mij le álgadam ásadusáv mij tjoahkkij sáme nuorajt ålles sámes.</p>
-    <p>Juojggambussa ulmme le tjoahkkit juojggijt nuortas oarjját. Lars Magne Andreassen Ájluovtas oassálasstij julevsáme bieles. - Gájka gudi oassálasstin juojggambussan lidjin maŋen vuorbbádimen Ipod touchas, ja vuorbbáduvvin aj festivállabesalvisá Riddu Riđđuj ja Márkomeannuj. Bussa le moatten sajen ganugam moadda ásadallamij, diedet Nystø. Manon juojggambussa le Dæno, Kárásjågå, Guovddagæjno, Nordkjosbotn, Evenássje, Ájluovta, Fuossko, Mo i Rana, Mosjøena ja Namskogana milta guorrim åvddål uddni bierjjedagá Ankaredej jåvsådij. Ájllegav li oarjjelsáme vuovden, gånnå sáme li æjvvalum nav guhkev gå mujtti. Mihttsamáraájllega gájka dási mannin; hedjaj, gásstaj jali dåssju æjvvalittjat nágin biejve. Dán ájllega nuortta, julev- ja oarjjelsáme nuora dáv árbbedábev joarkki.</p>
-    <p type="title" xml:lang="nob">Les også</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Samisk kultur og historie på timeplanen</p>
-      <p type="listitem" xml:lang="nob">Samisk bygningsvern i fokus</p>
-      <p type="listitem" xml:lang="nob">Møteplass og aktivitetssenter - eller samisk folkehøgskole?</p>
-      <p type="listitem" xml:lang="nob">Myk overgang for tysfjerdingene</p>
-      <p type="listitem" xml:lang="nob">Stabilt antall samiske elever</p>
-    </list>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Giese buoremus roadtrip!</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2010</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>234</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/giese-buoremus-roadtrip.3896</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Sandra Nystø</p>
+<p type="title">Giese buoremus roadtrip!</p>
+<p>Akta giessedáhpádusájs sáme nuorajda le dá vahko læhkám juojggambussa mij le vuodjám Girkkonjárgas nuorttat Ankaredej oarjás.</p>
+<p>Gasskavahko dá vahko vuoddjáj bussa juojggij Girkkonjárgas Ankaredej. Iektu båhtin Divtasvuodnaj gånnå fáron válldin 7-8 nuorajt Ájluovtas. Ájllegav li Ankareden, guhkken oarjjelsáme vuovden, gånnå buolva åvddåla li æjvvalam loajtos sæbrástallamij dålå birra ja gámájn mihttsamára tjuovggis giesseiján. - Lip riek dudálattja gå vijmak lip nahkam tjadádit dav man birra lip juo guhkev sáhkadam, javllá Sandra Nystø Rahka Ájluovtas. Sån le ájras Vuona Sámij Rijkasiebre nuorajnammadusán, mij le álgadam ásadusáv mij tjoahkkij sáme nuorajt ålles sámes.</p>
+<p>Juojggambussa ulmme le tjoahkkit juojggijt nuortas oarjját. Lars Magne Andreassen Ájluovtas oassálasstij julevsáme bieles. - Gájka gudi oassálasstin juojggambussan lidjin maŋen vuorbbádimen Ipod touchas, ja vuorbbáduvvin aj festivállabesalvisá Riddu Riđđuj ja Márkomeannuj. Bussa le moatten sajen ganugam moadda ásadallamij, diedet Nystø. Manon juojggambussa le Dæno, Kárásjågå, Guovddagæjno, Nordkjosbotn, Evenássje, Ájluovta, Fuossko, Mo i Rana, Mosjøena ja Namskogana milta guorrim åvddål uddni bierjjedagá Ankaredej jåvsådij. Ájllegav li oarjjelsáme vuovden, gånnå sáme li æjvvalum nav guhkev gå mujtti. Mihttsamáraájllega gájka dási mannin; hedjaj, gásstaj jali dåssju æjvvalittjat nágin biejve. Dán ájllega nuortta, julev- ja oarjjelsáme nuora dáv árbbedábev joarkki.</p>
+<p type="title" xml:lang="nob">Les også</p>
+<list><p type="listitem" xml:lang="nob">Samisk kultur og historie på timeplanen</p>
+<p type="listitem" xml:lang="nob">Samisk bygningsvern i fokus</p>
+<p type="listitem" xml:lang="nob">Møteplass og aktivitetssenter - eller samisk folkehøgskole?</p>
+<p type="listitem" xml:lang="nob">Myk overgang for tysfjerdingene</p>
+<p type="listitem" xml:lang="nob">Stabilt antall samiske elever</p>
+</list><p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

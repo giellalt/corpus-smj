@@ -1,42 +1,12 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Ælla dudálattja eksámatjadádusájn</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>249</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/alla-dud-lattja-eks-matjad-dus-jn.4131</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Ælla dudálattja eksámatjadádusájn</p>
-    <p>Solvår Knutsen Turia mielas tjadáduváj eksábma eksámakåntåvrå njuolgadusáj milta.</p>
-    <p>Norsk kortversjon/Oanegis dárogiellaj</p>
-    <p>Vásse skåvllåjage tjadáduváj sámegielakurssa Árranin. Kurssa lij aktisasjbarggo Aetata ja Tysfjord ASVO gaskan, ja Árran kursav praktihkalattjat ásadij. Kursa oassevállde oadtjun aj eksámav válldet tjálálattjat, ja aj njálmálattjat.</p>
-    <p>Njálmálasj eksábma tjadáduváj vásse vahko, ja gåktu Bájkálasjávijssa dádjat lidjin eksáma båhtusa riek buore. Valla ællim val divna oahppijs huoman dudálattja gåktu njálmálasj eksábma tjadáduváj.</p>
-    <p>Tevsta man birra eksáminánda galggin ságastit lidjin åvdutjis válljiduvvam pensuma milta. Duodden lij aj amás tæksta. Gåktu Bájkálasj ávijssa soames eksaminándajs dádjat, ettjin divna oattjo sæmmi máhttelisvuodav, gå lij dagu stivrridum makkár tevstajt juohkkahasj galgaj oadtjot, ja nav oadtjun eksaminánda máhttelisvuodav <span type="quote">”månnat”</span> makkár tevstajt oadtjun pensumis.</p>
-    <p>Árran lij dán kursa práktihkalasj ásadiddje, ja giellaåssudagá jådediddje Solvår Knutsen Turi ij dádjada majt lij boasstot dahkam gå eksábma tjadáduváj.</p>
-    <p>-Mij lip dåssju oahppoplánav ja pensumav gæhttjam, ja dajna duogátjin lip válljim individualmodellav, ja tevstajt válljim man birra eksaminánda galggin ságastit. Eksáminánda oadtjun guokta tevsta; oahpes tevstav, ja aj tevstav mij ij lim oahpes, subtsas Turi.</p>
-    <p>Turia mielas eksábma tjadáduvvam nav gåktu galgaj, ja dajna lij aj rievtesferduk, valla gåhttju huoman eksaminándajt gujddit jus sijáj mielajs la juoga boasstot dagáduvvam. Nav la aj máhttelis lagábut gæhttjat jus eksábma l riektaláhkáj dagádum. Eksábma aj máhttá ietjá lahkáj tjadáduvvat.</p>
-    <p>-Eksábma máhttá ietjá láhkáj tjadáduvvat, ja mij evaluerip ja gæhttjap eksámaásadimev, dán bále aj. Mij lip dåssju eksámakåntåvrå njuolgadusájt tjuovvum, javllá Knutsen Turi.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Ælla dudálattja eksámatjadádusájn</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>249</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/alla-dud-lattja-eks-matjad-dus-jn.4131</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Ælla dudálattja eksámatjadádusájn</p>
+<p>Solvår Knutsen Turia mielas tjadáduváj eksábma eksámakåntåvrå njuolgadusáj milta.</p>
+<p>Norsk kortversjon/Oanegis dárogiellaj</p>
+<p>Vásse skåvllåjage tjadáduváj sámegielakurssa Árranin. Kurssa lij aktisasjbarggo Aetata ja Tysfjord ASVO gaskan, ja Árran kursav praktihkalattjat ásadij. Kursa oassevállde oadtjun aj eksámav válldet tjálálattjat, ja aj njálmálattjat.</p>
+<p>Njálmálasj eksábma tjadáduváj vásse vahko, ja gåktu Bájkálasjávijssa dádjat lidjin eksáma båhtusa riek buore. Valla ællim val divna oahppijs huoman dudálattja gåktu njálmálasj eksábma tjadáduváj.</p>
+<p>Tevsta man birra eksáminánda galggin ságastit lidjin åvdutjis válljiduvvam pensuma milta. Duodden lij aj amás tæksta. Gåktu Bájkálasj ávijssa soames eksaminándajs dádjat, ettjin divna oattjo sæmmi máhttelisvuodav, gå lij dagu stivrridum makkár tevstajt juohkkahasj galgaj oadtjot, ja nav oadtjun eksaminánda máhttelisvuodav <span type="quote">”månnat”</span> makkár tevstajt oadtjun pensumis.</p>
+<p>Árran lij dán kursa práktihkalasj ásadiddje, ja giellaåssudagá jådediddje Solvår Knutsen Turi ij dádjada majt lij boasstot dahkam gå eksábma tjadáduváj.</p>
+<p>-Mij lip dåssju oahppoplánav ja pensumav gæhttjam, ja dajna duogátjin lip válljim individualmodellav, ja tevstajt válljim man birra eksaminánda galggin ságastit. Eksáminánda oadtjun guokta tevsta; oahpes tevstav, ja aj tevstav mij ij lim oahpes, subtsas Turi.</p>
+<p>Turia mielas eksábma tjadáduvvam nav gåktu galgaj, ja dajna lij aj rievtesferduk, valla gåhttju huoman eksaminándajt gujddit jus sijáj mielajs la juoga boasstot dagáduvvam. Nav la aj máhttelis lagábut gæhttjat jus eksábma l riektaláhkáj dagádum. Eksábma aj máhttá ietjá lahkáj tjadáduvvat.</p>
+<p>-Eksábma máhttá ietjá láhkáj tjadáduvvat, ja mij evaluerip ja gæhttjap eksámaásadimev, dán bále aj. Mij lip dåssju eksámakåntåvrå njuolgadusájt tjuovvum, javllá Knutsen Turi.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

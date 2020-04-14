@@ -1,46 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>147</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=207&amp;art_id=235</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=207_art_id=235.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=207_art_id=235.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=207_art_id=235.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åhpav: Girkko</p>
-    <p type="title">Jubmeldievnastus låvdagoaden?</p>
-    <p>Máhttep gus jubmeldievnastusáv låvdagoaden ásadit? Sadje gånnå dåbddå aktijvuodav dålå birra, ladnja gånnå sáme giella, kultuvrra ja árvo luondulattjat åvddån båhti.</p>
-    <p>-Låvdagoahte le sáme tællta mij le praktihkalasj ja vuogas. Makta ulmutja dåbddi gullevasjvuodav muhtem bájkkáj boahtá konkrehta dåbdojs ja åtsådallamijs bájkes. Åtsådallama soajtti liehket negatijva ja positijva. Juohkkahattjan li bájke majt lijkkuji ja majt e lijkku, ja dát målssu persåvnås nubbáj.</p>
-    <p>-Låvdagoade jårbbis hábme gåvvit aktan lip. Árran le aj jårbbis. Dát soajttá aj mierkkit juohkkahattja li sæmmi dásen ja li avtaárvvusattja. Na suovva mij badján dålås låvdagoade gassko? Dat soajttá mierkkit råhkålvisájt ma Jubmelij bajás manni. Na jus tjielggip Ájlis Vuojŋŋan le suovva?</p>
-    <p>-Bessap åtsådallat aktijvuodav Jubmelijn låvdagoaden, girkkon ja luondon. Juohkka sajen ajtu. Jubmel ij ietjas dibde mierreduvvat muhtem bájkijda.</p>
-    <p>-Bessap åtsådallat aktijvuodav Jubmelijn låvdagoaden, girkkon ja luondon. Juohkka sajen ajtu. Jubmel ij ietjas dibde mierreduvvat muhtem bájkijda.</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>147</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=207&amp;art_id=235</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=207_art_id=235.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=207_art_id=235.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=207_art_id=235.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åhpav: Girkko</p>
+<p type="title">Jubmeldievnastus låvdagoaden?</p>
+<p>Máhttep gus jubmeldievnastusáv låvdagoaden ásadit? Sadje gånnå dåbddå aktijvuodav dålå birra, ladnja gånnå sáme giella, kultuvrra ja árvo luondulattjat åvddån båhti.</p>
+<p>-Låvdagoahte le sáme tællta mij le praktihkalasj ja vuogas. Makta ulmutja dåbddi gullevasjvuodav muhtem bájkkáj boahtá konkrehta dåbdojs ja åtsådallamijs bájkes. Åtsådallama soajtti liehket negatijva ja positijva. Juohkkahattjan li bájke majt lijkkuji ja majt e lijkku, ja dát målssu persåvnås nubbáj.</p>
+<p>-Låvdagoade jårbbis hábme gåvvit aktan lip. Árran le aj jårbbis. Dát soajttá aj mierkkit juohkkahattja li sæmmi dásen ja li avtaárvvusattja. Na suovva mij badján dålås låvdagoade gassko? Dat soajttá mierkkit råhkålvisájt ma Jubmelij bajás manni. Na jus tjielggip Ájlis Vuojŋŋan le suovva?</p>
+<p>-Bessap åtsådallat aktijvuodav Jubmelijn låvdagoaden, girkkon ja luondon. Juohkka sajen ajtu. Jubmel ij ietjas dibde mierreduvvat muhtem bájkijda.</p>
+<p>-Bessap åtsådallat aktijvuodav Jubmelijn låvdagoaden, girkkon ja luondon. Juohkka sajen ajtu. Jubmel ij ietjas dibde mierreduvvat muhtem bájkijda.</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

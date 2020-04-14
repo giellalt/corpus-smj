@@ -1,66 +1,26 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>106</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/index.php?id=4881724&amp;showtipform=1&amp;cat=99352&amp;gb=</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tysfjord kommune : Oajvvesisiválldem Mánájgárdijda Divtasvuonan - Tips en venn</p>
-    <p type="title">Oajvvesisiválldem Mánájgárdijda Divtasvuonan</p>
-    <p xml:lang="nob">07.02.2011</p>
-    <p xml:lang="nob">
-      <em type="bold">OAJVVESISIVÁLLDEM MÁNÁJGÁRDIJDA DIVTASVUONAN </em>
-    </p>
-    <p>Mánájgárddejahke 2011/2012</p>
-    <p>Ådå mánájgárddejahke álggá 22.08. 2011 (Árran Mánnájgárdde álggá 15.08.2011)</p>
-    <p>Divtasvuona suohkanin  li tjuovvovasj mánájgárde:</p>
-    <p>Árran Mánnájgárdde, Ájluokta</p>
-    <p xml:lang="nob">Drag barnehage, Drag</p>
-    <p xml:lang="nob">Pæsatun barnehage, Kjøpsvik</p>
-    <p xml:lang="nob">Storjord oppvekstsenter, Storjord</p>
-    <p>Åhtsåmsjiemav suohkana mánájgárdijda oattjo mánájgárden gånnå åhtså jali Rádevieson.</p>
-    <p>Siján gænna l sadje Árran Mánnágárden dán mánájgárddejage, hæhttuji ådåsis åhtsåt boahtte mánájgárddejahkáj.</p>
-    <p>Åhtsåmsjiemáv oattjo mánájgárden jali</p>
-    <p>www.arran.no</p>
-    <p>Dajna gå la aktisasj sisiválldem mánájgárdijn de hæhttu sadje åhtsåmus</p>
-    <p>
-      <em type="bold">divna </em>
-    </p>
-    <p>mánágárdijda rájaduvvat diehki:</p>
-    <p>
-      <em type="bold">Divtasvuona Suohkan </em>
-    </p>
-    <p>
-      <em type="bold">Bajássjaddam ja åhpadus </em>
-    </p>
-    <p>
-      <em type="bold">Poasstaboaksa 104 </em>
-    </p>
-    <p>
-      <em type="bold">8591 Gásluokta </em>
-    </p>
-    <p>Åhtsåmus máhttá aj rájaduvvat elektråvnnålattjat diehki :</p>
-    <p xml:lang="nob">postmottak@tysfjord.kommune.no</p>
-    <p>
-      <em type="bold">Åhtsåmmierre le 01.03.10. </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>106</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/index.php?id=4881724&amp;showtipform=1&amp;cat=99352&amp;gb=</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tysfjord kommune : Oajvvesisiválldem Mánájgárdijda Divtasvuonan - Tips en venn</p>
+<p type="title">Oajvvesisiválldem Mánájgárdijda Divtasvuonan</p>
+<p xml:lang="nob">07.02.2011</p>
+<p xml:lang="nob"><em type="bold">OAJVVESISIVÁLLDEM MÁNÁJGÁRDIJDA DIVTASVUONAN </em></p>
+<p>Mánájgárddejahke 2011/2012</p>
+<p>Ådå mánájgárddejahke álggá 22.08. 2011 (Árran Mánnájgárdde álggá 15.08.2011)</p>
+<p>Divtasvuona suohkanin  li tjuovvovasj mánájgárde:</p>
+<p>Árran Mánnájgárdde, Ájluokta</p>
+<p xml:lang="nob">Drag barnehage, Drag</p>
+<p xml:lang="nob">Pæsatun barnehage, Kjøpsvik</p>
+<p xml:lang="nob">Storjord oppvekstsenter, Storjord</p>
+<p>Åhtsåmsjiemav suohkana mánájgárdijda oattjo mánájgárden gånnå åhtså jali Rádevieson.</p>
+<p>Siján gænna l sadje Árran Mánnágárden dán mánájgárddejage, hæhttuji ådåsis åhtsåt boahtte mánájgárddejahkáj.</p>
+<p>Åhtsåmsjiemáv oattjo mánájgárden jali</p>
+<p>www.arran.no</p>
+<p>Dajna gå la aktisasj sisiválldem mánájgárdijn de hæhttu sadje åhtsåmus</p>
+<p><em type="bold">divna </em></p>
+<p>mánágárdijda rájaduvvat diehki:</p>
+<p><em type="bold">Divtasvuona Suohkan </em></p>
+<p><em type="bold">Bajássjaddam ja åhpadus </em></p>
+<p><em type="bold">Poasstaboaksa 104 </em></p>
+<p><em type="bold">8591 Gásluokta </em></p>
+<p>Åhtsåmus máhttá aj rájaduvvat elektråvnnålattjat diehki :</p>
+<p xml:lang="nob">postmottak@tysfjord.kommune.no</p>
+<p><em type="bold">Åhtsåmmierre le 01.03.10. </em></p>
+</body></document>

@@ -1,69 +1,27 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>620</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Alkohola</origFileName>
-    <parallel_text xml:lang="fin" location="alkoholi.html"/>
-    <parallel_text xml:lang="fit" location="alkkuhooli.html"/>
-    <parallel_text xml:lang="sma" location="alkohole.html"/>
-    <parallel_text xml:lang="sme" location="alkohola.html"/>
-    <parallel_text xml:lang="swe" location="alkohol.html"/>
-    <parallel_text location="alkohol.html" xml:lang="rmu"/>
-    <parallel_text location="alkoholo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="alkoholi.html" xml:lang="rmf"/>
-    <parallel_text location="alkoholo.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="alkoholi.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Alkohola</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title">Alkohola</p>
-    <p>Alkoholajn miejnniduvvá juhkusa nåv gåk vuola, vijnna ja sprijtta. Ålos dav juhki danen gå la njálgge jali vuoladuvátjit. Valla alkohola máhttá aj moatteláhkáj vádálasj. Máhttá vahágijt ja dávdajt buktet, nuppe oassáj dahká vaj vájves jali vádálasj vidjurijda sjaddá. Muhtema goavgedi ja nievret viessu gå juhki.</p>
-    <p>Suoddjitjit nuorajt gávnnu jáhke goassa oadtju alkoholav oasstet: Gávtsejagágin oadtju bårråmsajen oasestit ja guovtelåkjagágin systembolagan. Ihka vil iesj oadtju oasstet de l buorgodum oasestit gesi ij la loahpe oasstet.</p>
-    <p type="title">Manen juhká?</p>
-    <p>Ålos alkoholav juhki danen gå sijá mielas la njálgge ja vuogas. Muhtema juhki danen gå l vuollegis iesjdåbddo. Jus juhká buorep iesjdåbdov oattjotjit jali goavgedimev giehpedittjat jali jus ilá ednagav juhká, de juhkam máhttá boastoadnemij doalvvot. Máhttá aj nievret viessot, goappátjagá jugádijn ja maŋŋela.</p>
-    <p>Nuorran máhttá ållessjattugin dåbddut de máhttá dåbddut mierren ållessjattugin sjaddat gå alkoholav jugádijn. Márjju hejman vaddi, jali iesj gähttjal jali aktan rádnaj. Le dábálasj vaj ajtu ij diede jus sihtá juhkat vuostasj bále, ájnat juhká gå ietjáda juhki jali <span type="quote">“luluj”</span> juhkat. Valla jus duosstá vuosteldit juohkusav ja vuorddet de l ávkke. Dadi guhkebut vuorddá dadi buorep, danen gå vadá unneduvvi vigijt oattjotjit jali alkoholaj tjanáduvvat.</p>
-    <p type="title">Mij sjaddá gå juhká?</p>
-    <p>Jus vuoladuvvá de signála vuojŋŋamin hiemssiduvvi, vaj ájádallam, dåbdo, mujtto, starjjo ja dájddo nievrebut doajmmá. Máhttudahka diehkijt aktidit hiemssiduvvá aj.</p>
-    <p>Gå dájddo nävrru de ij dádjada mij sjaddá sämmiláhkáj gå la tjielgas. Márjju dahká dakkirijt majt ij lulu ietján dahkat: ságas ienebut ja ienep ulmutjij, gärssul, sjuohttul jali aktavuodav åhtså, ja ådåsijt gähttjal. Nievrep dájddo dahká dav gassjelabbon dádjadit jus juoga l vádálasj. Jus la vuollagin de máhttá dahkagoahtet dakkirijt ma máhtti alvos tjuovvusijt vaddet.</p>
-    <p>Muhtem vidjura máhtti sjaddat gå l juhkam:</p>
-    <list>
-      <p type="listitem">Åmijt massá jali späddjuji, gå ij dajt gehtja jali suoláduvá.</p>
-      <p type="listitem">Dårruj sjaddá jali doarrogoahtá. Le dábálasj rijddo gå la vuollagin álggá smállamijn juoŋga birra massta ij lulu tjielggusin rijddalit.</p>
-      <p type="listitem">Seksav adná vájku ij sidá. Jus la vuollagin máhttá låssåt javllat ij sidá, ja máhttá doalvvot vaj iesj, gejn jali gej seksav adná jali iehtjáda nievret viessu maŋŋela, jali seksuálalasj illastibmáj.</p>
-      <p type="listitem">Seksav adna váni ietjas suoddjidak, ja dalloj la máhttelis sjiervvedávdajt oadtjot, jali iesselissan sjaddat jali soabmásav iesselissan dahkat.</p>
-      <p type="listitem">Gähttjal ietjá drogajt. Ienemusá li alkoholav juhkam gå narkotihkav vuostasj bále adni, márjju gå ij jáhke dav nåv vádálattjan.</p>
-      <p type="listitem">Vahágij boadádallá. Máhttá buojkulvissan mopedajn jali bijlajn årrot, jårrå ja fällá jali tjáhtjáj gahttjá.</p>
-      <p type="listitem">Suolát jali spädjá gávnijt ma älla ietjas, jali bässá gåsi ij la loahpe.</p>
-      <p type="listitem">Nievret viessu ja goavget juhkama maŋŋel. Oarre dasi máhttá gå l dagojt dahkam majt sáŋart jali majs hehpan, jali tjuovvusin rubmahis.</p>
-      <p type="listitem">Vájvve sjaddá skåvlås jali bargos åvdåsvásstádusáv válldet. Alkohola bissu rubmahin maŋŋel gå la vuollagin årrum, ja máhttá ienep gå biejvev válldet åvddål gå vuojŋŋama doajmmi ållu buoragit buojkulvissan mujtátjit ja åhpatjit.</p>
-    </list>
-    <p>Muhtema jáhkki ij la nåv vádálasj juhkat jus ij álu jugá, buojkulvissan val vahkkogietjijt, ihka vil dalloj ednagav juhká. Ij la riekta</p>
-    <p type="title">Biejve maŋŋela</p>
-    <p>Máhttá vilá vehik vuollagin biejve maŋŋela gå l juhkam. Man ednagav la juhkam dav mierret. Buojkulvis bissu alkohola garravuollagis rubmahin bájken gålmå gitta nielje tijmmaj. Ij gávnnu makkirik vuohke jut ruvábut manná. Biejve maŋŋela gå ij la riekta tjielgas de dájddo l aj nievrep gå iemeláhkáj ja máhtá vájvve dahkat mav galggá. Buojkulvissan máhttá vádálasj mopedav jali bijlav vuodjet, ja jus la alkohola rubmahin de ij la lágalasj.</p>
-    <p type="title">Alkoholasielggidibme</p>
-    <p>Alkohola bájnasj gájkajt umassláhkáj ja ulmutja gierddi umasse ednagav, valla gávnnu agev mierre gå rumáj vuosstálasstá. Álu vuoksá jali oaddá. Jus jámálguvvá de máhttá oalle vádálasj, ja hähttu skihpadåhpåj doalvoduvvat.</p>
-    <p>Jus hudjá ulmutjav gut la juhkam, de gálggá aktavuodav válldet ållessjattugijn, skihpasujttorádevaddemijn, polijsajn jali skihpadåhpåj vuolgget. Jus soames la jámálguvvam de galggá riŋŋgit 112. Ij galga ulmutjav vuovsedahttet jalik sliebbit galmma tjátjev suv nali, danen gå l máhttelis ietjá vahága jali fällama sjaddi.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>615</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Alkohola</origFileName><parallel_text xml:lang="fin" location="alkoholi.html"/><parallel_text xml:lang="fit" location="alkkuhooli.html"/><parallel_text xml:lang="sma" location="alkohole.html"/><parallel_text xml:lang="sme" location="alkohola.html"/><parallel_text xml:lang="swe" location="alkohol.html"/><parallel_text location="alkohol.html" xml:lang="rmu"/><parallel_text location="alkoholo.html" xml:lang="rmy-rka"/><parallel_text location="alkoholi.html" xml:lang="rmf"/><parallel_text location="alkoholo.html" xml:lang="rmy-rlo"/><parallel_text location="alkoholi.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Alkohola</p>
+<p type="title">Alkohola</p>
+<p>Alkoholajn miejnniduvvá juhkusa nåv gåk vuola, vijnna ja sprijtta. Ålos dav juhki danen gå la njálgge jali vuoladuvátjit. Valla alkohola máhttá aj moatteláhkáj vádálasj. Máhttá vahágijt ja dávdajt buktet, nuppe oassáj dahká vaj vájves jali vádálasj vidjurijda sjaddá. Muhtema goavgedi ja nievret viessu gå juhki.</p>
+<p>Suoddjitjit nuorajt gávnnu jáhke goassa oadtju alkoholav oasstet: Gávtsejagágin oadtju bårråmsajen oasestit ja guovtelåkjagágin systembolagan. Ihka vil iesj oadtju oasstet de l buorgodum oasestit gesi ij la loahpe oasstet.</p>
+<p type="title">Manen juhká?</p>
+<p>Ålos alkoholav juhki danen gå sijá mielas la njálgge ja vuogas. Muhtema juhki danen gå l vuollegis iesjdåbddo. Jus juhká buorep iesjdåbdov oattjotjit jali goavgedimev giehpedittjat jali jus ilá ednagav juhká, de juhkam máhttá boastoadnemij doalvvot. Máhttá aj nievret viessot, goappátjagá jugádijn ja maŋŋela.</p>
+<p>Nuorran máhttá ållessjattugin dåbddut de máhttá dåbddut mierren ållessjattugin sjaddat gå alkoholav jugádijn. Márjju hejman vaddi, jali iesj gähttjal jali aktan rádnaj. Le dábálasj vaj ajtu ij diede jus sihtá juhkat vuostasj bále, ájnat juhká gå ietjáda juhki jali <span type="quote">“luluj”</span> juhkat. Valla jus duosstá vuosteldit juohkusav ja vuorddet de l ávkke. Dadi guhkebut vuorddá dadi buorep, danen gå vadá unneduvvi vigijt oattjotjit jali alkoholaj tjanáduvvat.</p>
+<p type="title">Mij sjaddá gå juhká?</p>
+<p>Jus vuoladuvvá de signála vuojŋŋamin hiemssiduvvi, vaj ájádallam, dåbdo, mujtto, starjjo ja dájddo nievrebut doajmmá. Máhttudahka diehkijt aktidit hiemssiduvvá aj.</p>
+<p>Gå dájddo nävrru de ij dádjada mij sjaddá sämmiláhkáj gå la tjielgas. Márjju dahká dakkirijt majt ij lulu ietján dahkat: ságas ienebut ja ienep ulmutjij, gärssul, sjuohttul jali aktavuodav åhtså, ja ådåsijt gähttjal. Nievrep dájddo dahká dav gassjelabbon dádjadit jus juoga l vádálasj. Jus la vuollagin de máhttá dahkagoahtet dakkirijt ma máhtti alvos tjuovvusijt vaddet.</p>
+<p>Muhtem vidjura máhtti sjaddat gå l juhkam:</p>
+<list><p type="listitem">Åmijt massá jali späddjuji, gå ij dajt gehtja jali suoláduvá.</p>
+<p type="listitem">Dårruj sjaddá jali doarrogoahtá. Le dábálasj rijddo gå la vuollagin álggá smállamijn juoŋga birra massta ij lulu tjielggusin rijddalit.</p>
+<p type="listitem">Seksav adná vájku ij sidá. Jus la vuollagin máhttá låssåt javllat ij sidá, ja máhttá doalvvot vaj iesj, gejn jali gej seksav adná jali iehtjáda nievret viessu maŋŋela, jali seksuálalasj illastibmáj.</p>
+<p type="listitem">Seksav adna váni ietjas suoddjidak, ja dalloj la máhttelis sjiervvedávdajt oadtjot, jali iesselissan sjaddat jali soabmásav iesselissan dahkat.</p>
+<p type="listitem">Gähttjal ietjá drogajt. Ienemusá li alkoholav juhkam gå narkotihkav vuostasj bále adni, márjju gå ij jáhke dav nåv vádálattjan.</p>
+<p type="listitem">Vahágij boadádallá. Máhttá buojkulvissan mopedajn jali bijlajn årrot, jårrå ja fällá jali tjáhtjáj gahttjá.</p>
+<p type="listitem">Suolát jali spädjá gávnijt ma älla ietjas, jali bässá gåsi ij la loahpe.</p>
+<p type="listitem">Nievret viessu ja goavget juhkama maŋŋel. Oarre dasi máhttá gå l dagojt dahkam majt sáŋart jali majs hehpan, jali tjuovvusin rubmahis.</p>
+<p type="listitem">Vájvve sjaddá skåvlås jali bargos åvdåsvásstádusáv válldet. Alkohola bissu rubmahin maŋŋel gå la vuollagin årrum, ja máhttá ienep gå biejvev válldet åvddål gå vuojŋŋama doajmmi ållu buoragit buojkulvissan mujtátjit ja åhpatjit.</p>
+</list><p>Muhtema jáhkki ij la nåv vádálasj juhkat jus ij álu jugá, buojkulvissan val vahkkogietjijt, ihka vil dalloj ednagav juhká. Ij la riekta</p>
+<p type="title">Biejve maŋŋela</p>
+<p>Máhttá vilá vehik vuollagin biejve maŋŋela gå l juhkam. Man ednagav la juhkam dav mierret. Buojkulvis bissu alkohola garravuollagis rubmahin bájken gålmå gitta nielje tijmmaj. Ij gávnnu makkirik vuohke jut ruvábut manná. Biejve maŋŋela gå ij la riekta tjielgas de dájddo l aj nievrep gå iemeláhkáj ja máhtá vájvve dahkat mav galggá. Buojkulvissan máhttá vádálasj mopedav jali bijlav vuodjet, ja jus la alkohola rubmahin de ij la lágalasj.</p>
+<p type="title">Alkoholasielggidibme</p>
+<p>Alkohola bájnasj gájkajt umassláhkáj ja ulmutja gierddi umasse ednagav, valla gávnnu agev mierre gå rumáj vuosstálasstá. Álu vuoksá jali oaddá. Jus jámálguvvá de máhttá oalle vádálasj, ja hähttu skihpadåhpåj doalvoduvvat.</p>
+<p>Jus hudjá ulmutjav gut la juhkam, de gálggá aktavuodav válldet ållessjattugijn, skihpasujttorádevaddemijn, polijsajn jali skihpadåhpåj vuolgget. Jus soames la jámálguvvam de galggá riŋŋgit 112. Ij galga ulmutjav vuovsedahttet jalik sliebbit galmma tjátjev suv nali, danen gå l máhttelis ietjá vahága jali fällama sjaddi.</p>
+</body></document>

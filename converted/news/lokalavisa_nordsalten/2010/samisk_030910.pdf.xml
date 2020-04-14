@@ -1,34 +1,4 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Ietjálágásj fálaldahka julevsámenuorajda</title>
-    <genre code="news"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>130</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_030910.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Sunnu Simona barggo le dahkat ássjijt ma guosski ja berustalli sámenuorajt.  Ájnas oasse prosjevtas le aj ahte nuora ietja máhtti oassálasstet ja ietjasa filmajt næhttasijdon juohket. - Filma máhtti juohkkaláhkáj dagáduvvat ja vájku man birra liehket, ájnnasamos ássje le adnet sámegielav majt buktá, javllá Simon. NuorajTV le gæhttjalimprosjækta ja vihpá ådåjagijda. Sámedigge, Norlánda Filkkasuohkan ja Ådåstahttemháldadus ja girkkodepartementa prosjevtav doarjodi. Gárvedimijn libá goappátja tjadádam filma -ja tv-kursav. Ja ragátmánno 8. biejve dåhkki vuojnnet vuostasj almodusájt. - Dát le ållu ådå åtsådallam munnuj. Valla Maria duogátjin journalistihkas ja Simona máhtudagájn mij teknihkkaj gullu, le munnun buorre vuodo. Ávvudallin álgget, ja jáhkkin jåhtelit oahppin ja åvddånahttin, javllaba måvtugis nuora.</p>
-    <p>oassálasstet. Prosjevta baktu bessin barggat vájmmoássjijn – julevsámegiela boahtteájgge – sæmmi båttå gå barggo le geldulasj ja guoskavasj goappátjijda, javllá Mikkelsen.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Ietjálágásj fálaldahka julevsámenuorajda</title><genre code="news"/><author><unknown/></author><year>2010</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>130</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_030910.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Sunnu Simona barggo le dahkat ássjijt ma guosski ja berustalli sámenuorajt.  Ájnas oasse prosjevtas le aj ahte nuora ietja máhtti oassálasstet ja ietjasa filmajt næhttasijdon juohket. - Filma máhtti juohkkaláhkáj dagáduvvat ja vájku man birra liehket, ájnnasamos ássje le adnet sámegielav majt buktá, javllá Simon. NuorajTV le gæhttjalimprosjækta ja vihpá ådåjagijda. Sámedigge, Norlánda Filkkasuohkan ja Ådåstahttemháldadus ja girkkodepartementa prosjevtav doarjodi. Gárvedimijn libá goappátja tjadádam filma -ja tv-kursav. Ja ragátmánno 8. biejve dåhkki vuojnnet vuostasj almodusájt. - Dát le ållu ådå åtsådallam munnuj. Valla Maria duogátjin journalistihkas ja Simona máhtudagájn mij teknihkkaj gullu, le munnun buorre vuodo. Ávvudallin álgget, ja jáhkkin jåhtelit oahppin ja åvddånahttin, javllaba måvtugis nuora.</p>
+<p>oassálasstet. Prosjevta baktu bessin barggat vájmmoássjijn – julevsámegiela boahtteájgge – sæmmi båttå gå barggo le geldulasj ja guoskavasj goappátjijda, javllá Mikkelsen.</p>
+</body></document>

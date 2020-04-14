@@ -1,49 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>187</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Ednam-ja-resurssarievtesvuodaj/Karttim</origFileName>
-    <parallel_text xml:lang="nob" location="kartlegging.html"/>
-    <parallel_text xml:lang="sma" location="goerehtalleme.html"/>
-    <parallel_text xml:lang="sme" location="karten.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kárttim / Ednam- ja resurssarievtesvuodaj / Sámedigge - Sametinget</p>
-    <p type="title">Kárttim</p>
-    <p>Álggálmmukriektá milta galggi stáhta kárttit ja identifiserit álggoálmmugij ájnegasj ja aktisasj åmastim- háldadim- ja addnoriektájt.</p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="eng">President</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="sme">Ávjovárri</p>
-    <p>Finnmárkolága mierredime baktu sajájduváj årnik man milta dákkár riektájt identifiseri ja dåhkkit Finnmárkon. Dát barggo le rievddam riektáprosessan manna le ietjas kárttimkommisjåvnnå mij rapportajt dahká, såbadi gå li såbamahtesvuoda kommisjåvnå rapporta gáktuj, rijdojt sierraduobmoståvlån tjoavddi majt le vejulasj Alemusriektáj guoddalit. Dákkár årniga ællá ásaduvvam árbbedábálasj sáme guovlojn Finnmárko ålggolin. Sáme riektájuogos le oajvvadam vásstediddje årnigijt ásadit aj dajda guovlojda ma li Finnmárko ålggolin.</p>
-    <p>
-      <em type="bold">Sámedigge sihtá: </em>
-    </p>
-    <list>
-      <p type="listitem">Ásadit lágajt sámij ájnegis ja aktisasj riektáj kárttima ja identifiserima gáktuj árbbedábálasj sáme guovlojn Finnmárko ålggolin.</p>
-      <p type="listitem">Sihkarasstet jut Statskog SF ednama e vuobdeduvá åvddål guovlo li kárttidum, ja sáme kultuvra vuodov bærrájgæhttjat gå areállaadno rievddá.</p>
-      <p type="listitem">Vájkkudit dasi ahte riektáprosessa massta kárttimbarggo le oassen vieleduvvá</p>
-    </list>
-    <p><em type="bold">Sámedikke åvdåsvásstádus: </em>Sámediggi vájkkut váj kárttimlága barggo joarkká ja åvddån árbbedábálasj sáme guovlojn Finnmárko ålggolin. Gå dákkár lágáj birra rádádallá de le Sámedikken åvdåsvásstádus bærrájgæhttjat jut lága li álmmukriektá birástagáj sisbielen. </p>
-    <p>Letjat riektáj gáhttima diehti Finnmárkokommisjåvnå bargon de le ájnas duodastusájt ja diedojt guovlo ano birra kommisjåvnnåj åvdedit.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>187</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Ednam-ja-resurssarievtesvuodaj/Karttim</origFileName><parallel_text xml:lang="nob" location="kartlegging.html"/><parallel_text xml:lang="sma" location="goerehtalleme.html"/><parallel_text xml:lang="sme" location="karten.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kárttim / Ednam- ja resurssarievtesvuodaj / Sámedigge - Sametinget</p>
+<p type="title">Kárttim</p>
+<p>Álggálmmukriektá milta galggi stáhta kárttit ja identifiserit álggoálmmugij ájnegasj ja aktisasj åmastim- háldadim- ja addnoriektájt.</p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="eng">President</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="sme">Ávjovárri</p>
+<p>Finnmárkolága mierredime baktu sajájduváj årnik man milta dákkár riektájt identifiseri ja dåhkkit Finnmárkon. Dát barggo le rievddam riektáprosessan manna le ietjas kárttimkommisjåvnnå mij rapportajt dahká, såbadi gå li såbamahtesvuoda kommisjåvnå rapporta gáktuj, rijdojt sierraduobmoståvlån tjoavddi majt le vejulasj Alemusriektáj guoddalit. Dákkár årniga ællá ásaduvvam árbbedábálasj sáme guovlojn Finnmárko ålggolin. Sáme riektájuogos le oajvvadam vásstediddje årnigijt ásadit aj dajda guovlojda ma li Finnmárko ålggolin.</p>
+<p><em type="bold">Sámedigge sihtá: </em></p>
+<list><p type="listitem">Ásadit lágajt sámij ájnegis ja aktisasj riektáj kárttima ja identifiserima gáktuj árbbedábálasj sáme guovlojn Finnmárko ålggolin.</p>
+<p type="listitem">Sihkarasstet jut Statskog SF ednama e vuobdeduvá åvddål guovlo li kárttidum, ja sáme kultuvra vuodov bærrájgæhttjat gå areállaadno rievddá.</p>
+<p type="listitem">Vájkkudit dasi ahte riektáprosessa massta kárttimbarggo le oassen vieleduvvá</p>
+</list><p><em type="bold">Sámedikke åvdåsvásstádus: </em>Sámediggi vájkkut váj kárttimlága barggo joarkká ja åvddån árbbedábálasj sáme guovlojn Finnmárko ålggolin. Gå dákkár lágáj birra rádádallá de le Sámedikken åvdåsvásstádus bærrájgæhttjat jut lága li álmmukriektá birástagáj sisbielen. </p>
+<p>Letjat riektáj gáhttima diehti Finnmárkokommisjåvnå bargon de le ájnas duodastusájt ja diedojt guovlo ano birra kommisjåvnnåj åvdedit.</p>
+</body></document>

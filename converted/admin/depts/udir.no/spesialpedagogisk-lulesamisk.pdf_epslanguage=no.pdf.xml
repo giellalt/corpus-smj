@@ -1,38 +1,12 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>334</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.udir.no/Filer/Regelverk/Tidlig-innsats/Foreldreinfo/Spesialpedagogisk-lulesamisk.pdf?epslanguage=no</origFileName>
-    <parallel_text xml:lang="sma" location="spesialpedagogisk-sorsamisk.pdf_epslanguage=no.pdf"/>
-    <parallel_text xml:lang="sme" location="spesialpedagogisk-nordsamisk.pdf_epslanguage=no.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>
-      <em type="bold">Sierrapedagogalasj viehkke vidá minuhtan - dunji gut le æjgát </em>
-    </p>
-    <p> Jus duv mánán li sierra hásstalusá, le sujna riektá sierrapedagogalasj viehkev oadtjot. Mánájn le riektá viehkev oadtjot riegádime rájes, vájku mánájgárden vádtsá jali ij.   Sierrapedagogalasj viehkke máhttá buojkulvissan liehket hárjjidallam, arvusmahttem jali doarjjo mánájgárde barggijda. Viehkke galggá liehket hiebadum duv máná dárboj milta.   Jus dån jali iehtjáda gudi mánáv dåbddi lihpit mårålasj duv máná åvddånime birra, galggá suohkan ja PP-virgge árvustallat ja bagádallat máná dárboj birra. Åvddål gå duv mánná oadtju sierrapedagogalasj viehkev, galggá suohkan ájnnegismærrádusáv mierredit.   <em type="bold">Majt mierkki Pedagogalasj – psykologalasj virgge (PP-virgge) </em>Virgge mij bagádallá suohkanav hiebadime birra mánájda gænna li sierralágásj dárbo.   <em type="bold">Ássjediehttelasj árvustallam </em>Dokumænnta PP-virges mij vuoset jus mánná sierrapedagogalasj viehkev dárbaj, ja mij oajvvat makkir fálaldagá mánná, æjgáda jali mánájgárdde viertti oadtjot.   <em type="bold">Ájnegismærrádus </em>Girjje suohkanis mij subtsas jus mánán le riektá sierrapedagogalasj viehkev oadtjot jali ij, ja gåktu viehkke galggá liehket. Dån máhtá agev ájnegismærrádusáv gujttit.   <em type="bold">Majt máhtáv suohkanis vuorddet? </em>Sij galggi </p>
-    <p type="listitem">• duv oassálasstet ja dujsta gatjádit åvddål mærrádusájt mierredij duv máná birra</p>
-    <p type="listitem">• árvustallat jus duv mánná sierrapedagogalasj viehkev dárbaj</p>
-    <p type="listitem">• ánodit PP-virges ássjediehttelasj árvustallamav jus dån gatjáda, jali jus suohkana jali mánájgárde milta le dárbbo sierrapedagoglasj viehkev  • mierredit ájnegismærrádusáv mij subtsas jus oahppe galggá sierrapedagogalasj viehkev oadtjot jali ij, ja gåktu viehkke galggá liehket.</p>
-    <p type="listitem">• Sierrapedagogalasj viehkev vaddet mánnáj nav gåk le tjielggidum ájnegismærrádusán.</p>
-    <p type="listitem">• Bærrájgæhttjat vaj tjálálasj diedádus dagáduvvá sierrapedagogalasj viehke ja máná åvddånahttema birra akti jahkáj <em type="bold"> Majt máhtáv mån dahkat? </em>Dån gut le æjgát • máhtá gájbbedit suohkan galggá guoradallat jus duv mánná sierrapedagogalasj viehkev dárbaj </p>
-    <p type="listitem">• galga oasev válldet ja guorrasit åvddål suohkan ánot PP-virgge galggá guoradallat mánáv</p>
-    <p type="listitem">• galga oasev válldet ja guorrasit åvddål suohkan mierret sierrapedagogalasj viehkev mánnáj • galga tjálálasj diedádusáv oadtjot akti jahkáj máná sierrapedagogalasj viehke birra ja árvustallamav máná åvddånahttema birra.</p>
-    <p type="listitem">• Máhtá gujttit jus mánná ij sierrapedagogalasj viehkev oattjo</p>
-    <p type="listitem">• Máhtá gujttit sisano, tjadádime jali viehke organiserima birra  <em type="bold">Mån sidáv ienep diehtet! </em>Dån máhtá låhkåt ienebuv sierrapedagogalasj viehke birra<em type="italic"> www.udir.no/tidliginnsats </em>ja<em type="italic"> www.fubhg.no.</em> Dát diehto dåssju dárogiellaj gávnnu. </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>334</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/Filer/Regelverk/Tidlig-innsats/Foreldreinfo/Spesialpedagogisk-lulesamisk.pdf?epslanguage=no</origFileName><parallel_text xml:lang="sma" location="spesialpedagogisk-sorsamisk.pdf_epslanguage=no.pdf"/><parallel_text xml:lang="sme" location="spesialpedagogisk-nordsamisk.pdf_epslanguage=no.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Sierrapedagogalasj viehkke vidá minuhtan - dunji gut le æjgát </em></p>
+<p> Jus duv mánán li sierra hásstalusá, le sujna riektá sierrapedagogalasj viehkev oadtjot. Mánájn le riektá viehkev oadtjot riegádime rájes, vájku mánájgárden vádtsá jali ij.   Sierrapedagogalasj viehkke máhttá buojkulvissan liehket hárjjidallam, arvusmahttem jali doarjjo mánájgárde barggijda. Viehkke galggá liehket hiebadum duv máná dárboj milta.   Jus dån jali iehtjáda gudi mánáv dåbddi lihpit mårålasj duv máná åvddånime birra, galggá suohkan ja PP-virgge árvustallat ja bagádallat máná dárboj birra. Åvddål gå duv mánná oadtju sierrapedagogalasj viehkev, galggá suohkan ájnnegismærrádusáv mierredit.   <em type="bold">Majt mierkki Pedagogalasj – psykologalasj virgge (PP-virgge) </em>Virgge mij bagádallá suohkanav hiebadime birra mánájda gænna li sierralágásj dárbo.   <em type="bold">Ássjediehttelasj árvustallam </em>Dokumænnta PP-virges mij vuoset jus mánná sierrapedagogalasj viehkev dárbaj, ja mij oajvvat makkir fálaldagá mánná, æjgáda jali mánájgárdde viertti oadtjot.   <em type="bold">Ájnegismærrádus </em>Girjje suohkanis mij subtsas jus mánán le riektá sierrapedagogalasj viehkev oadtjot jali ij, ja gåktu viehkke galggá liehket. Dån máhtá agev ájnegismærrádusáv gujttit.   <em type="bold">Majt máhtáv suohkanis vuorddet? </em>Sij galggi </p>
+<p type="listitem">• duv oassálasstet ja dujsta gatjádit åvddål mærrádusájt mierredij duv máná birra</p>
+<p type="listitem">• árvustallat jus duv mánná sierrapedagogalasj viehkev dárbaj</p>
+<p type="listitem">• ánodit PP-virges ássjediehttelasj árvustallamav jus dån gatjáda, jali jus suohkana jali mánájgárde milta le dárbbo sierrapedagoglasj viehkev  • mierredit ájnegismærrádusáv mij subtsas jus oahppe galggá sierrapedagogalasj viehkev oadtjot jali ij, ja gåktu viehkke galggá liehket.</p>
+<p type="listitem">• Sierrapedagogalasj viehkev vaddet mánnáj nav gåk le tjielggidum ájnegismærrádusán.</p>
+<p type="listitem">• Bærrájgæhttjat vaj tjálálasj diedádus dagáduvvá sierrapedagogalasj viehke ja máná åvddånahttema birra akti jahkáj <em type="bold"> Majt máhtáv mån dahkat? </em>Dån gut le æjgát • máhtá gájbbedit suohkan galggá guoradallat jus duv mánná sierrapedagogalasj viehkev dárbaj </p>
+<p type="listitem">• galga oasev válldet ja guorrasit åvddål suohkan ánot PP-virgge galggá guoradallat mánáv</p>
+<p type="listitem">• galga oasev válldet ja guorrasit åvddål suohkan mierret sierrapedagogalasj viehkev mánnáj • galga tjálálasj diedádusáv oadtjot akti jahkáj máná sierrapedagogalasj viehke birra ja árvustallamav máná åvddånahttema birra.</p>
+<p type="listitem">• Máhtá gujttit jus mánná ij sierrapedagogalasj viehkev oattjo</p>
+<p type="listitem">• Máhtá gujttit sisano, tjadádime jali viehke organiserima birra  <em type="bold">Mån sidáv ienep diehtet! </em>Dån máhtá låhkåt ienebuv sierrapedagogalasj viehke birra<em type="italic"> www.udir.no/tidliginnsats </em>ja<em type="italic"> www.fubhg.no.</em> Dát diehto dåssju dárogiellaj gávnnu. </p>
+</body></document>

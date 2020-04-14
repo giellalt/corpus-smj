@@ -1,51 +1,17 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>346</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Giella/Samasta-mujna/Artikler/Giellakampanja-birra</origFileName>
-    <parallel_text xml:lang="nob" location="om-spraakkampanjen.html"/>
-    <parallel_text xml:lang="sma" location="gielekampanjen-bijre.html"/>
-    <parallel_text xml:lang="sme" location="giellakampanjja-birra.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Giellakampánja birra / Artikler / Sámásta mujna / Giella / Sámedigge - Sametinget</p>
-    <p type="title">Giellakampánja birra</p>
-    <p>Sámegiella le vattáldahka mijá ájttegijs. Vattáldahka majt mij vas galggap vaddet mijá maŋep buolvajda. Giella javllá juojddáv gudi mij lip, ja nanni mijá tjanástagájt sáme aktisasjvuohtaj. Ælla divna sáme máná ja nuora oadtjum sámegielav oahppat, valla giella le huoman viehka ájnas sidjij aj. Juska ulmusj ij sámegielav håla, de le sámegielan huoman stuorra árvvo. Dan diehti gå sáhka le identitehtas ja aktisasjvuodas. Gåktu sáhkadit ja dåbddåt ulmusj la oassen juosstá mij la stuoráp.</p>
-    <p>Sámedigge rahtjá sámegielav nannit, åvddånahttet ja bisodit juohkka guovlon Sámeednamin. Sámedigge sihtá divna mánájn ja nuorajn galggá liehket máhttelisvuohta oahppat sámegielav danna gånnå sij årru, ja máhttelisvuohta hållat sámegielav árggabiejven. Sámedigge barggá vaj máná ja nuora ålles rijkan galggi oadtjot máhttelisvuodajt oahppat sámegielav skåvlån. Mij sihtap ienebu galggi sámegielav oahppat, danen gå dåssju dajna vuogijn tjårggip vaj giella viessu vijddábut ja máhttá åhpaduvvat boahtte buolvajs. Mij sihtap aj ienebu galggi sámástit nåv dájvváj gå máhttelis, ja jus riekta juohkka aktijvuodan. Sámedigge sihtá galggá liehket luondulasj sámástit goappátjagá oassásin, tjiektjamhárjjidusán nåv gå skåvlån. Mij sihtap sámegiella galggá vuojnnut sosiála medijajn. Mij sihtap sámegiella galggá gullut gahttunin, váren ja skåvllåsaljon.</p>
-    <p>Sámedigge le dan diehti álgadam Giellakampánjav <span type="quote">“Sámásta mujna”</span>. Doajvvop dat kampánnja galggá viehkedit stuoráp diedulasjvuohtaj sámástittjat ienep aktijvuodajn, arvusmahtátjit sámegielav åhpatjit, lasedittjat ienep jådå arenajn sámástittjat ja almulasj aktijvuodajn sámástittjat .</p>
-    <p><span type="quote">“Sámásta mujna”</span> le rijkavijddásasj guoddokampánnja mij loavddá divna sáme nuorajt, goappátjagá sijáv gudi bukti sámástit, vehik sámástit ja gudi e buvte sámástit.</p>
-    <p>
-      <em type="bold">Kampánja ulmme le viehkedittjat: </em>
-    </p>
-    <list>
-      <p type="listitem">Vaj sámegiela adno laseduvvá</p>
-      <p type="listitem">Vaj ienebu sámásti</p>
-      <p type="listitem">Vaj sámegiella ienep arenajn laseduvvá</p>
-      <p type="listitem">Vaj sámegiella vuojnnusin sjaddá</p>
-      <p type="listitem">Vaj sebrudahka dádjat ienebut man ájnas la gå oadtjop sámástit</p>
-    </list>
-    <p>Mijá hásstalus la oadtjot ájnegattjav válljitjit sámegielav. Sámegiela boahtteájgge le tjanádum juohkka aktaj mijás adná sámegielav luondulasj guládimgiellan juohkka aktijvuodan gå máhttelis, ja sihtá ja dåjmalattjat vállji sámegielav oahppat.</p>
-    <p>Mijá diedádus le sámegiella le ájnas ja ávkká. Åhpa sámegielav, sámásta, vállji sámegielav! Mij lip divna siegen gielav bisodime gå sámástip. Ájnas le aj dættodit stuorra ávkke le liehket guovtegielagin, ja moadda barggomáhttelisvuoda rahpusi boahtteájgen.</p>
-    <p type="title">Sámásta mujna!</p>
-    <p>samastamujna@samedigge.no</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>346</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Giella/Samasta-mujna/Artikler/Giellakampanja-birra</origFileName><parallel_text xml:lang="nob" location="om-spraakkampanjen.html"/><parallel_text xml:lang="sma" location="gielekampanjen-bijre.html"/><parallel_text xml:lang="sme" location="giellakampanjja-birra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Giellakampánja birra / Artikler / Sámásta mujna / Giella / Sámedigge - Sametinget</p>
+<p type="title">Giellakampánja birra</p>
+<p>Sámegiella le vattáldahka mijá ájttegijs. Vattáldahka majt mij vas galggap vaddet mijá maŋep buolvajda. Giella javllá juojddáv gudi mij lip, ja nanni mijá tjanástagájt sáme aktisasjvuohtaj. Ælla divna sáme máná ja nuora oadtjum sámegielav oahppat, valla giella le huoman viehka ájnas sidjij aj. Juska ulmusj ij sámegielav håla, de le sámegielan huoman stuorra árvvo. Dan diehti gå sáhka le identitehtas ja aktisasjvuodas. Gåktu sáhkadit ja dåbddåt ulmusj la oassen juosstá mij la stuoráp.</p>
+<p>Sámedigge rahtjá sámegielav nannit, åvddånahttet ja bisodit juohkka guovlon Sámeednamin. Sámedigge sihtá divna mánájn ja nuorajn galggá liehket máhttelisvuohta oahppat sámegielav danna gånnå sij årru, ja máhttelisvuohta hållat sámegielav árggabiejven. Sámedigge barggá vaj máná ja nuora ålles rijkan galggi oadtjot máhttelisvuodajt oahppat sámegielav skåvlån. Mij sihtap ienebu galggi sámegielav oahppat, danen gå dåssju dajna vuogijn tjårggip vaj giella viessu vijddábut ja máhttá åhpaduvvat boahtte buolvajs. Mij sihtap aj ienebu galggi sámástit nåv dájvváj gå máhttelis, ja jus riekta juohkka aktijvuodan. Sámedigge sihtá galggá liehket luondulasj sámástit goappátjagá oassásin, tjiektjamhárjjidusán nåv gå skåvlån. Mij sihtap sámegiella galggá vuojnnut sosiála medijajn. Mij sihtap sámegiella galggá gullut gahttunin, váren ja skåvllåsaljon.</p>
+<p>Sámedigge le dan diehti álgadam Giellakampánjav <span type="quote">“Sámásta mujna”</span>. Doajvvop dat kampánnja galggá viehkedit stuoráp diedulasjvuohtaj sámástittjat ienep aktijvuodajn, arvusmahtátjit sámegielav åhpatjit, lasedittjat ienep jådå arenajn sámástittjat ja almulasj aktijvuodajn sámástittjat .</p>
+<p><span type="quote">“Sámásta mujna”</span> le rijkavijddásasj guoddokampánnja mij loavddá divna sáme nuorajt, goappátjagá sijáv gudi bukti sámástit, vehik sámástit ja gudi e buvte sámástit.</p>
+<p><em type="bold">Kampánja ulmme le viehkedittjat: </em></p>
+<list><p type="listitem">Vaj sámegiela adno laseduvvá</p>
+<p type="listitem">Vaj ienebu sámásti</p>
+<p type="listitem">Vaj sámegiella ienep arenajn laseduvvá</p>
+<p type="listitem">Vaj sámegiella vuojnnusin sjaddá</p>
+<p type="listitem">Vaj sebrudahka dádjat ienebut man ájnas la gå oadtjop sámástit</p>
+</list><p>Mijá hásstalus la oadtjot ájnegattjav válljitjit sámegielav. Sámegiela boahtteájgge le tjanádum juohkka aktaj mijás adná sámegielav luondulasj guládimgiellan juohkka aktijvuodan gå máhttelis, ja sihtá ja dåjmalattjat vállji sámegielav oahppat.</p>
+<p>Mijá diedádus le sámegiella le ájnas ja ávkká. Åhpa sámegielav, sámásta, vállji sámegielav! Mij lip divna siegen gielav bisodime gå sámástip. Ájnas le aj dættodit stuorra ávkke le liehket guovtegielagin, ja moadda barggomáhttelisvuoda rahpusi boahtteájgen.</p>
+<p type="title">Sámásta mujna!</p>
+<p>samastamujna@samedigge.no</p>
+</body></document>

@@ -1,45 +1,16 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>322</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/index.php?id=5087307&amp;showtipform=1&amp;cat=96269&amp;gb=</origFileName>
-    <parallel_text xml:lang="nob" location="spekkhuggere.96269.no.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Tysfjord kommune : Alvaduhttem hárjjesvállá - Tips en venn</p>
-    <p type="title">Alvaduhttem hárjjesvállá</p>
-    <p xml:lang="nob">07.09.2012</p>
-    <p>Juohkka maŋŋetjavtja vuona gidágådem silldálåhko Vestasjjiekkev sisi vuodjá ållu Divtasvuonav sisi. E gånnåk væráldin dákkir stuorra låhko sildás tjåhkana. Ja hárjjesvállá sildáv tjuovvu.</p>
-    <p xml:lang="nob">Av: Unni Skoglund</p>
-    <p>Divtasvuodnaj hárjjesvállá båhti båråtjit guojras ájgijn. Dát stuorra silldálåhko le navti sieldes stuorra bårråmus sválláj. Birrusin 600-700 hárjjesvállá dáj vuonajda juohkka jage båhti. Navti máhttelisvuoda dajt ållu lahka vuojnnet li stuora.</p>
-    <p><em type="bold">Aktan barggi </em>Nuorrebajutja vuolen silldábivddem dáhpáduvvá. Hárjjesvállá vuona guovlojn li sierralágásj bivddemteknihkajt åvddånahttám gånnå aktan bivddi. Vihtta-guhtta svállá aktan sildáv tjoahkken åttjudi. Dan maŋŋela akta svállájs guollebierggáj manná ja biehtsegijn tsábmá vaj sildá jámálguvvi. Gå silldá jámálguvvá de le gæhppat dav bårråt. Miellagiddis hárjjesvállá avtaj avtaj sildáv bårrå. Da guolletsuohpav bårri ja dávtijt ålgus tjålliji. Dát gal guhka ájgev válldá dajt stuorra rubmahijt dievddet dan láhkáj dahkat. Valla de la bårrus majna ålles biejve barggi. Gå le hárjjesvállásafárijin de aj máhtá jienav hárjjesvállás gullat. Dav jienav majt dahki gå nuorretjátjev vuojŋŋambåhtså tjadá båssiji. Gå dá stuorra juhtusa li nuorrebajutjin vuojŋŋamin tjátjetsirgga fontena lágátjin ilmmáj manná. Gå buoktji de le gássjelis javllat guossa nuorrebajutjijt vat ihti. Dábálattjat li tjátje vuolen birrusin 10 minuhta ja dan ájgen máhtti ihkap kilomehtarav vuodjat. </p>
-    <p>
-      <em type="bold">Tjierggis judos </em>
-    </p>
-    <p>Hárjjesvállá li stuorámus juhtusa låpturfámiljan. Årråsa li gasskamærrásattjat 6,7 mehtera guhkaga, valla máhtti sjaddat gitta lågev mehtera. Gasskamærrásasj niŋŋelis le 5,8 mehtera guhkak ja ienemusát 8,5 mehtera. Hárjjesvállá rahki tjavtjan ja tjivga riegáduvvi birrusin jage maŋŋela. Njuorak hárjjesvállá le birrusin guokta mehtera.</p>
-    <p>Máhttelisvuohta merragoasskemav ållu lahka vuojnnet le stuorre gå le hárjjesvállásafárijin. Ij le dåssju svállá mij daj sieldes silldálågos gæssuduvvá. Muossádit majestehtalasj hárjjesvállájt luondulasj birrasin, gå li vuonan bårråmin le alvaduhttem muossádus.</p>
-    <p>Divtasvuonan guokta viddnudagá hárjjesvállásafáriv fálli. Goappátja libá ållu E6 lahka.</p>
-    <p xml:lang="nob">Tysfjord Turistsenter/</p>
-    <p>Orca team barggi Stuorgiettes, oarjep færjjokájas Bognesan. Sij fálli safáriv sihke gummivantsajn ja stuoráp vantsajn dajda gudi dav sihti.</p>
-    <p xml:lang="nob">Arctic encounters</p>
-    <p>barggi nuortas færjjokájas Skárffabávtes ja le unna fámilljadåjmadum viddnudahka mij duodden hárjjesvállásafáriji gummivantsajn li tjiehpe buoktjamturismajn.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>322</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/index.php?id=5087307&amp;showtipform=1&amp;cat=96269&amp;gb=</origFileName><parallel_text xml:lang="nob" location="spekkhuggere.96269.no.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Tysfjord kommune : Alvaduhttem hárjjesvállá - Tips en venn</p>
+<p type="title">Alvaduhttem hárjjesvállá</p>
+<p xml:lang="nob">07.09.2012</p>
+<p>Juohkka maŋŋetjavtja vuona gidágådem silldálåhko Vestasjjiekkev sisi vuodjá ållu Divtasvuonav sisi. E gånnåk væráldin dákkir stuorra låhko sildás tjåhkana. Ja hárjjesvállá sildáv tjuovvu.</p>
+<p xml:lang="nob">Av: Unni Skoglund</p>
+<p>Divtasvuodnaj hárjjesvállá båhti båråtjit guojras ájgijn. Dát stuorra silldálåhko le navti sieldes stuorra bårråmus sválláj. Birrusin 600-700 hárjjesvállá dáj vuonajda juohkka jage båhti. Navti máhttelisvuoda dajt ållu lahka vuojnnet li stuora.</p>
+<p><em type="bold">Aktan barggi </em>Nuorrebajutja vuolen silldábivddem dáhpáduvvá. Hárjjesvállá vuona guovlojn li sierralágásj bivddemteknihkajt åvddånahttám gånnå aktan bivddi. Vihtta-guhtta svállá aktan sildáv tjoahkken åttjudi. Dan maŋŋela akta svállájs guollebierggáj manná ja biehtsegijn tsábmá vaj sildá jámálguvvi. Gå silldá jámálguvvá de le gæhppat dav bårråt. Miellagiddis hárjjesvállá avtaj avtaj sildáv bårrå. Da guolletsuohpav bårri ja dávtijt ålgus tjålliji. Dát gal guhka ájgev válldá dajt stuorra rubmahijt dievddet dan láhkáj dahkat. Valla de la bårrus majna ålles biejve barggi. Gå le hárjjesvállásafárijin de aj máhtá jienav hárjjesvállás gullat. Dav jienav majt dahki gå nuorretjátjev vuojŋŋambåhtså tjadá båssiji. Gå dá stuorra juhtusa li nuorrebajutjin vuojŋŋamin tjátjetsirgga fontena lágátjin ilmmáj manná. Gå buoktji de le gássjelis javllat guossa nuorrebajutjijt vat ihti. Dábálattjat li tjátje vuolen birrusin 10 minuhta ja dan ájgen máhtti ihkap kilomehtarav vuodjat. </p>
+<p><em type="bold">Tjierggis judos </em></p>
+<p>Hárjjesvállá li stuorámus juhtusa låpturfámiljan. Årråsa li gasskamærrásattjat 6,7 mehtera guhkaga, valla máhtti sjaddat gitta lågev mehtera. Gasskamærrásasj niŋŋelis le 5,8 mehtera guhkak ja ienemusát 8,5 mehtera. Hárjjesvállá rahki tjavtjan ja tjivga riegáduvvi birrusin jage maŋŋela. Njuorak hárjjesvállá le birrusin guokta mehtera.</p>
+<p>Máhttelisvuohta merragoasskemav ållu lahka vuojnnet le stuorre gå le hárjjesvállásafárijin. Ij le dåssju svállá mij daj sieldes silldálågos gæssuduvvá. Muossádit majestehtalasj hárjjesvállájt luondulasj birrasin, gå li vuonan bårråmin le alvaduhttem muossádus.</p>
+<p>Divtasvuonan guokta viddnudagá hárjjesvállásafáriv fálli. Goappátja libá ållu E6 lahka.</p>
+<p xml:lang="nob">Tysfjord Turistsenter/</p>
+<p>Orca team barggi Stuorgiettes, oarjep færjjokájas Bognesan. Sij fálli safáriv sihke gummivantsajn ja stuoráp vantsajn dajda gudi dav sihti.</p>
+<p xml:lang="nob">Arctic encounters</p>
+<p>barggi nuortas færjjokájas Skárffabávtes ja le unna fámilljadåjmadum viddnudahka mij duodden hárjjesvállásafáriji gummivantsajn li tjiehpe buoktjamturismajn.</p>
+</body></document>

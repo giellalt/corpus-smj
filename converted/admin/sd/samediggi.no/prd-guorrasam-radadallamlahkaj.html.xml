@@ -1,40 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>PRD: Guorrasam rádádallamláhkaj</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2018</year>
-    <wordcount>186</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/AAdaasa/PRD-Guorrasam-radadallamlahkaj</origFileName>
-    <parallel_text xml:lang="nob" location="prm-enighet-om-konsultasjonslov.html"/>
-    <parallel_text xml:lang="sma" location="prm-siemesvoete-konsultasjovnelaaken-bijre.html"/>
-    <parallel_text xml:lang="sme" location="prd-konsultasuvdnalaga-birra-sohppojuvvon.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">PRD: Guorrasam rádádallamláhkaj</p>
-    <p>Sámedigge ja ráddidus li guorrasam láhkanjuolgadusáj gáktuj rádádallamijda ådå kapihttalin sámelágan.</p>
-    <p>Láhkaoajvvadus joarket ienemusájt rádádallamvuogijt ma mierreduvvin 2005 ja la gåtsedibmen oajvvadusás Sámeriektájuohkusis, mij lij guláskuddamin gidán 2009.</p>
-    <p>- Mij lip dálla vuododam buorep tjielgasvuodav man láhkáj avtav dajs ájnnasamos ræjdojs sámepolitihkan galggá aneduvvat. Rádádallamnjuolgadusá tjårggi juhti Sámedigge ja ietjá njuolgga guosske sáme berustiddje oassálassti guorrasittjat mærrádusájn ma midjij ednagit merkahi. Njuolgadusá li ájnnasa vaj Sámedigge ja aj ietjá sáme berustiddje bessi siegen liehket hábbmimin ja mierredime boahtteájge ævtojt sáme giela, kultuvra, æládusáj ja sebrudakiellemij gáktuj, javllá sámedikkepresidænnta Aili Keskitalo.</p>
-    <p>Rádádallamvælggogisvuohta suohkanijda ja fylkasuohkanijda tjanáduvvá láhkaj vaj látjeduvvá iesjgeŋgalágásj vuogijda rádádallamvælggogisvuodav bærrájgåtsåtjit, vuododuvvam dan dádjadusá nanna, stuorra sieradusá li suohkanij gaskan, stuorrudagá, máhtudagá ja oassálasstemvuogij gáktuj sáme berustiddjijs.</p>
-    <p>- Gå suohkanij ja fylkasuohkanij rádádallamvælggogisvuodajt lága baktu mierreduvvi, nanniduvvá aj vuodov aktisasjbargguj sáme berustiddjij, suohkanij ja fylkasuohkanij gaskan. Láhka láhtjá dilev vaj dát rádádallamvælggogisvuohta máhttá iesjgeŋgaláhkáj bærrájgåtseduvvat, ja dajnas li mujna vuorddemusá buorre prosessajda dán gáktuj, buoremussan bájkálasj, guovlo ja sáme sebrudakåvddånahttemij, javllá Keskitalo.</p>
-    <p>Sámedikkeráde oajvvadusáv Sámedikke ållestjåhkanibmáj åvddåjbuktá miededimgiehtadallamij, åvddåla ráddidus proposisjåvnåv Stuorradiggáj åvdet.</p>
-    <p>
-      <em type="italic">Ságájdahtátjit, guládalá sámedikkepresidentajn Aili Keskitalo, telefåvnån 971 29 305 </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>PRD: Guorrasam rádádallamláhkaj</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2018</year><wordcount>186</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/AAdaasa/PRD-Guorrasam-radadallamlahkaj</origFileName><parallel_text xml:lang="nob" location="prm-enighet-om-konsultasjonslov.html"/><parallel_text xml:lang="sma" location="prm-siemesvoete-konsultasjovnelaaken-bijre.html"/><parallel_text xml:lang="sme" location="prd-konsultasuvdnalaga-birra-sohppojuvvon.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">PRD: Guorrasam rádádallamláhkaj</p>
+<p>Sámedigge ja ráddidus li guorrasam láhkanjuolgadusáj gáktuj rádádallamijda ådå kapihttalin sámelágan.</p>
+<p>Láhkaoajvvadus joarket ienemusájt rádádallamvuogijt ma mierreduvvin 2005 ja la gåtsedibmen oajvvadusás Sámeriektájuohkusis, mij lij guláskuddamin gidán 2009.</p>
+<p>- Mij lip dálla vuododam buorep tjielgasvuodav man láhkáj avtav dajs ájnnasamos ræjdojs sámepolitihkan galggá aneduvvat. Rádádallamnjuolgadusá tjårggi juhti Sámedigge ja ietjá njuolgga guosske sáme berustiddje oassálassti guorrasittjat mærrádusájn ma midjij ednagit merkahi. Njuolgadusá li ájnnasa vaj Sámedigge ja aj ietjá sáme berustiddje bessi siegen liehket hábbmimin ja mierredime boahtteájge ævtojt sáme giela, kultuvra, æládusáj ja sebrudakiellemij gáktuj, javllá sámedikkepresidænnta Aili Keskitalo.</p>
+<p>Rádádallamvælggogisvuohta suohkanijda ja fylkasuohkanijda tjanáduvvá láhkaj vaj látjeduvvá iesjgeŋgalágásj vuogijda rádádallamvælggogisvuodav bærrájgåtsåtjit, vuododuvvam dan dádjadusá nanna, stuorra sieradusá li suohkanij gaskan, stuorrudagá, máhtudagá ja oassálasstemvuogij gáktuj sáme berustiddjijs.</p>
+<p>- Gå suohkanij ja fylkasuohkanij rádádallamvælggogisvuodajt lága baktu mierreduvvi, nanniduvvá aj vuodov aktisasjbargguj sáme berustiddjij, suohkanij ja fylkasuohkanij gaskan. Láhka láhtjá dilev vaj dát rádádallamvælggogisvuohta máhttá iesjgeŋgaláhkáj bærrájgåtseduvvat, ja dajnas li mujna vuorddemusá buorre prosessajda dán gáktuj, buoremussan bájkálasj, guovlo ja sáme sebrudakåvddånahttemij, javllá Keskitalo.</p>
+<p>Sámedikkeráde oajvvadusáv Sámedikke ållestjåhkanibmáj åvddåjbuktá miededimgiehtadallamij, åvddåla ráddidus proposisjåvnåv Stuorradiggáj åvdet.</p>
+<p><em type="italic">Ságájdahtátjit, guládalá sámedikkepresidentajn Aili Keskitalo, telefåvnån 971 29 305 </em></p>
+</body></document>

@@ -1,44 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Hávsske Måsken årrot</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>382</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/h-vsske-masken-arrot.4075</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tom Heggstad ja Vigdis Rafaelsen libá aktan bednagij Måsken sijdav gávnnam, ja divna riek buoragit soapptsu.</p>
-    <p type="title">Hávsske Måsken årrot</p>
-    <p>Måskesebrudagás li nav moattes jåhtåm dájt mañemus jagijt, valla soabmása li aj Måsskåj jåhtåm. Tjavtjan jådijga nieljes Måsskåj, ja skåvllå oattjoj avtav ådå oahppev. Norsk kortversjon/Oanegis dárogiellaj</p>
-    <p>-Gåhtjoduvájma Måsskåj guossen, ja gávnajma Måsske l ráfálasj sadje ja ulmutja Måsken nav hávsske. Dajna de gálvojt viettjajma, ja diehki lin de jåhtåm, subtsastibá Vigdis Rafaelsen ja Tom Heggstad gudi Narvijkas tjavtjan bådijga jåde.</p>
-    <p>Gå Tom ja Vigdis giehttogådijga galgajga Måsskåj jåhtet, oattjojga gatjálvisájt ráddnájs ja rádnajs majt Måsken galggaba gånnå ij la bijllarahte, ij oases, ja gånnå dåssju sáme årru, valla Toma ja Vigdisa mielas ij gávnnu buorep sadje gå Måsske.</p>
-    <p>-Ulmutja dáhppe li nav vættsá, ja måj lin nav buoret duostodum. Vuostasj ideda gå dán munnuv årrudagán idjadijma, de idedis gávnajma guokta muorravuossa ålgusjbielen. Diedá, soames lij dájt muorajt munnuj vaddám, ja dási ålgusjbælláj suvddám. Dat de munnuv ávvudahtij, ja dajna aj dåbddin måj lin oalle oasse dát hávsskes sebrudagás, subtsastibá Tom ja Vigdis.</p>
-    <p>Sunnuv mielas ij la låssåt Måsken årrot juska dal ij la oases gånnå l máhttelis juohkka biejve viehkat, jali ávijssa poasstabåksan idedis. -I dal dat majdik dagá. Måj en åhtsåla oassásav, jali ávijsav juohkka ideda. Dánna li má ietjá majt måj árvvon adnin. Buorep sadje ij gávnnu. Ja de bednaga aj nav buoragit soapptsu, javllaba Måske ådå årro gudi suohkanis årrudagáv lájggiba.</p>
-    <p>Vigdis ja Tom aj gæhttjalibá bednaganálav Shetland Sheepdog biebmadit, ja sunnuv mielas aj bednaga nav buoret Måsken soapptsu.</p>
-    <p>Suohkanoajvve Kurt Allan Nilsen la riek ávon gå <span type="quote">”suv”</span> suohkanij ulmutja jåhti. -Juohkka ådåviesát Divtasvuodnaj la riek mielos, ja mån lav ávon gå Tom ja Vigdis libá Måsskåj gávnadam. Juohkka viesádin <span type="quote">”muv”</span> suohkanin la árvvo, ja suohkana bieles hæhttup aj hiebadahttet nav vaj ulmutja e suohkanis <span type="quote">”báhtara”</span>. Binná l dal barggosajijs, ja mij politihkkára hæhttup aj dilev hiebadahttet nav vaj barggosaje ásaduvvi, ja vaj la årodahtte dánna, javllá suohkanoajvve.</p>
-    <p>Divtasvuona suohkanin årrun sulle 2.100 viesáda snjilltjamánon dán jage, ja suohkanoajvve ij dal ájn diede gåktu viesátlåhko l åvddånahttám ådåjagij rájes. Måsskåj jåhtin nieljes vásse tjavtja, ja skåvllå aj oattjoj ådå oahppev. Huoman ij la Måske viesátlåhko lassánam.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Hávsske Måsken årrot"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Hávsske Måsken årrot</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>382</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/h-vsske-masken-arrot.4075</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tom Heggstad ja Vigdis Rafaelsen libá aktan bednagij Måsken sijdav gávnnam, ja divna riek buoragit soapptsu.</p>
+<p type="title">Hávsske Måsken årrot</p>
+<p>Måskesebrudagás li nav moattes jåhtåm dájt mañemus jagijt, valla soabmása li aj Måsskåj jåhtåm. Tjavtjan jådijga nieljes Måsskåj, ja skåvllå oattjoj avtav ådå oahppev. Norsk kortversjon/Oanegis dárogiellaj</p>
+<p>-Gåhtjoduvájma Måsskåj guossen, ja gávnajma Måsske l ráfálasj sadje ja ulmutja Måsken nav hávsske. Dajna de gálvojt viettjajma, ja diehki lin de jåhtåm, subtsastibá Vigdis Rafaelsen ja Tom Heggstad gudi Narvijkas tjavtjan bådijga jåde.</p>
+<p>Gå Tom ja Vigdis giehttogådijga galgajga Måsskåj jåhtet, oattjojga gatjálvisájt ráddnájs ja rádnajs majt Måsken galggaba gånnå ij la bijllarahte, ij oases, ja gånnå dåssju sáme årru, valla Toma ja Vigdisa mielas ij gávnnu buorep sadje gå Måsske.</p>
+<p>-Ulmutja dáhppe li nav vættsá, ja måj lin nav buoret duostodum. Vuostasj ideda gå dán munnuv årrudagán idjadijma, de idedis gávnajma guokta muorravuossa ålgusjbielen. Diedá, soames lij dájt muorajt munnuj vaddám, ja dási ålgusjbælláj suvddám. Dat de munnuv ávvudahtij, ja dajna aj dåbddin måj lin oalle oasse dát hávsskes sebrudagás, subtsastibá Tom ja Vigdis.</p>
+<p>Sunnuv mielas ij la låssåt Måsken årrot juska dal ij la oases gånnå l máhttelis juohkka biejve viehkat, jali ávijssa poasstabåksan idedis. -I dal dat majdik dagá. Måj en åhtsåla oassásav, jali ávijsav juohkka ideda. Dánna li má ietjá majt måj árvvon adnin. Buorep sadje ij gávnnu. Ja de bednaga aj nav buoragit soapptsu, javllaba Måske ådå årro gudi suohkanis årrudagáv lájggiba.</p>
+<p>Vigdis ja Tom aj gæhttjalibá bednaganálav Shetland Sheepdog biebmadit, ja sunnuv mielas aj bednaga nav buoret Måsken soapptsu.</p>
+<p>Suohkanoajvve Kurt Allan Nilsen la riek ávon gå <span type="quote">”suv”</span> suohkanij ulmutja jåhti. -Juohkka ådåviesát Divtasvuodnaj la riek mielos, ja mån lav ávon gå Tom ja Vigdis libá Måsskåj gávnadam. Juohkka viesádin <span type="quote">”muv”</span> suohkanin la árvvo, ja suohkana bieles hæhttup aj hiebadahttet nav vaj ulmutja e suohkanis <span type="quote">”báhtara”</span>. Binná l dal barggosajijs, ja mij politihkkára hæhttup aj dilev hiebadahttet nav vaj barggosaje ásaduvvi, ja vaj la årodahtte dánna, javllá suohkanoajvve.</p>
+<p>Divtasvuona suohkanin årrun sulle 2.100 viesáda snjilltjamánon dán jage, ja suohkanoajvve ij dal ájn diede gåktu viesátlåhko l åvddånahttám ådåjagij rájes. Måsskåj jåhtin nieljes vásse tjavtja, ja skåvllå aj oattjoj ådå oahppev. Huoman ij la Måske viesátlåhko lassánam.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Hávsske Måsken årrot"</span> på Facebook</p>
+</body></document>

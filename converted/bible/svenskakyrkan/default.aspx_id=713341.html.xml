@@ -1,43 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>378</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=713341</origFileName>
-    <parallel_text xml:lang="fin" location="default.aspx_id=642909.html"/>
-    <parallel_text xml:lang="sma" location="default.aspx_id=713329.html"/>
-    <parallel_text xml:lang="sme" location="default.aspx_id=713339.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Svieriga girkkon barggat la dåjmadit juoŋga åvdås masi jáhkká - Svenska kyrkan - Om oss</p>
-    <p type="title">Svieriga girkkon barggat la dåjmadit juoŋga åvdås masi jáhkká</p>
-    <p type="title">Svieriga girkkkon gávnnuji bálkkidum ja iesjmiedogis bargge. Girkkon aktan li bájken 25 000 bargge gejs ienemusá barggi muhtem tjoaggulvisán.</p>
-    <p><em type="italic">Virggejuohkusa Svieriga girkkon </em>Gávnnuji moattelágásj virggejuohkusa Svieriga girkkon. Härrá, girkkotjuojadiddje, viessogähttje, diakona ja tjoaggulvispedagoga li virggejuohkusa ma li dábálattja girkkon. Gávnnuji vil ietjá bargge, iehtjádij siegen ekonoma, diedediddje ja jurista. </p>
-    <p><em type="italic">Diakona </em>Diakonan barga tjoaggulvisán, girkkolasj institusjåvnån jali rijkajgasskasattjat. Barggo máhttá sisanedit gájkka idjavádtsemijs stádan, sadjihin nuorajda, gitta häjmmaguossidibme vuorrasij ja skibáj lunna, juogosdåjmas mánájda gejn li äjgáda boastoadnogássjelisvuodaj gitta juogosårudagájda demänssasáhtusulmutjida, jubttsatjiegas gitta åhpadussaj. </p>
-    <p>Åhpadusán diakonaj li moadda oase, aktan Svieriga girkko vuodokurssa, gålmå máno praktijkka dårjajn ja kurssabiejve aktan boahtte tjoaggulvispedagogaj, girkkotjuojadiddjij ja härráj. Dárbaha aj fáhkkaåhpadusáv gymnása maŋŋela, buojkulvissan sosionoma, sykologa jali skihpasujtár. Åhpadusá maŋemus oasse l avtajagák åhpadus, nåv gåhtjoduvvam karitatijvva profijllaåhpadus.</p>
-    <p><em type="italic">Tjoaggulvispedagoga </em>Tjoaggulvispedagogan dagá birrasijt majn ulmutja máhti åvddånit ja tjavggasit ristalasj jáhkon. Barga mánáj, nuoraj ja ållessjattugij ja vidno li skallolåhkkeåhpadiddjen doajmmat, ásadit råhkusijt, lajddit ållessjattukpedagogalasj bargov jali dåjmadit lájddijiddjesåhpadusáv dåjmalattjajda gudi barggi vuojtodagi. </p>
-    <p>Åhpadus tjoaggulvispedagogaj la nieljet oases, iehtjádij siegen Svieriga girkko vuodokurssa, gålmå máno praktijkka dårjajn ja kurssabiejve aktan boahtte diakonaj, girkkotjuojadiddjij ja härráj. Dárbaha aj juoŋgalálásj fáhkkaåhpadusáv gymnása maŋŋela, buojkulvissan muhtemlágásj åhpadiddjeåhpadusáv. Tjoaggulvispedagogaåhpadusá maŋemus oasse l avtajagák åhpadus massta Svieriga girkko åvdåsvásstádusáv adná.</p>
-    <p><em type="italic">Girkkotjuojadiddje </em>Barggo girkkotjuojadiddjen la målsudahkes ja dunji vaddá máhttelisvuodav dåjmadit tjuojadiddjen, avtabále gå måvtåstuhtá iehtjádijt åvddånit musijkan. Barga tjuojadiddjen, kåvrrålájddijiddjen ja pedagogan. Ásada konsertajt ja hábbmi musijkav ájnas bálijn iellemin degu gástadimen, fiesstimin ja hávddádusán. </p>
-    <p><em type="italic">Kantor </em>Kantorin sjatta gå váttsá guovtejagák åhpadusáv álmmukallaskåvlån, allaskåvlån jali musijkkaallaskåvlån. Dasi vil boahtá Svieriga girkko vuodokurssa ja praktijkka ja kurssabiejve aktan boahtte tjoaggulvispedagogaj, diakonaj ja härráj. Dåhkkiduvátjit kantorin de lågå bielgoalmát gitta gålmå jahkáj. </p>
-    <p><em type="italic">Organissta </em>Organisstan sjatta gå tjadáda dájdulasj kandidáhttaeksámav ulmijn girkkomusijkka (gålmåjagák åhpadus) muhtem Svieriga musijkkaallaskåvlån. Dan maŋŋela tjuovvo hiejtedahttem åhpadusjahke dievnastussaj Svieriga girkkon. </p>
-    <p><em type="italic">Härrá </em>Härrán viehkeda ulmutjijt Jubmelav vásedit sijá iellemijn, ulmutjijt åvdedit jáhkon. Duosto ulmutjijt umasslágásj ájgen ja vidjurin iellemin. Gástadime ja fiesstima li aktan skallolåhkkejuohkusij ja nuorajtjåhkanimij. Máhttá aj sisanedit sjávovälggogisvuodan ságastit persåvnålasj jáhkko- ja iellemgatjálvisaj birra. </p>
-    <p>Härráåhpadusán li moadda oase. Máhtá låhkåt 300 allskåvllåtjuoggá teologiddjan universitehtan jali allaskåvlån, oassálasstet praktijkkaj ja dan maŋŋela vádtset hiejtedahttemtermijnav Svieriga Girkko pastoralainstituhtan Uppsalan jali Lundan.</p>
-    <p>//</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>378</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.svenskakyrkan.se/default.aspx?id=713341</origFileName><parallel_text xml:lang="fin" location="default.aspx_id=642909.html"/><parallel_text xml:lang="sma" location="default.aspx_id=713329.html"/><parallel_text xml:lang="sme" location="default.aspx_id=713339.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Svieriga girkkon barggat la dåjmadit juoŋga åvdås masi jáhkká - Svenska kyrkan - Om oss</p>
+<p type="title">Svieriga girkkon barggat la dåjmadit juoŋga åvdås masi jáhkká</p>
+<p type="title">Svieriga girkkkon gávnnuji bálkkidum ja iesjmiedogis bargge. Girkkon aktan li bájken 25 000 bargge gejs ienemusá barggi muhtem tjoaggulvisán.</p>
+<p><em type="italic">Virggejuohkusa Svieriga girkkon </em>Gávnnuji moattelágásj virggejuohkusa Svieriga girkkon. Härrá, girkkotjuojadiddje, viessogähttje, diakona ja tjoaggulvispedagoga li virggejuohkusa ma li dábálattja girkkon. Gávnnuji vil ietjá bargge, iehtjádij siegen ekonoma, diedediddje ja jurista. </p>
+<p><em type="italic">Diakona </em>Diakonan barga tjoaggulvisán, girkkolasj institusjåvnån jali rijkajgasskasattjat. Barggo máhttá sisanedit gájkka idjavádtsemijs stádan, sadjihin nuorajda, gitta häjmmaguossidibme vuorrasij ja skibáj lunna, juogosdåjmas mánájda gejn li äjgáda boastoadnogássjelisvuodaj gitta juogosårudagájda demänssasáhtusulmutjida, jubttsatjiegas gitta åhpadussaj. </p>
+<p>Åhpadusán diakonaj li moadda oase, aktan Svieriga girkko vuodokurssa, gålmå máno praktijkka dårjajn ja kurssabiejve aktan boahtte tjoaggulvispedagogaj, girkkotjuojadiddjij ja härráj. Dárbaha aj fáhkkaåhpadusáv gymnása maŋŋela, buojkulvissan sosionoma, sykologa jali skihpasujtár. Åhpadusá maŋemus oasse l avtajagák åhpadus, nåv gåhtjoduvvam karitatijvva profijllaåhpadus.</p>
+<p><em type="italic">Tjoaggulvispedagoga </em>Tjoaggulvispedagogan dagá birrasijt majn ulmutja máhti åvddånit ja tjavggasit ristalasj jáhkon. Barga mánáj, nuoraj ja ållessjattugij ja vidno li skallolåhkkeåhpadiddjen doajmmat, ásadit råhkusijt, lajddit ållessjattukpedagogalasj bargov jali dåjmadit lájddijiddjesåhpadusáv dåjmalattjajda gudi barggi vuojtodagi. </p>
+<p>Åhpadus tjoaggulvispedagogaj la nieljet oases, iehtjádij siegen Svieriga girkko vuodokurssa, gålmå máno praktijkka dårjajn ja kurssabiejve aktan boahtte diakonaj, girkkotjuojadiddjij ja härráj. Dárbaha aj juoŋgalálásj fáhkkaåhpadusáv gymnása maŋŋela, buojkulvissan muhtemlágásj åhpadiddjeåhpadusáv. Tjoaggulvispedagogaåhpadusá maŋemus oasse l avtajagák åhpadus massta Svieriga girkko åvdåsvásstádusáv adná.</p>
+<p><em type="italic">Girkkotjuojadiddje </em>Barggo girkkotjuojadiddjen la målsudahkes ja dunji vaddá máhttelisvuodav dåjmadit tjuojadiddjen, avtabále gå måvtåstuhtá iehtjádijt åvddånit musijkan. Barga tjuojadiddjen, kåvrrålájddijiddjen ja pedagogan. Ásada konsertajt ja hábbmi musijkav ájnas bálijn iellemin degu gástadimen, fiesstimin ja hávddádusán. </p>
+<p><em type="italic">Kantor </em>Kantorin sjatta gå váttsá guovtejagák åhpadusáv álmmukallaskåvlån, allaskåvlån jali musijkkaallaskåvlån. Dasi vil boahtá Svieriga girkko vuodokurssa ja praktijkka ja kurssabiejve aktan boahtte tjoaggulvispedagogaj, diakonaj ja härráj. Dåhkkiduvátjit kantorin de lågå bielgoalmát gitta gålmå jahkáj. </p>
+<p><em type="italic">Organissta </em>Organisstan sjatta gå tjadáda dájdulasj kandidáhttaeksámav ulmijn girkkomusijkka (gålmåjagák åhpadus) muhtem Svieriga musijkkaallaskåvlån. Dan maŋŋela tjuovvo hiejtedahttem åhpadusjahke dievnastussaj Svieriga girkkon. </p>
+<p><em type="italic">Härrá </em>Härrán viehkeda ulmutjijt Jubmelav vásedit sijá iellemijn, ulmutjijt åvdedit jáhkon. Duosto ulmutjijt umasslágásj ájgen ja vidjurin iellemin. Gástadime ja fiesstima li aktan skallolåhkkejuohkusij ja nuorajtjåhkanimij. Máhttá aj sisanedit sjávovälggogisvuodan ságastit persåvnålasj jáhkko- ja iellemgatjálvisaj birra. </p>
+<p>Härráåhpadusán li moadda oase. Máhtá låhkåt 300 allskåvllåtjuoggá teologiddjan universitehtan jali allaskåvlån, oassálasstet praktijkkaj ja dan maŋŋela vádtset hiejtedahttemtermijnav Svieriga Girkko pastoralainstituhtan Uppsalan jali Lundan.</p>
+<p>//</p>
+</body></document>

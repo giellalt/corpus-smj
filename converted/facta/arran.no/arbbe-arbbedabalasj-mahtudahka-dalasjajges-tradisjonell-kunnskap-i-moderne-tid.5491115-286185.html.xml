@@ -1,47 +1,20 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>381</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/arbbe-arbbedabalasj-mahtudahka-dalasjajges-tradisjonell-kunnskap-i-moderne-tid.5491115-286185.html</origFileName>
-    <parallel_text xml:lang="nob" location="arbbe-arbbedabalasj-mahtudahka-dalasjajges-tradisjonell-kunnskap-i-moderne-tid.5491115-286185.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Árbbe – árbbedábálasj máhtudahka dálásjájges / tradisjonell kunnskap i moderne tid. - Árran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title">Vuosádusrahpam / Utstillingsåpning -  Árranin/Árran 23.05.14 Kl. 12.00.</p>
-    <p type="title">Árbbe – árbbedábálasj máhtudahka dálásjájges / tradisjonell kunnskap i moderne tid.</p>
-    <p xml:lang="nob">Vihtta nuorra sáme duodjára vuosedi muorra- ja tjoarvveduojev. / Fem unge samiske duodjiutøvere viser tre- og hornduodji/kunsthåndverks produkter.</p>
-    <p type="title">Buorisboahtem - Velkommen</p>
-    <p xml:lang="nno">Buorisboahtem Árranij ja <em type="italic">Árbbe- árbbedábálasj máhtudahka dálásjájges </em>vuosádusá rahpamij Kl 12.00 Rahpam ja åvddånbuktem.  / Velkommen til åpninga av utstillingen  Árbi - tradisjonell kunnskap i moderne tid  . Kl 12.00 Åpning av utstilling og presentasjon  . </p>
-    <p>Kl 13.00 Lågådallam Árbbe-vuosádusá ja duoje birra. Lågådalle li Nils-Johan Labba, Per-Stefan Idivuoma och Mattias Harr  ./</p>
-    <p xml:lang="nob">Kl 13.00 Foreläsning om Árbi-utstillingen og om duodje av Nils-Johan Labba, Per-Stefan Idivuoma och Mattias Harr.</p>
-    <p xml:lang="sme">
-      <em type="italic">Árrbe / Árbi - utstillingsplakat </em>
-    </p>
-    <p type="title">Árbbe – árbbedábálasj máhtudahka dálásjájges.</p>
-    <p>Vihtta nuorra sáme duodjára vuosedi muorra- ja tjoarvveduojev. Jåhttevuosádus le gåhtjoduvvam ÁRBBE ja dat la vuojn sijá árbbe. Duoje baktu vuosedi sij gåsi gulluji ja man ájnas árbbedábálasj máhtukvuohta ja kultuvra árbbe le, man vuodon de sij máhtti åvddånahttet ja åvddånbuktet duojev dálásjájgen. Ábnnasij, hámij ja dåjma dádjadusása li oahppam máttojsis majt vas dá vidás joarkki maŋŋebuolvajda oahppat. Vuosádusán åvddånbuktá juohkkahasj ietjás gålmmå sierralágásj duojev, ma de aktan vuosedi ietjaska vijdes duodje máhtukvuodav ja berustimestisá. Duojes åvddånbåhti ietjasa fuolkij árbbedábálasj máhtukvuohta ja duodjuhimhábme.</p>
-    <p>Dá vihtta duodjára li Fredrik Prost, Nils-Petter Svonni, Nils-Johan Labba, Mattias Harr ja Per-Stefan Idivuoma.</p>
-    <p>Lågå ienebuv:  http://www.árbi.se</p>
-    <p xml:lang="nno">
-      <em type="italic">Árrbe / Árbi - usnitt fra hjemmesiden - http://www.árbi.se </em>
-    </p>
-    <p type="title" xml:lang="nob">Árbbe (Árbi) - tradisjonell kunnskap i moderne tid</p>
-    <p xml:lang="nob">Fem unge samiske duodjiutøvere viser tre- og hornduodji/kunsthåndverks produkter. Vandreutstillingen har de kalt for ÁRBI - som betyr arv, og dette er deres arv. Gjennom sine duodjiprodukter viser de deres identitet og viktigheten av tradisjonskunnskap og kulturarv som danner grunnlaget for den utviklingen og formidlingen i nåtid. De fem duojárat har lært om materialer, form og funksjoner av sine forfedre, og disse kunnskapene vil de videreføre til sine etterkommere. Hver av deltakerne stiller ut tre unike produkter i utstillingen, og produktene tilsammen viser bredden i deres arbeider, interessen for duodji og hvordan de ulike inspirasjonkilder og tradisjoner har påvirket deres skaperverk.</p>
-    <p xml:lang="nob">De fem duodjiutøverne er Fredrik Prost, Nils-Petter Svonni, Nils-Johan Labba, Mattias Harr og Per-Stefan Idivuoma  .</p>
-    <p xml:lang="nno">Läs mer:  http://www.árbi.se</p>
-    <p xml:lang="nob">Se bilder fra utstillingsåpningen på <em type="italic">vår Facebookside. </em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>381</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/arbbe-arbbedabalasj-mahtudahka-dalasjajges-tradisjonell-kunnskap-i-moderne-tid.5491115-286185.html</origFileName><parallel_text xml:lang="nob" location="arbbe-arbbedabalasj-mahtudahka-dalasjajges-tradisjonell-kunnskap-i-moderne-tid.5491115-286185.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Árbbe – árbbedábálasj máhtudahka dálásjájges / tradisjonell kunnskap i moderne tid. - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title">Vuosádusrahpam / Utstillingsåpning -  Árranin/Árran 23.05.14 Kl. 12.00.</p>
+<p type="title">Árbbe – árbbedábálasj máhtudahka dálásjájges / tradisjonell kunnskap i moderne tid.</p>
+<p xml:lang="nob">Vihtta nuorra sáme duodjára vuosedi muorra- ja tjoarvveduojev. / Fem unge samiske duodjiutøvere viser tre- og hornduodji/kunsthåndverks produkter.</p>
+<p type="title">Buorisboahtem - Velkommen</p>
+<p>Buorisboahtem Árranij ja <em type="italic">Árbbe- árbbedábálasj máhtudahka dálásjájges </em>vuosádusá rahpamij Kl 12.00 Rahpam ja åvddånbuktem.  / Velkommen til åpninga av utstillingen  Árbi - tradisjonell kunnskap i moderne tid  . Kl 12.00 Åpning av utstilling og presentasjon  . </p>
+<p>Kl 13.00 Lågådallam Árbbe-vuosádusá ja duoje birra. Lågådalle li Nils-Johan Labba, Per-Stefan Idivuoma och Mattias Harr  ./</p>
+<p xml:lang="nob">Kl 13.00 Foreläsning om Árbi-utstillingen og om duodje av Nils-Johan Labba, Per-Stefan Idivuoma och Mattias Harr.</p>
+<p xml:lang="sme"><em type="italic">Árrbe / Árbi - utstillingsplakat </em></p>
+<p type="title">Árbbe – árbbedábálasj máhtudahka dálásjájges.</p>
+<p>Vihtta nuorra sáme duodjára vuosedi muorra- ja tjoarvveduojev. Jåhttevuosádus le gåhtjoduvvam ÁRBBE ja dat la vuojn sijá árbbe. Duoje baktu vuosedi sij gåsi gulluji ja man ájnas árbbedábálasj máhtukvuohta ja kultuvra árbbe le, man vuodon de sij máhtti åvddånahttet ja åvddånbuktet duojev dálásjájgen. Ábnnasij, hámij ja dåjma dádjadusása li oahppam máttojsis majt vas dá vidás joarkki maŋŋebuolvajda oahppat. Vuosádusán åvddånbuktá juohkkahasj ietjás gålmmå sierralágásj duojev, ma de aktan vuosedi ietjaska vijdes duodje máhtukvuodav ja berustimestisá. Duojes åvddånbåhti ietjasa fuolkij árbbedábálasj máhtukvuohta ja duodjuhimhábme.</p>
+<p>Dá vihtta duodjára li Fredrik Prost, Nils-Petter Svonni, Nils-Johan Labba, Mattias Harr ja Per-Stefan Idivuoma.</p>
+<p>Lågå ienebuv:  http://www.árbi.se</p>
+<p xml:lang="nno"><em type="italic">Árrbe / Árbi - usnitt fra hjemmesiden - http://www.árbi.se </em></p>
+<p type="title" xml:lang="nob">Árbbe (Árbi) - tradisjonell kunnskap i moderne tid</p>
+<p xml:lang="nob">Fem unge samiske duodjiutøvere viser tre- og hornduodji/kunsthåndverks produkter. Vandreutstillingen har de kalt for ÁRBI - som betyr arv, og dette er deres arv. Gjennom sine duodjiprodukter viser de deres identitet og viktigheten av tradisjonskunnskap og kulturarv som danner grunnlaget for den utviklingen og formidlingen i nåtid. De fem duojárat har lært om materialer, form og funksjoner av sine forfedre, og disse kunnskapene vil de videreføre til sine etterkommere. Hver av deltakerne stiller ut tre unike produkter i utstillingen, og produktene tilsammen viser bredden i deres arbeider, interessen for duodji og hvordan de ulike inspirasjonkilder og tradisjoner har påvirket deres skaperverk.</p>
+<p xml:lang="nob">De fem duodjiutøverne er Fredrik Prost, Nils-Petter Svonni, Nils-Johan Labba, Mattias Harr og Per-Stefan Idivuoma  .</p>
+<p xml:lang="nno">Läs mer:  http://www.árbi.se</p>
+<p xml:lang="nob">Se bilder fra utstillingsåpningen på <em type="italic">vår Facebookside. </em> </p>
+</body></document>

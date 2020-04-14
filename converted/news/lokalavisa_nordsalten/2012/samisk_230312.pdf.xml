@@ -1,49 +1,13 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Juojggá Divtasvuonav</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty " lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Jørgen" lastname="Kintel" sex="m" born="1991" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>307</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2012/samisk_230312.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk annonse</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty Skapalen Jårggålibme:Divte</p>
-    <p>Media AS/Jørgen Kintel</p>
-    <p xml:lang="nob">.</p>
-    <p>Bæssásjiehkeda oassálasstá Árrana direktørra Lars Magne Andreassen Sámi Grand Prixa finálan. Juojgga majt galggá åvddånbuktet la hievedus vuodnaálmmugij</p>
-    <p>Tjuojalvis la oasse stuoráp musihkalasj prosjevtas <span type="quote">“Vuonaga”</span> majna aktan barggi Johannes Formanowski Gásluovtas, Anders Skoglund Kristiansen Hábmeris ja Anders Øgsnes.</p>
-    <p>Julevsáme guovdásj        Lulesamisk sentervuostasjvuosádus Lokstall1’ån.</p>
-    <p><em type="bold">Sihtá Troilltampav</em> <em type="bold">jåhtuj oadtjot</em> </p>
-    <p><em type="bold">Vuostasjvuosádus</em> <em type="bold">Lokstall1’an.</em> </p>
-    <p>-Prosjækta la vuosádus mij la subtsas vuodnaálmmuga birra – sámij ja láttij manno árbbedábálasjiellemis udnásj råhtos iellemin. Ja juojddá ietján duodden. Gájkka le iesjbuvtadum, lahkke sámegiellaj (Lars Andreassen) ja dárogiella tevsta (Johannes Formanowski) ja instrumenta tjuojalvisá mujsta, subtsas Anders Øgsnes. Ja boahtte dálvveávvudallamvahko Áhkkánjárgan sjaddá</p>
-    <p>Valla juo dálla lij báhtja gárvedime ja buvtadime majt galggi åvddånbuktet, Anders Øgsnesa studion. - Vuostasj tjuojalvis mij le gárves buvtadum le <span type="quote">“Vuodna”</span>, gånnå Lars M. Andreassen juojggá Divtasvuonav, javllá Øgsnes. Tjuojalvis bådij finállaj, ja le dálla akta guhtta finálistajs Sami Grand Prixan. - Mån lav iesj buvtadam ja tjuojalvisáv spellam vehi bájkálasj viehkijn Jan Erik Stenas (sax) ja Tim Skau (Bass), goappátja Áhkánjárgas, javllá Øgsnes. Vuostasjvuosádus Dálvveávvudallamvahkon sjaddá liehket sihke gåvvåvuosádus, tevsta ja musihkka. - Sávvap Frank A. Jensenav oadtjop tevstajt åvddånbuvtátjit. Iesj lav mån arvusmahtedum suv girjijs, sierraláhkáj girjes Lengselens år, javllá Øgsnes.</p>
-    <p>La Árrana direktørra gut galggá Nuortta-Sáltov ja Nordlándav Sami Grand Prix gilppusin åvdedit, mij ásaduvvá bæssásjiehkeda Guovdagæjnon. - Sidáv ålles guovllo luluj musikálalattjat luluj åvddånit ja niegadav Troilltampenav juolgij nali oadtjot vas, buorak luluj jus lij sáme profijlla ájn de vil, muhtem lágásj musihkkafestiválla, subtsas Andreassen. Suv mielas ij la gássjelisvuohta liehket sihke sáme institusjåvnå direktørra ja sæmmi bále musihkajn barggat. -Munji la ållu dábálasj. Musihkka la oasse mujsta majna iv máhte hiejttet juska lav oadtjom ådå virgev, javllá sån. Dálla hasoduvvi gájkka jienastit tjuojalvisáv Nuortta-Sáltos Sami Grand Prixan, mij ásaduvvá bæssásjiehkeda. - Sij gudi tjuojalvisáv lijkkuji bierriji jienastit, javllá sån guhti aj ájádallá skierrov dahkat dá jage.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Juojggá Divtasvuonav</title><genre code="news"/><author><person firstname="Kitty " lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><person firstname="Jørgen" lastname="Kintel" sex="m" born="1991" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2012</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>307</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/2012/samisk_230312.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk annonse</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty Skapalen Jårggålibme:Divte</p>
+<p>Media AS/Jørgen Kintel</p>
+<p xml:lang="nob">.</p>
+<p>Bæssásjiehkeda oassálasstá Árrana direktørra Lars Magne Andreassen Sámi Grand Prixa finálan. Juojgga majt galggá åvddånbuktet la hievedus vuodnaálmmugij</p>
+<p>Tjuojalvis la oasse stuoráp musihkalasj prosjevtas <span type="quote">“Vuonaga”</span> majna aktan barggi Johannes Formanowski Gásluovtas, Anders Skoglund Kristiansen Hábmeris ja Anders Øgsnes.</p>
+<p>Julevsáme guovdásj        Lulesamisk sentervuostasjvuosádus Lokstall1’ån.</p>
+<p><em type="bold">Sihtá Troilltampav</em> <em type="bold">jåhtuj oadtjot</em> </p>
+<p><em type="bold">Vuostasjvuosádus</em> <em type="bold">Lokstall1’an.</em> </p>
+<p>-Prosjækta la vuosádus mij la subtsas vuodnaálmmuga birra – sámij ja láttij manno árbbedábálasjiellemis udnásj råhtos iellemin. Ja juojddá ietján duodden. Gájkka le iesjbuvtadum, lahkke sámegiellaj (Lars Andreassen) ja dárogiella tevsta (Johannes Formanowski) ja instrumenta tjuojalvisá mujsta, subtsas Anders Øgsnes. Ja boahtte dálvveávvudallamvahko Áhkkánjárgan sjaddá</p>
+<p>Valla juo dálla lij báhtja gárvedime ja buvtadime majt galggi åvddånbuktet, Anders Øgsnesa studion. - Vuostasj tjuojalvis mij le gárves buvtadum le <span type="quote">“Vuodna”</span>, gånnå Lars M. Andreassen juojggá Divtasvuonav, javllá Øgsnes. Tjuojalvis bådij finállaj, ja le dálla akta guhtta finálistajs Sami Grand Prixan. - Mån lav iesj buvtadam ja tjuojalvisáv spellam vehi bájkálasj viehkijn Jan Erik Stenas (sax) ja Tim Skau (Bass), goappátja Áhkánjárgas, javllá Øgsnes. Vuostasjvuosádus Dálvveávvudallamvahkon sjaddá liehket sihke gåvvåvuosádus, tevsta ja musihkka. - Sávvap Frank A. Jensenav oadtjop tevstajt åvddånbuvtátjit. Iesj lav mån arvusmahtedum suv girjijs, sierraláhkáj girjes Lengselens år, javllá Øgsnes.</p>
+<p>La Árrana direktørra gut galggá Nuortta-Sáltov ja Nordlándav Sami Grand Prix gilppusin åvdedit, mij ásaduvvá bæssásjiehkeda Guovdagæjnon. - Sidáv ålles guovllo luluj musikálalattjat luluj åvddånit ja niegadav Troilltampenav juolgij nali oadtjot vas, buorak luluj jus lij sáme profijlla ájn de vil, muhtem lágásj musihkkafestiválla, subtsas Andreassen. Suv mielas ij la gássjelisvuohta liehket sihke sáme institusjåvnå direktørra ja sæmmi bále musihkajn barggat. -Munji la ållu dábálasj. Musihkka la oasse mujsta majna iv máhte hiejttet juska lav oadtjom ådå virgev, javllá sån. Dálla hasoduvvi gájkka jienastit tjuojalvisáv Nuortta-Sáltos Sami Grand Prixan, mij ásaduvvá bæssásjiehkeda. - Sij gudi tjuojalvisáv lijkkuji bierriji jienastit, javllá sån guhti aj ájádallá skierrov dahkat dá jage.</p>
+</body></document>

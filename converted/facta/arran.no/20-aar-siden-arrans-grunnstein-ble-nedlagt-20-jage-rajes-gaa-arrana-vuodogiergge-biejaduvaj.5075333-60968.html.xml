@@ -1,68 +1,33 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>738</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/20-aar-siden-arrans-grunnstein-ble-nedlagt-20-jage-rajes-gaa-arrana-vuodogiergge-biejaduvaj.5075333-60968.html</origFileName>
-    <parallel_text xml:lang="nob" location="20-aar-siden-arrans-grunnstein-ble-nedlagt-20-jage-rajes-gaa-arrana-vuodogiergge-biejaduvaj.5075333-60968.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>20 år siden Árrans grunnstein ble nedlagt / 20 jage rájes gå Árrana vuodogiergge biejaduváj - Árran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title">20 år siden Árrans grunnstein ble nedlagt  /  20 jage rájes gå Árrana vuodogiergge biejaduváj</p>
-    <p xml:lang="nob">I dag 17. august 2012 er det 20 år siden HM Dronning Sonja la ned Árrans grunnstein. Prinsesse Märtha Louise deltok også.</p>
-    <p>Uddni, bårggemáno 17.biejve 2012, le 20 jage rájes gå GM Drådnik Sonja Árrana vuodogiergev biejaj. Prinsæssa Märtha Louise aj oassálastij.</p>
-    <p xml:lang="nob">
-      <em type="italic">Dronning Sonja gjør seg klar til grunnsteinnedleggelse, assistert av Anders Nystø.Foto: Kjell Arne Bredesen </em>
-    </p>
-    <p xml:lang="nob">Prinsesse Märtha Louise deltok også. Vi markerer grunnsteinsnedleggelsen ved flaggheising om morgenen og en sammenkomst med kaffe for ansatte og øvrige interesserte kl. 12.</p>
-    <p xml:lang="nob">Senteret ble formelt åpnet av HM Kong Harald 30. juli 1994. Den formelle 20 årsdagen for Árran vil således bli feiret i 2014.</p>
-    <p xml:lang="nob">Ordfører Tor Asgeir Johansen har på vegne av Tysfjord kommune overrakt blomsterhilsen med ordene: <span type="quote" xml:lang="nob">”Gratulerer med 20 årsdagen for nedleggelse av grunnsteinen på Árran”</span>.</p>
-    <p xml:lang="nob">Árran lulesamisk senter er en stiftelse som har som formål å eie og drive Árran som en nasjonal samisk institusjon for derigjennom å sikre, utvikle og videreføre samisk kultur, språk og samfunnsliv lulesamisk område. I tillegg har Árran fom. 2008 også  ansvaret for museumsvirksomheten i pitesamisk område.</p>
-    <p xml:lang="nob">Árran er i dag en stor arbeidsplass med virksomheter som samiskspråklig barnehagedrift, språksenter med voksenopplæring, museum, forlagsdrift, duodje, forskning m.m. Leietakere er Sametinget, NRK Sámi Radio, Universitetet i Tromsø og Universitetet i Nordland. Árran har inkludert leietakerne, ca. 40 årsverk tilknyttet institusjonen.</p>
-    <p xml:lang="nob">Árran har og skal fortsatt dokumentere og forske på samisk historie og kultur i området, drive opplæring i lulesamisk språk, drive barnehage, utgi lulesamiske bøker, styrke duodje som næring kulturuttrykk, bidra til økt turisme i området osv. Árran skal mao være et faktisk og et symbolsk ildsted som bidrar til å holde lule-og pitesamisk kultur, språk og identitet levende. Etter snart 20 år har vi på mange måter nettopp begynt dette arbeidet. Hva Árran skal arbeide med er heller ikke bestemt en gang for alle selv om vi har listet opp en rekke ting vi mener bør prioriteres. Hva vil dere at Árran skal være i årene som kommer? Árran er i ferd med å utarbeide nye planer, og oppgradere gamle. Det er derfor svært viktig for oss at dere kommer med forslag.</p>
-    <p xml:lang="nno">Lars Magne Andreassen</p>
-    <p xml:lang="nob">direktør</p>
-    <p xml:lang="koi">//</p>
-    <p>Mujttádahttep dáhpádussáv ja kl. 12 æjvvalip káffabåddåj, barge ja ietjá ulmutja ma båhti.</p>
-    <p>GM Gånågis Harald guovdátjav formálalattjat rabáj biehtsemánon 30.biejve 1994. Almma gåktalågåt biejvve ávvudallap esski jagen 2014.</p>
-    <p>Suohkanoajvve Tor Asgeir Johansen le Divtasvuona suohkana åvddås rádjam giedjegijt varrudagáj dáj bágoj:</p>
-    <p xml:lang="koi"><span type="quote">“Vuorbbe gåktalågåtbiejvijn gå Árrana vuodogiergev biejaduváj”</span>.</p>
-    <p>Árran –julevsáme guovdásj le vuododus man ulmme le æjggut ja dåjmadit Árranav nasjonála sáme institusjåvnnån ja dan baktu julevsáme kultuvrav, gielav ja sebrudakiellemav nannit ja åvddånahttet. Jage 2008 rájes, le aj Árranin åvdåsvásstádus musea Bihtámsáme guovlon.</p>
-    <p>Uddni le Árran stuorra barggosadje man doajmmasuorge li mánájgárdde, giellaguovdásj, musea, girjjealmmudahka, duodje, dutkám, j.n. Lájggijidje li Sámedigge, NRK Sámi Radio, Tråmsså universitehtta ja Norlándda universitehtta. Árran aktan lájggijidjijin le tjoahkkáj 40 jahkevirgge institusjåvnnåj.</p>
-    <p>Árranin le, ja joarkká duodastahttet ja guoradallat sáme histåvråv ja kultuvrav, åhpadit julevsáme gielav, mánájgardev doajmadit, almodit julevsáme girjijt, nannit duojev æládussán, åvdedit mannoæládusáv j.n.v. Ietjá bágoj javladum, Árran –julevsáme guovdásj galggá liehket almma ja symbåvlålasj dållåsadje mij åvdet ja nanni ielle julev – ja bihtámsáme kultuvrav, gielav ja identitehtav.</p>
-    <p>Moatte láhkáj lip dagu esski álggám dáv bargov. Majna Árran galggá barggat ij la ihkeven ájggáj mierredum, juska miján le dievva bargo majt miejnnip galggi vuoroduvvat. Gåktu sihtabihtit didja Árran galggá liehet? Árran le ådå plánaj bargamin, ja ådåstuhttemin oames. Midjij le de ájnas oajvvadusájt dijájs oadtjot.</p>
-    <p xml:lang="nno">Lars Magne Andreassen</p>
-    <p>direktørra</p>
-    <p xml:lang="nob">
-      <em type="italic">Dronning Sonja satte ned grunnsteinen i 1992. Foto: Sverre Nordås </em>
-    </p>
-    <p type="title" xml:lang="nob">Grunnsteinnedleggelse av lulesamisk senter</p>
-    <p xml:lang="nob">Årbok for Tysfjord 1992 skrev følgende om begivenheten:</p>
-    <p xml:lang="nob">
-      <em type="italic">"Dronning Sonja og prinsesse Märtha Louise var på Drag i anledning denne historiske begivenhet: grunnsteinnedleggelse til det første lulesamiske kultursenter i Norge. </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="italic">Dronningen la ned grunnsteinen. Denne besto av en nappe (melkebolle), et skrin av bein med en minnemedalje av kong Harald; samt tegninger av kultursenteret. </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="italic">I sin tale sa Dronningen at alle mennesker hadde behov for å vite hvem de var og for å skape sin egen identitet. Når man utgjør en liten del av en større enhet melder dette behovet seg i sterkere grad. </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="italic">Kultursenteret Árran vil hjelpe til med å dekke dette behovet for mange, og synliggjøre kultur og samfunnsliv." </em>
-    </p>
-    <p xml:lang="nob">Dette skriver NRK Sápmi</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>738</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/20-aar-siden-arrans-grunnstein-ble-nedlagt-20-jage-rajes-gaa-arrana-vuodogiergge-biejaduvaj.5075333-60968.html</origFileName><parallel_text xml:lang="nob" location="20-aar-siden-arrans-grunnstein-ble-nedlagt-20-jage-rajes-gaa-arrana-vuodogiergge-biejaduvaj.5075333-60968.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>20 år siden Árrans grunnstein ble nedlagt / 20 jage rájes gå Árrana vuodogiergge biejaduváj - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title">20 år siden Árrans grunnstein ble nedlagt  /  20 jage rájes gå Árrana vuodogiergge biejaduváj</p>
+<p xml:lang="nob">I dag 17. august 2012 er det 20 år siden HM Dronning Sonja la ned Árrans grunnstein. Prinsesse Märtha Louise deltok også.</p>
+<p>Uddni, bårggemáno 17.biejve 2012, le 20 jage rájes gå GM Drådnik Sonja Árrana vuodogiergev biejaj. Prinsæssa Märtha Louise aj oassálastij.</p>
+<p xml:lang="nob"><em type="italic">Dronning Sonja gjør seg klar til grunnsteinnedleggelse, assistert av Anders Nystø.Foto: Kjell Arne Bredesen </em></p>
+<p xml:lang="nob">Prinsesse Märtha Louise deltok også. Vi markerer grunnsteinsnedleggelsen ved flaggheising om morgenen og en sammenkomst med kaffe for ansatte og øvrige interesserte kl. 12.</p>
+<p xml:lang="nob">Senteret ble formelt åpnet av HM Kong Harald 30. juli 1994. Den formelle 20 årsdagen for Árran vil således bli feiret i 2014.</p>
+<p xml:lang="nob">Ordfører Tor Asgeir Johansen har på vegne av Tysfjord kommune overrakt blomsterhilsen med ordene: <span type="quote" xml:lang="nob">”Gratulerer med 20 årsdagen for nedleggelse av grunnsteinen på Árran”</span>.</p>
+<p xml:lang="nob">Árran lulesamisk senter er en stiftelse som har som formål å eie og drive Árran som en nasjonal samisk institusjon for derigjennom å sikre, utvikle og videreføre samisk kultur, språk og samfunnsliv lulesamisk område. I tillegg har Árran fom. 2008 også  ansvaret for museumsvirksomheten i pitesamisk område.</p>
+<p xml:lang="nob">Árran er i dag en stor arbeidsplass med virksomheter som samiskspråklig barnehagedrift, språksenter med voksenopplæring, museum, forlagsdrift, duodje, forskning m.m. Leietakere er Sametinget, NRK Sámi Radio, Universitetet i Tromsø og Universitetet i Nordland. Árran har inkludert leietakerne, ca. 40 årsverk tilknyttet institusjonen.</p>
+<p xml:lang="nob">Árran har og skal fortsatt dokumentere og forske på samisk historie og kultur i området, drive opplæring i lulesamisk språk, drive barnehage, utgi lulesamiske bøker, styrke duodje som næring kulturuttrykk, bidra til økt turisme i området osv. Árran skal mao være et faktisk og et symbolsk ildsted som bidrar til å holde lule-og pitesamisk kultur, språk og identitet levende. Etter snart 20 år har vi på mange måter nettopp begynt dette arbeidet. Hva Árran skal arbeide med er heller ikke bestemt en gang for alle selv om vi har listet opp en rekke ting vi mener bør prioriteres. Hva vil dere at Árran skal være i årene som kommer? Árran er i ferd med å utarbeide nye planer, og oppgradere gamle. Det er derfor svært viktig for oss at dere kommer med forslag.</p>
+<p xml:lang="nno">Lars Magne Andreassen</p>
+<p xml:lang="nob">direktør</p>
+<p xml:lang="vep">//</p>
+<p>Mujttádahttep dáhpádussáv ja kl. 12 æjvvalip káffabåddåj, barge ja ietjá ulmutja ma båhti.</p>
+<p>GM Gånågis Harald guovdátjav formálalattjat rabáj biehtsemánon 30.biejve 1994. Almma gåktalågåt biejvve ávvudallap esski jagen 2014.</p>
+<p>Suohkanoajvve Tor Asgeir Johansen le Divtasvuona suohkana åvddås rádjam giedjegijt varrudagáj dáj bágoj:</p>
+<p xml:lang="vep"><span type="quote">“Vuorbbe gåktalågåtbiejvijn gå Árrana vuodogiergev biejaduváj”</span>.</p>
+<p>Árran –julevsáme guovdásj le vuododus man ulmme le æjggut ja dåjmadit Árranav nasjonála sáme institusjåvnnån ja dan baktu julevsáme kultuvrav, gielav ja sebrudakiellemav nannit ja åvddånahttet. Jage 2008 rájes, le aj Árranin åvdåsvásstádus musea Bihtámsáme guovlon.</p>
+<p>Uddni le Árran stuorra barggosadje man doajmmasuorge li mánájgárdde, giellaguovdásj, musea, girjjealmmudahka, duodje, dutkám, j.n. Lájggijidje li Sámedigge, NRK Sámi Radio, Tråmsså universitehtta ja Norlándda universitehtta. Árran aktan lájggijidjijin le tjoahkkáj 40 jahkevirgge institusjåvnnåj.</p>
+<p>Árranin le, ja joarkká duodastahttet ja guoradallat sáme histåvråv ja kultuvrav, åhpadit julevsáme gielav, mánájgardev doajmadit, almodit julevsáme girjijt, nannit duojev æládussán, åvdedit mannoæládusáv j.n.v. Ietjá bágoj javladum, Árran –julevsáme guovdásj galggá liehket almma ja symbåvlålasj dållåsadje mij åvdet ja nanni ielle julev – ja bihtámsáme kultuvrav, gielav ja identitehtav.</p>
+<p>Moatte láhkáj lip dagu esski álggám dáv bargov. Majna Árran galggá barggat ij la ihkeven ájggáj mierredum, juska miján le dievva bargo majt miejnnip galggi vuoroduvvat. Gåktu sihtabihtit didja Árran galggá liehet? Árran le ådå plánaj bargamin, ja ådåstuhttemin oames. Midjij le de ájnas oajvvadusájt dijájs oadtjot.</p>
+<p xml:lang="nno">Lars Magne Andreassen</p>
+<p>direktørra</p>
+<p xml:lang="nob"><em type="italic">Dronning Sonja satte ned grunnsteinen i 1992. Foto: Sverre Nordås </em></p>
+<p type="title" xml:lang="nob">Grunnsteinnedleggelse av lulesamisk senter</p>
+<p xml:lang="nob">Årbok for Tysfjord 1992 skrev følgende om begivenheten:</p>
+<p xml:lang="nob"><em type="italic">"Dronning Sonja og prinsesse Märtha Louise var på Drag i anledning denne historiske begivenhet: grunnsteinnedleggelse til det første lulesamiske kultursenter i Norge. </em></p>
+<p xml:lang="nob"><em type="italic">Dronningen la ned grunnsteinen. Denne besto av en nappe (melkebolle), et skrin av bein med en minnemedalje av kong Harald; samt tegninger av kultursenteret. </em></p>
+<p xml:lang="nob"><em type="italic">I sin tale sa Dronningen at alle mennesker hadde behov for å vite hvem de var og for å skape sin egen identitet. Når man utgjør en liten del av en større enhet melder dette behovet seg i sterkere grad. </em></p>
+<p xml:lang="nob"><em type="italic">Kultursenteret Árran vil hjelpe til med å dekke dette behovet for mange, og synliggjøre kultur og samfunnsliv." </em></p>
+<p xml:lang="nob">Dette skriver NRK Sápmi</p>
+</body></document>

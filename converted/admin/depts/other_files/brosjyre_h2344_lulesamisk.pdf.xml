@@ -1,226 +1,171 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1009</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>https://www.regjeringen.no/contentassets/caefd134cb2a4891a885b5a8cb79724f/brosjyre_h2344_lulesamisk.pdf</origFileName>
-    <parallel_text xml:lang="eng" location="brosjyre_h2344_engelsk.pdf"/>
-    <parallel_text xml:lang="nno" location="brosjyre_h2344_nynorsk.pdf"/>
-    <parallel_text xml:lang="nob" location="brosjyre_h2344_bokmal.pdf"/>
-    <parallel_text xml:lang="sma" location="brosjyre_h2344_sorsamisk.pdf"/>
-    <parallel_text xml:lang="sme" location="brosjyre_h2344_nordsamisk.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Julevsábmáj | Lulesamisk</p>
-    <p><em type="bold">Suohkanstivrra- ja fylkadiggeválgga 2015</em> </p>
-    <p>Válgan válljip ájrrasijt suohkanstivrraj ja fylkadiggáj.</p>
-    <p><em type="bold">Suohkanstivrra</em> le suohkana alemus orgádna. Danna mierreduvvá bájkálasj ássjij hárráj degu mánájgárdde, mánájsuodjalibme, pládna- ja areállagatjálvisá, vuodoskåvllå, varresvuoda- ja huksodievnastusá, kulturdåjma ja renovasjåvnnå. </p>
-    <p><em type="bold">Fylkadigge</em> le fylkasuohkana alemus orgádna. Fylkadigge mærrádusájt mierret duola dagu joarkkaåhpadusá hárráj, fylkarahtij ja færjjomannulagáj, bájkálasj kollektijvajåhtulagá ja kulturdåjmaj hárráj. </p>
-    <p>Oslon le suohkanstivrraválgga ja stádaguovlloválgga, valla ij fylkadiggeválgga.</p>
-    <p xml:lang="nno">20 suohkanijn máhtti 16- ja 17-jagága jienastit suohkanstivrraválgan. Dát guosská suohkanijda Austevoll, Eid, Gausdal, Hamar, Horten, Hå, Klæbu, Guovdageaidnu/Kautokeino, Kristiansund, Lillesand, Luster, Mandal, Marker, Målselv, Namdalseid, Oppegård, Porsgrunn, Stavanger, Divtasvuodna/Tysfjord ja Cahcesuollu/Vadsø.</p>
-    <p>Bájkálasj ássje vájkkudahtti ienemusát duv árggabiejvev. Gå jienasta, de le siegen mierredime guhti duv ja duv berustimijt galggá åvdåstit suohkastivran ja fylkadikken.</p>
-    <p>Dán brosjyjran oattjo diedojt gåktu dagá gå galga jienastit.</p>
-    <p><em type="bold">Válggabiejvve le ragátmáno 14. biejve 2015</em> </p>
-    <p>Moatten suohkanin le válgga aj ragátmáno 13. biejve. Suohkana ietja diededi jus le máhttelis jienastit avta jali guovte biejve birán.</p>
-    <p>
-      <em type="bold">Mujte duodastusáv gå jienasta!  </em>
-    </p>
-    <p>Válggaláhka gájbbet duodastusáv jienastiddjes gev e dåbdå. Duodastus máhttá liehket pássa, vuodjemkårttå jali báŋŋkakårttå aktajn gåvåjn, valla ietjá duodastus aj dåhkki. Duodastusán galggá gávnnut jienastiddje namma, riegádimbiejvve ja gåvvå.</p>
-    <p>Jus le institusjåvnåjn årromin duola dagu skihppijsijdan, skihppijvieson jali giddagisán, máhtá institusjåvnå barggev oadtjot identitiehtat duodastittjat.</p>
-    <p><em type="bold">Divna jienastiddje oadtju jienastimkårtåv</em> </p>
-    <p>Jienastimkårtå åvddåbielen gávna diedojt gånnå ja goassa jienastit máhtá válggabiejve. Jienastimkårtåv galla i dárbaha gå jienasta, valla diedoj hárráj le dat ávkálasj. Jienastimkårttå ij dåhkkiduvá duodastussan.</p>
-    <p>
-      <em type="bold">Guhti máhttá jienastit? </em>
-    </p>
-    <p type="listitem">•  Vuona stáhtaviesáda gudi li ållim 18 jage 2015 jage birán ja gudi li, jali li</p>
-    <p>læhkám tjáledum årron Vuonan.</p>
-    <p type="listitem">•  Nuorttarijkaj stáhtaviesáda gudi li ållim18 jage 2015 jage birán, ja gudi li</p>
-    <p>læhkám tjáledum årron Vuonan maŋemusát biehtsemáno 30. biejve rájes jagen 2015.</p>
-    <p type="listitem">•  Ietjá ålggorijkak stáhtaviesáda gudi li ållim 18 jage 2015 jage birán, ja gudi</p>
-    <p>li læhkám tjáledum årron avtatrajes Vuonarijkan gålmmå maŋemus jage åvddåla válggabiejve.</p>
-    <p type="listitem">•  20 suohkanijn máhtti sij gudi li ållim 16 jage 2015 jage birán jienastit</p>
-    <p>suohkastivrraválgan. Sij vierttiji duodastuvvat årron daj gájbbádusáj milta ma li nammaduvvam bajebun. Gehtja nuppát bielen makkár suohkanijda dát guosská.</p>
-    <p><em type="bold">Goassa ja gånnå máhtá jienastit?</em> </p>
-    <p><em type="bold">Válggabiejve</em> jienasta suohkanin gånnå le tjáledum årron biehtsemáno 30. biejve 2015. Ietjat suohkanin máhtá jienastit makkir válggahuodnanin sidá </p>
-    <p><em type="bold">Árabut jienastit</em> máhtá snjilltjamáno 1. biejve rájes gitta ragátmáno 12. biejve rádjáj makkir suohkanin sidá. </p>
-    <p>Gehtja tjuorggasav maŋep bielen mij vuoset gåktu ietjat sijddasuohkanin jienasta.</p>
-    <p><em type="bold">Jus ietjat suohkana ålggolin jienasta,</em> de sjaddá jienstimvuohke unnin ietjá láhkáj. Dån oattjo jienastimlistav gånnå li dåhkkiduvvam politihkalasj belludagáj namá, valla ælla kandidáhtaj namá. Dån viertti ruossav biedjat jali tjálestit makkir belludagáv/juohkusav sidá jienastit. Máhtá aj iesj åttjudit jienastimlistav ietjat suohkanis ja adnet dav jus sidá duoddejienav kandidáhtajda vaddet. Sæmmi aj jus jienasta fylka ålggolin fylkadiggeválgan. </p>
-    <p>Jus ietjat suohkana ålggolin jienasta, de viertti válggadåjmadiddje jienastimlistav stiempeldit åvddål jienastimlisstakonvoluhttaj bieja. Dáv konvoluhtav ja válggakårtåv biedji ålgusjkonvoluhta sisi, ja de válggalihttaj luojtti. Jienastibme rájaduvvá de duv sijddasuohkanij.</p>
-    <p>Jus le skibás jali sáhtus, de máhtá suohkanis åhtsåt vaj besa sijdan árabut jienastit. Suohkan diedet åhtsåmájgev.</p>
-    <p>Suohkan diedet goassa ja gånnå jienastit máhtá.</p>
-    <p>
-      <em type="bold">Bårggemáno rájes máhtá aj válggahuodnahat mobiltelefåvnå baktu åhtsåt: </em>
-    </p>
-    <p xml:lang="nno">
-      <em type="bold">www.valglokaler.no </em>
-    </p>
-    <p><em type="bold">Gåktu jienasta ietjat sijddasuohkanin?</em> </p>
-    <p><em type="bold">1)</em> Válde jienastimlistav mav ájgo adnet: avtat suohkanstivrraválggaj ja avtav fylkadiggeválggaj. </p>
-    <p><em type="bold">2)</em> Dagá rievddadimijt jienastimlistan jus sidá (gehtja bagádusáv maŋep bielen). </p>
-    <p><em type="bold">3)</em> Máhtsasta jienastimlistajt belludaknamájn sisi ja bielev gåggu stiempelt ålgus - de ij aktak vuojne majt jienasta. Ij galga adnet konvoluhtav jalik makkirak ietjá ålgutjav jienastimlistaj birra. </p>
-    <p><em type="bold">4)</em> Maná válggadåjmadiddje lusi ja stiempeldahte jienastimlistajt ålgolt. Goappátja jienastimlista vierttiji stiempelduvvat vaj dåhkkiduvvi! </p>
-    <p><em type="bold">5)</em> Bieja dajt stiempeldum jienastimlistajt jienastimlihttáj. </p>
-    <p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
-    <p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut. </p>
-    <p xml:lang="nob">
-      <em type="bold">Se veiledning </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="bold">Brett  </em>
-    </p>
-    <p xml:lang="nob">Valgliste ved kommunestyrevalget i Kommunenavn</p>
-    <p xml:lang="nno"><em type="bold">Parti</em> </p>
-    <p xml:lang="deu"><em type="bold">Personstemme</em> </p>
-    <p xml:lang="est">KommunestyrevalgetKommunestyrevalgetK</p>
-    <p xml:lang="vep">16.Kandidat</p>
-    <p xml:lang="deu">
-      <em type="bold">Personstemme </em>
-    </p>
-    <p xml:lang="koi">17.</p>
-    <p xml:lang="vep"><em type="bold">1.Kandidat</em> </p>
-    <p xml:lang="vep"><em type="bold">2.Kandidat</em> </p>
-    <p xml:lang="vep"><em type="bold">3.Kandidat</em> </p>
-    <p xml:lang="vep">4.Kandidat</p>
-    <p xml:lang="vep">5.Kandidat</p>
-    <p xml:lang="vep">6.Kandidat</p>
-    <p xml:lang="vep">7.Kandidat</p>
-    <p xml:lang="vep">8.Kandidat</p>
-    <p xml:lang="nob">(se veiledning på baksiden)</p>
-    <p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> (se veiledning på baksiden) <em type="bold">FORNAVN ETTERNAVN</em> (bruk blokkbokstaver) </p>
-    <p xml:lang="vep">9.Kandidat</p>
-    <p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> </p>
-    <p xml:lang="nob"><em type="bold">AVN</em> (bruk blokkbokstaver) </p>
-    <p xml:lang="deu"><em type="bold">FORNAVN ETTERN</em> </p>
-    <p xml:lang="vep">10.Kandidat</p>
-    <p xml:lang="vep">11.Kandidat</p>
-    <p xml:lang="nno">TT H</p>
-    <p xml:lang="vep">12.Kandidat</p>
-    <p xml:lang="vep">13.Kandidat</p>
-    <p xml:lang="vep">14.Kandidat</p>
-    <p xml:lang="nno">felt for ev. seddel id felt for ev. stemmeseddelnr felt for ev. seddel id</p>
-    <p xml:lang="vep">15.Kandidat</p>
-    <p xml:lang="nob">felt for ev. stemmeseddelnr</p>
-    <p>
-      <em type="bold">Gåktu jienastimlistav rievddada? </em>
-    </p>
-    <p>Jus sidá vájkkudahttet guhtimuttja kandidáhtajs válljiduvvi, de viertti duoddejienav kandidáhtajda vaddet. Ietjat duogen le jus sidá jienastimlistav rievddadit duoddejienaj baktu.</p>
-    <p>Ale balá rievddadimes. Gåktu dagá vuojná jienastimlistan. Jienastibme ij hilgoduvá vájku boasstot dagá!</p>
-    <p>
-      <em type="bold">Dán láhkáj vattá duoddejienav:  </em>
-    </p>
-    <p><em type="bold">Suohkanstivrraválgan:</em> <em type="bold">1)</em> Bieja ruossav ruktuj dan kandidáhta namá guorraj gev jienasta. Máhtá vaddet duoddejienav man moaddásijda sidá. </p>
-    <p><em type="bold">2)</em> Tjále kandidáhtaj namájt ietjá belludagájs/ juohkusijs sierra sadjáj jienastimlistan. Jienastimlistan tjuodtju gallásav máhtá tjállet. </p>
-    <p>Jus vattá duoddejienav muhtem kandidáhttaj ietjá belludagájs/juohkusijs, de muhtem oasse duv jienastimes sirdeduvvá dan belludahkaj/juohkusij.</p>
-    <p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
-    <p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut. </p>
-    <p xml:lang="nob">
-      <em type="bold">Se veiledning </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="bold">Brett  </em>
-    </p>
-    <p xml:lang="nob">Valgliste ved kommunestyrevalget i KommunenavnDD. måned YYYY</p>
-    <p xml:lang="nno"><em type="bold">Parti</em> </p>
-    <p xml:lang="vep">16.Kandidat</p>
-    <p xml:lang="deu">
-      <em type="bold">Personstemme </em>
-    </p>
-    <p xml:lang="vep">17.Kandidat</p>
-    <p xml:lang="vep"><em type="bold">1.Kandidat</em> </p>
-    <p xml:lang="vep">18.Kandidat</p>
-    <p xml:lang="vep"><em type="bold">2.Kandidat</em> </p>
-    <p xml:lang="vep">19.Kandidat</p>
-    <p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
-    <p xml:lang="vep"><em type="bold">3.Kandidat</em> </p>
-    <p xml:lang="vep">20.Kandidat</p>
-    <p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut. </p>
-    <p xml:lang="vep">4.Kandidat</p>
-    <p xml:lang="vep">21.Kandidat</p>
-    <p xml:lang="vep">5.Kandidat</p>
-    <p xml:lang="vep">22.Kandidat</p>
-    <p xml:lang="vep">6.Kandidat</p>
-    <p xml:lang="vep">23.Kandidat</p>
-    <p xml:lang="vep">16.Kandidat</p>
-    <p xml:lang="vep">7.Kandidat</p>
-    <p xml:lang="vep">24.Kandidat</p>
-    <p xml:lang="vep">17.Kandidat</p>
-    <p xml:lang="vep">8.Kandidat</p>
-    <p xml:lang="vep">25.Kandidat</p>
-    <p xml:lang="nob">(se veiledning på baksiden)</p>
-    <p xml:lang="vep">18.Kandidat</p>
-    <p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> (se veiledning på baksiden) <em type="bold">FORNAVN ETTERNAVN</em> (bruk blokkbokstaver) </p>
-    <p xml:lang="vep">9.Kandidat</p>
-    <p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> </p>
-    <p xml:lang="nob"><em type="bold">AVN</em> (bruk blokkbokstaver) </p>
-    <p xml:lang="vep">19.Kandidat</p>
-    <p xml:lang="deu"><em type="bold">FORNAVN ETTERN</em> </p>
-    <p xml:lang="vep">10.Kandidat</p>
-    <p xml:lang="vep">20.Kandidat</p>
-    <p xml:lang="vep">11.Kandidat</p>
-    <p xml:lang="vep">21.Kandidat</p>
-    <p xml:lang="nno">TT H</p>
-    <p xml:lang="vep">12.Kandidat</p>
-    <p xml:lang="vep">22.Kandidat</p>
-    <p xml:lang="vep">13.Kandidat</p>
-    <p xml:lang="vep">23.Kandidat</p>
-    <p xml:lang="vep">14.Kandidat</p>
-    <p xml:lang="vep">24.Kandidat</p>
-    <p xml:lang="nno">felt for ev. seddel id felt for ev. stemmeseddelnr felt for ev. seddel id</p>
-    <p xml:lang="vep">15.Kandidat</p>
-    <p xml:lang="vep">25.Kandidat</p>
-    <p xml:lang="vep"><em type="bold">AVN</em> </p>
-    <p xml:lang="nob">felt for ev. stemmeseddelnr</p>
-    <p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> <em type="bold">FORNAVN ETTERN</em> </p>
-    <p xml:lang="isl">ETT H</p>
-    <p><em type="bold">Fylkadiggeválgan:</em>Bieja ruossav ruktuj dan kandidáhta namá guorraj gev jienasta. Máhtá vaddet duoddejienav man moaddásijda sidá. </p>
-    <p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
-    <p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut.<em type="bold">Se veiledning </em></p>
-    <p xml:lang="nob">
-      <em type="bold">Brett  </em>
-    </p>
-    <p xml:lang="nob">Valgliste ved kommunestyrevalget i Kommunenavn</p>
-    <p xml:lang="nno"><em type="bold">Parti</em> </p>
-    <p xml:lang="nob"><em type="bold">Personstemme </em>(sett kryss i rute foran kandidat) </p>
-    <p xml:lang="nob">Fylkestingsvalget</p>
-    <p xml:lang="vep">16.Kandidat</p>
-    <p xml:lang="deu">
-      <em type="bold">Personstemme </em>
-    </p>
-    <p xml:lang="vep">17.Kandidat</p>
-    <p xml:lang="vep">1.Kandidat</p>
-    <p xml:lang="vep">18.Kandidat</p>
-    <p xml:lang="vep">2.Kandidat</p>
-    <p xml:lang="vep">19.Kandidat</p>
-    <p xml:lang="vep">3.Kandidat</p>
-    <p xml:lang="vep">20.Kandidat</p>
-    <p xml:lang="vep">4.Kandidat</p>
-    <p xml:lang="vep">21.Kandidat</p>
-    <p xml:lang="vep">5.Kandidat</p>
-    <p xml:lang="vep">22.Kandidat</p>
-    <p xml:lang="vep">6.Kandidat</p>
-    <p xml:lang="vep">23.Kandidat</p>
-    <p xml:lang="vep">7.Kandidat</p>
-    <p xml:lang="vep">24.Kandidat</p>
-    <p xml:lang="vep">8.Kandidat</p>
-    <p xml:lang="vep">25.Kandidat</p>
-    <p xml:lang="nob">(se veiledning på baksiden)ver)</p>
-    <p><em type="bold">Guhti válljiduvvá?</em> </p>
-    <p>Vuostak mierret válggastivrra gallásav juohkka belludahka jali juogos oadtju suohkanstivrraj jali fylkadiggáj. Dan maŋŋela låhkå válggastivrra jienajt ja gávnat gudi válljiduvvi duot dát belludagás jali juohkusis.</p>
-    <p><em type="bold">Ienep diedojt gávna jus gehtja www.valg.no</em> </p>
-    <p>Almoduvvam jagen 2015 Suohkan- ja ådåstuhhtemdepartementas Publikasjåvnnå le jårggåluvvam aj ådådárogiellaj, sámegiellaj ja lågev vieresgielajda</p>
-    <p>Jus dárbaha ienep diedojt válga birra, de gehtja <em type="bold">www.valg.no</em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1009</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>https://www.regjeringen.no/contentassets/caefd134cb2a4891a885b5a8cb79724f/brosjyre_h2344_lulesamisk.pdf</origFileName><parallel_text xml:lang="eng" location="brosjyre_h2344_engelsk.pdf"/><parallel_text xml:lang="nno" location="brosjyre_h2344_nynorsk.pdf"/><parallel_text xml:lang="nob" location="brosjyre_h2344_bokmal.pdf"/><parallel_text xml:lang="sma" location="brosjyre_h2344_sorsamisk.pdf"/><parallel_text xml:lang="sme" location="brosjyre_h2344_nordsamisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Julevsábmáj | Lulesamisk</p>
+<p><em type="bold">Suohkanstivrra- ja fylkadiggeválgga 2015</em> </p>
+<p>Válgan válljip ájrrasijt suohkanstivrraj ja fylkadiggáj.</p>
+<p><em type="bold">Suohkanstivrra</em> le suohkana alemus orgádna. Danna mierreduvvá bájkálasj ássjij hárráj degu mánájgárdde, mánájsuodjalibme, pládna- ja areállagatjálvisá, vuodoskåvllå, varresvuoda- ja huksodievnastusá, kulturdåjma ja renovasjåvnnå. </p>
+<p><em type="bold">Fylkadigge</em> le fylkasuohkana alemus orgádna. Fylkadigge mærrádusájt mierret duola dagu joarkkaåhpadusá hárráj, fylkarahtij ja færjjomannulagáj, bájkálasj kollektijvajåhtulagá ja kulturdåjmaj hárráj. </p>
+<p>Oslon le suohkanstivrraválgga ja stádaguovlloválgga, valla ij fylkadiggeválgga.</p>
+<p xml:lang="nno">20 suohkanijn máhtti 16- ja 17-jagága jienastit suohkanstivrraválgan. Dát guosská suohkanijda Austevoll, Eid, Gausdal, Hamar, Horten, Hå, Klæbu, Guovdageaidnu/Kautokeino, Kristiansund, Lillesand, Luster, Mandal, Marker, Målselv, Namdalseid, Oppegård, Porsgrunn, Stavanger, Divtasvuodna/Tysfjord ja Cahcesuollu/Vadsø.</p>
+<p>Bájkálasj ássje vájkkudahtti ienemusát duv árggabiejvev. Gå jienasta, de le siegen mierredime guhti duv ja duv berustimijt galggá åvdåstit suohkastivran ja fylkadikken.</p>
+<p>Dán brosjyjran oattjo diedojt gåktu dagá gå galga jienastit.</p>
+<p><em type="bold">Válggabiejvve le ragátmáno 14. biejve 2015</em> </p>
+<p>Moatten suohkanin le válgga aj ragátmáno 13. biejve. Suohkana ietja diededi jus le máhttelis jienastit avta jali guovte biejve birán.</p>
+<p><em type="bold">Mujte duodastusáv gå jienasta!  </em></p>
+<p>Válggaláhka gájbbet duodastusáv jienastiddjes gev e dåbdå. Duodastus máhttá liehket pássa, vuodjemkårttå jali báŋŋkakårttå aktajn gåvåjn, valla ietjá duodastus aj dåhkki. Duodastusán galggá gávnnut jienastiddje namma, riegádimbiejvve ja gåvvå.</p>
+<p>Jus le institusjåvnåjn årromin duola dagu skihppijsijdan, skihppijvieson jali giddagisán, máhtá institusjåvnå barggev oadtjot identitiehtat duodastittjat.</p>
+<p><em type="bold">Divna jienastiddje oadtju jienastimkårtåv</em> </p>
+<p>Jienastimkårtå åvddåbielen gávna diedojt gånnå ja goassa jienastit máhtá válggabiejve. Jienastimkårtåv galla i dárbaha gå jienasta, valla diedoj hárráj le dat ávkálasj. Jienastimkårttå ij dåhkkiduvá duodastussan.</p>
+<p><em type="bold">Guhti máhttá jienastit? </em></p>
+<p type="listitem">•  Vuona stáhtaviesáda gudi li ållim 18 jage 2015 jage birán ja gudi li, jali li</p>
+<p>læhkám tjáledum årron Vuonan.</p>
+<p type="listitem">•  Nuorttarijkaj stáhtaviesáda gudi li ållim18 jage 2015 jage birán, ja gudi li</p>
+<p>læhkám tjáledum årron Vuonan maŋemusát biehtsemáno 30. biejve rájes jagen 2015.</p>
+<p type="listitem">•  Ietjá ålggorijkak stáhtaviesáda gudi li ållim 18 jage 2015 jage birán, ja gudi</p>
+<p>li læhkám tjáledum årron avtatrajes Vuonarijkan gålmmå maŋemus jage åvddåla válggabiejve.</p>
+<p type="listitem">•  20 suohkanijn máhtti sij gudi li ållim 16 jage 2015 jage birán jienastit</p>
+<p>suohkastivrraválgan. Sij vierttiji duodastuvvat årron daj gájbbádusáj milta ma li nammaduvvam bajebun. Gehtja nuppát bielen makkár suohkanijda dát guosská.</p>
+<p><em type="bold">Goassa ja gånnå máhtá jienastit?</em> </p>
+<p><em type="bold">Válggabiejve</em> jienasta suohkanin gånnå le tjáledum årron biehtsemáno 30. biejve 2015. Ietjat suohkanin máhtá jienastit makkir válggahuodnanin sidá </p>
+<p><em type="bold">Árabut jienastit</em> máhtá snjilltjamáno 1. biejve rájes gitta ragátmáno 12. biejve rádjáj makkir suohkanin sidá. </p>
+<p>Gehtja tjuorggasav maŋep bielen mij vuoset gåktu ietjat sijddasuohkanin jienasta.</p>
+<p><em type="bold">Jus ietjat suohkana ålggolin jienasta,</em> de sjaddá jienstimvuohke unnin ietjá láhkáj. Dån oattjo jienastimlistav gånnå li dåhkkiduvvam politihkalasj belludagáj namá, valla ælla kandidáhtaj namá. Dån viertti ruossav biedjat jali tjálestit makkir belludagáv/juohkusav sidá jienastit. Máhtá aj iesj åttjudit jienastimlistav ietjat suohkanis ja adnet dav jus sidá duoddejienav kandidáhtajda vaddet. Sæmmi aj jus jienasta fylka ålggolin fylkadiggeválgan. </p>
+<p>Jus ietjat suohkana ålggolin jienasta, de viertti válggadåjmadiddje jienastimlistav stiempeldit åvddål jienastimlisstakonvoluhttaj bieja. Dáv konvoluhtav ja válggakårtåv biedji ålgusjkonvoluhta sisi, ja de válggalihttaj luojtti. Jienastibme rájaduvvá de duv sijddasuohkanij.</p>
+<p>Jus le skibás jali sáhtus, de máhtá suohkanis åhtsåt vaj besa sijdan árabut jienastit. Suohkan diedet åhtsåmájgev.</p>
+<p>Suohkan diedet goassa ja gånnå jienastit máhtá.</p>
+<p><em type="bold">Bårggemáno rájes máhtá aj válggahuodnahat mobiltelefåvnå baktu åhtsåt: </em></p>
+<p xml:lang="nno"><em type="bold">www.valglokaler.no </em></p>
+<p><em type="bold">Gåktu jienasta ietjat sijddasuohkanin?</em> </p>
+<p><em type="bold">1)</em> Válde jienastimlistav mav ájgo adnet: avtat suohkanstivrraválggaj ja avtav fylkadiggeválggaj. </p>
+<p><em type="bold">2)</em> Dagá rievddadimijt jienastimlistan jus sidá (gehtja bagádusáv maŋep bielen). </p>
+<p><em type="bold">3)</em> Máhtsasta jienastimlistajt belludaknamájn sisi ja bielev gåggu stiempelt ålgus - de ij aktak vuojne majt jienasta. Ij galga adnet konvoluhtav jalik makkirak ietjá ålgutjav jienastimlistaj birra. </p>
+<p><em type="bold">4)</em> Maná válggadåjmadiddje lusi ja stiempeldahte jienastimlistajt ålgolt. Goappátja jienastimlista vierttiji stiempelduvvat vaj dåhkkiduvvi! </p>
+<p><em type="bold">5)</em> Bieja dajt stiempeldum jienastimlistajt jienastimlihttáj. </p>
+<p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
+<p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut. </p>
+<p xml:lang="nob"><em type="bold">Se veiledning </em></p>
+<p xml:lang="nob"><em type="bold">Brett  </em></p>
+<p xml:lang="nob">Valgliste ved kommunestyrevalget i Kommunenavn</p>
+<p xml:lang="nno"><em type="bold">Parti</em> </p>
+<p xml:lang="deu"><em type="bold">Personstemme</em> </p>
+<p xml:lang="est">KommunestyrevalgetKommunestyrevalgetK</p>
+<p xml:lang="vep">16.Kandidat</p>
+<p xml:lang="deu"><em type="bold">Personstemme </em></p>
+<p xml:lang="vep">17.</p>
+<p xml:lang="vep"><em type="bold">1.Kandidat</em> </p>
+<p xml:lang="vep"><em type="bold">2.Kandidat</em> </p>
+<p xml:lang="vep"><em type="bold">3.Kandidat</em> </p>
+<p xml:lang="vep">4.Kandidat</p>
+<p xml:lang="vep">5.Kandidat</p>
+<p xml:lang="vep">6.Kandidat</p>
+<p xml:lang="vep">7.Kandidat</p>
+<p xml:lang="vep">8.Kandidat</p>
+<p xml:lang="nob">(se veiledning på baksiden)</p>
+<p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> (se veiledning på baksiden) <em type="bold">FORNAVN ETTERNAVN</em> (bruk blokkbokstaver) </p>
+<p xml:lang="vep">9.Kandidat</p>
+<p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> </p>
+<p xml:lang="nob"><em type="bold">AVN</em> (bruk blokkbokstaver) </p>
+<p xml:lang="deu"><em type="bold">FORNAVN ETTERN</em> </p>
+<p xml:lang="vep">10.Kandidat</p>
+<p xml:lang="vep">11.Kandidat</p>
+<p xml:lang="nno">TT H</p>
+<p xml:lang="vep">12.Kandidat</p>
+<p xml:lang="vep">13.Kandidat</p>
+<p xml:lang="vep">14.Kandidat</p>
+<p xml:lang="nno">felt for ev. seddel id felt for ev. stemmeseddelnr felt for ev. seddel id</p>
+<p xml:lang="vep">15.Kandidat</p>
+<p xml:lang="nob">felt for ev. stemmeseddelnr</p>
+<p><em type="bold">Gåktu jienastimlistav rievddada? </em></p>
+<p>Jus sidá vájkkudahttet guhtimuttja kandidáhtajs válljiduvvi, de viertti duoddejienav kandidáhtajda vaddet. Ietjat duogen le jus sidá jienastimlistav rievddadit duoddejienaj baktu.</p>
+<p>Ale balá rievddadimes. Gåktu dagá vuojná jienastimlistan. Jienastibme ij hilgoduvá vájku boasstot dagá!</p>
+<p><em type="bold">Dán láhkáj vattá duoddejienav:  </em></p>
+<p><em type="bold">Suohkanstivrraválgan:</em> <em type="bold">1)</em> Bieja ruossav ruktuj dan kandidáhta namá guorraj gev jienasta. Máhtá vaddet duoddejienav man moaddásijda sidá. </p>
+<p><em type="bold">2)</em> Tjále kandidáhtaj namájt ietjá belludagájs/ juohkusijs sierra sadjáj jienastimlistan. Jienastimlistan tjuodtju gallásav máhtá tjállet. </p>
+<p>Jus vattá duoddejienav muhtem kandidáhttaj ietjá belludagájs/juohkusijs, de muhtem oasse duv jienastimes sirdeduvvá dan belludahkaj/juohkusij.</p>
+<p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
+<p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut. </p>
+<p xml:lang="nob"><em type="bold">Se veiledning </em></p>
+<p xml:lang="nob"><em type="bold">Brett  </em></p>
+<p xml:lang="nob">Valgliste ved kommunestyrevalget i KommunenavnDD. måned YYYY</p>
+<p xml:lang="nno"><em type="bold">Parti</em> </p>
+<p xml:lang="vep">16.Kandidat</p>
+<p xml:lang="deu"><em type="bold">Personstemme </em></p>
+<p xml:lang="vep">17.Kandidat</p>
+<p xml:lang="vep"><em type="bold">1.Kandidat</em> </p>
+<p xml:lang="vep">18.Kandidat</p>
+<p xml:lang="vep"><em type="bold">2.Kandidat</em> </p>
+<p xml:lang="vep">19.Kandidat</p>
+<p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
+<p xml:lang="vep"><em type="bold">3.Kandidat</em> </p>
+<p xml:lang="vep">20.Kandidat</p>
+<p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut. </p>
+<p xml:lang="vep">4.Kandidat</p>
+<p xml:lang="vep">21.Kandidat</p>
+<p xml:lang="vep">5.Kandidat</p>
+<p xml:lang="vep">22.Kandidat</p>
+<p xml:lang="vep">6.Kandidat</p>
+<p xml:lang="vep">23.Kandidat</p>
+<p xml:lang="vep">16.Kandidat</p>
+<p xml:lang="vep">7.Kandidat</p>
+<p xml:lang="vep">24.Kandidat</p>
+<p xml:lang="vep">17.Kandidat</p>
+<p xml:lang="vep">8.Kandidat</p>
+<p xml:lang="vep">25.Kandidat</p>
+<p xml:lang="nob">(se veiledning på baksiden)</p>
+<p xml:lang="vep">18.Kandidat</p>
+<p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> (se veiledning på baksiden) <em type="bold">FORNAVN ETTERNAVN</em> (bruk blokkbokstaver) </p>
+<p xml:lang="vep">9.Kandidat</p>
+<p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> </p>
+<p xml:lang="nob"><em type="bold">AVN</em> (bruk blokkbokstaver) </p>
+<p xml:lang="vep">19.Kandidat</p>
+<p xml:lang="deu"><em type="bold">FORNAVN ETTERN</em> </p>
+<p xml:lang="vep">10.Kandidat</p>
+<p xml:lang="vep">20.Kandidat</p>
+<p xml:lang="vep">11.Kandidat</p>
+<p xml:lang="vep">21.Kandidat</p>
+<p xml:lang="nno">TT H</p>
+<p xml:lang="vep">12.Kandidat</p>
+<p xml:lang="vep">22.Kandidat</p>
+<p xml:lang="vep">13.Kandidat</p>
+<p xml:lang="vep">23.Kandidat</p>
+<p xml:lang="vep">14.Kandidat</p>
+<p xml:lang="vep">24.Kandidat</p>
+<p xml:lang="nno">felt for ev. seddel id felt for ev. stemmeseddelnr felt for ev. seddel id</p>
+<p xml:lang="vep">15.Kandidat</p>
+<p xml:lang="vep">25.Kandidat</p>
+<p xml:lang="vep"><em type="bold">AVN</em> </p>
+<p xml:lang="nob">felt for ev. stemmeseddelnr</p>
+<p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> <em type="bold">FORNAVN ETTERN</em> </p>
+<p xml:lang="isl">ETT H</p>
+<p><em type="bold">Fylkadiggeválgan:</em>Bieja ruossav ruktuj dan kandidáhta namá guorraj gev jienasta. Máhtá vaddet duoddejienav man moaddásijda sidá. </p>
+<p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
+<p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut.<em type="bold">Se veiledning </em></p>
+<p xml:lang="nob"><em type="bold">Brett  </em></p>
+<p xml:lang="nob">Valgliste ved kommunestyrevalget i Kommunenavn</p>
+<p xml:lang="nno"><em type="bold">Parti</em> </p>
+<p xml:lang="nob"><em type="bold">Personstemme </em>(sett kryss i rute foran kandidat) </p>
+<p xml:lang="nob">Fylkestingsvalget</p>
+<p xml:lang="vep">16.Kandidat</p>
+<p xml:lang="deu"><em type="bold">Personstemme </em></p>
+<p xml:lang="vep">17.Kandidat</p>
+<p xml:lang="vep">1.Kandidat</p>
+<p xml:lang="vep">18.Kandidat</p>
+<p xml:lang="vep">2.Kandidat</p>
+<p xml:lang="vep">19.Kandidat</p>
+<p xml:lang="vep">3.Kandidat</p>
+<p xml:lang="vep">20.Kandidat</p>
+<p xml:lang="vep">4.Kandidat</p>
+<p xml:lang="vep">21.Kandidat</p>
+<p xml:lang="vep">5.Kandidat</p>
+<p xml:lang="vep">22.Kandidat</p>
+<p xml:lang="vep">6.Kandidat</p>
+<p xml:lang="vep">23.Kandidat</p>
+<p xml:lang="vep">7.Kandidat</p>
+<p xml:lang="vep">24.Kandidat</p>
+<p xml:lang="vep">8.Kandidat</p>
+<p xml:lang="vep">25.Kandidat</p>
+<p xml:lang="nob">(se veiledning på baksiden)ver)</p>
+<p><em type="bold">Guhti válljiduvvá?</em> </p>
+<p>Vuostak mierret válggastivrra gallásav juohkka belludahka jali juogos oadtju suohkanstivrraj jali fylkadiggáj. Dan maŋŋela låhkå válggastivrra jienajt ja gávnat gudi válljiduvvi duot dát belludagás jali juohkusis.</p>
+<p><em type="bold">Ienep diedojt gávna jus gehtja www.valg.no</em> </p>
+<p>Almoduvvam jagen 2015 Suohkan- ja ådåstuhhtemdepartementas Publikasjåvnnå le jårggåluvvam aj ådådárogiellaj, sámegiellaj ja lågev vieresgielajda</p>
+<p>Jus dárbaha ienep diedojt válga birra, de gehtja <em type="bold">www.valg.no</em> </p>
+</body></document>

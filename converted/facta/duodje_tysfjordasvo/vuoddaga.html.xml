@@ -1,104 +1,153 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Vuoddaga</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2015</year>
-    <wordcount>903</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>https://www.tysfjordasvo.no/vuoddaga/</origFileName>
-    <parallel_text xml:lang="nob" location="vuoddaga_nob.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Skip to content</p>
-    <p xml:lang="nob">Tysfjord ASVO | Tiltaksarrangør fra NAV som arrangerer duodjeprosjekter, nettbutikk, trening, kurs, utstilling, tilrettelegging</p>
-    <p xml:lang="nob">Vi vil gi mennesker med yrkeshemming muligheter til å delta i et aktivt yrkesliv</p>
-    <list>
-      <p type="listitem" xml:lang="nob">PRODUKSJONER   <list><p type="listitem">Duodje</p><p type="listitem" xml:lang="nob">Duodjebloggen</p><p type="listitem" xml:lang="nob">Skinnberedning (garveri/dilkudahka)</p><p type="listitem" xml:lang="nob">Drag kommunale industrikai</p><p type="listitem" xml:lang="nob">Miljøstasjon Tysfjord</p><p type="listitem" xml:lang="nob">Skogsdrift</p><p type="listitem" xml:lang="nob">Vaskeritjenester</p><p type="listitem" xml:lang="nob">Vedproduksjon</p><p type="listitem" xml:lang="nob">Verksted</p><p type="listitem" xml:lang="nob">Virkeproduksjon</p></list></p>
-      <p type="listitem" xml:lang="nob">TRENINGSSENTER   <list><p type="listitem" xml:lang="nob">Åpningstider</p><p type="listitem" xml:lang="nob">Trening i speilsalen</p><p type="listitem" xml:lang="nob">Priser</p><p type="listitem" xml:lang="nob">Medlemsvilkår</p><p type="listitem" xml:lang="nob">For unge fra 16 år</p><p type="listitem" xml:lang="nob">Kontroll</p><p type="listitem" xml:lang="nob">Gruppetrening</p><p type="listitem" xml:lang="nob">Lett på tå – for barn og unge</p></list></p>
-      <p type="listitem" xml:lang="nob">BUTIKK   <list><p type="listitem" xml:lang="nob">Vilkår</p></list></p>
-      <p type="listitem" xml:lang="nob">ANDRE TILBUD   <list><p type="listitem" xml:lang="nob">Samiske dager / Sámebiejve</p><p type="listitem" xml:lang="nob">Ut på tur i Dragsområdet</p><p type="listitem" xml:lang="nob">Mineralløpet</p><p type="listitem" xml:lang="nob">Folkehelse</p><p type="listitem" xml:lang="nob">Workshop kunstmaling</p><p type="listitem" xml:lang="nob">Utstillinger</p><p type="listitem" xml:lang="nob">Prosjekter   <list><p type="listitem" xml:lang="nob">Onsdagsduodje som språkkafé</p><p type="listitem" xml:lang="nob">Gravering i tre/horn</p><p type="listitem" xml:lang="nob">Tysfjord Vest</p><p type="listitem" xml:lang="nob">Lulesamisk språkprosjekt</p><p type="listitem">Duodje revitalisering</p><p type="listitem" xml:lang="nob">Motivasjonseminar for kvinner</p></list></p></list></p>
-      <p type="listitem" xml:lang="nob">ARBEID OG LÆRING   <list><p type="listitem">Varig tilrettelagt arbeid (VTA) / Ádjanis hiebadum barggo</p><p type="listitem" xml:lang="nob">Inkluderende bedrift</p><p type="listitem" xml:lang="nob">Inkluderende kommune</p><p type="listitem" xml:lang="nob">Lærling/lærekandidat</p><p type="listitem" xml:lang="nob">Kurs / Kurrsa</p><p type="listitem" xml:lang="nob">Rettigheter</p></list></p>
-      <p type="listitem" xml:lang="nob">OM OSS   <list><p type="listitem">Klageadgang / Gujddimmáhttelisvuohta</p><p type="listitem" xml:lang="nob">KONTAKT</p></list></p>
-    </list>
-    <p xml:lang="nob">0</p>
-    <p xml:lang="nob">View Cart Checkout</p>
-    <list>
-      <p type="listitem" xml:lang="nob">No products in the cart.</p>
-    </list>
-    <p xml:lang="nob"><em type="italic">Subtotal: </em>kr  0  </p>
-    <p xml:lang="nob">View Cart Checkout</p>
-    <list>
-      <p type="listitem" xml:lang="nob">PRODUKSJONER   <list><p type="listitem">Duodje</p><p type="listitem" xml:lang="nob">Duodjebloggen</p><p type="listitem" xml:lang="nob">Skinnberedning (garveri/dilkudahka)</p><p type="listitem" xml:lang="nob">Drag kommunale industrikai</p><p type="listitem" xml:lang="nob">Miljøstasjon Tysfjord</p><p type="listitem" xml:lang="nob">Skogsdrift</p><p type="listitem" xml:lang="nob">Vaskeritjenester</p><p type="listitem" xml:lang="nob">Vedproduksjon</p><p type="listitem" xml:lang="nob">Verksted</p><p type="listitem" xml:lang="nob">Virkeproduksjon</p></list></p>
-      <p type="listitem" xml:lang="nob">TRENINGSSENTER   <list><p type="listitem" xml:lang="nob">Åpningstider</p><p type="listitem" xml:lang="nob">Trening i speilsalen</p><p type="listitem" xml:lang="nob">Priser</p><p type="listitem" xml:lang="nob">Medlemsvilkår</p><p type="listitem" xml:lang="nob">For unge fra 16 år</p><p type="listitem" xml:lang="nob">Kontroll</p><p type="listitem" xml:lang="nob">Gruppetrening</p><p type="listitem" xml:lang="nob">Lett på tå – for barn og unge</p></list></p>
-      <p type="listitem" xml:lang="nob">BUTIKK   <list><p type="listitem" xml:lang="nob">Vilkår</p></list></p>
-      <p type="listitem" xml:lang="nob">ANDRE TILBUD   <list><p type="listitem" xml:lang="nob">Samiske dager / Sámebiejve</p><p type="listitem" xml:lang="nob">Ut på tur i Dragsområdet</p><p type="listitem" xml:lang="nob">Mineralløpet</p><p type="listitem" xml:lang="nob">Folkehelse</p><p type="listitem" xml:lang="nob">Workshop kunstmaling</p><p type="listitem" xml:lang="nob">Utstillinger</p><p type="listitem" xml:lang="nob">Prosjekter   <list><p type="listitem" xml:lang="nob">Onsdagsduodje som språkkafé</p><p type="listitem" xml:lang="nob">Gravering i tre/horn</p><p type="listitem" xml:lang="nob">Tysfjord Vest</p><p type="listitem" xml:lang="nob">Lulesamisk språkprosjekt</p><p type="listitem">Duodje revitalisering</p><p type="listitem" xml:lang="nob">Motivasjonseminar for kvinner</p></list></p></list></p>
-      <p type="listitem" xml:lang="nob">ARBEID OG LÆRING   <list><p type="listitem">Varig tilrettelagt arbeid (VTA) / Ádjanis hiebadum barggo</p><p type="listitem" xml:lang="nob">Inkluderende bedrift</p><p type="listitem" xml:lang="nob">Inkluderende kommune</p><p type="listitem" xml:lang="nob">Lærling/lærekandidat</p><p type="listitem" xml:lang="nob">Kurs / Kurrsa</p><p type="listitem" xml:lang="nob">Rettigheter</p></list></p>
-      <p type="listitem" xml:lang="nob">OM OSS   <list><p type="listitem">Klageadgang / Gujddimmáhttelisvuohta</p><p type="listitem" xml:lang="nob">KONTAKT</p></list></p>
-    </list>
-    <p type="title">Vuoddaga</p>
-    <p>Vuoddaga li bátte majt bádjasa birra gæssá. Da ælla snjisjkodum bátte dagu avve ja lissto, valla li lådåduvvam.</p>
-    <p>Dállidum gábmága aktan vuoddagijn. Duodár: Berit Guvsám</p>
-    <p>Dát bloaggatjállus ij snivva tjielggi låhtåm-minsstarijt jalik jur gåktu låhtå. Gehtjasta Harrieth Aira bloaggatjállusav jages 2013 gånnå julevsáme vuoddaga lidjin tiebmán. Danna gávna oanes video gånnå Lill-Tove Paulsen subtsas juohkka minsstara birra ja aj låhtåma birra gájkkásattjat.</p>
-    <p>Gáma aktan vuoddagijn. Duodjár: Marie Amundsen</p>
-    <p>Vuoddaga lådåduvvi låhtåmmuorajn. Susanna Knutsen subtsas buorre låhtåmmuorra ij la ållu njuolgga, valla la vehik såddjot.</p>
-    <p>Låhtåmmuorra lådågijn</p>
-    <p>Ålmåjvuoddaga gåhtjoduvvi <em type="italic">snjierága </em>ja árbbedábálattjat lådåduvvin ruoppsis ja alek, jali ruoppsis, alek ja ruodná bájnojs. Uddni vuojnná aj vuoddagijt ietjá bájnoj, valla li agev snjierága. </p>
-    <p>Snjierága. Duodjár: Lotte Ekhorn Gælok</p>
-    <p>Gávnnuji guokta slája nissunvuoddaga. <em type="italic">Tsavága </em>li vuoddaga gålmåt oases iesjguhtik bájnoj. Elsa Aira girjenis tjállá tsavága li ienemus árbbedábálattja ja sierraláhkáj bassebiejvijda dajda tjágŋin. Susanna Knutsen subtsas Kjerran Kjerran gåhttjun dakkir vuoddagijt <em type="italic">gehtjagin </em>danen gå dakkir vuoddagijn lidjin nav moadde gietje. Subtsas iehtjáda, ja sierraláhkáj vuona sinna, dakkir vuoddagijt <em type="italic">tsavágin </em>gåhttjun, soajttá danen gå guokta oase li tsaveduvvam akti. </p>
-    <p>Tsavága/gehtjaga. Duodjár: Susanna Knutsen</p>
-    <p>Tsavága/gehtjaga. Ruoppsis ja visská oase li tsaveduvvam akti. Duodjár: Susanna Knutsen</p>
-    <p>Duodden gávnnuji avtabájnuk vuoddaga duon dán minsstarij ma li uddni dávk sæmmi dábálattja dagu tsavága. Minsstara gåhtjoduvvi <em type="italic">suolluga, viŋgoga, belaga </em>ja <em type="italic">guosaga </em>. Dåhkki dákkir minsstarijt biedjat tsavágijda aj. </p>
-    <p>Suolluga. Duodjár: Ellinor Solstrøm</p>
-    <p>Suolluga. Duodjár: Astrid-Helen Gælok</p>
-    <p>Viŋgoga. Duodjár: Susanna Knutsen</p>
-    <p>Viŋgoga. Duodjár: Karete Pedersen</p>
-    <p>Viŋgoga. Duodjár: Berit Guvsám</p>
-    <p>Guosaga. Duodjár: Anne Silja Turi</p>
-    <p>Guosaga. Duodjár: Kaja Kalstad</p>
-    <p>Belaga suollugij. Duodjár: Inga Mikkelsen</p>
-    <p>Tsavága viŋgogij. Duodjár: Susanna Knutsen</p>
-    <p>Tsavága viŋgogij. Duodjár: Berit Guvsám</p>
-    <p>Vuodobájnno l árbbedábálattjat ruoppsat, valla gåvåjs vuojnná vuoddaga ietjá bájnoj li uddni sæmmi dábálattja. Tsavága lij ruoppsis, visská, ruodná ja alek bájnojs. Girje «Julevsáme gárvo» ja «Ave, bátte ja vuoddaga» svieriga bieles subtsasti ruoppsis oasse galggá guovddelin liehket. Vuostasj girjje duodden javlla Duorbunin li gávnnum vuoddaga gånnå giehtjebájnno l ruoppsadin læhkám. Susanna Knutsen subtsas Kjerran ettjin bieja visská oasev giehtjegijda, valla visská viŋgogijt dajda álu suohppun.</p>
-    <p>Snjierágijda máhttá aj minsstarijt suohppot.</p>
-    <p>Snjierága suollugij. Duodjár: Karete Pedersen</p>
-    <p>Snjierága suollugij. Duodjár: Anne Silja Turi</p>
-    <p>Snjierága viŋgogij. Duodjár: Eskil Mikkelsen</p>
-    <p>Snjierága viŋgogij. Duodjár: Karete Pedersen</p>
-    <p>Snjierága viŋgogij. Duodjár: Berit Guvsam</p>
-    <p>Vuoddagav gábmagij gartsajn gittij. Garttsa l sassnebiehkke majt gårru gitta vuoddaga gæhtjáj. Nuppe gietjen la <em type="italic">uhtsalåhtå/unnalådusj </em>diehpijn. </p>
-    <p>Garttsa. Duodjár: Berit Guvsám</p>
-    <p>Uhtsalåhtå/unnalådusj.</p>
-    <p>Muhtema javlli <em type="italic">unnalådusj </em>ja muhtema vat <em type="italic">uhtselåhtå </em>. Sæmmi ássje birra l berustahtek sáhka, namálattjat unna giehtsep lådåga birra mij la vuoddaga gietjen. </p>
-    <p>Garttsa ja unnalådusj. Duodjár: Berit Guvsám</p>
-    <p>Álgon tjálliv vuoddaga lådåduvvi ja e snjisjkoduvá, valla ij lim dat ållu riekta. Barggovuoddaga álu snjisjkoduvvin, subtsas Susanna Knutsen. Navti aj tjuodtju Aira, Tuolja ja Pirtsi Sandberga girjen. Barggovuoddaga, jali árggavuoddaga, lidjin avtabájnuk vuoddaga girjakhárpoj dagi, ja danen li álkkep dajt snjissjkot farra dan låhtåt. Danen gå aneduvvin bæjválasj iellemin duon dán bargoj aktijvuodan lidjin da tjáhppada jali russjkada.</p>
-    <p>Barggovuoddaga. Duodjár: Susanna Knutsen</p>
-    <p>Gáldo:</p>
-    <p xml:lang="nob">Aira, Elsa (2000). Ave, bátte ja vuoddaga. Band fra lulesamiskt område.</p>
-    <p>Aira, Elsa; Tuolja, Karin; Sanberg, Anna-Lisa Pirtsi (1995). Julevsáme gárvo. Lulesamiska dräkter.</p>
-    <p>Knutsen, Susanna. Informánnta.</p>
-    <p xml:lang="nob">Category: Bago duodjebago (ord) , Kofter og utstyr (trad.) , Sámegiellaj</p>
-    <p xml:lang="nob">By sandrarahka</p>
-    <p type="title" xml:lang="nob">Author: sandrarahka</p>
-    <p type="title" xml:lang="nob">Related Posts</p>
-    <p xml:lang="nob">Vadmel / Vádas fra Kjær</p>
-    <p xml:lang="nob">Sasnev dilkkot / Skinnberedning</p>
-    <p>Vuoddaga</p>
-    <p xml:lang="nob">Lissto</p>
-    <p xml:lang="nob">Lissto</p>
-    <p>Sliehppá</p>
-    <p xml:lang="nob">Go to Top</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Vuoddaga</title><genre code="facta"/><author><unknown/></author><year>2015</year><wordcount>903</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="nob"/></multilingual><origFileName>https://www.tysfjordasvo.no/vuoddaga/</origFileName><parallel_text xml:lang="nob" location="vuoddaga_nob.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Skip to content</p>
+<p xml:lang="nob">Tysfjord ASVO | Tiltaksarrangør fra NAV som arrangerer duodjeprosjekter, nettbutikk, trening, kurs, utstilling, tilrettelegging</p>
+<p xml:lang="nob">Vi vil gi mennesker med yrkeshemming muligheter til å delta i et aktivt yrkesliv</p>
+<list><p type="listitem" xml:lang="nob">PRODUKSJONER   <list><p type="listitem">Duodje</p>
+<p type="listitem" xml:lang="nob">Duodjebloggen</p>
+<p type="listitem" xml:lang="nob">Skinnberedning (garveri/dilkudahka)</p>
+<p type="listitem" xml:lang="nob">Drag kommunale industrikai</p>
+<p type="listitem" xml:lang="nob">Miljøstasjon Tysfjord</p>
+<p type="listitem" xml:lang="nob">Skogsdrift</p>
+<p type="listitem" xml:lang="nob">Vaskeritjenester</p>
+<p type="listitem" xml:lang="nob">Vedproduksjon</p>
+<p type="listitem" xml:lang="nob">Verksted</p>
+<p type="listitem" xml:lang="nob">Virkeproduksjon</p>
+</list></p>
+<p type="listitem" xml:lang="nob">TRENINGSSENTER   <list><p type="listitem" xml:lang="nob">Åpningstider</p>
+<p type="listitem" xml:lang="nob">Trening i speilsalen</p>
+<p type="listitem" xml:lang="nob">Priser</p>
+<p type="listitem" xml:lang="nob">Medlemsvilkår</p>
+<p type="listitem" xml:lang="nob">For unge fra 16 år</p>
+<p type="listitem" xml:lang="nob">Kontroll</p>
+<p type="listitem" xml:lang="nob">Gruppetrening</p>
+<p type="listitem" xml:lang="nob">Lett på tå – for barn og unge</p>
+</list></p>
+<p type="listitem" xml:lang="nob">BUTIKK   <list><p type="listitem" xml:lang="nob">Vilkår</p>
+</list></p>
+<p type="listitem" xml:lang="nob">ANDRE TILBUD   <list><p type="listitem" xml:lang="nob">Samiske dager / Sámebiejve</p>
+<p type="listitem" xml:lang="nob">Ut på tur i Dragsområdet</p>
+<p type="listitem" xml:lang="nob">Mineralløpet</p>
+<p type="listitem" xml:lang="nob">Folkehelse</p>
+<p type="listitem" xml:lang="nob">Workshop kunstmaling</p>
+<p type="listitem" xml:lang="nob">Utstillinger</p>
+<p type="listitem" xml:lang="nob">Prosjekter   <list><p type="listitem" xml:lang="nob">Onsdagsduodje som språkkafé</p>
+<p type="listitem" xml:lang="nob">Gravering i tre/horn</p>
+<p type="listitem" xml:lang="nob">Tysfjord Vest</p>
+<p type="listitem" xml:lang="nob">Lulesamisk språkprosjekt</p>
+<p type="listitem">Duodje revitalisering</p>
+<p type="listitem" xml:lang="nob">Motivasjonseminar for kvinner</p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="nob">ARBEID OG LÆRING   <list><p type="listitem">Varig tilrettelagt arbeid (VTA) / Ádjanis hiebadum barggo</p>
+<p type="listitem" xml:lang="nob">Inkluderende bedrift</p>
+<p type="listitem" xml:lang="nob">Inkluderende kommune</p>
+<p type="listitem" xml:lang="nob">Lærling/lærekandidat</p>
+<p type="listitem" xml:lang="nob">Kurs / Kurrsa</p>
+<p type="listitem" xml:lang="nob">Rettigheter</p>
+</list></p>
+<p type="listitem" xml:lang="nob">OM OSS   <list><p type="listitem">Klageadgang / Gujddimmáhttelisvuohta</p>
+<p type="listitem" xml:lang="nob">KONTAKT</p>
+</list></p>
+</list><p xml:lang="nob">0</p>
+<p xml:lang="nob">View Cart Checkout</p>
+<list><p type="listitem" xml:lang="nob">No products in the cart.</p>
+</list><p xml:lang="nob"><em type="italic">Subtotal: </em>kr  0  </p>
+<p xml:lang="nob">View Cart Checkout</p>
+<list><p type="listitem" xml:lang="nob">PRODUKSJONER   <list><p type="listitem">Duodje</p>
+<p type="listitem" xml:lang="nob">Duodjebloggen</p>
+<p type="listitem" xml:lang="nob">Skinnberedning (garveri/dilkudahka)</p>
+<p type="listitem" xml:lang="nob">Drag kommunale industrikai</p>
+<p type="listitem" xml:lang="nob">Miljøstasjon Tysfjord</p>
+<p type="listitem" xml:lang="nob">Skogsdrift</p>
+<p type="listitem" xml:lang="nob">Vaskeritjenester</p>
+<p type="listitem" xml:lang="nob">Vedproduksjon</p>
+<p type="listitem" xml:lang="nob">Verksted</p>
+<p type="listitem" xml:lang="nob">Virkeproduksjon</p>
+</list></p>
+<p type="listitem" xml:lang="nob">TRENINGSSENTER   <list><p type="listitem" xml:lang="nob">Åpningstider</p>
+<p type="listitem" xml:lang="nob">Trening i speilsalen</p>
+<p type="listitem" xml:lang="nob">Priser</p>
+<p type="listitem" xml:lang="nob">Medlemsvilkår</p>
+<p type="listitem" xml:lang="nob">For unge fra 16 år</p>
+<p type="listitem" xml:lang="nob">Kontroll</p>
+<p type="listitem" xml:lang="nob">Gruppetrening</p>
+<p type="listitem" xml:lang="nob">Lett på tå – for barn og unge</p>
+</list></p>
+<p type="listitem" xml:lang="nob">BUTIKK   <list><p type="listitem" xml:lang="nob">Vilkår</p>
+</list></p>
+<p type="listitem" xml:lang="nob">ANDRE TILBUD   <list><p type="listitem" xml:lang="nob">Samiske dager / Sámebiejve</p>
+<p type="listitem" xml:lang="nob">Ut på tur i Dragsområdet</p>
+<p type="listitem" xml:lang="nob">Mineralløpet</p>
+<p type="listitem" xml:lang="nob">Folkehelse</p>
+<p type="listitem" xml:lang="nob">Workshop kunstmaling</p>
+<p type="listitem" xml:lang="nob">Utstillinger</p>
+<p type="listitem" xml:lang="nob">Prosjekter   <list><p type="listitem" xml:lang="nob">Onsdagsduodje som språkkafé</p>
+<p type="listitem" xml:lang="nob">Gravering i tre/horn</p>
+<p type="listitem" xml:lang="nob">Tysfjord Vest</p>
+<p type="listitem" xml:lang="nob">Lulesamisk språkprosjekt</p>
+<p type="listitem">Duodje revitalisering</p>
+<p type="listitem" xml:lang="nob">Motivasjonseminar for kvinner</p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="nob">ARBEID OG LÆRING   <list><p type="listitem">Varig tilrettelagt arbeid (VTA) / Ádjanis hiebadum barggo</p>
+<p type="listitem" xml:lang="nob">Inkluderende bedrift</p>
+<p type="listitem" xml:lang="nob">Inkluderende kommune</p>
+<p type="listitem" xml:lang="nob">Lærling/lærekandidat</p>
+<p type="listitem" xml:lang="nob">Kurs / Kurrsa</p>
+<p type="listitem" xml:lang="nob">Rettigheter</p>
+</list></p>
+<p type="listitem" xml:lang="nob">OM OSS   <list><p type="listitem">Klageadgang / Gujddimmáhttelisvuohta</p>
+<p type="listitem" xml:lang="nob">KONTAKT</p>
+</list></p>
+</list><p type="title">Vuoddaga</p>
+<p>Vuoddaga li bátte majt bádjasa birra gæssá. Da ælla snjisjkodum bátte dagu avve ja lissto, valla li lådåduvvam.</p>
+<p>Dállidum gábmága aktan vuoddagijn. Duodár: Berit Guvsám</p>
+<p>Dát bloaggatjállus ij snivva tjielggi låhtåm-minsstarijt jalik jur gåktu låhtå. Gehtjasta Harrieth Aira bloaggatjállusav jages 2013 gånnå julevsáme vuoddaga lidjin tiebmán. Danna gávna oanes video gånnå Lill-Tove Paulsen subtsas juohkka minsstara birra ja aj låhtåma birra gájkkásattjat.</p>
+<p>Gáma aktan vuoddagijn. Duodjár: Marie Amundsen</p>
+<p>Vuoddaga lådåduvvi låhtåmmuorajn. Susanna Knutsen subtsas buorre låhtåmmuorra ij la ållu njuolgga, valla la vehik såddjot.</p>
+<p>Låhtåmmuorra lådågijn</p>
+<p>Ålmåjvuoddaga gåhtjoduvvi <em type="italic">snjierága </em>ja árbbedábálattjat lådåduvvin ruoppsis ja alek, jali ruoppsis, alek ja ruodná bájnojs. Uddni vuojnná aj vuoddagijt ietjá bájnoj, valla li agev snjierága. </p>
+<p>Snjierága. Duodjár: Lotte Ekhorn Gælok</p>
+<p>Gávnnuji guokta slája nissunvuoddaga. <em type="italic">Tsavága </em>li vuoddaga gålmåt oases iesjguhtik bájnoj. Elsa Aira girjenis tjállá tsavága li ienemus árbbedábálattja ja sierraláhkáj bassebiejvijda dajda tjágŋin. Susanna Knutsen subtsas Kjerran Kjerran gåhttjun dakkir vuoddagijt <em type="italic">gehtjagin </em>danen gå dakkir vuoddagijn lidjin nav moadde gietje. Subtsas iehtjáda, ja sierraláhkáj vuona sinna, dakkir vuoddagijt <em type="italic">tsavágin </em>gåhttjun, soajttá danen gå guokta oase li tsaveduvvam akti. </p>
+<p>Tsavága/gehtjaga. Duodjár: Susanna Knutsen</p>
+<p>Tsavága/gehtjaga. Ruoppsis ja visská oase li tsaveduvvam akti. Duodjár: Susanna Knutsen</p>
+<p>Duodden gávnnuji avtabájnuk vuoddaga duon dán minsstarij ma li uddni dávk sæmmi dábálattja dagu tsavága. Minsstara gåhtjoduvvi <em type="italic">suolluga, viŋgoga, belaga </em>ja <em type="italic">guosaga </em>. Dåhkki dákkir minsstarijt biedjat tsavágijda aj. </p>
+<p>Suolluga. Duodjár: Ellinor Solstrøm</p>
+<p>Suolluga. Duodjár: Astrid-Helen Gælok</p>
+<p>Viŋgoga. Duodjár: Susanna Knutsen</p>
+<p>Viŋgoga. Duodjár: Karete Pedersen</p>
+<p>Viŋgoga. Duodjár: Berit Guvsám</p>
+<p>Guosaga. Duodjár: Anne Silja Turi</p>
+<p>Guosaga. Duodjár: Kaja Kalstad</p>
+<p>Belaga suollugij. Duodjár: Inga Mikkelsen</p>
+<p>Tsavága viŋgogij. Duodjár: Susanna Knutsen</p>
+<p>Tsavága viŋgogij. Duodjár: Berit Guvsám</p>
+<p>Vuodobájnno l árbbedábálattjat ruoppsat, valla gåvåjs vuojnná vuoddaga ietjá bájnoj li uddni sæmmi dábálattja. Tsavága lij ruoppsis, visská, ruodná ja alek bájnojs. Girje «Julevsáme gárvo» ja «Ave, bátte ja vuoddaga» svieriga bieles subtsasti ruoppsis oasse galggá guovddelin liehket. Vuostasj girjje duodden javlla Duorbunin li gávnnum vuoddaga gånnå giehtjebájnno l ruoppsadin læhkám. Susanna Knutsen subtsas Kjerran ettjin bieja visská oasev giehtjegijda, valla visská viŋgogijt dajda álu suohppun.</p>
+<p>Snjierágijda máhttá aj minsstarijt suohppot.</p>
+<p>Snjierága suollugij. Duodjár: Karete Pedersen</p>
+<p>Snjierága suollugij. Duodjár: Anne Silja Turi</p>
+<p>Snjierága viŋgogij. Duodjár: Eskil Mikkelsen</p>
+<p>Snjierága viŋgogij. Duodjár: Karete Pedersen</p>
+<p>Snjierága viŋgogij. Duodjár: Berit Guvsam</p>
+<p>Vuoddagav gábmagij gartsajn gittij. Garttsa l sassnebiehkke majt gårru gitta vuoddaga gæhtjáj. Nuppe gietjen la <em type="italic">uhtsalåhtå/unnalådusj </em>diehpijn. </p>
+<p>Garttsa. Duodjár: Berit Guvsám</p>
+<p>Uhtsalåhtå/unnalådusj.</p>
+<p>Muhtema javlli <em type="italic">unnalådusj </em>ja muhtema vat <em type="italic">uhtselåhtå </em>. Sæmmi ássje birra l berustahtek sáhka, namálattjat unna giehtsep lådåga birra mij la vuoddaga gietjen. </p>
+<p>Garttsa ja unnalådusj. Duodjár: Berit Guvsám</p>
+<p>Álgon tjálliv vuoddaga lådåduvvi ja e snjisjkoduvá, valla ij lim dat ållu riekta. Barggovuoddaga álu snjisjkoduvvin, subtsas Susanna Knutsen. Navti aj tjuodtju Aira, Tuolja ja Pirtsi Sandberga girjen. Barggovuoddaga, jali árggavuoddaga, lidjin avtabájnuk vuoddaga girjakhárpoj dagi, ja danen li álkkep dajt snjissjkot farra dan låhtåt. Danen gå aneduvvin bæjválasj iellemin duon dán bargoj aktijvuodan lidjin da tjáhppada jali russjkada.</p>
+<p>Barggovuoddaga. Duodjár: Susanna Knutsen</p>
+<p>Gáldo:</p>
+<p xml:lang="nob">Aira, Elsa (2000). Ave, bátte ja vuoddaga. Band fra lulesamiskt område.</p>
+<p>Aira, Elsa; Tuolja, Karin; Sanberg, Anna-Lisa Pirtsi (1995). Julevsáme gárvo. Lulesamiska dräkter.</p>
+<p>Knutsen, Susanna. Informánnta.</p>
+<p xml:lang="nob">Category: Bago duodjebago (ord) , Kofter og utstyr (trad.) , Sámegiellaj</p>
+<p xml:lang="nob">By sandrarahka</p>
+<p type="title" xml:lang="nob">Author: sandrarahka</p>
+<p type="title" xml:lang="nob">Related Posts</p>
+<p xml:lang="nob">Vadmel / Vádas fra Kjær</p>
+<p xml:lang="nob">Sasnev dilkkot / Skinnberedning</p>
+<p>Vuoddaga</p>
+<p xml:lang="nob">Lissto</p>
+<p xml:lang="nob">Lissto</p>
+<p>Sliehppá</p>
+<p xml:lang="nob">Go to Top</p>
+</body></document>

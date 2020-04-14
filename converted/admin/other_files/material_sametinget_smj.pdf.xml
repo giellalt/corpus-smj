@@ -1,29 +1,6 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2011</year>
-    <wordcount>171</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.minoritet.se/2013?file_id=1</origFileName>
-    <parallel_text xml:lang="sma" location="material_sametinget_sma.pdf"/>
-    <parallel_text xml:lang="sme" location="material_sametinget_sme.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>B. Europaráde ministarsiebrreráde oajvvadusá Svieriga Biejadusá anoduvvama gáktuj</p>
-    <p>Ministarsiebrreráde oajvvadus RecChL(2011)3 Europaráde biejadusá rijkadajva- jali unneplågogiela birra Svierigin anoduvvama gáktuj</p>
-    <p>(Ministarsiebrreráde dåhkkidij gålgådismáno 12.b. 2011 1123 tjåhkanimen ambassaderaj)</p>
-    <p>16 artihkkala milta Europaráde biejadusán rijkadajva-jali unneplågogiela birra: vieledam Svieriga deklarasjåvnåv guovvamáno 9.b. 2000; árvváladdam Ássjedåbddesiebrreráde Biejadusá árvustallamav Biejadusá anoduvvama gáktuj Svierigin; vieleda dát árvustallama la vuododum diededibmáj Svierigis gaskustuvádum sijá rijkalasj diedádusán, duoddididdje diededibme svieriga fábmudagájs, diededibme vattedum dåhkkidum orgánajs ja lihtojs Svierigin, ja diededibme Ássjedåbddesiebrrerádes viettjadum sijá manádimen; árvváladdam javllamusájt svieriga fábmudagájs sisano gáktuj Ássjedåbddesiebrreráde diedádusán; Ministarsiebrreráde oajvvat svieriga fábmudagájt tjuovvot Ássjedåbddesiebrreráde gájkka gehtjadimijt ja oajvvadusájt ja dåhkkidi vuorodibmen:</p>
-    <p>1.  nannit åhpadusáv gájkka rijkadajva- jali unneplågogielajn, praktijkalattjat anodit ålles ja hábbmidum dahkotjerdav, vuododum sáhkadiddjij dárbbuj ja gielaj vidjura milta; 2.  vissesvuodav oadtjot åhpadus <span type="quote">“iednegielan”</span>dievdeduvvá Njuolgadusá rávkalvissaj ja fállá duolla ja avtaárvulasj giellaåhpadusáv, vaj oahppe jåvsådi ålles låhkåm- ja tjállemmáhttudahkaj guosske gielajn; 3.  lasedit guovtegielak åhpadusá ednakvuodav suomagielan ja sámegielan, ja vuododit guovtegielak åhpadusáv meängielan; 4.  vuododit vuogas åhpadiddjeåhpadusáv nuoges luohkoj gájkka rijkadajva- jali unneplågogielajda; 5.  dahkat oahppamnävojt gájkka rijkadajva- jali unneplågogielajda.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><year>2011</year><wordcount>171</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.minoritet.se/2013?file_id=1</origFileName><parallel_text xml:lang="sma" location="material_sametinget_sma.pdf"/><parallel_text xml:lang="sme" location="material_sametinget_sme.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>B. Europaráde ministarsiebrreráde oajvvadusá Svieriga Biejadusá anoduvvama gáktuj</p>
+<p>Ministarsiebrreráde oajvvadus RecChL(2011)3 Europaráde biejadusá rijkadajva- jali unneplågogiela birra Svierigin anoduvvama gáktuj</p>
+<p>(Ministarsiebrreráde dåhkkidij gålgådismáno 12.b. 2011 1123 tjåhkanimen ambassaderaj)</p>
+<p>16 artihkkala milta Europaráde biejadusán rijkadajva-jali unneplågogiela birra: vieledam Svieriga deklarasjåvnåv guovvamáno 9.b. 2000; árvváladdam Ássjedåbddesiebrreráde Biejadusá árvustallamav Biejadusá anoduvvama gáktuj Svierigin; vieleda dát árvustallama la vuododum diededibmáj Svierigis gaskustuvádum sijá rijkalasj diedádusán, duoddididdje diededibme svieriga fábmudagájs, diededibme vattedum dåhkkidum orgánajs ja lihtojs Svierigin, ja diededibme Ássjedåbddesiebrrerádes viettjadum sijá manádimen; árvváladdam javllamusájt svieriga fábmudagájs sisano gáktuj Ássjedåbddesiebrreráde diedádusán; Ministarsiebrreráde oajvvat svieriga fábmudagájt tjuovvot Ássjedåbddesiebrreráde gájkka gehtjadimijt ja oajvvadusájt ja dåhkkidi vuorodibmen:</p>
+<p>1.  nannit åhpadusáv gájkka rijkadajva- jali unneplågogielajn, praktijkalattjat anodit ålles ja hábbmidum dahkotjerdav, vuododum sáhkadiddjij dárbbuj ja gielaj vidjura milta; 2.  vissesvuodav oadtjot åhpadus <span type="quote">“iednegielan”</span>dievdeduvvá Njuolgadusá rávkalvissaj ja fállá duolla ja avtaárvulasj giellaåhpadusáv, vaj oahppe jåvsådi ålles låhkåm- ja tjállemmáhttudahkaj guosske gielajn; 3.  lasedit guovtegielak åhpadusá ednakvuodav suomagielan ja sámegielan, ja vuododit guovtegielak åhpadusáv meängielan; 4.  vuododit vuogas åhpadiddjeåhpadusáv nuoges luohkoj gájkka rijkadajva- jali unneplågogielajda; 5.  dahkat oahppamnävojt gájkka rijkadajva- jali unneplågogielajda.</p>
+</body></document>

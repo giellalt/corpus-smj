@@ -1,39 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Måske jåhkå suodjaluvvam</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>158</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/maske-jahka-suodjaluvvam.4120</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Måske jåhkå suodjaluvvam</p>
-    <p>Måske jåhkå l suodjaluvvam stuorra jårmes råve badjelin gitta njálmudahkaj.</p>
-    <p>Norsk kortform/Oanegis dárogiellaj</p>
-    <p>-Jågåv hæhttu vehik suodjalit, ja stuorra jårmes råve badjelin gitta njálmudahkaj ij oattjo oaggot. Dajna sihtap guolijda ráfev vaddet. Vájbi nav sjaddi ienep guole Måske jågån, subtsas Peter Berg-Mikkelsen guhti l Måske jåhkåæjgátsebrudagá åvddåulmusj.</p>
-    <p>Måske jåhkåæjgátsebrudahka la mañemus jagijt gæhttjalam guollimav Måske jågån hiebadit nav vaj dábmuk ja luossa oadtju máhttelisvuodav jågåv bajás goarrit gådåtjit.</p>
-    <p>Diehttelis dal ij Måske jåhkå nav ålov guotte maññela gå Gåjkijjávrev dulvvadin ja jåhkå unnoj. Jågå æjgáda oadtju dajna juohkka jage rudájt elfámoviddnudagás jågåv bierggitjit. Gæhttjalam lij aj luosav sáddjit, valla huoman la binnum luosajs ja dábmugijs Måske jågån dallutjis gå jågåv dulvvadin dån jage.</p>
-    <p>Måske jåhkåæjgátsebrudahka l oasstám gállembåvsåjt, mutåvrråságav ja rádjamságav nav vaj oadtju jåhkågáttes biesstagijt gádodit ja jågån gálatjit. Tsieggim lij aj skiejátjav råve badjelin gånnå divna dájt gálvojt vuorgudi.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Måske jåhkå suodjaluvvam</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>158</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/maske-jahka-suodjaluvvam.4120</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Måske jåhkå suodjaluvvam</p>
+<p>Måske jåhkå l suodjaluvvam stuorra jårmes råve badjelin gitta njálmudahkaj.</p>
+<p>Norsk kortform/Oanegis dárogiellaj</p>
+<p>-Jågåv hæhttu vehik suodjalit, ja stuorra jårmes råve badjelin gitta njálmudahkaj ij oattjo oaggot. Dajna sihtap guolijda ráfev vaddet. Vájbi nav sjaddi ienep guole Måske jågån, subtsas Peter Berg-Mikkelsen guhti l Måske jåhkåæjgátsebrudagá åvddåulmusj.</p>
+<p>Måske jåhkåæjgátsebrudahka la mañemus jagijt gæhttjalam guollimav Måske jågån hiebadit nav vaj dábmuk ja luossa oadtju máhttelisvuodav jågåv bajás goarrit gådåtjit.</p>
+<p>Diehttelis dal ij Måske jåhkå nav ålov guotte maññela gå Gåjkijjávrev dulvvadin ja jåhkå unnoj. Jågå æjgáda oadtju dajna juohkka jage rudájt elfámoviddnudagás jågåv bierggitjit. Gæhttjalam lij aj luosav sáddjit, valla huoman la binnum luosajs ja dábmugijs Måske jågån dallutjis gå jågåv dulvvadin dån jage.</p>
+<p>Måske jåhkåæjgátsebrudahka l oasstám gállembåvsåjt, mutåvrråságav ja rádjamságav nav vaj oadtju jåhkågáttes biesstagijt gádodit ja jågån gálatjit. Tsieggim lij aj skiejátjav råve badjelin gånnå divna dájt gálvojt vuorgudi.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

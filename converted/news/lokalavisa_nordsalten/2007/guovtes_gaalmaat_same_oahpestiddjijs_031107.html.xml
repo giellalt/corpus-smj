@@ -1,48 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Guovtes gålmåt sáme oahpestiddjijs libá máttojs Divte guovlojs</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>498</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/guovtes-galmat-s-me-oahpestiddjijs-lib-m-ttojs-divte-guovlojs.4022</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sáme oahpestiddje 2007: Gåro bieles: Brita Iren Thomassen Trøndelagas, Berit Kristine Andersen Præssagåvvå</p>
-    <p type="title">Guovtes gålmåt sáme oahpestiddjijs libá máttojs Divte guovlojs</p>
-    <p>May-Synnøve Trosten (20) ja Berit Kristine Andersen Guvsám (21), goappátjij mátto libá Nuortta-Sálton, Dirvon Hábmerin ja Vuodnabadán Divtasvuonan. Aktan Brita Iren Thomasson (22) Trøndelagas libá såj oahpestiddje ja galggaba avtav jagev manádit ja sáme kultuvra ja sebrudakdile birra subtsastit.</p>
-    <p>Dát la nælját juogos sáme oahpestiddjijs gudi ietjá nuorajt iejvviji, ja navti åvdedi dádjadimev ja berustimev sámij birra. Oahpestiddje li sáme allaskåvlån Guovddagæjnon åhpaduvvam, ja da gålmmå oahpestiddje åvdåsti moattelágásj Vuona sáme geográfalasj guovlojs. Gå Knut Hamsun joarkkaskåvllå rijkajgasskasasj vahkov ásadin, de lij siján vuostasj sárnnus rijkajgasskasasj gulldaliddjijda.</p>
-    <p>Berit Kristine badjánij Stientjien (Steinkjer), valla suv mátto li Vuodnabadán ja Rudnávuonan Divtasvuonan, ja sån julevsáme guovlov åvdåstahttá. Sån la gålmmå jage sárggom-, hábbmim- ja bájnnosuorgen joarkkaskåvlån vádtsám, ja 2 jage dájddalinjav álmmukallaskåvlån. – Lev ávon gå dán bargguj gatjáduvviv, javllá sån. <span type="quote">”Sáme oahpestiddje”</span> le prosjækta giellda- ja guovllodepartementas álgaduvvam jagen 2004. Álgos lij gæhttjalimprosjækta gånnå gålmmå nuora avtav jagev manádi skåvlåjda ålles Vuonan ja subtsasti sáme kultuvra ja sebrudakdile birra. Oahpestiddje ienemusát joarkkaskåvlåjt guossidi, valla soajtti aj ietjá nuorajtjåhkanimsajijt guossidit. Åvddånbuktemav tjadádi mij la skåvllåj ja oahppijda hiebaduvvam. Máhtti dábálasj åvddånbuktemav tjadádit jali sierralágásj åvddånbuktemav skåvlåjda fállat, sávadusáj milta. Oahpestiddje li Guovddagæjno sáme allaskåvlå prosjevta baktu åhpaduvvam, váj máhtti bargostisá tjadádit.</p>
-    <p>May-Synnøve Trosten (20) åvdåstahttá nuorttasáme guovlov. Sån la Dænos gånnå luossabivddemijn badjánij. Suv ieddne le Dirvos Hábmerin, mijlla Sismeras, ja giesselåbijt le sån danna læhkám. – Valla dåssju nuorttasámegielav buvtáv, iv julevsámegielav buvte, javllá. Mañemus jagev le sáme mánájgárde ásadibmáj oassálasstám. – Muv mielas le barggo sáme oahpestiddjen geldulasj. Ålov manádip ja navti moadda ådå sajijt vuojnnep, måjut sån. – Sierraláhkáj suohtas le gå vuostasj åvddånbuktem le Knut Hamsun joarkkaskåvlån, javllá sån. Skåvllå ásadij rijkajgasskasasj vahkov, guossij duola degu Oarjje-Afrikas, ja sáme oahpestiddje lidjin gåhtjodum lågådalátjit.</p>
-    <p>Oahpestiddje li åhpadusá ja persåvnålasj hiebalasjvuoda milta válljidum. Sjuggelisvuohta ja guládallammáhtto li aj ájnas tjåvdabágo.</p>
-    <p>Diehtemahtesvuoda diehti gáddálisvuoda ja vierreájádusá badjáni, dan diehti sámevuodav hæhttup ienebut tjalmostahttet. Prosjækta galggá almma ja miellagiddis láhkáj diedulasjvuodav ådåájggásasj sáme sebrudahkaj åvdedit, ja aj sáme histåvrå ja sebrudakåvddånime birra. Ájádus le nuorajda máhttelisvuodav vaddet sáme sebrudagájn æjvvalit, sámij nuoraj ietjas tjalmij tjadá.</p>
-    <p>Sáme allaskåvllå galggá árvustallat jus galggi dáv dåjmav Suobmaj ja Svierigij stuoredit. Barggo- ja sebradahttemdepartemænnta la áttjak biednigijt juollodam dási. Brita Iren Thomassen (22) le Raavrevijhkes (Røyrvik) Trøndelagas ja åvdet oarjjelsáme guovlov. Dánna sån boatsojsujton badjánij. Gå skåvllåj álgij de hæhttuj iednestis ja áhtjestis jåhttet, sámeskåvllåj Snåsaj gånnå internáhtan åroj. Guokta maŋemus jage le goarrommáhtojt buoredam Sámij åhpadusguovdátjin Jåhkåmåhken. – Mujna li dåssju mielos vuorddemusá Sáme oahpestiddje ámmádij, måjut. Dá gålmås aktisattjat mielastuvvi gå vuojnni muodugasjvuodajt ja ærodisvuodajt gåktu le sábmen liehket iesjguhtik guovlojn. – Oahppap aj ålov guhtik guojmestimme, javlli da gålmås, gudi dá váhko li Oslo skåvlåjt guossidime.</p>
-    <p>Tæksta: Kitty Skapalen Jårggålibme: Idar Kintel</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Guovtes gålmåt sáme oahpestiddjijs libá máttojs Divte guovlojs"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Guovtes gålmåt sáme oahpestiddjijs libá máttojs Divte guovlojs</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>498</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/guovtes-galmat-s-me-oahpestiddjijs-lib-m-ttojs-divte-guovlojs.4022</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sáme oahpestiddje 2007: Gåro bieles: Brita Iren Thomassen Trøndelagas, Berit Kristine Andersen Præssagåvvå</p>
+<p type="title">Guovtes gålmåt sáme oahpestiddjijs libá máttojs Divte guovlojs</p>
+<p>May-Synnøve Trosten (20) ja Berit Kristine Andersen Guvsám (21), goappátjij mátto libá Nuortta-Sálton, Dirvon Hábmerin ja Vuodnabadán Divtasvuonan. Aktan Brita Iren Thomasson (22) Trøndelagas libá såj oahpestiddje ja galggaba avtav jagev manádit ja sáme kultuvra ja sebrudakdile birra subtsastit.</p>
+<p>Dát la nælját juogos sáme oahpestiddjijs gudi ietjá nuorajt iejvviji, ja navti åvdedi dádjadimev ja berustimev sámij birra. Oahpestiddje li sáme allaskåvlån Guovddagæjnon åhpaduvvam, ja da gålmmå oahpestiddje åvdåsti moattelágásj Vuona sáme geográfalasj guovlojs. Gå Knut Hamsun joarkkaskåvllå rijkajgasskasasj vahkov ásadin, de lij siján vuostasj sárnnus rijkajgasskasasj gulldaliddjijda.</p>
+<p>Berit Kristine badjánij Stientjien (Steinkjer), valla suv mátto li Vuodnabadán ja Rudnávuonan Divtasvuonan, ja sån julevsáme guovlov åvdåstahttá. Sån la gålmmå jage sárggom-, hábbmim- ja bájnnosuorgen joarkkaskåvlån vádtsám, ja 2 jage dájddalinjav álmmukallaskåvlån. – Lev ávon gå dán bargguj gatjáduvviv, javllá sån. <span type="quote">”Sáme oahpestiddje”</span> le prosjækta giellda- ja guovllodepartementas álgaduvvam jagen 2004. Álgos lij gæhttjalimprosjækta gånnå gålmmå nuora avtav jagev manádi skåvlåjda ålles Vuonan ja subtsasti sáme kultuvra ja sebrudakdile birra. Oahpestiddje ienemusát joarkkaskåvlåjt guossidi, valla soajtti aj ietjá nuorajtjåhkanimsajijt guossidit. Åvddånbuktemav tjadádi mij la skåvllåj ja oahppijda hiebaduvvam. Máhtti dábálasj åvddånbuktemav tjadádit jali sierralágásj åvddånbuktemav skåvlåjda fállat, sávadusáj milta. Oahpestiddje li Guovddagæjno sáme allaskåvlå prosjevta baktu åhpaduvvam, váj máhtti bargostisá tjadádit.</p>
+<p>May-Synnøve Trosten (20) åvdåstahttá nuorttasáme guovlov. Sån la Dænos gånnå luossabivddemijn badjánij. Suv ieddne le Dirvos Hábmerin, mijlla Sismeras, ja giesselåbijt le sån danna læhkám. – Valla dåssju nuorttasámegielav buvtáv, iv julevsámegielav buvte, javllá. Mañemus jagev le sáme mánájgárde ásadibmáj oassálasstám. – Muv mielas le barggo sáme oahpestiddjen geldulasj. Ålov manádip ja navti moadda ådå sajijt vuojnnep, måjut sån. – Sierraláhkáj suohtas le gå vuostasj åvddånbuktem le Knut Hamsun joarkkaskåvlån, javllá sån. Skåvllå ásadij rijkajgasskasasj vahkov, guossij duola degu Oarjje-Afrikas, ja sáme oahpestiddje lidjin gåhtjodum lågådalátjit.</p>
+<p>Oahpestiddje li åhpadusá ja persåvnålasj hiebalasjvuoda milta válljidum. Sjuggelisvuohta ja guládallammáhtto li aj ájnas tjåvdabágo.</p>
+<p>Diehtemahtesvuoda diehti gáddálisvuoda ja vierreájádusá badjáni, dan diehti sámevuodav hæhttup ienebut tjalmostahttet. Prosjækta galggá almma ja miellagiddis láhkáj diedulasjvuodav ådåájggásasj sáme sebrudahkaj åvdedit, ja aj sáme histåvrå ja sebrudakåvddånime birra. Ájádus le nuorajda máhttelisvuodav vaddet sáme sebrudagájn æjvvalit, sámij nuoraj ietjas tjalmij tjadá.</p>
+<p>Sáme allaskåvllå galggá árvustallat jus galggi dáv dåjmav Suobmaj ja Svierigij stuoredit. Barggo- ja sebradahttemdepartemænnta la áttjak biednigijt juollodam dási. Brita Iren Thomassen (22) le Raavrevijhkes (Røyrvik) Trøndelagas ja åvdet oarjjelsáme guovlov. Dánna sån boatsojsujton badjánij. Gå skåvllåj álgij de hæhttuj iednestis ja áhtjestis jåhttet, sámeskåvllåj Snåsaj gånnå internáhtan åroj. Guokta maŋemus jage le goarrommáhtojt buoredam Sámij åhpadusguovdátjin Jåhkåmåhken. – Mujna li dåssju mielos vuorddemusá Sáme oahpestiddje ámmádij, måjut. Dá gålmås aktisattjat mielastuvvi gå vuojnni muodugasjvuodajt ja ærodisvuodajt gåktu le sábmen liehket iesjguhtik guovlojn. – Oahppap aj ålov guhtik guojmestimme, javlli da gålmås, gudi dá váhko li Oslo skåvlåjt guossidime.</p>
+<p>Tæksta: Kitty Skapalen Jårggålibme: Idar Kintel</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Guovtes gålmåt sáme oahpestiddjijs libá máttojs Divte guovlojs"</span> på Facebook</p>
+</body></document>

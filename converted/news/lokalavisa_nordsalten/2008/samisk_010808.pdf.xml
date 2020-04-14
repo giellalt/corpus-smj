@@ -1,45 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>- Muddo l dal sáme- gássjelisvuodajn ållit</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Karianne" lastname="Sørgård Olsen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2008</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>71</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_010808.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p xml:lang="nob">Tæksta: Karianne Sørgård Olsen</p>
-    <p>Jårggålibme: Idar Kintel</p>
-    <p>Unneplågoj diktim</p>
-    <p>Idjabargge</p>
-    <p>juojddá ruopptot dassta majt mån tjáláv, javlláSkåden.Tjuovo gus dån girjjeltjállejahtojt?- Hehe, mån lev tjielggus, ja iv visská post-itbæhkátjit  guottálda  gånnå  galgav  smávvaversatjijt tjállet. Lagámus majt boadáv jahtojdale  gå  iv  tjále  avtses  nælljáj.  Idja  le  buorrebarggamájgge, tjajmmá sån.</p>
-    <p>Girjjetjálleæjvvalibme  Sigbjørn  Skådenijn  lebårggemáno 6 biejve Skogheiman.</p>
-    <p xml:lang="nob"><em type="italic">Buoremus. Sigbjørn Skådenamielas le Knut Hamsun vuonaåvdemus girjjetjálle.Den beste. Sigbjørn Skådenregner Hamsun som den største</em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>- Muddo l dal sáme- gássjelisvuodajn ållit</title><genre code="news"/><author><person firstname="Karianne" lastname="Sørgård Olsen" sex="f" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2008</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>71</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_010808.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p xml:lang="nob">Tæksta: Karianne Sørgård Olsen</p>
+<p>Jårggålibme: Idar Kintel</p>
+<p>Unneplågoj diktim</p>
+<p>Idjabargge</p>
+<p>juojddá ruopptot dassta majt mån tjáláv, javlláSkåden.Tjuovo gus dån girjjeltjállejahtojt?- Hehe, mån lev tjielggus, ja iv visská post-itbæhkátjit  guottálda  gånnå  galgav  smávvaversatjijt tjállet. Lagámus majt boadáv jahtojdale  gå  iv  tjále  avtses  nælljáj.  Idja  le  buorrebarggamájgge, tjajmmá sån.</p>
+<p>Girjjetjálleæjvvalibme  Sigbjørn  Skådenijn  lebårggemáno 6 biejve Skogheiman.</p>
+<p xml:lang="nob"><em type="italic">Buoremus. Sigbjørn Skådenamielas le Knut Hamsun vuonaåvdemus girjjetjálle.Den beste. Sigbjørn Skådenregner Hamsun som den største</em> </p>
+</body></document>

@@ -1,145 +1,91 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>943</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/4-jahkedasse/ahpadimgarvvidusbuojkulv/index.html</origFileName>
-    <parallel_text xml:lang="nob" location="sfs_veiledning_8_undervisningsopplegg-forte.html"/>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_8_undervisningsopplegg-fortel.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_8_undervisningsopplegg-fortelling.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Åhpadimgárvvidusbuojkulvisá: Subtsas</p>
-    <p type="title">Åhpadimgárvvidusbuojkulvisá: Subtsas</p>
-    <p xml:lang="nob">Hovedinnhold</p>
-    <p><em type="italic">Dásse: </em>3.-4. jahkedásse </p>
-    <p><em type="italic">Tiebmá: </em>subtsas </p>
-    <p><em type="italic">Ájgge: </em>gålmmåt tijmas vidá tijmmaj </p>
-    <p xml:lang="nob">Vis alle</p>
-    <p type="title">Álgadus</p>
-    <p>Dát åhpadimgárvvidus le buojkulvis gåktu barggat 3. ja 4. jahkedásijn. Máhtudakmihto máhtti vuojnnuj boahtet åhpadusmihttomierijn, degu lávkke gåktu máhtudakmihtojt jåksåt. Åhpadimgárvvidus vuoset duojt dájt barggamvuogijt, gåktu vuodotjehpudagá åvtåstuhteduvvi ja gåktu åhpadiddje hiebat åhpadusáv oahppijda ja sijájt bargadahttijn árvustallá. Dánna le buojkulvis gåktu ietjas ja guhtik guojmesa árvustallat.</p>
-    <p>Dát åhpadusgárvvidus le gåktu subttsasijt tjállet ja ij ållåsit gåbtjå vuostasj máhtudakmihtov.</p>
-    <p type="title">Máhtudakmihto ML06-S an</p>
-    <p>
-      <em type="italic">Máhtudakmihto 4.jahkedáse maŋŋela </em>
-    </p>
-    <p>Tjálalasj guládallam</p>
-    <p>
-      <em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em>
-    </p>
-    <list>
-      <p type="listitem">tjállet subttsasijt, divtajt, girjijt ja ássjetevstajt</p>
-      <p type="listitem">dahkat tevstajt bajelttjállagijn, álgadusájn ja låhpadusájn</p>
-    </list>
-    <p type="title">Åhpadusmihttomiere</p>
-    <p>Máhtudakmihto båhti vuojnnusij åhpadusmihttomierijn, ma li lávke gåktu jåksåt máhtudakmihtojt.</p>
-    <p>Oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">gárvedit subttsasav</p>
-      <p type="listitem">vaddet subttsasij bajelttjállagav</p>
-      <p type="listitem">tjállet álgov</p>
-      <p type="listitem">tjállet oajvveoasev</p>
-      <p type="listitem">tjállet låhpadimev</p>
-      <p type="listitem">tjállet ålles gárgadisájt</p>
-      <p type="listitem">adnet merkajt tjuokkajt ja gatjálvismerkajt</p>
-      <p type="listitem">stuorra álggobokstávajt namájn ja merkaj maŋŋela tjállet.</p>
-    </list>
-    <p type="title">Vuodotjehpudagá</p>
-    <p><em type="italic">Máhttet låhkåt: </em>Oahppe ietjasa subttsasav duolla låhki, avtatrajes, riekta jienadi ja luondulasj intonasjåvnåjn. </p>
-    <p><em type="italic">Máhttet tjálálattjat åvddånbuktet: </em>Oahppe tjálli subttsasav ja dættodi majt åhpadusmihttomiere bukti åvddån. </p>
-    <p><em type="italic">Máhttet digitála ræjdojt adnet: </em>Oahppe hárjjáni tjállemprográmmajt adnet gå subttsasijt tjálli. Moatte oahppijda le ienep mielludahtte digitálalattjat tjállet gå giedaj tjállet. Álkke le oahppijda divvot ja buoredit tevstav gå pc’ajn tjálli. </p>
-    <p type="title">Álgadibme</p>
-    <p>Åhpadiddje tjállá subttsasav mij doajmmá modællan/åvddågåvven gåktu subtsas le dagádum, ja låhkå dav oahppijda. Subtsas mij la tjáledum oahppes máhttá aj aneduvvat jus la dågålasj rávkkamij milta majt åhpadusmihttomiere åvddånbukti.</p>
-    <p>Oahpásmahtttet bargov gåktu subttsasav tjállet dan láhkáj vaj máhttá måvtåstuhttet oahppijt ávojn tjállet. Muhtem oahppe måvtåstuvvi gå diehti nágin galggá låhkåt jali gulldalit sijá subttsasav. Sij de oadtju dåbddåt bargon le ájggomus, ja nav de sjaddá ienebut ávkálasj. Vállji tiemájt ma árvvedahtte li miellagiddisa, jali dibde sijáv ietjasa tiemáv válljit. Oahppe máhtti tjåhkkåhit aktan degu gievllen ja njálmálasj subttsasav aktan dahkat. Guhtik vuorov máhtti sij dahkat guhtik gárgadisáv.</p>
-    <p type="title">Oahppamdåjma</p>
-    <p>
-      <em type="italic">Tjállet subttsasav </em>
-    </p>
-    <p>Vuostak oahppe aktan ájáduskártav dahki. Sij oadtju ájádallamájgev ja bukti maŋŋela oajvvádusájt. Åhpadiddje ájádusájt táblluj tjállá, ja oahppe válljiji man birra sihti tjállet, oajvvádusáj milta.</p>
-    <p>Oahppe dahki ájáduskártav ietja ja adni dav gå ásadi sisanov ietjasa subttsasijda. Ájnas elementa máhtti liehket ulmutja, bájke, ájge ja dáhpádusá.</p>
-    <p>Maŋŋela álggi oahppe subttsasijt giedajn jali pc’ajn tjállet.</p>
-    <p>
-      <em type="italic">Ietjá lahkanime </em>
-    </p>
-    <list>
-      <p type="listitem">Åhpadiddje vaddá oahppijda gålmmå jali vihtta bágo ma galggi maŋen subttsasin, duola degu giesse, lávgudit, guollit, bena ja gállet.</p>
-      <p type="listitem">Oahppe oajvvádi bágojt ma tjáleduvvi táblluj, ma báhkobáŋŋkan sjaddi gåsstå máhtti viedtjat bágojt</p>
-      <p type="listitem">Åhpadiddje oahpásmahttá figuvrav jali vuoset diŋgav jali diŋgajt ma galggi liehket subttsasin</p>
-      <p type="listitem">Oahppe tjálli vattedum tiemás majt åhpadiddje diehtá moattes berusti.</p>
-      <p type="listitem">Oahppe oadtju subtsasnamáv</p>
-      <p type="listitem">Oahppe oadtju subttsasa álgov</p>
-      <p type="listitem">Åhpadiddje vuoset oahppijda gåvåv man birra sij tjálli subttsasav.</p>
-      <p type="listitem">Åhpadiddje ja oahppe biesskedi gåvåjt avijsajs ja vahkkobládijs. Oahppe válljiji gåvåv jali giessi gåvåv mij sjaddá vuodon subttsasij.</p>
-      <p type="listitem">Oahppe gæhttji gåvåjt gåvvårájdojn ja tjálli subttsasav dassta</p>
-      <p type="listitem">Åhpadiddje låhkå muhtem subttsasa álgov, ja oahppe joarkki ja tjálli ienebuv. Lågå ienebuv dán birra girjen majt le tjállám Wirkola &amp; Baal jali Susegg</p>
-      <p type="listitem">Oahppe låhki dålusj subttsasijt arvusmahttemin , jali åhpadiddje låhkå dålusj subttsasijt sidjij tjavgga.</p>
-      <p type="listitem">Åhpadiddje låhkå muhtem subttsasav, ja oahppe adni dav modællan jali arvusmahttemin tjálátjit ietjasa subttsasijt.</p>
-    </list>
-    <p type="title">Hiebadum åhpadus</p>
-    <p>Ájnas le oadtjot divna oahppijt oassálasstátjit ságastit subttsasa birra nav vaj sij plánav dahki ja åvddånbukti dav åvddål gå tjálláji.</p>
-    <p>Gå oahppe tjálli ájáduskártav, máhttá åhpadiddje viehkedit sijáv gávnnat bágojt ja hábbmedit gárgadisájt. Tállajt biedjat / nummererit bágojt ájáduskártan máhttá liehket viehkken gå galggá mujttet gudik årnikin ájádusá galggi subttsasin.</p>
-    <p>Tjállet gárgadisájt gåvåjda gåvvårájdon máhttá viehkken strukturerit subttsasav.</p>
-    <p>Oahppe galla máhtti sárggot subttsasav vuostak ja da esski tjállet.</p>
-    <p>Muhtem oahppijt le dárbbo viehkedit gárgadisájt hábbmedit jali oadtjot gárgadisájt dagádum gå li subttsasijn barggamin.</p>
-    <p>Muhtem oahppe bukti ja siján le aj miella tjállet guhka subttsasijt ja máhtti barggat dajna sæmmi subttsasijn mælggadav, madin ietjá oahppe álggi ådå ja ietjá bargojda. Muhtem oahppe gis máhtti moadda subttsasa tjállet.</p>
-    <p>Jus oahppe le tjállam sierralágásj oanegis subttsasav, máhttá åhpadiddje kopierit dav, biesskedit dav luondulasj oasijda ja lijmmit dajt ådå árkkaj nav vaj sjaddi rabás gasska. De oahppe máhttá duoddit ienep gárgadisájt vaj oadtju ienep dárkkelap subttsasav. Dát diehttelis ruvva dagáduvvá jus oahppe tjállá pc’ajn.</p>
-    <p type="title">Árvustallam</p>
-    <p>
-      <em type="italic">Árvustallam bargadahttijn </em>
-    </p>
-    <p>Oahppe galggi aktelasj tjállemprosessa tjadá bagádusájt oadtjot, ja åhpadusmihttomiere galggi bagádusán vuodon. Åhpadiddje alot oahppijt tjálátjit gå vaddá konkrehtalasj oajvvádusájt jali gå dibddá oahppev buktet oajvvádusájt ságastallama baktu.</p>
-    <p>Ájnas le tsuojggit mij la buorre subttsasin, duola degu subttsasin le namma, álggo ja loahppa, ahte oahppe tjuovvu tiemáv jali le buorre aktijvuohta /ruoppsis lájgge subttsasin. Oahppe joarkki dajna mij la buorre.</p>
-    <p>Åhpadiddje diedet aj majt oahppe máhttá dahkat mij subttsasav buoret, duola degu oatjot ienep oasijt oajvveoasen, mujttet låhpadimev jali gæhttjat tjadá subttsasav ja biedjat merkajt ja stuorra álggobokstávajt tjuokkaj maŋŋela.</p>
-    <p>
-      <em type="italic">Oahppe ietjasa ja guhktik guojmesa árvustalli </em>
-    </p>
-    <p>Duodden árvustallamij bargadahttijn åhpadiddjes máhtti oahppe ietjasa ja guhtik guojmesa árvustallat.</p>
-    <p>Dála le buojkulvissjiebmá majt oahppe máhtti adnet gå ietjasa árvustalli. Dát sjiebmá máhttá aj aneduvvat gå oahppe galggi vaddet diedojt guhtik guojmmásij.Dån biejaduvvá mån saddjáj.</p>
-    <p>Namma:</p>
-    <p>Biejvve:</p>
-    <p>
-      <em type="bold">Åhpadusmihttomierre </em>
-    </p>
-    <p>
-      <em type="bold">Dáv iv máhte nuoges buoragit </em>
-    </p>
-    <p>
-      <em type="bold">Dáv máhtáv </em>
-    </p>
-    <p>
-      <em type="bold">Dáv máhtáv huj buoragit </em>
-    </p>
-    <p>Mån máhtáv ásadit subttsasav ájáduskárta baktu.</p>
-    <p>Mån máhtáv tjállet subttsasav bajelttjálajn, álgadimijn, ja låhpadimijn.</p>
-    <p>Mån máhtáv tjállet ålles gárgadisájt.</p>
-    <p>Mån máhtáv bårddot tjuokkajt ja gatjálvismerkajt.</p>
-    <p>Mån máhtáv tjállet stuorra Álgadusbokstávav namán ja merkaj maŋŋela.</p>
-    <p type="title" xml:lang="nob">Resursa</p>
-    <p xml:lang="nob">SUSEGG, BRIT ARNA 2003: Verket-leseren-livet. En ny litteraturdidaktikk. Oslo: Cappelen akademisk forlag.</p>
-    <p>WIRKOLA, KIRSTEN - BAAL, LISA 2000: Hoahkat ja stoahkat. Rávvagat mo sámegielain bargat 1. luohkás. [Guovdageaidnu]: Sámediggi</p>
-    <p>KAIA KALSTAD: Giella fábmo, låhkåmgirjje ja barggogirjje, Báhko 2006</p>
-    <p xml:lang="nob">Småsagor – julevsáme CD, Sveriges Utbildingsradio AB 2009</p>
-    <p>Tjoavde 1-4, web bielle, http://e-skuvla.no/?dokument=2009-12-10.11:20:05.txt</p>
-    <p>KAREN INGA EIRA, INGER ELLEN GAUP, Ánin dánin Muv låhkåmgirjje Davvi Girjji 2009</p>
-    <p>INGA KARLSEN: Jåvvåviellja, gålmmå girje. Davvi Girji OS</p>
-    <p>BÅRJÅS 2007, magasijnna Árranis, Divtasvuonan</p>
-    <p>HARALD GRUNDSTRØM; Dålusj giehto, Blaasværs forlag 1993</p>
-    <p>INGA LAILA HÆTTA: Mån Måj Mij, Iđut</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>943</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/4-jahkedasse/ahpadimgarvvidusbuojkulv/index.html</origFileName><parallel_text xml:lang="nob" location="sfs_veiledning_8_undervisningsopplegg-forte.html"/><parallel_text xml:lang="sma" location="sfs_veiledning_8_undervisningsopplegg-fortel.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_8_undervisningsopplegg-fortelling.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Åhpadimgárvvidusbuojkulvisá: Subtsas</p>
+<p type="title">Åhpadimgárvvidusbuojkulvisá: Subtsas</p>
+<p xml:lang="nob">Hovedinnhold</p>
+<p><em type="italic">Dásse: </em>3.-4. jahkedásse </p>
+<p><em type="italic">Tiebmá: </em>subtsas </p>
+<p><em type="italic">Ájgge: </em>gålmmåt tijmas vidá tijmmaj </p>
+<p xml:lang="nob">Vis alle</p>
+<p type="title">Álgadus</p>
+<p>Dát åhpadimgárvvidus le buojkulvis gåktu barggat 3. ja 4. jahkedásijn. Máhtudakmihto máhtti vuojnnuj boahtet åhpadusmihttomierijn, degu lávkke gåktu máhtudakmihtojt jåksåt. Åhpadimgárvvidus vuoset duojt dájt barggamvuogijt, gåktu vuodotjehpudagá åvtåstuhteduvvi ja gåktu åhpadiddje hiebat åhpadusáv oahppijda ja sijájt bargadahttijn árvustallá. Dánna le buojkulvis gåktu ietjas ja guhtik guojmesa árvustallat.</p>
+<p>Dát åhpadusgárvvidus le gåktu subttsasijt tjállet ja ij ållåsit gåbtjå vuostasj máhtudakmihtov.</p>
+<p type="title">Máhtudakmihto ML06-S an</p>
+<p><em type="italic">Máhtudakmihto 4.jahkedáse maŋŋela </em></p>
+<p>Tjálalasj guládallam</p>
+<p><em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em></p>
+<list><p type="listitem">tjállet subttsasijt, divtajt, girjijt ja ássjetevstajt</p>
+<p type="listitem">dahkat tevstajt bajelttjállagijn, álgadusájn ja låhpadusájn</p>
+</list><p type="title">Åhpadusmihttomiere</p>
+<p>Máhtudakmihto båhti vuojnnusij åhpadusmihttomierijn, ma li lávke gåktu jåksåt máhtudakmihtojt.</p>
+<p>Oahppe galggá máhttet</p>
+<list><p type="listitem">gárvedit subttsasav</p>
+<p type="listitem">vaddet subttsasij bajelttjállagav</p>
+<p type="listitem">tjállet álgov</p>
+<p type="listitem">tjállet oajvveoasev</p>
+<p type="listitem">tjállet låhpadimev</p>
+<p type="listitem">tjállet ålles gárgadisájt</p>
+<p type="listitem">adnet merkajt tjuokkajt ja gatjálvismerkajt</p>
+<p type="listitem">stuorra álggobokstávajt namájn ja merkaj maŋŋela tjállet.</p>
+</list><p type="title">Vuodotjehpudagá</p>
+<p><em type="italic">Máhttet låhkåt: </em>Oahppe ietjasa subttsasav duolla låhki, avtatrajes, riekta jienadi ja luondulasj intonasjåvnåjn. </p>
+<p><em type="italic">Máhttet tjálálattjat åvddånbuktet: </em>Oahppe tjálli subttsasav ja dættodi majt åhpadusmihttomiere bukti åvddån. </p>
+<p><em type="italic">Máhttet digitála ræjdojt adnet: </em>Oahppe hárjjáni tjállemprográmmajt adnet gå subttsasijt tjálli. Moatte oahppijda le ienep mielludahtte digitálalattjat tjállet gå giedaj tjállet. Álkke le oahppijda divvot ja buoredit tevstav gå pc’ajn tjálli. </p>
+<p type="title">Álgadibme</p>
+<p>Åhpadiddje tjállá subttsasav mij doajmmá modællan/åvddågåvven gåktu subtsas le dagádum, ja låhkå dav oahppijda. Subtsas mij la tjáledum oahppes máhttá aj aneduvvat jus la dågålasj rávkkamij milta majt åhpadusmihttomiere åvddånbukti.</p>
+<p>Oahpásmahtttet bargov gåktu subttsasav tjállet dan láhkáj vaj máhttá måvtåstuhttet oahppijt ávojn tjállet. Muhtem oahppe måvtåstuvvi gå diehti nágin galggá låhkåt jali gulldalit sijá subttsasav. Sij de oadtju dåbddåt bargon le ájggomus, ja nav de sjaddá ienebut ávkálasj. Vállji tiemájt ma árvvedahtte li miellagiddisa, jali dibde sijáv ietjasa tiemáv válljit. Oahppe máhtti tjåhkkåhit aktan degu gievllen ja njálmálasj subttsasav aktan dahkat. Guhtik vuorov máhtti sij dahkat guhtik gárgadisáv.</p>
+<p type="title">Oahppamdåjma</p>
+<p><em type="italic">Tjállet subttsasav </em></p>
+<p>Vuostak oahppe aktan ájáduskártav dahki. Sij oadtju ájádallamájgev ja bukti maŋŋela oajvvádusájt. Åhpadiddje ájádusájt táblluj tjállá, ja oahppe válljiji man birra sihti tjállet, oajvvádusáj milta.</p>
+<p>Oahppe dahki ájáduskártav ietja ja adni dav gå ásadi sisanov ietjasa subttsasijda. Ájnas elementa máhtti liehket ulmutja, bájke, ájge ja dáhpádusá.</p>
+<p>Maŋŋela álggi oahppe subttsasijt giedajn jali pc’ajn tjállet.</p>
+<p><em type="italic">Ietjá lahkanime </em></p>
+<list><p type="listitem">Åhpadiddje vaddá oahppijda gålmmå jali vihtta bágo ma galggi maŋen subttsasin, duola degu giesse, lávgudit, guollit, bena ja gállet.</p>
+<p type="listitem">Oahppe oajvvádi bágojt ma tjáleduvvi táblluj, ma báhkobáŋŋkan sjaddi gåsstå máhtti viedtjat bágojt</p>
+<p type="listitem">Åhpadiddje oahpásmahttá figuvrav jali vuoset diŋgav jali diŋgajt ma galggi liehket subttsasin</p>
+<p type="listitem">Oahppe tjálli vattedum tiemás majt åhpadiddje diehtá moattes berusti.</p>
+<p type="listitem">Oahppe oadtju subtsasnamáv</p>
+<p type="listitem">Oahppe oadtju subttsasa álgov</p>
+<p type="listitem">Åhpadiddje vuoset oahppijda gåvåv man birra sij tjálli subttsasav.</p>
+<p type="listitem">Åhpadiddje ja oahppe biesskedi gåvåjt avijsajs ja vahkkobládijs. Oahppe válljiji gåvåv jali giessi gåvåv mij sjaddá vuodon subttsasij.</p>
+<p type="listitem">Oahppe gæhttji gåvåjt gåvvårájdojn ja tjálli subttsasav dassta</p>
+<p type="listitem">Åhpadiddje låhkå muhtem subttsasa álgov, ja oahppe joarkki ja tjálli ienebuv. Lågå ienebuv dán birra girjen majt le tjállám Wirkola &amp; Baal jali Susegg</p>
+<p type="listitem">Oahppe låhki dålusj subttsasijt arvusmahttemin , jali åhpadiddje låhkå dålusj subttsasijt sidjij tjavgga.</p>
+<p type="listitem">Åhpadiddje låhkå muhtem subttsasav, ja oahppe adni dav modællan jali arvusmahttemin tjálátjit ietjasa subttsasijt.</p>
+</list><p type="title">Hiebadum åhpadus</p>
+<p>Ájnas le oadtjot divna oahppijt oassálasstátjit ságastit subttsasa birra nav vaj sij plánav dahki ja åvddånbukti dav åvddål gå tjálláji.</p>
+<p>Gå oahppe tjálli ájáduskártav, máhttá åhpadiddje viehkedit sijáv gávnnat bágojt ja hábbmedit gárgadisájt. Tállajt biedjat / nummererit bágojt ájáduskártan máhttá liehket viehkken gå galggá mujttet gudik årnikin ájádusá galggi subttsasin.</p>
+<p>Tjállet gárgadisájt gåvåjda gåvvårájdon máhttá viehkken strukturerit subttsasav.</p>
+<p>Oahppe galla máhtti sárggot subttsasav vuostak ja da esski tjállet.</p>
+<p>Muhtem oahppijt le dárbbo viehkedit gárgadisájt hábbmedit jali oadtjot gárgadisájt dagádum gå li subttsasijn barggamin.</p>
+<p>Muhtem oahppe bukti ja siján le aj miella tjállet guhka subttsasijt ja máhtti barggat dajna sæmmi subttsasijn mælggadav, madin ietjá oahppe álggi ådå ja ietjá bargojda. Muhtem oahppe gis máhtti moadda subttsasa tjállet.</p>
+<p>Jus oahppe le tjállam sierralágásj oanegis subttsasav, máhttá åhpadiddje kopierit dav, biesskedit dav luondulasj oasijda ja lijmmit dajt ådå árkkaj nav vaj sjaddi rabás gasska. De oahppe máhttá duoddit ienep gárgadisájt vaj oadtju ienep dárkkelap subttsasav. Dát diehttelis ruvva dagáduvvá jus oahppe tjállá pc’ajn.</p>
+<p type="title">Árvustallam</p>
+<p><em type="italic">Árvustallam bargadahttijn </em></p>
+<p>Oahppe galggi aktelasj tjállemprosessa tjadá bagádusájt oadtjot, ja åhpadusmihttomiere galggi bagádusán vuodon. Åhpadiddje alot oahppijt tjálátjit gå vaddá konkrehtalasj oajvvádusájt jali gå dibddá oahppev buktet oajvvádusájt ságastallama baktu.</p>
+<p>Ájnas le tsuojggit mij la buorre subttsasin, duola degu subttsasin le namma, álggo ja loahppa, ahte oahppe tjuovvu tiemáv jali le buorre aktijvuohta /ruoppsis lájgge subttsasin. Oahppe joarkki dajna mij la buorre.</p>
+<p>Åhpadiddje diedet aj majt oahppe máhttá dahkat mij subttsasav buoret, duola degu oatjot ienep oasijt oajvveoasen, mujttet låhpadimev jali gæhttjat tjadá subttsasav ja biedjat merkajt ja stuorra álggobokstávajt tjuokkaj maŋŋela.</p>
+<p><em type="italic">Oahppe ietjasa ja guhktik guojmesa árvustalli </em></p>
+<p>Duodden árvustallamij bargadahttijn åhpadiddjes máhtti oahppe ietjasa ja guhtik guojmesa árvustallat.</p>
+<p>Dála le buojkulvissjiebmá majt oahppe máhtti adnet gå ietjasa árvustalli. Dát sjiebmá máhttá aj aneduvvat gå oahppe galggi vaddet diedojt guhtik guojmmásij.Dån biejaduvvá mån saddjáj.</p>
+<p>Namma:</p>
+<p>Biejvve:</p>
+<p><em type="bold">Åhpadusmihttomierre </em></p>
+<p><em type="bold">Dáv iv máhte nuoges buoragit </em></p>
+<p><em type="bold">Dáv máhtáv </em></p>
+<p><em type="bold">Dáv máhtáv huj buoragit </em></p>
+<p>Mån máhtáv ásadit subttsasav ájáduskárta baktu.</p>
+<p>Mån máhtáv tjállet subttsasav bajelttjálajn, álgadimijn, ja låhpadimijn.</p>
+<p>Mån máhtáv tjállet ålles gárgadisájt.</p>
+<p>Mån máhtáv bårddot tjuokkajt ja gatjálvismerkajt.</p>
+<p>Mån máhtáv tjállet stuorra Álgadusbokstávav namán ja merkaj maŋŋela.</p>
+<p type="title" xml:lang="nob">Resursa</p>
+<p xml:lang="nob">SUSEGG, BRIT ARNA 2003: Verket-leseren-livet. En ny litteraturdidaktikk. Oslo: Cappelen akademisk forlag.</p>
+<p>WIRKOLA, KIRSTEN - BAAL, LISA 2000: Hoahkat ja stoahkat. Rávvagat mo sámegielain bargat 1. luohkás. [Guovdageaidnu]: Sámediggi</p>
+<p>KAIA KALSTAD: Giella fábmo, låhkåmgirjje ja barggogirjje, Báhko 2006</p>
+<p xml:lang="nob">Småsagor – julevsáme CD, Sveriges Utbildingsradio AB 2009</p>
+<p>Tjoavde 1-4, web bielle, http://e-skuvla.no/?dokument=2009-12-10.11:20:05.txt</p>
+<p>KAREN INGA EIRA, INGER ELLEN GAUP, Ánin dánin Muv låhkåmgirjje Davvi Girjji 2009</p>
+<p>INGA KARLSEN: Jåvvåviellja, gålmmå girje. Davvi Girji OS</p>
+<p>BÅRJÅS 2007, magasijnna Árranis, Divtasvuonan</p>
+<p>HARALD GRUNDSTRØM; Dålusj giehto, Blaasværs forlag 1993</p>
+<p>INGA LAILA HÆTTA: Mån Måj Mij, Iđut</p>
+</body></document>

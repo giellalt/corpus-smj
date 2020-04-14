@@ -1,33 +1,7 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>79</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/index.php?id=5497680&amp;showtipform=1&amp;cat=99245&amp;gb=</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Tysfjord kommune : Ájluovta varresvuodastasjåvnnå - Tips en venn</p>
-    <p type="title">Ájluovta varresvuodastasjåvnnå</p>
-    <p xml:lang="nob">23.05.2014</p>
-    <p>Ájluovta varresvuodastasjåvnnå l dahppasin gå miján la giesseloahpe moarmesmáno 28. biejves biehtsemáno 10. bæjvváj.</p>
-    <p>Jus sidá varresvuodasujttárijn ságastijt máhtá aktijvuodav Gásluovta varresvuodastasjåvnåjn válldet telefåvnån 75 77 56 50/ 907 31 813.</p>
-    <p>Jus la iesselissan máhtá aktijvuodav Gásluovta dálkudiddjekåntåvråjn válldet telefåvnån 75 77 56 40 jali Ájluovta dálkudiddjekåntåvråjn telefåvnån 75 78 57 70. Tsaggeiedne viehkev jåvså idja- biejvve, máhta sujna aktijvuodav válldet dálkudiddjeváktan telefåvnån 75 77 02 02.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>79</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/index.php?id=5497680&amp;showtipform=1&amp;cat=99245&amp;gb=</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Tysfjord kommune : Ájluovta varresvuodastasjåvnnå - Tips en venn</p>
+<p type="title">Ájluovta varresvuodastasjåvnnå</p>
+<p xml:lang="nob">23.05.2014</p>
+<p>Ájluovta varresvuodastasjåvnnå l dahppasin gå miján la giesseloahpe moarmesmáno 28. biejves biehtsemáno 10. bæjvváj.</p>
+<p>Jus sidá varresvuodasujttárijn ságastijt máhtá aktijvuodav Gásluovta varresvuodastasjåvnåjn válldet telefåvnån 75 77 56 50/ 907 31 813.</p>
+<p>Jus la iesselissan máhtá aktijvuodav Gásluovta dálkudiddjekåntåvråjn válldet telefåvnån 75 77 56 40 jali Ájluovta dálkudiddjekåntåvråjn telefåvnån 75 78 57 70. Tsaggeiedne viehkev jåvså idja- biejvve, máhta sujna aktijvuodav válldet dálkudiddjeváktan telefåvnån 75 77 02 02.</p>
+</body></document>

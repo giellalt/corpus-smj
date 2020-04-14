@@ -1,49 +1,13 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>185</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/AAhpadus/Vuodoskaavlaa-ja-joarkkaskaavlaa/Stipendaj-lasedum-maksomiere-ja-vijdedum-ulmmejuogos-oahppijda-samegielajn-fahkasuorgen</origFileName>
-    <parallel_text xml:lang="nob" location="oekte-satser-og-utvidet-maalgruppe-for-stipend-til-elever-med-samisk-i-fagkretsen.html"/>
-    <parallel_text xml:lang="sma" location="lissiehtamme-stipendeaaasah-jih-vijriedamme-ulmiedaaehkie-stipendese-learoehkidie-mej-saemien-faagegievlesne.html"/>
-    <parallel_text xml:lang="sme" location="stipeanddas-stuorit-maksomearri-ja-eanet-oahppit-olahusjoavkkus-geain-lea-samegiella-fagan..html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Stipendaj lasedum máksomiere ja vijdedum ulmmejuogos oahppijda sámegielajn fáhkasuorgen / Vuodoskåvlå ja joarkkaskåvlå / Åhpadus / Sámedigge - Sametinget</p>
-    <p type="title">Stipendaj lasedum máksomiere ja vijdedum ulmmejuogos oahppijda sámegielajn fáhkasuorgen</p>
-    <p xml:lang="sme">17. goeve 2014</p>
-    <p>Sámedigge joarkka aj jagen 2015 juollodit stipendajt oahppijda gejn la sámegiella fáhkasuorgen joarkkaskåvlån. Ådås jagen 2015 le gå oahppe gudi li oasseájgev, ja sámegielajn fáhkasuorgen, oadtju máhttelisvuodajt stipendav åhtsåt, ja stipendaj máksomierre le lasedum.</p>
-    <p>
-      <em type="bold">Ådå máksomiere li náv: </em>
-    </p>
-    <p>o Stipænnda oahppijda gejn la sámegiella vuostasjgiellan: kr 7 500,-</p>
-    <p>o Stipænnda oahppijda gejn la sámegiella nubbengiellan: kr 5 500,-</p>
-    <p>o Stipænnda oahppijda gejn la sámegiella amásgiellan: kr 3 000,-</p>
-    <p>
-      <em type="bold">-Mij hálijdip ienebu galggi sámegielav oahppat. Dåssju dajna vuogijn sihkarasstep vaj sámegiella viessu vijdábut ja máhttá åhpaduvvat boahtte buolvajs. Dan diehti doajvvop mij stipænnda galggá arvusmahttet ienebujt válljitjit sámegielav joarkkaskåvlån, javlla Sámedikke presidænnta Aili Keskitalo. </em>
-    </p>
-    <p>
-      <em type="bold">-Maŋemus jagijt la oahppij låhko joarkkaskåvlån gejn la sámegiella fáhkasuorgen lassánam. Dát máhtta vuosedit stipænnda arvusmahttá oahppijt sámegielav válljitjit ja dat la buorre, javllá Keskitalo </em>
-    </p>
-    <p>Åtsålvisá skåvllåjahkáj 2014/15 máhtti rájaduvvat sisi 15.01.15 gitta 30.03.15 rádjáj. Åtsålvisá giehtadaláduvvi maŋŋenagi. Åtsålvisá rájadum 31.03.15 maŋŋela e giehtadaláduvá.</p>
-    <p>Åhtsåmskåvve biejaduvvá Sámedikke sijddabælláj ådåjakmáno álgon 2015.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>185</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/AAhpadus/Vuodoskaavlaa-ja-joarkkaskaavlaa/Stipendaj-lasedum-maksomiere-ja-vijdedum-ulmmejuogos-oahppijda-samegielajn-fahkasuorgen</origFileName><parallel_text xml:lang="nob" location="oekte-satser-og-utvidet-maalgruppe-for-stipend-til-elever-med-samisk-i-fagkretsen.html"/><parallel_text xml:lang="sma" location="lissiehtamme-stipendeaaasah-jih-vijriedamme-ulmiedaaehkie-stipendese-learoehkidie-mej-saemien-faagegievlesne.html"/><parallel_text xml:lang="sme" location="stipeanddas-stuorit-maksomearri-ja-eanet-oahppit-olahusjoavkkus-geain-lea-samegiella-fagan..html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Stipendaj lasedum máksomiere ja vijdedum ulmmejuogos oahppijda sámegielajn fáhkasuorgen / Vuodoskåvlå ja joarkkaskåvlå / Åhpadus / Sámedigge - Sametinget</p>
+<p type="title">Stipendaj lasedum máksomiere ja vijdedum ulmmejuogos oahppijda sámegielajn fáhkasuorgen</p>
+<p xml:lang="sme">17. goeve 2014</p>
+<p>Sámedigge joarkka aj jagen 2015 juollodit stipendajt oahppijda gejn la sámegiella fáhkasuorgen joarkkaskåvlån. Ådås jagen 2015 le gå oahppe gudi li oasseájgev, ja sámegielajn fáhkasuorgen, oadtju máhttelisvuodajt stipendav åhtsåt, ja stipendaj máksomierre le lasedum.</p>
+<p><em type="bold">Ådå máksomiere li náv: </em></p>
+<p>o Stipænnda oahppijda gejn la sámegiella vuostasjgiellan: kr 7 500,-</p>
+<p>o Stipænnda oahppijda gejn la sámegiella nubbengiellan: kr 5 500,-</p>
+<p>o Stipænnda oahppijda gejn la sámegiella amásgiellan: kr 3 000,-</p>
+<p><em type="bold">-Mij hálijdip ienebu galggi sámegielav oahppat. Dåssju dajna vuogijn sihkarasstep vaj sámegiella viessu vijdábut ja máhttá åhpaduvvat boahtte buolvajs. Dan diehti doajvvop mij stipænnda galggá arvusmahttet ienebujt válljitjit sámegielav joarkkaskåvlån, javlla Sámedikke presidænnta Aili Keskitalo. </em></p>
+<p><em type="bold">-Maŋemus jagijt la oahppij låhko joarkkaskåvlån gejn la sámegiella fáhkasuorgen lassánam. Dát máhtta vuosedit stipænnda arvusmahttá oahppijt sámegielav válljitjit ja dat la buorre, javllá Keskitalo </em></p>
+<p>Åtsålvisá skåvllåjahkáj 2014/15 máhtti rájaduvvat sisi 15.01.15 gitta 30.03.15 rádjáj. Åtsålvisá giehtadaláduvvi maŋŋenagi. Åtsålvisá rájadum 31.03.15 maŋŋela e giehtadaláduvá.</p>
+<p>Åhtsåmskåvve biejaduvvá Sámedikke sijddabælláj ådåjakmáno álgon 2015.</p>
+</body></document>

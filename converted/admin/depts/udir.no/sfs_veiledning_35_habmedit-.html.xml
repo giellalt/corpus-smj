@@ -1,109 +1,57 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>619</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/Hoyremeny/Artiklerressurser/Habmedit-/index.html</origFileName>
-    <parallel_text xml:lang="nob" location="sfs_veiledning_35_a-skrive-.html"/>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_35_a-skrive-s.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_35_a-skrive-sammendrag.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Hábmedit tevstajt ma tjállemsåhpamusájt tjuovvu</p>
-    <p type="title">Hábmedit tevstajt ma tjállemsåhpamusájt tjuovvu</p>
-    <p xml:lang="nob">Hovedinnhold</p>
-    <p>Tjálálasj guládallamin le ållo majt oahppe galggi oahppat. Duola degu galggi sij nuppát jahkedáse rájes máhttet giellajienajt ja tjállet unnes ja stuorra bokstávaj. Maŋenagi galggi oahppat tjállemvuogev, sige duolla tjállet ja mærkkomav. Galggi máhttet tjálálattjat åvddånbuktet nav vaj iehtjáda dádjadi majt sij tevstan åvddånbukti.</p>
-    <p>Oahppe vierttiji diedulattja liehket bágo tjáleduvvi ietjáláhkáj majt javladuvvi. Sámegiela riektatjállemnjuolgadusá le hábbmidam dan láhkáj vaj nav moattes gåk máhttelis le galggi máhttet tjálálattjat sámegiellaj guládallat. Jus divna lidjin tjállet ietjasij vuogij milta, de li galla gássjel sjaddat ja nav guhkke iehtjádij tevstajt låhkåt. Juohkka tæksta vierttij lågåduvvat fonologalattjat, mij le hirmmat guhkke låhkåt gå ortográfalatjjat låhkåt. Dat vas vájkkut låsebu sjaddá sámegielav låhkåt gå duola degu dárogielav, ja dat ij la galla ájádusáj milta.</p>
-    <p>Vuollelin gávnnu lissta tjuokkaj mij le oahppija ávkálasj tjuovvot, gå tjálli. Lissta máhttá ávkálasj viehkken oahppijda 2. gitta 10. jahkedásijn.</p>
-    <p>Åhpadiddje máhttá válljit muhtem tjuokkajt vaj lissta álggotjálláj doajmmá. Maŋenagi máhtti ienep tjuokka duoddiduvvat. Dáv åhpadiddje hiebat ájnegisoahppe tjállemmáhtudagáj milta.</p>
-    <p>Klássan máhtti åhpadiddje ja oahppe mierredum ájgen dárkkelit ájádallat muhtem tjuokkajt listas ja daj barggat desik oahppe dåjmalattjat adni dajt ietjasij tjállemin.</p>
-    <p>Vuorasap oahppe aj dárbahij gærddomijt ja mujttádusájt. Oahppe máhtti hárjjidallat dav majt sij e riekta máhte, aktu jali juohkusijn.</p>
-    <p xml:lang="nob">Vis alle</p>
-    <p type="title">Gåktu barggat</p>
-    <p>Vuostasj bále oahppe listajn barggi , viertti åhpadiddje dárkkeit tjielggit goassa ja gåktu dat galggá aneduvvat.</p>
-    <p>Maŋŋela gæhttjali oahppe ietja listajn barggat. Sij adni dav gå tevstajt páhppárij jali pcaj tjálli. Dan láhkáj oahppe dárkkelit tjuokkajt listan ájádalli gå tjálli duon dán ulme milta, duola degu ietjá fágajn.</p>
-    <p>Oahppe aj adni dav gå ietjasa tevstajt gehtjadi ja divudi. De gæhttji listan tjuokkes tjuokkaj desik guoradallam li bargov divnaj tjuokkaj milta. Nuorap oahppijn le oanep lissta gå vuorasappojn.</p>
-    <p>Moatteda listav, stuoreda dav ja gatsosta dav sæjnnáj klássalanján nav vaj le álkke oahppida dav vuojnnet. Juohkkahasj viertti ietjasa listav adnet majt juogu lijmmiduvvi tjállemgirjjáj , bævddáj ja/jali gatsoduvvi táblluj jali galmmaskáhppaj.</p>
-    <p type="title">Hiebadibme</p>
-    <p>Lissta hiebaduvvá sige klássa ja ájnegisoahppe dárboj milta. Tjuokka listan máhtti målssot sajev nav vaj daj maj oahppe dan gávdan ienemusát barggi li bajemusán. Nuppen gávdan dættoduvvá juoga ietján.</p>
-    <p>Åhpadiddje ságas oahppijn dábálasj njuolgadusáj birra ma li listan båhti vuojnnuj. Maŋŋela lijmmiji oahppe listav tjállemgirjjáj jali bævddáj. Mujttemlissta viertti aj vuojnnusin klássalanján, vaj álkke le gehtjastit dasi gå dárbbo le.</p>
-    <p type="title">Máhtudakmihto</p>
-    <p>Ulmme bargojn le oahppe galggi tjállet dádjadahtte tevstajt ma tjállemsåhpamusájt tjuovvu. Njuolgadusá galggi vædtsagin liehket majt oahppe luondulattjat adni gå tjálli.</p>
-    <p>Dá máhtudakmihto javlli juoga oahppij tjállemmáhtudagáj birra:</p>
-    <p>
-      <em type="italic">Tjálálasj guládallam </em>
-    </p>
-    <p>Máhtudakmihto 2.jahkedáse maŋŋela</p>
-    <p>
-      <em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em>
-    </p>
-    <list>
-      <p type="listitem">dåbddåt giellajienajt ja tjállet unnes ja stuorra bokstávajt</p>
-      <p type="listitem">ságastallat mij báhko, gárgadis, tjuogga ja gatjálvismærkka le</p>
-      <p type="listitem">adnet bokstávajt ja gæhttjaladdat bágoj, ietjas giehtatjállusijn ja tastatuvrajn</p>
-    </list>
-    <p>Máhtedakmihto 4. jahkedáse maŋŋela</p>
-    <p>
-      <em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em>
-    </p>
-    <list>
-      <p type="listitem">dahkat tevstajt bajelttjállagijn, álgadusájn ja låhpadusájn</p>
-    </list>
-    <p>Máhtudakmihto 7. jahkedáse maŋŋela</p>
-    <p>
-      <em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em>
-    </p>
-    <list>
-      <p type="listitem">åvddånahttet ietjas tjállusav ájádusás gárves buktagin, ja árvustallat tevsta åvddånimev respånsa milta</p>
-    </list>
-    <p>Máhtudakmihto Jo1 - oahppogárvedime åhpadusprográmma maŋŋela/ Máhtudakmihto Jo2 - viddnofágalasj åhpadusprográmma maŋŋela</p>
-    <p>
-      <em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em>
-    </p>
-    <list>
-      <p type="listitem">duollatjállemnjuolgadusájt buktet bargadijn ietjas tevstaj</p>
-    </list>
-    <p type="title">Giella anon</p>
-    <p>Máhtudakmihto 4. jahkedáse maŋŋela</p>
-    <p>
-      <em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em>
-    </p>
-    <list>
-      <p type="listitem">adnet dajt ájnnasamos duollatjállemnjuolgadusájt</p>
-    </list>
-    <p type="title">Mujttemlissta duollatjállemij</p>
-    <list>
-      <p type="listitem">Le listan bajelttjála?</p>
-      <p type="listitem">Javllá álgadus man birra tæksta le?</p>
-      <p type="listitem">Le tevstan låhpadus?</p>
-      <p type="listitem">Le gus bágojt tjállám jur unnes bokstávaj jali jur stuorra bokstávaj?</p>
-      <p type="listitem">Le gus namájn stuorra álggobokstávva?</p>
-      <p type="listitem">Le tjuogga, gatjálvismærkka ja tjuorvasmærkka riekta sajen?</p>
-      <p type="listitem">Le gus stuorra bokstávva tjuokka, gatjálvismerka ja tjuorvasmerka duogen?</p>
-      <p type="listitem">Le gus gasska bágoj gaskan?</p>
-      <p type="listitem">Le gus verba juohkka gárgadisán?</p>
-      <p type="listitem">Le gus sjoappkabágo tjáledum aktan?</p>
-      <p type="listitem">Le juohkka bágon vokálla jali diftoaŋŋa?</p>
-      <p type="listitem">Le bágo duolla tjáledum? Gehtja báhkogirjen?</p>
-      <p type="listitem">Le gus bágo såjåduvvam riekta?</p>
-      <p type="listitem">Le gus guovddakonsonánta duolla tjáledum?</p>
-      <p type="listitem">Le gus ietjá mige mij hæhttu divoduvvat?</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>619</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/Hoyremeny/Artiklerressurser/Habmedit-/index.html</origFileName><parallel_text xml:lang="nob" location="sfs_veiledning_35_a-skrive-.html"/><parallel_text xml:lang="sma" location="sfs_veiledning_35_a-skrive-s.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_35_a-skrive-sammendrag.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Hábmedit tevstajt ma tjállemsåhpamusájt tjuovvu</p>
+<p type="title">Hábmedit tevstajt ma tjállemsåhpamusájt tjuovvu</p>
+<p xml:lang="nob">Hovedinnhold</p>
+<p>Tjálálasj guládallamin le ållo majt oahppe galggi oahppat. Duola degu galggi sij nuppát jahkedáse rájes máhttet giellajienajt ja tjállet unnes ja stuorra bokstávaj. Maŋenagi galggi oahppat tjállemvuogev, sige duolla tjállet ja mærkkomav. Galggi máhttet tjálálattjat åvddånbuktet nav vaj iehtjáda dádjadi majt sij tevstan åvddånbukti.</p>
+<p>Oahppe vierttiji diedulattja liehket bágo tjáleduvvi ietjáláhkáj majt javladuvvi. Sámegiela riektatjállemnjuolgadusá le hábbmidam dan láhkáj vaj nav moattes gåk máhttelis le galggi máhttet tjálálattjat sámegiellaj guládallat. Jus divna lidjin tjállet ietjasij vuogij milta, de li galla gássjel sjaddat ja nav guhkke iehtjádij tevstajt låhkåt. Juohkka tæksta vierttij lågåduvvat fonologalattjat, mij le hirmmat guhkke låhkåt gå ortográfalatjjat låhkåt. Dat vas vájkkut låsebu sjaddá sámegielav låhkåt gå duola degu dárogielav, ja dat ij la galla ájádusáj milta.</p>
+<p>Vuollelin gávnnu lissta tjuokkaj mij le oahppija ávkálasj tjuovvot, gå tjálli. Lissta máhttá ávkálasj viehkken oahppijda 2. gitta 10. jahkedásijn.</p>
+<p>Åhpadiddje máhttá válljit muhtem tjuokkajt vaj lissta álggotjálláj doajmmá. Maŋenagi máhtti ienep tjuokka duoddiduvvat. Dáv åhpadiddje hiebat ájnegisoahppe tjállemmáhtudagáj milta.</p>
+<p>Klássan máhtti åhpadiddje ja oahppe mierredum ájgen dárkkelit ájádallat muhtem tjuokkajt listas ja daj barggat desik oahppe dåjmalattjat adni dajt ietjasij tjállemin.</p>
+<p>Vuorasap oahppe aj dárbahij gærddomijt ja mujttádusájt. Oahppe máhtti hárjjidallat dav majt sij e riekta máhte, aktu jali juohkusijn.</p>
+<p xml:lang="nob">Vis alle</p>
+<p type="title">Gåktu barggat</p>
+<p>Vuostasj bále oahppe listajn barggi , viertti åhpadiddje dárkkeit tjielggit goassa ja gåktu dat galggá aneduvvat.</p>
+<p>Maŋŋela gæhttjali oahppe ietja listajn barggat. Sij adni dav gå tevstajt páhppárij jali pcaj tjálli. Dan láhkáj oahppe dárkkelit tjuokkajt listan ájádalli gå tjálli duon dán ulme milta, duola degu ietjá fágajn.</p>
+<p>Oahppe aj adni dav gå ietjasa tevstajt gehtjadi ja divudi. De gæhttji listan tjuokkes tjuokkaj desik guoradallam li bargov divnaj tjuokkaj milta. Nuorap oahppijn le oanep lissta gå vuorasappojn.</p>
+<p>Moatteda listav, stuoreda dav ja gatsosta dav sæjnnáj klássalanján nav vaj le álkke oahppida dav vuojnnet. Juohkkahasj viertti ietjasa listav adnet majt juogu lijmmiduvvi tjállemgirjjáj , bævddáj ja/jali gatsoduvvi táblluj jali galmmaskáhppaj.</p>
+<p type="title">Hiebadibme</p>
+<p>Lissta hiebaduvvá sige klássa ja ájnegisoahppe dárboj milta. Tjuokka listan máhtti målssot sajev nav vaj daj maj oahppe dan gávdan ienemusát barggi li bajemusán. Nuppen gávdan dættoduvvá juoga ietján.</p>
+<p>Åhpadiddje ságas oahppijn dábálasj njuolgadusáj birra ma li listan båhti vuojnnuj. Maŋŋela lijmmiji oahppe listav tjállemgirjjáj jali bævddáj. Mujttemlissta viertti aj vuojnnusin klássalanján, vaj álkke le gehtjastit dasi gå dárbbo le.</p>
+<p type="title">Máhtudakmihto</p>
+<p>Ulmme bargojn le oahppe galggi tjállet dádjadahtte tevstajt ma tjállemsåhpamusájt tjuovvu. Njuolgadusá galggi vædtsagin liehket majt oahppe luondulattjat adni gå tjálli.</p>
+<p>Dá máhtudakmihto javlli juoga oahppij tjállemmáhtudagáj birra:</p>
+<p><em type="italic">Tjálálasj guládallam </em></p>
+<p>Máhtudakmihto 2.jahkedáse maŋŋela</p>
+<p><em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em></p>
+<list><p type="listitem">dåbddåt giellajienajt ja tjállet unnes ja stuorra bokstávajt</p>
+<p type="listitem">ságastallat mij báhko, gárgadis, tjuogga ja gatjálvismærkka le</p>
+<p type="listitem">adnet bokstávajt ja gæhttjaladdat bágoj, ietjas giehtatjállusijn ja tastatuvrajn</p>
+</list><p>Máhtedakmihto 4. jahkedáse maŋŋela</p>
+<p><em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em></p>
+<list><p type="listitem">dahkat tevstajt bajelttjállagijn, álgadusájn ja låhpadusájn</p>
+</list><p>Máhtudakmihto 7. jahkedáse maŋŋela</p>
+<p><em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em></p>
+<list><p type="listitem">åvddånahttet ietjas tjállusav ájádusás gárves buktagin, ja árvustallat tevsta åvddånimev respånsa milta</p>
+</list><p>Máhtudakmihto Jo1 - oahppogárvedime åhpadusprográmma maŋŋela/ Máhtudakmihto Jo2 - viddnofágalasj åhpadusprográmma maŋŋela</p>
+<p><em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em></p>
+<list><p type="listitem">duollatjállemnjuolgadusájt buktet bargadijn ietjas tevstaj</p>
+</list><p type="title">Giella anon</p>
+<p>Máhtudakmihto 4. jahkedáse maŋŋela</p>
+<p><em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em></p>
+<list><p type="listitem">adnet dajt ájnnasamos duollatjállemnjuolgadusájt</p>
+</list><p type="title">Mujttemlissta duollatjállemij</p>
+<list><p type="listitem">Le listan bajelttjála?</p>
+<p type="listitem">Javllá álgadus man birra tæksta le?</p>
+<p type="listitem">Le tevstan låhpadus?</p>
+<p type="listitem">Le gus bágojt tjállám jur unnes bokstávaj jali jur stuorra bokstávaj?</p>
+<p type="listitem">Le gus namájn stuorra álggobokstávva?</p>
+<p type="listitem">Le tjuogga, gatjálvismærkka ja tjuorvasmærkka riekta sajen?</p>
+<p type="listitem">Le gus stuorra bokstávva tjuokka, gatjálvismerka ja tjuorvasmerka duogen?</p>
+<p type="listitem">Le gus gasska bágoj gaskan?</p>
+<p type="listitem">Le gus verba juohkka gárgadisán?</p>
+<p type="listitem">Le gus sjoappkabágo tjáledum aktan?</p>
+<p type="listitem">Le juohkka bágon vokálla jali diftoaŋŋa?</p>
+<p type="listitem">Le bágo duolla tjáledum? Gehtja báhkogirjen?</p>
+<p type="listitem">Le gus bágo såjåduvvam riekta?</p>
+<p type="listitem">Le gus guovddakonsonánta duolla tjáledum?</p>
+<p type="listitem">Le gus ietjá mige mij hæhttu divoduvvat?</p>
+</list></body></document>

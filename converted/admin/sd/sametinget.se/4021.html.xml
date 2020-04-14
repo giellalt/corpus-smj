@@ -1,48 +1,21 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>361</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/4021</origFileName>
-    <parallel_text xml:lang="sme" location="3326.html"/>
-    <parallel_text xml:lang="swe" location="1123.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Urudisá - Sametinget</p>
-    <p>Govva: Carl-Johan Utsi.</p>
-    <p type="title">Urudisá</p>
-    <p>Svieriga urudispolitijkka mierkki urudisá galggi luondon gávnnut. Aktugattja avtabále galggi kompenseriduvvat gå sijá priváhta åbmudahka urudisájda biebbmon sjaddá. Tjieldijn li danen riektá urudismávsálvissaj.</p>
-    <p>Mávsálvisvuogádahka urudisvahágijda boatsojäládussaj mierkki tjielde kompenseriduvvi urudisáj ja ådåstuhttemij lågoj (niŋŋelis ja tjivga) gávnnumij ällosujttoguovlon. Rijkabiejvve le mierredam <span type="quote">”Aktisasj urudispolitijka/Sammanhållen rovdjurspolitik”</span> birra ja ådåstuhttám mávsálvisvuogádagáv stuoves biedniklågoj urudisájda.</p>
-    <p>Njuolgadusá</p>
-    <p>Biejádusá ma njuolgadahtti urudismávsálvisáv li urudisvahákbiejadus ja luonndosujttodåjmadagá biejadusá. Sámedikke viddno le urudismávsálvisá mávsojt tjuottjodit. Urudismávsálvisá älla dårja ájnnat mávsálvis priváhta åbmudagá almma dáhppudallamijda, gå urudisájt Svieriga luondon rahtjap. Mávsálvisvuogádagá praktijkalasj anodibme le Luonndosujttodåjmadagás ja Sámedikkes aktisattjat hábbmidum. 1996 rájes le fámon årrum mávsálvisá tjieldijda li mávsedum märostum gajkodum boahttsuj lågos juohkka tjärddaj. 2002 budjähttajage rájes mávsálvis le vuododum märostum gålluj juohkka tjärddaj.</p>
-    <p>Vihtta ájnas vuodo</p>
-    <p>Ulmme le mávsálvisvuogádahka galggá rievtesláhkáj ja muttágit dádjaduvvat ja avtabále buorep vidjurijt guhkaájggásasj urudissujttuj vaddet. Máválvisvuogádagá vuodo li:</p>
-    <p>•	Kompenserit boatsojäládusá dáhppudallamijt</p>
-    <p>•	Umasslágásj dåjmaj gaskan stájgugisvuohtáj jåvsådit</p>
-    <p>•	Lasedit dádjadimev ja gierddisvuodav boatsojäládussaj ja urudisájda</p>
-    <p>•	Rievtesvuohta – nåv guhkás gå máhttelis</p>
-    <p>•	Hiebadahkes ja oanes ájgge giehtadallam</p>
-    <p>Urudisinventerima</p>
-    <p>Mávsálvisvuogádagáv dåjmatjit ájnas rávkalvis le, åskeldahtes urudisinventerima tjadáduvvi. Inventerima dagáduvvi aktijbargon lenastivra luonndosujttojuohkusij ja tjieldij gaskan. Tjielde oassálassti aktivalattjat inventerimbargon ja nammadi <span type="quote">”urudisåvdåsvásstediddjijt”</span>. Lenastivra li oajvveåvdåsvásstediddje inventerimijs ja ietjá dokumentasjåvnå tjoahkkájbiedjamijs urudisáj gávnnuma ja ådåstuhttema birra. Sámedigge juogat biednikluohkojt majt ráddidus juollot färttáhasj tjälldáj tjieldij oassálasstema åvdås, Sámedikke mierredum juogadimprinsihpa vuodon.</p>
-    <p>Duodastum gávnnum mávseduvvá</p>
-    <p>Boatsojäládus mávseduvvá gierke, albbasa ja stálpe ja färttáhasj tjerda ådåstuhttemij lågo tjieldij guohtomednamin duodastum gávnnum vuodon. Juohkka duodastum gierkke-ja albasådåstuhttemij tjiellde 200 000 kråvnåj mávseduvvá. Gierke ja albbasa dájvvalakkoj gávnnum 70 000 kråvnåj mávseduvvá. Gasskabåddåsasj gávnnum 35 000 kråvnåj mávseduvvá. Stálpe ådåstuhttem tjielde guohtomednamin 500 000 kråvnåj mávseduvvá. Gå stálppeådåstuhttem stuoráp vahágijt vaddá ja stálpen le ájnnasap <span type="quote">”luonndosujttoárvvo”</span> gå gierken ja albbasin de ienep gå guovtegärddásasj árvvo le dasi oarren. Stálpe dájvvalakkoj gávnnum 50 000 kråvnåj mávseduvvá gå gasskabåddåsasj gávnnum 25 000 kråvnåj mávseduvvá. Biernnaj ja goasskemij le fámon areallavuododum mávsálvis mij vuododuvvá tjielde bievllaguohtoma stuorrudagás. Bierna gávnnum mávseduvvá ållåsit 1,5 miljåvnåjn ja goasskema 1,0 miljåvnnå kråvnåjn.</p>
-    <p>Sámedigge juogat mávsálvisájt</p>
-    <p>Sámedigge máksá biehtsemánon juohkka jage mávsálvisájt urudisgávnnumij åvdås tjieldijda. Gåktu tjielde mierredi mávsálvisáv juohket le tjieldij ietjasa sisŋep ássje (NFS 2004:17§ 18).</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>361</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/4021</origFileName><parallel_text xml:lang="sme" location="3326.html"/><parallel_text xml:lang="swe" location="1123.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Urudisá - Sametinget</p>
+<p>Govva: Carl-Johan Utsi.</p>
+<p type="title">Urudisá</p>
+<p>Svieriga urudispolitijkka mierkki urudisá galggi luondon gávnnut. Aktugattja avtabále galggi kompenseriduvvat gå sijá priváhta åbmudahka urudisájda biebbmon sjaddá. Tjieldijn li danen riektá urudismávsálvissaj.</p>
+<p>Mávsálvisvuogádahka urudisvahágijda boatsojäládussaj mierkki tjielde kompenseriduvvi urudisáj ja ådåstuhttemij lågoj (niŋŋelis ja tjivga) gávnnumij ällosujttoguovlon. Rijkabiejvve le mierredam <span type="quote">”Aktisasj urudispolitijka/Sammanhållen rovdjurspolitik”</span> birra ja ådåstuhttám mávsálvisvuogádagáv stuoves biedniklågoj urudisájda.</p>
+<p>Njuolgadusá</p>
+<p>Biejádusá ma njuolgadahtti urudismávsálvisáv li urudisvahákbiejadus ja luonndosujttodåjmadagá biejadusá. Sámedikke viddno le urudismávsálvisá mávsojt tjuottjodit. Urudismávsálvisá älla dårja ájnnat mávsálvis priváhta åbmudagá almma dáhppudallamijda, gå urudisájt Svieriga luondon rahtjap. Mávsálvisvuogádagá praktijkalasj anodibme le Luonndosujttodåjmadagás ja Sámedikkes aktisattjat hábbmidum. 1996 rájes le fámon årrum mávsálvisá tjieldijda li mávsedum märostum gajkodum boahttsuj lågos juohkka tjärddaj. 2002 budjähttajage rájes mávsálvis le vuododum märostum gålluj juohkka tjärddaj.</p>
+<p>Vihtta ájnas vuodo</p>
+<p>Ulmme le mávsálvisvuogádahka galggá rievtesláhkáj ja muttágit dádjaduvvat ja avtabále buorep vidjurijt guhkaájggásasj urudissujttuj vaddet. Máválvisvuogádagá vuodo li:</p>
+<p>•	Kompenserit boatsojäládusá dáhppudallamijt</p>
+<p>•	Umasslágásj dåjmaj gaskan stájgugisvuohtáj jåvsådit</p>
+<p>•	Lasedit dádjadimev ja gierddisvuodav boatsojäládussaj ja urudisájda</p>
+<p>•	Rievtesvuohta – nåv guhkás gå máhttelis</p>
+<p>•	Hiebadahkes ja oanes ájgge giehtadallam</p>
+<p>Urudisinventerima</p>
+<p>Mávsálvisvuogádagáv dåjmatjit ájnas rávkalvis le, åskeldahtes urudisinventerima tjadáduvvi. Inventerima dagáduvvi aktijbargon lenastivra luonndosujttojuohkusij ja tjieldij gaskan. Tjielde oassálassti aktivalattjat inventerimbargon ja nammadi <span type="quote">”urudisåvdåsvásstediddjijt”</span>. Lenastivra li oajvveåvdåsvásstediddje inventerimijs ja ietjá dokumentasjåvnå tjoahkkájbiedjamijs urudisáj gávnnuma ja ådåstuhttema birra. Sámedigge juogat biednikluohkojt majt ráddidus juollot färttáhasj tjälldáj tjieldij oassálasstema åvdås, Sámedikke mierredum juogadimprinsihpa vuodon.</p>
+<p>Duodastum gávnnum mávseduvvá</p>
+<p>Boatsojäládus mávseduvvá gierke, albbasa ja stálpe ja färttáhasj tjerda ådåstuhttemij lågo tjieldij guohtomednamin duodastum gávnnum vuodon. Juohkka duodastum gierkke-ja albasådåstuhttemij tjiellde 200 000 kråvnåj mávseduvvá. Gierke ja albbasa dájvvalakkoj gávnnum 70 000 kråvnåj mávseduvvá. Gasskabåddåsasj gávnnum 35 000 kråvnåj mávseduvvá. Stálpe ådåstuhttem tjielde guohtomednamin 500 000 kråvnåj mávseduvvá. Gå stálppeådåstuhttem stuoráp vahágijt vaddá ja stálpen le ájnnasap <span type="quote">”luonndosujttoárvvo”</span> gå gierken ja albbasin de ienep gå guovtegärddásasj árvvo le dasi oarren. Stálpe dájvvalakkoj gávnnum 50 000 kråvnåj mávseduvvá gå gasskabåddåsasj gávnnum 25 000 kråvnåj mávseduvvá. Biernnaj ja goasskemij le fámon areallavuododum mávsálvis mij vuododuvvá tjielde bievllaguohtoma stuorrudagás. Bierna gávnnum mávseduvvá ållåsit 1,5 miljåvnåjn ja goasskema 1,0 miljåvnnå kråvnåjn.</p>
+<p>Sámedigge juogat mávsálvisájt</p>
+<p>Sámedigge máksá biehtsemánon juohkka jage mávsálvisájt urudisgávnnumij åvdås tjieldijda. Gåktu tjielde mierredi mávsálvisáv juohket le tjieldij ietjasa sisŋep ássje (NFS 2004:17§ 18).</p>
+</body></document>

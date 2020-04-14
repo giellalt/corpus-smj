@@ -1,73 +1,27 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>540</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Gatjastusa-nannusap-iesjdabdduj</origFileName>
-    <parallel_text xml:lang="eng" location="how-to-improve-self-esteem.html"/>
-    <parallel_text xml:lang="fin" location="vinkkeja-itsetunnon-kohentamiseen.html"/>
-    <parallel_text xml:lang="fit" location="tipsia-kuinka-parantaa-ommaa-ittentuntoa.html"/>
-    <parallel_text xml:lang="sma" location="raerieh-buerebe-jijtjedomtesasse.html"/>
-    <parallel_text xml:lang="sme" location="guoiggus-buoret-iedovdui.html"/>
-    <parallel_text xml:lang="swe" location="tips-for-battre-sjalvkansla.html"/>
-    <parallel_text location="tipsi-bao-poukar-korkorioset.html" xml:lang="rmn"/>
-    <parallel_text location="hilprepha-gla-fedigare-soluskansla.html" xml:lang="rmu"/>
-    <parallel_text location="ideori-sar-te-vortos-iri-zor.html" xml:lang="rmy-rka"/>
-    <parallel_text location="rejchern.html" xml:lang="yid"/>
-    <parallel_text location="tipsura-te-avel-maj-lao-manuesko-aaripe.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="tipsi-te-lel-fendide-iegohoiba.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Gätjástusá nannusap iesjdåbdduj</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title">Gätjástusá nannusap iesjdåbdduj</p>
-    <p>Gávnnuji ednaga majt máhttá dahkat nannitjit ietjas iesjdåbdov. Dála li muhtem dago majt máhttá gähttjalit:</p>
-    <list>
-      <p type="listitem">Jus la vuollegis iesjdåbddo de álkket dähppu nievres ájádusájda degu dal man nievrre la. Gå ájádallá ietjas nievrren de máhttá gähttjalit dajt doadjet ja ietjastis gatjádit: viehket gus muv návti ájádallat? Le gus ajtu duohta vaj iv la masik buorre?</p>
-      <p type="listitem">Besatjit ájádusájs nägo ja dago birra, ma e iesjdåbduj gullu, de máhttá ulmutjijs gesi åssku gatjádit makkir iesjvuodajda sij lijkkuji. Máhttá ulmutjav gåhttjot listav tjállet majt gatsos sadjáj gånnå dav buoragit vuojnná.</p>
-      <p type="listitem">Máhttá aj ájádallat makkir egen iesjvuodajda lijkku iehtjádijn. Mij la ajtu ájnas? Årrot <span type="quote">“Fávrro”</span>, buoremus skåvlå gähttjalimijn, jali l diehtovájnok, huvsulasj, jiermmá, sjuggel jali jálos ulmusj mij duosstá ietjasláhkáj årrot?</p>
-      <p type="listitem">Nanni iesjdåbdov gå li buorre aktavuoda iehtjádij, goappátjagá rádnaj, gieresvuohtagasskavuodaj ja fuolkijn. Jus ulmutja ietjas fuolken jali lahkusin nubbe nuppev båssti, de máhttá gåhttjot sijáv hiejttet. Márjju máhttá ienni gåhttojt sijáv muhtem buorre bágojt javllat fert avta birra?</p>
-      <p type="listitem">Máhttá dajt dagojt dahkat majt ij álu dagá. Jus ij goassak la ulmusj gut vuostak giedav gálggi, de máhttá gähttjalit dav boahtte leksjåvnån dahkat. Jali de gähttjal vuosstálasstet boahtte bále gå nágin gähttjal ietjá ulmutjav suohtan adnet, bargov åhtsåt majt mielas sihtá adnet, skuolkkat ulmutjij gesi lijkku jali ráddnaj vuosedit novellav majt la tjállám.</p>
-      <p type="listitem">Ienni gå dähpput dakkirij mij la åvdebut viessomin nievrre årrum, de máhttá gähttjalit buorren válldet dajt ma li dáhpaduvvam ja dåbdojt ma dalloj lidjin. Jus buojkulvissan adná äjgáda ettjin nuohkásit bavrrim ja vuojnnám suv gå lij unnagasj, de márjju dálla gávnnuji iehtjáda birrasin gudi lijkkuji ja buorren suv vuojnná. Máhttá aj ietjastis gatjádit mij la buoremus sunji dahkat jur dálla. Ij dárbaha merkahit vaj ij oattjo vuosedit håjen la dahkusijsa ma li dáhpáduvvam, ienni márjju dárbaj ájgev surggahit ja de åvddålijguovlluj joarkket.</p>
-    </list>
-    <p type="title">Nuorratjiehppejuohkusa buoremus gätjástusá</p>
-    <p>Nuoraduostudagá/UMOdan ietjas nuorajpanella vaddá buoremus gätjástusájt birra gåktu buorep iesjdåbdov oadtjot:</p>
-    <list>
-      <p type="listitem">Máhttá gähttjalit oalle jállo årrot ja ienebuv duosstat: duosstat åvdåsvásstedit majt adná, duosstat gatjádit dakkirijt majt ij diede, vuojnnut gåk la.</p>
-      <p type="listitem">Máhttá säbrástallat ulmutjij gej siegen la vuogas ja jasskavuodav dåbddå.</p>
-      <p type="listitem">Máhttá dåbddut jálop ja gievrap jus gulldal musijkav masi sälldát lijkku, buojkulvissan gå la mannamin juosik massta juorrula, jali sämmibále gå dahká juojddá dahká mij baludissan dåbddu.</p>
-      <p type="listitem">Máhttá sjaddat buorep májnov ja lávgájdallamijt duosstot. Ienni gå vájvalussjat, de máhttá tjiegnalit vuojŋŋat, ja gijttet ja vuodjodit majt ulmusj javllá dasi ávvudallat.</p>
-      <p type="listitem">Máhttá ietjas arvusmahttet ja duhtat gå buojkulvissan la skåvllåbargov dahkam jali gå l skuolkkam vájves sagastallamav.</p>
-      <p type="listitem">Máhttá buorre ja doarjodiddje ráddna årrot ja iesj válljit rádnajt gudi arvusmahtti ja lijkkuji ietjas diehti.</p>
-      <p type="listitem">Ienni galggá lávgájdallat ja nuppev rámmpot..</p>
-      <p type="listitem">Fármudalá ednagit!</p>
-      <p type="listitem">Vájku iesjåssko ja iesjdåbddo ij la sämmilágásj, de iesjdåbddo máhttá nanniduvvat ja åvdeduvvat gå dagojt dahká majda l buorre.</p>
-      <p type="listitem">Tjále dagojt masi ietjanit lijkku.</p>
-      <p type="listitem">Tjále dakkirijt ma duv ávvodi.</p>
-      <p type="listitem">Tjále biejve ulmijt, buojkulvissan galga dahkat juojddá masi lijkku jali juojddá majt illa goassak åvddåla dahkam ja ij berustit jus buoragit jali nievret manáj, vasste vajfijnes sjattaj.</p>
-      <p type="listitem">Iesjdåbddo gullu ietjas oamedåbdduj. Jus la bahá, de oadtju nievres oamedåbdov ja nievret vådjá. Vuosstebielle jus la buorre ja låjes ulmusj, de vädjá buorebut ja oadtju aj buorep iesjdåbdov.</p>
-      <p type="listitem">Buorre åhpadiddje gut doarjju máttá ietjas iesjgåvåv nannit.</p>
-      <p type="listitem">Åtså viehkev psykologan jali kuratåvrån jus la dárbulasj, buojkulvissan nuoraduostudagán.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>535</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Gatjastusa-nannusap-iesjdabdduj</origFileName><parallel_text xml:lang="eng" location="how-to-improve-self-esteem.html"/><parallel_text xml:lang="fin" location="vinkkeja-itsetunnon-kohentamiseen.html"/><parallel_text xml:lang="fit" location="tipsia-kuinka-parantaa-ommaa-ittentuntoa.html"/><parallel_text xml:lang="sma" location="raerieh-buerebe-jijtjedomtesasse.html"/><parallel_text xml:lang="sme" location="guoiggus-buoret-iedovdui.html"/><parallel_text xml:lang="swe" location="tips-for-battre-sjalvkansla.html"/><parallel_text location="tipsi-bao-poukar-korkorioset.html" xml:lang="rmn"/><parallel_text location="hilprepha-gla-fedigare-soluskansla.html" xml:lang="rmu"/><parallel_text location="ideori-sar-te-vortos-iri-zor.html" xml:lang="rmy-rka"/><parallel_text location="rejchern.html" xml:lang="yid"/><parallel_text location="tipsura-te-avel-maj-lao-manuesko-aaripe.html" xml:lang="rmy-rlo"/><parallel_text location="tipsi-te-lel-fendide-iegohoiba.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Gätjástusá nannusap iesjdåbdduj</p>
+<p type="title">Gätjástusá nannusap iesjdåbdduj</p>
+<p>Gávnnuji ednaga majt máhttá dahkat nannitjit ietjas iesjdåbdov. Dála li muhtem dago majt máhttá gähttjalit:</p>
+<list><p type="listitem">Jus la vuollegis iesjdåbddo de álkket dähppu nievres ájádusájda degu dal man nievrre la. Gå ájádallá ietjas nievrren de máhttá gähttjalit dajt doadjet ja ietjastis gatjádit: viehket gus muv návti ájádallat? Le gus ajtu duohta vaj iv la masik buorre?</p>
+<p type="listitem">Besatjit ájádusájs nägo ja dago birra, ma e iesjdåbduj gullu, de máhttá ulmutjijs gesi åssku gatjádit makkir iesjvuodajda sij lijkkuji. Máhttá ulmutjav gåhttjot listav tjállet majt gatsos sadjáj gånnå dav buoragit vuojnná.</p>
+<p type="listitem">Máhttá aj ájádallat makkir egen iesjvuodajda lijkku iehtjádijn. Mij la ajtu ájnas? Årrot <span type="quote">“Fávrro”</span>, buoremus skåvlå gähttjalimijn, jali l diehtovájnok, huvsulasj, jiermmá, sjuggel jali jálos ulmusj mij duosstá ietjasláhkáj årrot?</p>
+<p type="listitem">Nanni iesjdåbdov gå li buorre aktavuoda iehtjádij, goappátjagá rádnaj, gieresvuohtagasskavuodaj ja fuolkijn. Jus ulmutja ietjas fuolken jali lahkusin nubbe nuppev båssti, de máhttá gåhttjot sijáv hiejttet. Márjju máhttá ienni gåhttojt sijáv muhtem buorre bágojt javllat fert avta birra?</p>
+<p type="listitem">Máhttá dajt dagojt dahkat majt ij álu dagá. Jus ij goassak la ulmusj gut vuostak giedav gálggi, de máhttá gähttjalit dav boahtte leksjåvnån dahkat. Jali de gähttjal vuosstálasstet boahtte bále gå nágin gähttjal ietjá ulmutjav suohtan adnet, bargov åhtsåt majt mielas sihtá adnet, skuolkkat ulmutjij gesi lijkku jali ráddnaj vuosedit novellav majt la tjállám.</p>
+<p type="listitem">Ienni gå dähpput dakkirij mij la åvdebut viessomin nievrre årrum, de máhttá gähttjalit buorren válldet dajt ma li dáhpaduvvam ja dåbdojt ma dalloj lidjin. Jus buojkulvissan adná äjgáda ettjin nuohkásit bavrrim ja vuojnnám suv gå lij unnagasj, de márjju dálla gávnnuji iehtjáda birrasin gudi lijkkuji ja buorren suv vuojnná. Máhttá aj ietjastis gatjádit mij la buoremus sunji dahkat jur dálla. Ij dárbaha merkahit vaj ij oattjo vuosedit håjen la dahkusijsa ma li dáhpáduvvam, ienni márjju dárbaj ájgev surggahit ja de åvddålijguovlluj joarkket.</p>
+</list><p type="title">Nuorratjiehppejuohkusa buoremus gätjástusá</p>
+<p>Nuoraduostudagá/UMOdan ietjas nuorajpanella vaddá buoremus gätjástusájt birra gåktu buorep iesjdåbdov oadtjot:</p>
+<list><p type="listitem">Máhttá gähttjalit oalle jállo årrot ja ienebuv duosstat: duosstat åvdåsvásstedit majt adná, duosstat gatjádit dakkirijt majt ij diede, vuojnnut gåk la.</p>
+<p type="listitem">Máhttá säbrástallat ulmutjij gej siegen la vuogas ja jasskavuodav dåbddå.</p>
+<p type="listitem">Máhttá dåbddut jálop ja gievrap jus gulldal musijkav masi sälldát lijkku, buojkulvissan gå la mannamin juosik massta juorrula, jali sämmibále gå dahká juojddá dahká mij baludissan dåbddu.</p>
+<p type="listitem">Máhttá sjaddat buorep májnov ja lávgájdallamijt duosstot. Ienni gå vájvalussjat, de máhttá tjiegnalit vuojŋŋat, ja gijttet ja vuodjodit majt ulmusj javllá dasi ávvudallat.</p>
+<p type="listitem">Máhttá ietjas arvusmahttet ja duhtat gå buojkulvissan la skåvllåbargov dahkam jali gå l skuolkkam vájves sagastallamav.</p>
+<p type="listitem">Máhttá buorre ja doarjodiddje ráddna årrot ja iesj válljit rádnajt gudi arvusmahtti ja lijkkuji ietjas diehti.</p>
+<p type="listitem">Ienni galggá lávgájdallat ja nuppev rámmpot..</p>
+<p type="listitem">Fármudalá ednagit!</p>
+<p type="listitem">Vájku iesjåssko ja iesjdåbddo ij la sämmilágásj, de iesjdåbddo máhttá nanniduvvat ja åvdeduvvat gå dagojt dahká majda l buorre.</p>
+<p type="listitem">Tjále dagojt masi ietjanit lijkku.</p>
+<p type="listitem">Tjále dakkirijt ma duv ávvodi.</p>
+<p type="listitem">Tjále biejve ulmijt, buojkulvissan galga dahkat juojddá masi lijkku jali juojddá majt illa goassak åvddåla dahkam ja ij berustit jus buoragit jali nievret manáj, vasste vajfijnes sjattaj.</p>
+<p type="listitem">Iesjdåbddo gullu ietjas oamedåbdduj. Jus la bahá, de oadtju nievres oamedåbdov ja nievret vådjá. Vuosstebielle jus la buorre ja låjes ulmusj, de vädjá buorebut ja oadtju aj buorep iesjdåbdov.</p>
+<p type="listitem">Buorre åhpadiddje gut doarjju máttá ietjas iesjgåvåv nannit.</p>
+<p type="listitem">Åtså viehkev psykologan jali kuratåvrån jus la dárbulasj, buojkulvissan nuoraduostudagán.</p>
+</list></body></document>

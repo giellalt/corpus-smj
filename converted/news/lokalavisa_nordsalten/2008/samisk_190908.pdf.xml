@@ -1,50 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Nuora vierttiji ienep åvdåsvásstádusáv válldet njálmálasj gielas</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2008</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>358</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_190908.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty Skapalen</p>
-    <p>Nuora vierttiji ienepåvdåsvásstádusávválldet njálmálasj gielas</p>
-    <p>Jårggålibme: Divte Media</p>
-    <p>j j</p>
-    <p>j j</p>
-    <p><em type="italic">Inga Karlsen (74) ja Sandra Nystø Ráhka (21). Aktan njálmálasj giellaj buorren. Goappátja libá berustiddje goabbák buolvan ja goappátjijn levijdes máhtudahka ja åtsådallama. Dálla vierttiji dåssju gávnnat aktisasj sajijt gånnå ulmutja ja giella máhtti nubbe nuppev boanndodit.Inga Karlsen (74) og Sandra Nystø Ráhka (21). Sammen om det muntlige språket. De er begge engasjerte i hver sin generasjon og har storkunnskap og erfaring. Nå gjenstår det å finne felles arenaer hvor folk og språk kan berike hverandre.</em> </p>
-    <p>la adnám manemus ájgijn, de dav páhppárijtjáláv.  Dasi  Sandra  lijkku.    Mij  nuoraham álu bágojt åhtsålip ma máhtti gåvviditmajt  ájggop  åvddånbuktet,  valla  álu  epriekta  bágov  gávna.  Ja  diehtep  bágo  liham  åvddåla  gávnnum,  javllá  sån.Tækstatjoahkke  ma  uddni  skåvlåjnaneduvvi boasto signálajt oahppijda vaddi,miejnni Sandra. Dievalasj girje ja luovasárkaj gaskan le stuorra sieradus. Diedondåbddåp dav æbddásin gå vierttip kopiajtagev  adnet,  javllá  sån.  Ja  sån  guorrasiehtjádij konferánsan gudi javlli ájnas le</p>
-    <p>aktak ælla giellapolitija.- Vierttip aktisasj dádjadusáv adnet ij leloahpe nubbe nuppev delbastit, javllá Inga.</p>
-    <p>jårggålit dáro oahppamgirjij sámegiellaj.Vuojnnet gássjel sjaddá ådå oahppamgirjijtsámegiellaj tjállet, sierraláhkáj gå e gávnnuulmutja dasi.</p>
-    <p>j</p>
-    <p>Sandra mielas le konferánssa måvtåstuhtte,ja sån sihtá gávnnat konkrehtalasj dåjmajtma máhtti dilev buoredit.  Le buorre gåkonferánssa ij le ilá politihkalasj, miejnnisån. Álu le politihkalasj sisadno ilá låptosstuorra visjåvnåj ja guhkesájggásasj plánaj,valla konkrehta dåjma hæhttuji dalánagidoajmmaj  biejaduvvat.    Máhtti  liehketduola dagu stipænndaårniga, ja duola dagu</p>
-    <p><em type="italic">Gåktu  de  ájmmudip  dajt  sajijt  gånnågalggap gielav adnet vájku man vuorrasalip?</em>- Mij nuora vierttip ienep åvdåsvásstádusávválldet.  Nav  gåktu  le  uddni  de  áludárogiellaj  målssop  gå  diehtep  dánna  linágina gudi sámegielav e dádjada. Vallagalgajma sámástit ienebuv vaj sij oadtjumáhttelisvuodav ienebuv oahppat, javlláSandra. Ja gávnnu vilá ballo ulmutjij lunnavaj  e  duosta  sámástit  gå  diehti  e  ållubuoragit sámásta.- Vierttip mannat dássta baddjet ja vuolus,vuoset Inga Karlsen, ja gæjggá dæhkkosguolbbáj.    Vierttip  bæjválasj  gielavtjalmostit, miejnni sån. Iesj sån åhpaj ietjasiednegielav  tjállet  esski  40-50  jagevuorrasin.  Mijájn vuorrasijn le njálmálasjgiella,  valla  vájllup  politihkalasj  oasev,javllá  sån.    Valla  dat  la  mijájn,  måjutSandra.  Ja  dat  le  ihkap  jur  dat  mij  legievrrudahka, viehkedit ja dievadit nubbenuppe máhtudagáv. Ja sihke Inga 74 jageja  Sandra  21  jage  goappátja  guorrasibávierttip  gáhtjadit    åvddål  ålles  buolvamáhtudahka gáhtu. </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Nuora vierttiji ienep åvdåsvásstádusáv válldet njálmálasj gielas</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2008</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>358</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_190908.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty Skapalen</p>
+<p>Nuora vierttiji ienepåvdåsvásstádusávválldet njálmálasj gielas</p>
+<p>Jårggålibme: Divte Media</p>
+<p>j j</p>
+<p>j j</p>
+<p><em type="italic">Inga Karlsen (74) ja Sandra Nystø Ráhka (21). Aktan njálmálasj giellaj buorren. Goappátja libá berustiddje goabbák buolvan ja goappátjijn levijdes máhtudahka ja åtsådallama. Dálla vierttiji dåssju gávnnat aktisasj sajijt gånnå ulmutja ja giella máhtti nubbe nuppev boanndodit.Inga Karlsen (74) og Sandra Nystø Ráhka (21). Sammen om det muntlige språket. De er begge engasjerte i hver sin generasjon og har storkunnskap og erfaring. Nå gjenstår det å finne felles arenaer hvor folk og språk kan berike hverandre.</em> </p>
+<p>la adnám manemus ájgijn, de dav páhppárijtjáláv.  Dasi  Sandra  lijkku.    Mij  nuoraham álu bágojt åhtsålip ma máhtti gåvviditmajt  ájggop  åvddånbuktet,  valla  álu  epriekta  bágov  gávna.  Ja  diehtep  bágo  liham  åvddåla  gávnnum,  javllá  sån.Tækstatjoahkke  ma  uddni  skåvlåjnaneduvvi boasto signálajt oahppijda vaddi,miejnni Sandra. Dievalasj girje ja luovasárkaj gaskan le stuorra sieradus. Diedondåbddåp dav æbddásin gå vierttip kopiajtagev  adnet,  javllá  sån.  Ja  sån  guorrasiehtjádij konferánsan gudi javlli ájnas le</p>
+<p>aktak ælla giellapolitija.- Vierttip aktisasj dádjadusáv adnet ij leloahpe nubbe nuppev delbastit, javllá Inga.</p>
+<p>jårggålit dáro oahppamgirjij sámegiellaj.Vuojnnet gássjel sjaddá ådå oahppamgirjijtsámegiellaj tjállet, sierraláhkáj gå e gávnnuulmutja dasi.</p>
+<p>j</p>
+<p>Sandra mielas le konferánssa måvtåstuhtte,ja sån sihtá gávnnat konkrehtalasj dåjmajtma máhtti dilev buoredit.  Le buorre gåkonferánssa ij le ilá politihkalasj, miejnnisån. Álu le politihkalasj sisadno ilá låptosstuorra visjåvnåj ja guhkesájggásasj plánaj,valla konkrehta dåjma hæhttuji dalánagidoajmmaj  biejaduvvat.    Máhtti  liehketduola dagu stipænndaårniga, ja duola dagu</p>
+<p><em type="italic">Gåktu  de  ájmmudip  dajt  sajijt  gånnågalggap gielav adnet vájku man vuorrasalip?</em>- Mij nuora vierttip ienep åvdåsvásstádusávválldet.  Nav  gåktu  le  uddni  de  áludárogiellaj  målssop  gå  diehtep  dánna  linágina gudi sámegielav e dádjada. Vallagalgajma sámástit ienebuv vaj sij oadtjumáhttelisvuodav ienebuv oahppat, javlláSandra. Ja gávnnu vilá ballo ulmutjij lunnavaj  e  duosta  sámástit  gå  diehti  e  ållubuoragit sámásta.- Vierttip mannat dássta baddjet ja vuolus,vuoset Inga Karlsen, ja gæjggá dæhkkosguolbbáj.    Vierttip  bæjválasj  gielavtjalmostit, miejnni sån. Iesj sån åhpaj ietjasiednegielav  tjállet  esski  40-50  jagevuorrasin.  Mijájn vuorrasijn le njálmálasjgiella,  valla  vájllup  politihkalasj  oasev,javllá  sån.    Valla  dat  la  mijájn,  måjutSandra.  Ja  dat  le  ihkap  jur  dat  mij  legievrrudahka, viehkedit ja dievadit nubbenuppe máhtudagáv. Ja sihke Inga 74 jageja  Sandra  21  jage  goappátja  guorrasibávierttip  gáhtjadit    åvddål  ålles  buolvamáhtudahka gáhtu. </p>
+</body></document>

@@ -1,62 +1,20 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Dårja sáme kulturmujtojda</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <wordcount>185</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/Daarja-ja-stipenda/Daarja-same-kulturmujtojda</origFileName>
-    <parallel_text xml:lang="nob" location="tilskudd-til-samiske-kulturminner.html"/>
-    <parallel_text xml:lang="sma" location="kultuvremojhtesevaarjelimmie.html"/>
-    <parallel_text xml:lang="sme" location="doarjagat-sami-kulturmuitosuodjalussii.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Dårja sáme kulturmujtojda</p>
-    <p xml:lang="nob">Søknadsfrist: 15.02.2019 23:59</p>
-    <p><em type="italic">Åhtsåmájggemierre </em>: 15.02.19 </p>
-    <p><em type="italic">Gudi máhtti dårjav oadtjot </em>: Æjgáda ja addne sáme kulturmujtojda ja doarromujtojda sáme duobddágijn. </p>
-    <p>
-      <em type="italic">Masi máhtti dårjav oadtjot: </em>
-    </p>
-    <p>
-      <em type="italic">Tsiekkadussuodjalimprosjevta: </em>
-    </p>
-    <list>
-      <p type="listitem">Dagátjit antikvariáhtalasj åbddimplánajt automáhtalattjat ráfájduhtedum ja suodjalimárvvogis sáme tsiekkadusájda</p>
-      <p type="listitem">Åbdditjit automáhtalattjat ráfájduhtedum ja suodjalimárvvogis sáme tsiekkadusájt, tsiekkadusá ma li åvvå ájnnasa sáme bájkálasj sebrudahkaj vuoroduvvi.</p>
-      <p type="listitem">Åvddånbuktemij tjanádum automáhtalattjat ráfájduhtedum ja suodjalimárvvogis sáme tsiekkadusájda.</p>
-    </list>
-    <p>
-      <em type="italic">Registrierim ja duodastime: </em>
-    </p>
-    <list>
-      <p type="listitem">Registrieritjit automáhtalattjat ráfájduhtedum kulturmujtojt ja kulturbirrasijt. Duobddága ma binnát li guoradaláduvvam sáme kulturmujtoj gáktuj vuoroduvvi.</p>
-      <p type="listitem">Tjoahkkitjit ja duodastittjat sáme iehpemateriálla kulturmujtojt duobddágin.</p>
-      <p type="listitem">Tjoahkkitjit njálmálasj subttsasijt ja mujtojt tjanádum maŋep væráltdårruj ja boalldemij, sirdedibmáj ja ådåsis tsieggimij Nuortta-Tråmsån ja Finnmárkon.</p>
-    </list>
-    <p>
-      <em type="italic">Hoajddo ja hiebadahttem: </em>
-    </p>
-    <list>
-      <p type="listitem">Dagátjit hoajddoplánajt sáme kulturmujtojda ja kulturbirrasijda.</p>
-      <p type="listitem">Hoajddodåjmajt ja hiebadahttem kulturmujtojs ja kulturbirrasijs gånnå ållagasj prosjevta Rijkaantikvára BARK prográmma vuoroduvvi.</p>
-    </list>
-    <p><em type="italic">Man ednagav máhtti oadtjot: </em>Gitta 400 000,- kråvnå. </p>
-    <p>Jus sjaddi hásstalusá åhtsåmsjiemá gáktuj, máhttebihtit doarjjaårniga guládallamulmutjij guládallat.</p>
-    <p><em type="italic">Guládallamulmutja årnigij: </em>Ahkep rádevadde Lars Børge Myklevold , +47 78 48 42 73, ahkep rádevadde Kjartan Gran <em type="italic">, </em>+47 78 48 42 84, ahkep rádevadde Ingvild Larsen , +47 78 48 42 79, fáhkajådediddje Elin Rose Myrvoll , +47 78 47 40 20 </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Dårja sáme kulturmujtojda</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><wordcount>185</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/Daarja-ja-stipenda/Daarja-same-kulturmujtojda</origFileName><parallel_text xml:lang="nob" location="tilskudd-til-samiske-kulturminner.html"/><parallel_text xml:lang="sma" location="kultuvremojhtesevaarjelimmie.html"/><parallel_text xml:lang="sme" location="doarjagat-sami-kulturmuitosuodjalussii.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Dårja sáme kulturmujtojda</p>
+<p xml:lang="nob">Søknadsfrist: 15.02.2019 23:59</p>
+<p><em type="italic">Åhtsåmájggemierre </em>: 15.02.19 </p>
+<p><em type="italic">Gudi máhtti dårjav oadtjot </em>: Æjgáda ja addne sáme kulturmujtojda ja doarromujtojda sáme duobddágijn. </p>
+<p><em type="italic">Masi máhtti dårjav oadtjot: </em></p>
+<p><em type="italic">Tsiekkadussuodjalimprosjevta: </em></p>
+<list><p type="listitem">Dagátjit antikvariáhtalasj åbddimplánajt automáhtalattjat ráfájduhtedum ja suodjalimárvvogis sáme tsiekkadusájda</p>
+<p type="listitem">Åbdditjit automáhtalattjat ráfájduhtedum ja suodjalimárvvogis sáme tsiekkadusájt, tsiekkadusá ma li åvvå ájnnasa sáme bájkálasj sebrudahkaj vuoroduvvi.</p>
+<p type="listitem">Åvddånbuktemij tjanádum automáhtalattjat ráfájduhtedum ja suodjalimárvvogis sáme tsiekkadusájda.</p>
+</list><p><em type="italic">Registrierim ja duodastime: </em></p>
+<list><p type="listitem">Registrieritjit automáhtalattjat ráfájduhtedum kulturmujtojt ja kulturbirrasijt. Duobddága ma binnát li guoradaláduvvam sáme kulturmujtoj gáktuj vuoroduvvi.</p>
+<p type="listitem">Tjoahkkitjit ja duodastittjat sáme iehpemateriálla kulturmujtojt duobddágin.</p>
+<p type="listitem">Tjoahkkitjit njálmálasj subttsasijt ja mujtojt tjanádum maŋep væráltdårruj ja boalldemij, sirdedibmáj ja ådåsis tsieggimij Nuortta-Tråmsån ja Finnmárkon.</p>
+</list><p><em type="italic">Hoajddo ja hiebadahttem: </em></p>
+<list><p type="listitem">Dagátjit hoajddoplánajt sáme kulturmujtojda ja kulturbirrasijda.</p>
+<p type="listitem">Hoajddodåjmajt ja hiebadahttem kulturmujtojs ja kulturbirrasijs gånnå ållagasj prosjevta Rijkaantikvára BARK prográmma vuoroduvvi.</p>
+</list><p><em type="italic">Man ednagav máhtti oadtjot: </em>Gitta 400 000,- kråvnå. </p>
+<p>Jus sjaddi hásstalusá åhtsåmsjiemá gáktuj, máhttebihtit doarjjaårniga guládallamulmutjij guládallat.</p>
+<p><em type="italic">Guládallamulmutja årnigij: </em>Ahkep rádevadde Lars Børge Myklevold , +47 78 48 42 73, ahkep rádevadde Kjartan Gran <em type="italic">, </em>+47 78 48 42 84, ahkep rádevadde Ingvild Larsen , +47 78 48 42 79, fáhkajådediddje Elin Rose Myrvoll , +47 78 47 40 20 </p>
+</body></document>

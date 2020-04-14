@@ -1,58 +1,23 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title> 
+<document xml:lang="smj" id="no_id"><header><title> 
 Brev
-</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>281</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/getfile.php/517170.927.wtdcwwquac/PM+200807.doc</origFileName>
-    <parallel_text xml:lang="nob" location="pm_200807.doc"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="isl">
-      <em type="bold">P r æ s s a d i e d á d u s </em>
-    </p>
-    <p xml:lang="nno">
-      <em type="bold">P r e s s e m e l d i n g </em>
-    </p>
-    <p>Biejvve/Dato: Bårggemáno 20.b. 2007/20.august 2007</p>
-    <p>Mijá sievvem/Vår ref: 06/0008-5155-v1/SRN</p>
-    <p>
-      <em type="bold">Árranij 230 000 kr juollodum </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="bold">Kr 230 000 i tilskudd til Árran </em>
-    </p>
-    <p>- Mij lip dudálattja gå Nordlánda fylkasuohkan ja Sámedigge li aktan juollodam 230 000 kråvnå Árranij nuorttaguovlo prosjevtav tjadádittjat. Prosjevtan li guokta oase:</p>
-    <list>
-      <p type="listitem">Åvdedit lågådallamrájdov iemeálmmugij viddjurij birra mij ierit ietján Bådådjo allaskåvlå <span type="quote" xml:lang="nob">”Bachelor of Circumpolar Studies”</span> nammasasj åhpadussaj la hiebadum.</p>
-      <p type="listitem">Guoradallat dárbojt teknihkalasj rustigijda Nordlánda sáme guovdátjijn vaj máhtti studentaid oanep ájggáj guossodit ja lågådallamijt sáme ja ietjá iemeálmmugij dilij birra fállat.</p>
-    </list>
-    <p>Prosjevtajn galggap gærggat javlajda, subtsas Árrana direktørra Filip Mikkelsen.</p>
-    <p>Prosjækta galggá tjadáduvvat aktan Bådådjo allaskåvlåjn, Sijti Jarnge kulturguovdátjijn, Aarporten - Hattfjelldálen ja Várdobáiki sáme guovdátjin, Evenássjen.</p>
-    <p xml:lang="nob">- Vi er fornøyd med at Nordland fylkeskommune og Sametinget i fellesskap har gitt 230 000 kroner til gjennomføring av et nordområdeprosjekt på Árran. Prosjektet består av to deler:</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Utvikle en forelesningsrekke om urfolksforhold som blant annet er tilpasset studiet <span type="quote" xml:lang="nob">”Bachelor of Circumpolar Studies”</span> på Høgskolen i Bodø.</p>
-      <p type="listitem" xml:lang="nob">Kartlegge behovet for tekniske fasiliteter på de samiske sentrene i Nordland til å kunne ta i mot studenter for undervisning om samiske og urfolksforhold, for kortere tidsperioder.</p>
-    </list>
-    <p xml:lang="nno">Vi skal være ferdig med prosjektet til jul, opplyser Árrans direktør Filip Mikkelsen.</p>
-    <p xml:lang="nob">Prosjektet skal gjennomføres i samarbeid med Høgskolen i Bodø, Samisk kultursenter, Hattfjelldal og Várdobáiki samiske senter, Evenes.</p>
-    <p xml:lang="nob">Ienep diedojt juohká/For nærmere opplysninger:</p>
-    <p xml:lang="nno">Direktør Filip Mikkelsen: Tlf: 75 77 51 10, Mobil: 95 08 64 09</p>
-    <p xml:lang="nno">Adr: 8270 Drag/Ájluokta Tlf: 75 77 51 00 Faks: 75 77 51 01 Org.nr: 874691402 Bank: 4509.11.56885</p>
-    <p>E-post: poassta@arran.no Web: www.arran.no</p>
-  </body>
-</document>
+</title><genre code="facta"/><author><unknown/></author><wordcount>281</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/getfile.php/517170.927.wtdcwwquac/PM+200807.doc</origFileName><parallel_text xml:lang="nob" location="pm_200807.doc"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="isl"><em type="bold">P r æ s s a d i e d á d u s </em></p>
+<p xml:lang="nno"><em type="bold">P r e s s e m e l d i n g </em></p>
+<p>Biejvve/Dato: Bårggemáno 20.b. 2007/20.august 2007</p>
+<p>Mijá sievvem/Vår ref: 06/0008-5155-v1/SRN</p>
+<p><em type="bold">Árranij 230 000 kr juollodum </em></p>
+<p xml:lang="nob"><em type="bold">Kr 230 000 i tilskudd til Árran </em></p>
+<p>- Mij lip dudálattja gå Nordlánda fylkasuohkan ja Sámedigge li aktan juollodam 230 000 kråvnå Árranij nuorttaguovlo prosjevtav tjadádittjat. Prosjevtan li guokta oase:</p>
+<list><p type="listitem">Åvdedit lågådallamrájdov iemeálmmugij viddjurij birra mij ierit ietján Bådådjo allaskåvlå <span type="quote" xml:lang="eng">”Bachelor of Circumpolar Studies”</span> nammasasj åhpadussaj la hiebadum.</p>
+<p type="listitem">Guoradallat dárbojt teknihkalasj rustigijda Nordlánda sáme guovdátjijn vaj máhtti studentaid oanep ájggáj guossodit ja lågådallamijt sáme ja ietjá iemeálmmugij dilij birra fállat.</p>
+</list><p>Prosjevtajn galggap gærggat javlajda, subtsas Árrana direktørra Filip Mikkelsen.</p>
+<p>Prosjækta galggá tjadáduvvat aktan Bådådjo allaskåvlåjn, Sijti Jarnge kulturguovdátjijn, Aarporten - Hattfjelldálen ja Várdobáiki sáme guovdátjin, Evenássjen.</p>
+<p xml:lang="nob">- Vi er fornøyd med at Nordland fylkeskommune og Sametinget i fellesskap har gitt 230 000 kroner til gjennomføring av et nordområdeprosjekt på Árran. Prosjektet består av to deler:</p>
+<list><p type="listitem" xml:lang="nob">Utvikle en forelesningsrekke om urfolksforhold som blant annet er tilpasset studiet <span type="quote" xml:lang="eng">”Bachelor of Circumpolar Studies”</span> på Høgskolen i Bodø.</p>
+<p type="listitem" xml:lang="nob">Kartlegge behovet for tekniske fasiliteter på de samiske sentrene i Nordland til å kunne ta i mot studenter for undervisning om samiske og urfolksforhold, for kortere tidsperioder.</p>
+</list><p xml:lang="nno">Vi skal være ferdig med prosjektet til jul, opplyser Árrans direktør Filip Mikkelsen.</p>
+<p xml:lang="nob">Prosjektet skal gjennomføres i samarbeid med Høgskolen i Bodø, Samisk kultursenter, Hattfjelldal og Várdobáiki samiske senter, Evenes.</p>
+<p xml:lang="nob">Ienep diedojt juohká/For nærmere opplysninger:</p>
+<p xml:lang="nno">Direktør Filip Mikkelsen: Tlf: 75 77 51 10, Mobil: 95 08 64 09</p>
+<p xml:lang="nno">Adr: 8270 Drag/Ájluokta Tlf: 75 77 51 00 Faks: 75 77 51 01 Org.nr: 874691402 Bank: 4509.11.56885</p>
+<p>E-post: poassta@arran.no Web: www.arran.no</p>
+</body></document>

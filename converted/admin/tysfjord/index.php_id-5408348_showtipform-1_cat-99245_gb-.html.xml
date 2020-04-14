@@ -1,37 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>63</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/index.php?id=5408348&amp;showtipform=1&amp;cat=99245&amp;gb=</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Tysfjord kommune : Oajvvesisiválldem skåvllåasstoájggedoajmma (SAD) - Tips en venn</p>
-    <p type="title">Oajvvesisiválldem skåvllåasstoájggedoajmma (SAD)</p>
-    <p xml:lang="nob">03.02.2014</p>
-    <p>Divtasvuona suohkana skåvllåasstoájggedåjma álggi 18.08.2014 dáj bajkij:</p>
-    <list>
-      <p type="listitem">Ájluokta skåvllå, Ájluovtan</p>
-      <p type="listitem">Gásluokta skåvllå, Gásluovtan</p>
-      <p type="listitem">Stuorgiedde bajás-sjaddamguovdásj, Stuorgietten</p>
-    </list>
-    <p>Ienep diedojt ja åhtsåmsjiemáv/skåvev oattjo SAD:an (skåvllåasstoájggedåjman), skåvlån, Rádevieson Gásluovtan ja www.tysfjord.kommune.no Åhtsåmus sisiválldemij máhttá elektråvnnålattjat rájaduvvat: postmottak@tysfjord.kommune.no Vaj de påvståjn: Divtasvuona suohkan, bajás-sjaddam ja åhpadus poasstaboaksa 104 8591 Gásluokta <em type="italic">Åhtsåmmierre le 01.03.2014 </em></p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>63</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/index.php?id=5408348&amp;showtipform=1&amp;cat=99245&amp;gb=</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Tysfjord kommune : Oajvvesisiválldem skåvllåasstoájggedoajmma (SAD) - Tips en venn</p>
+<p type="title">Oajvvesisiválldem skåvllåasstoájggedoajmma (SAD)</p>
+<p xml:lang="nob">03.02.2014</p>
+<p>Divtasvuona suohkana skåvllåasstoájggedåjma álggi 18.08.2014 dáj bajkij:</p>
+<list><p type="listitem">Ájluokta skåvllå, Ájluovtan</p>
+<p type="listitem">Gásluokta skåvllå, Gásluovtan</p>
+<p type="listitem">Stuorgiedde bajás-sjaddamguovdásj, Stuorgietten</p>
+</list><p>Ienep diedojt ja åhtsåmsjiemáv/skåvev oattjo SAD:an (skåvllåasstoájggedåjman), skåvlån, Rádevieson Gásluovtan ja www.tysfjord.kommune.no Åhtsåmus sisiválldemij máhttá elektråvnnålattjat rájaduvvat: postmottak@tysfjord.kommune.no Vaj de påvståjn: Divtasvuona suohkan, bajás-sjaddam ja åhpadus poasstaboaksa 104 8591 Gásluokta <em type="italic">Åhtsåmmierre le 01.03.2014 </em></p>
+</body></document>

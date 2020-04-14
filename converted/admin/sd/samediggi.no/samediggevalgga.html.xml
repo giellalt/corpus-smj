@@ -1,62 +1,26 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Sámediggeválgga</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2017</year>
-    <wordcount>375</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/Valgga/Sametingsvalget-2017/Samediggevalgga</origFileName>
-    <parallel_text xml:lang="nob" location="slik-stemmer-du-ved-sametingsvalget.html"/>
-    <parallel_text xml:lang="sme" location="na-jienastat-samediggevalggas.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="sme">Sámediggeválgga</p>
-    <p>Sámediggevállga le sæmmi bále gå stuorradiggeválgga. Jagen 2017 le válggabiejvve mánnodagá ragátmáno 11. biejve.</p>
-    <p>
-      <em type="italic">Besa gus jienastit? </em>
-    </p>
-    <p>Sámediggeválggaj le ækton jut la ållim 18 jage åvddåla válggajahke nåhkå.</p>
-    <p>Jus galga bessat jienastit, hæhttu aj liehket Sámedikke jienastuslåhkuj tjáledum. Gå ietjat tjáleda, hæhttu duodastit dån aná ietjat sábmelattjan ja jut dujna le sámegiella sijddagiellan, jali duv æjgádijn, áhkojn/ádjájn jali duv máttaráhkojn/máttarádjájn lij sámegiella sijddagiellan jali unnemusát nubbe duv æjgádijs le jalij lij sámedikke jienastuslågon.</p>
-    <p>Diededimájggemierre ietjat jienastuslåhkuj le biehtsemáno 30.biejve 17 jus ájgo jienastit 2017 válgan.</p>
-    <p>Dån máhtá diededimsjiemáv dási sáddit.</p>
-    <p>Dån máhtá aj dav Sámediggá påsta baktu sáddit, valla mujte de jut hæhttu midjij boahtám åvddåla gasskaijá biehtsemáno 30.b.17. Nappu ij le nuoges tjáledimsjiemáv påstan stiempeldit biehtsemáno 30.b.17. Dån hæhttu sáddit dav árrat vaj Sámediggáj la boahtám åvddåla dan biejve.</p>
-    <p>Jus la sábme Svieriga, Suoma jali Ruossja bieles, hæhttu liehket tjáledum Vuona viesádin maŋemus gålmmå jage.</p>
-    <p>
-      <em type="italic">Goassa le 2017 sámediggeválgga? </em>
-    </p>
-    <p>Sámediggeválgga le sæmmi bále gå stuorradiggeválgga. Jagen 2017 le válggabiejvve <em type="italic">mánnodagá ragátmáno 11. biejve. </em></p>
-    <p>Suohkanstivrra duv suohkanin máhttá mierredit, suohkan ásat válgajt sådnåbiejve ragátmáno 10.biejve. Dáv viertti ietjat suohkanijn guoradallat.</p>
-    <p>
-      <em type="italic">Gånnå máhtá jienastit? </em>
-    </p>
-    <p>Jus duv suohkanin li 30 jali binnep ulmutja Sámedikke jienastuslågon tjáledum, de hæhttu árabut jienastit.</p>
-    <p>Gájkka suohkana galggi láhtjet árabut jienastibmáj dajn sæmmi sajijn gånnå stuorradiggeválggaj jienasta.</p>
-    <p>Sjiehtadusá vuodon suohkanij máhttá jienastibme rahppot snjilljtjamáno 1. biejve rájes. Dån máhtá gájkajn suohkanijn árabut jienastit. Válggakårtån le tjáledum gåsi jienastibme galggá sáddiduvvat.</p>
-    <p>Árabut jienastibme álggá bårggemáno 10. biejve rijka sisbielen. Svalbardin ja Jan Mayeni hæhttu árabut jienastibme låhpaduvvat maŋemus bierjjedagá válga åvddåla, ja åvddål nubbe maŋemus bierjjedagá válga åvddåla ålggorijkajn.</p>
-    <p>Dån máhtá jienastit dåssju válggadikken dan suohkanin gånnå la viesádin tjáledum ja dåssju dajn suohkanijn gånnå li ienep gå 30 tjáledum jienastuslågon jagen 2013.</p>
-    <p>
-      <em type="italic">Válggakårttå </em>
-    </p>
-    <p>Válggakårtån diedojt gávna bájke birra gånnå válggabiejve jienastit galga.</p>
-    <p>Válggakårtån le aj tjáledum jus hæhttu árabut jienastit ja gåsi jienastibme galggá sáddiduvvat.</p>
-    <p>Válde válggakårtåv maŋen gå galga jienastit. Dát álkket bargov sidjij gudi galggi jienastimev vuosstáj válldet ja dahká jut ássje ruvábut manni.</p>
-    <p>Dån máhtá jienastit juska le válggakårtåv hælbbadam jali láhppám. Suohkanin le máhttelisvuohta ådå válggakårtåv dunji tjáledit jali dav giedajn dievddet.</p>
-    <p>Jus illa válggakårtåv sámediggeválggaj påstan oadtjum ja duv mielas dån le jienastuslåhkuj tjáledum, hæhttu válldet aktijvuodav Sámedikkijn .</p>
-    <p>Dujna hæhttu fábmogis duodastus gå ájgo jienastit.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Sámediggeválgga</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2017</year><wordcount>375</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/Valgga/Sametingsvalget-2017/Samediggevalgga</origFileName><parallel_text xml:lang="nob" location="slik-stemmer-du-ved-sametingsvalget.html"/><parallel_text xml:lang="sme" location="na-jienastat-samediggevalggas.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="sme">Sámediggeválgga</p>
+<p>Sámediggevállga le sæmmi bále gå stuorradiggeválgga. Jagen 2017 le válggabiejvve mánnodagá ragátmáno 11. biejve.</p>
+<p><em type="italic">Besa gus jienastit? </em></p>
+<p>Sámediggeválggaj le ækton jut la ållim 18 jage åvddåla válggajahke nåhkå.</p>
+<p>Jus galga bessat jienastit, hæhttu aj liehket Sámedikke jienastuslåhkuj tjáledum. Gå ietjat tjáleda, hæhttu duodastit dån aná ietjat sábmelattjan ja jut dujna le sámegiella sijddagiellan, jali duv æjgádijn, áhkojn/ádjájn jali duv máttaráhkojn/máttarádjájn lij sámegiella sijddagiellan jali unnemusát nubbe duv æjgádijs le jalij lij sámedikke jienastuslågon.</p>
+<p>Diededimájggemierre ietjat jienastuslåhkuj le biehtsemáno 30.biejve 17 jus ájgo jienastit 2017 válgan.</p>
+<p>Dån máhtá diededimsjiemáv dási sáddit.</p>
+<p>Dån máhtá aj dav Sámediggá påsta baktu sáddit, valla mujte de jut hæhttu midjij boahtám åvddåla gasskaijá biehtsemáno 30.b.17. Nappu ij le nuoges tjáledimsjiemáv påstan stiempeldit biehtsemáno 30.b.17. Dån hæhttu sáddit dav árrat vaj Sámediggáj la boahtám åvddåla dan biejve.</p>
+<p>Jus la sábme Svieriga, Suoma jali Ruossja bieles, hæhttu liehket tjáledum Vuona viesádin maŋemus gålmmå jage.</p>
+<p><em type="italic">Goassa le 2017 sámediggeválgga? </em></p>
+<p>Sámediggeválgga le sæmmi bále gå stuorradiggeválgga. Jagen 2017 le válggabiejvve <em type="italic">mánnodagá ragátmáno 11. biejve. </em></p>
+<p>Suohkanstivrra duv suohkanin máhttá mierredit, suohkan ásat válgajt sådnåbiejve ragátmáno 10.biejve. Dáv viertti ietjat suohkanijn guoradallat.</p>
+<p><em type="italic">Gånnå máhtá jienastit? </em></p>
+<p>Jus duv suohkanin li 30 jali binnep ulmutja Sámedikke jienastuslågon tjáledum, de hæhttu árabut jienastit.</p>
+<p>Gájkka suohkana galggi láhtjet árabut jienastibmáj dajn sæmmi sajijn gånnå stuorradiggeválggaj jienasta.</p>
+<p>Sjiehtadusá vuodon suohkanij máhttá jienastibme rahppot snjilljtjamáno 1. biejve rájes. Dån máhtá gájkajn suohkanijn árabut jienastit. Válggakårtån le tjáledum gåsi jienastibme galggá sáddiduvvat.</p>
+<p>Árabut jienastibme álggá bårggemáno 10. biejve rijka sisbielen. Svalbardin ja Jan Mayeni hæhttu árabut jienastibme låhpaduvvat maŋemus bierjjedagá válga åvddåla, ja åvddål nubbe maŋemus bierjjedagá válga åvddåla ålggorijkajn.</p>
+<p>Dån máhtá jienastit dåssju válggadikken dan suohkanin gånnå la viesádin tjáledum ja dåssju dajn suohkanijn gånnå li ienep gå 30 tjáledum jienastuslågon jagen 2013.</p>
+<p><em type="italic">Válggakårttå </em></p>
+<p>Válggakårtån diedojt gávna bájke birra gånnå válggabiejve jienastit galga.</p>
+<p>Válggakårtån le aj tjáledum jus hæhttu árabut jienastit ja gåsi jienastibme galggá sáddiduvvat.</p>
+<p>Válde válggakårtåv maŋen gå galga jienastit. Dát álkket bargov sidjij gudi galggi jienastimev vuosstáj válldet ja dahká jut ássje ruvábut manni.</p>
+<p>Dån máhtá jienastit juska le válggakårtåv hælbbadam jali láhppám. Suohkanin le máhttelisvuohta ådå válggakårtåv dunji tjáledit jali dav giedajn dievddet.</p>
+<p>Jus illa válggakårtåv sámediggeválggaj påstan oadtjum ja duv mielas dån le jienastuslåhkuj tjáledum, hæhttu válldet aktijvuodav Sámedikkijn .</p>
+<p>Dujna hæhttu fábmogis duodastus gå ájgo jienastit.</p>
+</body></document>

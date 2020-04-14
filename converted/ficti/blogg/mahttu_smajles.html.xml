@@ -1,51 +1,21 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Máhttu, Smájles</title>
-    <genre code="ficti"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2016</year>
-    <wordcount>157</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://luondoiellem.blogg.no/1478097226_mhttu_smjles.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Máhttu, Smájles</p>
-    <p>
-      <em type="italic">Dála l unna bájkkenamma-subtsas </em>
-    </p>
-    <p>Máhttu l gålmmålåkavta jagák ja årro Smájlen. Sån vádtsá vidát klássan Måske skåvlån, ja suv buoremus rádna libá Ánndaris, Sis-Måskes, ja Inga, Davve-Måskes.</p>
-    <p>Gå lij skåvlån de Máhttu, Inga ja Ánndaris låhki, ja gå le friddjabåddå de sij bállov tjiektji ålggon, tjievrrasaljon.</p>
-    <p>Máhttu æhttsá bállov tjiektjat, ja soames biejve de sån sihtá oassálasstet bállotjiektjam-VM:n, Måskesuollun. Måskesuollun le værálda stuorámus bállotjiektjamstadio, ja jus dån tjåhkkåha tribuvnan, de máhtá vuojnnet gitta Ruoppsisgærggáj ja Hábaktjåhkkåj.</p>
-    <p>Ájllegin de la Máhtun friddja skåvlås, ja gå sujna l friddja de sån lijkku vádtset Ruossavággáj.</p>
-    <p>Ruossavákken le jávrre, ja dan jávre badjelin la unna låptåsj gånnå Máhttu, vargga juohkka bále, adná unna båttåtjav åvddål sån viehká Smájleoajvváj. Gå sån tjuodtju Smájleoajven de máhttá sån vuojnnet bállotjiektjamstadiov Måskesuollun gånnå sån avta biejve galggá spellat stuor kámpav.</p>
-    <p type="title" xml:lang="nob">Ingen kommentarer</p>
-    <p type="title" xml:lang="nob">Skriv en ny kommentar</p>
-    <p xml:lang="nob">Navn:</p>
-    <p xml:lang="nob">E-post:</p>
-    <p xml:lang="nob">URL:</p>
-    <p xml:lang="nob">Din kommentar:</p>
-    <p xml:lang="nob">Husk meg ?</p>
-    <p type="title" xml:lang="nob">Kategorier</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Blogg</p>
-    </list>
-    <p type="title" xml:lang="nob">Arkiv</p>
-    <list>
-      <p type="listitem" xml:lang="nob">November 2016</p>
-      <p type="listitem" xml:lang="nob">Oktober 2016</p>
-      <p type="listitem" xml:lang="nob">September 2016</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Máhttu, Smájles</title><genre code="ficti"/><author><unknown/></author><year>2016</year><wordcount>157</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://luondoiellem.blogg.no/1478097226_mhttu_smjles.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Máhttu, Smájles</p>
+<p><em type="italic">Dála l unna bájkkenamma-subtsas </em></p>
+<p>Máhttu l gålmmålåkavta jagák ja årro Smájlen. Sån vádtsá vidát klássan Måske skåvlån, ja suv buoremus rádna libá Ánndaris, Sis-Måskes, ja Inga, Davve-Måskes.</p>
+<p>Gå lij skåvlån de Máhttu, Inga ja Ánndaris låhki, ja gå le friddjabåddå de sij bállov tjiektji ålggon, tjievrrasaljon.</p>
+<p>Máhttu æhttsá bállov tjiektjat, ja soames biejve de sån sihtá oassálasstet bállotjiektjam-VM:n, Måskesuollun. Måskesuollun le værálda stuorámus bállotjiektjamstadio, ja jus dån tjåhkkåha tribuvnan, de máhtá vuojnnet gitta Ruoppsisgærggáj ja Hábaktjåhkkåj.</p>
+<p>Ájllegin de la Máhtun friddja skåvlås, ja gå sujna l friddja de sån lijkku vádtset Ruossavággáj.</p>
+<p>Ruossavákken le jávrre, ja dan jávre badjelin la unna låptåsj gånnå Máhttu, vargga juohkka bále, adná unna båttåtjav åvddål sån viehká Smájleoajvváj. Gå sån tjuodtju Smájleoajven de máhttá sån vuojnnet bállotjiektjamstadiov Måskesuollun gånnå sån avta biejve galggá spellat stuor kámpav.</p>
+<p type="title" xml:lang="nob">Ingen kommentarer</p>
+<p type="title" xml:lang="nob">Skriv en ny kommentar</p>
+<p xml:lang="nob">Navn:</p>
+<p xml:lang="nob">E-post:</p>
+<p xml:lang="nob">URL:</p>
+<p xml:lang="nob">Din kommentar:</p>
+<p xml:lang="nob">Husk meg ?</p>
+<p type="title" xml:lang="nob">Kategorier</p>
+<list><p type="listitem" xml:lang="nob">Blogg</p>
+</list><p type="title" xml:lang="nob">Arkiv</p>
+<list><p type="listitem" xml:lang="nob">November 2016</p>
+<p type="listitem" xml:lang="nob">Oktober 2016</p>
+<p type="listitem" xml:lang="nob">September 2016</p>
+</list></body></document>

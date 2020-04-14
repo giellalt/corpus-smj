@@ -1,37 +1,8 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Gárvedime ådå sámedikkegávddaj</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2017</year>
-    <wordcount>174</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/Samedikke-birra/Arkiv-perioden-2016-2017/AAdaasa/Garvedime-aadaa-samedikkegavddaj</origFileName>
-    <parallel_text xml:lang="nob" location="forberedelser-til-ny-sametingsperiode.html"/>
-    <parallel_text xml:lang="sma" location="ryoejredimmieh-orre-saemiedigkieboelhkese.html"/>
-    <parallel_text xml:lang="sme" location="rahkkaneamit-odda-samediggeaigodahkii.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Gárvedime ådå sámedikkegávddaj</p>
-    <p>Dát dáhpáduvvá válga rájes desik ådå Sámedigge l vuododuvvam.</p>
-    <p>Maŋŋela válga galggá Sámedigge válggabåhtusav dåhkkidit ja ájrrasijt juohket Sámedikke ållestjåhkanimjuohkusij, fáhkajuohkusijda ja ietjá juohkusijda majt Sámedigge l ásadam. Gålgådismáno 11.biejve Sámedikke ådå nielje jage gávdda rabáduvvá.</p>
-    <p>Gå válggaboados ja fábmodusá vatteduvvi sámeválggastivrajs, galggá gárvedime fábmodusjuogos båddåsasj fábmodusájt guoradallat. Dát juogos válljiduváj maŋemus ållestjåhkanimen. Dan rádjáj gå fábmodusá li dåhkkiduvvam ådå ájrrasa båddåsattjat doajmmi.</p>
-    <p>Gå ådå ájrrasa gålgådismáno 11.biejve tjåhkani, de ållestjåhkanibme vuododuvvá. Gå ájrrasa ållestjåhkanimhuodnahin tjåhkkåhi, li sijá tjåhkkåhimsaje mierredum dan vuodon makkir válggabijrraj gulluji. Válggaboados iesjgeŋga ájrrasa tjåhkkåhimsajev mierret. Presidænntaj ja rádesebrulattjajda li sierra saje mierredum.</p>
-    <p>Válggabijraj vuostasj ájras fábmodusáv åvddåj biedjá. Dan maŋŋela ållestjåhkanibme fábmodusjuohkusav vállji mij låhpalattjat galggá fábmodusájt dåhkkidit. Biejvvet maŋŋela ållestjåhkanibme vat tjåhkan, ja dalloj Sámedigge låhpalattjat válggabåhtusav dåhkkit, ja dajna aj ájrrasijt. Dan maŋŋela ållestjåhkanibme barggagoahtá ja vuostak ållestjåhkanimjådediddjijt vállji. Gå ållestjåhkanimjådediddje li válljidum, de sij Sámedikke ållestjåhkanimev jådedahttjáji.</p>
-    <p>Ållestjåhkanibme de Sámedikke presidentav vállji, guhti ietjas politihkalasj tjielggidusáv buktá ja rádesebrulattjajt nammat. Presidænnta ja rádesebrulattja låhpadi de ållestjåhkanimájrrasin ja ja sijá sadjásattja sajev válldi ållestjåhkanibmáj.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Gárvedime ådå sámedikkegávddaj</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2017</year><wordcount>174</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/Samedikke-birra/Arkiv-perioden-2016-2017/AAdaasa/Garvedime-aadaa-samedikkegavddaj</origFileName><parallel_text xml:lang="nob" location="forberedelser-til-ny-sametingsperiode.html"/><parallel_text xml:lang="sma" location="ryoejredimmieh-orre-saemiedigkieboelhkese.html"/><parallel_text xml:lang="sme" location="rahkkaneamit-odda-samediggeaigodahkii.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Gárvedime ådå sámedikkegávddaj</p>
+<p>Dát dáhpáduvvá válga rájes desik ådå Sámedigge l vuododuvvam.</p>
+<p>Maŋŋela válga galggá Sámedigge válggabåhtusav dåhkkidit ja ájrrasijt juohket Sámedikke ållestjåhkanimjuohkusij, fáhkajuohkusijda ja ietjá juohkusijda majt Sámedigge l ásadam. Gålgådismáno 11.biejve Sámedikke ådå nielje jage gávdda rabáduvvá.</p>
+<p>Gå válggaboados ja fábmodusá vatteduvvi sámeválggastivrajs, galggá gárvedime fábmodusjuogos båddåsasj fábmodusájt guoradallat. Dát juogos válljiduváj maŋemus ållestjåhkanimen. Dan rádjáj gå fábmodusá li dåhkkiduvvam ådå ájrrasa båddåsattjat doajmmi.</p>
+<p>Gå ådå ájrrasa gålgådismáno 11.biejve tjåhkani, de ållestjåhkanibme vuododuvvá. Gå ájrrasa ållestjåhkanimhuodnahin tjåhkkåhi, li sijá tjåhkkåhimsaje mierredum dan vuodon makkir válggabijrraj gulluji. Válggaboados iesjgeŋga ájrrasa tjåhkkåhimsajev mierret. Presidænntaj ja rádesebrulattjajda li sierra saje mierredum.</p>
+<p>Válggabijraj vuostasj ájras fábmodusáv åvddåj biedjá. Dan maŋŋela ållestjåhkanibme fábmodusjuohkusav vállji mij låhpalattjat galggá fábmodusájt dåhkkidit. Biejvvet maŋŋela ållestjåhkanibme vat tjåhkan, ja dalloj Sámedigge låhpalattjat válggabåhtusav dåhkkit, ja dajna aj ájrrasijt. Dan maŋŋela ållestjåhkanibme barggagoahtá ja vuostak ållestjåhkanimjådediddjijt vállji. Gå ållestjåhkanimjådediddje li válljidum, de sij Sámedikke ållestjåhkanimev jådedahttjáji.</p>
+<p>Ållestjåhkanibme de Sámedikke presidentav vállji, guhti ietjas politihkalasj tjielggidusáv buktá ja rádesebrulattjajt nammat. Presidænnta ja rádesebrulattja låhpadi de ållestjåhkanimájrrasin ja ja sijá sadjásattja sajev válldi ållestjåhkanibmáj.</p>
+</body></document>

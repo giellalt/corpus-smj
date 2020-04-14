@@ -1,56 +1,25 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>421</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/Artikler-utenfor-hoyremeny/Buorisboah/index.html</origFileName>
-    <parallel_text xml:lang="nob" location="sfs_veiledning_1_velkommen-.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_1_velkommen-som-bruker-.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Buorisboahtem oahppoplána bagádallamaddnen sámegiella vuostasjgiellan - sáme 1</p>
-    <p type="title">Buorisboahtem oahppoplána bagádallamaddnen sámegiella vuostasjgiellan - sáme 1</p>
-    <p xml:lang="nob">Hovedinnhold</p>
-    <p>
-      <em type="bold">Bagádallam le dagáduvvam divna oahppijda gænna le åhpadus sámegiella vuostasjgiellan, akta gånnå Vuonan sij årru. </em>
-    </p>
-    <p>Dat vaddá konkrehtalasj bagádallamijt ja buojkulvisájt gåktu åhpadiddje máhttá oahppoplánajn barggat sámegielajn vuostasjgiellan – sáme 1. Åhpadiddje hiebat åhpadusáv bájkálasj dilijda.</p>
-    <p>Bagádallam ij ållåsit gåbtjå máhtudakmihtojt, valla válldá vuodon muhtem máhtudakmihtojt ja vuoset muhtem åhpadimgárvvidusájt majt åhpadiddje máhttá ietjá máhtudakmihtojda hiebadit. Bagádallamin le buojkulvisá gåktu åhpadiddje máhttá oajvveoasij barggat <em type="italic">Tjálálasj guládallam </em>ja <em type="italic">Árbbedábálasj diedo </em></p>
-    <p>Oahppoplánan sámegiella vuostasjgiellan le máhtudakmihto vuodoskåvlå 2., 4., 7., ja 10. jahkedásij maŋŋela, joarkkaåhpadusá Jo1 ja Jo2 ja Jo3 <em type="italic">- </em>oahppogárvedime åhpadusprográmma maŋŋela ja Jo1 ja Jo2 viddnofágalasj åhpadusprográmma maŋŋela. Bagádallam tjuovvu dajt sæmmi dásijt gå oahppoplánan. Danen ælla åhpadimgárvvidusá juohkka jahkedássáj, valla juohkka åhpadimgárvvidus máhttá hiebaduvvat dan sierra jahkedássáj gå tiemá skåvlå bájkálasj oahppoplána milta galggi åhpaduvvat. </p>
-    <p>Ájggeaddno mij la nammadum buojkulvisájn le jur oajvvádus. Åhpadiddje merustallá dáv ulmij ja dárboj milta. Man mælggadav åhpadiddje mierret juohkka åhpadimgárvvidusán, duola degu gåktu ietjá fága åvtåstuhtti.</p>
-    <p>Buojkulvisá åhpadimgárvvidusán vuosedi duola degu gåktu máhtudakmihto máhtti åhpadusmihttomierijn vuojnnuj boahtet.</p>
-    <p>Bagádallamin le dæddo biejadum hiebadum åhpadussaj, variasjåvnnå barggammvuogij, åvtåstuhttet vuodotjehpudagájt ja árvustallam bargadahttijn .</p>
-    <p>Árvustallam ja bagádallam galggaba mielastuhttet, måvtåstuhttet oahppijt fágaj bargatjit ja gåktu barggat. Árvustallama tjadá bargadahttijn oadtju oahppe, åhpadiddje ja æjgáda/åvdåstiddje diedojt oahppe bargo, oahppama, båhtusij ja åvddånime birra.</p>
-    <p>Åtsådallama vuosedi oahppe buoremusát oahppi gå</p>
-    <list>
-      <p type="listitem">dádjadi majt galggi oahppat, ja mij la vuordedahtte sijás</p>
-      <p type="listitem">oadtju diededimev gåktu sij bargojn vuorbástuvvi</p>
-      <p type="listitem">oadtju bagádusájt gåktu buoredit båhtusijt ja fágalattjat åvddånit</p>
-      <p type="listitem">oadtju oassálasstet árvustallambargon</p>
-      <p type="listitem">sijá mielas le buorre oahppamdile</p>
-    </list>
-    <p xml:lang="nob">Lågå ienebu dán birra dánna veiledningen til lokalt arbeid med læreplaner .</p>
-    <p>Viddnodakfágalasj åhpadusprográmmajn le tijmmalåhko sámegielfágan binnebu gå Jo1 ja Jo2 oahppogárvvidime åhpadusprográmman. Dáv viertti åhpadiddje berustit gå åhpadimgárvidusáv dahká.</p>
-    <p type="title">Oanegattjat åhpadimgárvvidusáj birra oajvveoasijn</p>
-    <p>Oajvveoasen Tjálálasj guládallam la låhkåm ja tjállem tjalmmusin. Låhkåm ja tjállem libá buohtalakkoj prosessa åhpadusán. Oahppe galggi låhkåt ja gulldalit iehtjádij tevstajt. Sij galggi åtsådallat, árvustallat ja dádjadit, ja galggi máhttet iehtjádij tjálálattjat guládallat.</p>
-    <p>Oajvveoasse Árbbediedo le giellaåvddånime birra. Danna le árbbedábálasj moallánakaddno ja åvddånbuktemvuoge. Oahppe oahppi oassálasstema tjadá dålutja, dálásj ájge ja boahtteájge birra..</p>
-    <p>Sáme subtsastallamdábe, sáme juojggama, lávllaga ja sálma, báhkotsoame ja dijda 1 Sáme subtsastallamdábe, sáme juojggama, lávllaga ja sálma, báhkotsoame ja bierggim 2 .</p>
-    <p xml:lang="nob">1. <span type="quote" xml:lang="nob">"Diidat/dijda – folketro (tradisjoner, skikker, leveregler) om hvordan håndtere ulike situasjoner og fenomener i dagliglivet"</span> (Kilde: Læreplan i samisk som førstespråk – Samisk 1.) 2. <span type="quote" xml:lang="nob">"Birgejupmi/bierggim/bïerkenidh - det å klare seg, berge seg med, mestre"</span> (Kilde: Læreplan i samisk som førstespråk – Samisk 1.)</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>421</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/Artikler-utenfor-hoyremeny/Buorisboah/index.html</origFileName><parallel_text xml:lang="nob" location="sfs_veiledning_1_velkommen-.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_1_velkommen-som-bruker-.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Buorisboahtem oahppoplána bagádallamaddnen sámegiella vuostasjgiellan - sáme 1</p>
+<p type="title">Buorisboahtem oahppoplána bagádallamaddnen sámegiella vuostasjgiellan - sáme 1</p>
+<p xml:lang="nob">Hovedinnhold</p>
+<p><em type="bold">Bagádallam le dagáduvvam divna oahppijda gænna le åhpadus sámegiella vuostasjgiellan, akta gånnå Vuonan sij årru. </em></p>
+<p>Dat vaddá konkrehtalasj bagádallamijt ja buojkulvisájt gåktu åhpadiddje máhttá oahppoplánajn barggat sámegielajn vuostasjgiellan – sáme 1. Åhpadiddje hiebat åhpadusáv bájkálasj dilijda.</p>
+<p>Bagádallam ij ållåsit gåbtjå máhtudakmihtojt, valla válldá vuodon muhtem máhtudakmihtojt ja vuoset muhtem åhpadimgárvvidusájt majt åhpadiddje máhttá ietjá máhtudakmihtojda hiebadit. Bagádallamin le buojkulvisá gåktu åhpadiddje máhttá oajvveoasij barggat <em type="italic">Tjálálasj guládallam </em>ja <em type="italic">Árbbedábálasj diedo </em></p>
+<p>Oahppoplánan sámegiella vuostasjgiellan le máhtudakmihto vuodoskåvlå 2., 4., 7., ja 10. jahkedásij maŋŋela, joarkkaåhpadusá Jo1 ja Jo2 ja Jo3 <em type="italic">- </em>oahppogárvedime åhpadusprográmma maŋŋela ja Jo1 ja Jo2 viddnofágalasj åhpadusprográmma maŋŋela. Bagádallam tjuovvu dajt sæmmi dásijt gå oahppoplánan. Danen ælla åhpadimgárvvidusá juohkka jahkedássáj, valla juohkka åhpadimgárvvidus máhttá hiebaduvvat dan sierra jahkedássáj gå tiemá skåvlå bájkálasj oahppoplána milta galggi åhpaduvvat. </p>
+<p>Ájggeaddno mij la nammadum buojkulvisájn le jur oajvvádus. Åhpadiddje merustallá dáv ulmij ja dárboj milta. Man mælggadav åhpadiddje mierret juohkka åhpadimgárvvidusán, duola degu gåktu ietjá fága åvtåstuhtti.</p>
+<p>Buojkulvisá åhpadimgárvvidusán vuosedi duola degu gåktu máhtudakmihto máhtti åhpadusmihttomierijn vuojnnuj boahtet.</p>
+<p>Bagádallamin le dæddo biejadum hiebadum åhpadussaj, variasjåvnnå barggammvuogij, åvtåstuhttet vuodotjehpudagájt ja árvustallam bargadahttijn .</p>
+<p>Árvustallam ja bagádallam galggaba mielastuhttet, måvtåstuhttet oahppijt fágaj bargatjit ja gåktu barggat. Árvustallama tjadá bargadahttijn oadtju oahppe, åhpadiddje ja æjgáda/åvdåstiddje diedojt oahppe bargo, oahppama, båhtusij ja åvddånime birra.</p>
+<p>Åtsådallama vuosedi oahppe buoremusát oahppi gå</p>
+<list><p type="listitem">dádjadi majt galggi oahppat, ja mij la vuordedahtte sijás</p>
+<p type="listitem">oadtju diededimev gåktu sij bargojn vuorbástuvvi</p>
+<p type="listitem">oadtju bagádusájt gåktu buoredit båhtusijt ja fágalattjat åvddånit</p>
+<p type="listitem">oadtju oassálasstet árvustallambargon</p>
+<p type="listitem">sijá mielas le buorre oahppamdile</p>
+</list><p xml:lang="nob">Lågå ienebu dán birra dánna veiledningen til lokalt arbeid med læreplaner .</p>
+<p>Viddnodakfágalasj åhpadusprográmmajn le tijmmalåhko sámegielfágan binnebu gå Jo1 ja Jo2 oahppogárvvidime åhpadusprográmman. Dáv viertti åhpadiddje berustit gå åhpadimgárvidusáv dahká.</p>
+<p type="title">Oanegattjat åhpadimgárvvidusáj birra oajvveoasijn</p>
+<p>Oajvveoasen Tjálálasj guládallam la låhkåm ja tjállem tjalmmusin. Låhkåm ja tjállem libá buohtalakkoj prosessa åhpadusán. Oahppe galggi låhkåt ja gulldalit iehtjádij tevstajt. Sij galggi åtsådallat, árvustallat ja dádjadit, ja galggi máhttet iehtjádij tjálálattjat guládallat.</p>
+<p>Oajvveoasse Árbbediedo le giellaåvddånime birra. Danna le árbbedábálasj moallánakaddno ja åvddånbuktemvuoge. Oahppe oahppi oassálasstema tjadá dålutja, dálásj ájge ja boahtteájge birra..</p>
+<p>Sáme subtsastallamdábe, sáme juojggama, lávllaga ja sálma, báhkotsoame ja dijda 1 Sáme subtsastallamdábe, sáme juojggama, lávllaga ja sálma, báhkotsoame ja bierggim 2 .</p>
+<p xml:lang="nob">1. <span type="quote" xml:lang="nob">"Diidat/dijda – folketro (tradisjoner, skikker, leveregler) om hvordan håndtere ulike situasjoner og fenomener i dagliglivet"</span> (Kilde: Læreplan i samisk som førstespråk – Samisk 1.) 2. <span type="quote" xml:lang="nob">"Birgejupmi/bierggim/bïerkenidh - det å klare seg, berge seg med, mestre"</span> (Kilde: Læreplan i samisk som førstespråk – Samisk 1.)</p>
+</body></document>

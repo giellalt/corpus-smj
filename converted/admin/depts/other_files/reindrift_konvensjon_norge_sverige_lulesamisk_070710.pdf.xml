@@ -1,162 +1,123 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <wordcount>2271</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://www.regjeringen.no/upload/LMD/Vedlegg/Regelverk/Reindrift_konvensjon_Norge_Sverige_lulesamisk_070710.pdf</origFileName>
-    <parallel_text xml:lang="nob" location="reindrift_konvensjon_norge_sverige_260209.pdf"/>
-    <parallel_text xml:lang="sma" location="reindrift_konvensjon_norge_sverige_soersamisk_070710.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>
-      <em type="bold">  Konvensjåvnnå Svieriga ja Vuona gaskan ällobargo birra rájáj badjel </em>
-    </p>
-    <p>Svieriga ja Vuona ráddidusá,</p>
-    <p>ma dan diehti gå sáme li álggoálmmuk mij ällosujtujnis dålusj ájgij rájes la äloj jåhtålam dan badjel mij uddni la rijkkarádjá Svieriga ja Vuona gaskan,</p>
-    <p>ma vieledibá vuostasj kodisillav rádjátráktahtajda gålgådismáno 7. ja 18. b. 1751, mij duodas sámij riektáv älojisá nuppe rijkkaj jåhtet ja danna rievtesvuodajt ávkkit dålusj árbbedábij milta,</p>
-    <p>ma vieledibá 3. bievddegirjev Sáme álmmuga birra Svieriga säbrramis Europalasj uniåvnnåj, libá oassálasste oassebiele Svieriga välggogisvuodajt dåbdåstam sáme álmmuga hárráj rijkalasj ja rijkajgasskasasj riektájn vuodon.</p>
-    <p>ma, nåv guhkev gå ällosáme goappásj rijkajn ietjasa iellemtjerda ja äládusá suoddjima diehti  dárbahi rájájt rasstit ällosujttárin, sihtaba anodit ja daŋga bále vidjurijt dan diehti hiebadit,</p>
-    <p>libá návti ájgás boahtám.</p>
-    <p>
-      <em type="bold">Kapihttal 1. Vuodobiejadum prinsijpa </em>
-    </p>
-    <p>Artihkal 1</p>
-    <p>Dát konvensjåvnnå guosská ällosujttuj rájáj rastá Svieriga ja Vuona gaskan.</p>
-    <p>Konvensjåvnå märrádusá gulluji tjieldijda jali tjieldij ällobarggijda ja ällosujttimdajvajda<em type="bold"> </em>jali daj   ällobarggijda.<em type="bold"> </em></p>
-    <p>Artihkal 2</p>
-    <p>Konvensjåvnå ulmme le åvddånahttet ja åvdedit aktisasjbargov rijkaj, tjieldij, ällosujttimdajvaj ja ájnegis ällobarggij gaskan vaj guohtom ávkkiduvvá vuogijn mij guhkesájggásasj vuodov vaddá ekologalasj, ekonomalasj ja kultuvralasj guoddelis<em type="bold"> </em>bargguj goappásj rijkajn. </p>
-    <p>Konvensjåvnnå galggá dan láhkáj anoduvvat vaj ij ådå sjiehtes barggamvuogijt ällosujton tsakka mij gájkkásasj sebrulasjåvddånimev tjuovvu.</p>
-    <p>Artihkal 3</p>
-    <p>Ällosujtujn rájáj rastá galggá barggat daj riektáj ja välggogisvuodaj milta ma rijkalasj riektáv tjuovvu dan rijkan gånnå älov sujtti, jus ietjá dán konvensjåvnån ij javladuvá.</p>
-    <p>Artihkal 4</p>
-    <p>Rijkalasj fábmudahka nuppen rijkan, mij árvustallá jus aktak biedjamdahko galggá miededuvvat guovlluj mij dán konvensjåvnå milta ällobargguj máhttá rájáj badjel ávkkiduvvat, galggá  árvustaládijn gåhtset vaj guovllo guhkás máhttelis suoddjiduvvá dagojs ma viehka märráj li guovlo<em type="bold"> </em>ällobargguj vuorrádissan. </p>
-    <p>Jus dakkár dahko huoman miededuvvá, galggá rijkka  älloguohtomav huksat jali, jus dat ij la máhttelis, ekonomalasj buohtov rijka riektá milta vaddet.</p>
-    <p>Artihkal 5</p>
-    <p>Konvensjåvnå adnemij galggaba guokta aktelis orgána gávnnut, aktisattja goappásj rijkajda; tjuottjodimorgána, Svierik-Vuona boatsojguohtomsiebrreráde (Boatsojguohtomsiebrreráde), ja bajemus gujddimorgána, Svierik-Vuona bajemus gujddimsiebrreráde (Bajemusgujddimsiebrreráde).</p>
-    <p>Artihkal 6</p>
-    <p>Tjielde ja ällosujttimdajva oadtju bájkijt nuppen rijkan ällosujttuj ávkkit vuogijn mij javladuvvá sierra bievddegirjen (guovllobievddegirjen) mij la duodden dán konvensjåvnnåj (1. duoddetjála).</p>
-    <p>Artihkal 7</p>
-    <p>Tjiellde ja ällosujttimdajvva oadtju lihtudit aktisasjbargo birra mij guovllobievddegirjev ij tjuovo. Dakkár lihttuj gulluji val dakkár ällosujto rievtesvuoda ja guovlo gånnå binnemusát nuppen lihtudiddjen la riektá rijkalasj lágavuodo jali dán konvensjåvnå milta ällosujtujn barggat.</p>
-    <p>Aktisasjlihtto ij garrasap gássjelisvuodajt ietjá guosske berustiddjijda oattjo vaddet. Jus lihtov hiejtet vierttiji muttágis oare hiejttemij gávnnut.</p>
-    <p>Aktisasjlihtto galggá Boatsojguohtomsiebrrerádes dåhkkiduvvat jus fábmuj galggá boahtet. Giehtadaládijn galggá siebrreráde gåhtset vaj lihtto<em type="bold"> </em>ållidahttá   konvensjåvnå ulmev 2.<em type="bold"> </em>artihkkala  milta. Siebrreráde máhttá åvddål gå lihtto dåhkkiduvvá dibddet iehtjádijt gå lihtudiddjijt vuojnojdisá moalgedit. </p>
-    <p>Dán konvensjåvnå märrádusá li sjiehtes mudduj fámon guovlojda ma aktisasjlihttuj gulluji ma li duodastuvvam goalmát oase milta.  Jus lihtto hiejteduvvá, gálggá guovllobievddegirjje fábmuj boahtet.</p>
-    <p>Artihkal 8</p>
-    <p>Guohtomguovlo ma  diededuvvi guovllobievddegirjen jali aktisasjlihtojn  e bielev válde jalik vuojnov vatte stáhtaj dádjadusáj hárráj árbbedáhperiektáj vijddudagá birra. Dat sihtá javllat konvensjåvnnå ij guoskada dajt árbbedáhperiektájt guohtomijda majt ällobargge nuppet rijkas nuppen rijkan adni. Gatjálvis árbbedáhperiektá vijddudagá gähttjalime<em type="bold"> </em>hárráj ij danen konvensjåvnås gártjeduvá ájnat priváhttariektá vuodujn  Svierigin máttarájggásasj ávkkima hárráj Svierigin ja Vuonan.  </p>
-    <p>Jus aktak adná sujnalaárbbedáhperiektá nuppen rijkan ietján gå dajn guovlojn ma li duodastuvvam guovllobievddegirjen, de máhttá ássjev duobbmoståvlå åvddåj bajedit dan rijkan ietjas ássjev gähttjalittjat. Dakkár ássjev oadtju dåhkkiduvvam dikke åvddåj bajedit Svierigin jali Vuonan.</p>
-    <p>Jus láhkafámulasj duobbmo vuoset ällobarggen nuppet rijkas la guododimriektá nuppen rijkan, de manná duobbmo dán konvensjåvnå åvddåla. Nubbe rijkka galggá gåtsedit vaj ällobargge gejda guosská oadtju máhttelisvuodav rievtesvuodasa ávkkit jali, jus dat ij la máhttelis, oadtju ekonomalasj buohtov rijkalasj riektá milta.</p>
-    <p>
-      <em type="bold">Kapihtal 2. Sierra  rievtesvuoda ällosujttuj rájáj rastá </em>
-    </p>
-    <p><em type="bold"> </em>Artihkal 9 </p>
-    <p>Vuostasj kodisilla rádjátráktáhtajda gålgådismáno 7. ja 18. b. 1751 ij rijkav rasstidijn, bieja ietjá nådijt ällosujttuj rájáj rastá gå dajt ma kodisillan nammaduvvi.</p>
-    <p>Dán konvensjåvnå milta galggá tulla-, värro- ja máksemfriddjavuohta daj bálij ma li dán ja 10. artihkkalijn javladuvvam.</p>
-    <p>Gejna dán konvensjåvnå milta ällosujtujn nuppen rijkan  barggá la riektá 1.  älov sujttidijn rijkkarájáv rasstit ja nuppen rijkan årrot,</p>
-    <p>2.  nuppen rijkan, guovlon årodijn, mij ávkkiduvvá  6. jali  7. artihkkala milta, daj njuolgadusáj milta ma rijka ietjas ällobarggijda gulluji, a.  dållåmuorajt ja verkav válldet majt ällosujto diehti dárbahi  adnet,</p>
-    <p>b.  rustigijt jali viesojt tsieggit majt ällosujttuj dárbahi ja c.  bivddet ja guollit,</p>
-    <p>3. jus ällobargguj dárbaj, tulla, väro ja mávso dagi<em type="bold"> </em>nuppe rijkkaj buktet ja, daj njuolgadusáj milta ma rijka ietjas ällobarggijda gulluji, adnet a.  bednagijt, hestajt jali ietjá juhtusijt b.  dárbas bierggasijt, motåvrråboalldemuháv, oasstobiebmojt boahttsujda, vädtsagijt ja ábnnasijt tsieggitjit ja divutjit rustigijt jnv., c.  birssojt ja luodajt d.  radiorájanijt ja -duostunijt e.  motåvrråvuojánijt ja miehttsemanne motåvrråvuojánijt ja f.  ietjá rustajt majt ällosujttuj dárbáhi. </p>
-    <p>Artihkal 10</p>
-    <p>Guhti dán konvensjåvnå vuodon ällosujtujn rájáj rastá barggá, oadtju   1.  gätjos boahttsuv jali manna la vieroj märkka, giehtadallat dan rijka märrádusáj milta gånnå boatsoj la, 2.  viesso boahttsuv, njuovvamboahttsuv ja buktagijt boahttsus ietjas dárbbuj nuppe rijkkaj tulla, väro ja mávso dagi, buktet. 3.  boahttsuv nuppen rijkan njuovvat ja ietjas rijkkaj doalvvot váni buktem- ja doalvvommärrádusájs tsakkadahtek. 4.  boahttsuv nuppen rijkan njuovvat ja vuobddet<em type="bold"> </em>danna dan rijka buktem- ja doalvvommärrádusáj milta. 5.  boahttsuv vuorjját, binnep märráj nuppen rijkan vuobddemij njuovvat tulla, väro ja mávso dagi gå tjielgas la boahttsujt ij dåhkki ietjas rijkkaj doalvvot, ja  6.  boahttsujt motåvrråvuojánijn rijkaj gaskav  doalvvot vuojánijn mij la dåhkkiduvvam dakkár doalvvomij juoppán rijkan. </p>
-    <p>
-      <em type="bold">  Kapihttal 3. Svierik-vuona  boatsojguohtomsiebrreráde </em>
-    </p>
-    <p><em type="bold">  </em>Artihkal 11 </p>
-    <p>Boatsojguohtomsiebrreráden galggi vihtta sebrulattja gudi nielje jahkáj nammaduvvi. Ráddidusá nammadibá guokta sebrulattja goabbák, goappás nuppen galggá vijdes ällosujtomáhtto ja nammaduvvá rijka boatsojäládusá oajvvadusáj milta. Ráddidusá aktan galggaba, Svieriga ja Vuona sámedikkij oajvvadusáj milta, daj lassen nammadit sebrulattjav siebrreráde åvddåulmutjin.</p>
-    <p>Juohkka sebrulattjaj biejaduvvá persåvnålasj sadjásasj dan milta mij sebrulattjaj gullu.  Sadjásasj åvddåulmusj la<em type="bold"> </em>Boatsojguohtomsiebrreráde sadjásasj åvddåulmusj. </p>
-    <p>Artihkal 12</p>
-    <p>Jus guovllobievddegirjen ietján ij mierreduvá de Boatsojguohtomsiebrreráde oadtju bievddegirjjeguovloj birra mierredit 1.  goabbá tjiellde jali älloguohtomdajvva guovlov oadtju adnet, 2.  guohtomájgijt, 3.  alemus boatsojlågov.</p>
-    <p>Ietján Boatsojguohtomsiebrreráde aj oadtju mierredit 4.  jåhtema tjadádimev, 5.  boahttsuj tjoahkkimav ja lárkkemav, 6.  sierra njuolgadusájt räjnnuhime birra, 7.  ärádisájt guovllobievddegirje märrádusájs, 8.  aktisasjlihto duodastusáv 7. artihkkala milta, 9.  moalggemav  13. artihkkala  milta, 10.  buohtov 24. artihkkala milta, 11.  biejadisáv ja biedjamdagov 25. ja 26. artihkkalij milta, 12.  konvensjåvnnåmávsov  27. artihkkala milta, 13. máksemav mávsedum konvensjåvnnåmávsojs  28. artihkkala milta,  14. unnep rievddadusáv konvensjåvnnågárdij       tsieggimij.</p>
-    <p>Boatsojguohtomsiebrreráde galggá rádjáällosujto åvddånimev tjuovvot ja  rijkaj ráddidusájda jahkásattjat diededit.</p>
-    <p>Artihkal 13</p>
-    <p>Goappák rijka guovdásj, dajvak ja bájkálasj fábmudagá galggi moalggemijt Boatsojguohtomsiebrrerádes viedtjat åvddål gulle fábmudahka märrádusájt dahká  ma ällosujttuj rájáj badjel máhtti guosskat.</p>
-    <p>Dakkár dahkamus ij rádádallamvälggogisvuodav fámoduhte sámij berustimij hárráj jus dakkár välggogisvuohta gávnnu  rijkalasj jali rijkajgasskasasj riektá milta.</p>
-    <p>Artihkal 14</p>
-    <p>Boatsojguohtomsiebrreráde ássjijt mierret ieneplåhkomärrádusájn<em type="bold"> </em>(binnemus ieneplågujn).  Åvddåulmutjin la mierrediddje jiedna gå jienastimlåhko la sämmi mieren. </p>
-    <p>Boatsojguohtomsiebrreráde la mierrediddje gå åvddåulmusj ja binnemusát akta sebrulasj goappák rijkas mierredibmáj säbrraba.</p>
-    <p>Gatjálvisán mij ássjegárvedibmáj gullu jali biejadisá dahkamij 25. artihkkala vuostasj biehke ja 26. artihkkala vuostasj oase milta, oadtju åvddåulmusj aktu mierredit.</p>
-    <p>Artihkal 15</p>
-    <p>Boatsojguohtomsiebrreráde märrádus máhttá fábmuj boahtet vájku märrádus gujddiduvvá Bajemusgujddimsiebrrerádáj. Boatsojguohtomsiebrreráde galla máhttá mierredit vaj märrrádus ij fábmuj boade åvddål gå gujddimájgge vássám la.</p>
-    <p>Bajemusgujddimsiebrreráde máhttá mierredit gujddiduvvam märrádusáv ij oattjo dåjmadit åvddål gå gujddimus låhpalattjat la mierredum.</p>
-    <p>Artihkal 16</p>
-    <p>Boatsojguohtomsiebrreráde märrádus máhttá gujddiduvvat Bajemusgujddimsiebrrerádáj oassebieles jali sujsta gesi märrádus ietján guosská. Gujddidahtte märrádusájda gullu nielje vahko gujddimájgge dat biejves gå märrádusáv la duosstum. Tjáledum gujddimus galggá Boatsojguohtomsiebrrerádáj dan ájge sinna boahtet. Jus gujddimus ilá maŋŋet boahtá, galggá Boatsojguohtomsiebrreráde gujddimusáv hilggot.</p>
-    <p>  <em type="bold">Kapihtal 4. Svierik-vuona bajemusgujddimsiebrreráde </em></p>
-    <p>Artihkal 17</p>
-    <p>Bajemusgujddimsiebrreráden galggi vihtta sebrulattja gudi nielje jahkáj nammaduvvi. Ráddidusá nammadibá guokta sebrulattja goabbá, goappás nuppen galggá vijdes ällobarggomáhttudahka ja gev biedji rijka boatsojäládusá oajvvadusá milta, ja nuppen galggá duobmármáhttudahka. Duodden galggaba ráddidusá aktan, Svieriga ja Vuona sámedikkij oajvvadusá milta, biedjat sebrulattjav siebrreráde åvddåulmutjin. Åvddåulmusj galggá duobmár liehket jali vijdes duobmárdåbdov adnet.</p>
-    <p>Juohkka sebrulattjaj persåvnålasj  sadjásasj biejaduvvá dan milta mij sebrulattjaj gullu.  Åvddåulmutja sadjásasj doajmmá Bajemusgujddimsiebrreráde<em type="bold"> </em>nubbe åvddåulmutjin. </p>
-    <p>Artihkal 18</p>
-    <p>Bajemusgujddimsiebrreráde ássjijt mierret ieneplåhkomärrádusájn (binnemus ieneplågujn).</p>
-    <p>Åvddåulmutjin la mierrediddje jiedna gå jienastimlåhko la sämmi mieren.</p>
-    <p>Bajemusgujddimsiebrreráde mierret gå gájkka sebrulattja märrádussaj säbrri. Gatjálvisáv mij ássjegárvedibmáj gullu oadtju åvddåulmusj aktu mierredit.</p>
-    <p>Bajemusgujddimsiebrreráde märrádus konvensjåvnnåmávso birra 27. artihkkala milta oadtju sån, guhti la välggogis konvensjåvnnåmávsov mákset, mättojis hárráj Svierigin, gujddit Lenariektáj Norrbottena lenan ja mättoj hárráj Vuonan stiebniga baktu dikke åvddåj. Ietján Bajemusgujddimsiebrreráde märrádusájt ij Lenariektáj oattjo gujddit jalik dikke åvddåj  biedjat.</p>
-    <p>Gujddimussaj jali stiebnigij gullu nielje vahkkusasj ájgge dat biejves gå märrádusáv li duosstum. Stiebnik jali gujddimus viertti Lenariektáj Norrbottena lenan jali diggáj dan ájgen boahtet. Jus tjálos ilá maŋŋet la boahtám, galggá duobbmoståvllå gujddimusáv jali stiebnigav hilggot.</p>
-    <p>
-      <em type="bold">Kapihtal 5. Aktisasj märrádusá Svierik-vuona boatsojguohtomsiebrrerádáj ja Svierik-vuona bajemusgujddimsiebrrerádáj </em>
-    </p>
-    <p>Artihkal 19</p>
-    <p>Boatsojguohtomsiebrreráde ja Bajemusgujddimsiebrreráde äbá galga ássjij gähttjalattijn årrot ássjijda tjanádum jalik bällásattja.</p>
-    <p>Artihkal 20</p>
-    <p>Boatsojguohtomsiebrreráde jali Bajemusgujddimsiebrreráde märrádus doajmmá goappák rijkan sämmiláhkáj gåk lágafábmuj bessam duobbmo.</p>
-    <p>Rijkalasj duobbmoståvlå märrádus 18. artihkkala goalmát oase milta doajmmá gujddijiddje rijkan avtaláhkáj gåk lágafábmuj bessam duobbmo.</p>
-    <p>Artihkal 21</p>
-    <p>Boatsojguohtomsiebrreráde ja Bajemusgujddimsiebrreráde biedjaba dajt åtsådimijt ja guoradallamijt jåhtuj majs la dárbbo ållidahtátjit ietjaska välggogisvuodajt dán konvensjåvnå milta.</p>
-    <p>Boatsojguohtomsiebrreráde ja Bajemusgujddimsiebrreráde  máhtteba njuolgga aktavuodav goappásj rijkaj fábmudagáj válldet viehkev åttjutjit. Jus la dárbbo de siebrreráde oadtjoba ássjedåbddijt sierra guoradallambargojda ávkkit.</p>
-    <p>Artihkal 22</p>
-    <p>Boatsojguohtomsiebrreráde ja Bajemusgujddimsiebrreráde sebrulattja, ássjedåbdde ja ulmutja tjanádum siebrreráde dåjmadahkaj máhtti rijkarájáv rasstit siebrreráde bargo diehti gå la dárbbo ja tulla, väro ja mávso dagi dárbbagijt buktet.</p>
-    <p>Artihkal 23</p>
-    <p>Njuolgadus Boatsojguohtomsiebrrerádáj ja Bajemusgujddimsiebrrerádáj la duodden dán konvensjåvnnåj (2. duoddetjála).</p>
-    <p>Boatsojguohtomsiebrreráde ja Bajemusgujddimsiebrreráde dahkaba goabbák ietjaska jahkásasj budjähttaoajvvadusáv. Budjähtta mierreduvvá ráddidusájs aktan. Gålo juogeduvvi avta mahten goappák rijkkaj. Ráddidusá mierredíbá lågovdahkam- ja revisjåvnnåhámijt.</p>
-    <p>
-      <em type="bold">  Kapihtal 6.  Märrádusá boahttsuj ruoptusdoalvvoma ja mieddemij birra </em>
-    </p>
-    <p>Artihkal 24</p>
-    <p>Jus boahttsu nuppet rijka tjieldes jali ällosujttimdajvas li nuppen rijkan dán konvensjåvnå loabe dagi, jali jus boahttsu tjieldes jali ällosujttimdajvas ietjas rijkan li muhtem guovlon konvensjåvnå vuosstij, galggá tjiellde jali ällosujttimdajvva ruvva máhttelis boahttsujt loabedam guohtomguovlluj doalvvot. Åvddål gå boahttsujt doalvvogoahtá galggá ássjáj gulle tjälldáj jali ällosujttimdajvvaj diededit jus máhttelis. Lárkkamijt jali miessemärkkomijt ij oattjo adnet jus ij buorre mutton guosske tjälldáj jali ällosujttimdajvvaj la diededam.</p>
-    <p>Tjiellde jali ällosujttimdajvva galggá, lárkkama maŋŋela, dalága boahttsujt loahpeguovlluj doalvvot jus ij oassebielij lihton ietjá javladuvá. Jus tjiellde jali ällosujttimdajvva diededum lárkkamis gáhtu ja boahttsujt e ruoptus máhte stuoráp vájvij dagi doalvvot, oadtju dat tjiellde jali ällosujttimdajvva mij lárkkamav huksá äjgádij nammaj boahttsujt njuovadit ja vuobdadit .</p>
-    <p>Jus ij ietján lihtuda galggá tjiellde jali ällosujttimdajvva sunji mákset guhti  boahttsujt ájmmuj válldá ja ruoptus doalvvu. Vijdábut boahttsu äjgát galggá njuovvam- ja vuobddemgålojt mákset. Jus sierravuojno mávso stuorrudagás li de Boatsojguohtomsiebrreráde dav mierret.</p>
-    <p>Artihkal 25</p>
-    <p>Jus tjiellde jali ällosujttimdajvva ij boahttsujt máhtsada vuogijn mij  24. artihkkalin javladuvvá, máhttá Boatsojguohtomsiebrreráde, suv ádnomis gut vahágav ja vájvev gierddá, biejadit tjieldev jali ällosujttimdajvav muhtem ájge sinna boahttsujt ierit doalvvot.</p>
-    <p>Jus biejadisáv ij tjuovo de Boatsojguohtomsiebrreráde mierret gut boahttsujt oadtju juogu de ruoptus doalvvot jali njuovvat ja äjgádij nammaj vuobddet. Siebrreráde máhttá mierredit dakkár biedjamdagojt oadtju åvdåsvásstediddje fábmudahka rijkan tjadádit, jali tjiellde ja ällosujttimdajvva mij dákkár dagov ietjas nali válldám la.</p>
-    <p>Doalvvomgålojt máksá tjiellde jali ällosujttimdajvva mij biejadisáv la oadtjum vuostasj oase milta. Boatsojäjgát máksá njuovvama ja vuobddema åvdås. Boatsojäjgát oadtju dav mij njuovvamis ja vuobddemis báhtsá.</p>
-    <p>Artihkal 26</p>
-    <p>Boatsojäjgádav, tjieldev jali ällosujttimdajvav, mij ij tjuovo dán konvensjåvnå njuolgadusáv jali märrádusáv diededuvvam Boatsojguohtomsiebrrerádes jali Bajemusgujddimsiebrrerádes, máhttá Boatsojguohtomsiebrreráde muhtem ájgen biejadit juojddá dahkat jali guodet. Biejadissaj máhttá sáhkov lasedit. Jus hiehpá, oadtju sáhkov moattebállásattjan biejadit.</p>
-    <p>Gå sáhko stuorrudagáv mierret galggá árvustallat dav vahágav mij máhttá badjánit jus biejadisáv ij tjuovo, suv ekonomalasj vidjurijt gänna la välggogisvuohta gåhttjomav tjuovvot ja vidjurijt ietján.</p>
-    <p>Boatsojguohtomsiebrreráde galggá, jus gåhttjomav ij tjuovo, mierredit máksusa stuorrudagáv ja goassa maŋemusát galggá mákset.</p>
-    <p>Artihkal 27</p>
-    <p>Boatsojguohtomsiebrreráde máhttá mierredit älloniehkke, tjiellde jali ällosujttimdajvva galggá konvensjåvnnåmávsov loabedis guohtoma åvdås mákset, jus boahttsu nuppet rijkas nuppen rijkan li dán konvensjåvnå loabe dagi jali jus boahttsu ietjas rijkas li guovlon mij la konvensjåvnå vuosstij.</p>
-    <p>Konvensjåvnnåmávso stuorrudagá árvustaládijn galggá iehtjádij siegen vieledit dav vahágav mij mättos tjuovoj ja máhttelisvuodav mieddemav tsaggat, gesi ássje gullu. Jus li sierra oare, máhttá konvensjåvnnåmávsov fámoduhttet.</p>
-    <p>Jus sáhkko låhpalattjat 26. artihkkala goalmát oase milta mierreduvvam la, de ij konvensjåvnnåmávsov oattjo mierredit dan mätto åvdås mav biejadis gåbttjå.</p>
-    <p>Konvensjåvnnåmávsov galggá mierredimbiejves nielje vahko sinna mákset.</p>
-    <p>Artihkal 28</p>
-    <p>Sáhkko ja konvensjåvnnåmákso 26. ja 27. artihkkalij milta galggá mierreduvvat máksemvelgulattja rijka biednigij.</p>
-    <p>Sáhkov ja konvensjåvnnåmávsov galggá Boatsojguohtomsiebrrerádáj mákset ja buohtton adnet dan tjälldáj jali ällosujttimdajvvaj mij mättos vahágav gierdaj ja ietján dagojda ma li ávkken ällobargguj rájáj rastá.</p>
-    <p>Boatsojguohtomsiebrreráde vásstet sáhkoj ja konvensjåvnnåmávsoj máksorávkalvisáj oadtjomis.</p>
-    <p><em type="bold">Kapihtal 7. Sierra märrádusá</em> </p>
-    <p>Artihkal 29</p>
-    <p>Märkkatjáledime bále galggá gähttjat vaj märkka tjuoldeduvvá dan dajva dåhkkiduvvam merkajs ma nuppen rijkan li. Tjáledimfábmudahka nuppen rijkan galggá guládit tjáledimfábmudagájn nuppen rijkan åvddål gå merkav regisstarij tjálet.</p>
-    <p>Artihkal 30</p>
-    <p>Jus Boatsojguohtomsiebrreráde jali Bajemusgujddimsiebrreráde märrádusáv libá dahkam, mij luluj máhttet vahákmáksema vuodon årrot jus rijkalasj fábmudahka dakkár märrádusáv la válldám,  la sujna gesi märrádus guosská riektá ássjev båktet siebrrerádij vuosstij rijkalasj lága milta. Ássjev gatjálvisá hárráj mij guosská soabmása riektágártjedibmáj oadtju båktet dan rijkan gånnå riektá la gárttjoduvvam.  Ietjá bálij ássjev oadtju duobbmoståvlå åvdån ietjas rijkan båktet.</p>
-    <p>Artihkal 31</p>
-    <p>Jus juoppán rijkan li rievddadime ällosujto organisasjåvnån jali almulasj tjuottjodimen ma merkahi vaj riektásubjevta ma nammaduvvi dán konvensjåvnån oadtju ietjá namáv jali ietjá organisasjåvnnnåhámev, de konvensjåvnnå fámon la dajda riektásubjevtajda maj namá rievddaduvvi. Dan rijka ráddidus galggá nuppe rijka ráddidussaj ja Boatsojguohtomsiebrrerádáj ja Bajemusgujddimsiebrrerádáj dakkár rievddadusájt diededit.</p>
-    <p><em type="bold">Kapihtal 8. Fábmujbiedjam ja fábmoájgge</em> </p>
-    <p>Artihkal 32</p>
-    <p>Gå dát konvensjåvnnå fábmuj biejaduvvá galggá javllamáno 13. b. 1971 bievddegirjje Svieriga ja Vuona gaskan gárdij tsieggima ja huksama birra muhtem rijkarája åsij milta (Jämtlanda lena ja Nuortta-Tröndelaga ja Oarjje-Tröndelaga fylka) fámoduvvat.</p>
-    <p>Artihkal 33</p>
-    <p>Dát konvensjåvnnå galggá dåhkkiduvvat, ja fábmuj boahtet gålmmålåk biejve maŋŋel gå oassebiele libá nubbe nubbáj tjállagij baktu diededam vaj rijkalasj konstitusjåvnålasj bargggamvuoge fábmujboahtema hárráj li ålliduvvam. Svieriga ja Vuona tevstajn la sämmi árvvo. Konvensjåvnnå galggá jårggåluvvat nuorttasábmáj, julevsábmáj ja oarjjelsábmáj.</p>
-    <p>Artihkal 34</p>
-    <p>Konvensjåvnnå fámon la gålmmålåk jage dat biejves gå fábmuj bådij. Jus konvensjåvnåv ij hiejteda maŋemusát vihtta jage dan ájggudagá nåhkåma åvddåla de dat la fámon lågev jage vil ja galggá maŋŋela fámon aneduvvat lågev jage ájgen, jus ij hiejteda maŋemusát guokta jage åvddål lågevjahkeájggudahka vássá.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><wordcount>2271</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://www.regjeringen.no/upload/LMD/Vedlegg/Regelverk/Reindrift_konvensjon_Norge_Sverige_lulesamisk_070710.pdf</origFileName><parallel_text xml:lang="nob" location="reindrift_konvensjon_norge_sverige_260209.pdf"/><parallel_text xml:lang="sma" location="reindrift_konvensjon_norge_sverige_soersamisk_070710.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">  Konvensjåvnnå Svieriga ja Vuona gaskan ällobargo birra rájáj badjel </em></p>
+<p>Svieriga ja Vuona ráddidusá,</p>
+<p>ma dan diehti gå sáme li álggoálmmuk mij ällosujtujnis dålusj ájgij rájes la äloj jåhtålam dan badjel mij uddni la rijkkarádjá Svieriga ja Vuona gaskan,</p>
+<p>ma vieledibá vuostasj kodisillav rádjátráktahtajda gålgådismáno 7. ja 18. b. 1751, mij duodas sámij riektáv älojisá nuppe rijkkaj jåhtet ja danna rievtesvuodajt ávkkit dålusj árbbedábij milta,</p>
+<p>ma vieledibá 3. bievddegirjev Sáme álmmuga birra Svieriga säbrramis Europalasj uniåvnnåj, libá oassálasste oassebiele Svieriga välggogisvuodajt dåbdåstam sáme álmmuga hárráj rijkalasj ja rijkajgasskasasj riektájn vuodon.</p>
+<p>ma, nåv guhkev gå ällosáme goappásj rijkajn ietjasa iellemtjerda ja äládusá suoddjima diehti  dárbahi rájájt rasstit ällosujttárin, sihtaba anodit ja daŋga bále vidjurijt dan diehti hiebadit,</p>
+<p>libá návti ájgás boahtám.</p>
+<p><em type="bold">Kapihttal 1. Vuodobiejadum prinsijpa </em></p>
+<p>Artihkal 1</p>
+<p>Dát konvensjåvnnå guosská ällosujttuj rájáj rastá Svieriga ja Vuona gaskan.</p>
+<p>Konvensjåvnå märrádusá gulluji tjieldijda jali tjieldij ällobarggijda ja ällosujttimdajvajda<em type="bold"> </em>jali daj   ällobarggijda.<em type="bold"> </em></p>
+<p>Artihkal 2</p>
+<p>Konvensjåvnå ulmme le åvddånahttet ja åvdedit aktisasjbargov rijkaj, tjieldij, ällosujttimdajvaj ja ájnegis ällobarggij gaskan vaj guohtom ávkkiduvvá vuogijn mij guhkesájggásasj vuodov vaddá ekologalasj, ekonomalasj ja kultuvralasj guoddelis<em type="bold"> </em>bargguj goappásj rijkajn. </p>
+<p>Konvensjåvnnå galggá dan láhkáj anoduvvat vaj ij ådå sjiehtes barggamvuogijt ällosujton tsakka mij gájkkásasj sebrulasjåvddånimev tjuovvu.</p>
+<p>Artihkal 3</p>
+<p>Ällosujtujn rájáj rastá galggá barggat daj riektáj ja välggogisvuodaj milta ma rijkalasj riektáv tjuovvu dan rijkan gånnå älov sujtti, jus ietjá dán konvensjåvnån ij javladuvá.</p>
+<p>Artihkal 4</p>
+<p>Rijkalasj fábmudahka nuppen rijkan, mij árvustallá jus aktak biedjamdahko galggá miededuvvat guovlluj mij dán konvensjåvnå milta ällobargguj máhttá rájáj badjel ávkkiduvvat, galggá  árvustaládijn gåhtset vaj guovllo guhkás máhttelis suoddjiduvvá dagojs ma viehka märráj li guovlo<em type="bold"> </em>ällobargguj vuorrádissan. </p>
+<p>Jus dakkár dahko huoman miededuvvá, galggá rijkka  älloguohtomav huksat jali, jus dat ij la máhttelis, ekonomalasj buohtov rijka riektá milta vaddet.</p>
+<p>Artihkal 5</p>
+<p>Konvensjåvnå adnemij galggaba guokta aktelis orgána gávnnut, aktisattja goappásj rijkajda; tjuottjodimorgána, Svierik-Vuona boatsojguohtomsiebrreráde (Boatsojguohtomsiebrreráde), ja bajemus gujddimorgána, Svierik-Vuona bajemus gujddimsiebrreráde (Bajemusgujddimsiebrreráde).</p>
+<p>Artihkal 6</p>
+<p>Tjielde ja ällosujttimdajva oadtju bájkijt nuppen rijkan ällosujttuj ávkkit vuogijn mij javladuvvá sierra bievddegirjen (guovllobievddegirjen) mij la duodden dán konvensjåvnnåj (1. duoddetjála).</p>
+<p>Artihkal 7</p>
+<p>Tjiellde ja ällosujttimdajvva oadtju lihtudit aktisasjbargo birra mij guovllobievddegirjev ij tjuovo. Dakkár lihttuj gulluji val dakkár ällosujto rievtesvuoda ja guovlo gånnå binnemusát nuppen lihtudiddjen la riektá rijkalasj lágavuodo jali dán konvensjåvnå milta ällosujtujn barggat.</p>
+<p>Aktisasjlihtto ij garrasap gássjelisvuodajt ietjá guosske berustiddjijda oattjo vaddet. Jus lihtov hiejtet vierttiji muttágis oare hiejttemij gávnnut.</p>
+<p>Aktisasjlihtto galggá Boatsojguohtomsiebrrerádes dåhkkiduvvat jus fábmuj galggá boahtet. Giehtadaládijn galggá siebrreráde gåhtset vaj lihtto<em type="bold"> </em>ållidahttá   konvensjåvnå ulmev 2.<em type="bold"> </em>artihkkala  milta. Siebrreráde máhttá åvddål gå lihtto dåhkkiduvvá dibddet iehtjádijt gå lihtudiddjijt vuojnojdisá moalgedit. </p>
+<p>Dán konvensjåvnå märrádusá li sjiehtes mudduj fámon guovlojda ma aktisasjlihttuj gulluji ma li duodastuvvam goalmát oase milta.  Jus lihtto hiejteduvvá, gálggá guovllobievddegirjje fábmuj boahtet.</p>
+<p>Artihkal 8</p>
+<p>Guohtomguovlo ma  diededuvvi guovllobievddegirjen jali aktisasjlihtojn  e bielev válde jalik vuojnov vatte stáhtaj dádjadusáj hárráj árbbedáhperiektáj vijddudagá birra. Dat sihtá javllat konvensjåvnnå ij guoskada dajt árbbedáhperiektájt guohtomijda majt ällobargge nuppet rijkas nuppen rijkan adni. Gatjálvis árbbedáhperiektá vijddudagá gähttjalime<em type="bold"> </em>hárráj ij danen konvensjåvnås gártjeduvá ájnat priváhttariektá vuodujn  Svierigin máttarájggásasj ávkkima hárráj Svierigin ja Vuonan.  </p>
+<p>Jus aktak adná sujnalaárbbedáhperiektá nuppen rijkan ietján gå dajn guovlojn ma li duodastuvvam guovllobievddegirjen, de máhttá ássjev duobbmoståvlå åvddåj bajedit dan rijkan ietjas ássjev gähttjalittjat. Dakkár ássjev oadtju dåhkkiduvvam dikke åvddåj bajedit Svierigin jali Vuonan.</p>
+<p>Jus láhkafámulasj duobbmo vuoset ällobarggen nuppet rijkas la guododimriektá nuppen rijkan, de manná duobbmo dán konvensjåvnå åvddåla. Nubbe rijkka galggá gåtsedit vaj ällobargge gejda guosská oadtju máhttelisvuodav rievtesvuodasa ávkkit jali, jus dat ij la máhttelis, oadtju ekonomalasj buohtov rijkalasj riektá milta.</p>
+<p><em type="bold">Kapihtal 2. Sierra  rievtesvuoda ällosujttuj rájáj rastá </em></p>
+<p><em type="bold"> </em>Artihkal 9 </p>
+<p>Vuostasj kodisilla rádjátráktáhtajda gålgådismáno 7. ja 18. b. 1751 ij rijkav rasstidijn, bieja ietjá nådijt ällosujttuj rájáj rastá gå dajt ma kodisillan nammaduvvi.</p>
+<p>Dán konvensjåvnå milta galggá tulla-, värro- ja máksemfriddjavuohta daj bálij ma li dán ja 10. artihkkalijn javladuvvam.</p>
+<p>Gejna dán konvensjåvnå milta ällosujtujn nuppen rijkan  barggá la riektá 1.  älov sujttidijn rijkkarájáv rasstit ja nuppen rijkan årrot,</p>
+<p>2.  nuppen rijkan, guovlon årodijn, mij ávkkiduvvá  6. jali  7. artihkkala milta, daj njuolgadusáj milta ma rijka ietjas ällobarggijda gulluji, a.  dållåmuorajt ja verkav válldet majt ällosujto diehti dárbahi  adnet,</p>
+<p>b.  rustigijt jali viesojt tsieggit majt ällosujttuj dárbahi ja c.  bivddet ja guollit,</p>
+<p>3. jus ällobargguj dárbaj, tulla, väro ja mávso dagi<em type="bold"> </em>nuppe rijkkaj buktet ja, daj njuolgadusáj milta ma rijka ietjas ällobarggijda gulluji, adnet a.  bednagijt, hestajt jali ietjá juhtusijt b.  dárbas bierggasijt, motåvrråboalldemuháv, oasstobiebmojt boahttsujda, vädtsagijt ja ábnnasijt tsieggitjit ja divutjit rustigijt jnv., c.  birssojt ja luodajt d.  radiorájanijt ja -duostunijt e.  motåvrråvuojánijt ja miehttsemanne motåvrråvuojánijt ja f.  ietjá rustajt majt ällosujttuj dárbáhi. </p>
+<p>Artihkal 10</p>
+<p>Guhti dán konvensjåvnå vuodon ällosujtujn rájáj rastá barggá, oadtju   1.  gätjos boahttsuv jali manna la vieroj märkka, giehtadallat dan rijka märrádusáj milta gånnå boatsoj la, 2.  viesso boahttsuv, njuovvamboahttsuv ja buktagijt boahttsus ietjas dárbbuj nuppe rijkkaj tulla, väro ja mávso dagi, buktet. 3.  boahttsuv nuppen rijkan njuovvat ja ietjas rijkkaj doalvvot váni buktem- ja doalvvommärrádusájs tsakkadahtek. 4.  boahttsuv nuppen rijkan njuovvat ja vuobddet<em type="bold"> </em>danna dan rijka buktem- ja doalvvommärrádusáj milta. 5.  boahttsuv vuorjját, binnep märráj nuppen rijkan vuobddemij njuovvat tulla, väro ja mávso dagi gå tjielgas la boahttsujt ij dåhkki ietjas rijkkaj doalvvot, ja  6.  boahttsujt motåvrråvuojánijn rijkaj gaskav  doalvvot vuojánijn mij la dåhkkiduvvam dakkár doalvvomij juoppán rijkan. </p>
+<p><em type="bold">  Kapihttal 3. Svierik-vuona  boatsojguohtomsiebrreráde </em></p>
+<p><em type="bold">  </em>Artihkal 11 </p>
+<p>Boatsojguohtomsiebrreráden galggi vihtta sebrulattja gudi nielje jahkáj nammaduvvi. Ráddidusá nammadibá guokta sebrulattja goabbák, goappás nuppen galggá vijdes ällosujtomáhtto ja nammaduvvá rijka boatsojäládusá oajvvadusáj milta. Ráddidusá aktan galggaba, Svieriga ja Vuona sámedikkij oajvvadusáj milta, daj lassen nammadit sebrulattjav siebrreráde åvddåulmutjin.</p>
+<p>Juohkka sebrulattjaj biejaduvvá persåvnålasj sadjásasj dan milta mij sebrulattjaj gullu.  Sadjásasj åvddåulmusj la<em type="bold"> </em>Boatsojguohtomsiebrreráde sadjásasj åvddåulmusj. </p>
+<p>Artihkal 12</p>
+<p>Jus guovllobievddegirjen ietján ij mierreduvá de Boatsojguohtomsiebrreráde oadtju bievddegirjjeguovloj birra mierredit 1.  goabbá tjiellde jali älloguohtomdajvva guovlov oadtju adnet, 2.  guohtomájgijt, 3.  alemus boatsojlågov.</p>
+<p>Ietján Boatsojguohtomsiebrreráde aj oadtju mierredit 4.  jåhtema tjadádimev, 5.  boahttsuj tjoahkkimav ja lárkkemav, 6.  sierra njuolgadusájt räjnnuhime birra, 7.  ärádisájt guovllobievddegirje märrádusájs, 8.  aktisasjlihto duodastusáv 7. artihkkala milta, 9.  moalggemav  13. artihkkala  milta, 10.  buohtov 24. artihkkala milta, 11.  biejadisáv ja biedjamdagov 25. ja 26. artihkkalij milta, 12.  konvensjåvnnåmávsov  27. artihkkala milta, 13. máksemav mávsedum konvensjåvnnåmávsojs  28. artihkkala milta,  14. unnep rievddadusáv konvensjåvnnågárdij       tsieggimij.</p>
+<p>Boatsojguohtomsiebrreráde galggá rádjáällosujto åvddånimev tjuovvot ja  rijkaj ráddidusájda jahkásattjat diededit.</p>
+<p>Artihkal 13</p>
+<p>Goappák rijka guovdásj, dajvak ja bájkálasj fábmudagá galggi moalggemijt Boatsojguohtomsiebrrerádes viedtjat åvddål gulle fábmudahka märrádusájt dahká  ma ällosujttuj rájáj badjel máhtti guosskat.</p>
+<p>Dakkár dahkamus ij rádádallamvälggogisvuodav fámoduhte sámij berustimij hárráj jus dakkár välggogisvuohta gávnnu  rijkalasj jali rijkajgasskasasj riektá milta.</p>
+<p>Artihkal 14</p>
+<p>Boatsojguohtomsiebrreráde ássjijt mierret ieneplåhkomärrádusájn<em type="bold"> </em>(binnemus ieneplågujn).  Åvddåulmutjin la mierrediddje jiedna gå jienastimlåhko la sämmi mieren. </p>
+<p>Boatsojguohtomsiebrreráde la mierrediddje gå åvddåulmusj ja binnemusát akta sebrulasj goappák rijkas mierredibmáj säbrraba.</p>
+<p>Gatjálvisán mij ássjegárvedibmáj gullu jali biejadisá dahkamij 25. artihkkala vuostasj biehke ja 26. artihkkala vuostasj oase milta, oadtju åvddåulmusj aktu mierredit.</p>
+<p>Artihkal 15</p>
+<p>Boatsojguohtomsiebrreráde märrádus máhttá fábmuj boahtet vájku märrádus gujddiduvvá Bajemusgujddimsiebrrerádáj. Boatsojguohtomsiebrreráde galla máhttá mierredit vaj märrrádus ij fábmuj boade åvddål gå gujddimájgge vássám la.</p>
+<p>Bajemusgujddimsiebrreráde máhttá mierredit gujddiduvvam märrádusáv ij oattjo dåjmadit åvddål gå gujddimus låhpalattjat la mierredum.</p>
+<p>Artihkal 16</p>
+<p>Boatsojguohtomsiebrreráde märrádus máhttá gujddiduvvat Bajemusgujddimsiebrrerádáj oassebieles jali sujsta gesi märrádus ietján guosská. Gujddidahtte märrádusájda gullu nielje vahko gujddimájgge dat biejves gå märrádusáv la duosstum. Tjáledum gujddimus galggá Boatsojguohtomsiebrrerádáj dan ájge sinna boahtet. Jus gujddimus ilá maŋŋet boahtá, galggá Boatsojguohtomsiebrreráde gujddimusáv hilggot.</p>
+<p>  <em type="bold">Kapihtal 4. Svierik-vuona bajemusgujddimsiebrreráde </em></p>
+<p>Artihkal 17</p>
+<p>Bajemusgujddimsiebrreráden galggi vihtta sebrulattja gudi nielje jahkáj nammaduvvi. Ráddidusá nammadibá guokta sebrulattja goabbá, goappás nuppen galggá vijdes ällobarggomáhttudahka ja gev biedji rijka boatsojäládusá oajvvadusá milta, ja nuppen galggá duobmármáhttudahka. Duodden galggaba ráddidusá aktan, Svieriga ja Vuona sámedikkij oajvvadusá milta, biedjat sebrulattjav siebrreráde åvddåulmutjin. Åvddåulmusj galggá duobmár liehket jali vijdes duobmárdåbdov adnet.</p>
+<p>Juohkka sebrulattjaj persåvnålasj  sadjásasj biejaduvvá dan milta mij sebrulattjaj gullu.  Åvddåulmutja sadjásasj doajmmá Bajemusgujddimsiebrreráde<em type="bold"> </em>nubbe åvddåulmutjin. </p>
+<p>Artihkal 18</p>
+<p>Bajemusgujddimsiebrreráde ássjijt mierret ieneplåhkomärrádusájn (binnemus ieneplågujn).</p>
+<p>Åvddåulmutjin la mierrediddje jiedna gå jienastimlåhko la sämmi mieren.</p>
+<p>Bajemusgujddimsiebrreráde mierret gå gájkka sebrulattja märrádussaj säbrri. Gatjálvisáv mij ássjegárvedibmáj gullu oadtju åvddåulmusj aktu mierredit.</p>
+<p>Bajemusgujddimsiebrreráde märrádus konvensjåvnnåmávso birra 27. artihkkala milta oadtju sån, guhti la välggogis konvensjåvnnåmávsov mákset, mättojis hárráj Svierigin, gujddit Lenariektáj Norrbottena lenan ja mättoj hárráj Vuonan stiebniga baktu dikke åvddåj. Ietján Bajemusgujddimsiebrreráde märrádusájt ij Lenariektáj oattjo gujddit jalik dikke åvddåj  biedjat.</p>
+<p>Gujddimussaj jali stiebnigij gullu nielje vahkkusasj ájgge dat biejves gå märrádusáv li duosstum. Stiebnik jali gujddimus viertti Lenariektáj Norrbottena lenan jali diggáj dan ájgen boahtet. Jus tjálos ilá maŋŋet la boahtám, galggá duobbmoståvllå gujddimusáv jali stiebnigav hilggot.</p>
+<p><em type="bold">Kapihtal 5. Aktisasj märrádusá Svierik-vuona boatsojguohtomsiebrrerádáj ja Svierik-vuona bajemusgujddimsiebrrerádáj </em></p>
+<p>Artihkal 19</p>
+<p>Boatsojguohtomsiebrreráde ja Bajemusgujddimsiebrreráde äbá galga ássjij gähttjalattijn årrot ássjijda tjanádum jalik bällásattja.</p>
+<p>Artihkal 20</p>
+<p>Boatsojguohtomsiebrreráde jali Bajemusgujddimsiebrreráde märrádus doajmmá goappák rijkan sämmiláhkáj gåk lágafábmuj bessam duobbmo.</p>
+<p>Rijkalasj duobbmoståvlå märrádus 18. artihkkala goalmát oase milta doajmmá gujddijiddje rijkan avtaláhkáj gåk lágafábmuj bessam duobbmo.</p>
+<p>Artihkal 21</p>
+<p>Boatsojguohtomsiebrreráde ja Bajemusgujddimsiebrreráde biedjaba dajt åtsådimijt ja guoradallamijt jåhtuj majs la dárbbo ållidahtátjit ietjaska välggogisvuodajt dán konvensjåvnå milta.</p>
+<p>Boatsojguohtomsiebrreráde ja Bajemusgujddimsiebrreráde  máhtteba njuolgga aktavuodav goappásj rijkaj fábmudagáj válldet viehkev åttjutjit. Jus la dárbbo de siebrreráde oadtjoba ássjedåbddijt sierra guoradallambargojda ávkkit.</p>
+<p>Artihkal 22</p>
+<p>Boatsojguohtomsiebrreráde ja Bajemusgujddimsiebrreráde sebrulattja, ássjedåbdde ja ulmutja tjanádum siebrreráde dåjmadahkaj máhtti rijkarájáv rasstit siebrreráde bargo diehti gå la dárbbo ja tulla, väro ja mávso dagi dárbbagijt buktet.</p>
+<p>Artihkal 23</p>
+<p>Njuolgadus Boatsojguohtomsiebrrerádáj ja Bajemusgujddimsiebrrerádáj la duodden dán konvensjåvnnåj (2. duoddetjála).</p>
+<p>Boatsojguohtomsiebrreráde ja Bajemusgujddimsiebrreráde dahkaba goabbák ietjaska jahkásasj budjähttaoajvvadusáv. Budjähtta mierreduvvá ráddidusájs aktan. Gålo juogeduvvi avta mahten goappák rijkkaj. Ráddidusá mierredíbá lågovdahkam- ja revisjåvnnåhámijt.</p>
+<p><em type="bold">  Kapihtal 6.  Märrádusá boahttsuj ruoptusdoalvvoma ja mieddemij birra </em></p>
+<p>Artihkal 24</p>
+<p>Jus boahttsu nuppet rijka tjieldes jali ällosujttimdajvas li nuppen rijkan dán konvensjåvnå loabe dagi, jali jus boahttsu tjieldes jali ällosujttimdajvas ietjas rijkan li muhtem guovlon konvensjåvnå vuosstij, galggá tjiellde jali ällosujttimdajvva ruvva máhttelis boahttsujt loabedam guohtomguovlluj doalvvot. Åvddål gå boahttsujt doalvvogoahtá galggá ássjáj gulle tjälldáj jali ällosujttimdajvvaj diededit jus máhttelis. Lárkkamijt jali miessemärkkomijt ij oattjo adnet jus ij buorre mutton guosske tjälldáj jali ällosujttimdajvvaj la diededam.</p>
+<p>Tjiellde jali ällosujttimdajvva galggá, lárkkama maŋŋela, dalága boahttsujt loahpeguovlluj doalvvot jus ij oassebielij lihton ietjá javladuvá. Jus tjiellde jali ällosujttimdajvva diededum lárkkamis gáhtu ja boahttsujt e ruoptus máhte stuoráp vájvij dagi doalvvot, oadtju dat tjiellde jali ällosujttimdajvva mij lárkkamav huksá äjgádij nammaj boahttsujt njuovadit ja vuobdadit .</p>
+<p>Jus ij ietján lihtuda galggá tjiellde jali ällosujttimdajvva sunji mákset guhti  boahttsujt ájmmuj válldá ja ruoptus doalvvu. Vijdábut boahttsu äjgát galggá njuovvam- ja vuobddemgålojt mákset. Jus sierravuojno mávso stuorrudagás li de Boatsojguohtomsiebrreráde dav mierret.</p>
+<p>Artihkal 25</p>
+<p>Jus tjiellde jali ällosujttimdajvva ij boahttsujt máhtsada vuogijn mij  24. artihkkalin javladuvvá, máhttá Boatsojguohtomsiebrreráde, suv ádnomis gut vahágav ja vájvev gierddá, biejadit tjieldev jali ällosujttimdajvav muhtem ájge sinna boahttsujt ierit doalvvot.</p>
+<p>Jus biejadisáv ij tjuovo de Boatsojguohtomsiebrreráde mierret gut boahttsujt oadtju juogu de ruoptus doalvvot jali njuovvat ja äjgádij nammaj vuobddet. Siebrreráde máhttá mierredit dakkár biedjamdagojt oadtju åvdåsvásstediddje fábmudahka rijkan tjadádit, jali tjiellde ja ällosujttimdajvva mij dákkár dagov ietjas nali válldám la.</p>
+<p>Doalvvomgålojt máksá tjiellde jali ällosujttimdajvva mij biejadisáv la oadtjum vuostasj oase milta. Boatsojäjgát máksá njuovvama ja vuobddema åvdås. Boatsojäjgát oadtju dav mij njuovvamis ja vuobddemis báhtsá.</p>
+<p>Artihkal 26</p>
+<p>Boatsojäjgádav, tjieldev jali ällosujttimdajvav, mij ij tjuovo dán konvensjåvnå njuolgadusáv jali märrádusáv diededuvvam Boatsojguohtomsiebrrerádes jali Bajemusgujddimsiebrrerádes, máhttá Boatsojguohtomsiebrreráde muhtem ájgen biejadit juojddá dahkat jali guodet. Biejadissaj máhttá sáhkov lasedit. Jus hiehpá, oadtju sáhkov moattebállásattjan biejadit.</p>
+<p>Gå sáhko stuorrudagáv mierret galggá árvustallat dav vahágav mij máhttá badjánit jus biejadisáv ij tjuovo, suv ekonomalasj vidjurijt gänna la välggogisvuohta gåhttjomav tjuovvot ja vidjurijt ietján.</p>
+<p>Boatsojguohtomsiebrreráde galggá, jus gåhttjomav ij tjuovo, mierredit máksusa stuorrudagáv ja goassa maŋemusát galggá mákset.</p>
+<p>Artihkal 27</p>
+<p>Boatsojguohtomsiebrreráde máhttá mierredit älloniehkke, tjiellde jali ällosujttimdajvva galggá konvensjåvnnåmávsov loabedis guohtoma åvdås mákset, jus boahttsu nuppet rijkas nuppen rijkan li dán konvensjåvnå loabe dagi jali jus boahttsu ietjas rijkas li guovlon mij la konvensjåvnå vuosstij.</p>
+<p>Konvensjåvnnåmávso stuorrudagá árvustaládijn galggá iehtjádij siegen vieledit dav vahágav mij mättos tjuovoj ja máhttelisvuodav mieddemav tsaggat, gesi ássje gullu. Jus li sierra oare, máhttá konvensjåvnnåmávsov fámoduhttet.</p>
+<p>Jus sáhkko låhpalattjat 26. artihkkala goalmát oase milta mierreduvvam la, de ij konvensjåvnnåmávsov oattjo mierredit dan mätto åvdås mav biejadis gåbttjå.</p>
+<p>Konvensjåvnnåmávsov galggá mierredimbiejves nielje vahko sinna mákset.</p>
+<p>Artihkal 28</p>
+<p>Sáhkko ja konvensjåvnnåmákso 26. ja 27. artihkkalij milta galggá mierreduvvat máksemvelgulattja rijka biednigij.</p>
+<p>Sáhkov ja konvensjåvnnåmávsov galggá Boatsojguohtomsiebrrerádáj mákset ja buohtton adnet dan tjälldáj jali ällosujttimdajvvaj mij mättos vahágav gierdaj ja ietján dagojda ma li ávkken ällobargguj rájáj rastá.</p>
+<p>Boatsojguohtomsiebrreráde vásstet sáhkoj ja konvensjåvnnåmávsoj máksorávkalvisáj oadtjomis.</p>
+<p><em type="bold">Kapihtal 7. Sierra märrádusá</em> </p>
+<p>Artihkal 29</p>
+<p>Märkkatjáledime bále galggá gähttjat vaj märkka tjuoldeduvvá dan dajva dåhkkiduvvam merkajs ma nuppen rijkan li. Tjáledimfábmudahka nuppen rijkan galggá guládit tjáledimfábmudagájn nuppen rijkan åvddål gå merkav regisstarij tjálet.</p>
+<p>Artihkal 30</p>
+<p>Jus Boatsojguohtomsiebrreráde jali Bajemusgujddimsiebrreráde märrádusáv libá dahkam, mij luluj máhttet vahákmáksema vuodon årrot jus rijkalasj fábmudahka dakkár märrádusáv la válldám,  la sujna gesi märrádus guosská riektá ássjev båktet siebrrerádij vuosstij rijkalasj lága milta. Ássjev gatjálvisá hárráj mij guosská soabmása riektágártjedibmáj oadtju båktet dan rijkan gånnå riektá la gárttjoduvvam.  Ietjá bálij ássjev oadtju duobbmoståvlå åvdån ietjas rijkan båktet.</p>
+<p>Artihkal 31</p>
+<p>Jus juoppán rijkan li rievddadime ällosujto organisasjåvnån jali almulasj tjuottjodimen ma merkahi vaj riektásubjevta ma nammaduvvi dán konvensjåvnån oadtju ietjá namáv jali ietjá organisasjåvnnnåhámev, de konvensjåvnnå fámon la dajda riektásubjevtajda maj namá rievddaduvvi. Dan rijka ráddidus galggá nuppe rijka ráddidussaj ja Boatsojguohtomsiebrrerádáj ja Bajemusgujddimsiebrrerádáj dakkár rievddadusájt diededit.</p>
+<p><em type="bold">Kapihtal 8. Fábmujbiedjam ja fábmoájgge</em> </p>
+<p>Artihkal 32</p>
+<p>Gå dát konvensjåvnnå fábmuj biejaduvvá galggá javllamáno 13. b. 1971 bievddegirjje Svieriga ja Vuona gaskan gárdij tsieggima ja huksama birra muhtem rijkarája åsij milta (Jämtlanda lena ja Nuortta-Tröndelaga ja Oarjje-Tröndelaga fylka) fámoduvvat.</p>
+<p>Artihkal 33</p>
+<p>Dát konvensjåvnnå galggá dåhkkiduvvat, ja fábmuj boahtet gålmmålåk biejve maŋŋel gå oassebiele libá nubbe nubbáj tjállagij baktu diededam vaj rijkalasj konstitusjåvnålasj bargggamvuoge fábmujboahtema hárráj li ålliduvvam. Svieriga ja Vuona tevstajn la sämmi árvvo. Konvensjåvnnå galggá jårggåluvvat nuorttasábmáj, julevsábmáj ja oarjjelsábmáj.</p>
+<p>Artihkal 34</p>
+<p>Konvensjåvnnå fámon la gålmmålåk jage dat biejves gå fábmuj bådij. Jus konvensjåvnåv ij hiejteda maŋemusát vihtta jage dan ájggudagá nåhkåma åvddåla de dat la fámon lågev jage vil ja galggá maŋŋela fámon aneduvvat lågev jage ájgen, jus ij hiejteda maŋemusát guokta jage åvddål lågevjahkeájggudahka vássá.</p>
+</body></document>

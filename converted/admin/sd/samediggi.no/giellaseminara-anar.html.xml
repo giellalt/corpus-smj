@@ -1,40 +1,12 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Giellaseminára - Anár</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <wordcount>154</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/Asadime/Giellaseminara-Anar</origFileName>
-    <parallel_text xml:lang="nob" location="spraakseminar-inari.html"/>
-    <parallel_text xml:lang="sma" location="saemiedigkieh-gieleseminaarem-inarisnie.html"/>
-    <parallel_text xml:lang="sme" location="giellaseminara-anar.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="sme">Giellaseminára - Anár</p>
-    <p>Vuona, Svieriga ja Suoma sámedikke ásadi aktisasj giellaseminárav dålkåjda, jårggåliddjijda ja ietjá giellabarggijda.</p>
-    <p xml:lang="koi">09.10 - 09:00 10.10 - 15:00</p>
-    <p>Sámedikke ásadi aktan 9.-10.10.2019 giellaseminárav Anárin ållagasj sidjij gudi sámegielaj barggi: jårggåliddjen, dålkkån jali ietjá giellabarggen. Seminárra ásaduvvá Vuona, Svieriga ja Suoma sámedikkij ja Sáme Giellagáldo aktisasjbarggon ja la oassen sámedikkij AN:a álggoálmmukgielaj jage tjalmostahttemis.</p>
-    <p>Dán gålmå sámedikke aktisasj ásadime ussjolmis la giellabarggij máhtudagáv doarjjot, vaddet máhttelisvuodav tjiegŋalabbo giellaássjijt dágástalátjit ja dålkåj, jårggåliddjij ja giellabarggij bargguj tjiegŋodit guoskavasj gatjálvisájda, máhttelisvuodajda ja hásstalusájda. Dát seminárra fállá aj máhttelisvuodav ådå værmádagáv ja aktisasjbarggogasskavuodajt giellabarggij gaskan dagátjit ja náv aj nanostuhttet rájájrasstijiddje aktisasjbargov sámegielaj gáktuj.</p>
-    <p>Ávos sámedikke bivddi gájka giellaberustiddjijt giellaseminárraj 9.-10.10.2019 Anárij!</p>
-    <p>Seminára prográmma ja ietjá diedo almoduvvi maŋŋela.</p>
-    <p>Diededibme seminárraj oassálasstet rabáduvvá tjaktjagiesen 2019.</p>
-    <p xml:lang="sma">Lassediedo:</p>
-    <p xml:lang="sme">Anne Kirste Aikio , mobiltelefåvnån +358 40 7075626 Mikkel Rasmus Logje , mobiltelefåvnån +47 412 65 375 Marie Louise Allas , mobiltelefåvnån +46 70-367 46 82</p>
-    <p>Lågå ienep</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Giellaseminára - Anár</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><wordcount>154</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/Asadime/Giellaseminara-Anar</origFileName><parallel_text xml:lang="nob" location="spraakseminar-inari.html"/><parallel_text xml:lang="sma" location="saemiedigkieh-gieleseminaarem-inarisnie.html"/><parallel_text xml:lang="sme" location="giellaseminara-anar.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="sme">Giellaseminára - Anár</p>
+<p>Vuona, Svieriga ja Suoma sámedikke ásadi aktisasj giellaseminárav dålkåjda, jårggåliddjijda ja ietjá giellabarggijda.</p>
+<p xml:lang="vep">09.10 - 09:00 10.10 - 15:00</p>
+<p>Sámedikke ásadi aktan 9.-10.10.2019 giellaseminárav Anárin ållagasj sidjij gudi sámegielaj barggi: jårggåliddjen, dålkkån jali ietjá giellabarggen. Seminárra ásaduvvá Vuona, Svieriga ja Suoma sámedikkij ja Sáme Giellagáldo aktisasjbarggon ja la oassen sámedikkij AN:a álggoálmmukgielaj jage tjalmostahttemis.</p>
+<p>Dán gålmå sámedikke aktisasj ásadime ussjolmis la giellabarggij máhtudagáv doarjjot, vaddet máhttelisvuodav tjiegŋalabbo giellaássjijt dágástalátjit ja dålkåj, jårggåliddjij ja giellabarggij bargguj tjiegŋodit guoskavasj gatjálvisájda, máhttelisvuodajda ja hásstalusájda. Dát seminárra fállá aj máhttelisvuodav ådå værmádagáv ja aktisasjbarggogasskavuodajt giellabarggij gaskan dagátjit ja náv aj nanostuhttet rájájrasstijiddje aktisasjbargov sámegielaj gáktuj.</p>
+<p>Ávos sámedikke bivddi gájka giellaberustiddjijt giellaseminárraj 9.-10.10.2019 Anárij!</p>
+<p>Seminára prográmma ja ietjá diedo almoduvvi maŋŋela.</p>
+<p>Diededibme seminárraj oassálasstet rabáduvvá tjaktjagiesen 2019.</p>
+<p xml:lang="sma">Lassediedo:</p>
+<p xml:lang="sme">Anne Kirste Aikio , mobiltelefåvnån +358 40 7075626 Mikkel Rasmus Logje , mobiltelefåvnån +47 412 65 375 Marie Louise Allas , mobiltelefåvnån +46 70-367 46 82</p>
+<p>Lågå ienep</p>
+</body></document>

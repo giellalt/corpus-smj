@@ -1,52 +1,16 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Rahte-niegov e luojte</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>334</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_090410.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty SkapalenJårggålibme: Divte Media AS</p>
-    <p><em type="bold">Lip miellusaja dasi jahkep</em> </p>
-    <p>navti lij dat máhttet liehket sijá viehkke Måskesebrudahkaj, javlaj Harrieth Aira, masi tjåhkanibme guorrasij.</p>
-    <p xml:lang="nob"><em type="bold">«</em> </p>
-    <p xml:lang="nob"><em type="bold">KAJA ANDERSEN</em> </p>
-    <p><em type="bold">Bisodit bájkálasj dåjmav</em> </p>
-    <p><em type="bold">Ájggu kulturmujtojt</em> <em type="bold">ruvva tjáledit</em> </p>
-    <p>Barggojuohkusa njunnjusj, Ronny Nergård hasodij tjåhkanimev galgalulujin bájkálasj dåjmav bisodit. Divtasvuona suohkan le mierredam prosjevta åvdås vásstádusáv válldet jus oadtju, valla barggojuogos oajvvat gålmmå vihtta ájrrasis bájkálattjat válljiduvvi. - Lip dudálattja tjåhkanimijn. Suohkan le vuosedam mielav ja doajmmelisvuodav. Lip dåjmadam vaj ulmutja li bessam vuojnojt ja árvvalusájt ássje birra buktet ja vilá jáhkkep åvddåprosjækta máhttá tjadáduvvat ja aj oajvveprosjækta rahtev åttjudittjat, javlaj mielos Nergård.</p>
-    <p><em type="bold">Rahte ja</em> <em type="bold">sebrudakguoradallam</em> </p>
-    <p>Barggojuohkusa tjálle, Lars Th. Kintel tjielggij rahteprosjækta manná sebrudakanalysaoase buohta gånnå le</p>
-    <p>stuoráp gållomerustallam gå rahtedahkama åvddåprosjevtan. Sebrudakguoradallam galggá sisadnet æláduslåpptimav, guoradallamav ja skåvlå anov åvddålijguovlluj. - Divtasvuona suohkan dåjmat dáv prosjevtav lahka aktisasjbargujn Árranijn, ja tjoahkkáj le gållomerustallam 1 millijåvnå kråvnå. Dá guokta prosjevta li juogedum mij guosská ruhtadibmáj, valla le aktisasj ulmme: Måske boahtteájgge, subtsastij Kintel. Goappátjijn juohkusijn le gesisik stivrrimjuogos. - Ájggop suohkanav prosjevta dåjmadiddjen ja sihtap vilá buoragit Sámedikkijn guládallat, tjoahkkájgiesij Ronny Nergård.</p>
-    <p><em type="bold">Doajvvo Musken Laks’aj</em> </p>
-    <p><em type="italic">Gáddáj lávkkiji. Moattes båhtin jåhtelisvantsajn Ájluovtas åvdedittjat Måske boahtteájge</em> </p>
-    <p>Barggojuohkusa ulmme le læhkám rudájt åttjudit åvddåprosjæktaj ja nav aj åvddålij sjaddá. Dálla luohtedi Musken Laks AS’aj gudi li 60 000 kråvnå juollodam. Åhtsin 200 000 kråvnå. - Barggojuohkusin lidjin stuorra vuorddemusá Musken Laks galggin nannusit oassálasstet ruhtadimbielen Måskerahtes. Oadtjun konsesjåvnåjt navku jagen 2002  álggoálmmukperspektijvajn vuodon. Duodden dajda guhtta bájkálasj barggosajijda mij dát vattij, vuorddep ienebuv, javlaj Ronny Nergård. Dálla bierri vidnudahka måttijn millijåvnåjn ruhtabáhtsusijn stuoráp sebrudakåvdåsvásstádusáv válldet ja oassálasstet infrastruktuvra dan stuorra aktijvuodan? – Dát le biehttem sáme bájkálasj sebrudagá vuossti. – Musken Laks stuorra luohkkojt vuonas viedtjá, de vierttiji aj juojddáv ruoptus vaddet. – Musken Laks’an le millijåvnnåruhtabáhtsos, de li 200 000 kråvnå binná rudá. – Ep la dudálattja 60 000 kråvnåj. – Rudá vuodnarájge davás manni, dåssju virgálattjaj værrorudá báhtsi. – Da 20 millijåvnå ma loabeduvvin gå konsesjåvnåjt navku oadtjun gáhtun. Dát le biehttem Måskesebrudagá vuosstij. Návti muhtema javllin.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Rahte-niegov e luojte</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2010</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>334</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_090410.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty SkapalenJårggålibme: Divte Media AS</p>
+<p><em type="bold">Lip miellusaja dasi jahkep</em> </p>
+<p>navti lij dat máhttet liehket sijá viehkke Måskesebrudahkaj, javlaj Harrieth Aira, masi tjåhkanibme guorrasij.</p>
+<p xml:lang="nob"><em type="bold">«</em> </p>
+<p xml:lang="nob"><em type="bold">KAJA ANDERSEN</em> </p>
+<p><em type="bold">Bisodit bájkálasj dåjmav</em> </p>
+<p><em type="bold">Ájggu kulturmujtojt</em> <em type="bold">ruvva tjáledit</em> </p>
+<p>Barggojuohkusa njunnjusj, Ronny Nergård hasodij tjåhkanimev galgalulujin bájkálasj dåjmav bisodit. Divtasvuona suohkan le mierredam prosjevta åvdås vásstádusáv válldet jus oadtju, valla barggojuogos oajvvat gålmmå vihtta ájrrasis bájkálattjat válljiduvvi. - Lip dudálattja tjåhkanimijn. Suohkan le vuosedam mielav ja doajmmelisvuodav. Lip dåjmadam vaj ulmutja li bessam vuojnojt ja árvvalusájt ássje birra buktet ja vilá jáhkkep åvddåprosjækta máhttá tjadáduvvat ja aj oajvveprosjækta rahtev åttjudittjat, javlaj mielos Nergård.</p>
+<p><em type="bold">Rahte ja</em> <em type="bold">sebrudakguoradallam</em> </p>
+<p>Barggojuohkusa tjálle, Lars Th. Kintel tjielggij rahteprosjækta manná sebrudakanalysaoase buohta gånnå le</p>
+<p>stuoráp gållomerustallam gå rahtedahkama åvddåprosjevtan. Sebrudakguoradallam galggá sisadnet æláduslåpptimav, guoradallamav ja skåvlå anov åvddålijguovlluj. - Divtasvuona suohkan dåjmat dáv prosjevtav lahka aktisasjbargujn Árranijn, ja tjoahkkáj le gållomerustallam 1 millijåvnå kråvnå. Dá guokta prosjevta li juogedum mij guosská ruhtadibmáj, valla le aktisasj ulmme: Måske boahtteájgge, subtsastij Kintel. Goappátjijn juohkusijn le gesisik stivrrimjuogos. - Ájggop suohkanav prosjevta dåjmadiddjen ja sihtap vilá buoragit Sámedikkijn guládallat, tjoahkkájgiesij Ronny Nergård.</p>
+<p><em type="bold">Doajvvo Musken Laks’aj</em> </p>
+<p><em type="italic">Gáddáj lávkkiji. Moattes båhtin jåhtelisvantsajn Ájluovtas åvdedittjat Måske boahtteájge</em> </p>
+<p>Barggojuohkusa ulmme le læhkám rudájt åttjudit åvddåprosjæktaj ja nav aj åvddålij sjaddá. Dálla luohtedi Musken Laks AS’aj gudi li 60 000 kråvnå juollodam. Åhtsin 200 000 kråvnå. - Barggojuohkusin lidjin stuorra vuorddemusá Musken Laks galggin nannusit oassálasstet ruhtadimbielen Måskerahtes. Oadtjun konsesjåvnåjt navku jagen 2002  álggoálmmukperspektijvajn vuodon. Duodden dajda guhtta bájkálasj barggosajijda mij dát vattij, vuorddep ienebuv, javlaj Ronny Nergård. Dálla bierri vidnudahka måttijn millijåvnåjn ruhtabáhtsusijn stuoráp sebrudakåvdåsvásstádusáv válldet ja oassálasstet infrastruktuvra dan stuorra aktijvuodan? – Dát le biehttem sáme bájkálasj sebrudagá vuossti. – Musken Laks stuorra luohkkojt vuonas viedtjá, de vierttiji aj juojddáv ruoptus vaddet. – Musken Laks’an le millijåvnnåruhtabáhtsos, de li 200 000 kråvnå binná rudá. – Ep la dudálattja 60 000 kråvnåj. – Rudá vuodnarájge davás manni, dåssju virgálattjaj værrorudá báhtsi. – Da 20 millijåvnå ma loabeduvvin gå konsesjåvnåjt navku oadtjun gáhtun. Dát le biehttem Måskesebrudagá vuosstij. Návti muhtema javllin.</p>
+</body></document>

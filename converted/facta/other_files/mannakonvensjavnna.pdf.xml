@@ -1,75 +1,50 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Mánnákonvensjåvnnå</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1302</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.minoritet.se/1505?file_id=1</origFileName>
-    <parallel_text xml:lang="sma" location="maanakonvensjovne.pdf"/>
-    <parallel_text xml:lang="sme" location="manaidkonvensuvdna.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Mánnákonvensjåvnnå</p>
-    <p xml:lang="swe">Barnkonventionen på lulesamiska – för barn och ungdomar</p>
-    <p>AN:a konvensjåvnnå máná rievtesvuodaj birra, jali mánnákonvensjåvnnå gåk dav aj gåhttju, biejaduváj 1989. Mánnákonvensjåvnån li rievtesvuoda majt juohkka mánná galggá adnet ja gullu gájkajda 18 jage rádjáj gudi årru jali li rijkan. Mánnákonvensjåvnån gåhttju de goappátjagá mánájt ja nuorajt mánnán.</p>
-    <p>Svierik hähttu dahkat buoremusát máhttá vaj mij mánnákonvensjåvnån tjuodtju galggá duohtan sjaddat. Buojkulvissan vierttiji Svieriga ietjas lága ja njuolgadusá avtaárvulattja årrot rievtesvuodaj konvensjåvnån. Svierik galggá gåhtset vaj mánáj rievtesvuoda e vadjáluvá ájnat duohtan váldeduvvi juohkka sajen sebrudagán, juohkka biejve. Ráddidus aj galggá huksat vaj goappátjagá máná ja ållessjattuga oadtju diehtet makkár rievtesvuoda siján li.</p>
-    <p>Rievtesvuoda tjuodtju sierra biehkijn gåhtjodum artihkkalin. Gávnnuji 54 artihkkala mánnákonvensjåvnån ja 41 giehtadi rievtesvuodajt. Báhtsem artihkkala giehtadi gåk rijka galggi mánnákonvensjåvnåjn barggat.</p>
-    <p>Artihkkalijt 2, 3, 6 ja 12 gåhttju mánnákonvensjåvnå oajvveprinsijppan. Da viehkedi duv nuppijt artihkkalijt dádjadit. Gájkka artihkkala mánnákonvensjåvnån aktan gulluji.</p>
-    <p>MÁNNÁKONVENSJÅVNNÅ</p>
-    <p>1. Mánnákonvensjåvnnå gullu dunji 18 jage vuollelin. Mánnákonvensjåvnnå gåhttju goappátjagá mánájt ja nuorajt <span type="quote">”mánnán”</span>.</p>
-    <p>2. Mánnákonvensjåvnnå dunji ja gájkka ietjá mánájda vaddá avta rievtesvuodajt ja avta árvov. Ij aktak duv oattjo nuppástit. Dat mierkki ij aktak duv oattjo nievrebut iehtjádis giehtadallat. Dån i ga oattjo nuppástaláduvvat jali stráffuduvvat masstak majt duv äjgáda libá dahkam jali dahkaba.</p>
-    <p>3. Gå ållessjattuga mierredi mánáj birra de galggi gåhtset <span type="quote">”máná buoremusáv”</span>. Dat mierkki ållessjattuga agev galggi ussjolit mij la dunji buorre ja gåk märrádus dunji guosská. Dån galgá dav suojev ja huvsov oadtjot mav dárbaha. Avta ájnas la ållessjattuga ájádalli <span type="quote">”máná buoremussaj”</span> gå märrádus ållo mánájda guosská.</p>
-    <p>4. Gájkka rijka galggi dahkat mij la máhttelis rievtesvuodajt mánnákonvensjåvnån tjadádittjat. Dat mierkki sij agev galggi gähttjalit dav tjuovvot mij mánnákonvensjåvnån tjuodtju.</p>
-    <p>5. Duv äjgáda duv åvdås vásstedibá. Såj galggaba dunji rádijt vaddet gå dagá dakkárijt masi mánnákonvensjåvnnå dunji rievtesvuodav vaddá.</p>
-    <p>6. Dujna l rievtesvuohta viessot ja åvddånit. Duv rijkka galggá dahkat gájkka majt máhttá vaj nåv sjaddá.</p>
-    <p>7. Dujna l rievtesvuohta namáv oadtjot ja rijka viesát årrot. Dujna l aj rievtesvuohta guhkás máhttelis diehtet gudi duv äjgáda libá ja sunnu huvso vuolláj boahtet.</p>
-    <p>8. Dujna l rievtesvuohta ietjat identitähttaj. Identitähttaj gullu duv viesádimvuohta ietjat rijkan, duv namma ja duv berajvuohta. Jus la duv identitähtta váldedum, galga viehkev oadtjot dav åtsådittjat.</p>
-    <p>9. Ij aktak duv oattjo sieradit ietjat äjgádijs, ietján gå la dárbbo ietjat diehti. Máhttá buojkulvissan dárbbo jus äjgáda duv äbá buoragit huvsa. Dujna l rievtesvuohta iejvvit goappásj äjgádijt jus ij dunji la nievrre.</p>
-    <p>10. Jus dån ja duv äjgáda sihtabihtit iejvvidit vat maŋŋela gå lihpit sierra årrum máhttebihtit viehkev åhtsåt ja guhkás máhttelis viehkev oadtjot dan rijkan gånnå åro. Jus duv äjgáda årroba sierra rijkajn ja dij sihtabihtit iejvvidit galggá dat rijkka gånnå åro duv viehkedit.</p>
-    <p>11. Duv ij oattjo ietjá rijkkaj doalvvot goappásj äjgádij loabe dagi.</p>
-    <p>12. Dujna l rievtesvuohta ietjat vuojnojt vaddet juohkka ássjen mij dunji guosská. Ållessjattuga galggi gulldalit ja duv vuojnojt berustit. Gå fábmudahka jali duobbmoståvllå giehtadallá jali mierret ássjen mij dunji guosská galga máhttet ságajda boahtet.</p>
-    <p>13. Dujna l moalggemfriddjavuohta. Dat mierkki dujna l rievtesvuohta åhtsåt, duosstot ja diedojt ja ájádusájt hádjet.</p>
-    <p>14. Dujna l rievtesvuohta usjudallat ja adnet makkár vuojnov sidá. Dujna l rievtesvuohta ietjat jáhkkuj ja adnet makkár religiåvnåv sidá. Duv äjgáda oadtjoba duv lájddit, valla äbá goassak duv ájádusáj badjel mierredit.</p>
-    <p>15. Dujna l rievtesvuohta sebrulattjan siebrijn årrot ja válljit siebrijs ålgus mannat. Dån aj oattjo tjåhkanimijda säbrrat guhkev li ráfálattja.</p>
-    <p>16. Dujna l rievtesvuohta suoddjiduvvat lágadis nággimis ietjat priváhtta iellemin juogu de hejman jali gånnå åro ja gånnå la. Ij aktak oattjo buojkulvissan duv brevajt ja biejvvegirjijt loabe dagi låhkåt. Gullu aj gájkka ietjá vidjurijda gå diedo duv birra giehtadaláduvvi. Ij aktak ga oattjo duv gudnev jalik namáv vahágahttet. Láhka galggá duv garrasit suoddjit gájkka dakkár nággimij vuosstij.</p>
-    <p>17. Dujna l rievtesvuohta oadtjot diehtet gåk duv rijkan ja väráldin la, vuogijn mav dádjada, degu dal tidnigij ja tv:a baktu. Da diedo majt oattjo, galggi duv viehkedit åvddånit ja varres viessomav adnet.</p>
-    <p>18. Duv äjgádijn la aktisasj vásstádus duv bajássjaddama ja åvddånime åvdås. Galggaba ussjolit mij dunji buoremus la. Jus duv äjgáda doarjjagav dárbahibá galggá sebrudahka huksat vaj dårja gávnnu oadtjot, buojkulvissan sujtto ja biejvveårrom.</p>
-    <p>19. Dujna l rievtesvuohta suodjáj gájklágásj ålgoldis jali sisŋeldis bahádago, nievres sujto, tsábbmema, illastime jali ietjá ávkkeadnema vuosstij.</p>
-    <p>20. Jus i máhte báhtset ietjat fuolke lusi la dujna rievtesvuohta sierra sujtov ja viehkev oadtjot. Dujna l rievtesvuohta sujtov oadtjot vuohkáj dunji buorren.</p>
-    <p>21. Rijka ma adopsjåvnåv miededi galggi gåhtset vaj adopsjåvnnå riekta manná ja dån gut adopteriduvá buoragit vieso. Rijka agev galggi gähttjat duv buoremussaj.</p>
-    <p>22. Gut báhturin boadá, aktu jali soabmásijn, la rievtesvuohta suojev ja viehkev oadtjot. Dån galga aj viehkev oadtjot fuolkijnat aktanit.</p>
-    <p>23. Gänna l ålgoldis jali sisŋeldis sáhtusvuohta, la rievtesvuohta buorre viessomij. Jur gåk iehtjáda galga mihástallamav ja iesjjáhkov dåbddåt. Dån galga duodajn sebrudagán oassálasstet. Dujna l rievtesvuohta sierra huksuj ja duodde doarjjagij.</p>
-    <p>24. Dujna l rievtesvuohta årrot nåv varres gåk máhttelis. Jus skihppá la dujna rievtesvuohta sujttuj ja hárjjidallamij vaj väddjá. Dujna l aj rievtesvuohta suodjáj árbbedábálasj dábij vuosstij ma vahágahttet máhtti.</p>
-    <p>25. Jus la váldedum suoddjidalátjit jali sujttidalátjit la dujna rievtesvuohta gehtjadahttet giehtadallamav vaj gájkka mij dunji gullu riektá manná.</p>
-    <p>26. Dujna l rievtesvuohta sosiálalasj jasskavuohtaj. Jus la dárbbo de sebrudahka galggá viehkedit årromsajijn, biebmujn ja biktasij.</p>
-    <p>27. Dujna l rievtesvuohta viessot vuogijn mij dunji vaddá máhttelisvuodav åvddånit ålggolis, sissŋelis, vuojŋŋalattjat, morálalattjat ja sosiálalattjat. Duv äjgádijn la oajvveåvdåsvásstádus, valla jus dárbahibá doarjjagav de galggaba dav oadtjot.</p>
-    <p>28. Dujna l rievtesvuohta åhpadussaj. Galga vuodoskåvlåv oadtjot mávso dagi mannat.</p>
-    <p>29. Skåvlån galga oadtjot åvddånit juohkkaláhkáj ja gárvviduvvat åvdåsvásstediddje viessomij friddja sebrudagán. Dån galga aj oahppat duohtan ulmutjij friddja- ja rievtesvuodajt válldet, duv äjgádijt, ietjat ja iehtjádij kultuvrav ja luondov.</p>
-    <p>30. Gut gullu unneplåhkojuohkusij jali álggoálmmugij la rievtesvuohta dan giellaj, kultuvrraj ja religiåvnnåj mav juogá ja aná aktan iehtjádij ietjat juohkusin.</p>
-    <p>31. Dujna l rievtesvuohta asstoájggáj ja vuojŋadibmáj. Dujna l rievtesvuohta oassálasstet kultuvrra- ja dájdadåjmajda.</p>
-    <p>32. Dån galga suoddjiduvvat barggamis dunji vahágis bargoj, ma duv tsaggi skåvlån mannamis jali ietjáláhkáj åvddånimes. I ga oattjo ekonomalattjat ávkken aneduvvat degu jus soames biednigijt oadtju duv bargo åvdås ja iesj mávso dagi sjatta.</p>
-    <p>33. Rijkaj åvdåsvásstádus la duv selgaj ja ietjá drogaj vuosstij suoddjit. Rijka galggi huksat vaj i ávkken aneduvá drogaj dagádijn jali vuobdedijn.</p>
-    <p>34. Dujna l rievtesvuohta suodjáj gájkka seksuálalasj ávkkeadnemij ja seksuálalasj illástimij vuosstij. Dån galga buojkulvissan suoddjiduvvat ávkkeadnemis prostitusjåvnån ja pornografidjan.</p>
-    <p>35. Dån i oattjo doalvvusit ja vuobddasit. Duv rijkka galggá gåhtset vaj nåv ij sjatta.</p>
-    <p>36. Dujna l rievtesvuohta suodjáj gájkka ávkkeadnema vuosstij ma duv vahágahttet máhtti.</p>
-    <p>37. Dån i oattjo tortujra jali ietjá bahás dago åvddåj boahtet. I ga oattjo jábmemstráffaj duobbmidallat jalik viessomájge fáŋŋgaj. Jus mielat vuosstij váldeduvá, fáŋŋgidalá jali sisi lássiduvá de dat viertti maŋemus gäjnnon ja nåv oanegis ájggáj gåk máhttelis. Ålles ájgev galga alvvájn giehtadaláduvvat ja dujna l rievtesvuohta vuornnot ållessjattugij sähkáj biejaduvvamis. Dujna l rievtesvuohta aktavuohtaj ietjat fuolkijn dan ájge gå la fáŋgan ja duv ássje galggá háhppelit giehtadaláduvvat. Duv rievtesvuoda mánnákonvensjåvnå milta aj dunji gulluji vájku la mielat vuosstij sisi lássidum.</p>
-    <p>38. Jus la 15 jage vuollelin galga suoddjiduvvat doarojda oassálasstemis. Jus la dårruj boahttum galga dav suojev ja sujtov oadtjot mav dárbaha.</p>
-    <p>39. Jus la juoŋgalágásj nievres sujto, ávkkeadnema jali illastime vuolláj sjaddam la dujna rievtesvuohta viehkev väddjátjit oadtjot. Gullu dunji aj vájku la tortujra vuolláj sjaddam jali ietjálágásj bahás, håladahtes jali vuollegis giehtadallama ja stráffa vuolláj, jali jus doaron la årrum.</p>
-    <p>40. Jus bahádago åvdås gátteduvá, jali jus gávnni dån la bahádahkuj sivvan, galga alvvájn ja gudnijn giehtadaláduvvat. Fábmudagá ja institusjåvnå gej dujna l aktavuohta rievtesvuohtaprosessa bále, galggi dunji hebadum. Dujna l rievtesvuohta viehkev oadtjot juridijkkatjiehpes. Duv ássjev galggi giehtadallat ruvva máhttelis. Ij aktak duv oattjo bággit giehtutjit mav diedá jali dåbdåstit mav illa dahkam.</p>
-    <p>41. Jus lága ja njuolgadusá ietjat rijkan dunji vaddi ienep jali buorep rievtesvuodajt gå ma dánna mánnákonvensjåvnån tjuodtju, galggi rijka lága ja njuolgadusá tjuovvusit.</p>
-    <p>42. Duv rijkan la åvdåsvásstádus gåhtset vaj goappátjagá máná ja ållessjattuga dåbddi mij mánnákonvensjåvnån tjuodtju.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Mánnákonvensjåvnnå</title><genre code="facta"/><author><unknown/></author><wordcount>1302</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.minoritet.se/1505?file_id=1</origFileName><parallel_text xml:lang="sma" location="maanakonvensjovne.pdf"/><parallel_text xml:lang="sme" location="manaidkonvensuvdna.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Mánnákonvensjåvnnå</p>
+<p xml:lang="swe">Barnkonventionen på lulesamiska – för barn och ungdomar</p>
+<p>AN:a konvensjåvnnå máná rievtesvuodaj birra, jali mánnákonvensjåvnnå gåk dav aj gåhttju, biejaduváj 1989. Mánnákonvensjåvnån li rievtesvuoda majt juohkka mánná galggá adnet ja gullu gájkajda 18 jage rádjáj gudi årru jali li rijkan. Mánnákonvensjåvnån gåhttju de goappátjagá mánájt ja nuorajt mánnán.</p>
+<p>Svierik hähttu dahkat buoremusát máhttá vaj mij mánnákonvensjåvnån tjuodtju galggá duohtan sjaddat. Buojkulvissan vierttiji Svieriga ietjas lága ja njuolgadusá avtaárvulattja årrot rievtesvuodaj konvensjåvnån. Svierik galggá gåhtset vaj mánáj rievtesvuoda e vadjáluvá ájnat duohtan váldeduvvi juohkka sajen sebrudagán, juohkka biejve. Ráddidus aj galggá huksat vaj goappátjagá máná ja ållessjattuga oadtju diehtet makkár rievtesvuoda siján li.</p>
+<p>Rievtesvuoda tjuodtju sierra biehkijn gåhtjodum artihkkalin. Gávnnuji 54 artihkkala mánnákonvensjåvnån ja 41 giehtadi rievtesvuodajt. Báhtsem artihkkala giehtadi gåk rijka galggi mánnákonvensjåvnåjn barggat.</p>
+<p>Artihkkalijt 2, 3, 6 ja 12 gåhttju mánnákonvensjåvnå oajvveprinsijppan. Da viehkedi duv nuppijt artihkkalijt dádjadit. Gájkka artihkkala mánnákonvensjåvnån aktan gulluji.</p>
+<p>MÁNNÁKONVENSJÅVNNÅ</p>
+<p>1. Mánnákonvensjåvnnå gullu dunji 18 jage vuollelin. Mánnákonvensjåvnnå gåhttju goappátjagá mánájt ja nuorajt <span type="quote">”mánnán”</span>.</p>
+<p>2. Mánnákonvensjåvnnå dunji ja gájkka ietjá mánájda vaddá avta rievtesvuodajt ja avta árvov. Ij aktak duv oattjo nuppástit. Dat mierkki ij aktak duv oattjo nievrebut iehtjádis giehtadallat. Dån i ga oattjo nuppástaláduvvat jali stráffuduvvat masstak majt duv äjgáda libá dahkam jali dahkaba.</p>
+<p>3. Gå ållessjattuga mierredi mánáj birra de galggi gåhtset <span type="quote">”máná buoremusáv”</span>. Dat mierkki ållessjattuga agev galggi ussjolit mij la dunji buorre ja gåk märrádus dunji guosská. Dån galgá dav suojev ja huvsov oadtjot mav dárbaha. Avta ájnas la ållessjattuga ájádalli <span type="quote">”máná buoremussaj”</span> gå märrádus ållo mánájda guosská.</p>
+<p>4. Gájkka rijka galggi dahkat mij la máhttelis rievtesvuodajt mánnákonvensjåvnån tjadádittjat. Dat mierkki sij agev galggi gähttjalit dav tjuovvot mij mánnákonvensjåvnån tjuodtju.</p>
+<p>5. Duv äjgáda duv åvdås vásstedibá. Såj galggaba dunji rádijt vaddet gå dagá dakkárijt masi mánnákonvensjåvnnå dunji rievtesvuodav vaddá.</p>
+<p>6. Dujna l rievtesvuohta viessot ja åvddånit. Duv rijkka galggá dahkat gájkka majt máhttá vaj nåv sjaddá.</p>
+<p>7. Dujna l rievtesvuohta namáv oadtjot ja rijka viesát årrot. Dujna l aj rievtesvuohta guhkás máhttelis diehtet gudi duv äjgáda libá ja sunnu huvso vuolláj boahtet.</p>
+<p>8. Dujna l rievtesvuohta ietjat identitähttaj. Identitähttaj gullu duv viesádimvuohta ietjat rijkan, duv namma ja duv berajvuohta. Jus la duv identitähtta váldedum, galga viehkev oadtjot dav åtsådittjat.</p>
+<p>9. Ij aktak duv oattjo sieradit ietjat äjgádijs, ietján gå la dárbbo ietjat diehti. Máhttá buojkulvissan dárbbo jus äjgáda duv äbá buoragit huvsa. Dujna l rievtesvuohta iejvvit goappásj äjgádijt jus ij dunji la nievrre.</p>
+<p>10. Jus dån ja duv äjgáda sihtabihtit iejvvidit vat maŋŋela gå lihpit sierra årrum máhttebihtit viehkev åhtsåt ja guhkás máhttelis viehkev oadtjot dan rijkan gånnå åro. Jus duv äjgáda årroba sierra rijkajn ja dij sihtabihtit iejvvidit galggá dat rijkka gånnå åro duv viehkedit.</p>
+<p>11. Duv ij oattjo ietjá rijkkaj doalvvot goappásj äjgádij loabe dagi.</p>
+<p>12. Dujna l rievtesvuohta ietjat vuojnojt vaddet juohkka ássjen mij dunji guosská. Ållessjattuga galggi gulldalit ja duv vuojnojt berustit. Gå fábmudahka jali duobbmoståvllå giehtadallá jali mierret ássjen mij dunji guosská galga máhttet ságajda boahtet.</p>
+<p>13. Dujna l moalggemfriddjavuohta. Dat mierkki dujna l rievtesvuohta åhtsåt, duosstot ja diedojt ja ájádusájt hádjet.</p>
+<p>14. Dujna l rievtesvuohta usjudallat ja adnet makkár vuojnov sidá. Dujna l rievtesvuohta ietjat jáhkkuj ja adnet makkár religiåvnåv sidá. Duv äjgáda oadtjoba duv lájddit, valla äbá goassak duv ájádusáj badjel mierredit.</p>
+<p>15. Dujna l rievtesvuohta sebrulattjan siebrijn årrot ja válljit siebrijs ålgus mannat. Dån aj oattjo tjåhkanimijda säbrrat guhkev li ráfálattja.</p>
+<p>16. Dujna l rievtesvuohta suoddjiduvvat lágadis nággimis ietjat priváhtta iellemin juogu de hejman jali gånnå åro ja gånnå la. Ij aktak oattjo buojkulvissan duv brevajt ja biejvvegirjijt loabe dagi låhkåt. Gullu aj gájkka ietjá vidjurijda gå diedo duv birra giehtadaláduvvi. Ij aktak ga oattjo duv gudnev jalik namáv vahágahttet. Láhka galggá duv garrasit suoddjit gájkka dakkár nággimij vuosstij.</p>
+<p>17. Dujna l rievtesvuohta oadtjot diehtet gåk duv rijkan ja väráldin la, vuogijn mav dádjada, degu dal tidnigij ja tv:a baktu. Da diedo majt oattjo, galggi duv viehkedit åvddånit ja varres viessomav adnet.</p>
+<p>18. Duv äjgádijn la aktisasj vásstádus duv bajássjaddama ja åvddånime åvdås. Galggaba ussjolit mij dunji buoremus la. Jus duv äjgáda doarjjagav dárbahibá galggá sebrudahka huksat vaj dårja gávnnu oadtjot, buojkulvissan sujtto ja biejvveårrom.</p>
+<p>19. Dujna l rievtesvuohta suodjáj gájklágásj ålgoldis jali sisŋeldis bahádago, nievres sujto, tsábbmema, illastime jali ietjá ávkkeadnema vuosstij.</p>
+<p>20. Jus i máhte báhtset ietjat fuolke lusi la dujna rievtesvuohta sierra sujtov ja viehkev oadtjot. Dujna l rievtesvuohta sujtov oadtjot vuohkáj dunji buorren.</p>
+<p>21. Rijka ma adopsjåvnåv miededi galggi gåhtset vaj adopsjåvnnå riekta manná ja dån gut adopteriduvá buoragit vieso. Rijka agev galggi gähttjat duv buoremussaj.</p>
+<p>22. Gut báhturin boadá, aktu jali soabmásijn, la rievtesvuohta suojev ja viehkev oadtjot. Dån galga aj viehkev oadtjot fuolkijnat aktanit.</p>
+<p>23. Gänna l ålgoldis jali sisŋeldis sáhtusvuohta, la rievtesvuohta buorre viessomij. Jur gåk iehtjáda galga mihástallamav ja iesjjáhkov dåbddåt. Dån galga duodajn sebrudagán oassálasstet. Dujna l rievtesvuohta sierra huksuj ja duodde doarjjagij.</p>
+<p>24. Dujna l rievtesvuohta årrot nåv varres gåk máhttelis. Jus skihppá la dujna rievtesvuohta sujttuj ja hárjjidallamij vaj väddjá. Dujna l aj rievtesvuohta suodjáj árbbedábálasj dábij vuosstij ma vahágahttet máhtti.</p>
+<p>25. Jus la váldedum suoddjidalátjit jali sujttidalátjit la dujna rievtesvuohta gehtjadahttet giehtadallamav vaj gájkka mij dunji gullu riektá manná.</p>
+<p>26. Dujna l rievtesvuohta sosiálalasj jasskavuohtaj. Jus la dárbbo de sebrudahka galggá viehkedit årromsajijn, biebmujn ja biktasij.</p>
+<p>27. Dujna l rievtesvuohta viessot vuogijn mij dunji vaddá máhttelisvuodav åvddånit ålggolis, sissŋelis, vuojŋŋalattjat, morálalattjat ja sosiálalattjat. Duv äjgádijn la oajvveåvdåsvásstádus, valla jus dárbahibá doarjjagav de galggaba dav oadtjot.</p>
+<p>28. Dujna l rievtesvuohta åhpadussaj. Galga vuodoskåvlåv oadtjot mávso dagi mannat.</p>
+<p>29. Skåvlån galga oadtjot åvddånit juohkkaláhkáj ja gárvviduvvat åvdåsvásstediddje viessomij friddja sebrudagán. Dån galga aj oahppat duohtan ulmutjij friddja- ja rievtesvuodajt válldet, duv äjgádijt, ietjat ja iehtjádij kultuvrav ja luondov.</p>
+<p>30. Gut gullu unneplåhkojuohkusij jali álggoálmmugij la rievtesvuohta dan giellaj, kultuvrraj ja religiåvnnåj mav juogá ja aná aktan iehtjádij ietjat juohkusin.</p>
+<p>31. Dujna l rievtesvuohta asstoájggáj ja vuojŋadibmáj. Dujna l rievtesvuohta oassálasstet kultuvrra- ja dájdadåjmajda.</p>
+<p>32. Dån galga suoddjiduvvat barggamis dunji vahágis bargoj, ma duv tsaggi skåvlån mannamis jali ietjáláhkáj åvddånimes. I ga oattjo ekonomalattjat ávkken aneduvvat degu jus soames biednigijt oadtju duv bargo åvdås ja iesj mávso dagi sjatta.</p>
+<p>33. Rijkaj åvdåsvásstádus la duv selgaj ja ietjá drogaj vuosstij suoddjit. Rijka galggi huksat vaj i ávkken aneduvá drogaj dagádijn jali vuobdedijn.</p>
+<p>34. Dujna l rievtesvuohta suodjáj gájkka seksuálalasj ávkkeadnemij ja seksuálalasj illástimij vuosstij. Dån galga buojkulvissan suoddjiduvvat ávkkeadnemis prostitusjåvnån ja pornografidjan.</p>
+<p>35. Dån i oattjo doalvvusit ja vuobddasit. Duv rijkka galggá gåhtset vaj nåv ij sjatta.</p>
+<p>36. Dujna l rievtesvuohta suodjáj gájkka ávkkeadnema vuosstij ma duv vahágahttet máhtti.</p>
+<p>37. Dån i oattjo tortujra jali ietjá bahás dago åvddåj boahtet. I ga oattjo jábmemstráffaj duobbmidallat jalik viessomájge fáŋŋgaj. Jus mielat vuosstij váldeduvá, fáŋŋgidalá jali sisi lássiduvá de dat viertti maŋemus gäjnnon ja nåv oanegis ájggáj gåk máhttelis. Ålles ájgev galga alvvájn giehtadaláduvvat ja dujna l rievtesvuohta vuornnot ållessjattugij sähkáj biejaduvvamis. Dujna l rievtesvuohta aktavuohtaj ietjat fuolkijn dan ájge gå la fáŋgan ja duv ássje galggá háhppelit giehtadaláduvvat. Duv rievtesvuoda mánnákonvensjåvnå milta aj dunji gulluji vájku la mielat vuosstij sisi lássidum.</p>
+<p>38. Jus la 15 jage vuollelin galga suoddjiduvvat doarojda oassálasstemis. Jus la dårruj boahttum galga dav suojev ja sujtov oadtjot mav dárbaha.</p>
+<p>39. Jus la juoŋgalágásj nievres sujto, ávkkeadnema jali illastime vuolláj sjaddam la dujna rievtesvuohta viehkev väddjátjit oadtjot. Gullu dunji aj vájku la tortujra vuolláj sjaddam jali ietjálágásj bahás, håladahtes jali vuollegis giehtadallama ja stráffa vuolláj, jali jus doaron la årrum.</p>
+<p>40. Jus bahádago åvdås gátteduvá, jali jus gávnni dån la bahádahkuj sivvan, galga alvvájn ja gudnijn giehtadaláduvvat. Fábmudagá ja institusjåvnå gej dujna l aktavuohta rievtesvuohtaprosessa bále, galggi dunji hebadum. Dujna l rievtesvuohta viehkev oadtjot juridijkkatjiehpes. Duv ássjev galggi giehtadallat ruvva máhttelis. Ij aktak duv oattjo bággit giehtutjit mav diedá jali dåbdåstit mav illa dahkam.</p>
+<p>41. Jus lága ja njuolgadusá ietjat rijkan dunji vaddi ienep jali buorep rievtesvuodajt gå ma dánna mánnákonvensjåvnån tjuodtju, galggi rijka lága ja njuolgadusá tjuovvusit.</p>
+<p>42. Duv rijkan la åvdåsvásstádus gåhtset vaj goappátjagá máná ja ållessjattuga dåbddi mij mánnákonvensjåvnån tjuodtju.</p>
+</body></document>

@@ -1,58 +1,22 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>223</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/AAhpadus/Manajgarde</origFileName>
-    <parallel_text xml:lang="sma" location="maanagierte.html"/>
-    <parallel_text xml:lang="sme" location="manaidgardi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Mánájgárde / Åhpadus / Sámedigge - Sametinget</p>
-    <p>Åtså biednikdårjav</p>
-    <p type="title">Mánájgárde</p>
-    <p>Sáme mánájgárdde le mánájgárdde sáme mánáj ja sáme mánájda. Mánnágárdde gånnå le sámegiella doajmmagiellan, ja sierra dættojn sáme kultuvrraj. Dæddo le aj biejaduvvam máhttet sáme giellaåhpadusáv buktet dajda mánájgárdijda gånnå li dárbo.</p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="nob">Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="nob">Nordre</p>
-    <p>Gájkka sáme mánájn le rievtesvuoda mánájgárddefálaldagájda ma ietjasa kultuvrav ja gielav vieledi. Sámedigge rahtjá vaj mánájgárde galggi nahkat sámemánájda vaddet buorre fálaldagáv mij sijá gielav ja kultuvrav vielet.</p>
-    <p>
-      <em type="bold">Sámediggeráde ájggu barggat nav vaj: </em>
-    </p>
-    <list>
-      <p type="listitem">Nannit ja åvddånahttet sáme mánájgárde mánáj gielav, kultuvrav ja iesjdåbdov.</p>
-      <p type="listitem">Lasedit sámegielak mánájgárddebarggij rekrutterimav</p>
-    </list>
-    <p>Nannusamos vájkkudimnævvo sáme mánájgárddemánáj gielav ja kultuvrav nannitjit le ruhtadoarjja mánájgárdijda. Sámedikken li aj stipænndaårniga, ierit ietján rekrutteritjit sámegielak barggijt mánájgárdijda. Stipenda máhtti vatteduvvat oahppijda joarkkaskåvlåjda, ja studentajda allaskåvlåjn ja universitehtajn. Sámedigge ásat værmádaktjåhkanimijt barggijda sáme mánájgárdijn, vattátjit kvalitehta åvddånahttemav ja máhttolåpptimav. Sámedigge vaddá aj sáme åhpadusáj bagádallamav mánájgárddesuorgen.</p>
-    <p>Sámedikken li moadda aktisasj barggoguojme ma barggi jåvsåtjit mijá ulmijt.</p>
-    <p>Mánájgárdij Æjgátnammadus</p>
-    <p>Máhttodepartemænnta</p>
-    <p>Åhpadusdirektoráhtta</p>
-    <p>Fylkkamánne</p>
-    <p>Miján le aj lahka aktisasjbarggo ájnegis suohkanij. Suohkanijn le åvdåsvásstádus jut mánájgárde vaddi buorre fálaldagájt sámegielan ja kulturåhpadusán. Suohkana li aj mánájgárdij bærrájgæhttje, priváhta mánájgárdij gáktuj aj. Sámedikken li aj aktijvuoda ájnegis mánájgárdij, ja ietjá mánájgárddeæjgádij ietján gå suohkanij.</p>
-    <p>Fylkamánne åvdåsvásstádussan le suohkanijt ja ietjá mánájgárddeæjgádijt bagádallat, ja oatsodit jus suohkana dahki gájbbeduvvam bargov.</p>
-    <list/>
-    <p xml:lang="nob">
-      <span type="quote" xml:lang="nob">En samisk barnehage er en barnehage for og med samiske barn.</span>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>223</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/AAhpadus/Manajgarde</origFileName><parallel_text xml:lang="sma" location="maanagierte.html"/><parallel_text xml:lang="sme" location="manaidgardi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Mánájgárde / Åhpadus / Sámedigge - Sametinget</p>
+<p>Åtså biednikdårjav</p>
+<p type="title">Mánájgárde</p>
+<p>Sáme mánájgárdde le mánájgárdde sáme mánáj ja sáme mánájda. Mánnágárdde gånnå le sámegiella doajmmagiellan, ja sierra dættojn sáme kultuvrraj. Dæddo le aj biejaduvvam máhttet sáme giellaåhpadusáv buktet dajda mánájgárdijda gånnå li dárbo.</p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="nob">Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="nob">Nordre</p>
+<p>Gájkka sáme mánájn le rievtesvuoda mánájgárddefálaldagájda ma ietjasa kultuvrav ja gielav vieledi. Sámedigge rahtjá vaj mánájgárde galggi nahkat sámemánájda vaddet buorre fálaldagáv mij sijá gielav ja kultuvrav vielet.</p>
+<p><em type="bold">Sámediggeráde ájggu barggat nav vaj: </em></p>
+<list><p type="listitem">Nannit ja åvddånahttet sáme mánájgárde mánáj gielav, kultuvrav ja iesjdåbdov.</p>
+<p type="listitem">Lasedit sámegielak mánájgárddebarggij rekrutterimav</p>
+</list><p>Nannusamos vájkkudimnævvo sáme mánájgárddemánáj gielav ja kultuvrav nannitjit le ruhtadoarjja mánájgárdijda. Sámedikken li aj stipænndaårniga, ierit ietján rekrutteritjit sámegielak barggijt mánájgárdijda. Stipenda máhtti vatteduvvat oahppijda joarkkaskåvlåjda, ja studentajda allaskåvlåjn ja universitehtajn. Sámedigge ásat værmádaktjåhkanimijt barggijda sáme mánájgárdijn, vattátjit kvalitehta åvddånahttemav ja máhttolåpptimav. Sámedigge vaddá aj sáme åhpadusáj bagádallamav mánájgárddesuorgen.</p>
+<p>Sámedikken li moadda aktisasj barggoguojme ma barggi jåvsåtjit mijá ulmijt.</p>
+<p>Mánájgárdij Æjgátnammadus</p>
+<p>Máhttodepartemænnta</p>
+<p>Åhpadusdirektoráhtta</p>
+<p>Fylkkamánne</p>
+<p>Miján le aj lahka aktisasjbarggo ájnegis suohkanij. Suohkanijn le åvdåsvásstádus jut mánájgárde vaddi buorre fálaldagájt sámegielan ja kulturåhpadusán. Suohkana li aj mánájgárdij bærrájgæhttje, priváhta mánájgárdij gáktuj aj. Sámedikken li aj aktijvuoda ájnegis mánájgárdij, ja ietjá mánájgárddeæjgádij ietján gå suohkanij.</p>
+<p>Fylkamánne åvdåsvásstádussan le suohkanijt ja ietjá mánájgárddeæjgádijt bagádallat, ja oatsodit jus suohkana dahki gájbbeduvvam bargov.</p>
+<list/><p xml:lang="nob"><span type="quote" xml:lang="nob">En samisk barnehage er en barnehage for og med samiske barn.</span></p>
+</body></document>

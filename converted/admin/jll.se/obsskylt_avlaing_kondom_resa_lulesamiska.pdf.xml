@@ -1,46 +1,8 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>43</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://jll.se/download/18.420a58c9144917fddc910fd/1394722479655/Obsskylt+avla%CC%8Ang+kondom+resa+Lulesamiska.pdf</origFileName>
-    <parallel_text xml:lang="eng" location="obsskylt_avlaing_kondom_resa_engelska.pdf"/>
-    <parallel_text xml:lang="fin" location="obsskylt_avlaing_kondom_resa_finska.pdf"/>
-    <parallel_text xml:lang="rus" location="obsskylt_avlaing_kondom_resa_ryska.pdf"/>
-    <parallel_text xml:lang="sma" location="obsskylt_avlaing_kondom_resa_sydsamiska.pdf"/>
-    <parallel_text xml:lang="sme" location="obsskylt_avlaing_kondom_resa_nordsamiska.pdf"/>
-    <parallel_text xml:lang="swe" location="obsskylt_avlaing_kondom_resa.pdf"/>
-    <parallel_text location="obsskylt_avlaing_kondom_resa_arabiska.pdf" xml:lang="ara"/>
-    <parallel_text location="obsskylt_avlaing_kondom_resa_italienska.pdf" xml:lang="ita"/>
-    <parallel_text location="obsskylt_avlaing_kondom_resa_franska.pdf" xml:lang="fra"/>
-    <parallel_text location="obsskylt_avlaing_kondom_resa_persiska.pdf" xml:lang="fas"/>
-    <parallel_text location="obsskylt_avlaing_kondom_resa_spanska.pdf" xml:lang="spa"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p><em type="bold">Akta goassa akta mij sjaddá. </em>Ale vajálduhte ietjat suoddjit hivaj, </p>
-    <p>hepatijttaj B, gonorréaj ja ietjá seksualalasj sirdedahtes infek</p>
-    <p>sjåvnåjda dan bále gå l ålggorijkan.</p>
-    <p>Válde agev maŋen ietjat kondomajt mannuj. Máhttá vájvve kondomajt åttjudit/oasstet ietjá rijkajn.</p>
-    <p><em type="bold">Hávsskes manno!</em> </p>
-    <p>Aktijbargon iesjmiedogisorganisasjåvnåj</p>
-    <p>
-      <em type="bold">Ienep diededibmev oattjo: </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>43</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://jll.se/download/18.420a58c9144917fddc910fd/1394722479655/Obsskylt+avla%CC%8Ang+kondom+resa+Lulesamiska.pdf</origFileName><parallel_text xml:lang="eng" location="obsskylt_avlaing_kondom_resa_engelska.pdf"/><parallel_text xml:lang="fin" location="obsskylt_avlaing_kondom_resa_finska.pdf"/><parallel_text xml:lang="rus" location="obsskylt_avlaing_kondom_resa_ryska.pdf"/><parallel_text xml:lang="sma" location="obsskylt_avlaing_kondom_resa_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="obsskylt_avlaing_kondom_resa_nordsamiska.pdf"/><parallel_text xml:lang="swe" location="obsskylt_avlaing_kondom_resa.pdf"/><parallel_text location="obsskylt_avlaing_kondom_resa_arabiska.pdf" xml:lang="ara"/><parallel_text location="obsskylt_avlaing_kondom_resa_italienska.pdf" xml:lang="ita"/><parallel_text location="obsskylt_avlaing_kondom_resa_franska.pdf" xml:lang="fra"/><parallel_text location="obsskylt_avlaing_kondom_resa_persiska.pdf" xml:lang="fas"/><parallel_text location="obsskylt_avlaing_kondom_resa_spanska.pdf" xml:lang="spa"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Akta goassa akta mij sjaddá. </em>Ale vajálduhte ietjat suoddjit hivaj, </p>
+<p>hepatijttaj B, gonorréaj ja ietjá seksualalasj sirdedahtes infek</p>
+<p>sjåvnåjda dan bále gå l ålggorijkan.</p>
+<p>Válde agev maŋen ietjat kondomajt mannuj. Máhttá vájvve kondomajt åttjudit/oasstet ietjá rijkajn.</p>
+<p><em type="bold">Hávsskes manno!</em> </p>
+<p>Aktijbargon iesjmiedogisorganisasjåvnåj</p>
+<p><em type="bold">Ienep diededibmev oattjo: </em></p>
+</body></document>

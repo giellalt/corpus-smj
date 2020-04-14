@@ -1,54 +1,16 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>522</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Samediggeviesso/Arkitektonalasj-moallanahka</origFileName>
-    <parallel_text xml:lang="nob" location="arkitektonisk-uttrykk.html"/>
-    <parallel_text xml:lang="sma" location="arkitektovneles-guelmie.html"/>
-    <parallel_text xml:lang="sme" location="arkitektonalas-bealli.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Arkitektonalasj moallánahka / Sámediggeviesso / Sámmedikke birra / Sámedigge - Sametinget</p>
-    <p type="title">Arkitektonalasj moallánahka</p>
-    <p>Vijdes duoddara gárttjádisáj dagá lij vuodon válldet gárdev tiebmán. Sassne jali siejnne ráddji ja suoddji divna dåjmajt vieson, siejne gárddu ja ulmutjijt tjoahkkiji.</p>
-    <p>Madin ilmme doarges tjoasskemis galmma tjuovgan, galggi ulmutja dåbddåt lieggasav ja suodjalimev sinna. Ålles viesso galggá vuosedit sisbielev mij le tjielggasit ráddjidum garra luondos, tjoasskemis ja muohttagis. Matematihkalasj geometrija le tjielgas ja vaddá viessuj ánssidum værddogisvuodav ja stuorravuodav. Vinjogis ålggosiejnne, gárdde, badján njuolgga dagŋasis, spálkodum gåbtjås ájádusájt tjadná sassnáj, jali loavddagij mij biejaduvvá birra.</p>
-    <p>Dav tjielgas rájáv ålgusjbiele ja sisbiele gaskan li gæhttjalam nannit gå tjáŋa njuolgga goahtáj, sieradus ålgusjbieles sisbælláj le sæmmi tjielgas dagu låvdagoaden. Gå sisi boadá de interiørra vuojnnusij boahtá, ja ælvá vuobmanav sæmmi láhkáj ja sæmmi tjielggasit dagu ælvá vuobmanav låvdagoaden. Dievastjåhkanimladnja, girjjevuorkká, vájaldimhálla, tjåhkanimlanjájt vuojná, ja aj oasse ålgusjbieles dåbddu oassen interiøras. </p>
-    <p>
-      <em type="bold">Vájaldimhálla </em>
-    </p>
-    <p>Vájaldimhálla tjadná dajt iesjgeŋgalágásj dåjmajt akti, sæmmi båttå gå vájaldimhálla le goade ájnnasamos ladnja. Dássta vuojná divna dåjmajt, juohkka ietjá ulmutjav ja luondujn aktijvuodav oattjo. Da iehpeformálalasj, valla ájnas ságastallama máhtti dán lanján tjadáduvvat, mij geometrija diehti dádjaduvvá vájaldimoassen avta gietjen, valla gå boadá lagábut dievastjåhkanimlanjá de gåbddu, ja váttsáldahka sjaddá rabás ja tjáppa ladnjan sajijn stuoráp tjoahkkijda ulmutjijs.</p>
-    <p>Vájaldimhálla buohta le rabás gallerija nuppát etásjan, dássta le guovladahka rabás ladnjaj ålggon, duoddarijda, girjjevuorkkáj ja dievastjåhkanimladnjaj. Sámedikken li dálla dievastjåhkanime niellji jahkáj, dájn vahkujn tjåhkani ájrrasa divna guovlojs ja li gárvvunam iesjgeŋgalágásj sierra bájnos gáptijdisá. Dat gievledis vájaldimhálla ja da rabás interiøra li dagu rabás siedna, divna vuojnni nubbe nuppev ja da – guovte láhkáj – bájnos ulmutja rievddadi goadev moattebájnuk ja viesso siednaj vuosstebiellen vijdes duobddágijda ålgusjbielen.</p>
-    <p>
-      <em type="bold">Hiervvidibme </em>
-    </p>
-    <p>Skierroj nanna vájaldimhállan le dájddár Kristin Ytreberg sierra ja tjáppa láhkáj biedjam sáme báhkovádjasijt danijn ja metálla-návlij. Dá tjuodtju dagu bajedum gåvå biehtsepanela vuossti, ja målssu vuogev gå biejvve vájalt dan gievllelasj goade birra, ja tjuovgga moatteláhkáj siejnev dæjvvá. Mujteduvvá vijsesvuodabágojt, ma li ájnnasa sáme kultuvran, åvddål tjágŋá dievastjåhkanimladnjaj ja mássjelit ja tjielggasit ietjas vuojnov åvdet.</p>
-    <p>Dievastjåhkanimladnja le sierra vuobman tjanádum aktij oajvvegådijn loavdedum råvijn. Sámedikke ájlis ladnja, dievastjåhkanimladnja, åvdeduvvá dan oalle ladnjan gåk galggá, dåbedum gájkka ietjá jutsás – aj visualalattjat. Ladnja le ållu vinndegij dagi man tjadá máhtá luodov vuojnnet, vinndek badjen buktá galla dav sierra tjuovgav ladnjaj, ja vájkkut ilmev, vájku le biejvve idjaguovddela jali gåmo sjævnnjat guovsagisájn libudime badjen. Smáv låhkåmlámpo juohkka ájrrasa bievden ráddjij dajt smávva priváhta vuobmanijt dan vuobmalis lanján. Tsiekkadus iesj le vinjok tjubuk mij ienebuv sieradahttá nálajt mij hábbmit sajev ja jalgudagáv gånnå tjuovgga sisi bæssá. </p>
-    <p>
-      <em type="bold">Luotta </em>
-    </p>
-    <p>Dájddár Hilde Schanke Pedersen le hiervvidum dav stuorra betoaŋŋaskierrov alvos abstrákta gåvåjn gånnå emálja ja bládegålle li stuorra sinkpláhttaj biejadum. Gåvvå tjielggasit mielav tjadná sáme kultuvrraj, ja juska le fábmogis, de ij le ilá tjierggat lanján, valla farra vaddá ladnjaj hámev ja ájn ienep oavdos vuogev.</p>
-    <p>
-      <em type="bold">Girjjevuorkká </em>
-    </p>
-    <p>Girjjevuorkká le låptå lágásj ja tjanáduvvá ålggoladnjaj stuorra glássarahpamij oarjás, gallerijan badjen gávnnuji moadda girjjehilldo girjijs dievva. Gå goahtáj tjáŋa de dát sieldes ladnja rabáduvvá, girje lanjáv dievddi, madi dievastjåhkanimlanjáv vuojná stuorra glássarahpama tjadá. Låhkåmsaje vinndegij milta bivddi låhkåmij dagu rabás muŋŋkasælla. Tjalmme bæssá vuojŋadit dan sjávos luondon, madi dahpadum muŋŋkacella låhkåmij li biejadum hiebalgis láhkáj gallerijan.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>522</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Samediggeviesso/Arkitektonalasj-moallanahka</origFileName><parallel_text xml:lang="nob" location="arkitektonisk-uttrykk.html"/><parallel_text xml:lang="sma" location="arkitektovneles-guelmie.html"/><parallel_text xml:lang="sme" location="arkitektonalas-bealli.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Arkitektonalasj moallánahka / Sámediggeviesso / Sámmedikke birra / Sámedigge - Sametinget</p>
+<p type="title">Arkitektonalasj moallánahka</p>
+<p>Vijdes duoddara gárttjádisáj dagá lij vuodon válldet gárdev tiebmán. Sassne jali siejnne ráddji ja suoddji divna dåjmajt vieson, siejne gárddu ja ulmutjijt tjoahkkiji.</p>
+<p>Madin ilmme doarges tjoasskemis galmma tjuovgan, galggi ulmutja dåbddåt lieggasav ja suodjalimev sinna. Ålles viesso galggá vuosedit sisbielev mij le tjielggasit ráddjidum garra luondos, tjoasskemis ja muohttagis. Matematihkalasj geometrija le tjielgas ja vaddá viessuj ánssidum værddogisvuodav ja stuorravuodav. Vinjogis ålggosiejnne, gárdde, badján njuolgga dagŋasis, spálkodum gåbtjås ájádusájt tjadná sassnáj, jali loavddagij mij biejaduvvá birra.</p>
+<p>Dav tjielgas rájáv ålgusjbiele ja sisbiele gaskan li gæhttjalam nannit gå tjáŋa njuolgga goahtáj, sieradus ålgusjbieles sisbælláj le sæmmi tjielgas dagu låvdagoaden. Gå sisi boadá de interiørra vuojnnusij boahtá, ja ælvá vuobmanav sæmmi láhkáj ja sæmmi tjielggasit dagu ælvá vuobmanav låvdagoaden. Dievastjåhkanimladnja, girjjevuorkká, vájaldimhálla, tjåhkanimlanjájt vuojná, ja aj oasse ålgusjbieles dåbddu oassen interiøras. </p>
+<p><em type="bold">Vájaldimhálla </em></p>
+<p>Vájaldimhálla tjadná dajt iesjgeŋgalágásj dåjmajt akti, sæmmi båttå gå vájaldimhálla le goade ájnnasamos ladnja. Dássta vuojná divna dåjmajt, juohkka ietjá ulmutjav ja luondujn aktijvuodav oattjo. Da iehpeformálalasj, valla ájnas ságastallama máhtti dán lanján tjadáduvvat, mij geometrija diehti dádjaduvvá vájaldimoassen avta gietjen, valla gå boadá lagábut dievastjåhkanimlanjá de gåbddu, ja váttsáldahka sjaddá rabás ja tjáppa ladnjan sajijn stuoráp tjoahkkijda ulmutjijs.</p>
+<p>Vájaldimhálla buohta le rabás gallerija nuppát etásjan, dássta le guovladahka rabás ladnjaj ålggon, duoddarijda, girjjevuorkkáj ja dievastjåhkanimladnjaj. Sámedikken li dálla dievastjåhkanime niellji jahkáj, dájn vahkujn tjåhkani ájrrasa divna guovlojs ja li gárvvunam iesjgeŋgalágásj sierra bájnos gáptijdisá. Dat gievledis vájaldimhálla ja da rabás interiøra li dagu rabás siedna, divna vuojnni nubbe nuppev ja da – guovte láhkáj – bájnos ulmutja rievddadi goadev moattebájnuk ja viesso siednaj vuosstebiellen vijdes duobddágijda ålgusjbielen.</p>
+<p><em type="bold">Hiervvidibme </em></p>
+<p>Skierroj nanna vájaldimhállan le dájddár Kristin Ytreberg sierra ja tjáppa láhkáj biedjam sáme báhkovádjasijt danijn ja metálla-návlij. Dá tjuodtju dagu bajedum gåvå biehtsepanela vuossti, ja målssu vuogev gå biejvve vájalt dan gievllelasj goade birra, ja tjuovgga moatteláhkáj siejnev dæjvvá. Mujteduvvá vijsesvuodabágojt, ma li ájnnasa sáme kultuvran, åvddål tjágŋá dievastjåhkanimladnjaj ja mássjelit ja tjielggasit ietjas vuojnov åvdet.</p>
+<p>Dievastjåhkanimladnja le sierra vuobman tjanádum aktij oajvvegådijn loavdedum råvijn. Sámedikke ájlis ladnja, dievastjåhkanimladnja, åvdeduvvá dan oalle ladnjan gåk galggá, dåbedum gájkka ietjá jutsás – aj visualalattjat. Ladnja le ållu vinndegij dagi man tjadá máhtá luodov vuojnnet, vinndek badjen buktá galla dav sierra tjuovgav ladnjaj, ja vájkkut ilmev, vájku le biejvve idjaguovddela jali gåmo sjævnnjat guovsagisájn libudime badjen. Smáv låhkåmlámpo juohkka ájrrasa bievden ráddjij dajt smávva priváhta vuobmanijt dan vuobmalis lanján. Tsiekkadus iesj le vinjok tjubuk mij ienebuv sieradahttá nálajt mij hábbmit sajev ja jalgudagáv gånnå tjuovgga sisi bæssá. </p>
+<p><em type="bold">Luotta </em></p>
+<p>Dájddár Hilde Schanke Pedersen le hiervvidum dav stuorra betoaŋŋaskierrov alvos abstrákta gåvåjn gånnå emálja ja bládegålle li stuorra sinkpláhttaj biejadum. Gåvvå tjielggasit mielav tjadná sáme kultuvrraj, ja juska le fábmogis, de ij le ilá tjierggat lanján, valla farra vaddá ladnjaj hámev ja ájn ienep oavdos vuogev.</p>
+<p><em type="bold">Girjjevuorkká </em></p>
+<p>Girjjevuorkká le låptå lágásj ja tjanáduvvá ålggoladnjaj stuorra glássarahpamij oarjás, gallerijan badjen gávnnuji moadda girjjehilldo girjijs dievva. Gå goahtáj tjáŋa de dát sieldes ladnja rabáduvvá, girje lanjáv dievddi, madi dievastjåhkanimlanjáv vuojná stuorra glássarahpama tjadá. Låhkåmsaje vinndegij milta bivddi låhkåmij dagu rabás muŋŋkasælla. Tjalmme bæssá vuojŋadit dan sjávos luondon, madi dahpadum muŋŋkacella låhkåmij li biejadum hiebalgis láhkáj gallerijan.</p>
+</body></document>

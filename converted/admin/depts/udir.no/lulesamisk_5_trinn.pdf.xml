@@ -1,72 +1,49 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>560</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.udir.no/globalassets/filer/vurdering/nasjonaleprover/lulesamisk_5_trinn.pdf</origFileName>
-    <parallel_text xml:lang="sma" location="sorsamisk_5_trinn.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Nasjonálalasj gæhttjalime</p>
-    <p>Åvddåmærkkadahkamusá                                       5. klássan</p>
-    <p>Duojkke  Dale lij soames boadnjásj gen namma lij Vuolli. Sån lij vuoras ja dakkár guhti álu bielkij</p>
-    <p>ulmutjijda. Sij gudi dåbddin suv, ettjin rat sidá suv iejvvit. Ienni garvvin.</p>
-    <p>Akti de vuolggá Piera, soames báhtjasj, gájtsajt viettjatjit sijddasis. Gájtsa lidjin diedon fiervájt snuoggamin. Ja gå báhttja galggá gájtsaj sijddaj, de vuojná hæhttu dán giehtos Vuolli stárfov vásset. Gájtsa guohtsi fierváv sijddaj, ja gå Vuolli stárffuj jåvsådi, de ganugi ja snuoggagåhti. Vuollin li vierme kássa sinna jalkkahimen stárffobællán dannák ullárájen. Návssteuksa l aj tsaggot. Báhttja juo dal árvvet mij dássta sjaddá. Niellja gájtsa ja niellja gihtse lidjin, duodden ájn moarrás stuor hábres.</p>
-    <p>Piera ij desti ájgás boade gájtsaj, bæsstá vejdan mannat. Gájtsa ja gihtse viggi diedon návsstáj snuokkatjit. Na dale gåjt de bårrågåhti gåjkkeguolijt návssten. Moarrás stuor hábres sihtá aj návsstáj, valla ij besa, snårrum la dajda viermijda ma lidjin kássa sinna. Hábres guokkart kássa birra, vierme li tjårvijda snårrum. Ij des luovas besa. Hábres mehku ja gullat vájvástuvvá. Ja Piera, suddilmme, ij desti ietján diede gå viehkev tjuorvvot. Huvkat viehkev.</p>
-    <p>Gullá så Vuolli dáv huvkkasav, ja diedon goades ålgus gulátjit mij la. Vuolli de ájttsá gájtsajt stárfon, ja gullá báhtjav dåppe huvkadimen. Vuolli viega fiervváj. Viehká ja bielkkegoahtá juo dan viegadijn. Piera árvvet duojkke dal dássta sjattasj. Ballám la hekkadagá. Hæhttu diedon danna hábrrájn gillot, ij duosta bádan viehkkát. Vuolli boadnjásj boahtá Pieraj viehkken hábrráv gálgatjit. Vijmak de oadtjoba hábrráv luovas. Hábres la viermijt snårråm åvtå doahkkáj, ja gåjkkedákke ja ruge li aj dehpudam.</p>
-    <p>Vuolli tjuottjat Pieraj bælkátjit. Vuoj, vuoj, gåk bælkká. Muodo ruoppsadin buolli ja snuksasoalse njálmes såpptån gålggi. Piera duobbánasstá, ballá sunji valit. Vuolli bælkká, suhton la Pieraj, valla ij valida.</p>
-    <p>Gåvvå: Susanne Lyngman</p>
-    <p>Dan bielkedijn de ájttsá Piera gå dat ga hábres Vuolli hárddo duogen murddá.</p>
-    <p>Njuvdestittjat murddá. Árvvet suohtas dal dássta sjattasj. Ja dat ga vide, de njuvdes</p>
-    <p>hábres Vuolliv bahtaj, ja boadnjásj manná dan viermmekássa sisi oajvve åvdån. Piera</p>
-    <p>vattij viega dassta, ja hábres maŋen. Vuolli tjuodtjánij ja vuojnnet lij dagu dággerávgga,</p>
-    <p>vierme oajves gahtsahin ja muodo snuksasoalssen. Na báhtsá de dasi bielke. Giedaj</p>
-    <p>sæjvvá ja ruodjá: - Boahtte diehki, guok' návde, de galgav oanedit hábrráv ja jårbån</p>
-    <p>málestit!</p>
-    <p>Suhttam ulmutjis la buorep bádan viehkat, gå bælkkut ja ihkap vil tsábbmut, usjudij</p>
-    <p>Piera. Ja hábres lij aj ávon gå dassta besaj hekkajn.</p>
-    <p>Gåvvå: Nils Áilu Utsi Samuel Gælok: <span type="quote">"Duojkke"</span>. Subtsas le viettjadum girjes <em type="italic">Iednegiella 5</em> majt le Kurt Tore Andersen tjállám. Tæksta l vehi divodum Nasjonála gæhttjalimij diehti. </p>
-    <p>Lågå vuostak subttsasav åvdep bielen, ja vássteda gatjálvisájt. Soajttá viertti moaddi låhkåt váj gávna divna vásstádusájt.</p>
-    <p>1.<em type="bold">  </em>Gånnå dát dáhpáduvvá? </p>
-    <p>A.  Merragátten</p>
-    <p>B.  Jávrregátten</p>
-    <p>C.  Jåhkågátten</p>
-    <p>D.  Dållågátten</p>
-    <p>2.<em type="bold">  </em>Gåsi gájtsa ja gihtse viggi guohtsat? </p>
-    <p>A.  Sijddaj</p>
-    <p>B.  Vuolli návsstáj</p>
-    <p xml:lang="fin">C.  Viermmekássaj</p>
-    <p>D.  Piera maŋen</p>
-    <p>3.<em type="bold">  </em>Dát la subttsasin dáhpáduvvam. Bieja dáhpádusájt maŋŋálakkoj. Bieja vuostasj </p>
-    <p>dáhpádusáv vuostak. Dat mij dáhpáduvvá maŋŋela bieja nubben ja navti de</p>
-    <p>joarká vijddásappot.</p>
-    <p>Piera gájtsajt tjoahkki ja doalvvogoahtá dajt sijddaj.</p>
-    <p>Hábres Vuolliv bahtaj njuvdes nav váj gahttjá.</p>
-    <p>Vuolli l suhton ja Pieraj bælkká.</p>
-    <p>Hábres viermijda dæhppu ja ij luovas besa.</p>
-    <p>4.<em type="bold">  </em>Piera viertti viehkev tjuorvvot danen gå … </p>
-    <p>A.  … le bæsstám gájtsajt návsstáj guohtsat.</p>
-    <p>B.  … ij duosta Vuolli návsstev lahkanit.</p>
-    <p>C.  … le gájtsajt ja gihtsijt sijddaj doalvvomin.</p>
-    <p>D.  … ij aktu nagá hábrráv viermijs tjoavddet.</p>
-    <p>5.<em type="bold">  </em>Luluj gå dát duohtavuodan dáhpáduvvat? </p>
-    <p xml:lang="vep">A.  Le</p>
-    <p xml:lang="smn">B.  Ij</p>
-    <p>6.<em type="bold">  </em>Manen jáhká Vuolli l Pieraj suhttam? </p>
-    <p xml:lang="koi">...........................................................................................................................................</p>
-    <p xml:lang="koi">...........................................................................................................................................</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>560</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/globalassets/filer/vurdering/nasjonaleprover/lulesamisk_5_trinn.pdf</origFileName><parallel_text xml:lang="sma" location="sorsamisk_5_trinn.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Nasjonálalasj gæhttjalime</p>
+<p>Åvddåmærkkadahkamusá                                       5. klássan</p>
+<p>Duojkke  Dale lij soames boadnjásj gen namma lij Vuolli. Sån lij vuoras ja dakkár guhti álu bielkij</p>
+<p>ulmutjijda. Sij gudi dåbddin suv, ettjin rat sidá suv iejvvit. Ienni garvvin.</p>
+<p>Akti de vuolggá Piera, soames báhtjasj, gájtsajt viettjatjit sijddasis. Gájtsa lidjin diedon fiervájt snuoggamin. Ja gå báhttja galggá gájtsaj sijddaj, de vuojná hæhttu dán giehtos Vuolli stárfov vásset. Gájtsa guohtsi fierváv sijddaj, ja gå Vuolli stárffuj jåvsådi, de ganugi ja snuoggagåhti. Vuollin li vierme kássa sinna jalkkahimen stárffobællán dannák ullárájen. Návssteuksa l aj tsaggot. Báhttja juo dal árvvet mij dássta sjaddá. Niellja gájtsa ja niellja gihtse lidjin, duodden ájn moarrás stuor hábres.</p>
+<p>Piera ij desti ájgás boade gájtsaj, bæsstá vejdan mannat. Gájtsa ja gihtse viggi diedon návsstáj snuokkatjit. Na dale gåjt de bårrågåhti gåjkkeguolijt návssten. Moarrás stuor hábres sihtá aj návsstáj, valla ij besa, snårrum la dajda viermijda ma lidjin kássa sinna. Hábres guokkart kássa birra, vierme li tjårvijda snårrum. Ij des luovas besa. Hábres mehku ja gullat vájvástuvvá. Ja Piera, suddilmme, ij desti ietján diede gå viehkev tjuorvvot. Huvkat viehkev.</p>
+<p>Gullá så Vuolli dáv huvkkasav, ja diedon goades ålgus gulátjit mij la. Vuolli de ájttsá gájtsajt stárfon, ja gullá báhtjav dåppe huvkadimen. Vuolli viega fiervváj. Viehká ja bielkkegoahtá juo dan viegadijn. Piera árvvet duojkke dal dássta sjattasj. Ballám la hekkadagá. Hæhttu diedon danna hábrrájn gillot, ij duosta bádan viehkkát. Vuolli boadnjásj boahtá Pieraj viehkken hábrráv gálgatjit. Vijmak de oadtjoba hábrráv luovas. Hábres la viermijt snårråm åvtå doahkkáj, ja gåjkkedákke ja ruge li aj dehpudam.</p>
+<p>Vuolli tjuottjat Pieraj bælkátjit. Vuoj, vuoj, gåk bælkká. Muodo ruoppsadin buolli ja snuksasoalse njálmes såpptån gålggi. Piera duobbánasstá, ballá sunji valit. Vuolli bælkká, suhton la Pieraj, valla ij valida.</p>
+<p>Gåvvå: Susanne Lyngman</p>
+<p>Dan bielkedijn de ájttsá Piera gå dat ga hábres Vuolli hárddo duogen murddá.</p>
+<p>Njuvdestittjat murddá. Árvvet suohtas dal dássta sjattasj. Ja dat ga vide, de njuvdes</p>
+<p>hábres Vuolliv bahtaj, ja boadnjásj manná dan viermmekássa sisi oajvve åvdån. Piera</p>
+<p>vattij viega dassta, ja hábres maŋen. Vuolli tjuodtjánij ja vuojnnet lij dagu dággerávgga,</p>
+<p>vierme oajves gahtsahin ja muodo snuksasoalssen. Na báhtsá de dasi bielke. Giedaj</p>
+<p>sæjvvá ja ruodjá: - Boahtte diehki, guok' návde, de galgav oanedit hábrráv ja jårbån</p>
+<p>málestit!</p>
+<p>Suhttam ulmutjis la buorep bádan viehkat, gå bælkkut ja ihkap vil tsábbmut, usjudij</p>
+<p>Piera. Ja hábres lij aj ávon gå dassta besaj hekkajn.</p>
+<p>Gåvvå: Nils Áilu Utsi Samuel Gælok: <span type="quote">"Duojkke"</span>. Subtsas le viettjadum girjes <em type="italic">Iednegiella 5</em> majt le Kurt Tore Andersen tjállám. Tæksta l vehi divodum Nasjonála gæhttjalimij diehti. </p>
+<p>Lågå vuostak subttsasav åvdep bielen, ja vássteda gatjálvisájt. Soajttá viertti moaddi låhkåt váj gávna divna vásstádusájt.</p>
+<p>1.<em type="bold">  </em>Gånnå dát dáhpáduvvá? </p>
+<p>A.  Merragátten</p>
+<p>B.  Jávrregátten</p>
+<p>C.  Jåhkågátten</p>
+<p>D.  Dållågátten</p>
+<p>2.<em type="bold">  </em>Gåsi gájtsa ja gihtse viggi guohtsat? </p>
+<p>A.  Sijddaj</p>
+<p>B.  Vuolli návsstáj</p>
+<p xml:lang="fin">C.  Viermmekássaj</p>
+<p>D.  Piera maŋen</p>
+<p>3.<em type="bold">  </em>Dát la subttsasin dáhpáduvvam. Bieja dáhpádusájt maŋŋálakkoj. Bieja vuostasj </p>
+<p>dáhpádusáv vuostak. Dat mij dáhpáduvvá maŋŋela bieja nubben ja navti de</p>
+<p>joarká vijddásappot.</p>
+<p>Piera gájtsajt tjoahkki ja doalvvogoahtá dajt sijddaj.</p>
+<p>Hábres Vuolliv bahtaj njuvdes nav váj gahttjá.</p>
+<p>Vuolli l suhton ja Pieraj bælkká.</p>
+<p>Hábres viermijda dæhppu ja ij luovas besa.</p>
+<p>4.<em type="bold">  </em>Piera viertti viehkev tjuorvvot danen gå … </p>
+<p>A.  … le bæsstám gájtsajt návsstáj guohtsat.</p>
+<p>B.  … ij duosta Vuolli návsstev lahkanit.</p>
+<p>C.  … le gájtsajt ja gihtsijt sijddaj doalvvomin.</p>
+<p>D.  … ij aktu nagá hábrráv viermijs tjoavddet.</p>
+<p>5.<em type="bold">  </em>Luluj gå dát duohtavuodan dáhpáduvvat? </p>
+<p xml:lang="est">A.  Le</p>
+<p xml:lang="smn">B.  Ij</p>
+<p>6.<em type="bold">  </em>Manen jáhká Vuolli l Pieraj suhttam? </p>
+<p xml:lang="vep">...........................................................................................................................................</p>
+<p xml:lang="vep">...........................................................................................................................................</p>
+</body></document>

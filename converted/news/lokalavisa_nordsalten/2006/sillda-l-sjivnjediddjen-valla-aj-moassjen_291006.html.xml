@@ -1,52 +1,16 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Silldá l sjivnjediddjen, valla aj moassjen</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>519</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/silld-l-sjivnjediddjen-valla-aj-moassjen.4082</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Silldá l sjivnjediddjen, valla aj moassjen</p>
-    <p>Viessomájgev la guoles ja guollimis viessum, ja dajna aj gullá gånnå gáma gåddå. Sildáv vuorddá, valla huoman håjen sjaddá gå ájádallá mij aj sildáv tjuovvu. –Silldá l sjivnnjediddjen, ja aj moassjen, javllá guollár Elmar Andersen Ájluovtas. Norsk kortversjon/Oanegis dárogiellaj</p>
-    <p>Måttijt jagijt la nuores viessum, ja ájggu ájn moadda jage guollimis viessot. Elmar Andersen Ájluovtas Divtasvuonan la juo ålles giesev vuorddám desik oadtju háhka- jali játtiviermijt suohppot. Tjaktja l juo, ja dajna l aj sujna vat miella guollitjit.</p>
-    <p>Elmar Andersen ávvus gå gullá silldá l vuonaj sisi lahkanime. Divtasvuodnaj aj. Sæmmi båttå aj sjaddá håjen gå <span type="quote">”divna”</span> galggi oassálasstet værálda stuorámus silldáguollimij dán <span type="quote">”suv”</span> vuonan. Ienemusát ballá stuorra hávsajs. -Silldá l sjivnjediddjen, valla aj moassjen. Sildá mañen dal jáddi tjuovvu, ja nav aj munji ávkken, valla huoman sjattav håjen gå vat da stuorra áhpehávsa båhti sildáv bivdátjit. Ælla val ajtu sidjij sadje dáppen dáj vuodnasåhkkij sinna. Gå daj stuorra nuohtij guolliji, de rábasti aj ietjá guolit, dagu játtijt. Nav de diedon binnu guolijs midjij, vuonaguollárijda, gudi gæhttjalip unnep vantsaj guollit ja viessomlájbev dassta åttjudit, javllá Andersen.</p>
-    <p>
-      <em type="italic">Oahpestiddje gáhtum </em>
-    </p>
-    <p>Vásse bierjjedagá bivddin 19.700 tånna sildájs Vuona merragátte ålggolin dajs sildájs ma li jådon Vestasjjæggáj, ja aj Divtasvuodnaj. Dát merkaj dán jage lij rek ållo sildájs, valla Elmar Andersen ij huoman jáhke nav ållo silldá Divtasvuodnaj boahtá.</p>
-    <p>-Dat silldá mij dåjt jagijt lij dagu oahpestiddje ja gávnadij Divtasvuodnaj, la gáhtum. Dajna e desti sildá vuodnasåhkkijda boade dagu dåjt jagijt. Silldá dal boahtá, valla ij nav bierkkán, subtsas Elmar Andersen guhti huoman doajvvu sujna l boasstot. -Dálla l má játti hadde allak, ja dajna l aj mávsánis játtiv guollit, javllá sån.</p>
-    <p>
-      <em type="italic">Nuorev biejssti </em>
-    </p>
-    <p>Elmar Andersenan ij la vanntsa majna iesj sildáv máhttá bivddet, ja ij la ga sujna loahpe. Andersen bivddá dåssju viermij, ja jáddi, sájdde ja háhka l dal sunji ávkken. Andersen la akta gålmåt guollárijs guhti l Ájluovtagáddáj báhtsám. Åvbdebut lidjin ienep guollára ja ienep vantsa. Andersena mielas ælla desti saje dakkár smávep vantsajda. Jus galga guollimis viessot, de hæhttu stuorra hávsaj guollidit. Valla stuorra hávsa aj nuorev biejssti.</p>
-    <p>-Aktak e galga munji subtsastit da stuorra hávsa e nuorev ja muv viessomlájbev biejste. Muv lágátjijda ælla desti saje. Stuorra hávsa båhti dájt gártjes vuodnasåhkkijt rábastittjat. Ja mij de midjij báhtsá? Dárkestiddje e nagá, jali e rat máhte dárkestit divna vantsajt. Juska e oattjo ienebut gå 90 sláhpe tjiekñalis nuohtij guollit, de huoman adni tjiekñalap nuohtijt. Ja dav de náhki tjiehkat, jali soajttá aj muttijn dárkestiddje dåbddi dajt skelmajt. Dajna de bessi. Ij la val nuorre massta dåhkki dåssju goajvvot. De ruvva nåhkå. Hæhttup tjáppagit guollit, subtsas Andersen hálvva suhton.</p>
-    <p>
-      <em type="italic">Diesel aj divrrum </em>
-    </p>
-    <p>Andersen la vásedam buorep ájgijt, ja doajvvu ij væráp sjatta gå dálla. -Eventyjrra l dal stuorra guolijt oadtjot, ja riek edna guolev, ja doajvov ájn oattjov moadda jage nuoren suhkat. Diesel la aj divrrum, ja baláv ájn vil hadde lassán. Jus vil ráddidus dieselhattev laset, ij la desti dåhkkidahtte dagu munji guollimis viessot, javllá Elmar Andersen mañutjissaj.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Silldá l sjivnjediddjen, valla aj moassjen"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Silldá l sjivnjediddjen, valla aj moassjen</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>519</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/silld-l-sjivnjediddjen-valla-aj-moassjen.4082</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Silldá l sjivnjediddjen, valla aj moassjen</p>
+<p>Viessomájgev la guoles ja guollimis viessum, ja dajna aj gullá gånnå gáma gåddå. Sildáv vuorddá, valla huoman håjen sjaddá gå ájádallá mij aj sildáv tjuovvu. –Silldá l sjivnnjediddjen, ja aj moassjen, javllá guollár Elmar Andersen Ájluovtas. Norsk kortversjon/Oanegis dárogiellaj</p>
+<p>Måttijt jagijt la nuores viessum, ja ájggu ájn moadda jage guollimis viessot. Elmar Andersen Ájluovtas Divtasvuonan la juo ålles giesev vuorddám desik oadtju háhka- jali játtiviermijt suohppot. Tjaktja l juo, ja dajna l aj sujna vat miella guollitjit.</p>
+<p>Elmar Andersen ávvus gå gullá silldá l vuonaj sisi lahkanime. Divtasvuodnaj aj. Sæmmi båttå aj sjaddá håjen gå <span type="quote">”divna”</span> galggi oassálasstet værálda stuorámus silldáguollimij dán <span type="quote">”suv”</span> vuonan. Ienemusát ballá stuorra hávsajs. -Silldá l sjivnjediddjen, valla aj moassjen. Sildá mañen dal jáddi tjuovvu, ja nav aj munji ávkken, valla huoman sjattav håjen gå vat da stuorra áhpehávsa båhti sildáv bivdátjit. Ælla val ajtu sidjij sadje dáppen dáj vuodnasåhkkij sinna. Gå daj stuorra nuohtij guolliji, de rábasti aj ietjá guolit, dagu játtijt. Nav de diedon binnu guolijs midjij, vuonaguollárijda, gudi gæhttjalip unnep vantsaj guollit ja viessomlájbev dassta åttjudit, javllá Andersen.</p>
+<p><em type="italic">Oahpestiddje gáhtum </em></p>
+<p>Vásse bierjjedagá bivddin 19.700 tånna sildájs Vuona merragátte ålggolin dajs sildájs ma li jådon Vestasjjæggáj, ja aj Divtasvuodnaj. Dát merkaj dán jage lij rek ållo sildájs, valla Elmar Andersen ij huoman jáhke nav ållo silldá Divtasvuodnaj boahtá.</p>
+<p>-Dat silldá mij dåjt jagijt lij dagu oahpestiddje ja gávnadij Divtasvuodnaj, la gáhtum. Dajna e desti sildá vuodnasåhkkijda boade dagu dåjt jagijt. Silldá dal boahtá, valla ij nav bierkkán, subtsas Elmar Andersen guhti huoman doajvvu sujna l boasstot. -Dálla l má játti hadde allak, ja dajna l aj mávsánis játtiv guollit, javllá sån.</p>
+<p><em type="italic">Nuorev biejssti </em></p>
+<p>Elmar Andersenan ij la vanntsa majna iesj sildáv máhttá bivddet, ja ij la ga sujna loahpe. Andersen bivddá dåssju viermij, ja jáddi, sájdde ja háhka l dal sunji ávkken. Andersen la akta gålmåt guollárijs guhti l Ájluovtagáddáj báhtsám. Åvbdebut lidjin ienep guollára ja ienep vantsa. Andersena mielas ælla desti saje dakkár smávep vantsajda. Jus galga guollimis viessot, de hæhttu stuorra hávsaj guollidit. Valla stuorra hávsa aj nuorev biejssti.</p>
+<p>-Aktak e galga munji subtsastit da stuorra hávsa e nuorev ja muv viessomlájbev biejste. Muv lágátjijda ælla desti saje. Stuorra hávsa båhti dájt gártjes vuodnasåhkkijt rábastittjat. Ja mij de midjij báhtsá? Dárkestiddje e nagá, jali e rat máhte dárkestit divna vantsajt. Juska e oattjo ienebut gå 90 sláhpe tjiekñalis nuohtij guollit, de huoman adni tjiekñalap nuohtijt. Ja dav de náhki tjiehkat, jali soajttá aj muttijn dárkestiddje dåbddi dajt skelmajt. Dajna de bessi. Ij la val nuorre massta dåhkki dåssju goajvvot. De ruvva nåhkå. Hæhttup tjáppagit guollit, subtsas Andersen hálvva suhton.</p>
+<p><em type="italic">Diesel aj divrrum </em></p>
+<p>Andersen la vásedam buorep ájgijt, ja doajvvu ij væráp sjatta gå dálla. -Eventyjrra l dal stuorra guolijt oadtjot, ja riek edna guolev, ja doajvov ájn oattjov moadda jage nuoren suhkat. Diesel la aj divrrum, ja baláv ájn vil hadde lassán. Jus vil ráddidus dieselhattev laset, ij la desti dåhkkidahtte dagu munji guollimis viessot, javllá Elmar Andersen mañutjissaj.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Silldá l sjivnjediddjen, valla aj moassjen"</span> på Facebook</p>
+</body></document>

@@ -1,62 +1,22 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>266</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Ednam-ja-resurssarievtesvuodaj/Ednamrievtesvuoda</origFileName>
-    <parallel_text xml:lang="nob" location="landrettigheter.html"/>
-    <parallel_text xml:lang="sma" location="laantereaktah.html"/>
-    <parallel_text xml:lang="sme" location="eananvuoigatvuodat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Ednamrievtesvuoda / Ednam- ja resurssarievtesvuodaj / Sámedigge - Sametinget</p>
-    <p type="title">Ednamrievtesvuoda</p>
-    <p>Barggat vaj sámij ednam ja resurssa árbbedábálasj adno vaddá avtaárvvusasj åmastam- ja adnorievtesvuodajt, nav gåktu iehtjádij adno le dahkam, lej guovdátjin ådå sáme kultuvrrarahtjamusán 1960-lågo låhpa rájes gitta 1970-lågo álgo rádjaj. Akta oajvvesivájs Áltá-tjátjádagá dulvvadime vuosstálasstemijda lej gå sámij ednam- ja resurssarievtesvuoda ællim dåhkkiduvvam. Danen vuododuváj Sámij rievtesvuodanammadus ja biejaduváj tjielggitjit dákkár rievtesvuodajt.</p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="eng">President</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="sme">Ávjovárri</p>
-    <p>Jur dálla</p>
-    <p>Ådåstuhtedum aktisasjbarggosjiehtadus Sámedikke ja Statskoga gaskan</p>
-    <p>Sámedigge ja Statskog libá sjiehtadam aktisasjbarggosjiehtadusáv ådåstuhttet...</p>
-    <p>Lågå ienebuv</p>
-    <p>Vuoseda divna ássjijt</p>
-    <p>Máhttá javllat sámij ednam- ja resurssarievtesvuoda le ájnas ja mierrediddje berustibmen Sámediggáj. Nannit álmmukriektáv álggoálmmugij ednam- ja resurssarievtesvuodaj dåhkkidime aktijvuodan ja ásadit máhttelisvuodajt vaj rijka lágaj baktu dákkár rievtesvuoda dåhkkiduvvi le Sámediggáj læhkám guovdátjin gitta álggorájes.</p>
-    <p>
-      <em type="bold">Sámedigge sihtá: </em>
-    </p>
-    <list>
-      <p type="listitem">Almma la láhkadåhkkidum dåhkkidimev sámij ednam- ja resursariektájs histåvrålasj ano ja álmmukriektá vuodon árbbedábálasj sáme guovlojn Finnmárko ålggolin.</p>
-    </list>
-    <p>
-      <em type="bold">Sámedigge le dálla barggamin: </em>
-    </p>
-    <list>
-      <p type="listitem">Ådå kárttimlága ja rádádallamlága rádádallamij</p>
-      <p type="listitem">Årniga gåktu Finnmárkoåbmudagá badjelbátsos galggá aneduvvat aktisasjbarggon Finnmárkoåbmudagájn ja Finnmárko fylkkasuohkanijn.</p>
-    </list>
-    <p>Sámedikken le åvsdåsvásstadus jut sáme ájnegis ulmutjin ja sáme álmmugin histåvrålasj adno ednamijs ja resursajs dåhkkiduvvá sæmmi láhkáj gå iehtjádij adno. Dát stáhta oajválattjaj rádádallamij ja aktisasjbargo baktu dáhpáduvvá. Ájgge gållå dán bargguj ja åvddånibme le ienemusát ráddidusá miela duogen.</p>
-    <p>Sámediggáj le ájnas diehtet vijdes láhkáj majt ulmutja usjudalli boahtteájge tjoavddusij gáktuj. Sámeriektájuohkusa tjuovvolime bargon lip danen moadda álmmuktjåhkanimijt ásadam. Dákkir tjåhkanime ja aktijvuohta sáme organisasjåvnåj ja ásadusáj le viehka ájnas. Dån besa Sámedikkev vájkkudit ietjat organisasjåvnåj baktu.</p>
-    <p>
-      <span type="quote">Nannit álmmukriektáv álggoálmmugij ednam- ja resurssarievtesvuodaj dåhkkidime aktijvuodan ja ásadit máhttelisvuodajt vaj rijka lágaj baktu dákkár rievtesvuoda dåhkkiduvvi le Sámediggáj læhkám guovdátjin gitta álggorájes.</span>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>266</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Ednam-ja-resurssarievtesvuodaj/Ednamrievtesvuoda</origFileName><parallel_text xml:lang="nob" location="landrettigheter.html"/><parallel_text xml:lang="sma" location="laantereaktah.html"/><parallel_text xml:lang="sme" location="eananvuoigatvuodat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Ednamrievtesvuoda / Ednam- ja resurssarievtesvuodaj / Sámedigge - Sametinget</p>
+<p type="title">Ednamrievtesvuoda</p>
+<p>Barggat vaj sámij ednam ja resurssa árbbedábálasj adno vaddá avtaárvvusasj åmastam- ja adnorievtesvuodajt, nav gåktu iehtjádij adno le dahkam, lej guovdátjin ådå sáme kultuvrrarahtjamusán 1960-lågo låhpa rájes gitta 1970-lågo álgo rádjaj. Akta oajvvesivájs Áltá-tjátjádagá dulvvadime vuosstálasstemijda lej gå sámij ednam- ja resurssarievtesvuoda ællim dåhkkiduvvam. Danen vuododuváj Sámij rievtesvuodanammadus ja biejaduváj tjielggitjit dákkár rievtesvuodajt.</p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="eng">President</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="sme">Ávjovárri</p>
+<p>Jur dálla</p>
+<p>Ådåstuhtedum aktisasjbarggosjiehtadus Sámedikke ja Statskoga gaskan</p>
+<p>Sámedigge ja Statskog libá sjiehtadam aktisasjbarggosjiehtadusáv ådåstuhttet...</p>
+<p>Lågå ienebuv</p>
+<p>Vuoseda divna ássjijt</p>
+<p>Máhttá javllat sámij ednam- ja resurssarievtesvuoda le ájnas ja mierrediddje berustibmen Sámediggáj. Nannit álmmukriektáv álggoálmmugij ednam- ja resurssarievtesvuodaj dåhkkidime aktijvuodan ja ásadit máhttelisvuodajt vaj rijka lágaj baktu dákkár rievtesvuoda dåhkkiduvvi le Sámediggáj læhkám guovdátjin gitta álggorájes.</p>
+<p><em type="bold">Sámedigge sihtá: </em></p>
+<list><p type="listitem">Almma la láhkadåhkkidum dåhkkidimev sámij ednam- ja resursariektájs histåvrålasj ano ja álmmukriektá vuodon árbbedábálasj sáme guovlojn Finnmárko ålggolin.</p>
+</list><p><em type="bold">Sámedigge le dálla barggamin: </em></p>
+<list><p type="listitem">Ådå kárttimlága ja rádádallamlága rádádallamij</p>
+<p type="listitem">Årniga gåktu Finnmárkoåbmudagá badjelbátsos galggá aneduvvat aktisasjbarggon Finnmárkoåbmudagájn ja Finnmárko fylkkasuohkanijn.</p>
+</list><p>Sámedikken le åvsdåsvásstadus jut sáme ájnegis ulmutjin ja sáme álmmugin histåvrålasj adno ednamijs ja resursajs dåhkkiduvvá sæmmi láhkáj gå iehtjádij adno. Dát stáhta oajválattjaj rádádallamij ja aktisasjbargo baktu dáhpáduvvá. Ájgge gållå dán bargguj ja åvddånibme le ienemusát ráddidusá miela duogen.</p>
+<p>Sámediggáj le ájnas diehtet vijdes láhkáj majt ulmutja usjudalli boahtteájge tjoavddusij gáktuj. Sámeriektájuohkusa tjuovvolime bargon lip danen moadda álmmuktjåhkanimijt ásadam. Dákkir tjåhkanime ja aktijvuohta sáme organisasjåvnåj ja ásadusáj le viehka ájnas. Dån besa Sámedikkev vájkkudit ietjat organisasjåvnåj baktu.</p>
+<p><span type="quote">Nannit álmmukriektáv álggoálmmugij ednam- ja resurssarievtesvuodaj dåhkkidime aktijvuodan ja ásadit máhttelisvuodajt vaj rijka lágaj baktu dákkár rievtesvuoda dåhkkiduvvi le Sámediggáj læhkám guovdátjin gitta álggorájes.</span></p>
+</body></document>

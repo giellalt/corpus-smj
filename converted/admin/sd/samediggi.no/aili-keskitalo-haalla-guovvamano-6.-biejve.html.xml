@@ -1,57 +1,21 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>646</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Organisasjaavnaa-struktuvrra/Samedikkerade/Haala-ja-tjallaga/Aili-Keskitalo-haalla-guovvamano-6.-biejve</origFileName>
-    <parallel_text xml:lang="nob" location="tale-paa-nasjonaldagen-2014.html"/>
-    <parallel_text xml:lang="sma" location="haaaleme-goevten-6.b.-2014.html"/>
-    <parallel_text xml:lang="sme" location="sardni-guovvamanu-6.-b.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Aili Keskitalo hålla guovvamáno 6. biejve / Håla ja tjállaga / Sámedikkeráde / Organisasjåvnå struktuvrra / Sámmedikke birra / Sámedigge - Sametinget</p>
-    <p type="title">Aili Keskitalo hålla guovvamáno 6. biejve</p>
-    <p xml:lang="nob">Sametingspresident Aili Keskitalo, 6. februar, Porsanger.</p>
-    <p>
-      <em type="bold">Gieres gájkka divna. Vuorbbe biejvijn. </em>
-    </p>
-    <p>Uddni, guovvamano 6. biejve, aktan ávvudallap ietjama álmmukbiejvev Vuonan, Svierigin, Suoman ja Russlándan. Ávvudallap slávgájn ja álmmuklávllagijn. Diedoj ietjama histåvrås ja gehtjastagájn boahtteájggáj. Arvudallap hávsskudagájn, njálga biebmujn ja moatte lágasj dåjmaj sámij bájkálasj sebrudagájn.</p>
-    <p>Mijá álmmukbiejvve le viehka nuorra, dåssju 21 jage vuoras. Ávvudallamijn li moadda háme, dajt vuojnáv gå guossidav duov ja dá suohkanav ja sajev. Juoŋga birra tjåhkanip degå aktisasj gåvåstagáj ja dåjmaj. Sæmmi láhkaj gå mij gætjo ájge hábbmip ietjama sebrudagá sisanov, de hábbmip sisanov ietjama – sámij – álmmukbiejvev.</p>
-    <p>Uddni ávvudallap mij lip gudi lip. Mij lip sáme, ja dav lip mij guhtik ietjama láhkáj. Ållo le aktisasj, valla ållo le aj sierralágasj. Guovvamano 6. biejvve le diehttelis mihásvuoda biejvve, valla sæmmi ålov aktisasjvuoda biejvve, moattevuodajn ja valjesvuohtaj,</p>
-    <p>Sáme li ávvudallam guovvamano 6. biejvev álmmukbiejvven jage 1993 rájes. Dán jage álmmukbiejvve le huoman sierralágásj midjij Vuonan. Dán jage tjalmostahttep goappátjaga Sámedikke 25-jage ávvudimev ja vuodolága 200-jage ávvudimev. Dat vaddá midjij sjiehtes båttåv snivva ájádalátjit álmmukstivrav ja mijá demokráhtalasj ideálajt.</p>
-    <p>Vuodoláhka le demokratija tsieggimgierge. Moallánahkan mijá buoremus ja ájnnasamos ideálajda. Vuodoláhka vedjadahttá ájnegisá, álmmukjuohkusij ja stáhta ássjijt. Valla huoman gållin 100 jage vuodolága vuostasj almodusás desik nissuna oadtjun gájkkásasj jienastimriektáv. Gållin vargga 200 jage åvddål iemeálmmugij ja unneplågoj suodjalibme sjaddin oassen vuodolágas.</p>
-    <p>Dat vuoset vuodoláhka gájk åvdemusát le ietjas ájge mánná, dan sebrudagá majt dat galggá hiebadit. Dat la moallánahkan mijá gájk buoremus ideálajs – nåv gåktu mij agev mierredip dajt. Ja dat rievddá maŋenagi gå sebrudahka rievddat ideálajt ja árvojt. Jagen 1988, jahket åvddåla gå vuostasj Sámedigge rabáduváj, oattjoj vuodoláhka ådå mærrádusáv mij sihkarastij sámij sierra stáhtusav ja suodjalimev:</p>
-    <p xml:lang="nob">
-      <span type="quote" xml:lang="nob">«Det paaligger Statens Myndigheter at lægge Forholdene til Rette for at den samiske Folkegruppe kan sikre og udvikle sit Sprog, sin Kultur og sit Samfundsliv.»</span>
-    </p>
-    <p>Da lidjin ájgenis tjiegŋalis rievddadime, ja vilá adni muhtema dát dåhkkidibme sámijs iemeálmmugin la rijddooarren. Valla uddni le Sámedigge vuona demokráhtalasj vuogádagá sisŋutja oasse. Dát ij la giehtjen dåhkkidime oajbbomis, valla ienebut joarkka.</p>
-    <p>Dan jage tjuodtjop mij vuodolága viehka stuorra rievddadimij åvdån. Vuodulasj almasjrievtesvuoda galggi láhkaj tjáleduvvat, lága giellahábme galggá ådåstuhteduvvat. Midja sáme lip akta álmmuk, rievtesvuodajn ja friddjavuodajn ietja mierredit ietjama boahtteájgev. Sámegiella ja dárogiella li avtaárvvusasj giela Vuonan. Miján li gájkka oare vuorddet dat gåvviduvvá buorebut udnásj vuodolágan gå 200 jage dás åvddåla.</p>
-    <p>Ideála demokratijas, rievtesihkátvuodas, buohtaárvos ja hållamfriddjavuodas ma li biejadum vuodoláhkaj dahkin máhttelissan midjij sámijda åvddånahtátjit ietjama nasjåvnålasj parlamentav. Vuodoláhka ja Sámedigge li sihkarvuohtan demokráhtalasj oassálasstemij ja mijá friddjavuodaj ja rievtesvuodaj mærrásasj åvddånibmáj nåv gå álmmuk.</p>
-    <p>Mij ep aktu ávvudalá uddni. Juogatjip biejvev væráldijn, rijkajn, sijdajn. Gåhttjop gájkka rádnájt, rádnajt ja guojmmeviesádijt oassálastátjit ávvudallamijda. Dát la biejvve vuosedittjat mihásvuodav dassta majt lip: álmmuk nieljen stáhtan. Álmmuk mij juogasj gielav, histåvråv, kultuvrav ja mijá aktisasj boahtteájge niegojt.</p>
-    <p>Giella dárbaj vehik viehkev. Dan diehti almodip mij uddni dievnastusáv www.satni.org : digitála báhkogirjje gålmå sámegielaj gaskan aktan nuorttarijkaj gielaj. Doajvov dat sjaddá viehkken didjij gudi sihtabihtit ja ávkkit sámegielav.</p>
-    <p>Muv niehko le boahtteájgge goassa nuora álkkes láhkáj máhtti åhpadusáv válljit ja ietjasa gielav ávkkit vissesvuodajn sámegiella le aj viesso giella væráldin. Boahtteájgev goassa sámegiella ja mijá kultuvrra aneduvvá boanndudahkan ja mahttudahkan, ja ij noaden. Niegadav boahtteájgev goassa sáme sebrudahka ij aneduvá gåtsanin åvddånibmáj, valla le luondulasj oasse mijá nasjåvnålasj ja buohtaárvulasj aktanviessomis. Daggu válldep duohtan majt Gånågis javlaj Sámedikke rahpambåttå jagen 1997: Vuona stáhtta le vuododuvvam guovte álmmuga duobddágijda: láttij ja sámij.</p>
-    <p>Uddni ávvudallap. Dav dárbahip, dav lip ánssim. Valla mujttit aj dat biejvve le boados moatte ulmutja oajbbomis moadda jage daj friddjavuodaj ja rievtesvuodaj åvdås ma li miján uddni. Mij vájaldip sijáj luottaj milta.</p>
-    <p>Sij li vuosedam værált agev máhttá rievddaduvvat buorebuj. Danen gå sij gudi væráldav rievddadi, li dakkira gudi jáhkki dat máhtta rievddaduvvat.</p>
-    <p>
-      <em type="bold">Vuorbbe biejvijn. </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>646</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Organisasjaavnaa-struktuvrra/Samedikkerade/Haala-ja-tjallaga/Aili-Keskitalo-haalla-guovvamano-6.-biejve</origFileName><parallel_text xml:lang="nob" location="tale-paa-nasjonaldagen-2014.html"/><parallel_text xml:lang="sma" location="haaaleme-goevten-6.b.-2014.html"/><parallel_text xml:lang="sme" location="sardni-guovvamanu-6.-b.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Aili Keskitalo hålla guovvamáno 6. biejve / Håla ja tjállaga / Sámedikkeráde / Organisasjåvnå struktuvrra / Sámmedikke birra / Sámedigge - Sametinget</p>
+<p type="title">Aili Keskitalo hålla guovvamáno 6. biejve</p>
+<p xml:lang="nob">Sametingspresident Aili Keskitalo, 6. februar, Porsanger.</p>
+<p><em type="bold">Gieres gájkka divna. Vuorbbe biejvijn. </em></p>
+<p>Uddni, guovvamano 6. biejve, aktan ávvudallap ietjama álmmukbiejvev Vuonan, Svierigin, Suoman ja Russlándan. Ávvudallap slávgájn ja álmmuklávllagijn. Diedoj ietjama histåvrås ja gehtjastagájn boahtteájggáj. Arvudallap hávsskudagájn, njálga biebmujn ja moatte lágasj dåjmaj sámij bájkálasj sebrudagájn.</p>
+<p>Mijá álmmukbiejvve le viehka nuorra, dåssju 21 jage vuoras. Ávvudallamijn li moadda háme, dajt vuojnáv gå guossidav duov ja dá suohkanav ja sajev. Juoŋga birra tjåhkanip degå aktisasj gåvåstagáj ja dåjmaj. Sæmmi láhkaj gå mij gætjo ájge hábbmip ietjama sebrudagá sisanov, de hábbmip sisanov ietjama – sámij – álmmukbiejvev.</p>
+<p>Uddni ávvudallap mij lip gudi lip. Mij lip sáme, ja dav lip mij guhtik ietjama láhkáj. Ållo le aktisasj, valla ållo le aj sierralágasj. Guovvamano 6. biejvve le diehttelis mihásvuoda biejvve, valla sæmmi ålov aktisasjvuoda biejvve, moattevuodajn ja valjesvuohtaj,</p>
+<p>Sáme li ávvudallam guovvamano 6. biejvev álmmukbiejvven jage 1993 rájes. Dán jage álmmukbiejvve le huoman sierralágásj midjij Vuonan. Dán jage tjalmostahttep goappátjaga Sámedikke 25-jage ávvudimev ja vuodolága 200-jage ávvudimev. Dat vaddá midjij sjiehtes båttåv snivva ájádalátjit álmmukstivrav ja mijá demokráhtalasj ideálajt.</p>
+<p>Vuodoláhka le demokratija tsieggimgierge. Moallánahkan mijá buoremus ja ájnnasamos ideálajda. Vuodoláhka vedjadahttá ájnegisá, álmmukjuohkusij ja stáhta ássjijt. Valla huoman gållin 100 jage vuodolága vuostasj almodusás desik nissuna oadtjun gájkkásasj jienastimriektáv. Gållin vargga 200 jage åvddål iemeálmmugij ja unneplågoj suodjalibme sjaddin oassen vuodolágas.</p>
+<p>Dat vuoset vuodoláhka gájk åvdemusát le ietjas ájge mánná, dan sebrudagá majt dat galggá hiebadit. Dat la moallánahkan mijá gájk buoremus ideálajs – nåv gåktu mij agev mierredip dajt. Ja dat rievddá maŋenagi gå sebrudahka rievddat ideálajt ja árvojt. Jagen 1988, jahket åvddåla gå vuostasj Sámedigge rabáduváj, oattjoj vuodoláhka ådå mærrádusáv mij sihkarastij sámij sierra stáhtusav ja suodjalimev:</p>
+<p xml:lang="nob"><span type="quote" xml:lang="nob">«Det paaligger Statens Myndigheter at lægge Forholdene til Rette for at den samiske Folkegruppe kan sikre og udvikle sit Sprog, sin Kultur og sit Samfundsliv.»</span></p>
+<p>Da lidjin ájgenis tjiegŋalis rievddadime, ja vilá adni muhtema dát dåhkkidibme sámijs iemeálmmugin la rijddooarren. Valla uddni le Sámedigge vuona demokráhtalasj vuogádagá sisŋutja oasse. Dát ij la giehtjen dåhkkidime oajbbomis, valla ienebut joarkka.</p>
+<p>Dan jage tjuodtjop mij vuodolága viehka stuorra rievddadimij åvdån. Vuodulasj almasjrievtesvuoda galggi láhkaj tjáleduvvat, lága giellahábme galggá ådåstuhteduvvat. Midja sáme lip akta álmmuk, rievtesvuodajn ja friddjavuodajn ietja mierredit ietjama boahtteájgev. Sámegiella ja dárogiella li avtaárvvusasj giela Vuonan. Miján li gájkka oare vuorddet dat gåvviduvvá buorebut udnásj vuodolágan gå 200 jage dás åvddåla.</p>
+<p>Ideála demokratijas, rievtesihkátvuodas, buohtaárvos ja hållamfriddjavuodas ma li biejadum vuodoláhkaj dahkin máhttelissan midjij sámijda åvddånahtátjit ietjama nasjåvnålasj parlamentav. Vuodoláhka ja Sámedigge li sihkarvuohtan demokráhtalasj oassálasstemij ja mijá friddjavuodaj ja rievtesvuodaj mærrásasj åvddånibmáj nåv gå álmmuk.</p>
+<p>Mij ep aktu ávvudalá uddni. Juogatjip biejvev væráldijn, rijkajn, sijdajn. Gåhttjop gájkka rádnájt, rádnajt ja guojmmeviesádijt oassálastátjit ávvudallamijda. Dát la biejvve vuosedittjat mihásvuodav dassta majt lip: álmmuk nieljen stáhtan. Álmmuk mij juogasj gielav, histåvråv, kultuvrav ja mijá aktisasj boahtteájge niegojt.</p>
+<p>Giella dárbaj vehik viehkev. Dan diehti almodip mij uddni dievnastusáv www.satni.org : digitála báhkogirjje gålmå sámegielaj gaskan aktan nuorttarijkaj gielaj. Doajvov dat sjaddá viehkken didjij gudi sihtabihtit ja ávkkit sámegielav.</p>
+<p>Muv niehko le boahtteájgge goassa nuora álkkes láhkáj máhtti åhpadusáv válljit ja ietjasa gielav ávkkit vissesvuodajn sámegiella le aj viesso giella væráldin. Boahtteájgev goassa sámegiella ja mijá kultuvrra aneduvvá boanndudahkan ja mahttudahkan, ja ij noaden. Niegadav boahtteájgev goassa sáme sebrudahka ij aneduvá gåtsanin åvddånibmáj, valla le luondulasj oasse mijá nasjåvnålasj ja buohtaárvulasj aktanviessomis. Daggu válldep duohtan majt Gånågis javlaj Sámedikke rahpambåttå jagen 1997: Vuona stáhtta le vuododuvvam guovte álmmuga duobddágijda: láttij ja sámij.</p>
+<p>Uddni ávvudallap. Dav dárbahip, dav lip ánssim. Valla mujttit aj dat biejvve le boados moatte ulmutja oajbbomis moadda jage daj friddjavuodaj ja rievtesvuodaj åvdås ma li miján uddni. Mij vájaldip sijáj luottaj milta.</p>
+<p>Sij li vuosedam værált agev máhttá rievddaduvvat buorebuj. Danen gå sij gudi væráldav rievddadi, li dakkira gudi jáhkki dat máhtta rievddaduvvat.</p>
+<p><em type="bold">Vuorbbe biejvijn. </em></p>
+</body></document>

@@ -1,81 +1,33 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Finnmárko miehttseduobmoståvllå / Finnmárkokommisjåvnån / Kárttim / Ednam- ja resurssarievtesvuodaj / Sámedigge - Sametinget</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>158</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Ednam-ja-resurssarievtesvuodaj/Karttim/Finnmarkokommisjaavnaan/Finnmarko-miehttseduobmostaavllaa</origFileName>
-    <parallel_text xml:lang="nob" location="utmarksdomstolen-for-finnmark.html"/>
-    <parallel_text xml:lang="sma" location="finnmaarhken-miehtjiesdajvedaaapmestovle.html"/>
-    <parallel_text xml:lang="sme" location="finnmarkku-meahcceduopmostuollu.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Finnmárkokommisjåvnån</p>
-    <p>
-      <em type="italic">Politihkalasj ássje: </em>
-    </p>
-    <p type="title" xml:lang="nob">Se alle hendelser i saken</p>
-    <p xml:lang="nob"><em type="italic">Siste hendelse: </em>16.tsïen 2012  <em type="italic">Utmarksdomstolen for Finnmark </em></p>
-    <p xml:lang="nob">09.tsïen 2012</p>
-    <p>
-      <em type="italic">Kárttim ja dåhkkidibme gávnne riektájs Finnmárkon. </em>
-    </p>
-    <p xml:lang="nob">16.tsïen 2012</p>
-    <p xml:lang="nob">
-      <em type="bold">Utmarksdomstolen for Finnmark </em>
-    </p>
-    <p xml:lang="nob">16.tsïen 2012</p>
-    <p xml:lang="sme">
-      <em type="italic">Finnmárkku Meahcceduopmostuollu </em>
-    </p>
-    <p xml:lang="nob">16.tsïen 2012</p>
-    <p xml:lang="nob">
-      <em type="italic">Utmarksdomstolen for Finnmark </em>
-    </p>
-    <p xml:lang="nob">16.tsïen 2012</p>
-    <p xml:lang="sme">
-      <em type="bold">Finnmárkku Meahcceduopmostuollu </em>
-    </p>
-    <p xml:lang="nob">16.tsïen 2012</p>
-    <p>
-      <em type="italic">Finnmárko miehttseduobmoståvllå </em>
-    </p>
-    <p xml:lang="nob">16.tsïen 2012</p>
-    <p xml:lang="sme">
-      <em type="italic">Finnmárkku Meahcceduopmostuollu </em>
-    </p>
-    <p xml:lang="nob">16.tsïen 2012</p>
-    <p>
-      <em type="bold">Finnmárko miehttseduobmoståvllå </em>
-    </p>
-    <p xml:lang="nob">16.tsïen 2012</p>
-    <p xml:lang="nob">(6 av 6)</p>
-    <p type="title">Finnmárko miehttseduobmoståvllå</p>
-    <p>Riektárijdo ma badjáni maŋŋel gå Finnmárkokommisjåvnnå le tjielgadam guovlov galggi sierra duobmoståvlå åvddåj låggŋiduvvat, gåhtjodum miehttseduobmoståvllån. Ráddidus miehttseduobmoståvlåv nammat maŋŋel gå le Sámedikkijn rádádallam, ja danna le jådediddje ja duodden niellja stuoves ájrrasa ja guokta sadjásattja.</p>
-    <p>Ájggemierre ássjev miehttseduobmoståvlå åvddåj låggŋit le 18 máno maŋŋel gå Finnmárkokommisjåvnnå le rapportastis almodam. Miehttseduobmoståvllå vuohtuj válldá Finnmárkokommisjåvnå rapportav gå ássjev giehtadallá. Miehttseduobmoståvlå mærrádusáv máhttá Alemusriektáj guoddalit.</p>
-    <p>2011 basádismáno rádjáj ij lim Miehttseduobmoståvllå ájn nammadum. Finnmárkokommisjåvnnå vuostasj rapporta vuordedahtte gárvestuvvá sulle 2011-2012 jahkemålssomájgge. Justijsadepartemennta ja Sámedigge li rádádallagoahtám miehttseduobmoståvlå nammadime vuoksjuj.</p>
-    <p xml:lang="sme">Finnmárkoláhka</p>
-    <p>Finnmárkokommisjåvnå ja Finnmárko miehttseduobmoståvllå láhkaásadus</p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="eng">President</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="sme">Ávjovárri</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Finnmárko miehttseduobmoståvllå / Finnmárkokommisjåvnån / Kárttim / Ednam- ja resurssarievtesvuodaj / Sámedigge - Sametinget</title><genre code="admin"/><author><unknown/></author><wordcount>158</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Ednam-ja-resurssarievtesvuodaj/Karttim/Finnmarkokommisjaavnaan/Finnmarko-miehttseduobmostaavllaa</origFileName><parallel_text xml:lang="nob" location="utmarksdomstolen-for-finnmark.html"/><parallel_text xml:lang="sma" location="finnmaarhken-miehtjiesdajvedaaapmestovle.html"/><parallel_text xml:lang="sme" location="finnmarkku-meahcceduopmostuollu.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Finnmárkokommisjåvnån</p>
+<p><em type="italic">Politihkalasj ássje: </em></p>
+<p type="title" xml:lang="nob">Se alle hendelser i saken</p>
+<p xml:lang="nob"><em type="italic">Siste hendelse: </em>16.tsïen 2012  <em type="italic">Utmarksdomstolen for Finnmark </em></p>
+<p xml:lang="nob">09.tsïen 2012</p>
+<p><em type="italic">Kárttim ja dåhkkidibme gávnne riektájs Finnmárkon. </em></p>
+<p xml:lang="nob">16.tsïen 2012</p>
+<p xml:lang="nob"><em type="bold">Utmarksdomstolen for Finnmark </em></p>
+<p xml:lang="nob">16.tsïen 2012</p>
+<p xml:lang="sme"><em type="italic">Finnmárkku Meahcceduopmostuollu </em></p>
+<p xml:lang="nob">16.tsïen 2012</p>
+<p xml:lang="nob"><em type="italic">Utmarksdomstolen for Finnmark </em></p>
+<p xml:lang="nob">16.tsïen 2012</p>
+<p xml:lang="sme"><em type="bold">Finnmárkku Meahcceduopmostuollu </em></p>
+<p xml:lang="nob">16.tsïen 2012</p>
+<p><em type="italic">Finnmárko miehttseduobmoståvllå </em></p>
+<p xml:lang="nob">16.tsïen 2012</p>
+<p xml:lang="sme"><em type="italic">Finnmárkku Meahcceduopmostuollu </em></p>
+<p xml:lang="nob">16.tsïen 2012</p>
+<p><em type="bold">Finnmárko miehttseduobmoståvllå </em></p>
+<p xml:lang="nob">16.tsïen 2012</p>
+<p xml:lang="nob">(6 av 6)</p>
+<p type="title">Finnmárko miehttseduobmoståvllå</p>
+<p>Riektárijdo ma badjáni maŋŋel gå Finnmárkokommisjåvnnå le tjielgadam guovlov galggi sierra duobmoståvlå åvddåj låggŋiduvvat, gåhtjodum miehttseduobmoståvllån. Ráddidus miehttseduobmoståvlåv nammat maŋŋel gå le Sámedikkijn rádádallam, ja danna le jådediddje ja duodden niellja stuoves ájrrasa ja guokta sadjásattja.</p>
+<p>Ájggemierre ássjev miehttseduobmoståvlå åvddåj låggŋit le 18 máno maŋŋel gå Finnmárkokommisjåvnnå le rapportastis almodam. Miehttseduobmoståvllå vuohtuj válldá Finnmárkokommisjåvnå rapportav gå ássjev giehtadallá. Miehttseduobmoståvlå mærrádusáv máhttá Alemusriektáj guoddalit.</p>
+<p>2011 basádismáno rádjáj ij lim Miehttseduobmoståvllå ájn nammadum. Finnmárkokommisjåvnnå vuostasj rapporta vuordedahtte gárvestuvvá sulle 2011-2012 jahkemålssomájgge. Justijsadepartemennta ja Sámedigge li rádádallagoahtám miehttseduobmoståvlå nammadime vuoksjuj.</p>
+<p xml:lang="sme">Finnmárkoláhka</p>
+<p>Finnmárkokommisjåvnå ja Finnmárko miehttseduobmoståvllå láhkaásadus</p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="eng">President</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="sme">Ávjovárri</p>
+</body></document>

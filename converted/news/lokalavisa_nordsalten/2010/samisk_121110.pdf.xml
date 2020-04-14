@@ -1,45 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Medisijnalasj julevsáme báhkogirjje</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Ingrid" lastname="Kintel" sex="f" born="1988" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>153</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/samisk_121110.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta/gåvvå:Kitty SkapalenJårggålibme:</p>
-    <p xml:lang="nob">Divte Media AS/Ingrid Kintel</p>
-    <p xml:lang="nob">Lulesamisk medisinsk ordbok<em type="italic">. En svært glad helse- og omsorgsjef Lill-Tove Hansen kunne forrige uke</em> <em type="italic">presentere to rykende ferske bøker for blant annet Helsedirektoratet, som i forbindelse med planene om et</em> <em type="italic">helse- og sosialsenter var på besøk i kommunen.</em> </p>
-    <p>GIERDU le vuosádusturnéa masi fáladuvvá gaskostibme Kultuvralasj skåvllåvuossas (Den Kulturelle Skolesekken).  Seminára ja diehtotjállaga fáladuvvi aj.</p>
-    <p>GIERDU le hiebadum mannat Nuortta</p>
-    <p xml:lang="nob">Vuonav 2009-2011 jagijt. Vuosádusá buvtadiddje li SKINN. Prosjækta le ruhtaduvvam dájs: FRITT ORD, Kulturkontakt Nord, Norsk Kulturråd, DKS Nordland, DKS Finnmark, Samisk Kulturfond og ABM-utvikling.</p>
-    <p>æjvvuribme, vuoset dájda åvddånahttemij ja moattegerdakvuohtaj. Vuosádusán le dájdda moaddásijs Nuorttarijkaj tjiehpemus dájddárijs: Lena Stenberg, Geir Tore Holm, Synnøve Persen, Daban Da (Asbjørn Forsøget og Gjert Rognli), Alf Salo, Annelise Josefsen, Outi Pieski, Ingunn Utsi, Monica L. Edmondson, Britta MarakattLabba, Marja Helander, Arnold Johansen, Jørn Magnus Langseth, Rose- Marie Huuva, Edil Sande, Andreas Sarri, Anna-Stina Svakko, Aslaug Juliussen, Folke Fjellström, Randi</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Medisijnalasj julevsáme báhkogirjje</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><person firstname="Ingrid" lastname="Kintel" sex="f" born="1988" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2010</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>153</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/samisk_121110.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta/gåvvå:Kitty SkapalenJårggålibme:</p>
+<p xml:lang="nob">Divte Media AS/Ingrid Kintel</p>
+<p xml:lang="nob">Lulesamisk medisinsk ordbok<em type="italic">. En svært glad helse- og omsorgsjef Lill-Tove Hansen kunne forrige uke</em> <em type="italic">presentere to rykende ferske bøker for blant annet Helsedirektoratet, som i forbindelse med planene om et</em> <em type="italic">helse- og sosialsenter var på besøk i kommunen.</em> </p>
+<p>GIERDU le vuosádusturnéa masi fáladuvvá gaskostibme Kultuvralasj skåvllåvuossas (Den Kulturelle Skolesekken).  Seminára ja diehtotjállaga fáladuvvi aj.</p>
+<p>GIERDU le hiebadum mannat Nuortta</p>
+<p>Vuonav 2009-2011 jagijt. Vuosádusá buvtadiddje li SKINN. Prosjækta le ruhtaduvvam dájs: FRITT ORD, Kulturkontakt Nord, Norsk Kulturråd, DKS Nordland, DKS Finnmark, Samisk Kulturfond og ABM-utvikling.</p>
+<p>æjvvuribme, vuoset dájda åvddånahttemij ja moattegerdakvuohtaj. Vuosádusán le dájdda moaddásijs Nuorttarijkaj tjiehpemus dájddárijs: Lena Stenberg, Geir Tore Holm, Synnøve Persen, Daban Da (Asbjørn Forsøget og Gjert Rognli), Alf Salo, Annelise Josefsen, Outi Pieski, Ingunn Utsi, Monica L. Edmondson, Britta MarakattLabba, Marja Helander, Arnold Johansen, Jørn Magnus Langseth, Rose- Marie Huuva, Edil Sande, Andreas Sarri, Anna-Stina Svakko, Aslaug Juliussen, Folke Fjellström, Randi</p>
+</body></document>

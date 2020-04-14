@@ -1,54 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>106</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Valde-aktijvuodav-mijajn</origFileName>
-    <parallel_text xml:lang="sma" location="gaskesadth-mijjine.html"/>
-    <parallel_text xml:lang="sme" location="valdde-oktavuoda.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Válde aktijvuodav mijájn / Sámmedikke birra / Sámedigge - Sametinget</p>
-    <p type="title">Válde aktijvuodav mijájn</p>
-    <p xml:lang="sme">12. golke 2011</p>
-    <p>
-      <em type="bold">Aktan Sámedikke tsiekkadusájn Kárásjjågån le miján duodden kontorsadje Guovdagæjnon, Vuonabadán, Saemien Sijte Snåasan, Árran julevsáme guovdásj Ájluovtan, Nuortta álmmugij guovdásj Gájvuonan, Evenskjer ja Tromsø. </em>
-    </p>
-    <p>
-      <em type="bold">Rahpamájge </em>
-    </p>
-    <p>Mánnodagás bierjjedahkaj: kl. 08.00-15.30</p>
-    <p>Telefåvnnå: +47 78 47 40 00 Telefaksa: +47 78 47 40 90</p>
-    <p>
-      <em type="bold">Præssaaktijvuohta </em>
-    </p>
-    <p>
-      <em type="bold">Aktijvuodadiehto Sámedikke ájrrasijda gávna dánna. </em>
-    </p>
-    <p>
-      <em type="bold">Aktijvuodadiehto Sámedikke barggijda gávna dánna. </em>
-    </p>
-    <p xml:lang="sme"><em type="bold">Poasstaadressa: </em>Sámedigge - Sametinget Ávjovárgeaidnu 50 9730 Karasjok/Kárášjohka </p>
-    <p xml:lang="sme">samediggi@samediggi.no</p>
-    <p><em type="bold">Fakturaadressa: </em>Sámedigge - Sametinget Faktura vuosstájvállde DFØ Postboks 4104 2307 Hamar </p>
-    <p xml:lang="nob">Org. nr.: 974 760 347 Bankkonto: 7694 05 62178 IBAN nr. NO78 7694 05 62178 SWIFT adressa: DNBANOKK</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>106</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Valde-aktijvuodav-mijajn</origFileName><parallel_text xml:lang="sma" location="gaskesadth-mijjine.html"/><parallel_text xml:lang="sme" location="valdde-oktavuoda.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Válde aktijvuodav mijájn / Sámmedikke birra / Sámedigge - Sametinget</p>
+<p type="title">Válde aktijvuodav mijájn</p>
+<p xml:lang="sme">12. golke 2011</p>
+<p><em type="bold">Aktan Sámedikke tsiekkadusájn Kárásjjågån le miján duodden kontorsadje Guovdagæjnon, Vuonabadán, Saemien Sijte Snåasan, Árran julevsáme guovdásj Ájluovtan, Nuortta álmmugij guovdásj Gájvuonan, Evenskjer ja Tromsø. </em></p>
+<p><em type="bold">Rahpamájge </em></p>
+<p>Mánnodagás bierjjedahkaj: kl. 08.00-15.30</p>
+<p>Telefåvnnå: +47 78 47 40 00 Telefaksa: +47 78 47 40 90</p>
+<p><em type="bold">Præssaaktijvuohta </em></p>
+<p><em type="bold">Aktijvuodadiehto Sámedikke ájrrasijda gávna dánna. </em></p>
+<p><em type="bold">Aktijvuodadiehto Sámedikke barggijda gávna dánna. </em></p>
+<p xml:lang="sme"><em type="bold">Poasstaadressa: </em>Sámedigge - Sametinget Ávjovárgeaidnu 50 9730 Karasjok/Kárášjohka </p>
+<p xml:lang="sme">samediggi@samediggi.no</p>
+<p><em type="bold">Fakturaadressa: </em>Sámedigge - Sametinget Faktura vuosstájvállde DFØ Postboks 4104 2307 Hamar </p>
+<p xml:lang="nob">Org. nr.: 974 760 347 Bankkonto: 7694 05 62178 IBAN nr. NO78 7694 05 62178 SWIFT adressa: DNBANOKK</p>
+</body></document>

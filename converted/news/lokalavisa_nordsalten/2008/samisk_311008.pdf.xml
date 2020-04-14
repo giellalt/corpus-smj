@@ -1,54 +1,20 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>«Girde goasskem, girde»</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2008</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>414</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_311008.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty SkapalenJårggålibme:</p>
-    <p>Divte Media AS</p>
-    <p>Rolf Steffensen ja ToreHestbråten libá tæksta-tjállemánájmusikalan mij</p>
-    <p>åvddånbuvteduváj Bådådjo Oajvvegirkkonsådnåbiejve iehketbiejve.</p>
-    <p>Bådåddjo  Oajvvegirkko  jáhkkoåhpadus-prosjæktajådediddje Berit Valberg rávvijtevstav  musikalaj  hábmerårroguoktás,madi  dåbdos  sáme  tjuojadiddje  FrodeFjellheim musihkav dasi biejaj. Musikalatiebmá lij risstadibme sámijs, ja musikalladramatiserij  histåvråv  gåktu  girkkojulevsáme  guovloj  sámijt  niejdedij  jadárojduhtij,  ållu  Thomas  von  Westenabiejvijs  gitta  manemus  lågev  jagijda.Låhpadibmen  goabdes  vatteduváj,symbåvllån  doajvvuj  ådå  ásadibmáj  jasåbadussaj.- Riek tjábbe lij, ja máná ham lidjin navsmidá,  javllá  dudálasj  tækstatjálle  ToreHestbråten. Åvdep tjavtja sån tjállegådij,ja tjálij dálvev tjadá gitta snjilltjamánnuj.Dan mannela lij regissøra Valberga vuorrománájkåvråj hárjjidallat.- Sån le buoragit barggam, miejnni Hest-bråten.  Iesj  sån  Finnskogenijs  boahtá.Valla  le  moadda  jage  berustam  sámebirrusis.-  Muv  mielas  le  suohtas  sáme  birrusaulmutjij  siegen  liehket.  Sáme  li  hamluonndoulmutja,  sæmmi  lev  mån,  javllásån.  Musikalla  skåvllåoahppijdaåvddånbuvteduváj oajvvegirkkonmánnodagá.- Buorre le gå vuosádus ienep ulmutjijdavuoseduvvá,  aj  skåvlåjn,  ja  ihkap  sáhkaienep mielagiddis ja åhpadibmen sjaddá,gå mánájs ja nuorajs mánájda ja nuorajdaåvddånbuvteduvvá.  Sávav  dát  máhttábisoduvvat  ja  vil  ienep  aktijvuodajnaneduvvat,  ja  ietja  sajijn  gå  dåssjuBådådjon, javllá sån.</p>
-    <p>mánnodagá,  gånnå  tiebmá  lij  jur  Mijrávkaduvvá  girkkos  ráfe  ja  såbadusávásadittjat,  bájkálattjat  ja  globalalattjat?Girkko gålmåjahkásasj såbadusprosjevtabaktu  julevsáme  guovlon  (2005-2007)moadda gássjelis ja riek hásstalis tjuolmatsieggiduvvin.  Nubbe  dájs  le  tjanádumgirkko  misjåvnnådåjmajda.  Sáme  mijáguovlojn risstaduvvin garras ládadallamijnsijá jáhkos ja iellemvuojnos 1720-jagijn.Såbadusprosjevta  baktu  tjuottjoduvvásáme  jáhkko  ja  iellemvuojnnodemoniseriduváj  girkkos.  Dát  demon-iserim  sáme  álmmuga  vuodulasjidentitehtav  vahágahtij,  mij  vilá  sámesebrudagán dåbddu.</p>
-    <p>Dán  duogátjijn  le  ådå  oajvvegatjálvisájggeguovddelis:    Gåktu  galggá  ráfe-  jasåbadusåhtsåmin girkko uddni ietjas vie-rev  háldadit  majt  iesj  dagájmisjåvnnådåjmajn? Girkko iesj jáhkká leriek ájnas gatjálvisáv buktet, ij dåssju mijásáme-dáro  aktijvuodan,  valla  ietjá  sajijnværáldin gånnå risstalasj girkko le nuppijåskojt  ja  jáhkkosystemajt  enustallammisjåvnnådåjmajn.</p>
-    <p>j j j</p>
-    <p>Misjåvnå sisadno</p>
-    <p>Sáme misjåvnnåhiståvråjn vuodon, ja danvájkkudusáj,  miejnnip  ájgge  le  ållidumgirkkuj  ja  misjåvnnåorganisasjåvnåjdaienebuv ja tjielggasappot misjåvnå nievresbielij birra sáhkadi. Gåktu galggá girkkoja organisasjåvnå, váni iehtjádij jáhkov jakultuvrav mieddet, ietjas oasev jáhkko- jaárvvobisodiddjen  ja  åvddånahttemo-assálassten  gåtsedit,  væráldin  mij  világlobaliseriduvvá?</p>
-    <p>Rávvidusbarggo</p>
-    <p>Vuosádus  lij  rávvidusbarggo  Bådådjooajvvegirkko jáhkkoåhpadusprosjæktaj, jadat  guoskaj  moadda  mánájkåvråjt  aktanbadjelasj  100  máná,  profesjonalalasjtjuojadiddje, lávlle ja ietjá kultuvrrabargge.Niellja  kåvrå  Bådådjo  oajvvegirkkolávllomskåvlås geldulasj birrusav dahkinoajvvegirkkon  sådnåbiejve  iehketbiejve,gå nágin tjuohte ulmutjijdamusihkkaspelav åvddånbuktin. Dirigænntaja  prosjæktajådediddje  lij  kantor  BeritValberg Bådådjo oajvvegirkkon. Valbergle  moadda  jage  Hábmerin  organisstanbarggam.</p>
-    <p>Nágin lågådallijs lidjin duola dagu stifts-kapellan Torgeir Norwich Tråmsås guhtitjalmostahtij girkko demoniserimav sámejáhkos. Noajdde ja tjálle Ailo Gaup Oslossáhkadij  friddjavuoda  birra  mij  de  laboahtám  ja  Pastor  Dr  Mike  Adams,njunnjusj  organisasjåvnås  ColouredKhoisan Reformation, Cape Town, Oarjje-Afrikan  vuosedij  viessomav  ja  gospelavvajálduhtedum stádan Atlantis.Prosjæktajådediddje Heidi Strand Mathi-sen  Hábmeris  sáhkadij  guládallam  jasåbadusperspektijvaj  birra  jáhkko-åhpadimen guovtekultuvralasj Hábmerinja  biskoahppa  Tor  Berger  Jørgensentjalmostahtij  gåktu  girkko  uddni  galggávierev háldadit majt iesj le dahkam.</p>
-    <p xml:lang="nob"><em type="italic">TORE HESTBRÅTEN</em> </p>
-    <p xml:lang="nob"><em type="italic">BERIT VALBERG</em> </p>
-    <p xml:lang="nob"><em type="italic">ROLF STEFFENSEN</em> </p>
-    <p>Gåktu åvdep suttojt gádodit</p>
-    <p>Vuona girkko såbadusprosjækta julevsámeguovlon  bivdij  aktisasjbargguj  Oarjje-Hålogalánda bispadømmerádijn</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>«Girde goasskem, girde»</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2008</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>414</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_311008.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty SkapalenJårggålibme:</p>
+<p>Divte Media AS</p>
+<p>Rolf Steffensen ja ToreHestbråten libá tæksta-tjállemánájmusikalan mij</p>
+<p>åvddånbuvteduváj Bådådjo Oajvvegirkkonsådnåbiejve iehketbiejve.</p>
+<p>Bådåddjo  Oajvvegirkko  jáhkkoåhpadus-prosjæktajådediddje Berit Valberg rávvijtevstav  musikalaj  hábmerårroguoktás,madi  dåbdos  sáme  tjuojadiddje  FrodeFjellheim musihkav dasi biejaj. Musikalatiebmá lij risstadibme sámijs, ja musikalladramatiserij  histåvråv  gåktu  girkkojulevsáme  guovloj  sámijt  niejdedij  jadárojduhtij,  ållu  Thomas  von  Westenabiejvijs  gitta  manemus  lågev  jagijda.Låhpadibmen  goabdes  vatteduváj,symbåvllån  doajvvuj  ådå  ásadibmáj  jasåbadussaj.- Riek tjábbe lij, ja máná ham lidjin navsmidá,  javllá  dudálasj  tækstatjálle  ToreHestbråten. Åvdep tjavtja sån tjállegådij,ja tjálij dálvev tjadá gitta snjilltjamánnuj.Dan mannela lij regissøra Valberga vuorrománájkåvråj hárjjidallat.- Sån le buoragit barggam, miejnni Hest-bråten.  Iesj  sån  Finnskogenijs  boahtá.Valla  le  moadda  jage  berustam  sámebirrusis.-  Muv  mielas  le  suohtas  sáme  birrusaulmutjij  siegen  liehket.  Sáme  li  hamluonndoulmutja,  sæmmi  lev  mån,  javllásån.  Musikalla  skåvllåoahppijdaåvddånbuvteduváj oajvvegirkkonmánnodagá.- Buorre le gå vuosádus ienep ulmutjijdavuoseduvvá,  aj  skåvlåjn,  ja  ihkap  sáhkaienep mielagiddis ja åhpadibmen sjaddá,gå mánájs ja nuorajs mánájda ja nuorajdaåvddånbuvteduvvá.  Sávav  dát  máhttábisoduvvat  ja  vil  ienep  aktijvuodajnaneduvvat,  ja  ietja  sajijn  gå  dåssjuBådådjon, javllá sån.</p>
+<p>mánnodagá,  gånnå  tiebmá  lij  jur  Mijrávkaduvvá  girkkos  ráfe  ja  såbadusávásadittjat,  bájkálattjat  ja  globalalattjat?Girkko gålmåjahkásasj såbadusprosjevtabaktu  julevsáme  guovlon  (2005-2007)moadda gássjelis ja riek hásstalis tjuolmatsieggiduvvin.  Nubbe  dájs  le  tjanádumgirkko  misjåvnnådåjmajda.  Sáme  mijáguovlojn risstaduvvin garras ládadallamijnsijá jáhkos ja iellemvuojnos 1720-jagijn.Såbadusprosjevta  baktu  tjuottjoduvvásáme  jáhkko  ja  iellemvuojnnodemoniseriduváj  girkkos.  Dát  demon-iserim  sáme  álmmuga  vuodulasjidentitehtav  vahágahtij,  mij  vilá  sámesebrudagán dåbddu.</p>
+<p>Dán  duogátjijn  le  ådå  oajvvegatjálvisájggeguovddelis:    Gåktu  galggá  ráfe-  jasåbadusåhtsåmin girkko uddni ietjas vie-rev  háldadit  majt  iesj  dagájmisjåvnnådåjmajn? Girkko iesj jáhkká leriek ájnas gatjálvisáv buktet, ij dåssju mijásáme-dáro  aktijvuodan,  valla  ietjá  sajijnværáldin gånnå risstalasj girkko le nuppijåskojt  ja  jáhkkosystemajt  enustallammisjåvnnådåjmajn.</p>
+<p>j j j</p>
+<p>Misjåvnå sisadno</p>
+<p>Sáme misjåvnnåhiståvråjn vuodon, ja danvájkkudusáj,  miejnnip  ájgge  le  ållidumgirkkuj  ja  misjåvnnåorganisasjåvnåjdaienebuv ja tjielggasappot misjåvnå nievresbielij birra sáhkadi. Gåktu galggá girkkoja organisasjåvnå, váni iehtjádij jáhkov jakultuvrav mieddet, ietjas oasev jáhkko- jaárvvobisodiddjen  ja  åvddånahttemo-assálassten  gåtsedit,  væráldin  mij  világlobaliseriduvvá?</p>
+<p>Rávvidusbarggo</p>
+<p>Vuosádus  lij  rávvidusbarggo  Bådådjooajvvegirkko jáhkkoåhpadusprosjæktaj, jadat  guoskaj  moadda  mánájkåvråjt  aktanbadjelasj  100  máná,  profesjonalalasjtjuojadiddje, lávlle ja ietjá kultuvrrabargge.Niellja  kåvrå  Bådådjo  oajvvegirkkolávllomskåvlås geldulasj birrusav dahkinoajvvegirkkon  sådnåbiejve  iehketbiejve,gå nágin tjuohte ulmutjijdamusihkkaspelav åvddånbuktin. Dirigænntaja  prosjæktajådediddje  lij  kantor  BeritValberg Bådådjo oajvvegirkkon. Valbergle  moadda  jage  Hábmerin  organisstanbarggam.</p>
+<p>Nágin lågådallijs lidjin duola dagu stifts-kapellan Torgeir Norwich Tråmsås guhtitjalmostahtij girkko demoniserimav sámejáhkos. Noajdde ja tjálle Ailo Gaup Oslossáhkadij  friddjavuoda  birra  mij  de  laboahtám  ja  Pastor  Dr  Mike  Adams,njunnjusj  organisasjåvnås  ColouredKhoisan Reformation, Cape Town, Oarjje-Afrikan  vuosedij  viessomav  ja  gospelavvajálduhtedum stádan Atlantis.Prosjæktajådediddje Heidi Strand Mathi-sen  Hábmeris  sáhkadij  guládallam  jasåbadusperspektijvaj  birra  jáhkko-åhpadimen guovtekultuvralasj Hábmerinja  biskoahppa  Tor  Berger  Jørgensentjalmostahtij  gåktu  girkko  uddni  galggávierev háldadit majt iesj le dahkam.</p>
+<p xml:lang="nob"><em type="italic">TORE HESTBRÅTEN</em> </p>
+<p xml:lang="nob"><em type="italic">BERIT VALBERG</em> </p>
+<p xml:lang="nob"><em type="italic">ROLF STEFFENSEN</em> </p>
+<p>Gåktu åvdep suttojt gádodit</p>
+<p>Vuona girkko såbadusprosjækta julevsámeguovlon  bivdij  aktisasjbargguj  Oarjje-Hålogalánda bispadømmerádijn</p>
+</body></document>

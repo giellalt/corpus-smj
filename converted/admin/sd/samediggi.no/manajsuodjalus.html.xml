@@ -1,50 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>120</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Varresvuohta-ja-sosialla/Manajsuodjalus</origFileName>
-    <parallel_text xml:lang="nob" location="barnevern.html"/>
-    <parallel_text xml:lang="sma" location="maanavaarjelimmie.html"/>
-    <parallel_text xml:lang="sme" location="manaidsuodjalus.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Mánájsuodjalus / Varresvuohta ja sosiálla / Sámedigge - Sametinget</p>
-    <p type="title">Mánájsuodjalus</p>
-    <p>Sámedikke berus mánáj riektájs ja dárbos sámegielav ja kultuvrav várajda válldet mánájsuodjalusá huvson. Nasjonála oajválattjaj duogen le guovdásj mærrádusájt dahkat váj sáme máná bessi gielasa ja kultuvrasa bisodit mánájsuodjalusá huvson.</p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="nob">Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="sme">Gáisi</p>
-    <p>Mánájsuodjalus le suohkana duogen. Mánájsuodjalusdievnastus galggá ierit ietján rádijt vaddet fámiljajda, guoradallat diedádusájt mánáj bajássjaddamdile gáktuj, mierredit mánájsuodjaluslága milta ja ássjijt fylkkanammadusá giehtadallamij gárvedit.</p>
-    <p>Stáhtta Bufetata baktu vásstet biebbmosijdajs, hiehtesijdajs ja mánájsuodjalusásadusájs.</p>
-    <p>
-      <em type="bold">Sámedigge sihtá: </em>
-    </p>
-    <list>
-      <p type="listitem">Sáme mánáj riektá ja dárbo sáme kultuvrav ja gielav bisodit várajda váldeduvvá mánájsuodjalusá huvson</p>
-      <p type="listitem">Lasedum máhtudahka sámegiela(n) ja kultuvra(n) (birra) juohkka dásen mánásuodjalusán. Dán åvdås alep dásen vásstedi.</p>
-    </list>
-    <p>
-      <span type="quote">Sámedikke berus mánáj riektájs ja dárbos sámegielav ja kultuvrav várajda válldet mánájsuodjalusá huvson.</span>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>120</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Varresvuohta-ja-sosialla/Manajsuodjalus</origFileName><parallel_text xml:lang="nob" location="barnevern.html"/><parallel_text xml:lang="sma" location="maanavaarjelimmie.html"/><parallel_text xml:lang="sme" location="manaidsuodjalus.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Mánájsuodjalus / Varresvuohta ja sosiálla / Sámedigge - Sametinget</p>
+<p type="title">Mánájsuodjalus</p>
+<p>Sámedikke berus mánáj riektájs ja dárbos sámegielav ja kultuvrav várajda válldet mánájsuodjalusá huvson. Nasjonála oajválattjaj duogen le guovdásj mærrádusájt dahkat váj sáme máná bessi gielasa ja kultuvrasa bisodit mánájsuodjalusá huvson.</p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="nob">Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="sme">Gáisi</p>
+<p>Mánájsuodjalus le suohkana duogen. Mánájsuodjalusdievnastus galggá ierit ietján rádijt vaddet fámiljajda, guoradallat diedádusájt mánáj bajássjaddamdile gáktuj, mierredit mánájsuodjaluslága milta ja ássjijt fylkkanammadusá giehtadallamij gárvedit.</p>
+<p>Stáhtta Bufetata baktu vásstet biebbmosijdajs, hiehtesijdajs ja mánájsuodjalusásadusájs.</p>
+<p><em type="bold">Sámedigge sihtá: </em></p>
+<list><p type="listitem">Sáme mánáj riektá ja dárbo sáme kultuvrav ja gielav bisodit várajda váldeduvvá mánájsuodjalusá huvson</p>
+<p type="listitem">Lasedum máhtudahka sámegiela(n) ja kultuvra(n) (birra) juohkka dásen mánásuodjalusán. Dán åvdås alep dásen vásstedi.</p>
+</list><p><span type="quote">Sámedikke berus mánáj riektájs ja dárbos sámegielav ja kultuvrav várajda válldet mánájsuodjalusá huvson.</span></p>
+</body></document>

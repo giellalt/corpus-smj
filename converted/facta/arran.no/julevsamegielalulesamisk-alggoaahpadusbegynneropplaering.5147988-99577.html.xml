@@ -1,73 +1,30 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>295</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/julevsamegielalulesamisk-alggoaahpadusbegynneropplaering.5147988-99577.html</origFileName>
-    <parallel_text xml:lang="nob" location="julevsamegielalulesamisk-alggoaahpadusbegynneropplaering.5147988-99577.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Julevsámegiela/Lulesamisk álggoåhpadus/begynneropplæring - Árran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title" xml:lang="nob">13. - 14.02.2013 Árranin/på Árran.</p>
-    <p type="title">Julevsámegiela/Lulesamisk álggoåhpadus/begynneropplæring</p>
-    <p>Sámásta 1: guovvamáno 13. biejve/ onsdag 13. februar. Sámásta 2: guovvamáno 14. biejve/ onsdag 14. februar.</p>
-    <p>
-      <em type="bold">Julevsámegiela álggoåhpadus Árranin - Sámásta 1 og 2  </em>
-    </p>
-    <p>Árran álggá guovtijn julevsámegiela åhpadusájn ållessjattugijda Sámásta 1 ja 2. Kursa li rahpasa gájkajda gudi sihti julevsámegielav oahppat. Sámásta 2 le sidjij gudi åvdutjis vehin máhtti.</p>
-    <p>
-      <em type="bold">Sámásta 1 le juohkka gasskavahko 09.00 – 14.00 </em>
-    </p>
-    <p>
-      <em type="bold">Sámásta 2 le juohkka duorastagá 09.00 – 14.00  </em>
-    </p>
-    <p>Juohkka kursan li 70 åhpadimtijma tjoahkkáj.</p>
-    <p>
-      <em type="bold">Sámásta 1 álggá gasskavahko guovvamáno 13. biejve kl 09.00  </em>
-    </p>
-    <p>, ja hæjttá 29.05.13 <em type="bold">Sámásta 2 álggá duorastagá guovvamáno 14. biejve kl 09.00 </em>, ja hæjttá 29.05.13. </p>
-    <p>Kursa li navku ja gájkajda rahpasa. Oahppámnævojt kurssaj oattjo Árranin oasstet.</p>
-    <p>Diededimev kursajda ja diedojt kursaj birra vattá telefåvnå 75 77 51 00 jali mejla poassta@arran.no baktu.</p>
-    <p>Ienep diedojt vaddeba Lars-Filip Paulsen jali Samuel Gælok: tlf. 75775100</p>
-    <p>Gehtja aj mijá giellarijmov dánna:</p>
-    <p>http://www.arran.no/arrana-giellarijmmo-2013.5148479-240161.htm</p>
-    <p xml:lang="nob">
-      <em type="bold">Lulesamisk begynneropplæring på Árran – Sámásta 1 og 2  </em>
-    </p>
-    <p xml:lang="nob">Árran starter opp to lulesamiske språkkurs for voksne, Sámásta 1 og 2. Kursene er åpne for alle som ønsker å lære seg lulesamisk. Sámásta 2 er beregnet på de som kan litt samisk fra før.</p>
-    <p xml:lang="nno"/>
-    <p xml:lang="nob">
-      <em type="bold">Sámasta 1 foregår på onsdager kl 09.00–14.00.  </em>
-    </p>
-    <p xml:lang="dan">
-      <em type="bold">Sámásta 2 foregår på torsdager kl 09.00–14.00.  </em>
-    </p>
-    <p xml:lang="nob">Hvert kurs er på totalt 70 undervisningstimer.</p>
-    <p xml:lang="nob">
-      <em type="bold">Sámásta 1 starter onsdag 13. februar, og siste kursdag er 29. mai.  </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="bold">Sámásta 2 starter torsdag 14. februar, og siste kursdag er 30. mai.  </em>
-    </p>
-    <p xml:lang="nob">Kursene er gratis og åpne for alle. Kursmateriell kan kjøpes på Árran.</p>
-    <p xml:lang="nno">For påmelding, ta kontakt med Árran på tlf: 75 77 51 00 eller e-post: poassta@arran.no</p>
-    <p xml:lang="nob">For mer informasjon om språkkursene, kontakt Lars-Filip Paulsen eller Samuel Gælok, tlf. 75 77 51 00. Se også vår språkkalender, via lenken:</p>
-    <p>http://www.arran.no/arrana-giellarijmmo-2013.5148479-240161.htm</p>
-    <p xml:lang="nno">
-      <em type="bold"> </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>295</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/julevsamegielalulesamisk-alggoaahpadusbegynneropplaering.5147988-99577.html</origFileName><parallel_text xml:lang="nob" location="julevsamegielalulesamisk-alggoaahpadusbegynneropplaering.5147988-99577.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Julevsámegiela/Lulesamisk álggoåhpadus/begynneropplæring - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title" xml:lang="nob">13. - 14.02.2013 Árranin/på Árran.</p>
+<p type="title">Julevsámegiela/Lulesamisk álggoåhpadus/begynneropplæring</p>
+<p>Sámásta 1: guovvamáno 13. biejve/ onsdag 13. februar. Sámásta 2: guovvamáno 14. biejve/ onsdag 14. februar.</p>
+<p><em type="bold">Julevsámegiela álggoåhpadus Árranin - Sámásta 1 og 2  </em></p>
+<p>Árran álggá guovtijn julevsámegiela åhpadusájn ållessjattugijda Sámásta 1 ja 2. Kursa li rahpasa gájkajda gudi sihti julevsámegielav oahppat. Sámásta 2 le sidjij gudi åvdutjis vehin máhtti.</p>
+<p><em type="bold">Sámásta 1 le juohkka gasskavahko 09.00 – 14.00 </em></p>
+<p><em type="bold">Sámásta 2 le juohkka duorastagá 09.00 – 14.00  </em></p>
+<p>Juohkka kursan li 70 åhpadimtijma tjoahkkáj.</p>
+<p><em type="bold">Sámásta 1 álggá gasskavahko guovvamáno 13. biejve kl 09.00  </em></p>
+<p>, ja hæjttá 29.05.13 <em type="bold">Sámásta 2 álggá duorastagá guovvamáno 14. biejve kl 09.00 </em>, ja hæjttá 29.05.13. </p>
+<p>Kursa li navku ja gájkajda rahpasa. Oahppámnævojt kurssaj oattjo Árranin oasstet.</p>
+<p>Diededimev kursajda ja diedojt kursaj birra vattá telefåvnå 75 77 51 00 jali mejla poassta@arran.no baktu.</p>
+<p>Ienep diedojt vaddeba Lars-Filip Paulsen jali Samuel Gælok: tlf. 75775100</p>
+<p>Gehtja aj mijá giellarijmov dánna:</p>
+<p>http://www.arran.no/arrana-giellarijmmo-2013.5148479-240161.htm</p>
+<p xml:lang="nob"><em type="bold">Lulesamisk begynneropplæring på Árran – Sámásta 1 og 2  </em></p>
+<p xml:lang="nob">Árran starter opp to lulesamiske språkkurs for voksne, Sámásta 1 og 2. Kursene er åpne for alle som ønsker å lære seg lulesamisk. Sámásta 2 er beregnet på de som kan litt samisk fra før.</p>
+<p xml:lang="swe"/>
+<p xml:lang="nob"><em type="bold">Sámasta 1 foregår på onsdager kl 09.00–14.00.  </em></p>
+<p xml:lang="dan"><em type="bold">Sámásta 2 foregår på torsdager kl 09.00–14.00.  </em></p>
+<p xml:lang="nob">Hvert kurs er på totalt 70 undervisningstimer.</p>
+<p xml:lang="nob"><em type="bold">Sámásta 1 starter onsdag 13. februar, og siste kursdag er 29. mai.  </em></p>
+<p xml:lang="nob"><em type="bold">Sámásta 2 starter torsdag 14. februar, og siste kursdag er 30. mai.  </em></p>
+<p xml:lang="nob">Kursene er gratis og åpne for alle. Kursmateriell kan kjøpes på Árran.</p>
+<p xml:lang="nno">For påmelding, ta kontakt med Árran på tlf: 75 77 51 00 eller e-post: poassta@arran.no</p>
+<p xml:lang="nob">For mer informasjon om språkkursene, kontakt Lars-Filip Paulsen eller Samuel Gælok, tlf. 75 77 51 00. Se også vår språkkalender, via lenken:</p>
+<p>http://www.arran.no/arrana-giellarijmmo-2013.5148479-240161.htm</p>
+<p xml:lang="swe"><em type="bold"> </em></p>
+</body></document>

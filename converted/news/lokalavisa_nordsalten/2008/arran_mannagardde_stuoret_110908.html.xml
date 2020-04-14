@@ -1,44 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Árran Mánnágárdde stuoret</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2008</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>157</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/-rran-m-nn-g-rdde-stuoret.3968</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Árran Mánnágárdde stuoret</p>
-    <p>Mánájgárdde Árran julevsáme guovdátjin stuoreduvvá. Gasskavahko máná ja ållessjattuga ávvudallin ådårahpamav gáhkoj ja bruvsajn, ja smávmánájåssudahkaj li 8 ådå máná álggám.</p>
-    <p>Árran Mánnágárdde dåjmaduvvá priváhta hámen Árran julevsáme guovdátjis. Dálla mánájgárdde le adnegoahtám lanjájt gånnå åvddåla lij girjjevuorkká, ja de le dal sadje 18 mánájda smávmánájåssudagán ja 18 mánájda stuormánájåssudagán. Uddni li 28 máná sáme mánájgárden Ájluovtan, valla vil ienep máná tjaktjaj båhti.</p>
-    <p>Lip oadtjum gasskabåddåsasj dåhkkimusáv ja vierttip gålmmå jage duogen ådå mánájgárdev tsieggit. Uddni dåmadip lanjájt adnuj mánájgárdden. Stivrraj le sierraláhkáj ájnas vaj nanodip mánáj riektáv sámegiellaj, javllá Árran julevsáme guovdátja vuolledirektørra Kitty Aira. Ådå stuoves lanjáj tsieggimbarggo le áttjak álggám, valla gájbbádus bargguj álgget le ruhtadibme.</p>
-    <p>- Lars Paulsen juohká njunnjusjvirgev Birgit Andersenijn.</p>
-    <p>- Mujna le háldaduslasj ja ekonomalasj åvdåsvásstádus, ja Birgitin le pedagogalasj åvdåsvásstádus, javllá dudálasj mánájgárddenjunnjusj.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Árran Mánnágárdde stuoret"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Árran Mánnágárdde stuoret</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2008</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>157</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/-rran-m-nn-g-rdde-stuoret.3968</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Árran Mánnágárdde stuoret</p>
+<p>Mánájgárdde Árran julevsáme guovdátjin stuoreduvvá. Gasskavahko máná ja ållessjattuga ávvudallin ådårahpamav gáhkoj ja bruvsajn, ja smávmánájåssudahkaj li 8 ådå máná álggám.</p>
+<p>Árran Mánnágárdde dåjmaduvvá priváhta hámen Árran julevsáme guovdátjis. Dálla mánájgárdde le adnegoahtám lanjájt gånnå åvddåla lij girjjevuorkká, ja de le dal sadje 18 mánájda smávmánájåssudagán ja 18 mánájda stuormánájåssudagán. Uddni li 28 máná sáme mánájgárden Ájluovtan, valla vil ienep máná tjaktjaj båhti.</p>
+<p>Lip oadtjum gasskabåddåsasj dåhkkimusáv ja vierttip gålmmå jage duogen ådå mánájgárdev tsieggit. Uddni dåmadip lanjájt adnuj mánájgárdden. Stivrraj le sierraláhkáj ájnas vaj nanodip mánáj riektáv sámegiellaj, javllá Árran julevsáme guovdátja vuolledirektørra Kitty Aira. Ådå stuoves lanjáj tsieggimbarggo le áttjak álggám, valla gájbbádus bargguj álgget le ruhtadibme.</p>
+<p>- Lars Paulsen juohká njunnjusjvirgev Birgit Andersenijn.</p>
+<p>- Mujna le háldaduslasj ja ekonomalasj åvdåsvásstádus, ja Birgitin le pedagogalasj åvdåsvásstádus, javllá dudálasj mánájgárddenjunnjusj.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Árran Mánnágárdde stuoret"</span> på Facebook</p>
+</body></document>

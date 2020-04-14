@@ -1,280 +1,152 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1808</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20andrespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Samisk-som-andrespraak/Samegiella-nubbengiellan-samegiella-2-ja-samegiella-3/Hoyremeny-toppniva/Eksempler-pa-sprakdomener/index.html</origFileName>
-    <parallel_text xml:lang="nob" location="15_eksempler-pa-sprakdomener.html"/>
-    <parallel_text xml:lang="sma" location="15_eksempler-pa-sprakdomener.html"/>
-    <parallel_text xml:lang="sme" location="15_eksempler-pa-sprakdomener.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Gielladomena</p>
-    <p type="title">Gielladomena</p>
-    <p xml:lang="nob">Hovedinnhold</p>
-    <p>
-      <em type="bold">Gielladille Sámen moatten láhkáj ij la tjielgga. Moattes máhtti gielav njálmálattjat valla e máhte tjállet. Moattes dádjadi gielav valla e sáhkada. Moattes sihti gielav oahppat. </em>
-    </p>
-    <p>Sæmmi bále le geográfalasj sieradusá. Guovdásj sáme guovlojn gullu sámegiella juohkka sajen, valla ietjá sajijn sámásti jur muhtem fámilja.</p>
-    <p>Mij åhpadussaj guosská, li hásstálusá åvdemusát mánájt ja nuorajt oadtjot njálmálattjat guládallen ja dåjmalattjat guovtegielagin. Sij de dárbahi buorre sáhkadambájkijt, ulmutjijt ja dilijt gånnå gulli gielav ja máhtti sámástit. Dá dán bagádallamin gielladomednan gåhtjoduvvi.</p>
-    <p>Åvvå væráldin li moattegielak sebrudagá gånnå ieneplågo giella le vuostasjgiellan. Duohta le, ij nágin tijmma vahkkuj le nuoges oahppat unneplågo gielav vaj dat oahppijda sjaddá viesso giellan. Gå sámegiella åhpaduvvá nubbengiellan, le dákkir åhpadusvuohke årrum dábálasj ja le vil uddnik.</p>
-    <p>Máhttá javllat, dát le gienes åhpadusvuohke. Dákkir vuohke de årru hárinissan gå skåvllå galggá årrot ræjddo jårggålit giellamålssomav. Sierraláhkáj dát boahtá vuojnnusij oarjjelsáme dáfojn gånnå li ienep nubbegielak oahppe ienni gå vuostasj gielaga.</p>
-    <p>Jus mij galggap sámegielav bisodit ja nannit nubbegiel åhpadusá baktu, de vierddiji oahppe oadtjot nannusap guovtegielak modellajt sæmmi vuoge milta gåktu ietjá rijka Europan ásadi nubbegiel åhpadusáv iemeårroj unneplågo gielajt.</p>
-    <p>Buoremusát lij jus åhpadus divna fágajn luluj årrot sámegiellaj. Giellaháldadusguovloj ålggolin ælla nav moadda skåvlå ma li dáv tjadádam. Sivva dási le árbbedábálasj organiseridum sámegielåhpadus, sámegielak åhpadiddje vánesvuohta, binná oahppamnævo sámegiellaj fágajn ja binná oahppe juohkka skåvlån.</p>
-    <p>Huoman le máhttelis ásadit åhpadusáv nannusap giellalávgoj hámijn ienni gå uddni, ietjá bágoj javladum, vijdedit sámegielak domenajt bájkálasj gájbbádusáj milta.</p>
-    <p xml:lang="nob">Vis alle</p>
-    <p type="title">Gielladomenabuojkulvisá</p>
-    <p>Sámeladnja máhttá ásaduvvat skåvlån sáme ståhkusij, girjij, musihkaj, biktasij, duojij ja ietjá rustigij, duola degu låvdagoahte tjiegan ja låvdagoahte ålggon. Ladnja ja låvdagoahte aneduvvi aktelasj. Gå oahppe li danna de ságasti sij jur sámegiellaj, rumájgielajn jali ij.</p>
-    <p>Sij vierddiji ålgusjbælláj mannat gatjádittjat dárruj. Oahppijn máhttá aj sierra subtsastambåddå gånnå åhpadiddje jur sámás ja aj vuoset bágoj sisanov gåvåj subtsasdahttijn. De sjaddá <span type="quote" xml:lang="nob">"time out"</span> jus dárogiella galggá aneduvvat.</p>
-    <p>Gesi ij le máhttelis sierra ladnja, máhttá dagáduvvat plakáhtta jali ietjá dåbddomerka ma vuojnnuji gå ladnja galggá årrot gielladomedna jali sámegielak ladnja.</p>
-    <p>Ietjá buojkulvis le dahkat sáme giellabájkev jali gielladomenav le oadtjot vuorasulmutjijt jali ietjá resurssaulmutjijt gejt oahppe máhtti duolloj dálloj guossidit. Sij aj, dá ulmutja, guossidit oahppijt skåvlån. Dánna dåhkkiji praktihkalasj dahkamusá aneduvvat vuodon guládallamin, duola degu sáme biebbmo, duodje jali juojgos, lávlla/lávllajuohkusa jali muoduklágátja.</p>
-    <p>Vuollelin tjuovvu gielladomednabuojkulvisá ma máhtti nannit giellaåhpadusáv sámegieloahppijda. Vaj buoremus vájkkudusáv giellaåhpadusás oadtjot vierddi åhpadiddje organiserit dav nav vaj oahppe fáladuvvi ienemus domenajs nammadum vuollelin.</p>
-    <p>
-      <em type="bold">Gielladomena tjanádum ulmutjijda: </em>
-    </p>
-    <list>
-      <p type="listitem">åhpadiddje</p>
-    </list>
-    <p>Sámegielak åhpadiddje le ájnnasamos gielladomena juohkka skåvlån. Sij vierddiji gæhttjalit álu sámástit. Jus máhttelis gå li guokta åhpadiddje, de máhttá akta åhpadiddje dåssju sámástit tijmajn ja nubbe guoppátjijt gielajt hållat..</p>
-    <list>
-      <p type="listitem">ietjá bájkálasj sámegielak resurssaulmutja, vuorasulmutja ja iehtjáda gudi máhtti vuosádallat jali vuosedit</p>
-    </list>
-    <p>Álu gávnnuji moadda sámegielak resurssaulmutja láhkabirrusin. Gåhttjut sijájt nåv ruvva ja álu gåk máhttelis le, duola degu smidás duoddjárijt, subtsastiddjijt, várreulmutjijt, artistajt ja vuostasjgielakoahppijt.</p>
-    <p>Ájnas le sjiehtadusájt resurssaulmutjij tjielgga dahkat vaj sij galggi jur sámásti. Tjielggi manen nav galggi barggat.</p>
-    <p>Ietján máhtti dárustahttját jus vásedi oahppe e dádjada. Åhpadiddje ja resurssaulmutja máhtti såbadit åvtutjis gåktu rijbadit dakkir dilij.</p>
-    <list>
-      <p type="listitem">vuorasap oahppe skåvlån</p>
-    </list>
-    <p>Vuorasap oahppe vierddiji aloduvvat sámástittjat gasskanisá ja nuorap oahppij skåvlån. Vuorasap oahppe máhtti oassálasstet åhpadussaj nuorap oahppijda jus gárveduvvá nåv vaj ávkken le guoppátjijda. Dát le de oasse vuorasap oahppij åhpadussaj.</p>
-    <list>
-      <p type="listitem">sáme figuvra ja biktasa</p>
-    </list>
-    <p>Roallaoavdástallmin aneduvvi sáme figuvra ja/jali biktasa. Oahppe tjágñi sámegielak roallaj dalága gå dá aneduvvi.</p>
-    <p>Da máhtti liehket sámefiguvra ma gåvviji bállotjiektjijt, giehtabállospællárijt, vuoddjijt, dálkudiddjijt, guollárijt, ællobarggijt jnv. Oahppe galggi sámástit dan rålla milta mij sijájn le.</p>
-    <list>
-      <p type="listitem">oahppe ietjá skåvlåjs ja ráddnaklássajs</p>
-    </list>
-    <p>Ane sosiála mediajt. Oahppe tjáhttiji duolloj dálloj sábmáj.Sij máhtti fágalattjat aktan barggat, duola degu temá birra sábmáj digitála wiki’av tjállet.</p>
-    <list>
-      <p type="listitem">ietjá ulmutja</p>
-    </list>
-    <p>Girjjevuorkkár, oahppobagádiddje, ja ietjá sámegielak ulmutja skåvlån gudi máhtti viehkken.</p>
-    <p>
-      <em type="bold">Gielladomena tjanádum sajijda: </em>
-    </p>
-    <list>
-      <p type="listitem">sierra klássaladnja</p>
-    </list>
-    <p>Ájnas la adnet sierra klássalanjáv gånnå sámegielåhpadus galggá jage tjadá. Dánna máhtti divna sáme rustika vuorkkiduvvat. Oahppij bargo ja plakáhta giellaåhpadimen máhtti gatsoduvvat sæjnnáj ja ij le de dárbbo rijddalit saje nanna.</p>
-    <p>Tjiehka klássalanján máhttá ållåsit nammaduvvat sámegieldomednan.</p>
-    <p>Åhpadiddje ja oahppe dahki sjiehtadusáv gånnå ja gåktu guládallam galggá klássalanján.</p>
-    <list>
-      <p type="listitem">sierra tjiehka ja sadje siejnen oahppe dábálasj klássalanján</p>
-    </list>
-    <p>Ájnas le sámegiella (ja kultuvrra) le vuojnnusin klássalanján gånnå oahppe li ienemus ájgev.  Sámegielak oahppij bargo jnv. galggi gahtsusin</p>
-    <list>
-      <p type="listitem">aktisasj bårråma skåvlån</p>
-    </list>
-    <p>Jus le máhttelis de la buorre jus divna sámegielak oahppe skåvlån máhtti aktan bårråt  gå le biebbmobåddå, duola degu akti vahkkuj gåsi aj sámegiel åhpadiddje oassálasstá. Dát le buorre sjiehtes ájgge bæjválasjsámegielav sáhkadit.</p>
-    <list>
-      <p type="listitem">ráddjim bájkke ålggon</p>
-    </list>
-    <p>Jus muhtem ålggobájkke máhttá ráddjiduvvat sámegielbájkken de la dat ávkálasj.</p>
-    <list>
-      <p type="listitem">låvdagoahte/lavnnjegábmá</p>
-    </list>
-    <p>Låvdagoahte máhttá tsakkaduvvat skåvlå láhkusin. Dánna máhttá sámegiel åhpadus årrot dábálattjat.</p>
-    <p>Ietjá oahppe máhtti aj gámáv adnet gå sijájn li sáme temá. Sij máhtti dán láhkáj oadtjot positijvalattjat åtsådallat sámev, duola degu sáme biebmojt, subttsasijt ja juojggusijt.</p>
-    <list>
-      <p type="listitem">ålggoskåvllå</p>
-    </list>
-    <p>Ássat ålggoskåvlåv sáme láhkábirrusin, tjanádum duola degu sáme árbbedábálasj æládusájda ja/jali dåjmajda.</p>
-    <p>Stádaskåvlå sámegiel oahppe máhtti gávnnat ja adnet aktisasj miehttse- jali luonndosajev stáda láhkabirrusin. Dánna oahppe máhtti adnet aktisasj giellabájkev ájggeguovddelis temáj soames bále jage nalluj.</p>
-    <list>
-      <p type="listitem">friddjabåttå</p>
-    </list>
-    <p>Organiseri muhtem friddjabåttåjt vahkkuj sámegieldåjmaj ja ståhkusij.</p>
-    <list>
-      <p type="listitem">vuodo digitála oahppamij</p>
-    </list>
-    <p>Skåvlå máhtti ásadit sámegiel digitála oahppamvuodojt ma máhtti aneduvvat interaktijvalattjat oahppij.</p>
-    <list>
-      <p type="listitem">guhkásåhpadibme</p>
-    </list>
-    <p>Oahppijn gænna ælla sámegielak åhpadiddje tjanádum bájkálasj skåvllåj, máhtti oadtjot guhkásåhpadimev duolloj dálloj videorustigij tjadá.</p>
-    <list>
-      <p type="listitem">bájke gånnå li árbbedábálasj æládusá</p>
-    </list>
-    <p>Guossidibme, skåvllåmanno ja sajijskåvlå máhtti guossiduvvat. Dán láhkáj máhtti oahppe iejvvit iehtjádijt gudi sámásti, ja oahppat binnáv árbbedábálasj sáme æládusáj birra.</p>
-    <p>Ájnas le dahkat sjiehtadusájt tjielgga resurssaulmutjij vaj sij jur sámásti. Tjielggi manen nav galggi barggat. Ietján máhtti dárustahttját jus vásedi oahppe e dádjada. Åhpadiddje ja resurssaulmutja máhtti såbadit åvtutjis gåktu rijbadit dakkir dilij.</p>
-    <p>
-      <em type="italic">Gielladomena tjanádum fágajda: </em>
-    </p>
-    <list>
-      <p type="listitem">sámegiella</p>
-    </list>
-    <p>Madi åhpadiddje ienebut sámás, dadi buorep le. Huoman vierddi åhpadiddje vissásit diehtet jus oahppe dádjadi mij javladuvvá. Åhpadiddje ij bierri jårggålit ienebuv gå dárbulasj le, nåv vaj oahppe dádjadi ávkálasj la oahppat sámegielav.</p>
-    <p>Sámegiella ja praktihkalasj fága aktan le sierraláhkáj ávkken giellaoahppamin. Ållo dádjadusás máhttá tjanáduvvat praktihkalasj dåjmajda degu, biebbmodahkamij, duodjáj ja lásjmudallamij. Musihkan le juojggamladnja buojkulvissan.</p>
-    <p>Madi ienebut åhpadus le sámegiellaj praktihkalasj fágajn, dadi buorep le. Dåjma ja giella vuodusti nubbe nuppev.</p>
-    <list>
-      <p type="listitem">duodje</p>
-    </list>
-    <list>
-      <p type="listitem">biebmo ja varresvuohta</p>
-    </list>
-    <list>
-      <p type="listitem">lásjmudallam</p>
-    </list>
-    <list>
-      <p type="listitem">musihkka</p>
-    </list>
-    <list>
-      <p type="listitem">sebrudakfáhka</p>
-    </list>
-    <p>Ållo sebrudakåhpadusás máhttá sámegiellaj årrot. Viehka dat viehket nannit ja báredit oahppij báhkoboanndudagáv.</p>
-    <p>Dát le aj viehkken oahppijda sámástit duon dán dilen mij guosská bæjválasj iellemij ja aj dålutjij. Sierraláhkáj sáme momenta oahppoplánan máhtti dagáduvvat sámegiellaj</p>
-    <list>
-      <p type="listitem">matematihkka</p>
-    </list>
-    <p>Ávkálsj le barggat riekknimijn vuodotjehpudahkan ja matamatihkajn sábmáj, duola degu stuorrudahka, hábme, jåhto sajen ja buohtastahttem.</p>
-    <p>Árbbedábálasj sáme riekknim máhttá aj tebmán. Sáme girjos hiehpá buoragit hámen ja geometrian. Matematihkka ja duodje máhtteba dánna dagáduvvat fágajgasskasattjan.</p>
-    <list>
-      <p type="listitem">• luonndofáhka</p>
-    </list>
-    <p>Ållo luonndodakfága åhpadusás máhttá årrot sámegiellaj. Dat ålov viehket oahppij báhkoboanndudagáv lasedit. Viehket aj oahppijt sámástit ienep dilijn.</p>
-    <list>
-      <p type="listitem">aktisattjat teorehtalasj fágaj</p>
-    </list>
-    <p>Máhttá ávkálasj álgadit ådå temáv jali ådå ábnnasijt dárruj. Ådå sáme moallánagá tjanádum sæmmi ábnnasij álgadi sæmmi bále.</p>
-    <p>Dan maññela åhpadiddje sámás ja jårggål jus dárbbo le dádjadime hárráj. Gehtja ienebu dán birra, Øzerk (2006-2).</p>
-    <p>Ájnas le aj oahppe jage tjadá dahki sámegielak <span type="quote">”buvtagijt”</span> moatten fágajn, fágajgasskasattjat ja digitálalattjat aj.</p>
-    <list>
-      <p type="listitem">ietjá fága, prosjevta ja temá</p>
-    </list>
-    <p>Oahppe máhtti barggat fágajgasskasattjat ja/jali prosjevtalattjat sáme temáj sábmáj.</p>
-    <list>
-      <p type="listitem">temálágátja sáme-dárobáhkolista</p>
-    </list>
-    <p>Temálágásj báhkolista máhtti dagáduvvat viehkken moallának- ja báhkooahppamij.</p>
-    <p>
-      <em type="italic">Gielladomena tjanádum ájggáj: </em>
-    </p>
-    <list>
-      <p type="listitem">sámegielåhpadibme tjanádum ájggáj</p>
-    </list>
-    <p>Jus sámegiella aneduvvá oahppamgiellan sjaddá adno ájgev mierredit vahko tjadá tijmmaplánan. Máhttelis le aj organiserit skåvllåbiejvev nåv vaj oahppe iejvviji sámegielav mierredum ájgijda biejvenalluj, duola degu juohkka ideda.</p>
-    <p>
-      <em type="italic">Gielladomena tjanádum sáme gåvåstagájda: </em>
-    </p>
-    <list>
-      <p type="listitem">galba ja ietjá almulasj diedo skåvlån</p>
-    </list>
-    <p>Skåvlå sáme guovlojn máhtti galbbit sábmáj, ålggon ja goaden aj.</p>
-    <list>
-      <p type="listitem">gåvå</p>
-      <p type="listitem">plakáhta</p>
-      <p type="listitem">slávggá/bievddeslávggá</p>
-    </list>
-    <p>Jus e gávnnu sierra ráddjidum gielladomena skåvlån, máhtti sáme gåvåstagá aneduvvat signállan. Duola degu jus bievddeslávggá biejaduvvat bævddáj, máhttá dat vuosedit dálla divna galggá sámegiellaj. Oahppe máhtti tjåhkanit temáplakáhta birra ja såbadit ságastallam galggá sábmáj.</p>
-    <p>
-      <em type="italic">Giellatjåhkanime </em>
-    </p>
-    <list>
-      <p type="listitem">Giellalávggom, giellabiesse</p>
-    </list>
-    <p>Oahppe bierriji  jage tjadá oassálasstet giellatjåhkanimijda gånnå sámegiella, njálmálasj guládallam le tjalmmusin.</p>
-    <p>
-      <em type="italic">Dahpádusá: </em>
-    </p>
-    <list>
-      <p type="listitem">guovvamáno 6. biejvve</p>
-    </list>
-    <p>Gárvvidit ja tjadádit Sámeálmmugabiejvev.</p>
-    <list>
-      <p type="listitem">ietjá ásadime</p>
-    </list>
-    <p>Oahppe máhtti ietjá ásadimijt skåvlåjage tjadá ásadit. Sij máhtti duola degu temátijmajda vuoras sámegielagijt gåhttjot.</p>
-    <p>
-      <em type="italic">Ietján: </em>
-    </p>
-    <list>
-      <p type="listitem">DVD-a sámegiellaj</p>
-      <p type="listitem" xml:lang="nob">CD-a</p>
-      <p type="listitem">Aktisasjbarggo NRK-sámeradioajn</p>
-      <p type="listitem">sáme girjjevuorkká</p>
-      <p type="listitem">sáme ruossabágo, árvvádusá, gåvvårájdo</p>
-      <p type="listitem">digitála gåvå/video/jiena</p>
-    </list>
-    <p>Madi ienep girje li sadjihin, dadi ienep låhkåm máhttá sámegiellaj sjaddat.</p>
-    <p>Ruossabágo máhtti dagáduvvat dáhtámasjijnan. Gávnnuji prográmma ma nåvku dåhkkiji aneduvvat.</p>
-    <p>Oahppe dahki gåvvårájdojt/videoav tevstaj. Dáv dåhkki dahkat divna fágajn. Filma, spela jnv.</p>
-    <p>Juojggam sáme mánájlávla, sáme musihkka, sálma, sáme subttsasa jnv.</p>
-    <p>Sáme mánájfilma ja prográmma mánáj-tv’an</p>
-    <p>
-      <em type="italic">Sijdan: </em>
-    </p>
-    <list>
-      <p type="listitem">æjgáda, åvdåstiddje, oarbbena, ádjá, áhko ja ietjá berraha</p>
-      <p type="listitem">plánsja álfábehtajn ja tevsta tjanádum duon dán tebmáj rájaduvvi sijddaj skåvlås ja gatsoduvvi siejnijda sijdan</p>
-    </list>
-    <p>Dagá oahppijt diedulattjan gejna sij máhtti sijdan sámástit. Dát le ájnas sadje giellaoahppamij danen gå æjgáda, oarbbena ja ietjá berraha máhtti måvtustuhttet oahppev sámegielav oahppat ja oahppe máhtti sámástit ienebuv gå ij le skåvllåájgge.</p>
-    <p>Juska moadda æjgáda e sámásta ållåsijt, máhtti ienemus oasse binná sámegielav. Divna vierddiji sáhkadit majt máhtti, lehkusa makkir dásen.</p>
-    <list>
-      <p type="listitem">sámegielakdåjma</p>
-    </list>
-    <p>Gæhttjala oadtjot såbadusáv æjgádij nav vaj sij aj máhtti ásadit muhtem sámegielak dåjmajt aktan oahppij, duola degu akti mánnuj. Ájnas le æjgáda garrasit oassálassti mánáj guovtagielakåhpadussaj.</p>
-    <p>
-      <em type="italic">Asstoájgge: </em>
-    </p>
-    <list>
-      <p type="listitem">rádna</p>
-      <p type="listitem">dåjma</p>
-      <p type="listitem">girje</p>
-      <p type="listitem">ájggetjállaga (Sj, Nuorat, Samefolket)</p>
-      <p type="listitem" xml:lang="nob">ávijsa (Avvir, Sagat, Snåsningen, Nord-Salten Avis, Daerpies Diere)</p>
-      <p type="listitem" xml:lang="nob">PC-spela</p>
-      <p type="listitem">spela</p>
-      <p type="listitem">giellakáfea</p>
-    </list>
-    <p>Dagá oahppijt diedulattjan gejna sij máhtti sámástit. Siján li márjju rádna gudi sámásti, ja gávnnuji sámegielak girjje, ávijsa, ájggetjállaga majt sij máhtti aloduvvat låhkåt.</p>
-    <p>Máhtti gávnnut tv-prográmma majt oahppe máhtti gæhttjat, ja dåjma majta máhtti oassálasstet gielav nannitjit. Muhtema máhtti álgadit giellakáfeajt ásadit.</p>
-    <list>
-      <p type="listitem">ásadime ja æjvvalime bájkálasj sámesiebrijn</p>
-    </list>
-    <p>Æjvvalit sámegielagij sámesiebrij  ásadusájn ja æjvvalimijn. Hasodit sámesiebrijt dahkat  tebmán gåktu sámegielav ælládit,  ja ásadit fássta sajijt gånnå oahppe ja ållessjattuga máhtti æjvvalit dagátjit juojddá aktan, duola degu málestit, duodjuhit, ja aj spellat spelajt..</p>
-    <p>Jus galggá vuorbástuvvat giellabiessemodellaj nammat Øzerk (2006) dájt ájnas faktåvråjt:</p>
-    <list>
-      <p type="listitem">bájkálasj sebrudahka doarjjot</p>
-      <p type="listitem">doarjjo skåvllånjunnjusijs, háldadimulmutjijs ja politihkalasj mierrediddjijs</p>
-      <p type="listitem">æjgádij doarjja</p>
-      <p type="listitem">gárvedum åhpadiddje, jib, åhpadiddje gænna le pedagogalasj vuodo ja guovtegielak máhtudahka</p>
-      <p type="listitem">luohkko buorre oahppamnævojda</p>
-      <p type="listitem">ájgge åhpadiddjijda åhpadimnævojt duon dán giellaj tjállet ja hiebadit</p>
-      <p type="listitem">avtatrájes lasseåhpadusvejulasjvuoda åhpadiddjijda</p>
-    </list>
-    <p>Vuodo nanos guovtegielak oahppammodællaj juo biejaduvvá mánnágárden.Buorre sámegielak åhpadus mánnágárden, duola degu giellabiessemodella tjadá, le ávkálasj gå galggá ásadit nanos giellabiessemodellajt skåvlån.</p>
-    <p>Dån máhtá låhkåt ienebuv giellabiessemodella birra ja rasjes ja nanos guovtegielak oahppomodella birra girjijn Todal (2002), Todal (2007), Øzerk (2006-1) og Øzerk (2006-2).</p>
-    <p type="title">Oajvvádum girjálasjvuohta</p>
-    <p type="title">Praktihkalasj girje ma åhpadiddjáj máhtti ávkken bæjválasj giellaåhpadimen:</p>
-    <p xml:lang="nob">Juuso, Jane (2009): <em type="italic">Tar språket mitt tilbake </em>, Isak Saba senteret Todal, Jon og Pope, Martin (1996): <em type="italic">Våg å snakke </em>, Samisk utdanningsråd Todal, Jon (2007): <em type="italic">Samisk språk i Svahken sijte </em>, Samisk språkvitalisering gjennom barnehage og skule, Dieđut. Sámi Instituhtta/Nordisk Samisk Institutt Øzerk, Kamil Z. og Juuso, Randi (1999): <em type="italic">Pedagogisk idébok for tospråklige barnehager </em>, Samisk utdanningsråd </p>
-    <p type="title">Ietjá ávkálasj girjálasjvuohta guovtegielak åhpadussá ja gielladomenaj birra:</p>
-    <p xml:lang="nob">Todal, Jon (2002): <em type="italic"><span type="quote">"…jod fal gáhttet gollegielat"</span> Vitalisering av samisk språk i Norge på 1990-talet </em>, Universitetet i Tromsø Øzerk, Kamil (2006-1): <em type="italic">Tospråklig opplæring, utdanningspolitiske og pedagogiske perspektiver </em>, Vallset: Oplandske Bokforlag Øzerk, Kamil (2006-2): <em type="italic">Fra språkbad til språkdrukning </em>, Vallset: Oplandske Bokforlag Øzerk, Kamil (2007): <em type="italic">Tospråklige overgangsmodeller og tosidige modeller, organisering, prinsipper og praksis </em>. Vallset: Oplandske Bokforlag </p>
-    <p>Gehtja aj dábálasj girjálasjvuodalistan ienep hiebalgis girjijt.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1808</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20andrespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Samisk-som-andrespraak/Samegiella-nubbengiellan-samegiella-2-ja-samegiella-3/Hoyremeny-toppniva/Eksempler-pa-sprakdomener/index.html</origFileName><parallel_text xml:lang="nob" location="15_eksempler-pa-sprakdomener.html"/><parallel_text xml:lang="sma" location="15_eksempler-pa-sprakdomener.html"/><parallel_text xml:lang="sme" location="15_eksempler-pa-sprakdomener.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Gielladomena</p>
+<p type="title">Gielladomena</p>
+<p xml:lang="nob">Hovedinnhold</p>
+<p><em type="bold">Gielladille Sámen moatten láhkáj ij la tjielgga. Moattes máhtti gielav njálmálattjat valla e máhte tjállet. Moattes dádjadi gielav valla e sáhkada. Moattes sihti gielav oahppat. </em></p>
+<p>Sæmmi bále le geográfalasj sieradusá. Guovdásj sáme guovlojn gullu sámegiella juohkka sajen, valla ietjá sajijn sámásti jur muhtem fámilja.</p>
+<p>Mij åhpadussaj guosská, li hásstálusá åvdemusát mánájt ja nuorajt oadtjot njálmálattjat guládallen ja dåjmalattjat guovtegielagin. Sij de dárbahi buorre sáhkadambájkijt, ulmutjijt ja dilijt gånnå gulli gielav ja máhtti sámástit. Dá dán bagádallamin gielladomednan gåhtjoduvvi.</p>
+<p>Åvvå væráldin li moattegielak sebrudagá gånnå ieneplågo giella le vuostasjgiellan. Duohta le, ij nágin tijmma vahkkuj le nuoges oahppat unneplågo gielav vaj dat oahppijda sjaddá viesso giellan. Gå sámegiella åhpaduvvá nubbengiellan, le dákkir åhpadusvuohke årrum dábálasj ja le vil uddnik.</p>
+<p>Máhttá javllat, dát le gienes åhpadusvuohke. Dákkir vuohke de årru hárinissan gå skåvllå galggá årrot ræjddo jårggålit giellamålssomav. Sierraláhkáj dát boahtá vuojnnusij oarjjelsáme dáfojn gånnå li ienep nubbegielak oahppe ienni gå vuostasj gielaga.</p>
+<p>Jus mij galggap sámegielav bisodit ja nannit nubbegiel åhpadusá baktu, de vierddiji oahppe oadtjot nannusap guovtegielak modellajt sæmmi vuoge milta gåktu ietjá rijka Europan ásadi nubbegiel åhpadusáv iemeårroj unneplågo gielajt.</p>
+<p>Buoremusát lij jus åhpadus divna fágajn luluj årrot sámegiellaj. Giellaháldadusguovloj ålggolin ælla nav moadda skåvlå ma li dáv tjadádam. Sivva dási le árbbedábálasj organiseridum sámegielåhpadus, sámegielak åhpadiddje vánesvuohta, binná oahppamnævo sámegiellaj fágajn ja binná oahppe juohkka skåvlån.</p>
+<p>Huoman le máhttelis ásadit åhpadusáv nannusap giellalávgoj hámijn ienni gå uddni, ietjá bágoj javladum, vijdedit sámegielak domenajt bájkálasj gájbbádusáj milta.</p>
+<p xml:lang="nob">Vis alle</p>
+<p type="title">Gielladomenabuojkulvisá</p>
+<p>Sámeladnja máhttá ásaduvvat skåvlån sáme ståhkusij, girjij, musihkaj, biktasij, duojij ja ietjá rustigij, duola degu låvdagoahte tjiegan ja låvdagoahte ålggon. Ladnja ja låvdagoahte aneduvvi aktelasj. Gå oahppe li danna de ságasti sij jur sámegiellaj, rumájgielajn jali ij.</p>
+<p>Sij vierddiji ålgusjbælláj mannat gatjádittjat dárruj. Oahppijn máhttá aj sierra subtsastambåddå gånnå åhpadiddje jur sámás ja aj vuoset bágoj sisanov gåvåj subtsasdahttijn. De sjaddá <span type="quote" xml:lang="nob">"time out"</span> jus dárogiella galggá aneduvvat.</p>
+<p>Gesi ij le máhttelis sierra ladnja, máhttá dagáduvvat plakáhtta jali ietjá dåbddomerka ma vuojnnuji gå ladnja galggá årrot gielladomedna jali sámegielak ladnja.</p>
+<p>Ietjá buojkulvis le dahkat sáme giellabájkev jali gielladomenav le oadtjot vuorasulmutjijt jali ietjá resurssaulmutjijt gejt oahppe máhtti duolloj dálloj guossidit. Sij aj, dá ulmutja, guossidit oahppijt skåvlån. Dánna dåhkkiji praktihkalasj dahkamusá aneduvvat vuodon guládallamin, duola degu sáme biebbmo, duodje jali juojgos, lávlla/lávllajuohkusa jali muoduklágátja.</p>
+<p>Vuollelin tjuovvu gielladomednabuojkulvisá ma máhtti nannit giellaåhpadusáv sámegieloahppijda. Vaj buoremus vájkkudusáv giellaåhpadusás oadtjot vierddi åhpadiddje organiserit dav nav vaj oahppe fáladuvvi ienemus domenajs nammadum vuollelin.</p>
+<p><em type="bold">Gielladomena tjanádum ulmutjijda: </em></p>
+<list><p type="listitem">åhpadiddje</p>
+</list><p>Sámegielak åhpadiddje le ájnnasamos gielladomena juohkka skåvlån. Sij vierddiji gæhttjalit álu sámástit. Jus máhttelis gå li guokta åhpadiddje, de máhttá akta åhpadiddje dåssju sámástit tijmajn ja nubbe guoppátjijt gielajt hållat..</p>
+<list><p type="listitem">ietjá bájkálasj sámegielak resurssaulmutja, vuorasulmutja ja iehtjáda gudi máhtti vuosádallat jali vuosedit</p>
+</list><p>Álu gávnnuji moadda sámegielak resurssaulmutja láhkabirrusin. Gåhttjut sijájt nåv ruvva ja álu gåk máhttelis le, duola degu smidás duoddjárijt, subtsastiddjijt, várreulmutjijt, artistajt ja vuostasjgielakoahppijt.</p>
+<p>Ájnas le sjiehtadusájt resurssaulmutjij tjielgga dahkat vaj sij galggi jur sámásti. Tjielggi manen nav galggi barggat.</p>
+<p>Ietján máhtti dárustahttját jus vásedi oahppe e dádjada. Åhpadiddje ja resurssaulmutja máhtti såbadit åvtutjis gåktu rijbadit dakkir dilij.</p>
+<list><p type="listitem">vuorasap oahppe skåvlån</p>
+</list><p>Vuorasap oahppe vierddiji aloduvvat sámástittjat gasskanisá ja nuorap oahppij skåvlån. Vuorasap oahppe máhtti oassálasstet åhpadussaj nuorap oahppijda jus gárveduvvá nåv vaj ávkken le guoppátjijda. Dát le de oasse vuorasap oahppij åhpadussaj.</p>
+<list><p type="listitem">sáme figuvra ja biktasa</p>
+</list><p>Roallaoavdástallmin aneduvvi sáme figuvra ja/jali biktasa. Oahppe tjágñi sámegielak roallaj dalága gå dá aneduvvi.</p>
+<p>Da máhtti liehket sámefiguvra ma gåvviji bállotjiektjijt, giehtabállospællárijt, vuoddjijt, dálkudiddjijt, guollárijt, ællobarggijt jnv. Oahppe galggi sámástit dan rålla milta mij sijájn le.</p>
+<list><p type="listitem">oahppe ietjá skåvlåjs ja ráddnaklássajs</p>
+</list><p>Ane sosiála mediajt. Oahppe tjáhttiji duolloj dálloj sábmáj.Sij máhtti fágalattjat aktan barggat, duola degu temá birra sábmáj digitála wiki’av tjállet.</p>
+<list><p type="listitem">ietjá ulmutja</p>
+</list><p>Girjjevuorkkár, oahppobagádiddje, ja ietjá sámegielak ulmutja skåvlån gudi máhtti viehkken.</p>
+<p><em type="bold">Gielladomena tjanádum sajijda: </em></p>
+<list><p type="listitem">sierra klássaladnja</p>
+</list><p>Ájnas la adnet sierra klássalanjáv gånnå sámegielåhpadus galggá jage tjadá. Dánna máhtti divna sáme rustika vuorkkiduvvat. Oahppij bargo ja plakáhta giellaåhpadimen máhtti gatsoduvvat sæjnnáj ja ij le de dárbbo rijddalit saje nanna.</p>
+<p>Tjiehka klássalanján máhttá ållåsit nammaduvvat sámegieldomednan.</p>
+<p>Åhpadiddje ja oahppe dahki sjiehtadusáv gånnå ja gåktu guládallam galggá klássalanján.</p>
+<list><p type="listitem">sierra tjiehka ja sadje siejnen oahppe dábálasj klássalanján</p>
+</list><p>Ájnas le sámegiella (ja kultuvrra) le vuojnnusin klássalanján gånnå oahppe li ienemus ájgev.  Sámegielak oahppij bargo jnv. galggi gahtsusin</p>
+<list><p type="listitem">aktisasj bårråma skåvlån</p>
+</list><p>Jus le máhttelis de la buorre jus divna sámegielak oahppe skåvlån máhtti aktan bårråt  gå le biebbmobåddå, duola degu akti vahkkuj gåsi aj sámegiel åhpadiddje oassálasstá. Dát le buorre sjiehtes ájgge bæjválasjsámegielav sáhkadit.</p>
+<list><p type="listitem">ráddjim bájkke ålggon</p>
+</list><p>Jus muhtem ålggobájkke máhttá ráddjiduvvat sámegielbájkken de la dat ávkálasj.</p>
+<list><p type="listitem">låvdagoahte/lavnnjegábmá</p>
+</list><p>Låvdagoahte máhttá tsakkaduvvat skåvlå láhkusin. Dánna máhttá sámegiel åhpadus årrot dábálattjat.</p>
+<p>Ietjá oahppe máhtti aj gámáv adnet gå sijájn li sáme temá. Sij máhtti dán láhkáj oadtjot positijvalattjat åtsådallat sámev, duola degu sáme biebmojt, subttsasijt ja juojggusijt.</p>
+<list><p type="listitem">ålggoskåvllå</p>
+</list><p>Ássat ålggoskåvlåv sáme láhkábirrusin, tjanádum duola degu sáme árbbedábálasj æládusájda ja/jali dåjmajda.</p>
+<p>Stádaskåvlå sámegiel oahppe máhtti gávnnat ja adnet aktisasj miehttse- jali luonndosajev stáda láhkabirrusin. Dánna oahppe máhtti adnet aktisasj giellabájkev ájggeguovddelis temáj soames bále jage nalluj.</p>
+<list><p type="listitem">friddjabåttå</p>
+</list><p>Organiseri muhtem friddjabåttåjt vahkkuj sámegieldåjmaj ja ståhkusij.</p>
+<list><p type="listitem">vuodo digitála oahppamij</p>
+</list><p>Skåvlå máhtti ásadit sámegiel digitála oahppamvuodojt ma máhtti aneduvvat interaktijvalattjat oahppij.</p>
+<list><p type="listitem">guhkásåhpadibme</p>
+</list><p>Oahppijn gænna ælla sámegielak åhpadiddje tjanádum bájkálasj skåvllåj, máhtti oadtjot guhkásåhpadimev duolloj dálloj videorustigij tjadá.</p>
+<list><p type="listitem">bájke gånnå li árbbedábálasj æládusá</p>
+</list><p>Guossidibme, skåvllåmanno ja sajijskåvlå máhtti guossiduvvat. Dán láhkáj máhtti oahppe iejvvit iehtjádijt gudi sámásti, ja oahppat binnáv árbbedábálasj sáme æládusáj birra.</p>
+<p>Ájnas le dahkat sjiehtadusájt tjielgga resurssaulmutjij vaj sij jur sámásti. Tjielggi manen nav galggi barggat. Ietján máhtti dárustahttját jus vásedi oahppe e dádjada. Åhpadiddje ja resurssaulmutja máhtti såbadit åvtutjis gåktu rijbadit dakkir dilij.</p>
+<p><em type="italic">Gielladomena tjanádum fágajda: </em></p>
+<list><p type="listitem">sámegiella</p>
+</list><p>Madi åhpadiddje ienebut sámás, dadi buorep le. Huoman vierddi åhpadiddje vissásit diehtet jus oahppe dádjadi mij javladuvvá. Åhpadiddje ij bierri jårggålit ienebuv gå dárbulasj le, nåv vaj oahppe dádjadi ávkálasj la oahppat sámegielav.</p>
+<p>Sámegiella ja praktihkalasj fága aktan le sierraláhkáj ávkken giellaoahppamin. Ållo dádjadusás máhttá tjanáduvvat praktihkalasj dåjmajda degu, biebbmodahkamij, duodjáj ja lásjmudallamij. Musihkan le juojggamladnja buojkulvissan.</p>
+<p>Madi ienebut åhpadus le sámegiellaj praktihkalasj fágajn, dadi buorep le. Dåjma ja giella vuodusti nubbe nuppev.</p>
+<list><p type="listitem">duodje</p>
+</list><list><p type="listitem">biebmo ja varresvuohta</p>
+</list><list><p type="listitem">lásjmudallam</p>
+</list><list><p type="listitem">musihkka</p>
+</list><list><p type="listitem">sebrudakfáhka</p>
+</list><p>Ållo sebrudakåhpadusás máhttá sámegiellaj årrot. Viehka dat viehket nannit ja báredit oahppij báhkoboanndudagáv.</p>
+<p>Dát le aj viehkken oahppijda sámástit duon dán dilen mij guosská bæjválasj iellemij ja aj dålutjij. Sierraláhkáj sáme momenta oahppoplánan máhtti dagáduvvat sámegiellaj</p>
+<list><p type="listitem">matematihkka</p>
+</list><p>Ávkálsj le barggat riekknimijn vuodotjehpudahkan ja matamatihkajn sábmáj, duola degu stuorrudahka, hábme, jåhto sajen ja buohtastahttem.</p>
+<p>Árbbedábálasj sáme riekknim máhttá aj tebmán. Sáme girjos hiehpá buoragit hámen ja geometrian. Matematihkka ja duodje máhtteba dánna dagáduvvat fágajgasskasattjan.</p>
+<list><p type="listitem">• luonndofáhka</p>
+</list><p>Ållo luonndodakfága åhpadusás máhttá årrot sámegiellaj. Dat ålov viehket oahppij báhkoboanndudagáv lasedit. Viehket aj oahppijt sámástit ienep dilijn.</p>
+<list><p type="listitem">aktisattjat teorehtalasj fágaj</p>
+</list><p>Máhttá ávkálasj álgadit ådå temáv jali ådå ábnnasijt dárruj. Ådå sáme moallánagá tjanádum sæmmi ábnnasij álgadi sæmmi bále.</p>
+<p>Dan maññela åhpadiddje sámás ja jårggål jus dárbbo le dádjadime hárráj. Gehtja ienebu dán birra, Øzerk (2006-2).</p>
+<p>Ájnas le aj oahppe jage tjadá dahki sámegielak <span type="quote">”buvtagijt”</span> moatten fágajn, fágajgasskasattjat ja digitálalattjat aj.</p>
+<list><p type="listitem">ietjá fága, prosjevta ja temá</p>
+</list><p>Oahppe máhtti barggat fágajgasskasattjat ja/jali prosjevtalattjat sáme temáj sábmáj.</p>
+<list><p type="listitem">temálágátja sáme-dárobáhkolista</p>
+</list><p>Temálágásj báhkolista máhtti dagáduvvat viehkken moallának- ja báhkooahppamij.</p>
+<p><em type="italic">Gielladomena tjanádum ájggáj: </em></p>
+<list><p type="listitem">sámegielåhpadibme tjanádum ájggáj</p>
+</list><p>Jus sámegiella aneduvvá oahppamgiellan sjaddá adno ájgev mierredit vahko tjadá tijmmaplánan. Máhttelis le aj organiserit skåvllåbiejvev nåv vaj oahppe iejvviji sámegielav mierredum ájgijda biejvenalluj, duola degu juohkka ideda.</p>
+<p><em type="italic">Gielladomena tjanádum sáme gåvåstagájda: </em></p>
+<list><p type="listitem">galba ja ietjá almulasj diedo skåvlån</p>
+</list><p>Skåvlå sáme guovlojn máhtti galbbit sábmáj, ålggon ja goaden aj.</p>
+<list><p type="listitem">gåvå</p>
+<p type="listitem">plakáhta</p>
+<p type="listitem">slávggá/bievddeslávggá</p>
+</list><p>Jus e gávnnu sierra ráddjidum gielladomena skåvlån, máhtti sáme gåvåstagá aneduvvat signállan. Duola degu jus bievddeslávggá biejaduvvat bævddáj, máhttá dat vuosedit dálla divna galggá sámegiellaj. Oahppe máhtti tjåhkanit temáplakáhta birra ja såbadit ságastallam galggá sábmáj.</p>
+<p><em type="italic">Giellatjåhkanime </em></p>
+<list><p type="listitem">Giellalávggom, giellabiesse</p>
+</list><p>Oahppe bierriji  jage tjadá oassálasstet giellatjåhkanimijda gånnå sámegiella, njálmálasj guládallam le tjalmmusin.</p>
+<p><em type="italic">Dahpádusá: </em></p>
+<list><p type="listitem">guovvamáno 6. biejvve</p>
+</list><p>Gárvvidit ja tjadádit Sámeálmmugabiejvev.</p>
+<list><p type="listitem">ietjá ásadime</p>
+</list><p>Oahppe máhtti ietjá ásadimijt skåvlåjage tjadá ásadit. Sij máhtti duola degu temátijmajda vuoras sámegielagijt gåhttjot.</p>
+<p><em type="italic">Ietján: </em></p>
+<list><p type="listitem">DVD-a sámegiellaj</p>
+<p type="listitem" xml:lang="nob">CD-a</p>
+<p type="listitem">Aktisasjbarggo NRK-sámeradioajn</p>
+<p type="listitem">sáme girjjevuorkká</p>
+<p type="listitem">sáme ruossabágo, árvvádusá, gåvvårájdo</p>
+<p type="listitem">digitála gåvå/video/jiena</p>
+</list><p>Madi ienep girje li sadjihin, dadi ienep låhkåm máhttá sámegiellaj sjaddat.</p>
+<p>Ruossabágo máhtti dagáduvvat dáhtámasjijnan. Gávnnuji prográmma ma nåvku dåhkkiji aneduvvat.</p>
+<p>Oahppe dahki gåvvårájdojt/videoav tevstaj. Dáv dåhkki dahkat divna fágajn. Filma, spela jnv.</p>
+<p>Juojggam sáme mánájlávla, sáme musihkka, sálma, sáme subttsasa jnv.</p>
+<p>Sáme mánájfilma ja prográmma mánáj-tv’an</p>
+<p><em type="italic">Sijdan: </em></p>
+<list><p type="listitem">æjgáda, åvdåstiddje, oarbbena, ádjá, áhko ja ietjá berraha</p>
+<p type="listitem">plánsja álfábehtajn ja tevsta tjanádum duon dán tebmáj rájaduvvi sijddaj skåvlås ja gatsoduvvi siejnijda sijdan</p>
+</list><p>Dagá oahppijt diedulattjan gejna sij máhtti sijdan sámástit. Dát le ájnas sadje giellaoahppamij danen gå æjgáda, oarbbena ja ietjá berraha máhtti måvtustuhttet oahppev sámegielav oahppat ja oahppe máhtti sámástit ienebuv gå ij le skåvllåájgge.</p>
+<p>Juska moadda æjgáda e sámásta ållåsijt, máhtti ienemus oasse binná sámegielav. Divna vierddiji sáhkadit majt máhtti, lehkusa makkir dásen.</p>
+<list><p type="listitem">sámegielakdåjma</p>
+</list><p>Gæhttjala oadtjot såbadusáv æjgádij nav vaj sij aj máhtti ásadit muhtem sámegielak dåjmajt aktan oahppij, duola degu akti mánnuj. Ájnas le æjgáda garrasit oassálassti mánáj guovtagielakåhpadussaj.</p>
+<p><em type="italic">Asstoájgge: </em></p>
+<list><p type="listitem">rádna</p>
+<p type="listitem">dåjma</p>
+<p type="listitem">girje</p>
+<p type="listitem">ájggetjállaga (Sj, Nuorat, Samefolket)</p>
+<p type="listitem" xml:lang="nob">ávijsa (Avvir, Sagat, Snåsningen, Nord-Salten Avis, Daerpies Diere)</p>
+<p type="listitem" xml:lang="nob">PC-spela</p>
+<p type="listitem">spela</p>
+<p type="listitem">giellakáfea</p>
+</list><p>Dagá oahppijt diedulattjan gejna sij máhtti sámástit. Siján li márjju rádna gudi sámásti, ja gávnnuji sámegielak girjje, ávijsa, ájggetjállaga majt sij máhtti aloduvvat låhkåt.</p>
+<p>Máhtti gávnnut tv-prográmma majt oahppe máhtti gæhttjat, ja dåjma majta máhtti oassálasstet gielav nannitjit. Muhtema máhtti álgadit giellakáfeajt ásadit.</p>
+<list><p type="listitem">ásadime ja æjvvalime bájkálasj sámesiebrijn</p>
+</list><p>Æjvvalit sámegielagij sámesiebrij  ásadusájn ja æjvvalimijn. Hasodit sámesiebrijt dahkat  tebmán gåktu sámegielav ælládit,  ja ásadit fássta sajijt gånnå oahppe ja ållessjattuga máhtti æjvvalit dagátjit juojddá aktan, duola degu málestit, duodjuhit, ja aj spellat spelajt..</p>
+<p>Jus galggá vuorbástuvvat giellabiessemodellaj nammat Øzerk (2006) dájt ájnas faktåvråjt:</p>
+<list><p type="listitem">bájkálasj sebrudahka doarjjot</p>
+<p type="listitem">doarjjo skåvllånjunnjusijs, háldadimulmutjijs ja politihkalasj mierrediddjijs</p>
+<p type="listitem">æjgádij doarjja</p>
+<p type="listitem">gárvedum åhpadiddje, jib, åhpadiddje gænna le pedagogalasj vuodo ja guovtegielak máhtudahka</p>
+<p type="listitem">luohkko buorre oahppamnævojda</p>
+<p type="listitem">ájgge åhpadiddjijda åhpadimnævojt duon dán giellaj tjállet ja hiebadit</p>
+<p type="listitem">avtatrájes lasseåhpadusvejulasjvuoda åhpadiddjijda</p>
+</list><p>Vuodo nanos guovtegielak oahppammodællaj juo biejaduvvá mánnágárden.Buorre sámegielak åhpadus mánnágárden, duola degu giellabiessemodella tjadá, le ávkálasj gå galggá ásadit nanos giellabiessemodellajt skåvlån.</p>
+<p>Dån máhtá låhkåt ienebuv giellabiessemodella birra ja rasjes ja nanos guovtegielak oahppomodella birra girjijn Todal (2002), Todal (2007), Øzerk (2006-1) og Øzerk (2006-2).</p>
+<p type="title">Oajvvádum girjálasjvuohta</p>
+<p type="title">Praktihkalasj girje ma åhpadiddjáj máhtti ávkken bæjválasj giellaåhpadimen:</p>
+<p xml:lang="nob">Juuso, Jane (2009): <em type="italic">Tar språket mitt tilbake </em>, Isak Saba senteret Todal, Jon og Pope, Martin (1996): <em type="italic">Våg å snakke </em>, Samisk utdanningsråd Todal, Jon (2007): <em type="italic">Samisk språk i Svahken sijte </em>, Samisk språkvitalisering gjennom barnehage og skule, Dieđut. Sámi Instituhtta/Nordisk Samisk Institutt Øzerk, Kamil Z. og Juuso, Randi (1999): <em type="italic">Pedagogisk idébok for tospråklige barnehager </em>, Samisk utdanningsråd </p>
+<p type="title">Ietjá ávkálasj girjálasjvuohta guovtegielak åhpadussá ja gielladomenaj birra:</p>
+<p xml:lang="nob">Todal, Jon (2002): <em type="italic"><span type="quote">"…jod fal gáhttet gollegielat"</span> Vitalisering av samisk språk i Norge på 1990-talet </em>, Universitetet i Tromsø Øzerk, Kamil (2006-1): <em type="italic">Tospråklig opplæring, utdanningspolitiske og pedagogiske perspektiver </em>, Vallset: Oplandske Bokforlag Øzerk, Kamil (2006-2): <em type="italic">Fra språkbad til språkdrukning </em>, Vallset: Oplandske Bokforlag Øzerk, Kamil (2007): <em type="italic">Tospråklige overgangsmodeller og tosidige modeller, organisering, prinsipper og praksis </em>. Vallset: Oplandske Bokforlag </p>
+<p>Gehtja aj dábálasj girjálasjvuodalistan ienep hiebalgis girjijt.</p>
+</body></document>

@@ -1,52 +1,16 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Oasse ietjama sáme duogátjis</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Bjørn" lastname="E. Stemland" sex="m" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>436</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_300410.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>jj</p>
-    <p>Tæksta: Bjørn E. StemlandJårggålibme: Divte Media AS</p>
-    <p>j</p>
-    <p xml:lang="nob"><em type="italic">SAME GUOLLARA. Robin, Ingjerd ja Charlotte berustalli gå Lis-Mari subtsas sáme guollára ja suv áhkátja birra.</em> <em type="italic">SAMISKE FISKERE. Robin, Ingjerd og Charlotte følger interessert med når Lis-Mari forteller om den samiske fiskeren og kona hans.</em> </p>
-    <p><em type="bold">Oasse ietjama</em> <em type="bold">sáme duogátjis</em> </p>
-    <p>dåbdos Ålmåjvággerádno. Valla snjissjku tjáppa, bájnos báttijt ja avijt majna gápptijt hiervviji, ja dát le dáhpe mij vilá bisoduvvá. Vuosedij aj oahppijda sáme snjissjkomijt moadda hárpoj giergijda tjanádum anátjit hárpojt nubbe nuppes. Ietján subtsastij sån nordlandsvantsa birra mij dávvervuorkán vuosáduvvá gånnå sáme ålmåj ja nissun guolliba. Sámij gaskan ålmmå ja nissun lijga dássásattja, ja nissuna vantsan lij dábálasj ja ittjij vuorbedisvuohta dav tjuovo – nav gåk moadda tjerdalasj láttij milta!</p>
-    <p><em type="bold">Dárojduhttempolitihkka</em> <em type="bold">ja udnásj sáme</em> </p>
-    <p>Lars Magne sáhkadij dárojduhttempolitihka birra, mij vibáj gitta 1980jagijda, gå sáme dåhkkiduvvin álmmugin dán rijkan. Sån miejnni lij duola dagu sosial-darwinissmas jådedum. Oajválattja ájggun viehkedit sámijt alep dássáj, bajedit alep kultuvrraj. Lij kulturrahtjamus. Oajválattja aj ballin viesáda nuorttan ællim sæmmi åskåldisá dagu ietjá sajijn rijkan, ja sihtin sijáv dárojduhttet. Duogátjin lij tsarrijkka Suobma-Ruossja. Dan diehti álgaduváj giellapolitihkka mij galgaj sámijt ja guojnajt dárogielagin dahkat. Sån aj vuosedij Návuodnaj gånnå 44 % viesádijs adnin ietjasa sábmen jagen 1930. Jagen 1950 låhko lij vuollánam 0 %! Ij lim dan diehti gå sáme gáhtun, valla hiejttin åvdedit sáme duogátjav gå álmmuklåhkke gatjádin. Moaddásijda sámevuohta lij juojddá mij åvdepájgijda gulluj – juojddá majt ettjin sidá mánájdisá vaddet. Dat aj gielav guoskaj.</p>
-    <p>juohkkahattjaj lij ájggomus oahppat gielav mánájdisá boahtteájgen. Moattes li håjen gå e buvte sámástit nav buoragit gåk lidjin sihtat. Muhtemijda le gatjálvis boahtám sijá sámevuohtaj gå e buvte buoragit sámástit. Giella le identitehttaj tjanádum, ja le dan diehti ájnas. Sáme nuora dåbddi le hásstaliddje sáme duogátjijn. Valla li aj mihá, gievroduvvi, ja adni ressurssan moattekultuvralasj duogátjav. Elin Anita ja Lars Magne goappátja dættodi gávnnuji gátto sámij vuossti, nav gåk aj láttij ja muslijmaj vuossti. Ájnnasamos le diedov åhtsåt vaj ep sieradusájt dagá ma ihkap e ulmutjij gaskan gávnnu.</p>
-    <p><em type="bold">Sáme nuoraj identitehtta</em> </p>
-    <p>Mannela sáhkadij bihtámsáme</p>
-    <p>jj</p>
-    <p><em type="italic">Stereotypija. Lars Magne Andreassen vuosádallá láttij</em> <em type="italic">dábálasj dádjadusá birra sámijs – ja álu le duohtavuodas</em> <em type="italic">ållu ietjá.</em> <em type="italic">STEREOTYPIER. Lars Magne Andreassen viser en</em> <em type="italic">utstilling av nordmenns tradisjonelle oppfatninger av</em> </p>
-    <p>rádediddje Elin Anita Sivertsen guoradallama birra sáme nuorajidentitehtas majt le 15 nuoraj gaskan tjadádam vásádusáj birra gåktu le liehket nuorra sábme. Duola dagu subtsastij nissun sån boahttsuj bargaj, eliteserien tjievtjaj, bargaj mastergrádajn ja oasev ålggorijkan åroj, ja dan diehti ulmutja imáj sunji gæhttjin gå ittjij sjiehta dábálasj dádjadussaj sámij birra! Ulmutja vuorddi sáme li ållu ietjá dassta majt álu li. Ienemus oasse dajs gev sån ságájdahtij ettjin sámásta, valla sihtin sámegielav</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Oasse ietjama sáme duogátjis</title><genre code="news"/><author><person firstname="Bjørn" lastname="E. Stemland" sex="m" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2010</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>436</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_300410.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>jj</p>
+<p>Tæksta: Bjørn E. StemlandJårggålibme: Divte Media AS</p>
+<p>j</p>
+<p xml:lang="nob"><em type="italic">SAME GUOLLARA. Robin, Ingjerd ja Charlotte berustalli gå Lis-Mari subtsas sáme guollára ja suv áhkátja birra.</em> <em type="italic">SAMISKE FISKERE. Robin, Ingjerd og Charlotte følger interessert med når Lis-Mari forteller om den samiske fiskeren og kona hans.</em> </p>
+<p><em type="bold">Oasse ietjama</em> <em type="bold">sáme duogátjis</em> </p>
+<p>dåbdos Ålmåjvággerádno. Valla snjissjku tjáppa, bájnos báttijt ja avijt majna gápptijt hiervviji, ja dát le dáhpe mij vilá bisoduvvá. Vuosedij aj oahppijda sáme snjissjkomijt moadda hárpoj giergijda tjanádum anátjit hárpojt nubbe nuppes. Ietján subtsastij sån nordlandsvantsa birra mij dávvervuorkán vuosáduvvá gånnå sáme ålmåj ja nissun guolliba. Sámij gaskan ålmmå ja nissun lijga dássásattja, ja nissuna vantsan lij dábálasj ja ittjij vuorbedisvuohta dav tjuovo – nav gåk moadda tjerdalasj láttij milta!</p>
+<p><em type="bold">Dárojduhttempolitihkka</em> <em type="bold">ja udnásj sáme</em> </p>
+<p>Lars Magne sáhkadij dárojduhttempolitihka birra, mij vibáj gitta 1980jagijda, gå sáme dåhkkiduvvin álmmugin dán rijkan. Sån miejnni lij duola dagu sosial-darwinissmas jådedum. Oajválattja ájggun viehkedit sámijt alep dássáj, bajedit alep kultuvrraj. Lij kulturrahtjamus. Oajválattja aj ballin viesáda nuorttan ællim sæmmi åskåldisá dagu ietjá sajijn rijkan, ja sihtin sijáv dárojduhttet. Duogátjin lij tsarrijkka Suobma-Ruossja. Dan diehti álgaduváj giellapolitihkka mij galgaj sámijt ja guojnajt dárogielagin dahkat. Sån aj vuosedij Návuodnaj gånnå 44 % viesádijs adnin ietjasa sábmen jagen 1930. Jagen 1950 låhko lij vuollánam 0 %! Ij lim dan diehti gå sáme gáhtun, valla hiejttin åvdedit sáme duogátjav gå álmmuklåhkke gatjádin. Moaddásijda sámevuohta lij juojddá mij åvdepájgijda gulluj – juojddá majt ettjin sidá mánájdisá vaddet. Dat aj gielav guoskaj.</p>
+<p>juohkkahattjaj lij ájggomus oahppat gielav mánájdisá boahtteájgen. Moattes li håjen gå e buvte sámástit nav buoragit gåk lidjin sihtat. Muhtemijda le gatjálvis boahtám sijá sámevuohtaj gå e buvte buoragit sámástit. Giella le identitehttaj tjanádum, ja le dan diehti ájnas. Sáme nuora dåbddi le hásstaliddje sáme duogátjijn. Valla li aj mihá, gievroduvvi, ja adni ressurssan moattekultuvralasj duogátjav. Elin Anita ja Lars Magne goappátja dættodi gávnnuji gátto sámij vuossti, nav gåk aj láttij ja muslijmaj vuossti. Ájnnasamos le diedov åhtsåt vaj ep sieradusájt dagá ma ihkap e ulmutjij gaskan gávnnu.</p>
+<p><em type="bold">Sáme nuoraj identitehtta</em> </p>
+<p>Mannela sáhkadij bihtámsáme</p>
+<p>jj</p>
+<p><em type="italic">Stereotypija. Lars Magne Andreassen vuosádallá láttij</em> <em type="italic">dábálasj dádjadusá birra sámijs – ja álu le duohtavuodas</em> <em type="italic">ållu ietjá.</em> <em type="italic">STEREOTYPIER. Lars Magne Andreassen viser en</em> <em type="italic">utstilling av nordmenns tradisjonelle oppfatninger av</em> </p>
+<p>rádediddje Elin Anita Sivertsen guoradallama birra sáme nuorajidentitehtas majt le 15 nuoraj gaskan tjadádam vásádusáj birra gåktu le liehket nuorra sábme. Duola dagu subtsastij nissun sån boahttsuj bargaj, eliteserien tjievtjaj, bargaj mastergrádajn ja oasev ålggorijkan åroj, ja dan diehti ulmutja imáj sunji gæhttjin gå ittjij sjiehta dábálasj dádjadussaj sámij birra! Ulmutja vuorddi sáme li ållu ietjá dassta majt álu li. Ienemus oasse dajs gev sån ságájdahtij ettjin sámásta, valla sihtin sámegielav</p>
+</body></document>

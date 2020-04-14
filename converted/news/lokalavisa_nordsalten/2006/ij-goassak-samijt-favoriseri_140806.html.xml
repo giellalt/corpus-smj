@@ -1,41 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Ij goassak sámijt favoriseri</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>312</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/ij-goassak-s-mijt-favoriseri.4117</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Ij goassak sámijt favoriseri</p>
-    <p>Sån la badjelaj 20 jage sensorin læhkám, ja moadda oahppe sensurerim, valla ij la goassak dåbddåm ietjas álmmugav favoriserim la. -Dasi li de sensora proffa, javllá Samuel Gælok.</p>
-    <p>
-      <em type="italic">Samuel Gælok la måttijt jagijt sensorin læhkám, ja ij la goassak dåbddåm sån la ietjas álmmugav favoriserim. </em>
-    </p>
-    <p>–Iv la goassak gæhttjam, ja iv ga árvvedam soabmása sjaddi dagu fávoriseridum mij guosská kárákterajt, javllá Samuel Gælok. Gælok la måttijt jagijt læhkám sensorin juogu dal vuodoskåvlån, joarkkaskåvlån ja aj allaskåvlån, ja sån la riek moadda oahppe sensurerim, ja moadda oahppijda kárákterajt vaddám njálmálasj ja aj tjálálalsj eksámaj tjadá. Gælok åhpadiddjeallaskåvlåjn gergaj jagen 1987, ja dallutjis la moadda jage skåvllim, giellakursajt ásadam, ja aj riek moadda oahppe ja studenta sensurerim. Valla Gælok ij la goassak árvvedam sån la fávoriserim ietjas álmmugav gå la kárákterajt vaddám.</p>
-    <p>-Gå dahkamusájt gehtjav, jali lav sensorin njálmálasj eksáman, da gehtjav fágalattjat majt eksaminánda vásstedi. Gehtjav aj gåktu li tjállám, ja gehtjav aj ortografidjaj. Valla ienemusát dal gehtjav dahkamusá sisadnuij. Iv de ietjam bieles dåbdå, ja iv la ga árvvedam sáme sensora ietjas álmmugav dagu favoriseri. Dasi de jahkáv sensora li riek proffa, ja e ietjas álmmugij vatte buorep kárákterajt gå nuppijda, giehttu Gælok.</p>
-    <p>Gæloka mielas la sensorijn aj dakkár etihkka e galga ietjas guolgav åvddån biedjat, ja buorep lahkáj dajt árvustallat. -Gullu dagu ihkap la dábálasj sámegielagij gaskan buorep kárákterajt oadtjot, valla iv de jahke sáme sensora árvustalá ietjalahkáj, ja ij la ga viggamus viehkedit ietjat fuolkev vájku berulattja li, javllá Gælok. Gælok la riek ávon ja mihá gå la Ole Henrik Magga siegen árvustallam, ja oahppam gåktu galggá árvustallat. -Mån lav nav vuorbálasj gå lav Ole Henrik Maggav tjuovvum ja suv siegen læhkám, ja nav sujsta aj oahppam gåktu galggá árvustallat, javllá Gælok.</p>
-    <p>Gælok aj mujttádahttá ij oattjo ietjas mánájt ja oarbbenijt sensurerit.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Ij goassak sámijt favoriseri</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>312</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/ij-goassak-s-mijt-favoriseri.4117</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Ij goassak sámijt favoriseri</p>
+<p>Sån la badjelaj 20 jage sensorin læhkám, ja moadda oahppe sensurerim, valla ij la goassak dåbddåm ietjas álmmugav favoriserim la. -Dasi li de sensora proffa, javllá Samuel Gælok.</p>
+<p><em type="italic">Samuel Gælok la måttijt jagijt sensorin læhkám, ja ij la goassak dåbddåm sån la ietjas álmmugav favoriserim. </em></p>
+<p>–Iv la goassak gæhttjam, ja iv ga árvvedam soabmása sjaddi dagu fávoriseridum mij guosská kárákterajt, javllá Samuel Gælok. Gælok la måttijt jagijt læhkám sensorin juogu dal vuodoskåvlån, joarkkaskåvlån ja aj allaskåvlån, ja sån la riek moadda oahppe sensurerim, ja moadda oahppijda kárákterajt vaddám njálmálasj ja aj tjálálalsj eksámaj tjadá. Gælok åhpadiddjeallaskåvlåjn gergaj jagen 1987, ja dallutjis la moadda jage skåvllim, giellakursajt ásadam, ja aj riek moadda oahppe ja studenta sensurerim. Valla Gælok ij la goassak árvvedam sån la fávoriserim ietjas álmmugav gå la kárákterajt vaddám.</p>
+<p>-Gå dahkamusájt gehtjav, jali lav sensorin njálmálasj eksáman, da gehtjav fágalattjat majt eksaminánda vásstedi. Gehtjav aj gåktu li tjállám, ja gehtjav aj ortografidjaj. Valla ienemusát dal gehtjav dahkamusá sisadnuij. Iv de ietjam bieles dåbdå, ja iv la ga árvvedam sáme sensora ietjas álmmugav dagu favoriseri. Dasi de jahkáv sensora li riek proffa, ja e ietjas álmmugij vatte buorep kárákterajt gå nuppijda, giehttu Gælok.</p>
+<p>Gæloka mielas la sensorijn aj dakkár etihkka e galga ietjas guolgav åvddån biedjat, ja buorep lahkáj dajt árvustallat. -Gullu dagu ihkap la dábálasj sámegielagij gaskan buorep kárákterajt oadtjot, valla iv de jahke sáme sensora árvustalá ietjalahkáj, ja ij la ga viggamus viehkedit ietjat fuolkev vájku berulattja li, javllá Gælok. Gælok la riek ávon ja mihá gå la Ole Henrik Magga siegen árvustallam, ja oahppam gåktu galggá árvustallat. -Mån lav nav vuorbálasj gå lav Ole Henrik Maggav tjuovvum ja suv siegen læhkám, ja nav sujsta aj oahppam gåktu galggá árvustallat, javllá Gælok.</p>
+<p>Gælok aj mujttádahttá ij oattjo ietjas mánájt ja oarbbenijt sensurerit.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

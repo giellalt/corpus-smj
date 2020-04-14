@@ -1,50 +1,16 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>- Ådå mediaárggabiejvve Nuortta-Sálton</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Lars Theodor" lastname="Kintel" sex="m" born="1986" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>355</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/-ada-media-rggabiejvve-nuortta-s-lton.4053</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Ådåvirggájbiejaduvvam NRK-journalista Sander Andersen ja Harrieth Aira.</p>
-    <p type="title">- Ådå mediaárggabiejvve Nuortta-Sálton</p>
-    <p>Vehi journalistihkka, ållo teknihkka... Harrieth Aira ja Sander Andersen libá dájt mañemus vahkojt bæssátjij åvddåla NRK Sáme Radio oajvvekåntåvrån Kárásjjågån barggamin, gånnå libá oahppamin ja oahpásmuvvamin ådå virgijda. Dáppe ådåvirggájbiejadum journalistaguovtes galggaba gárveduvvat NRK’a doajmmalasedibmáj Divtasvuonan.</p>
-    <p>Bájkálasj kåntåvrra Ájluovtan le oadtjum ienep kåntåvrrå- ja studiosajev, guovte gierde ienep bargge ja galggá buvtadit jienav ja aj gåvåjt. Dát le oassen Sámeradio doajmmalasedimes julevsáme- ja oarjjelsámegiela guovlon. Lågev jage lip juo dal doajmmam ja ep la dåjmav lasedam, valla dálla le dal muddo dåjmav lasedit, javllá ådåsdåjmadiddje Ravdna Buljo.</p>
-    <p>Juo vuoratjismáno 2. biejve galggaba dá guokta ådåvirggájbiejadum journalista Harrieth Aira (45) ja Sander Andersen (47) vuostasj radiosáddagav sáddit <span type="quote">«ådå»</span> studios Ájluovtas. Bæssátjij maññela lip gárvvása sádditjit radio- ja TV-ássje julevsáme guovlos. Dát buktá ådå ja stuoráp berustimev dán guovlluj Sáltoduoddaris oarjját gitta Bálágij nuorttan, ja aj Jielleváre ja Jåhkåmåhke guovlojda Svieriga bielen.</p>
-    <p>- Duodden julevsáme radioådåsijda ma guokti vahkkuj sáddiduvvi galggaba dá guovtes Ájluovtan mañenagi buvtadit ådås- ja reportasjaássjijt aktisasj nuorttarijkalasj sáme TV-ådåsijda <span type="quote">«Oddasat»</span>, subtsas Buljo.</p>
-    <p>Harrieth Aira bådij journalisstavirggáj bargos Sámedikken (Árranin) ja dát le vuostasj bále sån journalisstan barggá. Sander Andersen le juo måttijt jagijt journalisstan barggam Bájkkeavijsa Nuortta-Sálton gånnå vásstedij avijsa sáme biele åvdås. Sån galggá dal vásstedit TV-oase åvdås dåjman bájkálasj kåntåvrån Ájluovtan.</p>
-    <p>Dálla bæssátjij åvddåla libá NRK-journalistaguovtes NRK Sáme Radion Kárásjjågån nágin vahkov, oahppamin ja oahpásmuvvamin ådå virgijda.</p>
-    <p>-Råhtto ja dertjestibme le galla årrum. Vehi journalistihkka ja ållo teknihkka – ja guhka barggobiejve. Ja dálla dal kamerakurssaj álggin, subtsas Sander Andersen. Aira-guoktájn libá juo tjadádam dajt hásstalusájt ja ássjijt ma sjaddi vuodon dåjmajda Ájluovtan. Duodden radio- ja TV-buvtadibmáj galggaba aj tæksta-TV’av ja internehtabielev vuorodit ja jådedit.</p>
-    <p>Dássta dal sjaddá moatte láhkáj ådå mediaárggabiejvve Nuortta-Sálton, jáhkká Sander Andersen. Dav jáhkká aj ådåsdåjmadiddje Ravdna Buljo.</p>
-    <p>- Julevsáme guovllo ienebuv vuojnnusij boahtá. TV le fábmogis medium, javllá sån - ja javllá TV-buvtadime ma Divtas-vuonan buvtaduvvi soajtti moatten aktijvuodan aj hiehpat NRK Nordlánda sáddagijda.</p>
-    <p>Tæksta: Børge Strandskog Jårggålibme: Lars Th. Kintel</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"- Ådå mediaárggabiejvve Nuortta-Sálton"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>- Ådå mediaárggabiejvve Nuortta-Sálton</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><person firstname="Lars Theodor" lastname="Kintel" sex="m" born="1986" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>355</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/-ada-media-rggabiejvve-nuortta-s-lton.4053</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Ådåvirggájbiejaduvvam NRK-journalista Sander Andersen ja Harrieth Aira.</p>
+<p type="title">- Ådå mediaárggabiejvve Nuortta-Sálton</p>
+<p>Vehi journalistihkka, ållo teknihkka... Harrieth Aira ja Sander Andersen libá dájt mañemus vahkojt bæssátjij åvddåla NRK Sáme Radio oajvvekåntåvrån Kárásjjågån barggamin, gånnå libá oahppamin ja oahpásmuvvamin ådå virgijda. Dáppe ådåvirggájbiejadum journalistaguovtes galggaba gárveduvvat NRK’a doajmmalasedibmáj Divtasvuonan.</p>
+<p>Bájkálasj kåntåvrra Ájluovtan le oadtjum ienep kåntåvrrå- ja studiosajev, guovte gierde ienep bargge ja galggá buvtadit jienav ja aj gåvåjt. Dát le oassen Sámeradio doajmmalasedimes julevsáme- ja oarjjelsámegiela guovlon. Lågev jage lip juo dal doajmmam ja ep la dåjmav lasedam, valla dálla le dal muddo dåjmav lasedit, javllá ådåsdåjmadiddje Ravdna Buljo.</p>
+<p>Juo vuoratjismáno 2. biejve galggaba dá guokta ådåvirggájbiejadum journalista Harrieth Aira (45) ja Sander Andersen (47) vuostasj radiosáddagav sáddit <span type="quote">«ådå»</span> studios Ájluovtas. Bæssátjij maññela lip gárvvása sádditjit radio- ja TV-ássje julevsáme guovlos. Dát buktá ådå ja stuoráp berustimev dán guovlluj Sáltoduoddaris oarjját gitta Bálágij nuorttan, ja aj Jielleváre ja Jåhkåmåhke guovlojda Svieriga bielen.</p>
+<p>- Duodden julevsáme radioådåsijda ma guokti vahkkuj sáddiduvvi galggaba dá guovtes Ájluovtan mañenagi buvtadit ådås- ja reportasjaássjijt aktisasj nuorttarijkalasj sáme TV-ådåsijda <span type="quote">«Oddasat»</span>, subtsas Buljo.</p>
+<p>Harrieth Aira bådij journalisstavirggáj bargos Sámedikken (Árranin) ja dát le vuostasj bále sån journalisstan barggá. Sander Andersen le juo måttijt jagijt journalisstan barggam Bájkkeavijsa Nuortta-Sálton gånnå vásstedij avijsa sáme biele åvdås. Sån galggá dal vásstedit TV-oase åvdås dåjman bájkálasj kåntåvrån Ájluovtan.</p>
+<p>Dálla bæssátjij åvddåla libá NRK-journalistaguovtes NRK Sáme Radion Kárásjjågån nágin vahkov, oahppamin ja oahpásmuvvamin ådå virgijda.</p>
+<p>-Råhtto ja dertjestibme le galla årrum. Vehi journalistihkka ja ållo teknihkka – ja guhka barggobiejve. Ja dálla dal kamerakurssaj álggin, subtsas Sander Andersen. Aira-guoktájn libá juo tjadádam dajt hásstalusájt ja ássjijt ma sjaddi vuodon dåjmajda Ájluovtan. Duodden radio- ja TV-buvtadibmáj galggaba aj tæksta-TV’av ja internehtabielev vuorodit ja jådedit.</p>
+<p>Dássta dal sjaddá moatte láhkáj ådå mediaárggabiejvve Nuortta-Sálton, jáhkká Sander Andersen. Dav jáhkká aj ådåsdåjmadiddje Ravdna Buljo.</p>
+<p>- Julevsáme guovllo ienebuv vuojnnusij boahtá. TV le fábmogis medium, javllá sån - ja javllá TV-buvtadime ma Divtas-vuonan buvtaduvvi soajtti moatten aktijvuodan aj hiehpat NRK Nordlánda sáddagijda.</p>
+<p>Tæksta: Børge Strandskog Jårggålibme: Lars Th. Kintel</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"- Ådå mediaárggabiejvve Nuortta-Sálton"</span> på Facebook</p>
+</body></document>

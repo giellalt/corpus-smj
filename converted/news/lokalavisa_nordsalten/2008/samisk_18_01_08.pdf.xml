@@ -1,53 +1,19 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Guovddagæjnno- stuojmme</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2008</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>397</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_18_01_08.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Bájkkeavijssa N</p>
-    <p xml:lang="nob">Tæksta: Børge Strandskog</p>
-    <p>Gáldo: filmweb.no/wikipediaJårggålibme: Idar Kintel</p>
-    <p>universitehtan,  ja  de  dav  oadtjun.Basádismánon 1997 de Mons Sombya jaAslak Hætta oajvveskáltjo hávddáduvvinKåfjord girkkon Áltán, sæmmi sajen gånnårubmaha galggin årrot árbbedábe milta.</p>
-    <p>Manen Guovddagæjnno-stuojmme?</p>
-    <p>ettjin goassak ruopptot boade. Åvdemusánja manemusán lijga Ole Somby ja AslakHætta.  Idedismårijdiddjen  tjuovvovasjbiejve gierrisa Guovddagæjnnuj jåvsådin.Dánna  duostojga  oasesålmåj  Ruth  jalænsska Lars Johan Bucht sijáv. Goappátja</p>
-    <p>j</p>
-    <p>ájtsajga  sámelidjin  moaren.Bucht jerrastålpavdoahppij gå sámelahkanin,  vallaAslak  Hætta  lijh á h p p e l a b b o .Doarrujga,  ja  gåAslak  viehkevoattjoj, de lænsskaravgaj. Aslak suvnijbev  jåvsåj  ja</p>
-    <p>boandás  oasesålmåj  Carl  Johan  Ruthstivrrij bájkev.Muhtem sáme sijdda, gånnå nuorra nissunElen  lij  sijddaoajvve,  vuornoj  máksetmuhtem rievtesferdugahtes vielgev Ruthaj.Duobmo dagá Ruth oattjoj ienemus oasevElena sijdan giddagissaj, ja sån aktu bátsijboahttsuv gáhttitjit. Elen viehkev oattjojdikkev ásadittjat mij tjåvdij ienemus oasevålmmåjs. Valla Ruth váldij ienemus oasevboahttsujs  diggegålojt  mávsátjit.Iellemlájbe dagi ettjin Elen ja sijdda ietjánmáhte gå Rutha gájbbádusájt vuornnot</p>
-    <p>Iehkedin basádismáno 7. biejve jagen 1852mannin  57  nissuna,  ålmmå  ja  mánádábmaboahttsujs ja loavddagijs duoddarin.Moares måhken lidjin ja moaddása sijájs</p>
-    <p>Gávnnuji moadda teorija manen sáme navgarrasit dáttja stuorsebrudagáv vuosteldin.Ij goassak åvddåla jali mannela le rijddosámij ja dáttjaj gaskan nav guhkás mannamváj ulmutja gåtteduvvin. Muhtema javllioajve, ja sierraláhkáj Aslak Hætta lidjinvassjás ja sihtin haddudit. Iehtjádij mielaslidjin  vuosteldiddje  tjádjánam  jaiehpedájon  danen  gå  lidjin  boasstotdádjadam svenska girkkohærráv Lars LeviLæstadiusav.  Suv  gåhttsåm  manáj  ållesNuorttaguovlon  dalloj,  ja  dasi  lijkkujinællosáme gudi lidjin asjmen.Mannela  le  dát  stuojmme  sosial-økonomalattjat  tjielggiduvvam.  Sámelidjin  guhkev  juo  jåhtålam  boahttsujVuonan,  Suoman  ja  Svierigin.Rádjásåbadusá  diehti  Vuona  ja  Svierigagaskan  jagen  1751  lidjin  sámijn  riektáávkástalátjit  guohtomednamijt  rájágoappátjij bielijn. Valla de svenska láhppinSuomav Ruossjaj, ja ruossjalattja stieggijinrájáv  váj  vuona  biele  sáme  ettjin  dastibesa  boahttsuv  guododit  suoma  bielenragátmáno  15.  biejve  rájes  jagen  1852.Dát  lij  viehka  ájnas  økonomalattjat.Sæmmi  båttå  de  rijdo  jåhttesámij  jastuorránime  merragátteálmmuga  gaskanlaseduvvin ednambargo diehti</p>
-    <p>Filma ájnnasamos oajvverollajn li Anni-Kristiina  Juuso,  Mikkel  Gaup,  MikaelPersbrandt,  Nils  Peder  Isaksen  Gaup,Bjørn  Sundquist,  Michael  Nyquist,  Jør-gen Langhelle, Stig Henrik Hoff ja NikolajCoster-Waldau. Filma budsjehtta lij badjel50 millijåvnå kråvnå.</p>
-    <p>j</p>
-    <p>tjuolastij.  Ruth  aj  ravgaj,  ja  sån  gut  lijsivvan  juhkalisvuohtaj  ja  hæjosvuohtajsámeålmmåj  gaskan  jåsteduváj  moaressáme nissunijs. Ja de girkkohærrá, FredrikWaldemar  Hvoslef  hæhttuj  gierddatgirkkosuohkana  ulmutjij  moarev.Iehkedappot lijga Ruth ja Bucht jábmám,madi  girkkohærrá  lij  alvos  láhkájtsábmeduvvam.Mij  mannela  le  Guovddagæjnno-stuojmmen  gåhtjoduvvam  diedon  diggájbådij. Ja varra gålgijdatjájMons Sombyis ja Aslak Hættas goappátjijsoajvev  luoddijin  Elvebakkenin  Áltángålgådismánon  jagen  1854.  Mannelarubmaha  hávddáduvvin  Kåfjordgirkkogárde  ålggolin  Áltán.  Oajvesáddiduvvin Anatomalasj instituhttaj OsloUniversitehtan. Jagen 1976 muhtem fuolkeAslak  Hættas  gatjádin  Anatomalasjinstituhtas  jus  máhttin  oajvveskáltjojtoadtjot  váj  bessin  hávddádahttet.Instituhtta vásstedij ij lim siján dat. Valla</p>
-    <p>j</p>
-    <p>j j</p>
-    <p>j</p>
-    <p>j j j</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Guovddagæjnno- stuojmme</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2008</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>398</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_18_01_08.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Bájkkeavijssa N</p>
+<p xml:lang="nob">Tæksta: Børge Strandskog</p>
+<p>Gáldo: filmweb.no/wikipediaJårggålibme: Idar Kintel</p>
+<p>universitehtan,  ja  de  dav  oadtjun.Basádismánon 1997 de Mons Sombya jaAslak Hætta oajvveskáltjo hávddáduvvinKåfjord girkkon Áltán, sæmmi sajen gånnårubmaha galggin årrot árbbedábe milta.</p>
+<p>Manen Guovddagæjnno-stuojmme?</p>
+<p>ettjin goassak ruopptot boade. Åvdemusánja manemusán lijga Ole Somby ja AslakHætta.  Idedismårijdiddjen  tjuovvovasjbiejve gierrisa Guovddagæjnnuj jåvsådin.Dánna  duostojga  oasesålmåj  Ruth  jalænsska Lars Johan Bucht sijáv. Goappátja</p>
+<p>j</p>
+<p>ájtsajga  sámelidjin  moaren.Bucht jerrastålpavdoahppij gå sámelahkanin,  vallaAslak  Hætta  lijh á h p p e l a b b o .Doarrujga,  ja  gåAslak  viehkevoattjoj, de lænsskaravgaj. Aslak suvnijbev  jåvsåj  ja</p>
+<p>boandás  oasesålmåj  Carl  Johan  Ruthstivrrij bájkev.Muhtem sáme sijdda, gånnå nuorra nissunElen  lij  sijddaoajvve,  vuornoj  máksetmuhtem rievtesferdugahtes vielgev Ruthaj.Duobmo dagá Ruth oattjoj ienemus oasevElena sijdan giddagissaj, ja sån aktu bátsijboahttsuv gáhttitjit. Elen viehkev oattjojdikkev ásadittjat mij tjåvdij ienemus oasevålmmåjs. Valla Ruth váldij ienemus oasevboahttsujs  diggegålojt  mávsátjit.Iellemlájbe dagi ettjin Elen ja sijdda ietjánmáhte gå Rutha gájbbádusájt vuornnot</p>
+<p>Iehkedin basádismáno 7. biejve jagen 1852mannin  57  nissuna,  ålmmå  ja  mánádábmaboahttsujs ja loavddagijs duoddarin.Moares måhken lidjin ja moaddása sijájs</p>
+<p>Gávnnuji moadda teorija manen sáme navgarrasit dáttja stuorsebrudagáv vuosteldin.Ij goassak åvddåla jali mannela le rijddosámij ja dáttjaj gaskan nav guhkás mannamváj ulmutja gåtteduvvin. Muhtema javllioajve, ja sierraláhkáj Aslak Hætta lidjinvassjás ja sihtin haddudit. Iehtjádij mielaslidjin  vuosteldiddje  tjádjánam  jaiehpedájon  danen  gå  lidjin  boasstotdádjadam svenska girkkohærráv Lars LeviLæstadiusav.  Suv  gåhttsåm  manáj  ållesNuorttaguovlon  dalloj,  ja  dasi  lijkkujinællosáme gudi lidjin asjmen.Mannela  le  dát  stuojmme  sosial-økonomalattjat  tjielggiduvvam.  Sámelidjin  guhkev  juo  jåhtålam  boahttsujVuonan,  Suoman  ja  Svierigin.Rádjásåbadusá  diehti  Vuona  ja  Svierigagaskan  jagen  1751  lidjin  sámijn  riektáávkástalátjit  guohtomednamijt  rájágoappátjij bielijn. Valla de svenska láhppinSuomav Ruossjaj, ja ruossjalattja stieggijinrájáv  váj  vuona  biele  sáme  ettjin  dastibesa  boahttsuv  guododit  suoma  bielenragátmáno  15.  biejve  rájes  jagen  1852.Dát  lij  viehka  ájnas  økonomalattjat.Sæmmi  båttå  de  rijdo  jåhttesámij  jastuorránime  merragátteálmmuga  gaskanlaseduvvin ednambargo diehti</p>
+<p>Filma ájnnasamos oajvverollajn li Anni-Kristiina  Juuso,  Mikkel  Gaup,  MikaelPersbrandt,  Nils  Peder  Isaksen  Gaup,Bjørn  Sundquist,  Michael  Nyquist,  Jør-gen Langhelle, Stig Henrik Hoff ja NikolajCoster-Waldau. Filma budsjehtta lij badjel50 millijåvnå kråvnå.</p>
+<p>j</p>
+<p>tjuolastij.  Ruth  aj  ravgaj,  ja  sån  gut  lijsivvan  juhkalisvuohtaj  ja  hæjosvuohtajsámeålmmåj  gaskan  jåsteduváj  moaressáme nissunijs. Ja de girkkohærrá, FredrikWaldemar  Hvoslef  hæhttuj  gierddatgirkkosuohkana  ulmutjij  moarev.Iehkedappot lijga Ruth ja Bucht jábmám,madi  girkkohærrá  lij  alvos  láhkájtsábmeduvvam.Mij  mannela  le  Guovddagæjnno-stuojmmen  gåhtjoduvvam  diedon  diggájbådij. Ja varra gålgijdatjájMons Sombyis ja Aslak Hættas goappátjijsoajvev  luoddijin  Elvebakkenin  Áltángålgådismánon  jagen  1854.  Mannelarubmaha  hávddáduvvin  Kåfjordgirkkogárde  ålggolin  Áltán.  Oajvesáddiduvvin Anatomalasj instituhttaj OsloUniversitehtan. Jagen 1976 muhtem fuolkeAslak  Hættas  gatjádin  Anatomalasjinstituhtas  jus  máhttin  oajvveskáltjojtoadtjot  váj  bessin  hávddádahttet.Instituhtta vásstedij ij lim siján dat. Valla</p>
+<p>j</p>
+<p>j j</p>
+<p>j</p>
+<p>j j j</p>
+</body></document>

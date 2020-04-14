@@ -1,75 +1,34 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>374</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Kultuvrraiellem/Arena-same-kulturdaajmadibmaj</origFileName>
-    <parallel_text xml:lang="nob" location="arenaer-for-samisk-kulturutoevelse.html"/>
-    <parallel_text xml:lang="sma" location="sijjieh-saemien-kultuvrebarkose.html"/>
-    <parallel_text xml:lang="sme" location="sami-kulturbargoarenat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Arena sáme kulturdåjmadibmáj / Kultuvrraiellem / Sámedigge - Sametinget</p>
-    <p>Åtså biednikdårjav</p>
-    <p type="title">Arena sáme kulturdåjmadibmáj</p>
-    <p>Sáme kulturgoade, teáhtera, festivála ja musea li ájnas arena tjalmostahtátjit, bisodittjat ja åvddånahtátjit sáme dájdav, kultuvrav ja kultuvrraárbev. Dá ásadusá li tsiekkima sáme bájkálasj sebrudagájn, sij fálli kulturæládusbarggosajijt guovlojn. Institusjåvnnåásadibme ja institusjåvnnååvddånibme li dan diehti ájnnasa sáme sebrudagá ja sáme demokratija bisodibmáj ja åvddånahttemij.</p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="nob">Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="sme">Gáisi</p>
-    <p>Jur dálla</p>
-    <p>Nannit sáme fálaldagájt Oslon.</p>
-    <p>Sámedigge ja Oslo suohkan sihti sáme fálaldagájt nannit oajvvestádan sierra...</p>
-    <p>Lågå ienebuv</p>
-    <p xml:lang="sme">Stivraseminára Álttás 28.-29.11.2013</p>
-    <p xml:lang="sme">Sámediggi doallá stivraseminára Álttás skábmamánu 28. – 29. b. 2013 daid sám...</p>
-    <p>Lågå ienebuv</p>
-    <p>Vuoseda divna ássjijt</p>
-    <p>
-      <em type="bold">Sámedigge barggá dáj ássjij åvdås: </em>
-    </p>
-    <list>
-      <p type="listitem">Buorre birásdille sáme institusjåvnåjda vaj máhtti oassálasstet åvddånahttemij ja åvddånbuktemij sáme dájdas- ja kulturiellemis</p>
-      <p type="listitem">Tjielggasabbon dahkat mijá vuorddemusájt sáme institusjåvnåj åvdåsvásstádusá sáme dájda ja kultuvra åvddånahttema hárráj</p>
-      <p type="listitem">Lagábut oatsodit ja guládallat institusjåvnåj stivrranammadimij ja ruhtadårjaj baktu</p>
-      <p type="listitem">Ájn buorep aktisasjbarggo ja buorep fágalasj åvdåsvásstádusjuohkem institusjåvnåj gaskan</p>
-      <p type="listitem">Oassálasstet ájn buorep aktisasjbargguj sáme dájddárij ja sáme kulturinstitusjåvnåj gaskan</p>
-      <p type="listitem">Joarkket gievrrodusáv ja ådåorganiserimav sáme kulturinstitusjåvnåjs</p>
-    </list>
-    <p>
-      <em type="bold">Ekonomalasj vájkkudimnævo </em>
-    </p>
-    <p>Ulmme Sámedikke vájkkudimnævoj sáme kulturdåjmadimarenajda li sáme institusjåvnå ja arena dájdda- ja kulturåvddånbuktemij, ma li sáme sebrudak –ja demokratiåvddånahttema guovdásj oassálasste ja premissavadde. Oasseulme li doajmmelis sáme arena dájdda- ja kulturåvddånbuktemij, kulturinstitusjåvnå ja musea nanos fágalasj dásijn.</p>
-    <p>Sámedigge vaddá dårjav njuolgga 27 iesjgeŋgalágásj kulturdåjmadimarenajda jagen 2013: Sáme kulturgoade ja kulturåvddånbukteminstitusjåvnå (12), sáme festivála (7), sáme teáhtera (2) ja sáme musea (6).</p>
-    <p>Dårja njuolgga sáme kulturdåjmadimarenajda galggi oassálasstet:</p>
-    <list>
-      <p type="listitem">Sáme kulturåvddånbukteminstitusjåvnå ma tjalmostahtti sáme kulturiellemav ja doajmmi arenan åvddånahttemij sáme kultuvras</p>
-      <p type="listitem">Festivála ma tjalmostahtti, åvddånbukti ja åvddånahtti sáme kultuvrav</p>
-      <p type="listitem">Vaj sáme teáhtera máhtti åvddånahttet dájdalattjat, dahkat siednadájdav alla dásen ja máhtti siednadájdav vuosádallat moatten sajen, navti vaj doajmmi arenan kulturmuossádibmen ja kulturåvddånbuktemij, ja adnon ja tjalmostahttemij sámegielas</p>
-      <p type="listitem">Vaj sáme kulturhiståvrrå bisoduvvá, háldaduvvá ja åvddånbuvteduvvá</p>
-    </list>
-    <p>Jagen 2013 le ådå åhtsåmårnik <em type="bold"><span type="quote">“Arena dájdda- ja kulturåvddånbuktemij”</span> </em>. Dát ådå årnik laset vuorodimev sáme dájddárijn, kulturdiedádusá milta. Oasse vuorodimijs dán årnigin le stuoráp tjalmostahttem ådådahkodåjmajn ma galggi oassálasstet åvddånahttemij sáme institusjåvnåjs ja arenajs dájdda- ja kulturåvddånbuktemij. Årnik doarjot aj arenajt, værmádagájt ja aktisasjbarggoprosjevtajt ma oassálassti lasse rijkajgasskasasj åvdedibmáj ja eksportaj sáme dájdas ja sáme dájddárijs rijkajgasskasasj márnánij, ja duodden álgadimstipænnda nuorra sáme dájddárijda </p>
-    <list/>
-    <p>
-      <span type="quote">Sáme kulturgoade, teáhtera, festivála ja musea li ájnas arena tjalmostahtátjit, bisodittjat ja åvddånahtátjit sáme dájdav, kultuvrav ja kultuvrraárbev.</span>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>374</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Kultuvrraiellem/Arena-same-kulturdaajmadibmaj</origFileName><parallel_text xml:lang="nob" location="arenaer-for-samisk-kulturutoevelse.html"/><parallel_text xml:lang="sma" location="sijjieh-saemien-kultuvrebarkose.html"/><parallel_text xml:lang="sme" location="sami-kulturbargoarenat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Arena sáme kulturdåjmadibmáj / Kultuvrraiellem / Sámedigge - Sametinget</p>
+<p>Åtså biednikdårjav</p>
+<p type="title">Arena sáme kulturdåjmadibmáj</p>
+<p>Sáme kulturgoade, teáhtera, festivála ja musea li ájnas arena tjalmostahtátjit, bisodittjat ja åvddånahtátjit sáme dájdav, kultuvrav ja kultuvrraárbev. Dá ásadusá li tsiekkima sáme bájkálasj sebrudagájn, sij fálli kulturæládusbarggosajijt guovlojn. Institusjåvnnåásadibme ja institusjåvnnååvddånibme li dan diehti ájnnasa sáme sebrudagá ja sáme demokratija bisodibmáj ja åvddånahttemij.</p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="nob">Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="sme">Gáisi</p>
+<p>Jur dálla</p>
+<p>Nannit sáme fálaldagájt Oslon.</p>
+<p>Sámedigge ja Oslo suohkan sihti sáme fálaldagájt nannit oajvvestádan sierra...</p>
+<p>Lågå ienebuv</p>
+<p xml:lang="sme">Stivraseminára Álttás 28.-29.11.2013</p>
+<p xml:lang="sme">Sámediggi doallá stivraseminára Álttás skábmamánu 28. – 29. b. 2013 daid sám...</p>
+<p>Lågå ienebuv</p>
+<p>Vuoseda divna ássjijt</p>
+<p><em type="bold">Sámedigge barggá dáj ássjij åvdås: </em></p>
+<list><p type="listitem">Buorre birásdille sáme institusjåvnåjda vaj máhtti oassálasstet åvddånahttemij ja åvddånbuktemij sáme dájdas- ja kulturiellemis</p>
+<p type="listitem">Tjielggasabbon dahkat mijá vuorddemusájt sáme institusjåvnåj åvdåsvásstádusá sáme dájda ja kultuvra åvddånahttema hárráj</p>
+<p type="listitem">Lagábut oatsodit ja guládallat institusjåvnåj stivrranammadimij ja ruhtadårjaj baktu</p>
+<p type="listitem">Ájn buorep aktisasjbarggo ja buorep fágalasj åvdåsvásstádusjuohkem institusjåvnåj gaskan</p>
+<p type="listitem">Oassálasstet ájn buorep aktisasjbargguj sáme dájddárij ja sáme kulturinstitusjåvnåj gaskan</p>
+<p type="listitem">Joarkket gievrrodusáv ja ådåorganiserimav sáme kulturinstitusjåvnåjs</p>
+</list><p><em type="bold">Ekonomalasj vájkkudimnævo </em></p>
+<p>Ulmme Sámedikke vájkkudimnævoj sáme kulturdåjmadimarenajda li sáme institusjåvnå ja arena dájdda- ja kulturåvddånbuktemij, ma li sáme sebrudak –ja demokratiåvddånahttema guovdásj oassálasste ja premissavadde. Oasseulme li doajmmelis sáme arena dájdda- ja kulturåvddånbuktemij, kulturinstitusjåvnå ja musea nanos fágalasj dásijn.</p>
+<p>Sámedigge vaddá dårjav njuolgga 27 iesjgeŋgalágásj kulturdåjmadimarenajda jagen 2013: Sáme kulturgoade ja kulturåvddånbukteminstitusjåvnå (12), sáme festivála (7), sáme teáhtera (2) ja sáme musea (6).</p>
+<p>Dårja njuolgga sáme kulturdåjmadimarenajda galggi oassálasstet:</p>
+<list><p type="listitem">Sáme kulturåvddånbukteminstitusjåvnå ma tjalmostahtti sáme kulturiellemav ja doajmmi arenan åvddånahttemij sáme kultuvras</p>
+<p type="listitem">Festivála ma tjalmostahtti, åvddånbukti ja åvddånahtti sáme kultuvrav</p>
+<p type="listitem">Vaj sáme teáhtera máhtti åvddånahttet dájdalattjat, dahkat siednadájdav alla dásen ja máhtti siednadájdav vuosádallat moatten sajen, navti vaj doajmmi arenan kulturmuossádibmen ja kulturåvddånbuktemij, ja adnon ja tjalmostahttemij sámegielas</p>
+<p type="listitem">Vaj sáme kulturhiståvrrå bisoduvvá, háldaduvvá ja åvddånbuvteduvvá</p>
+</list><p>Jagen 2013 le ådå åhtsåmårnik <em type="bold"><span type="quote">“Arena dájdda- ja kulturåvddånbuktemij”</span> </em>. Dát ådå årnik laset vuorodimev sáme dájddárijn, kulturdiedádusá milta. Oasse vuorodimijs dán årnigin le stuoráp tjalmostahttem ådådahkodåjmajn ma galggi oassálasstet åvddånahttemij sáme institusjåvnåjs ja arenajs dájdda- ja kulturåvddånbuktemij. Årnik doarjot aj arenajt, værmádagájt ja aktisasjbarggoprosjevtajt ma oassálassti lasse rijkajgasskasasj åvdedibmáj ja eksportaj sáme dájdas ja sáme dájddárijs rijkajgasskasasj márnánij, ja duodden álgadimstipænnda nuorra sáme dájddárijda </p>
+<list/><p><span type="quote">Sáme kulturgoade, teáhtera, festivála ja musea li ájnas arena tjalmostahtátjit, bisodittjat ja åvddånahtátjit sáme dájdav, kultuvrav ja kultuvrraárbev.</span></p>
+</body></document>

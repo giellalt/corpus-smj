@@ -1,51 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Árvustallá ietjá luonndoháldadusáv dájn dáfojn</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>508</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/-rvustall-ietj-luonndoh-ldadus-v-d-jn-d-fojn.4162</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Árvustallá ietjá luonndoháldadusáv dájn dáfojn</p>
-    <p>Divtasvuonak Amund Eriksen, guhti Mo i Ranan årru, la akta ájrrasijs Sámeriektánammadusán.</p>
-    <p>Sámeriektánammadus galggi vidjurijda gæhttjat mij guosská sámeálmmuga riektájda luonnduj ja nuorráj. Nammadus árvustallá jus Nordlándan galggi ietjá háldadusvidjurijt jåhtuj biedjat. Nammadus la Divtasvuonan tjoahken biehtsemánon, ja gåhttju aj sæmmi bále álmmuktjåhkanibmáj gånnå aj sihti gullat gåktu ulmutja dádjadi duobmov Stáhta ja priváta ednamæjgádij gaskan sisñep oasen Divtasvuonan.</p>
-    <p>Ådå Sámeriektánammadus la virgen læhkám 2001 rájes, ja galgaj juo ietjas bargujn gærggat snjilltjamánon jagen 2005. Valla barggo ij huoman ållåna åvddål jagen 2007. Nammadus árvustallá aj jus la máhttelis Nordlándan ietjá háldadusvidjurijt jåhtuj biedjat gå duottarlágav. Biehtsemáno 7.-9. biejve li tjoahken Divtasvuonan, ja daj biejvij gåhttju aj Sámeriektanammadus álmmuktjåhkanibmáj.</p>
-    <p>Dav bargov majt nammadus nav guhkás la Divtasvuonadáfo birra dahkam, vuoseduvvá álmmuktjåhkanimen gæssáj, ja dan tjåhkanimen sihti aj lagábut vuosedit majt nammadus ævtot gåktu hálldat gáttijt ja nuorijt Nordlándan. -Diehtep galla nav guhkás gåktu lip dálátjij barggam, dát barggo l ájn iehpedievalasj, ja sáme perspektijvva la ilá binná dievdedum. Divtasvuona dáfo l má tjielgga sáme dáfo, ja vierttip aj dan diehti dav dáfov lagábut gæhttjat, subtsas Amund Eriksen guhti l akta ájrrasijs Sámeriektánammadusán.</p>
-    <p>
-      <em type="italic">Miehttsekommisjåvnå duobbmo </em>
-    </p>
-    <p>Miehttsekommisjåvnå duobbbmo dåt jagátjis la aj ássjen Sámeriektánammadusán, ja nammadus aj lagábut gæhttjá riektájt vuonajda ja nuorráj. –Sisñep oasse Divtasvuonas la ájggeguovddelin mij guosská riektájt nuorráj ja vuonajda, ja dajna lip gæhttjam duobbmuj Gájvonaássjen gånnå vuonaårro oadtjun buhtadusáv. Hæhttup aj árvustallat mij la vuodon dan duobmon Stáhta ja priváta ednamæjgádij gaskan dån jage Divtasvuonan, ja gåktu ulmutja vuojno dan gáktuj li. Dajna aj sihtap lagábut gullat gåktu ulmutja dáv duobmov dádjadi, ja dajna de gåhttjop álmmuktjåhkanibmáj madi lip Divtasvuonan tjoahken, javllá Amund Eriksen.</p>
-    <p>Luondulasj la aj nammadussaj gæhttjat suodjalimpládnaj Oarjjevuodna-Divtasvuodna, ja nammadus aj vuorddá gåktu ajtu dájna ássjijn manná.</p>
-    <p>
-      <em type="italic">Histåvrålasj adno </em>
-    </p>
-    <p>Nammadus aj barggá ássjij mij guosská histåvrålasj adnuj Nordlándan ja Råmsån, ja aj gåktu l duobbmo dádjadus dájn dáfojn ja gåktu l riekta åvddånam. Nammadus dan diehti lagábut gæhttja gåktu jávre, nuorre ja duoddara lij aneduvvam ja gåktu ulmutja lij årrum ájgij tjadá. Pládna l dát dán jage galggá almoduvvat NOU’a tjadá.</p>
-    <p>Nammadus aj gæhttja álmmukriektáv ietjá dáfojn ja rijkajn, ja galggi vijmak dárbov árvustallat mij guosská háldadusávidjurijt ietjájduhttet sáme addnedáfojn. –Dát la dal nammadusá ulmme, valla galggap aj ævtodit ja åvddån buktet gåktu sáme máhtti luonnduressursajt ávkástallat sæmmi bále gå dáttja berustime e dåbbelij sjáhtjaluvá. Valla mij vieledip sáme berustmijt, ja galggap vieledit sáme riektádádjadusájt ja rijkagasskasasj riektaåvddånimev, javllá Eriksen ja duoddi e galga vuojga gæhttjat bájkálasj vidjurijda jusga li miellagiddavattja. –Bájkálasj vidjura giddiji mielav, valla vieledip huoman sáme vidjurijt, ja dat la de guovdásj ássjen.</p>
-    <p>
-      <em type="italic">Bájkálasj háldadibme </em>
-    </p>
-    <p>Sámeriektánammadus sihta aj giehtadallat bájkálasj háldadimev luondos, valla Eriksen ij diede makta dát oasse nammadusán vieleduvvá. –Galggap lagábut gæhttjat jus galggá liehket bájkálasj háldadibme luonndoressursajs <em type="italic">, </em>jali jus duottarláhka galggá dav háldadit dav mij guosská viejddimij, guollimij ja guohtomednamijda. Dajna l de mijá vuojnno ij la dárbbo sierra háldadussaj. Jus i duottarláhka sjatta, la aj máhttelis háldadusmodellav dahkat gånnå finnmárkolahka l vuodon, javllá Amund Eriksen. </p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Árvustallá ietjá luonndoháldadusáv dájn dáfojn</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>508</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/-rvustall-ietj-luonndoh-ldadus-v-d-jn-d-fojn.4162</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Árvustallá ietjá luonndoháldadusáv dájn dáfojn</p>
+<p>Divtasvuonak Amund Eriksen, guhti Mo i Ranan årru, la akta ájrrasijs Sámeriektánammadusán.</p>
+<p>Sámeriektánammadus galggi vidjurijda gæhttjat mij guosská sámeálmmuga riektájda luonnduj ja nuorráj. Nammadus árvustallá jus Nordlándan galggi ietjá háldadusvidjurijt jåhtuj biedjat. Nammadus la Divtasvuonan tjoahken biehtsemánon, ja gåhttju aj sæmmi bále álmmuktjåhkanibmáj gånnå aj sihti gullat gåktu ulmutja dádjadi duobmov Stáhta ja priváta ednamæjgádij gaskan sisñep oasen Divtasvuonan.</p>
+<p>Ådå Sámeriektánammadus la virgen læhkám 2001 rájes, ja galgaj juo ietjas bargujn gærggat snjilltjamánon jagen 2005. Valla barggo ij huoman ållåna åvddål jagen 2007. Nammadus árvustallá aj jus la máhttelis Nordlándan ietjá háldadusvidjurijt jåhtuj biedjat gå duottarlágav. Biehtsemáno 7.-9. biejve li tjoahken Divtasvuonan, ja daj biejvij gåhttju aj Sámeriektanammadus álmmuktjåhkanibmáj.</p>
+<p>Dav bargov majt nammadus nav guhkás la Divtasvuonadáfo birra dahkam, vuoseduvvá álmmuktjåhkanimen gæssáj, ja dan tjåhkanimen sihti aj lagábut vuosedit majt nammadus ævtot gåktu hálldat gáttijt ja nuorijt Nordlándan. -Diehtep galla nav guhkás gåktu lip dálátjij barggam, dát barggo l ájn iehpedievalasj, ja sáme perspektijvva la ilá binná dievdedum. Divtasvuona dáfo l má tjielgga sáme dáfo, ja vierttip aj dan diehti dav dáfov lagábut gæhttjat, subtsas Amund Eriksen guhti l akta ájrrasijs Sámeriektánammadusán.</p>
+<p><em type="italic">Miehttsekommisjåvnå duobbmo </em></p>
+<p>Miehttsekommisjåvnå duobbbmo dåt jagátjis la aj ássjen Sámeriektánammadusán, ja nammadus aj lagábut gæhttjá riektájt vuonajda ja nuorráj. –Sisñep oasse Divtasvuonas la ájggeguovddelin mij guosská riektájt nuorráj ja vuonajda, ja dajna lip gæhttjam duobbmuj Gájvonaássjen gånnå vuonaårro oadtjun buhtadusáv. Hæhttup aj árvustallat mij la vuodon dan duobmon Stáhta ja priváta ednamæjgádij gaskan dån jage Divtasvuonan, ja gåktu ulmutja vuojno dan gáktuj li. Dajna aj sihtap lagábut gullat gåktu ulmutja dáv duobmov dádjadi, ja dajna de gåhttjop álmmuktjåhkanibmáj madi lip Divtasvuonan tjoahken, javllá Amund Eriksen.</p>
+<p>Luondulasj la aj nammadussaj gæhttjat suodjalimpládnaj Oarjjevuodna-Divtasvuodna, ja nammadus aj vuorddá gåktu ajtu dájna ássjijn manná.</p>
+<p><em type="italic">Histåvrålasj adno </em></p>
+<p>Nammadus aj barggá ássjij mij guosská histåvrålasj adnuj Nordlándan ja Råmsån, ja aj gåktu l duobbmo dádjadus dájn dáfojn ja gåktu l riekta åvddånam. Nammadus dan diehti lagábut gæhttja gåktu jávre, nuorre ja duoddara lij aneduvvam ja gåktu ulmutja lij årrum ájgij tjadá. Pládna l dát dán jage galggá almoduvvat NOU’a tjadá.</p>
+<p>Nammadus aj gæhttja álmmukriektáv ietjá dáfojn ja rijkajn, ja galggi vijmak dárbov árvustallat mij guosská háldadusávidjurijt ietjájduhttet sáme addnedáfojn. –Dát la dal nammadusá ulmme, valla galggap aj ævtodit ja åvddån buktet gåktu sáme máhtti luonnduressursajt ávkástallat sæmmi bále gå dáttja berustime e dåbbelij sjáhtjaluvá. Valla mij vieledip sáme berustmijt, ja galggap vieledit sáme riektádádjadusájt ja rijkagasskasasj riektaåvddånimev, javllá Eriksen ja duoddi e galga vuojga gæhttjat bájkálasj vidjurijda jusga li miellagiddavattja. –Bájkálasj vidjura giddiji mielav, valla vieledip huoman sáme vidjurijt, ja dat la de guovdásj ássjen.</p>
+<p><em type="italic">Bájkálasj háldadibme </em></p>
+<p>Sámeriektánammadus sihta aj giehtadallat bájkálasj háldadimev luondos, valla Eriksen ij diede makta dát oasse nammadusán vieleduvvá. –Galggap lagábut gæhttjat jus galggá liehket bájkálasj háldadibme luonndoressursajs <em type="italic">, </em>jali jus duottarláhka galggá dav háldadit dav mij guosská viejddimij, guollimij ja guohtomednamijda. Dajna l de mijá vuojnno ij la dárbbo sierra háldadussaj. Jus i duottarláhka sjatta, la aj máhttelis háldadusmodellav dahkat gånnå finnmárkolahka l vuodon, javllá Amund Eriksen. </p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

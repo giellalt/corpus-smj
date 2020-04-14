@@ -1,50 +1,12 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Ådå SáNuN nammaduvvam</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2017</year>
-    <wordcount>198</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <origFileName>https://www.samedigge.no/AAdaasa/AAdaa-SaNuN-nammaduvvam</origFileName>
-    <parallel_text xml:lang="nob" location="nytt-supu-oppnevnt.html"/>
-    <parallel_text xml:lang="sma" location="orre-supu-nammoehtamme.html"/>
-    <parallel_text xml:lang="sme" location="odda-sanul-nammaduvvon.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Ådå SáNuN nammaduvvam</p>
-    <p>
-      <em type="italic">Sámedikkeráde l nammadam ådå sebrulattjajt Sámedikke nuorajpolitihkalasj nammadussaj (SáNuN), mij galggá doajmmat ájggegávdan 2018-2021. </em>
-    </p>
-    <p>
-      <em type="italic">Ådå SáNuN sebrulattja: </em>
-    </p>
-    <p>Jådediddje Ole Henrik Bjørkmo Lifjell (Nordlánnda), Maja Fjellstrøm (Nuortta-Trøndelága), Stine Ericsson Anti (Lulle-Finnmárkko), Grete Julianne Skum (Alle-Finnmárkko) ja Alfred Mikkel Kuoljok (Nordlánnda)</p>
-    <p>
-      <em type="italic">Sadjásattja: </em>
-    </p>
-    <p>Laara Sparrok (Nordlánnda), Andine Knudtson (Oarjje-Vuodna), Kristine Ballari (Lulle-Finnmárkko), Sajana Olsen (Romsa), Katja Elise Utsi (Nordlánnda)</p>
-    <p>Sámedikkeráde nammadij ådå Sámedikke nuorajpolitihkalasj nammadusáv tjåhkanimen Oslos iektu 14.12.17. Oajvvadusá lidjin boahtám NSR:s, Jåhttesáme listas, Åarjel-Saemiej Gïelhas, Barggijbelludagás ja Oalgesbelludagás.</p>
-    <p>– Mij lip vuodulattjat barggam ja buoremus vuoge milta juohkusij oajvvadusájt vieledam. Gájkka oajvvadiddje juohkusa li oadtjum juogu stuoves jali sadjásasj sebrulattjav, javllá sámedikkeráde Juhána Biera Biret Márjá/Berit Marie P.E. Eira, gut la dat Sámedikkeráden gænna l åvdåsvásstádus SáNuN:aj.</p>
-    <p>Sámedikke nuorajpolitihkalasj nammadus (SáNuN) la ásaduvvam buoredittjat sáme nuoraj máhttelisvuodav vájkkudimes Sámedikke politihkav. Nammadus galggá doajmmat guládallamásadussan sáme nuoraj ja Sámedikke gaskan, valla galggá aj liehket guláskuddamásadus ja <span type="quote">“dárkestiddjen”</span> Sámedikke gáktuj nuorajássjij aktijvuodan. Dajna vuogijn máhttá SáNuN viehkedit Sámedikkev hábmedime dikke nuorajprofijlav ja nuorajpolitihkav.</p>
-    <p>– Sjaddá oalle suohtas ådå nammadusáv iejvvit ja diedáv sij li vájmmelisá nuoraj ássjij åvdedittjat, javllá Eira.</p>
-    <p>
-      <em type="italic">Jus li gatjálvisá, guládalá sámedikkerádijn </em>
-      <em type="italic">Juhána Biera Biret Márjá </em>
-      <em type="italic">/Berit Marie P.E. Eira, mob. +47 913 28 626 </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Ådå SáNuN nammaduvvam</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2017</year><wordcount>198</wordcount><conversion_status type="standard"/><availability><free/></availability><origFileName>https://www.samedigge.no/AAdaasa/AAdaa-SaNuN-nammaduvvam</origFileName><parallel_text xml:lang="nob" location="nytt-supu-oppnevnt.html"/><parallel_text xml:lang="sma" location="orre-supu-nammoehtamme.html"/><parallel_text xml:lang="sme" location="odda-sanul-nammaduvvon.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Ådå SáNuN nammaduvvam</p>
+<p><em type="italic">Sámedikkeráde l nammadam ådå sebrulattjajt Sámedikke nuorajpolitihkalasj nammadussaj (SáNuN), mij galggá doajmmat ájggegávdan 2018-2021. </em></p>
+<p><em type="italic">Ådå SáNuN sebrulattja: </em></p>
+<p>Jådediddje Ole Henrik Bjørkmo Lifjell (Nordlánnda), Maja Fjellstrøm (Nuortta-Trøndelága), Stine Ericsson Anti (Lulle-Finnmárkko), Grete Julianne Skum (Alle-Finnmárkko) ja Alfred Mikkel Kuoljok (Nordlánnda)</p>
+<p><em type="italic">Sadjásattja: </em></p>
+<p>Laara Sparrok (Nordlánnda), Andine Knudtson (Oarjje-Vuodna), Kristine Ballari (Lulle-Finnmárkko), Sajana Olsen (Romsa), Katja Elise Utsi (Nordlánnda)</p>
+<p>Sámedikkeráde nammadij ådå Sámedikke nuorajpolitihkalasj nammadusáv tjåhkanimen Oslos iektu 14.12.17. Oajvvadusá lidjin boahtám NSR:s, Jåhttesáme listas, Åarjel-Saemiej Gïelhas, Barggijbelludagás ja Oalgesbelludagás.</p>
+<p>– Mij lip vuodulattjat barggam ja buoremus vuoge milta juohkusij oajvvadusájt vieledam. Gájkka oajvvadiddje juohkusa li oadtjum juogu stuoves jali sadjásasj sebrulattjav, javllá sámedikkeráde Juhána Biera Biret Márjá/Berit Marie P.E. Eira, gut la dat Sámedikkeráden gænna l åvdåsvásstádus SáNuN:aj.</p>
+<p>Sámedikke nuorajpolitihkalasj nammadus (SáNuN) la ásaduvvam buoredittjat sáme nuoraj máhttelisvuodav vájkkudimes Sámedikke politihkav. Nammadus galggá doajmmat guládallamásadussan sáme nuoraj ja Sámedikke gaskan, valla galggá aj liehket guláskuddamásadus ja <span type="quote">“dárkestiddjen”</span> Sámedikke gáktuj nuorajássjij aktijvuodan. Dajna vuogijn máhttá SáNuN viehkedit Sámedikkev hábmedime dikke nuorajprofijlav ja nuorajpolitihkav.</p>
+<p>– Sjaddá oalle suohtas ådå nammadusáv iejvvit ja diedáv sij li vájmmelisá nuoraj ássjij åvdedittjat, javllá Eira.</p>
+<p><em type="italic">Jus li gatjálvisá, guládalá sámedikkerádijn </em><em type="italic">Juhána Biera Biret Márjá </em><em type="italic">/Berit Marie P.E. Eira, mob. +47 913 28 626 </em></p>
+</body></document>

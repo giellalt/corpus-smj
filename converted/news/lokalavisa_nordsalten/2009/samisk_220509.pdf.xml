@@ -1,47 +1,11 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Norrøn jali sáme?</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Bjørn E." lastname="Stemland" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>289</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_220509.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta/Gåvå: Bjørn E. StemlandJårggålibme:Idar Kintel/</p>
-    <p>Divte Media AS</p>
-    <p xml:lang="nob"><em type="italic">Arne Håkon Thomassen – vædtsagijn majna ednamav guoradallá – dålutjis sáhkadime Sidsel Bakkejn – madi Greta Sollie dálásjájgijn</em> <em type="italic">guládallá mobiltelefåvnå baktu!    Arne Håkon Thomassen - med et redskap for å ta stikkprøver av jordsmonn – i ivrig samtale med Sidsel</em> <em type="italic">Bakke om gamle dager – mens Greta Sollie har mobilkontakt med nåtiden!</em> </p>
-    <p>j jj</p>
-    <p>jjj jj</p>
-    <p><em type="bold">Moattelágásj rábo</em> </p>
-    <p>vuossti le broanssaájgeráhpo  kuppelgiergij10-20/30 cm            diameterin. Guovte parallella sádduhårijn kuppelgiergijs nuore lahka li gisstorábo ja rábo jårbåp hámijn guorralahkkuj. Vuorrasabmusa li ihkap bajemusán ednambajedime diehti, ja soajtti liehket birrusij 2-3000 jage vuorrasa. Arne Håkon subtsas Porsangerlahkkesuollun lij gávnnam liejkkimgistojt, ma ælla rábo, valla buvtadumsaje gånnå merrasáme livses ja uljov svállás, mårsjås ja nuorjos buvtadin. Rábo gisstohámijn Grådussan ælla gal liejkkimgisto, valla ieme rábo, valla guorras teorijaj, gånnå sáme ja norrøna viesáda gaskan lij aktisasjbarggo, ja sáme ja norrøna ihkap aktan li hávddáduvvam. Ájnas dahkamus dálla sjaddá buorre diehtotáblojt dahkat ma máhtti gæhttjijt diededit ja bagádallat. Giese ráhposeminára mannela berustibme dáj åvddåmujtoj birra lassánit, ja de le ájnas ulmutja diedov oadtju ma máhtti nannit ja tjiegnodit iejvvimav dålusj ulmutjij.</p>
-    <p><em type="bold">Rábo Mjeldbávte vuolen</em> </p>
-    <p>Bøvika nuppe bielen, Mjeldbávte vuossti, li aj moada rábo strádduhårijn giergijs ma li danna. Uddni li savvám tjuovggis sebmulij, valla jårbbis rahpam ienemus rábujn le máhttelis vuojnnet. Le miellagiddis ájádallat moadda boandás ráhposaje li goabbák bielen Bøvikas – ja  histåvrå moadda jiena tsabmi dunji gå guovlon vádtsá. Sáme lidjin gal vuostasj ulmutja gudi dási årrujin, ja ihkap dat nanos tjalmostahttem norrøna dåjmas dán guovlon ruovddeájgen ja vikingájgen le tjiehkam ahte sáme ihkap lidjin ájnnasappo gå uddni jáhkkep. Isetráhpo Hagbardsuollun, gånnå nissun biese sisi lij biejadum – sáme ráhpodáhpe – ihkap dav vuoset. <em type="italic">Geldulasj sjaddá gullat majt arkeologa</em> <em type="italic">åvddånbukti giese semináran!</em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Norrøn jali sáme?</title><genre code="news"/><author><person firstname="Bjørn E." lastname="Stemland" sex="m" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2009</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>289</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_220509.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta/Gåvå: Bjørn E. StemlandJårggålibme:Idar Kintel/</p>
+<p>Divte Media AS</p>
+<p xml:lang="nob"><em type="italic">Arne Håkon Thomassen – vædtsagijn majna ednamav guoradallá – dålutjis sáhkadime Sidsel Bakkejn – madi Greta Sollie dálásjájgijn</em> <em type="italic">guládallá mobiltelefåvnå baktu!    Arne Håkon Thomassen - med et redskap for å ta stikkprøver av jordsmonn – i ivrig samtale med Sidsel</em> <em type="italic">Bakke om gamle dager – mens Greta Sollie har mobilkontakt med nåtiden!</em> </p>
+<p>j jj</p>
+<p>jjj jj</p>
+<p><em type="bold">Moattelágásj rábo</em> </p>
+<p>vuossti le broanssaájgeráhpo  kuppelgiergij10-20/30 cm            diameterin. Guovte parallella sádduhårijn kuppelgiergijs nuore lahka li gisstorábo ja rábo jårbåp hámijn guorralahkkuj. Vuorrasabmusa li ihkap bajemusán ednambajedime diehti, ja soajtti liehket birrusij 2-3000 jage vuorrasa. Arne Håkon subtsas Porsangerlahkkesuollun lij gávnnam liejkkimgistojt, ma ælla rábo, valla buvtadumsaje gånnå merrasáme livses ja uljov svállás, mårsjås ja nuorjos buvtadin. Rábo gisstohámijn Grådussan ælla gal liejkkimgisto, valla ieme rábo, valla guorras teorijaj, gånnå sáme ja norrøna viesáda gaskan lij aktisasjbarggo, ja sáme ja norrøna ihkap aktan li hávddáduvvam. Ájnas dahkamus dálla sjaddá buorre diehtotáblojt dahkat ma máhtti gæhttjijt diededit ja bagádallat. Giese ráhposeminára mannela berustibme dáj åvddåmujtoj birra lassánit, ja de le ájnas ulmutja diedov oadtju ma máhtti nannit ja tjiegnodit iejvvimav dålusj ulmutjij.</p>
+<p><em type="bold">Rábo Mjeldbávte vuolen</em> </p>
+<p>Bøvika nuppe bielen, Mjeldbávte vuossti, li aj moada rábo strádduhårijn giergijs ma li danna. Uddni li savvám tjuovggis sebmulij, valla jårbbis rahpam ienemus rábujn le máhttelis vuojnnet. Le miellagiddis ájádallat moadda boandás ráhposaje li goabbák bielen Bøvikas – ja  histåvrå moadda jiena tsabmi dunji gå guovlon vádtsá. Sáme lidjin gal vuostasj ulmutja gudi dási årrujin, ja ihkap dat nanos tjalmostahttem norrøna dåjmas dán guovlon ruovddeájgen ja vikingájgen le tjiehkam ahte sáme ihkap lidjin ájnnasappo gå uddni jáhkkep. Isetráhpo Hagbardsuollun, gånnå nissun biese sisi lij biejadum – sáme ráhpodáhpe – ihkap dav vuoset. <em type="italic">Geldulasj sjaddá gullat majt arkeologa</em> <em type="italic">åvddånbukti giese semináran!</em> </p>
+</body></document>

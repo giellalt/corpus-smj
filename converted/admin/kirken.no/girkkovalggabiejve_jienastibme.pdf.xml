@@ -1,44 +1,20 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Válggabiejve jienastibme</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2015</year>
-    <wordcount>146</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>https://kirken.no/globalassets/kirken.no/om-kirken/slik-styres-kirken/kirkevalget/2015/for-medarbeidere/veiledninger/2-3-2_veil_stemmegivning-valgdag_ls.pdf</origFileName>
-    <parallel_text xml:lang="nob" location="kirkevalget_2015_stemmegivning_valgdag.pdf"/>
-    <parallel_text xml:lang="sma" location="gaerhkoeveeljeme_2015_veeljemebiejjien_steemmadidh.pdf"/>
-    <parallel_text xml:lang="sme" location="girkovalga_2015_jienasteapmi_valgabeaivvi.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Válggabiejve jienastibme</p>
-    <p><em type="bold">Guokta válga li masi besa jienastit:</em> </p>
-    <p>ÎTjoaggulvisrádij válgga  ÎBissmavielderáde ja Girkkotjåhkanime sahte ájrrasij válgga</p>
-    <p type="listitem">• Besa ietjat válggabijra (tjáledum</p>
-    <p>jienastimkårttåj) válggasajen jali ietjá válggabijran girkko suohkanin gånnå dujna  le jienastimriektá.</p>
-    <p type="listitem">• Gånnå ja goassa jienastibme le tjuodtju jiena</p>
-    <p type="listitem">• Kandidáhttalista ja diedo kandidáhtaj birra</p>
-    <p>galggá almoduvvam ájggá åvddål válga, ja gávnnu válggasajen.</p>
-    <p type="listitem">• Jus viehkev dárbaha válggasajen de máhtá</p>
-    <p>stimkårtån ja le aj åvddågiehtaj almoduvvam.</p>
-    <p type="listitem">• Válde fáron jienastimkårtåv jali ietjá</p>
-    <p>válldet aktijvuodav nágin válggabarggijn.</p>
-    <p type="listitem">• Jus le doajmmahiereduvvam (duola dagu</p>
-    <p>duodastimev.</p>
-    <p type="listitem">• Vájku illa jienastimlågon tjáleduvvam, de</p>
-    <p>máhtá gájbbedit jienastit. De bierri tjielggit manen duv mielas dujna le jienastimriektá girkkosuohkanin. Bierri tjálalattjat tjielggit. Válggastivrra de mierret jus jiedna  dåhkkiduvvá ja galggá lågåduvvat.</p>
-    <p>tjalmedibme) ja dárbaha viehkev jienastit, de besa iesj válljit muhtem ulmutjav vuorrasabbo gå 14 jage guhti de duv viehket jienastit.</p>
-    <p type="listitem">• Jienastiddje guhti le åvddågiehtaj jienastam</p>
-    <p>ij besa ådåsit jienastit válggabiejven.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Válggabiejve jienastibme</title><genre code="admin"/><author><unknown/></author><year>2015</year><wordcount>146</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://kirken.no/globalassets/kirken.no/om-kirken/slik-styres-kirken/kirkevalget/2015/for-medarbeidere/veiledninger/2-3-2_veil_stemmegivning-valgdag_ls.pdf</origFileName><parallel_text xml:lang="nob" location="kirkevalget_2015_stemmegivning_valgdag.pdf"/><parallel_text xml:lang="sma" location="gaerhkoeveeljeme_2015_veeljemebiejjien_steemmadidh.pdf"/><parallel_text xml:lang="sme" location="girkovalga_2015_jienasteapmi_valgabeaivvi.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Válggabiejve jienastibme</p>
+<p><em type="bold">Guokta válga li masi besa jienastit:</em> </p>
+<p>ÎTjoaggulvisrádij válgga  ÎBissmavielderáde ja Girkkotjåhkanime sahte ájrrasij válgga</p>
+<p type="listitem">• Besa ietjat válggabijra (tjáledum</p>
+<p>jienastimkårttåj) válggasajen jali ietjá válggabijran girkko suohkanin gånnå dujna  le jienastimriektá.</p>
+<p type="listitem">• Gånnå ja goassa jienastibme le tjuodtju jiena</p>
+<p type="listitem">• Kandidáhttalista ja diedo kandidáhtaj birra</p>
+<p>galggá almoduvvam ájggá åvddål válga, ja gávnnu válggasajen.</p>
+<p type="listitem">• Jus viehkev dárbaha válggasajen de máhtá</p>
+<p>stimkårtån ja le aj åvddågiehtaj almoduvvam.</p>
+<p type="listitem">• Válde fáron jienastimkårtåv jali ietjá</p>
+<p>válldet aktijvuodav nágin válggabarggijn.</p>
+<p type="listitem">• Jus le doajmmahiereduvvam (duola dagu</p>
+<p>duodastimev.</p>
+<p type="listitem">• Vájku illa jienastimlågon tjáleduvvam, de</p>
+<p>máhtá gájbbedit jienastit. De bierri tjielggit manen duv mielas dujna le jienastimriektá girkkosuohkanin. Bierri tjálalattjat tjielggit. Válggastivrra de mierret jus jiedna  dåhkkiduvvá ja galggá lågåduvvat.</p>
+<p>tjalmedibme) ja dárbaha viehkev jienastit, de besa iesj válljit muhtem ulmutjav vuorrasabbo gå 14 jage guhti de duv viehket jienastit.</p>
+<p type="listitem">• Jienastiddje guhti le åvddågiehtaj jienastam</p>
+<p>ij besa ådåsit jienastit válggabiejven.</p>
+</body></document>

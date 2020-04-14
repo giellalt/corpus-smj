@@ -1,53 +1,19 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Ålgusj- jali sisbielen - jali bárko ja muora gaskan</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge " lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>400</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="ingal.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_190210.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Ålgusj- jalisisbielenÅlgusj- jalisisbielen- jali bárko jamuora gaskan- jali bárko jamuora gaskan</p>
-    <p>j j</p>
-    <p xml:lang="nob">Tæksta: Børge Strandskog</p>
-    <p>Boaddnjijn guhti lijvahkkomaneldiddje moadda jage, de lijsuv åvdåsvásstádus gåtsedamguládallamav mánájgárdijn ja skåvlåjn.Muhttijn lij sån ájnna æjgádijs guhtiittjij sámegielav máhte.- Álu lij ållu vájvve. Lidjivtjåhkanimijn gånnå juohkkahasjsámástij, juska diehtin ittjiv dádjada.Navti máhttiv hálvva iessen sjaddat, gåsáhkadahttjájiv ássjij man birra juolidjin sáhkadam. Manenagi rávkkivdålkåv tjåhkanimijn ja rávkkiv ajgájkka tjállaga skåvlås galggingoappátjij giellaj tjáleduvvat, jaoadtjuv dav tjadádum, subtsas Suongir,guhti mannela válljiduváj æjgátoajvvenSámeskåvlån guokta jage. Sån le riekbællásasj galggá sámástuvvatæjgáttjåhkanimijn sáme mánájgárdijnja skåvlåjn.- Ij guossak galga liehketguoktáladdam makkir giella galggávuoroduvvat skåvlån. Valla vierttiliehket dålkkå tjåhkanimijn ja diedoskåvlås viertti boahtet goappátjijgiellaj. Ja vuojnnet buoragit manná gåli dåssju akta jali guokta dárogielagatjåhkanimijn. Jus ienebuv båhti, demuv åtsådallamijs dárustattjáji.Moaddi dárogiella tjåhkanimgiellan lesjaddam, subtsas sån.</p>
-    <p>sijdan Karlsøyan. Dájt sånvaselijnajn vuojdaj juohkkajavla. Mij máná jáhkijma da lidjintyskaskuova, gå ællim dábálasj skuovajmuoduga. Valla da lidjin gábmaga malidjin æddnáj goarodum gå sån lijmánná. Gå gatjádiv áddjás dáj birra, deittjij sidá vásstedit, subtsas Kirsti.Áhkkos jámij gå Kirsti iesj lij 23 jagevuoras. Ja ittjij guossak gætjájdalá sånlij sáme berrahijs..</p>
-    <p>Jårggålibme: Idar Kintel/Divte Media AS</p>
-    <p>tjadádam sámegielav åhpatjit.- Ja vijmak suojmma boahtá,måjudallá Kirsti.- Miján li gålmmå máná. Áhttjes lesámástam mánájda bajássjaddamin jamån lev dárustam. Mij lip guovte-gielak fámillja, midjij le vaddámbuorre åtsådallama sáme sijdan årrot.Dájna sávvap máná galggi oahppatláttij sebrudagán rijbadit, ja navtisjaddat ienep diedulattja mij guosskásámegiellaj ja kultuvrraj.- Riek vuorbálattja lip læhkámgielalattjat, gå mijá máná lidåjmalattjat guovte-gielaga nav gåknav tjábbát javladuvvá. Ælla navmoattes gudi bessi sámegielavvuostasjgiellan låhkåt vuodoskåvlåjnVuonan. <span type="quote">«Gássjelisvuoda»</span> ma mujnadárogielak ieddnen li ja li læhkámsáme skåvlån ij njuolgga máhtebuohtastahteduvvat daj hásstalusáj mali sámegielak æjgádijn ietjá sajijnVuonan, sierraláhkáj daj sajijn gånnårahtji vaj åvvånis galggisámegielåhpadusáv mánájdisá oadtjot.Vierttip aktan rahtjat vaj divna sámemáná galggi máhttelisvuodav oadtjotåhpadusáv sámegielan ja sámegiellajskåvlån. Riek ájnas le da gudiåhpaduvvi sámegielan vuostasjgiellanbuoragit várajváldeduvvi, ietjas árvoj,hæjttá Kirsti Suongir.</p>
-    <p>Gå rahtjamus sáme oahppoplána birralij værámusán, de Kirsti Suongirguládaláj Johan Albert Kalstadajn. Sånmáhtij subtsastit suv sáme máttoj jaidentitehta birra, ja riektá birra sámejienastuslåhkuj tjáleduvvat.  Datdåbddo lij riek buorre. Dán manneladádjadattjájiv ienebuv ja ienebuv.Munji li ædnám gábmaga gætjájdallammajt midjij vattij, vaj galgajma gávnnatruoptus ietjam identitehtav. De åhtsivadnet dav dålusj sáme manepnamáv(Suongir) mij Svierigis tjuovoj. Davoadtjuv, ja sæmmi manepnammaadnegådij nuoramus oabbám. Ja ihkapnágin dajs iehtjádijs aj målssu, måjutKirsti Suongir, guhti álgos lij akta 6oarbbenijs. Ájnna viellja hekkavmassij gávkas bijllasuorman jagen1990.</p>
-    <p>j</p>
-    <p>- Muhttijn lij riek vájvve</p>
-    <p>jj</p>
-    <p>j</p>
-    <p>j</p>
-    <p>j</p>
-    <p>j</p>
-    <p>Ietjas sáme identitehtta- Gå mån bajássjaddiv, ædnámijn lidjin</p>
-    <p>Viertti sámegiela åvdås rahtjatKirsti Suongir le julevsáme gápptev</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Ålgusj- jali sisbielen - jali bárko ja muora gaskan</title><genre code="news"/><author><person firstname="Børge " lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2010</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>400</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="ingal.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_190210.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Ålgusj- jalisisbielenÅlgusj- jalisisbielen- jali bárko jamuora gaskan- jali bárko jamuora gaskan</p>
+<p>j j</p>
+<p xml:lang="nob">Tæksta: Børge Strandskog</p>
+<p>Boaddnjijn guhti lijvahkkomaneldiddje moadda jage, de lijsuv åvdåsvásstádus gåtsedamguládallamav mánájgárdijn ja skåvlåjn.Muhttijn lij sån ájnna æjgádijs guhtiittjij sámegielav máhte.- Álu lij ållu vájvve. Lidjivtjåhkanimijn gånnå juohkkahasjsámástij, juska diehtin ittjiv dádjada.Navti máhttiv hálvva iessen sjaddat, gåsáhkadahttjájiv ássjij man birra juolidjin sáhkadam. Manenagi rávkkivdålkåv tjåhkanimijn ja rávkkiv ajgájkka tjállaga skåvlås galggingoappátjij giellaj tjáleduvvat, jaoadtjuv dav tjadádum, subtsas Suongir,guhti mannela válljiduváj æjgátoajvvenSámeskåvlån guokta jage. Sån le riekbællásasj galggá sámástuvvatæjgáttjåhkanimijn sáme mánájgárdijnja skåvlåjn.- Ij guossak galga liehketguoktáladdam makkir giella galggávuoroduvvat skåvlån. Valla vierttiliehket dålkkå tjåhkanimijn ja diedoskåvlås viertti boahtet goappátjijgiellaj. Ja vuojnnet buoragit manná gåli dåssju akta jali guokta dárogielagatjåhkanimijn. Jus ienebuv båhti, demuv åtsådallamijs dárustattjáji.Moaddi dárogiella tjåhkanimgiellan lesjaddam, subtsas sån.</p>
+<p>sijdan Karlsøyan. Dájt sånvaselijnajn vuojdaj juohkkajavla. Mij máná jáhkijma da lidjintyskaskuova, gå ællim dábálasj skuovajmuoduga. Valla da lidjin gábmaga malidjin æddnáj goarodum gå sån lijmánná. Gå gatjádiv áddjás dáj birra, deittjij sidá vásstedit, subtsas Kirsti.Áhkkos jámij gå Kirsti iesj lij 23 jagevuoras. Ja ittjij guossak gætjájdalá sånlij sáme berrahijs..</p>
+<p>Jårggålibme: Idar Kintel/Divte Media AS</p>
+<p>tjadádam sámegielav åhpatjit.- Ja vijmak suojmma boahtá,måjudallá Kirsti.- Miján li gålmmå máná. Áhttjes lesámástam mánájda bajássjaddamin jamån lev dárustam. Mij lip guovte-gielak fámillja, midjij le vaddámbuorre åtsådallama sáme sijdan årrot.Dájna sávvap máná galggi oahppatláttij sebrudagán rijbadit, ja navtisjaddat ienep diedulattja mij guosskásámegiellaj ja kultuvrraj.- Riek vuorbálattja lip læhkámgielalattjat, gå mijá máná lidåjmalattjat guovte-gielaga nav gåknav tjábbát javladuvvá. Ælla navmoattes gudi bessi sámegielavvuostasjgiellan låhkåt vuodoskåvlåjnVuonan. <span type="quote">«Gássjelisvuoda»</span> ma mujnadárogielak ieddnen li ja li læhkámsáme skåvlån ij njuolgga máhtebuohtastahteduvvat daj hásstalusáj mali sámegielak æjgádijn ietjá sajijnVuonan, sierraláhkáj daj sajijn gånnårahtji vaj åvvånis galggisámegielåhpadusáv mánájdisá oadtjot.Vierttip aktan rahtjat vaj divna sámemáná galggi máhttelisvuodav oadtjotåhpadusáv sámegielan ja sámegiellajskåvlån. Riek ájnas le da gudiåhpaduvvi sámegielan vuostasjgiellanbuoragit várajváldeduvvi, ietjas árvoj,hæjttá Kirsti Suongir.</p>
+<p>Gå rahtjamus sáme oahppoplána birralij værámusán, de Kirsti Suongirguládaláj Johan Albert Kalstadajn. Sånmáhtij subtsastit suv sáme máttoj jaidentitehta birra, ja riektá birra sámejienastuslåhkuj tjáleduvvat.  Datdåbddo lij riek buorre. Dán manneladádjadattjájiv ienebuv ja ienebuv.Munji li ædnám gábmaga gætjájdallammajt midjij vattij, vaj galgajma gávnnatruoptus ietjam identitehtav. De åhtsivadnet dav dålusj sáme manepnamáv(Suongir) mij Svierigis tjuovoj. Davoadtjuv, ja sæmmi manepnammaadnegådij nuoramus oabbám. Ja ihkapnágin dajs iehtjádijs aj målssu, måjutKirsti Suongir, guhti álgos lij akta 6oarbbenijs. Ájnna viellja hekkavmassij gávkas bijllasuorman jagen1990.</p>
+<p>j</p>
+<p>- Muhttijn lij riek vájvve</p>
+<p>jj</p>
+<p>j</p>
+<p>j</p>
+<p>j</p>
+<p>j</p>
+<p>Ietjas sáme identitehtta- Gå mån bajássjaddiv, ædnámijn lidjin</p>
+<p>Viertti sámegiela åvdås rahtjatKirsti Suongir le julevsáme gápptev</p>
+</body></document>

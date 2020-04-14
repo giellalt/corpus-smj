@@ -1,71 +1,30 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Rabás virge |  Samernas Utbildningscentrum</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>268</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.samernas.se/rabas-virge/?lang=ls</origFileName>
-    <parallel_text xml:lang="sme" location="rabas-virggit_lang_sm24.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Rabás virge</p>
-    <p>
-      <em type="bold">Sámij åhpadusguovdásj åhtså </em>
-    </p>
-    <p type="title">Duodjeåhpadiddje garraduodjáj 100 %</p>
-    <p xml:lang="sme">
-      <em type="bold">Bargo </em>
-    </p>
-    <p>Duodjeåhpadiddjen vássteda garraduodjesuorge åvdås. Dån vássteda pedagågak bargo, kvalitehta ja ekonomidja åvdås ekonomak rájij sinna. Barga aktan dibmaduodjeåhpadiddjij.</p>
-    <p>
-      <em type="bold">Duogásj </em>
-    </p>
-    <p>Dån máhtá duodjuhit ja dåbdå árbbedábálasj duojijt ja buvtá åhpadit. Dujna l pedagågak åhpadus jali avtaárvvusasj máhttudahka. Dån diedá ja dåbdå sáme sebrudagáv ja kultuvrav. Ánssidussan la sámegiella, goappátjagá njálmálattjat ja tjálalattjat.</p>
-    <p>
-      <em type="bold">Ietjá </em>
-    </p>
-    <p>Duodjeåhpadiddjevirgge l 100% ja máhttá guovte virggáj juohkásit. Bálkká máhttudagá milta. Álggo 2014-08-01. Gähttjalimvirgge.</p>
-    <p>Virgge duodjeåhpadiddjen garraduodjáj la stuovva virgge.</p>
-    <p><em type="bold">Diedojt </em>virge birra oattjo sadjásasj rektåvrås Per Stefan Labba, skuolkan: +46971 44002, e-påvsstå: rektor@samernas.se </p>
-    <p><em type="bold">Fáhka åvdåstiddje </em>l Margot Blind, åhpadiddje, skuolkan: +46971 44 022. </p>
-    <p><em type="bold">Åtsålvis </em>bálkkárávkalvisájn, mierkkidum <span type="quote">”Duodjeåhpadiddje”</span> galggá skåvlån maŋemusát moarmesmáno 16 b. 2014. </p>
-    <p>Rája adrässaj Sámij åhpadusguovdásj, Borgargatan 2, S-962 31 JÅHKÅMÅHKKE, jali </p>
-    <p xml:lang="nob">e-påvsståj: rektor@samernas.se</p>
-    <p xml:lang="koi">____________________________________________________________________________________________________________________________</p>
-    <p type="title">Vätnoelohketäjja – Duodjeåhpadiddje oarjjelsáme duodjesuorggáj 100 %</p>
-    <p xml:lang="sme">
-      <em type="bold">Bargo </em>
-    </p>
-    <p>Duodjeåhpadiddjen vássteda oarjjelsáme dibmaduodjesuorge åvdås. Dån vássteda pedagågak bargo, kvalitehta ja ekonomidja åvdås ekonomak rájij sinna. Barga aktan julevsáme- ja nuorttasáme dibmaduodjeåhpadiddjij ja aj garraduodjeåhpadiddjij.</p>
-    <p>
-      <em type="bold">Duogásj </em>
-    </p>
-    <p>Dån máhtá duodjuhit ja dåbdå árbbedábálasj duojijt ja buvtá åhpadit. Dujna l pedagågak åhpadus jali avtaárvvasasj máhttudahka. Dån diedá ja dåbdå sáme sebrudagáv ja kultuvrav. Ánssidussan la sámegiella, goappátjagá njálmálattjat ja tjálalattjat.</p>
-    <p>
-      <em type="bold">Ietjá </em>
-    </p>
-    <p>Duodjeåhpadiddjevirgge 100 %. Bálkká máhttudagá milta. Álggo bårggemáno 2014.</p>
-    <p>Virgge l jagev tjavtjas 2014 gidáj 2015 máhttelisvuodajn joarkket.</p>
-    <p><em type="bold">Diedojt </em>virge birra oattjo sadjásasj rektåvrås Per Stefan Labba, skuolkan: +46971 44 002, e-påvsstå: rektor@samernas.se </p>
-    <p><em type="bold">Fáhka åvdåstiddje </em>l Margot Blind, åhpadiddje, skuolkan: +46971 44 022. </p>
-    <p><em type="bold">Åtsålvis </em>bálkkárávkalvisájn, mierkkidum <span type="quote" xml:lang="sma">”Vätnoelohkehtäjja”</span> galggá skåvlån maŋemusát moarmesmáno 16 b. 2014. </p>
-    <p><em type="bold">Rája adrässaj: </em>Sámij åhpadusguovdásj, Borgargatan 2, S-962 31 JÅHKÅMÅHKKE, jali </p>
-    <p xml:lang="nob">e-påvsståj: rektor@samernas.se</p>
-    <p type="title">Giella</p>
-    <p type="title">Duodje</p>
-    <p type="title">Boatsojäládus</p>
-    <p type="title">Sáme biebbmo</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Rabás virge |  Samernas Utbildningscentrum</title><genre code="facta"/><author><unknown/></author><wordcount>263</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.samernas.se/rabas-virge/?lang=ls</origFileName><parallel_text xml:lang="sme" location="rabas-virggit_lang_sm24.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Rabás virge</p>
+<p><em type="bold">Sámij åhpadusguovdásj åhtså </em></p>
+<p type="title">Duodjeåhpadiddje garraduodjáj 100 %</p>
+<p xml:lang="sme"><em type="bold">Bargo </em></p>
+<p>Duodjeåhpadiddjen vássteda garraduodjesuorge åvdås. Dån vássteda pedagågak bargo, kvalitehta ja ekonomidja åvdås ekonomak rájij sinna. Barga aktan dibmaduodjeåhpadiddjij.</p>
+<p><em type="bold">Duogásj </em></p>
+<p>Dån máhtá duodjuhit ja dåbdå árbbedábálasj duojijt ja buvtá åhpadit. Dujna l pedagågak åhpadus jali avtaárvvusasj máhttudahka. Dån diedá ja dåbdå sáme sebrudagáv ja kultuvrav. Ánssidussan la sámegiella, goappátjagá njálmálattjat ja tjálalattjat.</p>
+<p><em type="bold">Ietjá </em></p>
+<p>Duodjeåhpadiddjevirgge l 100% ja máhttá guovte virggáj juohkásit. Bálkká máhttudagá milta. Álggo 2014-08-01. Gähttjalimvirgge.</p>
+<p>Virgge duodjeåhpadiddjen garraduodjáj la stuovva virgge.</p>
+<p><em type="bold">Diedojt </em>virge birra oattjo sadjásasj rektåvrås Per Stefan Labba, skuolkan: +46971 44002, e-påvsstå: rektor@samernas.se </p>
+<p><em type="bold">Fáhka åvdåstiddje </em>l Margot Blind, åhpadiddje, skuolkan: +46971 44 022. </p>
+<p><em type="bold">Åtsålvis </em>bálkkárávkalvisájn, mierkkidum <span type="quote">”Duodjeåhpadiddje”</span> galggá skåvlån maŋemusát moarmesmáno 16 b. 2014. </p>
+<p>Rája adrässaj Sámij åhpadusguovdásj, Borgargatan 2, S-962 31 JÅHKÅMÅHKKE, jali </p>
+<p xml:lang="nob">e-påvsståj: rektor@samernas.se</p>
+<p xml:lang="vep">____________________________________________________________________________________________________________________________</p>
+<p type="title">Vätnoelohketäjja – Duodjeåhpadiddje oarjjelsáme duodjesuorggáj 100 %</p>
+<p xml:lang="sme"><em type="bold">Bargo </em></p>
+<p>Duodjeåhpadiddjen vássteda oarjjelsáme dibmaduodjesuorge åvdås. Dån vássteda pedagågak bargo, kvalitehta ja ekonomidja åvdås ekonomak rájij sinna. Barga aktan julevsáme- ja nuorttasáme dibmaduodjeåhpadiddjij ja aj garraduodjeåhpadiddjij.</p>
+<p><em type="bold">Duogásj </em></p>
+<p>Dån máhtá duodjuhit ja dåbdå árbbedábálasj duojijt ja buvtá åhpadit. Dujna l pedagågak åhpadus jali avtaárvvasasj máhttudahka. Dån diedá ja dåbdå sáme sebrudagáv ja kultuvrav. Ánssidussan la sámegiella, goappátjagá njálmálattjat ja tjálalattjat.</p>
+<p><em type="bold">Ietjá </em></p>
+<p>Duodjeåhpadiddjevirgge 100 %. Bálkká máhttudagá milta. Álggo bårggemáno 2014.</p>
+<p>Virgge l jagev tjavtjas 2014 gidáj 2015 máhttelisvuodajn joarkket.</p>
+<p><em type="bold">Diedojt </em>virge birra oattjo sadjásasj rektåvrås Per Stefan Labba, skuolkan: +46971 44 002, e-påvsstå: rektor@samernas.se </p>
+<p><em type="bold">Fáhka åvdåstiddje </em>l Margot Blind, åhpadiddje, skuolkan: +46971 44 022. </p>
+<p><em type="bold">Åtsålvis </em>bálkkárávkalvisájn, mierkkidum <span type="quote" xml:lang="sma">”Vätnoelohkehtäjja”</span> galggá skåvlån maŋemusát moarmesmáno 16 b. 2014. </p>
+<p><em type="bold">Rája adrässaj: </em>Sámij åhpadusguovdásj, Borgargatan 2, S-962 31 JÅHKÅMÅHKKE, jali </p>
+<p xml:lang="nob">e-påvsståj: rektor@samernas.se</p>
+</body></document>

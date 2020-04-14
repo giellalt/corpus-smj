@@ -1,48 +1,12 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Kaféarahpam Árranin</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>279</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_150509.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty SkapalenGåvå: Kitty Skapalen</p>
-    <p>Jårggålibme: Divte Media AS</p>
-    <p>j</p>
-    <p>tjadádam ja dat vuosedij nanos berustimev. - Ájggop bájkálasj - ja sijddabiebmov stiellit. Kaféagálvo ja mállása. Uddni rahpambiejve le bidos mállásin.</p>
-    <p><em type="bold">Turisstaájgge vuorddá</em> </p>
-    <p>j</p>
-    <p><em type="bold">Ienep bargge</em> </p>
-    <p>Árrana direktørra, Filip Mikkelsen ådå fálaldagájn viek ávvudallá. - Dát gal buorre sjaddá. Gå álgijma guovdátjav jådedit de lijma binnep virgálattja ja uddni lip moattes, ja navti gal le dárbbo kaféaj. Sávav oadtjop moadda guollemállása menyan, soajttá spekesildáv ja ietjá njálga guolev, måjut, Vuolledirektørra Kitty Aira le aj viek dudálasj. - Dát le viek buorre. Dálla boahtep varás káffaj ja máhttep lunsjav ja mállásav dánna oasstet. Bårråp aj ålggon gåjt akti vahkkuj ja de la máhttelis njálga mállásav dánna oasstet. Dát buorre sjaddá, javllá sån.</p>
-    <p>Pedersen aj turisstaájgev vuorddá, ja vuojnná máhttelisvuodav turistajt giesen dievnastit, ja åvddålijguovlluj ihkap ájn akta barggosadje sjaddá. - Muv steviellja Kevin Olaisen (22) le åhpadum koahkka ja muv álgon viehket, javllá Pedersen. Iesj li sujna åtsådallama tsieggim- ja snihkkumsuorges, valla sujna le agev sávadus læhkám koahkkan barggat. Ja arvusmahttemav le vuorrasap sámijs oadtjum. - Mån lev bájke vuorrasap ulmutjijt ja biergguj, ja le árvusmahtedum sáme ja nuortta-vuona biebbmo. Berustav ålleslasj åvdedimes biebmos, mij galggá njálggen vuojnnut ja diedon njálggen májsstet, måjudallá sån. Juojddáv gal le oasestam, ja jáhkká sån viertti ådå vædtsagijt manenagi oasstet. Suv plánajn le aj catering-oasse. - Árran le juo åvddålijguovlluj dinngum, ja vuosstájválldep aj catering dinngumijt iehtjádijs guovdátja ålgusjbieles, javllá Pedersen. Sån le aj sáhkadam ietjá aktøraj, duola dagu hotellajn Sisnuoren. - Munji vuojnnet le navti gå ienep fálaldagá gávnnu, infrastruktuvrra lågnån. Miján le máhttelisvuohta buorre biebmojt oasstet, ja navti sávvap ulmutja árbbedábálasj biebmov ájggu bårråt, hæjttá ådå viddnudakæjgát Ájluovtan.</p>
-    <p>j jj</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Kaféarahpam Árranin</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2009</year><publChannel><publication><publisher>Lokalavisa nordsalten</publisher></publication></publChannel><wordcount>279</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_150509.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty SkapalenGåvå: Kitty Skapalen</p>
+<p>Jårggålibme: Divte Media AS</p>
+<p>j</p>
+<p>tjadádam ja dat vuosedij nanos berustimev. - Ájggop bájkálasj - ja sijddabiebmov stiellit. Kaféagálvo ja mállása. Uddni rahpambiejve le bidos mállásin.</p>
+<p><em type="bold">Turisstaájgge vuorddá</em> </p>
+<p>j</p>
+<p><em type="bold">Ienep bargge</em> </p>
+<p>Árrana direktørra, Filip Mikkelsen ådå fálaldagájn viek ávvudallá. - Dát gal buorre sjaddá. Gå álgijma guovdátjav jådedit de lijma binnep virgálattja ja uddni lip moattes, ja navti gal le dárbbo kaféaj. Sávav oadtjop moadda guollemállása menyan, soajttá spekesildáv ja ietjá njálga guolev, måjut, Vuolledirektørra Kitty Aira le aj viek dudálasj. - Dát le viek buorre. Dálla boahtep varás káffaj ja máhttep lunsjav ja mállásav dánna oasstet. Bårråp aj ålggon gåjt akti vahkkuj ja de la máhttelis njálga mállásav dánna oasstet. Dát buorre sjaddá, javllá sån.</p>
+<p>Pedersen aj turisstaájgev vuorddá, ja vuojnná máhttelisvuodav turistajt giesen dievnastit, ja åvddålijguovlluj ihkap ájn akta barggosadje sjaddá. - Muv steviellja Kevin Olaisen (22) le åhpadum koahkka ja muv álgon viehket, javllá Pedersen. Iesj li sujna åtsådallama tsieggim- ja snihkkumsuorges, valla sujna le agev sávadus læhkám koahkkan barggat. Ja arvusmahttemav le vuorrasap sámijs oadtjum. - Mån lev bájke vuorrasap ulmutjijt ja biergguj, ja le árvusmahtedum sáme ja nuortta-vuona biebbmo. Berustav ålleslasj åvdedimes biebmos, mij galggá njálggen vuojnnut ja diedon njálggen májsstet, måjudallá sån. Juojddáv gal le oasestam, ja jáhkká sån viertti ådå vædtsagijt manenagi oasstet. Suv plánajn le aj catering-oasse. - Árran le juo åvddålijguovlluj dinngum, ja vuosstájválldep aj catering dinngumijt iehtjádijs guovdátja ålgusjbieles, javllá Pedersen. Sån le aj sáhkadam ietjá aktøraj, duola dagu hotellajn Sisnuoren. - Munji vuojnnet le navti gå ienep fálaldagá gávnnu, infrastruktuvrra lågnån. Miján le máhttelisvuohta buorre biebmojt oasstet, ja navti sávvap ulmutja árbbedábálasj biebmov ájggu bårråt, hæjttá ådå viddnudakæjgát Ájluovtan.</p>
+<p>j jj</p>
+</body></document>

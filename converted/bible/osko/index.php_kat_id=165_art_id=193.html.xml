@@ -1,57 +1,20 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>117</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=165&amp;art_id=193</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=165_art_id=193.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=165_art_id=193.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=165_art_id=193.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åhpav: Biejvve</p>
-    <p type="title">Assisia Fránsa Biejvvelávlla</p>
-    <p>Guddnedum lehkus dån, Hærrám aktan gájkka majt sjivnnjedam le</p>
-    <p>sierraláhkáj viellja Biejvve, mij midjij biejvev vaddá,</p>
-    <p>ja dån midjij tjuovgav dan baktu vattá.</p>
-    <p>Guddnedum lehkus dån, Hærrám,</p>
-    <p>Biegga-vielja åvdås ja ilme ja balvaj åvdås</p>
-    <p>ja alme ja juohkkalágásj dálke åvdås,</p>
-    <p>danen gå dan baktu dån dibdá gájkka</p>
-    <p>ietjat sjivnnjádusáv bierggit.</p>
-    <p>Guddnedum lehkus dån, Hærrám,</p>
-    <p>Ednam-oappá åvdås, mijá ieddne,</p>
-    <p>mij mijáv baddjen anet ja guoddá</p>
-    <p>ja muorjijt ja rásev vaddá</p>
-    <p>ja bájnos sjattojt.</p>
-    <p>Assisia Fránssa riegádij jagen1182 Umbrian Italian. Biednikniehkke Fránssa vattij gájkka majt åmastij. Ietjas iellemav vattij råhkådallamij ja hæjojt dievnnutjit: Jubmela sjivnnjádusáv guddnedij ietjas iellema baktu. Ietjas dåbdojt ilmodij tjáppa diktaj ja girjij baktu.</p>
-    <p>Lågå ienep suv birra</p>
-    <p xml:lang="nob">dâppe</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>117</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=165&amp;art_id=193</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=165_art_id=193.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=165_art_id=193.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=165_art_id=193.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åhpav: Biejvve</p>
+<p type="title">Assisia Fránsa Biejvvelávlla</p>
+<p>Guddnedum lehkus dån, Hærrám aktan gájkka majt sjivnnjedam le</p>
+<p>sierraláhkáj viellja Biejvve, mij midjij biejvev vaddá,</p>
+<p>ja dån midjij tjuovgav dan baktu vattá.</p>
+<p>Guddnedum lehkus dån, Hærrám,</p>
+<p>Biegga-vielja åvdås ja ilme ja balvaj åvdås</p>
+<p>ja alme ja juohkkalágásj dálke åvdås,</p>
+<p>danen gå dan baktu dån dibdá gájkka</p>
+<p>ietjat sjivnnjádusáv bierggit.</p>
+<p>Guddnedum lehkus dån, Hærrám,</p>
+<p>Ednam-oappá åvdås, mijá ieddne,</p>
+<p>mij mijáv baddjen anet ja guoddá</p>
+<p>ja muorjijt ja rásev vaddá</p>
+<p>ja bájnos sjattojt.</p>
+<p>Assisia Fránssa riegádij jagen1182 Umbrian Italian. Biednikniehkke Fránssa vattij gájkka majt åmastij. Ietjas iellemav vattij råhkådallamij ja hæjojt dievnnutjit: Jubmela sjivnnjádusáv guddnedij ietjas iellema baktu. Ietjas dåbdojt ilmodij tjáppa diktaj ja girjij baktu.</p>
+<p>Lågå ienep suv birra</p>
+<p xml:lang="nob">dâppe</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

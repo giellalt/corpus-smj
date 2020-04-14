@@ -1,52 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>76</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=1&amp;art_id=147</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=1_art_id=147.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=1_art_id=147.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=1_art_id=147.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Duv ájádusá</p>
-    <p type="title">Manen konfirmánntan?</p>
-    <p>Månnå dav dagáv danen gå le buorre dáhpe. Ietjam gáptev oattjov. Ja ållo fuolkke tjåhkani konfirmasjåvnnåj.</p>
-    <p>Karanne 14 jage</p>
-    <p xml:lang="nob">Jeg gjør det fordi det er en fin tradisjon. Jeg får min egen kofte. Og masse slekt samles til konfirmasjonen.</p>
-    <p xml:lang="nob">Karianne 14 år</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-    <p type="title" xml:lang="nob">kommentarer(1):</p>
-    <p type="title" xml:lang="nob">mange gode ting</p>
-    <p xml:lang="nob">Fordi jeg følger tradisjon, mange av mine venner konfirmeres, får endel gaver, og jeg får dra på samlinger.</p>
-    <p type="title" xml:lang="nob">Skriv en kommentar:</p>
-    <p xml:lang="nob">Navn:</p>
-    <p xml:lang="nob">epost:</p>
-    <p xml:lang="nob">Kommentar:</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>76</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=1&amp;art_id=147</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=1_art_id=147.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=1_art_id=147.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=1_art_id=147.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Duv ájádusá</p>
+<p type="title">Manen konfirmánntan?</p>
+<p>Månnå dav dagáv danen gå le buorre dáhpe. Ietjam gáptev oattjov. Ja ållo fuolkke tjåhkani konfirmasjåvnnåj.</p>
+<p>Karanne 14 jage</p>
+<p xml:lang="nob">Jeg gjør det fordi det er en fin tradisjon. Jeg får min egen kofte. Og masse slekt samles til konfirmasjonen.</p>
+<p xml:lang="nob">Karianne 14 år</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+<p type="title" xml:lang="nob">kommentarer(1):</p>
+<p type="title" xml:lang="nob">mange gode ting</p>
+<p xml:lang="nob">Fordi jeg følger tradisjon, mange av mine venner konfirmeres, får endel gaver, og jeg får dra på samlinger.</p>
+<p type="title" xml:lang="nob">Skriv en kommentar:</p>
+<p xml:lang="nob">Navn:</p>
+<p xml:lang="nob">epost:</p>
+<p xml:lang="nob">Kommentar:</p>
+</body></document>

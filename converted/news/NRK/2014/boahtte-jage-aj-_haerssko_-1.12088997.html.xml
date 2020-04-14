@@ -1,57 +1,26 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Boahtte jage aj “Hærssko” - NRK Sápmi - sámegillii</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Harrieth" lastname="Aira" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2014</year>
-    <wordcount>307</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Sandra Nystø Ráhka" email="sandra.rahka@uit.no"/>
-    <multilingual/>
-    <origFileName>http://www.nrk.no/sapmi/samegillii/boahtte-jage-aj-_haerssko_-1.12088997</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 109023 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">NRK</p>
-    <p xml:lang="nno">Meny</p>
-    <p type="title">Boahtte jage aj <span type="quote" xml:lang="isl">“Hærssko”</span></p>
-    <p>Sáme biebbmomárnán mij dán tjaktjagiese ásaduváj Skánegin sjaddá joarkket aj boahtte jage. Ja dalloj sjaddá biebbmomárnán Ájluovtan, Divtasvuonan.</p>
-    <p>Dav subtsas sáme mannoæládusá viddnudagá Njunjes-dåjmadiddje Anna Kuoljok, guhti l riek ávon gå Nordlanda fylkasuohkana la juollodam rudájt prosjæktaj vaj dat máhttá joarkket boahtte jage.</p>
-    <p>
-      <em type="italic">– Mij lip riek ávon gå fylkasuohkan vas juollot rudájt dájda biejvijda, ja vuojnnet sij dájna duodasin válldi mijá bargov, javllá Kuoljok. </em>
-    </p>
-    <p type="title">Aktisasjbarggo</p>
-    <p>Nordlanda fylkasuohkan áttjak juollodij 400 000 tuvsán kråvnå prosjæktaj mij merkaj prosjækta lulu joarkket aj boahtte jage.</p>
-    <p>– Márnán la riek buorre buojkulvis gåktu sáme birrasa Nordlándan ja Oarjje-Råmsån máhtti aktisattjat barggat, javllá Nordlánda fylkasuohkana æládusráde Arve Knutsen præssadiedádusán.</p>
-    <p>Anna Kuoljok vuorddá aj Sámedigge galggá juollodit Sámedikke oasev prosjevtan.</p>
-    <p type="title" xml:lang="isl">Hærssko</p>
-    <p>Vásse tjaktjagiese ásadin moadda sáme mannoæládusviddnudagá ja kultuvrrainstitusjåvnå sáme biebbmomárnánav, Hærssko majt sij dav gåhtjudin.</p>
-    <p>Dat dáhpáduváj Evenskieren, Skánegin ja lij aktisasjbarggo gaskan sáme mannoæládusviddnudagá ja sáme kultuvrrainstitusjåvnå Oarjje-Råmsån ja Nuortta Nordlándan.</p>
-    <list>
-      <p type="listitem">Lågå: En kulinarisk opplevelse</p>
-      <p type="listitem" xml:lang="nno">Lågå aj: I dag skal ganer behages</p>
-    </list>
-    <p>Ásadiddjij mielas sij riek buoragit vuorbástuvvin dáj márnánbiejvij gånnå sáme biebbmo lij guovdátjin.</p>
-    <p type="title">Boahtte jage Divtasvuonan</p>
-    <p>Ja boahtte jage sjaddá sulásj márnán, valla dán bále Ájluovtan Divtasvuonan subtsas Kuoljok.</p>
-    <p>
-      <em type="italic">– Mijá plánaj milta sjaddá biebbmománán boahtte jage Ájluovtan, Divtasvuonan. Jur dálla árvustallap dán jagásj biebbmemárnánav ja gehtjadip jus littji rievddadusá masi l dárbbo. Valla mij joarkkep sæmmi vuodon gå dajna vuojnnet riek buoragit vuorbástuvájma dán jage. </em>
-    </p>
-    <p>Márnánijn galggi sij joarkket tjalmostit sáme biebmojt ma sijá mielas la vuodo sáme kultuvran dán guovlon. Valla boahtte jage ij sjatta dåssju biebbmo mij la guovdátjin.</p>
-    <p>– Mij aj usjudallap vuosádallat ietjá åsijt sáme kultuvran ja ij dåssju biebmojt.</p>
-    <p>Goassa márnánbiejve sjaddi ja gudi dasi oassálassti ij la ga dálla ájn tjielgas. Dat gullu gárvedimbargguj majna sij dálla li barggagoahtám subtsas Kuoljok midjij.</p>
-    <p xml:lang="nno">Publisert</p>
-    <p xml:lang="nno">Del på Facebook</p>
-    <p xml:lang="nno">Del på Twitter</p>
-    <p xml:lang="nno">Del på Google+</p>
-    <p xml:lang="nno">Send med epost</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Boahtte jage aj “Hærssko” - NRK Sápmi - sámegillii</title><genre code="news"/><author><person firstname="Harrieth" lastname="Aira" sex="unknown" born="" nationality=""/></author><year>2014</year><wordcount>305</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Sandra Nystø Ráhka" email="sandra.rahka@uit.no"/><multilingual/><origFileName>http://www.nrk.no/sapmi/samegillii/boahtte-jage-aj-_haerssko_-1.12088997</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 109023 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Boahtte jage aj <span type="quote" xml:lang="isl">“Hærssko”</span></p>
+<p>Sáme biebbmomárnán mij dán tjaktjagiese ásaduváj Skánegin sjaddá joarkket aj boahtte jage. Ja dalloj sjaddá biebbmomárnán Ájluovtan, Divtasvuonan.</p>
+<p>Dav subtsas sáme mannoæládusá viddnudagá Njunjes-dåjmadiddje Anna Kuoljok, guhti l riek ávon gå Nordlanda fylkasuohkana la juollodam rudájt prosjæktaj vaj dat máhttá joarkket boahtte jage.</p>
+<p><em type="italic">– Mij lip riek ávon gå fylkasuohkan vas juollot rudájt dájda biejvijda, ja vuojnnet sij dájna duodasin válldi mijá bargov, javllá Kuoljok. </em></p>
+<p type="title">Aktisasjbarggo</p>
+<p>Nordlanda fylkasuohkan áttjak juollodij 400 000 tuvsán kråvnå prosjæktaj mij merkaj prosjækta lulu joarkket aj boahtte jage.</p>
+<p>– Márnán la riek buorre buojkulvis gåktu sáme birrasa Nordlándan ja Oarjje-Råmsån máhtti aktisattjat barggat, javllá Nordlánda fylkasuohkana æládusráde Arve Knutsen præssadiedádusán.</p>
+<p>Anna Kuoljok vuorddá aj Sámedigge galggá juollodit Sámedikke oasev prosjevtan.</p>
+<p type="title" xml:lang="rmf">Hærssko</p>
+<p>Vásse tjaktjagiese ásadin moadda sáme mannoæládusviddnudagá ja kultuvrrainstitusjåvnå sáme biebbmomárnánav, Hærssko majt sij dav gåhtjudin.</p>
+<p>Dat dáhpáduváj Evenskieren, Skánegin ja lij aktisasjbarggo gaskan sáme mannoæládusviddnudagá ja sáme kultuvrrainstitusjåvnå Oarjje-Råmsån ja Nuortta Nordlándan.</p>
+<list><p type="listitem">Lågå: En kulinarisk opplevelse</p>
+<p type="listitem" xml:lang="nno">Lågå aj: I dag skal ganer behages</p>
+</list><p>Ásadiddjij mielas sij riek buoragit vuorbástuvvin dáj márnánbiejvij gånnå sáme biebbmo lij guovdátjin.</p>
+<p type="title">Boahtte jage Divtasvuonan</p>
+<p>Ja boahtte jage sjaddá sulásj márnán, valla dán bále Ájluovtan Divtasvuonan subtsas Kuoljok.</p>
+<p><em type="italic">– Mijá plánaj milta sjaddá biebbmománán boahtte jage Ájluovtan, Divtasvuonan. Jur dálla árvustallap dán jagásj biebbmemárnánav ja gehtjadip jus littji rievddadusá masi l dárbbo. Valla mij joarkkep sæmmi vuodon gå dajna vuojnnet riek buoragit vuorbástuvájma dán jage. </em></p>
+<p>Márnánijn galggi sij joarkket tjalmostit sáme biebmojt ma sijá mielas la vuodo sáme kultuvran dán guovlon. Valla boahtte jage ij sjatta dåssju biebbmo mij la guovdátjin.</p>
+<p>– Mij aj usjudallap vuosádallat ietjá åsijt sáme kultuvran ja ij dåssju biebmojt.</p>
+<p>Goassa márnánbiejve sjaddi ja gudi dasi oassálassti ij la ga dálla ájn tjielgas. Dat gullu gárvedimbargguj majna sij dálla li barggagoahtám subtsas Kuoljok midjij.</p>
+<p xml:lang="nno">Publisert</p>
+<p xml:lang="nno">Del på Facebook</p>
+<p xml:lang="nno">Del på Twitter</p>
+<p xml:lang="nno">Del på Google+</p>
+<p xml:lang="nno">Send med epost</p>
+</body></document>

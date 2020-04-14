@@ -1,53 +1,17 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Dárbbo l guoradallamij: Julevsámegiella ij la ådåájggásasj giella</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>475</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/d-rbbo-l-guoradallamij-julevs-megiella-ij-la-ada-jgg-sasj-giella.4165</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Dárbbo l guoradallamij: Julevsámegiella ij la ådåájggásasj giella</p>
-    <p>Harrieth Aira ballá julevsámegielan e gávnnu ådåájggásasj bágo, ja dajna giella bájnniduvvá dárogielas.</p>
-    <p xml:lang="nob">Norsk kortversjon</p>
-    <p>Hásstalusá guoradallama hárráj li stuoraga ja moadda. Mij giellaj ja giellahuksimij gullu li hásstalusá ájn vil stuorábuv. Julevsámegielan ij rat gávnnu moadda ådåájggásasj bágo, ja dajna de ulmutja adni dárogiela bágov, jali e åvvånis bágov ane. Soames vuoras ulmutjij mielas ij la julevsámegiella dádjadahtte dajna gå li nav moadda amás bágo boahtám.</p>
-    <p>Harrieth Aira mielas la julevsámegiella státusav massemin gå bágo ja moallánagá vájlluji.</p>
-    <p>–Galggá julevsámegiella liehket iellema gájka viddjurij birra, de vierttiji gájka iellema dile giehtadallat mij giellaj gullu. Moadda dåjma li jåhtuj boahtám, ja stuorámus hásstalus la åhpadimev vaddet boatte buolvajda, javllá Harrieth Aira.</p>
-    <p>
-      <em type="italic">Ij ådåájggásasj </em>
-    </p>
-    <p>Harrieth Airan la virgge Sámedikke åhpadusåssudagán. Suv mielas la guoradallamij dárbbo, guoradallam mij aj gielav vielet. –Julevsámegiella ij la åvddånahttám ådåájggásasj giellan, dajna l dárbbo guoradallamij giella hárráj, ja åvdåsvásstádus la sebrudagán. Ietjamij gielav hæhttup boahtte ájggáj hiebadahttet, javllá Aira.</p>
-    <p>Aira oassálastij dijstagá guoradallamkonferánsajn hållamijn hásstalusáj giela hárráj. Konferánssa Árranin ásaduváj guovten biejven. Danna tjåhkanin moattet guovlos ja fágasuorges ságastit guoradallama birra julevsáme guovlon, ja giella lij aj tiebmán danna.</p>
-    <p xml:lang="nob">
-      <em type="italic">Rekrutterik </em>
-    </p>
-    <p>Harrieth Aira nammat avtas nuppev hásstalusáv giela hárráj, ja åhtsål aj buorep aktisasjbargov rijka rájá rasta, Svieriga bielijn. Aira vielet aktisasj bargov ja aktisasj guoradallamav juoga dal ráddnárijkaj jali institusjåvnåj rájá goapptjij bielen. Aira mielas la gatjálvis gåktu galggá ådå ulmutjijt oadtjot giellaássjij bargatjit. –Gudi ájn galggi julevsáme guoradallambargov tjadádit, ja gudi galggi tjuolmajt ja tjoavddusijt åvddån buktet. Muv mielas ælla moattes gudi tjadádi julevsáme guoradallambargov, ja ælla ga moattes gudi li dakkár tjuolmaj barggamin. Mij julevsáme vierttip ietjama gielav gåtsedit ja ietjama gielav guoradallat. Dárbbo l dan diehti fáhkaulmutjijda ma julevsámegielav háldadi alep dásen, javllá Aira ja mujttádahttá ælla moattes gudi julevsámegielajn barggi.</p>
-    <p>Aira aj åtsåt rekrutterikprográmmav mij vielet ja hasot udnásj ja boatte buolvajt lågåtjit julevsámegielav alep dásen. –Hæhttup álgget vuolemus dásen, ja tjuovvot studentajt alemus dássáj, javllá sån ja nammat åhpadusinstitusjåvnåjt Vuona ja aj Svieriga bielen.</p>
-    <p>Harrieth Aira mielas la dárbbo doajmmalis fáhkaulmutjijs ja doajmmalis institusjåvnåjs, ja dajna aj hásot Vuona guoradallamrádev tjoavddusijt buktet.</p>
-    <p xml:lang="nob">
-      <em type="italic">Giellamålssom </em>
-    </p>
-    <p>Dálásj ájge la dáhpe doappit dárobágojt viehkken gå la ságastime juonga ássje birra gånnå sámebahko vájllu. -Gå máná farra hálidi dárustit gå dálásj bágo julevsábmáj e gávnnu, ja gå nuora gujttiji gå e rat máhte gieresvuoda ja seksualitehta birra sábmáj ságastit, ja tjiegos ássjij birra ságastit majt ælla oahppam. Ja gå ållessjattuga ja vuoras ulmutja gujttiji gå udnásj julevsámegielav e rat dádjada gå li nav ållo ådå bágo ma li giellaj boahtemin, de vuojnnep soames hásstalusájt mijá gielan. Ja jus dakkir tjuolma hieredi ulmutjijt sámástimes, jali jus sámegiella ilá ållo bájnniduvvá dároigielas, de viertti soames gávnadit jus giellamålssom la dáhpáduvvamin, javllá Harrieth Aira ja gatját jus de ij la dárbbo giellaguoradallamij.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Dárbbo l guoradallamij: Julevsámegiella ij la ådåájggásasj giella</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>475</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/d-rbbo-l-guoradallamij-julevs-megiella-ij-la-ada-jgg-sasj-giella.4165</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Dárbbo l guoradallamij: Julevsámegiella ij la ådåájggásasj giella</p>
+<p>Harrieth Aira ballá julevsámegielan e gávnnu ådåájggásasj bágo, ja dajna giella bájnniduvvá dárogielas.</p>
+<p xml:lang="nob">Norsk kortversjon</p>
+<p>Hásstalusá guoradallama hárráj li stuoraga ja moadda. Mij giellaj ja giellahuksimij gullu li hásstalusá ájn vil stuorábuv. Julevsámegielan ij rat gávnnu moadda ådåájggásasj bágo, ja dajna de ulmutja adni dárogiela bágov, jali e åvvånis bágov ane. Soames vuoras ulmutjij mielas ij la julevsámegiella dádjadahtte dajna gå li nav moadda amás bágo boahtám.</p>
+<p>Harrieth Aira mielas la julevsámegiella státusav massemin gå bágo ja moallánagá vájlluji.</p>
+<p>–Galggá julevsámegiella liehket iellema gájka viddjurij birra, de vierttiji gájka iellema dile giehtadallat mij giellaj gullu. Moadda dåjma li jåhtuj boahtám, ja stuorámus hásstalus la åhpadimev vaddet boatte buolvajda, javllá Harrieth Aira.</p>
+<p><em type="italic">Ij ådåájggásasj </em></p>
+<p>Harrieth Airan la virgge Sámedikke åhpadusåssudagán. Suv mielas la guoradallamij dárbbo, guoradallam mij aj gielav vielet. –Julevsámegiella ij la åvddånahttám ådåájggásasj giellan, dajna l dárbbo guoradallamij giella hárráj, ja åvdåsvásstádus la sebrudagán. Ietjamij gielav hæhttup boahtte ájggáj hiebadahttet, javllá Aira.</p>
+<p>Aira oassálastij dijstagá guoradallamkonferánsajn hållamijn hásstalusáj giela hárráj. Konferánssa Árranin ásaduváj guovten biejven. Danna tjåhkanin moattet guovlos ja fágasuorges ságastit guoradallama birra julevsáme guovlon, ja giella lij aj tiebmán danna.</p>
+<p xml:lang="nob"><em type="italic">Rekrutterik </em></p>
+<p>Harrieth Aira nammat avtas nuppev hásstalusáv giela hárráj, ja åhtsål aj buorep aktisasjbargov rijka rájá rasta, Svieriga bielijn. Aira vielet aktisasj bargov ja aktisasj guoradallamav juoga dal ráddnárijkaj jali institusjåvnåj rájá goapptjij bielen. Aira mielas la gatjálvis gåktu galggá ådå ulmutjijt oadtjot giellaássjij bargatjit. –Gudi ájn galggi julevsáme guoradallambargov tjadádit, ja gudi galggi tjuolmajt ja tjoavddusijt åvddån buktet. Muv mielas ælla moattes gudi tjadádi julevsáme guoradallambargov, ja ælla ga moattes gudi li dakkár tjuolmaj barggamin. Mij julevsáme vierttip ietjama gielav gåtsedit ja ietjama gielav guoradallat. Dárbbo l dan diehti fáhkaulmutjijda ma julevsámegielav háldadi alep dásen, javllá Aira ja mujttádahttá ælla moattes gudi julevsámegielajn barggi.</p>
+<p>Aira aj åtsåt rekrutterikprográmmav mij vielet ja hasot udnásj ja boatte buolvajt lågåtjit julevsámegielav alep dásen. –Hæhttup álgget vuolemus dásen, ja tjuovvot studentajt alemus dássáj, javllá sån ja nammat åhpadusinstitusjåvnåjt Vuona ja aj Svieriga bielen.</p>
+<p>Harrieth Aira mielas la dárbbo doajmmalis fáhkaulmutjijs ja doajmmalis institusjåvnåjs, ja dajna aj hásot Vuona guoradallamrádev tjoavddusijt buktet.</p>
+<p xml:lang="nob"><em type="italic">Giellamålssom </em></p>
+<p>Dálásj ájge la dáhpe doappit dárobágojt viehkken gå la ságastime juonga ássje birra gånnå sámebahko vájllu. -Gå máná farra hálidi dárustit gå dálásj bágo julevsábmáj e gávnnu, ja gå nuora gujttiji gå e rat máhte gieresvuoda ja seksualitehta birra sábmáj ságastit, ja tjiegos ássjij birra ságastit majt ælla oahppam. Ja gå ållessjattuga ja vuoras ulmutja gujttiji gå udnásj julevsámegielav e rat dádjada gå li nav ållo ådå bágo ma li giellaj boahtemin, de vuojnnep soames hásstalusájt mijá gielan. Ja jus dakkir tjuolma hieredi ulmutjijt sámástimes, jali jus sámegiella ilá ållo bájnniduvvá dároigielas, de viertti soames gávnadit jus giellamålssom la dáhpáduvvamin, javllá Harrieth Aira ja gatját jus de ij la dárbbo giellaguoradallamij.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

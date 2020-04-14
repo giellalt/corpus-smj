@@ -1,46 +1,11 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Sámedikke vuorrasijráde</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2017</year>
-    <wordcount>105</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/Politihkka2/Samedikke-vuorrasijrade</origFileName>
-    <parallel_text xml:lang="nob" location="sametingets-eldreraad.html"/>
-    <parallel_text xml:lang="sma" location="saemiedigkien-voereseraerie.html"/>
-    <parallel_text xml:lang="sme" location="samedikki-vuorasolbmuidraddi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Sámedikke vuorrasijráde</p>
-    <p>Sámedikke vuorrasijráde le Sámedikkeráde rádevadde orgádnan ja galggá liehket viehkken Sámediggáj Sámedikke vuorrasijpolitihkav hábmedime.</p>
-    <p>
-      <em type="italic">Vuorrasijráde gåhtjodus la: </em>
-    </p>
-    <p>Vuorrasijráde bivddiduvvá javllamusájt buvtátjit diedádusájda, plánajda ja tjielggidusájda iesjgeŋga fáhkasuorgijn majt Sámedikkeráde ájggu dahkat.</p>
-    <p>Vuorrasijráde máhttá iesj ássjijt Sámedikkerádáj bajedit.</p>
-    <p>Jus vuorrasijráde hálijt ássjijt iehtjádijda gå sámedikkerádáj bajedit, de galggá tjielggasit åvddån boahtet, dát la vuorrasijráde javllamus.</p>
-    <p>
-      <em type="italic">Sebrulattja 2018-2021: </em>
-    </p>
-    <p xml:lang="sme">Julie Eira, Guovdageaidnu, Alle-Finnmárku Ester Fjellheim, Sálašvággi, Romsa Ingolf Kvandahl, Bálák, Nordlánnda Lars N. Bransfjell, Praahke, Trööndelage Berit Ellen Nikkinen Varsi, Kárášjohka, Lulle-Finnmárku</p>
-    <p>
-      <em type="italic">Sadjásasj sebrulattja: </em>
-    </p>
-    <p xml:lang="sme">Ingrid Jåma, Oslo, Oarjje-Vuodna Laila Somby Sandvik, Kárášjohka, Lulle-Finnmárku Inge Andersen, Lådik, Nordlánnda Jarl Even Roska, Unjárgga, Lulle-Finnmárku Hans Eriksen, Deatnu, Lulle-Finnmárku</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Sámedikke vuorrasijráde</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2017</year><wordcount>105</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/Politihkka2/Samedikke-vuorrasijrade</origFileName><parallel_text xml:lang="nob" location="sametingets-eldreraad.html"/><parallel_text xml:lang="sma" location="saemiedigkien-voereseraerie.html"/><parallel_text xml:lang="sme" location="samedikki-vuorasolbmuidraddi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Sámedikke vuorrasijráde</p>
+<p>Sámedikke vuorrasijráde le Sámedikkeráde rádevadde orgádnan ja galggá liehket viehkken Sámediggáj Sámedikke vuorrasijpolitihkav hábmedime.</p>
+<p><em type="italic">Vuorrasijráde gåhtjodus la: </em></p>
+<p>Vuorrasijráde bivddiduvvá javllamusájt buvtátjit diedádusájda, plánajda ja tjielggidusájda iesjgeŋga fáhkasuorgijn majt Sámedikkeráde ájggu dahkat.</p>
+<p>Vuorrasijráde máhttá iesj ássjijt Sámedikkerádáj bajedit.</p>
+<p>Jus vuorrasijráde hálijt ássjijt iehtjádijda gå sámedikkerádáj bajedit, de galggá tjielggasit åvddån boahtet, dát la vuorrasijráde javllamus.</p>
+<p><em type="italic">Sebrulattja 2018-2021: </em></p>
+<p xml:lang="sme">Julie Eira, Guovdageaidnu, Alle-Finnmárku Ester Fjellheim, Sálašvággi, Romsa Ingolf Kvandahl, Bálák, Nordlánnda Lars N. Bransfjell, Praahke, Trööndelage Berit Ellen Nikkinen Varsi, Kárášjohka, Lulle-Finnmárku</p>
+<p><em type="italic">Sadjásasj sebrulattja: </em></p>
+<p xml:lang="sme">Ingrid Jåma, Oslo, Oarjje-Vuodna Laila Somby Sandvik, Kárášjohka, Lulle-Finnmárku Inge Andersen, Lådik, Nordlánnda Jarl Even Roska, Unjárgga, Lulle-Finnmárku Hans Eriksen, Deatnu, Lulle-Finnmárku</p>
+</body></document>

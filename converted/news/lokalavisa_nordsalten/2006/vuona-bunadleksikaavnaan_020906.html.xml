@@ -1,48 +1,16 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Vuona bunadleksikåvnån: Stuorra sadje julevsáme gáptijda</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>384</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/vuona-bunadleksikavnan-stuorra-sadje-julevs-me-g-ptijda.4108</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Vuona bunadleksikåvnån: Stuorra sadje julevsáme gáptijda</p>
-    <p>Gålmmå stuorra girje gáptij ja bunadij birra li juo gárvvása, ja oasse dánna lij aj divtasvuonaga siegen, juogu dal modellan, jali kamera duogen, jali prosæktajådeddjen.Lågev biele leksikåvnås li julevsáme gáptij birra, ja Hábmera bunad la aj dajn girjijn. Norsk kortversjon/Oanegis dárogiellaj</p>
-    <p>
-      <em type="italic">Bildet: Sara Mikkelsen(9), Mikkel Amma Kuoljok(5), Åshild Jessen, Sylvia Nystø, Ingar Nikolaisen Kuoljok, Aline Mikkelsen, Erling Urheim, Reidun Paulsen ja Tor Erik Paulsen(unna gåvåsj) lij oassálasstám stuorra gáppte- ja bunadleksikåvnnåj. </em>
-    </p>
-    <p>Gålmmå stuorra girje gáptij ja bunadij birra li juo gárvvása, ja oasse dánna lij aj divtasvuonaga siegen, juogu dal modellan, jali kamera duogen, jali prosæktajådeddjen.</p>
-    <p>Lågev biele leksikåvnås li julevsáme gáptij birra, ja Hábmera bunad la aj dajn girjijn.</p>
-    <p>Damms álmmudahka la 3 jage dájna prosjevtajn barggam åvdås gå leksikåvnnå almoduváj moarmesmánon. Ja boados dat bargos sjattaj 3 girje rájdon mij vuoset juohkka lágásj gáptijt ja bunadijt juohkkat guovlos dát mijá guhka rijkas. Dát la vuostasj ålles leksikåvnnå Vuona bunadij ja gáptij birra, ja badjelasj 400 bunada ja gápte lij mañen. Leksikåvnnå vuoset mij gávnnu bunadijs ja gáptijs, gåktu aneduvvi ja aj manen ja gåktu aneduvvin åvddåla.</p>
-    <p>Moadda girje gáptij ja bunadij birra li almoduvvam, valla dát la vuostasj girjjerájddo gånnå li tjoahkkim gájkka bunadijt ja gáptijt ålles rijkas.</p>
-    <p>Tjoahkken la birrusij 400 bunada ja gápte dájn gålmåjn girjijn.</p>
-    <p>Julevsáme gáptij prosjevta jådediddje Aline Mikkelsen la riek ávon gå la vijmak almoduvvam mij la nav snivva dagádum. Ja suv mielas li julevsáme gápte viehka stuorra sajev oadtjum.</p>
-    <p>-Galla vuojnáv julevsáme gápte li 10 biele oadtjum, valla muv mielas viertti nav ållo liehket jus galggá vehik gáptij birra subtsastit dajna gå gápte birra la nav ållo majt viertti giehttot. Ja dudálasj dal viertti liehket gå dákkár stuorra leksikåvnnå l dagádum gånnå gápte juohkkat guovlos mijá rijkas li viek stuorra sajev oadtjum, javllá bájkálasj prosjæktajådediddje Aline Mikkelsen.</p>
-    <p>Hábmera bunad la aj dán leksikåvnån, ja gålmmå biele li nissuna ja ålmmå bunada birra Hábmeris.</p>
-    <p>Jus sidá dáj bunadij ja julevsáme gáptij birra låhkåt la máhttelis gatjádit juogu dal girjjevuorkán, jali girjijt rávvit girjjeoassásis jali almmudagás.</p>
-    <p>-Dát leksikåvnnå ij gávnnu juohkka oassásin, valla dåhkki dal aj almmudagás rávvit, subtsas redáktørra Halvard Vik Damms almmudagán.</p>
-    <p>Vuostasj prienntim, 5000 girje, la almmudahka vuobddám, valla ådå girje lij juo prienntiduvvam.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Vuona bunadleksikåvnån: Stuorra sadje julevsáme gáptijda</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>384</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/vuona-bunadleksikavnan-stuorra-sadje-julevs-me-g-ptijda.4108</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Vuona bunadleksikåvnån: Stuorra sadje julevsáme gáptijda</p>
+<p>Gålmmå stuorra girje gáptij ja bunadij birra li juo gárvvása, ja oasse dánna lij aj divtasvuonaga siegen, juogu dal modellan, jali kamera duogen, jali prosæktajådeddjen.Lågev biele leksikåvnås li julevsáme gáptij birra, ja Hábmera bunad la aj dajn girjijn. Norsk kortversjon/Oanegis dárogiellaj</p>
+<p><em type="italic">Bildet: Sara Mikkelsen(9), Mikkel Amma Kuoljok(5), Åshild Jessen, Sylvia Nystø, Ingar Nikolaisen Kuoljok, Aline Mikkelsen, Erling Urheim, Reidun Paulsen ja Tor Erik Paulsen(unna gåvåsj) lij oassálasstám stuorra gáppte- ja bunadleksikåvnnåj. </em></p>
+<p>Gålmmå stuorra girje gáptij ja bunadij birra li juo gárvvása, ja oasse dánna lij aj divtasvuonaga siegen, juogu dal modellan, jali kamera duogen, jali prosæktajådeddjen.</p>
+<p>Lågev biele leksikåvnås li julevsáme gáptij birra, ja Hábmera bunad la aj dajn girjijn.</p>
+<p>Damms álmmudahka la 3 jage dájna prosjevtajn barggam åvdås gå leksikåvnnå almoduváj moarmesmánon. Ja boados dat bargos sjattaj 3 girje rájdon mij vuoset juohkka lágásj gáptijt ja bunadijt juohkkat guovlos dát mijá guhka rijkas. Dát la vuostasj ålles leksikåvnnå Vuona bunadij ja gáptij birra, ja badjelasj 400 bunada ja gápte lij mañen. Leksikåvnnå vuoset mij gávnnu bunadijs ja gáptijs, gåktu aneduvvi ja aj manen ja gåktu aneduvvin åvddåla.</p>
+<p>Moadda girje gáptij ja bunadij birra li almoduvvam, valla dát la vuostasj girjjerájddo gånnå li tjoahkkim gájkka bunadijt ja gáptijt ålles rijkas.</p>
+<p>Tjoahkken la birrusij 400 bunada ja gápte dájn gålmåjn girjijn.</p>
+<p>Julevsáme gáptij prosjevta jådediddje Aline Mikkelsen la riek ávon gå la vijmak almoduvvam mij la nav snivva dagádum. Ja suv mielas li julevsáme gápte viehka stuorra sajev oadtjum.</p>
+<p>-Galla vuojnáv julevsáme gápte li 10 biele oadtjum, valla muv mielas viertti nav ållo liehket jus galggá vehik gáptij birra subtsastit dajna gå gápte birra la nav ållo majt viertti giehttot. Ja dudálasj dal viertti liehket gå dákkár stuorra leksikåvnnå l dagádum gånnå gápte juohkkat guovlos mijá rijkas li viek stuorra sajev oadtjum, javllá bájkálasj prosjæktajådediddje Aline Mikkelsen.</p>
+<p>Hábmera bunad la aj dán leksikåvnån, ja gålmmå biele li nissuna ja ålmmå bunada birra Hábmeris.</p>
+<p>Jus sidá dáj bunadij ja julevsáme gáptij birra låhkåt la máhttelis gatjádit juogu dal girjjevuorkán, jali girjijt rávvit girjjeoassásis jali almmudagás.</p>
+<p>-Dát leksikåvnnå ij gávnnu juohkka oassásin, valla dåhkki dal aj almmudagás rávvit, subtsas redáktørra Halvard Vik Damms almmudagán.</p>
+<p>Vuostasj prienntim, 5000 girje, la almmudahka vuobddám, valla ådå girje lij juo prienntiduvvam.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

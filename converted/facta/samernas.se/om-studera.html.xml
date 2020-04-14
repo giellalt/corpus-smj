@@ -1,109 +1,46 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Låhkåt mijá lunna |  Samernas Utbildningscentrum</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>309</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.samernas.se/792-2/789-2/?lang=ls</origFileName>
-    <parallel_text xml:lang="swe" location="om-studera.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Almulasj diedo åhpadusájs Sámij Åhpadusguovdátjin</p>
-    <p>
-      <em type="bold">Låhkåt mijá lunna:  </em>
-    </p>
-    <p>Viertti 18 jage. Diespensav máhttep vaddet dunji nuorap 18 jages.</p>
-    <p>
-      <em type="bold">Kurssaájge:  </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="bold">2014/2015 </em>
-    </p>
-    <p>Tjaktjakurssa: 20140826-20141219, tjaktjaloahpe v. 44</p>
-    <p>Gidákursa: 20150107-20140605, loahpe v. 10, bässásjloahpe v.15</p>
-    <p>Låhkåmbiednigahttem:</p>
-    <p>
-      <em type="bold">Oahppamviehkke </em>
-    </p>
-    <p>- dunji nuorap 20 jages. Sámij åhpadusguovdásj registreri duv gut la nuorap 20 jages ja lågå 100 % jali oahppamviehkev oattjo. Låhkåmájggáj binnep gå 100 % ij oahppamviehkev oattjo.</p>
-    <p><em type="italic">Oahppambiedniga </em>– dunji gut la 20 jage ja vuorrasabbo, luojkkama ja doarjjaga. Iesj åtså oahppambiednigijt CSNas ja binnemusát 50% ållesájges hähttu låhkåt. Dat javllá neljadiskursajda ij maná oahppambiednigijt åhtsåt. </p>
-    <p>Ienep diedojt gávna CSNa bielen</p>
-    <p>Doarjjaga åni sámegielkursajda vatteduvvi daj njuolgadusáj milta ma gulluji sámedikke doarjjagij åniájggásasj åhpadussaj. Njuolgadusá milta (2007:1347) stáhtadoarjjagij birra muhtem sámegielkursajda <em type="italic">6 §) </em>Stáhtadoarjjaga vatteduvvi åhpadussaj ienemusát 14 biejve jali 112 tijma. Oahppe oadtju stáhtadoarjjagijt ienemusát 30 biejve jali 240 tijma jahkáj. </p>
-    <p>Sváldas Sámedikke diedojda doarjjagij birra åniájggásj åhpadussaj</p>
-    <p>
-      <em type="bold">I Árvvobágo/duodastus:  </em>
-    </p>
-    <p>Skåvllå fállá aktan Komvuksajn Jåhkåmåhken oahppáj árvvobágov ja duodastusáv mávso dagi.</p>
-    <p>
-      <em type="bold">Dievnastusmávso gájkka oahppijda: </em>
-    </p>
-    <p>Låhkåmjage 2014/15:1500 kr/låhkåmjahkáj ållesájggásasj låhkåmij,</p>
-    <p>800 kr/låhkåmjahkáj binnep gå lahkkeájggásasj låhkåmij</p>
-    <p>
-      <em type="bold">Ietjá oahppegålo: </em>
-    </p>
-    <p>
-      <em type="bold">(duodden) </em>
-    </p>
-    <p xml:lang="sme">Duodjesuorgge: 1200 kr/låhkåmjahkáj</p>
-    <p>
-      <em type="bold">Girjjegålo </em>
-    </p>
-    <p xml:lang="koi">:</p>
-    <p>Oahppe ietjasa girjijt máksi. Muhtem girje gávnnuji dåjmadagán oasstet jus luovas biednigij mávsá.</p>
-    <p>
-      <em type="bold">Oahppij viesso: </em>
-    </p>
-    <p>Oahppij vieson li 28 lanjá návvulijn ja hivsigijn. Aktisasj tjiehka ja Tv-ladnja juohkka låbdån. Gåbddåbádde oahppij vieso lanjájn. Bassammasjijna ja sávnne gávnnu. Påvsstå oahppijda juohkas kl. 13.00 maŋŋela sierra påvsståfáhkajda skåvllåvieson.</p>
-    <p>
-      <em type="bold">Lájggokontrákta Oahppij viesso:  </em>
-    </p>
-    <p>Lájggokontráktatjáleduvvá muhtem njuolgadusáj.</p>
-    <p>
-      <em type="bold">Skåvllåvarresvuohta: </em>
-    </p>
-    <p>Skåvlån la muhtem skåvllåvarresvuohta máhttelisvuodajn ságastit kuratåvråjn jali sykolåvgåjn.</p>
-    <p xml:lang="nno"/>
-    <p xml:lang="nno"/>
-    <p xml:lang="nno"/>
-    <p>
-      <em type="bold">Duodastusá </em>
-    </p>
-    <p>
-      <em type="bold">:Alkohåvllå  </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="bold">/Selga:  </em>
-    </p>
-    <p>Skåvlån la oahppijn vádáduodastus jánndurav birra. Åniájggásasj kursan la oahppijn aj duodastus. Hähttu oahppe iesj hássat duodastusáv gálvoj åvdås.Ij la loahpe alkohåvlåv ja selgajt skåvllåbájken adnet.</p>
-    <p>
-      <em type="bold">Motåvrrålieggimsaje </em>
-    </p>
-    <p xml:lang="koi">:</p>
-    <p>Gávnnuji lájggimij.</p>
-    <p>
-      <em type="bold">Asstoájgge: </em>
-    </p>
-    <p>Akti vahkkuj bessap idråhttåbájkkáj ja vuojadimhállaj. Lahka tjuojggamlahttuj. Goabbdálisán li skerastimdievá.</p>
-    <p>
-      <em type="bold">Åtsålvis: </em>
-    </p>
-    <p>Åtså värmmádagá baktu! Åtsålvis galggá mijá lunna maŋemusát moarmesmáno 15 biejve. Vásstádusáv mijás oattjo biehtsemáno guovddela.</p>
-    <p type="title">Giella</p>
-    <p type="title">Duodje</p>
-    <p type="title">Boatsojäládus</p>
-    <p type="title">Sáme biebbmo</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Låhkåt mijá lunna |  Samernas Utbildningscentrum</title><genre code="facta"/><author><unknown/></author><wordcount>304</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.samernas.se/792-2/789-2/?lang=ls</origFileName><parallel_text xml:lang="swe" location="om-studera.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Almulasj diedo åhpadusájs Sámij Åhpadusguovdátjin</p>
+<p><em type="bold">Låhkåt mijá lunna:  </em></p>
+<p>Viertti 18 jage. Diespensav máhttep vaddet dunji nuorap 18 jages.</p>
+<p><em type="bold">Kurssaájge:  </em></p>
+<p xml:lang="vep"><em type="bold">2014/2015 </em></p>
+<p>Tjaktjakurssa: 20140826-20141219, tjaktjaloahpe v. 44</p>
+<p>Gidákursa: 20150107-20140605, loahpe v. 10, bässásjloahpe v.15</p>
+<p>Låhkåmbiednigahttem:</p>
+<p><em type="bold">Oahppamviehkke </em></p>
+<p>- dunji nuorap 20 jages. Sámij åhpadusguovdásj registreri duv gut la nuorap 20 jages ja lågå 100 % jali oahppamviehkev oattjo. Låhkåmájggáj binnep gå 100 % ij oahppamviehkev oattjo.</p>
+<p><em type="italic">Oahppambiedniga </em>– dunji gut la 20 jage ja vuorrasabbo, luojkkama ja doarjjaga. Iesj åtså oahppambiednigijt CSNas ja binnemusát 50% ållesájges hähttu låhkåt. Dat javllá neljadiskursajda ij maná oahppambiednigijt åhtsåt. </p>
+<p>Ienep diedojt gávna CSNa bielen</p>
+<p>Doarjjaga åni sámegielkursajda vatteduvvi daj njuolgadusáj milta ma gulluji sámedikke doarjjagij åniájggásasj åhpadussaj. Njuolgadusá milta (2007:1347) stáhtadoarjjagij birra muhtem sámegielkursajda <em type="italic">6 §) </em>Stáhtadoarjjaga vatteduvvi åhpadussaj ienemusát 14 biejve jali 112 tijma. Oahppe oadtju stáhtadoarjjagijt ienemusát 30 biejve jali 240 tijma jahkáj. </p>
+<p>Sváldas Sámedikke diedojda doarjjagij birra åniájggásj åhpadussaj</p>
+<p><em type="bold">I Árvvobágo/duodastus:  </em></p>
+<p>Skåvllå fállá aktan Komvuksajn Jåhkåmåhken oahppáj árvvobágov ja duodastusáv mávso dagi.</p>
+<p><em type="bold">Dievnastusmávso gájkka oahppijda: </em></p>
+<p>Låhkåmjage 2014/15:1500 kr/låhkåmjahkáj ållesájggásasj låhkåmij,</p>
+<p>800 kr/låhkåmjahkáj binnep gå lahkkeájggásasj låhkåmij</p>
+<p><em type="bold">Ietjá oahppegålo: </em></p>
+<p><em type="bold">(duodden) </em></p>
+<p>Duodjesuorgge: 1200 kr/låhkåmjahkáj</p>
+<p><em type="bold">Girjjegålo </em></p>
+<p xml:lang="vep">:</p>
+<p>Oahppe ietjasa girjijt máksi. Muhtem girje gávnnuji dåjmadagán oasstet jus luovas biednigij mávsá.</p>
+<p><em type="bold">Oahppij viesso: </em></p>
+<p>Oahppij vieson li 28 lanjá návvulijn ja hivsigijn. Aktisasj tjiehka ja Tv-ladnja juohkka låbdån. Gåbddåbádde oahppij vieso lanjájn. Bassammasjijna ja sávnne gávnnu. Påvsstå oahppijda juohkas kl. 13.00 maŋŋela sierra påvsståfáhkajda skåvllåvieson.</p>
+<p><em type="bold">Lájggokontrákta Oahppij viesso:  </em></p>
+<p>Lájggokontráktatjáleduvvá muhtem njuolgadusáj.</p>
+<p><em type="bold">Skåvllåvarresvuohta: </em></p>
+<p>Skåvlån la muhtem skåvllåvarresvuohta máhttelisvuodajn ságastit kuratåvråjn jali sykolåvgåjn.</p>
+<p xml:lang="swe"/>
+<p xml:lang="swe"/>
+<p xml:lang="swe"/>
+<p><em type="bold">Duodastusá </em></p>
+<p><em type="bold">:Alkohåvllå  </em></p>
+<p xml:lang="sme"><em type="bold">/Selga:  </em></p>
+<p>Skåvlån la oahppijn vádáduodastus jánndurav birra. Åniájggásasj kursan la oahppijn aj duodastus. Hähttu oahppe iesj hássat duodastusáv gálvoj åvdås.Ij la loahpe alkohåvlåv ja selgajt skåvllåbájken adnet.</p>
+<p><em type="bold">Motåvrrålieggimsaje </em></p>
+<p xml:lang="vep">:</p>
+<p>Gávnnuji lájggimij.</p>
+<p><em type="bold">Asstoájgge: </em></p>
+<p>Akti vahkkuj bessap idråhttåbájkkáj ja vuojadimhállaj. Lahka tjuojggamlahttuj. Goabbdálisán li skerastimdievá.</p>
+<p><em type="bold">Åtsålvis: </em></p>
+<p>Åtså värmmádagá baktu! Åtsålvis galggá mijá lunna maŋemusát moarmesmáno 15 biejve. Vásstádusáv mijás oattjo biehtsemáno guovddela.</p>
+</body></document>

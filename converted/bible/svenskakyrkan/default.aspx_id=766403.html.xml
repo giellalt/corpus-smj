@@ -1,41 +1,11 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>168</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=766403</origFileName>
-    <parallel_text xml:lang="fin" location="default.aspx_id=655211.html"/>
-    <parallel_text xml:lang="sma" location="default.aspx_id=767249.html"/>
-    <parallel_text xml:lang="sme" location="default.aspx_id=767273.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Gástadus - Svenska kyrkan - Om oss</p>
-    <p type="title">Gástadus</p>
-    <p type="title">Mánásj la riegádam. Sihtap dav gildástallat aktan dijájn- buorisboahtem gástadussaj!</p>
-    <p>Mánná Gåvvå: Jim Elfström</p>
-    <p>Dunji äjgádin gástadus máhttá årrot duodastus gijttogisvuohtaj, gå sjaddam la äjgádin jur dán unna ulmutjij.</p>
-    <p><em type="italic">Jáhtto </em>Gástadusán la jáhtto Jubmel la maŋen viessoma gájkka biejvij, juska mij dáhpáduvvá. Girkko ålles histåvrå tjadá l gástadus årrum vuojnos duodastibme juohkka ulmutja diehttelis aktisasjvuohtaj Jubmelijn. </p>
-    <p>Gástadusjubmeldievnno l ávo ja viessoma vuollo. Gut la gástadum la buvtedum Jubmela åvvdåj gut midjij vaddá viessomav ja sihtá oasev válldet mijá ávon dassta. Jubmel sihtá mijá lahka årrot viessoma tjadá, tjoavddet mijáv gájkas mij gállnat ja dan láhkáj ådåstuhttá mijá viessommáhttelisvuodajt. <em type="italic">Gástadus nuorajda </em>Máná ienemusát li gástadum Svieriga girkkon, valla ienep nuora ja nuorra ållessjattuga sihti gástaduvvat. Dáhpádum la ienemusát skallujlåhkåma, åhpadusá maŋŋela jali ságastimjuohkusa gáktuj ristalasj jáhkon. </p>
-    <p>
-      <em type="italic">Gástadus ja sebrulasjvuohta </em>
-    </p>
-    <p>Gástadus la vuodo sebrulasjvuohtaj Svieriga girkkon. Gut la gástadum ietjá ristalasj sebrudagán hiehpá aj sebrulattjan Svieriga girkkon, ådå gástadus ij la dárbulasj. Svieriga girkko årniga milta ristalasj gástadus la fámon agev.</p>
-    <p>//</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>168</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.svenskakyrkan.se/default.aspx?id=766403</origFileName><parallel_text xml:lang="fin" location="default.aspx_id=655211.html"/><parallel_text xml:lang="sma" location="default.aspx_id=767249.html"/><parallel_text xml:lang="sme" location="default.aspx_id=767273.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Gástadus - Svenska kyrkan - Om oss</p>
+<p type="title">Gástadus</p>
+<p type="title">Mánásj la riegádam. Sihtap dav gildástallat aktan dijájn- buorisboahtem gástadussaj!</p>
+<p>Mánná Gåvvå: Jim Elfström</p>
+<p>Dunji äjgádin gástadus máhttá årrot duodastus gijttogisvuohtaj, gå sjaddam la äjgádin jur dán unna ulmutjij.</p>
+<p><em type="italic">Jáhtto </em>Gástadusán la jáhtto Jubmel la maŋen viessoma gájkka biejvij, juska mij dáhpáduvvá. Girkko ålles histåvrå tjadá l gástadus årrum vuojnos duodastibme juohkka ulmutja diehttelis aktisasjvuohtaj Jubmelijn. </p>
+<p>Gástadusjubmeldievnno l ávo ja viessoma vuollo. Gut la gástadum la buvtedum Jubmela åvvdåj gut midjij vaddá viessomav ja sihtá oasev válldet mijá ávon dassta. Jubmel sihtá mijá lahka årrot viessoma tjadá, tjoavddet mijáv gájkas mij gállnat ja dan láhkáj ådåstuhttá mijá viessommáhttelisvuodajt. <em type="italic">Gástadus nuorajda </em>Máná ienemusát li gástadum Svieriga girkkon, valla ienep nuora ja nuorra ållessjattuga sihti gástaduvvat. Dáhpádum la ienemusát skallujlåhkåma, åhpadusá maŋŋela jali ságastimjuohkusa gáktuj ristalasj jáhkon. </p>
+<p><em type="italic">Gástadus ja sebrulasjvuohta </em></p>
+<p>Gástadus la vuodo sebrulasjvuohtaj Svieriga girkkon. Gut la gástadum ietjá ristalasj sebrudagán hiehpá aj sebrulattjan Svieriga girkkon, ådå gástadus ij la dárbulasj. Svieriga girkko årniga milta ristalasj gástadus la fámon agev.</p>
+<p>//</p>
+</body></document>

@@ -1,82 +1,35 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>480</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Tolktjanst</origFileName>
-    <parallel_text xml:lang="eng" location="tolktjanst.html"/>
-    <parallel_text xml:lang="fin" location="tolktjanst.html"/>
-    <parallel_text xml:lang="fit" location="tolktjanst.html"/>
-    <parallel_text xml:lang="sma" location="tolktjanst.html"/>
-    <parallel_text xml:lang="sme" location="tilktjanst.html"/>
-    <parallel_text xml:lang="swe" location="tolktjanst.html"/>
-    <parallel_text location="tolktjanst.html" xml:lang="rmn"/>
-    <parallel_text location="tolktjanst.html" xml:lang="rmu"/>
-    <parallel_text location="tolktjanst.html" xml:lang="rmy-rka"/>
-    <parallel_text location="tolktjanst.html" xml:lang="yid"/>
-    <parallel_text location="tolktjanst.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="tolktjanst.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Dålkkådievnastus / Tolktjänst - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">JulevusámegiellaLulesamiska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title">DålkkådievnastusTolktjänst</p>
-    <p type="title">Diededibme</p>
-    <p type="title">Dålkkum ietjá gielajda</p>
-    <p>Varresvuohta- ja skihpasujttobargge li välggogisá diedojt vaddet ma li aktugattjaj hiebadum. Bargge galggi vieledit iehtjádij siegen makkir kultuvralasj ja gielak duogásj la ulmutjin. Merkaj bargge, jus la dárbulasj, galggi diededahttijn dålkåv adnet. Máhttelis la iesj dålkåv rávkkat jus ij aktak gatjáda jus dakkirav dárbaj. De aktavuodav válldá kommuvnajn, mij åvdåsvásstádusáv válldá sisijåhttedålkåjs.</p>
-    <p>Sisijåhttijn gudi dárbahi dålkåv gå aktavuodav válldi varresvuohta- ja skihpasujtujn li álu lagámusá ja rádna gudi máhtti viehkedit dålkkut. Vájku l lagámusdålkkå de májnoduvvá huoman virgálasj dålkkå lánndadikke jali kommuvna dåjmadime baktu. Kultuvralasj ärádusá ja ärádusá vuojnojn ulmutjij gaskan umasslágásj rijkajs dahki vaj muhtem dilijn márjju l buorre muhtem tjanágahtes ulmutjijn gut viehket dålkkut.</p>
-    <p type="title">Gejna aktavuodav válldá?</p>
-    <p>Máhttá kommuvna telefåvnnåguovdátjijn viehkev oattjotjit gejna ságastit.</p>
-    <p type="title">Dålkkåguovdásj</p>
-    <p>Måttijn lánndadikkijn/dajvajn la dålkkåguovdásj gå muhtema åvdåsvásstádusáv adni dievnastusájt gaskostit.</p>
-    <p>Dålkkåguovdátjin barggi sierraåhpadum dålkå:</p>
-    <list>
-      <p type="listitem">Siejvvemgielladålkå mánnávuohtabieljedimijda, dat javllá ulmutja gudi li bieljedime riegádimrájes jali li bieljeduvvam árra álldarin ja gejn la siejvvemgiella vuostasj giellan.</p>
-      <p type="listitem">Dålkå ållessjattukbieljedimijda, dat javllá ulmutja gudi li bieljeduvvam ållessjattugin ja gejn la dárogiella vuostasj giellan (álu tjállemdålkkum) valla aj siejvvemgiella doarjjan (TSS) ja njálmmelábudimij gå ságas.</p>
-      <p type="listitem">Dålka bielljetjalmedimulmutjijda jali sieldes nievres tjalmme- ja bielljevigák ulmutjijda.</p>
-    </list>
-    <p>Dålkå dahki vaj la máhttelis gullijda ja bieljedimijda/bielljevigákulmutjijda guládallat.</p>
-    <p>Dålkkådievnastus la mávsodak ja máhttelis la dålkåv diŋŋgot lánndadikke dålkkåguovdátja baktu gájkka dilijn manna adná dav dárbaj. Fámon la goappátjagá mánnávuohtabieljedimijda, bielljevigákulmutjijda, ållessjattukbieljedimijda, bielljetjalmedimijda ja gullijda.</p>
-    <p type="title">Gejna aktavuodav válldá?</p>
-    <p>Dålkkådárbon la máhttelis aktavuodav válldet ietjas lánndadikke dålkkåguovdátjijn.</p>
-    <p type="title">Láhkaásadibme</p>
-    <p>Varresvuohta- ja skihpasujttoláhka, SFS 1982:763.</p>
-    <p type="title">Hålladievnastus/Taltjänst</p>
-    <p>Hålladievnastus la mávsodak dievnastus jus ulmutjin la jiedna-, hålla- jali giellagássjelisvuoda. Hålladievnastusán barggi hålladievnastusdålkå. Hålladievnastus gávnnu dálla lågen lánndadikken. Danna l máhttelis viehkev oadtjot tjuovvo dievnastusáj:</p>
-    <list>
-      <p type="listitem">Hålladoarjja, mij merkaj hålladievnastusdålkå doajmmi persåvnålasj guládallamdoarjjan aktavuodajn ma dåbdduji juorren ja vájve. Gärddodi ja/jali tjielggiji hålav jali guládallamvuogev.</p>
-      <p type="listitem">Telefåvnnådoarjja, mij merkaj viehkev oadtju riŋŋgit gålmåoasákságastallamav manna hålladievnastusdålkkå álgat ja dárbon tjielggi ja gádot boasto dádjadusáv, valla ietján la sjávot.</p>
-      <p type="listitem">Låhkåm- ja tjállemdoarjja, mij merkaj viehkev oadtju låhkåt ja/jali tjállet brevav ja tjállagijt, tjálálvisájt tjállet tjåhkanimijn ja nåv vil.</p>
-    </list>
-    <p type="title">Gejna aktavuodav válldá?</p>
-    <p>Lánndadikke telefåvnnåguovdásj diehtá jus gávnnu Hålladievnastus/Taltjänst ietjas lánndadikken jali ij .</p>
-    <p type="title">Teletal vidnudahka</p>
-    <p>Teletal l mávsodak ja rijkkagåbttje dievnastus jus ulmutjin li jiedna-, hålla- jali giellagássjelisvuoda. Teletal vidnudagán barggi ságastallamdålkå ja dålkkuji val dárruj. Máhttelis la danna viehkev oadtjot tjuovvo dievnastusáj:</p>
-    <list>
-      <p type="listitem">Teletaldålkå gudi dålkkuji gássjelis bágojt ja moallánagájt jus la gássjelisvuohta gullat jali dádjadit mij håladuvvá.</p>
-      <p type="listitem">Dålkkå tjielggi aktijvuodajt jus dav dárbaj. Máhtti aj viehkedit telefåvnnåguovdátjij baktu skuolkkatt.</p>
-      <p type="listitem">Teletal oassálasstá doarjjan ålles ságastallamin. Máhtti tjállet mij javladuvvá ja l máhttelis oadtjot dajt häjmmaj rájadum.</p>
-    </list>
-    <p type="title">Gejna aktavuodav válldá?</p>
-    <p>Skuolkká ietjas iemelágásj telefåvnåjn, häjmma- jali mobijllatelefåvnåjn telefåvnnånummarav 020-22 11 44. Ságastimdålkkå Teletal vidnudagán vásstet ja aktan gárvet ságastallamav. Dålkkå skuolkká gesi sihtá skuolkkat ja oassálasstá doarjjan ságastallamin. Gå ságastallam la hiejtedum de goalmát ulmusj guodá ságastallamav ja de dålkåjn ságas ságastime birra.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>474</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Tolktjanst</origFileName><parallel_text xml:lang="eng" location="tolktjanst.html"/><parallel_text xml:lang="fin" location="tolktjanst.html"/><parallel_text xml:lang="fit" location="tolktjanst.html"/><parallel_text xml:lang="sma" location="tolktjanst.html"/><parallel_text xml:lang="sme" location="tilktjanst.html"/><parallel_text xml:lang="swe" location="tolktjanst.html"/><parallel_text location="tolktjanst.html" xml:lang="rmn"/><parallel_text location="tolktjanst.html" xml:lang="rmu"/><parallel_text location="tolktjanst.html" xml:lang="rmy-rka"/><parallel_text location="tolktjanst.html" xml:lang="yid"/><parallel_text location="tolktjanst.html" xml:lang="rmy-rlo"/><parallel_text location="tolktjanst.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Dålkkådievnastus / Tolktjänst - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">DålkkådievnastusTolktjänst</p>
+<p type="title">Diededibme</p>
+<p type="title">Dålkkum ietjá gielajda</p>
+<p>Varresvuohta- ja skihpasujttobargge li välggogisá diedojt vaddet ma li aktugattjaj hiebadum. Bargge galggi vieledit iehtjádij siegen makkir kultuvralasj ja gielak duogásj la ulmutjin. Merkaj bargge, jus la dárbulasj, galggi diededahttijn dålkåv adnet. Máhttelis la iesj dålkåv rávkkat jus ij aktak gatjáda jus dakkirav dárbaj. De aktavuodav válldá kommuvnajn, mij åvdåsvásstádusáv válldá sisijåhttedålkåjs.</p>
+<p>Sisijåhttijn gudi dárbahi dålkåv gå aktavuodav válldi varresvuohta- ja skihpasujtujn li álu lagámusá ja rádna gudi máhtti viehkedit dålkkut. Vájku l lagámusdålkkå de májnoduvvá huoman virgálasj dålkkå lánndadikke jali kommuvna dåjmadime baktu. Kultuvralasj ärádusá ja ärádusá vuojnojn ulmutjij gaskan umasslágásj rijkajs dahki vaj muhtem dilijn márjju l buorre muhtem tjanágahtes ulmutjijn gut viehket dålkkut.</p>
+<p type="title">Gejna aktavuodav válldá?</p>
+<p>Máhttá kommuvna telefåvnnåguovdátjijn viehkev oattjotjit gejna ságastit.</p>
+<p type="title">Dålkkåguovdásj</p>
+<p>Måttijn lánndadikkijn/dajvajn la dålkkåguovdásj gå muhtema åvdåsvásstádusáv adni dievnastusájt gaskostit.</p>
+<p>Dålkkåguovdátjin barggi sierraåhpadum dålkå:</p>
+<list><p type="listitem">Siejvvemgielladålkå mánnávuohtabieljedimijda, dat javllá ulmutja gudi li bieljedime riegádimrájes jali li bieljeduvvam árra álldarin ja gejn la siejvvemgiella vuostasj giellan.</p>
+<p type="listitem">Dålkå ållessjattukbieljedimijda, dat javllá ulmutja gudi li bieljeduvvam ållessjattugin ja gejn la dárogiella vuostasj giellan (álu tjállemdålkkum) valla aj siejvvemgiella doarjjan (TSS) ja njálmmelábudimij gå ságas.</p>
+<p type="listitem">Dålka bielljetjalmedimulmutjijda jali sieldes nievres tjalmme- ja bielljevigák ulmutjijda.</p>
+</list><p>Dålkå dahki vaj la máhttelis gullijda ja bieljedimijda/bielljevigákulmutjijda guládallat.</p>
+<p>Dålkkådievnastus la mávsodak ja máhttelis la dålkåv diŋŋgot lánndadikke dålkkåguovdátja baktu gájkka dilijn manna adná dav dárbaj. Fámon la goappátjagá mánnávuohtabieljedimijda, bielljevigákulmutjijda, ållessjattukbieljedimijda, bielljetjalmedimijda ja gullijda.</p>
+<p type="title">Gejna aktavuodav válldá?</p>
+<p>Dålkkådárbon la máhttelis aktavuodav válldet ietjas lánndadikke dålkkåguovdátjijn.</p>
+<p type="title">Láhkaásadibme</p>
+<p>Varresvuohta- ja skihpasujttoláhka, SFS 1982:763.</p>
+<p type="title">Hålladievnastus/Taltjänst</p>
+<p>Hålladievnastus la mávsodak dievnastus jus ulmutjin la jiedna-, hålla- jali giellagássjelisvuoda. Hålladievnastusán barggi hålladievnastusdålkå. Hålladievnastus gávnnu dálla lågen lánndadikken. Danna l máhttelis viehkev oadtjot tjuovvo dievnastusáj:</p>
+<list><p type="listitem">Hålladoarjja, mij merkaj hålladievnastusdålkå doajmmi persåvnålasj guládallamdoarjjan aktavuodajn ma dåbdduji juorren ja vájve. Gärddodi ja/jali tjielggiji hålav jali guládallamvuogev.</p>
+<p type="listitem">Telefåvnnådoarjja, mij merkaj viehkev oadtju riŋŋgit gålmåoasákságastallamav manna hålladievnastusdålkkå álgat ja dárbon tjielggi ja gádot boasto dádjadusáv, valla ietján la sjávot.</p>
+<p type="listitem">Låhkåm- ja tjállemdoarjja, mij merkaj viehkev oadtju låhkåt ja/jali tjállet brevav ja tjállagijt, tjálálvisájt tjállet tjåhkanimijn ja nåv vil.</p>
+</list><p type="title">Gejna aktavuodav válldá?</p>
+<p>Lánndadikke telefåvnnåguovdásj diehtá jus gávnnu Hålladievnastus/Taltjänst ietjas lánndadikken jali ij .</p>
+<p type="title">Teletal vidnudahka</p>
+<p>Teletal l mávsodak ja rijkkagåbttje dievnastus jus ulmutjin li jiedna-, hålla- jali giellagássjelisvuoda. Teletal vidnudagán barggi ságastallamdålkå ja dålkkuji val dárruj. Máhttelis la danna viehkev oadtjot tjuovvo dievnastusáj:</p>
+<list><p type="listitem">Teletaldålkå gudi dålkkuji gássjelis bágojt ja moallánagájt jus la gássjelisvuohta gullat jali dádjadit mij håladuvvá.</p>
+<p type="listitem">Dålkkå tjielggi aktijvuodajt jus dav dárbaj. Máhtti aj viehkedit telefåvnnåguovdátjij baktu skuolkkatt.</p>
+<p type="listitem">Teletal oassálasstá doarjjan ålles ságastallamin. Máhtti tjállet mij javladuvvá ja l máhttelis oadtjot dajt häjmmaj rájadum.</p>
+</list><p type="title">Gejna aktavuodav válldá?</p>
+<p>Skuolkká ietjas iemelágásj telefåvnåjn, häjmma- jali mobijllatelefåvnåjn telefåvnnånummarav 020-22 11 44. Ságastimdålkkå Teletal vidnudagán vásstet ja aktan gárvet ságastallamav. Dålkkå skuolkká gesi sihtá skuolkkat ja oassálasstá doarjjan ságastallamin. Gå ságastallam la hiejtedum de goalmát ulmusj guodá ságastallamav ja de dålkåjn ságas ságastime birra.</p>
+</body></document>

@@ -1,47 +1,13 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>246</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Ajn-garrasit-bargaduvva-samegielaj-aavdaas</origFileName>
-    <parallel_text xml:lang="nob" location="fortsatt-maalrettet-innsats-for-de-samiske-spraakene.html"/>
-    <parallel_text xml:lang="sma" location="edtja-annje-tjielke-ulmine-barkedh-dejtie-saemien-gielide.html"/>
-    <parallel_text xml:lang="sme" location="angirusset-ain-ulbmillaccat-samegielaid-ovdii.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Ájn garrasit bargaduvvá sámegielaj åvdås / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
-    <p type="title">Ájn garrasit bargaduvvá sámegielaj åvdås</p>
-    <p xml:lang="nob">04. skïerede 2013</p>
-    <p>Ådåsmahttem-, háldadim- ja girkkodepartemænnta ja Sámedigge biedji uddni åvddån nuppát rapportav Sámegielaj doajmmaplána tjadádime gáktuj. Rapportta gávnnu næhttabielijn regjeringen.no ja samediggi.no.</p>
-    <p>Sámegiela li buorep guovlluj åvddånahttemin. Sáme giellaguoradallam 2012 rájes vuoset sámegiela adno lassán julevsáme ja oarjjelsáme nuoraj gaskan. Dat vuoset aj ållessjattuk sámij gaskan le viehka stuorre berustibme sámegielav oahppat.</p>
-    <p>- Ávon lev gå dálla vuojnnep barggo sámegielaj ja daj tjalmostahttema åvdås le vuorbástuvvam. Jus dát åvddånahttem galggá buorep guovlluj joarkket de dat gájbbet mij ulmmelattjat barggap. Danen galggá ráddidus åvddålijguovlluj aj barggat Sámedikke siegen váj sámegielajt suoddji ja nanni, javllá Rigmor Aasrud.</p>
-    <p>Sámedigge le ájnas gå barggap sámegielaj nannimijn ja åvddånahttemijn. Ajtu le navti jut ájnnasamos barggo bájkálasj sebrudagájn dagáduvvá. Moadda vissjalis ulmutja idja-biejvve barggi sámegielav bisodittjat ja åvddånahtátjit.</p>
-    <p>
-      <em type="bold">- Sámedikke oajvveulmme sámegielaj åvddånahttema gáktuj le lasedit giellaaddnij lågov ja sámegielaj anov. Rapportta vuoset buorre guovlluj lip mannamin, valla ájn le dárbbo nannit sámegielaj rudálasj ja ulmusjlasj ressursajt. Dát le juoga majna Sámedigge ájn galggá barggat ráddidusá guládijn, javllá sámedikke presidænnta Egil Olli. </em>
-    </p>
-    <p>Sámegielaj doajmmapládna biejaduváj åvddån jagen 2009. Doajmmaplána ulmme le ienep sámegiela addnijt åttjudit. Dáv galggá jåksåt navti váj nanni sámegielaj vuorodimev iesjguhtik sebrudaksuorgen, sierraláhkáj åhpadime ja åhpadusá suorgen, almulasj dievnastus- ja huksofálaldagájn ja sámegielajt adnet ja vuojnnusij buktet almulasj aktijvuodajn.</p>
-    <p><em type="bold">Aktijvuohta </em>Sámediggepresidenta Egil Olli, tel. +47 900 26 880 </p>
-    <p xml:lang="nob">---</p>
-    <list>
-      <p type="listitem">Sámegielaj doajmmaplána, status 2011-2013 (kommer)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>246</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Ajn-garrasit-bargaduvva-samegielaj-aavdaas</origFileName><parallel_text xml:lang="nob" location="fortsatt-maalrettet-innsats-for-de-samiske-spraakene.html"/><parallel_text xml:lang="sma" location="edtja-annje-tjielke-ulmine-barkedh-dejtie-saemien-gielide.html"/><parallel_text xml:lang="sme" location="angirusset-ain-ulbmillaccat-samegielaid-ovdii.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Ájn garrasit bargaduvvá sámegielaj åvdås / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
+<p type="title">Ájn garrasit bargaduvvá sámegielaj åvdås</p>
+<p xml:lang="nob">04. skïerede 2013</p>
+<p>Ådåsmahttem-, háldadim- ja girkkodepartemænnta ja Sámedigge biedji uddni åvddån nuppát rapportav Sámegielaj doajmmaplána tjadádime gáktuj. Rapportta gávnnu næhttabielijn regjeringen.no ja samediggi.no.</p>
+<p>Sámegiela li buorep guovlluj åvddånahttemin. Sáme giellaguoradallam 2012 rájes vuoset sámegiela adno lassán julevsáme ja oarjjelsáme nuoraj gaskan. Dat vuoset aj ållessjattuk sámij gaskan le viehka stuorre berustibme sámegielav oahppat.</p>
+<p>- Ávon lev gå dálla vuojnnep barggo sámegielaj ja daj tjalmostahttema åvdås le vuorbástuvvam. Jus dát åvddånahttem galggá buorep guovlluj joarkket de dat gájbbet mij ulmmelattjat barggap. Danen galggá ráddidus åvddålijguovlluj aj barggat Sámedikke siegen váj sámegielajt suoddji ja nanni, javllá Rigmor Aasrud.</p>
+<p>Sámedigge le ájnas gå barggap sámegielaj nannimijn ja åvddånahttemijn. Ajtu le navti jut ájnnasamos barggo bájkálasj sebrudagájn dagáduvvá. Moadda vissjalis ulmutja idja-biejvve barggi sámegielav bisodittjat ja åvddånahtátjit.</p>
+<p><em type="bold">- Sámedikke oajvveulmme sámegielaj åvddånahttema gáktuj le lasedit giellaaddnij lågov ja sámegielaj anov. Rapportta vuoset buorre guovlluj lip mannamin, valla ájn le dárbbo nannit sámegielaj rudálasj ja ulmusjlasj ressursajt. Dát le juoga majna Sámedigge ájn galggá barggat ráddidusá guládijn, javllá sámedikke presidænnta Egil Olli. </em></p>
+<p>Sámegielaj doajmmapládna biejaduváj åvddån jagen 2009. Doajmmaplána ulmme le ienep sámegiela addnijt åttjudit. Dáv galggá jåksåt navti váj nanni sámegielaj vuorodimev iesjguhtik sebrudaksuorgen, sierraláhkáj åhpadime ja åhpadusá suorgen, almulasj dievnastus- ja huksofálaldagájn ja sámegielajt adnet ja vuojnnusij buktet almulasj aktijvuodajn.</p>
+<p><em type="bold">Aktijvuohta </em>Sámediggepresidenta Egil Olli, tel. +47 900 26 880 </p>
+<p xml:lang="nob">---</p>
+<list><p type="listitem">Sámegielaj doajmmaplána, status 2011-2013 (kommer)</p>
+</list></body></document>

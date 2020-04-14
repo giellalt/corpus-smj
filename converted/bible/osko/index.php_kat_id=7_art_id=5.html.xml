@@ -1,63 +1,22 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>98</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=7&amp;art_id=5</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=7_art_id=5.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=7_art_id=5.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=7_art_id=5.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sámi girkkoráde</p>
-    <p>Sámi girkkoráde</p>
-    <p xml:lang="nob">|</p>
-    <p>Varrudága</p>
-    <p xml:lang="nob">|</p>
-    <p>Doajmma</p>
-    <p xml:lang="nob">|</p>
-    <p>Kristuskránssa</p>
-    <p type="title">Sáme girkkoráde</p>
-    <p>Sáme girkkoráde ásaduváj Girkkotjåhkanimes jagen 1992. Ráde galggá åvdedit, suoddjit ja aktidit sáme girkkoiellemav Vuona girkkon. Sáme girkkoráde bargguj gullu gájkka ássje ma ráde milta sáme girkkoiellemij gulluji.</p>
-    <p>Da gålmmå stuorra sáme álmmukjuohkusa Vuonan, nuorttasáme, julevsáme ja oarjjelsáme, li ájrrasa ráden manna li gáktsa ájrrasa.</p>
-    <p>
-      <em type="bold">Sáme girkkoráde ájrrasa li </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="bold">: </em>
-    </p>
-    <p>Anne Dalheim (jådediddje),</p>
-    <p>Ingar Nikolaisen Kuoljok, julevsáme ájras Oarjje-Hålogaláttes,</p>
-    <p>Jonhild Joma, oarjjelsáme ájras Nidarosas</p>
-    <p>Kirsten Isaksen, nuorttasáme ájras Nuortta-Hålogaláttes</p>
-    <p>Mari Helander, friddja válljidum</p>
-    <p>Jovnna Z Dunfjell, Sámedikke ájras</p>
-    <p>Tor Berger Jørgensen, Duodden Bisspatjåhkanime ájras</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>98</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=7&amp;art_id=5</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=7_art_id=5.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=7_art_id=5.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=7_art_id=5.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sámi girkkoráde</p>
+<p>Sámi girkkoráde</p>
+<p xml:lang="nob">|</p>
+<p>Varrudága</p>
+<p xml:lang="nob">|</p>
+<p>Doajmma</p>
+<p xml:lang="nob">|</p>
+<p>Kristuskránssa</p>
+<p type="title">Sáme girkkoráde</p>
+<p>Sáme girkkoráde ásaduváj Girkkotjåhkanimes jagen 1992. Ráde galggá åvdedit, suoddjit ja aktidit sáme girkkoiellemav Vuona girkkon. Sáme girkkoráde bargguj gullu gájkka ássje ma ráde milta sáme girkkoiellemij gulluji.</p>
+<p>Da gålmmå stuorra sáme álmmukjuohkusa Vuonan, nuorttasáme, julevsáme ja oarjjelsáme, li ájrrasa ráden manna li gáktsa ájrrasa.</p>
+<p><em type="bold">Sáme girkkoráde ájrrasa li </em></p>
+<p xml:lang="nob"><em type="bold">: </em></p>
+<p>Anne Dalheim (jådediddje),</p>
+<p>Ingar Nikolaisen Kuoljok, julevsáme ájras Oarjje-Hålogaláttes,</p>
+<p>Jonhild Joma, oarjjelsáme ájras Nidarosas</p>
+<p>Kirsten Isaksen, nuorttasáme ájras Nuortta-Hålogaláttes</p>
+<p>Mari Helander, friddja válljidum</p>
+<p>Jovnna Z Dunfjell, Sámedikke ájras</p>
+<p>Tor Berger Jørgensen, Duodden Bisspatjåhkanime ájras</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

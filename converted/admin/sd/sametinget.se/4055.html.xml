@@ -1,32 +1,5 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>323</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/4055</origFileName>
-    <parallel_text xml:lang="sme" location="3350.html"/>
-    <parallel_text xml:lang="swe" location="1126.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Boatsojäládus Svierigin - Sametinget</p>
-    <p type="title">Boatsojäládus Svierigin</p>
-    <p>Boatsojäládus Svierigin le Svieriga vuodolága milta äládus sámijda várraj biejadum. Ällosujttoriektá vuododuvvá máttarájggásasj dáhpáj ja ij le juoga majt sáme li stáhtas <span type="quote">”oadtjum”</span>. Boatsojäládus vuododuvvá friddja luonndoguohtomij.</p>
-    <p>Ällosujttoriektá val dåjmaduvvá sámes gut le tjielden sebrulasj. Tjiellde le ekonomalasj ja tjuottjodus siebrre mij lága milta sebrulattjaj aktisasj buoremussaj galggá ällosujtov sierra geográfalasj bájkken jådedit. Svierigin gávnnuji 51 tjielde ma aktan Svieriga vijddudagás bájken 40 prosännta gåbttji. Dájs li 33 várretjielde, 10 vuovddetjielde ja 8 konsesjåvnnåtjielde ällosujtujn sierralágásj loabe milta. Boahttsuj låhko målssos ájge milta 225 000 ja 280 000 gaskan dálvveälon. Ällosujttára ja älloniehke  Ällosujton barggi bájken 2 500 ulmutja. Ällosujttárvirgge le virgge ienemusát ålmmåj sjaddam. Ålmåj dájvvamusát ållesájgev vidnudagán barggá. Fuolkke viehket dárbon, bv. lárkkamin ja miessemärkkomin. Ällosujttárin ja älloniehkken le sieradus. Gávnnuji bájken 4 600 älloniehke, massta 85 prosännta årru Norrbottena lenan. Tjielden gávnnuji moadda ällosujttovidnudagá. Stuorra guohtomednama  Stuorra guohtomednama mierredit boatsojäládusáv danen gå boahttsu labudi jahkeájggemålssomij milta. Boatsoj ávkki vissa jådådagájt umasslágásj guohtomednamij gaskan. Vissa ájgijn jagen, åvdemusát miessemärkkkoma, tjaktjanjuovvama ja dálvveguohtomednamijda jådedimij diehti, ällosujttára tjoahkkiji boahttsujt stuoráp älojda ma vuojeduvvi dålusj jåhtulagáj milta. Gå boahttsu ruvva gabnnjasi ja boahttsun li ihkeven nanos dábe de ij le ållu álkke jådådagáv målssot. Hiemssima  Boahttsu dåbddi hiemssimijt ietjá ednamávkkijs ja urudisájs. Sierraláhkáj le gidán gå miesijt njållu. Ietjá bále li gå boahttsu tjoahkkiduvvi ja vuojeduvvi ällon gärddájda miessemärkkomij jali lárkkamij. Jådedijn dálvveguohtomednamijda ja dálvveguohtomednamijs jådådagájn li muhttijn gássjelis tjadádagá bv. äno, rahte, jali ruovdderahte. Boahttsu hähttuji ráfen bessat livvomin ja guohtomin jådedimijn. Jus boahttsu urudisájs, bednagijs jali ulmutjijs baldeduvvi de ällo dávk hájeduvásj ja moadda biejve barggo ällosujttárijda dåssjåni. Muhtem guovlojn le mälggat guohtomednamj gaskan ja jådådagá li bv. bijllarahtijs ja ruovdderahtijs dahpadum. Boahttsu vierttiji de bijlaj fievrriduvvat. Árbbedáhpeguodde  Dálásj ällosujto ulmme le åvdemusát bierggobuvtadibmáj. Dámuk boahttsu álu anoduvvi turisman jali <span type="quote">”hierggevuodjusij”</span>. Ällosujtto le vilá ájnas sáme kultuvran. Árbbedáhpeguodde le stuorra symbolaárvujn. Ällosujttárin le garra barggo, valla le aj viessomvuohke. Ällosujttárin le sáme ällosujttokultuvra guodde ja gaskostiddje.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>323</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/4055</origFileName><parallel_text xml:lang="sme" location="3350.html"/><parallel_text xml:lang="swe" location="1126.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Boatsojäládus Svierigin - Sametinget</p>
+<p type="title">Boatsojäládus Svierigin</p>
+<p>Boatsojäládus Svierigin le Svieriga vuodolága milta äládus sámijda várraj biejadum. Ällosujttoriektá vuododuvvá máttarájggásasj dáhpáj ja ij le juoga majt sáme li stáhtas <span type="quote">”oadtjum”</span>. Boatsojäládus vuododuvvá friddja luonndoguohtomij.</p>
+<p>Ällosujttoriektá val dåjmaduvvá sámes gut le tjielden sebrulasj. Tjiellde le ekonomalasj ja tjuottjodus siebrre mij lága milta sebrulattjaj aktisasj buoremussaj galggá ällosujtov sierra geográfalasj bájkken jådedit. Svierigin gávnnuji 51 tjielde ma aktan Svieriga vijddudagás bájken 40 prosännta gåbttji. Dájs li 33 várretjielde, 10 vuovddetjielde ja 8 konsesjåvnnåtjielde ällosujtujn sierralágásj loabe milta. Boahttsuj låhko målssos ájge milta 225 000 ja 280 000 gaskan dálvveälon. Ällosujttára ja älloniehke  Ällosujton barggi bájken 2 500 ulmutja. Ällosujttárvirgge le virgge ienemusát ålmmåj sjaddam. Ålmåj dájvvamusát ållesájgev vidnudagán barggá. Fuolkke viehket dárbon, bv. lárkkamin ja miessemärkkomin. Ällosujttárin ja älloniehkken le sieradus. Gávnnuji bájken 4 600 älloniehke, massta 85 prosännta årru Norrbottena lenan. Tjielden gávnnuji moadda ällosujttovidnudagá. Stuorra guohtomednama  Stuorra guohtomednama mierredit boatsojäládusáv danen gå boahttsu labudi jahkeájggemålssomij milta. Boatsoj ávkki vissa jådådagájt umasslágásj guohtomednamij gaskan. Vissa ájgijn jagen, åvdemusát miessemärkkkoma, tjaktjanjuovvama ja dálvveguohtomednamijda jådedimij diehti, ällosujttára tjoahkkiji boahttsujt stuoráp älojda ma vuojeduvvi dålusj jåhtulagáj milta. Gå boahttsu ruvva gabnnjasi ja boahttsun li ihkeven nanos dábe de ij le ållu álkke jådådagáv målssot. Hiemssima  Boahttsu dåbddi hiemssimijt ietjá ednamávkkijs ja urudisájs. Sierraláhkáj le gidán gå miesijt njållu. Ietjá bále li gå boahttsu tjoahkkiduvvi ja vuojeduvvi ällon gärddájda miessemärkkomij jali lárkkamij. Jådedijn dálvveguohtomednamijda ja dálvveguohtomednamijs jådådagájn li muhttijn gássjelis tjadádagá bv. äno, rahte, jali ruovdderahte. Boahttsu hähttuji ráfen bessat livvomin ja guohtomin jådedimijn. Jus boahttsu urudisájs, bednagijs jali ulmutjijs baldeduvvi de ällo dávk hájeduvásj ja moadda biejve barggo ällosujttárijda dåssjåni. Muhtem guovlojn le mälggat guohtomednamj gaskan ja jådådagá li bv. bijllarahtijs ja ruovdderahtijs dahpadum. Boahttsu vierttiji de bijlaj fievrriduvvat. Árbbedáhpeguodde  Dálásj ällosujto ulmme le åvdemusát bierggobuvtadibmáj. Dámuk boahttsu álu anoduvvi turisman jali <span type="quote">”hierggevuodjusij”</span>. Ällosujtto le vilá ájnas sáme kultuvran. Árbbedáhpeguodde le stuorra symbolaárvujn. Ällosujttárin le garra barggo, valla le aj viessomvuohke. Ällosujttárin le sáme ällosujttokultuvra guodde ja gaskostiddje.</p>
+</body></document>

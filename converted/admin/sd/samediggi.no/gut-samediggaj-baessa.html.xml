@@ -1,39 +1,11 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Gut Sámediggáj bæssá?</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2017</year>
-    <wordcount>237</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/Valgga/Gut-Samediggaj-baessa</origFileName>
-    <parallel_text xml:lang="nob" location="hvem-kommer-inn-paa-sametinget.html"/>
-    <parallel_text xml:lang="sme" location="gii-beassa-samediggai.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Gut Sámediggáj bæssá?</p>
-    <p>39 ájrrasa galggi Sámediggáj válljiduvvat.</p>
-    <p>Gå válggalanjá giddiduvvi, galggi gájkka jiena ma lidjin árabut jienastimen vattedum ja válggabiejve lågåduvvat. Válggaboados tjadáduvvi guovten vuoron. Vuostak galggá mierreduvvat galla ájrassaje juohkka belludagán jali juohkka listan galggá Sámedikken liehket. Dassta maŋŋela hæhttu mierredit guhtimuttja belludagás/listas galggi dajt sajijt oadtjot (ájrrasijt válljim).</p>
-    <p type="title">Ájrasjuohko</p>
-    <p>Vuogádahka le vuododum dasi, ájrassaje galggi juogaduvvat gasskavuohtalågoj milta belludagáj/juohkusij gaskan dan jienastuslågo vuodon majt juohkka válggalissta oadtju. Prinsihppa gåhtjoduvvá gasskavuohtalågoj válgga.</p>
-    <p>Mandáhtajt juogadibme iesjgeŋga listaj gaskan dagáduvvá sæmmi matematihkalasj vuoge milta gå stuorradiggeválgan, fylkadiggeválgan ja suohkanstivrraválgan. Vuohke gåhtjoduvvá hiebadum St. Laguë vuohken. Dat merkaj, iesjgeŋga lista jienastimlågo vuostak juogaduvvi lågojn 1,4 ja dassta maŋŋela lågoj 3-5-7-9 jná. Dáj juogadimij baktu båhti moadda lågo, nav gåhtjoduvvam kvotienta. Kvotienta ásaduvvi stuorrudagá milta. Ájrassaje juogaduvvi dajda listajda majn li stuorámus kvotienta. Vuostasj mandáhtta manná dan lisstaj man le stuorámus kvotiænnta, nubbe mandáhtta dan lisstaj man la nubbe stuorámus kvotiænnta jná.</p>
-    <p type="title">Ájrrasijt válljit</p>
-    <p>Gå ájrassaje li listajda juogadum, galggi ájrrasa válljiduvvat. Dát dáhpáduvvá dán láhkáj:</p>
-    <p>Ájrrasijt válljimin lågåduvvi dåssju da namá ma li vuostasj sajen jienastimlistajn. Dat guhti ienemus jienajt dán låhkåmin oadtju, válljiduvvá. Dassta maŋŋela lågåduvvi dav guhti li nubben jienastimlistajn. Dat ájrasasses guhti ienemus jienajt oadtju gå biejaduvvi aktij båhtusijt goappátjij låhkåmis ierit sij gudi li juo válljidum, válljiduvvi. Náv joarkeduvvá desik gájkka ájrrasa li válljidum.</p>
-    <p>Jus jienastiddje rievddadime jienastimlistan galggá máhttet vájkkudit persåvnnåválljimij, hæhttuji ienep gå bielle belludagá jienastiddjijs li dahkam rievddadime sæmmi ájrasassá gáktuj.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Gut Sámediggáj bæssá?</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2017</year><wordcount>237</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/Valgga/Gut-Samediggaj-baessa</origFileName><parallel_text xml:lang="nob" location="hvem-kommer-inn-paa-sametinget.html"/><parallel_text xml:lang="sme" location="gii-beassa-samediggai.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Gut Sámediggáj bæssá?</p>
+<p>39 ájrrasa galggi Sámediggáj válljiduvvat.</p>
+<p>Gå válggalanjá giddiduvvi, galggi gájkka jiena ma lidjin árabut jienastimen vattedum ja válggabiejve lågåduvvat. Válggaboados tjadáduvvi guovten vuoron. Vuostak galggá mierreduvvat galla ájrassaje juohkka belludagán jali juohkka listan galggá Sámedikken liehket. Dassta maŋŋela hæhttu mierredit guhtimuttja belludagás/listas galggi dajt sajijt oadtjot (ájrrasijt válljim).</p>
+<p type="title">Ájrasjuohko</p>
+<p>Vuogádahka le vuododum dasi, ájrassaje galggi juogaduvvat gasskavuohtalågoj milta belludagáj/juohkusij gaskan dan jienastuslågo vuodon majt juohkka válggalissta oadtju. Prinsihppa gåhtjoduvvá gasskavuohtalågoj válgga.</p>
+<p>Mandáhtajt juogadibme iesjgeŋga listaj gaskan dagáduvvá sæmmi matematihkalasj vuoge milta gå stuorradiggeválgan, fylkadiggeválgan ja suohkanstivrraválgan. Vuohke gåhtjoduvvá hiebadum St. Laguë vuohken. Dat merkaj, iesjgeŋga lista jienastimlågo vuostak juogaduvvi lågojn 1,4 ja dassta maŋŋela lågoj 3-5-7-9 jná. Dáj juogadimij baktu båhti moadda lågo, nav gåhtjoduvvam kvotienta. Kvotienta ásaduvvi stuorrudagá milta. Ájrassaje juogaduvvi dajda listajda majn li stuorámus kvotienta. Vuostasj mandáhtta manná dan lisstaj man le stuorámus kvotiænnta, nubbe mandáhtta dan lisstaj man la nubbe stuorámus kvotiænnta jná.</p>
+<p type="title">Ájrrasijt válljit</p>
+<p>Gå ájrassaje li listajda juogadum, galggi ájrrasa válljiduvvat. Dát dáhpáduvvá dán láhkáj:</p>
+<p>Ájrrasijt válljimin lågåduvvi dåssju da namá ma li vuostasj sajen jienastimlistajn. Dat guhti ienemus jienajt dán låhkåmin oadtju, válljiduvvá. Dassta maŋŋela lågåduvvi dav guhti li nubben jienastimlistajn. Dat ájrasasses guhti ienemus jienajt oadtju gå biejaduvvi aktij båhtusijt goappátjij låhkåmis ierit sij gudi li juo válljidum, válljiduvvi. Náv joarkeduvvá desik gájkka ájrrasa li válljidum.</p>
+<p>Jus jienastiddje rievddadime jienastimlistan galggá máhttet vájkkudit persåvnnåválljimij, hæhttuji ienep gå bielle belludagá jienastiddjijs li dahkam rievddadime sæmmi ájrasassá gáktuj.</p>
+</body></document>

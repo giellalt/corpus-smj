@@ -1,45 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Sámediggediedádus duoje birra guláskuddamin</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2017</year>
-    <wordcount>78</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/AAdaasa/Samediggediedadus-duoje-birra-gulaskuddamin</origFileName>
-    <parallel_text xml:lang="nob" location="sametingsmelding-om-duodji-paa-hoering.html"/>
-    <parallel_text xml:lang="sma" location="saemiedigkiebievnese-duedtien-bijre-govlehtimmesne.html"/>
-    <parallel_text xml:lang="sme" location="samediggediedahus-duoji-birra-gulaskuddamis.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Sámediggediedádus duoje birra guláskuddamin</p>
-    <p>Sámedigge bivddi organisasjåvnåjt, institusjåvnåjt ja priváhta ulmutjijt ietjasa árvvalusájt Sámediggediedádusá duoje birra buvtátjit.</p>
-    <p>Sámediggeráde la mierredam diedádusoajvvadusáv guláskuddamij sáddit. Dálla sij gudi sihti, bessi ietjasa árvvalusájt diedádusá birra buktet.</p>
-    <p>
-      <em type="italic">Gåktu árvvalusájt buktet? </em>
-    </p>
-    <p>Máhttelis la árvvalusájt Sámediggáj e-påsta baktu sáddit. Duv árvvalus tjáleduvvá almulasj poasstajournalán.</p>
-    <p>Diededa jus moalgeda priváhta ulmutjijn vaj organisasjåvnå åvdås.</p>
-    <p>Diedádusvásstádusá påstan sáddiduvvi:</p>
-    <p xml:lang="fin"><em type="italic">Poasstaadræssa </em>: </p>
-    <p>Sámedigge - Sametinget</p>
-    <p xml:lang="sme">Ávjovárgeaidnu 50</p>
-    <p xml:lang="sme">9730 Karasjok/Kárášjohka</p>
-    <p>Guláskuddama ájggemierre la <em type="italic">basádismáno 6. biejve </em>. </p>
-    <p>Dála l guládusoajvvadus</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Sámediggediedádus duoje birra guláskuddamin</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2017</year><wordcount>78</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/AAdaasa/Samediggediedadus-duoje-birra-gulaskuddamin</origFileName><parallel_text xml:lang="nob" location="sametingsmelding-om-duodji-paa-hoering.html"/><parallel_text xml:lang="sma" location="saemiedigkiebievnese-duedtien-bijre-govlehtimmesne.html"/><parallel_text xml:lang="sme" location="samediggediedahus-duoji-birra-gulaskuddamis.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Sámediggediedádus duoje birra guláskuddamin</p>
+<p>Sámedigge bivddi organisasjåvnåjt, institusjåvnåjt ja priváhta ulmutjijt ietjasa árvvalusájt Sámediggediedádusá duoje birra buvtátjit.</p>
+<p>Sámediggeráde la mierredam diedádusoajvvadusáv guláskuddamij sáddit. Dálla sij gudi sihti, bessi ietjasa árvvalusájt diedádusá birra buktet.</p>
+<p><em type="italic">Gåktu árvvalusájt buktet? </em></p>
+<p>Máhttelis la árvvalusájt Sámediggáj e-påsta baktu sáddit. Duv árvvalus tjáleduvvá almulasj poasstajournalán.</p>
+<p>Diededa jus moalgeda priváhta ulmutjijn vaj organisasjåvnå åvdås.</p>
+<p>Diedádusvásstádusá påstan sáddiduvvi:</p>
+<p xml:lang="fin"><em type="italic">Poasstaadræssa </em>: </p>
+<p>Sámedigge - Sametinget</p>
+<p xml:lang="sme">Ávjovárgeaidnu 50</p>
+<p xml:lang="sme">9730 Karasjok/Kárášjohka</p>
+<p>Guláskuddama ájggemierre la <em type="italic">basádismáno 6. biejve </em>. </p>
+<p>Dála l guládusoajvvadus</p>
+</body></document>

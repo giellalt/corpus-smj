@@ -1,60 +1,21 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>ÁRRAN MÅLSSU SPAREBANKEN NARVIKAJ</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Martin" lastname="Rimpi" sex="m" born="" nationality=""/>
-    </author>
-    <year>2018</year>
-    <wordcount>274</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://arran.no/dahpaduvva/?Article=184</origFileName>
-    <parallel_text xml:lang="nob" location="arran_velger_sparebanken_narvik.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Árran målssu Sparebanken Narvikaj</p>
-    <p>G</p>
-    <p xml:lang="nob">K</p>
-    <p xml:lang="eng">I</p>
-    <p xml:lang="nob">Arran Live</p>
-    <p>j</p>
-    <p xml:lang="nob">k</p>
-    <p xml:lang="nob">i</p>
-    <p xml:lang="eng">o</p>
-    <p xml:lang="nob">e</p>
-    <p xml:lang="nob">l</p>
-    <p xml:lang="eng">h</p>
-    <p xml:lang="nob">m</p>
-    <list/>
-    <p xml:lang="nob">L</p>
-    <p type="title" xml:lang="nob">Ønsker du å motta nyhetsbrev fra Árran?</p>
-    <p xml:lang="nob">Registrer inn din epostadresse under. Du kan også kontakte oss pr epost: poassta@arran.no eller telefon +47 757 75 100</p>
-    <p xml:lang="eng">Email Address</p>
-    <p xml:lang="eng">w</p>
-    <p>&gt; Mij dáhpáduvvá?</p>
-    <p type="title">Árran målssu Sparebanken Narvikaj</p>
-    <p>Árrana stivrra la mierredam sirddet báŋŋkaaktisasjvuodav Sparebanken Narvikaj. Sjiehtadusán la ruhtaluojkkam tsiekkadusá hoajdduj ja hoajddoruhtadibme ja máhttelisvuoda lasedit ruhtaluojkkamav. Stivrra la dåhkkidam ruhtaalásjoaggásvuodav 55 millijåvnåj aktan tsieggimruhtaluojkkamijn ådå mánájgárddáj. Árranin vuorddi stuoráp stuoredime prosjevtan <span type="quote">«Árran 2020 vuosstij»</span>, degu ådå mánájgárdde, oajvvetsiekkadusá ådåstuhttem musiedjaj, ålgusjbielle, ådå kontåvrå, ådå fábmogálldo ja ietján. Ruhtamerustallam la birrusin 80 millijåvnå kråvnå.</p>
-    <p xml:lang="nob">12.02.2018</p>
-    <p xml:lang="nob">14:00</p>
-    <p>Martin Rimpi</p>
-    <p><span type="quote">«Ávon lav gå miján la sjiehtadus Sparebanken Narvikajn mij åvddånahttemav viggá. Árranin la dárbbo doarjjaj aktisasjbarggoguojmijs jus galggap vuorbástuvvat Árranin boahtteájggásattjat»</span> javlla direkterra Lars Magne Andreassen</p>
-    <p><span type="quote">«Sparebanken Narvik la ávon gå Árran la válljim mijáv báŋŋkaaktisasjvuohtan boahtteájggáj. Bájkálasj báŋŋkan berustip ja dårjudip åvddånahttemav bájkálasj barggosajijs ja nav nannip årrummielav bájkálattjat»</span> javlla báŋŋkaoajvve Elling Berntsen Sparebanken Narvikan.</p>
-    <p xml:lang="nob"><span type="quote">«Midjij li ruhtalasj suohpádusá ájnnasa. Da suohpádusá ma buvtaduvvi dåjmajs ja barggosajijs tjanádum daj dåjmajda ma li Árranin. Árran la tjårggevidnudahkan mijá guovlon låpptim ietjasa posisjåvnnåj ájnas máhtudakakterran - ij dåssju bájkálattjat valla aj nasjåvnålattjat. Báŋŋkaj la aj ájnas jut Árrana doajmma nasjåvnålasj sáme institusjåvnnån nanni, åvddånahttá ja joarkká julevsáme kultuvrav ja árbbedábev. Sihke Árran ja báŋŋka la ietjastis æjggudum vuododusá gænna li bájkálasj háldadimadressa»</span> hæjttá Elling Berntsen.</p>
-    <p>Guládallamulmutja</p>
-    <p>Direkterra Lars Magne Andreassen, mobijlla: 907 75 275</p>
-    <p xml:lang="nob">Báŋŋkaoajvve Elling Berntsen, mobijlla: 416 35 337</p>
-    <p>Martin Rimpi</p>
-    <p>Gårobieles: Elling Berntsen, Knut Sandberg (Spb Narvik), Andreas Mikkelsen, Guttorm Aasebøstøl, Lilian Urheim ja Lars M Andreassen (Árran)</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>ÁRRAN MÅLSSU SPAREBANKEN NARVIKAJ</title><genre code="facta"/><author><person firstname="Martin" lastname="Rimpi" sex="m" born="" nationality=""/></author><year>2018</year><wordcount>261</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="nob"/><language xml:lang="eng"/></multilingual><origFileName>http://arran.no/dahpaduvva/?Article=184</origFileName><parallel_text xml:lang="nob" location="arran_velger_sparebanken_narvik.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Árran målssu Sparebanken Narvikaj</p>
+<p xml:lang="nob">L</p>
+<p type="title" xml:lang="nob">Ønsker du å motta nyhetsbrev fra Árran?</p>
+<p xml:lang="nob">Registrer inn din epostadresse under. Du kan også kontakte oss pr epost: poassta@arran.no eller telefon +47 757 75 100</p>
+<p xml:lang="eng">Email Address</p>
+<p xml:lang="eng">w</p>
+<p>&gt; Mij dáhpáduvvá?</p>
+<p type="title">Árran målssu Sparebanken Narvikaj</p>
+<p>Árrana stivrra la mierredam sirddet báŋŋkaaktisasjvuodav Sparebanken Narvikaj. Sjiehtadusán la ruhtaluojkkam tsiekkadusá hoajdduj ja hoajddoruhtadibme ja máhttelisvuoda lasedit ruhtaluojkkamav. Stivrra la dåhkkidam ruhtaalásjoaggásvuodav 55 millijåvnåj aktan tsieggimruhtaluojkkamijn ådå mánájgárddáj. Árranin vuorddi stuoráp stuoredime prosjevtan <span type="quote">«Árran 2020 vuosstij»</span>, degu ådå mánájgárdde, oajvvetsiekkadusá ådåstuhttem musiedjaj, ålgusjbielle, ådå kontåvrå, ådå fábmogálldo ja ietján. Ruhtamerustallam la birrusin 80 millijåvnå kråvnå.</p>
+<p xml:lang="nob">12.02.2018</p>
+<p xml:lang="nob">14:00</p>
+<p>Martin Rimpi</p>
+<p><span type="quote">«Ávon lav gå miján la sjiehtadus Sparebanken Narvikajn mij åvddånahttemav viggá. Árranin la dárbbo doarjjaj aktisasjbarggoguojmijs jus galggap vuorbástuvvat Árranin boahtteájggásattjat»</span> javlla direkterra Lars Magne Andreassen</p>
+<p><span type="quote">«Sparebanken Narvik la ávon gå Árran la válljim mijáv báŋŋkaaktisasjvuohtan boahtteájggáj. Bájkálasj báŋŋkan berustip ja dårjudip åvddånahttemav bájkálasj barggosajijs ja nav nannip årrummielav bájkálattjat»</span> javlla báŋŋkaoajvve Elling Berntsen Sparebanken Narvikan.</p>
+<p><span type="quote">«Midjij li ruhtalasj suohpádusá ájnnasa. Da suohpádusá ma buvtaduvvi dåjmajs ja barggosajijs tjanádum daj dåjmajda ma li Árranin. Árran la tjårggevidnudahkan mijá guovlon låpptim ietjasa posisjåvnnåj ájnas máhtudakakterran - ij dåssju bájkálattjat valla aj nasjåvnålattjat. Báŋŋkaj la aj ájnas jut Árrana doajmma nasjåvnålasj sáme institusjåvnnån nanni, åvddånahttá ja joarkká julevsáme kultuvrav ja árbbedábev. Sihke Árran ja báŋŋka la ietjastis æjggudum vuododusá gænna li bájkálasj háldadimadressa»</span> hæjttá Elling Berntsen.</p>
+<p>Guládallamulmutja</p>
+<p>Direkterra Lars Magne Andreassen, mobijlla: 907 75 275</p>
+<p xml:lang="nob">Báŋŋkaoajvve Elling Berntsen, mobijlla: 416 35 337</p>
+<p>Martin Rimpi</p>
+<p>Gårobieles: Elling Berntsen, Knut Sandberg (Spb Narvik), Andreas Mikkelsen, Guttorm Aasebøstøl, Lilian Urheim ja Lars M Andreassen (Árran)</p>
+</body></document>

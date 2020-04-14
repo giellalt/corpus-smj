@@ -1,90 +1,135 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Væssko</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Sandra" lastname="Rahka" sex="f" born="" nationality=""/>
-    </author>
-    <year>2013</year>
-    <wordcount>673</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>https://www.tysfjordasvo.no/vaessko/</origFileName>
-    <parallel_text xml:lang="nob" location="veske.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Skip to content</p>
-    <p xml:lang="nob">Tysfjord ASVO | Tiltaksarrangør fra NAV som arrangerer duodjeprosjekter, nettbutikk, trening, kurs, utstilling, tilrettelegging</p>
-    <p xml:lang="nob">Vi vil gi mennesker med yrkeshemming muligheter til å delta i et aktivt yrkesliv</p>
-    <list>
-      <p type="listitem" xml:lang="nob">PRODUKSJONER   <list><p type="listitem">Duodje</p><p type="listitem" xml:lang="nob">Duodjebloggen</p><p type="listitem" xml:lang="nob">Skinnberedning (garveri/dilkudahka)</p><p type="listitem" xml:lang="nob">Drag kommunale industrikai</p><p type="listitem" xml:lang="nob">Miljøstasjon Tysfjord</p><p type="listitem" xml:lang="nob">Skogsdrift</p><p type="listitem" xml:lang="nob">Vaskeritjenester</p><p type="listitem" xml:lang="nob">Vedproduksjon</p><p type="listitem" xml:lang="nob">Verksted</p><p type="listitem" xml:lang="nob">Virkeproduksjon</p></list></p>
-      <p type="listitem" xml:lang="nob">TRENINGSSENTER   <list><p type="listitem" xml:lang="nob">Åpningstider</p><p type="listitem" xml:lang="nob">Trening i speilsalen</p><p type="listitem" xml:lang="nob">Priser</p><p type="listitem" xml:lang="nob">Medlemsvilkår</p><p type="listitem" xml:lang="nob">For unge fra 16 år</p><p type="listitem" xml:lang="nob">Kontroll</p><p type="listitem" xml:lang="nob">Gruppetrening</p><p type="listitem" xml:lang="nob">Lett på tå – for barn og unge</p></list></p>
-      <p type="listitem" xml:lang="nob">BUTIKK   <list><p type="listitem" xml:lang="nob">Vilkår</p></list></p>
-      <p type="listitem" xml:lang="nob">ANDRE TILBUD   <list><p type="listitem" xml:lang="nob">Samiske dager / Sámebiejve</p><p type="listitem" xml:lang="nob">Ut på tur i Dragsområdet</p><p type="listitem" xml:lang="nob">Mineralløpet</p><p type="listitem" xml:lang="nob">Folkehelse</p><p type="listitem" xml:lang="nob">Workshop kunstmaling</p><p type="listitem" xml:lang="nob">Utstillinger</p><p type="listitem" xml:lang="nob">Prosjekter   <list><p type="listitem" xml:lang="nob">Onsdagsduodje som språkkafé</p><p type="listitem" xml:lang="nob">Gravering i tre/horn</p><p type="listitem" xml:lang="nob">Tysfjord Vest</p><p type="listitem" xml:lang="nob">Lulesamisk språkprosjekt</p><p type="listitem">Duodje revitalisering</p><p type="listitem" xml:lang="nob">Motivasjonseminar for kvinner</p></list></p></list></p>
-      <p type="listitem" xml:lang="nob">ARBEID OG LÆRING   <list><p type="listitem">Varig tilrettelagt arbeid (VTA) / Ádjanis hiebadum barggo</p><p type="listitem" xml:lang="nob">Inkluderende bedrift</p><p type="listitem" xml:lang="nob">Inkluderende kommune</p><p type="listitem" xml:lang="nob">Lærling/lærekandidat</p><p type="listitem" xml:lang="nob">Kurs / Kurrsa</p><p type="listitem" xml:lang="nob">Rettigheter</p></list></p>
-      <p type="listitem" xml:lang="nob">OM OSS   <list><p type="listitem">Klageadgang / Gujddimmáhttelisvuohta</p><p type="listitem" xml:lang="nob">KONTAKT</p></list></p>
-    </list>
-    <p xml:lang="nob">0</p>
-    <p xml:lang="nob">View Cart Checkout</p>
-    <list>
-      <p type="listitem" xml:lang="nob">No products in the cart.</p>
-    </list>
-    <p xml:lang="nob"><em type="italic">Subtotal: </em>kr  0  </p>
-    <p xml:lang="nob">View Cart Checkout</p>
-    <list>
-      <p type="listitem" xml:lang="nob">PRODUKSJONER   <list><p type="listitem">Duodje</p><p type="listitem" xml:lang="nob">Duodjebloggen</p><p type="listitem" xml:lang="nob">Skinnberedning (garveri/dilkudahka)</p><p type="listitem" xml:lang="nob">Drag kommunale industrikai</p><p type="listitem" xml:lang="nob">Miljøstasjon Tysfjord</p><p type="listitem" xml:lang="nob">Skogsdrift</p><p type="listitem" xml:lang="nob">Vaskeritjenester</p><p type="listitem" xml:lang="nob">Vedproduksjon</p><p type="listitem" xml:lang="nob">Verksted</p><p type="listitem" xml:lang="nob">Virkeproduksjon</p></list></p>
-      <p type="listitem" xml:lang="nob">TRENINGSSENTER   <list><p type="listitem" xml:lang="nob">Åpningstider</p><p type="listitem" xml:lang="nob">Trening i speilsalen</p><p type="listitem" xml:lang="nob">Priser</p><p type="listitem" xml:lang="nob">Medlemsvilkår</p><p type="listitem" xml:lang="nob">For unge fra 16 år</p><p type="listitem" xml:lang="nob">Kontroll</p><p type="listitem" xml:lang="nob">Gruppetrening</p><p type="listitem" xml:lang="nob">Lett på tå – for barn og unge</p></list></p>
-      <p type="listitem" xml:lang="nob">BUTIKK   <list><p type="listitem" xml:lang="nob">Vilkår</p></list></p>
-      <p type="listitem" xml:lang="nob">ANDRE TILBUD   <list><p type="listitem" xml:lang="nob">Samiske dager / Sámebiejve</p><p type="listitem" xml:lang="nob">Ut på tur i Dragsområdet</p><p type="listitem" xml:lang="nob">Mineralløpet</p><p type="listitem" xml:lang="nob">Folkehelse</p><p type="listitem" xml:lang="nob">Workshop kunstmaling</p><p type="listitem" xml:lang="nob">Utstillinger</p><p type="listitem" xml:lang="nob">Prosjekter   <list><p type="listitem" xml:lang="nob">Onsdagsduodje som språkkafé</p><p type="listitem" xml:lang="nob">Gravering i tre/horn</p><p type="listitem" xml:lang="nob">Tysfjord Vest</p><p type="listitem" xml:lang="nob">Lulesamisk språkprosjekt</p><p type="listitem">Duodje revitalisering</p><p type="listitem" xml:lang="nob">Motivasjonseminar for kvinner</p></list></p></list></p>
-      <p type="listitem" xml:lang="nob">ARBEID OG LÆRING   <list><p type="listitem">Varig tilrettelagt arbeid (VTA) / Ádjanis hiebadum barggo</p><p type="listitem" xml:lang="nob">Inkluderende bedrift</p><p type="listitem" xml:lang="nob">Inkluderende kommune</p><p type="listitem" xml:lang="nob">Lærling/lærekandidat</p><p type="listitem" xml:lang="nob">Kurs / Kurrsa</p><p type="listitem" xml:lang="nob">Rettigheter</p></list></p>
-      <p type="listitem" xml:lang="nob">OM OSS   <list><p type="listitem">Klageadgang / Gujddimmáhttelisvuohta</p><p type="listitem" xml:lang="nob">KONTAKT</p></list></p>
-    </list>
-    <p type="title">Væssko</p>
-    <p>Væssko máhttá liehket moattelágásj hámen, ja máhttá hiervviduvvat moatte láhkáj. Mån sidáv gápptevæskov allasim goarrot. Mujna le juo skánnda man milta lav åvddåla væskov gårrum, ja ådå væssko galggá liehket dan muodugasj. Ájnat sidáv hiervvit dav ietjá láhkáj.</p>
-    <p>Væssko le sasnes goarodum ja tjáppemus le jus le sijddadilkodum sassne. Væskon li gålmmå oase: Åvddåbielle, vuodo ja maŋepbielle aktan gáblijn. Duodden boahtá gasskadieres, badjelbuttas ja bádde. Ja de aj dadne jus dav lágeda.</p>
-    <p>Vuostak viertti divna åsijt væddjat. Jus galga væskov daddnit de le vuogas dav dahkat dálla åvddål væskov aktij goaro. Dadne máhttá liehket juogu 0,45 mm jali 0,40 mm. Daddni ájmijn, ja juohkka sávve gaskan galggá liehket birrusin 3 mm váj njuolgga sjaddá.</p>
-    <p xml:lang="nob">Dadne.</p>
-    <p>Maŋŋel gå le daddnim de máhtá væskov aktij goarrot. Goaro ájmijn ja suodnahárpojn. Vuostak goaro vuodov ja maŋepbielev aktij, ja mujttu de gasskadærrásav biedjat gasskaj. Ja de goaro vuodov ja åvddåbielev aktij aktan gasskadærrásijn. Goaro gålosávvijn. Vuodon máhtti liehket duorrasa, ja de le vuogas goarrot duorashárpojn. Duorrasijt goaro badjelsávvij. </p>
-    <p>Duorrasa.</p>
-    <p>Gå væskov le aktij gårrum, de le muddo fåvråjn álgget. Fåvråv goaro goarrommasjijnajn. Gå fåvrrå le gárves goaro dav akti væsskuj: Tsåkkå fåvråv væsko sisi ja goaro badjelbuddasav gitta.</p>
-    <p>Badjelbuddasav máhtá goarrot guovte láhkáj.</p>
-    <p>Mujttu då gavlav njadestit åvddål badjelbuddasav goaro. Mujte aj boalov njadet. Boallo máhttá liehket duola dagu tjoarves jali silbas.</p>
-    <p>Gavlla ja boallo</p>
-    <p>Maŋemussaj dárbaha báttev væsskuj. Iesj sidáv sassnebáttev, valla snjisjkodumbádde dåhkki aj. Åvddål gå báttev giddi væsskuj, de máhtá væskov hiervvit duola dagu råhtåj jali majna de sidá.</p>
-    <p>Råhtå.</p>
-    <p>
-      <em type="italic">Bágo/Ord </em>
-    </p>
-    <list>
-      <p type="listitem" xml:lang="nob">Gáblle – lokk, klaff på veska</p>
-      <p type="listitem" xml:lang="nob">Gasskadieres – mellomlegg</p>
-      <p type="listitem" xml:lang="nob">Badjelbuttas – kantstykke</p>
-      <p type="listitem" xml:lang="nob">Ájmme – skjærnål</p>
-      <p type="listitem" xml:lang="nob">Gålosávve – tråklesting</p>
-      <p type="listitem" xml:lang="nob">Badjelsávve – kastesting</p>
-    </list>
-    <p>Category: Sámegiellaj , Skinn</p>
-    <p xml:lang="nob">By sirirahka</p>
-    <p xml:lang="nob">Tags:</p>
-    <p>dadne</p>
-    <p>sassne</p>
-    <p type="title" xml:lang="nob">Author: sirirahka</p>
-    <p type="title" xml:lang="nob">Related Posts</p>
-    <p xml:lang="nob">Vadmel / Vádas fra Kjær</p>
-    <p xml:lang="nob">Ruben og Julian lager konfirmasjonsbelte</p>
-    <p xml:lang="nob">Sasnev dilkkot / Skinnberedning</p>
-    <p>Vuoddaga</p>
-    <p xml:lang="nob">Lissto</p>
-    <p>Sliehppá</p>
-    <p xml:lang="nob">Go to Top</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Væssko</title><genre code="facta"/><author><person firstname="Sandra" lastname="Rahka" sex="f" born="" nationality=""/></author><year>2013</year><wordcount>673</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="nob"/></multilingual><origFileName>https://www.tysfjordasvo.no/vaessko/</origFileName><parallel_text xml:lang="nob" location="veske.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Skip to content</p>
+<p xml:lang="nob">Tysfjord ASVO | Tiltaksarrangør fra NAV som arrangerer duodjeprosjekter, nettbutikk, trening, kurs, utstilling, tilrettelegging</p>
+<p xml:lang="nob">Vi vil gi mennesker med yrkeshemming muligheter til å delta i et aktivt yrkesliv</p>
+<list><p type="listitem" xml:lang="nob">PRODUKSJONER   <list><p type="listitem">Duodje</p>
+<p type="listitem" xml:lang="nob">Duodjebloggen</p>
+<p type="listitem" xml:lang="nob">Skinnberedning (garveri/dilkudahka)</p>
+<p type="listitem" xml:lang="nob">Drag kommunale industrikai</p>
+<p type="listitem" xml:lang="nob">Miljøstasjon Tysfjord</p>
+<p type="listitem" xml:lang="nob">Skogsdrift</p>
+<p type="listitem" xml:lang="nob">Vaskeritjenester</p>
+<p type="listitem" xml:lang="nob">Vedproduksjon</p>
+<p type="listitem" xml:lang="nob">Verksted</p>
+<p type="listitem" xml:lang="nob">Virkeproduksjon</p>
+</list></p>
+<p type="listitem" xml:lang="nob">TRENINGSSENTER   <list><p type="listitem" xml:lang="nob">Åpningstider</p>
+<p type="listitem" xml:lang="nob">Trening i speilsalen</p>
+<p type="listitem" xml:lang="nob">Priser</p>
+<p type="listitem" xml:lang="nob">Medlemsvilkår</p>
+<p type="listitem" xml:lang="nob">For unge fra 16 år</p>
+<p type="listitem" xml:lang="nob">Kontroll</p>
+<p type="listitem" xml:lang="nob">Gruppetrening</p>
+<p type="listitem" xml:lang="nob">Lett på tå – for barn og unge</p>
+</list></p>
+<p type="listitem" xml:lang="nob">BUTIKK   <list><p type="listitem" xml:lang="nob">Vilkår</p>
+</list></p>
+<p type="listitem" xml:lang="nob">ANDRE TILBUD   <list><p type="listitem" xml:lang="nob">Samiske dager / Sámebiejve</p>
+<p type="listitem" xml:lang="nob">Ut på tur i Dragsområdet</p>
+<p type="listitem" xml:lang="nob">Mineralløpet</p>
+<p type="listitem" xml:lang="nob">Folkehelse</p>
+<p type="listitem" xml:lang="nob">Workshop kunstmaling</p>
+<p type="listitem" xml:lang="nob">Utstillinger</p>
+<p type="listitem" xml:lang="nob">Prosjekter   <list><p type="listitem" xml:lang="nob">Onsdagsduodje som språkkafé</p>
+<p type="listitem" xml:lang="nob">Gravering i tre/horn</p>
+<p type="listitem" xml:lang="nob">Tysfjord Vest</p>
+<p type="listitem" xml:lang="nob">Lulesamisk språkprosjekt</p>
+<p type="listitem">Duodje revitalisering</p>
+<p type="listitem" xml:lang="nob">Motivasjonseminar for kvinner</p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="nob">ARBEID OG LÆRING   <list><p type="listitem">Varig tilrettelagt arbeid (VTA) / Ádjanis hiebadum barggo</p>
+<p type="listitem" xml:lang="nob">Inkluderende bedrift</p>
+<p type="listitem" xml:lang="nob">Inkluderende kommune</p>
+<p type="listitem" xml:lang="nob">Lærling/lærekandidat</p>
+<p type="listitem" xml:lang="nob">Kurs / Kurrsa</p>
+<p type="listitem" xml:lang="nob">Rettigheter</p>
+</list></p>
+<p type="listitem" xml:lang="nob">OM OSS   <list><p type="listitem">Klageadgang / Gujddimmáhttelisvuohta</p>
+<p type="listitem" xml:lang="nob">KONTAKT</p>
+</list></p>
+</list><p xml:lang="nob">0</p>
+<p xml:lang="nob">View Cart Checkout</p>
+<list><p type="listitem" xml:lang="nob">No products in the cart.</p>
+</list><p xml:lang="nob"><em type="italic">Subtotal: </em>kr  0  </p>
+<p xml:lang="nob">View Cart Checkout</p>
+<list><p type="listitem" xml:lang="nob">PRODUKSJONER   <list><p type="listitem">Duodje</p>
+<p type="listitem" xml:lang="nob">Duodjebloggen</p>
+<p type="listitem" xml:lang="nob">Skinnberedning (garveri/dilkudahka)</p>
+<p type="listitem" xml:lang="nob">Drag kommunale industrikai</p>
+<p type="listitem" xml:lang="nob">Miljøstasjon Tysfjord</p>
+<p type="listitem" xml:lang="nob">Skogsdrift</p>
+<p type="listitem" xml:lang="nob">Vaskeritjenester</p>
+<p type="listitem" xml:lang="nob">Vedproduksjon</p>
+<p type="listitem" xml:lang="nob">Verksted</p>
+<p type="listitem" xml:lang="nob">Virkeproduksjon</p>
+</list></p>
+<p type="listitem" xml:lang="nob">TRENINGSSENTER   <list><p type="listitem" xml:lang="nob">Åpningstider</p>
+<p type="listitem" xml:lang="nob">Trening i speilsalen</p>
+<p type="listitem" xml:lang="nob">Priser</p>
+<p type="listitem" xml:lang="nob">Medlemsvilkår</p>
+<p type="listitem" xml:lang="nob">For unge fra 16 år</p>
+<p type="listitem" xml:lang="nob">Kontroll</p>
+<p type="listitem" xml:lang="nob">Gruppetrening</p>
+<p type="listitem" xml:lang="nob">Lett på tå – for barn og unge</p>
+</list></p>
+<p type="listitem" xml:lang="nob">BUTIKK   <list><p type="listitem" xml:lang="nob">Vilkår</p>
+</list></p>
+<p type="listitem" xml:lang="nob">ANDRE TILBUD   <list><p type="listitem" xml:lang="nob">Samiske dager / Sámebiejve</p>
+<p type="listitem" xml:lang="nob">Ut på tur i Dragsområdet</p>
+<p type="listitem" xml:lang="nob">Mineralløpet</p>
+<p type="listitem" xml:lang="nob">Folkehelse</p>
+<p type="listitem" xml:lang="nob">Workshop kunstmaling</p>
+<p type="listitem" xml:lang="nob">Utstillinger</p>
+<p type="listitem" xml:lang="nob">Prosjekter   <list><p type="listitem" xml:lang="nob">Onsdagsduodje som språkkafé</p>
+<p type="listitem" xml:lang="nob">Gravering i tre/horn</p>
+<p type="listitem" xml:lang="nob">Tysfjord Vest</p>
+<p type="listitem" xml:lang="nob">Lulesamisk språkprosjekt</p>
+<p type="listitem">Duodje revitalisering</p>
+<p type="listitem" xml:lang="nob">Motivasjonseminar for kvinner</p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="nob">ARBEID OG LÆRING   <list><p type="listitem">Varig tilrettelagt arbeid (VTA) / Ádjanis hiebadum barggo</p>
+<p type="listitem" xml:lang="nob">Inkluderende bedrift</p>
+<p type="listitem" xml:lang="nob">Inkluderende kommune</p>
+<p type="listitem" xml:lang="nob">Lærling/lærekandidat</p>
+<p type="listitem" xml:lang="nob">Kurs / Kurrsa</p>
+<p type="listitem" xml:lang="nob">Rettigheter</p>
+</list></p>
+<p type="listitem" xml:lang="nob">OM OSS   <list><p type="listitem">Klageadgang / Gujddimmáhttelisvuohta</p>
+<p type="listitem" xml:lang="nob">KONTAKT</p>
+</list></p>
+</list><p type="title">Væssko</p>
+<p>Væssko máhttá liehket moattelágásj hámen, ja máhttá hiervviduvvat moatte láhkáj. Mån sidáv gápptevæskov allasim goarrot. Mujna le juo skánnda man milta lav åvddåla væskov gårrum, ja ådå væssko galggá liehket dan muodugasj. Ájnat sidáv hiervvit dav ietjá láhkáj.</p>
+<p>Væssko le sasnes goarodum ja tjáppemus le jus le sijddadilkodum sassne. Væskon li gålmmå oase: Åvddåbielle, vuodo ja maŋepbielle aktan gáblijn. Duodden boahtá gasskadieres, badjelbuttas ja bádde. Ja de aj dadne jus dav lágeda.</p>
+<p>Vuostak viertti divna åsijt væddjat. Jus galga væskov daddnit de le vuogas dav dahkat dálla åvddål væskov aktij goaro. Dadne máhttá liehket juogu 0,45 mm jali 0,40 mm. Daddni ájmijn, ja juohkka sávve gaskan galggá liehket birrusin 3 mm váj njuolgga sjaddá.</p>
+<p xml:lang="nob">Dadne.</p>
+<p>Maŋŋel gå le daddnim de máhtá væskov aktij goarrot. Goaro ájmijn ja suodnahárpojn. Vuostak goaro vuodov ja maŋepbielev aktij, ja mujttu de gasskadærrásav biedjat gasskaj. Ja de goaro vuodov ja åvddåbielev aktij aktan gasskadærrásijn. Goaro gålosávvijn. Vuodon máhtti liehket duorrasa, ja de le vuogas goarrot duorashárpojn. Duorrasijt goaro badjelsávvij. </p>
+<p>Duorrasa.</p>
+<p>Gå væskov le aktij gårrum, de le muddo fåvråjn álgget. Fåvråv goaro goarrommasjijnajn. Gå fåvrrå le gárves goaro dav akti væsskuj: Tsåkkå fåvråv væsko sisi ja goaro badjelbuddasav gitta.</p>
+<p>Badjelbuddasav máhtá goarrot guovte láhkáj.</p>
+<p>Mujttu då gavlav njadestit åvddål badjelbuddasav goaro. Mujte aj boalov njadet. Boallo máhttá liehket duola dagu tjoarves jali silbas.</p>
+<p>Gavlla ja boallo</p>
+<p>Maŋemussaj dárbaha báttev væsskuj. Iesj sidáv sassnebáttev, valla snjisjkodumbádde dåhkki aj. Åvddål gå báttev giddi væsskuj, de máhtá væskov hiervvit duola dagu råhtåj jali majna de sidá.</p>
+<p>Råhtå.</p>
+<p><em type="italic">Bágo/Ord </em></p>
+<list><p type="listitem" xml:lang="nob">Gáblle – lokk, klaff på veska</p>
+<p type="listitem" xml:lang="nob">Gasskadieres – mellomlegg</p>
+<p type="listitem" xml:lang="nob">Badjelbuttas – kantstykke</p>
+<p type="listitem" xml:lang="nob">Ájmme – skjærnål</p>
+<p type="listitem" xml:lang="nob">Gålosávve – tråklesting</p>
+<p type="listitem" xml:lang="nob">Badjelsávve – kastesting</p>
+</list><p>Category: Sámegiellaj , Skinn</p>
+<p xml:lang="nob">By sirirahka</p>
+<p xml:lang="nob">Tags:</p>
+<p>dadne</p>
+<p>sassne</p>
+<p type="title" xml:lang="nob">Author: sirirahka</p>
+<p type="title" xml:lang="nob">Related Posts</p>
+<p xml:lang="nob">Vadmel / Vádas fra Kjær</p>
+<p xml:lang="nob">Ruben og Julian lager konfirmasjonsbelte</p>
+<p xml:lang="nob">Sasnev dilkkot / Skinnberedning</p>
+<p>Vuoddaga</p>
+<p xml:lang="nob">Lissto</p>
+<p>Sliehppá</p>
+<p xml:lang="nob">Go to Top</p>
+</body></document>

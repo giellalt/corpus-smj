@@ -1,73 +1,30 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Álbmotoaju golut njiedjan 4,7 miljárddain - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Arbeidsdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2012</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>487</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://regjeringen.no/se/dep/ad/preassaguovdda/preassadieahusat/2012/almmukoajo-galo-le-binneduvvam-47-millij.html?id=682441</origFileName>
-    <parallel_text xml:lang="nob" location="folketrygdens-utgifter-er-redusert-med-4_id_682441.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Váldosisdollui</p>
-    <p type="title">Váldonavigašuvdna ja veahkkereaiddut</p>
-    <p>Ráđđehus.no</p>
-    <p>Oza</p>
-    <list>
-      <p type="listitem">Cavgil ustibii</p>
-    </list>
-    <p type="title">Álbmotoaju golut njiedjan 4,7 miljárddain</p>
-    <p type="title">Historjjálaš arkiiva</p>
-    <p>Almmustahttináigodat Regjeringen Stoltenberg II</p>
-    <p>Almmustahtti: Bargodepartemeanta</p>
-    <p>Geahpeduvvon buohcuvuođa jávkamat unnidit goluid.</p>
-    <p>
-      <em type="italic">Geahpeduvvon buohcuvuođa jávkamat unnidit goluid. </em>
-    </p>
-    <p>– Lea illudahtti ahte buohcuvuođa jávkamat leat njiedjagoahtán. Dát čájeha ahte Searvvadeaddji bargoeallin doaibmabijut ahte árrat ja buorebut čuovvolit buohccindieđihuvvon olbmuid leat doaibmagoahtán, cealká bargoministtar Hanne Bjurstrøm. Mii oaidnit dál ahte geahpeduvvon buohcuvuođa jávkamat unnidit bargočielggadanruhtavuostáiváldiid loguid.</p>
-    <p>Bargodepartemeantta álbmotoaju golut leat dárkkistuvvon našunálabušeahtas vuoliduvvon 4,7 miljárdda kruvnnuin, sullii 304,2 miljárdda kruvdnui. Bealli dáid ruđain boahtá buohcuvuođa jávkamiid geažil. Geahpeduvvon bargočielggadanruhta ja beaiveruđa vuostáiválddit leat váikkuhan ruhtaseastimii. Lámisvuođapenšuvdna ja ahkepenšuvdna golut leat veaháš lassánan.</p>
-    <list>
-      <p type="listitem">Buohcanruhta vuoliduvvo 2 350 miljovnna kruvnnuin</p>
-      <p type="listitem">Bargočielggadanruhta vuoliduvvo 3 165 miljovnna kruvnnuin</p>
-      <p type="listitem">Beaiveruhta vuoliduvvo 1 035 miljovnna kruvnnuin</p>
-      <p type="listitem">Lámisvuođapenšuvdna lassána 560 miljovnna kruvnnuin</p>
-      <p type="listitem">Ahkepenšuvdna lassána 1 750 miljovnna kruvnnuin</p>
-    </list>
-    <p>Lámisvuođapenšuvnna goluid lassáneami ferte árvvoštallat bargočielggadanruđaid ektui. Bargočielggadanruhtaortnet ásahuvvui jagi 2010, ja máŋggas geat ožžot dáid ruđaid gaskaboddosaš mearrádusaid vuođul mii loahpahuvvui jahkemolsumis. Unnit buohcuvuođa jávkamat leat váikkuhan ahte bargočielggadanruđat leat geahpeduvvon. Ráđđehus álggaha jagi 2013 bálkádoarjja geahččaladdanortnega ahte máksit bálkká bargočielggadanruhtavuostáiváldiide dainna ulbmilin ahte oažžut eanet olbmuid bargui ja geahpedit oadjovuostáiváldiid.</p>
-    <p>Ahkepenšuvdna golut lassánit dan sivas go eanet olbmot vuollel 67 jagi geavahišgohtet penšuvnna. 62 jahkásaččaid barggolašvuohta lea seammás fas buorránan maŋimuš jagiid.</p>
-    <p>– Mii vásihat ahte ollugat geavahišgohtet penšuvnna vaikko leat barggus. Áigodat goas olbmot oažžugohtet penšuvnna ii váikkut áktánasat álbmotoaju goluide. Njuolggadusat leat hábmejuvvon dainna lágiin ahte mađi árat oaččut penšuvnna, dađi unnit máksojuvvo jahkásaš penšuvdna, čilge stáhtaráđđi.</p>
-    <p type="title">Álmmukoajo gålo le binneduvvam 4,7 millijárdajn</p>
-    <p>
-      <em type="italic">Gå ulmutja li binnebut ierit bargos skihpudagá diehti, de binnu máksusa. </em>
-    </p>
-    <p>– Buorre le gå ulmutja le binnebut ierit bargos skihpudagá diehti. Vuojnnet IA-dåjma gånnå árabut ja ienebut gåtsedit dajt gudi li skihppenlågådallam doajmmagoahtá, javlla Hanne Bjurstrøm. Vuojnnep aj gå ulmutja le binnebut ierit bargos skihpudagá diehti, de binnu aj ulmutjijs gudi li barggovuorddem rudájda tjanádum.</p>
-    <p>Álmmukoajo gålo Barggodepartementan li dárkestum nasjonálbudsjehta baktu binneduvvam 4,7 millijárda kråvnåjn birrusij 304,2 millijárda kråvnnåj. Lahkke summas le gå gáhtom bargos skihpudagá diehti le binnum. Binnep vuosstajvállde barggovuorddemrudájs ja bargodisvuodarudájs buktá aj siesstemav. Gålo sáhtuspensjåvnnåj ja boarrásijpensjåvnnåj lassán vehi.</p>
-    <p type="listitem">Skihpamrudá binneduvvi 2 350 millijåvnå kråvnåjn</p>
-    <p type="listitem">Barggovuorddemrudá binneduvvi 3 165 millijåvnå kråvnåjn</p>
-    <p type="listitem">Bargodisvuodarudá binneduvvi 1 035 millijåvnå kråvnåjn</p>
-    <p type="listitem">Sáhtuspensjåvnnå lassán 560 millijåvnå kråvnåjn</p>
-    <p type="listitem">Boarrásijpensjåvnnå lassán 1 750 millijåvnå kråvnåjn</p>
-    <p>Sáhtuspensjåvnå lassánimev hæhttu gæhttjat barggovuorddemrudáj binnedime gáktuj. Barggovuorddemrudá båhtin jåhtuj jagen 2010, ja moaddásijn li læhkám målssommærrádusá ma låhpadin jahkemålsodijn. Barggovuorddemrudáj binnedibme le aj boados gå gáhtom bargos skihpudagá diehti le binnum. Ráddidus álgadij jagen 2013 gæhttjalimev bálkkálasádusájn barggovuorddemrudá vuosstájválldij hárráj gånnå ulmme lij oadtjot ienebujt bargatjit ja binnebujt oadjuj.</p>
-    <p>Gålo boarrásijpensjåvnnåj lassáni gå ienebu gudi li nuorabu gå 67 jage gájbbedi pensjåvnåv. Sæmmi båttå le barggujoassálasstem daj gaskan gudi li badjel 62 jage lassánam dáj maŋemus jagij.</p>
-    <p>– Vuojnnep moaddása pensjåvnåv válldi madin li ájn bargon. Muddo goassa ájnegattja pensjåvnåv válldi vájkkut binnep mærráj álmmukoajo gålojda ájge badjel. Njuolgadusá li nav jus árabut pensjåvnåv ávkástallá des binnep le jahkásasj pensjåvnnå, javllá stáhtaráde.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Álbmotoaju golut njiedjan 4,7 miljárddain - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Arbeidsdepartementet" sex="unknown" born="" nationality=""/></author><year>2012</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>480</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual><language xml:lang="smj"/></multilingual><origFileName>http://regjeringen.no/se/dep/ad/preassaguovdda/preassadieahusat/2012/almmukoajo-galo-le-binneduvvam-47-millij.html?id=682441</origFileName><parallel_text xml:lang="nob" location="folketrygdens-utgifter-er-redusert-med-4_id_682441.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Váldosisdollui</p>
+<p type="title">Álbmotoaju golut njiedjan 4,7 miljárddain</p>
+<p type="title">Historjjálaš arkiiva</p>
+<p>Almmustahttináigodat Regjeringen Stoltenberg II</p>
+<p>Almmustahtti: Bargodepartemeanta</p>
+<p>Geahpeduvvon buohcuvuođa jávkamat unnidit goluid.</p>
+<p><em type="italic">Geahpeduvvon buohcuvuođa jávkamat unnidit goluid. </em></p>
+<p>– Lea illudahtti ahte buohcuvuođa jávkamat leat njiedjagoahtán. Dát čájeha ahte Searvvadeaddji bargoeallin doaibmabijut ahte árrat ja buorebut čuovvolit buohccindieđihuvvon olbmuid leat doaibmagoahtán, cealká bargoministtar Hanne Bjurstrøm. Mii oaidnit dál ahte geahpeduvvon buohcuvuođa jávkamat unnidit bargočielggadanruhtavuostáiváldiid loguid.</p>
+<p>Bargodepartemeantta álbmotoaju golut leat dárkkistuvvon našunálabušeahtas vuoliduvvon 4,7 miljárdda kruvnnuin, sullii 304,2 miljárdda kruvdnui. Bealli dáid ruđain boahtá buohcuvuođa jávkamiid geažil. Geahpeduvvon bargočielggadanruhta ja beaiveruđa vuostáiválddit leat váikkuhan ruhtaseastimii. Lámisvuođapenšuvdna ja ahkepenšuvdna golut leat veaháš lassánan.</p>
+<list><p type="listitem">Buohcanruhta vuoliduvvo 2 350 miljovnna kruvnnuin</p>
+<p type="listitem">Bargočielggadanruhta vuoliduvvo 3 165 miljovnna kruvnnuin</p>
+<p type="listitem">Beaiveruhta vuoliduvvo 1 035 miljovnna kruvnnuin</p>
+<p type="listitem">Lámisvuođapenšuvdna lassána 560 miljovnna kruvnnuin</p>
+<p type="listitem">Ahkepenšuvdna lassána 1 750 miljovnna kruvnnuin</p>
+</list><p>Lámisvuođapenšuvnna goluid lassáneami ferte árvvoštallat bargočielggadanruđaid ektui. Bargočielggadanruhtaortnet ásahuvvui jagi 2010, ja máŋggas geat ožžot dáid ruđaid gaskaboddosaš mearrádusaid vuođul mii loahpahuvvui jahkemolsumis. Unnit buohcuvuođa jávkamat leat váikkuhan ahte bargočielggadanruđat leat geahpeduvvon. Ráđđehus álggaha jagi 2013 bálkádoarjja geahččaladdanortnega ahte máksit bálkká bargočielggadanruhtavuostáiváldiide dainna ulbmilin ahte oažžut eanet olbmuid bargui ja geahpedit oadjovuostáiváldiid.</p>
+<p>Ahkepenšuvdna golut lassánit dan sivas go eanet olbmot vuollel 67 jagi geavahišgohtet penšuvnna. 62 jahkásaččaid barggolašvuohta lea seammás fas buorránan maŋimuš jagiid.</p>
+<p>– Mii vásihat ahte ollugat geavahišgohtet penšuvnna vaikko leat barggus. Áigodat goas olbmot oažžugohtet penšuvnna ii váikkut áktánasat álbmotoaju goluide. Njuolggadusat leat hábmejuvvon dainna lágiin ahte mađi árat oaččut penšuvnna, dađi unnit máksojuvvo jahkásaš penšuvdna, čilge stáhtaráđđi.</p>
+<p type="title">Álmmukoajo gålo le binneduvvam 4,7 millijárdajn</p>
+<p><em type="italic">Gå ulmutja li binnebut ierit bargos skihpudagá diehti, de binnu máksusa. </em></p>
+<p>– Buorre le gå ulmutja le binnebut ierit bargos skihpudagá diehti. Vuojnnet IA-dåjma gånnå árabut ja ienebut gåtsedit dajt gudi li skihppenlågådallam doajmmagoahtá, javlla Hanne Bjurstrøm. Vuojnnep aj gå ulmutja le binnebut ierit bargos skihpudagá diehti, de binnu aj ulmutjijs gudi li barggovuorddem rudájda tjanádum.</p>
+<p>Álmmukoajo gålo Barggodepartementan li dárkestum nasjonálbudsjehta baktu binneduvvam 4,7 millijárda kråvnåjn birrusij 304,2 millijárda kråvnnåj. Lahkke summas le gå gáhtom bargos skihpudagá diehti le binnum. Binnep vuosstajvállde barggovuorddemrudájs ja bargodisvuodarudájs buktá aj siesstemav. Gålo sáhtuspensjåvnnåj ja boarrásijpensjåvnnåj lassán vehi.</p>
+<p type="listitem">Skihpamrudá binneduvvi 2 350 millijåvnå kråvnåjn</p>
+<p type="listitem">Barggovuorddemrudá binneduvvi 3 165 millijåvnå kråvnåjn</p>
+<p type="listitem">Bargodisvuodarudá binneduvvi 1 035 millijåvnå kråvnåjn</p>
+<p type="listitem">Sáhtuspensjåvnnå lassán 560 millijåvnå kråvnåjn</p>
+<p type="listitem">Boarrásijpensjåvnnå lassán 1 750 millijåvnå kråvnåjn</p>
+<p>Sáhtuspensjåvnå lassánimev hæhttu gæhttjat barggovuorddemrudáj binnedime gáktuj. Barggovuorddemrudá båhtin jåhtuj jagen 2010, ja moaddásijn li læhkám målssommærrádusá ma låhpadin jahkemålsodijn. Barggovuorddemrudáj binnedibme le aj boados gå gáhtom bargos skihpudagá diehti le binnum. Ráddidus álgadij jagen 2013 gæhttjalimev bálkkálasádusájn barggovuorddemrudá vuosstájválldij hárráj gånnå ulmme lij oadtjot ienebujt bargatjit ja binnebujt oadjuj.</p>
+<p>Gålo boarrásijpensjåvnnåj lassáni gå ienebu gudi li nuorabu gå 67 jage gájbbedi pensjåvnåv. Sæmmi båttå le barggujoassálasstem daj gaskan gudi li badjel 62 jage lassánam dáj maŋemus jagij.</p>
+<p>– Vuojnnep moaddása pensjåvnåv válldi madin li ájn bargon. Muddo goassa ájnegattja pensjåvnåv válldi vájkkut binnep mærráj álmmukoajo gålojda ájge badjel. Njuolgadusá li nav jus árabut pensjåvnåv ávkástallá des binnep le jahkásasj pensjåvnnå, javllá stáhtaráde.</p>
+</body></document>

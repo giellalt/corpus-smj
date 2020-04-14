@@ -1,65 +1,31 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>328</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/duodje-bagadallen.5532847-271859.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Duodje bagádallen - Árran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title">Guokta 30% virge rahpasa Árranin. Åhtsåmmierre: Bårggemáno 18. biejve 2014.</p>
-    <p type="title">Duodje bagádallen</p>
-    <p>Árranin li aktisasjbargo Duodje Norlándajn ja Divtasvuona ASVO;jn 2014 jage rájes álggám muhtem æládusájda guoskavasj duodjeprosjevtav mij galggá vihpat jage 2016 loahppaj.   Barggon li bagádallat duodjuhiddjijt garra ja dibma duojen.  Åhtsåmmierre: Bårggemáno 18. biejve 2014. Norsk tekst? - Trykk på flagget nederst..</p>
-    <p>Árran – Julevsáme guovdásj ásaduváj 1994 Ájluoktaj Divtasvuona suohkanin.  Árrana ulmmen le liehket nasjonála guovdásj mij sáme gielav, kultuvrav ja sebrudakiellemav julevsáme guovlon bisot ja åvddånahttá.  Árranin li museadåjma, sámegielak mánájgárdde, sáme giellaåvddånahttem ja videokonferánsaj baktu giellaåhpadus, åtsådimprosjevta, nuorttaguovloj gatjálvisáj barggo, almmudakdåjma, j.i.  Huodnaha ja lanjá lájggiduvvi Sámediggáj, NRK Sámi Radioj ja universitiehtajda Bodådjon ja Råmsån ja Staped;aj. Aktan sijáj gudi lájggiji le birrusij 40:sijn bæjválasj barggo Árranin.</p>
-    <p>Ienep diedo Árrana birra gávnnuji  www.arran.no  næhttabielen.</p>
-    <p xml:lang="nno">
-      <em type="italic">Utsnitt fra belte laget av Anders Paulsen utstilling 2014. Foto: Árran/Ragnhild Lien </em>
-    </p>
-    <p type="title">Duodje bagádallen</p>
-    <p>Árranin li aktisasjbargo Duodje Norlándajn ja Divtasvuona ASVO;jn 2014 jage rájes álggám muhtem æládusájda guoskavasj duodjeprosjevtav mij galggá vihpat jage 2016 loahppaj. Dát le doajmma mij le dagu bagádallamdievnastus jages 2012.</p>
-    <p>Prosjevtan le oassen fágalasj bagádallamdievnastus garra ja dibma duojen. Dajnas le guokta 30% virge rahpasa  Duodje bagádallen  .</p>
-    <p>Barggon li:</p>
-    <list>
-      <p type="listitem">Bagádallat duodjuhiddjijt garra ja dibma duojen.</p>
-      <p type="listitem">Aktisattjat barggat prosjæktajådediddjijn tjadádittjat ietjá fágalasj dåjmajt prosjevtan</p>
-    </list>
-    <p>Máhtudagáj gájbbádussan li:</p>
-    <list>
-      <p type="listitem">Fáhkaåhpadiddjij åhpadus, fáhkaduodastus jali hiebalgis åhpadus ja hárjjánibme julevsáme duodjebargojs.</p>
-      <p type="listitem">Viertti julevsámegielav máhttet.</p>
-    </list>
-    <p>Virggáj gájbbeduvvá ulmutjis:</p>
-    <list>
-      <p type="listitem">Virggáj hiebalgis máhtudahka ulmutjin.</p>
-      <p type="listitem">Virgen li moattelágásj dahkamusá ma gájbbedi ållo aktisasjbargov iehtjádij ja ålov másjkugisvuodav.</p>
-    </list>
-    <p>Virggáj viertti álgget ragátmánon 2014. Virggemihtto máhttá stuoreduvvat jus vuorbástuvvat ruhtadimijn jage 2015 rájes. Virgge máhttá aktiduvvat ietjá virgijn jus le dågålasj virggeulmusj.</p>
-    <p xml:lang="nno">
-      <em type="italic">Ávve. Foto: Ragnhild Lien </em>
-    </p>
-    <p type="title">Árran fálla:</p>
-    <list>
-      <p type="listitem">Biddnustalle bálkáv sjiehtadusáj milta.</p>
-      <p type="listitem">Pensjåvnnåmáksemav ja juogosbuohttidusáv</p>
-      <p type="listitem">Sajev/sajijt sámegielak mánájgárden</p>
-      <p type="listitem">Mássjkedis barggoájgev.</p>
-    </list>
-    <p>Jus sidá ienep diedojt virge birra, de dáv oattjo direktøras Lars Magne Andreassen 75575105, jali 90775275</p>
-    <p><em type="italic">Åhtsåmmierre: Bårggemáno 18. biejve 2014  </em> </p>
-    <p>Åhtsåm aktan CV;ajn sáddiduvvá:</p>
-    <p>Árran – julevsáme guovdásj, 8270 Ájluokta/Drag, jali e-poasstaj:  poassta@arran.no  baktu  .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>328</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/duodje-bagadallen.5532847-271859.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Duodje bagádallen - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title">Guokta 30% virge rahpasa Árranin. Åhtsåmmierre: Bårggemáno 18. biejve 2014.</p>
+<p type="title">Duodje bagádallen</p>
+<p>Árranin li aktisasjbargo Duodje Norlándajn ja Divtasvuona ASVO;jn 2014 jage rájes álggám muhtem æládusájda guoskavasj duodjeprosjevtav mij galggá vihpat jage 2016 loahppaj.   Barggon li bagádallat duodjuhiddjijt garra ja dibma duojen.  Åhtsåmmierre: Bårggemáno 18. biejve 2014. Norsk tekst? - Trykk på flagget nederst..</p>
+<p>Árran – Julevsáme guovdásj ásaduváj 1994 Ájluoktaj Divtasvuona suohkanin.  Árrana ulmmen le liehket nasjonála guovdásj mij sáme gielav, kultuvrav ja sebrudakiellemav julevsáme guovlon bisot ja åvddånahttá.  Árranin li museadåjma, sámegielak mánájgárdde, sáme giellaåvddånahttem ja videokonferánsaj baktu giellaåhpadus, åtsådimprosjevta, nuorttaguovloj gatjálvisáj barggo, almmudakdåjma, j.i.  Huodnaha ja lanjá lájggiduvvi Sámediggáj, NRK Sámi Radioj ja universitiehtajda Bodådjon ja Råmsån ja Staped;aj. Aktan sijáj gudi lájggiji le birrusij 40:sijn bæjválasj barggo Árranin.</p>
+<p>Ienep diedo Árrana birra gávnnuji  www.arran.no  næhttabielen.</p>
+<p xml:lang="nno"><em type="italic">Utsnitt fra belte laget av Anders Paulsen utstilling 2014. Foto: Árran/Ragnhild Lien </em></p>
+<p type="title">Duodje bagádallen</p>
+<p>Árranin li aktisasjbargo Duodje Norlándajn ja Divtasvuona ASVO;jn 2014 jage rájes álggám muhtem æládusájda guoskavasj duodjeprosjevtav mij galggá vihpat jage 2016 loahppaj. Dát le doajmma mij le dagu bagádallamdievnastus jages 2012.</p>
+<p>Prosjevtan le oassen fágalasj bagádallamdievnastus garra ja dibma duojen. Dajnas le guokta 30% virge rahpasa  Duodje bagádallen  .</p>
+<p>Barggon li:</p>
+<list><p type="listitem">Bagádallat duodjuhiddjijt garra ja dibma duojen.</p>
+<p type="listitem">Aktisattjat barggat prosjæktajådediddjijn tjadádittjat ietjá fágalasj dåjmajt prosjevtan</p>
+</list><p>Máhtudagáj gájbbádussan li:</p>
+<list><p type="listitem">Fáhkaåhpadiddjij åhpadus, fáhkaduodastus jali hiebalgis åhpadus ja hárjjánibme julevsáme duodjebargojs.</p>
+<p type="listitem">Viertti julevsámegielav máhttet.</p>
+</list><p>Virggáj gájbbeduvvá ulmutjis:</p>
+<list><p type="listitem">Virggáj hiebalgis máhtudahka ulmutjin.</p>
+<p type="listitem">Virgen li moattelágásj dahkamusá ma gájbbedi ållo aktisasjbargov iehtjádij ja ålov másjkugisvuodav.</p>
+</list><p>Virggáj viertti álgget ragátmánon 2014. Virggemihtto máhttá stuoreduvvat jus vuorbástuvvat ruhtadimijn jage 2015 rájes. Virgge máhttá aktiduvvat ietjá virgijn jus le dågålasj virggeulmusj.</p>
+<p xml:lang="nno"><em type="italic">Ávve. Foto: Ragnhild Lien </em></p>
+<p type="title">Árran fálla:</p>
+<list><p type="listitem">Biddnustalle bálkáv sjiehtadusáj milta.</p>
+<p type="listitem">Pensjåvnnåmáksemav ja juogosbuohttidusáv</p>
+<p type="listitem">Sajev/sajijt sámegielak mánájgárden</p>
+<p type="listitem">Mássjkedis barggoájgev.</p>
+</list><p>Jus sidá ienep diedojt virge birra, de dáv oattjo direktøras Lars Magne Andreassen 75575105, jali 90775275</p>
+<p><em type="italic">Åhtsåmmierre: Bårggemáno 18. biejve 2014  </em> </p>
+<p>Åhtsåm aktan CV;ajn sáddiduvvá:</p>
+<p>Árran – julevsáme guovdásj, 8270 Ájluokta/Drag, jali e-poasstaj:  poassta@arran.no  baktu  .</p>
+</body></document>

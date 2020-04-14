@@ -1,58 +1,28 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title> 
+<document xml:lang="smj" id="no_id"><header><title> 
 Untitled
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>667</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 32698 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="deu">
-      <em type="bold">RÁDDIDUSÁ WEBBABIELLE ALMASJRIEKTÁJ BIRRA </em>
-    </p>
-    <p>"Gájkka ulmutja li iesjrádálattja ja avtalágátja árvon ja riektájn riegádam. Nåvti álgaduvvá "Aktidum Nasjåvnå(FN) álmmuk diededibme almasj riektáj birra. Svieriga ráddidussaj le vuorodum viddno almasj riektájt nannodit ja åvdedit, ja guddnedibme dajda rijkalattjat ja rijkajgasskasattjat.</p>
-    <p>Ráddidus le hábbmim almasj riektájda Svierigin nuppev svieriga doajmmaplánav mij galggá 2006-2009 fámon årrot. Dagátjit lasedum diedulasjvuodav ássjij birra doajmmaplánan dietteduvvá ájnasvuohta diededimev hádjet almasj riektáj birra.</p>
-    <p>Ráddidusá webbabielle almasj riektáj birra 2002 moarmesmánon rahpasij. Ájnas viehkkenävvo le ráddidusá rahtjamin almasj riektáj birra diedojt hádjet ja diedojt vaddet svieriga välggogisvuodaj birra guovlon. Webbabielen máhtá låhkåt i.s. Europaduobbmoståvlå duobmojt Svieriga vuosstáj, Ålggorijkadepartementa(UD) AlmasjRiektá(MR) diedádusájt färttáhasj rijkajs ja gávnnat diedádusájt ja tjállagijt stuorra ássjearkijvan.</p>
-    <p>Webbabielle dåjmaduvvá aktisasjbarggon Integrasjåvnå- ja buohtaárvodeparementa ja Ålggorijkadepartementa gaskan.</p>
-    <p>Doajvvop webbabielle galggá gávnas dunji gut diedojt åtså, sidá diehtet majt ráddidus dahká ja manen ja sidá almasjriektájt mijá ságastallamguovdon ságastallat. Doajvvop aj sjaddá ádjagin måvtåstuhttemij dunji gut sidá bargov almasj riektájda Svierigin ja väráldin åvdedit.</p>
-    <p>
-      <em type="bold">Almasj riektá </em>
-    </p>
-    <p>Almasj riektá li fámon juohkkahattjaj. Mierreduvvi gájkka ulmutja li iesjrádálattja ja avtalágátja árvon ja riektájn riegádam. Almasj riektá li gájkkásattja. Fámon li jårbbå värálda birra, juska rijkka, kultuvrra jali sierra vijor.</p>
-    <p><em type="bold">Álmmukriektá jali rijkajgasskasasj riektá </em> Almasj riektá li álmmukriektás oasse. Riektá li rijkajgasskasasj lihtojn umasslágásj tjerdajn tjáledum. Dajn li umasslágásj namádusá dan duogen makkir välggogisvuodaj tjerdav sisanedi. Konvensjåvnå ja bievddegirje sjaddi juridijkalattjat välggogisá gå rijka sierraláhkáj diededi sij li dajs tjanádum. Diededime ja deklarasjåvnå li politijkalasj välggogisvuoda. </p>
-    <p><em type="bold">Aktisasjbarggo maŋŋedo </em><em type="bold">arroájgen </em> Rijkajgasskasasj aktijbarggo almasj riektáj gávttuj le åvdemusát nuppe väráltdoaro maŋŋela åvddånam. Moadda rijkajn 1945 åvddålå lidjin ietjasa lága viesájdiddjij riektáj birra stáhta vuosstáj, valla gávnnujin binná rijkajgasskasasj njuolgadusá moatte rijkaj gaskan. </p>
-    <p>Nuppe väráltdoaro maŋŋela lij vuojnno badjanime rijkaj gaskan ma Aktidum Nasjåvnåjt(FN) vuododin vaj väráltsiebrre viertti aktisasj åvdåsvásstádusáv aktugattja almasj riektáj åvdås valldet. Almasj riektáj åvdedibme le danen Aktidum Nasjåvnåj(FN) ulmijs akta, majt Aktidum Nasjåvnå(FN) njuolgadusá javlli. Aktidum Nasjåvnå(FN) rájáj gaskan li jagij tjadá hábbmiduvvam moadda ássjetjállaga ma almasj riektájt giehtadalli. Åvtåbále Aktidum Nasjåvnå(FN) systema åvddånimijn åvdedittjat almasj riektájt, dajvak systema li värálda umasslágásj guovlojn badjánam.</p>
-    <p><em type="bold">Álggo loabe ja riektá </em> Aktidum Nasjåvnå(FN) álmmuk diededibme ja 1966 jage rájes guokta Aktidum Nasjåvnå(FN)- konvensjåvnå sisanedi aktan dajvak konvensjåvnåj moadda riektá ma gåbttji, álggo låbijt, riektá suodjáj iesjvehkudagá vuosstáj ja riektá åvdedittjat álggo dárbojt. </p>
-    <p>Riektá máhtti umassláhkáj tjoahkkiduvvat ja juogeduvvat. Webbabielen lip válljim riektájt ja lahka ássjijt tjuovvo oajvvejuohkusijda juohket:</p>
-    <list>
-      <p type="listitem">Viesájdiddje ja politijkalasj riektá</p>
-      <p type="listitem">Ekonomalasj, sosiála ja kultuvralasj riektá</p>
-      <p type="listitem">Suodje nuppástallama vuosstáj</p>
-      <p type="listitem">Rijkalasj unneplågo ja iemeálmmuga</p>
-      <p type="listitem">Máná riektá</p>
-      <p type="listitem">Nissunij riektá</p>
-      <p type="listitem">Viesátvuohtaássje</p>
-      <p type="listitem">Ietjá ássje (Värjjo rijddalime, ulmusjoasestibme, jnv.)</p>
-    </list>
-    <p><em type="bold">Mij la riektá? </em> Almasj riektá gåbttji ulmutja viessoma moadda oase. Ulmmen le gájkka ulmutja galggi máhttelisvuodav buorrelágásj viessomij vatteduvvat. Gåbttji danen njuolgadusájt birra ulmutjij máhttelisvuodav bierggit, aktan biebbmo ja årromsadje, ulmutjij riektá birra ietjasa sisŋemus ájádusájda ja jáhkkudakvuojnnuj, suoje birra fuolkkáj, tjoavdedibme bijnedimes ja oarjjevuodas, riektá birra åhpadussaj, moalggemriektá ja säbrrat rijka stivran. </p>
-    <p><em type="bold">Stáhta välggogisvuohta ja aktugattja riektá. </em> Rijka li välggogisá álmmukriektá njuolgadusájt guddnedit. Juohkka rijkan le åvdåsvásstádus ietjasa välggogisvuodajs almasj riektáj hárráj rijkalasj lahkaásadusán anoduvvi. Ij le nuoges lágaj ma tjielggiji stáhta välggogisvuodajt jali buorkkuji muhtem dagojt. Viertti aj gávnnut dåjmalasj riektásystema (polijsa, advokáhta, ja guoddaliddje, belulahtes ja rievtes duobbmoståvlå) ma lágajt praktijkalattjat ållidi. Dasi vil ållestim dago rávkaduvvi degu almasj riektáj - diededime baktu ja ietjá vuogijn - åvdedibme. </p>
-    <p><em type="bold">Rijkajgasskasasj ássje </em> Jus almasj riektáj doadjem dáhpáduvvá de le åvdemusát guosskevasj rijka åvdåsvásstádus gähttjat vaj aktugattja guddne ruoptus vatteduvvá. Valla almasj riektá li rijkajgasskasasj ássje ja danen le ietjá rijkajda loabálasj åvddån buktet vuojnojt birra ja gähttjalit bájnatjit vidjurav umasslágásj rijkajn gånnå riektá doajeduvvi. Guovlon almasj riektájda li stáhtajn välggogisvuoda ja aktugattjajn li riektá. Aktugattja li välggogisá rijka lágáj baktu ietjá ulmutjij riektájt guddnedit. Oajvvenjuolgadusá milta li val rijka ma rijkajgasskasattjat máhtti almasj riektáj doadjemijda guoddaluvvat. </p>
-    <p><em type="bold">Nanustahttem </em> Nanustahttema baktu diedet ájnnegis rijkka gåktu le konvensjåvnå njuolgadusájs tjanádum. Rijka láhkaásadim tjoaggulvisás (Svierigin rijkabiejvve) ienemus rijkajn dagáduvvá. Ráddidusá åvdåsstiddje li dan åvddåla konvensjåvnåv vuollájtjállám. Vuollájtjállem máhttá diededibmen vuojneduvvat ja märkka guosskevasj rijka sierra konvensjåvnå nanustahttemav gárvet. Ajggeguovddel nanustahttemlista vuosedi makkir konvensjåvnåjt umasse rijka li nanustahttám jali säbrram. Ássjearkijvan gávnnuji diededibme birra makkir konvensjåvnåjt Svierik le nanustahttám, </p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>667</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 32698 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="deu"><em type="bold">RÁDDIDUSÁ WEBBABIELLE ALMASJRIEKTÁJ BIRRA </em></p>
+<p>"Gájkka ulmutja li iesjrádálattja ja avtalágátja árvon ja riektájn riegádam. Nåvti álgaduvvá "Aktidum Nasjåvnå(FN) álmmuk diededibme almasj riektáj birra. Svieriga ráddidussaj le vuorodum viddno almasj riektájt nannodit ja åvdedit, ja guddnedibme dajda rijkalattjat ja rijkajgasskasattjat.</p>
+<p>Ráddidus le hábbmim almasj riektájda Svierigin nuppev svieriga doajmmaplánav mij galggá 2006-2009 fámon årrot. Dagátjit lasedum diedulasjvuodav ássjij birra doajmmaplánan dietteduvvá ájnasvuohta diededimev hádjet almasj riektáj birra.</p>
+<p>Ráddidusá webbabielle almasj riektáj birra 2002 moarmesmánon rahpasij. Ájnas viehkkenävvo le ráddidusá rahtjamin almasj riektáj birra diedojt hádjet ja diedojt vaddet svieriga välggogisvuodaj birra guovlon. Webbabielen máhtá låhkåt i.s. Europaduobbmoståvlå duobmojt Svieriga vuosstáj, Ålggorijkadepartementa(UD) AlmasjRiektá(MR) diedádusájt färttáhasj rijkajs ja gávnnat diedádusájt ja tjállagijt stuorra ássjearkijvan.</p>
+<p>Webbabielle dåjmaduvvá aktisasjbarggon Integrasjåvnå- ja buohtaárvodeparementa ja Ålggorijkadepartementa gaskan.</p>
+<p>Doajvvop webbabielle galggá gávnas dunji gut diedojt åtså, sidá diehtet majt ráddidus dahká ja manen ja sidá almasjriektájt mijá ságastallamguovdon ságastallat. Doajvvop aj sjaddá ádjagin måvtåstuhttemij dunji gut sidá bargov almasj riektájda Svierigin ja väráldin åvdedit.</p>
+<p><em type="bold">Almasj riektá </em></p>
+<p>Almasj riektá li fámon juohkkahattjaj. Mierreduvvi gájkka ulmutja li iesjrádálattja ja avtalágátja árvon ja riektájn riegádam. Almasj riektá li gájkkásattja. Fámon li jårbbå värálda birra, juska rijkka, kultuvrra jali sierra vijor.</p>
+<p><em type="bold">Álmmukriektá jali rijkajgasskasasj riektá </em> Almasj riektá li álmmukriektás oasse. Riektá li rijkajgasskasasj lihtojn umasslágásj tjerdajn tjáledum. Dajn li umasslágásj namádusá dan duogen makkir välggogisvuodaj tjerdav sisanedi. Konvensjåvnå ja bievddegirje sjaddi juridijkalattjat välggogisá gå rijka sierraláhkáj diededi sij li dajs tjanádum. Diededime ja deklarasjåvnå li politijkalasj välggogisvuoda. </p>
+<p><em type="bold">Aktisasjbarggo maŋŋedo </em><em type="bold">arroájgen </em> Rijkajgasskasasj aktijbarggo almasj riektáj gávttuj le åvdemusát nuppe väráltdoaro maŋŋela åvddånam. Moadda rijkajn 1945 åvddålå lidjin ietjasa lága viesájdiddjij riektáj birra stáhta vuosstáj, valla gávnnujin binná rijkajgasskasasj njuolgadusá moatte rijkaj gaskan. </p>
+<p>Nuppe väráltdoaro maŋŋela lij vuojnno badjanime rijkaj gaskan ma Aktidum Nasjåvnåjt(FN) vuododin vaj väráltsiebrre viertti aktisasj åvdåsvásstádusáv aktugattja almasj riektáj åvdås valldet. Almasj riektáj åvdedibme le danen Aktidum Nasjåvnåj(FN) ulmijs akta, majt Aktidum Nasjåvnå(FN) njuolgadusá javlli. Aktidum Nasjåvnå(FN) rájáj gaskan li jagij tjadá hábbmiduvvam moadda ássjetjállaga ma almasj riektájt giehtadalli. Åvtåbále Aktidum Nasjåvnå(FN) systema åvddånimijn åvdedittjat almasj riektájt, dajvak systema li värálda umasslágásj guovlojn badjánam.</p>
+<p><em type="bold">Álggo loabe ja riektá </em> Aktidum Nasjåvnå(FN) álmmuk diededibme ja 1966 jage rájes guokta Aktidum Nasjåvnå(FN)- konvensjåvnå sisanedi aktan dajvak konvensjåvnåj moadda riektá ma gåbttji, álggo låbijt, riektá suodjáj iesjvehkudagá vuosstáj ja riektá åvdedittjat álggo dárbojt. </p>
+<p>Riektá máhtti umassláhkáj tjoahkkiduvvat ja juogeduvvat. Webbabielen lip válljim riektájt ja lahka ássjijt tjuovvo oajvvejuohkusijda juohket:</p>
+<list><p type="listitem">Viesájdiddje ja politijkalasj riektá</p>
+<p type="listitem">Ekonomalasj, sosiála ja kultuvralasj riektá</p>
+<p type="listitem">Suodje nuppástallama vuosstáj</p>
+<p type="listitem">Rijkalasj unneplågo ja iemeálmmuga</p>
+<p type="listitem">Máná riektá</p>
+<p type="listitem">Nissunij riektá</p>
+<p type="listitem">Viesátvuohtaássje</p>
+<p type="listitem">Ietjá ássje (Värjjo rijddalime, ulmusjoasestibme, jnv.)</p>
+</list><p><em type="bold">Mij la riektá? </em> Almasj riektá gåbttji ulmutja viessoma moadda oase. Ulmmen le gájkka ulmutja galggi máhttelisvuodav buorrelágásj viessomij vatteduvvat. Gåbttji danen njuolgadusájt birra ulmutjij máhttelisvuodav bierggit, aktan biebbmo ja årromsadje, ulmutjij riektá birra ietjasa sisŋemus ájádusájda ja jáhkkudakvuojnnuj, suoje birra fuolkkáj, tjoavdedibme bijnedimes ja oarjjevuodas, riektá birra åhpadussaj, moalggemriektá ja säbrrat rijka stivran. </p>
+<p><em type="bold">Stáhta välggogisvuohta ja aktugattja riektá. </em> Rijka li välggogisá álmmukriektá njuolgadusájt guddnedit. Juohkka rijkan le åvdåsvásstádus ietjasa välggogisvuodajs almasj riektáj hárráj rijkalasj lahkaásadusán anoduvvi. Ij le nuoges lágaj ma tjielggiji stáhta välggogisvuodajt jali buorkkuji muhtem dagojt. Viertti aj gávnnut dåjmalasj riektásystema (polijsa, advokáhta, ja guoddaliddje, belulahtes ja rievtes duobbmoståvlå) ma lágajt praktijkalattjat ållidi. Dasi vil ållestim dago rávkaduvvi degu almasj riektáj - diededime baktu ja ietjá vuogijn - åvdedibme. </p>
+<p><em type="bold">Rijkajgasskasasj ássje </em> Jus almasj riektáj doadjem dáhpáduvvá de le åvdemusát guosskevasj rijka åvdåsvásstádus gähttjat vaj aktugattja guddne ruoptus vatteduvvá. Valla almasj riektá li rijkajgasskasasj ássje ja danen le ietjá rijkajda loabálasj åvddån buktet vuojnojt birra ja gähttjalit bájnatjit vidjurav umasslágásj rijkajn gånnå riektá doajeduvvi. Guovlon almasj riektájda li stáhtajn välggogisvuoda ja aktugattjajn li riektá. Aktugattja li välggogisá rijka lágáj baktu ietjá ulmutjij riektájt guddnedit. Oajvvenjuolgadusá milta li val rijka ma rijkajgasskasattjat máhtti almasj riektáj doadjemijda guoddaluvvat. </p>
+<p><em type="bold">Nanustahttem </em> Nanustahttema baktu diedet ájnnegis rijkka gåktu le konvensjåvnå njuolgadusájs tjanádum. Rijka láhkaásadim tjoaggulvisás (Svierigin rijkabiejvve) ienemus rijkajn dagáduvvá. Ráddidusá åvdåsstiddje li dan åvddåla konvensjåvnåv vuollájtjállám. Vuollájtjállem máhttá diededibmen vuojneduvvat ja märkka guosskevasj rijka sierra konvensjåvnå nanustahttemav gárvet. Ajggeguovddel nanustahttemlista vuosedi makkir konvensjåvnåjt umasse rijka li nanustahttám jali säbrram. Ássjearkijvan gávnnuji diededibme birra makkir konvensjåvnåjt Svierik le nanustahttám, </p>
+</body></document>

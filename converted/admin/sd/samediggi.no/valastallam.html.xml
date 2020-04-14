@@ -1,56 +1,18 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>195</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Kultuvrraiellem/Valastallam</origFileName>
-    <parallel_text xml:lang="nob" location="idrett.html"/>
-    <parallel_text xml:lang="sma" location="gaarsjelimmie.html"/>
-    <parallel_text xml:lang="sme" location="falastallan.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Valástallam / Kultuvrraiellem / Sámedigge - Sametinget</p>
-    <p type="title">Valástallam</p>
-    <p>Valástallamin la guovdásjsadje sáme sebrudagán. Histåvrålattjat la rubbmelasj labudibme årrum luondulasj sáme kultuvran. Maŋenagi gå dárbo li rievddam la ållo dajs labudimijs målssum vuogijt ja sisanov, ja årru degu dálla vuodon valástallamij ja labudibmáj juogu dal alla valástallam dásen jali másjkudallam dásen.</p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="nob">Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="sme">Gáisi</p>
-    <p>
-      <em type="bold">Sámedigge barggá dán åvdås: </em>
-    </p>
-    <list>
-      <p type="listitem">Vaj sáme valástallamsiebre galggi máhttet ásadit ja gárvedit valástallam ja rubbmelasj labudimev gájkajda, ja dan baktu ássat arenajt ma li identitehta doarjo sierraláhkáj mánájda ja nuorajda.</p>
-      <p type="listitem">Vaj sáme nuora galggi máhttet oassálasstet valástallam dåjmajs aktan ietjá nuoraj ietjá rijkajs ja guovlojs, ja dan láhkáj nannit gullevasjvuodav ietjá imeálmmugij ja arktalasj almasjjuohkusij.</p>
-      <p type="listitem">Vaj sáme valástallam galggá oadtjot stuoráp oasev Stáhta spellamrudájs.</p>
-    </list>
-    <p>
-      <em type="bold">Ekonomalasj vájkkudimnævo </em>
-    </p>
-    <p>Sámedikke vájkkudimnævoj ulmme valástallamin le moattebelak valástallamdåjma. Oasseulmme le vijdes ja buorre valástallamfálaldagá sáme álmmugij.</p>
-    <p>Sámedigge rudájt juollot njuolgga dá guovte tjuovvovasj organisasjåvnåjda ma organiseriji sáme valástallamdåjmajt: Sámij Valástallamlihtto-Vuodna/Samenes idrettsforbund-Norge (SVL-V) ja Sámij Hierggevuoddjemlihtto/Saami Reindeer-Race Federation (SHL).</p>
-    <p>Duodden doarjot Sámedigge sáme nuoraj oassálasstemav sihke valástallam- ja kulturoasen ARCTIC Winter Gamesan (AWG).</p>
-    <p>Juollodime njuolgga valástallamij galggi oassálasstet vaj sáme valástallamlihto máhtti åvddånahttet valástallamfálaldagáv sahte- ja oajvemus dásen.</p>
-    <p>
-      <span type="quote">Histåvrålattjat la rubbmelasj labudibme årrum luondulasj sáme kultuvran. </span>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>195</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Kultuvrraiellem/Valastallam</origFileName><parallel_text xml:lang="nob" location="idrett.html"/><parallel_text xml:lang="sma" location="gaarsjelimmie.html"/><parallel_text xml:lang="sme" location="falastallan.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Valástallam / Kultuvrraiellem / Sámedigge - Sametinget</p>
+<p type="title">Valástallam</p>
+<p>Valástallamin la guovdásjsadje sáme sebrudagán. Histåvrålattjat la rubbmelasj labudibme årrum luondulasj sáme kultuvran. Maŋenagi gå dárbo li rievddam la ållo dajs labudimijs målssum vuogijt ja sisanov, ja årru degu dálla vuodon valástallamij ja labudibmáj juogu dal alla valástallam dásen jali másjkudallam dásen.</p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="nob">Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="sme">Gáisi</p>
+<p><em type="bold">Sámedigge barggá dán åvdås: </em></p>
+<list><p type="listitem">Vaj sáme valástallamsiebre galggi máhttet ásadit ja gárvedit valástallam ja rubbmelasj labudimev gájkajda, ja dan baktu ássat arenajt ma li identitehta doarjo sierraláhkáj mánájda ja nuorajda.</p>
+<p type="listitem">Vaj sáme nuora galggi máhttet oassálasstet valástallam dåjmajs aktan ietjá nuoraj ietjá rijkajs ja guovlojs, ja dan láhkáj nannit gullevasjvuodav ietjá imeálmmugij ja arktalasj almasjjuohkusij.</p>
+<p type="listitem">Vaj sáme valástallam galggá oadtjot stuoráp oasev Stáhta spellamrudájs.</p>
+</list><p><em type="bold">Ekonomalasj vájkkudimnævo </em></p>
+<p>Sámedikke vájkkudimnævoj ulmme valástallamin le moattebelak valástallamdåjma. Oasseulmme le vijdes ja buorre valástallamfálaldagá sáme álmmugij.</p>
+<p>Sámedigge rudájt juollot njuolgga dá guovte tjuovvovasj organisasjåvnåjda ma organiseriji sáme valástallamdåjmajt: Sámij Valástallamlihtto-Vuodna/Samenes idrettsforbund-Norge (SVL-V) ja Sámij Hierggevuoddjemlihtto/Saami Reindeer-Race Federation (SHL).</p>
+<p>Duodden doarjot Sámedigge sáme nuoraj oassálasstemav sihke valástallam- ja kulturoasen ARCTIC Winter Gamesan (AWG).</p>
+<p>Juollodime njuolgga valástallamij galggi oassálasstet vaj sáme valástallamlihto máhtti åvddånahttet valástallamfálaldagáv sahte- ja oajvemus dásen.</p>
+<p><span type="quote">Histåvrålattjat la rubbmelasj labudibme årrum luondulasj sáme kultuvran. </span></p>
+</body></document>

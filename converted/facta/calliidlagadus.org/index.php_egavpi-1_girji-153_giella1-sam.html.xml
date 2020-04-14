@@ -1,60 +1,28 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Sárá Biejvvegirjje</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>160</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.calliidlagadus.org/web/index.php?egavpi=1&amp;girji=153&amp;giella1=sam</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="sme">ČálliidLágádusa birra</p>
-    <p xml:lang="sme">CL-Sámi academica</p>
-    <p xml:lang="sme">Oktavuohta</p>
-    <p xml:lang="sme">
-      <em type="bold">Gálvoseahkka </em>
-    </p>
-    <p xml:lang="sme">Gálvoseahkka lea guorus</p>
-    <p xml:lang="sme">
-      <em type="bold">Ođasreive </em>
-    </p>
-    <p xml:lang="sme">Registrere epoastačujuhusa vuostáiváldit ođasreivve ČálliidLágádusas</p>
-    <p xml:lang="fkv">Tweet</p>
-    <p xml:lang="sme">
-      <em type="bold">Sárá Biejvvegirjje </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="bold">Siri Broch Johansen </em>
-    </p>
-    <p>
-      <em type="bold">Julevsámegillii </em>
-    </p>
-    <p>Áhttje l giehttum niejddasis Sáráj vuoras ádjá birra, gut årru  Lárásbáktetuneallan.</p>
-    <p>11 jagák Sárá oadtju sierra aktavuodav bákte årrujn, Bákte-  Lárásijn, guti dålen nuorra bárnen ihttudaláj ganijväráldij.</p>
-    <p>Sárá Biejvvegirjje l mánájd- ja nuorajdromána, gånna besá  tjuovvot Sárá vásádusájt ja geldulasj dáhpádusájt.  Sárá sjaddá tjervas vájvven go áhttjes radjá suv buoremus  ráddna, Násti gusáv, njuovvadahkij. Dasi Sárá gávnná  jaskavuodav, ja niegonis tjoavddusijt vuojnná.</p>
-    <p>Girjje l Siri Broch Johansen vuostasj mánájd- ja  nuorajdromána. Johansen la åvddål almmudam divtajt  ja novellajt avijsajn ja antologidjan, ja teahterbinnajt ja  oahppogirjijt tjállám.</p>
-    <p>Romána máhttá aj gulldalit jiednagirjjen. Siiddut: 83</p>
-    <p xml:lang="sms">ISBN: 978-82-92044-85-8</p>
-    <p xml:lang="nob">NOK</p>
-    <p xml:lang="koi">225,-</p>
-    <p xml:lang="sme">Čáppagirjjálašvuohta</p>
-    <p xml:lang="koi">-&gt;</p>
-    <p xml:lang="sme">Mánáide ja nuoraide</p>
-    <p xml:lang="sme">Gii lea váldán guovssahasa</p>
-    <p xml:lang="isl">Milli já Polfe Riäskápiivdost Milli da Bolfi Reeppaid šee´llmen Милли я Больфи Mе̄хьцтэв рыпп э</p>
-    <p xml:lang="nob">Jakten på Nordlyset</p>
-    <p xml:lang="sme">Mun lean čuoigi - Jietnagirji (CD)</p>
-    <p xml:lang="sme">Čáppa dego easkka láddan luomi - Jietnagirji (CD)</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Sárá Biejvvegirjje</title><genre code="facta"/><author><unknown/></author><wordcount>160</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.calliidlagadus.org/web/index.php?egavpi=1&amp;girji=153&amp;giella1=sam</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="sme">ČálliidLágádusa birra</p>
+<p xml:lang="sme">CL-Sámi academica</p>
+<p xml:lang="sme">Oktavuohta</p>
+<p xml:lang="sme"><em type="bold">Gálvoseahkka </em></p>
+<p xml:lang="sme">Gálvoseahkka lea guorus</p>
+<p xml:lang="sme"><em type="bold">Ođasreive </em></p>
+<p xml:lang="sme">Registrere epoastačujuhusa vuostáiváldit ođasreivve ČálliidLágádusas</p>
+<p xml:lang="fkv">Tweet</p>
+<p xml:lang="sme"><em type="bold">Sárá Biejvvegirjje </em></p>
+<p xml:lang="nob"><em type="bold">Siri Broch Johansen </em></p>
+<p><em type="bold">Julevsámegillii </em></p>
+<p>Áhttje l giehttum niejddasis Sáráj vuoras ádjá birra, gut årru  Lárásbáktetuneallan.</p>
+<p>11 jagák Sárá oadtju sierra aktavuodav bákte årrujn, Bákte-  Lárásijn, guti dålen nuorra bárnen ihttudaláj ganijväráldij.</p>
+<p>Sárá Biejvvegirjje l mánájd- ja nuorajdromána, gånna besá  tjuovvot Sárá vásádusájt ja geldulasj dáhpádusájt.  Sárá sjaddá tjervas vájvven go áhttjes radjá suv buoremus  ráddna, Násti gusáv, njuovvadahkij. Dasi Sárá gávnná  jaskavuodav, ja niegonis tjoavddusijt vuojnná.</p>
+<p>Girjje l Siri Broch Johansen vuostasj mánájd- ja  nuorajdromána. Johansen la åvddål almmudam divtajt  ja novellajt avijsajn ja antologidjan, ja teahterbinnajt ja  oahppogirjijt tjállám.</p>
+<p>Romána máhttá aj gulldalit jiednagirjjen. Siiddut: 83</p>
+<p xml:lang="sms">ISBN: 978-82-92044-85-8</p>
+<p xml:lang="nob">NOK</p>
+<p xml:lang="vep">225,-</p>
+<p xml:lang="sme">Čáppagirjjálašvuohta</p>
+<p xml:lang="vep">-&gt;</p>
+<p xml:lang="sme">Mánáide ja nuoraide</p>
+<p xml:lang="sme">Gii lea váldán guovssahasa</p>
+<p xml:lang="isl">Milli já Polfe Riäskápiivdost Milli da Bolfi Reeppaid šee´llmen Милли я Больфи Mе̄хьцтэв рыпп э</p>
+<p xml:lang="nob">Jakten på Nordlyset</p>
+<p xml:lang="sme">Mun lean čuoigi - Jietnagirji (CD)</p>
+<p xml:lang="sme">Čáppa dego easkka láddan luomi - Jietnagirji (CD)</p>
+</body></document>

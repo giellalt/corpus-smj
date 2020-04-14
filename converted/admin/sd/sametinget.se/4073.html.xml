@@ -1,34 +1,7 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>47</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/4073</origFileName>
-    <parallel_text xml:lang="sme" location="3080.html"/>
-    <parallel_text xml:lang="swe" location="1134.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tjielde - Sametinget</p>
-    <p>Govva: Marie Enoksson.</p>
-    <p type="title">Tjielde</p>
-    <p>Aktavuohtadiedo tjieldijda dánna gávnnuji. Vállji lenav rievtesrájagin.</p>
-    <p>Tjielde</p>
-    <p>Svierigin gávnnuji 51 tjielde (geográfalasj guovlo ja ekonomalasj siebre). Guovlo gåbttji Svieriga vijddudagás vargga 40 prosännta. Tjieldijs 33 li várretjielde, 10 li vuovddetjielde ja gáktsa li konsesjåvnnåtjielde gånnå ällosujtto sierra låbijn dåjmaduvvá.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>47</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/4073</origFileName><parallel_text xml:lang="sme" location="3080.html"/><parallel_text xml:lang="swe" location="1134.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tjielde - Sametinget</p>
+<p>Govva: Marie Enoksson.</p>
+<p type="title">Tjielde</p>
+<p>Aktavuohtadiedo tjieldijda dánna gávnnuji. Vállji lenav rievtesrájagin.</p>
+<p>Tjielde</p>
+<p>Svierigin gávnnuji 51 tjielde (geográfalasj guovlo ja ekonomalasj siebre). Guovlo gåbttji Svieriga vijddudagás vargga 40 prosännta. Tjieldijs 33 li várretjielde, 10 li vuovddetjielde ja gáktsa li konsesjåvnnåtjielde gånnå ällosujtto sierra låbijn dåjmaduvvá.</p>
+</body></document>

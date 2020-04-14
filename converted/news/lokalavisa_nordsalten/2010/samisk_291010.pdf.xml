@@ -1,46 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Måske-vedja åvddåpros buorre jådon</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Ingrid" lastname="Kintel" sex="f" born="1988" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>262</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/samisk_291010.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty Skapalen</p>
-    <p>Jårggålibme: Divte Media AS/Ingrid Kintel</p>
-    <p>ja regulerimplána bargo gáktuj. - Navti oadtjop aj jáhkedahtte båhtusav mij guosská gåggu væddja galggá aktan jalástimij, devdadisáj ja massebálánsajn. Nágin vahko dássta åvddåla lij Salten kartdata guovlov gehtjadime helikopterijn, javllá Nergård. Måskevedja barggojuogos dat le guhti le Divtasvuona suohkanij vaddám åvdåsvásstádusáv åvddåprosjevtav tjadádit. Juollodime li aj suohkanij vattedum, guhti le ietjas tjadnam åvddåprosjevtav tjadádit.</p>
-    <p><em type="bold">Aktan tjanádum</em> <em type="bold">jåhtelisvantsa dåjmajn</em> </p>
-    <p>MuskenSenter AS le åvddåla guoradallam vedjav Måsskåj. Pládnaguovllo le E6 rájes Sagpollenis, Tjáhppisjávre oarjjeallebielen gitta Måsskåj ja prosjekta le Divtasvuona suohkanis giehtadaláduvvam. MuskenSenter AS milta le prosjekta dal sjávvunam danen gå boadosguoradallam gájbbeduvvá. Ássjepáhppárijn tjuodtju fylkkasuohkan le miedek mij guosská prosjevtav ruhtadit udnásj jåhtelisvanntsadoajmmarudáj. Háldadusoajvve vuoset prosjekta galgaj ruhtadaláduvvat Måske æládusprosjekta baktu, gånnå elfábmobiggim ja viejekbuvtadibme lij guovdátjin. Háldadusoajvve Konrad Sætra le buorremielak prosjevta åvddånime hárráj dán rádjáj ja vuoset aktisasjbarggosjiehtadussaj barggojuohkusijn, ålgoldis væhkkáj ja ålgoldis ruhtadibmáj. Vijdábut dættot Sætra prosjekta le buoragit sajáduvvam Måske årroj gaskan ja prosjekta doarjoduvvá almulasj ásadusájs ja priváhta viddnudagájs.</p>
-    <p>Måskevedja åvddåprosjekta le vuodon gå galggá mierredit jus prosjekta le tjadádahtte teknihkalasj tjoavddusij ja merustaládum gållodásijn aktan tjuovvovasj ruhtadimmodellaj gáktuj. Dan mannela hæhttu mierreduvvat galggá gus boadosguoradallamav tjadádit mij ierit ietján tjielggá gåktu birás, luonndoboanndudagá ja sebrudahka rievddá. Jus åvddåprosjekta boados sjaddá væddjatjanástahka Måsskåj le vejulasj de suohkan åvddånimplánav jåhtuj biedjá mij sisadná boadosguoradallamav ja regulerimplánav aktan barggat dan vuoksjuj jut prosjekta økonomalattjat vuoroduvvá ja vuojnnusij boahtá fylkkasuohka plánajn.</p>
-    <p>j j</p>
-    <p xml:lang="nob"><em type="italic">Guovlov kárttimin. Salten Kartdata le guovlov mihttim ja Sweco Norge le oadtjum bargov Kartlegger området. Salten Kartdata har foretatt målinger i området og det er Sweco Norge</em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Måske-vedja åvddåpros buorre jådon</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><person firstname="Ingrid" lastname="Kintel" sex="f" born="1988" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2010</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>262</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/admin/tinymce/jscripts/tiny_mce/plugins/filemanager/files/client_113/samisk/samisk_291010.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty Skapalen</p>
+<p>Jårggålibme: Divte Media AS/Ingrid Kintel</p>
+<p>ja regulerimplána bargo gáktuj. - Navti oadtjop aj jáhkedahtte båhtusav mij guosská gåggu væddja galggá aktan jalástimij, devdadisáj ja massebálánsajn. Nágin vahko dássta åvddåla lij Salten kartdata guovlov gehtjadime helikopterijn, javllá Nergård. Måskevedja barggojuogos dat le guhti le Divtasvuona suohkanij vaddám åvdåsvásstádusáv åvddåprosjevtav tjadádit. Juollodime li aj suohkanij vattedum, guhti le ietjas tjadnam åvddåprosjevtav tjadádit.</p>
+<p><em type="bold">Aktan tjanádum</em> <em type="bold">jåhtelisvantsa dåjmajn</em> </p>
+<p>MuskenSenter AS le åvddåla guoradallam vedjav Måsskåj. Pládnaguovllo le E6 rájes Sagpollenis, Tjáhppisjávre oarjjeallebielen gitta Måsskåj ja prosjekta le Divtasvuona suohkanis giehtadaláduvvam. MuskenSenter AS milta le prosjekta dal sjávvunam danen gå boadosguoradallam gájbbeduvvá. Ássjepáhppárijn tjuodtju fylkkasuohkan le miedek mij guosská prosjevtav ruhtadit udnásj jåhtelisvanntsadoajmmarudáj. Háldadusoajvve vuoset prosjekta galgaj ruhtadaláduvvat Måske æládusprosjekta baktu, gånnå elfábmobiggim ja viejekbuvtadibme lij guovdátjin. Háldadusoajvve Konrad Sætra le buorremielak prosjevta åvddånime hárráj dán rádjáj ja vuoset aktisasjbarggosjiehtadussaj barggojuohkusijn, ålgoldis væhkkáj ja ålgoldis ruhtadibmáj. Vijdábut dættot Sætra prosjekta le buoragit sajáduvvam Måske årroj gaskan ja prosjekta doarjoduvvá almulasj ásadusájs ja priváhta viddnudagájs.</p>
+<p>Måskevedja åvddåprosjekta le vuodon gå galggá mierredit jus prosjekta le tjadádahtte teknihkalasj tjoavddusij ja merustaládum gållodásijn aktan tjuovvovasj ruhtadimmodellaj gáktuj. Dan mannela hæhttu mierreduvvat galggá gus boadosguoradallamav tjadádit mij ierit ietján tjielggá gåktu birás, luonndoboanndudagá ja sebrudahka rievddá. Jus åvddåprosjekta boados sjaddá væddjatjanástahka Måsskåj le vejulasj de suohkan åvddånimplánav jåhtuj biedjá mij sisadná boadosguoradallamav ja regulerimplánav aktan barggat dan vuoksjuj jut prosjekta økonomalattjat vuoroduvvá ja vuojnnusij boahtá fylkkasuohka plánajn.</p>
+<p>j j</p>
+<p xml:lang="nob"><em type="italic">Guovlov kárttimin. Salten Kartdata le guovlov mihttim ja Sweco Norge le oadtjum bargov Kartlegger området. Salten Kartdata har foretatt målinger i området og det er Sweco Norge</em> </p>
+</body></document>

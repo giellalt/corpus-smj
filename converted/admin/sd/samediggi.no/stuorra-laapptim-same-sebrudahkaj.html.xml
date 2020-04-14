@@ -1,38 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>– Stuorra låpptim sáme sebrudahkaj</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2018</year>
-    <wordcount>134</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/AAdaasa/Stuorra-laapptim-same-sebrudahkaj</origFileName>
-    <parallel_text xml:lang="nob" location="et-stort-loeft-for-det-samiske-samfunnet.html"/>
-    <parallel_text xml:lang="sma" location="stoerre-lutnjeme-saemien-siebriedahkese.html"/>
-    <parallel_text xml:lang="sme" location="sami-servodahkii-stuorra-avki.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">– Stuorra låpptim sáme sebrudahkaj</p>
-    <p>Sámedikkeráde Mikkel Eskil Mikkelsen ávvus gå ráddidusbelludagá ja RáB li guorrasam tjårggit skihppijsujttáråhpadusáv sámegiellaj, ja gå la juollodam rudájt 25 oahpposadjáj.</p>
-    <p>Sámedikkeráde Mikkel Eskil Mikkelsen la ihkeva ávon bargos mij la dagádum jåhtuj åttjudittjat sáme skihppijsujttáråhpav dálla vuojnnet båhtusijt buktá.</p>
-    <p>– Dát la stuorra låpptim sáme sebrudahkaj, javllá Mikkelsen.</p>
-    <p>Sáme skihppijsujttároahppo l aktisasjbarggo UiT Vuona arktalasj universitiehta ja Sáme allaskåvlå gaskan, ja masi li gárvedum 25 oasseájggeoahpposaje. Duodden oahpposajijda, ájggu ráddidusbelludagá ja Risstalasj álmmukbelludahka rudájt Sáme allaskåvllåj vaddet åhpav látjátjit. Tjoahkkáj la dát bájkoj 2 millijåvnå kråvnå jagen 2019.</p>
-    <p>Mikkelsen rámmpu Sáme allaskåvlåv ja UiT Vuona arktalasj universitiehtav gå aktisattjat vuorodi sáme skihppijsujttáråhpav.</p>
-    <p>– Dát la dagoj baktu vuosedit, sij sebrudakåvdåsvásstádusáv sáme sebrudagá gáktuj duodaj válldi, javllá Mikkelsen.</p>
-    <p>Ságastalátjit, guládalá sámedikkerádijn Mikkel Eskil Mikkelsenijn, mob. +47 917 42 161</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>– Stuorra låpptim sáme sebrudahkaj</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2018</year><wordcount>134</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/AAdaasa/Stuorra-laapptim-same-sebrudahkaj</origFileName><parallel_text xml:lang="nob" location="et-stort-loeft-for-det-samiske-samfunnet.html"/><parallel_text xml:lang="sma" location="stoerre-lutnjeme-saemien-siebriedahkese.html"/><parallel_text xml:lang="sme" location="sami-servodahkii-stuorra-avki.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">– Stuorra låpptim sáme sebrudahkaj</p>
+<p>Sámedikkeráde Mikkel Eskil Mikkelsen ávvus gå ráddidusbelludagá ja RáB li guorrasam tjårggit skihppijsujttáråhpadusáv sámegiellaj, ja gå la juollodam rudájt 25 oahpposadjáj.</p>
+<p>Sámedikkeráde Mikkel Eskil Mikkelsen la ihkeva ávon bargos mij la dagádum jåhtuj åttjudittjat sáme skihppijsujttáråhpav dálla vuojnnet båhtusijt buktá.</p>
+<p>– Dát la stuorra låpptim sáme sebrudahkaj, javllá Mikkelsen.</p>
+<p>Sáme skihppijsujttároahppo l aktisasjbarggo UiT Vuona arktalasj universitiehta ja Sáme allaskåvlå gaskan, ja masi li gárvedum 25 oasseájggeoahpposaje. Duodden oahpposajijda, ájggu ráddidusbelludagá ja Risstalasj álmmukbelludahka rudájt Sáme allaskåvllåj vaddet åhpav látjátjit. Tjoahkkáj la dát bájkoj 2 millijåvnå kråvnå jagen 2019.</p>
+<p>Mikkelsen rámmpu Sáme allaskåvlåv ja UiT Vuona arktalasj universitiehtav gå aktisattjat vuorodi sáme skihppijsujttáråhpav.</p>
+<p>– Dát la dagoj baktu vuosedit, sij sebrudakåvdåsvásstádusáv sáme sebrudagá gáktuj duodaj válldi, javllá Mikkelsen.</p>
+<p>Ságastalátjit, guládalá sámedikkerádijn Mikkel Eskil Mikkelsenijn, mob. +47 917 42 161</p>
+</body></document>

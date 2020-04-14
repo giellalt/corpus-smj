@@ -1,39 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>253</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/getfile.php/1471124.1172.eqfvbpxteq/Reglement+samisk.pdf</origFileName>
-    <parallel_text xml:lang="nob" location="reglement_for_elever_ved_tysfjord_kulturskole_av_01.03.10.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p><em type="bold">NJUOLGADUSÁ OAHPPIJDA DIVTASVUONA KULTURSKÅVLÅN.  </em>01.03.2010 rajes. </p>
-    <p>1. Sån guhti oahppen Divtasvuona  Kulturskåvllåj bæssá, bæssá liehket oahppen desik  10. klássajn vuodoskåvlån gærggá jali iesj gæssát . Sajev guoskevasj gájbbádusáj milta oattjo ja dav i doajmme semestera máhte gæssádit.   Hiejttem hæhttu tjálalattjat sierra sjiemán kulturskåvllåj rájaduvvat, vuollájtjáledum åvdåstiddjijs. Hiejttemsjiemáv  kulturskåvlås jali dievnastuskontåvrås oattjo</p>
-    <p>Oahppijmákso galggá akti fert bielle jagen åvddål gå semester álggá mávsoduvvat Oahppijmákso ij ruoptus mávseduvá  jus ij le guhka skihpudahka ( guhkep gå nielja vahko), jali  jåhtum suohkanis oarren. Jus  oahppijmákso ij le mávseduvvam 2 máno maŋŋel gå galgaj ja máksomaŋedimåhtsåmus ij le miededum, de åvdåstiddje  galggi tjálalasj diedov oadtjot ahte oahppe sajev bæsstá jus guovte vahko duogen e mávse.  2. Sæmmi tjála oahppe åhpadiddjáj rájaduvvá.</p>
-    <p>Oahppe gænna li máksobátso  åvdep jages e  sajev skåvllåj oattjo åvddål gå bátso li         mávsedum.</p>
-    <p>3. Oahppe galggi derdaj årrot ja gárvvidam ietjasa skåvllåtijmajda..             Skihpudahka jali ietjá  oarre gáhtomij galggá jus máhttelis diededuvvat åhpadiddjáj             nav ruvva gå máhttelis, jali tjálalattjat vuostasj biejve maŋŋela gáhtoma.  Oahppe e oattjo tijmajt majt li massám ruoptus</p>
-    <p>4. Jus nágin skåvlå tjuojanijs le bæjsstanam, de dat dála galggá skåvlå kåntåvråj diededuvvat. Jus slajesvuohta le sivvan gå tjuojajnis bæjsstanij de oahppe iesj hæhttu  divvomav mákset.</p>
-    <p>5. Jus oahppe aktis nubbi åhpadimes gáhto váni diededime dagi, jus  åhpadimev ij berusta jali jus jæhkogisvuohta le sivvan, de máhttá Divtasvuona kulturskåvllå, rektora/ fáhkajådediddje baktu, oahppev åhpadimes ålgodit.</p>
-    <p xml:lang="nob">
-      <em type="bold">Máksomiere: </em>
-    </p>
-    <p><em type="bold">Divna fálaldagá:</em> kr 860,-/semester <em type="bold">Juogos:              </em> kr 635,-/semester (Dánnsa, Duodje, Bánnda) <em type="bold">Mákso 2. oarbben :</em> kr 645/semester <em type="bold">Mákso  3. oarbben jnv:</em> kr 430,-/semester <em type="bold">2. mákso fálaldahka </em> kr 645,-/semester </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>253</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/getfile.php/1471124.1172.eqfvbpxteq/Reglement+samisk.pdf</origFileName><parallel_text xml:lang="nob" location="reglement_for_elever_ved_tysfjord_kulturskole_av_01.03.10.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">NJUOLGADUSÁ OAHPPIJDA DIVTASVUONA KULTURSKÅVLÅN.  </em>01.03.2010 rajes. </p>
+<p>1. Sån guhti oahppen Divtasvuona  Kulturskåvllåj bæssá, bæssá liehket oahppen desik  10. klássajn vuodoskåvlån gærggá jali iesj gæssát . Sajev guoskevasj gájbbádusáj milta oattjo ja dav i doajmme semestera máhte gæssádit.   Hiejttem hæhttu tjálalattjat sierra sjiemán kulturskåvllåj rájaduvvat, vuollájtjáledum åvdåstiddjijs. Hiejttemsjiemáv  kulturskåvlås jali dievnastuskontåvrås oattjo</p>
+<p>Oahppijmákso galggá akti fert bielle jagen åvddål gå semester álggá mávsoduvvat Oahppijmákso ij ruoptus mávseduvá  jus ij le guhka skihpudahka ( guhkep gå nielja vahko), jali  jåhtum suohkanis oarren. Jus  oahppijmákso ij le mávseduvvam 2 máno maŋŋel gå galgaj ja máksomaŋedimåhtsåmus ij le miededum, de åvdåstiddje  galggi tjálalasj diedov oadtjot ahte oahppe sajev bæsstá jus guovte vahko duogen e mávse.  2. Sæmmi tjála oahppe åhpadiddjáj rájaduvvá.</p>
+<p>Oahppe gænna li máksobátso  åvdep jages e  sajev skåvllåj oattjo åvddål gå bátso li         mávsedum.</p>
+<p>3. Oahppe galggi derdaj årrot ja gárvvidam ietjasa skåvllåtijmajda..             Skihpudahka jali ietjá  oarre gáhtomij galggá jus máhttelis diededuvvat åhpadiddjáj             nav ruvva gå máhttelis, jali tjálalattjat vuostasj biejve maŋŋela gáhtoma.  Oahppe e oattjo tijmajt majt li massám ruoptus</p>
+<p>4. Jus nágin skåvlå tjuojanijs le bæjsstanam, de dat dála galggá skåvlå kåntåvråj diededuvvat. Jus slajesvuohta le sivvan gå tjuojajnis bæjsstanij de oahppe iesj hæhttu  divvomav mákset.</p>
+<p>5. Jus oahppe aktis nubbi åhpadimes gáhto váni diededime dagi, jus  åhpadimev ij berusta jali jus jæhkogisvuohta le sivvan, de máhttá Divtasvuona kulturskåvllå, rektora/ fáhkajådediddje baktu, oahppev åhpadimes ålgodit.</p>
+<p xml:lang="nob"><em type="bold">Máksomiere: </em></p>
+<p><em type="bold">Divna fálaldagá:</em> kr 860,-/semester <em type="bold">Juogos:              </em> kr 635,-/semester (Dánnsa, Duodje, Bánnda) <em type="bold">Mákso 2. oarbben :</em> kr 645/semester <em type="bold">Mákso  3. oarbben jnv:</em> kr 430,-/semester <em type="bold">2. mákso fálaldahka </em> kr 645,-/semester </p>
+</body></document>

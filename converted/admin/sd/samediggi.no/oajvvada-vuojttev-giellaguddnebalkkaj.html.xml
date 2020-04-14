@@ -1,41 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>96</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Oajvvada-vuojttev-giellaguddnebalkkaj</origFileName>
-    <parallel_text xml:lang="nob" location="foreslaa-vinner-av-spraakprisen.html"/>
-    <parallel_text xml:lang="sma" location="moenh-gielesjielen-vitnijem.html"/>
-    <parallel_text xml:lang="sme" location="arval-giellabalkkasumi-vuoiti.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Oajvvada vuojttev giellaguddnebálkkáj / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
-    <p type="title">Oajvvada vuojttev giellaguddnebálkkáj</p>
-    <p xml:lang="sme">28. goeve 2012</p>
-    <p>Guhtimusj bierri vuojttet Sámedikke giellaarvusmahttembálkkáv? Juohkka nælját jage juogat Sámedigge bálkkáv ulmutjij jali viddnudahkaj, prosjæktaj jali organisasjåvnnåj gut la vissjalit barggam sámegielajn mij gullu giellanannimij, åvddånibmáj jali bisodibmáj.</p>
-    <p>Bálkká ij juogeduvá Sámedikke ájrrasijda jali háldadussaj. Bálkkán juogeduvvá 50.000 kråvnå ja duodden dájddadiploma.</p>
-    <p>
-      <em type="bold">Gájkka bessi májnodit gut viertti oadtjot giellaarvusmahttembálkkáv. Tjielggi ånigattjat ietjat oajvvadusá birra ja sáddi Sámedikke åssudahkaj åvddål sjnjuktjamáno 15.bve. </em>
-    </p>
-    <p>Sámediggeráde mierret gut galggá bálkkáv oadtjot. Giellaguddnebálkká juogeduvvá Sámedikke ållestjåhkanime aktijvuodan, biehtsemáno.</p>
-    <p xml:lang="sme">samediggi@samediggi.no</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>96</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Oajvvada-vuojttev-giellaguddnebalkkaj</origFileName><parallel_text xml:lang="nob" location="foreslaa-vinner-av-spraakprisen.html"/><parallel_text xml:lang="sma" location="moenh-gielesjielen-vitnijem.html"/><parallel_text xml:lang="sme" location="arval-giellabalkkasumi-vuoiti.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Oajvvada vuojttev giellaguddnebálkkáj / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
+<p type="title">Oajvvada vuojttev giellaguddnebálkkáj</p>
+<p xml:lang="sme">28. goeve 2012</p>
+<p>Guhtimusj bierri vuojttet Sámedikke giellaarvusmahttembálkkáv? Juohkka nælját jage juogat Sámedigge bálkkáv ulmutjij jali viddnudahkaj, prosjæktaj jali organisasjåvnnåj gut la vissjalit barggam sámegielajn mij gullu giellanannimij, åvddånibmáj jali bisodibmáj.</p>
+<p>Bálkká ij juogeduvá Sámedikke ájrrasijda jali háldadussaj. Bálkkán juogeduvvá 50.000 kråvnå ja duodden dájddadiploma.</p>
+<p><em type="bold">Gájkka bessi májnodit gut viertti oadtjot giellaarvusmahttembálkkáv. Tjielggi ånigattjat ietjat oajvvadusá birra ja sáddi Sámedikke åssudahkaj åvddål sjnjuktjamáno 15.bve. </em></p>
+<p>Sámediggeráde mierret gut galggá bálkkáv oadtjot. Giellaguddnebálkká juogeduvvá Sámedikke ållestjåhkanime aktijvuodan, biehtsemáno.</p>
+<p xml:lang="sme">samediggi@samediggi.no</p>
+</body></document>

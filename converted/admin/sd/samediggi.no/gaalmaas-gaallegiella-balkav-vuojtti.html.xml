@@ -1,57 +1,19 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>288</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Giella/Diedo-samegielaj-birra/Gaalmaas-Gaallegiella-balkav-vuojtti</origFileName>
-    <parallel_text xml:lang="nob" location="tre-vinnere-av-gollegiella-prisen.html"/>
-    <parallel_text xml:lang="sma" location="golme-vitnijh-gulliegielebaalhkeste.html"/>
-    <parallel_text xml:lang="sme" location="golbma-gollegiellabalkkasumi-vuoiti.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Gålmås Gållegiella bálkáv vuojtti / Diedo sámegielaj birra / Giella / Sámedigge - Sametinget</p>
-    <p type="title">Gålmås Gållegiella bálkáv vuojtti</p>
-    <p xml:lang="sme">21. rahka 2014</p>
-    <p>Sámegielåhpadiddje ja dutke Mikael Svonni, tjálle Kerttu Vuolab ja lullesámegiela åhpadiddje Seija Sivertsen oadtju dán jagásj giellabálkáv Gållegiella.</p>
-    <p>Sámedikke presidænnta Aili Keskitalo ja Suohkan- ja ådåstuhttemminisstar Jan Tore Sanner sávvaba vuojttijda edna vuorbev bálkájn.</p>
-    <p>
-      <em type="bold">-Dán jagásj gålmmå Gållegiella vuojtte li viehkedam ja ájn viehkedi sámegielav nannit. Iesjgeŋga láhkáj li sámegielav åvdedam. Sij li buorre åvddågåvå gájkajda gudi sámegielas berustip, javllá suohkan- ja ådåstuhttemminisstar Jan Tore Sanner. </em>
-    </p>
-    <p>Giellabálkká le álgaduvvam Vuona, Svieriga ja Suoma minisstarijs gudi sáme ássjij åvdås vásstedi ja dáj lándaj sámedikkepresidentajs. Nuorttarijkaj Gållegiella-bálkká ulmme le sámegielav åvdedit, åvddånahttet ja bisodit Vuonan, Svierigin, Suoman ja Ruossjan. Bálkká juohkka nuppát jage vatteduvvá ja vuostasj bále jagen 2004. Bálkká stuorrudahka le 15 000 euro.</p>
-    <p>
-      <em type="bold">-Sámegiela li dætto vuolen dáj lándaj oajvvegielajs. Sámegiela boahtteájgge le dan duogen jut giella aneduvvá ja vuojnnu nuorttarijkajn, ja danen le nuorttarijkaj giellaaktisasjbarggo ájnas gå galggá sámegielav boahtteájggáj sihkarasstet. Giellabálkká Gållegiella galggá viehkken sámegiela stáhtusav låpptit, ja sávvap vuojtte ietjasa ájnas bargojt joarkki, javllá Sámedikke presidænnta Aili Keskitalo. </em>
-    </p>
-    <p>Pekka Sammallahti le Gållegiela nammadusá åvddåulmusj.</p>
-    <p>
-      <em type="bold">Nammadus tjielggidusánis tjállá ierit ietján: </em>
-    </p>
-    <p>Mikael Svonni bálkáv oadtju suv guhkesájggásasj bargo åvdås nuorttasámegielajn svieriga bielen. Svonni le nuorttasámegielav moatte láhkáj åvdedam, ja suv giellabarggo le læhkám viehka ájnas nuorttasámegiela åvddånahttemij Svierigin.</p>
-    <p>Kerttu Vuolab bálkáv oadtju suv guhkesájggásasj bargo åvdås nuorttasámegiela tjáppagirjálasjvuodajn. Nammadusá mielas Vuolab sierraláhkáj ánssit bálkáv danen gå le valjes báhkoboanndudagáv bisodam ja åvddånahttám nuorttasámegielan.</p>
-    <p>Seija Sivertsen oadtju Gållegiella-bálkáv danen gå iellemájge miehtáj le lullesáme gielav, kultuvrav ja sebrudagáv åvdedam.</p>
-    <p>Gållegiella juollodibme tjadáduvvá nuorttarijkaj minisstarij ja sámedikkepresidentaj tjåhkanimen Helssegin bierjjedagá 21.11.14</p>
-    <p>
-      <em type="bold">Ienep diedo: </em>
-    </p>
-    <p>Sámedikke presidænnta Aili Keskitalo, + 47 971 29 305</p>
-    <p xml:lang="nob">Juryens begrunnelse på svensk.pdf</p>
-    <p xml:lang="nob">340,40 kB</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>288</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Giella/Diedo-samegielaj-birra/Gaalmaas-Gaallegiella-balkav-vuojtti</origFileName><parallel_text xml:lang="nob" location="tre-vinnere-av-gollegiella-prisen.html"/><parallel_text xml:lang="sma" location="golme-vitnijh-gulliegielebaalhkeste.html"/><parallel_text xml:lang="sme" location="golbma-gollegiellabalkkasumi-vuoiti.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Gålmås Gållegiella bálkáv vuojtti / Diedo sámegielaj birra / Giella / Sámedigge - Sametinget</p>
+<p type="title">Gålmås Gållegiella bálkáv vuojtti</p>
+<p xml:lang="sme">21. rahka 2014</p>
+<p>Sámegielåhpadiddje ja dutke Mikael Svonni, tjálle Kerttu Vuolab ja lullesámegiela åhpadiddje Seija Sivertsen oadtju dán jagásj giellabálkáv Gållegiella.</p>
+<p>Sámedikke presidænnta Aili Keskitalo ja Suohkan- ja ådåstuhttemminisstar Jan Tore Sanner sávvaba vuojttijda edna vuorbev bálkájn.</p>
+<p><em type="bold">-Dán jagásj gålmmå Gållegiella vuojtte li viehkedam ja ájn viehkedi sámegielav nannit. Iesjgeŋga láhkáj li sámegielav åvdedam. Sij li buorre åvddågåvå gájkajda gudi sámegielas berustip, javllá suohkan- ja ådåstuhttemminisstar Jan Tore Sanner. </em></p>
+<p>Giellabálkká le álgaduvvam Vuona, Svieriga ja Suoma minisstarijs gudi sáme ássjij åvdås vásstedi ja dáj lándaj sámedikkepresidentajs. Nuorttarijkaj Gållegiella-bálkká ulmme le sámegielav åvdedit, åvddånahttet ja bisodit Vuonan, Svierigin, Suoman ja Ruossjan. Bálkká juohkka nuppát jage vatteduvvá ja vuostasj bále jagen 2004. Bálkká stuorrudahka le 15 000 euro.</p>
+<p><em type="bold">-Sámegiela li dætto vuolen dáj lándaj oajvvegielajs. Sámegiela boahtteájgge le dan duogen jut giella aneduvvá ja vuojnnu nuorttarijkajn, ja danen le nuorttarijkaj giellaaktisasjbarggo ájnas gå galggá sámegielav boahtteájggáj sihkarasstet. Giellabálkká Gållegiella galggá viehkken sámegiela stáhtusav låpptit, ja sávvap vuojtte ietjasa ájnas bargojt joarkki, javllá Sámedikke presidænnta Aili Keskitalo. </em></p>
+<p>Pekka Sammallahti le Gållegiela nammadusá åvddåulmusj.</p>
+<p><em type="bold">Nammadus tjielggidusánis tjállá ierit ietján: </em></p>
+<p>Mikael Svonni bálkáv oadtju suv guhkesájggásasj bargo åvdås nuorttasámegielajn svieriga bielen. Svonni le nuorttasámegielav moatte láhkáj åvdedam, ja suv giellabarggo le læhkám viehka ájnas nuorttasámegiela åvddånahttemij Svierigin.</p>
+<p>Kerttu Vuolab bálkáv oadtju suv guhkesájggásasj bargo åvdås nuorttasámegiela tjáppagirjálasjvuodajn. Nammadusá mielas Vuolab sierraláhkáj ánssit bálkáv danen gå le valjes báhkoboanndudagáv bisodam ja åvddånahttám nuorttasámegielan.</p>
+<p>Seija Sivertsen oadtju Gållegiella-bálkáv danen gå iellemájge miehtáj le lullesáme gielav, kultuvrav ja sebrudagáv åvdedam.</p>
+<p>Gållegiella juollodibme tjadáduvvá nuorttarijkaj minisstarij ja sámedikkepresidentaj tjåhkanimen Helssegin bierjjedagá 21.11.14</p>
+<p><em type="bold">Ienep diedo: </em></p>
+<p>Sámedikke presidænnta Aili Keskitalo, + 47 971 29 305</p>
+<p xml:lang="nob">Juryens begrunnelse på svensk.pdf</p>
+<p xml:lang="nob">340,40 kB</p>
+</body></document>

@@ -1,75 +1,24 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>RÁDNASTALLAM 2017/2018</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Ingrid" lastname="Kintel" sex="f" born="" nationality=""/>
-    </author>
-    <year>2017</year>
-    <wordcount>322</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://arran.no/dahpaduvva/?Article=160</origFileName>
-    <parallel_text xml:lang="nob" location="radnastallam_2017_2018.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Rádnastallam 2017/2018</p>
-    <p>G</p>
-    <p xml:lang="nob">K</p>
-    <p xml:lang="eng">I</p>
-    <p xml:lang="nob">Arran Live</p>
-    <p>j</p>
-    <p xml:lang="nob">k</p>
-    <p xml:lang="nob">i</p>
-    <p xml:lang="eng">o</p>
-    <p xml:lang="nob">e</p>
-    <p xml:lang="nob">l</p>
-    <p xml:lang="eng">h</p>
-    <p xml:lang="nob">m</p>
-    <list/>
-    <p xml:lang="nob">L</p>
-    <p type="title" xml:lang="nob">Ønsker du å motta nyhetsbrev fra Árran?</p>
-    <p xml:lang="nob">Registrer inn din epostadresse under. Du kan også kontakte oss pr epost: poassta@arran.no eller telefon +47 757 75 100</p>
-    <p xml:lang="eng">Email Address</p>
-    <p xml:lang="eng">w</p>
-    <p>&gt; Mij dáhpáduvvá?</p>
-    <p type="title">Rádnastallam 2017/2018</p>
-    <p>Joarkkep Rádnastallamijn majna lip árrabu vuorbástuvvám! Árran joarkká prosjevtajn Rádnasallam, ja aj dán jage fáladuvvá sierra giellaarena oahppijda 1. dáses 7. dássáj gejn la sámegiella vuostasjgiellan. Oahppe tjuovvu ietjasa klássajt.</p>
-    <p xml:lang="nob">13.11.2017</p>
-    <p xml:lang="nob">14:04</p>
-    <p xml:lang="nob">Ingrid Kintel</p>
-    <p>Giellaarena ulmme la mánájt sámástittjat oadtjot, gånnå mánná iesj áktijvalattjat vállji sámegielav guládallamgiellan. Giellaarenan li nuora gaskan 20-30 jage jådediddje. Dán prosjevtan la aj nubbe ulmme, máná galggi rádnastallat nuoraj gudi li sæmmi gielladilen dagu máná ietja, dán láhkáj de lulun nuora sjaddat gielalasj åvddågåvvån mánájda. Gå sámegielak nuora ja máná æjvvali rádnastallamij de doajvvop dát buktá gielalasj båhtusijt.</p>
-    <p>Galggap suohtas dåjmajt aktan tjadádit. Dajnas de ij la Rádnastallam degu dábálasj skåvllåsituasjåvnnå. Máná juo muhtem mærráj sámegielav máhtti, ja Rádnastallam sjaddá arena gånnå sámegielav bessi adnet. Dát la arena gånnå sámegielas le dárbbo, ja gånnå sámegiella la kul. Dát la ållu ietjá gå arenav majt máná juo skåvlås dåbddi. Rádnastallamin galggap suohtas dåjmajt aktan dahkat sámegielajn guládallamgiellan, dajnas li diedon dåjma guovdátjin. Galggap tjadádit dåjmajt ma mánáj mielas li suohttasa. Aktan mánáj gárvedip dåjmajt ja ståhkusijt báles bálláj. Juohkka vahko álgon sáddip sms æjgádijda diedoj dåjmaj birra.</p>
-    <p>Jus máná galggi sæbrrat rádnastallamij de vierttiji sámegielav ságastit, ælla dåssju nuora gudi galggi sámástit, máná vierttiji aj gaskanisá ja nuorajda sámástit. Jus máná mielas le vehik unugis sámástit de oadtju mánná huoman sæbrrat. Jus náginin la dárbbo dárustit de lip mierredam sierra bájkev gånnå la loahpe dárustit, dat gut sihtá dárustit oadtju de mannat dasi. Ietján galggá gájkka guládallam sámegiellaj doajmmat.</p>
-    <p>Ásaduvvá: Juohkka vahko kl 18.00-20.00.</p>
-    <p>
-      <em type="italic">Mánnodagá </em>
-    </p>
-    <p>
-      <em type="italic">Gasskavahko </em>
-    </p>
-    <p>
-      <em type="italic">Duorastagá </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="italic">1s-A (1.-2. kl) </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="italic">2s (5.-7.kl) </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="italic">1s-B (3.-4. kl) </em>
-    </p>
-    <p>Mánnodagá 20.11, gasskavahko 15.11 ja duorastagá 16.11 æjvvalip vuostasj bále dá tjavtja Árranin.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>RÁDNASTALLAM 2017/2018</title><genre code="facta"/><author><person firstname="Ingrid" lastname="Kintel" sex="f" born="" nationality=""/></author><year>2017</year><wordcount>309</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="nob"/><language xml:lang="eng"/></multilingual><origFileName>http://arran.no/dahpaduvva/?Article=160</origFileName><parallel_text xml:lang="nob" location="radnastallam_2017_2018.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Rádnastallam 2017/2018</p>
+<p xml:lang="nob">L</p>
+<p type="title" xml:lang="nob">Ønsker du å motta nyhetsbrev fra Árran?</p>
+<p xml:lang="nob">Registrer inn din epostadresse under. Du kan også kontakte oss pr epost: poassta@arran.no eller telefon +47 757 75 100</p>
+<p xml:lang="eng">Email Address</p>
+<p xml:lang="eng">w</p>
+<p>&gt; Mij dáhpáduvvá?</p>
+<p type="title">Rádnastallam 2017/2018</p>
+<p>Joarkkep Rádnastallamijn majna lip árrabu vuorbástuvvám! Árran joarkká prosjevtajn Rádnasallam, ja aj dán jage fáladuvvá sierra giellaarena oahppijda 1. dáses 7. dássáj gejn la sámegiella vuostasjgiellan. Oahppe tjuovvu ietjasa klássajt.</p>
+<p xml:lang="nob">13.11.2017</p>
+<p xml:lang="nob">14:04</p>
+<p xml:lang="nob">Ingrid Kintel</p>
+<p>Giellaarena ulmme la mánájt sámástittjat oadtjot, gånnå mánná iesj áktijvalattjat vállji sámegielav guládallamgiellan. Giellaarenan li nuora gaskan 20-30 jage jådediddje. Dán prosjevtan la aj nubbe ulmme, máná galggi rádnastallat nuoraj gudi li sæmmi gielladilen dagu máná ietja, dán láhkáj de lulun nuora sjaddat gielalasj åvddågåvvån mánájda. Gå sámegielak nuora ja máná æjvvali rádnastallamij de doajvvop dát buktá gielalasj båhtusijt.</p>
+<p>Galggap suohtas dåjmajt aktan tjadádit. Dajnas de ij la Rádnastallam degu dábálasj skåvllåsituasjåvnnå. Máná juo muhtem mærráj sámegielav máhtti, ja Rádnastallam sjaddá arena gånnå sámegielav bessi adnet. Dát la arena gånnå sámegielas le dárbbo, ja gånnå sámegiella la kul. Dát la ållu ietjá gå arenav majt máná juo skåvlås dåbddi. Rádnastallamin galggap suohtas dåjmajt aktan dahkat sámegielajn guládallamgiellan, dajnas li diedon dåjma guovdátjin. Galggap tjadádit dåjmajt ma mánáj mielas li suohttasa. Aktan mánáj gárvedip dåjmajt ja ståhkusijt báles bálláj. Juohkka vahko álgon sáddip sms æjgádijda diedoj dåjmaj birra.</p>
+<p>Jus máná galggi sæbrrat rádnastallamij de vierttiji sámegielav ságastit, ælla dåssju nuora gudi galggi sámástit, máná vierttiji aj gaskanisá ja nuorajda sámástit. Jus máná mielas le vehik unugis sámástit de oadtju mánná huoman sæbrrat. Jus náginin la dárbbo dárustit de lip mierredam sierra bájkev gånnå la loahpe dárustit, dat gut sihtá dárustit oadtju de mannat dasi. Ietján galggá gájkka guládallam sámegiellaj doajmmat.</p>
+<p>Ásaduvvá: Juohkka vahko kl 18.00-20.00.</p>
+<p><em type="italic">Mánnodagá </em></p>
+<p><em type="italic">Gasskavahko </em></p>
+<p><em type="italic">Duorastagá </em></p>
+<p xml:lang="nob"><em type="italic">1s-A (1.-2. kl) </em></p>
+<p xml:lang="nob"><em type="italic">2s (5.-7.kl) </em></p>
+<p xml:lang="nob"><em type="italic">1s-B (3.-4. kl) </em></p>
+<p>Mánnodagá 20.11, gasskavahko 15.11 ja duorastagá 16.11 æjvvalip vuostasj bále dá tjavtja Árranin.</p>
+</body></document>

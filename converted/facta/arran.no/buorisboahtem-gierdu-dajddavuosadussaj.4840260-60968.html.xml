@@ -1,46 +1,22 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>256</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/buorisboahtem-gierdu-dajddavuosadussaj.4840260-60968.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Buorisboahtem Gierdu dájddavuosádussaj - Árran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title">Buorisboahtem Gierdu dájddavuosádussaj</p>
-    <p>Vuosádusájgge: Basádismáno 15. biejves javllamáno 5. bæjvváj  2010</p>
-    <p>Vuosádusá rahpam le mánnodagá basádismáno 15. biejve  kl. 11.30</p>
-    <p> <em type="bold">GIERDU- æjvvuribme sáme dájddaværáldin le geldulasj vuosádus sáme dájdas ja hásstalusájs ja dágástimijs sáme dájddaværáldin.  </em><em type="bold"> </em></p>
-    <p>GIERDU vuosádusán le dájdda RiddoDuottarMuseajs – Sáme Dávvervuorkás, gånnå li nuorttarijkaj miellagiddimus tjoahkke sáme dájdas.</p>
-    <p>GIERDU (Gievlle-buojkuldahka) máhttá gåvvit aktijvuodav ja gievlev, juoga mij guovdásj symbovlla sáme kultuvran.</p>
-    <p>GIERDU jali GIEVLLE sáme dájddaværálda æjvvuribme, vuoset dájda åvddånahttemij ja moattegerdakvuohtaj. Vuosádusán le dájdda moaddásijs Nuorttarijkaj tjiehpemus dájddárijs: Lena Stenberg, Geir Tore Holm, Synnøve Persen, Daban Da (Asbjørn Forsøget og Gjert Rognli), Alf Salo, Annelise Josefsen, Outi Pieski, Ingunn Utsi, Monica L. Edmondson, Britta Marakatt-Labba, Marja Helander, Arnold Johansen, Jørn Magnus Langseth, Rose- Marie Huuva, Edil Sande, Andreas Sarri, Anna-Stina Svakko, Aslaug Juliussen, Folke Fjellström, Randi Marainen ja Bente Geving.</p>
-    <p>GIERDU le vuosádusturnéa masi fáladuvvá gaskostibme Kultuvralasj skåvllåvuossas (Den Kulturelle Skolesekken). Seminára ja diehtotjállaga fáladuvvi aj.</p>
-    <p>Gehtja næhttavuosádusáv www.gierdu.no. Præssagåvåjt máhtá dassta viedtjat.</p>
-    <p>GIERDU le hiebadum mannat Nuortta-Vuonav 2009-2011 jagijt. Vuosádusá buvtadiddje li SKINN, Se Kunst i Nord-Norge, Bodø ja RiddoDuottarMuseat – Sáme Vuorkkádávvera Kárášjågån.</p>
-    <p xml:lang="nob">Prosjækta le ruhtaduvvam dájs: FRITT ORD, Kulturkontakt Nord, Norsk Kulturråd, DKS Nordland, DKS Finnmark, Samisk Kulturfond og ABM-utvikling.</p>
-    <p xml:lang="sme">
-      <em type="bold">Pressavásstediddje: RiddoDuottarMuseat: Irene Snarby, Tlf. +47 78 46 99 57 / +47 995 85 100 SKINN: Pia Lidvall Tlf. +47 75 52 73 66 / +47 911 048 05    </em>
-    </p>
-    <p>Lågå ienebuv .</p>
-    <p xml:lang="nno">Skriv et innlegg</p>
-    <p xml:lang="eng">Posting</p>
-    <p xml:lang="kal">Navn: *</p>
-    <p xml:lang="eng">E-post:</p>
-    <p xml:lang="est">Tema: *</p>
-    <p xml:lang="nno">Melding: *</p>
-    <p xml:lang="nob">Fylles ikke ut om du er et menneske:</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>256</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/buorisboahtem-gierdu-dajddavuosadussaj.4840260-60968.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Buorisboahtem Gierdu dájddavuosádussaj - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title">Buorisboahtem Gierdu dájddavuosádussaj</p>
+<p>Vuosádusájgge: Basádismáno 15. biejves javllamáno 5. bæjvváj  2010</p>
+<p>Vuosádusá rahpam le mánnodagá basádismáno 15. biejve  kl. 11.30</p>
+<p> <em type="bold">GIERDU- æjvvuribme sáme dájddaværáldin le geldulasj vuosádus sáme dájdas ja hásstalusájs ja dágástimijs sáme dájddaværáldin.  </em><em type="bold"> </em></p>
+<p>GIERDU vuosádusán le dájdda RiddoDuottarMuseajs – Sáme Dávvervuorkás, gånnå li nuorttarijkaj miellagiddimus tjoahkke sáme dájdas.</p>
+<p>GIERDU (Gievlle-buojkuldahka) máhttá gåvvit aktijvuodav ja gievlev, juoga mij guovdásj symbovlla sáme kultuvran.</p>
+<p>GIERDU jali GIEVLLE sáme dájddaværálda æjvvuribme, vuoset dájda åvddånahttemij ja moattegerdakvuohtaj. Vuosádusán le dájdda moaddásijs Nuorttarijkaj tjiehpemus dájddárijs: Lena Stenberg, Geir Tore Holm, Synnøve Persen, Daban Da (Asbjørn Forsøget og Gjert Rognli), Alf Salo, Annelise Josefsen, Outi Pieski, Ingunn Utsi, Monica L. Edmondson, Britta Marakatt-Labba, Marja Helander, Arnold Johansen, Jørn Magnus Langseth, Rose- Marie Huuva, Edil Sande, Andreas Sarri, Anna-Stina Svakko, Aslaug Juliussen, Folke Fjellström, Randi Marainen ja Bente Geving.</p>
+<p>GIERDU le vuosádusturnéa masi fáladuvvá gaskostibme Kultuvralasj skåvllåvuossas (Den Kulturelle Skolesekken). Seminára ja diehtotjállaga fáladuvvi aj.</p>
+<p>Gehtja næhttavuosádusáv www.gierdu.no. Præssagåvåjt máhtá dassta viedtjat.</p>
+<p>GIERDU le hiebadum mannat Nuortta-Vuonav 2009-2011 jagijt. Vuosádusá buvtadiddje li SKINN, Se Kunst i Nord-Norge, Bodø ja RiddoDuottarMuseat – Sáme Vuorkkádávvera Kárášjågån.</p>
+<p xml:lang="nob">Prosjækta le ruhtaduvvam dájs: FRITT ORD, Kulturkontakt Nord, Norsk Kulturråd, DKS Nordland, DKS Finnmark, Samisk Kulturfond og ABM-utvikling.</p>
+<p xml:lang="sme"><em type="bold">Pressavásstediddje: RiddoDuottarMuseat: Irene Snarby, Tlf. +47 78 46 99 57 / +47 995 85 100 SKINN: Pia Lidvall Tlf. +47 75 52 73 66 / +47 911 048 05    </em></p>
+<p>Lågå ienebuv .</p>
+<p xml:lang="nno">Skriv et innlegg</p>
+<p xml:lang="eng">Posting</p>
+<p xml:lang="kal">Navn: *</p>
+<p xml:lang="eng">E-post:</p>
+<p xml:lang="est">Tema: *</p>
+<p xml:lang="nno">Melding: *</p>
+<p xml:lang="nob">Fylles ikke ut om du er et menneske:</p>
+</body></document>

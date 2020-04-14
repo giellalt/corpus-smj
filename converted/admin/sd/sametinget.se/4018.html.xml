@@ -1,33 +1,6 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>57</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/4018</origFileName>
-    <parallel_text xml:lang="sme" location="3324.html"/>
-    <parallel_text xml:lang="swe" location="1032.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sebrudakplánim - Sametinget</p>
-    <p type="title">Sebrudakplánim</p>
-    <p>Sámedikken le åvdåsvásstádus sáme ássjijs sebrudakplánimin gáhttit. Mierkki ietjá dåjmadiddje e dávk sáme vuojnov <span type="quote">”vajálduhtitja”</span>.</p>
-    <p>Riektá rádedibmáj</p>
-    <p>Sámediggelága milta sámedikken le välggogisvuohta gáhttit&#13; sáme ássjijt ma sebrudakplánimij guosski. Äládusåssudahka juohkka jage vásstet&#13; ållo remissajt ma äládussáj, birrásij ja sebrudahkaj guosski. Gå&#13; äládusåssudahka åvdeduvvá de Sámedigge boahtteájgen máhttá ájn vil ienep åvdåsvásstádusáv&#13; sebrudakplánimássjijs válldet.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>57</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/4018</origFileName><parallel_text xml:lang="sme" location="3324.html"/><parallel_text xml:lang="swe" location="1032.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sebrudakplánim - Sametinget</p>
+<p type="title">Sebrudakplánim</p>
+<p>Sámedikken le åvdåsvásstádus sáme ássjijs sebrudakplánimin gáhttit. Mierkki ietjá dåjmadiddje e dávk sáme vuojnov <span type="quote">”vajálduhtitja”</span>.</p>
+<p>Riektá rádedibmáj</p>
+<p>Sámediggelága milta sámedikken le välggogisvuohta gáhttit&#13; sáme ássjijt ma sebrudakplánimij guosski. Äládusåssudahka juohkka jage vásstet&#13; ållo remissajt ma äládussáj, birrásij ja sebrudahkaj guosski. Gå&#13; äládusåssudahka åvdeduvvá de Sámedigge boahtteájgen máhttá ájn vil ienep åvdåsvásstádusáv&#13; sebrudakplánimássjijs válldet.</p>
+</body></document>

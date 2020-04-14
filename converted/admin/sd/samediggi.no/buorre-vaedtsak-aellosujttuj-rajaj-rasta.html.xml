@@ -1,58 +1,16 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>282</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/AEladus/Boatsojaeladus/Buorre-vaedtsak-aellosujttuj-rajaj-rasta</origFileName>
-    <parallel_text xml:lang="nob" location="et-godt-verktoey-for-den-grenseoverskridende-reindriften.html"/>
-    <parallel_text xml:lang="sma" location="akte-hijven-dirrege-dan-raastendaaaresth-baaatsose.html"/>
-    <parallel_text xml:lang="sme" location="buorre-gaskaoapmi-rajarasttideaddji-boazodollui.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Buorre vædtsak ællosujttuj rájáj rastá / Boatsojæládus / Æládus / Sámedigge - Sametinget</p>
-    <p type="title">Buorre vædtsak ællosujttuj rájáj rastá</p>
-    <p xml:lang="sme">28. rahka 2013</p>
-    <p>Sámedikke ållestjåhkanibme galggá giehtadallat oajvvadusájt rievddadimijda Vuona ja Svieriga ælloguohtomkonvensjåvnnåj javllamáno álgon. Sámedikke presidænnta Aili Keskitalo javllá barggojuohkusa oajvvadus le buorre vædtsak åvddånahtátjit ælloguohtomav rájaj rastá Vuona ja Svieriga gaskan.</p>
-    <p>Jagen 2012 ásadin Vuona ja Svieriga Sámedikke, Vuona ællosámij rijkkalihtto (NRL) ja Svieriga sámij rijkkalihtto (SSR) barggojuohkusav mij galgaj buktet oajvvadusájt rievddadimijda ælloguohtomkonvensjåvnnåj. Vuona Sámedigge le bargov jådedam. Juohkusa jådediddje le åvdep rádeájras Ellinor Marita Jåma Åarjel-Saemiej Gïelhes.</p>
-    <p>
-      <em type="bold">Lahka aktijvuohta gájkaj </em>
-    </p>
-    <p>Gájkka tjielde Vuona ja Svieriga bielen lidjin gåhtjodum buvtátjit árvvalusájt bargguj. Diehtojuohkema åvddånimes li biejadum Vuona Sámedikke værmádakbielijda.</p>
-    <p>Duodden ásaduváj seminárra Stjørdalan tjieldijda ma guoskaduvvin. Semináran lij dagástallam barggojuohkusa oajvvadusájs. Tjielde ma lidjin lahkalakkoj juogeduvvin juohkusijda ja aktisattjat barggin hásstalusáj aktanbarggomahttelisvuodaj birra ietjasa dáfon.</p>
-    <p>
-      <em type="bold">-Barggojuohkusa ulmme le læhkám válldet várajda sáme ællosujtov rádjáguovlojn, ja dan diehti le læhkám ájnas válldet divna oassálasstijt sæhkáj dan bargon, javllá Sámedikke presidænnta Aili Keskitalo. Ij lim liehket máhttelis tjoavddet hásstalusájt rádjáguovlojn vijdes sámij oassálasstema dagá, javllá Keskitalo. </em>
-    </p>
-    <p>
-      <em type="bold">Moadda hásstalusá </em>
-    </p>
-    <p>Barggojuohkusa bargo baktu le sjaddam tjielgas ællosujton Vuona ja Svieriga rájáj rastá li moadda stuorra hásstalusá, nåv gå buojkulvissan vánes tjielgasvuohta rievtesvuodaj hárráj, urudisáj vahága, areállagártjedibme ja ådå konvensjåvnnåguovlo.</p>
-    <p>
-      <em type="bold">-Konvensjåvnnå ij gudik gåktuk tjoavde divna hásstalusájt ma li ællosujton rádjáguovlojn. Dan diehti le ájnas tjalmostahttet dájt hásstalusájt stáhta oajválattjajda Vuonan ja Svierigin, ja dav de sihtap dahkat, javllá Keskitalo. </em>
-    </p>
-    <p>
-      <em type="bold">Nanni aktisasjbargov </em>
-    </p>
-    <p>Barggojuogos oajvvat tjieldijn le máhttelis ásadit aktanbarggosåbadusájt ma máhtti tjoavddet árggabiejve hásstalusájt ællosujton rájáj rastá, buojkulvissan areállaanov. Barggojuogos aj oajvvat majna vuogijn rijdojt tjoavddet Vuona ja Svieriga tjieldij gaskan.</p>
-    <p>
-      <em type="bold">-Sáme barggojuohkusa oajvvadusá li buorre ja konstruktijvva árvvalusá Vuona ja Svieriga ráddidusájda, javllá Keskitalo maŋemusát. </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>282</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/AEladus/Boatsojaeladus/Buorre-vaedtsak-aellosujttuj-rajaj-rasta</origFileName><parallel_text xml:lang="nob" location="et-godt-verktoey-for-den-grenseoverskridende-reindriften.html"/><parallel_text xml:lang="sma" location="akte-hijven-dirrege-dan-raastendaaaresth-baaatsose.html"/><parallel_text xml:lang="sme" location="buorre-gaskaoapmi-rajarasttideaddji-boazodollui.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Buorre vædtsak ællosujttuj rájáj rastá / Boatsojæládus / Æládus / Sámedigge - Sametinget</p>
+<p type="title">Buorre vædtsak ællosujttuj rájáj rastá</p>
+<p xml:lang="sme">28. rahka 2013</p>
+<p>Sámedikke ållestjåhkanibme galggá giehtadallat oajvvadusájt rievddadimijda Vuona ja Svieriga ælloguohtomkonvensjåvnnåj javllamáno álgon. Sámedikke presidænnta Aili Keskitalo javllá barggojuohkusa oajvvadus le buorre vædtsak åvddånahtátjit ælloguohtomav rájaj rastá Vuona ja Svieriga gaskan.</p>
+<p>Jagen 2012 ásadin Vuona ja Svieriga Sámedikke, Vuona ællosámij rijkkalihtto (NRL) ja Svieriga sámij rijkkalihtto (SSR) barggojuohkusav mij galgaj buktet oajvvadusájt rievddadimijda ælloguohtomkonvensjåvnnåj. Vuona Sámedigge le bargov jådedam. Juohkusa jådediddje le åvdep rádeájras Ellinor Marita Jåma Åarjel-Saemiej Gïelhes.</p>
+<p><em type="bold">Lahka aktijvuohta gájkaj </em></p>
+<p>Gájkka tjielde Vuona ja Svieriga bielen lidjin gåhtjodum buvtátjit árvvalusájt bargguj. Diehtojuohkema åvddånimes li biejadum Vuona Sámedikke værmádakbielijda.</p>
+<p>Duodden ásaduváj seminárra Stjørdalan tjieldijda ma guoskaduvvin. Semináran lij dagástallam barggojuohkusa oajvvadusájs. Tjielde ma lidjin lahkalakkoj juogeduvvin juohkusijda ja aktisattjat barggin hásstalusáj aktanbarggomahttelisvuodaj birra ietjasa dáfon.</p>
+<p><em type="bold">-Barggojuohkusa ulmme le læhkám válldet várajda sáme ællosujtov rádjáguovlojn, ja dan diehti le læhkám ájnas válldet divna oassálasstijt sæhkáj dan bargon, javllá Sámedikke presidænnta Aili Keskitalo. Ij lim liehket máhttelis tjoavddet hásstalusájt rádjáguovlojn vijdes sámij oassálasstema dagá, javllá Keskitalo. </em></p>
+<p><em type="bold">Moadda hásstalusá </em></p>
+<p>Barggojuohkusa bargo baktu le sjaddam tjielgas ællosujton Vuona ja Svieriga rájáj rastá li moadda stuorra hásstalusá, nåv gå buojkulvissan vánes tjielgasvuohta rievtesvuodaj hárráj, urudisáj vahága, areállagártjedibme ja ådå konvensjåvnnåguovlo.</p>
+<p><em type="bold">-Konvensjåvnnå ij gudik gåktuk tjoavde divna hásstalusájt ma li ællosujton rádjáguovlojn. Dan diehti le ájnas tjalmostahttet dájt hásstalusájt stáhta oajválattjajda Vuonan ja Svierigin, ja dav de sihtap dahkat, javllá Keskitalo. </em></p>
+<p><em type="bold">Nanni aktisasjbargov </em></p>
+<p>Barggojuogos oajvvat tjieldijn le máhttelis ásadit aktanbarggosåbadusájt ma máhtti tjoavddet árggabiejve hásstalusájt ællosujton rájáj rastá, buojkulvissan areállaanov. Barggojuogos aj oajvvat majna vuogijn rijdojt tjoavddet Vuona ja Svieriga tjieldij gaskan.</p>
+<p><em type="bold">-Sáme barggojuohkusa oajvvadusá li buorre ja konstruktijvva árvvalusá Vuona ja Svieriga ráddidusájda, javllá Keskitalo maŋemusát. </em></p>
+</body></document>

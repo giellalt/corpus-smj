@@ -1,41 +1,11 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Ittjij diede dåhkki dásev válljit</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2005</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>255</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/ittjij-diede-dahkki-d-sev-v-lljit.4200</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Ittjij diede dåhkki dásev válljit</p>
-    <p>Ittjij diede oadtju válljit makkár dásen suv mánná galgaj sámegielav oahppat gå skåvllåj álgij. Esski l de viddjurij birra oadtjum diedojt, ja javlaj maññela ájggu sån bárnes biedjat vuostasjgiellaåhpadussaj.</p>
-    <p xml:lang="nob">Kortversjon på norsk</p>
-    <p>Gå skåvllåj galga álgget, ja ietjas mánáv sisi tjáledit, oattjo válljit mahkkár dásen galggá sámegielav skåvlån oadtjot, juogu dal vuostasjgiellan jali nuppátgiellan. Valla ij la agev álgge diehtet ma li sieradusá da guokta dásij gaskan, ja makkár máhttelisvuoda li. Æjgáda dan diehti válljiji ietjasa giellamáhtudagá milta ja ietjasa árvustallamij milta.</p>
-    <p>Beate Mikkelsen ietjas bárnnáj válljij sámegielav nuppátgiellan gå vásse tjavtja vuostasj klássaj álgij dajna gå ij lim ietjajnis vuostasjgiellaåhpadibme skåvlån, ja ij la ga sámegiella vuostasjgiellan suv mánájn.</p>
-    <p>Áttjak oattjoj diehtet, jusga mánná ij la åvddåla sijda vuolen sámástam, dåhkki huoman suv vuostasjgiellaåhpadibmáj biedjat. –Oattjojma sjiemáv sijddaj, ja soames vahko maññela manájma bárnijnisá skåvllåj gå galgaj sisi tjáleduvvat. Sjiemán galgajma válljit makkár dásen galgaj sámegielav skåvlån. Valla ejma oattjo bagádusáv, ja dan diehti ejma ga diede goappá dásev oattjojma válljit. Dajna de válljijiv nuppátgielav bárnnásim, subtsas Beate Mikkelsen.</p>
-    <p>Maññela oattjoj Mikkelsen diehtet dåhkki vuostasjgielaåhpadusáv aj válljit.</p>
-    <p>Ájluovta skåvllå l ájnna skåvllå Vuona bielen mij aj fállá julevsámegielav vuostasjgiellaåhpadibmen. Rektor Brit Karin Storvik vájvaj gå ij la skåvllå buorep diedov vaddám æjgádijda dán ássjen. Valla skåvllå l juo dájna ássjijn barggagoahtám. –Vuostak hæhttuv vájvahit gå la dille nav, valla skåvllå l juo dájna ássjijn barggagoahtám ja doajvov dille dajna buorrán, javllá sån.</p>
-    <p>Lågå ienebut páhperalmmudusán</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Ittjij diede dåhkki dásev válljit</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2005</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>255</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/ittjij-diede-dahkki-d-sev-v-lljit.4200</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Ittjij diede dåhkki dásev válljit</p>
+<p>Ittjij diede oadtju válljit makkár dásen suv mánná galgaj sámegielav oahppat gå skåvllåj álgij. Esski l de viddjurij birra oadtjum diedojt, ja javlaj maññela ájggu sån bárnes biedjat vuostasjgiellaåhpadussaj.</p>
+<p xml:lang="nob">Kortversjon på norsk</p>
+<p>Gå skåvllåj galga álgget, ja ietjas mánáv sisi tjáledit, oattjo válljit mahkkár dásen galggá sámegielav skåvlån oadtjot, juogu dal vuostasjgiellan jali nuppátgiellan. Valla ij la agev álgge diehtet ma li sieradusá da guokta dásij gaskan, ja makkár máhttelisvuoda li. Æjgáda dan diehti válljiji ietjasa giellamáhtudagá milta ja ietjasa árvustallamij milta.</p>
+<p>Beate Mikkelsen ietjas bárnnáj válljij sámegielav nuppátgiellan gå vásse tjavtja vuostasj klássaj álgij dajna gå ij lim ietjajnis vuostasjgiellaåhpadibme skåvlån, ja ij la ga sámegiella vuostasjgiellan suv mánájn.</p>
+<p>Áttjak oattjoj diehtet, jusga mánná ij la åvddåla sijda vuolen sámástam, dåhkki huoman suv vuostasjgiellaåhpadibmáj biedjat. –Oattjojma sjiemáv sijddaj, ja soames vahko maññela manájma bárnijnisá skåvllåj gå galgaj sisi tjáleduvvat. Sjiemán galgajma válljit makkár dásen galgaj sámegielav skåvlån. Valla ejma oattjo bagádusáv, ja dan diehti ejma ga diede goappá dásev oattjojma válljit. Dajna de válljijiv nuppátgielav bárnnásim, subtsas Beate Mikkelsen.</p>
+<p>Maññela oattjoj Mikkelsen diehtet dåhkki vuostasjgielaåhpadusáv aj válljit.</p>
+<p>Ájluovta skåvllå l ájnna skåvllå Vuona bielen mij aj fállá julevsámegielav vuostasjgiellaåhpadibmen. Rektor Brit Karin Storvik vájvaj gå ij la skåvllå buorep diedov vaddám æjgádijda dán ássjen. Valla skåvllå l juo dájna ássjijn barggagoahtám. –Vuostak hæhttuv vájvahit gå la dille nav, valla skåvllå l juo dájna ássjijn barggagoahtám ja doajvov dille dajna buorrán, javllá sån.</p>
+<p>Lågå ienebut páhperalmmudusán</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

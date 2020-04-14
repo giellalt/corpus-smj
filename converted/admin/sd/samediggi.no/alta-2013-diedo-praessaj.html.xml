@@ -1,56 +1,18 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>194</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Rijkajgasskasasj-barggo/Alta-2013/Alta-2013-diedo-praessaj</origFileName>
-    <parallel_text xml:lang="nob" location="alta-2013-info-til-pressen.html"/>
-    <parallel_text xml:lang="sma" location="alta-2013-bievnesh-preessese.html"/>
-    <parallel_text xml:lang="sme" location="alta-2013-info-pressii.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Áltá 2013: diedo præssaj / Áltá 2013 / Rijkajgasskasasj barggo / Sámedigge - Sametinget</p>
-    <p type="title">Áltá 2013: diedo præssaj</p>
-    <p>08. njoktje 2013</p>
-    <p>Gájka journalista gudi sihti sisi bessat rijkajgasskasasj, gárvediddje álggoálmmukkonferánssaj Finnmárkkohállan Áltá 2013 aktijvuodan hæhttuji akkrediteriduvvat.</p>
-    <p>Oassálasstem le nåvkå ja akkrediterim vatteduvvá nav guhkás gå le sadje, ajtu le rádje gitta niellja åvdåstiddje juohkka mediumas.</p>
-    <p>
-      <em type="bold">Præssaladnja </em>
-    </p>
-    <p>Sierra præssaladnja aj galggá ásaduvvat gånnå bæssá hárpodis næhttaj, barggosaje ja njuolggasátta konferánssaguovdátjis. Bæssá aj mierredum sajijda sjielvvi konferánssasálan.</p>
-    <p>Præssaladnja le rabás sådnåbiejve biehtsemáno 9. biejve rájes ja dan maŋŋela juohkka biejve konferánsav miehtáj gasskal 08.00 ja 07.00.</p>
-    <p>
-      <em type="bold">Præssaaktijvuohta </em>
-    </p>
-    <p>Gehtja gudi vásstedi præssaaktijvuodas Sámedikken ja globála koordinerimjuohkusin .</p>
-    <p>
-      <em type="bold">Fálaldagá nehtan </em>
-    </p>
-    <p>Ålles konferánssa streamiduvvá live nehtan, ja báddima ålgus biejaduvvi ålles konferánsa miehtáj. Dokumenta, resolusjåvnå ja ietjá tjálalasj materiála biejaduvvi næhttaj.</p>
-    <p>
-      <em type="bold">Viehkke </em>
-    </p>
-    <p>Sámedikke guládallamåssudahka le sajenis ålles konferánsav miehtáj viehkken pressa åvdåstiddjijda.</p>
-    <p type="title" xml:lang="sme">Næhtta ja sosiála media</p>
-    <p xml:lang="nob">Facebook: World Conferanse on Indigenous Peoples 2014 Twitter: @wcip2014 Sámedigge: www.sametinget.no/Alta2013 Hashtag Twitterin: #wcip2014 ja #alta2013</p>
-    <p><em type="bold">Áltá 2013 </em>ásaduvvá Finnmárkkohállan Áltán. Ienep diedo hálla birra ja ma dåhppe gávnnuji oattjo bæjválasj jådediddjes Tommy Hæggernæs , tel. +47 908 77 868 jali Sámedikke guládallamdirektøras Jan Roger Østby , tel. + 47 481 44 696. </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>194</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Rijkajgasskasasj-barggo/Alta-2013/Alta-2013-diedo-praessaj</origFileName><parallel_text xml:lang="nob" location="alta-2013-info-til-pressen.html"/><parallel_text xml:lang="sma" location="alta-2013-bievnesh-preessese.html"/><parallel_text xml:lang="sme" location="alta-2013-info-pressii.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Áltá 2013: diedo præssaj / Áltá 2013 / Rijkajgasskasasj barggo / Sámedigge - Sametinget</p>
+<p type="title">Áltá 2013: diedo præssaj</p>
+<p>08. njoktje 2013</p>
+<p>Gájka journalista gudi sihti sisi bessat rijkajgasskasasj, gárvediddje álggoálmmukkonferánssaj Finnmárkkohállan Áltá 2013 aktijvuodan hæhttuji akkrediteriduvvat.</p>
+<p>Oassálasstem le nåvkå ja akkrediterim vatteduvvá nav guhkás gå le sadje, ajtu le rádje gitta niellja åvdåstiddje juohkka mediumas.</p>
+<p><em type="bold">Præssaladnja </em></p>
+<p>Sierra præssaladnja aj galggá ásaduvvat gånnå bæssá hárpodis næhttaj, barggosaje ja njuolggasátta konferánssaguovdátjis. Bæssá aj mierredum sajijda sjielvvi konferánssasálan.</p>
+<p>Præssaladnja le rabás sådnåbiejve biehtsemáno 9. biejve rájes ja dan maŋŋela juohkka biejve konferánsav miehtáj gasskal 08.00 ja 07.00.</p>
+<p><em type="bold">Præssaaktijvuohta </em></p>
+<p>Gehtja gudi vásstedi præssaaktijvuodas Sámedikken ja globála koordinerimjuohkusin .</p>
+<p><em type="bold">Fálaldagá nehtan </em></p>
+<p>Ålles konferánssa streamiduvvá live nehtan, ja báddima ålgus biejaduvvi ålles konferánsa miehtáj. Dokumenta, resolusjåvnå ja ietjá tjálalasj materiála biejaduvvi næhttaj.</p>
+<p><em type="bold">Viehkke </em></p>
+<p>Sámedikke guládallamåssudahka le sajenis ålles konferánsav miehtáj viehkken pressa åvdåstiddjijda.</p>
+<p type="title" xml:lang="sme">Næhtta ja sosiála media</p>
+<p xml:lang="nob">Facebook: World Conferanse on Indigenous Peoples 2014 Twitter: @wcip2014 Sámedigge: www.sametinget.no/Alta2013 Hashtag Twitterin: #wcip2014 ja #alta2013</p>
+<p><em type="bold">Áltá 2013 </em>ásaduvvá Finnmárkkohállan Áltán. Ienep diedo hálla birra ja ma dåhppe gávnnuji oattjo bæjválasj jådediddjes Tommy Hæggernæs , tel. +47 908 77 868 jali Sámedikke guládallamdirektøras Jan Roger Østby , tel. + 47 481 44 696. </p>
+</body></document>

@@ -1,51 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Rádjebálges buoreduvvá</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>245</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_160109.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty SkapalenJårggålibme: Divte Media AS</p>
-    <p>Rádjebálges buoreduvvá</p>
-    <p>Gåvvå/foto: Arctic Wilderness Experience</p>
-    <p>hálidij  vádtset, javllá Eriksen. Ådå låhko kártas aj boahtá.</p>
-    <p><em type="bold">Tjalmostahttem sáme namájs</em> </p>
-    <p>j j</p>
-    <p><em type="bold">Kártta ja diehtomateriálla</em> </p>
-    <p>Produktåvddånahttemin ájggu barggat åvddånbuktemijn sáme namáj sisanos. - Ájggop dajna vijdábut barggat. Sáme namá ålov subtsastij gåktu duobddágin le ja luondov danna ja aj gåktu buolvaj tjadá li duobddágijt ávkkidam. Svieriga bielen vuorrasap sáme sierraláhkáj berustin dát riekta galggá sjaddat, javllá Eriksen Ja sihke Vuonaga ja ålggorijkaga ådå vuojnov oadtju gåbdep ja stuoráp muossádimijn, miejnni Eriksen.</p>
-    <p><em type="bold">Ruhtadibme</em> </p>
-    <p><em type="bold">Aktisasjbarggo moadda</em> <em type="bold">oassálasstij</em> </p>
-    <p>- Ajggop aktisasjbargov Nord-Salten Turlagajn oassen sjaddat sijá vádtsemprográmas giesen 2009. Guovvamánon mij ájggop aktisasjbargov álgadit æládusiellemijn rájá goappátjij bielijn, vaj mannoæládusbuvtaga bálkká guoran dagáduvvi, javllá Eriksen. stuorra máhttelisvuohta mannoæládussaj. Dánna luonndo ja kultuvrra giehtalahkkoj vádtsi. -Ájggop aj Vuodnabat sijdajn ságastallat rádjebálggáv vijdedittjat, aktan Nordkalottlájdojn mij Vuodnabadás Vájsáluoktaj manná.</p>
-    <p>Aktisasj dåjmadagájn ja jådedimjuohkusijn da guokta ráddnásuohkana Jiellevárre ja Divtasvuodna li sihkarasstám aktisasj vuodov. Duola dagu libá goappátja suohkanoajve oasse jådedimjuohkusis. Tjoahkken produktbuvtadimoasse le 2,2 milijåvnåjda merustallam. 50 % dássta le juo Interreg’as juollodum, ja sihke Divtasvuona suohkan, Narvik Energi ja Vattenfall AB li læhkám ruhtadiddje. Svieriga bielen le merustallam birrusin guokta milijåvnå. - Lip ávon gå dialogav galggap adnet æládusoassálasstij rájá goappátjij bielijs, hæjttá Eriksen.</p>
-    <p xml:lang="nob"><em type="italic">Kártta, giehtagirrje ja video li oase vuosedallamis</em> <em type="italic">rádjebálggás. Dálla æládusoassálasste bivdeduvvi</em> <em type="italic">bargguj buvtagijt åvddånahttet tjanádum</em> <em type="italic">rádjebálggáj.</em> <em type="italic">Kart, håndbok og video vil være med å markedsføre grenseleden. Nå inviteres næringsaktørene</em> <em type="italic">med i arbeidet med å utvikle nye produkter</em> <em type="italic">tilknyttet Grenseleden.</em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Rádjebálges buoreduvvá</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2009</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>245</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_160109.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty SkapalenJårggålibme: Divte Media AS</p>
+<p>Rádjebálges buoreduvvá</p>
+<p>Gåvvå/foto: Arctic Wilderness Experience</p>
+<p>hálidij  vádtset, javllá Eriksen. Ådå låhko kártas aj boahtá.</p>
+<p><em type="bold">Tjalmostahttem sáme namájs</em> </p>
+<p>j j</p>
+<p><em type="bold">Kártta ja diehtomateriálla</em> </p>
+<p>Produktåvddånahttemin ájggu barggat åvddånbuktemijn sáme namáj sisanos. - Ájggop dajna vijdábut barggat. Sáme namá ålov subtsastij gåktu duobddágin le ja luondov danna ja aj gåktu buolvaj tjadá li duobddágijt ávkkidam. Svieriga bielen vuorrasap sáme sierraláhkáj berustin dát riekta galggá sjaddat, javllá Eriksen Ja sihke Vuonaga ja ålggorijkaga ådå vuojnov oadtju gåbdep ja stuoráp muossádimijn, miejnni Eriksen.</p>
+<p><em type="bold">Ruhtadibme</em> </p>
+<p><em type="bold">Aktisasjbarggo moadda</em> <em type="bold">oassálasstij</em> </p>
+<p>- Ajggop aktisasjbargov Nord-Salten Turlagajn oassen sjaddat sijá vádtsemprográmas giesen 2009. Guovvamánon mij ájggop aktisasjbargov álgadit æládusiellemijn rájá goappátjij bielijn, vaj mannoæládusbuvtaga bálkká guoran dagáduvvi, javllá Eriksen. stuorra máhttelisvuohta mannoæládussaj. Dánna luonndo ja kultuvrra giehtalahkkoj vádtsi. -Ájggop aj Vuodnabat sijdajn ságastallat rádjebálggáv vijdedittjat, aktan Nordkalottlájdojn mij Vuodnabadás Vájsáluoktaj manná.</p>
+<p>Aktisasj dåjmadagájn ja jådedimjuohkusijn da guokta ráddnásuohkana Jiellevárre ja Divtasvuodna li sihkarasstám aktisasj vuodov. Duola dagu libá goappátja suohkanoajve oasse jådedimjuohkusis. Tjoahkken produktbuvtadimoasse le 2,2 milijåvnåjda merustallam. 50 % dássta le juo Interreg’as juollodum, ja sihke Divtasvuona suohkan, Narvik Energi ja Vattenfall AB li læhkám ruhtadiddje. Svieriga bielen le merustallam birrusin guokta milijåvnå. - Lip ávon gå dialogav galggap adnet æládusoassálasstij rájá goappátjij bielijs, hæjttá Eriksen.</p>
+<p><em type="italic">Kártta, giehtagirrje ja video li oase vuosedallamis</em> <em type="italic">rádjebálggás. Dálla æládusoassálasste bivdeduvvi</em> <em type="italic">bargguj buvtagijt åvddånahttet tjanádum</em> <em type="italic">rádjebálggáj.</em> <em type="italic">Kart, håndbok og video vil være med å markedsføre grenseleden. Nå inviteres næringsaktørene</em> <em type="italic">med i arbeidet med å utvikle nye produkter</em> <em type="italic">tilknyttet Grenseleden.</em> </p>
+</body></document>

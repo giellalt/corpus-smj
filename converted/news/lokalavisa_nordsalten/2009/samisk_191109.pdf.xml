@@ -1,51 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Tjierggisvuohta váren og Sáme viesso Oslon 5 jage dævddá</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge " lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>153</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_191109.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p xml:lang="nob">.</p>
-    <p xml:lang="nob">Tæksta: Børge Strandskog</p>
-    <p>Jårggålibme: Divte Media AS</p>
-    <p xml:lang="nob"><em type="italic">Heika Johansen Labba ja famillja Unnajávrregátten.  Gåvvå 1920-jagijs.  Heika Johansen Labba og familien ved Litjvatnet.  Foto fra 1920-årene.</em> </p>
-    <p>Valla lij nav ålov muohttám ittjijvádtset dåhkki. Heikan galla lidjinráde. Gávnaj hiebalgisskáhpemuorav, ja nijbijn dasstaálkkes sabegijt vuolaj. Nijbijn ajrájgijt dagáj masi svihtjajuvsajtdæhpodij.Dáj rustigij Heika tjuojggagådijaktan bednagijn. Dálkke lij vilánievrre ja fierdda riek låssåt, vallanagáj Strindaváre badjel boahtet ja</p>
-    <p>vuolus Tømmernesa vuosstij.Tømmernesváren nav binná muohtasjattaj ja fierdda nav buorre vajmáhtij sabegijt guodet ja váttsejoarkket. Mij ij lim sæmmi hávsskelij vájku iesj lij oaggán bierggim, delij boahttsubena dálkkáj soakkoj danlåsså váttsedijn váre badjel.Heika sabega moadda jage muoravuossti tjuodtjun Tømmernesváren,ja moaddása bájke ulmutjijs mujtti</p>
-    <p>dajt. Valla akta lullerijkak sabegijtváldij nágin jage mannela. Ihkap viláLullerijkan gávnnuji mujtton datbáles gå Heika dálvváj boahttujHábmervárijn?</p>
-    <p>j</p>
-    <p>j</p>
-    <p>j</p>
-    <p>j j</p>
-    <p>æjvvalit ja aktisattjat barggat. Dandiehti le luondulasj tjåhkanimsadjegå duola dagu sáme álmmukbiejvveávvudaláduvvá oajvvestádan.Duodden moadda sámeorganisasjåvnå dánna sajev adni.</p>
-    <p xml:lang="nob"><em type="italic">17. mai-feiring Oslo 2007</em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Tjierggisvuohta váren og Sáme viesso Oslon 5 jage dævddá</title><genre code="news"/><author><person firstname="Børge " lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2009</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>153</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_191109.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p xml:lang="nob">.</p>
+<p xml:lang="nob">Tæksta: Børge Strandskog</p>
+<p>Jårggålibme: Divte Media AS</p>
+<p xml:lang="nob"><em type="italic">Heika Johansen Labba ja famillja Unnajávrregátten.  Gåvvå 1920-jagijs.  Heika Johansen Labba og familien ved Litjvatnet.  Foto fra 1920-årene.</em> </p>
+<p>Valla lij nav ålov muohttám ittjijvádtset dåhkki. Heikan galla lidjinráde. Gávnaj hiebalgisskáhpemuorav, ja nijbijn dasstaálkkes sabegijt vuolaj. Nijbijn ajrájgijt dagáj masi svihtjajuvsajtdæhpodij.Dáj rustigij Heika tjuojggagådijaktan bednagijn. Dálkke lij vilánievrre ja fierdda riek låssåt, vallanagáj Strindaváre badjel boahtet ja</p>
+<p>vuolus Tømmernesa vuosstij.Tømmernesváren nav binná muohtasjattaj ja fierdda nav buorre vajmáhtij sabegijt guodet ja váttsejoarkket. Mij ij lim sæmmi hávsskelij vájku iesj lij oaggán bierggim, delij boahttsubena dálkkáj soakkoj danlåsså váttsedijn váre badjel.Heika sabega moadda jage muoravuossti tjuodtjun Tømmernesváren,ja moaddása bájke ulmutjijs mujtti</p>
+<p>dajt. Valla akta lullerijkak sabegijtváldij nágin jage mannela. Ihkap viláLullerijkan gávnnuji mujtton datbáles gå Heika dálvváj boahttujHábmervárijn?</p>
+<p>j</p>
+<p>j</p>
+<p>j</p>
+<p>j j</p>
+<p>æjvvalit ja aktisattjat barggat. Dandiehti le luondulasj tjåhkanimsadjegå duola dagu sáme álmmukbiejvveávvudaláduvvá oajvvestádan.Duodden moadda sámeorganisasjåvnå dánna sajev adni.</p>
+<p xml:lang="nob"><em type="italic">17. mai-feiring Oslo 2007</em> </p>
+</body></document>

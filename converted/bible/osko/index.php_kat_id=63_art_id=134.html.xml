@@ -1,44 +1,7 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>107</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=63&amp;art_id=134</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=63_art_id=134.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=63_art_id=134.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=63_art_id=134.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kristuskránssa</p>
-    <p type="title" xml:lang="nob">Kristuse-værjoe</p>
-    <p>Jeesusen lïj tjuedtjielimmien faamoe. Dïhte faamoe stuerebe gaajhkijste. Ij amma jaememe maehtieh dam faamoem jamhkelidh. Jeesuse jaemiedistie tjuedtjieli. Gïjre lïj gosse aereden tjuedtjieli. Buaredh lïj jïh gaertienisnie tjaebpies sjædtoeh, jïh ledtieh sjollin. Jeesuse kroepteste tjuedtjieli jïh aaj vihth altese voelpide gaavnedi. Mahte idjin jaehkieh Jeesuse tjuedtjielamme! Juktie Jeesuse jaemiedistie tjuedtjieli, jaehkebe Jeesuse jaemiedistie jieleden rïjhkese oksem rïhpeste. Dïhte mijjese håhkoem vadta gosse jaememe mijjen gåajkoe båata.</p>
-    <p>Lohkh amma Bijbelisnie tjuedtjielimmien bïjre Maarhkosen vaentjielisnie: 16, 1-15 jïh aaj mubpine vaentjielinie.</p>
-    <p>Jesus buoridii olbmuid, dan sáhtát earret eará lohkat Markusevangeliuma 8. kapihttalis, 22-26 vearssain, Lukasevangeliuma 7. kapihttalis, 15-23 vearssain ja Matteusevangeliuma 9. kapihttalis, 35-38 vearssain</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>107</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=63&amp;art_id=134</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=63_art_id=134.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=63_art_id=134.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=63_art_id=134.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kristuskránssa</p>
+<p type="title" xml:lang="nob">Kristuse-værjoe</p>
+<p>Jeesusen lïj tjuedtjielimmien faamoe. Dïhte faamoe stuerebe gaajhkijste. Ij amma jaememe maehtieh dam faamoem jamhkelidh. Jeesuse jaemiedistie tjuedtjieli. Gïjre lïj gosse aereden tjuedtjieli. Buaredh lïj jïh gaertienisnie tjaebpies sjædtoeh, jïh ledtieh sjollin. Jeesuse kroepteste tjuedtjieli jïh aaj vihth altese voelpide gaavnedi. Mahte idjin jaehkieh Jeesuse tjuedtjielamme! Juktie Jeesuse jaemiedistie tjuedtjieli, jaehkebe Jeesuse jaemiedistie jieleden rïjhkese oksem rïhpeste. Dïhte mijjese håhkoem vadta gosse jaememe mijjen gåajkoe båata.</p>
+<p>Lohkh amma Bijbelisnie tjuedtjielimmien bïjre Maarhkosen vaentjielisnie: 16, 1-15 jïh aaj mubpine vaentjielinie.</p>
+<p>Jesus buoridii olbmuid, dan sáhtát earret eará lohkat Markusevangeliuma 8. kapihttalis, 22-26 vearssain, Lukasevangeliuma 7. kapihttalis, 15-23 vearssain ja Matteusevangeliuma 9. kapihttalis, 35-38 vearssain</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

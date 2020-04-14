@@ -1,50 +1,21 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Stora Sjöfallets / Stuor Muorkke suoddjimpárka birra</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>257</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>https://www.sverigesnationalparker.se/smj/vallji-suoddjimparkav/stora-sjofallet--stuor-muorkke-suoddjimparkka/suoddjimparkkadiedo/</origFileName>
-    <parallel_text xml:lang="eng" location="about_stuor_muorkke_national_park.html"/>
-    <parallel_text xml:lang="swe" location="om_stora_sjofallet_nationalpark.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Suoddjimpárkkadiedo | Stora Sjöfallet / Stuor Muorkke suoddjimpárkka | Vállji suoddjimpárkav | Svieriga suoddjimpárkaj</p>
-    <p>Cookies ja sekretässa Lågå ienebuv</p>
-    <p>Válljidahka</p>
-    <p>Åtså</p>
-    <p>Åtså</p>
-    <list>
-      <p type="listitem">Álggobälláj</p>
-      <p type="listitem">Vállji suoddjimpárkav</p>
-    </list>
-    <p>Stora Sjöfallet / Stuor Muorkke suoddjimpárkka</p>
-    <p type="title">Stora Sjöfallets / Stuor Muorkke suoddjimpárka birra</p>
-    <p>Bájke sámenamma l Stuor Muorkke ja mierkki ednam guovte jávrij gaskan jali änoj.</p>
-    <p>Suoddjimpárkka vuododuváj suoddjitjit gårtjev ja dan gierragijt. Oanegav vuododime maŋŋela ådåsis tjuorggin kártav párka badjel besatjit tjáhtjefámov ávkkit. Gårttje Stuormårkkegårttje gávnnu vilá, valla ij la sämmi fábmogis nåv gåk lij dålen. Giehtoduvvá gårtjes jubma gulluj bájkoj mijlav.</p>
-    <p type="title">Goasstejieŋa ja tjáppa vákke</p>
-    <p>Suoddjimpárkka l Áhkkájávre buodo goappásj bielijn. Le målsudis suoddjimpárkka allavárij, goasstejieŋaj, valdaj, lagimbuoldaj ja alla biehtsedålsusjvuomijn. Rádjá nuorttan la tjiegŋalis Dievssávágge, dåbdos Svieriga tjáppemus vággen. Oarjján tronar Áhkká várrre ja suv goasstejieŋa. Vuojnnu varga akta gånnå suoddjimpárkan la.</p>
-    <p type="title">Guohtomednam</p>
-    <p>Ednama li guohtomednama Sirges ja Unna tjerusj tjieldijda majn li årudagá birra bájken. Giesen älo guohtu vákkijn gitta vuona rádjáj. Bijllaväddja Stuor Juleväno milta dahká Stora Sjöfallet/Stuor Muorkev ålediddje guossijda.</p>
-    <p>
-      <em type="italic"><span type="quote">”Jávrre lij väddja åvdebut, lij kommunikasjåvnnåväddja”</span>. Nuortasjbielen lij viehka vuorjját bidtjidum. Oarjásjbielle lij Stuor Muorka guovddel, dåppe båhtin vadnasij, Gå väddja sjattaj de ulmutja jåhtin väddjabälláj. Lijma hiebadahkes ja jådijma guollima maŋen”. </em>
-    </p>
-    <p>Martin Suorra giehttu Stuor Muorke saje birra gånnå bajássjattaj.</p>
-    <p type="title">Laponia väráltárben gávvnu</p>
-    <p>Laponia väráltárbbe nammaduváj 1996, gånnå Muttos gávnnu aktan suoddjimpárkaj Sarek, Badjelánnda ja Stuor Muorkke. Laponiaj gulluji aj luonndoreserváhta Sjávna ja Stubbbá ja bájke Sulidälbmá, Tjuoldavuobme ja Ráhpaäno suorgudahka (Lájtávrresliehto).</p>
-    <p>Vattátjit ruopptot iemelagásj sáme namáv bájkkáj de suoddjimpárka namma l Stora Sjöfallet/Stuor Muorkke.</p>
-    <p>
-      <em type="italic">Ienep diededibme suoddjimpárka birra gávnnu webbabiele dárogielak ja ieŋŋgisgielak oasen. </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Stora Sjöfallets / Stuor Muorkke suoddjimpárka birra</title><genre code="facta"/><author><unknown/></author><wordcount>257</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://www.sverigesnationalparker.se/smj/vallji-suoddjimparkav/stora-sjofallet--stuor-muorkke-suoddjimparkka/suoddjimparkkadiedo/</origFileName><parallel_text xml:lang="eng" location="about_stuor_muorkke_national_park.html"/><parallel_text xml:lang="swe" location="om_stora_sjofallet_nationalpark.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Suoddjimpárkkadiedo | Stora Sjöfallet / Stuor Muorkke suoddjimpárkka | Vállji suoddjimpárkav | Svieriga suoddjimpárkaj</p>
+<p>Cookies ja sekretässa Lågå ienebuv</p>
+<p>Válljidahka Åtså</p>
+<p>Åtså</p>
+<list><p type="listitem">Álggobälláj</p>
+<p type="listitem">Vállji suoddjimpárkav</p>
+</list><p>Stora Sjöfallet / Stuor Muorkke suoddjimpárkka</p>
+<p type="title">Stora Sjöfallets / Stuor Muorkke suoddjimpárka birra</p>
+<p>Bájke sámenamma l Stuor Muorkke ja mierkki ednam guovte jávrij gaskan jali änoj.</p>
+<p>Suoddjimpárkka vuododuváj suoddjitjit gårtjev ja dan gierragijt. Oanegav vuododime maŋŋela ådåsis tjuorggin kártav párka badjel besatjit tjáhtjefámov ávkkit. Gårttje Stuormårkkegårttje gávnnu vilá, valla ij la sämmi fábmogis nåv gåk lij dålen. Giehtoduvvá gårtjes jubma gulluj bájkoj mijlav.</p>
+<p type="title">Goasstejieŋa ja tjáppa vákke</p>
+<p>Suoddjimpárkka l Áhkkájávre buodo goappásj bielijn. Le målsudis suoddjimpárkka allavárij, goasstejieŋaj, valdaj, lagimbuoldaj ja alla biehtsedålsusjvuomijn. Rádjá nuorttan la tjiegŋalis Dievssávágge, dåbdos Svieriga tjáppemus vággen. Oarjján tronar Áhkká várrre ja suv goasstejieŋa. Vuojnnu varga akta gånnå suoddjimpárkan la.</p>
+<p type="title">Guohtomednam</p>
+<p>Ednama li guohtomednama Sirges ja Unna tjerusj tjieldijda majn li årudagá birra bájken. Giesen älo guohtu vákkijn gitta vuona rádjáj. Bijllaväddja Stuor Juleväno milta dahká Stora Sjöfallet/Stuor Muorkev ålediddje guossijda.</p>
+<p><em type="italic"><span type="quote">”Jávrre lij väddja åvdebut, lij kommunikasjåvnnåväddja”</span>. Nuortasjbielen lij viehka vuorjját bidtjidum. Oarjásjbielle lij Stuor Muorka guovddel, dåppe båhtin vadnasij, Gå väddja sjattaj de ulmutja jåhtin väddjabälláj. Lijma hiebadahkes ja jådijma guollima maŋen”. </em></p>
+<p>Martin Suorra giehttu Stuor Muorke saje birra gånnå bajássjattaj.</p>
+<p type="title">Laponia väráltárben gávvnu</p>
+<p>Laponia väráltárbbe nammaduváj 1996, gånnå Muttos gávnnu aktan suoddjimpárkaj Sarek, Badjelánnda ja Stuor Muorkke. Laponiaj gulluji aj luonndoreserváhta Sjávna ja Stubbbá ja bájke Sulidälbmá, Tjuoldavuobme ja Ráhpaäno suorgudahka (Lájtávrresliehto).</p>
+<p>Vattátjit ruopptot iemelagásj sáme namáv bájkkáj de suoddjimpárka namma l Stora Sjöfallet/Stuor Muorkke.</p>
+<p><em type="italic">Ienep diededibme suoddjimpárka birra gávnnu webbabiele dárogielak ja ieŋŋgisgielak oasen. </em></p>
+</body></document>

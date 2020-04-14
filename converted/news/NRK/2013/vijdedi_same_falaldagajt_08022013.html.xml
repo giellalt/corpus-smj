@@ -1,89 +1,37 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Vijdedi sáme fálaldagájt</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/>
-    </author>
-    <year>2013</year>
-    <publChannel>
-      <publication>
-        <publisher>NRK Sápmi</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>413</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@it.no"/>
-    <origFileName>http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.10905513</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Samegillii</p>
-    <p>
-      <em type="italic">Maŋimuš ođđasat sámegillii </em>
-    </p>
-    <p/>
-    <p type="title">Vijdedi sáme fálaldagájt</p>
-    <p>Nordlanda universitehtta sihtá vijdedit julevsámegiela åhpadusfálaldagájt. Dav subtsas rektor Pål Pedersen.</p>
-    <p>Nordlánda universitehtta vijdet sijá julevsámegiela åhpadusfálaldagájt Bådåddjon. Dav diededij universitehta rektor Pål Pedersen iektu gå universitehtta tjadádij sáme seminárav Bådådjo sáme biejvij aktijvuodan.</p>
-    <p>
-      <em type="italic">– Mij ham dijmmá jåhtuj biejajma julevsáme bachelor-åhpadusáv ragátmáno mij la riek buoragit doajmmam. Så mån vuojnáv dárbov vijdedit julevsáme giellaåhpadusáv. Jus vuorbástuvvap de lulu mij fállagoahtet master-åhpadusáv julevsámegielan nav ruvva gå máhttelis, subtsas Nordlánda universitehta rektor, Pål Pedersen NRK:aj. </em>
-    </p>
-    <p type="title">Julevsáme master-fálaldahka</p>
-    <p>Julevsáme bachelor rahpamis ragátmáno dijmmá. Studenta ja rektor.</p>
-    <p>Vássám tjavtja jåhtuj biejaj Nordlánda universitehtta julevsámegiela bachelor-åhpadusáv.</p>
-    <p>Dat la ållu ådå julevsámegiela åhpadusfálaldahka ja la dat ájnna julevsámegiela åhpadusfálaldahka alep dásen mij ålluk Vuonarijkan gávnnu.</p>
-    <p>21 studenta låhki dálla julevsámegiela bachelorav.</p>
-    <list>
-      <p type="listitem">
-        <em type="italic">LÅGÅ AJ: </em>
-        <em type="italic">– Mærkkabiejvve julevsámijda </em>
-      </p>
-      <p type="listitem">
-        <em type="italic">LÅGÅ AJ: Først ute i verden </em>
-      </p>
-      <p type="listitem">
-        <em type="italic">LÅGÅ AJ: Starter opp med lulesamisk bachelor </em>
-      </p>
-    </list>
-    <p>Rektora mielas la Nordlánda universitehtta buoragit vuorbástuvvam dájna åhpadusájn náv guhkás, ja sån sihtá vijdedit åhpadusfálaldagájt.</p>
-    <p>
-      <em type="italic">– Doajvov mij juo åvddål 2020 lip åhpadum dajt vuostasj master-kandidáhtajt julevsámegielan, javllá Pedersen. </em>
-    </p>
-    <p>Sån subtsas moattes sijájs gudi dálla li julevsáme bachelor-åhpadussaj álggám sihti joarkket master-åhpadusájn.</p>
-    <list>
-      <p type="listitem">
-        <em type="italic">LÅGÅ AJ: Sihtá sámegiela máhtudagáv nannit </em>
-      </p>
-    </list>
-    <p>Valla Pedersen ij máhte javllat jur goassa master-åhpadusáv fállagåhti.</p>
-    <p>
-      <em type="italic">– Mij sihtap dav fállagoahtet nav ruvva gå máhttelis. </em>
-    </p>
-    <p type="title">Julevsámegiela stipendiáhtta</p>
-    <p>Oadtjot dågålasj ja nuoges fáhkatjiehpijt gudi máhtti åhpadiddjen barggat ja bagádallat studentajt la dat stuorámus hásstalus jur dán hárráj.</p>
-    <p>– Uddni li miján fáhkaulmutja julevsáme bachelor-åhpadusáv tjadádittjat, valla vuojnos jus juoktá máhttep nannit julevsáme fáhkabirrasav mijá universitehtan vaj dåhkki åhpadit master-studentajt, dættot sån.</p>
-    <p>Universitehtta vuojn viertti nannit julevsámegiela fáhkabirrasav gå gájbbeduvvá doktorgráda sujsta gut master-studentajt galggá åhpadit.</p>
-    <p>
-      <em type="italic">–Mij lip barggamin vaj oadtjop ruhtaduvvam stipendiáhtavirgev julevsámegielan ja das maŋŋáj de almodip virgev rahpusin. Mån doajvov dát la tjoavdeduvvam dán jage, javllá Pedersen. </em>
-    </p>
-    <p>Rektor aj dættot man ájnas dán aktijvuodan la lahka aktisattjat barggat iehtjádij.</p>
-    <p>– Dát gájbbet lahka aktisasjbargov sijáj gudi fálli sámegielak åhpadusfálaldagájt dagu Sáme allaskåvlåjn ja fáhkatjiehpij Svierigin ja Suoman. Mij vierttip tjadnat buorre aktisasjbargov sámegiela professorij ja fáhkatjiehpij jus dájna galggap vuorbástuvvat, dættot sån.</p>
-    <p type="title">Histåvrråfágan ådå fálaldak</p>
-    <p>Nordlánda universitehtan la aj ájggomus oadtjot ietjá sáme åhpadusfálaldagájt jåhtuj.</p>
-    <p>– Tjavtja rájes sjaddap aj ådå åhpadusfálaldagáv fállagoahtet histåvrråfágan. Sij gudi histåvrråfágav master-dásen låhki, oadtju sierra sáme kursav sáme histåvrråj majt studenta dan dásen máhtti låhkåt. Dát la ållu ådå fálaldahka mij fáladuvvá tjavtja rájes, subtsas Pedersen.</p>
-    <p type="title">Master-åhpadus</p>
-    <list>
-      <p type="listitem">Alepdáse åhpadus mij vihpá 4-5 jage.</p>
-      <p type="listitem">Åhpadus la nubbe dásse alep åhpadusán, vuolep dásse l bachelorgráda, ja dan alep la mastergráda.</p>
-      <p type="listitem">Fáladuvvá allaskåvlåjn ja universitehtajn.</p>
-      <p type="listitem">Gálldo:Wikipedia</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Vijdedi sáme fálaldagájt</title><genre code="news"/><author><person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/></author><year>2013</year><publChannel><publication><publisher>NRK Sápmi</publisher></publication></publChannel><wordcount>413</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@it.no"/><origFileName>http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.10905513</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Samegillii</p>
+<p><em type="italic">Maŋimuš ođđasat sámegillii </em></p>
+<p/>
+<p type="title">Vijdedi sáme fálaldagájt</p>
+<p>Nordlanda universitehtta sihtá vijdedit julevsámegiela åhpadusfálaldagájt. Dav subtsas rektor Pål Pedersen.</p>
+<p>Nordlánda universitehtta vijdet sijá julevsámegiela åhpadusfálaldagájt Bådåddjon. Dav diededij universitehta rektor Pål Pedersen iektu gå universitehtta tjadádij sáme seminárav Bådådjo sáme biejvij aktijvuodan.</p>
+<p><em type="italic">– Mij ham dijmmá jåhtuj biejajma julevsáme bachelor-åhpadusáv ragátmáno mij la riek buoragit doajmmam. Så mån vuojnáv dárbov vijdedit julevsáme giellaåhpadusáv. Jus vuorbástuvvap de lulu mij fállagoahtet master-åhpadusáv julevsámegielan nav ruvva gå máhttelis, subtsas Nordlánda universitehta rektor, Pål Pedersen NRK:aj. </em></p>
+<p type="title">Julevsáme master-fálaldahka</p>
+<p>Julevsáme bachelor rahpamis ragátmáno dijmmá. Studenta ja rektor.</p>
+<p>Vássám tjavtja jåhtuj biejaj Nordlánda universitehtta julevsámegiela bachelor-åhpadusáv.</p>
+<p>Dat la ållu ådå julevsámegiela åhpadusfálaldahka ja la dat ájnna julevsámegiela åhpadusfálaldahka alep dásen mij ålluk Vuonarijkan gávnnu.</p>
+<p>21 studenta låhki dálla julevsámegiela bachelorav.</p>
+<list><p type="listitem"><em type="italic">LÅGÅ AJ: </em><em type="italic">– Mærkkabiejvve julevsámijda </em></p>
+<p type="listitem"><em type="italic">LÅGÅ AJ: Først ute i verden </em></p>
+<p type="listitem"><em type="italic">LÅGÅ AJ: Starter opp med lulesamisk bachelor </em></p>
+</list><p>Rektora mielas la Nordlánda universitehtta buoragit vuorbástuvvam dájna åhpadusájn náv guhkás, ja sån sihtá vijdedit åhpadusfálaldagájt.</p>
+<p><em type="italic">– Doajvov mij juo åvddål 2020 lip åhpadum dajt vuostasj master-kandidáhtajt julevsámegielan, javllá Pedersen. </em></p>
+<p>Sån subtsas moattes sijájs gudi dálla li julevsáme bachelor-åhpadussaj álggám sihti joarkket master-åhpadusájn.</p>
+<list><p type="listitem"><em type="italic">LÅGÅ AJ: Sihtá sámegiela máhtudagáv nannit </em></p>
+</list><p>Valla Pedersen ij máhte javllat jur goassa master-åhpadusáv fállagåhti.</p>
+<p><em type="italic">– Mij sihtap dav fállagoahtet nav ruvva gå máhttelis. </em></p>
+<p type="title">Julevsámegiela stipendiáhtta</p>
+<p>Oadtjot dågålasj ja nuoges fáhkatjiehpijt gudi máhtti åhpadiddjen barggat ja bagádallat studentajt la dat stuorámus hásstalus jur dán hárráj.</p>
+<p>– Uddni li miján fáhkaulmutja julevsáme bachelor-åhpadusáv tjadádittjat, valla vuojnos jus juoktá máhttep nannit julevsáme fáhkabirrasav mijá universitehtan vaj dåhkki åhpadit master-studentajt, dættot sån.</p>
+<p>Universitehtta vuojn viertti nannit julevsámegiela fáhkabirrasav gå gájbbeduvvá doktorgráda sujsta gut master-studentajt galggá åhpadit.</p>
+<p><em type="italic">–Mij lip barggamin vaj oadtjop ruhtaduvvam stipendiáhtavirgev julevsámegielan ja das maŋŋáj de almodip virgev rahpusin. Mån doajvov dát la tjoavdeduvvam dán jage, javllá Pedersen. </em></p>
+<p>Rektor aj dættot man ájnas dán aktijvuodan la lahka aktisattjat barggat iehtjádij.</p>
+<p>– Dát gájbbet lahka aktisasjbargov sijáj gudi fálli sámegielak åhpadusfálaldagájt dagu Sáme allaskåvlåjn ja fáhkatjiehpij Svierigin ja Suoman. Mij vierttip tjadnat buorre aktisasjbargov sámegiela professorij ja fáhkatjiehpij jus dájna galggap vuorbástuvvat, dættot sån.</p>
+<p type="title">Histåvrråfágan ådå fálaldak</p>
+<p>Nordlánda universitehtan la aj ájggomus oadtjot ietjá sáme åhpadusfálaldagájt jåhtuj.</p>
+<p>– Tjavtja rájes sjaddap aj ådå åhpadusfálaldagáv fállagoahtet histåvrråfágan. Sij gudi histåvrråfágav master-dásen låhki, oadtju sierra sáme kursav sáme histåvrråj majt studenta dan dásen máhtti låhkåt. Dát la ållu ådå fálaldahka mij fáladuvvá tjavtja rájes, subtsas Pedersen.</p>
+<p type="title">Master-åhpadus</p>
+<list><p type="listitem">Alepdáse åhpadus mij vihpá 4-5 jage.</p>
+<p type="listitem">Åhpadus la nubbe dásse alep åhpadusán, vuolep dásse l bachelorgráda, ja dan alep la mastergráda.</p>
+<p type="listitem">Fáladuvvá allaskåvlåjn ja universitehtajn.</p>
+<p type="listitem">Gálldo:Wikipedia</p>
+</list></body></document>

@@ -1,190 +1,116 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1348</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/Jo2/Undervisningsopplegg-Lesestrategi/index.html</origFileName>
-    <parallel_text xml:lang="nob" location="sfs_veiledning_20_undervisningsopplegg-lesest.html"/>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_20_undervisningsopplegg-lesestr.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_20_undervisningsopplegg-lesestrategier.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Åhpadimgárvvidusbuojkulvisá: Låhkåmstrátegija</p>
-    <p type="title">Åhpadimgárvvidusbuojkulvisá: Låhkåmstrátegija</p>
-    <p xml:lang="nob">Hovedinnhold</p>
-    <p><em type="italic">Dásse: </em>Jo2 – viddnofágalasj åhpadusprográmma ja lasádus dábálasj oahppomáhtudahkaj viddnofágalasj åhpadusprográmma </p>
-    <p><em type="italic">Tiebmá: </em>låhkåmstrátegija – låhkåt åhpatjit </p>
-    <p><em type="italic">Ájgge: </em>guhtta åhpadimtijma </p>
-    <p xml:lang="nob">Vis alle</p>
-    <p type="title">Álgadus</p>
-    <p>Åhpadimgárvvidus vuoset buojkulvisáv gåktu barggat máhtudakmihtoj jåvsåtjit. Dánna vuoseduvvá gåktu máhtudakmihto båhti vuojnnuj åhpadusmihttomierijn, ma li lávke gåktu máhtudakmihtojt jåksåt. Åhpadimgárvvidus vuoset ájggeguovddelis barggamvuogijt, gåktu vuodotjehpudagá åvtåstuhteduvvi ja gåktu åhpadiddje hiebat åhpadusáv oahppijda ja árvustallá sijájt bargadahttijn. Oahppe galggi aj ietjasa ja guhtik guojmesa bargov árvustallat.</p>
-    <p>Åhpadimgárvvidus vuoset gåktu oahppe máhtti oadtjot buorre låhkåmstrátegijajt gå barggi gålmåjn tevstajn.</p>
-    <p type="title">Máhtudakmihto ML06-S an</p>
-    <p>
-      <em type="italic">Máhtudakmihto Jo2 - </em>
-      <em type="italic">oahppogárvedime </em>
-      <em type="italic">åhpadusprográmma ja lasádus dábálasj oahppomáhtudahkaj -viddnofágalasj åhpadusprográmma maŋŋela </em>
-    </p>
-    <p>Tjálalasj guládallam</p>
-    <p>
-      <em type="italic">Åhpadusá mihttomierre le oahppe galggi máhttet </em>
-    </p>
-    <list>
-      <p type="listitem">gåvådit ja árvustallat ietjas låhkåm- ja tjállemstrategijajt</p>
-    </list>
-    <p>
-      <em type="italic">Ietjá hiebalgis máhtudakmihto </em>
-    </p>
-    <p>Tjálalasj guládallam</p>
-    <p>
-      <em type="italic">Åhpadusá mihttomierre le oahppe galggi máhttet </em>
-    </p>
-    <list>
-      <p type="listitem">låhkåt tevstajt ma li tjáledum dålusj tjállemvuogij milta ja buohtastahttet dálásj tjállemvuogijn</p>
-      <p type="listitem">låhkåt ja analyserit vissa oasev duot dát tevstas, tjáppagirjálasjvuoda ja ássjeprosa sjáŋŋarijs, ma gulluji ájgegávddaj maŋŋel jage 1995</p>
-    </list>
-    <p>Njálmálasj guládallam</p>
-    <p>
-      <em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em>
-    </p>
-    <list>
-      <p type="listitem">analyserit ja tjielggit guládallamvuogijt ja guládallamstrategijajt sáme sebrudagájn åvddål ja dálla</p>
-    </list>
-    <p type="title">Åhpadusmihttomiere</p>
-    <p>Oahppoplánan Sámegiella vuostasj giellan le sierra máhtudakmihto låhkåmstrátegijajda 7. jahkedáse maŋŋela: <em type="italic">“ </em>Åhpadusá mihttomierre le oahppe galggá máhttet adnet duov dáv låhkåmstrategiijav gå låhkå duov dáv tevstav duon dán láhkáj” Oahppoplánan sámegiella vuostasj giellan LK06-S’an le vuodotjehpudahka máhttet låhkåt dættodam “ <em type="italic">Duon dán sjáŋ </em><em type="italic">ŋ </em><em type="italic">ara tækstalåhkåmijn moatten gássjelisvuodadásen åvddånahteduvvá tækstadádjadus ja ávkálasj låhkåmstrategija </em>” Dan diehti åhpadimgárvvidussa le vuododam dan nali oahppe dåbddi ja duov dáv låhkåmstrátegijav li adnám. </p>
-    <p>Ulmme dájna åhpadimgárvvidusájn le oahppe galggi gæhttjaladdat duojt dájt låhkåmstrátegijajt, gávnatjit makkár låhkåmstrátegija hiehpi sidjij duon dán dilen. Ulmme oahppijda le låhkåt vaj buoremusát oahppi.</p>
-    <p>Oahppe galggi máhttet</p>
-    <list>
-      <p type="listitem">gæhttjaladdet låhkåmstrátegijajt</p>
-      <p type="listitem">árvustallat ietjasa ávkev låhkåmis</p>
-      <p type="listitem">tjielggit mij la ávkken ja mij ij la, duon dán låhkåmstrátegijan</p>
-      <p type="listitem">válljit ávkálasj låhkåmstrátegijajt</p>
-    </list>
-    <p>Åhpadiddje ságas oahppij åhpadusmihttomierij birra, ma li lávke jåvsåtjit máhtudakmihtojt.</p>
-    <p type="title">Vuodotjehpudagá</p>
-    <p><em type="italic">Máhttet låhkåt: </em>tevstajt låhkåt </p>
-    <p><em type="italic">Máhttet njálmálattjat åvddånbuktet: </em>ságastallat ja dágástallat tevstaj birra ja ságastallat låhkåmstrátegijaj birra </p>
-    <p><em type="italic">Máhttet tjálálattjat åvddånbuktet: </em>iesjárvustallamav tjállet </p>
-    <p><em type="italic">Máhttet digitála ræjdojt adnet: </em>tevstajt internehtas viedtjat </p>
-    <p type="title">Gárvedime</p>
-    <p>Oahppe subtsasti låhkåmstrátegijaj birra majt sij dåbddi, ja ságasti strátegijaj birra majt sij ienemusát adni. Tjielggiji låhkåmstrátegijajt. Dassta man birra oahppe subtsasti ja tsuojggiji dagá gåvåv táblluj. Dát máhttá åhpadiddjáj gåvådit majt oahppe bukti, ja oahppe guojedi dåjs nuppijs. Jus bihkus oahppe e nav moadda låhkåmstrátegijajt dåbdå, viertti åhpadiddje merustit jus vierttiji ienebujn oahpástuvvat, gæhttjaladdat dajt ja adnet dajt aktijvalattjat árvustalátjit gåktu da doajmmi juohkkahattjaj duon dán låhkåmin.</p>
-    <p>Dassta maŋŋela oahppe dágástalli makkir låhkåmstrátegija sijá mielas li ávkálattja gå galggi låhkåt gålmmå tevsta majt åhpadiddje sidjij vuoset.</p>
-    <p>Henriksen, Henrik A.: <em type="italic">Væhas skuvlai birra Finmarkost. </em>Nuorttanaste 30.11.1902 </p>
-    <p>Lund, Gustav F. <em type="italic">: Vela væhaš skuvlai birra Finmarkost. </em>Nuorttanaste 30.11.1902 </p>
-    <p>Vogt, Nils Collet: <em type="italic">Okta giella Finnmárkkus! </em>Sámás: Issát Sámmol Heatta </p>
-    <p>Åhpadimgárvvidusáv dåhkki tjuovvot juska klássa ietjá tevstajt vállji.</p>
-    <p>Vuodon dágástallamij vierttiji oahppe dåbddåt manen galggi tevstajt låhkåt.</p>
-    <p>Buojkulvisá</p>
-    <list>
-      <p type="listitem">Oahppe galggi máhttet mujttalit tevstaj oajvvesisanov</p>
-      <p type="listitem">Oahppe galggi guottojt dåbddåt ma tevstajn båhti vuojnnuj</p>
-      <p type="listitem">Oahppe galggi åhtjudit vuodov dágástalátjit dájt guottojt</p>
-    </list>
-    <p>Ságastallam ja diedojt åhtsåt</p>
-    <p>Gatjálvisåvddåmerka</p>
-    <list>
-      <p type="listitem">Makkir vuorddemusájt le oahppijn tevstajda?</p>
-      <p type="listitem">Makkir vuorddemusájt bajelttjála vaddá?</p>
-      <p type="listitem">Makkir vuorddemusájt gåvå vaddi?</p>
-      <p type="listitem">Makkir histåvrrålasj dilen tjállin?</p>
-      <p type="listitem">Man birra li tevsta?</p>
-      <p type="listitem">Makkir vuojnojt tæksta buktá?</p>
-    </list>
-    <p>Guovten tevstan le ortográfija ietjá gå guolmádin. Makkir vuorddemusájt dát låhkåmij vaddá?</p>
-    <p>Gåktu oahppe dáv åtsådalli?</p>
-    <p type="title">Oahppamdåjma</p>
-    <p><em type="italic">Gåvåv oadtjot </em>Oahppe låhki namájt ja bajelttjálajt ja gåvåjt gæhttji. Subtsasti majt sij ájádalli tevsta/tevstaj tiebmá le. </p>
-    <p><em type="italic">Låhkålit </em>Oahppe låhkåli tevstav/tevstajt ja gássjelis bágojt gávnni. Åhpadiddje ságas oahppij daj gássjelis bágoj birra ja oahppe tjielggiji bágojt. Sij máhtti báhkolistav tjállet báhkotjielggidimij. </p>
-    <p><em type="italic">Dárkkelis låhkåm </em>Oahppe tevstav/tevstajt låhki gávnatjit makkir guotto båhti vuojnnuj tevstajn. </p>
-    <p><em type="italic">Låhkåma maŋŋela </em>Åhpådiddje ságas oahppij majt gávnnin lågådahttijn tevstajt. Sij subtsasti makkir strátegijajtsij adnin ja árvustallat dajt. Sij tjielggiji mij dåjmaj, ja mij ittjij dåjma duon dán dilen. </p>
-    <p>Ihkap muhtemij mielaj milta le vilá gássjel dádjadit man birra tevsta li, jali makkit guotto båhti vuojnnuj. De oahppeguojme máhtti tsuojggit ja bagádit gåktu galggi låhkåt vaj vásstádusájt gávnni. Oahppe árvustalli bagádallamijt ja gæhttjaladdi avtav jali ienebuv dajs. Sij diededi gåktu dát manáj.</p>
-    <p>Guovtes ja guovtes jali juohkusijn oahppe tjoahkkájgessusav tevstajs dahki, ja tevstav tjálli oajvvevuojno birra tevstan.</p>
-    <p>Oahppe máhtti oadtjot barggon tjielggit guládallamvuogijt ja guládallamstrátegijajt sáme sebrudagájn åvdebut ja dálla. Vuodon adnbi tevstajt. Åvddånbukti dáv njálmálattjat oahppeguojmijda, jali tjálálattjat åhpadiddjáj.</p>
-    <p type="title">Hiebadum åhpadibme</p>
-    <p>Lågå Henriksena ja Lunde (gehtja Åvddål låhkåma jali Resursa vuolen) tevstajt tjavgga aktan muhtemijs oahppijs. Ganuga gå la dárbbo tjielggit bágojt ja jus tjállemvuohke dahká tevstav gássjel låhkåt.</p>
-    <p>Divna sjávot låhki Nils Collet Vogta tevstav. Sijájn gænna le dárbbo máhtti astos barggat , ja sijájn gudi jåhtelit barggat, såbada makkir bargojn galggi joarkket gå gærggi barggat, nav vaj sij gudi vilá låhki e hiemssiduvá.</p>
-    <p>Åhpadiddje ságas ájnegisoahppijn hásstálusáj birra gå tevstajt låhki, ja viehket sijájt gæhttjaladdat hiebalgis strátegijajt.</p>
-    <p>Muhtema árvvaladdi sierra dåbddåmerkajt tevstajn ja gielalasj vájkkodimnævojt unnep juohkusijn.</p>
-    <p>Muhtema árvvaladdi mij jáhkedahtte ulmme le læhkám tevstajt tjállet.</p>
-    <p type="title">Guhkásåhpadibme</p>
-    <p>Åhpadimgárvvidus buoragit guhkásåhpadibmen hiehpá.</p>
-    <p type="title">Árvustallam</p>
-    <p>
-      <em type="italic">Árvustallam bargadahttijn </em>
-    </p>
-    <p>Oahppe ietjasa árvustalli bargo álgadimen. Majna sij ietjasij mielas buoragit bukti? Mij la gássjelis? Sij tjåvdabágojt jali låkkav dán birra tjálli. Dát vaddá åhpadiddjáj ávkálasj diedojt nav vaj máhttá barggoprosessan duorjodit oahppijt buoremusát gåk máhttelis le.</p>
-    <p>Åhpadiddje mujttádahttá oahppijt åhpadusmihttomierijt. Sij galggi gæhttjaladdat ienep låhkåmstrátegijajt ja árvustallat ietjasa ávkev låhkåmis. Sij galggi tjielggit mij la ávkken ja mij ij la duon dán låhkåmstrátegijan ja ávkálsj låhkåmstrátegijajt válljit.</p>
-    <p>Barggogávda gietjen gæhttji oahppe majt sij li dán bargo álgon tjállám, ja árvustalli gåktu dille dálla le. Le gus sij ådå strátegijajt gæhttjalam? Le gus sij gávnnam strátegijav mij sidjij buoragit hiehpi? Bukti sij juoga dálla majt sij etjin åvddåla buvte? Majt li barggam vaj smidáp sjaddat? Gåktu le dát doajmmam?</p>
-    <p>
-      <em type="italic">Máhtudakmihtojt árvustallat </em>
-    </p>
-    <p>Dála tjuovvu buojkulvis gåktu åhpadiddje oahppij máhtudagájt árvustallá.</p>
-    <p>Åhpadiddje oahpásmahttá oahppijt daj máhtudagáj maj galggi kåksåt ja tjielggit mihttomierrejåksåma dåbddomerkajt. Dá dåbddåmerka sjaddi vuodon gå åhpadiddje galggá oahppijn ságastit suv máhtudagáj birra. Sjiemán mij tjuovvu, le máhtudahka tjielggidum gålmån dásen. Sjiebmá máhttá aneduvvat vuodon gå oahppe máhtudagá duodastahteduvvi, duola degu jahkebielárvustallamin . Dáse hiehpi gå åhpadiddje galggá vuosedit oahppijda makkir dásijn sij li jali majna galggi åvddålij guovlluj barggat, ja gå åhpadiddje sihtá vuosedit åvddånahttemav.</p>
-    <p>Tjielggit ja árvustallat ietjas låhkåmstrátegijajt</p>
-    <p>
-      <em type="italic">Vuollegis máhtudahka </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="bold">(karakterra 2) </em>
-    </p>
-    <p>
-      <em type="italic">Ållu buorre jali buorre máhtudahka </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="bold">(karakterra 3 eller 4) </em>
-    </p>
-    <p>
-      <em type="italic">Huj buorre máhtudahka </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="bold">(karakterra 5 eller 6) </em>
-    </p>
-    <p>Dån subtsasta muhtem låhkåmstrátegijaj birra majt la adnám, ja gåktu da duv mielas li dunji doajmmam</p>
-    <p>Dujna le moattelágásj låhkåmstrátegija ja máhtá dajt tjielggit</p>
-    <p>Dån buohtastahtá muhtemijt dájs låhkåmstrátegijajs ja tjielggi mij le buoremusát doajmmam duon dán låhkåmin</p>
-    <p>Dån diedulattjat vállji duov dáv låhkåmstrátegijav duon dán låhkåmbargguj ja máhtá tjielggit manen</p>
-    <p>
-      <em type="italic">Árvustallam bargadahttijn  </em>
-    </p>
-    <p>Oahppe ietjasa árvustalli bargo álgadimen. Majna sij ietjasij mielas buoragit bukti? Mij la gássjelis? Sij tjåvdabágojt jali låkkav dán birra tjálli. Dát vaddá åhpadiddjáj ávkálasj diedojt nav vaj máhttá barggoprosessan duorjodit oahppijt buoremusát gåk máhttelis le.</p>
-    <p>Åhpadiddje mujttádahttá oahppijt åhpadusmihttomierijt. Sij galggi gæhttjaladdat ienep låhkåmstrátegijajt ja árvustallat ietjasa ávkev låhkåmis.  Sij galggi tjielggit mij la ávkken ja mij ij la  duon dán låhkåmstrátegijan ja ávkálsj låhkåmstrátegijajt válljit.</p>
-    <p type="title">Barggogávda gietjen gæhttji oahppe majt sij li dán bargo álgon tjállám, ja árvustalli gåktu dille dálla le. Le gus sij ådå strátegijajt gæhttjalam? Le gus sij gávnnam strátegijav mij sidjij buoragit hiehpi? Bukti sij juoga dálla majt sij etjin åvddåla buvte? Majt li barggam vaj smidáp sjaddat? Gåktu le dát doajmmam?</p>
-    <p type="title" xml:lang="nob">Resursa</p>
-    <p>Tevsta: http://skuvla.info .</p>
-    <p>ELFRID BOINE - SIRI BROCH JOHANSEN - SVEIN LUND - SIV RASMUSSEN (DOAIM.) 2010: Sámi skuvlahistorjá 4. Kárášjohka: Davvi Girji o.s.</p>
-    <p>3 tevsta:</p>
-    <p>HENRIKSEN, HENRIK A.: Væhas skuvlai birra Finmarkost. Nuorttanaste 30.11.1902</p>
-    <p>LUND, GUSTAV F.: Vela væhaš skuvlai birra Finmarkost. Nuorttanaste 30.11.1902</p>
-    <p>VOGT, NILS COLLET: Okta giella Finnmárkkus! Sámás: Issát Sámmol Heatta</p>
-    <p>
-      <em type="italic">Oarjjelsámegiellaj </em>
-    </p>
-    <p>JÅMA, ALBERT: Skuvlen jih båatsoeburrien gaskesne. http://skuvla.info/skolehist/albert-s.htm</p>
-    <p>THOMASSON, JONAR: Åarjelh-saemien lohkehtæjja viehkine bøøti. http://skuvla.info/skolehist/jonar-s.htm</p>
-    <p>KAPPFJELL, SOFIE - WESTERFJELL ,EBBA: Internate buerebe voenen skuvleste. http://skuvla.info/skolehist/ebbasofie-s.htm</p>
-    <p>ANDERSEN, THORBJØRN: Rektovre luhkie tjijhtje jaepieh åarjelh-saemien skuvlesne. http://skuvla.info/skolehist/thorbj-s.htm</p>
-    <p>
-      <em type="italic">Julevsámegiellaj </em>
-    </p>
-    <p>ANTA PIRAK: Jåhtte sáme viessom, Blaasvær forlag 1993, gávnnu aj jiednagirjjen CD, ja aj åvdep tjállemvuogijn</p>
-    <p>LIV INGER SOMBY: Gielas Gilli, Mielas Milli 6, mediagirjje. Davvi Girji 2006</p>
-    <p>KAIA KALSTAD,Dan ájge ulmusj, http://skuvla.info/skolehist/kaia-s.htm , Artihkal girjes Sámij skåvllåhiståvrrå 2 . Davvi Girji 2007.</p>
-    <p>KARL M. PAULSEN, Åhpadibme julevsámegiellaj dárojduhttemájgen http://skuvla.info/skolehist/kalle-s.htm Artihkal girjes Sámij skåvllåhiståvrrå 2 . Davvi Girji 2007.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1348</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/Jo2/Undervisningsopplegg-Lesestrategi/index.html</origFileName><parallel_text xml:lang="nob" location="sfs_veiledning_20_undervisningsopplegg-lesest.html"/><parallel_text xml:lang="sma" location="sfs_veiledning_20_undervisningsopplegg-lesestr.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_20_undervisningsopplegg-lesestrategier.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Åhpadimgárvvidusbuojkulvisá: Låhkåmstrátegija</p>
+<p type="title">Åhpadimgárvvidusbuojkulvisá: Låhkåmstrátegija</p>
+<p xml:lang="nob">Hovedinnhold</p>
+<p><em type="italic">Dásse: </em>Jo2 – viddnofágalasj åhpadusprográmma ja lasádus dábálasj oahppomáhtudahkaj viddnofágalasj åhpadusprográmma </p>
+<p><em type="italic">Tiebmá: </em>låhkåmstrátegija – låhkåt åhpatjit </p>
+<p><em type="italic">Ájgge: </em>guhtta åhpadimtijma </p>
+<p xml:lang="nob">Vis alle</p>
+<p type="title">Álgadus</p>
+<p>Åhpadimgárvvidus vuoset buojkulvisáv gåktu barggat máhtudakmihtoj jåvsåtjit. Dánna vuoseduvvá gåktu máhtudakmihto båhti vuojnnuj åhpadusmihttomierijn, ma li lávke gåktu máhtudakmihtojt jåksåt. Åhpadimgárvvidus vuoset ájggeguovddelis barggamvuogijt, gåktu vuodotjehpudagá åvtåstuhteduvvi ja gåktu åhpadiddje hiebat åhpadusáv oahppijda ja árvustallá sijájt bargadahttijn. Oahppe galggi aj ietjasa ja guhtik guojmesa bargov árvustallat.</p>
+<p>Åhpadimgárvvidus vuoset gåktu oahppe máhtti oadtjot buorre låhkåmstrátegijajt gå barggi gålmåjn tevstajn.</p>
+<p type="title">Máhtudakmihto ML06-S an</p>
+<p><em type="italic">Máhtudakmihto Jo2 - </em><em type="italic">oahppogárvedime </em><em type="italic">åhpadusprográmma ja lasádus dábálasj oahppomáhtudahkaj -viddnofágalasj åhpadusprográmma maŋŋela </em></p>
+<p>Tjálalasj guládallam</p>
+<p><em type="italic">Åhpadusá mihttomierre le oahppe galggi máhttet </em></p>
+<list><p type="listitem">gåvådit ja árvustallat ietjas låhkåm- ja tjállemstrategijajt</p>
+</list><p><em type="italic">Ietjá hiebalgis máhtudakmihto </em></p>
+<p>Tjálalasj guládallam</p>
+<p><em type="italic">Åhpadusá mihttomierre le oahppe galggi máhttet </em></p>
+<list><p type="listitem">låhkåt tevstajt ma li tjáledum dålusj tjállemvuogij milta ja buohtastahttet dálásj tjállemvuogijn</p>
+<p type="listitem">låhkåt ja analyserit vissa oasev duot dát tevstas, tjáppagirjálasjvuoda ja ássjeprosa sjáŋŋarijs, ma gulluji ájgegávddaj maŋŋel jage 1995</p>
+</list><p>Njálmálasj guládallam</p>
+<p><em type="italic">Åhpadusá mihttomierre le oahppe galggá máhttet </em></p>
+<list><p type="listitem">analyserit ja tjielggit guládallamvuogijt ja guládallamstrategijajt sáme sebrudagájn åvddål ja dálla</p>
+</list><p type="title">Åhpadusmihttomiere</p>
+<p>Oahppoplánan Sámegiella vuostasj giellan le sierra máhtudakmihto låhkåmstrátegijajda 7. jahkedáse maŋŋela: <em type="italic">“ </em>Åhpadusá mihttomierre le oahppe galggá máhttet adnet duov dáv låhkåmstrategiijav gå låhkå duov dáv tevstav duon dán láhkáj” Oahppoplánan sámegiella vuostasj giellan LK06-S’an le vuodotjehpudahka máhttet låhkåt dættodam “ <em type="italic">Duon dán sjáŋ </em><em type="italic">ŋ </em><em type="italic">ara tækstalåhkåmijn moatten gássjelisvuodadásen åvddånahteduvvá tækstadádjadus ja ávkálasj låhkåmstrategija </em>” Dan diehti åhpadimgárvvidussa le vuododam dan nali oahppe dåbddi ja duov dáv låhkåmstrátegijav li adnám. </p>
+<p>Ulmme dájna åhpadimgárvvidusájn le oahppe galggi gæhttjaladdat duojt dájt låhkåmstrátegijajt, gávnatjit makkár låhkåmstrátegija hiehpi sidjij duon dán dilen. Ulmme oahppijda le låhkåt vaj buoremusát oahppi.</p>
+<p>Oahppe galggi máhttet</p>
+<list><p type="listitem">gæhttjaladdet låhkåmstrátegijajt</p>
+<p type="listitem">árvustallat ietjasa ávkev låhkåmis</p>
+<p type="listitem">tjielggit mij la ávkken ja mij ij la, duon dán låhkåmstrátegijan</p>
+<p type="listitem">válljit ávkálasj låhkåmstrátegijajt</p>
+</list><p>Åhpadiddje ságas oahppij åhpadusmihttomierij birra, ma li lávke jåvsåtjit máhtudakmihtojt.</p>
+<p type="title">Vuodotjehpudagá</p>
+<p><em type="italic">Máhttet låhkåt: </em>tevstajt låhkåt </p>
+<p><em type="italic">Máhttet njálmálattjat åvddånbuktet: </em>ságastallat ja dágástallat tevstaj birra ja ságastallat låhkåmstrátegijaj birra </p>
+<p><em type="italic">Máhttet tjálálattjat åvddånbuktet: </em>iesjárvustallamav tjállet </p>
+<p><em type="italic">Máhttet digitála ræjdojt adnet: </em>tevstajt internehtas viedtjat </p>
+<p type="title">Gárvedime</p>
+<p>Oahppe subtsasti låhkåmstrátegijaj birra majt sij dåbddi, ja ságasti strátegijaj birra majt sij ienemusát adni. Tjielggiji låhkåmstrátegijajt. Dassta man birra oahppe subtsasti ja tsuojggiji dagá gåvåv táblluj. Dát máhttá åhpadiddjáj gåvådit majt oahppe bukti, ja oahppe guojedi dåjs nuppijs. Jus bihkus oahppe e nav moadda låhkåmstrátegijajt dåbdå, viertti åhpadiddje merustit jus vierttiji ienebujn oahpástuvvat, gæhttjaladdat dajt ja adnet dajt aktijvalattjat árvustalátjit gåktu da doajmmi juohkkahattjaj duon dán låhkåmin.</p>
+<p>Dassta maŋŋela oahppe dágástalli makkir låhkåmstrátegija sijá mielas li ávkálattja gå galggi låhkåt gålmmå tevsta majt åhpadiddje sidjij vuoset.</p>
+<p>Henriksen, Henrik A.: <em type="italic">Væhas skuvlai birra Finmarkost. </em>Nuorttanaste 30.11.1902 </p>
+<p>Lund, Gustav F. <em type="italic">: Vela væhaš skuvlai birra Finmarkost. </em>Nuorttanaste 30.11.1902 </p>
+<p>Vogt, Nils Collet: <em type="italic">Okta giella Finnmárkkus! </em>Sámás: Issát Sámmol Heatta </p>
+<p>Åhpadimgárvvidusáv dåhkki tjuovvot juska klássa ietjá tevstajt vállji.</p>
+<p>Vuodon dágástallamij vierttiji oahppe dåbddåt manen galggi tevstajt låhkåt.</p>
+<p>Buojkulvisá</p>
+<list><p type="listitem">Oahppe galggi máhttet mujttalit tevstaj oajvvesisanov</p>
+<p type="listitem">Oahppe galggi guottojt dåbddåt ma tevstajn båhti vuojnnuj</p>
+<p type="listitem">Oahppe galggi åhtjudit vuodov dágástalátjit dájt guottojt</p>
+</list><p>Ságastallam ja diedojt åhtsåt</p>
+<p>Gatjálvisåvddåmerka</p>
+<list><p type="listitem">Makkir vuorddemusájt le oahppijn tevstajda?</p>
+<p type="listitem">Makkir vuorddemusájt bajelttjála vaddá?</p>
+<p type="listitem">Makkir vuorddemusájt gåvå vaddi?</p>
+<p type="listitem">Makkir histåvrrålasj dilen tjállin?</p>
+<p type="listitem">Man birra li tevsta?</p>
+<p type="listitem">Makkir vuojnojt tæksta buktá?</p>
+</list><p>Guovten tevstan le ortográfija ietjá gå guolmádin. Makkir vuorddemusájt dát låhkåmij vaddá?</p>
+<p>Gåktu oahppe dáv åtsådalli?</p>
+<p type="title">Oahppamdåjma</p>
+<p><em type="italic">Gåvåv oadtjot </em>Oahppe låhki namájt ja bajelttjálajt ja gåvåjt gæhttji. Subtsasti majt sij ájádalli tevsta/tevstaj tiebmá le. </p>
+<p><em type="italic">Låhkålit </em>Oahppe låhkåli tevstav/tevstajt ja gássjelis bágojt gávnni. Åhpadiddje ságas oahppij daj gássjelis bágoj birra ja oahppe tjielggiji bágojt. Sij máhtti báhkolistav tjállet báhkotjielggidimij. </p>
+<p><em type="italic">Dárkkelis låhkåm </em>Oahppe tevstav/tevstajt låhki gávnatjit makkir guotto båhti vuojnnuj tevstajn. </p>
+<p><em type="italic">Låhkåma maŋŋela </em>Åhpådiddje ságas oahppij majt gávnnin lågådahttijn tevstajt. Sij subtsasti makkir strátegijajtsij adnin ja árvustallat dajt. Sij tjielggiji mij dåjmaj, ja mij ittjij dåjma duon dán dilen. </p>
+<p>Ihkap muhtemij mielaj milta le vilá gássjel dádjadit man birra tevsta li, jali makkit guotto båhti vuojnnuj. De oahppeguojme máhtti tsuojggit ja bagádit gåktu galggi låhkåt vaj vásstádusájt gávnni. Oahppe árvustalli bagádallamijt ja gæhttjaladdi avtav jali ienebuv dajs. Sij diededi gåktu dát manáj.</p>
+<p>Guovtes ja guovtes jali juohkusijn oahppe tjoahkkájgessusav tevstajs dahki, ja tevstav tjálli oajvvevuojno birra tevstan.</p>
+<p>Oahppe máhtti oadtjot barggon tjielggit guládallamvuogijt ja guládallamstrátegijajt sáme sebrudagájn åvdebut ja dálla. Vuodon adnbi tevstajt. Åvddånbukti dáv njálmálattjat oahppeguojmijda, jali tjálálattjat åhpadiddjáj.</p>
+<p type="title">Hiebadum åhpadibme</p>
+<p>Lågå Henriksena ja Lunde (gehtja Åvddål låhkåma jali Resursa vuolen) tevstajt tjavgga aktan muhtemijs oahppijs. Ganuga gå la dárbbo tjielggit bágojt ja jus tjállemvuohke dahká tevstav gássjel låhkåt.</p>
+<p>Divna sjávot låhki Nils Collet Vogta tevstav. Sijájn gænna le dárbbo máhtti astos barggat , ja sijájn gudi jåhtelit barggat, såbada makkir bargojn galggi joarkket gå gærggi barggat, nav vaj sij gudi vilá låhki e hiemssiduvá.</p>
+<p>Åhpadiddje ságas ájnegisoahppijn hásstálusáj birra gå tevstajt låhki, ja viehket sijájt gæhttjaladdat hiebalgis strátegijajt.</p>
+<p>Muhtema árvvaladdi sierra dåbddåmerkajt tevstajn ja gielalasj vájkkodimnævojt unnep juohkusijn.</p>
+<p>Muhtema árvvaladdi mij jáhkedahtte ulmme le læhkám tevstajt tjállet.</p>
+<p type="title">Guhkásåhpadibme</p>
+<p>Åhpadimgárvvidus buoragit guhkásåhpadibmen hiehpá.</p>
+<p type="title">Árvustallam</p>
+<p><em type="italic">Árvustallam bargadahttijn </em></p>
+<p>Oahppe ietjasa árvustalli bargo álgadimen. Majna sij ietjasij mielas buoragit bukti? Mij la gássjelis? Sij tjåvdabágojt jali låkkav dán birra tjálli. Dát vaddá åhpadiddjáj ávkálasj diedojt nav vaj máhttá barggoprosessan duorjodit oahppijt buoremusát gåk máhttelis le.</p>
+<p>Åhpadiddje mujttádahttá oahppijt åhpadusmihttomierijt. Sij galggi gæhttjaladdat ienep låhkåmstrátegijajt ja árvustallat ietjasa ávkev låhkåmis. Sij galggi tjielggit mij la ávkken ja mij ij la duon dán låhkåmstrátegijan ja ávkálsj låhkåmstrátegijajt válljit.</p>
+<p>Barggogávda gietjen gæhttji oahppe majt sij li dán bargo álgon tjállám, ja árvustalli gåktu dille dálla le. Le gus sij ådå strátegijajt gæhttjalam? Le gus sij gávnnam strátegijav mij sidjij buoragit hiehpi? Bukti sij juoga dálla majt sij etjin åvddåla buvte? Majt li barggam vaj smidáp sjaddat? Gåktu le dát doajmmam?</p>
+<p><em type="italic">Máhtudakmihtojt árvustallat </em></p>
+<p>Dála tjuovvu buojkulvis gåktu åhpadiddje oahppij máhtudagájt árvustallá.</p>
+<p>Åhpadiddje oahpásmahttá oahppijt daj máhtudagáj maj galggi kåksåt ja tjielggit mihttomierrejåksåma dåbddomerkajt. Dá dåbddåmerka sjaddi vuodon gå åhpadiddje galggá oahppijn ságastit suv máhtudagáj birra. Sjiemán mij tjuovvu, le máhtudahka tjielggidum gålmån dásen. Sjiebmá máhttá aneduvvat vuodon gå oahppe máhtudagá duodastahteduvvi, duola degu jahkebielárvustallamin . Dáse hiehpi gå åhpadiddje galggá vuosedit oahppijda makkir dásijn sij li jali majna galggi åvddålij guovlluj barggat, ja gå åhpadiddje sihtá vuosedit åvddånahttemav.</p>
+<p>Tjielggit ja árvustallat ietjas låhkåmstrátegijajt</p>
+<p><em type="italic">Vuollegis máhtudahka </em></p>
+<p xml:lang="nob"><em type="bold">(karakterra 2) </em></p>
+<p><em type="italic">Ållu buorre jali buorre máhtudahka </em></p>
+<p xml:lang="nob"><em type="bold">(karakterra 3 eller 4) </em></p>
+<p><em type="italic">Huj buorre máhtudahka </em></p>
+<p xml:lang="nob"><em type="bold">(karakterra 5 eller 6) </em></p>
+<p>Dån subtsasta muhtem låhkåmstrátegijaj birra majt la adnám, ja gåktu da duv mielas li dunji doajmmam</p>
+<p>Dujna le moattelágásj låhkåmstrátegija ja máhtá dajt tjielggit</p>
+<p>Dån buohtastahtá muhtemijt dájs låhkåmstrátegijajs ja tjielggi mij le buoremusát doajmmam duon dán låhkåmin</p>
+<p>Dån diedulattjat vállji duov dáv låhkåmstrátegijav duon dán låhkåmbargguj ja máhtá tjielggit manen</p>
+<p><em type="italic">Árvustallam bargadahttijn  </em></p>
+<p>Oahppe ietjasa árvustalli bargo álgadimen. Majna sij ietjasij mielas buoragit bukti? Mij la gássjelis? Sij tjåvdabágojt jali låkkav dán birra tjálli. Dát vaddá åhpadiddjáj ávkálasj diedojt nav vaj máhttá barggoprosessan duorjodit oahppijt buoremusát gåk máhttelis le.</p>
+<p>Åhpadiddje mujttádahttá oahppijt åhpadusmihttomierijt. Sij galggi gæhttjaladdat ienep låhkåmstrátegijajt ja árvustallat ietjasa ávkev låhkåmis.  Sij galggi tjielggit mij la ávkken ja mij ij la  duon dán låhkåmstrátegijan ja ávkálsj låhkåmstrátegijajt válljit.</p>
+<p type="title">Barggogávda gietjen gæhttji oahppe majt sij li dán bargo álgon tjállám, ja árvustalli gåktu dille dálla le. Le gus sij ådå strátegijajt gæhttjalam? Le gus sij gávnnam strátegijav mij sidjij buoragit hiehpi? Bukti sij juoga dálla majt sij etjin åvddåla buvte? Majt li barggam vaj smidáp sjaddat? Gåktu le dát doajmmam?</p>
+<p type="title" xml:lang="nob">Resursa</p>
+<p>Tevsta: http://skuvla.info .</p>
+<p>ELFRID BOINE - SIRI BROCH JOHANSEN - SVEIN LUND - SIV RASMUSSEN (DOAIM.) 2010: Sámi skuvlahistorjá 4. Kárášjohka: Davvi Girji o.s.</p>
+<p>3 tevsta:</p>
+<p>HENRIKSEN, HENRIK A.: Væhas skuvlai birra Finmarkost. Nuorttanaste 30.11.1902</p>
+<p>LUND, GUSTAV F.: Vela væhaš skuvlai birra Finmarkost. Nuorttanaste 30.11.1902</p>
+<p>VOGT, NILS COLLET: Okta giella Finnmárkkus! Sámás: Issát Sámmol Heatta</p>
+<p><em type="italic">Oarjjelsámegiellaj </em></p>
+<p>JÅMA, ALBERT: Skuvlen jih båatsoeburrien gaskesne. http://skuvla.info/skolehist/albert-s.htm</p>
+<p>THOMASSON, JONAR: Åarjelh-saemien lohkehtæjja viehkine bøøti. http://skuvla.info/skolehist/jonar-s.htm</p>
+<p>KAPPFJELL, SOFIE - WESTERFJELL ,EBBA: Internate buerebe voenen skuvleste. http://skuvla.info/skolehist/ebbasofie-s.htm</p>
+<p>ANDERSEN, THORBJØRN: Rektovre luhkie tjijhtje jaepieh åarjelh-saemien skuvlesne. http://skuvla.info/skolehist/thorbj-s.htm</p>
+<p><em type="italic">Julevsámegiellaj </em></p>
+<p>ANTA PIRAK: Jåhtte sáme viessom, Blaasvær forlag 1993, gávnnu aj jiednagirjjen CD, ja aj åvdep tjállemvuogijn</p>
+<p>LIV INGER SOMBY: Gielas Gilli, Mielas Milli 6, mediagirjje. Davvi Girji 2006</p>
+<p>KAIA KALSTAD,Dan ájge ulmusj, http://skuvla.info/skolehist/kaia-s.htm , Artihkal girjes Sámij skåvllåhiståvrrå 2 . Davvi Girji 2007.</p>
+<p>KARL M. PAULSEN, Åhpadibme julevsámegiellaj dárojduhttemájgen http://skuvla.info/skolehist/kalle-s.htm Artihkal girjes Sámij skåvllåhiståvrrå 2 . Davvi Girji 2007.</p>
+</body></document>

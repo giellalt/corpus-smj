@@ -1,86 +1,46 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1198</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Abartta</origFileName>
-    <parallel_text xml:lang="fin" location="abortti.html"/>
-    <parallel_text xml:lang="fit" location="abortti.html"/>
-    <parallel_text xml:lang="sma" location="abort.html"/>
-    <parallel_text xml:lang="sme" location="aborta.html"/>
-    <parallel_text xml:lang="swe" location="abort.html"/>
-    <parallel_text location="phatra-pari-abort.html" xml:lang="rmu"/>
-    <parallel_text location="kana-e-uvli-udel-pestar.html" xml:lang="rmy-rka"/>
-    <parallel_text location="abortos.html" xml:lang="rmf"/>
-    <parallel_text location="abortsia.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="abortiribehinavibe-o-khamnipa.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Abårttå</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Abårttå</p>
-    <p>Abårttå merkaj iesselisvuodav boarkkit. Jus ájádallá abårtåv dahkat de soajtti edna gatjálvisá. Valla máhttá agev soabmásijn gávnadit vásstádusájt åttjudit ietjas gatjálvisájda. Guosská aj gesi l soabmásav iesselissan dahkam.</p>
-    <p>Gå sihtá abårtåv dahkat de soajttá oare ednaga. Máhttá årrot danen gå ietjas ij gärggogin dåbdå. Adná ietjas ilá nuorran jali ij hieba ietjas viessomin jur dalloj. Márjju gejna l iesselissan sjaddam ij la gejna sidá mánáv adnet.</p>
-    <p>Riektá l abårtåv dahkat ja ij dárbaha iehtjádij tjielggit, juska vil oarre. Tjáledum la abårttålágan. Riektá l aj rievddat akta goassa abårtå åvddåla.</p>
-    <p>Abårtåv dahkat ij dagá dav gássjelabbon iesselissan sjaddat boahtteájge. Ij ga gávnnu áldarmierre abårtåv dagátjit.</p>
-    <p type="title">Abårtå åvddåla</p>
-    <p>Gänna ájádallá abårtåv dahkat soajtti edna gatjálvisá ja de márjju l buorre soabmásijn ságastit. Abårtå gáktuj agev fáladuvvá doarjja ja viehkke, goappátjagá åvddål ja maŋŋela. Gut soabmásav iesselissan la dahkam máhttá aj gávnadit soabmásijn jus sihtá.</p>
-    <p type="title">Niejdda gut mierret</p>
-    <p>Agev la buorre ságastit gejna l iesselissan sjaddam, gåktu sihtá dahkat. Jus la máhttelis de l aj buorre aktan mierredit. Valla jus ij ájgás boade, de agev la iesselis niejdda, gut mierret jus galggá abårtåv dahkat jali ij. Gut l soabmásav iesselissan dahkam, ij la riektá aktu mierredit jus galggá abårtåv dahkat jali mánáv riegádahttet.</p>
-    <p type="title">Guojmmen gesi abårtåv dahká</p>
-    <p>Juska vil märrádus abårtå birra l aktisasj jali ij, de guojmmen soajttá vájves vásadus. Goappátjagá abårttåduostudagájn ja nuorajduostudagájn máhttá soabmásijn gávnadit gejna ságas, juogu de goappátja aktan jali aktu.</p>
-    <p>Abårtå maŋŋela máhttá goappátjagá gähppánimev ja håjev dåbddåt. Dåbdo ja ájádusá máhtti målsudit ájge milta ja muhttijn esski båhti maŋebut abårtå maŋŋela.</p>
-    <p>Ihka vil ájgge l vássám, de máhttá aktavuodav válldet buojkulvissan nuorajduostudagájn ságastittjat dåbdoj birra.</p>
-    <p type="title">Goassa máhttá abårtåv dahkat?</p>
-    <p>Gitta 18 iesselisvuohtavahko rádjáj la riektá abårtåv dahkat váni ij aktasik giehttot manen.</p>
-    <p>18 iesselisvuohtavahko maŋŋela rávkaduvvá loahpe Sosiálastivras abårtåv dagátjit. Dakkir loabev oadtju val jus li sierralágásj oare abårttåj. Buojkulvisá dasi máhtti årrot gå l sieldes nuorra, li gassjelisvuoda alkoholajn jali drogaj, l illastuvvam jali ågen la muhtem tjavgga vahák jali ij la iemeláhkáj åvdeduvvam.</p>
-    <p type="title">Gånnå abårtåv dahká?</p>
-    <p>Abårttå agev dagáduvvá skihpadåben jali ietjá tjiehppeklinijkajn, ij máhte buojkulvissan abårtåv dahkat nuorajduostudagán. Valla jus diehtá l iesselissan ja ájádallá abårtåv dahkat de máhttá aktavuodav válldet nuorajduostudagájn rádev oattjotjit. Máhttá aj mannat varresvuohtaguovdátjij jali gynekologaj. Máhtti aj viehkedit aktavuodav válldet abårttåduostudagájn skihpadåben.</p>
-    <p>Máhttá aj iesj riŋŋgit njuolgga abårttåduostudahkaj ja ájgev diŋŋgot. Jus diehtá sihtá abårtåv dahkat de l buorre ájgev diŋŋgot nåv ruvva máhttelis danen gå muhttijn máhtti vuorddemájge muhtem duostudagájn.</p>
-    <p type="title">Gåktu abårttå dagáduvvá?</p>
-    <p>Abårttå máhttá umassláhkáj dagáduvvat. Makkir vuogij milta dagáduvvá mierreduvvá man guhka ájgge l vássám iesselisvuodan. Åtsådittjat makkir iesselisvuohtavahkon la vuododuvvá maŋemus läjbboma vuostasj biejves. Ij de riekkni almma sahkanimes.</p>
-    <p type="title">Gitta avtse vahkkuj</p>
-    <p>Gitta avtse vahkkuj máhttá abårtåv dahkat dálkkasij viehkken. Gåhtjudallá medisijnalasj abårttån. Muhtem sajijn tjärdda aneduvvá lågenanguovte vahkuj. Oadtju tablehtav abårttåduostudagán, dát ij la sämmi gå hähkka-p-tablähtta. Gå l tablehtav bårråm de oadtju häjmmaj mannat.</p>
-    <p>Avta jali guovte biejve maŋŋela boahtá ruoptus duostudahkaj oattjotjit ådå dálkkasav, juogu de tablähttan majt njiella jali biejaduvvá guoddnáj. Ganugasstá de duostudagán maŋŋela ja moadda tijma duogen varddegoahtá ja iesselisvuohta boarkki. Máhttá bávtjájdallat valla dasi oadtju bávtjasgiehpedimev ja maŋebut sämmi biejve häjmmaj manná.</p>
-    <p>Máhttelis la aj abårtåv hejman tjadádit, nåv gåhtjodum häjmmaabårttån. De nuppe vuoro tablehtajt ja hejman. Loabeduvátjit häjmmaabårtåv dahkat de hähttu binnemusát 18 jage vuoras ja ietjas lunna l ietjá ållessjattuk.</p>
-    <p>Moadda vahko abårtå maŋŋela ådåsis gynekologa jali gáhppeliddje lunna manát dagátjit ådå iesselisvuohtaåtsådimev ja giehtutjit gåktu viessu. Iesski dalloj medisijnalasj abårttå aneduvvá ållu tjadádum. Muhttijn aj åtsådibme dagáduvvá gehtjadittjat vaj e buojkulvissan plasentas bátsidusá gávnnu skoadon. Jus da gávnnuji de máhttá nåv gåhtjodum ráhpom dagáduvvat ja de njamáduvvi oase ma li báhtsam várrogit ierit. Jus dárbaj dav dahkat de jábmeduvvá.</p>
-    <p type="title">Gitta 12 vahkkuj</p>
-    <p>Gitta 12 vahko vahkkujj , máhttá dahkat nåv gåhtjodum tjuollam abårttån, dalloj ráhpom de dagáduvvá. Tjuollambåttå l jábmedum. Dåktår tsahká instrumentav skåhtuj. Instrumännta l aktijbiejadum njammamrusstaj. Várrogit åhke ja plasännta njamáduvvá skoados. Oalle abårttå gihtja 20 minuvta bájken. Maŋŋela ganut duostudagán moadda tijma vuojŋgadittjat. Moadda vahko maŋebut muhttijn ådåsismanádibme dagáduvvá.</p>
-    <p type="title">12 vahko maŋŋela ja gitta 18 vahkuj</p>
-    <p>Maŋŋela 12 vahko de abårttå hähttu guovten lávken dagáduvvat. Duostudagán vatteduvvá vuostak dálkkasa ma la sämmi tablähtta tjerdas ma aneduvvi árra abårtån. Guovte biejve maŋŋela boahtá ruoptus duostudahkaj ja vatteduvvá ådå dálkkasa ma álgadi skoado aktijgiessemijt vaj åhke suojmma ålgus boahtá.</p>
-    <p>Sjimustahttá unnepriegádahttemijn ja máhttá bávtjájdallat sämmiláhkáj gå mánáv riegádahttá. Ájgge mij rávkaduvvá målsut, moattet tijmas gitta moatte jánndurij valla ienemusájda jánndura sinna. Dav ájgen la skihpadåben sisitjáledum. Gå abårttå l dagádum de dåktår skoadov åtsåt. Jus plasentas bátsidusá li de máhttá skoados ráhpom dárbulasj årrot. Moadda vahko abårtå maŋŋela máhttá muhttijn ådåsismanádit skihpadåben.</p>
-    <p type="title">18 vahko maŋŋela</p>
-    <p>18 vahko maŋŋela galggá sierra oarre abårtåv dahkat. Abårttå dagáduvvá sämmiláhkáj gå 12 vahko maŋŋela.</p>
-    <p type="title">Majt abårttå máksá?</p>
-    <p>Majt máksá abårtåv dahkat målsut jur gånnå rijkan årru. Moatten sajen ij dárbaha majdek mákset jus ij la 20 jage ållim. Jus dárbaj mákset de máksá bájken 300 kråvnå juska vil man vuoras. Jus sihtá diehtet jur majt máksá gånnå iesj årru, de máhttá gatjádit soabmásis nuorajduostudagán jali gáhppeliddjeduostudagán. Máhttá aj aktavuodav válldet abårttåduostudagájn.</p>
-    <p type="title">Hähttuji gus äjgáda jali sujttoaddne diedojt oadtjot?</p>
-    <p>Barggijn duostudagájn la sjávovälggogisvuohta. Valla jus galggá abårtåv dahkat de l buorre jus soames máhttá doarjjan årrot abårtå åvddål ja maŋŋela. Jus la nuorra de bargge álu oajvvadi äjgáda jali ietjá sujttoaddne oadtju diehtet abårtåv la dagátjit. Jus ij hejman máhte giehttot abårtåv la dagátjit de márjju máhttá giehttot iehtjádij gesi åssku. Máhttá årrot ållessjattuk oarbben, beraj, kuratåvrrå ja skihpasujtár skåvlån jali ietjá ulmusj gut máhttá doarjodit.</p>
-    <p>Jus äjgádij jali ietjá sujttoaddnij aktavuodav váldeduvvá de mierreduvvá vidjurij milta ja vuododuvvá iehtjádij siegen majt iesj sihtá, vidjurijs ja man vuoras la. Dadi lagábut 18 jage vuoras la dadi binnebut la äjgádin jali ietjá sujttoaddnen riektá diedojt oadtjot ietjas aktavuodaj birra sujtujn. Ienemusát máhttá ságastallat gåktu dahkat barggij maj gávnat. Jus äjgádij jali sujttoaddnij aktavuodav váldeduvvá de agev iesj vuostak diededuvvá.</p>
-    <p>Jus la nåvti vaj ietjas äjgáda jali sujttoaddne e åbbå oattjo diehtet jut abårtåv sihtá dahkat, dajna gå juojddá allasis máhttá sjaddat, de sujttobargge e aktavuodav sijájn válde. Abårtåv dahkat ij galga tjuovvusav vaddet aktak vájves vidjurijda sjaddá. Máhttá de ienni viehkev kuratåvrås jali ietjá doarjjaulmutjis oadtjot.</p>
-    <p type="title">Abårtå maŋŋela</p>
-    <p>Buorre l vuojŋadit biejvijt abårtå maŋŋela. Vuostasj biejvijn ja gitta vahkkuj máhttá báktjit, vargga degu läjbbombáktjasa. Vahko abårtå maŋŋela álu varddá vargga degu l läjbbom jali márjju ienebuv. Man guhkev varddá rievddá ulmutjis ulmutjij ja makkir abårttå. Nåv guhkev gå varddá ij galga seksav adnet, tampuvnav adnet jali lávggot danen gå máhttá infeksjåvnåv oadtjot. Läjbbom álu boahtá ruoptus nielje gitta gudá vahko maŋŋela.</p>
-    <p>Abårtå maŋŋela muhtema dåbddi gähppánimev gå iehtjáda håjev dåbddi. Máhttá aj målsudit daj dåbdoj gaskan ja muhttijn esski båhti maŋebut abårtå maŋŋela.</p>
-    <p>Juska vil guhka ájgge l vássám de máhttá aktavuodav válldet duostudagájn ságastittjat ietjas dåbdoj birra. Máhttá dav dahkat duostudagán gånnå abårttå dagáduváj jali buojkulvissan nuorajduostudagán.</p>
-    <p>Muhttijn l dan duogen gå ij ietjas váseda gärggok, l ilá nuorra jali ij hiebá ietjas viessomin jur dalloj. Márjju gejna l aktan iesselissan sjaddam ij la gejna sidá mánáv oadtjot. Juska vil oarre de l riektá abårtåv dahkat váni darbaha ietjas tjielggit ietjá ulmutjij. Tjáledum la abårttålágan. Riektá l aj ietjas rievddat akta goassa abårtå åvddåla. Ij gávnnu áldarmierre dagátjit abårtåv.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1193</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Abartta</origFileName><parallel_text xml:lang="fin" location="abortti.html"/><parallel_text xml:lang="fit" location="abortti.html"/><parallel_text xml:lang="sma" location="abort.html"/><parallel_text xml:lang="sme" location="aborta.html"/><parallel_text xml:lang="swe" location="abort.html"/><parallel_text location="phatra-pari-abort.html" xml:lang="rmu"/><parallel_text location="kana-e-uvli-udel-pestar.html" xml:lang="rmy-rka"/><parallel_text location="abortos.html" xml:lang="rmf"/><parallel_text location="abortsia.html" xml:lang="rmy-rlo"/><parallel_text location="abortiribehinavibe-o-khamnipa.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Abårttå</p>
+<p type="title" xml:lang="swe">Abårttå</p>
+<p>Abårttå merkaj iesselisvuodav boarkkit. Jus ájádallá abårtåv dahkat de soajtti edna gatjálvisá. Valla máhttá agev soabmásijn gávnadit vásstádusájt åttjudit ietjas gatjálvisájda. Guosská aj gesi l soabmásav iesselissan dahkam.</p>
+<p>Gå sihtá abårtåv dahkat de soajttá oare ednaga. Máhttá årrot danen gå ietjas ij gärggogin dåbdå. Adná ietjas ilá nuorran jali ij hieba ietjas viessomin jur dalloj. Márjju gejna l iesselissan sjaddam ij la gejna sidá mánáv adnet.</p>
+<p>Riektá l abårtåv dahkat ja ij dárbaha iehtjádij tjielggit, juska vil oarre. Tjáledum la abårttålágan. Riektá l aj rievddat akta goassa abårtå åvddåla.</p>
+<p>Abårtåv dahkat ij dagá dav gássjelabbon iesselissan sjaddat boahtteájge. Ij ga gávnnu áldarmierre abårtåv dagátjit.</p>
+<p type="title">Abårtå åvddåla</p>
+<p>Gänna ájádallá abårtåv dahkat soajtti edna gatjálvisá ja de márjju l buorre soabmásijn ságastit. Abårtå gáktuj agev fáladuvvá doarjja ja viehkke, goappátjagá åvddål ja maŋŋela. Gut soabmásav iesselissan la dahkam máhttá aj gávnadit soabmásijn jus sihtá.</p>
+<p type="title">Niejdda gut mierret</p>
+<p>Agev la buorre ságastit gejna l iesselissan sjaddam, gåktu sihtá dahkat. Jus la máhttelis de l aj buorre aktan mierredit. Valla jus ij ájgás boade, de agev la iesselis niejdda, gut mierret jus galggá abårtåv dahkat jali ij. Gut l soabmásav iesselissan dahkam, ij la riektá aktu mierredit jus galggá abårtåv dahkat jali mánáv riegádahttet.</p>
+<p type="title">Guojmmen gesi abårtåv dahká</p>
+<p>Juska vil märrádus abårtå birra l aktisasj jali ij, de guojmmen soajttá vájves vásadus. Goappátjagá abårttåduostudagájn ja nuorajduostudagájn máhttá soabmásijn gávnadit gejna ságas, juogu de goappátja aktan jali aktu.</p>
+<p>Abårtå maŋŋela máhttá goappátjagá gähppánimev ja håjev dåbddåt. Dåbdo ja ájádusá máhtti målsudit ájge milta ja muhttijn esski båhti maŋebut abårtå maŋŋela.</p>
+<p>Ihka vil ájgge l vássám, de máhttá aktavuodav válldet buojkulvissan nuorajduostudagájn ságastittjat dåbdoj birra.</p>
+<p type="title">Goassa máhttá abårtåv dahkat?</p>
+<p>Gitta 18 iesselisvuohtavahko rádjáj la riektá abårtåv dahkat váni ij aktasik giehttot manen.</p>
+<p>18 iesselisvuohtavahko maŋŋela rávkaduvvá loahpe Sosiálastivras abårtåv dagátjit. Dakkir loabev oadtju val jus li sierralágásj oare abårttåj. Buojkulvisá dasi máhtti årrot gå l sieldes nuorra, li gassjelisvuoda alkoholajn jali drogaj, l illastuvvam jali ågen la muhtem tjavgga vahák jali ij la iemeláhkáj åvdeduvvam.</p>
+<p type="title">Gånnå abårtåv dahká?</p>
+<p>Abårttå agev dagáduvvá skihpadåben jali ietjá tjiehppeklinijkajn, ij máhte buojkulvissan abårtåv dahkat nuorajduostudagán. Valla jus diehtá l iesselissan ja ájádallá abårtåv dahkat de máhttá aktavuodav válldet nuorajduostudagájn rádev oattjotjit. Máhttá aj mannat varresvuohtaguovdátjij jali gynekologaj. Máhtti aj viehkedit aktavuodav válldet abårttåduostudagájn skihpadåben.</p>
+<p>Máhttá aj iesj riŋŋgit njuolgga abårttåduostudahkaj ja ájgev diŋŋgot. Jus diehtá sihtá abårtåv dahkat de l buorre ájgev diŋŋgot nåv ruvva máhttelis danen gå muhttijn máhtti vuorddemájge muhtem duostudagájn.</p>
+<p type="title">Gåktu abårttå dagáduvvá?</p>
+<p>Abårttå máhttá umassláhkáj dagáduvvat. Makkir vuogij milta dagáduvvá mierreduvvá man guhka ájgge l vássám iesselisvuodan. Åtsådittjat makkir iesselisvuohtavahkon la vuododuvvá maŋemus läjbboma vuostasj biejves. Ij de riekkni almma sahkanimes.</p>
+<p type="title">Gitta avtse vahkkuj</p>
+<p>Gitta avtse vahkkuj máhttá abårtåv dahkat dálkkasij viehkken. Gåhtjudallá medisijnalasj abårttån. Muhtem sajijn tjärdda aneduvvá lågenanguovte vahkuj. Oadtju tablehtav abårttåduostudagán, dát ij la sämmi gå hähkka-p-tablähtta. Gå l tablehtav bårråm de oadtju häjmmaj mannat.</p>
+<p>Avta jali guovte biejve maŋŋela boahtá ruoptus duostudahkaj oattjotjit ådå dálkkasav, juogu de tablähttan majt njiella jali biejaduvvá guoddnáj. Ganugasstá de duostudagán maŋŋela ja moadda tijma duogen varddegoahtá ja iesselisvuohta boarkki. Máhttá bávtjájdallat valla dasi oadtju bávtjasgiehpedimev ja maŋebut sämmi biejve häjmmaj manná.</p>
+<p>Máhttelis la aj abårtåv hejman tjadádit, nåv gåhtjodum häjmmaabårttån. De nuppe vuoro tablehtajt ja hejman. Loabeduvátjit häjmmaabårtåv dahkat de hähttu binnemusát 18 jage vuoras ja ietjas lunna l ietjá ållessjattuk.</p>
+<p>Moadda vahko abårtå maŋŋela ådåsis gynekologa jali gáhppeliddje lunna manát dagátjit ådå iesselisvuohtaåtsådimev ja giehtutjit gåktu viessu. Iesski dalloj medisijnalasj abårttå aneduvvá ållu tjadádum. Muhttijn aj åtsådibme dagáduvvá gehtjadittjat vaj e buojkulvissan plasentas bátsidusá gávnnu skoadon. Jus da gávnnuji de máhttá nåv gåhtjodum ráhpom dagáduvvat ja de njamáduvvi oase ma li báhtsam várrogit ierit. Jus dárbaj dav dahkat de jábmeduvvá.</p>
+<p type="title">Gitta 12 vahkkuj</p>
+<p>Gitta 12 vahko vahkkujj , máhttá dahkat nåv gåhtjodum tjuollam abårttån, dalloj ráhpom de dagáduvvá. Tjuollambåttå l jábmedum. Dåktår tsahká instrumentav skåhtuj. Instrumännta l aktijbiejadum njammamrusstaj. Várrogit åhke ja plasännta njamáduvvá skoados. Oalle abårttå gihtja 20 minuvta bájken. Maŋŋela ganut duostudagán moadda tijma vuojŋgadittjat. Moadda vahko maŋebut muhttijn ådåsismanádibme dagáduvvá.</p>
+<p type="title">12 vahko maŋŋela ja gitta 18 vahkuj</p>
+<p>Maŋŋela 12 vahko de abårttå hähttu guovten lávken dagáduvvat. Duostudagán vatteduvvá vuostak dálkkasa ma la sämmi tablähtta tjerdas ma aneduvvi árra abårtån. Guovte biejve maŋŋela boahtá ruoptus duostudahkaj ja vatteduvvá ådå dálkkasa ma álgadi skoado aktijgiessemijt vaj åhke suojmma ålgus boahtá.</p>
+<p>Sjimustahttá unnepriegádahttemijn ja máhttá bávtjájdallat sämmiláhkáj gå mánáv riegádahttá. Ájgge mij rávkaduvvá målsut, moattet tijmas gitta moatte jánndurij valla ienemusájda jánndura sinna. Dav ájgen la skihpadåben sisitjáledum. Gå abårttå l dagádum de dåktår skoadov åtsåt. Jus plasentas bátsidusá li de máhttá skoados ráhpom dárbulasj årrot. Moadda vahko abårtå maŋŋela máhttá muhttijn ådåsismanádit skihpadåben.</p>
+<p type="title">18 vahko maŋŋela</p>
+<p>18 vahko maŋŋela galggá sierra oarre abårtåv dahkat. Abårttå dagáduvvá sämmiláhkáj gå 12 vahko maŋŋela.</p>
+<p type="title">Majt abårttå máksá?</p>
+<p>Majt máksá abårtåv dahkat målsut jur gånnå rijkan årru. Moatten sajen ij dárbaha majdek mákset jus ij la 20 jage ållim. Jus dárbaj mákset de máksá bájken 300 kråvnå juska vil man vuoras. Jus sihtá diehtet jur majt máksá gånnå iesj årru, de máhttá gatjádit soabmásis nuorajduostudagán jali gáhppeliddjeduostudagán. Máhttá aj aktavuodav válldet abårttåduostudagájn.</p>
+<p type="title">Hähttuji gus äjgáda jali sujttoaddne diedojt oadtjot?</p>
+<p>Barggijn duostudagájn la sjávovälggogisvuohta. Valla jus galggá abårtåv dahkat de l buorre jus soames máhttá doarjjan årrot abårtå åvddål ja maŋŋela. Jus la nuorra de bargge álu oajvvadi äjgáda jali ietjá sujttoaddne oadtju diehtet abårtåv la dagátjit. Jus ij hejman máhte giehttot abårtåv la dagátjit de márjju máhttá giehttot iehtjádij gesi åssku. Máhttá årrot ållessjattuk oarbben, beraj, kuratåvrrå ja skihpasujtár skåvlån jali ietjá ulmusj gut máhttá doarjodit.</p>
+<p>Jus äjgádij jali ietjá sujttoaddnij aktavuodav váldeduvvá de mierreduvvá vidjurij milta ja vuododuvvá iehtjádij siegen majt iesj sihtá, vidjurijs ja man vuoras la. Dadi lagábut 18 jage vuoras la dadi binnebut la äjgádin jali ietjá sujttoaddnen riektá diedojt oadtjot ietjas aktavuodaj birra sujtujn. Ienemusát máhttá ságastallat gåktu dahkat barggij maj gávnat. Jus äjgádij jali sujttoaddnij aktavuodav váldeduvvá de agev iesj vuostak diededuvvá.</p>
+<p>Jus la nåvti vaj ietjas äjgáda jali sujttoaddne e åbbå oattjo diehtet jut abårtåv sihtá dahkat, dajna gå juojddá allasis máhttá sjaddat, de sujttobargge e aktavuodav sijájn válde. Abårtåv dahkat ij galga tjuovvusav vaddet aktak vájves vidjurijda sjaddá. Máhttá de ienni viehkev kuratåvrås jali ietjá doarjjaulmutjis oadtjot.</p>
+<p type="title">Abårtå maŋŋela</p>
+<p>Buorre l vuojŋadit biejvijt abårtå maŋŋela. Vuostasj biejvijn ja gitta vahkkuj máhttá báktjit, vargga degu läjbbombáktjasa. Vahko abårtå maŋŋela álu varddá vargga degu l läjbbom jali márjju ienebuv. Man guhkev varddá rievddá ulmutjis ulmutjij ja makkir abårttå. Nåv guhkev gå varddá ij galga seksav adnet, tampuvnav adnet jali lávggot danen gå máhttá infeksjåvnåv oadtjot. Läjbbom álu boahtá ruoptus nielje gitta gudá vahko maŋŋela.</p>
+<p>Abårtå maŋŋela muhtema dåbddi gähppánimev gå iehtjáda håjev dåbddi. Máhttá aj målsudit daj dåbdoj gaskan ja muhttijn esski båhti maŋebut abårtå maŋŋela.</p>
+<p>Juska vil guhka ájgge l vássám de máhttá aktavuodav válldet duostudagájn ságastittjat ietjas dåbdoj birra. Máhttá dav dahkat duostudagán gånnå abårttå dagáduváj jali buojkulvissan nuorajduostudagán.</p>
+<p>Muhttijn l dan duogen gå ij ietjas váseda gärggok, l ilá nuorra jali ij hiebá ietjas viessomin jur dalloj. Márjju gejna l aktan iesselissan sjaddam ij la gejna sidá mánáv oadtjot. Juska vil oarre de l riektá abårtåv dahkat váni darbaha ietjas tjielggit ietjá ulmutjij. Tjáledum la abårttålágan. Riektá l aj ietjas rievddat akta goassa abårtå åvddåla. Ij gávnnu áldarmierre dagátjit abårtåv.</p>
+</body></document>

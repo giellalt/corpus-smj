@@ -1,51 +1,13 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>214</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/AAhtsaali-politijajt-gudi-samegielav-ja-kultuvrav-daabddi</origFileName>
-    <parallel_text xml:lang="nob" location="etterlyser-politifolk-med-kompetanse-paa-samisk-spraak-og-kultur.html"/>
-    <parallel_text xml:lang="sma" location="pollisealmetjh-ohtsede-saemien-giele-jih-kultuvremaahtojne.html"/>
-    <parallel_text xml:lang="sme" location="darbbasit-politiijaid-geain-lea-gelbbolasvuohta-sami-gielas-ja-kultuvrras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åhtsåli politijajt gudi sámegielav ja kultuvrav dåbddi / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
-    <p type="title">Åhtsåli politijajt gudi sámegielav ja kultuvrav dåbddi</p>
-    <p xml:lang="nob">28. tsïengele 2013</p>
-    <p>Sámediggeráde le guhkev juo måråstam jut politijan ælla heva giella- ja kultuvrramáhtudagá ja navti sámij riektásihkarvuohta hedjun. Ássje le dal Riektá- ja gárvvásindepartmenta åvdås låggŋidum.</p>
-    <p>
-      <em type="bold">- Tjabu dåppe gånnå tjiehpes bargge sáme giella- ja kultuvrramáhtudagájn gávnnuji de le læhkám hásstalus sijájt virggáj biedjat sáme guovlojn. Akta sivájs soajttá liehket ij le læhkám tjielgas gåktu sij galggi virggájbiedjadimen vuoroduvvat, tjielggi sámediggepresidennta Egil Olli. </em>
-    </p>
-    <p>Olli javllá vijddábut Sámediggeráde le sihtam nav jåhtelit gå máhttelis båhti njuolgadusá ma vuorodi sámegielak barggijt ja barggijt gejn le kultuvrramáhtudahka sáme guovlo virgijda.</p>
-    <p>Riektá- ja gárvvásindepartemennta le dal tjielgadam dáv ja javlli bæssá sihke dættodit, ja aj gájbbedit sámegiela- ja kultuvra máhtudagáv sáme guovlojn dárbboánályjsa milta.</p>
-    <p>
-      <em type="bold">- Ávvusav gå Riektá- ja gárvvásindepartemennta le tjoavddusav duodas válldám ja miejnniji sámegiela- ja kultuvra máhtudagáv máhttá sihke dættodit ja gájbbedit sáme guovlojn, javllá presidennta Egil Olli. </em>
-    </p>
-    <p>Máhtto daj sebrudagáj birra gånnå politijabargge barggi le ájnas gå galggá dilijt dádjadit, bájkálasj sebrudagá sisbælláj bessat ja duohta diedojt oadtjot.</p>
-    <p>
-      <em type="bold">- Danen li sámegiela- ja kultuvra tjiehpe politijabargge sáme guovlojn ájnnasa sámij riektásihkarvuodav bisodittjat, låhpat presidennta Egil Olli. </em>
-    </p>
-    <p>
-      <em type="bold">Aktijvuohta: </em>
-    </p>
-    <p xml:lang="sme">Sámediggepresidennta Egil Olli , tlf. 900 26 880</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>214</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/AAhtsaali-politijajt-gudi-samegielav-ja-kultuvrav-daabddi</origFileName><parallel_text xml:lang="nob" location="etterlyser-politifolk-med-kompetanse-paa-samisk-spraak-og-kultur.html"/><parallel_text xml:lang="sma" location="pollisealmetjh-ohtsede-saemien-giele-jih-kultuvremaahtojne.html"/><parallel_text xml:lang="sme" location="darbbasit-politiijaid-geain-lea-gelbbolasvuohta-sami-gielas-ja-kultuvrras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åhtsåli politijajt gudi sámegielav ja kultuvrav dåbddi / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
+<p type="title">Åhtsåli politijajt gudi sámegielav ja kultuvrav dåbddi</p>
+<p xml:lang="nob">28. tsïengele 2013</p>
+<p>Sámediggeráde le guhkev juo måråstam jut politijan ælla heva giella- ja kultuvrramáhtudagá ja navti sámij riektásihkarvuohta hedjun. Ássje le dal Riektá- ja gárvvásindepartmenta åvdås låggŋidum.</p>
+<p><em type="bold">- Tjabu dåppe gånnå tjiehpes bargge sáme giella- ja kultuvrramáhtudagájn gávnnuji de le læhkám hásstalus sijájt virggáj biedjat sáme guovlojn. Akta sivájs soajttá liehket ij le læhkám tjielgas gåktu sij galggi virggájbiedjadimen vuoroduvvat, tjielggi sámediggepresidennta Egil Olli. </em></p>
+<p>Olli javllá vijddábut Sámediggeráde le sihtam nav jåhtelit gå máhttelis båhti njuolgadusá ma vuorodi sámegielak barggijt ja barggijt gejn le kultuvrramáhtudahka sáme guovlo virgijda.</p>
+<p>Riektá- ja gárvvásindepartemennta le dal tjielgadam dáv ja javlli bæssá sihke dættodit, ja aj gájbbedit sámegiela- ja kultuvra máhtudagáv sáme guovlojn dárbboánályjsa milta.</p>
+<p><em type="bold">- Ávvusav gå Riektá- ja gárvvásindepartemennta le tjoavddusav duodas válldám ja miejnniji sámegiela- ja kultuvra máhtudagáv máhttá sihke dættodit ja gájbbedit sáme guovlojn, javllá presidennta Egil Olli. </em></p>
+<p>Máhtto daj sebrudagáj birra gånnå politijabargge barggi le ájnas gå galggá dilijt dádjadit, bájkálasj sebrudagá sisbælláj bessat ja duohta diedojt oadtjot.</p>
+<p><em type="bold">- Danen li sámegiela- ja kultuvra tjiehpe politijabargge sáme guovlojn ájnnasa sámij riektásihkarvuodav bisodittjat, låhpat presidennta Egil Olli. </em></p>
+<p><em type="bold">Aktijvuohta: </em></p>
+<p xml:lang="sme">Sámediggepresidennta Egil Olli , tlf. 900 26 880</p>
+</body></document>

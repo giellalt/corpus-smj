@@ -1,87 +1,61 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Vimmeltexter Lulesamiska</title>
-    <genre code="news"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>276</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.samefolket.se/index.php?option=com_content&amp;view=article&amp;id=191:vimmeltexter-lulesamiska&amp;catid=19:oeversaettningar&amp;Itemid=38</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="nob">Samefolket.se</p>
-    <list>
-      <p type="listitem" xml:lang="eng">Prenumerationer</p>
-      <p type="listitem" xml:lang="nob">Annonser</p>
-      <p type="listitem" xml:lang="deu">Redaktionen</p>
-      <p type="listitem" xml:lang="fkv">Tipsa oss</p>
-      <p type="listitem" xml:lang="swe">Våra ägare</p>
-    </list>
-    <p xml:lang="swe">Username</p>
-    <p xml:lang="deu">Password</p>
-    <p xml:lang="nno">Remember Me</p>
-    <list>
-      <p type="listitem" xml:lang="est">Startsida</p>
-      <p type="listitem" xml:lang="nno">Om Samefolket</p>
-      <p type="listitem" xml:lang="sme">Sápmi runt</p>
-      <p type="listitem" xml:lang="dan">Reportage</p>
-      <p type="listitem" xml:lang="swe">Rent ut sagt</p>
-      <p type="listitem" xml:lang="swe">Översättningar</p>
-      <p type="listitem" xml:lang="fkv">Kontakta oss</p>
-      <p type="listitem" xml:lang="swe">Länkar</p>
-      <p type="listitem" xml:lang="smn">Manusstopp</p>
-      <p type="listitem" xml:lang="swe">Redaktörn</p>
-      <p type="listitem" xml:lang="swe">Debatt</p>
-    </list>
-    <p xml:lang="swe">order levitra</p>
-    <p xml:lang="vep">tramadol hydrochloride 200 mg capsules</p>
-    <p xml:lang="deu">levitra generika kaufen wo</p>
-    <p xml:lang="deu">cialis kaufen ohne rezept</p>
-    <p xml:lang="eng">Costo Cialis</p>
-    <p xml:lang="deu">viagra günstig kaufen deutschland</p>
-    <p xml:lang="nno">kjøp cialis norge</p>
-    <p xml:lang="ron">acquistare viagra online sicuro</p>
-    <p xml:lang="swe">Acheter viagra</p>
-    <p xml:lang="ron">cialis rezeptfrei</p>
-    <p xml:lang="ron">Levitra generico online</p>
-    <p xml:lang="eng">cialis farmacias similares</p>
-    <p xml:lang="deu">Viagra ohne rezept</p>
-    <p xml:lang="deu">Viagra generika kaufen</p>
-    <p xml:lang="ron">comprare levitra</p>
-    <p xml:lang="eng">viagra apotheke deutschland</p>
-    <p xml:lang="eng">viagra preis apotheke</p>
-    <p xml:lang="nob">Levitra kaufen online</p>
-    <p xml:lang="ron">cialis prix pharmacie</p>
-    <p xml:lang="deu">viagra billig online kaufen</p>
-    <p xml:lang="nno">kjøp viagra</p>
-    <p xml:lang="eng">comprare cialis senza ricetta in farmacia</p>
-    <p xml:lang="eng">levitra acquisto on line italia</p>
-    <p xml:lang="deu">Preisvergleich viagra</p>
-    <p xml:lang="nob">Levitra originale prezzo</p>
-    <p xml:lang="eng">buy xanax online</p>
-    <p xml:lang="swe">Vimmeltexter Lulesamiska</p>
-    <p xml:lang="eng">Tuesday, 03 March 2009 13:47</p>
-    <p>Marknad1: Anna-Maria Persson lij akta moattet duodjárijs Sámij åhpadusguovdátjin.</p>
-    <p>Marknad2: Dájdár Annica Waara lij sajenis. Dán jage sujna lidjin guokta lanjá Sámij åhpadusguovdátjin, nubbe gåvåjda ja nubbe tjuovgajda.</p>
-    <p>Marknad3: RUSA organisasjåvnnå ásadij tjåhkanimev sámij riektá hárráj ednamij ja tjáhtjáj. Lars Miguel Utsi, Sáminuora åvddåulmusj, lij akta.</p>
-    <p>Marknad4: Erik Nilas Tuolja avta márnánbiejve gåvviduváj. Gåhtjodum lij reklamagåvvidibmáj ja jurra de gåk biváj ietjas vuorov vuordedijn.</p>
-    <p>Marknad5: Nils-Gustav Blind márnánsajen tjuottjoj ekologalasj boatsojbiergov vuobdij. ”Ij la så gájkka boatsojbierggo ekologalasj? moattes gudi låhki usjudalli, giehtoj Nils-Gustav tjajmada.</p>
-    <p>Marknad6: Lars-Henrik Blind márnánsajen boahttsuj váttsatjij ja hähttuj gåvvårijt gierddat.</p>
-    <p>Marknad7: Barbro Poggats vuobdij ietjas távelijt ja dájddagijt Gájddomgoaden Sámi Duoji guoran.</p>
-    <p>Marknad8: Rose-Marie Huuva tjoahkkij namájt sáme bátsidisájt dávvervuorkájn ruoptus oadtjot hávddáduvátjit.</p>
-    <p>Marknad9: Niklas Alm gehtjas. Vuobdij ietjas dåbdos lájbev suovasbiergujn ja ruonudisáj.</p>
-    <p>Marknad10: Sara Israelsson ja Jon Andersson Gargnäsas bådijga lávvodagá guossidittjat.</p>
-    <p>Marknad11: Jani Kemilä sjuohpanijt vuobdij avtat rajes.</p>
-    <p xml:lang="eng">Copyright C 2010 Samefolket  | created by fcDesign  | powered by Joomla</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Vimmeltexter Lulesamiska</title><genre code="news"/><author><unknown/></author><wordcount>276</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.samefolket.se/index.php?option=com_content&amp;view=article&amp;id=191:vimmeltexter-lulesamiska&amp;catid=19:oeversaettningar&amp;Itemid=38</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="nob">Samefolket.se</p>
+<list><p type="listitem" xml:lang="eng">Prenumerationer</p>
+<p type="listitem" xml:lang="nob">Annonser</p>
+<p type="listitem" xml:lang="swe">Redaktionen</p>
+<p type="listitem" xml:lang="fkv">Tipsa oss</p>
+<p type="listitem" xml:lang="swe">Våra ägare</p>
+</list><p xml:lang="swe">Username</p>
+<p xml:lang="deu">Password</p>
+<p xml:lang="nno">Remember Me</p>
+<list><p type="listitem" xml:lang="est">Startsida</p>
+<p type="listitem" xml:lang="nno">Om Samefolket</p>
+<p type="listitem" xml:lang="sme">Sápmi runt</p>
+<p type="listitem" xml:lang="dan">Reportage</p>
+<p type="listitem" xml:lang="swe">Rent ut sagt</p>
+<p type="listitem" xml:lang="swe">Översättningar</p>
+<p type="listitem" xml:lang="fkv">Kontakta oss</p>
+<p type="listitem" xml:lang="rmy-rka">Länkar</p>
+<p type="listitem" xml:lang="smn">Manusstopp</p>
+<p type="listitem" xml:lang="swe">Redaktörn</p>
+<p type="listitem" xml:lang="swe">Debatt</p>
+</list><p xml:lang="swe">order levitra</p>
+<p xml:lang="est">tramadol hydrochloride 200 mg capsules</p>
+<p xml:lang="deu">levitra generika kaufen wo</p>
+<p xml:lang="deu">cialis kaufen ohne rezept</p>
+<p xml:lang="eng">Costo Cialis</p>
+<p xml:lang="deu">viagra günstig kaufen deutschland</p>
+<p xml:lang="nno">kjøp cialis norge</p>
+<p xml:lang="ron">acquistare viagra online sicuro</p>
+<p xml:lang="swe">Acheter viagra</p>
+<p xml:lang="ron">cialis rezeptfrei</p>
+<p xml:lang="ron">Levitra generico online</p>
+<p xml:lang="eng">cialis farmacias similares</p>
+<p xml:lang="eng">Viagra ohne rezept</p>
+<p xml:lang="deu">Viagra generika kaufen</p>
+<p xml:lang="ron">comprare levitra</p>
+<p xml:lang="swe">viagra apotheke deutschland</p>
+<p xml:lang="eng">viagra preis apotheke</p>
+<p xml:lang="swe">Levitra kaufen online</p>
+<p xml:lang="ron">cialis prix pharmacie</p>
+<p xml:lang="deu">viagra billig online kaufen</p>
+<p xml:lang="nno">kjøp viagra</p>
+<p xml:lang="eng">comprare cialis senza ricetta in farmacia</p>
+<p xml:lang="eng">levitra acquisto on line italia</p>
+<p xml:lang="deu">Preisvergleich viagra</p>
+<p xml:lang="nob">Levitra originale prezzo</p>
+<p xml:lang="eng">buy xanax online</p>
+<p xml:lang="swe">Vimmeltexter Lulesamiska</p>
+<p xml:lang="eng">Tuesday, 03 March 2009 13:47</p>
+<p>Marknad1: Anna-Maria Persson lij akta moattet duodjárijs Sámij åhpadusguovdátjin.</p>
+<p>Marknad2: Dájdár Annica Waara lij sajenis. Dán jage sujna lidjin guokta lanjá Sámij åhpadusguovdátjin, nubbe gåvåjda ja nubbe tjuovgajda.</p>
+<p>Marknad3: RUSA organisasjåvnnå ásadij tjåhkanimev sámij riektá hárráj ednamij ja tjáhtjáj. Lars Miguel Utsi, Sáminuora åvddåulmusj, lij akta.</p>
+<p>Marknad4: Erik Nilas Tuolja avta márnánbiejve gåvviduváj. Gåhtjodum lij reklamagåvvidibmáj ja jurra de gåk biváj ietjas vuorov vuordedijn.</p>
+<p>Marknad5: Nils-Gustav Blind márnánsajen tjuottjoj ekologalasj boatsojbiergov vuobdij. ”Ij la så gájkka boatsojbierggo ekologalasj? moattes gudi låhki usjudalli, giehtoj Nils-Gustav tjajmada.</p>
+<p>Marknad6: Lars-Henrik Blind márnánsajen boahttsuj váttsatjij ja hähttuj gåvvårijt gierddat.</p>
+<p>Marknad7: Barbro Poggats vuobdij ietjas távelijt ja dájddagijt Gájddomgoaden Sámi Duoji guoran.</p>
+<p>Marknad8: Rose-Marie Huuva tjoahkkij namájt sáme bátsidisájt dávvervuorkájn ruoptus oadtjot hávddáduvátjit.</p>
+<p>Marknad9: Niklas Alm gehtjas. Vuobdij ietjas dåbdos lájbev suovasbiergujn ja ruonudisáj.</p>
+<p>Marknad10: Sara Israelsson ja Jon Andersson Gargnäsas bådijga lávvodagá guossidittjat.</p>
+<p>Marknad11: Jani Kemilä sjuohpanijt vuobdij avtat rajes.</p>
+<p xml:lang="eng">Copyright C 2010 Samefolket  | created by fcDesign  | powered by Joomla</p>
+</body></document>

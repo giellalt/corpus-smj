@@ -1,83 +1,38 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>347</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/AEladus/Boatsojaeladus</origFileName>
-    <parallel_text xml:lang="nob" location="reindrift.html"/>
-    <parallel_text xml:lang="sma" location="baaatsoe.html"/>
-    <parallel_text xml:lang="sme" location="boazodoallu.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Boatsojæládus / Æládus / Sámedigge - Sametinget</p>
-    <p>Åtså biednikdårjav</p>
-    <p type="title">Boatsojæládus</p>
-    <p>
-      <em type="bold">Ællosujton la stuorra árvvo sáme kultuvrraj ja sebrudakiellemij, ja danna le merustahtek árvvo mij gullu giellaj, kultuvrraj, ja æládussaj sámij guovlojn. Ællosujtto gávnnu Hedmarkas Finnmárkkuj, suohkan-, fylkka- ja Vuona ja Svieriga rijkkarája rastá. </em>
-    </p>
-    <p>Politihkalasj åvdåsvásstediddje</p>
-    <p xml:lang="nob">Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="nob">Nordre</p>
-    <p>Jur dálla</p>
-    <p>Aktisasjbarggo ja riektátjielgadibme</p>
-    <p>Vuona ja Svieriga ælloguohtomkonvensjåvnå barggojuogos buktá bierjjedagá snj...</p>
-    <p>Lågå ienebuv</p>
-    <p>Buorre vædtsak ællosujttuj rájáj rastá</p>
-    <p>Sámedikke ållestjåhkanibme galggá giehtadallat oajvvadusájt rievddadimijda V...</p>
-    <p>Lågå ienebuv</p>
-    <p>Vuoseda divna ássjijt</p>
-    <p>Ællosujton la guovdásj sadje sámekultuvran, nåv gå akta gallegis æládusájs tjanádum kultuvrraj. Ællosujto rievtesvuodajt oatsodit le iesj vuodo Sámedikke ællosujttopolitihkan. Mij dættodip aj ællosujto árbbedábálasj sierravuodav fámilljaæládussan. Ællosujto tjadnusa sámekultuvrraj le dat mij dahká æládusáv nåv sierralágátjin. Akta ájnnasamos ulmijs Sámedikke ællosujttopolitihkan la bisodit dajt lahka tjanástagájt æládusá ja kultuvrradåjmaj gaskan.</p>
-    <p>Ællosujto stuorámus hásstalus li gártjes duobddága ja aktelasj nággidibme stuorsebrudagás ællosujttoduobddágij birra. Ællosujtto dárbaj vuododuobddágijt ma sihkarassti guoddelisvuodav ja åvddånahttemav. Ráfájdahtedum urudisá dahki jahkásattjat bæjskojt ma stuorra vahágijt dahki. Muhtem bájkijn li vahága nåv stuore vaj ájtti ællosujtov ållåsit. Ájnas la adnet hiebalgis lågov urudisájda ællosujttoguovlojn, ja vahága vierttiji buohttiduvvat.</p>
-    <p>
-      <em type="bold">Sámedigge barggá guoddelis sáme ællosujto åvdås. Guoddelis ællosujtto sjaddá gå: </em>
-    </p>
-    <list>
-      <p type="listitem">Ællosujtto nanniduvvá æládussan ja æládusá árvvoboados laseduvvá</p>
-      <p type="listitem">Ællosujto riektávuodo sihkarasteduvvá</p>
-      <p type="listitem">Ællosujto buorre ja jasskis vuodogájbbádusá sihkarasteduvvi</p>
-      <p type="listitem">Ællosujtto giella- ja kultuvrraguodden sihkarasteduvvá</p>
-    </list>
-    <p>Tjielde gånnå sáme ællosujtto dåjmaduvvá loavddá 40% Vuona duobddágijs, ja jåkså Finnmárkos nuorttan gitta Engerdalaj Hedmarkan oarjján. Sáme ællosujtto dåjmaduvvá aj Trollheimenin sierra riektámærrádusájn vuodon. Oarjjelij Vuona várreduobddágijn dåjmaduvvá ællosujtto boatsojsiebrren, ednamlájggosjiehtadusáj vuodon.</p>
-    <p>
-      <em type="bold">Vuodna le juogedum 6 ællosujttoguovllon: </em>
-    </p>
-    <list>
-      <p type="listitem">Finnmárkko</p>
-      <p type="listitem">Tråmsså</p>
-      <p type="listitem">Nordlánnda</p>
-      <p type="listitem">Nuortta-Trøndeláhka</p>
-      <p type="listitem">Oarjje-Trøndeláhka ja Hedmarkka</p>
-      <p type="listitem" xml:lang="nob">Boatsojsiebre</p>
-    </list>
-    <p>Sámedikken ij la formálalasj vásstádus ællosujtos Vuonan. Ællosujtto háldaduvvá nasjåvnålattjat Ednambarggodirektoráhtas, mij la njuolgga Ednambarggo- ja biebbmodepartementa vuolen. Ednambarggodirektoráhtta le ællosujtto stivra dåjmadahka. Ællosujttoháldadus guovlojn le biejadum vidá nuorttalamos fylkkamánnij vuolláj.</p>
-    <p>Sámedigge nammat gålmmåsav gietjat sebrulattjajs ællosujttostivrraj. Sámedigge nammat guoktásav gudát sebrulattjajs gålmå nuorttalamos guovllourudisnammadusájda Finnmárkon/Tråmsån, Nordlándan ja Trøndelágan. Sámedigge nammat avtav vidát sebrulattjajs Hedmarka urudisnammadussaj.</p>
-    <p>
-      <em type="bold">Rievtesvuoda: </em>
-    </p>
-    <p>Ællosujttoláhka</p>
-    <p>Lága ájggomus la sihkarasstet ællosujttodajvajt sáme ælloguododimguovlojn ájnnasamos luohkkovuodon ællosujttuj. Dajvajt sihkarasstet la sijáj vásstádus goappátjagá gejn la</p>
-    <list/>
-    <p>
-      <span type="quote">Dat stuoremus hásstalus boatsojæládussaj la binná vijddudagájs ja aktelasj dæddo sebrudagá anos boatsojæládusvijddudagájs</span>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>347</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/AEladus/Boatsojaeladus</origFileName><parallel_text xml:lang="nob" location="reindrift.html"/><parallel_text xml:lang="sma" location="baaatsoe.html"/><parallel_text xml:lang="sme" location="boazodoallu.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Boatsojæládus / Æládus / Sámedigge - Sametinget</p>
+<p>Åtså biednikdårjav</p>
+<p type="title">Boatsojæládus</p>
+<p><em type="bold">Ællosujton la stuorra árvvo sáme kultuvrraj ja sebrudakiellemij, ja danna le merustahtek árvvo mij gullu giellaj, kultuvrraj, ja æládussaj sámij guovlojn. Ællosujtto gávnnu Hedmarkas Finnmárkkuj, suohkan-, fylkka- ja Vuona ja Svieriga rijkkarája rastá. </em></p>
+<p>Politihkalasj åvdåsvásstediddje</p>
+<p xml:lang="nob">Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="nob">Nordre</p>
+<p>Jur dálla</p>
+<p>Aktisasjbarggo ja riektátjielgadibme</p>
+<p>Vuona ja Svieriga ælloguohtomkonvensjåvnå barggojuogos buktá bierjjedagá snj...</p>
+<p>Lågå ienebuv</p>
+<p>Buorre vædtsak ællosujttuj rájáj rastá</p>
+<p>Sámedikke ållestjåhkanibme galggá giehtadallat oajvvadusájt rievddadimijda V...</p>
+<p>Lågå ienebuv</p>
+<p>Vuoseda divna ássjijt</p>
+<p>Ællosujton la guovdásj sadje sámekultuvran, nåv gå akta gallegis æládusájs tjanádum kultuvrraj. Ællosujto rievtesvuodajt oatsodit le iesj vuodo Sámedikke ællosujttopolitihkan. Mij dættodip aj ællosujto árbbedábálasj sierravuodav fámilljaæládussan. Ællosujto tjadnusa sámekultuvrraj le dat mij dahká æládusáv nåv sierralágátjin. Akta ájnnasamos ulmijs Sámedikke ællosujttopolitihkan la bisodit dajt lahka tjanástagájt æládusá ja kultuvrradåjmaj gaskan.</p>
+<p>Ællosujto stuorámus hásstalus li gártjes duobddága ja aktelasj nággidibme stuorsebrudagás ællosujttoduobddágij birra. Ællosujtto dárbaj vuododuobddágijt ma sihkarassti guoddelisvuodav ja åvddånahttemav. Ráfájdahtedum urudisá dahki jahkásattjat bæjskojt ma stuorra vahágijt dahki. Muhtem bájkijn li vahága nåv stuore vaj ájtti ællosujtov ållåsit. Ájnas la adnet hiebalgis lågov urudisájda ællosujttoguovlojn, ja vahága vierttiji buohttiduvvat.</p>
+<p><em type="bold">Sámedigge barggá guoddelis sáme ællosujto åvdås. Guoddelis ællosujtto sjaddá gå: </em></p>
+<list><p type="listitem">Ællosujtto nanniduvvá æládussan ja æládusá árvvoboados laseduvvá</p>
+<p type="listitem">Ællosujto riektávuodo sihkarasteduvvá</p>
+<p type="listitem">Ællosujto buorre ja jasskis vuodogájbbádusá sihkarasteduvvi</p>
+<p type="listitem">Ællosujtto giella- ja kultuvrraguodden sihkarasteduvvá</p>
+</list><p>Tjielde gånnå sáme ællosujtto dåjmaduvvá loavddá 40% Vuona duobddágijs, ja jåkså Finnmárkos nuorttan gitta Engerdalaj Hedmarkan oarjján. Sáme ællosujtto dåjmaduvvá aj Trollheimenin sierra riektámærrádusájn vuodon. Oarjjelij Vuona várreduobddágijn dåjmaduvvá ællosujtto boatsojsiebrren, ednamlájggosjiehtadusáj vuodon.</p>
+<p><em type="bold">Vuodna le juogedum 6 ællosujttoguovllon: </em></p>
+<list><p type="listitem">Finnmárkko</p>
+<p type="listitem">Tråmsså</p>
+<p type="listitem">Nordlánnda</p>
+<p type="listitem">Nuortta-Trøndeláhka</p>
+<p type="listitem">Oarjje-Trøndeláhka ja Hedmarkka</p>
+<p type="listitem" xml:lang="nob">Boatsojsiebre</p>
+</list><p>Sámedikken ij la formálalasj vásstádus ællosujtos Vuonan. Ællosujtto háldaduvvá nasjåvnålattjat Ednambarggodirektoráhtas, mij la njuolgga Ednambarggo- ja biebbmodepartementa vuolen. Ednambarggodirektoráhtta le ællosujtto stivra dåjmadahka. Ællosujttoháldadus guovlojn le biejadum vidá nuorttalamos fylkkamánnij vuolláj.</p>
+<p>Sámedigge nammat gålmmåsav gietjat sebrulattjajs ællosujttostivrraj. Sámedigge nammat guoktásav gudát sebrulattjajs gålmå nuorttalamos guovllourudisnammadusájda Finnmárkon/Tråmsån, Nordlándan ja Trøndelágan. Sámedigge nammat avtav vidát sebrulattjajs Hedmarka urudisnammadussaj.</p>
+<p><em type="bold">Rievtesvuoda: </em></p>
+<p>Ællosujttoláhka</p>
+<p>Lága ájggomus la sihkarasstet ællosujttodajvajt sáme ælloguododimguovlojn ájnnasamos luohkkovuodon ællosujttuj. Dajvajt sihkarasstet la sijáj vásstádus goappátjagá gejn la</p>
+<list/><p><span type="quote">Dat stuoremus hásstalus boatsojæládussaj la binná vijddudagájs ja aktelasj dæddo sebrudagá anos boatsojæládusvijddudagájs</span></p>
+</body></document>

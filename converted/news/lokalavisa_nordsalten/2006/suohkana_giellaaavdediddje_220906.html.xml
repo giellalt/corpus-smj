@@ -1,55 +1,17 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Suohkana giellaåvdediddje: Ájnas la sámegielav tjalmostit</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>494</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/suohkana-giellaavdediddje-jnas-la-s-megielav-tjalmostit.4096</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Suohkana giellaåvdediddje: Ájnas la sámegielav tjalmostit</p>
-    <p>-Giella l ájnas oasse identitehtas, ja ájnas la aj sámegielav tjalmostit. De esski jáhkáv nahkap båktet berustimev sámegiellaj nav vaj ulmutja sihti sámegielav oahppat. Giella l aj viehkken kultuvrradádjadussaj, ja nav de vat buktá gierddisvuodav sámevuohtaj. Norsk kortversjon/Oanegis dárogiellaj</p>
-    <p>
-      <em type="italic">Tor Magne Berg la virgen Divtasvuona suohkanin sámegielav åvdedit. Vuorkkágåvvå. </em>
-    </p>
-    <p>Dáv javllá Divtasvuona suohkana ådåvirggájbiejadum <span type="quote">”sámegielak”</span> Tor Magne Berg. Berg ij la stuoves virgen suohkanin, valla bálkkidum javlajda prosjæktabarggen guhti galggá gielladåjmajt ævtodit ja giellaplánav dahkat.</p>
-    <p>Duodden aj galggá ållit suohkana ietjas varresvuodatærmmaprosjevtav majna dån jage álggin.</p>
-    <p>Divtasvuona suohkan la ådådjagij rájes oasse Sámedikke sámegielaháldadusá guovlos. Sámedigge l Divtasvuona suohkanij juollodam badjelasj 2 millijåvnå kråvnå dán vuostasj jahkáj. Suohkan la åhtsåm giellakonsulentav, valla aktak ælla virggáj biejaduvvam. Tor Magne Berg la virgen prosjæktabarggen guhti galggá ævtodit dåjmajt ja sámegieladåjmajt jåhtuj oadtot suohkanin.</p>
-    <p>
-      <em type="italic">Sáñardahtte </em>
-    </p>
-    <p>Tor Magne Berg la Stuorravuonas Unjárga suohkanis Finmarkon. Sujna l nuortakgiella iednegiellan, valla oahppam la, ja hárjjánam julevsámegiellaj badjelasj niellja jage. Berg oahpástuváj julevsámegielajn <span type="quote">”Sámásta”</span>-prosjevta tjadá. -Mån lidjiv nav vuorbálasj gå bessiv Anders Nystø-rávgge ja Sigmund Johnsena siegen barggat konsulænntan sunnu kurssagirjjerájdon <span type="quote">”Sámásta”</span>, ja maññáj aj viehkketjállen Andersa siegen dan sæmmi prosjevtan. Dan prosjevta tjadá oahpástuvviv aj Andersijn guhti lij riek buorre ulmusj, ja riek tjiehpes ja vissjalis giellabargge. Anders Nystø la sáñardahtte persåvnålattjat, ja aj sáñardahtte giellatjiehppen, subtsas Tor Magne Berg gut vilá la <span type="quote">”Sámásta”</span>-prosjevtajn barggamin. Dálla l iesj tjállen.</p>
-    <p>
-      <em type="italic">Gåktu <span type="quote">”validit”</span> </em>
-    </p>
-    <p>Tor Magne Bergan li moadda ájádusá gåktu sámegielav åvdedit ja åvddånahttet suohkana systema tjadá. Sån la dåssju guokta vahko rádehuodnahin Gásluovtan barggam, valla la juo háhppidam sámegielajn barggagoahtet, ja aj vehik ájádallat gåktu galggá dán bargguj <span type="quote">”validit”</span>. -Gatjálvis la munji boahtám gåktu galggá barggagoahtet, ja gåhtjoduvvam lav dåjmajt ævtodit. Dåjmajt viertti ruvvaláhkáj jåhtuj oadtjot, valla huoman viertti <span type="quote">”suojmma”</span> barggat nav vaj ássje láddá madi barggá. Muv vuostasj barggo la dal ævtodit dåjmajt giela hárráj, ja dåjmajt jåhtuj oadtjot nav vaj sámegiella tjalmot suohkanin. Mån vuojnáv guovtegielakprosjevtajda, ja dåbmaris dåjmajda dagu galbajt uvsajda ja rahtebællájda åttjudit. Duodden galgav aj gærggat varresvuodatærmmaprosjevtajn majna dån jage álggin, subtsas Tor Magne Berg ja ávvus gå la dákkár geldulasj virggáj biejadum.</p>
-    <p>
-      <em type="italic">Ij la <span type="quote">”várálasj”</span> </em>
-    </p>
-    <p>Berga mielas la galle hásstalusájs, ja galle bargojs gå sámegielav galggá jåhtuj oadtjot suohkana systeman. -Sidáv vuosedit sámegiella ij la <span type="quote">”várálasj”</span>. Sidáv aj oadtjot gielav suohkana háldadusán dåjmatjit nav vaj bæjválattjat gullu, ja nav vaj sjaddá luondulasj sámegielav gullat ja vuojnnet. Sidáv dåjmajt jåhtuj oadtjot dat giellaviddjuris mij la dálla suohkana systeman. Dajna de muv mielas vierttiv suohkana åssudagájt lagábut gæhttjat, ja aj makta li sámegialaga suohkana barggij gaskan ja gånnå guhtik barggi, javllá Tor Magne Berg.</p>
-    <p>Divtasvuona suohkana vuostasj giellaprosjæktabargge ájádallá guhkesájggásattjat, valla vuojnná aj dárbov bargguj mij gielav åvdet ruvva láhkáj. Sån sihtá dåjmajt ruvvaláhkáj jåhtuj oadtjot, dåjmajt ma vaddi miehtemielak vájkkudusájt. -Mån lav buoragit vuosstáj váldedum dán ájnas ja miellagiddavasj bargguj, javllá Divtasvuona suohkana sámegiellaåvdediddje</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Suohkana giellaåvdediddje: Ájnas la sámegielav tjalmostit"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Suohkana giellaåvdediddje: Ájnas la sámegielav tjalmostit</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>494</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/suohkana-giellaavdediddje-jnas-la-s-megielav-tjalmostit.4096</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Suohkana giellaåvdediddje: Ájnas la sámegielav tjalmostit</p>
+<p>-Giella l ájnas oasse identitehtas, ja ájnas la aj sámegielav tjalmostit. De esski jáhkáv nahkap båktet berustimev sámegiellaj nav vaj ulmutja sihti sámegielav oahppat. Giella l aj viehkken kultuvrradádjadussaj, ja nav de vat buktá gierddisvuodav sámevuohtaj. Norsk kortversjon/Oanegis dárogiellaj</p>
+<p><em type="italic">Tor Magne Berg la virgen Divtasvuona suohkanin sámegielav åvdedit. Vuorkkágåvvå. </em></p>
+<p>Dáv javllá Divtasvuona suohkana ådåvirggájbiejadum <span type="quote">”sámegielak”</span> Tor Magne Berg. Berg ij la stuoves virgen suohkanin, valla bálkkidum javlajda prosjæktabarggen guhti galggá gielladåjmajt ævtodit ja giellaplánav dahkat.</p>
+<p>Duodden aj galggá ållit suohkana ietjas varresvuodatærmmaprosjevtav majna dån jage álggin.</p>
+<p>Divtasvuona suohkan la ådådjagij rájes oasse Sámedikke sámegielaháldadusá guovlos. Sámedigge l Divtasvuona suohkanij juollodam badjelasj 2 millijåvnå kråvnå dán vuostasj jahkáj. Suohkan la åhtsåm giellakonsulentav, valla aktak ælla virggáj biejaduvvam. Tor Magne Berg la virgen prosjæktabarggen guhti galggá ævtodit dåjmajt ja sámegieladåjmajt jåhtuj oadtot suohkanin.</p>
+<p><em type="italic">Sáñardahtte </em></p>
+<p>Tor Magne Berg la Stuorravuonas Unjárga suohkanis Finmarkon. Sujna l nuortakgiella iednegiellan, valla oahppam la, ja hárjjánam julevsámegiellaj badjelasj niellja jage. Berg oahpástuváj julevsámegielajn <span type="quote">”Sámásta”</span>-prosjevta tjadá. -Mån lidjiv nav vuorbálasj gå bessiv Anders Nystø-rávgge ja Sigmund Johnsena siegen barggat konsulænntan sunnu kurssagirjjerájdon <span type="quote">”Sámásta”</span>, ja maññáj aj viehkketjállen Andersa siegen dan sæmmi prosjevtan. Dan prosjevta tjadá oahpástuvviv aj Andersijn guhti lij riek buorre ulmusj, ja riek tjiehpes ja vissjalis giellabargge. Anders Nystø la sáñardahtte persåvnålattjat, ja aj sáñardahtte giellatjiehppen, subtsas Tor Magne Berg gut vilá la <span type="quote">”Sámásta”</span>-prosjevtajn barggamin. Dálla l iesj tjállen.</p>
+<p><em type="italic">Gåktu <span type="quote">”validit”</span> </em></p>
+<p>Tor Magne Bergan li moadda ájádusá gåktu sámegielav åvdedit ja åvddånahttet suohkana systema tjadá. Sån la dåssju guokta vahko rádehuodnahin Gásluovtan barggam, valla la juo háhppidam sámegielajn barggagoahtet, ja aj vehik ájádallat gåktu galggá dán bargguj <span type="quote">”validit”</span>. -Gatjálvis la munji boahtám gåktu galggá barggagoahtet, ja gåhtjoduvvam lav dåjmajt ævtodit. Dåjmajt viertti ruvvaláhkáj jåhtuj oadtjot, valla huoman viertti <span type="quote">”suojmma”</span> barggat nav vaj ássje láddá madi barggá. Muv vuostasj barggo la dal ævtodit dåjmajt giela hárráj, ja dåjmajt jåhtuj oadtjot nav vaj sámegiella tjalmot suohkanin. Mån vuojnáv guovtegielakprosjevtajda, ja dåbmaris dåjmajda dagu galbajt uvsajda ja rahtebællájda åttjudit. Duodden galgav aj gærggat varresvuodatærmmaprosjevtajn majna dån jage álggin, subtsas Tor Magne Berg ja ávvus gå la dákkár geldulasj virggáj biejadum.</p>
+<p><em type="italic">Ij la <span type="quote">”várálasj”</span> </em></p>
+<p>Berga mielas la galle hásstalusájs, ja galle bargojs gå sámegielav galggá jåhtuj oadtjot suohkana systeman. -Sidáv vuosedit sámegiella ij la <span type="quote">”várálasj”</span>. Sidáv aj oadtjot gielav suohkana háldadusán dåjmatjit nav vaj bæjválattjat gullu, ja nav vaj sjaddá luondulasj sámegielav gullat ja vuojnnet. Sidáv dåjmajt jåhtuj oadtjot dat giellaviddjuris mij la dálla suohkana systeman. Dajna de muv mielas vierttiv suohkana åssudagájt lagábut gæhttjat, ja aj makta li sámegialaga suohkana barggij gaskan ja gånnå guhtik barggi, javllá Tor Magne Berg.</p>
+<p>Divtasvuona suohkana vuostasj giellaprosjæktabargge ájádallá guhkesájggásattjat, valla vuojnná aj dárbov bargguj mij gielav åvdet ruvva láhkáj. Sån sihtá dåjmajt ruvvaláhkáj jåhtuj oadtjot, dåjmajt ma vaddi miehtemielak vájkkudusájt. -Mån lav buoragit vuosstáj váldedum dán ájnas ja miellagiddavasj bargguj, javllá Divtasvuona suohkana sámegiellaåvdediddje</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Suohkana giellaåvdediddje: Ájnas la sámegielav tjalmostit"</span> på Facebook</p>
+</body></document>

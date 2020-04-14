@@ -1,38 +1,12 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>138</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/girjjealmodibme-radjadoalvvoma-birra-nuortta-nordlandan-ja-oarjje-raamsaan.5677402-60861.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Girjjealmodibme rádjádoalvvoma birra nuortta Nordlándan ja Oarjje-Råmsån - Árran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title">Guovvamáno 19. biejve 2015</p>
-    <p type="title">Girjjealmodibme rádjádoalvvoma birra nuortta Nordlándan ja Oarjje-Råmsån</p>
-    <p>Árran – julevsáme guovdátjin guovvamáno 19. biejve.</p>
-    <p>
-      <em type="italic">Girje namma le </em>
-    </p>
-    <p>Girjje rádjádoalvvoma birra almoduvvá guovvamáno 19. biejve Árranin. Girje namma le <span type="quote" xml:lang="nob">"Samisk og norsk losvirksomhet i nordre Nordland og Sør-Troms, 1940–1945"</span>, ja almoduvvá almmudagán Orkana Akademisk. Girjjetjálle: Barentsinstituhta jådediddje Marianne Neerland Soleim, Råmså universitehta professor Jens-Ivar Nergård, senioråtsåddje Árran -julevsáme guovdátjin Oddmund Andersen.</p>
-    <p>Girjje vuoset rádjálåvsåj tjierggis histåvråv doaro ájge.</p>
-    <p>Rádjádoalvvom gehtjadum histåvrå tjalmij ja doalvvoma sierralágásjvuoda genga guovlojn nuortta Nordlándan ja Oarjje-Råmsån tjalmostuvvi. Åvdep rádjálåvså, sijáj familja ja báhtariddje subtsasti sijá vásádusáj birra ja sijá mujtojt rádjádoalvvoma birra.</p>
-    <p>Prográmma almodime birra mij la guovvamáno 19. biejve boahtá maŋŋel.</p>
-    <p>Jus hálijda åvdebut diŋŋgut diededa Árran – julevsáme guovdátjij. Hadde le 389,- kr.</p>
-    <p xml:lang="nno">
-      <em type="italic">BESTILL HER.  </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>138</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/girjjealmodibme-radjadoalvvoma-birra-nuortta-nordlandan-ja-oarjje-raamsaan.5677402-60861.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Girjjealmodibme rádjádoalvvoma birra nuortta Nordlándan ja Oarjje-Råmsån - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title">Guovvamáno 19. biejve 2015</p>
+<p type="title">Girjjealmodibme rádjádoalvvoma birra nuortta Nordlándan ja Oarjje-Råmsån</p>
+<p>Árran – julevsáme guovdátjin guovvamáno 19. biejve.</p>
+<p><em type="italic">Girje namma le </em></p>
+<p>Girjje rádjádoalvvoma birra almoduvvá guovvamáno 19. biejve Árranin. Girje namma le <span type="quote" xml:lang="nob">"Samisk og norsk losvirksomhet i nordre Nordland og Sør-Troms, 1940–1945"</span>, ja almoduvvá almmudagán Orkana Akademisk. Girjjetjálle: Barentsinstituhta jådediddje Marianne Neerland Soleim, Råmså universitehta professor Jens-Ivar Nergård, senioråtsåddje Árran -julevsáme guovdátjin Oddmund Andersen.</p>
+<p>Girjje vuoset rádjálåvsåj tjierggis histåvråv doaro ájge.</p>
+<p>Rádjádoalvvom gehtjadum histåvrå tjalmij ja doalvvoma sierralágásjvuoda genga guovlojn nuortta Nordlándan ja Oarjje-Råmsån tjalmostuvvi. Åvdep rádjálåvså, sijáj familja ja báhtariddje subtsasti sijá vásádusáj birra ja sijá mujtojt rádjádoalvvoma birra.</p>
+<p>Prográmma almodime birra mij la guovvamáno 19. biejve boahtá maŋŋel.</p>
+<p>Jus hálijda åvdebut diŋŋgut diededa Árran – julevsáme guovdátjij. Hadde le 389,- kr.</p>
+<p xml:lang="nno"><em type="italic">BESTILL HER.  </em></p>
+</body></document>

@@ -1,32 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>362</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/gaaktu-kulturmujtojt-registrerit-hvordan-registrere-kulturminner.5071236-292202.html</origFileName>
-    <parallel_text xml:lang="nob" location="gaaktu-kulturmujtojt-registrerit-hvordan-registrere-kulturminner.5071236-292202.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Gåktu kulturmujtojt registrerit? / Hvordan registrere kulturminner? - Árran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title" xml:lang="nob">Gåktu kulturmujtojt registrerit? / Hvordan registrere kulturminner?</p>
-    <p>Árran og Sametinget har avholdt kurs i kulturminneregistrering. / Árran ja Sámedigge li kulturmujttoregistrerimkursav ásadam.</p>
-    <p>Tente lys på skolebenken. Første kursdag, Duoddárá Ráffe./Skåvllåbeŋkan tjuovga buolli. Vuostasj kurssabiejvve Duoddara ráfen.</p>
-    <p xml:lang="nob">Registrering av samisk hustuft, Larsplassen. / Sáme goahtesajev registrerimin Larsplassen;in.</p>
-    <p xml:lang="nno">Kursdeltakere øver seg på registreringsarbeidet. /Kursa oassevállde hárjjidalli registrerit.</p>
-    <p>Kursdeltakerne samlet, med kursbevis i hende. /Kursa oassevállde tjoahken kurssaduodastusájnis giedan.</p>
-    <p xml:lang="nob">Forrige helg arrangerte Árran og Sametinget et todagers kurs i kulturminneregistrering i Beiarn. På kurset fikk deltakerne en innføring i hvordan man registrerer samiske kulturminner. Mens første dag ble tilbrakt på skolebenken, fikk deltakerne prøve ut kunnskapene sine i praksis neste dag. Da dro vi ut i felten, og brukte dagen på å registrere samiske kulturminner som hittil hadde vært uregistrert. Kurset var åpent for alle interesserte. Kursdeltakerne var da også en entusiastisk gjeng, med mye kunnskap om sine lokalområder og lokalhistorie. I tillegg til Beiarn kom det kursdeltakere fra så vel Saltstraumen som Meløy, Tysfjord, Tromsø – og Gällivare i Sverige. Målet med registreringskurset var å lære opp lokalbefolkningen, som i neste omgang kan bidra i det viktige arbeidet med å registrere kulturminner. Fortsatt er svært mange samiske kulturminner uregistrert, og pitesamisk område er intet unntak. Derfor er slik kursing av ekstra verdi. Kursholder var arkeolog Arne Håkon Thomassen, seniorrådgiver hos Sametingets kulturminnevernavdeling. / Åvdep vahkkolåhpa de lij Árranin ja Sámedikken guovte bæjvvásasj kurssa kulturmujtoj registrerimis Bájddárin. Vuostasj biejve de lij sinna tjåhkkåhit ja oahppat, maŋep biejve de lij gæhttjalit ietjas tjehpudagáv praktiserit. De manájma luonnduj ja biejvev låptijma registrerit sáme kulturmujtojt ma åvddåla ællim registreriduvvam. Kurssa lij rabás gájkajda. Oassevállde de lidjin buosjes vehka, ållo máhtudagáj ietjas lahkabirrusa ja bájkálasj histåvrå birra. Duodden oasseválldijs Bájddáris lidjin aj oassevállde Stuorrastrávves, Melødjås, Divtasvuonas, Tråmsås ja Jielleváres Sverigin. Registrerimkursa ulmmen lij ulmutjijt lahkabirrusis oahppat, ma vas de boahtte ájgijda máhtti liehket åvdedime ájnas bargov kulturmujtojt registrerit. Moadda sáme kulturmujto ælla ájn registreriduvvam, ja bihtámsáme guovlon le sæmmi láhkáj. Danen le sierra árvvo dákkár kursajs. Kursan lij arkeologa Arne Håkon Thomassen åhpadiddjen, sån le seniorrádevadde Sámedikke kulturmujttoåssudagán. Samtlige bilder: © Árran Gájkka gåvå: © Árran</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>362</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/gaaktu-kulturmujtojt-registrerit-hvordan-registrere-kulturminner.5071236-292202.html</origFileName><parallel_text xml:lang="nob" location="gaaktu-kulturmujtojt-registrerit-hvordan-registrere-kulturminner.5071236-292202.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Gåktu kulturmujtojt registrerit? / Hvordan registrere kulturminner? - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title" xml:lang="nob">Gåktu kulturmujtojt registrerit? / Hvordan registrere kulturminner?</p>
+<p>Árran og Sametinget har avholdt kurs i kulturminneregistrering. / Árran ja Sámedigge li kulturmujttoregistrerimkursav ásadam.</p>
+<p>Tente lys på skolebenken. Første kursdag, Duoddárá Ráffe./Skåvllåbeŋkan tjuovga buolli. Vuostasj kurssabiejvve Duoddara ráfen.</p>
+<p xml:lang="nob">Registrering av samisk hustuft, Larsplassen. / Sáme goahtesajev registrerimin Larsplassen;in.</p>
+<p xml:lang="nno">Kursdeltakere øver seg på registreringsarbeidet. /Kursa oassevállde hárjjidalli registrerit.</p>
+<p>Kursdeltakerne samlet, med kursbevis i hende. /Kursa oassevállde tjoahken kurssaduodastusájnis giedan.</p>
+<p xml:lang="nob">Forrige helg arrangerte Árran og Sametinget et todagers kurs i kulturminneregistrering i Beiarn. På kurset fikk deltakerne en innføring i hvordan man registrerer samiske kulturminner. Mens første dag ble tilbrakt på skolebenken, fikk deltakerne prøve ut kunnskapene sine i praksis neste dag. Da dro vi ut i felten, og brukte dagen på å registrere samiske kulturminner som hittil hadde vært uregistrert. Kurset var åpent for alle interesserte. Kursdeltakerne var da også en entusiastisk gjeng, med mye kunnskap om sine lokalområder og lokalhistorie. I tillegg til Beiarn kom det kursdeltakere fra så vel Saltstraumen som Meløy, Tysfjord, Tromsø – og Gällivare i Sverige. Målet med registreringskurset var å lære opp lokalbefolkningen, som i neste omgang kan bidra i det viktige arbeidet med å registrere kulturminner. Fortsatt er svært mange samiske kulturminner uregistrert, og pitesamisk område er intet unntak. Derfor er slik kursing av ekstra verdi. Kursholder var arkeolog Arne Håkon Thomassen, seniorrådgiver hos Sametingets kulturminnevernavdeling. / Åvdep vahkkolåhpa de lij Árranin ja Sámedikken guovte bæjvvásasj kurssa kulturmujtoj registrerimis Bájddárin. Vuostasj biejve de lij sinna tjåhkkåhit ja oahppat, maŋep biejve de lij gæhttjalit ietjas tjehpudagáv praktiserit. De manájma luonnduj ja biejvev låptijma registrerit sáme kulturmujtojt ma åvddåla ællim registreriduvvam. Kurssa lij rabás gájkajda. Oassevállde de lidjin buosjes vehka, ållo máhtudagáj ietjas lahkabirrusa ja bájkálasj histåvrå birra. Duodden oasseválldijs Bájddáris lidjin aj oassevállde Stuorrastrávves, Melødjås, Divtasvuonas, Tråmsås ja Jielleváres Sverigin. Registrerimkursa ulmmen lij ulmutjijt lahkabirrusis oahppat, ma vas de boahtte ájgijda máhtti liehket åvdedime ájnas bargov kulturmujtojt registrerit. Moadda sáme kulturmujto ælla ájn registreriduvvam, ja bihtámsáme guovlon le sæmmi láhkáj. Danen le sierra árvvo dákkár kursajs. Kursan lij arkeologa Arne Håkon Thomassen åhpadiddjen, sån le seniorrádevadde Sámedikke kulturmujttoåssudagán. Samtlige bilder: © Árran Gájkka gåvå: © Árran</p>
+</body></document>

@@ -1,43 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>93</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/julevsamegiella/Pages/organisasjavnnadoarjja.aspx</origFileName>
-    <parallel_text xml:lang="fin" location="nat-min-jarjestotuki.html"/>
-    <parallel_text xml:lang="sma" location="nat-min-aarganisasjovnedaarjoeh.html"/>
-    <parallel_text xml:lang="sme" location="nat-min-organisasuvdnadoarjja.html"/>
-    <parallel_text xml:lang="swe" location="nat-min-organisationsbidrag.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Organisasjåvnnådoarjja - Länsstyrelsen i Stockholm</p>
-    <list/>
-    <p type="title">Organisasjåvnnådoarjja</p>
-    <p>
-      <em type="italic">Lenastivra máksá jahkasattjat organisasjåvnnådårjav organisasjåvnåjda ma åvdåsti rijkalasj unnepågojt juvdára, roma, svieriksuobmelattja ja duornosliegega. Ulmme dårjajn la doarjjot ja giehpedit organisasjåvnåj dåjmajt. </em>
-    </p>
-    <p>Doarjja njuolgaduvvá biejadusás (2005:765) stáhtadårja birra rijkalasj unneplågojda.</p>
-    <p type="title">Gudi máhtti dårjav åhtsåt?</p>
-    <p>Organisasjåvnå ma máhtti oadtjot organisasjåvnnådårjav li rijkaorganisasjåvnå jali organisasjåvnå rijkadåjmajn ma</p>
-    <list>
-      <p type="listitem">åvdåsti rijkalasj unneplågojs muhtemav ja manna sebrulattja organisasjåvnån jali dan bájkálasjsiebrijn jali åssudagájn ienemusát li ulmutja tjadnusijn rijkalasj unneplågojda, ja</p>
-      <p type="listitem">barggi dåjmajn ulmijn nannidit vájkudimfámov rijkalasj unneplåhkuj, åvdedit ietjas rijkalasj unneplågojuohkusa identitehtav, kultuvrav, gielav, vuosteldit nuppástallamav jali diedojt oabllot ietjas juohkusa birra.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>93</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/julevsamegiella/Pages/organisasjavnnadoarjja.aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-jarjestotuki.html"/><parallel_text xml:lang="sma" location="nat-min-aarganisasjovnedaarjoeh.html"/><parallel_text xml:lang="sme" location="nat-min-organisasuvdnadoarjja.html"/><parallel_text xml:lang="swe" location="nat-min-organisationsbidrag.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Organisasjåvnnådoarjja - Länsstyrelsen i Stockholm</p>
+<list/><p type="title">Organisasjåvnnådoarjja</p>
+<p><em type="italic">Lenastivra máksá jahkasattjat organisasjåvnnådårjav organisasjåvnåjda ma åvdåsti rijkalasj unnepågojt juvdára, roma, svieriksuobmelattja ja duornosliegega. Ulmme dårjajn la doarjjot ja giehpedit organisasjåvnåj dåjmajt. </em></p>
+<p>Doarjja njuolgaduvvá biejadusás (2005:765) stáhtadårja birra rijkalasj unneplågojda.</p>
+<p type="title">Gudi máhtti dårjav åhtsåt?</p>
+<p>Organisasjåvnå ma máhtti oadtjot organisasjåvnnådårjav li rijkaorganisasjåvnå jali organisasjåvnå rijkadåjmajn ma</p>
+<list><p type="listitem">åvdåsti rijkalasj unneplågojs muhtemav ja manna sebrulattja organisasjåvnån jali dan bájkálasjsiebrijn jali åssudagájn ienemusát li ulmutja tjadnusijn rijkalasj unneplågojda, ja</p>
+<p type="listitem">barggi dåjmajn ulmijn nannidit vájkudimfámov rijkalasj unneplåhkuj, åvdedit ietjas rijkalasj unneplågojuohkusa identitehtav, kultuvrav, gielav, vuosteldit nuppástallamav jali diedojt oabllot ietjas juohkusa birra.</p>
+</list></body></document>

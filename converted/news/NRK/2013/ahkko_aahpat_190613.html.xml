@@ -1,64 +1,23 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Áhkko åhpat áhkkovijt sámegielav</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/>
-    </author>
-    <year>2013</year>
-    <publChannel>
-      <publication>
-        <publisher>NRK Sápmi</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>417</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@it.no"/>
-    <origFileName>http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.11089338</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Samegillii</p>
-    <p>
-      <em type="italic">Maŋimuš ođđasat sámegillii </em>
-    </p>
-    <p/>
-    <p type="title">Áhkko åhpat áhkkovijt sámegielav</p>
-    <p>Lill-Tove Paulsen la vissjalis ja sávres áhkko.</p>
-    <p>Sån ittjij suv vuorrasamos bárnnáj sjaddam sámegielav oahppat, ja gå bárnnes stuoroj ja iesj mánáv oattjoj, de dåbdåj áhkko sujna la åvdåsvásstádus suv áhkkovij gæhttjalit sámegielav åhpadit.</p>
-    <p>Sån dan diehti dagáj ietjas priváhta oahppamnævojt vaj áhkkova galggi sámegielav gullat ja oahppat.</p>
-    <p>
-      <em type="italic">– Gå máná årru nav mælggadin sijdas dáppet Divtasvuona, gånnå måj ádjájn årrun, de la gatjálvis gåktu jåksåt mánájt sámegielajn ja gåktu sunnuv oahppat sámegielav. Danen gå iv la sámástam ietjam vuorrasamos bárnnáj gut la áhttje báhtjatjij Noahj, mij ruvva la gålmå jagák, de dåbddu dat munji åvdåsvásstádussan sunji sámegielav åhpadit, javllá Lill-Tove Paulsen, Ájláttes, Divtasvuonan. </em>
-    </p>
-    <p>Sån huomahij dahkat sierra oahppamnævojt man baktu gæhttjal guládallat suv áhkkovij sábmáj.</p>
-    <p>– Mån lav åhtsåm vuogijt man baktu dåhkki muv áhkkovijt jåksåt sámegielajn gå iv iejvvi sunnuv bæjválattjat. Ja de oahpástuvviv avtav prográmmaj mij gåhtjoduvvá fotostory, ja mån gåhtjudav dav gåvvåspellan. Dan prográmma baktu dåhkki gåvvåspelajt dahkat. Dasi máhtá gåvåjt biedjat, gåvåjt labudahttet ja jienav dasi biedjat, ja álgge l dajna barggat. Dájna mån dagáv gåvvåspelajt. Biejav gåvåjt ja mánájda ságastav ja subtsastaláv duov-dáv, giehttu Paulsen.</p>
-    <p>
-      <span type="quote">«Iv goassak vájba ietjam giela åvdås barggat»</span>
-    </p>
-    <p type="title">– Viehka buorre viehkkevædtsak</p>
-    <p>Øyvind Paulsen ja bárnne, Noah.</p>
-    <p>
-      <em type="bold">– Dát la læhkám buorre vædtsak ja viehkken sámegiela oahppamij subtsas Lill-Tove vuorrasamos bárnne Øyvind Paulsen gut la dán Noahtja áhttje. </em>
-    </p>
-    <p>Gå sij Roandemin årru de ij la máhttelis julevsámegielagijt oadtjot viehkken julevsámegielav åhpatjit, så sámegielaoahppam de báhtsá suv duohkáj subtsas Øyvind Paulsen.</p>
-    <p>Jus ga sån ittjij sámegielav vuostasjgiellan sijdan åhpa, de la sån huoman oahppam edna sáme dåssju gullama baktu. Ja de sjaddi dá gåvvåspella majt áhkko sáddi e-påsta baktu duodde viehkken, subtsas Øyvind.</p>
-    <p>
-      <em type="italic">– Gå mánná oattjoj dájt guokta-gålmmå vuostasj videosnuhtajt, da sjattaj tjåhkkåha danna gehtjatjit dájt videosnuhtajt. Ja måj vuojnijma dalága dá videosnuhta lidjin dagádum nav vaj áhkko oattjoj mánáv sehkanáhtátjit ságastallamij. Sån tjåhkkåhij danna ja vásstedij ja siejvij áhkkuj, sehkanij ságastallamij, ja mån vuojnniv dalága dát la ham ihkeva buorre ájálvis, subtsas Øyvind Paulsen. </em>
-    </p>
-    <p type="title">– Sámegiella la ájnas árvvo mánájda vaddet</p>
-    <p>Lill-Tove áhkko gut la guhttamánák ieddne ij la vájbbam sámegiela åvdås rahtjat.</p>
-    <p>Sån lij fáron ásadime dav vuostasj julevsáme mánájgárdev ålluk, Ájláddáj Divtasvuodnaj. Ja dan bargo åvdås oattjoj sån aktan gålmmå ietjá æjgátpáraj Sámedikke vuostas giellamåvtåstuhttembálkáv jagen 2000.</p>
-    <p>
-      <em type="italic">– Iv mån goassak vájba ietjam gielas ja dat ham boahtá dassta majt dættoda. Dat la gatjálvis makkir árvojt mánájda vaddet, ja akta dajs árvojs majt mån sidáv mánájda vaddet la sámegiella, javllá Lill-Tove Paulsen. </em>
-    </p>
-    <p>
-      <em type="italic">GULLDAL ÅLLES ÁSSJEV DÁNNA: </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Áhkko åhpat áhkkovijt sámegielav</title><genre code="news"/><author><person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/></author><year>2013</year><publChannel><publication><publisher>NRK Sápmi</publisher></publication></publChannel><wordcount>417</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@it.no"/><origFileName>http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.11089338</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Samegillii</p>
+<p><em type="italic">Maŋimuš ođđasat sámegillii </em></p>
+<p/>
+<p type="title">Áhkko åhpat áhkkovijt sámegielav</p>
+<p>Lill-Tove Paulsen la vissjalis ja sávres áhkko.</p>
+<p>Sån ittjij suv vuorrasamos bárnnáj sjaddam sámegielav oahppat, ja gå bárnnes stuoroj ja iesj mánáv oattjoj, de dåbdåj áhkko sujna la åvdåsvásstádus suv áhkkovij gæhttjalit sámegielav åhpadit.</p>
+<p>Sån dan diehti dagáj ietjas priváhta oahppamnævojt vaj áhkkova galggi sámegielav gullat ja oahppat.</p>
+<p><em type="italic">– Gå máná årru nav mælggadin sijdas dáppet Divtasvuona, gånnå måj ádjájn årrun, de la gatjálvis gåktu jåksåt mánájt sámegielajn ja gåktu sunnuv oahppat sámegielav. Danen gå iv la sámástam ietjam vuorrasamos bárnnáj gut la áhttje báhtjatjij Noahj, mij ruvva la gålmå jagák, de dåbddu dat munji åvdåsvásstádussan sunji sámegielav åhpadit, javllá Lill-Tove Paulsen, Ájláttes, Divtasvuonan. </em></p>
+<p>Sån huomahij dahkat sierra oahppamnævojt man baktu gæhttjal guládallat suv áhkkovij sábmáj.</p>
+<p>– Mån lav åhtsåm vuogijt man baktu dåhkki muv áhkkovijt jåksåt sámegielajn gå iv iejvvi sunnuv bæjválattjat. Ja de oahpástuvviv avtav prográmmaj mij gåhtjoduvvá fotostory, ja mån gåhtjudav dav gåvvåspellan. Dan prográmma baktu dåhkki gåvvåspelajt dahkat. Dasi máhtá gåvåjt biedjat, gåvåjt labudahttet ja jienav dasi biedjat, ja álgge l dajna barggat. Dájna mån dagáv gåvvåspelajt. Biejav gåvåjt ja mánájda ságastav ja subtsastaláv duov-dáv, giehttu Paulsen.</p>
+<p><span type="quote">«Iv goassak vájba ietjam giela åvdås barggat»</span></p>
+<p type="title">– Viehka buorre viehkkevædtsak</p>
+<p>Øyvind Paulsen ja bárnne, Noah.</p>
+<p><em type="bold">– Dát la læhkám buorre vædtsak ja viehkken sámegiela oahppamij subtsas Lill-Tove vuorrasamos bárnne Øyvind Paulsen gut la dán Noahtja áhttje. </em></p>
+<p>Gå sij Roandemin årru de ij la máhttelis julevsámegielagijt oadtjot viehkken julevsámegielav åhpatjit, så sámegielaoahppam de báhtsá suv duohkáj subtsas Øyvind Paulsen.</p>
+<p>Jus ga sån ittjij sámegielav vuostasjgiellan sijdan åhpa, de la sån huoman oahppam edna sáme dåssju gullama baktu. Ja de sjaddi dá gåvvåspella majt áhkko sáddi e-påsta baktu duodde viehkken, subtsas Øyvind.</p>
+<p><em type="italic">– Gå mánná oattjoj dájt guokta-gålmmå vuostasj videosnuhtajt, da sjattaj tjåhkkåha danna gehtjatjit dájt videosnuhtajt. Ja måj vuojnijma dalága dá videosnuhta lidjin dagádum nav vaj áhkko oattjoj mánáv sehkanáhtátjit ságastallamij. Sån tjåhkkåhij danna ja vásstedij ja siejvij áhkkuj, sehkanij ságastallamij, ja mån vuojnniv dalága dát la ham ihkeva buorre ájálvis, subtsas Øyvind Paulsen. </em></p>
+<p type="title">– Sámegiella la ájnas árvvo mánájda vaddet</p>
+<p>Lill-Tove áhkko gut la guhttamánák ieddne ij la vájbbam sámegiela åvdås rahtjat.</p>
+<p>Sån lij fáron ásadime dav vuostasj julevsáme mánájgárdev ålluk, Ájláddáj Divtasvuodnaj. Ja dan bargo åvdås oattjoj sån aktan gålmmå ietjá æjgátpáraj Sámedikke vuostas giellamåvtåstuhttembálkáv jagen 2000.</p>
+<p><em type="italic">– Iv mån goassak vájba ietjam gielas ja dat ham boahtá dassta majt dættoda. Dat la gatjálvis makkir árvojt mánájda vaddet, ja akta dajs árvojs majt mån sidáv mánájda vaddet la sámegiella, javllá Lill-Tove Paulsen. </em></p>
+<p><em type="italic">GULLDAL ÅLLES ÁSSJEV DÁNNA: </em></p>
+</body></document>

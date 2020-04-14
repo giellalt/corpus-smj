@@ -1,50 +1,17 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>330</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=713423</origFileName>
-    <parallel_text xml:lang="sma" location="default.aspx_id=713428.html"/>
-    <parallel_text xml:lang="sme" location="default.aspx_id=713425.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Sámevuohta Svieriga girkkon - Svenska kyrkan - Om oss</p>
-    <p type="title">Sámevuohta Svieriga girkkon</p>
-    <p type="title">Juohkka tjoaggulvis Svieriga girkkon vaddá  tjoaggulvisbagádusánis ietjá ássjij lassen diedov sámegiela bargos birra.</p>
-    <p>Le juo moadda jage årrum ájnas åvddånimdoajmma girkko sámegiela bargo hárráj, mij sámevuodav laset girkko jáhkkuj ja iellemij.</p>
-    <p>Sámijn li sierralágásj, árvulasj dåbdijdusá, majt girkkodåjman ja teologidjan, ja vil sebrudagán ietján aj, fálli. Sáme giela gulluji girkko ietjá gielajda, valla dajt ávkkim jubmeldievnon ja ietjá dåjmajn viertti åvdeduvvat.</p>
-    <p>Sámij ja Svieriga girkko gasskavuodan le guhka histåvrrå – dålutjij ietjájduvvama rájes ristalasj jáhko rádjáj ja sebrudaga ja girkko duolmmoma baktu udnásj girkko rádjáj, man sidot dálla le sámijt tjuodtjeldahttet vaj sáme kultuvrra ja sámij giela vuojnnusij båhti ja adnuj båhti.</p>
-    <p>
-      <em type="italic">Jubmeldievnno sámegiellaj </em>
-    </p>
-    <p>Svieriga girkkon li sámijn jubmeldievno sámegiellaj majn dåbdijdusájdisá vuosedi gåktus le unneplåhkon ja álggoálmmugin årrot. Åvddåmerka diehti jubmeldievnojn, doajmmaplánimijn ja mierredimijn sáme vaddi ájnas diedov sámekultuvra ja iellemdádjadusá birra ja duvddi dajna dan girkko tsieggimav mij le riektá ja rievtesferdukvuoda åvdåstiddjen.</p>
-    <p>Girkko bargguj sámij ja sámegielaj buorren gávnnu sierra organisasjåvnnå. Sáme Ráde Svieriga girkkon vuododuváj 1996 ja le njuolgga Girkkostivra vuollásattjan. Ráde oajvveulmme le sáme identitehtav, kultuvrav ja oassálasstemav doarjodit girkkon ja sebrudagán. Ráde doajmmá rijkalattjat.</p>
-    <p>
-      <em type="italic">Jårggålimbargo ájnas doajmmaoasse </em>
-    </p>
-    <p>Sáme giella, umass varietehtajis, le identitehta ja kultuvra guodden. Danen li rámáttevstaj jårggålibme sámegiellaj sáme ráde dahkamusá ájnas oasse, sálmaj ja girkkolasj girjij jårggålimij lassen. Dálla jårggåluvvi, Vuona-svierik aktisasjbargon, rámáttevsta oarjjelsámegiellaj, ma sierralágásj jubmeldievnojn aneduvvi. Sálmaj jårggålim- ja tjoahkkimbarggo nuorttasámegiela sálmmagirjjáj le aj ájggeguovddelis doajmma.</p>
-    <p>Ietjá ájnas dåjma sámerádáj le åvdedit lasedum diedojt sámij ja Sáme, sámeednama, birra ja barggat sáme åvdåstibmáj girkko mierredimorgánajn rijkan, stiftajn ja tjoaggulvisájn.</p>
-    <p>
-      <em type="italic">Barggojuohkusa stiftajn </em>
-    </p>
-    <p>Julevu , Härnösanda ja Stockholma stiftajn barggojuohkusa gávnnuji girkko sámebargguj. Västeråsa ja Göteborga stiftaj ássjelistajn le aj sáme girkkoiellem maŋen. Stifta ja tjoaggulvisá máhtti diedov vaddet sáme bargo birra.</p>
-    <p><em type="italic">Skallujlåhkåmläger sámijda </em>Svieriga girkko juohkka jage ásat sáme skallujlåhkåmlägerav aktijbargon Sáme girkkorádijn Svieriga girkkon, Sáme referänssajuohkusijn Härnösánda ja Julevu stiftan, ja Sámenuorajn. Ienep diededimev lägera birra 2012 aktavuodav válde Birgitta Simmajn Julev stiftan: 0920-4924 58. </p>
-    <p>//</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>330</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.svenskakyrkan.se/default.aspx?id=713423</origFileName><parallel_text xml:lang="sma" location="default.aspx_id=713428.html"/><parallel_text xml:lang="sme" location="default.aspx_id=713425.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Sámevuohta Svieriga girkkon - Svenska kyrkan - Om oss</p>
+<p type="title">Sámevuohta Svieriga girkkon</p>
+<p type="title">Juohkka tjoaggulvis Svieriga girkkon vaddá  tjoaggulvisbagádusánis ietjá ássjij lassen diedov sámegiela bargos birra.</p>
+<p>Le juo moadda jage årrum ájnas åvddånimdoajmma girkko sámegiela bargo hárráj, mij sámevuodav laset girkko jáhkkuj ja iellemij.</p>
+<p>Sámijn li sierralágásj, árvulasj dåbdijdusá, majt girkkodåjman ja teologidjan, ja vil sebrudagán ietján aj, fálli. Sáme giela gulluji girkko ietjá gielajda, valla dajt ávkkim jubmeldievnon ja ietjá dåjmajn viertti åvdeduvvat.</p>
+<p>Sámij ja Svieriga girkko gasskavuodan le guhka histåvrrå – dålutjij ietjájduvvama rájes ristalasj jáhko rádjáj ja sebrudaga ja girkko duolmmoma baktu udnásj girkko rádjáj, man sidot dálla le sámijt tjuodtjeldahttet vaj sáme kultuvrra ja sámij giela vuojnnusij båhti ja adnuj båhti.</p>
+<p><em type="italic">Jubmeldievnno sámegiellaj </em></p>
+<p>Svieriga girkkon li sámijn jubmeldievno sámegiellaj majn dåbdijdusájdisá vuosedi gåktus le unneplåhkon ja álggoálmmugin årrot. Åvddåmerka diehti jubmeldievnojn, doajmmaplánimijn ja mierredimijn sáme vaddi ájnas diedov sámekultuvra ja iellemdádjadusá birra ja duvddi dajna dan girkko tsieggimav mij le riektá ja rievtesferdukvuoda åvdåstiddjen.</p>
+<p>Girkko bargguj sámij ja sámegielaj buorren gávnnu sierra organisasjåvnnå. Sáme Ráde Svieriga girkkon vuododuváj 1996 ja le njuolgga Girkkostivra vuollásattjan. Ráde oajvveulmme le sáme identitehtav, kultuvrav ja oassálasstemav doarjodit girkkon ja sebrudagán. Ráde doajmmá rijkalattjat.</p>
+<p><em type="italic">Jårggålimbargo ájnas doajmmaoasse </em></p>
+<p>Sáme giella, umass varietehtajis, le identitehta ja kultuvra guodden. Danen li rámáttevstaj jårggålibme sámegiellaj sáme ráde dahkamusá ájnas oasse, sálmaj ja girkkolasj girjij jårggålimij lassen. Dálla jårggåluvvi, Vuona-svierik aktisasjbargon, rámáttevsta oarjjelsámegiellaj, ma sierralágásj jubmeldievnojn aneduvvi. Sálmaj jårggålim- ja tjoahkkimbarggo nuorttasámegiela sálmmagirjjáj le aj ájggeguovddelis doajmma.</p>
+<p>Ietjá ájnas dåjma sámerádáj le åvdedit lasedum diedojt sámij ja Sáme, sámeednama, birra ja barggat sáme åvdåstibmáj girkko mierredimorgánajn rijkan, stiftajn ja tjoaggulvisájn.</p>
+<p><em type="italic">Barggojuohkusa stiftajn </em></p>
+<p>Julevu , Härnösanda ja Stockholma stiftajn barggojuohkusa gávnnuji girkko sámebargguj. Västeråsa ja Göteborga stiftaj ássjelistajn le aj sáme girkkoiellem maŋen. Stifta ja tjoaggulvisá máhtti diedov vaddet sáme bargo birra.</p>
+<p><em type="italic">Skallujlåhkåmläger sámijda </em>Svieriga girkko juohkka jage ásat sáme skallujlåhkåmlägerav aktijbargon Sáme girkkorádijn Svieriga girkkon, Sáme referänssajuohkusijn Härnösánda ja Julevu stiftan, ja Sámenuorajn. Ienep diededimev lägera birra 2012 aktavuodav válde Birgitta Simmajn Julev stiftan: 0920-4924 58. </p>
+<p>//</p>
+</body></document>

@@ -1,47 +1,17 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>195</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Samediggeviesso</origFileName>
-    <parallel_text xml:lang="nob" location="sametingsbygningen.html"/>
-    <parallel_text xml:lang="sma" location="saemiedigkiegaaetie.html"/>
-    <parallel_text xml:lang="sme" location="samediggevisti.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sámediggeviesso / Sámmedikke birra / Sámedigge - Sametinget</p>
-    <p type="title">Sámediggeviesso</p>
-    <p xml:lang="nob">25. mïetske 2011</p>
-    <p>Sámediggeviesso Kárásjågån rabáduváj almulattjat basádismáno 2. biejve jagen 2000 S.M. Gånågisás Harald V. Sámediggevieson li sámij álmmukválljidum tjoaggulvis ja Vuona Sámedikke háldadus.</p>
-    <p>Viesso le tjuorgadum sivijllaarkitektajs Stein Halvorsen ja Christian Sundby, gudi moarmesmánon 1996 vuojttijga arkitæktagilppusav dåbddobágujn 69,3˚ NORD. Tjoahkkáj lidjin 116 oassálasste, ja dájs båhtin 48 oajvvadusá.</p>
-    <p>Tsieggimbarggo álgeduváj bårggemánon jagen 1998 ja biehtsemánon 1999 biejaj stuorradiggepresidænnta biejaj Kirsti Kolle Grøndahl vuodogiergev.</p>
-    <p>Viesso le hábbmidum lahkke gievllen guovtijn gierdijn Sámedikke girjjevuorkájn, boadáldagájn, tjåhkanimlanjájn ja nielljalåk kontåvråj. Lahkkegievle gietjen le Sámedikke ållestjåhkanimladnja låvdagoade muoduk amfijajn gånnå sámij álmmukválljidum digge tjåhkan.</p>
-    <p>Sámediggeviesso le åvdemusát konkrehtalasj symbåvllån dan politihkalasj ja riektálasj stáhtusij mij le sámeálmmugin.</p>
-    <p>Sámediggeviesso ållit divna dábálasj gájbbádusájt ådåájggásasj parlamænntaviesojda. Sámedikke ållestjåhkanimlanján, gulldalimlanján ja divna tjåhkanimlanjájn li digitála dålkkumvædtsaga. Pressan ja median le sierra lanjá, ja hiebadahtedum la radio- ja televisjåvnnåsáddimijda Sámedikke tjåhkanimijs.</p>
-    <p>Vieso vijddudahka tjoahkkáj le 5 300 neljudakmehtera ja prosjæktagålo lidjin 128.710.000 kråvnå jagen 2000.</p>
-    <p xml:lang="nob">Resepsjonen © Foto: Fornavn Etternavn</p>
-    <p xml:lang="nob">Plenumsveggen © Foto: Fornavn Etternavn</p>
-    <p xml:lang="sme">Sámedigge Ávjovárgeaidnu 50 9730 Karasjok/Kárášjohka, Norway</p>
-    <p><em type="bold">Rahpamájge: </em>mánnodagá - bierjjedagá: 08:00 - 15:00 </p>
-    <p>Gehtja kártav Google mapsan</p>
-    <p>Sámedikken le kontåvrå ålles rijkan. Åtså kontåvråv ietjat lahkusijn</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>195</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Samediggeviesso</origFileName><parallel_text xml:lang="nob" location="sametingsbygningen.html"/><parallel_text xml:lang="sma" location="saemiedigkiegaaetie.html"/><parallel_text xml:lang="sme" location="samediggevisti.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sámediggeviesso / Sámmedikke birra / Sámedigge - Sametinget</p>
+<p type="title">Sámediggeviesso</p>
+<p xml:lang="nob">25. mïetske 2011</p>
+<p>Sámediggeviesso Kárásjågån rabáduváj almulattjat basádismáno 2. biejve jagen 2000 S.M. Gånågisás Harald V. Sámediggevieson li sámij álmmukválljidum tjoaggulvis ja Vuona Sámedikke háldadus.</p>
+<p>Viesso le tjuorgadum sivijllaarkitektajs Stein Halvorsen ja Christian Sundby, gudi moarmesmánon 1996 vuojttijga arkitæktagilppusav dåbddobágujn 69,3˚ NORD. Tjoahkkáj lidjin 116 oassálasste, ja dájs båhtin 48 oajvvadusá.</p>
+<p>Tsieggimbarggo álgeduváj bårggemánon jagen 1998 ja biehtsemánon 1999 biejaj stuorradiggepresidænnta biejaj Kirsti Kolle Grøndahl vuodogiergev.</p>
+<p>Viesso le hábbmidum lahkke gievllen guovtijn gierdijn Sámedikke girjjevuorkájn, boadáldagájn, tjåhkanimlanjájn ja nielljalåk kontåvråj. Lahkkegievle gietjen le Sámedikke ållestjåhkanimladnja låvdagoade muoduk amfijajn gånnå sámij álmmukválljidum digge tjåhkan.</p>
+<p>Sámediggeviesso le åvdemusát konkrehtalasj symbåvllån dan politihkalasj ja riektálasj stáhtusij mij le sámeálmmugin.</p>
+<p>Sámediggeviesso ållit divna dábálasj gájbbádusájt ådåájggásasj parlamænntaviesojda. Sámedikke ållestjåhkanimlanján, gulldalimlanján ja divna tjåhkanimlanjájn li digitála dålkkumvædtsaga. Pressan ja median le sierra lanjá, ja hiebadahtedum la radio- ja televisjåvnnåsáddimijda Sámedikke tjåhkanimijs.</p>
+<p>Vieso vijddudahka tjoahkkáj le 5 300 neljudakmehtera ja prosjæktagålo lidjin 128.710.000 kråvnå jagen 2000.</p>
+<p xml:lang="nob">Resepsjonen © Foto: Fornavn Etternavn</p>
+<p xml:lang="nob">Plenumsveggen © Foto: Fornavn Etternavn</p>
+<p xml:lang="sme">Sámedigge Ávjovárgeaidnu 50 9730 Karasjok/Kárášjohka, Norway</p>
+<p><em type="bold">Rahpamájge: </em>mánnodagá - bierjjedagá: 08:00 - 15:00 </p>
+<p>Gehtja kártav Google mapsan</p>
+<p>Sámedikken le kontåvrå ålles rijkan. Åtså kontåvråv ietjat lahkusijn</p>
+</body></document>

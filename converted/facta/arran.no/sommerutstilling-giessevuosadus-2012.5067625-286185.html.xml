@@ -1,42 +1,13 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>166</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/sommerutstilling-giessevuosadus-2012.5067625-286185.html</origFileName>
-    <parallel_text xml:lang="nob" location="sommerutstilling-giessevuosadus-2012.5067625-286185.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sommerutstilling / Giessevuosádus 2012 - Árran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title">Sommerutstilling  /  Giessevuosádus 2012</p>
-    <p>Sommerutstilling av Anders Sunna på Árran frem til 13 august 2012. Anders Sunna giessevuosádus le gitta bårggemáno 13. bæjvváj 2012 Árranin</p>
-    <p>
-      <em type="italic">Djupasmutsvatten - Anders Sunna </em>
-    </p>
-    <p type="title" xml:lang="nob">Sommerutstilling av Anders Sunna på Árran frem til 13 august 2012.</p>
-    <p xml:lang="nob">Anders Sunna er en ung samisk kunstner. Han er fødd 1985 i Kieksiäisvaara i Norrbotten, nær Pajala og er seinere bosatt i Vännäs. Han kommer fra en reindriftsfamilie. Han har utdannet sig på Umeå Konstskola og Konstfack og er nå kunstner og arbeider i Umeå.</p>
-    <p xml:lang="nno">
-      <em type="italic">Norrbottengudfader - Anders Sunna </em>
-    </p>
-    <p type="title">Anders Sunna giessevuosádus le gitta bårggemáno 13. bæjvváj 2012 Árranin</p>
-    <p>Anders Sunna le nuorra sáme dájddár gut le riegádam jagen 1985 Kieksivaaran Pajala láhka, ja dálla Vännäsan årru. Suv duogásj le ælloniehkke fámiljas. Sån le åhpadusáv gadtsam Ubbmema Dájddaskåvlån ja Konstfackan, ja dálla le dájddárin Ubbmemin.</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Herva li ruopptot / Pynten tilbake</p>
-      <p type="listitem" xml:lang="nob">Frank A. Jenssen - forfatterbesøk på Árran</p>
-      <p type="listitem">Árran er godkjent lærebedrift./ Árran le dåhkkiduvvam oahpposadjen.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>166</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/sommerutstilling-giessevuosadus-2012.5067625-286185.html</origFileName><parallel_text xml:lang="nob" location="sommerutstilling-giessevuosadus-2012.5067625-286185.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sommerutstilling / Giessevuosádus 2012 - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title">Sommerutstilling  /  Giessevuosádus 2012</p>
+<p>Sommerutstilling av Anders Sunna på Árran frem til 13 august 2012. Anders Sunna giessevuosádus le gitta bårggemáno 13. bæjvváj 2012 Árranin</p>
+<p><em type="italic">Djupasmutsvatten - Anders Sunna </em></p>
+<p type="title" xml:lang="nob">Sommerutstilling av Anders Sunna på Árran frem til 13 august 2012.</p>
+<p xml:lang="nob">Anders Sunna er en ung samisk kunstner. Han er fødd 1985 i Kieksiäisvaara i Norrbotten, nær Pajala og er seinere bosatt i Vännäs. Han kommer fra en reindriftsfamilie. Han har utdannet sig på Umeå Konstskola og Konstfack og er nå kunstner og arbeider i Umeå.</p>
+<p xml:lang="nno"><em type="italic">Norrbottengudfader - Anders Sunna </em></p>
+<p type="title">Anders Sunna giessevuosádus le gitta bårggemáno 13. bæjvváj 2012 Árranin</p>
+<p>Anders Sunna le nuorra sáme dájddár gut le riegádam jagen 1985 Kieksivaaran Pajala láhka, ja dálla Vännäsan årru. Suv duogásj le ælloniehkke fámiljas. Sån le åhpadusáv gadtsam Ubbmema Dájddaskåvlån ja Konstfackan, ja dálla le dájddárin Ubbmemin.</p>
+<list><p type="listitem" xml:lang="nob">Herva li ruopptot / Pynten tilbake</p>
+<p type="listitem" xml:lang="nob">Frank A. Jenssen - forfatterbesøk på Árran</p>
+<p type="listitem">Árran er godkjent lærebedrift./ Árran le dåhkkiduvvam oahpposadjen.</p>
+</list></body></document>

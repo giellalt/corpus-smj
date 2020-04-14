@@ -1,29 +1,6 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Åhpaduslihtto</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>158</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>https://www.utdanningsforbundet.no/globalassets/var-politikk/publikasjoner/brosjyrer/samisk-brosjyre.pdf</origFileName>
-    <parallel_text xml:lang="nob" location="utdanningsforbundet.pdf"/>
-    <parallel_text xml:lang="sma" location="oohpehtimmiesiebrie.pdf"/>
-    <parallel_text xml:lang="sme" location="oahppolihttu.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åhpaduslihttobarggo le bærrájgæhttjat vaj divna sáme máná ja oahppe Vuonan oadtju åhpadusáv gånnå sámegiella, kultuvrra, histåvrrå ja sebrudahka le vuodon. Dát le Vuodolága ja rijkajgasskasasj sjiehtadusáj milta.</p>
-    <p>Sámeálmmuk galggá oadtjot sæmmi máhttelisvuodajt åhpadussaj gájkka dásijn gå ietjá álmmuk rijkan. Åhpadus galggá sáme oahppijda vaddet guovtegielakvuodav vaj sij dåbddi luohtádusáv goappátjij kultuvrajda ja vaj sij dåbddi máhtudagáv doajmmat sihke sáme, vuona ja rijkajgasskasasj sebrudagán.</p>
-    <p>Sáme máná ja oahppe gudi årru ålggolin sáme háldadimguovlo dárbahi sierra berustimev mij tjårggi bisodit sámegielav ja identitehtav.</p>
-    <p>Dá ulme dåssju ålliduvvi jus sáme ietja bessi vájkkudit åhpadusá sisanov ja dav hábbmit. Dan diehti bierri Sámedikken liehket alemus åvdåsvásstadus sáme åhpadussaj. Åhpaduslihtto galggá sáme åhpadiddjij dárbojt gåbttjåt nav gåktu ietjá sebrulattjaj dárbojt, valla sierra ratjástimev åhpadussáj ja lasseåhpadussaj vaj da sierra kultuvrradahkamusá gåtseduvvi ja vaj rekrutterim tjårggiduvvá.</p>
-    <p>Åhpaduslihtto le stuorámus barggijsiebrre pedagogalasj barggijda ja jådediddjijda ålles Vuona åhpadussysteman. Lihton le sierra juogos ájrrasij dajs gålmå sáme giellasuorgijs. Dát juogos le rádediddjen guovdásjstivrraj sáme åhpadusgatjálvisáj hárráj.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Åhpaduslihtto</title><genre code="facta"/><author><unknown/></author><wordcount>158</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://www.utdanningsforbundet.no/globalassets/var-politikk/publikasjoner/brosjyrer/samisk-brosjyre.pdf</origFileName><parallel_text xml:lang="nob" location="utdanningsforbundet.pdf"/><parallel_text xml:lang="sma" location="oohpehtimmiesiebrie.pdf"/><parallel_text xml:lang="sme" location="oahppolihttu.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åhpaduslihttobarggo le bærrájgæhttjat vaj divna sáme máná ja oahppe Vuonan oadtju åhpadusáv gånnå sámegiella, kultuvrra, histåvrrå ja sebrudahka le vuodon. Dát le Vuodolága ja rijkajgasskasasj sjiehtadusáj milta.</p>
+<p>Sámeálmmuk galggá oadtjot sæmmi máhttelisvuodajt åhpadussaj gájkka dásijn gå ietjá álmmuk rijkan. Åhpadus galggá sáme oahppijda vaddet guovtegielakvuodav vaj sij dåbddi luohtádusáv goappátjij kultuvrajda ja vaj sij dåbddi máhtudagáv doajmmat sihke sáme, vuona ja rijkajgasskasasj sebrudagán.</p>
+<p>Sáme máná ja oahppe gudi årru ålggolin sáme háldadimguovlo dárbahi sierra berustimev mij tjårggi bisodit sámegielav ja identitehtav.</p>
+<p>Dá ulme dåssju ålliduvvi jus sáme ietja bessi vájkkudit åhpadusá sisanov ja dav hábbmit. Dan diehti bierri Sámedikken liehket alemus åvdåsvásstadus sáme åhpadussaj. Åhpaduslihtto galggá sáme åhpadiddjij dárbojt gåbttjåt nav gåktu ietjá sebrulattjaj dárbojt, valla sierra ratjástimev åhpadussáj ja lasseåhpadussaj vaj da sierra kultuvrradahkamusá gåtseduvvi ja vaj rekrutterim tjårggiduvvá.</p>
+<p>Åhpaduslihtto le stuorámus barggijsiebrre pedagogalasj barggijda ja jådediddjijda ålles Vuona åhpadussysteman. Lihton le sierra juogos ájrrasij dajs gålmå sáme giellasuorgijs. Dát juogos le rádediddjen guovdásjstivrraj sáme åhpadusgatjálvisáj hárráj.</p>
+</body></document>

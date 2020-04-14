@@ -1,51 +1,16 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Garra rijddo giellarudáj badjel - nord-salten.no</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Lars Theodor" lastname="Kintel" sex="m" born="1986" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>554</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Anders Urheim garrasit lájttá Divtasvuona suohkanav gå ælla berustam dajs rudájs majt suohkan le oadtjum gå li sáme giellaháldadusguovlluj oassálasstám. - Dieddjim ja vuosstálasstám li sáme ássjijt, oajvvát Urheim.</p>
-    <p type="title">Garra rijddo giellarudáj badjel</p>
-    <p>Sámediggeájras Anders Urheim javllá sáme ássjij vuosstálasstem le sivvan gå juolloduvvam guovtegielakrudá ælla aneduvvam. Urheim gatját jus soajttá rasisstalasj ulme li vuodon. Suohkanoajvve Kurt Allan Nilsen gal ij dájda tjuottjodagájda vuojga lijkku.</p>
-    <p>Divtasvuona suohkan sáme giellaháldadusguovlluj oassálastij ådåjakmáno 1. biejve 2006 jage rájes, Nordlánda ájnna suohkanin. Duodden Divtasvuodnaj le Gájvuodna Råmsån ja vihtta suohkana Finmárkon háldadusguovlon. Oassálasstemij gulluji aj rudá stáhtas ja vælggogisvuohta sáme álmmuga dárbojt ållidit. 2006:n oattjoj Divtasvuona suohkan guokta milliåvnå kråvnå, ja duodden li gålmmå milliåvnå kråvnå juolloduvvam 2007:n. Vuostasj jage juollodimes 1,6 milliåvnå jådeduvvin 2007:aj, danen le suohkanin ålles 4,6 milliåvnå dán jage adnuj.</p>
-    <p>Sáme avijssa <span type="quote">«Ságat»</span> le moatten artihkkalin tjállám gåktu suohkan ij buvte ja sidá rudájt adnegoahtet. <span type="quote">«Divtasvuona suohkanin le sámebiednigijs galle, valla e åvvå avtak fálaldagáv nagá álmmugij fállat»</span>, tjállá avijssa artihkkalin ragátmáno 27. biejve.</p>
-    <p>Guovvamáno 1. biejve rájes Stig Gælok bargaj sáme giellakonsulænntan háladusán. Valla sån hiejitj virgenis åvddål giesseloabe. De lij gárvedibme giellaplánajn suv bieles ålliduvvam. Dát pládna galggá liehket oassen suohkana ålleslasj plánas, ja formálalasj mierreduvvam pládna le gájbbádussan årrum jus galggá bessat guovtegielakvuohtarudájt adnet. Pládna le dal háldadusá bieles gárveduvvam, ja galggá politihkalasj giehtadallamij suohkanstivra tjåhkanimen basádismánon.</p>
-    <p>- Gå hæhttuji vuorddet formálalasj mierreduvvam giellaplánav åvddål rudájt adnegåhti, de la dat muv mielas dåssju dieddjidibme gå e sidá majdik dahkat, javllá Anders Urheim, ja duoddis: - Diedon le galla le buorre ja ækto jus plána gárveduvvi, valla ij gal máhte mañedit moadda dåjmajt ma li sáme álmmugij buorren madi plánav vuorddá. Muv mielas de galgaluluj dakkir avtagærddásasj symbåvllå dagu sáme galbba suohkanhuodnahin Gásluovtan sajenis årrum juo 2006 ådåjakmánon. - Dát mij le Divtasvuonan dáhpáduvvam le muv mielas njuolgga institusjåvnålasj rasissma, gånnå politihkalasj oajválattja ja ieneplåhko diedulattjat li vuosstálasstám ja maññedam sáme åvddånahttemav Divtasvuonan, oajvvát Anders Urheim ja duoddis: - Dát moatte suorgijda guosská, valla værámus le muv mielas varresvuodasuorgen gånnå ham diehtep alvos ássje dagu boastodiagnostiserim le juo dáhpáduvvam. Jus politihkkára lidjin sihtat de lidjin sámegielak sujttára ådno juo gávnnut, juolloduvvam rudáj baktu ruhtaduvvam. Jus lidjin aktijvuodav Sámedikkijn válldám ja dilev tjielggim, de iv jáhke pládnavádnunibme lij ganugahttet ávkálasj ja dárbulasj dåjmajt. Dálasj dille vuoset e åvvånis sidá majdik dahkat Divtasvuona sáme álmmugij buorren, miejnni sámediggeájras gut imájdallá manen suohkan vuojnnunagi ij vuojga berusta daj stuorra juollodimijs stáhtas. - Jáhkáv divna ietjá suohkana dán rijkan lidjin dájt milliåvnåjt vuosstájválldet ja ávkkit buorre mielajn, javllá sån.</p>
-    <p>
-      <em type="italic">Suohkanoajvve Kurt Allan Nilsen hilggu lájtov. </em>
-    </p>
-    <p>- Muv mielas galgaj Anders Urheim ussjolit åvddål javllá dagu javllá, ja ihkap gæhttjalit ássjáj dåbdijdit åvdås mediaj manná. Suv bágojda iv åvvånis guorrasa, da ælla dåhkkidahtte, javllá moasjes Nilsen gut oajvvát Divtasvuona suohkan, jus ga le vehi maññunam, le buoragit jåhtuj boahtám suohkanav giellaháldadusguovlluj oassálastátjit ja rudájt adnegoadátjit.</p>
-    <p>- Diedon galgalulujma guhkebuv ållim gå lip, valla moadda dåjma li jåhtåj biejaduvvam ja investerima li dagáduvvam, dán rádjáj suohkana dábálasj doajmmarudáj baktu ruhtaduvvam. Gå sáme giellapládna basádismánon formálalattjat mierreduvvá, de dá rudá vas máhtti ruopptot mávseduvvat. Åvddål jahke l vássám de jáhkáv ienemus oasse rudájs li aneduvvam, javllá suohkanoajvve.</p>
-    <p xml:lang="nob">Tæksta: Børge Strandskog</p>
-    <p>Jårggålibme: Lars Th. Kintel</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Garra rijddo giellarudáj badjel"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Garra rijddo giellarudáj badjel - nord-salten.no</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><person firstname="Lars Theodor" lastname="Kintel" sex="m" born="1986" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>554</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Anders Urheim garrasit lájttá Divtasvuona suohkanav gå ælla berustam dajs rudájs majt suohkan le oadtjum gå li sáme giellaháldadusguovlluj oassálasstám. - Dieddjim ja vuosstálasstám li sáme ássjijt, oajvvát Urheim.</p>
+<p type="title">Garra rijddo giellarudáj badjel</p>
+<p>Sámediggeájras Anders Urheim javllá sáme ássjij vuosstálasstem le sivvan gå juolloduvvam guovtegielakrudá ælla aneduvvam. Urheim gatját jus soajttá rasisstalasj ulme li vuodon. Suohkanoajvve Kurt Allan Nilsen gal ij dájda tjuottjodagájda vuojga lijkku.</p>
+<p>Divtasvuona suohkan sáme giellaháldadusguovlluj oassálastij ådåjakmáno 1. biejve 2006 jage rájes, Nordlánda ájnna suohkanin. Duodden Divtasvuodnaj le Gájvuodna Råmsån ja vihtta suohkana Finmárkon háldadusguovlon. Oassálasstemij gulluji aj rudá stáhtas ja vælggogisvuohta sáme álmmuga dárbojt ållidit. 2006:n oattjoj Divtasvuona suohkan guokta milliåvnå kråvnå, ja duodden li gålmmå milliåvnå kråvnå juolloduvvam 2007:n. Vuostasj jage juollodimes 1,6 milliåvnå jådeduvvin 2007:aj, danen le suohkanin ålles 4,6 milliåvnå dán jage adnuj.</p>
+<p>Sáme avijssa <span type="quote">«Ságat»</span> le moatten artihkkalin tjállám gåktu suohkan ij buvte ja sidá rudájt adnegoahtet. <span type="quote">«Divtasvuona suohkanin le sámebiednigijs galle, valla e åvvå avtak fálaldagáv nagá álmmugij fállat»</span>, tjállá avijssa artihkkalin ragátmáno 27. biejve.</p>
+<p>Guovvamáno 1. biejve rájes Stig Gælok bargaj sáme giellakonsulænntan háladusán. Valla sån hiejitj virgenis åvddål giesseloabe. De lij gárvedibme giellaplánajn suv bieles ålliduvvam. Dát pládna galggá liehket oassen suohkana ålleslasj plánas, ja formálalasj mierreduvvam pládna le gájbbádussan årrum jus galggá bessat guovtegielakvuohtarudájt adnet. Pládna le dal háldadusá bieles gárveduvvam, ja galggá politihkalasj giehtadallamij suohkanstivra tjåhkanimen basádismánon.</p>
+<p>- Gå hæhttuji vuorddet formálalasj mierreduvvam giellaplánav åvddål rudájt adnegåhti, de la dat muv mielas dåssju dieddjidibme gå e sidá majdik dahkat, javllá Anders Urheim, ja duoddis: - Diedon le galla le buorre ja ækto jus plána gárveduvvi, valla ij gal máhte mañedit moadda dåjmajt ma li sáme álmmugij buorren madi plánav vuorddá. Muv mielas de galgaluluj dakkir avtagærddásasj symbåvllå dagu sáme galbba suohkanhuodnahin Gásluovtan sajenis årrum juo 2006 ådåjakmánon. - Dát mij le Divtasvuonan dáhpáduvvam le muv mielas njuolgga institusjåvnålasj rasissma, gånnå politihkalasj oajválattja ja ieneplåhko diedulattjat li vuosstálasstám ja maññedam sáme åvddånahttemav Divtasvuonan, oajvvát Anders Urheim ja duoddis: - Dát moatte suorgijda guosská, valla værámus le muv mielas varresvuodasuorgen gånnå ham diehtep alvos ássje dagu boastodiagnostiserim le juo dáhpáduvvam. Jus politihkkára lidjin sihtat de lidjin sámegielak sujttára ådno juo gávnnut, juolloduvvam rudáj baktu ruhtaduvvam. Jus lidjin aktijvuodav Sámedikkijn válldám ja dilev tjielggim, de iv jáhke pládnavádnunibme lij ganugahttet ávkálasj ja dárbulasj dåjmajt. Dálasj dille vuoset e åvvånis sidá majdik dahkat Divtasvuona sáme álmmugij buorren, miejnni sámediggeájras gut imájdallá manen suohkan vuojnnunagi ij vuojga berusta daj stuorra juollodimijs stáhtas. - Jáhkáv divna ietjá suohkana dán rijkan lidjin dájt milliåvnåjt vuosstájválldet ja ávkkit buorre mielajn, javllá sån.</p>
+<p><em type="italic">Suohkanoajvve Kurt Allan Nilsen hilggu lájtov. </em></p>
+<p>- Muv mielas galgaj Anders Urheim ussjolit åvddål javllá dagu javllá, ja ihkap gæhttjalit ássjáj dåbdijdit åvdås mediaj manná. Suv bágojda iv åvvånis guorrasa, da ælla dåhkkidahtte, javllá moasjes Nilsen gut oajvvát Divtasvuona suohkan, jus ga le vehi maññunam, le buoragit jåhtuj boahtám suohkanav giellaháldadusguovlluj oassálastátjit ja rudájt adnegoadátjit.</p>
+<p>- Diedon galgalulujma guhkebuv ållim gå lip, valla moadda dåjma li jåhtåj biejaduvvam ja investerima li dagáduvvam, dán rádjáj suohkana dábálasj doajmmarudáj baktu ruhtaduvvam. Gå sáme giellapládna basádismánon formálalattjat mierreduvvá, de dá rudá vas máhtti ruopptot mávseduvvat. Åvddål jahke l vássám de jáhkáv ienemus oasse rudájs li aneduvvam, javllá suohkanoajvve.</p>
+<p xml:lang="nob">Tæksta: Børge Strandskog</p>
+<p>Jårggålibme: Lars Th. Kintel</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Garra rijddo giellarudáj badjel"</span> på Facebook</p>
+</body></document>

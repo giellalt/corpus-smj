@@ -1,53 +1,26 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>302</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/4058</origFileName>
-    <parallel_text xml:lang="sme" location="3240.html"/>
-    <parallel_text xml:lang="swe" location="1135.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Vidnudakdoarjja - Sametinget</p>
-    <p>På väg att starta eget renskötselföretag? Foto: Carl-Johan Utsi.</p>
-    <p type="title">Vidnudakdoarjja</p>
-    <p>Le gus dujna vidnudahka ja sidá ådå dåjmajn vidnudagán álgadit? Dárbaha gus investerit jali oasstet dievnastimev? Sidá gus ådå boatsojäládusvidnudagáv álgadit? Vidnudakdårja dávk de dunji hiehpi! Åtsålvis mij guosská sáme vidnudagájda galggá Sámediggáj rájaduvvá.</p>
-    <p>Vidnudakdårja juogeduvvi:</p>
-    <p>•	álgadimdoarjjan</p>
-    <p>•	investerimdoarjjan</p>
-    <p>•	doarjjan ålgop dievnastusáj oasestibmáj</p>
-    <p>•	gelbugisvuohtaåvddånibmen</p>
-    <p>Vuodo vijor gájkka vidnudakdårjajda le dån vidnudakplánav vuododa. Vidnudakplána le vuodo Sámedikke vuorodimijda.</p>
-    <p>Sámedikke ållidimstrategiddja</p>
-    <p>Jåvsådittjat buoremus båhtusijda, Sámedikken le ietjas strategiddja gåktu dårja galggi juogeduvvat. Strategidjan le ájnasvuohta gejda doarjja mierreduvvá. Sámedigge merustallá ja vuorot åtsålvisáj gaskan sáme vidnudallijs.</p>
-    <p>Álgadimdoarjja</p>
-    <p>Jus álggá ällosujttovidnudakniehkken vuostasj bále de máhtá álgadimdårjav 250.000 kråvnnåj åhtsåt. Gå åtså de galga nuorap gå 40 jage årrot.</p>
-    <p>Investerimdoarjja</p>
-    <p>Lasedittjat vidnudagáj gáhpustimfámov, vuojtov ja åvddånimev le ulmme ekonomiddjav nannidit ja åvdedit dåjmajt vidnudágájn ednamdáfon. Suorge investerimdoarjjaj le vijdeduvvam ja ådå juohkusa máhtti dårjav åhtsåt. Investerimdoarjja guosská bv. ådåstuhttemij, buoredibmáj, ekonomidja rievddadibmáj, turissmaj, ienep bargojda ja kultuvrraárbe divudibmáj kultuvralasj jali vuojtulasj måhkijda.</p>
-    <p>Doarjja ålgop dievnastusáj</p>
-    <p>oasstemij</p>
-    <p>Ulmme le ekonomidjav vidnudagájda ednamdáfon nannidit. Máhtá dårjav mierreduvvat mávsátjit gåloj muhtem oasev diedoj ja dievnastusáj oasstemij dåjma åvddånimen. Máhtá dårjav mierreduvvat doarjjavuododiddje gåloj, alemusát 30 prosänntaj, nuortta Svierigin alemusát 50 prosänntaj. Doarjja máhttá investerimdårjav lasedit.</p>
-    <p>Doarjja gelbugisvuohtaåvddånibmáj</p>
-    <p>Ulmme le giehpedit vidnudagáj hiebadimev ådå vidjurijda ja nannidit gáhpustimfámov. Lågå ienebuv Gelbugisvuohtaåvddånime vuollelin válljidagán.</p>
-    <p>Nåvti åtså</p>
-    <p>Sámedikke ja Ednambarggodåjmadagá webbabielen gávnnuji åtsålvisblankehta ja diededibme vidnudakdårja birra. Buorre lisj dávk dårjav åhtsåt åvddål gå dagov álgat. Esski maŋŋela gå åtsålvis le Sámediggáj rájadum ja duodastum de gålo doajmmaj máhtti doarjjavuododiddjen riekknigoahtet. Loabedusá e vas gávnnu åtsålvis dåhkkiduvvá. Åtsålvis dagáduvvá guovten dagon. Dårjav vuostak åhtså ja gå le ållidam dago åsijt jali ållåsit de dårja máksusav åhtså.</p>
-    <p>Girjásj</p>
-    <p>Máhtá ienebuv låhkåt gåktu dårjav åhtsåt girjátjin ”Vidnudakdoarjja ja prosjäktadoarjja" mav juogu de viettja sválldasin rievtesbielen jali Sámedikkes rávvi.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>302</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/4058</origFileName><parallel_text xml:lang="sme" location="3240.html"/><parallel_text xml:lang="swe" location="1135.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Vidnudakdoarjja - Sametinget</p>
+<p>På väg att starta eget renskötselföretag? Foto: Carl-Johan Utsi.</p>
+<p type="title">Vidnudakdoarjja</p>
+<p>Le gus dujna vidnudahka ja sidá ådå dåjmajn vidnudagán álgadit? Dárbaha gus investerit jali oasstet dievnastimev? Sidá gus ådå boatsojäládusvidnudagáv álgadit? Vidnudakdårja dávk de dunji hiehpi! Åtsålvis mij guosská sáme vidnudagájda galggá Sámediggáj rájaduvvá.</p>
+<p>Vidnudakdårja juogeduvvi:</p>
+<p>•	álgadimdoarjjan</p>
+<p>•	investerimdoarjjan</p>
+<p>•	doarjjan ålgop dievnastusáj oasestibmáj</p>
+<p>•	gelbugisvuohtaåvddånibmen</p>
+<p>Vuodo vijor gájkka vidnudakdårjajda le dån vidnudakplánav vuododa. Vidnudakplána le vuodo Sámedikke vuorodimijda.</p>
+<p>Sámedikke ållidimstrategiddja</p>
+<p>Jåvsådittjat buoremus båhtusijda, Sámedikken le ietjas strategiddja gåktu dårja galggi juogeduvvat. Strategidjan le ájnasvuohta gejda doarjja mierreduvvá. Sámedigge merustallá ja vuorot åtsålvisáj gaskan sáme vidnudallijs.</p>
+<p>Álgadimdoarjja</p>
+<p>Jus álggá ällosujttovidnudakniehkken vuostasj bále de máhtá álgadimdårjav 250.000 kråvnnåj åhtsåt. Gå åtså de galga nuorap gå 40 jage årrot.</p>
+<p>Investerimdoarjja</p>
+<p>Lasedittjat vidnudagáj gáhpustimfámov, vuojtov ja åvddånimev le ulmme ekonomiddjav nannidit ja åvdedit dåjmajt vidnudágájn ednamdáfon. Suorge investerimdoarjjaj le vijdeduvvam ja ådå juohkusa máhtti dårjav åhtsåt. Investerimdoarjja guosská bv. ådåstuhttemij, buoredibmáj, ekonomidja rievddadibmáj, turissmaj, ienep bargojda ja kultuvrraárbe divudibmáj kultuvralasj jali vuojtulasj måhkijda.</p>
+<p>Doarjja ålgop dievnastusáj</p>
+<p>oasstemij</p>
+<p>Ulmme le ekonomidjav vidnudagájda ednamdáfon nannidit. Máhtá dårjav mierreduvvat mávsátjit gåloj muhtem oasev diedoj ja dievnastusáj oasstemij dåjma åvddånimen. Máhtá dårjav mierreduvvat doarjjavuododiddje gåloj, alemusát 30 prosänntaj, nuortta Svierigin alemusát 50 prosänntaj. Doarjja máhttá investerimdårjav lasedit.</p>
+<p>Doarjja gelbugisvuohtaåvddånibmáj</p>
+<p>Ulmme le giehpedit vidnudagáj hiebadimev ådå vidjurijda ja nannidit gáhpustimfámov. Lågå ienebuv Gelbugisvuohtaåvddånime vuollelin válljidagán.</p>
+<p>Nåvti åtså</p>
+<p>Sámedikke ja Ednambarggodåjmadagá webbabielen gávnnuji åtsålvisblankehta ja diededibme vidnudakdårja birra. Buorre lisj dávk dårjav åhtsåt åvddål gå dagov álgat. Esski maŋŋela gå åtsålvis le Sámediggáj rájadum ja duodastum de gålo doajmmaj máhtti doarjjavuododiddjen riekknigoahtet. Loabedusá e vas gávnnu åtsålvis dåhkkiduvvá. Åtsålvis dagáduvvá guovten dagon. Dårjav vuostak åhtså ja gå le ållidam dago åsijt jali ållåsit de dårja máksusav åhtså.</p>
+<p>Girjásj</p>
+<p>Máhtá ienebuv låhkåt gåktu dårjav åhtsåt girjátjin ”Vidnudakdoarjja ja prosjäktadoarjja" mav juogu de viettja sválldasin rievtesbielen jali Sámedikkes rávvi.</p>
+</body></document>

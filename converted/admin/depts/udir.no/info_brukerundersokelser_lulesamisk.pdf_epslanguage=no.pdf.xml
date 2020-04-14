@@ -1,44 +1,22 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>237</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.udir.no/Upload/Brukerundersokelser/H08/5/info_brukerundersokelser_lulesamisk.pdf?epslanguage=no</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Lågå dáv åvddål addnijguoradallamav tjadáda</p>
-    <p><em type="bold">Diedo oahppijda, åhpadiddjijda ja åvdåstiddjijda </em> </p>
-    <p><em type="bold">Ulmme </em>Åhpadusdirektoráhta addnijguoradallama ulmme le ahte oahppe, åhpadiddje ja åvdåstiddje galggi bessat </p>
-    <p>buktet åvddån ietjasa vuojnov oahppama ja soapptsoma hárráj skåvlån. Båhtusa dát guoradallamis e sjalliduvá, valla vuorkkiduvvi njuolgadusáj milta, ja aneduvvi skåvlåjs, skåvllåæjgádijs ja stáhta åhpadusháldadusás viehkken gå galggi analyserit ja åvddånahttet oahppambirrasav. Båhtusa</p>
-    <p>guoradallamis máhtti aj aneduvvat dutkambargojn. Oase Oahppijguoradallama båhtusijs almoduvvi næhttabájken<em type="italic"> www.utdanningsdirektoratet.no/skoleporten </em>  </p>
-    <p> <em type="bold">Tjadádibme  </em></p>
-    <p>Addnijguoradallamav máhttá tjadádit gidájt ja tjavtjajt. Gidájt le bákkulasj suohkanijda/fylkasuohkanijda/skåvlåjda Oahppijguoradallamav tjadádit. Skåvlå máhtti aj duodden válljit</p>
-    <p>jus sihti Æjgátguoradallamav ja Åhpadiddjijguoradallamav tjadádit. Skåvlå ietja máhtti aj mierredit jus sihti addnijguoradallama tjadádit tjavtjajt.</p>
-    <p>Ij le bággo guoradallamav vásstedit, ja máhta aj guodet gatjálvisájt ma duv mielas li unugisá jali</p>
-    <p>gatjálvisájt majt ij sidá vásstedit.</p>
-    <p><em type="bold">Giehtadallamåvdåsvásstadus ja persåvnåjsuodjalibme  </em>Giehtadallamvásstediddjen le åvdåsvásstádus váj diedo giehtadaláduvvi gájbbádusáj milta </p>
-    <p>persåvnnådiededimlágan vuoratjismáno 14. biejve jagen 2000 nr. 31. Dåssju giehtadallamvásstediddjen le máhttelis vuododiedojt vuojnnet.</p>
-    <p>Åhpadusdirektoráhtan le giehtadallamåvdåsvásstadus Æjgátguoradallamis ja Åhpadiddjijguoaradallamis</p>
-    <p>aktan skåvllåæjgádij. Tjavtja rájes 2008 le Åhpadusdirektoráhtan aktu giehtadallamåvdåsvásstádus dajs diedojs ma giehtadaláduvvi Oahppijguoradallamin. Danen gå dåssju Åhpadusdirektoráhtan le</p>
-    <p>giehtadallamåvdåsvásstádus Oahppijguoradallamis, le direktoráhtan juo åvddågiehtaj snivva njuolgadusá gåktu Oahppijguoradallama vuododiedojt dåmadit.</p>
-    <p>Dat guhti vásstet ij namáv bigoda, ja riek dárkkelis njuolgadusá gávnnuji gå galggá vuosedit guoradallama båhtusijt skåvlåjda, skåvllåæjgádijda ja stáhta åhpadusoajválattjajda. Sivva le gå aktak e</p>
-    <p>galga dåbdudallat persåvnåjt gudi li vásstedam.   <em type="bold">Guládallamdiedo: </em></p>
-    <p>Jus ienep diedojt dárbaha de guládalá skåvlåjnit jali Åhpadusdirektoráhtajn.  Utdanningsdirektoratet</p>
-    <p xml:lang="nno">Postboks 2924 Tøyen 0608 Oslo</p>
-    <p xml:lang="eng">Tlf. 23 30 12 00</p>
-    <p xml:lang="nno"><em type="italic">post@utdanningsdirektoratet.no </em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>237</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/Upload/Brukerundersokelser/H08/5/info_brukerundersokelser_lulesamisk.pdf?epslanguage=no</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lågå dáv åvddål addnijguoradallamav tjadáda</p>
+<p><em type="bold">Diedo oahppijda, åhpadiddjijda ja åvdåstiddjijda </em> </p>
+<p><em type="bold">Ulmme </em>Åhpadusdirektoráhta addnijguoradallama ulmme le ahte oahppe, åhpadiddje ja åvdåstiddje galggi bessat </p>
+<p>buktet åvddån ietjasa vuojnov oahppama ja soapptsoma hárráj skåvlån. Båhtusa dát guoradallamis e sjalliduvá, valla vuorkkiduvvi njuolgadusáj milta, ja aneduvvi skåvlåjs, skåvllåæjgádijs ja stáhta åhpadusháldadusás viehkken gå galggi analyserit ja åvddånahttet oahppambirrasav. Båhtusa</p>
+<p>guoradallamis máhtti aj aneduvvat dutkambargojn. Oase Oahppijguoradallama båhtusijs almoduvvi næhttabájken<em type="italic"> www.utdanningsdirektoratet.no/skoleporten </em>  </p>
+<p> <em type="bold">Tjadádibme  </em></p>
+<p>Addnijguoradallamav máhttá tjadádit gidájt ja tjavtjajt. Gidájt le bákkulasj suohkanijda/fylkasuohkanijda/skåvlåjda Oahppijguoradallamav tjadádit. Skåvlå máhtti aj duodden válljit</p>
+<p>jus sihti Æjgátguoradallamav ja Åhpadiddjijguoradallamav tjadádit. Skåvlå ietja máhtti aj mierredit jus sihti addnijguoradallama tjadádit tjavtjajt.</p>
+<p>Ij le bággo guoradallamav vásstedit, ja máhta aj guodet gatjálvisájt ma duv mielas li unugisá jali</p>
+<p>gatjálvisájt majt ij sidá vásstedit.</p>
+<p><em type="bold">Giehtadallamåvdåsvásstadus ja persåvnåjsuodjalibme  </em>Giehtadallamvásstediddjen le åvdåsvásstádus váj diedo giehtadaláduvvi gájbbádusáj milta </p>
+<p>persåvnnådiededimlágan vuoratjismáno 14. biejve jagen 2000 nr. 31. Dåssju giehtadallamvásstediddjen le máhttelis vuododiedojt vuojnnet.</p>
+<p>Åhpadusdirektoráhtan le giehtadallamåvdåsvásstadus Æjgátguoradallamis ja Åhpadiddjijguoaradallamis</p>
+<p>aktan skåvllåæjgádij. Tjavtja rájes 2008 le Åhpadusdirektoráhtan aktu giehtadallamåvdåsvásstádus dajs diedojs ma giehtadaláduvvi Oahppijguoradallamin. Danen gå dåssju Åhpadusdirektoráhtan le</p>
+<p>giehtadallamåvdåsvásstádus Oahppijguoradallamis, le direktoráhtan juo åvddågiehtaj snivva njuolgadusá gåktu Oahppijguoradallama vuododiedojt dåmadit.</p>
+<p>Dat guhti vásstet ij namáv bigoda, ja riek dárkkelis njuolgadusá gávnnuji gå galggá vuosedit guoradallama båhtusijt skåvlåjda, skåvllåæjgádijda ja stáhta åhpadusoajválattjajda. Sivva le gå aktak e</p>
+<p>galga dåbdudallat persåvnåjt gudi li vásstedam.   <em type="bold">Guládallamdiedo: </em></p>
+<p>Jus ienep diedojt dárbaha de guládalá skåvlåjnit jali Åhpadusdirektoráhtajn.  Utdanningsdirektoratet</p>
+<p xml:lang="nno">Postboks 2924 Tøyen 0608 Oslo</p>
+<p xml:lang="eng">Tlf. 23 30 12 00</p>
+<p xml:lang="nno"><em type="italic">post@utdanningsdirektoratet.no </em> </p>
+</body></document>

@@ -1,56 +1,19 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Máksemus Sámediggáj</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2017</year>
-    <wordcount>133</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/Samedikke-birra/Maksemus-Samediggaj</origFileName>
-    <parallel_text xml:lang="nob" location="faktura-til-sametinget.html"/>
-    <parallel_text xml:lang="sma" location="reeknegh-saemiedaegkan.html"/>
-    <parallel_text xml:lang="sme" location="rehket-samediggai.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Máksemus Sámediggáj</p>
-    <p>Náv sáddi elektråvnålasj máksemusáv ja páhpermáksemusáv Sámediggáj </p>
-    <p>
-      <em type="italic">Dån i máhte máksemusáv (rieknigav) e-påsta baktu sáddit. </em>
-    </p>
-    <p>Dån hæhttu máksemusáv elektråvnålasj standárdajn EHF jali páhperhámen påstan sáddit.</p>
-    <p>
-      <em type="italic">Elektråvnålasj máksemusáv sáddit (EHF) </em>
-    </p>
-    <p>Digitaliseringsrundskrivet milta gájbeduvvá stáhta vidnudagájs galggi gájbeduvvat máksemusájt elektråvnålasj standárdajn EHF-formáhtan .</p>
-    <p>Máksemusá Sámedikke elektråvnålasj máksemusadræssa l Sámedikke organisasjåvnånummar: <em type="italic">974760347 </em></p>
-    <p>Mierkki máksemusáv diŋŋgomreferansájn: 1660 + diŋŋgodiddje åvddåbokstáva, buojk: 1660XXX.</p>
-    <p>Válde aktijvuodav diŋŋgodiddjijn jus ij referánsav almoda.</p>
-    <p>Majt hæhttu dån g álvvoásadiddjen dahkat EHF-máksemusájt sádditjit?</p>
-    <p>Diedo EHF birra DFØ næhttabielijn</p>
-    <p>Diedo EHF birra Difi næhttabielijn</p>
-    <p>Sámedigge l oassten Direktoratet for økonomistyring:is. Dån máhtá guládallat DFØ:jn gatjálvisáj elektråvnålasj máksemusá birra, e-poassta: elfak@fdo.no jali telefåvnån 40767157.</p>
-    <p>
-      <em type="italic">Páhpermáksemusáv sádditjit </em>
-    </p>
-    <p>Jus i máksemusáv EHF-formátan uddni sáddi, máhtá máksemusáv páhperhámen Sámedikke máksemusadræssaj sáddit:</p>
-    <p>
-      <em type="italic">Sámedikke máksemusadræssa: </em>
-    </p>
-    <p xml:lang="nno">Sámedigge - Sametinget Fakturamottak DFØ Postboks 4746 Torgarden 7468 Trondheim</p>
-    <p>Mierkki máksemusáv diŋŋgomreferansájn!</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Máksemus Sámediggáj</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2017</year><wordcount>133</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/Samedikke-birra/Maksemus-Samediggaj</origFileName><parallel_text xml:lang="nob" location="faktura-til-sametinget.html"/><parallel_text xml:lang="sma" location="reeknegh-saemiedaegkan.html"/><parallel_text xml:lang="sme" location="rehket-samediggai.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Máksemus Sámediggáj</p>
+<p>Náv sáddi elektråvnålasj máksemusáv ja páhpermáksemusáv Sámediggáj </p>
+<p><em type="italic">Dån i máhte máksemusáv (rieknigav) e-påsta baktu sáddit. </em></p>
+<p>Dån hæhttu máksemusáv elektråvnålasj standárdajn EHF jali páhperhámen påstan sáddit.</p>
+<p><em type="italic">Elektråvnålasj máksemusáv sáddit (EHF) </em></p>
+<p>Digitaliseringsrundskrivet milta gájbeduvvá stáhta vidnudagájs galggi gájbeduvvat máksemusájt elektråvnålasj standárdajn EHF-formáhtan .</p>
+<p>Máksemusá Sámedikke elektråvnålasj máksemusadræssa l Sámedikke organisasjåvnånummar: <em type="italic">974760347 </em></p>
+<p>Mierkki máksemusáv diŋŋgomreferansájn: 1660 + diŋŋgodiddje åvddåbokstáva, buojk: 1660XXX.</p>
+<p>Válde aktijvuodav diŋŋgodiddjijn jus ij referánsav almoda.</p>
+<p>Majt hæhttu dån g álvvoásadiddjen dahkat EHF-máksemusájt sádditjit?</p>
+<p>Diedo EHF birra DFØ næhttabielijn</p>
+<p>Diedo EHF birra Difi næhttabielijn</p>
+<p>Sámedigge l oassten Direktoratet for økonomistyring:is. Dån máhtá guládallat DFØ:jn gatjálvisáj elektråvnålasj máksemusá birra, e-poassta: elfak@fdo.no jali telefåvnån 40767157.</p>
+<p><em type="italic">Páhpermáksemusáv sádditjit </em></p>
+<p>Jus i máksemusáv EHF-formátan uddni sáddi, máhtá máksemusáv páhperhámen Sámedikke máksemusadræssaj sáddit:</p>
+<p><em type="italic">Sámedikke máksemusadræssa: </em></p>
+<p xml:lang="nno">Sámedigge - Sametinget Fakturamottak DFØ Postboks 4746 Torgarden 7468 Trondheim</p>
+<p>Mierkki máksemusáv diŋŋgomreferansájn!</p>
+</body></document>

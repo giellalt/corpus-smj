@@ -1,55 +1,17 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Vuododa dutkaminstituhtav Árranij</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>444</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/vuododa-dutkaminstituhtav-rranij.4035</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Gåro bieles: Oddmund Andersen, Filip Mikkelsen ja Sven-Roald Nystø li guovdátjin bargon mihtos dutkambirrasav Árranin åvdedittjat. Doajvvo l fáhkabirrasav gietjav-gávtsijn alladáse máhttobarggosajijn åvdedit.</p>
-    <p type="title">Vuododa dutkaminstituhtav Árranij</p>
-    <p>- Galggap gus dudálattja liehket dajna majt lip ájmmudam, viellidit – jali galggap gus rahtjat vaj stuorrop? Sige stivrra ja bargge li vuojnojtisá åvdedam; Árran galggá hájn åvddånit, javllá direktørra Filip Mikkelsen. Tjavggip bargov sierra dutkaminstituhtav Árranij vuododit. Doajvvop åvddålij guovluj viedjep fáhkabirrasav åvdedit, gietjav-gávtsijn alladáse máhttobarggosajijn.</p>
-    <p>Dá tjuottjes plána, ma ájges ájggáj galggi åvddånit, tjuovvu dassta gå ådåsa gullujin. Nordlánda fylkkasuohkan ja Sámedigge li aktan 230 000 kråvnåv nuorttaguovlo prosjæktaj Árranin juollodam.</p>
-    <p>
-      <em type="italic">Studenta guossen </em>
-    </p>
-    <p>- Vuostak lågådallamrájdov gárvvidip iemeálmmugij viddjurij birra mij ierit ietján Bådådjo allaskåvlå <span type="quote" xml:lang="nob">”Bachelor of Circumpolar Studies”</span> nammasasj åhpadussaj la hiebadum. Duodden galggap</p>
-    <p>guoradallat dárbojt teknihkalasj rustigijda Nordlánda sáme guovdátjijn vaj máhtti studentajt oanep ájggáj guossodit ja lågådallamijt sáme ja ietjá iemeálmmugij dilij birra fállat. Prosjevtajn galggap gærggat javlajda, subtsas Árrana direktørra. Prosjækta galggá tjadáduvvat aktan Bådådjo allaskåvlåjn, Sijti Jarnge kulturguovdátjijn, Aarporten - Hattfjelldálen ja Várdobáiki sáme guovdátjin, Evenássjen.</p>
-    <p>Ja viejedibme juo båhtusijt buktá. Juo 37 vahkon båhti birrasij 20 studenta Hedmárko Allaskåvlås Ájluoktaj diedoj ja lågådallamij diehti. Dutkambiejvij aktavuodan 39 vahko tjadáduvva bájkkálasj seminárra ja lågådallamrájddo Bådådjo Allaskåvlå studentajda. Dáhta dagáduvvá Árrana barggij ja bálggidum åhpadiddjij baktu, ma ierit ietján li Råmså Universitehtas ja Guovddagæjno máhttobirrasis. Prográmman li aj oase bájkkálasj vidjurij birra: Elmar Andersen subtsas gåktu guolástibme Divtasvuonan la ájgij tjadá rievddam. Sigurd Rydland gåktus guollebiebbmam la suohkanin æládussan åvddånam. Merradutkaminstituhta dutke Ingolf Røttingen lågådallá sálleda vuodjamjåhtulagá rievddama birra, sierraláhkáj Divtasvuonan gehtjadum.</p>
-    <p>
-      <em type="italic">Guovlulasj dutkambirás </em>
-    </p>
-    <p>- Allaskåvlåv lågådallmij aj dálven 2007/08 viehkedip, subtsas måvtugis direktørra Filip Mikkelsen.</p>
-    <p>Árranij la juo sáme ásadusáj tjoahkkájgiesse åvdåsvásstádus biejadum gå la sáhka nuorttaguovlo bargos. Sámedigge l aj rádjálåvså dutkama åvdåsvásstádusáv Árranij biedjam. Duodden guoddá Árran julevsáme giellabargo åvdåsvásstádusáv, mij la aj diedojt juohket iesj guhtik dásen ja åhpadussuorgen. Dutkaminstituhta vuododibme ja aktisasjbarggo Bådådjo Allaskåvlåjn ja Scott Polar Research Institute’ajn Cambridgan Englándan, låggni Árranav mihtos ásadussan gå la sáhka nuorttaguovlo åhpadusás. Doajvvo l fáhkabirrasav åvdedit gietjav-gávtsijn alladáse máhttobarggosajijn, mij la ålles guovlluj ávkken.</p>
-    <p>- Aktan soames priváhta viddnudáj, Stájgo Nisonuniversitehtajn ja Hamsunguovdátjijn Hábmerin laset Árran dán láhkáj máhttobuvtadimev, ja mihtos láhkáj dutkam- ja máhttobirrasav dájn guovlojn åvdet. Danen la dáhta ássje mij ålles Nuortta-Salltuj guosská. Doajvov guossodiddje suohkan Divtasvuodna ja ráddnásuohkana vájmmelit dájna ássjijn barggi, javllá Árrana direktørra.</p>
-    <p>- Nordlánda fylkkasuohkan la nannusit ássjev doarjjum ja doajvvop ahte suohkana aj viehkken barggi, vaj dá rahtjalis plána duohtan dagádivvi. Boahtte lávkke l vuodoruhtadimev guovdásj oajvválattjajs åhtsåt. Doajvvomis li dá rudá sajenisá 2009 rájes, Filip Mikkelsen låhpat.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Vuododa dutkaminstituhtav Árranij"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Vuododa dutkaminstituhtav Árranij</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>444</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/vuododa-dutkaminstituhtav-rranij.4035</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Gåro bieles: Oddmund Andersen, Filip Mikkelsen ja Sven-Roald Nystø li guovdátjin bargon mihtos dutkambirrasav Árranin åvdedittjat. Doajvvo l fáhkabirrasav gietjav-gávtsijn alladáse máhttobarggosajijn åvdedit.</p>
+<p type="title">Vuododa dutkaminstituhtav Árranij</p>
+<p>- Galggap gus dudálattja liehket dajna majt lip ájmmudam, viellidit – jali galggap gus rahtjat vaj stuorrop? Sige stivrra ja bargge li vuojnojtisá åvdedam; Árran galggá hájn åvddånit, javllá direktørra Filip Mikkelsen. Tjavggip bargov sierra dutkaminstituhtav Árranij vuododit. Doajvvop åvddålij guovluj viedjep fáhkabirrasav åvdedit, gietjav-gávtsijn alladáse máhttobarggosajijn.</p>
+<p>Dá tjuottjes plána, ma ájges ájggáj galggi åvddånit, tjuovvu dassta gå ådåsa gullujin. Nordlánda fylkkasuohkan ja Sámedigge li aktan 230 000 kråvnåv nuorttaguovlo prosjæktaj Árranin juollodam.</p>
+<p><em type="italic">Studenta guossen </em></p>
+<p>- Vuostak lågådallamrájdov gárvvidip iemeálmmugij viddjurij birra mij ierit ietján Bådådjo allaskåvlå <span type="quote" xml:lang="nob">”Bachelor of Circumpolar Studies”</span> nammasasj åhpadussaj la hiebadum. Duodden galggap</p>
+<p>guoradallat dárbojt teknihkalasj rustigijda Nordlánda sáme guovdátjijn vaj máhtti studentajt oanep ájggáj guossodit ja lågådallamijt sáme ja ietjá iemeálmmugij dilij birra fállat. Prosjevtajn galggap gærggat javlajda, subtsas Árrana direktørra. Prosjækta galggá tjadáduvvat aktan Bådådjo allaskåvlåjn, Sijti Jarnge kulturguovdátjijn, Aarporten - Hattfjelldálen ja Várdobáiki sáme guovdátjin, Evenássjen.</p>
+<p>Ja viejedibme juo båhtusijt buktá. Juo 37 vahkon båhti birrasij 20 studenta Hedmárko Allaskåvlås Ájluoktaj diedoj ja lågådallamij diehti. Dutkambiejvij aktavuodan 39 vahko tjadáduvva bájkkálasj seminárra ja lågådallamrájddo Bådådjo Allaskåvlå studentajda. Dáhta dagáduvvá Árrana barggij ja bálggidum åhpadiddjij baktu, ma ierit ietján li Råmså Universitehtas ja Guovddagæjno máhttobirrasis. Prográmman li aj oase bájkkálasj vidjurij birra: Elmar Andersen subtsas gåktu guolástibme Divtasvuonan la ájgij tjadá rievddam. Sigurd Rydland gåktus guollebiebbmam la suohkanin æládussan åvddånam. Merradutkaminstituhta dutke Ingolf Røttingen lågådallá sálleda vuodjamjåhtulagá rievddama birra, sierraláhkáj Divtasvuonan gehtjadum.</p>
+<p><em type="italic">Guovlulasj dutkambirás </em></p>
+<p>- Allaskåvlåv lågådallmij aj dálven 2007/08 viehkedip, subtsas måvtugis direktørra Filip Mikkelsen.</p>
+<p>Árranij la juo sáme ásadusáj tjoahkkájgiesse åvdåsvásstádus biejadum gå la sáhka nuorttaguovlo bargos. Sámedigge l aj rádjálåvså dutkama åvdåsvásstádusáv Árranij biedjam. Duodden guoddá Árran julevsáme giellabargo åvdåsvásstádusáv, mij la aj diedojt juohket iesj guhtik dásen ja åhpadussuorgen. Dutkaminstituhta vuododibme ja aktisasjbarggo Bådådjo Allaskåvlåjn ja Scott Polar Research Institute’ajn Cambridgan Englándan, låggni Árranav mihtos ásadussan gå la sáhka nuorttaguovlo åhpadusás. Doajvvo l fáhkabirrasav åvdedit gietjav-gávtsijn alladáse máhttobarggosajijn, mij la ålles guovlluj ávkken.</p>
+<p>- Aktan soames priváhta viddnudáj, Stájgo Nisonuniversitehtajn ja Hamsunguovdátjijn Hábmerin laset Árran dán láhkáj máhttobuvtadimev, ja mihtos láhkáj dutkam- ja máhttobirrasav dájn guovlojn åvdet. Danen la dáhta ássje mij ålles Nuortta-Salltuj guosská. Doajvov guossodiddje suohkan Divtasvuodna ja ráddnásuohkana vájmmelit dájna ássjijn barggi, javllá Árrana direktørra.</p>
+<p>- Nordlánda fylkkasuohkan la nannusit ássjev doarjjum ja doajvvop ahte suohkana aj viehkken barggi, vaj dá rahtjalis plána duohtan dagádivvi. Boahtte lávkke l vuodoruhtadimev guovdásj oajvválattjajs åhtsåt. Doajvvomis li dá rudá sajenisá 2009 rájes, Filip Mikkelsen låhpat.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Vuododa dutkaminstituhtav Árranij"</span> på Facebook</p>
+</body></document>

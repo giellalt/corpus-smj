@@ -1,40 +1,8 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>188</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/julevsamegiella/Pages/tjuottjudusguovlo.aspx</origFileName>
-    <parallel_text xml:lang="fin" location="nat-min-hallintoalueet.html"/>
-    <parallel_text xml:lang="sma" location="nat-min-reeremedajvh.html"/>
-    <parallel_text xml:lang="sme" location="nat-min-halddahusguovllut.html"/>
-    <parallel_text xml:lang="swe" location="nat-min-forvaltningsomraden.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Tjuottjudusguovlo - Länsstyrelsen i Stockholm</p>
-    <list/>
-    <p type="title">Tjuottjudusguovlo</p>
-    <p>
-      <em type="italic">Lahka rijkalasj unneplågoj ja unneplågogielaj birra javllá tjuottjudusguovloj låhko gålmå unneplågogiellaj – suomagiella, sámegiella ja meängiella – laseduvvá gietjat kommuvnas Norrbottena lenan gitta 68 kommuvnajda Svierigin. </em>
-    </p>
-    <p><em type="italic">Suomagiela tjuottjudusguovllo gåbttjå kommuvnajt </em>Borlänge, Borås, Botkyrka, Degerfors, Enköping, Eskilstuna, Fagersta, Finspång, Jiellevárre (Gällivare), Gävle, Göteborg, Hallstahammar, Haninge, Haparanda, Hofors, Huddinge, Håbo, Hällefors, Kalix, Karlskoga, Giron(Kiruna), Köping, Lindesberg, Luleå, Motala, Norrköping, Norrtälje, Bájel (Pajala), Sandviken, Sigtuna, Skinnskatteberg, Skövde, Solna, Stockholm, Sundbyberg, Sundsvall, Surahammar, Södertälje, Tierp, Trosa, Trollhättan, Ubmeje (Umeå), Uddevalla, Upplands Väsby, Upplands-Bro, Uppsala, Västerås, Älvkarleby, Örebro, Österåker, Östhammar ja Övertorneå. </p>
-    <p><em type="italic">Sámegiela tjuottjudusguovllo gåbttjå kommuvnajt </em>Árjepluovve (Arjeplog), Árviesjávrrie (Arvidsjaur), Berg, Dorotea, Jiellevárre, Härjedalen, Jåhkåmåhkke (Jokkmokk), Giron, Krokom, Liksjuo (Lycksele), Máláge (Malå), Suorssá(Sorsele), Lusspie (Storuman), Straejmie (Strömsund), Ubmeje, Vualtjere (Vilhelmina), Åre, Älvdalen ja Staare(Östersund). </p>
-    <p><em type="italic">Tjuottjudusguovllo meängiellaj gåbttjå kommuvnajt </em>Jiellevárre, Haparanda, Kalix, Giron, Bájel ja Övertorneå. </p>
-    <p>Tjuottjudusguovlojn suomagiellaj, sámegiellaj ja meängiellaj li aj <em type="italic">lánndadikke </em>Dalarna, Gävleborg, Jämtland, Norrbotten, Stockholm, Södermanland, Uppland, Västerbotten, Västmanland, Västernorrland, Örebro, Östergötland ja Västra Götalandsregionen. Ietjá kommuvnajn li aj máhttelisvuohta <em type="italic">iesjmiedogisláhkáj åhtsåt </em><em type="italic">tjuottjudusguovlojda säbrrat </em>. Ráddidus (Regeringen) mierret dakkir säbrrama gáktuj åtsålvisá maŋŋela kommuvnas mij sihtá säbrrat. Åtsålvis galggá sisiboahtám Ráddiduskansliddjaj(Regeringskansliet) maŋemusát vuoratjismáno 1.b. </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>188</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/julevsamegiella/Pages/tjuottjudusguovlo.aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-hallintoalueet.html"/><parallel_text xml:lang="sma" location="nat-min-reeremedajvh.html"/><parallel_text xml:lang="sme" location="nat-min-halddahusguovllut.html"/><parallel_text xml:lang="swe" location="nat-min-forvaltningsomraden.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Tjuottjudusguovlo - Länsstyrelsen i Stockholm</p>
+<list/><p type="title">Tjuottjudusguovlo</p>
+<p><em type="italic">Lahka rijkalasj unneplågoj ja unneplågogielaj birra javllá tjuottjudusguovloj låhko gålmå unneplågogiellaj – suomagiella, sámegiella ja meängiella – laseduvvá gietjat kommuvnas Norrbottena lenan gitta 68 kommuvnajda Svierigin. </em></p>
+<p><em type="italic">Suomagiela tjuottjudusguovllo gåbttjå kommuvnajt </em>Borlänge, Borås, Botkyrka, Degerfors, Enköping, Eskilstuna, Fagersta, Finspång, Jiellevárre (Gällivare), Gävle, Göteborg, Hallstahammar, Haninge, Haparanda, Hofors, Huddinge, Håbo, Hällefors, Kalix, Karlskoga, Giron(Kiruna), Köping, Lindesberg, Luleå, Motala, Norrköping, Norrtälje, Bájel (Pajala), Sandviken, Sigtuna, Skinnskatteberg, Skövde, Solna, Stockholm, Sundbyberg, Sundsvall, Surahammar, Södertälje, Tierp, Trosa, Trollhättan, Ubmeje (Umeå), Uddevalla, Upplands Väsby, Upplands-Bro, Uppsala, Västerås, Älvkarleby, Örebro, Österåker, Östhammar ja Övertorneå. </p>
+<p><em type="italic">Sámegiela tjuottjudusguovllo gåbttjå kommuvnajt </em>Árjepluovve (Arjeplog), Árviesjávrrie (Arvidsjaur), Berg, Dorotea, Jiellevárre, Härjedalen, Jåhkåmåhkke (Jokkmokk), Giron, Krokom, Liksjuo (Lycksele), Máláge (Malå), Suorssá(Sorsele), Lusspie (Storuman), Straejmie (Strömsund), Ubmeje, Vualtjere (Vilhelmina), Åre, Älvdalen ja Staare(Östersund). </p>
+<p><em type="italic">Tjuottjudusguovllo meängiellaj gåbttjå kommuvnajt </em>Jiellevárre, Haparanda, Kalix, Giron, Bájel ja Övertorneå. </p>
+<p>Tjuottjudusguovlojn suomagiellaj, sámegiellaj ja meängiellaj li aj <em type="italic">lánndadikke </em>Dalarna, Gävleborg, Jämtland, Norrbotten, Stockholm, Södermanland, Uppland, Västerbotten, Västmanland, Västernorrland, Örebro, Östergötland ja Västra Götalandsregionen. Ietjá kommuvnajn li aj máhttelisvuohta <em type="italic">iesjmiedogisláhkáj åhtsåt </em><em type="italic">tjuottjudusguovlojda säbrrat </em>. Ráddidus (Regeringen) mierret dakkir säbrrama gáktuj åtsålvisá maŋŋela kommuvnas mij sihtá säbrrat. Åtsålvis galggá sisiboahtám Ráddiduskansliddjaj(Regeringskansliet) maŋemusát vuoratjismáno 1.b. </p>
+</body></document>

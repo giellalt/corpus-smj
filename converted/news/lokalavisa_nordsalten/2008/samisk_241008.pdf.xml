@@ -1,48 +1,12 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2008</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>303</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_241008.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p xml:lang="nob">Tæksta: Børge Strandskog</p>
-    <p>Jårggålibme: Divte Medi</p>
-    <p>Dán lågon ja sjiehtadusán aj dagáduvvástuoráp  diehtotábllo  mij  galggásuohkana  færjojda  tjanáduvvat,  ja  ajSætran  ja  Ájluovtsuoren.  Jus  náginaalvaduvvi, ja ihkap aj assjmaduvvi, gådivna  galba  li  tjáleduvvam  sihkesámegiellaj ja dárogiellaj, ja sáme tækstavuostatjin, de rijddo viertti bájkálasjpolitihkkárijda jårggåluvvat. Dan diehtigå  sáme  tæksta  galggá  vuostatjintjáleduvvat, dav li bájkálasj politihkkáramierredam...Suohkana pládna sámegiela háldadimehárráj mierreduváj jagen 2007. Dánnatjuodtju duola dagu: Gå galba galggitsieggiduvvat  de  oajvvenjuolgadusámilta  sáme  tæksta  vuostatjin  galggátjáleduvvat. Jus nágin avtavuohta ájggudárogielav  vuostatjin  galban,  dedåhkkidus viertti åtsåduvvatåvddånammadusás.  Goappátja  gielagalggaba  aneduvvat  galbajn  masuohkanis  tsieggiduvvi,  gånnå  dåssjutevsta gielaj vuoros sierraloabev máhtáoadtjot.  Vuostatjin le sáhka galbaj birra</p>
-    <p>suohkana  tsiekkadusáj  ålgusjbielen.Juska giellaplánan gájbbeduvvá sisbie-len  suohkana  tsiekkadusájn  galggiguovtegielak galba liehket.-  Mij  ájggop  giellaplánav  tjuovvot  ajsissnálasj  galbaj,  duola  dagurádegoaden, javllá suohkanoajvve An-ders Sæter. Ij rat diede man guhkás liboahtám galbaj tsieggimijn, valla diehtánágin galba li Stuorgietten ja Ájluovtanjuo tsieggidum.-  Jáhkáv  galba  tsieggiduvvi  dalánagágå  li  gárvedum,  javllá  Sæter.  Jasuohkanoajvve  ij  nav  guhkev  dárbahavuorddet.  Rimo  Reklame  ASabæjválasj  jådediddje  milta,  ienemusoasse  galbasj  li  gærggasa  juo  boahttevahko.  Lund  iesj  boahtá  galbajttsieggitjit.-  Diehtogalbajs  vájlluji  nágin  gåvååvddål máhttep dajt gergadit. Da guoktastuorra galba rádegoahtáj Gásluoktaj ajunnán  mannuni,  subtsas  Lund.Rádegoahtáj galggi guokta galba. Aktaålgusjbielen  ja  nubbe  sinnadievnastusåssudagán. Manemusnammadum galggá vuosedit åsijda jakåntåvråjda.Divtasvuona galbbapládna aj guosská            duola  dagu  suohkana</p>
-    <p>rahtijda.  Nammadimijn  ådå  rahtijs  jarahtijs  ma  juo  gávnnuji  ja/jalibájkkenamájs,  sámegielnamá  galggianeduvvat  gånnå  le  luondulasj.Divtasvuona  suohkan  galggá  ajoassálasstet  vaj  fylkkasuohkana  jastáhtalasj  galba  li  goappátja  giellaj,sámegiellaj vuostatjin. Dát guosská ajfylkkasuohkana  ja  stáhtalasj  rahte,institusjåvnå ja etáhta. Suohkan galggáaj gåhttjot Statens Vegvesenav gåtseditsámegielav sijá galbbaplánajn gå galggiDivtasvuona suohkanin rahtijt galbbidit.Galbbapládna  aj  guosská  suohkanagirkkojda. Divna dájda li guovtegielakgalba  tsieggidum.  Duodden  legirkkooahttse  uksa  rádegoaden  ájnnamij  juo  le  galbbidum  sámegiellaj  jadárogiellaj.</p>
-    <p>Galbbaprosjækta Divtasvuonanruhtaduvvá  juollodum  giellahálda-dimrudájs Sámedikkes. Jagen 2008 dátruhtalåhko  le  birrusin  gålmmåmillijåvnå kråvnå. Muhtem oasse rudájsli aj dijmátjis joarkedum.Giellaháldadimrudá juogeduvvisuohkana iesjgengalágásj suorgijda, jaTeknihkalasj etáhtta giehtadallá rudájtgalbbaprosjæktaj. Bájkkeavijsa diedoj  milta le galbbaprosjevta      ekonomalasj mierre birrusij           400.000 kråvnå.</p>
-    <p>j</p>
-    <p>j j</p>
-    <p>j</p>
-    <p>j</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2008</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>303</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_241008.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p xml:lang="nob">Tæksta: Børge Strandskog</p>
+<p>Jårggålibme: Divte Medi</p>
+<p>Dán lågon ja sjiehtadusán aj dagáduvvástuoráp  diehtotábllo  mij  galggásuohkana  færjojda  tjanáduvvat,  ja  ajSætran  ja  Ájluovtsuoren.  Jus  náginaalvaduvvi, ja ihkap aj assjmaduvvi, gådivna  galba  li  tjáleduvvam  sihkesámegiellaj ja dárogiellaj, ja sáme tækstavuostatjin, de rijddo viertti bájkálasjpolitihkkárijda jårggåluvvat. Dan diehtigå  sáme  tæksta  galggá  vuostatjintjáleduvvat, dav li bájkálasj politihkkáramierredam...Suohkana pládna sámegiela háldadimehárráj mierreduváj jagen 2007. Dánnatjuodtju duola dagu: Gå galba galggitsieggiduvvat  de  oajvvenjuolgadusámilta  sáme  tæksta  vuostatjin  galggátjáleduvvat. Jus nágin avtavuohta ájggudárogielav  vuostatjin  galban,  dedåhkkidus viertti åtsåduvvatåvddånammadusás.  Goappátja  gielagalggaba  aneduvvat  galbajn  masuohkanis  tsieggiduvvi,  gånnå  dåssjutevsta gielaj vuoros sierraloabev máhtáoadtjot.  Vuostatjin le sáhka galbaj birra</p>
+<p>suohkana  tsiekkadusáj  ålgusjbielen.Juska giellaplánan gájbbeduvvá sisbie-len  suohkana  tsiekkadusájn  galggiguovtegielak galba liehket.-  Mij  ájggop  giellaplánav  tjuovvot  ajsissnálasj  galbaj,  duola  dagurádegoaden, javllá suohkanoajvve An-ders Sæter. Ij rat diede man guhkás liboahtám galbaj tsieggimijn, valla diehtánágin galba li Stuorgietten ja Ájluovtanjuo tsieggidum.-  Jáhkáv  galba  tsieggiduvvi  dalánagágå  li  gárvedum,  javllá  Sæter.  Jasuohkanoajvve  ij  nav  guhkev  dárbahavuorddet.  Rimo  Reklame  ASabæjválasj  jådediddje  milta,  ienemusoasse  galbasj  li  gærggasa  juo  boahttevahko.  Lund  iesj  boahtá  galbajttsieggitjit.-  Diehtogalbajs  vájlluji  nágin  gåvååvddål máhttep dajt gergadit. Da guoktastuorra galba rádegoahtáj Gásluoktaj ajunnán  mannuni,  subtsas  Lund.Rádegoahtáj galggi guokta galba. Aktaålgusjbielen  ja  nubbe  sinnadievnastusåssudagán. Manemusnammadum galggá vuosedit åsijda jakåntåvråjda.Divtasvuona galbbapládna aj guosská            duola  dagu  suohkana</p>
+<p>rahtijda.  Nammadimijn  ådå  rahtijs  jarahtijs  ma  juo  gávnnuji  ja/jalibájkkenamájs,  sámegielnamá  galggianeduvvat  gånnå  le  luondulasj.Divtasvuona  suohkan  galggá  ajoassálasstet  vaj  fylkkasuohkana  jastáhtalasj  galba  li  goappátja  giellaj,sámegiellaj vuostatjin. Dát guosská ajfylkkasuohkana  ja  stáhtalasj  rahte,institusjåvnå ja etáhta. Suohkan galggáaj gåhttjot Statens Vegvesenav gåtseditsámegielav sijá galbbaplánajn gå galggiDivtasvuona suohkanin rahtijt galbbidit.Galbbapládna  aj  guosská  suohkanagirkkojda. Divna dájda li guovtegielakgalba  tsieggidum.  Duodden  legirkkooahttse  uksa  rádegoaden  ájnnamij  juo  le  galbbidum  sámegiellaj  jadárogiellaj.</p>
+<p>Galbbaprosjækta Divtasvuonanruhtaduvvá  juollodum  giellahálda-dimrudájs Sámedikkes. Jagen 2008 dátruhtalåhko  le  birrusin  gålmmåmillijåvnå kråvnå. Muhtem oasse rudájsli aj dijmátjis joarkedum.Giellaháldadimrudá juogeduvvisuohkana iesjgengalágásj suorgijda, jaTeknihkalasj etáhtta giehtadallá rudájtgalbbaprosjæktaj. Bájkkeavijsa diedoj  milta le galbbaprosjevta      ekonomalasj mierre birrusij           400.000 kråvnå.</p>
+<p>j</p>
+<p>j j</p>
+<p>j</p>
+<p>j</p>
+</body></document>

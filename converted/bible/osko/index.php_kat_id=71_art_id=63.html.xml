@@ -1,55 +1,18 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>464</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=71&amp;art_id=63</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=71_art_id=63.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=71_art_id=63.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=71_art_id=63.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kristuskránssa</p>
-    <p type="title" xml:lang="nob">Gud og Job</p>
-    <p xml:lang="nob">Da svarte Herren Job ut av stormen:  Hvem er det som vil fordunkle min plan med uforstandige ord? Spenn beltet om livet som en mann,så vil jeg spørre deg, og du skal svare.</p>
-    <p xml:lang="nob">Hvor var du da jeg la jordens grunnvoll? Hvis du har innsikt, så fortell meg om det.Hvem har fastsatt dens mål – det vet du vel? Hvem spente målesnor ut over den?</p>
-    <p xml:lang="nob">Hvor ble dens sokler senket ned,og hvem la ned dens hjørnestein, mens alle morgenstjerner jublet, og alle Guds sønner ropte av fryd?</p>
-    <p xml:lang="nob">Hvem stengte for havet med porter, da det brøt skummende fram fra dypet, den gang jeg kledde det med skyer og svøpte det i tett skodde, den gang jeg satte en grense for det og stengte med bom og dører? Hit kommer du, sa jeg, ikke lenger, her skal dine brautende bølger stanse.</p>
-    <p xml:lang="nob">Har du noen gang kalt morgenen fram og vist morgenrøden dens sted, så den tar tak i jordens ender og rister de gudløse av den. Da omformes jorden som leiren under seglet, alt trer fram som i ny drakt.De onde mister det lys de hadde, og armen de løftet, blir knust.</p>
-    <p xml:lang="nob">Har du nådd fram til havets kilder og vandret på bunnen av det store dyp? Har dødens porter vist seg for deg, har du sett dørene til det belgmørke sted? Har du skuet ut over jordens vidder?</p>
-    <p xml:lang="nob">Si fra hvis du kjenner alt dette.</p>
-    <p xml:lang="nob">Hvor går veien til lysets bolig, og hvor holder mørket til? Så ta dem med dit de hører hjemme, du kjenner jo stiene til deres hus.</p>
-    <p xml:lang="nob">Du vet det hvis du har levd så lenge at du var til da de ble skapt.</p>
-    <p xml:lang="nob">Har du vært der snøen kommer fra, har du sett lagrene av hagl?Jeg holder dem tilbake til trengselstiden, til det kommer en dag med krig og kamp.</p>
-    <p xml:lang="nob">Hvordan kommer en dit hvor lyset deler seg, og hvor østavinden brer seg over jorden? Hvem laget renner for flommen av vann, hvem bante vei for torden og lyn, så det regnet over land der ingen bor, over ubygd ødemark, så den øde ørken fikk rikelig med vann, og gresset grodde fra grunnen? Har regnet noen far? Og hvem har avlet duggdråpene?</p>
-    <p xml:lang="nob">Hvilket morsliv kommer isen fra, hvem har født rimet som faller fra himmelen, når vannet fryser og blir som stein, og havdypets flate dekkes av is?</p>
-    <p xml:lang="nob">Kan du knytte Sjustjernens bånd eller løse Orions lenker? Lar du kveldsstjernen gå opp i rette tid, leder du Løven og dens unger? Kjenner du stjernehimmelens lover? Bestemmer du dens makt over jorden? Kan du løfte din stemme til skyene så vannet flommer ned over deg? Kan du sende ut lyn så de farer av sted og sier til deg: <span type="quote" xml:lang="nob">«Her er vi!»</span></p>
-    <p>Job. 38:1-35</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>464</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=71&amp;art_id=63</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=71_art_id=63.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=71_art_id=63.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=71_art_id=63.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kristuskránssa</p>
+<p type="title" xml:lang="nob">Gud og Job</p>
+<p xml:lang="nob">Da svarte Herren Job ut av stormen:  Hvem er det som vil fordunkle min plan med uforstandige ord? Spenn beltet om livet som en mann,så vil jeg spørre deg, og du skal svare.</p>
+<p xml:lang="nob">Hvor var du da jeg la jordens grunnvoll? Hvis du har innsikt, så fortell meg om det.Hvem har fastsatt dens mål – det vet du vel? Hvem spente målesnor ut over den?</p>
+<p xml:lang="nob">Hvor ble dens sokler senket ned,og hvem la ned dens hjørnestein, mens alle morgenstjerner jublet, og alle Guds sønner ropte av fryd?</p>
+<p xml:lang="nob">Hvem stengte for havet med porter, da det brøt skummende fram fra dypet, den gang jeg kledde det med skyer og svøpte det i tett skodde, den gang jeg satte en grense for det og stengte med bom og dører? Hit kommer du, sa jeg, ikke lenger, her skal dine brautende bølger stanse.</p>
+<p xml:lang="nob">Har du noen gang kalt morgenen fram og vist morgenrøden dens sted, så den tar tak i jordens ender og rister de gudløse av den. Da omformes jorden som leiren under seglet, alt trer fram som i ny drakt.De onde mister det lys de hadde, og armen de løftet, blir knust.</p>
+<p xml:lang="nob">Har du nådd fram til havets kilder og vandret på bunnen av det store dyp? Har dødens porter vist seg for deg, har du sett dørene til det belgmørke sted? Har du skuet ut over jordens vidder?</p>
+<p xml:lang="nob">Si fra hvis du kjenner alt dette.</p>
+<p xml:lang="nob">Hvor går veien til lysets bolig, og hvor holder mørket til? Så ta dem med dit de hører hjemme, du kjenner jo stiene til deres hus.</p>
+<p xml:lang="nob">Du vet det hvis du har levd så lenge at du var til da de ble skapt.</p>
+<p xml:lang="nob">Har du vært der snøen kommer fra, har du sett lagrene av hagl?Jeg holder dem tilbake til trengselstiden, til det kommer en dag med krig og kamp.</p>
+<p xml:lang="nob">Hvordan kommer en dit hvor lyset deler seg, og hvor østavinden brer seg over jorden? Hvem laget renner for flommen av vann, hvem bante vei for torden og lyn, så det regnet over land der ingen bor, over ubygd ødemark, så den øde ørken fikk rikelig med vann, og gresset grodde fra grunnen? Har regnet noen far? Og hvem har avlet duggdråpene?</p>
+<p xml:lang="nob">Hvilket morsliv kommer isen fra, hvem har født rimet som faller fra himmelen, når vannet fryser og blir som stein, og havdypets flate dekkes av is?</p>
+<p xml:lang="nob">Kan du knytte Sjustjernens bånd eller løse Orions lenker? Lar du kveldsstjernen gå opp i rette tid, leder du Løven og dens unger? Kjenner du stjernehimmelens lover? Bestemmer du dens makt over jorden? Kan du løfte din stemme til skyene så vannet flommer ned over deg? Kan du sende ut lyn så de farer av sted og sier til deg: <span type="quote" xml:lang="nob">«Her er vi!»</span></p>
+<p>Job. 38:1-35</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

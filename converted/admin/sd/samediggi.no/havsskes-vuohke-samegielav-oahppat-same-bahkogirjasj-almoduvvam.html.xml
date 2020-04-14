@@ -1,51 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>210</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Giella/Diedo-samegielaj-birra/Havsskes-vuohke-samegielav-oahppat-same-bahkogirjasj-almoduvvam</origFileName>
-    <parallel_text xml:lang="nob" location="en-artig-maate-aa-laere-samisk-paa-samisk-lommeparloer-lansert.html"/>
-    <parallel_text xml:lang="sma" location="saemien-lusteslaakan-lieredh-saemien-laaammegaerjetje-baejhkoehtamme.html"/>
-    <parallel_text xml:lang="sme" location="somas-vuohki-oahppat-samegiela-sami-satnegirjjas-almmuhuvvon.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Hávsskes vuohke sámegielav oahppat – sáme báhkogirjásj almoduvvam / Diedo sámegielaj birra / Giella / Sámedigge - Sametinget</p>
-    <p type="title">Hávsskes vuohke sámegielav oahppat – sáme báhkogirjásj almoduvvam</p>
-    <p xml:lang="nob">14. mïetske 2014</p>
-    <p>Le dujna miella oahppat muhtem bágojt sámegiellaj? Jali sidá rámpodit soabmásav ietjá sámegielajn majt iesj sáhkada? De máhttá dát báhkogirjásj bæjválasj bágoj ja gárgadisáj nuorttasábmáj, julevsábmáj ja oarjjelsábmáj liehket dunji viehkken.</p>
-    <p>Giellakampánnja <span type="quote">“Sámásta munji”</span> almot dálla báhkotjuohkkev ja gárgadistjuohkkev. Dát girjásj máhttá aneduvvat duon dán aktijvuodan. Báhkogirjátjin gávnnuji fertbæjvvásasj bágo ja moallánagá, muhtem ávkálasj madtjuhimvuoge ja gárgadisá gåktu galga ságastallagoahtet.</p>
-    <p>
-      <em type="bold">- Ij la dát makkirak oahppogirjje, valla hávsskes vuohke sámegielav oahppat. Dánna ij la låsså grammatihkka, ájnat ávkkás moallánagá, javllá sámedikkepresidænnta Aili Keskitalo. </em>
-    </p>
-    <p>Báhkogirjásj la sierraláhkáj nuorajda, ja vaddá dunji bágojt ja gárgadisájt majt besa adnet tjabu skåvlån, sijdan, gå la rádnastallamin, luondon ja festan.</p>
-    <p>Sámedigge sávvá girjásj luluj boahtá dunji ávkken gut juo sámásta jali sáhkada moadda sámegiela ja dunji gut hálijda oahppat sámev.</p>
-    <p>
-      <em type="bold">- Javla avtav bágov juohkka biejve, tjále gárgadisáv ja rája ráddnaj jali biedjala ietjat Instagrámmaj. Viehkeda jut sámegiella boahtá ienep vuojnnu ja gullu árggabiejven ja sosiála median, bádtji sámedikkepresidænnta Aili Keskitalo. </em>
-    </p>
-    <p>
-      <em type="bold">Dála boahtá báhkogirjásj: </em>
-    </p>
-    <p xml:lang="nob">Lommeparlør_Sametinget.pdf</p>
-    <p xml:lang="nob">321,12 kB</p>
-    <p>Dánna máhtá rávvit báhkogirjátjav</p>
-    <p>Báhkogirjásj la juo biejadum poasstaj sidjij guhti li juo diŋŋgum. Ienemusát 10 girje juohkka rávvagin.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>210</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Giella/Diedo-samegielaj-birra/Havsskes-vuohke-samegielav-oahppat-same-bahkogirjasj-almoduvvam</origFileName><parallel_text xml:lang="nob" location="en-artig-maate-aa-laere-samisk-paa-samisk-lommeparloer-lansert.html"/><parallel_text xml:lang="sma" location="saemien-lusteslaakan-lieredh-saemien-laaammegaerjetje-baejhkoehtamme.html"/><parallel_text xml:lang="sme" location="somas-vuohki-oahppat-samegiela-sami-satnegirjjas-almmuhuvvon.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Hávsskes vuohke sámegielav oahppat – sáme báhkogirjásj almoduvvam / Diedo sámegielaj birra / Giella / Sámedigge - Sametinget</p>
+<p type="title">Hávsskes vuohke sámegielav oahppat – sáme báhkogirjásj almoduvvam</p>
+<p xml:lang="nob">14. mïetske 2014</p>
+<p>Le dujna miella oahppat muhtem bágojt sámegiellaj? Jali sidá rámpodit soabmásav ietjá sámegielajn majt iesj sáhkada? De máhttá dát báhkogirjásj bæjválasj bágoj ja gárgadisáj nuorttasábmáj, julevsábmáj ja oarjjelsábmáj liehket dunji viehkken.</p>
+<p>Giellakampánnja <span type="quote">“Sámásta munji”</span> almot dálla báhkotjuohkkev ja gárgadistjuohkkev. Dát girjásj máhttá aneduvvat duon dán aktijvuodan. Báhkogirjátjin gávnnuji fertbæjvvásasj bágo ja moallánagá, muhtem ávkálasj madtjuhimvuoge ja gárgadisá gåktu galga ságastallagoahtet.</p>
+<p><em type="bold">- Ij la dát makkirak oahppogirjje, valla hávsskes vuohke sámegielav oahppat. Dánna ij la låsså grammatihkka, ájnat ávkkás moallánagá, javllá sámedikkepresidænnta Aili Keskitalo. </em></p>
+<p>Báhkogirjásj la sierraláhkáj nuorajda, ja vaddá dunji bágojt ja gárgadisájt majt besa adnet tjabu skåvlån, sijdan, gå la rádnastallamin, luondon ja festan.</p>
+<p>Sámedigge sávvá girjásj luluj boahtá dunji ávkken gut juo sámásta jali sáhkada moadda sámegiela ja dunji gut hálijda oahppat sámev.</p>
+<p><em type="bold">- Javla avtav bágov juohkka biejve, tjále gárgadisáv ja rája ráddnaj jali biedjala ietjat Instagrámmaj. Viehkeda jut sámegiella boahtá ienep vuojnnu ja gullu árggabiejven ja sosiála median, bádtji sámedikkepresidænnta Aili Keskitalo. </em></p>
+<p><em type="bold">Dála boahtá báhkogirjásj: </em></p>
+<p xml:lang="nob">Lommeparlør_Sametinget.pdf</p>
+<p xml:lang="nob">321,12 kB</p>
+<p>Dánna máhtá rávvit báhkogirjátjav</p>
+<p>Báhkogirjásj la juo biejadum poasstaj sidjij guhti li juo diŋŋgum. Ienemusát 10 girje juohkka rávvagin.</p>
+</body></document>

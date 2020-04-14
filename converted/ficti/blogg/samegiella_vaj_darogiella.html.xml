@@ -1,38 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>SÁMEGIELLA VAJ DÁROGIELLA?</title>
-    <genre code="ficti"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2017</year>
-    <wordcount>138</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://luonndomanna.blogg.no/1493211964_smegiella_vaj_drogiella.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">luonndomanna</p>
-    <p xml:lang="nob">blogg om friluftsliv på samisk</p>
-    <p xml:lang="nob">);"&gt;</p>
-    <p type="title">Sámegiella vaj dárogiella?</p>
-    <p>Mån boadáv familjas gånnå muv iedne ja áhtje æbá máhte sámegielav. Muv áhko sihke iedne ja áhtje bieles máhtteba sámegielav, valla såj æbá ságasta sámev muv siegen. Såj sámástibá sunnu rádnaj siegen, valla gå såj galggaba ságastit mujna vaj muv iednijn jali áhtjijn såj ságastibá dárogielav.</p>
-    <p>Muv mielas sámegielav le nav gássjel oahppat, valla mån sidáv oahppat sámegielav danen gå mån dåbdåv dat la oasse muv iesjdåbdos. Mån sidáv oahppat sámegielav vaj mån máhtáv ságastit muv berrahij gå ságasti sámegielav. Lav gåjt ávon gå lav oadtjum bajássjaddat ájgen goassa la årdnigis sábmen liehket. Iv la dárbaham tjiegadit muv sámevuodav, nav gåk nåv moattes dahkin åvddåla. Sidáv joarkket sámegielav oahppat vaj máhtáv muv identitehtav gievrrodit.</p>
-    <p type="title" xml:lang="nob">Ingen kommentarer</p>
-    <p type="title" xml:lang="nob">Skriv en ny kommentar</p>
-    <p xml:lang="nob">Navn:</p>
-    <p xml:lang="nob">E-post:</p>
-    <p xml:lang="nob">URL:</p>
-    <p xml:lang="nob">Din kommentar:</p>
-    <p xml:lang="nob">Husk meg ?</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>SÁMEGIELLA VAJ DÁROGIELLA?</title><genre code="ficti"/><author><unknown/></author><year>2017</year><wordcount>138</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://luonndomanna.blogg.no/1493211964_smegiella_vaj_drogiella.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">luonndomanna</p>
+<p xml:lang="nob">blogg om friluftsliv på samisk</p>
+<p xml:lang="nob">);"&gt;</p>
+<p type="title">Sámegiella vaj dárogiella?</p>
+<p>Mån boadáv familjas gånnå muv iedne ja áhtje æbá máhte sámegielav. Muv áhko sihke iedne ja áhtje bieles máhtteba sámegielav, valla såj æbá ságasta sámev muv siegen. Såj sámástibá sunnu rádnaj siegen, valla gå såj galggaba ságastit mujna vaj muv iednijn jali áhtjijn såj ságastibá dárogielav.</p>
+<p>Muv mielas sámegielav le nav gássjel oahppat, valla mån sidáv oahppat sámegielav danen gå mån dåbdåv dat la oasse muv iesjdåbdos. Mån sidáv oahppat sámegielav vaj mån máhtáv ságastit muv berrahij gå ságasti sámegielav. Lav gåjt ávon gå lav oadtjum bajássjaddat ájgen goassa la årdnigis sábmen liehket. Iv la dárbaham tjiegadit muv sámevuodav, nav gåk nåv moattes dahkin åvddåla. Sidáv joarkket sámegielav oahppat vaj máhtáv muv identitehtav gievrrodit.</p>
+<p type="title" xml:lang="nob">Ingen kommentarer</p>
+<p type="title" xml:lang="nob">Skriv en ny kommentar</p>
+<p xml:lang="nob">Navn:</p>
+<p xml:lang="nob">E-post:</p>
+<p xml:lang="nob">URL:</p>
+<p xml:lang="nob">Din kommentar:</p>
+<p xml:lang="nob">Husk meg ?</p>
+</body></document>

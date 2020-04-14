@@ -1,40 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Elektronalasj girjjeoases</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>173</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/elektronalasj-girjjeoases.4076</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Elektronalasj girjjeoases</p>
-    <p>Dåhkki dal elektronalattjat girjijt rávvit jus maná Árrana sijddabælláj internehtan. Danna gávna divna girjijt majt Árrana ietjas almmudahka <span type="quote">”Báhko”</span> la almodam, ja duodden aj ietjá girjijt ma sámevuoda birra subtsasti. CD’ajt aj dåhkki danna rávvit. Norsk kortversjon/Oanegis dárogiellaj</p>
-    <p>Peter Mikkelsen guhti jådet dáv elektronalasj girjjeoassásav subtsas birrusit 40 girje li juo dán databásan, ja ienebuv båhti.</p>
-    <p>-Miján li girje ienemusát julevsámegiellaj, valla dárruj aj ja ietjá sámegiellaj. Duodden dal aj musihkka ja plákáhta. Ja de lip aj usjudallam jus dagu duojev ja souvenijrajt dåhkki dán databása tjadá vuobddet, subtsas Peter Mikkelsen.</p>
-    <p>Árrana elektronalasj oassásin aj dåhkki åhtsåt juogu dal tjálle namás jali aj girje namás, ja dav majt i gávna la máhttelis rávvit.</p>
-    <p>-Dåhkki dal aj gatjádit, de galggap gæhttjalit viehkedit, valla ij la val antikvariahtta. Ulmme l tjoahkkit divna girjálsjvuodav ja ietjá ma li sábmáj, valla jus boares girjijt galga, de viertti ietjá sajijn åhtsåt, javllá Peter Mikkelsen.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Elektronalasj girjjeoases"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Elektronalasj girjjeoases</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>173</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/elektronalasj-girjjeoases.4076</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Elektronalasj girjjeoases</p>
+<p>Dåhkki dal elektronalattjat girjijt rávvit jus maná Árrana sijddabælláj internehtan. Danna gávna divna girjijt majt Árrana ietjas almmudahka <span type="quote">”Báhko”</span> la almodam, ja duodden aj ietjá girjijt ma sámevuoda birra subtsasti. CD’ajt aj dåhkki danna rávvit. Norsk kortversjon/Oanegis dárogiellaj</p>
+<p>Peter Mikkelsen guhti jådet dáv elektronalasj girjjeoassásav subtsas birrusit 40 girje li juo dán databásan, ja ienebuv båhti.</p>
+<p>-Miján li girje ienemusát julevsámegiellaj, valla dárruj aj ja ietjá sámegiellaj. Duodden dal aj musihkka ja plákáhta. Ja de lip aj usjudallam jus dagu duojev ja souvenijrajt dåhkki dán databása tjadá vuobddet, subtsas Peter Mikkelsen.</p>
+<p>Árrana elektronalasj oassásin aj dåhkki åhtsåt juogu dal tjálle namás jali aj girje namás, ja dav majt i gávna la máhttelis rávvit.</p>
+<p>-Dåhkki dal aj gatjádit, de galggap gæhttjalit viehkedit, valla ij la val antikvariahtta. Ulmme l tjoahkkit divna girjálsjvuodav ja ietjá ma li sábmáj, valla jus boares girjijt galga, de viertti ietjá sajijn åhtsåt, javllá Peter Mikkelsen.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Elektronalasj girjjeoases"</span> på Facebook</p>
+</body></document>

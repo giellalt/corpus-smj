@@ -1,45 +1,8 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>103</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=181&amp;art_id=210</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=181_art_id=210.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=181_art_id=210.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=181_art_id=210.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åhpav: Biejvve</p>
-    <p type="title">Ristagissan liehket</p>
-    <p>Vuostatja gudi Jesusij jáhkkin ristagissan nabdeduvvin, Kristus namá diehti.</p>
-    <p>Jubmelij jáhkket le sunji luohtedit. Dat vájmos boahtá. Ij máhte bágoj baktu duodastuvvat, ij ga diedalasj teorijaj baktu duodastuvvat jali tjielggiduvvat. Diedon ij dát mierkki ij besa gæhttjalit jergajnis dádjadit, valla jáhkket jali iehttset, dat ij máhte tjielggiduvvat. Dav hæhttu iesj vásedit. Moaddása dåbddi ietjasa jasska gå Jubmelij jáhkki.</p>
-    <p>Soajttá liehket gássjel jáhkket Jesus le ednama nanna viessum. Mij gudi uddni viessop ep besa Jesusav vuojnnet, valla dåbddåp histåvråv suv birra, danen gå suv birra le Rámádin tjáledum.</p>
-    <p>Manen dån Jesusij jáhká? Manen le muhttijn gássjel Jesusij jáhkket?</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>103</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=181&amp;art_id=210</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=181_art_id=210.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=181_art_id=210.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=181_art_id=210.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åhpav: Biejvve</p>
+<p type="title">Ristagissan liehket</p>
+<p>Vuostatja gudi Jesusij jáhkkin ristagissan nabdeduvvin, Kristus namá diehti.</p>
+<p>Jubmelij jáhkket le sunji luohtedit. Dat vájmos boahtá. Ij máhte bágoj baktu duodastuvvat, ij ga diedalasj teorijaj baktu duodastuvvat jali tjielggiduvvat. Diedon ij dát mierkki ij besa gæhttjalit jergajnis dádjadit, valla jáhkket jali iehttset, dat ij máhte tjielggiduvvat. Dav hæhttu iesj vásedit. Moaddása dåbddi ietjasa jasska gå Jubmelij jáhkki.</p>
+<p>Soajttá liehket gássjel jáhkket Jesus le ednama nanna viessum. Mij gudi uddni viessop ep besa Jesusav vuojnnet, valla dåbddåp histåvråv suv birra, danen gå suv birra le Rámádin tjáledum.</p>
+<p>Manen dån Jesusij jáhká? Manen le muhttijn gássjel Jesusij jáhkket?</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

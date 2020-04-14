@@ -1,64 +1,42 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Julevsámegiella 1</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Berit Ellen" lastname="Bongo" sex="f" born="" nationality="nor"/>
-    </author>
-    <year>2002</year>
-    <wordcount>326</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <origFileName>Lulesamisk_1_oppgaver.doc</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate  1.14 ; file-specific xsl  $Revision: 1.1 $; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Julevsámegiella 1.giellan/Lulesamisk 1.språk</p>
-    <p>VUODOSKÅVLÅ EKSÁBMA JAGEN 2002</p>
-    <p>SÁMEGIELLA VUOSTASJGIELLAN</p>
-    <p>DAHKAMUSÁ TÆKSTATJOAHKKÁJ </p>
-    <p>I - OASSE MIJ GALGGÁ TJOAVDEDUVVAT </p>
-    <p>Vássteda divna dáhkamusájt I-OASEN.</p>
-    <p>Dánna vuojná soames ánnonsa gånnå åhtsi barggijt.</p>
-    <p>Vássteda ánnonsav. Åhtsålvisán hæhttu tjielggit diedojt ietjat birra, ja tjielggit unnán manen dån åhtså dav bargov.</p>
-    <p>Bieja badjeltjállagin “åhtsålvis”.</p>
-    <p>Gåvvå 1 Esso</p>
-    <p>Gåvvå 2 Guovdageainnu suohkan</p>
-    <p>Gåvvå 3 Sámiid Vuorká-DávviratII-OASSE: DAHKAMUSÁV MÁHTÁ VÁLLJIT</p>
-    <p>Vállji dåssju åvtåv dahkamusáv II-OASEN</p>
-    <p>1. Jáhkeájgge</p>
-    <p>Tjále tevstav dán jageájge birra majd dån lijkku.</p>
-    <p>Vállji sjáŋŋerav iesj ja bieja badjeltjállagin dan jageájgge birra majt dån tjála.</p>
-    <p>Duodden bieja oasse-II nr. 1</p>
-    <p>2. Ballo</p>
-    <p>Tjále tevstav gånnå “ballo” la oajvvetema.</p>
-    <p>Vállji iesj sjáŋŋerav ja åhtså hiebalasj badjeltjállagav.</p>
-    <p>Duodden bieja oasse-II nr. 2</p>
-    <p>3. Gábmaga</p>
-    <p>Tækstatjoahken gávna ”Gábmaga” ja ”Mihá gáptijn”. Vuostasj tæksta subtsas gábmagij birra, ja nuppe tevstan la sisadno gåk gáptek vas galggá adnegoahtet.</p>
-    <p>Makkár ájádusá li dujni gåk sáme bivtasadno dálla, ja le dat ietjáduvvám?</p>
-    <p>Tjále artihkkalav gånnå dat ælvvu.</p>
-    <p>Bieja badjeltjállagin ”Gábmaga”, ja bieja II-oasse nr. 3.</p>
-    <p>4. Pubertehtta ja æjgátriektá</p>
-    <p>Gehtja tevstain ”diehti gå dájt pubertehtta birra?” ja ”æjgátriektá”.</p>
-    <p>Tjielggi mij la oajvve sisadno guobbák dajs tevstajs. Tjále tevstav puberteht-ájge birra ja majt dat sisadna.</p>
-    <p>Vállji iesj sjáŋŋerav. Dagá badjeltjállagav ja bieja vásstádussáj II-oasse nr. 4</p>
-    <p>5. Suovenirvuobddem</p>
-    <p>Suohkana loaggi turistajt guojtelis brosjyraj.</p>
-    <p>Tjále låhkkegirjev gånnå subtsasta makkár ájádusá le dujni sáme souvenir-vuobddema birra ráhterabdajn ja bydjajn.</p>
-    <p>Dagá badjeltjállagav ja tjále vásstádussáj II-oasse nr. 5.</p>
-    <p>6. Trållå Porsangerin Finnmarkon</p>
-    <p>Trållå Porsángun Finnmarkon li maŋenagi dåbddusi boahtám. Dát mujtalus subtsas gåktu dát bájkke nammaduvvaj. Birra sámeviessomijn subtsas dán lágásj subttsasa jali dålusj subttsasa gåk sierralágásj saje ja luonndodáhpadusá nammaduvvi.</p>
-    <p>Tjále dålusj subttsasav jali subttsasav majt la gullam, dagá jus sidá iesj mujtalusáv mij tjielggi muhtem luonddofenomenav ja gåk dát la nammaduvvam.</p>
-    <p>Dagá iesj hiebalasj badjeltjállagav ja bieja vásstádussáj II-oasse nr. 6.</p>
-    <p>7. Jáhkko</p>
-    <p>Jáhkko l ájnas ållusi, sierra gå la låssis vuosstemanno jali ietján viessomin.</p>
-    <p>Tjále tevstav duv ájádusá jáhko birra. Vállji iesj sjáŋŋerav. Dagá hiebalasj badjeltjállagav. Tjále duodden II-oasse nr. 7.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Julevsámegiella 1</title><genre code="facta"/><author><person firstname="Berit Ellen" lastname="Bongo" sex="f" born="" nationality="nor"/></author><year>2002</year><wordcount>326</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>Lulesamisk_1_oppgaver.doc</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate  1.14 ; file-specific xsl  $Revision: 1.1 $; common.xsl  $Revision: 154948 $; </version></header><body><p>Julevsámegiella 1.giellan/Lulesamisk 1.språk</p>
+<p>VUODOSKÅVLÅ EKSÁBMA JAGEN 2002</p>
+<p>SÁMEGIELLA VUOSTASJGIELLAN</p>
+<p>DAHKAMUSÁ TÆKSTATJOAHKKÁJ </p>
+<p>I - OASSE MIJ GALGGÁ TJOAVDEDUVVAT </p>
+<p>Vássteda divna dáhkamusájt I-OASEN.</p>
+<p>Dánna vuojná soames ánnonsa gånnå åhtsi barggijt.</p>
+<p>Vássteda ánnonsav. Åhtsålvisán hæhttu tjielggit diedojt ietjat birra, ja tjielggit unnán manen dån åhtså dav bargov.</p>
+<p>Bieja badjeltjállagin “åhtsålvis”.</p>
+<p>Gåvvå 1 Esso</p>
+<p>Gåvvå 2 Guovdageainnu suohkan</p>
+<p>Gåvvå 3 Sámiid Vuorká-DávviratII-OASSE: DAHKAMUSÁV MÁHTÁ VÁLLJIT</p>
+<p>Vállji dåssju åvtåv dahkamusáv II-OASEN</p>
+<p>1. Jáhkeájgge</p>
+<p>Tjále tevstav dán jageájge birra majd dån lijkku.</p>
+<p>Vállji sjáŋŋerav iesj ja bieja badjeltjállagin dan jageájgge birra majt dån tjála.</p>
+<p>Duodden bieja oasse-II nr. 1</p>
+<p>2. Ballo</p>
+<p>Tjále tevstav gånnå “ballo” la oajvvetema.</p>
+<p>Vállji iesj sjáŋŋerav ja åhtså hiebalasj badjeltjállagav.</p>
+<p>Duodden bieja oasse-II nr. 2</p>
+<p>3. Gábmaga</p>
+<p>Tækstatjoahken gávna ”Gábmaga” ja ”Mihá gáptijn”. Vuostasj tæksta subtsas gábmagij birra, ja nuppe tevstan la sisadno gåk gáptek vas galggá adnegoahtet.</p>
+<p>Makkár ájádusá li dujni gåk sáme bivtasadno dálla, ja le dat ietjáduvvám?</p>
+<p>Tjále artihkkalav gånnå dat ælvvu.</p>
+<p>Bieja badjeltjállagin ”Gábmaga”, ja bieja II-oasse nr. 3.</p>
+<p>4. Pubertehtta ja æjgátriektá</p>
+<p>Gehtja tevstain ”diehti gå dájt pubertehtta birra?” ja ”æjgátriektá”.</p>
+<p>Tjielggi mij la oajvve sisadno guobbák dajs tevstajs. Tjále tevstav puberteht-ájge birra ja majt dat sisadna.</p>
+<p>Vállji iesj sjáŋŋerav. Dagá badjeltjállagav ja bieja vásstádussáj II-oasse nr. 4</p>
+<p>5. Suovenirvuobddem</p>
+<p>Suohkana loaggi turistajt guojtelis brosjyraj.</p>
+<p>Tjále låhkkegirjev gånnå subtsasta makkár ájádusá le dujni sáme souvenir-vuobddema birra ráhterabdajn ja bydjajn.</p>
+<p>Dagá badjeltjállagav ja tjále vásstádussáj II-oasse nr. 5.</p>
+<p>6. Trållå Porsangerin Finnmarkon</p>
+<p>Trållå Porsángun Finnmarkon li maŋenagi dåbddusi boahtám. Dát mujtalus subtsas gåktu dát bájkke nammaduvvaj. Birra sámeviessomijn subtsas dán lágásj subttsasa jali dålusj subttsasa gåk sierralágásj saje ja luonndodáhpadusá nammaduvvi.</p>
+<p>Tjále dålusj subttsasav jali subttsasav majt la gullam, dagá jus sidá iesj mujtalusáv mij tjielggi muhtem luonddofenomenav ja gåk dát la nammaduvvam.</p>
+<p>Dagá iesj hiebalasj badjeltjállagav ja bieja vásstádussáj II-oasse nr. 6.</p>
+<p>7. Jáhkko</p>
+<p>Jáhkko l ájnas ållusi, sierra gå la låssis vuosstemanno jali ietján viessomin.</p>
+<p>Tjále tevstav duv ájádusá jáhko birra. Vállji iesj sjáŋŋerav. Dagá hiebalasj badjeltjállagav. Tjále duodden II-oasse nr. 7.</p>
+</body></document>

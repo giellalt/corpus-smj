@@ -1,55 +1,16 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>«Jus duosta gatjádit, duossti ulmutja vásstedit»</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2017</year>
-    <wordcount>275</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/Samedikke-birra/Arkiv-perioden-2016-2017/Pressemeldinger/Jus-duosta-gatjadit-duossti-ulmutja-vasstedit</origFileName>
-    <parallel_text xml:lang="nob" location="inviterer-samiske-kommuner-til-samarbeid.html"/>
-    <parallel_text xml:lang="sma" location="jis-doesth-gihtjedh-almetjh-duestieh-vaestiedidh.html"/>
-    <parallel_text xml:lang="sme" location="bovde-sami-suohkaniid-ovttasbargat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">
-      <span type="quote">«Jus duosta gatjádit, duossti ulmutja vásstedit»</span>
-    </p>
-    <p>Gåtsedibmen diedádussaj vahágahttemij birra lahka gasskavuodan sáme sebrudagájn bivddi Sámedigge sáme suohkanijt aktisasjbargguj buoredittjat fálaldagáv sidjij gudi vahágahttemav lahka gasskavuodan vásedi.</p>
-    <p>Diedádus vahágahttemij birra lahka gasskavuodan sáme sebrudagájn la tjadádum Nasjåvnålasj máhttoguovdátjis vahágahttemij ja traumáhtalasj diertjestibmáj ja almoduváj Sámedikken snjuktjamáno 8.biejve 2017.</p>
-    <p>Diedádus <em type="italic">“Jus duossta gatjádit, duossti ulmutja vásstedit» </em>la vuododam ságastallamij fáhkabarggij ja viehkkeapparáhtajn sáme guovlojn, ja tjalmostahttá gåktu sáme vaháguvvama viehkkeapparáhtas duostoduvvi. Diedádus aj guoradallá jus li vidjura sáme sebrudagá sisbielen vaj ålgusjbielen ma vájkkudi galla vahágahttema dagáduvvi. </p>
-    <p type="title">Hæhttu båhtusijt duodaj válldet</p>
-    <p>
-      <em type="italic">- Diedádusán åvddån boahtá, ålos e bulkkáj jalik viehkkeapparáhttaj luohteda gå viehkkeapparáhtan ælla duola dagu sáme giella- ja kultuvrramáhtudagá, javllá sámediggeráde Mariann Wollmann Magga. </em>
-    </p>
-    <p>
-      <em type="italic">- Mij hæhttup båhtusijt duodaj válldet ja oajválattja hæhttuji dåjmajt jåhtuj biedjat aktan sáme sebrudagájn, suohkanij ja Sámedikkijn. Diedádus la ájnas vædtsagin dan aktijvuodan, javllá Magga. </em>
-    </p>
-    <p>Sámedikkeráde Mariann Wollmann javllá ulmme tjåhkanimij la diedádusáv dåbddusin suohkanijda dahkat, ja plánav åttjudit gåtsedibmáj gåktu suohkana máhtti rievddadimijt dahkat buoredittjat fálaldagáv sidjij gudi vahágahttemav lahka gasskavuodan vásedi.</p>
-    <p>- Duodden la aj sávadahtte oadtjot gullat majt suohkana Sámedikkes vuorddi joarkka gåtsedimbargon, javllá Magga.</p>
-    <p>Sámediggepresidænnta Vibeke Larsen ja rádesebrulasj Mariann Wollmann Magga tjåhkanibá mánáj- ja dássádusminisstarijn Solveig Horneijn ja stáhtatjállijn Justijssa- ja gárvedimdepartementan duorastagá biehtsemáno 15. biejve diedádusá gåtsedime birra.</p>
-    <p>Vuostasj tjåhkanibme diedádusá birra lij biehtsemáno 7. biejve 2017 Romsa suohkanijn. Vijddábut la tjåhkanibme Snåasa suohkanijn biehtsemáno 12. biejve. Duodden dajda le bivddidum tjåhkanibmáj Divtasvuona suohkanijn, valla dan gaktuj la ájn iehpetjielgas.</p>
-    <p>
-      <em type="italic">Dánna besa ienebuv låhkåt: </em>
-    </p>
-    <p>Artikkel: Jus duosta gatjádit, duossti ulmutja vásstedit Kronihkka: Allit sjávot åro Raporta <span type="quote" xml:lang="nno">"Om du tør å spørre, tør folk å svare"</span></p>
-    <p>
-      <em type="italic">Ságájdahtátjit: </em>
-    </p>
-    <p>Sámediggeráde Mariann Wollmann Magga, mobijlla 977 02 350</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>«Jus duosta gatjádit, duossti ulmutja vásstedit»</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2017</year><wordcount>275</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/Samedikke-birra/Arkiv-perioden-2016-2017/Pressemeldinger/Jus-duosta-gatjadit-duossti-ulmutja-vasstedit</origFileName><parallel_text xml:lang="sma" location="jis-doesth-gihtjedh-almetjh-duestieh-vaestiedidh.html"/><parallel_text xml:lang="sme" location="bovde-sami-suohkaniid-ovttasbargat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title"><span type="quote">«Jus duosta gatjádit, duossti ulmutja vásstedit»</span></p>
+<p>Gåtsedibmen diedádussaj vahágahttemij birra lahka gasskavuodan sáme sebrudagájn bivddi Sámedigge sáme suohkanijt aktisasjbargguj buoredittjat fálaldagáv sidjij gudi vahágahttemav lahka gasskavuodan vásedi.</p>
+<p>Diedádus vahágahttemij birra lahka gasskavuodan sáme sebrudagájn la tjadádum Nasjåvnålasj máhttoguovdátjis vahágahttemij ja traumáhtalasj diertjestibmáj ja almoduváj Sámedikken snjuktjamáno 8.biejve 2017.</p>
+<p>Diedádus <em type="italic">“Jus duossta gatjádit, duossti ulmutja vásstedit» </em>la vuododam ságastallamij fáhkabarggij ja viehkkeapparáhtajn sáme guovlojn, ja tjalmostahttá gåktu sáme vaháguvvama viehkkeapparáhtas duostoduvvi. Diedádus aj guoradallá jus li vidjura sáme sebrudagá sisbielen vaj ålgusjbielen ma vájkkudi galla vahágahttema dagáduvvi. </p>
+<p type="title">Hæhttu båhtusijt duodaj válldet</p>
+<p><em type="italic">- Diedádusán åvddån boahtá, ålos e bulkkáj jalik viehkkeapparáhttaj luohteda gå viehkkeapparáhtan ælla duola dagu sáme giella- ja kultuvrramáhtudagá, javllá sámediggeráde Mariann Wollmann Magga. </em></p>
+<p><em type="italic">- Mij hæhttup båhtusijt duodaj válldet ja oajválattja hæhttuji dåjmajt jåhtuj biedjat aktan sáme sebrudagájn, suohkanij ja Sámedikkijn. Diedádus la ájnas vædtsagin dan aktijvuodan, javllá Magga. </em></p>
+<p>Sámedikkeráde Mariann Wollmann javllá ulmme tjåhkanimij la diedádusáv dåbddusin suohkanijda dahkat, ja plánav åttjudit gåtsedibmáj gåktu suohkana máhtti rievddadimijt dahkat buoredittjat fálaldagáv sidjij gudi vahágahttemav lahka gasskavuodan vásedi.</p>
+<p>- Duodden la aj sávadahtte oadtjot gullat majt suohkana Sámedikkes vuorddi joarkka gåtsedimbargon, javllá Magga.</p>
+<p>Sámediggepresidænnta Vibeke Larsen ja rádesebrulasj Mariann Wollmann Magga tjåhkanibá mánáj- ja dássádusminisstarijn Solveig Horneijn ja stáhtatjállijn Justijssa- ja gárvedimdepartementan duorastagá biehtsemáno 15. biejve diedádusá gåtsedime birra.</p>
+<p>Vuostasj tjåhkanibme diedádusá birra lij biehtsemáno 7. biejve 2017 Romsa suohkanijn. Vijddábut la tjåhkanibme Snåasa suohkanijn biehtsemáno 12. biejve. Duodden dajda le bivddidum tjåhkanibmáj Divtasvuona suohkanijn, valla dan gaktuj la ájn iehpetjielgas.</p>
+<p><em type="italic">Dánna besa ienebuv låhkåt: </em></p>
+<p>Artikkel: Jus duosta gatjádit, duossti ulmutja vásstedit Kronihkka: Allit sjávot åro Raporta <span type="quote" xml:lang="nno">"Om du tør å spørre, tør folk å svare"</span></p>
+<p><em type="italic">Ságájdahtátjit: </em></p>
+<p>Sámediggeráde Mariann Wollmann Magga, mobijlla 977 02 350</p>
+</body></document>

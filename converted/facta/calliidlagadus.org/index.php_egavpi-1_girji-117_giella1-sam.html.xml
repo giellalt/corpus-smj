@@ -1,62 +1,27 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Áigin Lávrra - Bassegåbe giesse</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>132</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.calliidlagadus.org/web/index.php?egavpi=1&amp;girji=117&amp;giella1=sam</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_egavpi-1_girji-116_giella1-sam.html"/>
-    <parallel_text xml:lang="sma" location="index.php_egavpi-1_girji-122_giella1-sam.html"/>
-    <parallel_text xml:lang="sme" location="index.php_egavpi-1_girji-113_giella1-sam.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="sme">ČálliidLágádusa birra</p>
-    <p xml:lang="sme">CL-Sámi academica</p>
-    <p xml:lang="sme">Oktavuohta</p>
-    <p xml:lang="sme">
-      <em type="bold">Gálvoseahkka </em>
-    </p>
-    <p xml:lang="sme">Gálvoseahkka lea guorus</p>
-    <p xml:lang="sme">
-      <em type="bold">Ođasreive </em>
-    </p>
-    <p xml:lang="sme">Registrere epoastačujuhusa vuostáiváldit ođasreivve ČálliidLágádusas</p>
-    <p xml:lang="fkv">Tweet</p>
-    <p>
-      <em type="bold">Áigin Lávrra - Bassegåbe giesse </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="bold">Torkel Rasmussen </em>
-    </p>
-    <p>
-      <em type="bold">Julevsámegillii </em>
-    </p>
-    <p>Áhtosj-Ánndi girddá gárránisá hámen ja hásstá Áigin Lávrav maŋen. Såj háledibá goasstejiegŋa tjáhkáj badjel, ja vákkev tjuovvoba mearragáddáj dálusj sáme beassesadjáj.</p>
-    <p>Bassegåbe giesse le romádna mánájda ja nuorajda, Áigin Lávrav oattjo tjuovvot åvdulasj mannuj dålusj sáme bassebájkkáj ja geldulasj ja sierra dáhpádusáj.</p>
-    <p>Girje tjálle le Torkel Rasmussena vuostasj romádna mánájda ja nuorajda. Åvdebut le sån guokta mánájgirje tjállám.</p>
-    <p>Románav aj máhtá jiednagirjes gulldalit.</p>
-    <p xml:lang="sms">ISBN: 978-82-92044-66-7</p>
-    <p xml:lang="nob">NOK</p>
-    <p xml:lang="koi">225,-</p>
-    <p xml:lang="sme">Čáppagirjjálašvuohta</p>
-    <p xml:lang="koi">-&gt;</p>
-    <p xml:lang="sme">Mánáide ja nuoraide</p>
-    <p xml:lang="sme">Gii lea váldán guovssahasa</p>
-    <p xml:lang="isl">Milli já Polfe Riäskápiivdost Milli da Bolfi Reeppaid šee´llmen Милли я Больфи Mе̄хьцтэв рыпп э</p>
-    <p xml:lang="nob">Jakten på Nordlyset</p>
-    <p xml:lang="sme">Mun lean čuoigi - Jietnagirji (CD)</p>
-    <p xml:lang="sme">Čáppa dego easkka láddan luomi - Jietnagirji (CD)</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Áigin Lávrra - Bassegåbe giesse</title><genre code="facta"/><author><unknown/></author><wordcount>132</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.calliidlagadus.org/web/index.php?egavpi=1&amp;girji=117&amp;giella1=sam</origFileName><parallel_text xml:lang="nob" location="index.php_egavpi-1_girji-116_giella1-sam.html"/><parallel_text xml:lang="sma" location="index.php_egavpi-1_girji-122_giella1-sam.html"/><parallel_text xml:lang="sme" location="index.php_egavpi-1_girji-113_giella1-sam.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="sme">ČálliidLágádusa birra</p>
+<p xml:lang="sme">CL-Sámi academica</p>
+<p xml:lang="sme">Oktavuohta</p>
+<p xml:lang="sme"><em type="bold">Gálvoseahkka </em></p>
+<p xml:lang="sme">Gálvoseahkka lea guorus</p>
+<p xml:lang="sme"><em type="bold">Ođasreive </em></p>
+<p xml:lang="sme">Registrere epoastačujuhusa vuostáiváldit ođasreivve ČálliidLágádusas</p>
+<p xml:lang="fkv">Tweet</p>
+<p><em type="bold">Áigin Lávrra - Bassegåbe giesse </em></p>
+<p xml:lang="nob"><em type="bold">Torkel Rasmussen </em></p>
+<p><em type="bold">Julevsámegillii </em></p>
+<p>Áhtosj-Ánndi girddá gárránisá hámen ja hásstá Áigin Lávrav maŋen. Såj háledibá goasstejiegŋa tjáhkáj badjel, ja vákkev tjuovvoba mearragáddáj dálusj sáme beassesadjáj.</p>
+<p>Bassegåbe giesse le romádna mánájda ja nuorajda, Áigin Lávrav oattjo tjuovvot åvdulasj mannuj dålusj sáme bassebájkkáj ja geldulasj ja sierra dáhpádusáj.</p>
+<p>Girje tjálle le Torkel Rasmussena vuostasj romádna mánájda ja nuorajda. Åvdebut le sån guokta mánájgirje tjállám.</p>
+<p>Románav aj máhtá jiednagirjes gulldalit.</p>
+<p xml:lang="sms">ISBN: 978-82-92044-66-7</p>
+<p xml:lang="nob">NOK</p>
+<p xml:lang="vep">225,-</p>
+<p xml:lang="sme">Čáppagirjjálašvuohta</p>
+<p xml:lang="vep">-&gt;</p>
+<p xml:lang="sme">Mánáide ja nuoraide</p>
+<p xml:lang="sme">Gii lea váldán guovssahasa</p>
+<p xml:lang="isl">Milli já Polfe Riäskápiivdost Milli da Bolfi Reeppaid šee´llmen Милли я Больфи Mе̄хьцтэв рыпп э</p>
+<p xml:lang="nob">Jakten på Nordlyset</p>
+<p xml:lang="sme">Mun lean čuoigi - Jietnagirji (CD)</p>
+<p xml:lang="sme">Čáppa dego easkka láddan luomi - Jietnagirji (CD)</p>
+</body></document>

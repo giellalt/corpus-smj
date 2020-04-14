@@ -1,51 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>163</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=153&amp;art_id=158</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=153_art_id=158.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=153_art_id=158.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=153_art_id=158.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åhpav: Låvdagoahte</p>
-    <p type="title">2.	Båhtus duv rijkka</p>
-    <p>Råhkådallap Jubmela rijkka galggá boahtet diehki ednamij mijá lusi, ja jut luluj boahtet juohkka ulmutjij ålles væráldin. Gájkinåvdemusát Jesus dat vuoset man lágásj Jubmela rijkka le. Gå Rámádav låhkåp de dåbddågoahtep Jesusav. Mav dagáj? Majt javlaj? Mij dáhpáduváj sijáj gudi suv birra lidjin? Majt dat mierkki gå Jubmela rijkka ednamij boahtá?</p>
-    <p>Mierkki gus mij åbbå buorre væráldav oadtjop gånnå juohkkahasj le lådje ietjas guojmmealmatjij vuosstij, jali soajttá gus mierkkit juojddá ietján? Jubmel sihtá gájka galggap sunji boahtet, ja sån mijáv gåhttju ja ietjas láhppum mánájt åhtså, ietjas Ájlis Vuojŋŋanisá baktu. Ja de åhpat ja viehket Ájlis Vuojŋŋanis mijájt Jubmelij råhkådallat ja tjielggi midjij dav mij le tjáledum – váj bessap dåbddåt Jubmela almmelasj fámov dáppe ednamin.</p>
-    <p xml:lang="nob">
-      <em type="bold">LUTHERUSA TJIELGADUS: </em>
-    </p>
-    <p>Jubmela rijkka ietjastis bådisj vájku ep råhkådalá, valla dánna råhkådallap mijá lusi aj boahtá.</p>
-    <p>
-      <em type="bold">Gåktus de? </em>
-    </p>
-    <p>Gå mijá Almenáhttje midjij ájlis Vuojŋŋanisástis vaddá vaj mij suv ármos ájlis báhkusis jáhkkep ja sujna dán ja ihkeva ájgen viessop.</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>163</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=153&amp;art_id=158</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=153_art_id=158.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=153_art_id=158.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=153_art_id=158.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åhpav: Låvdagoahte</p>
+<p type="title">2.	Båhtus duv rijkka</p>
+<p>Råhkådallap Jubmela rijkka galggá boahtet diehki ednamij mijá lusi, ja jut luluj boahtet juohkka ulmutjij ålles væráldin. Gájkinåvdemusát Jesus dat vuoset man lágásj Jubmela rijkka le. Gå Rámádav låhkåp de dåbddågoahtep Jesusav. Mav dagáj? Majt javlaj? Mij dáhpáduváj sijáj gudi suv birra lidjin? Majt dat mierkki gå Jubmela rijkka ednamij boahtá?</p>
+<p>Mierkki gus mij åbbå buorre væráldav oadtjop gånnå juohkkahasj le lådje ietjas guojmmealmatjij vuosstij, jali soajttá gus mierkkit juojddá ietján? Jubmel sihtá gájka galggap sunji boahtet, ja sån mijáv gåhttju ja ietjas láhppum mánájt åhtså, ietjas Ájlis Vuojŋŋanisá baktu. Ja de åhpat ja viehket Ájlis Vuojŋŋanis mijájt Jubmelij råhkådallat ja tjielggi midjij dav mij le tjáledum – váj bessap dåbddåt Jubmela almmelasj fámov dáppe ednamin.</p>
+<p xml:lang="nob"><em type="bold">LUTHERUSA TJIELGADUS: </em></p>
+<p>Jubmela rijkka ietjastis bådisj vájku ep råhkådalá, valla dánna råhkådallap mijá lusi aj boahtá.</p>
+<p><em type="bold">Gåktus de? </em></p>
+<p>Gå mijá Almenáhttje midjij ájlis Vuojŋŋanisástis vaddá vaj mij suv ármos ájlis báhkusis jáhkkep ja sujna dán ja ihkeva ájgen viessop.</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

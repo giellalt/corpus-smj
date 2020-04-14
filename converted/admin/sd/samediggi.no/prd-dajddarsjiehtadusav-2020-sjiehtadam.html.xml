@@ -1,40 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>PRD: Dájddársjiehtadusáv 2020 sjiehtadam</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2019</year>
-    <wordcount>157</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/AAdaasa/PRD-Dajddarsjiehtadusav-2020-sjiehtadam</origFileName>
-    <parallel_text xml:lang="nob" location="prm-enige-om-kunstneravtale-2020.html"/>
-    <parallel_text xml:lang="sma" location="prm-siemes-tjiehpiedaejjalatjkoen-2020-bijre.html"/>
-    <parallel_text xml:lang="sme" location="prd-soahpan-daiddarsiehtadusa-2020.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">PRD: Dájddársjiehtadusáv 2020 sjiehtadam</p>
-    <p>Sámedigge ja Sáme dájddárráde li sjiehtadamDájddársjiehtadusáv jahkáj 2020</p>
-    <p>– Sáme dájdda ja sáme dájddára li ájnnasa sáme sebrudagá tjalmostahttemis ja åvddånahttemis, ja mån lav ávon ja mihá gå sáme dájdda maŋemus jagijt la åbbå vuohkásit tjalmostahteduvvam, goappátjagá bájkálattjat, nasjonála dásen ja adjáj rijkajgasskasattjat, javllá sámedikkeráde Henrik Olsen.</p>
-    <p>Dájddársjiehtadusá rámma l 8 570 000 kråvnå, mij la 220 000 kråvnå lasádussan.</p>
-    <p>Rudá li vuoroduvvam Sáme dájddárráde ja dan gudá dájddárorganisasjåvnå doajmmaj ma li tjanádum dájddárrádáj. Vuorodum li aj rudá dájddafoanndaj ja vuosádusdivudij. Aktisasjbarggoguojme li aj sjiehtadam sjiehtadusán sjiehtadam jut sihti vuorodit ja ienep rudájt dájddárstipendajda biedjat.</p>
-    <p>Aktisasjbarggoguojme li vijddásappot sjiehtadam aktisasjbargov åvddånahttet, ja dálla li barggamin aktisasjbarggosjiehtadusáv nielje jahkáj sadjáj oadtjomin.</p>
-    <p>– Aktisasjbarggosjiehtadus Sámedikke ja Sáme dájddárráde gaskan mijá dájddárijda stuorra vájkkudimfámov åvddånibmáj sáme dájddaviessoma gáktuj vaddá, ja la siegen sáme dájddaj ja sáme dájddárijda buorre rámmaævtojt láhtjemin, javllá sámedikkeráde Henrik Olsen.</p>
-    <p>
-      <em type="italic">Gatjálvisájda vássstedittjat jali ságájdahtátjit, guládalá sámedikkerádijn Henrik Olsenijn, +47 907 75 219 </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>PRD: Dájddársjiehtadusáv 2020 sjiehtadam</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2019</year><wordcount>157</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/AAdaasa/PRD-Dajddarsjiehtadusav-2020-sjiehtadam</origFileName><parallel_text xml:lang="nob" location="prm-enige-om-kunstneravtale-2020.html"/><parallel_text xml:lang="sma" location="prm-siemes-tjiehpiedaejjalatjkoen-2020-bijre.html"/><parallel_text xml:lang="sme" location="prd-soahpan-daiddarsiehtadusa-2020.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">PRD: Dájddársjiehtadusáv 2020 sjiehtadam</p>
+<p>Sámedigge ja Sáme dájddárráde li sjiehtadamDájddársjiehtadusáv jahkáj 2020</p>
+<p>– Sáme dájdda ja sáme dájddára li ájnnasa sáme sebrudagá tjalmostahttemis ja åvddånahttemis, ja mån lav ávon ja mihá gå sáme dájdda maŋemus jagijt la åbbå vuohkásit tjalmostahteduvvam, goappátjagá bájkálattjat, nasjonála dásen ja adjáj rijkajgasskasattjat, javllá sámedikkeráde Henrik Olsen.</p>
+<p>Dájddársjiehtadusá rámma l 8 570 000 kråvnå, mij la 220 000 kråvnå lasádussan.</p>
+<p>Rudá li vuoroduvvam Sáme dájddárráde ja dan gudá dájddárorganisasjåvnå doajmmaj ma li tjanádum dájddárrádáj. Vuorodum li aj rudá dájddafoanndaj ja vuosádusdivudij. Aktisasjbarggoguojme li aj sjiehtadam sjiehtadusán sjiehtadam jut sihti vuorodit ja ienep rudájt dájddárstipendajda biedjat.</p>
+<p>Aktisasjbarggoguojme li vijddásappot sjiehtadam aktisasjbargov åvddånahttet, ja dálla li barggamin aktisasjbarggosjiehtadusáv nielje jahkáj sadjáj oadtjomin.</p>
+<p>– Aktisasjbarggosjiehtadus Sámedikke ja Sáme dájddárráde gaskan mijá dájddárijda stuorra vájkkudimfámov åvddånibmáj sáme dájddaviessoma gáktuj vaddá, ja la siegen sáme dájddaj ja sáme dájddárijda buorre rámmaævtojt láhtjemin, javllá sámedikkeráde Henrik Olsen.</p>
+<p><em type="italic">Gatjálvisájda vássstedittjat jali ságájdahtátjit, guládalá sámedikkerádijn Henrik Olsenijn, +47 907 75 219 </em></p>
+</body></document>

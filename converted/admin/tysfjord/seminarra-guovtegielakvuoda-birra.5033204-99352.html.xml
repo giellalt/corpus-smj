@@ -1,39 +1,13 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>112</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/seminarra-guovtegielakvuoda-birra.5033204-99352.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tysfjord kommune : Seminárra guovtegielakvuoda birra</p>
-    <p type="title">Seminárra guovtegielakvuoda birra</p>
-    <p xml:lang="nob">16.03.2012</p>
-    <p xml:lang="nob">Av: Ingvild Foshaug Lange</p>
-    <p>Duorastagá snjuktjamáno 22.biejve le seminárra Árranin.</p>
-    <p>Lågådalle le pedagoga ja pedagogihka professor, Kamil Øzerk. Seminárra le guovte oassáj; sidjij gudi gielaj barggi, ja æjgádijda. 12.30-16.30: Tiebmán kursan åhpadiddjijda/ åvddåskåvllååhpadiddjijda/viehkkeåhpadiddjijda: -Mánáj giellaoahppam -Guovtegielakvuoda åvddånahttem -Oahppamvuoge báhkobåndudagáv, báhkodádjadusáv ja låhkåmtjiehpudagáv åvddånahtátjit</p>
-    <p xml:lang="nob">17.00-19.00:</p>
-    <p>Tiebmán kursan æjgádijda: -Mánáj giellaåvddånahttem -Guovtegielakvuoda åvddånahttem -Gåktu æjgáda máhtti viehkedit mánáj guovtegielakvuoda åvddånáhttemijn.</p>
-    <p>Kurssa kl 12.30-16.30 le rabás GÁJKAJDA. Ja le dábálasj oahppama, åvddånahttema ja oahppamvuogij birra ma gulluji giellabargguj.</p>
-    <p>Kurset kl 17.00-19.00 le sierraláhkáj æjgádijda hiebadum. Dánna tjalmostuvvá guovtegielakvuohta ja  julevsáme giella.</p>
-    <p>Prográmma dárkkelap tjielgadusáj biejaduvvá maŋenagi Árrana næhttabælláj</p>
-    <p>www.arran.no  ja Árran -julevsáme guovdásj/lulesamisk senter facebookbælláj.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>112</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/seminarra-guovtegielakvuoda-birra.5033204-99352.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tysfjord kommune : Seminárra guovtegielakvuoda birra</p>
+<p type="title">Seminárra guovtegielakvuoda birra</p>
+<p xml:lang="nob">16.03.2012</p>
+<p xml:lang="nob">Av: Ingvild Foshaug Lange</p>
+<p>Duorastagá snjuktjamáno 22.biejve le seminárra Árranin.</p>
+<p>Lågådalle le pedagoga ja pedagogihka professor, Kamil Øzerk. Seminárra le guovte oassáj; sidjij gudi gielaj barggi, ja æjgádijda. 12.30-16.30: Tiebmán kursan åhpadiddjijda/ åvddåskåvllååhpadiddjijda/viehkkeåhpadiddjijda: -Mánáj giellaoahppam -Guovtegielakvuoda åvddånahttem -Oahppamvuoge báhkobåndudagáv, báhkodádjadusáv ja låhkåmtjiehpudagáv åvddånahtátjit</p>
+<p xml:lang="nob">17.00-19.00:</p>
+<p>Tiebmán kursan æjgádijda: -Mánáj giellaåvddånahttem -Guovtegielakvuoda åvddånahttem -Gåktu æjgáda máhtti viehkedit mánáj guovtegielakvuoda åvddånáhttemijn.</p>
+<p>Kurssa kl 12.30-16.30 le rabás GÁJKAJDA. Ja le dábálasj oahppama, åvddånahttema ja oahppamvuogij birra ma gulluji giellabargguj.</p>
+<p>Kurset kl 17.00-19.00 le sierraláhkáj æjgádijda hiebadum. Dánna tjalmostuvvá guovtegielakvuohta ja  julevsáme giella.</p>
+<p>Prográmma dárkkelap tjielgadusáj biejaduvvá maŋenagi Árrana næhttabælláj</p>
+<p>www.arran.no  ja Árran -julevsáme guovdásj/lulesamisk senter facebookbælláj.</p>
+</body></document>

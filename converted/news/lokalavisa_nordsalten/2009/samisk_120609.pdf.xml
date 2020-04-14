@@ -1,41 +1,11 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Julevsáme nuora:- Dárbahip ienep diedojt</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Maria" lastname="Mikkelsen" sex="f" born="1987" nationality="nor"/>
-    </author>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>145</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_120609.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta/Gåvå: Maria Mikkelsen</p>
-    <p xml:lang="nob">.</p>
-    <p>Bargos åhpaj</p>
-    <p>duolla dagu stipendajn  siján gænna lruhtavánesvuohta e nagá skåvlåjttjadádit.</p>
-    <p>Ådåájggásasj oahppamvuohkeGuovtegielakvuohta ja giellasujtodibmeaj seminárran tjalmostuváj. Aktalågådallijs lij gæla Brian OhEadhraSkottlándas, gut giehtoj ietjálágásjgiellaoahppavuoge birra majna liSkottlándan ja Walesan vuorbástuvvamDát vuohke gåhtjoduvvá Ulpan-vuohke,ja álgaduváj Israelan 50-lågon, gåoajválattja danna sihtin ulmutjijdaoahppat hebrea gielav nav ruvva gåmáhttelis. -Ulpan-vuohke ij grammatihkajt berusta.</p>
-    <p>Kursan li dåssju njálmálasj hárjjidallamaja ståhkusa, ságastallama ja vehisijddabargos. Tjadáduvvá gålmmivahkkuj, 210 bále, subtsas OhEardra.</p>
-    <p>målssudibme bargos åhpadussaj galggáálkkep sjaddat, javllá Johansen.Sån ájggu vuorkkit oajvvadusájt ma</p>
-    <p>seminárran åvddåjbåhtin, ja joarkketaktijvuodav julevsámenuoraj mij guosskámakkir dåjma bierritjadáduvvat.- Ájggop aj gæhttjalitdáhtábásav álgadit gájkadiedoj ma guosski sámenuorajt, dagu dalstipenda-, barggo-,åhpadus- ja barggo-máhttelisvuoda hárráj,</p>
-    <p>Dudálasj fylkkamánneFylkkamánne l oadtjumåvdåsvásstádusáv julevsáme åhpadusáåvdås Vuonan, ja seminárra lij oasse danbargos. Kevin Johansen fylkkamánnenlej dudálasj.- Muv mielas le læhkám viehka buorreseminárra, nuoraj ájádusá ja berustibmele alvadahtte, javllá Johansen.- Lip oadtjum moadda oajvvadusá majtmij oajválattja máhttep dahkat váj sáme</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Julevsáme nuora:- Dárbahip ienep diedojt</title><genre code="news"/><author><person firstname="Maria" lastname="Mikkelsen" sex="f" born="1987" nationality="nor"/></author><year>2009</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>145</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_120609.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta/Gåvå: Maria Mikkelsen</p>
+<p xml:lang="nob">.</p>
+<p>Bargos åhpaj</p>
+<p>duolla dagu stipendajn  siján gænna lruhtavánesvuohta e nagá skåvlåjttjadádit.</p>
+<p>Ådåájggásasj oahppamvuohkeGuovtegielakvuohta ja giellasujtodibmeaj seminárran tjalmostuváj. Aktalågådallijs lij gæla Brian OhEadhraSkottlándas, gut giehtoj ietjálágásjgiellaoahppavuoge birra majna liSkottlándan ja Walesan vuorbástuvvamDát vuohke gåhtjoduvvá Ulpan-vuohke,ja álgaduváj Israelan 50-lågon, gåoajválattja danna sihtin ulmutjijdaoahppat hebrea gielav nav ruvva gåmáhttelis. -Ulpan-vuohke ij grammatihkajt berusta.</p>
+<p>Kursan li dåssju njálmálasj hárjjidallamaja ståhkusa, ságastallama ja vehisijddabargos. Tjadáduvvá gålmmivahkkuj, 210 bále, subtsas OhEardra.</p>
+<p>målssudibme bargos åhpadussaj galggáálkkep sjaddat, javllá Johansen.Sån ájggu vuorkkit oajvvadusájt ma</p>
+<p>seminárran åvddåjbåhtin, ja joarkketaktijvuodav julevsámenuoraj mij guosskámakkir dåjma bierritjadáduvvat.- Ájggop aj gæhttjalitdáhtábásav álgadit gájkadiedoj ma guosski sámenuorajt, dagu dalstipenda-, barggo-,åhpadus- ja barggo-máhttelisvuoda hárráj,</p>
+<p>Dudálasj fylkkamánneFylkkamánne l oadtjumåvdåsvásstádusáv julevsáme åhpadusáåvdås Vuonan, ja seminárra lij oasse danbargos. Kevin Johansen fylkkamánnenlej dudálasj.- Muv mielas le læhkám viehka buorreseminárra, nuoraj ájádusá ja berustibmele alvadahtte, javllá Johansen.- Lip oadtjum moadda oajvvadusá majtmij oajválattja máhttep dahkat váj sáme</p>
+</body></document>

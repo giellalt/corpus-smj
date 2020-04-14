@@ -1,64 +1,24 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>473</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Rijkajgasskasasj-barggo/Alta-2013/Arktalasj-guovllo-garvet-vaeraltkonferanssaj-alggoalmmugij-harraj</origFileName>
-    <parallel_text xml:lang="nob" location="arktiske-region-forbereder-seg-mot-verdenskonferansen-om-urfolk.html"/>
-    <parallel_text xml:lang="sma" location="arktiske-dajve-veartenekonferansese-aalkoealmetji-bijre-ryoejrede.html"/>
-    <parallel_text xml:lang="sme" location="arktiske-region-forbereder-seg-mot-verdenskonferansen-om-urfolk.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Arktalasj guovllo gárvet væráltkonferánssaj álggoálmmugij hárráj / Áltá 2013 / Rijkajgasskasasj barggo / Sámedigge - Sametinget</p>
-    <p type="title">Arktalasj guovllo gárvet væráltkonferánssaj álggoálmmugij hárráj</p>
-    <p xml:lang="sme">18. golke 2012</p>
-    <p>Inuihtaj ja sámij bajemus oajve oassálassti boahtte vahko arktalasj guovlo gárvedimtjåhkanimen ANa væráltkonferánssaj álggoálmmugij hárráj jagen 2014. Tjåhkanimen tjáleduvvá loahppatjála gånnå inuihtaj ja sámij vuorodime væráltkonferánssaj tjoahkkiduvvi.</p>
-    <p>
-      <em type="bold">ANa væráltkonferánssa álggoálmmugij hárráj </em>
-    </p>
-    <p>Duogásj arktalasj guovlo tjåhkanibmáj le ANa tjadádibme væráltkonferánsas álggoálmmugij hárráj ragátmáno 22. ja 23. biejve 2014 New Yorkan.</p>
-    <p>Dat rájes gå ANa generaltjoaggulvisá resolusjåvnnå jagen 2010 mierredij ásadit alep dáse tjåhkanimev, namá vuolen <span type="quote">”væráltkonferánssa álggoálmmugij hárráj”</span>, de le læhkám juorrulibme makkir láhkáj álggoálmmugij oassálasstem sihkarasteduvvá væráltkonferánsa gárvedimen, madi konferánssa vihpá ja gåtsedibmen væráltkonferánsa båhtusijs.</p>
-    <p>Álggoálmmuga li dan diehti rijkajgasskasasj dásen ásadum aktisasjbargov sihkarastátjit álggoálmmugij oassálasstemav buorre láhkáj. Dát aktisasjbarggo boahtá dan rabás ja bælládis ájádustjåhkanimes Københavnan jur ANa væráltkonferánsas álggoálmmugij hárráj, gånnå København-resolusjåvnnå mierreduváj.</p>
-    <p>København-resolusjåvnnå mierredij ásadit globála aktidamjuohkusav. Globála aktidamjuogos tjadádij vuostasj tjåhkanimev New Yorkan snjuktjamánon dá jage.</p>
-    <p>
-      <em type="bold">Arktalasj guovllo vuostatjin </em>
-    </p>
-    <p>Akta álggoálmmugij strategijajs le tjadádit guovlulasj gárvedimtjåhkanimijt væráltkonferánssaj. Álggoálmmuga ålles væráldin gárvedij væráltkonferánssaj, ja divna 7 guovlo ájggu tjadádit gárvedimtjåhkanimijt åvddåla vuoratjismáno 2013.</p>
-    <p>Arktalasj guovllo galggá gålgådismáno 23. ja 24 biejve tjadádit guovlulasj álggoálmmukgárvedimtjåhkanimev Nuukan Grønlandan. Arktalasj guovllo le vuostasj, dajs 7 guovlojs, tjadádittjat gárvedimtjåhkanimev væráltkonferánssaj jagen 2014.</p>
-    <p>
-      <em type="bold">Arktalasj álggoálmmukoajve gåbdet oassálassti Nuukan </em>
-    </p>
-    <p>Tjåhkanimen Nuukan oassálassti ienemusoasse inuihtaj ja sámij åjvijs. Duola dagu galggá lánndastivrraoajvve Grønlanda iesjstivrrimin, Kuupik Kleist, arktalasj gárvedimtjåhkanimev rahpat. Grønlanda iesjstivrrima lándadikkeoajvve, Josef Motzfeldt, Sermersooqa suohkana oajvve, Asii Chemnitz Naruo, ja Grønlanda presidænnta Inuit Circumpolar Councilan (ICC) Carl Christian Olsen ja Alaska presidænnta ICCan James Stotts galggi oassálasstet inuihtaj bieles.</p>
-    <p>Sámij bieles oassálassti Sámij parlamentáralasj rádes (SPR), presidentajn Egil Olli, SPR ájrrasijn Aili Keskitalo ja SPRa ájrrasijn prosessan væráltkonferánsa vuossti, John B. Henriksen. Sámeráde le aj gåbdet åvdåstuvvam ja duola dagu sadjásasj presidænnta Olav Mathis Eira oassálasstá.</p>
-    <p>
-      <em type="bold">Arktalasj tjielgadus væráltkonferánsa birra álggoálmmugij hárráj jagen 2014 </em>
-    </p>
-    <p>Gávnnu oajvvadus arktalasj tjielggidussaj væráltkonferánsa birra álggoálmmugij hárráj. Dát oajvvadus tjáleduváj åvdåstiddjij inuihtaj ja sámij bieles. Tjåhkanibme rahpá dágástallamijda Arktalasj tjielggidusá sisano oajvvadusá birra.</p>
-    <p>Ietjá ássje prográmman Nuuk-tjåhkanimen le duogásjdiedo ANa væráltkonferánssaj álggoálmmugij hárráj 2014, diedo globála aktidimjuohkusa bargo birra, åvddånbuktem Ánartjielgadusás væráltkonferánssaj álggoálmmugij hárráj 2014 ja diedo rijkajgasskasasj gárvedime álggoálmmukkonferánsa birra Altan 2013. [link til inarierklæringen på alle språk]</p>
-    <p>
-      <em type="bold">Boahtte tjåhkanimbájkke sjaddá Alta 2013 </em>
-    </p>
-    <p>Sámedikkepresidænnta Egil Olli gåhtjoj dijmásj ANa stuoves ságastallamsajen álggoálmmukássjij hárráj rijkajgasskasasj gárvedahttemij álggoálmmukkonferánssaj Altan. Dát gåhttjom gåbdet doarjodaláduváj álggoálmmukprosessajs ANan, stuoves ságastallamsajijs ja ássjediehtteprosessan álggoálmmukriektáj hárráj, ja aj álggoálmmugijs væráldav birra. </p>
-    <p>Vuona sámedigge le gárvedimgoahtám duostotjit álggoálmmukájrrasijt Altaj gávdan biehtsemáno 8. biejves gitta 13. bæjvváj 2013.</p>
-    <p>Båhtusa arktalasj guovlo gárvedimtjåhkanimes Nuukan gålgådismáno 23. ja 24. biejve 2012 le duodden ájnas oasse gárvedahttemis væráltkonferánssaj jagen 2014, aj riek ájnas guovdásasj viehkke gárvedahttemij álggoálmmukkonferánssaj Altan jagen 2013.</p>
-    <p>Arktalasj guovllo viertti aj plánit oassálasstemav rijkajgasskasasj gárvedahttem álggoálmmukkonferánsav Altan biehtsemánon 2013. Boahtte tjåhkanamsadje arktalasj álggoálmmukåjvijda sjaddá jur Altan gávdan biehtsemáno 8. biejve gitta 13. bæjvváj 2013.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>473</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Rijkajgasskasasj-barggo/Alta-2013/Arktalasj-guovllo-garvet-vaeraltkonferanssaj-alggoalmmugij-harraj</origFileName><parallel_text xml:lang="nob" location="arktiske-region-forbereder-seg-mot-verdenskonferansen-om-urfolk.html"/><parallel_text xml:lang="sma" location="arktiske-dajve-veartenekonferansese-aalkoealmetji-bijre-ryoejrede.html"/><parallel_text xml:lang="sme" location="arktiske-region-forbereder-seg-mot-verdenskonferansen-om-urfolk.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Arktalasj guovllo gárvet væráltkonferánssaj álggoálmmugij hárráj / Áltá 2013 / Rijkajgasskasasj barggo / Sámedigge - Sametinget</p>
+<p type="title">Arktalasj guovllo gárvet væráltkonferánssaj álggoálmmugij hárráj</p>
+<p xml:lang="sme">18. golke 2012</p>
+<p>Inuihtaj ja sámij bajemus oajve oassálassti boahtte vahko arktalasj guovlo gárvedimtjåhkanimen ANa væráltkonferánssaj álggoálmmugij hárráj jagen 2014. Tjåhkanimen tjáleduvvá loahppatjála gånnå inuihtaj ja sámij vuorodime væráltkonferánssaj tjoahkkiduvvi.</p>
+<p><em type="bold">ANa væráltkonferánssa álggoálmmugij hárráj </em></p>
+<p>Duogásj arktalasj guovlo tjåhkanibmáj le ANa tjadádibme væráltkonferánsas álggoálmmugij hárráj ragátmáno 22. ja 23. biejve 2014 New Yorkan.</p>
+<p>Dat rájes gå ANa generaltjoaggulvisá resolusjåvnnå jagen 2010 mierredij ásadit alep dáse tjåhkanimev, namá vuolen <span type="quote">”væráltkonferánssa álggoálmmugij hárráj”</span>, de le læhkám juorrulibme makkir láhkáj álggoálmmugij oassálasstem sihkarasteduvvá væráltkonferánsa gárvedimen, madi konferánssa vihpá ja gåtsedibmen væráltkonferánsa båhtusijs.</p>
+<p>Álggoálmmuga li dan diehti rijkajgasskasasj dásen ásadum aktisasjbargov sihkarastátjit álggoálmmugij oassálasstemav buorre láhkáj. Dát aktisasjbarggo boahtá dan rabás ja bælládis ájádustjåhkanimes Københavnan jur ANa væráltkonferánsas álggoálmmugij hárráj, gånnå København-resolusjåvnnå mierreduváj.</p>
+<p>København-resolusjåvnnå mierredij ásadit globála aktidamjuohkusav. Globála aktidamjuogos tjadádij vuostasj tjåhkanimev New Yorkan snjuktjamánon dá jage.</p>
+<p><em type="bold">Arktalasj guovllo vuostatjin </em></p>
+<p>Akta álggoálmmugij strategijajs le tjadádit guovlulasj gárvedimtjåhkanimijt væráltkonferánssaj. Álggoálmmuga ålles væráldin gárvedij væráltkonferánssaj, ja divna 7 guovlo ájggu tjadádit gárvedimtjåhkanimijt åvddåla vuoratjismáno 2013.</p>
+<p>Arktalasj guovllo galggá gålgådismáno 23. ja 24 biejve tjadádit guovlulasj álggoálmmukgárvedimtjåhkanimev Nuukan Grønlandan. Arktalasj guovllo le vuostasj, dajs 7 guovlojs, tjadádittjat gárvedimtjåhkanimev væráltkonferánssaj jagen 2014.</p>
+<p><em type="bold">Arktalasj álggoálmmukoajve gåbdet oassálassti Nuukan </em></p>
+<p>Tjåhkanimen Nuukan oassálassti ienemusoasse inuihtaj ja sámij åjvijs. Duola dagu galggá lánndastivrraoajvve Grønlanda iesjstivrrimin, Kuupik Kleist, arktalasj gárvedimtjåhkanimev rahpat. Grønlanda iesjstivrrima lándadikkeoajvve, Josef Motzfeldt, Sermersooqa suohkana oajvve, Asii Chemnitz Naruo, ja Grønlanda presidænnta Inuit Circumpolar Councilan (ICC) Carl Christian Olsen ja Alaska presidænnta ICCan James Stotts galggi oassálasstet inuihtaj bieles.</p>
+<p>Sámij bieles oassálassti Sámij parlamentáralasj rádes (SPR), presidentajn Egil Olli, SPR ájrrasijn Aili Keskitalo ja SPRa ájrrasijn prosessan væráltkonferánsa vuossti, John B. Henriksen. Sámeráde le aj gåbdet åvdåstuvvam ja duola dagu sadjásasj presidænnta Olav Mathis Eira oassálasstá.</p>
+<p><em type="bold">Arktalasj tjielgadus væráltkonferánsa birra álggoálmmugij hárráj jagen 2014 </em></p>
+<p>Gávnnu oajvvadus arktalasj tjielggidussaj væráltkonferánsa birra álggoálmmugij hárráj. Dát oajvvadus tjáleduváj åvdåstiddjij inuihtaj ja sámij bieles. Tjåhkanibme rahpá dágástallamijda Arktalasj tjielggidusá sisano oajvvadusá birra.</p>
+<p>Ietjá ássje prográmman Nuuk-tjåhkanimen le duogásjdiedo ANa væráltkonferánssaj álggoálmmugij hárráj 2014, diedo globála aktidimjuohkusa bargo birra, åvddånbuktem Ánartjielgadusás væráltkonferánssaj álggoálmmugij hárráj 2014 ja diedo rijkajgasskasasj gárvedime álggoálmmukkonferánsa birra Altan 2013. [link til inarierklæringen på alle språk]</p>
+<p><em type="bold">Boahtte tjåhkanimbájkke sjaddá Alta 2013 </em></p>
+<p>Sámedikkepresidænnta Egil Olli gåhtjoj dijmásj ANa stuoves ságastallamsajen álggoálmmukássjij hárráj rijkajgasskasasj gárvedahttemij álggoálmmukkonferánssaj Altan. Dát gåhttjom gåbdet doarjodaláduváj álggoálmmukprosessajs ANan, stuoves ságastallamsajijs ja ássjediehtteprosessan álggoálmmukriektáj hárráj, ja aj álggoálmmugijs væráldav birra. </p>
+<p>Vuona sámedigge le gárvedimgoahtám duostotjit álggoálmmukájrrasijt Altaj gávdan biehtsemáno 8. biejves gitta 13. bæjvváj 2013.</p>
+<p>Båhtusa arktalasj guovlo gárvedimtjåhkanimes Nuukan gålgådismáno 23. ja 24. biejve 2012 le duodden ájnas oasse gárvedahttemis væráltkonferánssaj jagen 2014, aj riek ájnas guovdásasj viehkke gárvedahttemij álggoálmmukkonferánssaj Altan jagen 2013.</p>
+<p>Arktalasj guovllo viertti aj plánit oassálasstemav rijkajgasskasasj gárvedahttem álggoálmmukkonferánsav Altan biehtsemánon 2013. Boahtte tjåhkanamsadje arktalasj álggoálmmukåjvijda sjaddá jur Altan gávdan biehtsemáno 8. biejve gitta 13. bæjvváj 2013.</p>
+</body></document>

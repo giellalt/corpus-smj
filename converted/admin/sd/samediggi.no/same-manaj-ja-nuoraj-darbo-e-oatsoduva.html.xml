@@ -1,47 +1,11 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>253</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Same-manaj-ja-nuoraj-darbo-e-oatsoduva</origFileName>
-    <parallel_text xml:lang="nob" location="samiske-barn-og-unges-behov-blir-ikke-ivaretatt.html"/>
-    <parallel_text xml:lang="sma" location="saemien-maanaj-jih-noeri-daerpiesvoeth-eah-gorresovvh.html"/>
-    <parallel_text xml:lang="sme" location="sami-manaid-ja-nuoraid-darbbut-eai-fuolahuvvo.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sáme mánáj ja nuoraj dárbo e oatsoduvá / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
-    <p type="title">Sáme mánáj ja nuoraj dárbo e oatsoduvá</p>
-    <p xml:lang="nob">02. skïerede 2013</p>
-    <p>
-      <em type="bold">Sámediggeráde ájras Vibeke Larsen lájttá Ráddidusáv gå ij hálijda ságastit dåjmajs ma galggi duostudit vaháguhttemijt ja seksuálalasj illastimijt sáme mánáj ja nuoraj gáktuj. – Ájnas la oatsodit sáme mánáj ja nuoraj rievtesvuodajt ma gulluji giellaj ja kultuvrraj dakkir strategijaj hárráj, javlla sámediggeráde ájras Vibeke Larsen. Dakkir oatsodime dagá soajtti sáme máná ja nuora vahágahteduvvat. </em>
-    </p>
-    <p>Sámediggeráde mårås vaj sáme máná ja nuora gudi vásedi vaháguhttemijt ja seksuálalasj illastimijt galggi oadtjot buoremus viehkev gå máhttelis. Sámedigge le dan diehti guhkes ájgev barggam nannidahttet sámegielav ja kultuvrramáhttudagájt Mánnáviesojn (Barnehus), maj vásstádus le åtsådit mánájt ja nuorajt gudi li vásedam seksuálalasj illastimijt ja vaháguhttemijt. Mij lip aj álgadam aktisasjbargov Justisdepartementajn lasedittjat máhttudagájt vaháguhttemijs lahka gasskavuodajn sáme sebrudagán.</p>
-    <p>
-      <em type="bold">-Dan diehti le oalle lájtedahtte gå Sámedikke sávadus Ráddidusajn konsulterit dagátjit strategijav seksuálalasj illastimij ja vaháguhttemij birra sáme mánáj ja nuoraj vuossti hilgoduváj. Sivvan hilgodibmáj lij dát ássjes ij lim vuojga berustibme sámeálmmugin, javllá Sámediggeráde ájras Vibeke Larsen. </em>
-    </p>
-    <p>
-      <em type="bold">-Sámedikke bargguj sámemánáj rievtesvuodaj le dat máhttselávkke. Mij måråstip galggá liehket ij-gierddisvuohta vaháguhttemijda ja seksuálalasj illastimijda sámemánáj vuossti, ja mij sihtap liehket siegen dahkamin guovdásj strategijajt dán ássjen javllá Larsen. </em>
-    </p>
-    <p xml:lang="nob">Barne-, likestillings- og inkluderingsdepartementet, Helse- og omsorgsdepartementet, Justis- og beredskapsdepartementet ja Kunnskapsdepartementet ma li strategijav dahkam.</p>
-    <p>Sámediggeráde ájras Vibeke Larsen la tjállám girjev minisstarij Inga Marthe Thorkildsenij tjalmostahtátjit sámemánáj ja nuoraj dárbojt strategijan.</p>
-    <p>Ienep diedo: Sámediggeráde ájras Vibeke Larsen, 941 30 116</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>253</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Same-manaj-ja-nuoraj-darbo-e-oatsoduva</origFileName><parallel_text xml:lang="nob" location="samiske-barn-og-unges-behov-blir-ikke-ivaretatt.html"/><parallel_text xml:lang="sma" location="saemien-maanaj-jih-noeri-daerpiesvoeth-eah-gorresovvh.html"/><parallel_text xml:lang="sme" location="sami-manaid-ja-nuoraid-darbbut-eai-fuolahuvvo.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sáme mánáj ja nuoraj dárbo e oatsoduvá / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
+<p type="title">Sáme mánáj ja nuoraj dárbo e oatsoduvá</p>
+<p xml:lang="nob">02. skïerede 2013</p>
+<p><em type="bold">Sámediggeráde ájras Vibeke Larsen lájttá Ráddidusáv gå ij hálijda ságastit dåjmajs ma galggi duostudit vaháguhttemijt ja seksuálalasj illastimijt sáme mánáj ja nuoraj gáktuj. – Ájnas la oatsodit sáme mánáj ja nuoraj rievtesvuodajt ma gulluji giellaj ja kultuvrraj dakkir strategijaj hárráj, javlla sámediggeráde ájras Vibeke Larsen. Dakkir oatsodime dagá soajtti sáme máná ja nuora vahágahteduvvat. </em></p>
+<p>Sámediggeráde mårås vaj sáme máná ja nuora gudi vásedi vaháguhttemijt ja seksuálalasj illastimijt galggi oadtjot buoremus viehkev gå máhttelis. Sámedigge le dan diehti guhkes ájgev barggam nannidahttet sámegielav ja kultuvrramáhttudagájt Mánnáviesojn (Barnehus), maj vásstádus le åtsådit mánájt ja nuorajt gudi li vásedam seksuálalasj illastimijt ja vaháguhttemijt. Mij lip aj álgadam aktisasjbargov Justisdepartementajn lasedittjat máhttudagájt vaháguhttemijs lahka gasskavuodajn sáme sebrudagán.</p>
+<p><em type="bold">-Dan diehti le oalle lájtedahtte gå Sámedikke sávadus Ráddidusajn konsulterit dagátjit strategijav seksuálalasj illastimij ja vaháguhttemij birra sáme mánáj ja nuoraj vuossti hilgoduváj. Sivvan hilgodibmáj lij dát ássjes ij lim vuojga berustibme sámeálmmugin, javllá Sámediggeráde ájras Vibeke Larsen. </em></p>
+<p><em type="bold">-Sámedikke bargguj sámemánáj rievtesvuodaj le dat máhttselávkke. Mij måråstip galggá liehket ij-gierddisvuohta vaháguhttemijda ja seksuálalasj illastimijda sámemánáj vuossti, ja mij sihtap liehket siegen dahkamin guovdásj strategijajt dán ássjen javllá Larsen. </em></p>
+<p xml:lang="nob">Barne-, likestillings- og inkluderingsdepartementet, Helse- og omsorgsdepartementet, Justis- og beredskapsdepartementet ja Kunnskapsdepartementet ma li strategijav dahkam.</p>
+<p>Sámediggeráde ájras Vibeke Larsen la tjállám girjev minisstarij Inga Marthe Thorkildsenij tjalmostahtátjit sámemánáj ja nuoraj dárbojt strategijan.</p>
+<p>Ienep diedo: Sámediggeráde ájras Vibeke Larsen, 941 30 116</p>
+</body></document>

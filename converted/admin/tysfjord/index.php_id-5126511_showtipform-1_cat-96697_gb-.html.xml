@@ -1,46 +1,19 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>275</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/index.php?id=5126511&amp;showtipform=1&amp;cat=96697&amp;gb=</origFileName>
-    <parallel_text xml:lang="nob" location="helleristninger.96697.no.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Tysfjord kommune : Báktesárggoma Leiknássjen - Tips en venn</p>
-    <p type="title">Báktesárggoma Leiknássjen</p>
-    <p xml:lang="nob">13.11.2012</p>
-    <p>Judosbákte Leiknássjen le akta Nuortta-Vuona stuorámus ja tjáppemus Báktesárggoma. Gierggeájgeulmutja 9000 jage dát åvddåla gåvåjt birrusijs granihttaj sárggun.</p>
-    <p>Tjálle:</p>
-    <p xml:lang="nob">Unni Skoglund</p>
-    <p>Báktesárggoma le nammadus åvddåhiståvrålasj gåvåjs, tjuoladum jali sajedum giergijda ja várijda. Báktesárggoma le tjærdda báktedájdas. Báktesárggoma Leiknássjen li báktáj sajedum, ja daj 9000 jagij li dajs oabmásamos báktegåvåjs Nuortta-Vuonan. Juhtusa li buoragit sárgodum, ja almma stuorrudagájn. Dat 7,6 mehtera guhka hárjjesváles Leiknássjen vuojneduvvá dajs stuorámus ja ihkap ienemus miela giddis báktegåvåjs gierggeájges. Da mastadum snjuvtja li aj dåbdos motijvva, Báktesárggomijs Divtasvuonan.</p>
-    <p>Báktesárggoma ma li báktáj sárgodum tjuoladum bietsij guorraj li dåbdos ienemus sajijs Vuonan. Dákkir báktesárggoma li nuorap dajs slijppudum báktesárggomijs ma gávnnuji nuortap åsijn Nordlándas. Stuorámus ja dåbddusamos tjuoladum báktesárggoma gávnnuji Altan ja Vingenin ja Ausevikan Sogn ja Fjordanin.</p>
-    <p>Binnáv diehtep manen gåvå dagáduvvin jali majt miejnnijin ulmutjijda gudi dajt dahkin. Moadda teorija li gåvåjda tjanádum. Akta teorijajs gåvåjt nåjdijda ja bivddemmagijaj tjanát – bivdde ájggun fámov ájnas bivdoj badjel oadtjot gå gåvåjt bávtijda sárggun. Ietjá tjielgadus javllá gåvåjn le aktijvuohta jáhkujn, ájádallamij, symbåvllåværáldijn ja rituálaj.</p>
-    <p>Báktesárggoma Divtasvuonan almulattjat gávnaduváj jagen 1915. Bájkke gåhtjoduváj <span type="quote">“Judosbákten”</span> ulmutjijs gudi dan guovlon årrun. Moattelágásj namá máhtti liehket sæmmi vuorrasa dagu gåvå iesj. Judosbákte le Leiknássjen, birrusin 6 km Stuorgiettes. Boadátjit báktesárggomijda vuojá E6’ás birrusin 3 km nuortas Stuorgiettes ja tjuovo vedjav desik Leiknássjáj boadá. Vuojnnalus le vedja milta galbadum.</p>
-    <p>Báktesárggoma Leiknássjen gulluji kultuvrramujtojda ma automáhtalattjat suodjaluvvi kultuvrramujttolága milta. Vuoseda várrogisvuodav ma guosski gåvåjt, vaj suodjaluvvi ja bisoduvvi boahtte buolvajda. Ale gåvåjn nali duolmo ja ale sárgasta báktáj.</p>
-    <p>Jus sidá ienebuv báktesárggomij ja kultuvrramujttosuodjalime birra diehtet gehtja dájt webbielijt:</p>
-    <p xml:lang="nob">·</p>
-    <p>Birássuoddjalimdepartemænnta</p>
-    <p xml:lang="nob">·</p>
-    <p>Kultuvrramujttoláhka</p>
-    <p xml:lang="nob">·</p>
-    <p>Rijkaantikvárra</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>275</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/index.php?id=5126511&amp;showtipform=1&amp;cat=96697&amp;gb=</origFileName><parallel_text xml:lang="nob" location="helleristninger.96697.no.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Tysfjord kommune : Báktesárggoma Leiknássjen - Tips en venn</p>
+<p type="title">Báktesárggoma Leiknássjen</p>
+<p xml:lang="nob">13.11.2012</p>
+<p>Judosbákte Leiknássjen le akta Nuortta-Vuona stuorámus ja tjáppemus Báktesárggoma. Gierggeájgeulmutja 9000 jage dát åvddåla gåvåjt birrusijs granihttaj sárggun.</p>
+<p>Tjálle:</p>
+<p xml:lang="nob">Unni Skoglund</p>
+<p>Báktesárggoma le nammadus åvddåhiståvrålasj gåvåjs, tjuoladum jali sajedum giergijda ja várijda. Báktesárggoma le tjærdda báktedájdas. Báktesárggoma Leiknássjen li báktáj sajedum, ja daj 9000 jagij li dajs oabmásamos báktegåvåjs Nuortta-Vuonan. Juhtusa li buoragit sárgodum, ja almma stuorrudagájn. Dat 7,6 mehtera guhka hárjjesváles Leiknássjen vuojneduvvá dajs stuorámus ja ihkap ienemus miela giddis báktegåvåjs gierggeájges. Da mastadum snjuvtja li aj dåbdos motijvva, Báktesárggomijs Divtasvuonan.</p>
+<p>Báktesárggoma ma li báktáj sárgodum tjuoladum bietsij guorraj li dåbdos ienemus sajijs Vuonan. Dákkir báktesárggoma li nuorap dajs slijppudum báktesárggomijs ma gávnnuji nuortap åsijn Nordlándas. Stuorámus ja dåbddusamos tjuoladum báktesárggoma gávnnuji Altan ja Vingenin ja Ausevikan Sogn ja Fjordanin.</p>
+<p>Binnáv diehtep manen gåvå dagáduvvin jali majt miejnnijin ulmutjijda gudi dajt dahkin. Moadda teorija li gåvåjda tjanádum. Akta teorijajs gåvåjt nåjdijda ja bivddemmagijaj tjanát – bivdde ájggun fámov ájnas bivdoj badjel oadtjot gå gåvåjt bávtijda sárggun. Ietjá tjielgadus javllá gåvåjn le aktijvuohta jáhkujn, ájádallamij, symbåvllåværáldijn ja rituálaj.</p>
+<p>Báktesárggoma Divtasvuonan almulattjat gávnaduváj jagen 1915. Bájkke gåhtjoduváj <span type="quote">“Judosbákten”</span> ulmutjijs gudi dan guovlon årrun. Moattelágásj namá máhtti liehket sæmmi vuorrasa dagu gåvå iesj. Judosbákte le Leiknássjen, birrusin 6 km Stuorgiettes. Boadátjit báktesárggomijda vuojá E6’ás birrusin 3 km nuortas Stuorgiettes ja tjuovo vedjav desik Leiknássjáj boadá. Vuojnnalus le vedja milta galbadum.</p>
+<p>Báktesárggoma Leiknássjen gulluji kultuvrramujtojda ma automáhtalattjat suodjaluvvi kultuvrramujttolága milta. Vuoseda várrogisvuodav ma guosski gåvåjt, vaj suodjaluvvi ja bisoduvvi boahtte buolvajda. Ale gåvåjn nali duolmo ja ale sárgasta báktáj.</p>
+<p>Jus sidá ienebuv báktesárggomij ja kultuvrramujttosuodjalime birra diehtet gehtja dájt webbielijt:</p>
+<p xml:lang="nob">·</p>
+<p>Birássuoddjalimdepartemænnta</p>
+<p xml:lang="nob">·</p>
+<p>Kultuvrramujttoláhka</p>
+<p xml:lang="nob">·</p>
+<p>Rijkaantikvárra</p>
+</body></document>

@@ -1,55 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>296</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Samedigge-sihta-arvvalusajt-same-kulturaeladusdaamadiddjijs</origFileName>
-    <parallel_text xml:lang="nob" location="sametinget-oensker-innspill-fra-samiske-kulturnaeringsaktoerer.html"/>
-    <parallel_text xml:lang="sma" location="saemiedigkie-raeriestimmieh-saejhta-saemien-kultuvrejielemeaktoeoerijste.html"/>
-    <parallel_text xml:lang="sme" location="samediggi-haliida-oazzut-arvalusaid-sami-kulturealahusoassalastiin.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sámedigge sihtá árvvalusájt sáme kulturæládusdåmadiddjijs / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
-    <p type="title">Sámedigge sihtá árvvalusájt sáme kulturæládusdåmadiddjijs</p>
-    <p>22. njoktje 2013</p>
-    <p>Kulturæládusá li akta lánda geldulamos ja jåhtelamos sjadde æládusájs. Sáme sebrudagán le dát vuoras æládus juo, ja danna le buorre potensiálla. Sámedigge le dálla barggamin muhtem strategijajn gåktu sáme kulturæládusáj barggosajijt lasedit. Dán bargguj sihtá rádeájras Marianne Balto kulturæládusdåmadiddjijt gåhttjot árvvalusájt mij dán strategija sisadno galggá liehket.</p>
-    <p>Dán jage barggá Sámedigge sáme kulturæládusáj doajmmaplánajn. Aktan sáme kulturæládusdåmadiddjij le ulmme dåjmajt gávnnat ma lulujin sáme kulturdåmadiddjij árkkabiejvev giehpedit ja æládusáv nannit gåggu dat dárbahuvvá.</p>
-    <p>Sámedigge barggá muhtem strategijajn man ulmme le sáme kulturæládusáj barggosajijt lasedit. Dán bargo aktijvuodan le Sámediggáj ájnas bessat gullat sijájs gudi bæjválattjat æládusán doajmmi. Sihtap duola dagu diehtet gåktu máhttep oadtjot ájn ienebu gudi ietjasa dájdda- ja kulturjavllamusájs viessu ja majt Sámedigge luluj dahkat váj dán æládusán luluj buorep dille.</p>
-    <p>
-      <em type="bold">-Sihtap sáme kulturæládusájt almma láhkáj vuorodit váj ájn vil ienebu boahtteájggáj bessi sáme dájdda- ja kulturjavllamusájs viessot. Jus dájna galggap vuorbástuvvat de hæhttup buoragit sáme kulturæládusdåmadiddjij guládallat javllá rádeájras Marianne Balto. </em>
-    </p>
-    <p>
-      <em type="bold">Kulturæládusáj birra </em>
-    </p>
-    <p>Sámedigge æládusáv návti defineri: Priváhta viddnudagá ma kultuvralasj buvdajt hábbmiji ja vuobddi gálvoj jali dievnastusáj hámen. Dán buojkuldahkaj tjárggi smáv ájnegis ulmutja viddnudagájs gitta stuorra viddnudagájda. Kulturæládusbargge viessu buvdajs vuobddemis muhtem márnánij ja sihti dåjmadit- jali juo dåjmadi mávsánis æládussan. Oasse sisbåhtusis soajttá aj almulasj doarjjagis jali ietjá dårjas boahtet. Mannoæládus aneduvvá sierra æládussan, gånnå sáme kulturoase li guovdásj oasse viddnudagáj dåjmas.</p>
-    <p>Sámedikke vuorodibme kulturæládusájs boahtá duodden juo vijdes vuorodibmáj sáme dájdas ja kultuvras. Ielle ja nanos sáme dájdda- ja kulturiellem le viehka vuodulasj ækton, jus nav ij le, de ælla miján ga kulturæládusá.</p>
-    <p>
-      <em type="bold">Ájggemierre goassa hæhttu árvvalusájt buktet le: 18.04.2013 </em>
-    </p>
-    <p xml:lang="nob">http://www.sametinget.no/Naeringer/Kulturnaering/Innspill-til-sametingets-kulturnaeringsstrategi</p>
-    <p>
-      <em type="bold">Válde aktijvuodav: </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="bold">Prosjæktaoajvve Ragnhild Dalheim Eriksen, + 47 784 74 088, ragnhild.dalheim.eriksen@samediggi.no </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>296</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Samedigge-sihta-arvvalusajt-same-kulturaeladusdaamadiddjijs</origFileName><parallel_text xml:lang="nob" location="sametinget-oensker-innspill-fra-samiske-kulturnaeringsaktoerer.html"/><parallel_text xml:lang="sma" location="saemiedigkie-raeriestimmieh-saejhta-saemien-kultuvrejielemeaktoeoerijste.html"/><parallel_text xml:lang="sme" location="samediggi-haliida-oazzut-arvalusaid-sami-kulturealahusoassalastiin.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sámedigge sihtá árvvalusájt sáme kulturæládusdåmadiddjijs / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
+<p type="title">Sámedigge sihtá árvvalusájt sáme kulturæládusdåmadiddjijs</p>
+<p>22. njoktje 2013</p>
+<p>Kulturæládusá li akta lánda geldulamos ja jåhtelamos sjadde æládusájs. Sáme sebrudagán le dát vuoras æládus juo, ja danna le buorre potensiálla. Sámedigge le dálla barggamin muhtem strategijajn gåktu sáme kulturæládusáj barggosajijt lasedit. Dán bargguj sihtá rádeájras Marianne Balto kulturæládusdåmadiddjijt gåhttjot árvvalusájt mij dán strategija sisadno galggá liehket.</p>
+<p>Dán jage barggá Sámedigge sáme kulturæládusáj doajmmaplánajn. Aktan sáme kulturæládusdåmadiddjij le ulmme dåjmajt gávnnat ma lulujin sáme kulturdåmadiddjij árkkabiejvev giehpedit ja æládusáv nannit gåggu dat dárbahuvvá.</p>
+<p>Sámedigge barggá muhtem strategijajn man ulmme le sáme kulturæládusáj barggosajijt lasedit. Dán bargo aktijvuodan le Sámediggáj ájnas bessat gullat sijájs gudi bæjválattjat æládusán doajmmi. Sihtap duola dagu diehtet gåktu máhttep oadtjot ájn ienebu gudi ietjasa dájdda- ja kulturjavllamusájs viessu ja majt Sámedigge luluj dahkat váj dán æládusán luluj buorep dille.</p>
+<p><em type="bold">-Sihtap sáme kulturæládusájt almma láhkáj vuorodit váj ájn vil ienebu boahtteájggáj bessi sáme dájdda- ja kulturjavllamusájs viessot. Jus dájna galggap vuorbástuvvat de hæhttup buoragit sáme kulturæládusdåmadiddjij guládallat javllá rádeájras Marianne Balto. </em></p>
+<p><em type="bold">Kulturæládusáj birra </em></p>
+<p>Sámedigge æládusáv návti defineri: Priváhta viddnudagá ma kultuvralasj buvdajt hábbmiji ja vuobddi gálvoj jali dievnastusáj hámen. Dán buojkuldahkaj tjárggi smáv ájnegis ulmutja viddnudagájs gitta stuorra viddnudagájda. Kulturæládusbargge viessu buvdajs vuobddemis muhtem márnánij ja sihti dåjmadit- jali juo dåjmadi mávsánis æládussan. Oasse sisbåhtusis soajttá aj almulasj doarjjagis jali ietjá dårjas boahtet. Mannoæládus aneduvvá sierra æládussan, gånnå sáme kulturoase li guovdásj oasse viddnudagáj dåjmas.</p>
+<p>Sámedikke vuorodibme kulturæládusájs boahtá duodden juo vijdes vuorodibmáj sáme dájdas ja kultuvras. Ielle ja nanos sáme dájdda- ja kulturiellem le viehka vuodulasj ækton, jus nav ij le, de ælla miján ga kulturæládusá.</p>
+<p><em type="bold">Ájggemierre goassa hæhttu árvvalusájt buktet le: 18.04.2013 </em></p>
+<p xml:lang="nob">http://www.sametinget.no/Naeringer/Kulturnaering/Innspill-til-sametingets-kulturnaeringsstrategi</p>
+<p><em type="bold">Válde aktijvuodav: </em></p>
+<p xml:lang="sme"><em type="bold">Prosjæktaoajvve Ragnhild Dalheim Eriksen, + 47 784 74 088, ragnhild.dalheim.eriksen@samediggi.no </em></p>
+</body></document>

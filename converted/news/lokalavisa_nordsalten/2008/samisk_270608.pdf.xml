@@ -1,47 +1,11 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Julevsámegiella ja nuorttasámegiella giehtalakkoj</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2008</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>382</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_270608.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty SkapalenJårggålibme: Idar Kintel</p>
-    <p>dajda gudi dajt dárbahi. Duodden barggujsuohkanin  fállá  åvddånbuktet  sámekultuvrav  ja  moattebelakvuodav.  Juoguguossijt duosstu juojggamijn ja subttsasijjali  rujtan  fierru  ja  guossot  bidosijn  árbbedábálasj  boahttsubierggorujtta  mijbåråduvvá  sihke  árkkabiejven  jaávvudallamijn.-  Navti  mån  viehkedav  vaj  sámemoattebelakvuoda birra ienebut vuojnnusijboahtá,  javllá  sån,  ja  diehtánuorttasámegiella  le  gievrap  sámegiellabirrasijn.    Nuorttasáme  oasse  leieneplåhko,  ja  álu  julevsáme  oassebadjelgehtjaduvvá, miejnni Hætta.-  Jus  julevsámegiella  galggá  rijbadit  dejáhkáv le ájnas ulmutja ienebut gaskanisásijdan sámásti, ja ulmutja vierttiji ienebuvgaskanisá sámástit. Divtasvuonan ulmutjaálu  sámástij  ja  dárogiellaj  sáhkadi  avtabále, ja målsudi daj gielaj.<em type="italic">Gåktu  le  åvddånahttem  duv  mielasma?emus  11  jage  læhkám,  dan  ájge  gådån le suohkanin årrum?</em>-  Ulmutja  ienebuv  sámásti  sijdanisá,sæmmi båttå gå vuojnos sáme kultuvrradagu gápptedábe ja duodje li viehka ålovåvddånahttám.  Madi  giella  åvddånahttálávkes lávkkáj, miejnni Hætta<em type="italic">Majt  jáhká  sáme  varresvuodaguovdátjabirra?</em>- Ájnas le guoskavasj fálaldagáv vaddetvarresvuodadievnastusán.  Iv  rat  jáhkesierra  guovdátjij  ja  baláv  dat  máhttástuoráp rijdov ja sáragav dahkat ienni gåaktisasj guovdásj. Buohtastahtáv dav vehiOarjje  Afrikajn,  mij  ietján  ij  dåhkkibuohtastahttet, valla vierttip lahkavuodav </p>
-    <p xml:lang="nob"><em type="italic">Árkkabiejven ja ávvudallamij: - Gå ájgo guossodit 2000 hedjaguossijt, de le bidos ållubuorre, májnut málestiddje árbbedábálasj sáme boahttsubierggorujtas. Bidos merkaj málestitboahttusbiergov.  Til hverdags som til fest:  - Når man skal servere 2000 bryllupsgjester, erbidos helt utmerket, skryter kokken av den tradisjonelle samiske reinsdyrkjøttgryta. Bidos betyrå lage mat av reinsdyrkjøtt.  Gåvvå/foto: Kitty Skapalen</em> </p>
-    <p>åttjudit, aktan giesset, ja gáhttit vaj barggebukti  goappátjijt  gielajt.  Navti  jáhkávbierriji dahkat, javllá sån, ajtu le ájádusdákkir guovdátja birra buorre.</p>
-    <p>Konsulænntan  suohkanin  barggá  ajfálaldagájn vuorrasappojda gånnå máhttihávsskudallat låvdagoaden, dållåhapsajnja  májstes  árbbedábálasj  sáme  biebmosdajda gudi sihti.- Vájbi máhttá liehket bårås mij ij tjuovodábálasj  bårråmájgijt,  gånnå  riejddipbirástagáv  vaj  vuorrasappo  máhttidåbdudallat dålusj ájgij.-  Muv  buoremus  rádna  li  70  jagijs  90jagijda,  tjále  dav,  hæjttá  Hætta,måjudallam tjalmij.</p>
-    <p>Dille sáme giellajuohkusij gaskan</p>
-    <p>Sáme giellaguovllo le tjanádum dan láhkáj ráddnágiellasuorge li gasskasattja ja dádjadahte. Sieradusáma li oadtjum nágin gielledutkijt anátjit tjielggidusáv sáme giela ienni gå sáme giellasuorge, vuojnnepesski  gå  buohtastahttep  giellasuorgijt  ma  geográfalattjat  li  mælggat  nubbe  nuppes,  duola  dagunuorttasámegiella ja oarjjelsámegiella.</p>
-    <p>Da  alla  gaskanisá  dádjadahte  jus  ij  ålov  hárjjidalá,  valla  vas  ráddnágiellasuorge  duola  dagujulevsámegiella  ja  nuorttasámegiella  li  lahka  nubbe  nubbáj.  Sieradusá  dáj  gaskan  li  vuostatjinsubstantijvvasåjådimen  (kasus)  ja  værbbasåjådimen  (gehtjusa  ja  konstruksjåvnå),  valla  jiena  liprinsihpalattjat muoduga.Gasskasasj nuorttasámegiela ja julevsámegiela gaskan máhttep buohtastahttet gasskasattjajn vuona</p>
-    <p>dárogiela  ja  svieriga  dárogiela  gaskan,  madi  nuorttasámegiella  ja  oarjjelsámegiella  li  naviesjge?galágátja dagu Vuona dárogiella ja islánda giella. Tjielggidusá giella ja giellasuorge ællariek tjielggasa. Sisadno vájkkuduvvá ålgoldis dilijs duola dagu rijkkarájá.www.samediggi.no</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Julevsámegiella ja nuorttasámegiella giehtalakkoj</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2008</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>382</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_270608.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty SkapalenJårggålibme: Idar Kintel</p>
+<p>dajda gudi dajt dárbahi. Duodden barggujsuohkanin  fállá  åvddånbuktet  sámekultuvrav  ja  moattebelakvuodav.  Juoguguossijt duosstu juojggamijn ja subttsasijjali  rujtan  fierru  ja  guossot  bidosijn  árbbedábálasj  boahttsubierggorujtta  mijbåråduvvá  sihke  árkkabiejven  jaávvudallamijn.-  Navti  mån  viehkedav  vaj  sámemoattebelakvuoda birra ienebut vuojnnusijboahtá,  javllá  sån,  ja  diehtánuorttasámegiella  le  gievrap  sámegiellabirrasijn.    Nuorttasáme  oasse  leieneplåhko,  ja  álu  julevsáme  oassebadjelgehtjaduvvá, miejnni Hætta.-  Jus  julevsámegiella  galggá  rijbadit  dejáhkáv le ájnas ulmutja ienebut gaskanisásijdan sámásti, ja ulmutja vierttiji ienebuvgaskanisá sámástit. Divtasvuonan ulmutjaálu  sámástij  ja  dárogiellaj  sáhkadi  avtabále, ja målsudi daj gielaj.<em type="italic">Gåktu  le  åvddånahttem  duv  mielasma?emus  11  jage  læhkám,  dan  ájge  gådån le suohkanin årrum?</em>-  Ulmutja  ienebuv  sámásti  sijdanisá,sæmmi båttå gå vuojnos sáme kultuvrradagu gápptedábe ja duodje li viehka ålovåvddånahttám.  Madi  giella  åvddånahttálávkes lávkkáj, miejnni Hætta<em type="italic">Majt  jáhká  sáme  varresvuodaguovdátjabirra?</em>- Ájnas le guoskavasj fálaldagáv vaddetvarresvuodadievnastusán.  Iv  rat  jáhkesierra  guovdátjij  ja  baláv  dat  máhttástuoráp rijdov ja sáragav dahkat ienni gåaktisasj guovdásj. Buohtastahtáv dav vehiOarjje  Afrikajn,  mij  ietján  ij  dåhkkibuohtastahttet, valla vierttip lahkavuodav </p>
+<p><em type="italic">Árkkabiejven ja ávvudallamij: - Gå ájgo guossodit 2000 hedjaguossijt, de le bidos ållubuorre, májnut málestiddje árbbedábálasj sáme boahttsubierggorujtas. Bidos merkaj málestitboahttusbiergov.  Til hverdags som til fest:  - Når man skal servere 2000 bryllupsgjester, erbidos helt utmerket, skryter kokken av den tradisjonelle samiske reinsdyrkjøttgryta. Bidos betyrå lage mat av reinsdyrkjøtt.  Gåvvå/foto: Kitty Skapalen</em> </p>
+<p>åttjudit, aktan giesset, ja gáhttit vaj barggebukti  goappátjijt  gielajt.  Navti  jáhkávbierriji dahkat, javllá sån, ajtu le ájádusdákkir guovdátja birra buorre.</p>
+<p>Konsulænntan  suohkanin  barggá  ajfálaldagájn vuorrasappojda gånnå máhttihávsskudallat låvdagoaden, dållåhapsajnja  májstes  árbbedábálasj  sáme  biebmosdajda gudi sihti.- Vájbi máhttá liehket bårås mij ij tjuovodábálasj  bårråmájgijt,  gånnå  riejddipbirástagáv  vaj  vuorrasappo  máhttidåbdudallat dålusj ájgij.-  Muv  buoremus  rádna  li  70  jagijs  90jagijda,  tjále  dav,  hæjttá  Hætta,måjudallam tjalmij.</p>
+<p>Dille sáme giellajuohkusij gaskan</p>
+<p>Sáme giellaguovllo le tjanádum dan láhkáj ráddnágiellasuorge li gasskasattja ja dádjadahte. Sieradusáma li oadtjum nágin gielledutkijt anátjit tjielggidusáv sáme giela ienni gå sáme giellasuorge, vuojnnepesski  gå  buohtastahttep  giellasuorgijt  ma  geográfalattjat  li  mælggat  nubbe  nuppes,  duola  dagunuorttasámegiella ja oarjjelsámegiella.</p>
+<p>Da  alla  gaskanisá  dádjadahte  jus  ij  ålov  hárjjidalá,  valla  vas  ráddnágiellasuorge  duola  dagujulevsámegiella  ja  nuorttasámegiella  li  lahka  nubbe  nubbáj.  Sieradusá  dáj  gaskan  li  vuostatjinsubstantijvvasåjådimen  (kasus)  ja  værbbasåjådimen  (gehtjusa  ja  konstruksjåvnå),  valla  jiena  liprinsihpalattjat muoduga.Gasskasasj nuorttasámegiela ja julevsámegiela gaskan máhttep buohtastahttet gasskasattjajn vuona</p>
+<p>dárogiela  ja  svieriga  dárogiela  gaskan,  madi  nuorttasámegiella  ja  oarjjelsámegiella  li  naviesjge?galágátja dagu Vuona dárogiella ja islánda giella. Tjielggidusá giella ja giellasuorge ællariek tjielggasa. Sisadno vájkkuduvvá ålgoldis dilijs duola dagu rijkkarájá.www.samediggi.no</p>
+</body></document>

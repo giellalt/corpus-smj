@@ -1,47 +1,13 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Julevsámegiella Radio Nord-Salten?</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Lars Theodor" lastname="Kintel" sex="m" born="1986" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>234</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/julevs-megiella-radio-nord-salten.4061</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Lars Arild Johansen</p>
-    <p type="title">Julevsámegiella Radio Nord-Salten?</p>
-    <p>Radio Nord-Salten, Nuorttasálto-Rádio ájggu liehket rádio ålles guovlluj, valla fálaldahka Julevsámijda dán guvlon ij vilá dåjma javllá dåjmadiddje Lars-Arild Johansen.</p>
-    <p>- Rádio sávvá siebrij jali ájnegisulmutjij aktijvuodav ma viehkedit máhtti sáddagijt jali åsijt sáddagijs dahkat julevsámegiellaj, jali aj dárogiellaj dahkat sáddagijt ma guoskadalli julevsáme temájt ja ássjijt.</p>
-    <p>Johansen tjårggi ij la jur dárbbo sáddaga li julevsámegiellaj, valla sisadno ja ássje bierriji miellagiddisa julevsámegielagijda. Ássje masstal mahttelis juojddá dahkat le duola dagu bájkálasjhiståvras, asstoájggefálaldagájs, valástallam, politihkka, giellaássje, gielppusa ja ietján javllá stivrajådediddje. Sij gudi berusti oassálasstet sáddagaijt dahkat oadtju diedon ietjá mierredit sátta vuodov, juogo dal kåserija, njuolggasáddaga, ságájdahttema, musihkka jali iejtá javllá sån. -Ájnna gájbbádus le ahte prográmma tjuovvu rádioa ehtalasj njuolgadusájt mij praktihkalattjat le <span type="quote">«Lege várrogis plakáhtta»</span>-Vær varsom plakaten.</p>
-    <p>Radio Nord-Salten sáddim biejve li mánnodagájt, gasskavahkojt ja bierjjedagájt. Duodden tjuovvu rádio suohkastivrra tjåhkanimijt Divtasvuonan, Hábmelin ja Stájgon. Julevsámegielak oase hiehpi divna dájda sátta biejvijda javllá sån.</p>
-    <p>Rádio væhkkálakkoj barggá ja nav e máhte mákset barggijt, valla miellagiddis ja suohtas asstoájgge fálaldagáv suohtas birrasin subtsas Johansen. Rádio fállá dárbulasj åhpadusáv ja væddsagijt ma sáddagijda la dárbbo. -Ulsvágen le rádion ådå studio, ja nav de la álkke dagu dal Ájluovdagijda oassálasstet javllá sån.</p>
-    <p>Ienep diedojt bargo birra oattjo jus ringgu telefåvnna 99486990 jai e poassta</p>
-    <p xml:lang="nob">lars.arild.johansen@monet.no</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér "Julevsámegiella Radio Nord-Salten?" på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Julevsámegiella Radio Nord-Salten?</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><person firstname="Lars Theodor" lastname="Kintel" sex="m" born="1986" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>234</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/julevs-megiella-radio-nord-salten.4061</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Lars Arild Johansen</p>
+<p type="title">Julevsámegiella Radio Nord-Salten?</p>
+<p>Radio Nord-Salten, Nuorttasálto-Rádio ájggu liehket rádio ålles guovlluj, valla fálaldahka Julevsámijda dán guvlon ij vilá dåjma javllá dåjmadiddje Lars-Arild Johansen.</p>
+<p>- Rádio sávvá siebrij jali ájnegisulmutjij aktijvuodav ma viehkedit máhtti sáddagijt jali åsijt sáddagijs dahkat julevsámegiellaj, jali aj dárogiellaj dahkat sáddagijt ma guoskadalli julevsáme temájt ja ássjijt.</p>
+<p>Johansen tjårggi ij la jur dárbbo sáddaga li julevsámegiellaj, valla sisadno ja ássje bierriji miellagiddisa julevsámegielagijda. Ássje masstal mahttelis juojddá dahkat le duola dagu bájkálasjhiståvras, asstoájggefálaldagájs, valástallam, politihkka, giellaássje, gielppusa ja ietján javllá stivrajådediddje. Sij gudi berusti oassálasstet sáddagaijt dahkat oadtju diedon ietjá mierredit sátta vuodov, juogo dal kåserija, njuolggasáddaga, ságájdahttema, musihkka jali iejtá javllá sån. -Ájnna gájbbádus le ahte prográmma tjuovvu rádioa ehtalasj njuolgadusájt mij praktihkalattjat le <span type="quote">«Lege várrogis plakáhtta»</span>-Vær varsom plakaten.</p>
+<p>Radio Nord-Salten sáddim biejve li mánnodagájt, gasskavahkojt ja bierjjedagájt. Duodden tjuovvu rádio suohkastivrra tjåhkanimijt Divtasvuonan, Hábmelin ja Stájgon. Julevsámegielak oase hiehpi divna dájda sátta biejvijda javllá sån.</p>
+<p>Rádio væhkkálakkoj barggá ja nav e máhte mákset barggijt, valla miellagiddis ja suohtas asstoájgge fálaldagáv suohtas birrasin subtsas Johansen. Rádio fállá dárbulasj åhpadusáv ja væddsagijt ma sáddagijda la dárbbo. -Ulsvágen le rádion ådå studio, ja nav de la álkke dagu dal Ájluovdagijda oassálasstet javllá sån.</p>
+<p>Ienep diedojt bargo birra oattjo jus ringgu telefåvnna 99486990 jai e poassta</p>
+<p xml:lang="nob">lars.arild.johansen@monet.no</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér "Julevsámegiella Radio Nord-Salten?" på Facebook</p>
+</body></document>

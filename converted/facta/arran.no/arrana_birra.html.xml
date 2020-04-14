@@ -1,61 +1,20 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>ÁRRANA BIRRA</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Stefan" lastname="Näslund" sex="m" born="" nationality=""/>
-    </author>
-    <year>2016</year>
-    <wordcount>350</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://arran.no/birra/?Article=91</origFileName>
-    <parallel_text xml:lang="nob" location="om_arran.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Árrana birra</p>
-    <p>G</p>
-    <p xml:lang="nob">K</p>
-    <p xml:lang="eng">I</p>
-    <p xml:lang="nob">Arran Live</p>
-    <p>j</p>
-    <p xml:lang="nob">k</p>
-    <p xml:lang="nob">i</p>
-    <p xml:lang="eng">o</p>
-    <p xml:lang="nob">e</p>
-    <p xml:lang="nob">l</p>
-    <p xml:lang="eng">h</p>
-    <p xml:lang="nob">m</p>
-    <list/>
-    <p xml:lang="nob">L</p>
-    <p type="title" xml:lang="nob">Ønsker du å motta nyhetsbrev fra Árran?</p>
-    <p xml:lang="nob">Registrer inn din epostadresse under. Du kan også kontakte oss pr epost: poassta@arran.no eller telefon +47 757 75 100</p>
-    <p xml:lang="eng">Email Address</p>
-    <p xml:lang="eng">w</p>
-    <p>&gt; Mijá bargo  / Árrana birra</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Fredrik Broman</p>
-    </list>
-    <p type="title">Árrana birra</p>
-    <p>Árran Julevsáme guovdásj/lulesamisk senter (dán maŋŋela nammaduvvam dåssju <span type="quote">"Árran"</span>) le dábálasj iesjåmastim vuododus (org. nr. 874 691 402) Ájluovtan Divtasvuona suohkanin, masi Sámedigge, Nordlánda fylkasuohkan, Divtasvuona suohkan, bájkálasj sámesiebre ja Árrana ietjas bargge válljiji stivrav juohkka nælját jage. Vuododusá ulmme le <span type="quote">"Árranav æjggut ja dåjmadit nasjonalalasj institusjåvnnån nannit, åvddånahttet ja joarkket julevsáme kultuvrav, gielav ja sebrudakiellemav. Institusjåvnnå galggá ietjas dåjma baktu arvusmahttet ja åvddånahttet åvddånahttet buorre birrusav bájkálasj sáme árvoj ja dábij milta, ja roaddot risstalasj kulturárbev"</span> (bs. § 3 Árrana njuolgadusájn.)</p>
-    <p xml:lang="nob">20.04.2016</p>
-    <p xml:lang="nob">13:11</p>
-    <p xml:lang="nob">Stefan Näslund</p>
-    <p>Sáme vuojno galggi liehket guovdátjin gå Árran åvddånahteduvvá boahtte ájggáj ja gå Árran galggá ietjas sajev nannit buorre barggosadjen. Giella, kultuvrra ja sáme dábe galggi roadduduvvat, ja aktan bájnnit Árranav barggosadjen. Sámegiella galggá liehket sadjihin juohkka gaskostimijn Árranin. Avtaárvvusasjvuohta árvvon sihtá javllat ulmutjijt avtaárvvusattjan adnet, valla le aj njuolgadussan åvdedittjat fálaldagájt Árranin ma avtaárvvusasjvuoda vuodon li sissŋálisát sáme sebrudagá ja ietján sebrudagá gáktuj. (bs. stivra strategidokumentav Ájggomusá 2012-2015).</p>
-    <p>Árrana doajmma le juogeduvvam nielje vuodosuorgijda: Giella, Mánájgárdde, Dávvervuorkká (Musea) ja Guhkásåhpadibme.</p>
-    <p>Giellaguovdátja doajmma le Sámedikke vájkkudinnævvoårniga milta. Duodden de Árranin le guhkásåhpadibme vuodo- ja joarkkaskåvlå oahppijda. Mánájgárdde le avtaåssudakmánájgárdde 23 mánájda sadje (2015/2016). Musea dåjma li tjoahkkim/dokumantasjåvnnå, suodjalibme ja gaskostibme dålusj ja dálásj sáme kulturhiståvrås julev- ja bidumsáme guovlos, åtsådimbargo ja diehtobuvtadibme válljiduvvam sebrudaksuorgijs. Árran le aj dájt maŋemus jagijt álggám ådåálggij (grunder) dåjmaj duodjefágan ja mannulaksuorgen.</p>
-    <p>Árran jådeduvvá direktøras mij rapporteri vuododusá stivrraj. Direktøran li åssudakdåjma barggijs, økonomijjas/IT/resepsjåvnås, prosjæktastivrrimis ja tsiekkadus/hoajdárdåjmajs. Árranin li sulá 25 jahkevirge tjoahkkáj (2016).</p>
-    <p>Duodden de Árran lájggi kåntåvråjt Sámediggáj, Nuortta universitiehttaj, UiT Vuona arktalasj universitiehttaj, NRK Sábmáj ja muhtemijda ájn. Bæjválattjajt de li Árranin sulá 45 ulmutja bargon. Jage 2017 busjæhtta le sulá 21 mill. kr., ienemus oasse dájs li almulasj doarjjaga ja lájggosisboahto.</p>
-    <p xml:lang="nob">[1] Duodje= samisk begrep for samisk håndverk, kunsthåndverk og småindustri.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>ÁRRANA BIRRA</title><genre code="facta"/><author><person firstname="Stefan" lastname="Näslund" sex="m" born="" nationality=""/></author><year>2016</year><wordcount>337</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="nob"/><language xml:lang="eng"/></multilingual><origFileName>http://arran.no/birra/?Article=91</origFileName><parallel_text xml:lang="nob" location="om_arran.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Árrana birra</p>
+<p xml:lang="nob">L</p>
+<p type="title" xml:lang="nob">Ønsker du å motta nyhetsbrev fra Árran?</p>
+<p xml:lang="nob">Registrer inn din epostadresse under. Du kan også kontakte oss pr epost: poassta@arran.no eller telefon +47 757 75 100</p>
+<p xml:lang="eng">Email Address</p>
+<p xml:lang="eng">w</p>
+<p>&gt; Mijá bargo  / Árrana birra</p>
+<list><p type="listitem" xml:lang="nob">Fredrik Broman</p>
+</list><p type="title">Árrana birra</p>
+<p>Árran Julevsáme guovdásj/lulesamisk senter (dán maŋŋela nammaduvvam dåssju <span type="quote">"Árran"</span>) le dábálasj iesjåmastim vuododus (org. nr. 874 691 402) Ájluovtan Divtasvuona suohkanin, masi Sámedigge, Nordlánda fylkasuohkan, Divtasvuona suohkan, bájkálasj sámesiebre ja Árrana ietjas bargge válljiji stivrav juohkka nælját jage. Vuododusá ulmme le <span type="quote">"Árranav æjggut ja dåjmadit nasjonalalasj institusjåvnnån nannit, åvddånahttet ja joarkket julevsáme kultuvrav, gielav ja sebrudakiellemav. Institusjåvnnå galggá ietjas dåjma baktu arvusmahttet ja åvddånahttet åvddånahttet buorre birrusav bájkálasj sáme árvoj ja dábij milta, ja roaddot risstalasj kulturárbev"</span> (bs. § 3 Árrana njuolgadusájn.)</p>
+<p xml:lang="nob">20.04.2016</p>
+<p xml:lang="nob">13:11</p>
+<p xml:lang="nob">Stefan Näslund</p>
+<p>Sáme vuojno galggi liehket guovdátjin gå Árran åvddånahteduvvá boahtte ájggáj ja gå Árran galggá ietjas sajev nannit buorre barggosadjen. Giella, kultuvrra ja sáme dábe galggi roadduduvvat, ja aktan bájnnit Árranav barggosadjen. Sámegiella galggá liehket sadjihin juohkka gaskostimijn Árranin. Avtaárvvusasjvuohta árvvon sihtá javllat ulmutjijt avtaárvvusattjan adnet, valla le aj njuolgadussan åvdedittjat fálaldagájt Árranin ma avtaárvvusasjvuoda vuodon li sissŋálisát sáme sebrudagá ja ietján sebrudagá gáktuj. (bs. stivra strategidokumentav Ájggomusá 2012-2015).</p>
+<p>Árrana doajmma le juogeduvvam nielje vuodosuorgijda: Giella, Mánájgárdde, Dávvervuorkká (Musea) ja Guhkásåhpadibme.</p>
+<p>Giellaguovdátja doajmma le Sámedikke vájkkudinnævvoårniga milta. Duodden de Árranin le guhkásåhpadibme vuodo- ja joarkkaskåvlå oahppijda. Mánájgárdde le avtaåssudakmánájgárdde 23 mánájda sadje (2015/2016). Musea dåjma li tjoahkkim/dokumantasjåvnnå, suodjalibme ja gaskostibme dålusj ja dálásj sáme kulturhiståvrås julev- ja bidumsáme guovlos, åtsådimbargo ja diehtobuvtadibme válljiduvvam sebrudaksuorgijs. Árran le aj dájt maŋemus jagijt álggám ådåálggij (grunder) dåjmaj duodjefágan ja mannulaksuorgen.</p>
+<p>Árran jådeduvvá direktøras mij rapporteri vuododusá stivrraj. Direktøran li åssudakdåjma barggijs, økonomijjas/IT/resepsjåvnås, prosjæktastivrrimis ja tsiekkadus/hoajdárdåjmajs. Árranin li sulá 25 jahkevirge tjoahkkáj (2016).</p>
+<p>Duodden de Árran lájggi kåntåvråjt Sámediggáj, Nuortta universitiehttaj, UiT Vuona arktalasj universitiehttaj, NRK Sábmáj ja muhtemijda ájn. Bæjválattjajt de li Árranin sulá 45 ulmutja bargon. Jage 2017 busjæhtta le sulá 21 mill. kr., ienemus oasse dájs li almulasj doarjjaga ja lájggosisboahto.</p>
+<p xml:lang="nob">[1] Duodje= samisk begrep for samisk håndverk, kunsthåndverk og småindustri.</p>
+</body></document>

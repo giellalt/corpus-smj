@@ -1,44 +1,16 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>405</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.svenskakyrkan.se/omoss/navti-girkko-mahtta-duv-doarjjot</origFileName>
-    <parallel_text xml:lang="fin" location="default.aspx_id=775900.html"/>
-    <parallel_text xml:lang="sma" location="nemhtie-grhkoe-datnem-maahta-daarjodh.html"/>
-    <parallel_text xml:lang="sme" location="na-sahtta-girku-doarjut-du.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Nåvti girkko máhttá duv doarjjot - Svenska kyrkan - Om oss</p>
-    <p type="title">Nåvti girkko máhttá duv doarjjot</p>
-    <p type="title">Svieriga girkko sosiálalasj barggo gåhtjudallá diakoniddjan. Barggogåhtjos la oasálasjvuoda, roatto ja gasskasasj solidaritehta baktu duossot ulmutjijt fámodum viessomvidjurijn.</p>
-    <p>Svieriga girkko sosiálalasjbargon aktijbarggá sebrudagá måttijn sosiálalasj ásadusájn, ietjá girkkoj ja jáhkkosiebrij jali ideella organisasjåvnåj. Moadda almulasj barggosaje nåv gåk universitehtan, gádjomdievnastusán, várjjofámon, kriminallasujton ja polijsan la máhttelisvuohta härrájn gávnadit.</p>
-    <p>Diakona ja härrá barggi sjávovälggogisvuodan. Manádi vuorrasij ja skibáj lunna, ásadi surggojuohkusijt ja ságasti aktugattjaj viessoma ávo ja vájve birra.</p>
-    <p>Sosiálalasj bargon girkko gávnat aj boastoaddnij ja sijá lagámusáj doarjotjit ja viehkedittjat. Máhttá ságastimjuohkusijt álgadit fámodum nissunijda ja ålmmåjda ja viehkedit fuolkijt hiehtevidjurijs ma vahágahtti äjgadijt ja mánájt. Muhttijn tjoaggulvisá aj máhtti vaddet ekonomalasj viehkev dárbulattjajda.</p>
-    <p>Rijka moatten vuodoskåvlå alemusklássan- ja gymnásaskåvlån gávnnuji skåvllåhärrá ja diakona doarjjan oahppijda. Goappátjagá skåvllåájgen ja skåvllåájge maŋŋela oahppe máhtti sijájn aktavuodav válldet ságastittjat birra gájkka åhpadusás gitta identitähttaj ja jáhkkuj. Vuollelin lågå ienebuv birra makkir vidjurijn Svieriga girkko máhttá duv doarjjot.</p>
-    <p><em type="italic">Surggojuohkusa </em>Surggojuogos la unna juogos vidájn gitta gávtse sebrulattjaj gudi gávnadi juogadittjat ájádusájt ja dåbdojt birra gåktu l masset lagámusáv. Juogos gávnat mierredum bále máhtalgis lájddijiddjij ulmijn gesi l massam suv viessomrádnav, mánav jali vuorrasap äjgádav. </p>
-    <p><em type="italic">Girkko fuolkkerádevaddem </em>Svieriga girkko fuolkkerádevaddem gávnnu gájkajda gejn li gassjelisvuoda sijá lahka gasskavuodajn. Ulmme l gávnnut gesi l válldum jali l aktijårro, sirádum ulmutjijda jali gejda ájggu sirádit, gesi l gássjelisvuoda sirádime maŋŋela ja gesi l gassjelisvuoda gasskavuodan suv lagámusájda. Fuolkkerádevaddema barggijn la sjávovälggogisvuohta ja e ga journalajt tjále. </p>
-    <p><em type="italic">Barggo seksualalasj illastime vuossti </em>Svieriga girkko sihtá doarjjot mánájt, nuorajt ja ållessjattugijt gudi li seksualalattjat illastuvvam girkko birrusijn. Ihtanis seksualalasj illastibme gåbttjå gájkka umasslágásj seksualalasj duolmmomis gitta seksualalasj illastibmáj, goappátjagá ássjálasj dago ja morálalasj lájttaĺahtte dago. </p>
-    <p>Javllamusá, gietjestime ja seksuálasj gietjestime aj nuppe ulmutja vuossti riekknidalla illastibmen. Åvdebut álu buodon njálmev seksualalasj illastime gáktuj. Svieriga girkkko sihtá åvdedit sjávoårrom seksualalasj illastimij birra doajeduvvá, sihtá guorrasit masi ájtu dáhpáduvvá, ja dåjmadit dan milta.</p>
-    <p><em type="italic">Skihpadåhpegirkko </em>Gut suorgos dejvadallá jali dárbaj viehkev máhttá aktavuodav válldet njuolgga girkkujn skihpadåben. Máhttelisvuohta adnet rågosladnav ja barggijt la girkko ålediddje goappátjagá skihppijda, lagámusájda ja barggijda gudi sihti sierra ságastimev ja siellosujtov jali säbrrat jubmeldievnojda ja råhkusijda. </p>
-    <p>Härrájn, diakonajn ja iehtjadijn gudi barggi skihpadåhpegirkkon li sjávovälggogisvuohta ja e journalajt tjále. Ij dárbaha årrot ristagis manádittjat skihpadåhpegirkkon. Jus soames skihpavuoda diehti ij máhte boahtet rågosladnaj de härrá máhttá skihppe lusi boahtet.</p>
-    <p><em type="italic">Duv tjoaggulvis máhttá ienebuv giehttot </em>Aktavuodav válde ietjat tjoaggulvisájn oattjotjit ienep diededimev sijá sosiálalasj dåjma birra. </p>
-    <p>//</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>405</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.svenskakyrkan.se/omoss/navti-girkko-mahtta-duv-doarjjot</origFileName><parallel_text xml:lang="fin" location="default.aspx_id=775900.html"/><parallel_text xml:lang="sma" location="nemhtie-grhkoe-datnem-maahta-daarjodh.html"/><parallel_text xml:lang="sme" location="na-sahtta-girku-doarjut-du.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Nåvti girkko máhttá duv doarjjot - Svenska kyrkan - Om oss</p>
+<p type="title">Nåvti girkko máhttá duv doarjjot</p>
+<p type="title">Svieriga girkko sosiálalasj barggo gåhtjudallá diakoniddjan. Barggogåhtjos la oasálasjvuoda, roatto ja gasskasasj solidaritehta baktu duossot ulmutjijt fámodum viessomvidjurijn.</p>
+<p>Svieriga girkko sosiálalasjbargon aktijbarggá sebrudagá måttijn sosiálalasj ásadusájn, ietjá girkkoj ja jáhkkosiebrij jali ideella organisasjåvnåj. Moadda almulasj barggosaje nåv gåk universitehtan, gádjomdievnastusán, várjjofámon, kriminallasujton ja polijsan la máhttelisvuohta härrájn gávnadit.</p>
+<p>Diakona ja härrá barggi sjávovälggogisvuodan. Manádi vuorrasij ja skibáj lunna, ásadi surggojuohkusijt ja ságasti aktugattjaj viessoma ávo ja vájve birra.</p>
+<p>Sosiálalasj bargon girkko gávnat aj boastoaddnij ja sijá lagámusáj doarjotjit ja viehkedittjat. Máhttá ságastimjuohkusijt álgadit fámodum nissunijda ja ålmmåjda ja viehkedit fuolkijt hiehtevidjurijs ma vahágahtti äjgadijt ja mánájt. Muhttijn tjoaggulvisá aj máhtti vaddet ekonomalasj viehkev dárbulattjajda.</p>
+<p>Rijka moatten vuodoskåvlå alemusklássan- ja gymnásaskåvlån gávnnuji skåvllåhärrá ja diakona doarjjan oahppijda. Goappátjagá skåvllåájgen ja skåvllåájge maŋŋela oahppe máhtti sijájn aktavuodav válldet ságastittjat birra gájkka åhpadusás gitta identitähttaj ja jáhkkuj. Vuollelin lågå ienebuv birra makkir vidjurijn Svieriga girkko máhttá duv doarjjot.</p>
+<p><em type="italic">Surggojuohkusa </em>Surggojuogos la unna juogos vidájn gitta gávtse sebrulattjaj gudi gávnadi juogadittjat ájádusájt ja dåbdojt birra gåktu l masset lagámusáv. Juogos gávnat mierredum bále máhtalgis lájddijiddjij ulmijn gesi l massam suv viessomrádnav, mánav jali vuorrasap äjgádav. </p>
+<p><em type="italic">Girkko fuolkkerádevaddem </em>Svieriga girkko fuolkkerádevaddem gávnnu gájkajda gejn li gassjelisvuoda sijá lahka gasskavuodajn. Ulmme l gávnnut gesi l válldum jali l aktijårro, sirádum ulmutjijda jali gejda ájggu sirádit, gesi l gássjelisvuoda sirádime maŋŋela ja gesi l gassjelisvuoda gasskavuodan suv lagámusájda. Fuolkkerádevaddema barggijn la sjávovälggogisvuohta ja e ga journalajt tjále. </p>
+<p><em type="italic">Barggo seksualalasj illastime vuossti </em>Svieriga girkko sihtá doarjjot mánájt, nuorajt ja ållessjattugijt gudi li seksualalattjat illastuvvam girkko birrusijn. Ihtanis seksualalasj illastibme gåbttjå gájkka umasslágásj seksualalasj duolmmomis gitta seksualalasj illastibmáj, goappátjagá ássjálasj dago ja morálalasj lájttaĺahtte dago. </p>
+<p>Javllamusá, gietjestime ja seksuálasj gietjestime aj nuppe ulmutja vuossti riekknidalla illastibmen. Åvdebut álu buodon njálmev seksualalasj illastime gáktuj. Svieriga girkkko sihtá åvdedit sjávoårrom seksualalasj illastimij birra doajeduvvá, sihtá guorrasit masi ájtu dáhpáduvvá, ja dåjmadit dan milta.</p>
+<p><em type="italic">Skihpadåhpegirkko </em>Gut suorgos dejvadallá jali dárbaj viehkev máhttá aktavuodav válldet njuolgga girkkujn skihpadåben. Máhttelisvuohta adnet rågosladnav ja barggijt la girkko ålediddje goappátjagá skihppijda, lagámusájda ja barggijda gudi sihti sierra ságastimev ja siellosujtov jali säbrrat jubmeldievnojda ja råhkusijda. </p>
+<p>Härrájn, diakonajn ja iehtjadijn gudi barggi skihpadåhpegirkkon li sjávovälggogisvuohta ja e journalajt tjále. Ij dárbaha årrot ristagis manádittjat skihpadåhpegirkkon. Jus soames skihpavuoda diehti ij máhte boahtet rågosladnaj de härrá máhttá skihppe lusi boahtet.</p>
+<p><em type="italic">Duv tjoaggulvis máhttá ienebuv giehttot </em>Aktavuodav válde ietjat tjoaggulvisájn oattjotjit ienep diededimev sijá sosiálalasj dåjma birra. </p>
+<p>//</p>
+</body></document>

@@ -1,53 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>- Geldulasj, ij la gus?</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Lill Tove" lastname="Paulsen" sex="f" born="" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>475</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/-geldulasj-ij-la-gus.4036</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>- Sáme bájkkenamájn tjuovvu subttsasa. Danen la ájnas várajda válldet dájt namájt, javllá Anne Kalstad Mikkelsen – gut doajvvu gå ådå kártta dagáduvvá de vierrtiji bájkkenamá aj sábmáj tjáleduvvat, ja duodden aj tjielgadusá dárogiellaj.</p>
-    <p type="title">- Geldulasj, ij la gus?</p>
-    <p>Kråkmovárre gåhtjoduvvá sámegiellaj Skilkátjåhkkå. Iv rat diede sisanov, valla jáhkáv boahtá bágos <span type="quote">“bájttet/spiedjildit”</span>, Ij la gus geldulasj? Anne Kalstad Mikkelsen váttsij Vuodnabadás Jierddavuobmáj, ja mañen lij Hábmelkártta. Riek buorre kártta, valla galggin liehket ienep sáme bájkkenamá.</p>
-    <p>Subttsasa tjuovvu sáme bájkkenamájt, mij vaddá duobddágijda ja várrevádtsemi ienep árvov, joarkká Mikkelsen, gut aj vuojnná dárbbo l sáme bájkkenamájdi ja tjielgadusájdi jus kártav ådåstahtti. - Kártta l ietján buorre ja álkke, duoddis sån.</p>
-    <p>Hábmelkártta l juo almmuduvvam guokti, mañemus lij jagen 2003. Kártta l aktisasjbargo baktu suohkanin dagádum, gånnå kulturetáhtta ja teknisketáhtta oasev váldijga, ja duodden Kjell Fredriksen gut la åvddågiehtje gå juoga galggá dagáduvvat.</p>
-    <p>
-      <em type="italic">Dárbbo </em>
-    </p>
-    <p>Anne Kalstad Mikkelsen váttsij dajt tjáhpa duobddágijt Vuodnabadás Jierddavuobmáj åvdep ájllega dan tjáhpa dálkken, Hábmelkártta vuossan. -Hábmelkártta vuoset stuor oasev Divtasvuonas, ja ulmusj bierggi dájna åvtåjn kártajn gå vádtsá dájn bájkijn. Kártta vuoset bálggájt riek buoragijt, ja gávnnuji aj diedo massta l dárbbo, subtsas Mikkelsen.</p>
-    <p>Váttsedahttijn de ájttsá dålusj sáme bájkkenamá ælla kártan. Dárogiel namá li boahtám sadjáj, ma e subtsasta majdik várrevádtsijda. - Kártan tjuodtju bájkkenamá dagu; Kjerristjønna. Dánna l álgos sáme namma Gierisluobbal, gieris la <span type="quote" xml:lang="nob">“pulk”</span> ja luobbal la gåbdudahka jågån mij la dagu jávrásj jali sláddo. Dánna l stuor sláhpa gåsi sáme dålen guodin gierrisav, åvdås luojttádin nuorregáddáj. Nav de bájkkenamma subtsas gåktu sáme adnin ja viessun dajn sajijn. Diedo ma båhti ávkken ja máhtudahkan várrevádtsijda. <span type="quote">“Kjerristjønna”</span> ij subtsasta majdik munji ja ij ga ietjá várrevádtsijda. Danen la suddo gå sáme namma ij la kártan, bájkke gånnå sáme li tjuohte jagijt viessum, javllá Mikkelsen. - Gå vádtsiv Jierddavuobmáj vássiv aj jávrev majt kártan gåhtjudi <span type="quote" xml:lang="nob">“Hjertevannet”</span>. Dát ij la dåbdos namma sámij gasskan, ja ij ga subtsasta ja gåvvi luondov. Vássiv aj Kirkefjellet ja Reinoksfjellet. Dán guovte váren ja ietjá várijn gávnnuji sámenamá, tsuojggi Mikkelsen.</p>
-    <p>Muhtem bájkkenamá sámegiellaj tjielggiji duov dáv luondo birra, nav dagu: Muhtem sajijn jálot váttsá, ja muhtem sajijn ij - dánna l várálasj vádtset, ja nav.</p>
-    <p>
-      <em type="italic">Na vierttip vuordatjit </em>
-    </p>
-    <p>Anne Kalstad Mikkelsen sihtat lij Hábmelkártav ådåstuhttet gånnå li sáme ja dáro sajijnamá, ja gånnå tjielgadusá gávnnuji sáme bájkkenamájdi. Vaddet lij várrevádtsijda máhtudagáv ja vásádusájt. Jáhkáv ij ga sjatta gássjel rudájt oadtjot dán prosjæktaj. Muv mielas lij ållu riekta liehket jus lidjin háldadit giellarudájt dáhkkár prosjæktaj, javllá Mikkelsen – valla jáhkkelis vierrtip ájn vuorddet dáv ådå kártav. Kulturjådediddje Helga Wiik Hábmelsuohkanin subtsas kártajs gávnnuji viek ållo majt máhtti ájn adnet boahtte jage. - Valla de vierttip ájádallat divudit ja dahkat ådå kártav. Mij válldep vuosstáj oajvvádusájt gåktu vierttip kártav divvot , javllá kulturjådediddje.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title">Diskutér "- Geldulasj, ij la gus?" på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>- Geldulasj, ij la gus?</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><person firstname="Lill Tove" lastname="Paulsen" sex="f" born="" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>475</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/-geldulasj-ij-la-gus.4036</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>- Sáme bájkkenamájn tjuovvu subttsasa. Danen la ájnas várajda válldet dájt namájt, javllá Anne Kalstad Mikkelsen – gut doajvvu gå ådå kártta dagáduvvá de vierrtiji bájkkenamá aj sábmáj tjáleduvvat, ja duodden aj tjielgadusá dárogiellaj.</p>
+<p type="title">- Geldulasj, ij la gus?</p>
+<p>Kråkmovárre gåhtjoduvvá sámegiellaj Skilkátjåhkkå. Iv rat diede sisanov, valla jáhkáv boahtá bágos <span type="quote">“bájttet/spiedjildit”</span>, Ij la gus geldulasj? Anne Kalstad Mikkelsen váttsij Vuodnabadás Jierddavuobmáj, ja mañen lij Hábmelkártta. Riek buorre kártta, valla galggin liehket ienep sáme bájkkenamá.</p>
+<p>Subttsasa tjuovvu sáme bájkkenamájt, mij vaddá duobddágijda ja várrevádtsemi ienep árvov, joarkká Mikkelsen, gut aj vuojnná dárbbo l sáme bájkkenamájdi ja tjielgadusájdi jus kártav ådåstahtti. - Kártta l ietján buorre ja álkke, duoddis sån.</p>
+<p>Hábmelkártta l juo almmuduvvam guokti, mañemus lij jagen 2003. Kártta l aktisasjbargo baktu suohkanin dagádum, gånnå kulturetáhtta ja teknisketáhtta oasev váldijga, ja duodden Kjell Fredriksen gut la åvddågiehtje gå juoga galggá dagáduvvat.</p>
+<p><em type="italic">Dárbbo </em></p>
+<p>Anne Kalstad Mikkelsen váttsij dajt tjáhpa duobddágijt Vuodnabadás Jierddavuobmáj åvdep ájllega dan tjáhpa dálkken, Hábmelkártta vuossan. -Hábmelkártta vuoset stuor oasev Divtasvuonas, ja ulmusj bierggi dájna åvtåjn kártajn gå vádtsá dájn bájkijn. Kártta vuoset bálggájt riek buoragijt, ja gávnnuji aj diedo massta l dárbbo, subtsas Mikkelsen.</p>
+<p>Váttsedahttijn de ájttsá dålusj sáme bájkkenamá ælla kártan. Dárogiel namá li boahtám sadjáj, ma e subtsasta majdik várrevádtsijda. - Kártan tjuodtju bájkkenamá dagu; Kjerristjønna. Dánna l álgos sáme namma Gierisluobbal, gieris la <span type="quote" xml:lang="nob">“pulk”</span> ja luobbal la gåbdudahka jågån mij la dagu jávrásj jali sláddo. Dánna l stuor sláhpa gåsi sáme dålen guodin gierrisav, åvdås luojttádin nuorregáddáj. Nav de bájkkenamma subtsas gåktu sáme adnin ja viessun dajn sajijn. Diedo ma båhti ávkken ja máhtudahkan várrevádtsijda. <span type="quote">“Kjerristjønna”</span> ij subtsasta majdik munji ja ij ga ietjá várrevádtsijda. Danen la suddo gå sáme namma ij la kártan, bájkke gånnå sáme li tjuohte jagijt viessum, javllá Mikkelsen. - Gå vádtsiv Jierddavuobmáj vássiv aj jávrev majt kártan gåhtjudi <span type="quote" xml:lang="nob">“Hjertevannet”</span>. Dát ij la dåbdos namma sámij gasskan, ja ij ga subtsasta ja gåvvi luondov. Vássiv aj Kirkefjellet ja Reinoksfjellet. Dán guovte váren ja ietjá várijn gávnnuji sámenamá, tsuojggi Mikkelsen.</p>
+<p>Muhtem bájkkenamá sámegiellaj tjielggiji duov dáv luondo birra, nav dagu: Muhtem sajijn jálot váttsá, ja muhtem sajijn ij - dánna l várálasj vádtset, ja nav.</p>
+<p><em type="italic">Na vierttip vuordatjit </em></p>
+<p>Anne Kalstad Mikkelsen sihtat lij Hábmelkártav ådåstuhttet gånnå li sáme ja dáro sajijnamá, ja gånnå tjielgadusá gávnnuji sáme bájkkenamájdi. Vaddet lij várrevádtsijda máhtudagáv ja vásádusájt. Jáhkáv ij ga sjatta gássjel rudájt oadtjot dán prosjæktaj. Muv mielas lij ållu riekta liehket jus lidjin háldadit giellarudájt dáhkkár prosjæktaj, javllá Mikkelsen – valla jáhkkelis vierrtip ájn vuorddet dáv ådå kártav. Kulturjådediddje Helga Wiik Hábmelsuohkanin subtsas kártajs gávnnuji viek ållo majt máhtti ájn adnet boahtte jage. - Valla de vierttip ájádallat divudit ja dahkat ådå kártav. Mij válldep vuosstáj oajvvádusájt gåktu vierttip kártav divvot , javllá kulturjådediddje.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title">Diskutér "- Geldulasj, ij la gus?" på Facebook</p>
+</body></document>

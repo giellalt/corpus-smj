@@ -1,90 +1,64 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>318</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/index.php?cat=99245&amp;offset=20&amp;ps=20</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Tysfjord kommune : Nyheter</p>
-    <p type="title" xml:lang="nob">Lønns- og trekkoppgaver 2014</p>
-    <p xml:lang="nob">Informasjon om levering av lønns- og trekkoppgaver for 2014.</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title" xml:lang="nob">Friluftsliv i Tysfjord</p>
-    <p xml:lang="nob">Arrangement med utendørsaktiviteter over 24 timer den 13. - 14. januar.</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title" xml:lang="nob">Renovasjon</p>
-    <p xml:lang="nob">Her er informasjon om henting av avfall.</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title" xml:lang="nob">Havner og farvann i Tysfjord</p>
-    <p xml:lang="nob">Fra og med 01.01.2015 trer det nye havne- og farvannsregulativet for Tysfjord kommune i kraft.</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title" xml:lang="nob">Endring i gebyrene fra og med 1. termin 2015</p>
-    <p xml:lang="nob">Endring i de kommunale gebyrene fra og med 1. termin 2015</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title">Renovasjon i Kjøpsvik</p>
-    <p xml:lang="nob">Avfall som ikke ble hentet i Kjøpsvik tirsdag 30.12.14 vil bli hentet tirsdag 06.01.15</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title" xml:lang="nob">Godt nytt år</p>
-    <p xml:lang="nob">Tysfjord kommune ønsker godt nytt år.</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title" xml:lang="nob">Renovasjon</p>
-    <p xml:lang="nob">Informasjon om henting av renovasjon i Tysfjord i romjula.</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title" xml:lang="nob">Tømmekalender 2015</p>
-    <p xml:lang="nob">Ny tømmekalender for 2015 er nå klar.</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title" xml:lang="nob">Vernebriller og fyrverkeri</p>
-    <p xml:lang="nob">Norsk brannvernforening har gitt ut en pressemelding om bruk av vernebriller ved oppskyting av fyrverkeri på nyttårsaften.</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title" xml:lang="nob">Åpningstider romjul</p>
-    <p xml:lang="nob">Rådhuset er åpent fra kl. 10:00 - 14:00 i romjula, og holder stengt på nyttårsaften. Legekontorene har ordinær åpningstid.</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title">God jul</p>
-    <p xml:lang="nob">God jul ønskes fra Tysfjord kommune.</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title" xml:lang="nob">Drag legekontor</p>
-    <p xml:lang="nob">Drag legekontor holder stengt 24.12.2014.</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title">Renovasjon Drag</p>
-    <p xml:lang="nob">Renovasjonsruten på Drag 30.12.14 og 31.12.14 utgår. Ruten kjøres fredag 02.01.15</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title" xml:lang="nob">Pæsatun barnehage</p>
-    <p xml:lang="nob">Pæsatun barnehage har planleggingsdag 2. januar 2015 og holder stengt.</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title" xml:lang="nob">Renovasjon på Drag</p>
-    <p xml:lang="nob">Renovasjonsruta på Drag i Tysfjord går ut 30/12 og 31/12. Begge rutene vil bli kjørt fredag 2/1 2015.</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title" xml:lang="nob">Kjøpsvik helsestasjon</p>
-    <p xml:lang="nob">Kjøpsvik Helsestasjon er stengt på grunn av ferieavvikling f.o.m. 18.12.14  t.o.m. 05.01.15.</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title" xml:lang="nob">Boligsalg – Ny utlysning</p>
-    <p xml:lang="nob">Tysfjord kommune ønsker å selge følgende bolig:</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title">Renovasjon Kjøpsvik</p>
-    <p xml:lang="nob">Resterende avfall i Kjøpsvik blir hentet onsdag 17.12.14 etter kl. 13:00.</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p type="title" xml:lang="nob">Streaming av kommunestyremøte 18. desember</p>
-    <p xml:lang="nob">Kommunestyremøtet 18. desember vil bli streamet (video-overføring).</p>
-    <p xml:lang="nob">Les mer...</p>
-    <p xml:lang="nob">Forrige</p>
-    <p xml:lang="nob">Neste</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>318</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/index.php?cat=99245&amp;offset=20&amp;ps=20</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Tysfjord kommune : Nyheter</p>
+<p type="title" xml:lang="nob">Lønns- og trekkoppgaver 2014</p>
+<p xml:lang="nob">Informasjon om levering av lønns- og trekkoppgaver for 2014.</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Friluftsliv i Tysfjord</p>
+<p xml:lang="nob">Arrangement med utendørsaktiviteter over 24 timer den 13. - 14. januar.</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Renovasjon</p>
+<p xml:lang="nob">Her er informasjon om henting av avfall.</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Havner og farvann i Tysfjord</p>
+<p xml:lang="nob">Fra og med 01.01.2015 trer det nye havne- og farvannsregulativet for Tysfjord kommune i kraft.</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Endring i gebyrene fra og med 1. termin 2015</p>
+<p xml:lang="nob">Endring i de kommunale gebyrene fra og med 1. termin 2015</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Renovasjon i Kjøpsvik</p>
+<p xml:lang="nob">Avfall som ikke ble hentet i Kjøpsvik tirsdag 30.12.14 vil bli hentet tirsdag 06.01.15</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Godt nytt år</p>
+<p xml:lang="nob">Tysfjord kommune ønsker godt nytt år.</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Renovasjon</p>
+<p xml:lang="nob">Informasjon om henting av renovasjon i Tysfjord i romjula.</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Tømmekalender 2015</p>
+<p xml:lang="nob">Ny tømmekalender for 2015 er nå klar.</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Vernebriller og fyrverkeri</p>
+<p xml:lang="nob">Norsk brannvernforening har gitt ut en pressemelding om bruk av vernebriller ved oppskyting av fyrverkeri på nyttårsaften.</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Åpningstider romjul</p>
+<p xml:lang="nob">Rådhuset er åpent fra kl. 10:00 - 14:00 i romjula, og holder stengt på nyttårsaften. Legekontorene har ordinær åpningstid.</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title">God jul</p>
+<p xml:lang="nob">God jul ønskes fra Tysfjord kommune.</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Drag legekontor</p>
+<p xml:lang="nob">Drag legekontor holder stengt 24.12.2014.</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title">Renovasjon Drag</p>
+<p xml:lang="nob">Renovasjonsruten på Drag 30.12.14 og 31.12.14 utgår. Ruten kjøres fredag 02.01.15</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Pæsatun barnehage</p>
+<p xml:lang="nob">Pæsatun barnehage har planleggingsdag 2. januar 2015 og holder stengt.</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Renovasjon på Drag</p>
+<p xml:lang="nob">Renovasjonsruta på Drag i Tysfjord går ut 30/12 og 31/12. Begge rutene vil bli kjørt fredag 2/1 2015.</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Kjøpsvik helsestasjon</p>
+<p xml:lang="nob">Kjøpsvik Helsestasjon er stengt på grunn av ferieavvikling f.o.m. 18.12.14  t.o.m. 05.01.15.</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Boligsalg – Ny utlysning</p>
+<p xml:lang="nob">Tysfjord kommune ønsker å selge følgende bolig:</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title">Renovasjon Kjøpsvik</p>
+<p xml:lang="nob">Resterende avfall i Kjøpsvik blir hentet onsdag 17.12.14 etter kl. 13:00.</p>
+<p xml:lang="nob">Les mer...</p>
+<p type="title" xml:lang="nob">Streaming av kommunestyremøte 18. desember</p>
+<p xml:lang="nob">Kommunestyremøtet 18. desember vil bli streamet (video-overføring).</p>
+<p xml:lang="nob">Les mer...</p>
+<p xml:lang="nob">Forrige</p>
+<p xml:lang="nob">Neste</p>
+</body></document>

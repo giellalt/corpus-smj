@@ -1,40 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>113</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/index.php?id=4802754&amp;showtipform=1&amp;cat=99352&amp;gb=</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tysfjord kommune : Bussa Gásluovtas - Vássjáj - Tips en venn</p>
-    <p type="title">Bussa Gásluovtas - Vássjáj</p>
-    <p xml:lang="nob">29.07.2010</p>
-    <p>Bierjjedagá snjilltjamáno 30. biejve 2010, nasjonálváre Státtá vuostasj jåvsådime 100-jagebiejven, máhtá bussajn mannat Gásluovta ja Vássjá gaskan.</p>
-    <p>
-      <em type="bold">Kl 11.45, kl 13.45 ja kl 17.45 Gásluovta færjjokájas, guovdo milta Vássjáj </em>
-    </p>
-    <p>
-      <em type="bold">Kl 12.30, kl 14.30 ja kl 19.30 Vássjás, Gásluovta guovdo milta færjjokádjaj </em>
-    </p>
-    <p>Almmulasj ávvudibme rádevieson Gásluovdan kl 10.00, gånnå næhttabájkke ja kolleksjåvnnå almoduvvaba ja gåvvåvuosádus rahpá.</p>
-    <p>Vuosádus la aj rabás lávvodagá snjilltjamáno 30. biejve ja sådnåbiejve bårggemáno 1. biejve kl 14.00 ja kl 17.00 gaskan. Vuosádus la rabás gitta bårggemáno 16. biejve rádjáj.</p>
-    <p xml:lang="nob">og søndag 1. august mellom kl 14.00 og kl 17.00. Utstillingen varer til 16. august.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>113</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/index.php?id=4802754&amp;showtipform=1&amp;cat=99352&amp;gb=</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tysfjord kommune : Bussa Gásluovtas - Vássjáj - Tips en venn</p>
+<p type="title">Bussa Gásluovtas - Vássjáj</p>
+<p xml:lang="nob">29.07.2010</p>
+<p>Bierjjedagá snjilltjamáno 30. biejve 2010, nasjonálváre Státtá vuostasj jåvsådime 100-jagebiejven, máhtá bussajn mannat Gásluovta ja Vássjá gaskan.</p>
+<p><em type="bold">Kl 11.45, kl 13.45 ja kl 17.45 Gásluovta færjjokájas, guovdo milta Vássjáj </em></p>
+<p><em type="bold">Kl 12.30, kl 14.30 ja kl 19.30 Vássjás, Gásluovta guovdo milta færjjokádjaj </em></p>
+<p>Almmulasj ávvudibme rádevieson Gásluovdan kl 10.00, gånnå næhttabájkke ja kolleksjåvnnå almoduvvaba ja gåvvåvuosádus rahpá.</p>
+<p>Vuosádus la aj rabás lávvodagá snjilltjamáno 30. biejve ja sådnåbiejve bårggemáno 1. biejve kl 14.00 ja kl 17.00 gaskan. Vuosádus la rabás gitta bårggemáno 16. biejve rádjáj.</p>
+<p xml:lang="nob">og søndag 1. august mellom kl 14.00 og kl 17.00. Utstillingen varer til 16. august.</p>
+</body></document>

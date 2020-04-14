@@ -1,48 +1,12 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Duojijn árbbedáhpen ja kultuvrraguodde sáme sebrudagán</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2008</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>302</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_171008.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Kitty SkapalenJårggålibme:</p>
-    <p>Divte Media AS</p>
-    <p>gidán  Nordlánda  Fylkkasuohkanaådåboahttebálkkáv  mij  vatteduvvánuorra nissunijda æládusbargon. Duojijnle sån ietjas barggosajev ásadam.-  Diedon  lip  ávon  gå  Kaja  dávmáhttelisvuodav oadtju, javllá sån. Iesj lesujna  åhpadus  Sámij  åhpadusguovdátjisJåhkåmåhken,  gånnå  duodje  le  riekguovdátjin ja gånnå Aline mielas li moaddabuorre fáhkagirje.  Nubbe girjijs majt levålov  adnám  le  gassa  girjje  julev-  jaoarjjelsámegiellaj majna buoragit duojijnoahpásmuvvap. Diedon vuorddep dav mijKajas boahtá, javllá sån.</p>
-    <p>duodjesjiehtadus, gånnå ulmme le nannitduojev kultuvrraguodden, sierra fáhkan jaæládussan.  Sjiehtadus  viehket  duojevguoddelis æládussan sjaddatkultuvralattjat, fágalattjat, ekonomalattjatja sebrudagálattjat. Dættoduvvá man ájnasle  gå  da  årniga  ma  njuolgga  duodjárijtguosski  doarjoduvvi.  Duodje  le  ja  lelæhkám  dajs  ájnnasamos  åsijs  sámekultuvran.</p>
-    <p>sámegielav,  kultuvrraárbev  ja  nissunijbargoj tjalmostahttem, javllá Paulsen.</p>
-    <p>Aktisasjbarggo Jåhkåmåhkijn- Buvtáv ietjam iednegielav tjuohte ja lågevprosentav  ságastit,  valla  tjáláv  dåssjunielljalåhke  prosenta.  Iesj  åhtsåmusávtjálliv,  tjajmmá  Kaja,  guhti  subtsas  sångullu dålusj ájggegávddaj gånnå vierttijinoahppat goarrot, båhtjet ja iesj rijbbat.  Mujna  le  duot  dát  åhpadibme,  ja  levduola dagu barggam goarro lunna ja mujnale  eksábma  duojen.  Sån  lij  allaskåvlånÁltán  guokta  jage  gånnå  duoddenoahppamij,  iesj  guojmmestudentajda  jaåhpadiddjijda  ietjas  teknihkajt  åhpadij.Dálla  sihtá  Svierigij  ja  iehtjádijdajulevsáme  guovlon  ietjas  máhtudagávduodastittjat.  Máhtáv gal dáv, valla ájgoviehtjádij sáhkadit duodastittjat gåktu dagávle riekta, javllá sån.Njunnjusj  Duodje  Nordlándan  janubbenjunnjusj  rijkkaorganisásjåvnån</p>
-    <p>DuodjeregisstarUddni gávnnu duodjelåhko ja gájbbádusáduodjelåhkuj  tjáleduvvat  le  ájnegisdåjmadagáv  jådedit,  ja  dan  baktu  ietjasduojev jådedit 50 000 kråvnåj mva dagi.Uddni  e  duodjára/kultuvrraguodde  gudiietjas  duojev  jådedi  birrusin  30.000  50.000 duodjelåhkuj tjáleduvá gå navti ilábinnáv jådedi.-  Duodjára  gudi  li  tjiehpe  li  ájnnasabisodittjat  ja  joarkátjit  duojev  boahttebuolvajda,  ja  mij  Duodje  Nordlándanmiejnnip  dá  bierriji  aj  duodjelåhkujtjáleduvvat. Navti duoje stáhtus bejeduvvája  arvusmahttá  ásadussaj  duodje-viddnudagájs.  Lip  guhkev  barggamvijdedimijn  duodjelågos  aj  dájdaduodjárijda/kultuvrraguoddijda,  jabarggap  vaj  duodjár  máhttá  ruhtadårjavoadtjot vájku makkir viddnudahkavuohke</p>
-    <p>Sierra duodjesjiehtadusSámedikke  baktu  le  ásaduvvam  sierra</p>
-    <p>Ájnas duodastibme</p>
-    <p xml:lang="nob"><em type="italic">- Lip dudálasj gå KajaAndersen ietjasmáhtudagáv duodas javuorddep buvtáv, javlláAline Mikkelsen, DuodjeNordlánda njunnjusj janubbenjunnjusjrijkkaorganisásjåvnånSámiid Duodji.- Vi er glade for at KajaAndersen dokumneterersin kunnskap og vi erspente på resultatet, sierleder i DuodjeNordlánnda og nestlederi landsorganisasjonen</em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Duojijn árbbedáhpen ja kultuvrraguodde sáme sebrudagán</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2008</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>303</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_171008.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Kitty SkapalenJårggålibme:</p>
+<p>Divte Media AS</p>
+<p>gidán  Nordlánda  Fylkkasuohkanaådåboahttebálkkáv  mij  vatteduvvánuorra nissunijda æládusbargon. Duojijnle sån ietjas barggosajev ásadam.-  Diedon  lip  ávon  gå  Kaja  dávmáhttelisvuodav oadtju, javllá sån. Iesj lesujna  åhpadus  Sámij  åhpadusguovdátjisJåhkåmåhken,  gånnå  duodje  le  riekguovdátjin ja gånnå Aline mielas li moaddabuorre fáhkagirje.  Nubbe girjijs majt levålov  adnám  le  gassa  girjje  julev-  jaoarjjelsámegiellaj majna buoragit duojijnoahpásmuvvap. Diedon vuorddep dav mijKajas boahtá, javllá sån.</p>
+<p>duodjesjiehtadus, gånnå ulmme le nannitduojev kultuvrraguodden, sierra fáhkan jaæládussan.  Sjiehtadus  viehket  duojevguoddelis æládussan sjaddatkultuvralattjat, fágalattjat, ekonomalattjatja sebrudagálattjat. Dættoduvvá man ájnasle  gå  da  årniga  ma  njuolgga  duodjárijtguosski  doarjoduvvi.  Duodje  le  ja  lelæhkám  dajs  ájnnasamos  åsijs  sámekultuvran.</p>
+<p>sámegielav,  kultuvrraárbev  ja  nissunijbargoj tjalmostahttem, javllá Paulsen.</p>
+<p>Aktisasjbarggo Jåhkåmåhkijn- Buvtáv ietjam iednegielav tjuohte ja lågevprosentav  ságastit,  valla  tjáláv  dåssjunielljalåhke  prosenta.  Iesj  åhtsåmusávtjálliv,  tjajmmá  Kaja,  guhti  subtsas  sångullu dålusj ájggegávddaj gånnå vierttijinoahppat goarrot, båhtjet ja iesj rijbbat.  Mujna  le  duot  dát  åhpadibme,  ja  levduola dagu barggam goarro lunna ja mujnale  eksábma  duojen.  Sån  lij  allaskåvlånÁltán  guokta  jage  gånnå  duoddenoahppamij,  iesj  guojmmestudentajda  jaåhpadiddjijda  ietjas  teknihkajt  åhpadij.Dálla  sihtá  Svierigij  ja  iehtjádijdajulevsáme  guovlon  ietjas  máhtudagávduodastittjat.  Máhtáv gal dáv, valla ájgoviehtjádij sáhkadit duodastittjat gåktu dagávle riekta, javllá sån.Njunnjusj  Duodje  Nordlándan  janubbenjunnjusj  rijkkaorganisásjåvnån</p>
+<p>DuodjeregisstarUddni gávnnu duodjelåhko ja gájbbádusáduodjelåhkuj  tjáleduvvat  le  ájnegisdåjmadagáv  jådedit,  ja  dan  baktu  ietjasduojev jådedit 50 000 kråvnåj mva dagi.Uddni  e  duodjára/kultuvrraguodde  gudiietjas  duojev  jådedi  birrusin  30.000  50.000 duodjelåhkuj tjáleduvá gå navti ilábinnáv jådedi.-  Duodjára  gudi  li  tjiehpe  li  ájnnasabisodittjat  ja  joarkátjit  duojev  boahttebuolvajda,  ja  mij  Duodje  Nordlándanmiejnnip  dá  bierriji  aj  duodjelåhkujtjáleduvvat. Navti duoje stáhtus bejeduvvája  arvusmahttá  ásadussaj  duodje-viddnudagájs.  Lip  guhkev  barggamvijdedimijn  duodjelågos  aj  dájdaduodjárijda/kultuvrraguoddijda,  jabarggap  vaj  duodjár  máhttá  ruhtadårjavoadtjot vájku makkir viddnudahkavuohke</p>
+<p>Sierra duodjesjiehtadusSámedikke  baktu  le  ásaduvvam  sierra</p>
+<p>Ájnas duodastibme</p>
+<p xml:lang="nob"><em type="italic">- Lip dudálasj gå KajaAndersen ietjasmáhtudagáv duodas javuorddep buvtáv, javlláAline Mikkelsen, DuodjeNordlánda njunnjusj janubbenjunnjusjrijkkaorganisásjåvnånSámiid Duodji.- Vi er glade for at KajaAndersen dokumneterersin kunnskap og vi erspente på resultatet, sierleder i DuodjeNordlánnda og nestlederi landsorganisasjonen</em> </p>
+</body></document>

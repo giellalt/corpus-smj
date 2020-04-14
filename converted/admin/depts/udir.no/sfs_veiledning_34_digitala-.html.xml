@@ -1,35 +1,7 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>87</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/Hoyremeny/Artiklerressurser/Digitala-/index.html</origFileName>
-    <parallel_text xml:lang="nob" location="sfs_veiledning_34_digital-f.html"/>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_34_digital-fo.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_34_digital-fotofortelli.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Digitála gåvvåsubtsas sámegielfágan</p>
-    <p type="title">Digitála gåvvåsubtsas sámegielfágan</p>
-    <p xml:lang="nob">Hovedinnhold</p>
-    <p>Oahppe máhtti moattelágásj prográmmaj dahkat buorre digitála åvddånbuktemijt álkkes nævoj. Barggo hiehpá divnajn jahkedásijn. Man ållo ja makkir dásse máhttá dássáj ja ájnegisoahppáj hiebaduvvat.</p>
-    <p>Åhpadiddje viertti iesj buktet adnet dajt ienemus anedum funksjåvnåjt åvddål gå oahppij barggagoahtá. Jus oahppe li abmasa barggamvuogijn, vierttiji sij vuostak aktan dahkat ånigis gåvvåsubttsasav. Åhpadiddje vuoset, tjielggi ja bagát. Maŋŋela máhtti oahppe ietja gæhttjalit. Gåvvåsubttsasa máhtti maŋenagi sjaddat guhkaga, masjvala ja fágalasj sisanov adnet.</p>
-    <p>NB! Mujte oahppij ságastit rievtesvuoda gåvåjda ja gálldoadno birra.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>87</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samegiella-vuostasjgiellan-same-1/Hoyremeny/Artiklerressurser/Digitala-/index.html</origFileName><parallel_text xml:lang="nob" location="sfs_veiledning_34_digital-f.html"/><parallel_text xml:lang="sma" location="sfs_veiledning_34_digital-fo.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_34_digital-fotofortelli.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Digitála gåvvåsubtsas sámegielfágan</p>
+<p type="title">Digitála gåvvåsubtsas sámegielfágan</p>
+<p xml:lang="nob">Hovedinnhold</p>
+<p>Oahppe máhtti moattelágásj prográmmaj dahkat buorre digitála åvddånbuktemijt álkkes nævoj. Barggo hiehpá divnajn jahkedásijn. Man ållo ja makkir dásse máhttá dássáj ja ájnegisoahppáj hiebaduvvat.</p>
+<p>Åhpadiddje viertti iesj buktet adnet dajt ienemus anedum funksjåvnåjt åvddål gå oahppij barggagoahtá. Jus oahppe li abmasa barggamvuogijn, vierttiji sij vuostak aktan dahkat ånigis gåvvåsubttsasav. Åhpadiddje vuoset, tjielggi ja bagát. Maŋŋela máhtti oahppe ietja gæhttjalit. Gåvvåsubttsasa máhtti maŋenagi sjaddat guhkaga, masjvala ja fágalasj sisanov adnet.</p>
+<p>NB! Mujte oahppij ságastit rievtesvuoda gåvåjda ja gálldoadno birra.</p>
+</body></document>

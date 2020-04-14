@@ -1,52 +1,18 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Várrevádtsem klássa siegen, Stuolluj.</title>
-    <genre code="ficti"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2016</year>
-    <wordcount>118</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://luondoiellem.blogg.no/1474464051_vrrevdtsem_klssa_sieg.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Várrevádtsem klássa siegen, Stuolluj.</p>
-    <p>
-      <em type="italic">Muv klássa ID 1.A ja mån, lip læhkám váren guokta biejve, ja dat lij vuostasj vádtsem dán jage. Ij lim val guhka vádtsem, valla dat lij ham buorre danen gå soames klássan ij lim åvddåla ålggon váren idjadam. </em>
-    </p>
-    <p>
-      <em type="italic">Mánnodahka: </em>
-    </p>
-    <p>Mij ganugijma Notvatn campingin, ja de váttsijma bussas Stuolluj. Lij bálges gitta Stuolojávrráj, danen lij riek gæhppat vádtset. Gålmmå tijma váttsijma, ja gå bådijma sijddaj, de muorajt viettjajma ja dållijma. Gå iehket sjattaj de juptsav málestijma, åvddåla telta sisi tjáŋajma oaddátjit.</p>
-    <p>
-      <em type="italic">Dijstahka: </em>
-    </p>
-    <p>Gå badjánijma nuppát biejve, de båråjma ja de vádtsájma vuolos væddjaj gånnå bussa vuordij.</p>
-    <p type="title" xml:lang="nob">Ingen kommentarer</p>
-    <p type="title" xml:lang="nob">Skriv en ny kommentar</p>
-    <p xml:lang="nob">Navn:</p>
-    <p xml:lang="nob">E-post:</p>
-    <p xml:lang="nob">URL:</p>
-    <p xml:lang="nob">Din kommentar:</p>
-    <p xml:lang="nob">Husk meg ?</p>
-    <p type="title" xml:lang="nob">Kategorier</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Blogg</p>
-    </list>
-    <p type="title" xml:lang="nob">Arkiv</p>
-    <list>
-      <p type="listitem" xml:lang="nob">September 2016</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Várrevádtsem klássa siegen, Stuolluj.</title><genre code="ficti"/><author><unknown/></author><year>2016</year><wordcount>118</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://luondoiellem.blogg.no/1474464051_vrrevdtsem_klssa_sieg.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Várrevádtsem klássa siegen, Stuolluj.</p>
+<p><em type="italic">Muv klássa ID 1.A ja mån, lip læhkám váren guokta biejve, ja dat lij vuostasj vádtsem dán jage. Ij lim val guhka vádtsem, valla dat lij ham buorre danen gå soames klássan ij lim åvddåla ålggon váren idjadam. </em></p>
+<p><em type="italic">Mánnodahka: </em></p>
+<p>Mij ganugijma Notvatn campingin, ja de váttsijma bussas Stuolluj. Lij bálges gitta Stuolojávrráj, danen lij riek gæhppat vádtset. Gålmmå tijma váttsijma, ja gå bådijma sijddaj, de muorajt viettjajma ja dållijma. Gå iehket sjattaj de juptsav málestijma, åvddåla telta sisi tjáŋajma oaddátjit.</p>
+<p><em type="italic">Dijstahka: </em></p>
+<p>Gå badjánijma nuppát biejve, de båråjma ja de vádtsájma vuolos væddjaj gånnå bussa vuordij.</p>
+<p type="title" xml:lang="nob">Ingen kommentarer</p>
+<p type="title" xml:lang="nob">Skriv en ny kommentar</p>
+<p xml:lang="nob">Navn:</p>
+<p xml:lang="nob">E-post:</p>
+<p xml:lang="nob">URL:</p>
+<p xml:lang="nob">Din kommentar:</p>
+<p xml:lang="nob">Husk meg ?</p>
+<p type="title" xml:lang="nob">Kategorier</p>
+<list><p type="listitem" xml:lang="nob">Blogg</p>
+</list><p type="title" xml:lang="nob">Arkiv</p>
+<list><p type="listitem" xml:lang="nob">September 2016</p>
+</list></body></document>

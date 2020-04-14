@@ -1,62 +1,15 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>266</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.osko.no/index.php?kat_id=148&amp;art_id=155</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=148_art_id=155.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=148_art_id=155.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=148_art_id=155.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Åhpav: Låvdagoahte</p>
-    <p type="title">Ájlis Vuojŋŋanis</p>
-    <p>
-      <em type="italic">Gålmaktes Jubmel  </em>
-    </p>
-    <p>Jubmel le akta, valla sæmmi båttå gålmaktes. Aktan Jubmelijn, libá bárnne ja Ájlis Vuojŋŋanis. Gå Jesus gástaduváj de bådij Ájlis Vuojŋŋanis suv badjel. Rámádin mierkki <span type="quote">”vuojŋŋanis”</span> biegga mij labádahttá. Dat soajttá mierkkit vuojŋŋan, biegga jali båssåt. Biekkav ep vuojne, ep diede gåsstå boahtá jali gåsi le vuolggemin. Ep ga Ájlis Vuojŋŋanisáv vuojne.</p>
-    <p>
-      <em type="italic">Jubmela sidot  </em>
-    </p>
-    <p>Jubmel le mijá lahka Ájlis Vuojŋŋanisá baktu. Ájlis Vuojŋŋanis le juohkka sajen. Ristagissan liehket sihtá javllat dibddet Ájlis Vuojŋŋanisáv duv lájddit. Gå Rámádav lågå, viehket Ájlis Vuojŋŋanis duv dádjadit majt lågå. Gå Jubmelav dievno, de Ájlis Vuojŋŋanis dunji fámojt ja gieresvuodav vaddá, duosstelissan duv dahká ja åhpat majt dárbaha.</p>
-    <p>
-      <em type="italic">Biegga  </em>
-    </p>
-    <p>Ep biekkav vuojne, valla gullap biegga sjoavvá ja vuojnnep muora sådji gå båssu. Boatsoj le luondo bieles nav váj agev biekka vuosstij guohtsá, ij danen gå biekka vuosstij sihtá guohtsat, valla danen gå hája baktu ájnas diedojt åttjut biekkas. Biegga buktá hapsajt urudisájs, jali diedet vuogas guohtoma birra. Ájlis Vuojŋŋanis le dagu biegga –vuojnnemahtes, vuoset gæjnov ja Jubmel gåhttju mijáv dasi gulldalit.</p>
-    <p>
-      <em type="italic">Dållå  </em>
-    </p>
-    <p>Ájlistagán vuosedij Ájlis Vuojŋŋanis ietjas dållåsnjibttjon mij åhpadusålmmåj nali bådij. Ájlis Vuojŋŋanis årru suv lunna guhti Jubmelij jáhkká, navti váj Jesusa åvdås buollep.</p>
-    <p>
-      <em type="italic">Duvvo  </em>
-    </p>
-    <p>Gå Jesus riegádij, bådij Ájlis Vuojŋŋanis sunji duvvon. Duvvo le ráfesymbåvllå. Ájlis Vuojŋŋanis midjij ráfev buktá ja nanni ietjama jáhkov, doajvov ja gieresvuodav.</p>
-    <p>Gássjelis le diehtet jur gåktu Ájlis Vuojŋŋanis le. Ep dav máhte vuojnnet. Javladum le Ájlis Vuojŋŋanis vájkkut váj sihtap råhkålahttját. Jut sihtap iehtjádijda buorev dahkat. Jut sihtap hávssken dahkat ietjamij birra. Jut sihtap gieresvuodav ja huvsoj iehtjádij vuoksjuj vuosedit. Majt Ájlis Vuojŋŋanis dunji mierkki?</p>
-    <p xml:lang="nob">Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>266</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.osko.no/index.php?kat_id=148&amp;art_id=155</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=148_art_id=155.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=148_art_id=155.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=148_art_id=155.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åhpav: Låvdagoahte</p>
+<p type="title">Ájlis Vuojŋŋanis</p>
+<p><em type="italic">Gålmaktes Jubmel  </em></p>
+<p>Jubmel le akta, valla sæmmi båttå gålmaktes. Aktan Jubmelijn, libá bárnne ja Ájlis Vuojŋŋanis. Gå Jesus gástaduváj de bådij Ájlis Vuojŋŋanis suv badjel. Rámádin mierkki <span type="quote">”vuojŋŋanis”</span> biegga mij labádahttá. Dat soajttá mierkkit vuojŋŋan, biegga jali båssåt. Biekkav ep vuojne, ep diede gåsstå boahtá jali gåsi le vuolggemin. Ep ga Ájlis Vuojŋŋanisáv vuojne.</p>
+<p><em type="italic">Jubmela sidot  </em></p>
+<p>Jubmel le mijá lahka Ájlis Vuojŋŋanisá baktu. Ájlis Vuojŋŋanis le juohkka sajen. Ristagissan liehket sihtá javllat dibddet Ájlis Vuojŋŋanisáv duv lájddit. Gå Rámádav lågå, viehket Ájlis Vuojŋŋanis duv dádjadit majt lågå. Gå Jubmelav dievno, de Ájlis Vuojŋŋanis dunji fámojt ja gieresvuodav vaddá, duosstelissan duv dahká ja åhpat majt dárbaha.</p>
+<p><em type="italic">Biegga  </em></p>
+<p>Ep biekkav vuojne, valla gullap biegga sjoavvá ja vuojnnep muora sådji gå båssu. Boatsoj le luondo bieles nav váj agev biekka vuosstij guohtsá, ij danen gå biekka vuosstij sihtá guohtsat, valla danen gå hája baktu ájnas diedojt åttjut biekkas. Biegga buktá hapsajt urudisájs, jali diedet vuogas guohtoma birra. Ájlis Vuojŋŋanis le dagu biegga –vuojnnemahtes, vuoset gæjnov ja Jubmel gåhttju mijáv dasi gulldalit.</p>
+<p><em type="italic">Dållå  </em></p>
+<p>Ájlistagán vuosedij Ájlis Vuojŋŋanis ietjas dållåsnjibttjon mij åhpadusålmmåj nali bådij. Ájlis Vuojŋŋanis årru suv lunna guhti Jubmelij jáhkká, navti váj Jesusa åvdås buollep.</p>
+<p><em type="italic">Duvvo  </em></p>
+<p>Gå Jesus riegádij, bådij Ájlis Vuojŋŋanis sunji duvvon. Duvvo le ráfesymbåvllå. Ájlis Vuojŋŋanis midjij ráfev buktá ja nanni ietjama jáhkov, doajvov ja gieresvuodav.</p>
+<p>Gássjelis le diehtet jur gåktu Ájlis Vuojŋŋanis le. Ep dav máhte vuojnnet. Javladum le Ájlis Vuojŋŋanis vájkkut váj sihtap råhkålahttját. Jut sihtap iehtjádijda buorev dahkat. Jut sihtap hávssken dahkat ietjamij birra. Jut sihtap gieresvuodav ja huvsoj iehtjádij vuoksjuj vuosedit. Majt Ájlis Vuojŋŋanis dunji mierkki?</p>
+<p xml:lang="nob">Utskriftsvennlig versjon</p>
+</body></document>

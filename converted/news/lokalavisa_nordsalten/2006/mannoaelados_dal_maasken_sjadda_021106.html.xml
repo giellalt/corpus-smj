@@ -1,53 +1,17 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Mannoæládos dal Måsken sjaddá</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>604</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/mannoal-dos-dal-masken-sjadd-.4081</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Keit Solstrøm la ietjas viddnudagáv åvddånahttemin, ja ij rat lijkku gå mobiltelefåvnnå Måsken gullu. –Jus ij lim mobiltelefåvnnå, de lij dat juoga sierra majt lij dåhkkit vuobddet, javllá sån.</p>
-    <p type="title">Mannoæládos dal Måsken sjaddá</p>
-    <p>Måsken dal dåhkki turistajs aj sisboadov oadtjot, valla huoman ij sjatta dat stuorra viddnudak majt Mannoæládus Hamsutte Rijkan ævtot ietjas diedádusán majt li gåhttjum Mannoulmme Hamsutte Rijkka. Dav jáhkká Keit Solstrøm gut la usjudallam juojnak álgget mij gullu mannoæládussaj. Norsk kortversjon/Oanegis dárogiellaj</p>
-    <p>Ulmme dájna diedádusájn, majt Mannoæládus Hamsutte Rijkan la dahkam, la barggovædtsagav ja birástagáv dahkat åvddånibmáj Nuortta Sálton mij guosská mannoæládussaj.</p>
-    <p>Keit Solstrøm Måskes la oanegis láhkáj dáv diedádusáv gæhttjam, ja jáhkká dåhkki Måsken jali Oarjjevuonan æládusáv dássta dahkat. Solstrøm la dájt gålmmå mañemus jagijt giessekáfeav Måsken doajmmam, ja sujna li juo plána gárvvasa ietjas viddnudagáv stuoredit. -Mujna li juo plána gárvvása, ja jus manná gåktu doajvov, da lav jådon boahtte gæssáj, subtsas Keit Solstrøm ja giehttu vehik ietjas plánaj birra.</p>
-    <p>
-      <em type="italic">Låvdagoade sijdda </em>
-    </p>
-    <p>Solstrøma plána li vuododit sijdav gånnå li dåssju låvdagoade, ja de turistajda fállat låvdagådij sinna årrot ienni gå ieme muorragådij sinna årrot ja sengaj sinna oadet. Dav jáhkká Solstrøm sjaddá sierraláhkáj sáme bájkijn ja birrusijn, ja mij aj dan diehti Måsskåj hiehpá, Måsske mij la dålusj sáme sijdda. -Giesen båhtin soames rájggeguoradalle gudi galggin Råggejávrrerájge tjadá guotsadit. Dajda de fálliv skåvlå lásjmudallamlanján oadet, valla sijáj mielas lij buorep ja ienep dagu <span type="quote" xml:lang="nob">”eksklusivt”</span> låvdagoade sinna idjadit. Ja nav de sjattaj. Dá muv guosse nav buoragit soapptsun låvdagoade sinna årrot, ja sijáj mielajs lij aj dat ållu sierra dáhpádus. Dalloj de mujna ájádussaj bådij dáv dal dåhkki åvddånahttet ja mannijda idjadimsajev fállat dållågátten, subtsas Keit Solstrøm.</p>
-    <p>Solstrøma mielas viertti dakkár doajmma skåvlå láhka nav vaj skåvlåv dåhkki adnet dajna gå álggep la suv guossijda skåvlån lávkkot, ja aj tjátjev viettjáldit.</p>
-    <p>
-      <em type="italic">Hæhttu vuobdeduvvat </em>
-    </p>
-    <p>Mañemus 3 jage la Keit Solstrøm giessekáfeav Måske skåvlån doajmmam. Sujna li aj plána giessekáfeajn joarkket, valla sihtá aj duoddesisboadov, ja sihtá mannijda idjadimsajev fállat. -Aktak e oattjo skåvlån oadet. Ja jus galggi, de hæhttup buollemvaktav ijáv vádtset. Dajna l de álggep årromsajev låvdagådij sinna fállat. Duodden la dal aj juoga sierra låvdagådij sinna årrot, ja dasi de diedáv turista lijkkuji. Gå de idjadimfálaldahka sjaddá, de la aj máhttelis giessekáfeav åvddånahttet, ja vájbi ienep sisboadov dassta aj oadtjot, javllá Solstrøm.</p>
-    <p>Keit Solstrøm dal vuorddá ruhtaviehkev åvdås gå låvdagådijt oasstegoahtá, ja suv mielas hæhttu ruhtadoarjjagav jus galggá vuodnasåkkijn dákkár viddnudagás viessot. -Jus dáv dåjmav oattjov jåhtuj, de ij la dåssju ruhtaviehkke masi l dárbbo. Dákkár fálaldahka aj hæhttu vuobdeduvvat, ja dajna l de álpep ja vájbi aj buorep jus lijma gájka mannoviddnudagá dájn bájkijn dagu aktan annonserit ja aj aktisattjat barggat, nav gåktu dát pládna vuoset, javllá Solstrøm.</p>
-    <p>
-      <em type="italic">Ij lijkku mobiltelefåvnnåj </em>
-    </p>
-    <p>Keit Solstrøm ij rat lijkku dåhkki mobiltelefåvnåjn Måskes riññgut. -Diedáv soames turista siettosvuodav åhtsi. Jus ij lim mobiltelefåvnnå Måsken gullut, de máhttet lijma turistajda siettosvuodav fállat, ja Måsske lij dan fálaldahkaj riek buoragit hiehpat. Sæmmi aj sjievnnjisájgijn. Dav lij aj dåhkkit vuobddet. Dálásj ájge gå ulmutja nav diertjesti ja gånnå l agev juhtsa ja sjurra, de la dálkas dákkár siettos sadjáj boahtet, ja dat la má Måsken, javllá Keit Solstrøm guhti aj doajvvu skåvllå bissu. -Jus skåvllå gáhtu de lij hotællaj hiehpat, valla iv de huoman dasi lijkku jus gáhtu. Skåvllå de viertti bissot. Ja jus sávtsa Måskes gáhtu, da aj juoga sierra Måske sijdas gáhtu. Juska lav muttijn sávtsada suhton, da la huoman hávskke gå da goade ålgusjbielen guohtsi. Sávtsa aj Måsskåj sierravuodav vaddi, ja dav sierravuodav aj dåhkki vuobddet, jáhkká Solstrøm.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Mannoæládos dal Måsken sjaddá"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Mannoæládos dal Måsken sjaddá</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>604</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/mannoal-dos-dal-masken-sjadd-.4081</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Keit Solstrøm la ietjas viddnudagáv åvddånahttemin, ja ij rat lijkku gå mobiltelefåvnnå Måsken gullu. –Jus ij lim mobiltelefåvnnå, de lij dat juoga sierra majt lij dåhkkit vuobddet, javllá sån.</p>
+<p type="title">Mannoæládos dal Måsken sjaddá</p>
+<p>Måsken dal dåhkki turistajs aj sisboadov oadtjot, valla huoman ij sjatta dat stuorra viddnudak majt Mannoæládus Hamsutte Rijkan ævtot ietjas diedádusán majt li gåhttjum Mannoulmme Hamsutte Rijkka. Dav jáhkká Keit Solstrøm gut la usjudallam juojnak álgget mij gullu mannoæládussaj. Norsk kortversjon/Oanegis dárogiellaj</p>
+<p>Ulmme dájna diedádusájn, majt Mannoæládus Hamsutte Rijkan la dahkam, la barggovædtsagav ja birástagáv dahkat åvddånibmáj Nuortta Sálton mij guosská mannoæládussaj.</p>
+<p>Keit Solstrøm Måskes la oanegis láhkáj dáv diedádusáv gæhttjam, ja jáhkká dåhkki Måsken jali Oarjjevuonan æládusáv dássta dahkat. Solstrøm la dájt gålmmå mañemus jagijt giessekáfeav Måsken doajmmam, ja sujna li juo plána gárvvasa ietjas viddnudagáv stuoredit. -Mujna li juo plána gárvvása, ja jus manná gåktu doajvov, da lav jådon boahtte gæssáj, subtsas Keit Solstrøm ja giehttu vehik ietjas plánaj birra.</p>
+<p><em type="italic">Låvdagoade sijdda </em></p>
+<p>Solstrøma plána li vuododit sijdav gånnå li dåssju låvdagoade, ja de turistajda fállat låvdagådij sinna årrot ienni gå ieme muorragådij sinna årrot ja sengaj sinna oadet. Dav jáhkká Solstrøm sjaddá sierraláhkáj sáme bájkijn ja birrusijn, ja mij aj dan diehti Måsskåj hiehpá, Måsske mij la dålusj sáme sijdda. -Giesen båhtin soames rájggeguoradalle gudi galggin Råggejávrrerájge tjadá guotsadit. Dajda de fálliv skåvlå lásjmudallamlanján oadet, valla sijáj mielas lij buorep ja ienep dagu <span type="quote" xml:lang="nob">”eksklusivt”</span> låvdagoade sinna idjadit. Ja nav de sjattaj. Dá muv guosse nav buoragit soapptsun låvdagoade sinna årrot, ja sijáj mielajs lij aj dat ållu sierra dáhpádus. Dalloj de mujna ájádussaj bådij dáv dal dåhkki åvddånahttet ja mannijda idjadimsajev fállat dållågátten, subtsas Keit Solstrøm.</p>
+<p>Solstrøma mielas viertti dakkár doajmma skåvlå láhka nav vaj skåvlåv dåhkki adnet dajna gå álggep la suv guossijda skåvlån lávkkot, ja aj tjátjev viettjáldit.</p>
+<p><em type="italic">Hæhttu vuobdeduvvat </em></p>
+<p>Mañemus 3 jage la Keit Solstrøm giessekáfeav Måske skåvlån doajmmam. Sujna li aj plána giessekáfeajn joarkket, valla sihtá aj duoddesisboadov, ja sihtá mannijda idjadimsajev fállat. -Aktak e oattjo skåvlån oadet. Ja jus galggi, de hæhttup buollemvaktav ijáv vádtset. Dajna l de álggep årromsajev låvdagådij sinna fállat. Duodden la dal aj juoga sierra låvdagådij sinna årrot, ja dasi de diedáv turista lijkkuji. Gå de idjadimfálaldahka sjaddá, de la aj máhttelis giessekáfeav åvddånahttet, ja vájbi ienep sisboadov dassta aj oadtjot, javllá Solstrøm.</p>
+<p>Keit Solstrøm dal vuorddá ruhtaviehkev åvdås gå låvdagådijt oasstegoahtá, ja suv mielas hæhttu ruhtadoarjjagav jus galggá vuodnasåkkijn dákkár viddnudagás viessot. -Jus dáv dåjmav oattjov jåhtuj, de ij la dåssju ruhtaviehkke masi l dárbbo. Dákkár fálaldahka aj hæhttu vuobdeduvvat, ja dajna l de álpep ja vájbi aj buorep jus lijma gájka mannoviddnudagá dájn bájkijn dagu aktan annonserit ja aj aktisattjat barggat, nav gåktu dát pládna vuoset, javllá Solstrøm.</p>
+<p><em type="italic">Ij lijkku mobiltelefåvnnåj </em></p>
+<p>Keit Solstrøm ij rat lijkku dåhkki mobiltelefåvnåjn Måskes riññgut. -Diedáv soames turista siettosvuodav åhtsi. Jus ij lim mobiltelefåvnnå Måsken gullut, de máhttet lijma turistajda siettosvuodav fállat, ja Måsske lij dan fálaldahkaj riek buoragit hiehpat. Sæmmi aj sjievnnjisájgijn. Dav lij aj dåhkkit vuobddet. Dálásj ájge gå ulmutja nav diertjesti ja gånnå l agev juhtsa ja sjurra, de la dálkas dákkár siettos sadjáj boahtet, ja dat la má Måsken, javllá Keit Solstrøm guhti aj doajvvu skåvllå bissu. -Jus skåvllå gáhtu de lij hotællaj hiehpat, valla iv de huoman dasi lijkku jus gáhtu. Skåvllå de viertti bissot. Ja jus sávtsa Måskes gáhtu, da aj juoga sierra Måske sijdas gáhtu. Juska lav muttijn sávtsada suhton, da la huoman hávskke gå da goade ålgusjbielen guohtsi. Sávtsa aj Måsskåj sierravuodav vaddi, ja dav sierravuodav aj dåhkki vuobddet, jáhkká Solstrøm.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Mannoæládos dal Måsken sjaddá"</span> på Facebook</p>
+</body></document>

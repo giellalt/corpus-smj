@@ -1,83 +1,61 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Láhka rijkalasj unneplågoj ja unneplågogielaj birra</title>
-    <genre code="laws"/>
-    <author>
-      <person firstname="" lastname="minoritet.se" sex="unknown" born="" nationality=""/>
-    </author>
-    <wordcount>934</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>https://www.lansstyrelsen.se/download/18.2e0f9f621636c84402732e0e/1528896661325/Lagen%20om%20nationella%20minoriteter%20och%20minoritetsspr%C3%A5k%20(2009724)%20lulesamiska.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p><em type="bold">§13</em>Oassebielen jali oas</p>
-    <p>sebiele sadjásasattjan la riektá riektáássjen jali ássjen tjuottjudusriektá, diggeriektá, gittaåbmudakduobbmoståvlå, birásduobbmoståvlå jali jávrreriektáduobbmoståvlå lunna duobbmogievlijn, mij ållåsit jali muhtem mudduj aktan gullu kommuvnaj Váhtjer, Haparanda, Giron, Bájil ja Övertorneå, suomagielav jali meängielav ávkkit riektáássje jali ássje giehtadaládijn, jus riektáássjen jali ássjen la tjanos soabmásij dájs kommuvnajs. Dan láhkáj aj sámegiella dakkár duobbmoståvlån duobbmogievlijn mij ållåsit jali muhtem mudduj aktan gullu kommuvnaj Árjepluovve, Váhtjer, Jåhkåmåhkke jali Giron, jus riektáássjen jali ássjen la tjanos soabmásij dájs kommuvnajs. Riektá ávkkit suomagielav, meängielav ja sámegielav aj gåbttjå duobbmoståvlåjt gåsi duobbmo jali märrádus riektáássjen jali ássjen mij javladuvvá vuostasj biehken gujddiduvvá.</p>
-    <p><em type="bold">(</em>Láhka 2009:857<em type="bold">)</em>. </p>
-    <p><em type="bold">§14</em>Riektá ávkkit suoma</p>
-    <p>gielav, meängielav ja sámegielav riektáássjijn jali ássjijn duobbmoståvlåjn 13 § milta gåbttjå riektáv ássjetjállagijt ja tjálalasj duodastusájt vaddet dan giellaj, riektáv oadtjot dajt ássjetjállagijt ma riektáássjáj jali ássjáj gulluji njálmálattjat jårggåluvvat dan giellaj ja riektá njálmálasj sjiehtadallamij duobbmoståvlå åvdån sáhkadit dav gielav. Duobbmoståvllå galggá ássjetjállagijt ja tjálalasj duodastusáv dárogiellaj jårggålit, jus ij vuojnunagi la dåssjen. Ietján galggá duobbmoståvllå aj rahtjat unneplågogielav ávkkit aktavuodajn oassebielijn jali oassebiele sadjásattjajn. Gájkka riektáássjijn jali ássjijn ma gåbtjåduvvi riektás suomagielav, meängielav ja sámegielav duobbmoståvlåjn ávkkit 13 § milta la oassebielen jali oassebiele sadjásattjan gänna ij la juridijkalasj viehkke, riektá oadtjot jårggålum duobmov ja duobbmooarev jali märrádusáv ja märrádustjielggimav tjálalattjat dan giellaj gå ádnu.</p>
-    <p><em type="bold">§15 </em>Gut sihtá suomagie</p>
-    <p>lav, meängielav jali sámegielav riektáássje jali ássje giehtadaládijn duobbmoståvlån ávkkit 13 § milta galggá dav ádnot gå riektáássje jali ássje álgaduvvá jali vuostasj bále oassebielle galggá riektáássjen jali ássjen moalgedit. Jårggålimánulvisáv 14 § goalmát biehke milta galggá vahko sinna ádnot dat rájes gå duobbmo jali märrádus la diededuvvam, jus dakkár ánulvisáv ij la åvdebut ádnum riektáássje jali ássje giehtadaládijn. Jus ánulvis unneplågogielav jali jårggålimev ávkkit, ánoduvvá maŋebut gå mij vuostasj ja nuppát biehkijn javladuvvá de oadtju hilgoduvvat. Dakkár ánulvisáv aj oadtju hilggot jus la vuojnunagi hiebalgahtes ulmme.</p>
-    <p>§</p>
-    <p><em type="bold">ávkkit</em> </p>
-    <p><em type="bold">§16</em>Jus oassebielen jali </p>
-    <p>oassebiele sadjásattjan la riektá suomagielav, meängielav ja sámegielav gierregin ávkkit, galggá dålkkå gåhtjoduvvat märrádusáj milta 5 kap. 6-8 §§ och 33 kap. 9 § gierrekbálkan ja 50-52 §§ tjuottjudusprosässalágan</p>
-    <p><em type="bold">(</em>1971:291<em type="bold">)</em>. </p>
-    <p>§19–21</p>
-    <p><em type="bold"> Tjuoldas   Dåbelijtjuovvom j.n.v.</em> </p>
-    <p>§17–18</p>
-    <p><em type="bold">§17</em>Gå kommuvnna </p>
-    <p><em type="bold">§21</em>Fábmudahka manna la </p>
-    <p><em type="bold">Suomagiella, meängiella ja sámegiella åvddåskåvllådåjman ja vuorrasijhuvson</em> </p>
-    <p>tjuottjudusguovlon sajev åvddåskåvllådoajmmaj fállá 2 a kap. 1 ja 7 §§ milta skåvllålágan<em type="bold">(</em>1985:1100<em type="bold">)</em>, galggá kommuvnna sajev fállat mánájda gej sujttoaddne dav rávkká åvddåskåvllådåjman gånnå ålles jali oase dåjmas li suomagiellaj, meängiellaj ja sámegiellaj. </p>
-    <p><em type="bold">§18</em>Kommuvnna tjuott</p>
-    <p>judusguovlon galggá sunji gut ádnu fállat máhttelisvuodav ållåsav jali åsijt oadtjot dat fállam dievnastusás ja sujtos vuorrasijhuvso ráma sinna, barggijs gudi máhtti suomagielav, meängielav ja sámegielav. Dan láhkáj la aj kommuvnajda tjuottjudusguovlo ålggolin, jus kommuvnan li bargge gudi gielav máhtti.</p>
-    <p><em type="bold">§19</em>Jus sierra oare gávn</p>
-    <p>nuji oadtju ráddidus biejadusájt diededit vaj soames fábmudahka mij la ráddidusá vuolen galggá tjuoldastuvvat 8 § adnemis. Sämmiláhkáj la aj lánndadikkijda ja kommuvnajda ráddidusá fábmodime maŋŋela ássjijn ma kommuvnnafábmudagájda guosski.</p>
-    <p><em type="bold">§20</em>Tjuovvot galggá mak </p>
-    <p>tjuottjudusfábmudagá dáv lágav anedi. Ráddidus diedet biejadusájt makkár fábmudahka jali fábmudagá galggi dåbelijtjuovvoma åvdås vásstedit. Dat dåbelijtjuovvomåvdåsvásstádus ij ietjá fábmudagáj gähttjoåvdåsvásstádusáv unneda.</p>
-    <p>åvddålijtjuovvomåvdåsvásstádus galggá aj rádevaddema, diededime ja sjimugis dåjmaj baktu viehkedit ietjá tjuottjudusfábmudagájt lága adnemijn.</p>
-    <p><em type="bold">§1–12</em> </p>
-    <p><em type="bold">§2 </em>Rijkalasj unneplågo li </p>
-    <p><em type="bold">§1 </em>Dán lágan li biejadusá </p>
-    <p><em type="bold">§3</em>Tjuottjudusfábmudagá </p>
-    <p><em type="bold">§5</em>Tjuottjudusfábmudagá </p>
-    <p>galggi gå la dárbbo sjiehtesláhkáj diededit rijkalasj unneplågojda sijá rievtesvuodaj birra dán lága milta.</p>
-    <p>§3–5</p>
-    <p>§1–2</p>
-    <p>galggi rijkalasj unneplågojda vaddet máhttelisvuodav bájnatjit ássjijn ma sidjij guosski ja guhkás máhttelis rádedit unneplåhkoåvdåstiddjij dakkár ássjijn.</p>
-    <p>juvdára, roma, sáme, svieriksuobmelattja ja duornosliegega Svieriga välggogisvuodaj milta Europaráde rábmakonvensjåvnå hárráj rijkalasj unneplågoj suoddjima birra <em type="bold">(</em>SÖ 2000:2<em type="bold">)</em> ja europalasj njuolga<em type="bold">(</em>SÖ 2000:3<em type="bold">)</em>. Giellalágan <em type="bold">(</em>2009:600<em type="bold">)</em> die<em type="bold">(</em>meänkieli<em type="bold">)</em>, románagiella dusá rijkadajva- jali unneplågogielaj birra deduvvá rijkalasj unneplågogiela li suomagiella, jiddisj, meängiella </p>
-    <p><em type="bold">(</em>romani chib<em type="bold">)</em> ja sámegiella. </p>
-    <p>rijkalasj unneplågoj, rijkalasj unneplågogielaj ja tjuottjudusguovloj birra ja riektá birra unneplågogielajt ávkkit tjuottjudusfábmudagájn ja duobbmoståvlåjn, ja märrádusá muhtem välggogisvuodaj birra åvddåskåvlådåjman ja vuorrasijhuvson. Lágan li aj biejadusá lága adnema dåbelijtjuovvoma birra.</p>
-    <p><em type="bold">§4</em>Giellalágan <em type="bold">(</em>2009:600<em type="bold">)</em> die</p>
-    <p>deduvvá sebrudagán la sierra åvdåsvásstádus suoddjit ja åvddånahttet rijkalasj unneplågogielajt. Sebrudahka galggá ietján aj åvddånahttet rijkalasj unneplågoj máhttelisvuodajt anodit ja åvdedit kultuvrasa Svierigin. Mánáj kultuvralasj identitehta</p>
-    <p>
-      <em type="bold">Vuodosuodje </em>
-    </p>
-    <p><em type="bold">Gájkkásasj  biejadusá</em> </p>
-    <p>§ 8–12</p>
-    <p>6–7<em type="bold">Tjuottjudusguovlo</em> </p>
-    <p><em type="bold">§11</em>Tjuottjudusfábmu</p>
-    <p>dagá galggi barggat vaj bargge gávnnuji gudi suomagielav, meängielav ja sámegielav máhtti gå la  dárbbo aktugattjaj aktavuodajn fábmudagájn.</p>
-    <p><em type="bold">§8 </em>Aktugattjajn la riektá </p>
-    <p>Tjuottjudusguovllon suomagiellaj li kommuv-<em type="bold">§7</em>Ietjá kommuvna gå ma </p>
-    <p><em type="bold">§9</em>Tjuottjudusguovlo </p>
-    <p><em type="bold">Riektá suomagielav, meängielav ja sámegielav fábmudagájn ávkkit</em> </p>
-    <p><em type="bold">§12</em>Tjuottjudusfáb</p>
-    <p>diededuvvi 6 § máhtti diededime maŋŋela bessat suomagiela, meängiela jali sámegiela tjuottjudusguovlluj. Märrádusáv vaj kommuvnna galggá tjuottjudusguovlluj oadtjot bessat, váldeduvvá ráddidusás. Ráddidus oadtju biejadusájt tjuottjudusguovlluj diededit dakkár iesjmiedogis säbrrama birra.</p>
-    <p>ålggolin la aktugattjajn riektá suomagielav, meängielav ja sámegielav ávkkit njálmálasj ja tjálalasj aktavuodajn tjuottjudusfábmudagáj ássjijn gånnå aktugasj la oassebielle jali oassebiele sadjásasj, jus ássje máhttá giehtadaláduvvat barggijs gudi unneplågogielav bukti.</p>
-    <p><em type="bold">9§ </em>Hallintoalueen ulkopuolella </p>
-    <p><em type="bold">§10</em>Aktugattjajn la agev </p>
-    <p>yksityisillä henkilöillä on oikeus käyttää meänkieltä, saamea ja suomea suullisissa ja kirjallisissa yhteyksissä hallintoviranomaisiin asioissa, joissa yksityinen henkilö on osapuoli tai osapuolen edustaja, jos asian pystyy käsittelemään työntekijä, joka hallitsee vähemmistökielen.</p>
-    <p>mudagá oadtju mierredit sierra ájgijt ja sierra sajev duostutjit guossididdje aktugattjajt gudi suomagielav, meängielav ja sámegielav ságasti, ja sierra telefåvnnåájgijt adnet.</p>
-    <p>suomagielav, meängielav ja sámegielav ávkkit ietjasa njálmálasj ja tjálalasj aktavuodajn tjuottjudusguovlujn man geográfalasj doajmmabájkke ållåsit jali muhtem mudduj aktan gullu unneplågogiela tjuottjudusguovlujn. Dat gullu ássjijda gånnå aktugasj la oassebielle jali oassebiele sadjásasj, jus ássjen la tjuottjudusfábmudahkaj tjanos. Jus aktugasj suomagielav, meängielav jali sámegielav ávkki dakkár ássjen, la fábmudahka vielggen njálmálasj vásstádusáv sämmi giellaj vaddet. Aktugattjajn gejn ij la juridijkalasj viehkke, la vil riektá ádnoma maŋŋela oadtjot tjálalasj jårggålimev ássje märrádusás ja märrádustjielggimis suomagiellaj, meängiellaj ja sámegiellaj. Fábmudahka galggá ietján aj rahtjat aktugattjajt ietjasa giellaj duosstot. åvdedibme ja unneplågogielasa ávkkim galggá sierraláhkáj åvddånahteduvvat.</p>
-    <p>riektá suomagielav ja sámegielav ávkkit tjálalasj aktavuodajn Rijkabiejve oahttsij. Dan láhkáj la aj aktugattjaj tjálalasj aktavuodajn Justitiekanslerijn, Oadjodåjmadagájn, Värrofábmudagájn ja Nuppástimoahttsijn (DO) ássjijn gånnå aktugasj la oassebielle jali oassebiele sadjásasj.</p>
-    <p><em type="bold">§13–21</em> </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Láhka rijkalasj unneplågoj ja unneplågogielaj birra</title><genre code="laws"/><author><person firstname="" lastname="minoritet.se" sex="unknown" born="" nationality=""/></author><wordcount>936</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://www.lansstyrelsen.se/download/18.2e0f9f621636c84402732e0e/1528896661325/Lagen%20om%20nationella%20minoriteter%20och%20minoritetsspr%C3%A5k%20(2009724)%20lulesamiska.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">§13</em>Oassebielen jali oas</p>
+<p>sebiele sadjásasattjan la riektá riektáássjen jali ássjen tjuottjudusriektá, diggeriektá, gittaåbmudakduobbmoståvlå, birásduobbmoståvlå jali jávrreriektáduobbmoståvlå lunna duobbmogievlijn, mij ållåsit jali muhtem mudduj aktan gullu kommuvnaj Váhtjer, Haparanda, Giron, Bájil ja Övertorneå, suomagielav jali meängielav ávkkit riektáássje jali ássje giehtadaládijn, jus riektáássjen jali ássjen la tjanos soabmásij dájs kommuvnajs. Dan láhkáj aj sámegiella dakkár duobbmoståvlån duobbmogievlijn mij ållåsit jali muhtem mudduj aktan gullu kommuvnaj Árjepluovve, Váhtjer, Jåhkåmåhkke jali Giron, jus riektáássjen jali ássjen la tjanos soabmásij dájs kommuvnajs. Riektá ávkkit suomagielav, meängielav ja sámegielav aj gåbttjå duobbmoståvlåjt gåsi duobbmo jali märrádus riektáássjen jali ássjen mij javladuvvá vuostasj biehken gujddiduvvá.</p>
+<p><em type="bold">(</em>Láhka 2009:857<em type="bold">)</em>. </p>
+<p><em type="bold">§14</em>Riektá ávkkit suoma</p>
+<p>gielav, meängielav ja sámegielav riektáássjijn jali ássjijn duobbmoståvlåjn 13 § milta gåbttjå riektáv ássjetjállagijt ja tjálalasj duodastusájt vaddet dan giellaj, riektáv oadtjot dajt ássjetjállagijt ma riektáássjáj jali ássjáj gulluji njálmálattjat jårggåluvvat dan giellaj ja riektá njálmálasj sjiehtadallamij duobbmoståvlå åvdån sáhkadit dav gielav. Duobbmoståvllå galggá ássjetjállagijt ja tjálalasj duodastusáv dárogiellaj jårggålit, jus ij vuojnunagi la dåssjen. Ietján galggá duobbmoståvllå aj rahtjat unneplågogielav ávkkit aktavuodajn oassebielijn jali oassebiele sadjásattjajn. Gájkka riektáássjijn jali ássjijn ma gåbtjåduvvi riektás suomagielav, meängielav ja sámegielav duobbmoståvlåjn ávkkit 13 § milta la oassebielen jali oassebiele sadjásattjan gänna ij la juridijkalasj viehkke, riektá oadtjot jårggålum duobmov ja duobbmooarev jali märrádusáv ja märrádustjielggimav tjálalattjat dan giellaj gå ádnu.</p>
+<p><em type="bold">§15 </em>Gut sihtá suomagie</p>
+<p>lav, meängielav jali sámegielav riektáássje jali ássje giehtadaládijn duobbmoståvlån ávkkit 13 § milta galggá dav ádnot gå riektáássje jali ássje álgaduvvá jali vuostasj bále oassebielle galggá riektáássjen jali ássjen moalgedit. Jårggålimánulvisáv 14 § goalmát biehke milta galggá vahko sinna ádnot dat rájes gå duobbmo jali märrádus la diededuvvam, jus dakkár ánulvisáv ij la åvdebut ádnum riektáássje jali ássje giehtadaládijn. Jus ánulvis unneplågogielav jali jårggålimev ávkkit, ánoduvvá maŋebut gå mij vuostasj ja nuppát biehkijn javladuvvá de oadtju hilgoduvvat. Dakkár ánulvisáv aj oadtju hilggot jus la vuojnunagi hiebalgahtes ulmme.</p>
+<p>§</p>
+<p><em type="bold">ávkkit</em> </p>
+<p><em type="bold">§16</em>Jus oassebielen jali </p>
+<p>oassebiele sadjásattjan la riektá suomagielav, meängielav ja sámegielav gierregin ávkkit, galggá dålkkå gåhtjoduvvat märrádusáj milta 5 kap. 6-8 §§ och 33 kap. 9 § gierrekbálkan ja 50-52 §§ tjuottjudusprosässalágan</p>
+<p><em type="bold">(</em>1971:291<em type="bold">)</em>. </p>
+<p>§19–21</p>
+<p><em type="bold"> Tjuoldas   Dåbelijtjuovvom j.n.v.</em> </p>
+<p>§17–18</p>
+<p><em type="bold">§17</em>Gå kommuvnna </p>
+<p><em type="bold">§21</em>Fábmudahka manna la </p>
+<p><em type="bold">Suomagiella, meängiella ja sámegiella åvddåskåvllådåjman ja vuorrasijhuvson</em> </p>
+<p>tjuottjudusguovlon sajev åvddåskåvllådoajmmaj fállá 2 a kap. 1 ja 7 §§ milta skåvllålágan<em type="bold">(</em>1985:1100<em type="bold">)</em>, galggá kommuvnna sajev fállat mánájda gej sujttoaddne dav rávkká åvddåskåvllådåjman gånnå ålles jali oase dåjmas li suomagiellaj, meängiellaj ja sámegiellaj. </p>
+<p><em type="bold">§18</em>Kommuvnna tjuott</p>
+<p>judusguovlon galggá sunji gut ádnu fállat máhttelisvuodav ållåsav jali åsijt oadtjot dat fállam dievnastusás ja sujtos vuorrasijhuvso ráma sinna, barggijs gudi máhtti suomagielav, meängielav ja sámegielav. Dan láhkáj la aj kommuvnajda tjuottjudusguovlo ålggolin, jus kommuvnan li bargge gudi gielav máhtti.</p>
+<p><em type="bold">§19</em>Jus sierra oare gávn</p>
+<p>nuji oadtju ráddidus biejadusájt diededit vaj soames fábmudahka mij la ráddidusá vuolen galggá tjuoldastuvvat 8 § adnemis. Sämmiláhkáj la aj lánndadikkijda ja kommuvnajda ráddidusá fábmodime maŋŋela ássjijn ma kommuvnnafábmudagájda guosski.</p>
+<p><em type="bold">§20</em>Tjuovvot galggá mak </p>
+<p>tjuottjudusfábmudagá dáv lágav anedi. Ráddidus diedet biejadusájt makkár fábmudahka jali fábmudagá galggi dåbelijtjuovvoma åvdås vásstedit. Dat dåbelijtjuovvomåvdåsvásstádus ij ietjá fábmudagáj gähttjoåvdåsvásstádusáv unneda.</p>
+<p>åvddålijtjuovvomåvdåsvásstádus galggá aj rádevaddema, diededime ja sjimugis dåjmaj baktu viehkedit ietjá tjuottjudusfábmudagájt lága adnemijn.</p>
+<p><em type="bold">§1–12</em> </p>
+<p><em type="bold">§2 </em>Rijkalasj unneplågo li </p>
+<p><em type="bold">§1 </em>Dán lágan li biejadusá </p>
+<p><em type="bold">§3</em>Tjuottjudusfábmudagá </p>
+<p><em type="bold">§5</em>Tjuottjudusfábmudagá </p>
+<p>galggi gå la dárbbo sjiehtesláhkáj diededit rijkalasj unneplågojda sijá rievtesvuodaj birra dán lága milta.</p>
+<p>§3–5</p>
+<p>§1–2</p>
+<p>galggi rijkalasj unneplågojda vaddet máhttelisvuodav bájnatjit ássjijn ma sidjij guosski ja guhkás máhttelis rádedit unneplåhkoåvdåstiddjij dakkár ássjijn.</p>
+<p>juvdára, roma, sáme, svieriksuobmelattja ja duornosliegega Svieriga välggogisvuodaj milta Europaráde rábmakonvensjåvnå hárráj rijkalasj unneplågoj suoddjima birra <em type="bold">(</em>SÖ 2000:2<em type="bold">)</em> ja europalasj njuolga<em type="bold">(</em>SÖ 2000:3<em type="bold">)</em>. Giellalágan <em type="bold">(</em>2009:600<em type="bold">)</em> die<em type="bold">(</em>meänkieli<em type="bold">)</em>, románagiella dusá rijkadajva- jali unneplågogielaj birra deduvvá rijkalasj unneplågogiela li suomagiella, jiddisj, meängiella </p>
+<p><em type="bold">(</em>romani chib<em type="bold">)</em> ja sámegiella. </p>
+<p>rijkalasj unneplågoj, rijkalasj unneplågogielaj ja tjuottjudusguovloj birra ja riektá birra unneplågogielajt ávkkit tjuottjudusfábmudagájn ja duobbmoståvlåjn, ja märrádusá muhtem välggogisvuodaj birra åvddåskåvlådåjman ja vuorrasijhuvson. Lágan li aj biejadusá lága adnema dåbelijtjuovvoma birra.</p>
+<p><em type="bold">§4</em>Giellalágan <em type="bold">(</em>2009:600<em type="bold">)</em> die</p>
+<p>deduvvá sebrudagán la sierra åvdåsvásstádus suoddjit ja åvddånahttet rijkalasj unneplågogielajt. Sebrudahka galggá ietján aj åvddånahttet rijkalasj unneplågoj máhttelisvuodajt anodit ja åvdedit kultuvrasa Svierigin. Mánáj kultuvralasj identitehta</p>
+<p><em type="bold">Vuodosuodje </em></p>
+<p><em type="bold">Gájkkásasj  biejadusá</em> </p>
+<p>§ 8–12</p>
+<p>6–7<em type="bold">Tjuottjudusguovlo</em> </p>
+<p><em type="bold">§11</em>Tjuottjudusfábmu</p>
+<p>dagá galggi barggat vaj bargge gávnnuji gudi suomagielav, meängielav ja sámegielav máhtti gå la  dárbbo aktugattjaj aktavuodajn fábmudagájn.</p>
+<p><em type="bold">§8 </em>Aktugattjajn la riektá </p>
+<p>Tjuottjudusguovllon suomagiellaj li kommuv-<em type="bold">§7</em>Ietjá kommuvna gå ma </p>
+<p><em type="bold">§9</em>Tjuottjudusguovlo </p>
+<p><em type="bold">Riektá suomagielav, meängielav ja sámegielav fábmudagájn ávkkit</em> </p>
+<p><em type="bold">§12</em>Tjuottjudusfáb</p>
+<p>diededuvvi 6 § máhtti diededime maŋŋela bessat suomagiela, meängiela jali sámegiela tjuottjudusguovlluj. Märrádusáv vaj kommuvnna galggá tjuottjudusguovlluj oadtjot bessat, váldeduvvá ráddidusás. Ráddidus oadtju biejadusájt tjuottjudusguovlluj diededit dakkár iesjmiedogis säbrrama birra.</p>
+<p>ålggolin la aktugattjajn riektá suomagielav, meängielav ja sámegielav ávkkit njálmálasj ja tjálalasj aktavuodajn tjuottjudusfábmudagáj ássjijn gånnå aktugasj la oassebielle jali oassebiele sadjásasj, jus ássje máhttá giehtadaláduvvat barggijs gudi unneplågogielav bukti.</p>
+<p><em type="bold">9§ </em>Hallintoalueen ulkopuolella </p>
+<p><em type="bold">§10</em>Aktugattjajn la agev </p>
+<p>yksityisillä henkilöillä on oikeus käyttää meänkieltä, saamea ja suomea suullisissa ja kirjallisissa yhteyksissä hallintoviranomaisiin asioissa, joissa yksityinen henkilö on osapuoli tai osapuolen edustaja, jos asian pystyy käsittelemään työntekijä, joka hallitsee vähemmistökielen.</p>
+<p>mudagá oadtju mierredit sierra ájgijt ja sierra sajev duostutjit guossididdje aktugattjajt gudi suomagielav, meängielav ja sámegielav ságasti, ja sierra telefåvnnåájgijt adnet.</p>
+<p>suomagielav, meängielav ja sámegielav ávkkit ietjasa njálmálasj ja tjálalasj aktavuodajn tjuottjudusguovlujn man geográfalasj doajmmabájkke ållåsit jali muhtem mudduj aktan gullu unneplågogiela tjuottjudusguovlujn. Dat gullu ássjijda gånnå aktugasj la oassebielle jali oassebiele sadjásasj, jus ássjen la tjuottjudusfábmudahkaj tjanos. Jus aktugasj suomagielav, meängielav jali sámegielav ávkki dakkár ássjen, la fábmudahka vielggen njálmálasj vásstádusáv sämmi giellaj vaddet. Aktugattjajn gejn ij la juridijkalasj viehkke, la vil riektá ádnoma maŋŋela oadtjot tjálalasj jårggålimev ássje märrádusás ja märrádustjielggimis suomagiellaj, meängiellaj ja sámegiellaj. Fábmudahka galggá ietján aj rahtjat aktugattjajt ietjasa giellaj duosstot. åvdedibme ja unneplågogielasa ávkkim galggá sierraláhkáj åvddånahteduvvat.</p>
+<p>riektá suomagielav ja sámegielav ávkkit tjálalasj aktavuodajn Rijkabiejve oahttsij. Dan láhkáj la aj aktugattjaj tjálalasj aktavuodajn Justitiekanslerijn, Oadjodåjmadagájn, Värrofábmudagájn ja Nuppástimoahttsijn (DO) ássjijn gånnå aktugasj la oassebielle jali oassebiele sadjásasj.</p>
+<p><em type="bold">§13–21</em> </p>
+</body></document>

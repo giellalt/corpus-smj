@@ -1,93 +1,53 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1251</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Pubertahtta</origFileName>
-    <parallel_text xml:lang="fin" location="murrosika.html"/>
-    <parallel_text xml:lang="fit" location="pyberteetti.html"/>
-    <parallel_text xml:lang="sma" location="puberteete.html"/>
-    <parallel_text xml:lang="sme" location="ravasmanahki.html"/>
-    <parallel_text xml:lang="swe" location="puberteten.html"/>
-    <parallel_text location="puberteten.html" xml:lang="rmu"/>
-    <parallel_text location="kana-e-glata-kerdol-ternimata.html" xml:lang="rmy-rka"/>
-    <parallel_text location="puberiteti.html" xml:lang="rmf"/>
-    <parallel_text location="puberteto.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="puberteti.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Pubertähtta</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Pubertähtta</p>
-    <p>Muhtem ájgen 10 ja 13 jage gaskan ienemusá pubertähttaj ålliji. Pubertehtan rumáj åvdeduvvá mánás ållessjattugij. Buojkulvissan giella ja sjiervve rievddá, oadtju tjásmagisájt ja seksas miellogis sjaddagoahtá.</p>
-    <p>Pubertähtta hormåvnåjs jåhtuj boahtá. Hormåvnå li ábnnasa ma dagáduvvi rubmaha rávsájn. Hormåvnå bájnatji rubmahav vaj moatteláhkáj doajmmá. Buojkulvissan stivrriji nahkárav, varradättov, mielav ja man edna tjáhtje l rubmahin. Le aj hormåvnå ma mierredi gåktu ja goassa rumáj åvdeduvvá.</p>
-    <p>Goassa pubertähttaj ålli ja gåktu dåbddu målsut ednagit ulmutjis ulmutjij. Muhtema máhtti hálijdit liejbev jali sjkávtjájt oadtjot ja iehtjáda gis vájvalussji.</p>
-    <p>Jus árrat jali maŋŋet pubertähttaj ållå ij la mige majt iesj máhttá stivrrit. Niejdajda pubertähtta álggá gå li 10 ja 12 jage gaskan ja bárnijda 11 ja 13 jage gaskan. Le dábálasj dáhpáduvvá goappátjagá árabut ja maŋebut aj. Man vuoras la gå pubertähttaj ålli la biologalasj árbbe.</p>
-    <p>Ålles pubertähtta gållå vihtta jali guhtta jage ja ulmusj ietjas milta åvddån ja danen umass ruvva. Pubertähtta álu álggá ruvva sjaddamijn. Muhttijn máhttá ietjas vehik boalbben dåbddåt danen gå gájkka lahto e avtabále sjatta. Buojkulvissan álu gieda ja juolge sjaddi ednagit álgon.</p>
-    <p>Gå pubertehtav guodá de ålles guhkkudahka.</p>
-    <p type="title">Pubertehtan årrot</p>
-    <p>Álu gullá pubertähtta l vájves ájgge. Nåvti máhttá årrot muhtemijda, valla ij gájkajda. Ållusij la suohtas ja geldulasj ájgge viessomin, gå moadda ådåsa dáhpáduvvi goappátjagá ietjajnis ja iehtjádij birrasin. Ålos lijkkuji sjaddat ja oadtjot ållessjattuk rubmahav ja hámev, valla e gájka. Dåbddu márjju hiemssen gå rumáj ietjájduvvá, muhttijn máhttá dåbddåt vaj ij riekta dádjada.</p>
-    <p>Muhttijn máhttá dåbddut ájádusá ja rávkalvisá li, buojkulvissan gåktu galggá vuojnnut niejddan jali bárnnen. Ållessjattugijn máhtti vuojno gåktu nuora <span type="quote">“li”</span>, mij buojkoduvvá nievres bágoj, degu nuora li vájve ja dåruna. Galggá mujttet avtanik ij la riektá dåmajdit nievresláhkáj ja riektá årrot gåktu iesj sihtá.</p>
-    <p>Jus vájvven dåbddu de márjju l buorre ietjá ulmutjijn ságastit. Buojkulvissan máhttá årrot skåvllåskihpasujtár, skåvllåkuratåvrrå, jali muhtem ulmusj nuorajduostudagán.</p>
-    <p type="title">Mij dáhpáduvvá pubertehtan?</p>
-    <p type="title">Njittje</p>
-    <p>Niejdajda l vuostasj dåbddomärkka pubertehtan gå njittje sjaddagåhti. Dav máhtti gullat gå oadtju smávva garra bavhlijt njidtjevártoj duogen. Le ráksá njittjijn mij åvdeduvvá. Gå njittje sjaddi de máhtti sagŋedit ja bávtjestit. Le aj dábálasj bávtjes gå juosik jåstes jali njittjijt ilá tjavgga soajttá duohttá.</p>
-    <p>Dájvvámusát njidtje sjaddagoahtá åvddål nuppe njittje. Álu njittje sjaddi umass ruvva.</p>
-    <p>Gájkka bárnijs vargga bielle oadtju njidtjerávsájt ma máhtti vuojnnut ja dåbddut unna bavhllen nuppe jali goappásj njidtjevártoj vuolen. Njidtjerávsá máhtti aj bávtjestit, ja ij la vádálasj. Oanegis ájge duogen njidtjeráksá vat unnu. Máhttá gihtjat gitta guokta jali gålmmå jage.</p>
-    <p type="title">Guolga rubmahin.</p>
-    <p>Pubertehtan siehpajt oadtju. Siehpa sjaddagåhti sjierven ja gitta sjnjibtjojda. Goappátjagá bárne ja niejda máhtti oadtjot guolgajt rabddan náhpáj.</p>
-    <p>Oadtju aj guolgajt giedavuolláj ja álu guolga aj sjaddi ietjá sajijn rubmahin, buojkulvissan giedaj ja juolgij nanna. Bárne máhtti aj guolgajt ráddáj ja tjavelgij oadtjot.</p>
-    <p>Bárne oadtju sjkávtjájt. Álu álggá njunjevuolen ja oabllu nierajda ja gájbbáj. Muhtemijn vuobda sjaddi ja suohku guhkev ållessjattugin.</p>
-    <p>Pubertehtan vuobda oajven njoarvvu ruvábut gå åvdebut. Le danen gå buojdderávsá ienep buojdev dahki. Danen márjju dárbaj oajvev dájvvábut gå åvdebut bassat.</p>
-    <p type="title">Vuollevájmmo</p>
-    <p>Vuollevájmmo ietjájduvvá pubertehtan, goappátjagá stuorrudahka ja bájnno. Buojdderávsá vuojnnugåhti tjielgugappot ja dahká vaj ájttsá dieblijt ja råsjmijt ma li luodulattja ja älla vádálattja. Bivvasa ja låssjkusa ma sjaddagåhti dahká vaj vuollevájmmo aj ietjáláhkáj habsijt gå åvdebut.</p>
-    <p>Niejdajda goappátjagá ålgop ja sisŋep guoddnábaksema nannu ja gámudi. Álu sisŋep guoddnábaksema sjaddi vaj vuojnnuji ålgop guoddnábaksimij ålggolin. Bunno aj sjaddá. Guoddná, skoahto ja månnerávsá ma li rubmahin stuorru. Månneluovvanibme álggá</p>
-    <p>Bárnijda guola sjaddagåhti. Guollavuossa ja buohtja aj sjaddá ja stuorru ja guollavuossa gámut. Man ednagav buohtja sjaddá l umasse ulmutjis ulmutjij. Sisŋep sjiervverávsá ma gåhtjudalli prostahtan ja sädesblåsorna sjaddi. Bajeldislijkke? vijdeduvvá ja stuorru ja bajeldislijke vuolen smegma, vielggis låsjkos, sjaddagoahtá.</p>
-    <p type="title">Sájo</p>
-    <p>Gå guola sjaddi de máhtti vehik bávtjestit. Álu l dåbddomärkka sájojt dahkagåhti. Dáhpáduvvá álu 14-15-jagágin, valla máhttá aj álgget åvdebut jali maŋebut. Jus sájo båhti gå orgasmav oadtju, de ulmusj la pubertehtan. De máhttá ulmutjav iesselissan dahkat jus la guoddnánárggem. Pubertehtan dábálattjat orgasmav oadtju iján oadedijn. Muhtemijda dáhpáduvvá val ájnegis bále iehtjáda gis oadtju orgasmajt iján moadda jage.</p>
-    <p type="title">Vuohtjusa</p>
-    <p>Åvddål läjbbogoahtá de vuohtjusijt oadtju. Älvvá gå vehik visskávielggat sisbåvsåjn sjaddá. Vuohtjusa dahki vaj tsuottsa guodnán li njuosskasa, ja guodnáv rájnnasin anedi ja suoddjiji infeksjåvnåjda.</p>
-    <p type="title">Liejbbe</p>
-    <p>Gå liejbev oadtjo de l månneluovvanibme álgadam. Ulmusj la ållessjattugin, de máhttá iesselissan sjaddat ja mánáv oadtjot.</p>
-    <p>Vuostasj liejbbe álu boahtá guovte jage duogen gå njittje li sjaddagoahtám. Dájvvámusát val binná varra boahtá sisbåvsåjda jali páhppárij gå ietjas såhtsu.</p>
-    <p>Álu li russjkislágásj vuohtjusa åvddål gå vuostasj liejbev oadtju. Rubmaha vuohke l giehttot liejbbe ruvva boahtá. Varrasegadum vuohtjusa li álu tjáhppada ja russjkislágátja, ja le danen gå varra háhppit vehik gåjkkåt åvddål gå ålgus boahtá.</p>
-    <p>Liejbbe álgon la álu målsudahkes. Máhttá buojkulvissan liejbev akti oadtjot ja de moadda máno gålli åvddål gå boahtte liejbbe boahtá. Le dábálasj ja ållu vádádak.</p>
-    <p type="title">Seksahállo</p>
-    <p>Máhttá seksahálov dåbddåt, onanerit jali seksav adnet ietjáláhkáj ja orgasmav oadjtjot juo pubertehtan åvddål. Gå pubertähttaj jåvsåt de álu hállo ja vájnno seksav adnet lassán. Vájku l juo nuorabun onanerim de ienemusá esski pubertehtan duodajn oanerigåhti. Ålos ájádalli dájvvábut dakkirijda ma gulluji seksaj ja álu ájádallagoahtá gåktu galggá dåbddut vuostasj bále gå seksav galggá iehtjádijn adnet.</p>
-    <p>Bárnijda máhtti ájádusá seksa birra dahkat vaj álkket ereksjåvnåv oadtju. Muhttin dav oadtju vájku iesj ij dádjada manen. Máhttá buojkulvissan årrot gå tjåhkkåj bussan mij gahppá jali gå duolmmu sjárrarahten. Gahppama dahki vaj signála manni njuolgga buohtjaj, mannamis vuojŋamij baktu. Máhttá vájvven dåbddut, ja ruvva jáhkká iesj ájnna ulmutjin gut ereksjåvnåv oadtju ájggomahtes, vájku l sieldes dábálasj.</p>
-    <p type="title">Lijkke</p>
-    <p>Jur degu vuobda de lijkke aj ruvábut njoarvvu. Le danen gå buojdderávsá dahki ienep buojdev gå åvdebut, muhttijn ienebuv gå majt ajtu l dárbulasj. Älvvá dav gå lijkke vejut, sierraláhkáj njunje birra ja gállon, valla aj nierajn ja tjavelgin. Gå lijkke buojddu de máhttá båhtusav vaddet tjásmagisájt oadtjot.</p>
-    <p>Pubertehtan máhttá aj sátsojt lijkkáj oadtjot, nåv gåhtjodum lijkketsuovkkanibmen. Le danen gå lijkke vanáduvvá ruvábut gå háhppit hiebaduvvat. Niejdajda la dábálamos lijkkeboarkkanimijt njittjijda oadtjot, tjoarbielijda ja tjippijda. Bárnijda la dábálamos tjavelgin ja ålgijn. Lijkkeboarkkanime gilgudi ájge milta.</p>
-    <p type="title">Bivvasa</p>
-    <p>Bivástuvvagoahtá ienebut pubertehtan, danen la ájnas basádit juohkka biejve. Jus adná dav dárbaj, de máhttá aj adnet deodorantav giedavuolen.</p>
-    <p type="title">Giella</p>
-    <p>Jur nåv gåk rumáj de giella aj åvdeduvvá pubertehtan. Guokkoj sjaddá ja jiednasjnjártja guhkku mij dahká guormes gielav oadtju, gåhtjudallá jiednarievddadussan. Sjaddá goappátjagá niejdajn ja bárnijn. Valla bárnij giella rievddá ienebut gå niejdaj ja máhttá dahkat bárnnen låssu jienav stivrrit. Muhttijn gullu vehik sedu jali målsut tjuodjalis ja guormes giela gaskan åvddål ållu guormes giella sjaddá.</p>
-    <p type="title">Rumáj sjaddá ja ietjájduvvá</p>
-    <p>Pubertehta álgon álu gieda ja juolge sieldes ruvva sjaddi. Dan maŋŋela gieda ja juolge sjaddi. Dan maŋŋela sjaddá ienemusát guhkkudagán. Máhttá sjaddat moadda sentimehtera val moatten mánon. Álu gåhtjudallá sjaddolasedibme.</p>
-    <p>Rumáj ij dåssju guhko valla rievddá aj hábme. Niejda álu oadtju gåbdep tjårbielijt ja bárne gåbdep badjerubmahav.</p>
-    <p type="title">Árra ja maŋŋe pubertähtta</p>
-    <p>Pubertähtta álggá l umass ájgen ja árbbe aj stivvri dav. Pubertähttaj árrat jåvsådit máhttá goappátjagá dåbddut suohttasin ja vájvven. Ilá árrat pubertähttaj jåvsådit, åvddål gå l dävddám gáktsa jage niejddan jali lågev jage bárnnen, la sierralágásj. Jus oadtju pubertähttadåbddomerkajt nåv árrat de luluj ságastit ietjas äjgádij jali ietjá sujttoaddnijn ja aktavuodav válldet skåvllåskihpasujtárijn jali varresvuohtaguovdátjijn.</p>
-    <p>Jus ij la oadtjum avtak pubertähttadåbddomerkajt gå 14 jage ållim de gåhtjudallá maŋŋe pubertähttan. Máhttá de ságastit ietjas äjgádij jali ietjá sujttoaddnijn ja aktan sijájn jali iesj aktavuodav válldet skåvllåskihpasujtárijn, nuorajduostudagájn jali varresvuohtaguovdátjijn. Jus la dárbbo de pubertehtav máhttá álgadit dálkkasij viehkken. Iesj ij máhte dahkat vaj pubertähttáj ruvábut jåvsåt.</p>
-    <p>Jus vájvalussjá gå ij åvdeduvvá sämmi ruvva gå rádna de márjju buoragit dåbddu ietjá ulmutjijn ságastit, skåvllåskihpasujtár l buojkulvissan buorre ulmusj gejna máhttá aktavuodav válldet. Viehkev máhttá aj oadtjot nuoraduostudagán jali varresvuohtaguovdátjin.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1246</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Lulesamiska/Pubertahtta</origFileName><parallel_text xml:lang="fin" location="murrosika.html"/><parallel_text xml:lang="fit" location="pyberteetti.html"/><parallel_text xml:lang="sma" location="puberteete.html"/><parallel_text xml:lang="sme" location="ravasmanahki.html"/><parallel_text xml:lang="swe" location="puberteten.html"/><parallel_text location="puberteten.html" xml:lang="rmu"/><parallel_text location="kana-e-glata-kerdol-ternimata.html" xml:lang="rmy-rka"/><parallel_text location="puberiteti.html" xml:lang="rmf"/><parallel_text location="puberteto.html" xml:lang="rmy-rlo"/><parallel_text location="puberteti.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Pubertähtta</p>
+<p type="title" xml:lang="swe">Pubertähtta</p>
+<p>Muhtem ájgen 10 ja 13 jage gaskan ienemusá pubertähttaj ålliji. Pubertehtan rumáj åvdeduvvá mánás ållessjattugij. Buojkulvissan giella ja sjiervve rievddá, oadtju tjásmagisájt ja seksas miellogis sjaddagoahtá.</p>
+<p>Pubertähtta hormåvnåjs jåhtuj boahtá. Hormåvnå li ábnnasa ma dagáduvvi rubmaha rávsájn. Hormåvnå bájnatji rubmahav vaj moatteláhkáj doajmmá. Buojkulvissan stivrriji nahkárav, varradättov, mielav ja man edna tjáhtje l rubmahin. Le aj hormåvnå ma mierredi gåktu ja goassa rumáj åvdeduvvá.</p>
+<p>Goassa pubertähttaj ålli ja gåktu dåbddu målsut ednagit ulmutjis ulmutjij. Muhtema máhtti hálijdit liejbev jali sjkávtjájt oadtjot ja iehtjáda gis vájvalussji.</p>
+<p>Jus árrat jali maŋŋet pubertähttaj ållå ij la mige majt iesj máhttá stivrrit. Niejdajda pubertähtta álggá gå li 10 ja 12 jage gaskan ja bárnijda 11 ja 13 jage gaskan. Le dábálasj dáhpáduvvá goappátjagá árabut ja maŋebut aj. Man vuoras la gå pubertähttaj ålli la biologalasj árbbe.</p>
+<p>Ålles pubertähtta gållå vihtta jali guhtta jage ja ulmusj ietjas milta åvddån ja danen umass ruvva. Pubertähtta álu álggá ruvva sjaddamijn. Muhttijn máhttá ietjas vehik boalbben dåbddåt danen gå gájkka lahto e avtabále sjatta. Buojkulvissan álu gieda ja juolge sjaddi ednagit álgon.</p>
+<p>Gå pubertehtav guodá de ålles guhkkudahka.</p>
+<p type="title">Pubertehtan årrot</p>
+<p>Álu gullá pubertähtta l vájves ájgge. Nåvti máhttá årrot muhtemijda, valla ij gájkajda. Ållusij la suohtas ja geldulasj ájgge viessomin, gå moadda ådåsa dáhpáduvvi goappátjagá ietjajnis ja iehtjádij birrasin. Ålos lijkkuji sjaddat ja oadtjot ållessjattuk rubmahav ja hámev, valla e gájka. Dåbddu márjju hiemssen gå rumáj ietjájduvvá, muhttijn máhttá dåbddåt vaj ij riekta dádjada.</p>
+<p>Muhttijn máhttá dåbddut ájádusá ja rávkalvisá li, buojkulvissan gåktu galggá vuojnnut niejddan jali bárnnen. Ållessjattugijn máhtti vuojno gåktu nuora <span type="quote">“li”</span>, mij buojkoduvvá nievres bágoj, degu nuora li vájve ja dåruna. Galggá mujttet avtanik ij la riektá dåmajdit nievresláhkáj ja riektá årrot gåktu iesj sihtá.</p>
+<p>Jus vájvven dåbddu de márjju l buorre ietjá ulmutjijn ságastit. Buojkulvissan máhttá årrot skåvllåskihpasujtár, skåvllåkuratåvrrå, jali muhtem ulmusj nuorajduostudagán.</p>
+<p type="title">Mij dáhpáduvvá pubertehtan?</p>
+<p type="title">Njittje</p>
+<p>Niejdajda l vuostasj dåbddomärkka pubertehtan gå njittje sjaddagåhti. Dav máhtti gullat gå oadtju smávva garra bavhlijt njidtjevártoj duogen. Le ráksá njittjijn mij åvdeduvvá. Gå njittje sjaddi de máhtti sagŋedit ja bávtjestit. Le aj dábálasj bávtjes gå juosik jåstes jali njittjijt ilá tjavgga soajttá duohttá.</p>
+<p>Dájvvámusát njidtje sjaddagoahtá åvddål nuppe njittje. Álu njittje sjaddi umass ruvva.</p>
+<p>Gájkka bárnijs vargga bielle oadtju njidtjerávsájt ma máhtti vuojnnut ja dåbddut unna bavhllen nuppe jali goappásj njidtjevártoj vuolen. Njidtjerávsá máhtti aj bávtjestit, ja ij la vádálasj. Oanegis ájge duogen njidtjeráksá vat unnu. Máhttá gihtjat gitta guokta jali gålmmå jage.</p>
+<p type="title">Guolga rubmahin.</p>
+<p>Pubertehtan siehpajt oadtju. Siehpa sjaddagåhti sjierven ja gitta sjnjibtjojda. Goappátjagá bárne ja niejda máhtti oadtjot guolgajt rabddan náhpáj.</p>
+<p>Oadtju aj guolgajt giedavuolláj ja álu guolga aj sjaddi ietjá sajijn rubmahin, buojkulvissan giedaj ja juolgij nanna. Bárne máhtti aj guolgajt ráddáj ja tjavelgij oadtjot.</p>
+<p>Bárne oadtju sjkávtjájt. Álu álggá njunjevuolen ja oabllu nierajda ja gájbbáj. Muhtemijn vuobda sjaddi ja suohku guhkev ållessjattugin.</p>
+<p>Pubertehtan vuobda oajven njoarvvu ruvábut gå åvdebut. Le danen gå buojdderávsá ienep buojdev dahki. Danen márjju dárbaj oajvev dájvvábut gå åvdebut bassat.</p>
+<p type="title">Vuollevájmmo</p>
+<p>Vuollevájmmo ietjájduvvá pubertehtan, goappátjagá stuorrudahka ja bájnno. Buojdderávsá vuojnnugåhti tjielgugappot ja dahká vaj ájttsá dieblijt ja råsjmijt ma li luodulattja ja älla vádálattja. Bivvasa ja låssjkusa ma sjaddagåhti dahká vaj vuollevájmmo aj ietjáláhkáj habsijt gå åvdebut.</p>
+<p>Niejdajda goappátjagá ålgop ja sisŋep guoddnábaksema nannu ja gámudi. Álu sisŋep guoddnábaksema sjaddi vaj vuojnnuji ålgop guoddnábaksimij ålggolin. Bunno aj sjaddá. Guoddná, skoahto ja månnerávsá ma li rubmahin stuorru. Månneluovvanibme álggá</p>
+<p>Bárnijda guola sjaddagåhti. Guollavuossa ja buohtja aj sjaddá ja stuorru ja guollavuossa gámut. Man ednagav buohtja sjaddá l umasse ulmutjis ulmutjij. Sisŋep sjiervverávsá ma gåhtjudalli prostahtan ja sädesblåsorna sjaddi. Bajeldislijkke? vijdeduvvá ja stuorru ja bajeldislijke vuolen smegma, vielggis låsjkos, sjaddagoahtá.</p>
+<p type="title">Sájo</p>
+<p>Gå guola sjaddi de máhtti vehik bávtjestit. Álu l dåbddomärkka sájojt dahkagåhti. Dáhpáduvvá álu 14-15-jagágin, valla máhttá aj álgget åvdebut jali maŋebut. Jus sájo båhti gå orgasmav oadtju, de ulmusj la pubertehtan. De máhttá ulmutjav iesselissan dahkat jus la guoddnánárggem. Pubertehtan dábálattjat orgasmav oadtju iján oadedijn. Muhtemijda dáhpáduvvá val ájnegis bále iehtjáda gis oadtju orgasmajt iján moadda jage.</p>
+<p type="title">Vuohtjusa</p>
+<p>Åvddål läjbbogoahtá de vuohtjusijt oadtju. Älvvá gå vehik visskávielggat sisbåvsåjn sjaddá. Vuohtjusa dahki vaj tsuottsa guodnán li njuosskasa, ja guodnáv rájnnasin anedi ja suoddjiji infeksjåvnåjda.</p>
+<p type="title">Liejbbe</p>
+<p>Gå liejbev oadtjo de l månneluovvanibme álgadam. Ulmusj la ållessjattugin, de máhttá iesselissan sjaddat ja mánáv oadtjot.</p>
+<p>Vuostasj liejbbe álu boahtá guovte jage duogen gå njittje li sjaddagoahtám. Dájvvámusát val binná varra boahtá sisbåvsåjda jali páhppárij gå ietjas såhtsu.</p>
+<p>Álu li russjkislágásj vuohtjusa åvddål gå vuostasj liejbev oadtju. Rubmaha vuohke l giehttot liejbbe ruvva boahtá. Varrasegadum vuohtjusa li álu tjáhppada ja russjkislágátja, ja le danen gå varra háhppit vehik gåjkkåt åvddål gå ålgus boahtá.</p>
+<p>Liejbbe álgon la álu målsudahkes. Máhttá buojkulvissan liejbev akti oadtjot ja de moadda máno gålli åvddål gå boahtte liejbbe boahtá. Le dábálasj ja ållu vádádak.</p>
+<p type="title">Seksahállo</p>
+<p>Máhttá seksahálov dåbddåt, onanerit jali seksav adnet ietjáláhkáj ja orgasmav oadjtjot juo pubertehtan åvddål. Gå pubertähttaj jåvsåt de álu hállo ja vájnno seksav adnet lassán. Vájku l juo nuorabun onanerim de ienemusá esski pubertehtan duodajn oanerigåhti. Ålos ájádalli dájvvábut dakkirijda ma gulluji seksaj ja álu ájádallagoahtá gåktu galggá dåbddut vuostasj bále gå seksav galggá iehtjádijn adnet.</p>
+<p>Bárnijda máhtti ájádusá seksa birra dahkat vaj álkket ereksjåvnåv oadtju. Muhttin dav oadtju vájku iesj ij dádjada manen. Máhttá buojkulvissan årrot gå tjåhkkåj bussan mij gahppá jali gå duolmmu sjárrarahten. Gahppama dahki vaj signála manni njuolgga buohtjaj, mannamis vuojŋamij baktu. Máhttá vájvven dåbddut, ja ruvva jáhkká iesj ájnna ulmutjin gut ereksjåvnåv oadtju ájggomahtes, vájku l sieldes dábálasj.</p>
+<p type="title">Lijkke</p>
+<p>Jur degu vuobda de lijkke aj ruvábut njoarvvu. Le danen gå buojdderávsá dahki ienep buojdev gå åvdebut, muhttijn ienebuv gå majt ajtu l dárbulasj. Älvvá dav gå lijkke vejut, sierraláhkáj njunje birra ja gállon, valla aj nierajn ja tjavelgin. Gå lijkke buojddu de máhttá båhtusav vaddet tjásmagisájt oadtjot.</p>
+<p>Pubertehtan máhttá aj sátsojt lijkkáj oadtjot, nåv gåhtjodum lijkketsuovkkanibmen. Le danen gå lijkke vanáduvvá ruvábut gå háhppit hiebaduvvat. Niejdajda la dábálamos lijkkeboarkkanimijt njittjijda oadtjot, tjoarbielijda ja tjippijda. Bárnijda la dábálamos tjavelgin ja ålgijn. Lijkkeboarkkanime gilgudi ájge milta.</p>
+<p type="title">Bivvasa</p>
+<p>Bivástuvvagoahtá ienebut pubertehtan, danen la ájnas basádit juohkka biejve. Jus adná dav dárbaj, de máhttá aj adnet deodorantav giedavuolen.</p>
+<p type="title">Giella</p>
+<p>Jur nåv gåk rumáj de giella aj åvdeduvvá pubertehtan. Guokkoj sjaddá ja jiednasjnjártja guhkku mij dahká guormes gielav oadtju, gåhtjudallá jiednarievddadussan. Sjaddá goappátjagá niejdajn ja bárnijn. Valla bárnij giella rievddá ienebut gå niejdaj ja máhttá dahkat bárnnen låssu jienav stivrrit. Muhttijn gullu vehik sedu jali målsut tjuodjalis ja guormes giela gaskan åvddål ållu guormes giella sjaddá.</p>
+<p type="title">Rumáj sjaddá ja ietjájduvvá</p>
+<p>Pubertehta álgon álu gieda ja juolge sieldes ruvva sjaddi. Dan maŋŋela gieda ja juolge sjaddi. Dan maŋŋela sjaddá ienemusát guhkkudagán. Máhttá sjaddat moadda sentimehtera val moatten mánon. Álu gåhtjudallá sjaddolasedibme.</p>
+<p>Rumáj ij dåssju guhko valla rievddá aj hábme. Niejda álu oadtju gåbdep tjårbielijt ja bárne gåbdep badjerubmahav.</p>
+<p type="title">Árra ja maŋŋe pubertähtta</p>
+<p>Pubertähtta álggá l umass ájgen ja árbbe aj stivvri dav. Pubertähttaj árrat jåvsådit máhttá goappátjagá dåbddut suohttasin ja vájvven. Ilá árrat pubertähttaj jåvsådit, åvddål gå l dävddám gáktsa jage niejddan jali lågev jage bárnnen, la sierralágásj. Jus oadtju pubertähttadåbddomerkajt nåv árrat de luluj ságastit ietjas äjgádij jali ietjá sujttoaddnijn ja aktavuodav válldet skåvllåskihpasujtárijn jali varresvuohtaguovdátjijn.</p>
+<p>Jus ij la oadtjum avtak pubertähttadåbddomerkajt gå 14 jage ållim de gåhtjudallá maŋŋe pubertähttan. Máhttá de ságastit ietjas äjgádij jali ietjá sujttoaddnijn ja aktan sijájn jali iesj aktavuodav válldet skåvllåskihpasujtárijn, nuorajduostudagájn jali varresvuohtaguovdátjijn. Jus la dárbbo de pubertehtav máhttá álgadit dálkkasij viehkken. Iesj ij máhte dahkat vaj pubertähttáj ruvábut jåvsåt.</p>
+<p>Jus vájvalussjá gå ij åvdeduvvá sämmi ruvva gå rádna de márjju buoragit dåbddu ietjá ulmutjijn ságastit, skåvllåskihpasujtár l buojkulvissan buorre ulmusj gejna máhttá aktavuodav válldet. Viehkev máhttá aj oadtjot nuoraduostudagán jali varresvuohtaguovdátjin.</p>
+</body></document>

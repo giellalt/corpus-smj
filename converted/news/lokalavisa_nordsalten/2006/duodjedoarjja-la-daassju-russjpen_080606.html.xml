@@ -1,50 +1,12 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Duodjedoarjja la dåssju "russjpen"</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>551</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/duodjedoarjja-la-dassju-russjpen.4138</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Duodjedoarjja la dåssju <span type="quote" xml:lang="nob">"russjpen"</span></p>
-    <p>Ålov dahkat avtat dávveris ij la duodje, javllá duodjár Aline Mikkelsen. Mikkelsen la juo måttijt jagijt duodjuham. Mañemus jagijt la sån gæhttjalam duojes viessot, valla ij de duosta tijmmabálkkáv rieknit. -Sámedikke æládusdoarjja l dåssju <span type="quote" xml:lang="nob">”russjpen”</span>, javllá sån. Norsk kortversjon</p>
-    <p>
-      <em type="italic">Aline Mikkelsen ietjas atelieran gånnå duov dáv duojev dahka. </em>
-    </p>
-    <p>Aline Mikkelsen lij åvdep vahkkolåhpan åvddånjunnjutjin gå bájkálasj duodjesiebrre Duodje Nordlánnda ásadij rijkasiebre Samij Duodje jahketjåhkanimev Bájddárin. Dåppen lidjin duodjára tjoahken ålles rijkas giehttomin duoje birra, ja ållagattjat duodje æládussan. Sámij Duodje ja Sámedigge libá ájgás boahtám æládussjiehtadusájn mij vaddá duodjárijda máhttelisvuodav rudájt åhtsåt jus sierra gájbbádusájt ållidahtá. -Munji lij dal máhttelis duojes viessot juska ij lim dát sjiehtadus, valla dát æládussjiehtadus la dagu <span type="quote">”russjpe”</span> duodjárijda, ja la sæmmi gå 40 prosenta dajs duojijs majt la jådedam åvdep jage, tjielggi Aline Mikkelsen.</p>
-    <p>
-      <em type="italic">Gájbbádusá </em>
-    </p>
-    <p>Badjelasj 160 lidjin åhtsåm dát æládusdoarjjagis Sámedikkes, valla dåssju 34 ållidin gájbbádusájt, ja oadtjun rudájt. Gájbbádusájn tjuodtju hæhttu ållidit dajt sæmmi gájbbádusájt gå sáme jienastuslågon, valla ij dárbaha jienastuslågon tjuodtjot. Hæhttu binnemusát jådedit 50.000 kråvnås jahkáj ja ij oattjo doarjjagav jus la oassesiebrre(OS). Duodden hæhttu liehket duodje majt le iesj dahkam. -Juska le dát årnik jåhtuj boahtám, da le huoman dagu <span type="quote">”gæhttjalimårnik”</span>. Dajna le de máhttelis dagu dajt gájbbádusájt mañenagi rievddadit. Moadda ássje hæhttuhi ájn rájdaduvvat åvdås sjiehtadus le ålles. Ja ælla dåssju sij gudi li duodjelåhkusin gudi oadtju doarjjagav dajs rudájs, subtsas Aline Mikkelsen. Mikkelsen la ájras Sámij Duodje rijkasiebre stivran, ja sujna le de máhttelis dájt gájbbádusájt vájkkudit. Nubbe siebrre gænna le fábmodus dajt vájkkudit la Duodjárij Æláhussiebrre.</p>
-    <p>
-      <em type="italic">Árbbedabálasj </em>
-    </p>
-    <p>Duodjeæládusán ælla rat ruhtadårja, ja dajna de ælla ga moattes duodjárijs gudi duojes viessu. Aline Mikkelsen le ájnna julevsábme Vuona bielen gænna le duodje oajvveæládussan ja gænna le duodje oajvvesisboahton. Mikkelsena mielas ij le dát ruhtadoarjja nuoges sunji, valla Mikkelsen huoman årnigav sjivnnjet. -Jus ij lim, de iv diede jus lidjiv duodjuhit. Dát ruhtadoarjja le dal viehkken, valla gå de skáhtev mávsá, ij huoman nav ållo dassta bátse, javllá duodjár Mikkelsen ja giehttu goadelájgo birra, strávve birra, ja duodden duot dát másjijnna ja ræjddo mat hæhttu oasstet. -Doajmmagålo ja ábnnasa li aj divrrasa, dan diehti de ij nav ållo bátse gå de duojev vuobdáv. Valla sidáv árbbedábijt gåtsedit, ja dajna de duojijn barggat. Mån lav suojmma barggam ietjam dan dássáj gåsi lav uddni jåvsådam. Duodjuhav ja nuppijt aj åhpadav skåvlåj ja kursaj tjadá. Duodje muv mielav giddi, ja jáhkáv huoman duodjuhav vájk gåktu dille sjaddá, javllá Aline Mikkelsen.</p>
-    <p>
-      <em type="italic">Garraduodje vs dibmaduodje </em>
-    </p>
-    <p>Aline Mikkelsena mielas ij la duojen dat árvvo mij beras luluj, ållagattjat dibmaduojen. -Aktak e máhte subtsastit duodjárijn la nievres siboahto jus duodjáre ietja e subtsasta. Dajna de hæhttuji duodjára aktan låggñit ja aj hattij birra giehttot, javllá Mikkelsen ja buohtastahttá garraduojev dibmaduojijn. - Iv dal garraduojebielev nav buoragit dåbdå, valla jahkáv la giehpep garraduojijn barggat. Duodden la alep hadde garraduojen. Dibmaduodje le ienep giehtabarggo gå garraduodje, madi garraduojen li dálla nav moadda másjijna ma li viehkken. Duodden la ienep status garraduojen gå dibmaduojen, ja dajna le de aj álkkep garraduoje hattijt aledit, giehttu Aline Mikkelsen gut de hæhttu barggovuogev ietjájduhttet jus galggá rudájt tjijnnit. -Jus mån galggiv rudájt duojij tjijnnit, lidjiv dåssju avtav dávverav dahkat. Valla jus nav barggagoadáv, de iv máhte dav duodjen gåhttjot, javllá Aline Mikkelsen mañutjissaj.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Duodjedoarjja la dåssju "russjpen"</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>551</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/duodjedoarjja-la-dassju-russjpen.4138</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Duodjedoarjja la dåssju <span type="quote" xml:lang="nob">"russjpen"</span></p>
+<p>Ålov dahkat avtat dávveris ij la duodje, javllá duodjár Aline Mikkelsen. Mikkelsen la juo måttijt jagijt duodjuham. Mañemus jagijt la sån gæhttjalam duojes viessot, valla ij de duosta tijmmabálkkáv rieknit. -Sámedikke æládusdoarjja l dåssju <span type="quote" xml:lang="nob">”russjpen”</span>, javllá sån. Norsk kortversjon</p>
+<p><em type="italic">Aline Mikkelsen ietjas atelieran gånnå duov dáv duojev dahka. </em></p>
+<p>Aline Mikkelsen lij åvdep vahkkolåhpan åvddånjunnjutjin gå bájkálasj duodjesiebrre Duodje Nordlánnda ásadij rijkasiebre Samij Duodje jahketjåhkanimev Bájddárin. Dåppen lidjin duodjára tjoahken ålles rijkas giehttomin duoje birra, ja ållagattjat duodje æládussan. Sámij Duodje ja Sámedigge libá ájgás boahtám æládussjiehtadusájn mij vaddá duodjárijda máhttelisvuodav rudájt åhtsåt jus sierra gájbbádusájt ållidahtá. -Munji lij dal máhttelis duojes viessot juska ij lim dát sjiehtadus, valla dát æládussjiehtadus la dagu <span type="quote">”russjpe”</span> duodjárijda, ja la sæmmi gå 40 prosenta dajs duojijs majt la jådedam åvdep jage, tjielggi Aline Mikkelsen.</p>
+<p><em type="italic">Gájbbádusá </em></p>
+<p>Badjelasj 160 lidjin åhtsåm dát æládusdoarjjagis Sámedikkes, valla dåssju 34 ållidin gájbbádusájt, ja oadtjun rudájt. Gájbbádusájn tjuodtju hæhttu ållidit dajt sæmmi gájbbádusájt gå sáme jienastuslågon, valla ij dárbaha jienastuslågon tjuodtjot. Hæhttu binnemusát jådedit 50.000 kråvnås jahkáj ja ij oattjo doarjjagav jus la oassesiebrre(OS). Duodden hæhttu liehket duodje majt le iesj dahkam. -Juska le dát årnik jåhtuj boahtám, da le huoman dagu <span type="quote">”gæhttjalimårnik”</span>. Dajna le de máhttelis dagu dajt gájbbádusájt mañenagi rievddadit. Moadda ássje hæhttuhi ájn rájdaduvvat åvdås sjiehtadus le ålles. Ja ælla dåssju sij gudi li duodjelåhkusin gudi oadtju doarjjagav dajs rudájs, subtsas Aline Mikkelsen. Mikkelsen la ájras Sámij Duodje rijkasiebre stivran, ja sujna le de máhttelis dájt gájbbádusájt vájkkudit. Nubbe siebrre gænna le fábmodus dajt vájkkudit la Duodjárij Æláhussiebrre.</p>
+<p><em type="italic">Árbbedabálasj </em></p>
+<p>Duodjeæládusán ælla rat ruhtadårja, ja dajna de ælla ga moattes duodjárijs gudi duojes viessu. Aline Mikkelsen le ájnna julevsábme Vuona bielen gænna le duodje oajvveæládussan ja gænna le duodje oajvvesisboahton. Mikkelsena mielas ij le dát ruhtadoarjja nuoges sunji, valla Mikkelsen huoman årnigav sjivnnjet. -Jus ij lim, de iv diede jus lidjiv duodjuhit. Dát ruhtadoarjja le dal viehkken, valla gå de skáhtev mávsá, ij huoman nav ållo dassta bátse, javllá duodjár Mikkelsen ja giehttu goadelájgo birra, strávve birra, ja duodden duot dát másjijnna ja ræjddo mat hæhttu oasstet. -Doajmmagålo ja ábnnasa li aj divrrasa, dan diehti de ij nav ållo bátse gå de duojev vuobdáv. Valla sidáv árbbedábijt gåtsedit, ja dajna de duojijn barggat. Mån lav suojmma barggam ietjam dan dássáj gåsi lav uddni jåvsådam. Duodjuhav ja nuppijt aj åhpadav skåvlåj ja kursaj tjadá. Duodje muv mielav giddi, ja jáhkáv huoman duodjuhav vájk gåktu dille sjaddá, javllá Aline Mikkelsen.</p>
+<p><em type="italic">Garraduodje vs dibmaduodje </em></p>
+<p>Aline Mikkelsena mielas ij la duojen dat árvvo mij beras luluj, ållagattjat dibmaduojen. -Aktak e máhte subtsastit duodjárijn la nievres siboahto jus duodjáre ietja e subtsasta. Dajna de hæhttuji duodjára aktan låggñit ja aj hattij birra giehttot, javllá Mikkelsen ja buohtastahttá garraduojev dibmaduojijn. - Iv dal garraduojebielev nav buoragit dåbdå, valla jahkáv la giehpep garraduojijn barggat. Duodden la alep hadde garraduojen. Dibmaduodje le ienep giehtabarggo gå garraduodje, madi garraduojen li dálla nav moadda másjijna ma li viehkken. Duodden la ienep status garraduojen gå dibmaduojen, ja dajna le de aj álkkep garraduoje hattijt aledit, giehttu Aline Mikkelsen gut de hæhttu barggovuogev ietjájduhttet jus galggá rudájt tjijnnit. -Jus mån galggiv rudájt duojij tjijnnit, lidjiv dåssju avtav dávverav dahkat. Valla jus nav barggagoadáv, de iv máhte dav duodjen gåhttjot, javllá Aline Mikkelsen mañutjissaj.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

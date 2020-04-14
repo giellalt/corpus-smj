@@ -1,49 +1,17 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Måske skåvllå bissu jus åhpadiddjijt oadtju og Vájmulasj dájddavuosádus</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Maria" lastname="Mikkelsen" sex="m" born="1987" nationality="nor"/>
-    </author>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>347</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_260609.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-    <note>norsk bildetekst</note>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta/gåvå: Maria Mikkelsen</p>
-    <p><em type="italic">- Máná soapptsu dánna skåvlåvvádtset, ja skåvlå dagi debájkke ávdan sjaddá, javlláAstrid Johnsen.(Arkivfoto Muskenelever 2008)</em> </p>
-    <p>Ælla nuoges diedoJa  æjgáda  vuorbástuvvin  dajna  gåsuohkanstivrra ittjij hiejttemij guorrasa.- Muv mielas ep diede jus juohkka oahppijnla  buorep  dille  Ájluovtan,  ælla  mijánnuoges  diedo  dan  birra,  javllá  Jan  IvarJakobsen, gut suohkanstivrratjåhkanimenoajvvadij Måske skåvlåv bissot.Suv mielas lej gássjelis ássje, ja sån dádjatmanen muhtema ettjin sujna guorrasa.-  Dáv  ássjev  lip  ålles  jagev  árvustallamdan  diehti  gå  skåvlån  li  nav  gallegasjoahppe.  Dádjadav  iehtjádij  argumentajt,le  hálvva  gássjelisvuohta  gå  oahppe  eklássabirrusav  oattjo.  Valla  iesj  gåjtmierrediv gæhttjalit skåvlåv bisodit, javlláJakobsen.</p>
-    <p>Li rahtjam</p>
-    <p>- Dát la dábálasj prosæssa juohkusin, jaåvddånammadusá  mærrádus  le  agevgasskabåddåsasj. Gullunagi le sidot dahkatnav buorev gå máhttelis skåvlåv bisodittjat,javllá Sæter, gut loabet galggi dahkat majtnahki åhpadiddjijt gávnatjit.</p>
-    <p>máhtudagájn. Jus i, de skåvllå hiejteduvvámærrádusá baktu, javlla Jan Ivar Jakob-sen.Åvddåla  li  læhkám  gássjelisvuodaåhpadiddjijt  Måsskåj  gávnnat.  Dálvenskåvllå vargga hiejteduváj jur dan diehtigå  ællim  åhpadiddje.  Dalloj  hæhttujgaguokta pensjonista, Mikal Urheim ja WillyÅmo, skåvllåjage gæhtjáj åhpadit. ÆjgátAstrid Johnsen ij huoman måråda.- Ållu jasska lav. Jáhkáv skåvllå l dánnatjaktjaj, javlla Astrid Johnsen.</p>
-    <p>Vuojnov rievdajBáhkojådediddje, Anders Sæter, guorrasijSeljenesa  ja  Mathiesena  oajvvadussajåvddånammadusán, valla suohkanstivransån  farra  Jakobsena  oajvvadusájnguorrasij.<em type="italic">Manen la vuojnov rievddam?</em> </p>
-    <p>Dárbahi åhpadiddjijtDanen gå suohkanstivrra mærrádusán li ajgájbbádusá.  Måske  skåvllå  bissu  -  jusgávnnu  åhpadiddje  máhtudagájn.  Dállaalmoduvvi guokta rabás virgge skåvlån.-  Sávadahtte  åhtsi  åhpadiddje  buorre</p>
-    <p>Vájmulasjdájddavuosádus</p>
-    <p>- <span type="quote">«Muv vájmmo»</span> le vuosádus mij tsahkkat jaarvusmahttá muv, javllá Katarina Rimpi ietjas</p>
-    <p>dájddavuosádusá birra.</p>
-    <p>Mánnodagá  rabáj  Katarina  Rimpi  ietjasvuosádusáv  <span type="quote">«Muv  vájmmo»</span>  Árranadávvervuorkkán.Rimpi  l  sáme  dájddár  ja  duodjárÅlloluovtas, Jåhkåmåhken Svierigabielen.Sån buoremusát lijkku muorraj ja tjårvijbarggat,  valla  málli  aj  akryllajn  jaakvarellajn.-  Dá  bargo  li  munji  vaddámsjivnnjedimávov  ja  sieloráfev.  Sámekultuvrajn  ja  tuvsánjahkásasj  árbbedábijvuodon, luonndovirkkáj vattá praktihkalasjdåjmav ja hámev, dát le ihkeva suohtas!Javllá Rimpi ietjas dájda birra.Árranin  subtsastij  gåktu  dájdajnbarggagådij.- Mån lav agev giedaj barggam. Valla gå</p>
-    <p>Låhkiv  farra  matematihkav  ja  realfágajtskåvlån,  ja  maKenagi  aj  sivilingeniørrajlåhkågåhtiv. Valla dat ij lim riekta munji,jåhtiv sijddaj ja låhkågåhtiv tjoarvve- jatekstijllalinjáv Sámij ÅhpadusguovdátjinJåhkåmåhken. Danna mån dádjadiv duojijnsihtiv barggat, javllá Katarina Rimpi, guttjaktjaj dájddaåhpadussaj álggá.</p>
-    <p>Katarina  Rimpi  le  aj  juojgge,  ja  le  dájtbiejvijt CD:ajn barggamin. Árranin juojgajdajda gudi lidjin rahpamussaj boahtám.-  Juohkka  bále  gå  ådå  sadjáj  boadávjuojgav áhko <em type="italic">vuggesang</em>, dat jaskadahttámuv. </p>
-    <p>Dájddavuosádus  le  Árranin  bårggemáno</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Måske skåvllå bissu jus åhpadiddjijt oadtju og Vájmulasj dájddavuosádus</title><genre code="news"/><author><person firstname="Maria" lastname="Mikkelsen" sex="m" born="1987" nationality="nor"/></author><year>2009</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>347</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_260609.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version><note>norsk bildetekst</note></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta/gåvå: Maria Mikkelsen</p>
+<p><em type="italic">- Máná soapptsu dánna skåvlåvvádtset, ja skåvlå dagi debájkke ávdan sjaddá, javlláAstrid Johnsen.(Arkivfoto Muskenelever 2008)</em> </p>
+<p>Ælla nuoges diedoJa  æjgáda  vuorbástuvvin  dajna  gåsuohkanstivrra ittjij hiejttemij guorrasa.- Muv mielas ep diede jus juohkka oahppijnla  buorep  dille  Ájluovtan,  ælla  mijánnuoges  diedo  dan  birra,  javllá  Jan  IvarJakobsen, gut suohkanstivrratjåhkanimenoajvvadij Måske skåvlåv bissot.Suv mielas lej gássjelis ássje, ja sån dádjatmanen muhtema ettjin sujna guorrasa.-  Dáv  ássjev  lip  ålles  jagev  árvustallamdan  diehti  gå  skåvlån  li  nav  gallegasjoahppe.  Dádjadav  iehtjádij  argumentajt,le  hálvva  gássjelisvuohta  gå  oahppe  eklássabirrusav  oattjo.  Valla  iesj  gåjtmierrediv gæhttjalit skåvlåv bisodit, javlláJakobsen.</p>
+<p>Li rahtjam</p>
+<p>- Dát la dábálasj prosæssa juohkusin, jaåvddånammadusá  mærrádus  le  agevgasskabåddåsasj. Gullunagi le sidot dahkatnav buorev gå máhttelis skåvlåv bisodittjat,javllá Sæter, gut loabet galggi dahkat majtnahki åhpadiddjijt gávnatjit.</p>
+<p>máhtudagájn. Jus i, de skåvllå hiejteduvvámærrádusá baktu, javlla Jan Ivar Jakob-sen.Åvddåla  li  læhkám  gássjelisvuodaåhpadiddjijt  Måsskåj  gávnnat.  Dálvenskåvllå vargga hiejteduváj jur dan diehtigå  ællim  åhpadiddje.  Dalloj  hæhttujgaguokta pensjonista, Mikal Urheim ja WillyÅmo, skåvllåjage gæhtjáj åhpadit. ÆjgátAstrid Johnsen ij huoman måråda.- Ållu jasska lav. Jáhkáv skåvllå l dánnatjaktjaj, javlla Astrid Johnsen.</p>
+<p>Vuojnov rievdajBáhkojådediddje, Anders Sæter, guorrasijSeljenesa  ja  Mathiesena  oajvvadussajåvddånammadusán, valla suohkanstivransån  farra  Jakobsena  oajvvadusájnguorrasij.<em type="italic">Manen la vuojnov rievddam?</em> </p>
+<p>Dárbahi åhpadiddjijtDanen gå suohkanstivrra mærrádusán li ajgájbbádusá.  Måske  skåvllå  bissu  -  jusgávnnu  åhpadiddje  máhtudagájn.  Dállaalmoduvvi guokta rabás virgge skåvlån.-  Sávadahtte  åhtsi  åhpadiddje  buorre</p>
+<p>Vájmulasjdájddavuosádus</p>
+<p>- <span type="quote">«Muv vájmmo»</span> le vuosádus mij tsahkkat jaarvusmahttá muv, javllá Katarina Rimpi ietjas</p>
+<p>dájddavuosádusá birra.</p>
+<p>Mánnodagá  rabáj  Katarina  Rimpi  ietjasvuosádusáv  <span type="quote">«Muv  vájmmo»</span>  Árranadávvervuorkkán.Rimpi  l  sáme  dájddár  ja  duodjárÅlloluovtas, Jåhkåmåhken Svierigabielen.Sån buoremusát lijkku muorraj ja tjårvijbarggat,  valla  málli  aj  akryllajn  jaakvarellajn.-  Dá  bargo  li  munji  vaddámsjivnnjedimávov  ja  sieloráfev.  Sámekultuvrajn  ja  tuvsánjahkásasj  árbbedábijvuodon, luonndovirkkáj vattá praktihkalasjdåjmav ja hámev, dát le ihkeva suohtas!Javllá Rimpi ietjas dájda birra.Árranin  subtsastij  gåktu  dájdajnbarggagådij.- Mån lav agev giedaj barggam. Valla gå</p>
+<p>Låhkiv  farra  matematihkav  ja  realfágajtskåvlån,  ja  maKenagi  aj  sivilingeniørrajlåhkågåhtiv. Valla dat ij lim riekta munji,jåhtiv sijddaj ja låhkågåhtiv tjoarvve- jatekstijllalinjáv Sámij ÅhpadusguovdátjinJåhkåmåhken. Danna mån dádjadiv duojijnsihtiv barggat, javllá Katarina Rimpi, guttjaktjaj dájddaåhpadussaj álggá.</p>
+<p>Katarina  Rimpi  le  aj  juojgge,  ja  le  dájtbiejvijt CD:ajn barggamin. Árranin juojgajdajda gudi lidjin rahpamussaj boahtám.-  Juohkka  bále  gå  ådå  sadjáj  boadávjuojgav áhko <em type="italic">vuggesang</em>, dat jaskadahttámuv. </p>
+<p>Dájddavuosádus  le  Árranin  bårggemáno</p>
+</body></document>

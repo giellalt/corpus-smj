@@ -1,48 +1,13 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Tuvvo galggá sáme kultuvrrasijddan sjaddat</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>285</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="dan"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_290110.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Børge Strandskog Jårggålibme: Divte Media AS/Idar Kintelj j</p>
-    <p>jj</p>
-    <p>j</p>
-    <p>- Gå nav moattes buorre mielajnprosjektaj oassálassti, de jáhkáv nahkapoadtjot buorre ja nanos anovåbddimbargo mannela, miejnni konser-vator/åssudakoajvve Lars Børge Myklev-old Museum Nuorttan. Myklevold le datguhti le dahkam åbddimplánajt Tuvvo-sijda gáktuj. Dán plánan vuojnná stuorramáhttelisvuoda Nuortta-Sálto sámehiståvråv åvddånbuktet, sierraláhkájguovlo skåvlåj gáktuj.  Åbddidum Tuvvomáhttá aj doajmmatsåbadamperspektijvan, ja aj sámekultuvras dåhkkidibmen, sadjihimen jaidentitehtan Hábmerin. Gå Hamsunij jaHamsunguovdátjij (nuppe bielen Glim-mas) tjanáduvvá de ihkap sámekulturåvddånbuktem máhttá oasserijkajgasskasasj berustimes sjaddat.Oassálasste nammadum tjåhkanimentjoahkkájgiessin aj boahtteájgen leávkken dahkat sierraåvddånbuktemplánav Tuvvuj.</p>
-    <p>Åbddimprosjækta le merustaládum600.000 kråvnåjda. Duodden sjaddávæhkádakbarggo. Plánaj miltakulturmujttofoannda ja Sámedigge galggibargov ruhtadit, madi Hábmera suohkana</p>
-    <p>aneduvvat doalvvomij dárbulasjtsieggidummateriálajs dan rahtedissijddaj.</p>
-    <p>birrusin 1870. Tjadnamkontráktan jages1891 tjuodtju lap Peder Paulsen leednamav adnám juo 20 jage.Da gålmmå ruoddidagá Tuvvon lidjingålmmå sierra ednamijn. Sij viessuniesjgengalágásj æláduskombinasjåvnåj,dagu buve, berunsáddjim, boatsojsujtto,guollim, jnv. Georg V. Olsen subtsasHábmera jahkegirjen 1989 ulmutja birrariegádum 1875 guhti lij Tuvvovguossidam mánnán. Girjen majtnammadum ulmusj tjálij, dádjadipåvdebuv nammadum Peder Paulsen jaInger Jonsdatter dalloj gámán årrun.Åhtsåmusán biggimruhtaluojkkamijjagen 1905 tjállá Tuvvo John dannatjuodtju unna dåbåsj sijdan, valla dat ij laanedahtte. Duodden ájvveláduj jafieksegábmáj. Eiendommen, der eralmenning, er ryddet og bebygget av minfader og efter hans død har jeg overtagetdet, tjuodtju åhtsåmusán.</p>
-    <p>Åmastiddje li mihá Tuvvo histåvrås ja limiellusa tsiekkadusájt disposisjåvnnåjbiedjat åvddånbuktemdoajmmaj.Tsiekkadusá, ietjá kulturmujto ja sijdahiståvrrå hiehpá buoragit sihke Árrana,Hábmera suohkana ja Musea Nuortta Divtasvuona museaåvddånbuktemplánajda. Åmastiddjijájggomus le tjaddne sjiehtadusájt dahkatdáj oassálasstij åvddånbuktemij Tuvvohiståvrås, ja vaj dát åvddånbuktem sijdantjadáduvvá.</p>
-    <p>Ájggomus le tjadádit åbddimprosjevtavguovte jage badjel. Jagen 2010 gájkkasnihkkárbarggo galggá gergaduvvat,aktan rábevuolijn goaden. Boahtte jage,2011, lavnnje tjuohpaduvvá ja dæhkkujbårdeduvvá, ja goade ja skiejáålgusjbielle málliduvvá.</p>
-    <p>Áramus gálldo mij vaddá sihkarduodastusáv årudagás Tuvvon, leálmmuklåhkåm jages 1875. Dallojgålmmå fámillja danna årrun, duola daguPeder Paulsen ja Inger Jonsdatter gæsstadálásj åmastiddje li njuolgga gierraga.Jáhkedahtte ulmutja Tuvvuj årrujin</p>
-    <p>j j j j</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Tuvvo galggá sáme kultuvrrasijddan sjaddat</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2010</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>285</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="dan"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_290110.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Børge Strandskog Jårggålibme: Divte Media AS/Idar Kintelj j</p>
+<p>jj</p>
+<p>j</p>
+<p>- Gå nav moattes buorre mielajnprosjektaj oassálassti, de jáhkáv nahkapoadtjot buorre ja nanos anovåbddimbargo mannela, miejnni konser-vator/åssudakoajvve Lars Børge Myklev-old Museum Nuorttan. Myklevold le datguhti le dahkam åbddimplánajt Tuvvo-sijda gáktuj. Dán plánan vuojnná stuorramáhttelisvuoda Nuortta-Sálto sámehiståvråv åvddånbuktet, sierraláhkájguovlo skåvlåj gáktuj.  Åbddidum Tuvvomáhttá aj doajmmatsåbadamperspektijvan, ja aj sámekultuvras dåhkkidibmen, sadjihimen jaidentitehtan Hábmerin. Gå Hamsunij jaHamsunguovdátjij (nuppe bielen Glim-mas) tjanáduvvá de ihkap sámekulturåvddånbuktem máhttá oasserijkajgasskasasj berustimes sjaddat.Oassálasste nammadum tjåhkanimentjoahkkájgiessin aj boahtteájgen leávkken dahkat sierraåvddånbuktemplánav Tuvvuj.</p>
+<p>Åbddimprosjækta le merustaládum600.000 kråvnåjda. Duodden sjaddávæhkádakbarggo. Plánaj miltakulturmujttofoannda ja Sámedigge galggibargov ruhtadit, madi Hábmera suohkana</p>
+<p>aneduvvat doalvvomij dárbulasjtsieggidummateriálajs dan rahtedissijddaj.</p>
+<p>birrusin 1870. Tjadnamkontráktan jages1891 tjuodtju lap Peder Paulsen leednamav adnám juo 20 jage.Da gålmmå ruoddidagá Tuvvon lidjingålmmå sierra ednamijn. Sij viessuniesjgengalágásj æláduskombinasjåvnåj,dagu buve, berunsáddjim, boatsojsujtto,guollim, jnv. Georg V. Olsen subtsasHábmera jahkegirjen 1989 ulmutja birrariegádum 1875 guhti lij Tuvvovguossidam mánnán. Girjen majtnammadum ulmusj tjálij, dádjadipåvdebuv nammadum Peder Paulsen jaInger Jonsdatter dalloj gámán årrun.Åhtsåmusán biggimruhtaluojkkamijjagen 1905 tjállá Tuvvo John dannatjuodtju unna dåbåsj sijdan, valla dat ij laanedahtte. Duodden ájvveláduj jafieksegábmáj. Eiendommen, der eralmenning, er ryddet og bebygget av minfader og efter hans død har jeg overtagetdet, tjuodtju åhtsåmusán.</p>
+<p>Åmastiddje li mihá Tuvvo histåvrås ja limiellusa tsiekkadusájt disposisjåvnnåjbiedjat åvddånbuktemdoajmmaj.Tsiekkadusá, ietjá kulturmujto ja sijdahiståvrrå hiehpá buoragit sihke Árrana,Hábmera suohkana ja Musea Nuortta Divtasvuona museaåvddånbuktemplánajda. Åmastiddjijájggomus le tjaddne sjiehtadusájt dahkatdáj oassálasstij åvddånbuktemij Tuvvohiståvrås, ja vaj dát åvddånbuktem sijdantjadáduvvá.</p>
+<p>Ájggomus le tjadádit åbddimprosjevtavguovte jage badjel. Jagen 2010 gájkkasnihkkárbarggo galggá gergaduvvat,aktan rábevuolijn goaden. Boahtte jage,2011, lavnnje tjuohpaduvvá ja dæhkkujbårdeduvvá, ja goade ja skiejáålgusjbielle málliduvvá.</p>
+<p>Áramus gálldo mij vaddá sihkarduodastusáv årudagás Tuvvon, leálmmuklåhkåm jages 1875. Dallojgålmmå fámillja danna årrun, duola daguPeder Paulsen ja Inger Jonsdatter gæsstadálásj åmastiddje li njuolgga gierraga.Jáhkedahtte ulmutja Tuvvuj årrujin</p>
+<p>j j j j</p>
+</body></document>

@@ -1,196 +1,69 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2013</year>
-    <wordcount>1785</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://nsr.no/wp-content/uploads/2013/06/Prinsihppaprogr%C3%A1mma-julev.pdf</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p><em type="bold">Vuona	
-  Sámij	
-  Rijkasiebrre	
-  </em> <em type="bold">Prinsihppaprográmma	
-  2013–2017	
-  </em> </p>
-    <p xml:lang="sme"><em type="bold">NSRa	
-  vuodovuojnno	
-  </em> </p>
-    <p>Mij	   sáme	   lip	   avtat	   álmmugis,	   miján	   le	   ietjama	   giella,	   kultuvrra	   ja	   histåvrrå.	   Miján	   le	   dan	   diehti	    iesjmierredimrievtesvuohta	   ja	   rievtesvuohta	   åvddånahttet	   ietjama	   kultuvrav,	   gielav	   ja	    sebrudakiellemav.</p>
-    <p>NSRa	   mielas	   le	   mijájn	   sámijn	   rievtesvuohta	   háldadit	   åvdepájgev,	   stivrrit	   dálásj	   ájgev	   ja	    hábbmit	   boahtte	   ájgev	   ietjama	   premissaj	   milta.	   Dát	   merkaj	   miján	   le	   aktan	   iehtjádij	    åvdåsvásstádus	   nannit	   avtaárvvusasjvuodav	   ulmutjij	   gaskan,	   ja	   nannit	   solidaritehtav	   ja	    ráfálasj	   aktisasjvuodav	   álmmugij	   ja	   álmmuktjerdaj	   gaskan.</p>
-    <p><em type="bold">Sáme	
-  aktisasjbarggo	
-  	
-  </em> </p>
-    <p>Sámeálmmuga	   ájtteklánnda	   le	   vuodov	   ásadam	   mijá	   sebrudahkaj,	   mijá	   giellaj	   ja	   mijá	    kultuvrraj.	   Mijá	   giella,	   berajvuohta,	   ednama	   ja	   æládusá	   gávnnujin	   juo	   åvddål	   gå	   rijkaarája	    ásaduvvin.	   Aktan	   barggat	   aktisasj	   ássjij	   hárráj	   le	   diehttelis	   ájnas	   ja	   dábálasj.	   Aktisasjbargon	    ietjá	   sámij	   le	   ájnas	   guládallam	   sáme	   álmmukválljidum	   orgánaj,	   organisasjåvnåj,	   æládusáj	   ja	    luondulasj	   gulluvasj	   politihkkasuorgij	   gaskan	   bisoduvvá.	   NSRa	   doarjju	   aj	   bargov	   vuododit	    aktisasj	   politihkalasj	   álmmukválljidum	   orgánajt.</p>
-    <p xml:lang="sme"><em type="bold">Sámedigge	
-  </em> </p>
-    <p>Sámedigge	   le	   sámij	   álmmukválljidum	   orgádna	   Vuona	   rijkan.	   Sámedigge	   galggá	   dåjmanis	    liehket	   friddja	   ja	   iesjrádálasj	   vuona	   ráddijiddje	   orgánaj	   gáktuj.	   Sámedigge	   galggá	   sámijt	    åvdåstit	   Vuona	   rijkan,	   ja	   vájkkudahttet	   ássjijt	   ma	   gulluji	   sámijda.</p>
-    <p>NSRa	   mielas	   galggi	   divna	   sáme	   bessat	   åtsådallat	   Sámedigge	   aktan	   ietjá	   sáme	   institusjåvnåj	   ja	    vásstediddje	   oajválattjaj	   barggá	   sijá	   åvdås	   vájku	   makkir	   duogásj	   siján	   le.	   Sámedigge	   galggá	    politihkav	   åvddånahttet	   ja	   jåhtuj	   biedjat.	   Sámedigge	   ja	   stáhtalasj	   oajválattja	   galggi	    bærrájgæhttjat	   vaj	   sámij	   rievtesvuoda	   jåhtuj	   biejaduvvi	   ja	   doajmmi.</p>
-    <p>Mijá	   rievtesvuohta	   iesjrádálasjvuohtaj	   merkaj	   mij	   ietja	   galggap	   mierredit	   gåktu	   galggap	   duov	    dáv	   ássjesuorgev	   organiserit	   ja	   háldadit.</p>
-    <p>NSRa	   mielas	   le	   aj	   luondulasj	   sámijn	   le	   Sámedikke	   baktu	   iesjmierredibme	   ássjesuorgijn	   giella,	    kultuvrra,	   åhpadus	   ja	   sáme	   sebrudakiellem.	   NSRa	   mielas	   galggá	   Sámedikken	   liehket</p>
-    <p>1	    friddjavuohta	   ja	   ressursa	   organiserit	   politihkalasj	   ja	   fágalasj	   bargov	   ávkálamos	   láhkáj.	   Dát	    merkaj	   Sámedigge	   máhttá	   válljit	   duov	   dáv	   modellav	   duon	   dán	   ássjesuorgen.</p>
-    <p><em type="bold">Giella	
-  </em> </p>
-    <p>NSRaj	   le	   vuodulasj	   vaj	   sámijn	   ietjanisá	   le	   rievtesvuohta	   bisodit,	   nannit	   ja	   åvddånahttet	   ietjasa	    iednegielav.	   Sámegiela	   galggi	   bissot	   giellan	   maŋep	   buolvajda,	   sámegiela	   li	   giela	    boahtteájggáj.	   Sámedikken	   le	   bajemus	   åvdåsvásstádus	   sáme	   giellabargo	   organiserima	   ja	    ruhtadime	   hárráj.	   Sáme	   ja	   aj	   Vuona	   oajválattja	   vierttiji	   dilev	   láhtjet	   vaj	   sámegiella	   bissu	   ja	    åvddån.</p>
-    <p>Sámegiella	   le	   akta	   dajs	   nanosamos	   tjadnasijs	   sáme	   sebrudagán.	   Gielan	   le	   mijá	   kultuvrra,	    máhtto	   ja	   árvo.	   NSRa	   mielas	   galggi	   divna	   sámijn	   liehket	   máhttelisvuoda	   bessat	   sáme	    giellaarenájda,	   sáme	   dievnastusfálaldagájda	   ja	   máhttelisvuodajda	   gielav	   anátjit.	   Divna	   sámijn	    galggá	   liehket	   rievtesvuohta	   sáme	   åhpadussaj.	   Sæmmi	   båttå	   le	   ållessjattugijn	    åvdåsvásstádus	   sámástit	   ja	   ietján	   gielav	   anátjit	   ja	   åvdedittjat.</p>
-    <p>NSRa	   mielas	   galggá	   avtaárvvusasj	   prinsihppa	   sáme-‐	   ja	   dárogiela	   gaskan	   almman	   dagáduvvat.	    Sámegiella	   galggá	   vuojnnut	   ja	   gullut	   mijá	   sebrudagán.</p>
-    <p><em type="bold">Varresvuohta	
-  ja	
-  hukso	
-  </em> </p>
-    <p>Sáme	   galggi	   ietja	   háldadit	   ietjasa	   varresvuodapolitihkav.	   Varresvuoda-‐	   ja	   sosialfálaldahka	    galggá	   struktureriduvvat	   ja	   organiseriduvvat	   sáme	   premissaj	   milta.	   Dá	   galggi	   liehket	    hiebadum	   ájnegis	   sáme	   addnij	   dárbojda	   ålles	   iellemav.</p>
-    <p>Sámijn	   le	   rievtesvuohta	   dádjaduvvat	   tjálalattjat	   ja	   kultuvralattjat	   gå	   båhti	   varresvuoda-‐	   ja	    sosialdåjmadagá	   institusjåvnåjda.	   Sámijn	   máhttá	   liehket	   ietjálágásj	   iellemdádjadus	   gå	    ieneplåhkoálmmugin.	   Rekrutterim	   ja	   åhpadus	   sáme	   varresvuoda-‐	   ja	   sosialbarggijs	   le	   ájnas	   jus	    varresvuoda	   fálaldahka	   sámij	   gáktuj	   galggá	   doajmmat.	   Sámijn	   galggi	   liehket	   guoskavasj	   ja	    ådåsmahtedum	   diedo	   sámegiellaj	   skihpudagáj,	   dálkudimij	   ja	   viehkkedievnastusáj	   birra.</p>
-    <p>Sámij	   álmmukdálkudibme	   viertti	   dåhkkiduvvat	   oassen	   sáme	   álmmuga	   varresvuoda	    fálaldagájs.	   Sámij	   ietjasij	   dálkudimdábe	   vierttiji	   vieleduvvat	   ja	   dåhkkiduvvat.</p>
-    <p><em type="bold">Åhpadus	
-  ja	
-  mánájgárdde	
-  </em> </p>
-    <p>Ájnas	   le	   váj	   sáme	   ietja	   dåmadi	   åhpadusá	   hámev	   ja	   sisanov.	   Dát	   merkaj	   sáme	    álmmukválljidum	   orgánajn	   bierri	   liehket	   vájkkudimfábmo	   háldadime	   gáktuj	   mij	   gullu	   sáme</p>
-    <p xml:lang="koi">2</p>
-    <p>åhpadussaj,	   ållågasj	   sisano	   hárraj	   sáme	   skåvlån	   ja	   sáme	   åhpadiddjij	   gárvedibmáj.	    Aktisasjbarggo	   rájáj	   badjel	   skåvllååvddånahttema	   ja	   oahpponævoj	   hárráj	   le	   ájnas.</p>
-    <p>Åhpadussysteman	   galggi	   sáme	   oahppij	   ja	   sáme	   sebrudagá	   dárbo	   liehket	   vuodon.	   Sáme	   dábe,	    giella,	   kultuvrra	   ja	   vuodulasj	   árvo	   vierttiji	   åvddån	   boahtet	   ålles	   åhpadussysteman.	    Mánájgárde	   ja	   skåvlå	   li	   ájnnasa	   identitehta	   hárráj.	   Skåvlån	   galggi	   sáme	   oahppe	   duodastusáv	    oadtjot	   dádjadussaj	   sij	   li	   oassen	   stuoráp	   aktijvuodas	   sábmen	   ja	   iemeálmmugin.	   Sáme	   máná	    ja	   nuora	   e	   galga	   vásedit	   rásisstalasj	   givsedimev	   ja	   nálsodimev	   skåvlån	   ja	   mánájgárdijn.</p>
-    <p>Skåvllå-‐	   ja	   mánájgárddebirrásin	   galggá	   sáme	   kultuvrra	   tjalmostuvvat.	   Gå	   tjalmos	   sáme	   árvojt	    bæjválattjat	   mánájgárdijn	   ja	   skåvlåjn,	   de	   máhttá	   sábmen	   liehket	   sjaddat	   luondulasj	   oasse	    iellemis	   aj	   ietjá	   mánájda	   Vuona	   rijkan.</p>
-    <p>Sáme	   skåvllå	   galggá	   liehket	   buorre	   dásen	   gånnå	   sáme	   máná	   ja	   nuora	   oadtju	   buoremusát	    hiebadum	   sáme	   åhpadusfálaldagáv.	   Sáme	   mánájn	   ja	   nuorajn	   galggá	   liehket	   sæmmi	    máhttelisvuohta	   oahpponævojda	   gå	   iehtjádijn.</p>
-    <p>Divna	   sáme	   mánájn	   ja	   nuorajn	   galggá	   liehket	   individuála	   rievtesvuohta	   sámegiela	    åhpadussaj,	   berustahtek	   gånnå	   årru.	   Sáme	   oahppe	   gænna	   li	   sierralágásj	   dárbo,	   vierttiji	    oadtjot	   hiebadum	   åhpadusfálaldagáv	   ja	   sierrapedagogalasj	   dårjav	   gånnå	   sáme	   árvo	   li	    vuodon.	   Skåvllåasstoájggedoajmma	   le	   avtajduhtedum	   oasse	   åhpadusfálaldagás,	   ja	   danna	    galggá	   aj	   liehket	   sáme	   sisadno	   sáme	   mánájda.</p>
-    <p>Gáddo	   ja	   rásissma	   sámij	   vuosstij	   boahtá	   álu	   dassta	   gå	   ieneplåhkosebrudagán	   ij	   le	   nuoges	    máhtto	   sámij	   ja	   sáme	   ássjij	   birra.	   Danen	   le	   ájnas	   prinsihppa	   jut	   vuodomáhtto	   sámij,	    sámegiela	   ja	   sáme	   ássjij	   birra	   galggá	   tjårggiduvvat	   oassen	   åhpadusás	   divna	   oahppijda	    Vuonan.	   Dát	   guosská	   aj	   åhpadiddjijåhpadussaj.</p>
-    <p><em type="bold">Alep	
-  åhpadus	
-  ja	
-  máhttoåvddånahttem	
-  </em> </p>
-    <p>Miján	   sámijn	   le	   vuodulasj	   rievtesvuohta,	   ja	   aj	   åvdåsvásstádus,	   åvddånahttet	   máhtov	   ietjama	    birra	   ja	   ietjama	   birrusa.	   Dutkam	   sámij	   ja	   sáme	   bátsidisáj	   hárráj	   ij	   galga	   dáhpáduvvat	   vani	    miededik	   sámijs.	   Sámijn	   galggá	   liehket	   vájkkudimfábmo	   institusjåvnåj	   ja	   prográmmaj	   hárráj	    ma	   máhtov	   åvddånahtti	   ja	   åhpadusáv	   vaddi.	   Sámedigge	   galggá	   vaddet	   premissajt	   ma	   nanniji	    ja	   åvdedi	   sáme	   alep	   åhpadusáv.	   Sámegielak	   máhtudakbirrása	   galggi	   aktan	   barggat	   rijkarájáj	    badjel.</p>
-    <p>Sámedigge	   ja	   institusjåvnå	   gænna	   le	   sámegiela	   ja	   kultuvra	   máhtudahka,	   galggi	   aktan	   ietjá	    åhpadusinstitusjåvnåj	   barggat	   ja	   ásadit	   åhpadusplánajt	   ma	   guosski	   sámijda	   ja	   sáme	   ássjijda.</p>
-    <p>Goappátjagá	   ådåájggásasj	   akademalasj	   máhtto	   ja	   sáme	   dábálasj	   máhtto	   libá	   ájnnasa	   gå	   le	    sáme	   sebrudagáv	   åvddånahttemin.	   Sæmmi	   bále	   le	   moattes	   sámijs	   massám	   máhttelisvuodav</p>
-    <p xml:lang="koi">3</p>
-    <p>formálalasj	   åhpadussaj	   gå	   li	   nav	   hæjos	   fálaldagá	   sámijda	   gávnnum	   gitta	   udnásjga	   bæjvváj.	    Sámijda	   bierri	   ållessjattukåhpadus	   gárveduvvat	   ja	   fáladuvvat.</p>
-    <p><em type="bold">Kultuvrra	
-  ja	
-  valástallam</em>	
-   </p>
-    <p><em type="italic">Sáme	
-  kultuvrraåvddånbuktem	
-  </em> Kultuvrra	
-  le	
-  dat	
-  aktisasjvuohta	
-  ájálvisájs,	
-  árvojs	
-  ja	
-  dábijs	
-  ma	
-  sebrudagán	
-  gávnnuji	
-  ja	
-  majt	
-   boahtte	
-  buolvajda	
-  sihtap	
-  bisodit.	
-  NSRa	
-  mielas	
-  máhtti	
-  sáme	
-  ietja	
-  nannit,	
-  bisodit	
-  ja	
-  åvdedit	
-   ådåájggásasj	
-  ja	
-  dábálasj	
-  sáme	
-  kultuvrav.	
-  	
-   </p>
-    <p>Sámedigge	   galggá	   doarjjot	   sáme	   kultuvralasj	   åvddånbuktema	   åvddånimev.	   Ielle	   ja	   nanos	    sáme	   bájkálasj	   sebrudagá	   ja	   dábálasj	   æládusá	   ja	   viessomvuoge	   li	   ájnnasa	   vuodon	   gå	   sáme	    kultuvrav	   buvtat.	   Sáme	   guovlojn	   le	   dárbbo	   ásadit	   ja	   åvddånahttet	   sierra	   gávnadim-‐	   ja	    tjåhkanimsajijt	   ja	   institusjåvnåjt	   gånnå	   máhttá	   sáme	   kultuvrav	   åvdedit.</p>
-    <p>Sáme	   kultuvralasj	   gávnadim-‐	   ja	   tjåhkanimsaje	   ja	   institusjåvnå	   li	   ájnas	   arena	   sáme	   dájddárijda	    åbbå	   sáme	   guovlos.	   Dá	   saje	   vaddi	   sáme	   dájddárijda	   ja	   artistajda	   máhttelisvuodav	   ietjasa	    åvddånbuktemijt	   åvddånahttet.	   Dá	   li	   aj	   ájnas	   saje	   gånnå	   máhttá	   sáme	   identitehtav,	   sáme	    sebrudakságastallamav	   ja	   sáme	   ássjij	   dádjadusáv	   åvdedit.</p>
-    <p>Ådåájggásasj	   ja	   dábálasj	   sáme	   dájddatjerda	   li	   oassen	   mijá	   ådåájggásasj	   kultuvrraárbes,	   mijá	    dádjadusás	   ietjastimme	   ja	   mijá	   gielalasj	   boanndudagás.	   Duon	   dán	   dájddatjerda	   baktu	    åvddån	   sebrudahka	   lájttalimijn	   ja	   ságastallamijn.	   Ájnas	   le	   jut	   sámegiella	   aneduvvá	   dakkár	    dåjmadimij	   baktu.</p>
-    <p><em type="italic">Sáme	
-  valástallam	
-  </em> Hierggevuodjem	
-  ja	
-  sjuohppim	
-  li	
-  sáme	
-  valástallama	
-  maj	
-  baktu	
-  bisodip	
-  nanos	
-  histåvrålasj	
-   dábijt	
-  iemeálmmugij	
-  gaskan	
-  Arktalasj	
-  guovlojn.	
-  Ådåsap	
-  valástallamsuorge	
-  degu	
-   sabekvalástallam	
-  ja	
-  tjiektjam	
-  li	
-  aj	
-  ájnnasa	
-  sáme	
-  nuorajda.	
-   </p>
-    <p>Sáme	   valástallam	   le	   sámijda	   ájnas	   identitehta	   hárráj.	   Ájnas	   le	   vaj	   arena	   gávnnuji	   gånnå	   sáme	    juohkkat	   guovlos	   Sámes	   máhtti	   æjvvalit	   valástallamdåjmada	   ja	   gilbustallamijda.	   Sáme	    valástallam-‐	   ja	   nuorajorganisasjåvnå	   vierttiji	   oadtjot	   máhttelisvuodav	   barggat	   aktisasj	   sáme	    valástallamij	   ja	   valástallamfágalasj	   gatjálvisáj.</p>
-    <p><em type="bold">Duodje	
-  </em> </p>
-    <p>Sámijn	   le	   rievtesvuohta	   bisodit,	   suodjalit	   ja	   åvdedit	   duojev.	   Duojen	   li	   ájnas	   elementa	   sáme	    gielas,	   kultuvras	   ja	   histåvrås.	   Máhtto	   duojes	   le	   máhtto	   materiálaj,	   duodjuhime,	   buktagij	   ja	    dábij	   birra.</p>
-    <p>Sáme	   valjesvuohta	   ja	   guovlo	   sáme	   sierramerka	   vuoseduvvi	   aj	   duoje	   baktu.	   Duodje	   le	    luondulasj	   oasse	   sámij	   bæjválasj	   viessomis,	   ja	   duojen	   le	   ájnas	   kultuvrraguodde	   doajmma.</p>
-    <p>4	    Duodje	   le	   guovdásj	   oasse	   sáme	   kultuvrraárbes,	   ja	   le	   sáme	   æládus	   mij	   viertti	   bisoduvvat	   ådå	    duodjárijda	   ja	   maŋep	   buolvajda.</p>
-    <p>Rievtesvuoda	   duodjáj	   ælla	   goassak	   vatteduvvam	   iehtjádijda.	   Aktak	   ij	   máhte	   kopierit	   jali	    ådåsis	   buvtadit	   duojev	   loabe	   dagi	   rievtesvuodaaddnes.</p>
-    <p><em type="bold">Areálla	
-  ja	
-  birás	
-  </em> </p>
-    <p>Sámijn	   le	   æjggumriektá	   ja	   ráddimriektá	   guovlojda	   gånnå	   sáme	   li	   ieme	   årrum.	   Dát	   riektá	   le	    åmastuvvam	   álggoálgos	   ja	   guosská	   luonndoressursajda	   meran	   ja	   gátten.	   Stáhta	   viertti	    dåhkkidit	   dav	   riektáv	   lága	   ja	   háldadime	   baktu,	   ja	   rievtesvuoda	   e	   galga	   hiereduvvat	   rijkarájájs.	    Sámijn	   le	   sierralágasj	   tjadnasa	   ietjasa	   ednamijda	   ja	   duobddagijda.</p>
-    <p>Luonndoressursaj	   adno	   galggá	   lehket	   daj	   árvoj	   milta	   ma	   li	   sámijn	   mij	   gullu	   guoddelis	    luonndoadnuj.	   NSRaj	   le	   diehttelis	   økologalasj	   perspektijvva	   ja	   gájbbádus	   guoddelis	    åvddånibmáj	   vuodon	   gå	   le	   sáhke	   boahtteájge	   politihkas	   luondo	   háldadime	   hárráj.</p>
-    <p>Miniráladåjma	   sáme	   guovlojn	   máhtti	   jådon	   liehket	   jus	   doajmmi	   vieledusájn	   ja	    rijkajgasskasasj	   ulmusjrievtesvuodaj	   baktu,	   dasi	   aj	   gullu	   iemeálmmuga	   rievtesvuohta	    iesjmierredibmáj,	   rievtesvuohta	   friddja	   ájgebále	   miededibmaj	   ja	   rievtesvuohta	   edanamijda.</p>
-    <p>NSRa	   mielas	   galggá	   dille	   liehket	   nav	   vaj	   máhttá	   dábálattjat	   tjuohppat	   ja	   gárvedit	    luonndoressursajt.	   Mijá	   máhtto	   ja	   mijá	   ressursa	   vielggen	   dahki	   mijáv	   aktijvalattjat	   ásadittjat	    åbbålasj	   iemeálmmukvuogijt	   mij	   gullu	   etihkkaj,	   birrasij,	   æjgguj	   ja	   rievtes	   vuojttojuogadibmáj.	    Vidnudagá	   gænna	   li	   dåjma	   mijá	   guovlojn	   galggi	   tjuovvot	   dakkár	   njuolgadusájt.</p>
-    <p><em type="bold">Æládus	
-  ja	
-  årudagá	
-  	
-  </em> </p>
-    <p>Vuodoæládusá	   li	   ájnnasa	   årrom-‐,	   kultuvrra-‐	   ja	   æládusvuodon	   sáme	   guovlojn.	   Ájnas	   le	   vaj	    sáme	   vuodoæládusá	   bisoduvvi	   ja	   åvddåni.</p>
-    <p>Æládusá	   sáme	   guovlojn	   vierttiji	   liehket	   guoddelisá.	   Ådåsmahtte	   ja	   ij-‐ådåsmahtte	   resursa	    luondon	   le	   viessomuha	   vuodon	   sáme	   kultuvran.	   Guolástus,	   ællosujtto,	   ednambarggo,	    duodje,	   miehttsedåjma	   ja	   kombinasjåvnå	   dájs	   li	   æládusá	   ma	   li	   aj	   nanos	   sáme	    kultuvrraguodde.</p>
-    <p>Sáme	   li	   giejvoj	   årro,	   ja	   sáme	   bájke	   merragáttijn	   ja	   sisednamijn	   li	   guovddagin	   sáme	   sebrudak-‐,	    kultuvrra-‐	   ja	   æládusiellemin.	   Sáme	   bájkálasj	   guovlo	   galggi	   liehket	   vuodon	   sáme	   árvojda	   ja	    iellemsjuvesvuohtaj.</p>
-    <p>Æládusåvddånibme,	   ådåsmahttem	   ja	   doajmmelisvuohta	   bisot	   ulmutjijt	   årron	   sáme	   bájkijn.	    Sáme	   bájkálasj	   sebrudagá,	   aktan	   Sámedikkijn,	   máhtti	   láhtjet	   dilev	   åvddånibmáj	   bájkálasj	    sebrudagá	   premissaj	   milta.</p>
-    <p>5	    Ienep	   ulmutja	   gå	   åvdebut	   årruji	   jali	   sjaddi	   bajás	   stádajn	   ja	   guovdásj	   bájkijn.	   Sáme	   li	    sæbrájduhtedum	   oassen	   stáda	   årrojs	   aktan	   sámegielajn,	   kultuvrajn,	   identitehtajn	   ja	    æládusáj.	   Danen	   le	   ájnas	   vaddet	   sidjij	   máhttelisvuodav	   sáme	   iellemvuohkáj,	   kultuvralattjat,	    sosialalattjat	   ja	   virgálattjat.</p>
-    <p><em type="bold">Media	
-  ja	
-  guládallam	
-  </em> </p>
-    <p>Sáme	   media	   li	   ållagasj	   ájnnasa	   sebrudakságastallamin,	   demokratija	   ja	   sáme	   gielaj	   hárráj.	    Sámegiella	   bierri	   aneduvvat	   juohkka	   median	   ja	   juohkka	   diehto-‐	   ja	   guládallamteknologijan.</p>
-    <p>Sáme	   álmmugin	   le	   rievtesvuohta	   moalgedim-‐	   ja	   diehtofriddjavuohtaj,	   ja	   åvddånahtátjit	    sierra,	   friddja	   ja	   iesjrádálasj	   mediainstitusjåvnåjt.	   Media	   galggi	   vuosedit	   valjesvuodav	   sáme	    kultuvras	   ja	   sáme	   gielajs.	   Vuona	   mediajn	   le	   aj	   åvdåsvásstádus	   åvdedit	   ålles	   sáme	    mediafálaldagáv.	   Ájnas	   le	   vaddet	   sáme	   mánájda	   ja	   nuorajda	   buorre	   mediafálaldagáv	   dajna	    gå	   dat	   le	   ájnas	   giellaåvddånibmáj	   ja	   identitehttaj.</p>
-    <p><em type="bold">Rijkajgasskasasj	
-  barggo	
-  </em> </p>
-    <p>NSRa	   sihtá	   nannit	   iemeálmmugij	   ja	   unneplågo	   álmmugij	   vuodulasj	   rievtesvuodajt,	   ja	   nannit	    ráfebargov	   ja	   værjjobinnedimev	   væráldin.	   Rijkajgasskasasj	   rievtesvuodanjuolgadusá	   li	    ájnnasa	   gå	   le	   nannimin	   iemeálmmugij	   ja	   unneplågo	   álmmugij	   ássjijt.	   Ájnas	   le	   sámijda	    oassálasstet	   rijkajgasskasasj	   bargguj	   aktan	   ietjá	   iemeálmmugij.</p>
-    <p>NSR	   galggá	   aktan	   barggat	   organisasjåvnåj,	   orgánaj	   ja	   stáhtalasj	   oajválattjaj	   ma	   li	   nannimin	    iemeálmmugij	   ja	   unneplågo	   álmmugij	   rievtesvuodajt,	   ja	   værjoduhttemav	   ja	   ráfev	   ásadime.	    Sáme	   galggi	   sæbrrat	   rijkajgasskasasj	   orgánajda	   gånne	   le	   luondulasj.</p>
-    <p><em type="bold">Iellemvuojnno	
-  ja	
-  vuojŋŋalasj	
-  árvo	
-  </em> </p>
-    <p>Vuojŋŋalasj	   árvo	   ja	   åssko	   le	   agev	   læhkám	   guovdásj	   elemænntan	   sámij	   bæjválasj	   iellemin.	    NSRa	   mielas	   bierri	   sebrudahka	   vieledit	   duov	   dáv	   sáme	   iellemvuojnov	   ja	   vuojŋŋalasj	   árvov.	    Galggá	   aj	   árvusmahteduvvat	   dåhkkidittjat	   ja	   gierdatjit	   duov	   dáv	   iellemvuojnov	   ja	   ærádisájt	    sáme	   sebrudagán.</p>
-    <p>Sáme	   girkkoiellem	   galggá	   åvddånit	   buohta	   sáme	   iesjdádjadusá	   ja	   sáme	   dábij.	   Sámegiella	    galggá	   liehket	   sajenis	   girkko	   dáhpádusájn.</p>
-    <p xml:lang="koi">6</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><year>2013</year><wordcount>1644</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://nsr.no/wp-content/uploads/2013/06/Prinsihppaprogr%C3%A1mma-julev.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Vuona  Sámij  Rijkasiebrre  Prinsihppaprográmma  2013–2017  </em></p>
+<p xml:lang="sme"><em type="bold">NSRa  vuodovuojnno  </em></p>
+<p>Mij  sáme  lip  avtat  álmmugis,  miján  le  ietjama  giella,  kultuvrra  ja  histåvrrå.  Miján  le  dan  diehti  iesjmierredimrievtesvuohta  ja  rievtesvuohta  åvddånahttet  ietjama  kultuvrav,  gielav  ja  sebrudakiellemav.</p>
+<p>NSRa  mielas  le  mijájn  sámijn  rievtesvuohta  háldadit  åvdepájgev,  stivrrit  dálásj  ájgev  ja  hábbmit  boahtte  ájgev  ietjama  premissaj  milta.  Dát  merkaj  miján  le  aktan  iehtjádij  åvdåsvásstádus  nannit  avtaárvvusasjvuodav  ulmutjij  gaskan,  ja  nannit  solidaritehtav  ja  ráfálasj  aktisasjvuodav  álmmugij  ja  álmmuktjerdaj  gaskan.</p>
+<p><em type="bold">Sáme  aktisasjbarggo    </em></p>
+<p>Sámeálmmuga  ájtteklánnda  le  vuodov  ásadam  mijá  sebrudahkaj,  mijá  giellaj  ja  mijá  kultuvrraj.  Mijá  giella,  berajvuohta,  ednama  ja  æládusá  gávnnujin  juo  åvddål  gå  rijkaarája  ásaduvvin.  Aktan  barggat  aktisasj  ássjij  hárráj  le  diehttelis  ájnas  ja  dábálasj.  Aktisasjbargon  ietjá  sámij  le  ájnas  guládallam  sáme  álmmukválljidum  orgánaj,  organisasjåvnåj,  æládusáj  ja  luondulasj  gulluvasj  politihkkasuorgij  gaskan  bisoduvvá.  NSRa  doarjju  aj  bargov  vuododit  aktisasj  politihkalasj  álmmukválljidum  orgánajt.</p>
+<p xml:lang="sme"><em type="bold">Sámedigge  </em></p>
+<p>Sámedigge  le  sámij  álmmukválljidum  orgádna  Vuona  rijkan.  Sámedigge  galggá  dåjmanis  liehket  friddja  ja  iesjrádálasj  vuona  ráddijiddje  orgánaj  gáktuj.  Sámedigge  galggá  sámijt  åvdåstit  Vuona  rijkan,  ja  vájkkudahttet  ássjijt  ma  gulluji  sámijda.</p>
+<p>NSRa  mielas  galggi  divna  sáme  bessat  åtsådallat  Sámedigge  aktan  ietjá  sáme  institusjåvnåj  ja  vásstediddje  oajválattjaj  barggá  sijá  åvdås  vájku  makkir  duogásj  siján  le.  Sámedigge  galggá  politihkav  åvddånahttet  ja  jåhtuj  biedjat.  Sámedigge  ja  stáhtalasj  oajválattja  galggi  bærrájgæhttjat  vaj  sámij  rievtesvuoda  jåhtuj  biejaduvvi  ja  doajmmi.</p>
+<p>Mijá  rievtesvuohta  iesjrádálasjvuohtaj  merkaj  mij  ietja  galggap  mierredit  gåktu  galggap  duov  dáv  ássjesuorgev  organiserit  ja  háldadit.</p>
+<p>NSRa  mielas  le  aj  luondulasj  sámijn  le  Sámedikke  baktu  iesjmierredibme  ássjesuorgijn  giella,  kultuvrra,  åhpadus  ja  sáme  sebrudakiellem.  NSRa  mielas  galggá  Sámedikken  liehket</p>
+<p>1  friddjavuohta  ja  ressursa  organiserit  politihkalasj  ja  fágalasj  bargov  ávkálamos  láhkáj.  Dát  merkaj  Sámedigge  máhttá  válljit  duov  dáv  modellav  duon  dán  ássjesuorgen.</p>
+<p><em type="bold">Giella  </em></p>
+<p>NSRaj  le  vuodulasj  vaj  sámijn  ietjanisá  le  rievtesvuohta  bisodit,  nannit  ja  åvddånahttet  ietjasa  iednegielav.  Sámegiela  galggi  bissot  giellan  maŋep  buolvajda,  sámegiela  li  giela  boahtteájggáj.  Sámedikken  le  bajemus  åvdåsvásstádus  sáme  giellabargo  organiserima  ja  ruhtadime  hárráj.  Sáme  ja  aj  Vuona  oajválattja  vierttiji  dilev  láhtjet  vaj  sámegiella  bissu  ja  åvddån.</p>
+<p>Sámegiella  le  akta  dajs  nanosamos  tjadnasijs  sáme  sebrudagán.  Gielan  le  mijá  kultuvrra,  máhtto  ja  árvo.  NSRa  mielas  galggi  divna  sámijn  liehket  máhttelisvuoda  bessat  sáme  giellaarenájda,  sáme  dievnastusfálaldagájda  ja  máhttelisvuodajda  gielav  anátjit.  Divna  sámijn  galggá  liehket  rievtesvuohta  sáme  åhpadussaj.  Sæmmi  båttå  le  ållessjattugijn  åvdåsvásstádus  sámástit  ja  ietján  gielav  anátjit  ja  åvdedittjat.</p>
+<p>NSRa  mielas  galggá  avtaárvvusasj  prinsihppa  sáme-‐  ja  dárogiela  gaskan  almman  dagáduvvat.  Sámegiella  galggá  vuojnnut  ja  gullut  mijá  sebrudagán.</p>
+<p><em type="bold">Varresvuohta  ja  hukso  </em></p>
+<p>Sáme  galggi  ietja  háldadit  ietjasa  varresvuodapolitihkav.  Varresvuoda-‐  ja  sosialfálaldahka  galggá  struktureriduvvat  ja  organiseriduvvat  sáme  premissaj  milta.  Dá  galggi  liehket  hiebadum  ájnegis  sáme  addnij  dárbojda  ålles  iellemav.</p>
+<p>Sámijn  le  rievtesvuohta  dádjaduvvat  tjálalattjat  ja  kultuvralattjat  gå  båhti  varresvuoda-‐  ja  sosialdåjmadagá  institusjåvnåjda.  Sámijn  máhttá  liehket  ietjálágásj  iellemdádjadus  gå  ieneplåhkoálmmugin.  Rekrutterim  ja  åhpadus  sáme  varresvuoda-‐  ja  sosialbarggijs  le  ájnas  jus  varresvuoda  fálaldahka  sámij  gáktuj  galggá  doajmmat.  Sámijn  galggi  liehket  guoskavasj  ja  ådåsmahtedum  diedo  sámegiellaj  skihpudagáj,  dálkudimij  ja  viehkkedievnastusáj  birra.</p>
+<p>Sámij  álmmukdálkudibme  viertti  dåhkkiduvvat  oassen  sáme  álmmuga  varresvuoda  fálaldagájs.  Sámij  ietjasij  dálkudimdábe  vierttiji  vieleduvvat  ja  dåhkkiduvvat.</p>
+<p><em type="bold">Åhpadus  ja  mánájgárdde  </em></p>
+<p>Ájnas  le  váj  sáme  ietja  dåmadi  åhpadusá  hámev  ja  sisanov.  Dát  merkaj  sáme  álmmukválljidum  orgánajn  bierri  liehket  vájkkudimfábmo  háldadime  gáktuj  mij  gullu  sáme</p>
+<p xml:lang="vep">2</p>
+<p>åhpadussaj,  ållågasj  sisano  hárraj  sáme  skåvlån  ja  sáme  åhpadiddjij  gárvedibmáj.  Aktisasjbarggo  rájáj  badjel  skåvllååvddånahttema  ja  oahpponævoj  hárráj  le  ájnas.</p>
+<p>Åhpadussysteman  galggi  sáme  oahppij  ja  sáme  sebrudagá  dárbo  liehket  vuodon.  Sáme  dábe,  giella,  kultuvrra  ja  vuodulasj  árvo  vierttiji  åvddån  boahtet  ålles  åhpadussysteman.  Mánájgárde  ja  skåvlå  li  ájnnasa  identitehta  hárráj.  Skåvlån  galggi  sáme  oahppe  duodastusáv  oadtjot  dádjadussaj  sij  li  oassen  stuoráp  aktijvuodas  sábmen  ja  iemeálmmugin.  Sáme  máná  ja  nuora  e  galga  vásedit  rásisstalasj  givsedimev  ja  nálsodimev  skåvlån  ja  mánájgárdijn.</p>
+<p>Skåvllå-‐  ja  mánájgárddebirrásin  galggá  sáme  kultuvrra  tjalmostuvvat.  Gå  tjalmos  sáme  árvojt  bæjválattjat  mánájgárdijn  ja  skåvlåjn,  de  máhttá  sábmen  liehket  sjaddat  luondulasj  oasse  iellemis  aj  ietjá  mánájda  Vuona  rijkan.</p>
+<p>Sáme  skåvllå  galggá  liehket  buorre  dásen  gånnå  sáme  máná  ja  nuora  oadtju  buoremusát  hiebadum  sáme  åhpadusfálaldagáv.  Sáme  mánájn  ja  nuorajn  galggá  liehket  sæmmi  máhttelisvuohta  oahpponævojda  gå  iehtjádijn.</p>
+<p>Divna  sáme  mánájn  ja  nuorajn  galggá  liehket  individuála  rievtesvuohta  sámegiela  åhpadussaj,  berustahtek  gånnå  årru.  Sáme  oahppe  gænna  li  sierralágásj  dárbo,  vierttiji  oadtjot  hiebadum  åhpadusfálaldagáv  ja  sierrapedagogalasj  dårjav  gånnå  sáme  árvo  li  vuodon.  Skåvllåasstoájggedoajmma  le  avtajduhtedum  oasse  åhpadusfálaldagás,  ja  danna  galggá  aj  liehket  sáme  sisadno  sáme  mánájda.</p>
+<p>Gáddo  ja  rásissma  sámij  vuosstij  boahtá  álu  dassta  gå  ieneplåhkosebrudagán  ij  le  nuoges  máhtto  sámij  ja  sáme  ássjij  birra.  Danen  le  ájnas  prinsihppa  jut  vuodomáhtto  sámij,  sámegiela  ja  sáme  ássjij  birra  galggá  tjårggiduvvat  oassen  åhpadusás  divna  oahppijda  Vuonan.  Dát  guosská  aj  åhpadiddjijåhpadussaj.</p>
+<p><em type="bold">Alep  åhpadus  ja  máhttoåvddånahttem  </em></p>
+<p>Miján  sámijn  le  vuodulasj  rievtesvuohta,  ja  aj  åvdåsvásstádus,  åvddånahttet  máhtov  ietjama  birra  ja  ietjama  birrusa.  Dutkam  sámij  ja  sáme  bátsidisáj  hárráj  ij  galga  dáhpáduvvat  vani  miededik  sámijs.  Sámijn  galggá  liehket  vájkkudimfábmo  institusjåvnåj  ja  prográmmaj  hárráj  ma  máhtov  åvddånahtti  ja  åhpadusáv  vaddi.  Sámedigge  galggá  vaddet  premissajt  ma  nanniji  ja  åvdedi  sáme  alep  åhpadusáv.  Sámegielak  máhtudakbirrása  galggi  aktan  barggat  rijkarájáj  badjel.</p>
+<p>Sámedigge  ja  institusjåvnå  gænna  le  sámegiela  ja  kultuvra  máhtudahka,  galggi  aktan  ietjá  åhpadusinstitusjåvnåj  barggat  ja  ásadit  åhpadusplánajt  ma  guosski  sámijda  ja  sáme  ássjijda.</p>
+<p>Goappátjagá  ådåájggásasj  akademalasj  máhtto  ja  sáme  dábálasj  máhtto  libá  ájnnasa  gå  le  sáme  sebrudagáv  åvddånahttemin.  Sæmmi  bále  le  moattes  sámijs  massám  máhttelisvuodav</p>
+<p xml:lang="vep">3</p>
+<p>formálalasj  åhpadussaj  gå  li  nav  hæjos  fálaldagá  sámijda  gávnnum  gitta  udnásjga  bæjvváj.  Sámijda  bierri  ållessjattukåhpadus  gárveduvvat  ja  fáladuvvat.</p>
+<p><em type="bold">Kultuvrra  ja  valástallam</em>  </p>
+<p><em type="italic">Sáme  kultuvrraåvddånbuktem  </em>Kultuvrra  le  dat  aktisasjvuohta  ájálvisájs,  árvojs  ja  dábijs  ma  sebrudagán  gávnnuji  ja  majt  boahtte  buolvajda  sihtap  bisodit.  NSRa  mielas  máhtti  sáme  ietja  nannit,  bisodit  ja  åvdedit  ådåájggásasj  ja  dábálasj  sáme  kultuvrav.    </p>
+<p>Sámedigge  galggá  doarjjot  sáme  kultuvralasj  åvddånbuktema  åvddånimev.  Ielle  ja  nanos  sáme  bájkálasj  sebrudagá  ja  dábálasj  æládusá  ja  viessomvuoge  li  ájnnasa  vuodon  gå  sáme  kultuvrav  buvtat.  Sáme  guovlojn  le  dárbbo  ásadit  ja  åvddånahttet  sierra  gávnadim-‐  ja  tjåhkanimsajijt  ja  institusjåvnåjt  gånnå  máhttá  sáme  kultuvrav  åvdedit.</p>
+<p>Sáme  kultuvralasj  gávnadim-‐  ja  tjåhkanimsaje  ja  institusjåvnå  li  ájnas  arena  sáme  dájddárijda  åbbå  sáme  guovlos.  Dá  saje  vaddi  sáme  dájddárijda  ja  artistajda  máhttelisvuodav  ietjasa  åvddånbuktemijt  åvddånahttet.  Dá  li  aj  ájnas  saje  gånnå  máhttá  sáme  identitehtav,  sáme  sebrudakságastallamav  ja  sáme  ássjij  dádjadusáv  åvdedit.</p>
+<p>Ådåájggásasj  ja  dábálasj  sáme  dájddatjerda  li  oassen  mijá  ådåájggásasj  kultuvrraárbes,  mijá  dádjadusás  ietjastimme  ja  mijá  gielalasj  boanndudagás.  Duon  dán  dájddatjerda  baktu  åvddån  sebrudahka  lájttalimijn  ja  ságastallamijn.  Ájnas  le  jut  sámegiella  aneduvvá  dakkár  dåjmadimij  baktu.</p>
+<p><em type="italic">Sáme  valástallam  </em>Hierggevuodjem  ja  sjuohppim  li  sáme  valástallama  maj  baktu  bisodip  nanos  histåvrålasj  dábijt  iemeálmmugij  gaskan  Arktalasj  guovlojn.  Ådåsap  valástallamsuorge  degu  sabekvalástallam  ja  tjiektjam  li  aj  ájnnasa  sáme  nuorajda.  </p>
+<p>Sáme  valástallam  le  sámijda  ájnas  identitehta  hárráj.  Ájnas  le  vaj  arena  gávnnuji  gånnå  sáme  juohkkat  guovlos  Sámes  máhtti  æjvvalit  valástallamdåjmada  ja  gilbustallamijda.  Sáme  valástallam-‐  ja  nuorajorganisasjåvnå  vierttiji  oadtjot  máhttelisvuodav  barggat  aktisasj  sáme  valástallamij  ja  valástallamfágalasj  gatjálvisáj.</p>
+<p><em type="bold">Duodje  </em></p>
+<p>Sámijn  le  rievtesvuohta  bisodit,  suodjalit  ja  åvdedit  duojev.  Duojen  li  ájnas  elementa  sáme  gielas,  kultuvras  ja  histåvrås.  Máhtto  duojes  le  máhtto  materiálaj,  duodjuhime,  buktagij  ja  dábij  birra.</p>
+<p>Sáme  valjesvuohta  ja  guovlo  sáme  sierramerka  vuoseduvvi  aj  duoje  baktu.  Duodje  le  luondulasj  oasse  sámij  bæjválasj  viessomis,  ja  duojen  le  ájnas  kultuvrraguodde  doajmma.</p>
+<p>4  Duodje  le  guovdásj  oasse  sáme  kultuvrraárbes,  ja  le  sáme  æládus  mij  viertti  bisoduvvat  ådå  duodjárijda  ja  maŋep  buolvajda.</p>
+<p>Rievtesvuoda  duodjáj  ælla  goassak  vatteduvvam  iehtjádijda.  Aktak  ij  máhte  kopierit  jali  ådåsis  buvtadit  duojev  loabe  dagi  rievtesvuodaaddnes.</p>
+<p><em type="bold">Areálla  ja  birás  </em></p>
+<p>Sámijn  le  æjggumriektá  ja  ráddimriektá  guovlojda  gånnå  sáme  li  ieme  årrum.  Dát  riektá  le  åmastuvvam  álggoálgos  ja  guosská  luonndoressursajda  meran  ja  gátten.  Stáhta  viertti  dåhkkidit  dav  riektáv  lága  ja  háldadime  baktu,  ja  rievtesvuoda  e  galga  hiereduvvat  rijkarájájs.  Sámijn  le  sierralágasj  tjadnasa  ietjasa  ednamijda  ja  duobddagijda.</p>
+<p>Luonndoressursaj  adno  galggá  lehket  daj  árvoj  milta  ma  li  sámijn  mij  gullu  guoddelis  luonndoadnuj.  NSRaj  le  diehttelis  økologalasj  perspektijvva  ja  gájbbádus  guoddelis  åvddånibmáj  vuodon  gå  le  sáhke  boahtteájge  politihkas  luondo  háldadime  hárráj.</p>
+<p>Miniráladåjma  sáme  guovlojn  máhtti  jådon  liehket  jus  doajmmi  vieledusájn  ja  rijkajgasskasasj  ulmusjrievtesvuodaj  baktu,  dasi  aj  gullu  iemeálmmuga  rievtesvuohta  iesjmierredibmáj,  rievtesvuohta  friddja  ájgebále  miededibmaj  ja  rievtesvuohta  edanamijda.</p>
+<p>NSRa  mielas  galggá  dille  liehket  nav  vaj  máhttá  dábálattjat  tjuohppat  ja  gárvedit  luonndoressursajt.  Mijá  máhtto  ja  mijá  ressursa  vielggen  dahki  mijáv  aktijvalattjat  ásadittjat  åbbålasj  iemeálmmukvuogijt  mij  gullu  etihkkaj,  birrasij,  æjgguj  ja  rievtes  vuojttojuogadibmáj.  Vidnudagá  gænna  li  dåjma  mijá  guovlojn  galggi  tjuovvot  dakkár  njuolgadusájt.</p>
+<p><em type="bold">Æládus  ja  årudagá    </em></p>
+<p>Vuodoæládusá  li  ájnnasa  årrom-‐,  kultuvrra-‐  ja  æládusvuodon  sáme  guovlojn.  Ájnas  le  vaj  sáme  vuodoæládusá  bisoduvvi  ja  åvddåni.</p>
+<p>Æládusá  sáme  guovlojn  vierttiji  liehket  guoddelisá.  Ådåsmahtte  ja  ij-‐ådåsmahtte  resursa  luondon  le  viessomuha  vuodon  sáme  kultuvran.  Guolástus,  ællosujtto,  ednambarggo,  duodje,  miehttsedåjma  ja  kombinasjåvnå  dájs  li  æládusá  ma  li  aj  nanos  sáme  kultuvrraguodde.</p>
+<p>Sáme  li  giejvoj  årro,  ja  sáme  bájke  merragáttijn  ja  sisednamijn  li  guovddagin  sáme  sebrudak-‐,  kultuvrra-‐  ja  æládusiellemin.  Sáme  bájkálasj  guovlo  galggi  liehket  vuodon  sáme  árvojda  ja  iellemsjuvesvuohtaj.</p>
+<p>Æládusåvddånibme,  ådåsmahttem  ja  doajmmelisvuohta  bisot  ulmutjijt  årron  sáme  bájkijn.  Sáme  bájkálasj  sebrudagá,  aktan  Sámedikkijn,  máhtti  láhtjet  dilev  åvddånibmáj  bájkálasj  sebrudagá  premissaj  milta.</p>
+<p>5  Ienep  ulmutja  gå  åvdebut  årruji  jali  sjaddi  bajás  stádajn  ja  guovdásj  bájkijn.  Sáme  li  sæbrájduhtedum  oassen  stáda  årrojs  aktan  sámegielajn,  kultuvrajn,  identitehtajn  ja  æládusáj.  Danen  le  ájnas  vaddet  sidjij  máhttelisvuodav  sáme  iellemvuohkáj,  kultuvralattjat,  sosialalattjat  ja  virgálattjat.</p>
+<p><em type="bold">Media  ja  guládallam  </em></p>
+<p>Sáme  media  li  ållagasj  ájnnasa  sebrudakságastallamin,  demokratija  ja  sáme  gielaj  hárráj.  Sámegiella  bierri  aneduvvat  juohkka  median  ja  juohkka  diehto-‐  ja  guládallamteknologijan.</p>
+<p>Sáme  álmmugin  le  rievtesvuohta  moalgedim-‐  ja  diehtofriddjavuohtaj,  ja  åvddånahtátjit  sierra,  friddja  ja  iesjrádálasj  mediainstitusjåvnåjt.  Media  galggi  vuosedit  valjesvuodav  sáme  kultuvras  ja  sáme  gielajs.  Vuona  mediajn  le  aj  åvdåsvásstádus  åvdedit  ålles  sáme  mediafálaldagáv.  Ájnas  le  vaddet  sáme  mánájda  ja  nuorajda  buorre  mediafálaldagáv  dajna  gå  dat  le  ájnas  giellaåvddånibmáj  ja  identitehttaj.</p>
+<p><em type="bold">Rijkajgasskasasj  barggo  </em></p>
+<p>NSRa  sihtá  nannit  iemeálmmugij  ja  unneplågo  álmmugij  vuodulasj  rievtesvuodajt,  ja  nannit  ráfebargov  ja  værjjobinnedimev  væráldin.  Rijkajgasskasasj  rievtesvuodanjuolgadusá  li  ájnnasa  gå  le  nannimin  iemeálmmugij  ja  unneplågo  álmmugij  ássjijt.  Ájnas  le  sámijda  oassálasstet  rijkajgasskasasj  bargguj  aktan  ietjá  iemeálmmugij.</p>
+<p>NSR  galggá  aktan  barggat  organisasjåvnåj,  orgánaj  ja  stáhtalasj  oajválattjaj  ma  li  nannimin  iemeálmmugij  ja  unneplågo  álmmugij  rievtesvuodajt,  ja  værjoduhttemav  ja  ráfev  ásadime.  Sáme  galggi  sæbrrat  rijkajgasskasasj  orgánajda  gånne  le  luondulasj.</p>
+<p><em type="bold">Iellemvuojnno  ja  vuojŋŋalasj  árvo  </em></p>
+<p>Vuojŋŋalasj  árvo  ja  åssko  le  agev  læhkám  guovdásj  elemænntan  sámij  bæjválasj  iellemin.  NSRa  mielas  bierri  sebrudahka  vieledit  duov  dáv  sáme  iellemvuojnov  ja  vuojŋŋalasj  árvov.  Galggá  aj  árvusmahteduvvat  dåhkkidittjat  ja  gierdatjit  duov  dáv  iellemvuojnov  ja  ærádisájt  sáme  sebrudagán.</p>
+<p>Sáme  girkkoiellem  galggá  åvddånit  buohta  sáme  iesjdádjadusá  ja  sáme  dábij.  Sámegiella  galggá  liehket  sajenis  girkko  dáhpádusájn.</p>
+<p xml:lang="vep">6</p>
+</body></document>

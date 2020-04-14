@@ -1,35 +1,6 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Giellavahkku/ Gïelevåhkoe/ Giellavahkko almulasj rahpam Oslon</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2019</year>
-    <wordcount>62</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.samedigge.no/AAdaasa/Giellavahkku-Gielevaahkoe-Giellavahkko-almulasj-rahpam-Oslon</origFileName>
-    <parallel_text xml:lang="nob" location="offisiell-aapning-av-samisk-spraakuke-i-oslo.html"/>
-    <parallel_text xml:lang="sma" location="giellavahkku-gielevaahkoe-giellavahkko-byoegkeles-rihpestimmie-oslosne.html"/>
-    <parallel_text xml:lang="sme" location="giellavahkku-gielevaahkoe-giellavahkko-almmolas-rahpan-oslos.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Giellavahkku/ Gïelevåhkoe/ Giellavahkko almulasj rahpam Oslon</p>
-    <p>Giellavahkku/ Gïelevåhkoe/ Giellavahkko rabáduvvá moatte bájkálasj dåjmajn rijkav miehtáj. Almulasj rahpam la Oslo Sámi viesun mánnodagá gålgådismáno 21. b. kl. 17:00. Sámedikkepresidænnta Aili Keskitalo Giellavahkov rahpá.</p>
-    <p>Suohkan- ja ådåsmahttemminisstar Monica Mæland aj rahpamij sæbrrá.</p>
-    <p>Rahpama aktijvuodan li aj iesjgeŋgalágásj kultuvralasj hávsskudahttema dagu konsertasj, romána åvddånbuktem ja vuosádus. Dasi duodden guossodip gáhkov, káfav ja sáftav.</p>
-    <p>Buorisboahtem gájkajda!</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Giellavahkku/ Gïelevåhkoe/ Giellavahkko almulasj rahpam Oslon</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2019</year><wordcount>62</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/AAdaasa/Giellavahkku-Gielevaahkoe-Giellavahkko-almulasj-rahpam-Oslon</origFileName><parallel_text xml:lang="nob" location="offisiell-aapning-av-samisk-spraakuke-i-oslo.html"/><parallel_text xml:lang="sma" location="giellavahkku-gielevaahkoe-giellavahkko-byoegkeles-rihpestimmie-oslosne.html"/><parallel_text xml:lang="sme" location="giellavahkku-gielevaahkoe-giellavahkko-almmolas-rahpan-oslos.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Giellavahkku/ Gïelevåhkoe/ Giellavahkko almulasj rahpam Oslon</p>
+<p>Giellavahkku/ Gïelevåhkoe/ Giellavahkko rabáduvvá moatte bájkálasj dåjmajn rijkav miehtáj. Almulasj rahpam la Oslo Sámi viesun mánnodagá gålgådismáno 21. b. kl. 17:00. Sámedikkepresidænnta Aili Keskitalo Giellavahkov rahpá.</p>
+<p>Suohkan- ja ådåsmahttemminisstar Monica Mæland aj rahpamij sæbrrá.</p>
+<p>Rahpama aktijvuodan li aj iesjgeŋgalágásj kultuvralasj hávsskudahttema dagu konsertasj, romána åvddånbuktem ja vuosádus. Dasi duodden guossodip gáhkov, káfav ja sáftav.</p>
+<p>Buorisboahtem gájkajda!</p>
+</body></document>

@@ -1,72 +1,24 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>492</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="smj"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Nanos-vuorodibme-kultuvrajn-gielajn-ja-rijkagasskasasj-bargujn</origFileName>
-    <parallel_text xml:lang="nob" location="sterk-satsning-paa-kultur-spraak-og-internasjonal-arbeid.html"/>
-    <parallel_text xml:lang="sma" location="naennoes-skreejreme-kultuvrese-gielese-jih-gaskenasjovnaale-barkose.html"/>
-    <parallel_text xml:lang="sme" location="nana-angirussamat-kultuvrras-gielas-ja-riikkaidgaskasas-barggus.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Nanos vuorodibme kultuvrajn, gielajn ja rijkagasskasasj bargujn / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
-    <p type="title">Nanos vuorodibme kultuvrajn, gielajn ja rijkagasskasasj bargujn</p>
-    <p xml:lang="sme">08. rahka 2012</p>
-    <p>
-      <em type="bold">Kultuvrra, giella ja rijkagasskasasj barggo li ájnas vuorodimguovlo Sámedikke budsjehtan jahkáj 2013. – Sáme institusjåvnå ja festivála li ájnas ásadime ja ájnas arena kultuvrra-, giella- ja identitehtaåvddånahttemij, javllá rádeájras Vibeke Larsen. </em>
-    </p>
-    <p>Sáme kulturinstitusjåvnå li ájnnasa ásadittjat sáme almulasjvuodav, åvdedit dádjadimev sáme kultuvras ja råvijt biggit kultuvraj gaskan. Dá institusjåvnå åvdåsti aj ájnas sáme kulturbarggosajijt gånnå sámegiella le guovdátjin.</p>
-    <p>
-      <em type="bold">-Sámedikkeráde joarkká nannimijn sáme kulturinstitusjåvnåjs ja lip ávon gå lip oajvvadam gålmmå festiválajt oassen Sámedikke budsjehtas, javllá rádeájras Vibeke Larsen. Dát galggá oassálasstet vaddet oakkev ja åvddånahttemav, javllá Larsen. </em>
-    </p>
-    <p>Julevsáme vahkko ásaduvvá juohkka jage Divtasvuonan julevsáme gielajn ja nuorajn guovdátjin. Raasten Rastah – oarjjelsáme kulturfestiválla ásaduvvá juohkka nuppát jage Rørosan ja le rádjágasskasasj festiválla oajvvedættojn mánájn ja gielan. Sáme vahkko Råmsån oajvvaduvvá aj Sámedikke budsjæhttaj.</p>
-    <p>Sámedigge ja Vuona álmmukmusea li sjiehtadam máhtsadimev kulturárbijs sáme museajda. Sámedikkeráde gåtset sjiehtadusáv ja juollot 1 millijåvnå kråvnå prosæssaj gárvedittjat máhtsadimprosjevtav Bååstede.</p>
-    <p>
-      <em type="bold">Sáme giellaratjástibme </em>
-    </p>
-    <p>
-      <em type="bold">- Jahke 2013 le nasjonála giellajahke, ja de le navti stuorra ávvo almodit sámedikkeráde budsjehta baktu oajvvat ruhtadårjav guokta ådå sáme giellaguovdátjijda. Dá li Storfjord giellaguovdásj Storfjordan ja Gïelearnie Røyrvikan, javllá rádeájras Vibeke Larsen. </em>
-    </p>
-    <p>Sámedikkeráde aj duosstu signálajt giellaguovdátjijs dárbos ienep oakkev rudáj hárráj, ja oajvvat ásaduvvá åvddånahttemdoarjja sáme giellaguovdátjijda gudi juo ruhtadårjav Sámedikkes oadtju.</p>
-    <p>
-      <em type="bold">- Le aj ávvosáhka gå Røyrvik suohkan oassen sjaddá sámegiela háldadimguovlos, ja oadtju dan diehti guovtegielakvuodarudájt Sámedikkes. Dát sjaddá oassálasstet nannimij gielas guovlon gånnå sámegiella le oajtedum, javllá Larsen. </em>
-    </p>
-    <p>Sámedikke oajvveulmme bargujn sámegielajn le oadtjot ienep giellaaddnijt ja lasedit anov sámegielas. Aktijvuodan giellajagijn 2013 oajvvat sámedikkeráde dan diehti giellaratjástimev måvtåstuhtátjit lasse adnuj sámegielajs ja oadtjot ienep ulmutjijt sámegielav åhpatjit.</p>
-    <p>
-      <em type="bold">Tjoahkkiji álggoálmmugijt Altaj </em>
-    </p>
-    <p>Sámedikke le dåjmav válldám ásadimes gárvediddje álggoálmmukkonferánsas jagen 2013, vaj álggoálmmuga galggi máhttet gárvedit væráltkonferánssaj jagen 2014. Gárvediddje konferánssa tjadáduvvá Altan biehtsemánon 2013. ANa stuoves ságastallamsadje ja ANa tjiehppejuogos álggoálmmugij hárráj li goappátja sávvam dáv dåjmav buorisboahtem. Værálda álggoálmmuga li aj sæbrram konferánssaj. Sámedigge jáhkká birrusin 800 álggoálmmukájrrasa ja váksjára sjaddi konferánsan oassálasstet Altan jagen 2013.</p>
-    <p>
-      <em type="bold">- Sámedigge barggá álggoálmmugij riektáj mierredit ietjas åvddånahttema badjel ja riektáj várajváldátjit ietjas ássjijt rijkajgasskasattjat. Dan diehti le aj ájnas tjalmostit rijkajgasskasasj bargov, javllá rádeájras Vibeke Larsen. </em>
-    </p>
-    <p>Sáme viehkkeorganisasjåvnnå Mama Sara Education Foundation le rudáj viehkedam Masaiajt dárbujn skåvlås ja åhpadimes, ja vuoset viehkke álggoálmmugij gaskan máhttá sieradusáv dahkat. Oajvvaduvvá Sámedigge stuoves ruhtadårjav vaddá Mama Sara Education Foundationij.</p>
-    <p>
-      <em type="bold">Ienep sáme sisadno median </em>
-    </p>
-    <p>Sámedigge vuojnná dárbov nannit sáme sisanov aktisasjsáddimin, ja ájggu álgadit ådå dåjmajt aktan birrusijn ma barggi ja máhtti åvddånahttet ådå vuogijt sáme åhpadusfálaldagájda.</p>
-    <p>Sámedikkeráde oajvvat juollodit 1,5 millijåvnå kråvnå prosjæktaj gånnå ulmme le oadtjot sámegielav ienep vuojnnusij median.</p>
-    <p>
-      <em type="bold">- Sámegielak diehtoprográmma tvan máhtti åhpadusaktijvuodan aneduvvat sáme skåvlåjn, skåvlåjn ietján ja ållessjattukåhpadusán. Sámedigge vuoset NRKa vuorodimijda NRK Skole ja NRK Kunnskapskanalen ma máhtti liehket máhttelis vuoge ja aktisasjbarggoguojme åvddånahtátjit ådå sáme fálaldagájt, javllá Larsen. </em>
-    </p>
-    <p xml:lang="nob">Sametingetsrådets forslag til budsjett 2013_norsk.pdf</p>
-    <p xml:lang="nob">1.010,78 kB</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>492</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="smj"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samedigge.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Nanos-vuorodibme-kultuvrajn-gielajn-ja-rijkagasskasasj-bargujn</origFileName><parallel_text xml:lang="nob" location="sterk-satsning-paa-kultur-spraak-og-internasjonal-arbeid.html"/><parallel_text xml:lang="sma" location="naennoes-skreejreme-kultuvrese-gielese-jih-gaskenasjovnaale-barkose.html"/><parallel_text xml:lang="sme" location="nana-angirussamat-kultuvrras-gielas-ja-riikkaidgaskasas-barggus.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Nanos vuorodibme kultuvrajn, gielajn ja rijkagasskasasj bargujn / Artikler / Valgperiode 2009 - 2013 / Arkiv / Sámedigge - Sametinget</p>
+<p type="title">Nanos vuorodibme kultuvrajn, gielajn ja rijkagasskasasj bargujn</p>
+<p xml:lang="sme">08. rahka 2012</p>
+<p><em type="bold">Kultuvrra, giella ja rijkagasskasasj barggo li ájnas vuorodimguovlo Sámedikke budsjehtan jahkáj 2013. – Sáme institusjåvnå ja festivála li ájnas ásadime ja ájnas arena kultuvrra-, giella- ja identitehtaåvddånahttemij, javllá rádeájras Vibeke Larsen. </em></p>
+<p>Sáme kulturinstitusjåvnå li ájnnasa ásadittjat sáme almulasjvuodav, åvdedit dádjadimev sáme kultuvras ja råvijt biggit kultuvraj gaskan. Dá institusjåvnå åvdåsti aj ájnas sáme kulturbarggosajijt gånnå sámegiella le guovdátjin.</p>
+<p><em type="bold">-Sámedikkeráde joarkká nannimijn sáme kulturinstitusjåvnåjs ja lip ávon gå lip oajvvadam gålmmå festiválajt oassen Sámedikke budsjehtas, javllá rádeájras Vibeke Larsen. Dát galggá oassálasstet vaddet oakkev ja åvddånahttemav, javllá Larsen. </em></p>
+<p>Julevsáme vahkko ásaduvvá juohkka jage Divtasvuonan julevsáme gielajn ja nuorajn guovdátjin. Raasten Rastah – oarjjelsáme kulturfestiválla ásaduvvá juohkka nuppát jage Rørosan ja le rádjágasskasasj festiválla oajvvedættojn mánájn ja gielan. Sáme vahkko Råmsån oajvvaduvvá aj Sámedikke budsjæhttaj.</p>
+<p>Sámedigge ja Vuona álmmukmusea li sjiehtadam máhtsadimev kulturárbijs sáme museajda. Sámedikkeráde gåtset sjiehtadusáv ja juollot 1 millijåvnå kråvnå prosæssaj gárvedittjat máhtsadimprosjevtav Bååstede.</p>
+<p><em type="bold">Sáme giellaratjástibme </em></p>
+<p><em type="bold">- Jahke 2013 le nasjonála giellajahke, ja de le navti stuorra ávvo almodit sámedikkeráde budsjehta baktu oajvvat ruhtadårjav guokta ådå sáme giellaguovdátjijda. Dá li Storfjord giellaguovdásj Storfjordan ja Gïelearnie Røyrvikan, javllá rádeájras Vibeke Larsen. </em></p>
+<p>Sámedikkeráde aj duosstu signálajt giellaguovdátjijs dárbos ienep oakkev rudáj hárráj, ja oajvvat ásaduvvá åvddånahttemdoarjja sáme giellaguovdátjijda gudi juo ruhtadårjav Sámedikkes oadtju.</p>
+<p><em type="bold">- Le aj ávvosáhka gå Røyrvik suohkan oassen sjaddá sámegiela háldadimguovlos, ja oadtju dan diehti guovtegielakvuodarudájt Sámedikkes. Dát sjaddá oassálasstet nannimij gielas guovlon gånnå sámegiella le oajtedum, javllá Larsen. </em></p>
+<p>Sámedikke oajvveulmme bargujn sámegielajn le oadtjot ienep giellaaddnijt ja lasedit anov sámegielas. Aktijvuodan giellajagijn 2013 oajvvat sámedikkeráde dan diehti giellaratjástimev måvtåstuhtátjit lasse adnuj sámegielajs ja oadtjot ienep ulmutjijt sámegielav åhpatjit.</p>
+<p><em type="bold">Tjoahkkiji álggoálmmugijt Altaj </em></p>
+<p>Sámedikke le dåjmav válldám ásadimes gárvediddje álggoálmmukkonferánsas jagen 2013, vaj álggoálmmuga galggi máhttet gárvedit væráltkonferánssaj jagen 2014. Gárvediddje konferánssa tjadáduvvá Altan biehtsemánon 2013. ANa stuoves ságastallamsadje ja ANa tjiehppejuogos álggoálmmugij hárráj li goappátja sávvam dáv dåjmav buorisboahtem. Værálda álggoálmmuga li aj sæbrram konferánssaj. Sámedigge jáhkká birrusin 800 álggoálmmukájrrasa ja váksjára sjaddi konferánsan oassálasstet Altan jagen 2013.</p>
+<p><em type="bold">- Sámedigge barggá álggoálmmugij riektáj mierredit ietjas åvddånahttema badjel ja riektáj várajváldátjit ietjas ássjijt rijkajgasskasattjat. Dan diehti le aj ájnas tjalmostit rijkajgasskasasj bargov, javllá rádeájras Vibeke Larsen. </em></p>
+<p>Sáme viehkkeorganisasjåvnnå Mama Sara Education Foundation le rudáj viehkedam Masaiajt dárbujn skåvlås ja åhpadimes, ja vuoset viehkke álggoálmmugij gaskan máhttá sieradusáv dahkat. Oajvvaduvvá Sámedigge stuoves ruhtadårjav vaddá Mama Sara Education Foundationij.</p>
+<p><em type="bold">Ienep sáme sisadno median </em></p>
+<p>Sámedigge vuojnná dárbov nannit sáme sisanov aktisasjsáddimin, ja ájggu álgadit ådå dåjmajt aktan birrusijn ma barggi ja máhtti åvddånahttet ådå vuogijt sáme åhpadusfálaldagájda.</p>
+<p>Sámedikkeráde oajvvat juollodit 1,5 millijåvnå kråvnå prosjæktaj gånnå ulmme le oadtjot sámegielav ienep vuojnnusij median.</p>
+<p><em type="bold">- Sámegielak diehtoprográmma tvan máhtti åhpadusaktijvuodan aneduvvat sáme skåvlåjn, skåvlåjn ietján ja ållessjattukåhpadusán. Sámedigge vuoset NRKa vuorodimijda NRK Skole ja NRK Kunnskapskanalen ma máhtti liehket máhttelis vuoge ja aktisasjbarggoguojme åvddånahtátjit ådå sáme fálaldagájt, javllá Larsen. </em></p>
+<p xml:lang="nob">Sametingetsrådets forslag til budsjett 2013_norsk.pdf</p>
+<p xml:lang="nob">1.010,78 kB</p>
+</body></document>

@@ -1,41 +1,13 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>289</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/index.php?id=5504660&amp;showtipform=1&amp;cat=99245&amp;gb=</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tysfjord kommune : Vuorbbádusáj ja vuododusáj oahttse galggá 1,2 milliarda kråvnå juogadit lasseárvvodivudin luojvoj siebrijda ja organisasjåvnåjda - Tips en venn</p>
-    <p type="title">Vuorbbádusáj ja vuododusáj oahttse galggá 1,2 milliarda kråvnå juogadit lasseárvvodivudin luojvoj siebrijda ja organisasjåvnåjda</p>
-    <p xml:lang="nob">02.06.2014</p>
-    <p>Vuorbbádusáj ja vuododusáj oahttse galggá 1,2 milliarda kråvnå juogadit lasseárvvodivudin luojvoj siebrijda ja organisasjåvnåjda jagen 2014. Ájnas la mujttet bájkálasj siebre galggi ietjasa oajvvesiebrij baktu åhtsåt. Dán jage hilgoduvvi åhtsåmusá bájkálasj siebrijs ma njuolgga Vuorbbádusáj ja vuododusáj oahttsáj båhti.Åvddåla biejajama dájt oajvvesiebre åhtsåmusá vuolláj, valla dássta dåhku ep sjatta nav dahkat.</p>
-    <p>Åtsådallama åvdep jagijs vuosedi gávnnuji moadda siebre ja organisasjåvnå ma e lasseárvvodivudav (lád) åtså. Dá li álu bájkálasj jali guovlosiebre guovdásj luojvoj organisasjåvnåj vuolen duola dagu Vuona Valástallamlihtto ( NIF), 4H Vuodna, Vuona Musikkjuogoslihtto, Vuona Ruoppsis Ruossa ja Vuona Bivdárij- ja Oaggijlihtto. Dakkár bájkálasj siebre galggi ietjasa oajvveorganisasjåvnåj baktu åthsåt.</p>
-    <p>Muhtem ájnegis siebre ja organisasjåvnå e åtså, duola dagu organisasjåvnå ma luojvoj bargojt barggi sirdulasjjuohkusijn ja ietjá bájkálasj siebrijn. Dan diehti gæhttjalip dájda jåksåt suohkanij ja fylkasuohkanij baktu, ja dajnas ávttjit dán mejla baktu ulmutjijt juogadit dáv loujvoj siebrijda ja organisasjåvnåjda duv suohkanin/guovlon.</p>
-    <p>Máhttebihtit lád- njuolgadusáj birra låhkåt louvoj siebrijda ja organisasjåvnåjda mijá næhttabielijn http://www.momskompensasjon.no Danna l aj åhtsåmsjiebmá. Jus li gatjálvisá, máhttebihtit aktijvuodajt mejla baktu oadtjot: postmottak@lottstift.no jali telefåvnå 57 82 80 00 baktu.</p>
-    <p>Ájnegis åhttsijda lí ráddjidum åhtsåmussumma 200.000 kråvnå åbbålasj doajmmagållon. Álkkedum åhtsåmvuogádusá milta la binnemus rádje 200.000 kråvnå tjoahkke doajmmagållon, valla binnemus rádjá duodastuvvam åhtsåmvuogádusá milta la 14.000 kråvnå lasseárvvogållon majt máhttá åhtsåt. Vuollásasj siebre e dárbaha vieledit dáv binnemusrájáv gå dát vieleduvvá guovdásjsiebrij åhtsåmusájn.</p>
-    <p>
-      <em type="italic">Åhtsåmmierre Vuorbbádusáj ja vuododusáj oahttses le ragátmáno 1. biejve 2014. </em>
-    </p>
-    <p>Oajvvesiebre biedji ietja åhtsåmierijt diedádusáj hárráj ietjasa vuollásasjsiebrijda. Gehtja ájnegis organisasjåvnå næhttabielijt, jali åttjuda aktijvuodav oajvveorganisásjåvnåjs lagáp diedojt.</p>
-    <p>Varrudagáj</p>
-    <p>Vuorbbádusáj ja vuododusáj oahttse</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>289</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/index.php?id=5504660&amp;showtipform=1&amp;cat=99245&amp;gb=</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tysfjord kommune : Vuorbbádusáj ja vuododusáj oahttse galggá 1,2 milliarda kråvnå juogadit lasseárvvodivudin luojvoj siebrijda ja organisasjåvnåjda - Tips en venn</p>
+<p type="title">Vuorbbádusáj ja vuododusáj oahttse galggá 1,2 milliarda kråvnå juogadit lasseárvvodivudin luojvoj siebrijda ja organisasjåvnåjda</p>
+<p xml:lang="nob">02.06.2014</p>
+<p>Vuorbbádusáj ja vuododusáj oahttse galggá 1,2 milliarda kråvnå juogadit lasseárvvodivudin luojvoj siebrijda ja organisasjåvnåjda jagen 2014. Ájnas la mujttet bájkálasj siebre galggi ietjasa oajvvesiebrij baktu åhtsåt. Dán jage hilgoduvvi åhtsåmusá bájkálasj siebrijs ma njuolgga Vuorbbádusáj ja vuododusáj oahttsáj båhti.Åvddåla biejajama dájt oajvvesiebre åhtsåmusá vuolláj, valla dássta dåhku ep sjatta nav dahkat.</p>
+<p>Åtsådallama åvdep jagijs vuosedi gávnnuji moadda siebre ja organisasjåvnå ma e lasseárvvodivudav (lád) åtså. Dá li álu bájkálasj jali guovlosiebre guovdásj luojvoj organisasjåvnåj vuolen duola dagu Vuona Valástallamlihtto ( NIF), 4H Vuodna, Vuona Musikkjuogoslihtto, Vuona Ruoppsis Ruossa ja Vuona Bivdárij- ja Oaggijlihtto. Dakkár bájkálasj siebre galggi ietjasa oajvveorganisasjåvnåj baktu åthsåt.</p>
+<p>Muhtem ájnegis siebre ja organisasjåvnå e åtså, duola dagu organisasjåvnå ma luojvoj bargojt barggi sirdulasjjuohkusijn ja ietjá bájkálasj siebrijn. Dan diehti gæhttjalip dájda jåksåt suohkanij ja fylkasuohkanij baktu, ja dajnas ávttjit dán mejla baktu ulmutjijt juogadit dáv loujvoj siebrijda ja organisasjåvnåjda duv suohkanin/guovlon.</p>
+<p>Máhttebihtit lád- njuolgadusáj birra låhkåt louvoj siebrijda ja organisasjåvnåjda mijá næhttabielijn http://www.momskompensasjon.no Danna l aj åhtsåmsjiebmá. Jus li gatjálvisá, máhttebihtit aktijvuodajt mejla baktu oadtjot: postmottak@lottstift.no jali telefåvnå 57 82 80 00 baktu.</p>
+<p>Ájnegis åhttsijda lí ráddjidum åhtsåmussumma 200.000 kråvnå åbbålasj doajmmagållon. Álkkedum åhtsåmvuogádusá milta la binnemus rádje 200.000 kråvnå tjoahkke doajmmagållon, valla binnemus rádjá duodastuvvam åhtsåmvuogádusá milta la 14.000 kråvnå lasseárvvogållon majt máhttá åhtsåt. Vuollásasj siebre e dárbaha vieledit dáv binnemusrájáv gå dát vieleduvvá guovdásjsiebrij åhtsåmusájn.</p>
+<p><em type="italic">Åhtsåmmierre Vuorbbádusáj ja vuododusáj oahttses le ragátmáno 1. biejve 2014. </em></p>
+<p>Oajvvesiebre biedji ietja åhtsåmierijt diedádusáj hárráj ietjasa vuollásasjsiebrijda. Gehtja ájnegis organisasjåvnå næhttabielijt, jali åttjuda aktijvuodav oajvveorganisásjåvnåjs lagáp diedojt.</p>
+<p>Varrudagáj</p>
+<p>Vuorbbádusáj ja vuododusáj oahttse</p>
+</body></document>

@@ -1,72 +1,36 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Oahppin «The Liverpool Way»</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>995</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/files/samisk_091009.pdf</origFileName>
-    <parallel_text xml:lang="nob" location="samisk_091009.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p><em type="bold">lokalavisa</em> </p>
-    <p xml:lang="nob"><em type="italic">Fredag 9. oktober  2009</em><em type="bold">NORDSALTEN</em> </p>
-    <p xml:lang="nob"><em type="bold">NORDSALTENlokalavisa</em> </p>
-    <p xml:lang="nob"><em type="italic">Fredag 9. 0ktober  2009</em> </p>
-    <p>Bájkkeavijssa NuorttaSállto</p>
-    <p>Tæksta: Børge StrandskogJårggålibme: Divte Media AS/Idar Kintel</p>
-    <p xml:lang="nob">Lærte <span type="quote" xml:lang="nob">«TheLiverpool Way»</span></p>
-    <p xml:lang="nob">ay»NORSK TEKST:</p>
-    <p>ja bállotjiektjamdádjadus lij sæmmi buorre gå sij gudi lidjin oarjját, vuojnij báhtjaj bájkálasj hárjjidalle Ronny Nergård.</p>
-    <p>12 oajvemus åhpadum hárjjidalle lidjin Osloj háleduvvam Liverpoolas åhpatjit doajvo nuorajt almma <span type="quote" xml:lang="nob">“Liverpool style soccer”</span>. Hárjjidalle Liverpoolas lidjin viek tjiehpe, berustalle ja vájmmelisá ja mánáj mielajt riek giddijin.</p>
-    <p>Divna hárjjidalle lidjin iennilsgielaga ja gájkka iennilsgiellaj javladuváj. Jáhkedahtte le oassálasstijn ådå báhkoboanndudahka bállotjiektjamskåvlåj mannela. Juo oanegis ájge mannela gullujin sihke <span type="quote" xml:lang="nob">“skills, go, go, go ja well done”</span> daj moadda saljojs, ja Liverpoola hárjjidalle tjiektje mielajt ållu giddijin. Báhtja Ájluovtas subtsasti dádjadin vargga gájkka majt javllin. Duodden bállotjiektjamoahppamij majt máhtti sijdan Ájluovtan árkkabiejvijt hárjjidallat, oadtjun báhtja kursav iennilsgielav dádjadit ja sáhkadit. Lullevuonaga ettjin ga nav ålov nuorttavuonak hållamvuoges dádjada, ja navti lij sæmmi buorre iennilsgielav muhtemij sáhkadit.</p>
-    <p>Ronny Nergård subtsas hárjjidalle tjielggasit lidjin bállotjiektjamfágalattjat huj tjiehpe. - Dásse hárjjidallamijn lij alla ja juohkka biejve lij ådå oahppo. Vuojnnet aj tjalmostahtti jæhkogisvuodav ja hávsskes hárjjidallamijt Liverpool Akademian. Tjiektje ja aj hárjjidalle lidjin dudálattja biejvij, guhka åsij bállotjiektjamhárjjidallamij. Organiserik lij systemáhtalasj ja riek buoragit gárvedum. Imálasj gå ittjij hiemsse sjatta gå nav moadda máná gudi ettjin nubbe nuppev dåbdå, galggin dåjmajda oassálasstet gånnå bagádalle/hárjjidalle bagádin amás giellaj, javllá Nergård. Åvdep kaptæjnna, tjiektje ja viehkke manager Phil Thompson guossidij skåvlåv manemus biejve. - Gå lidjiv nuorra ejma bállotjiektjamskåvlåjt jali hárjjidallijt ane, ja navti udnásj nuorajn li ienep máhttelisvuoda smidás tjiektjen sjaddat. Ja bierriji máhttelisvuodajt adnet. Valla mij agev viertti vuodon liehket le suohtastallam bállojn ja hávsskudallat tjiektjamijn, javlaj Liverpool-jáhtto.</p>
-    <p>Báhtja Ájluovtas bessin aj Champions League vuojtov låggnit mav Liverpool ja John Arne Riise vuojttin Istanbulan jagen 2005. Manemus biejve divna oassálasste diplomav, bállov ja Liverpool-skirtov oadtjun. Juogeduváj aj medálja</p>
-    <p xml:lang="nob">Abildsøfeltet var arena da Liverpools omreisende fotballskole for første gang tok turen til Oslo. Og fotballskolen trakk ikke bare til seg lokale unger. Noen hadde reist helt fra Nord-Norge for å delta</p>
-    <p type="listitem" xml:lang="nob">– fra Drag!.</p>
-    <p>jj</p>
-    <p>jj</p>
-    <p>jj</p>
-    <p>jj</p>
-    <p xml:lang="nob"><em type="italic">F.v Elias Olafsen, Mikkel Andre Nergård,  Ole-Fredrik Nergård  og Jonas Olafsen.</em> </p>
-    <p xml:lang="nob">noen av dem også. Ronny Nergård forteller at det var tydelig at trenerne var fotballfaglig meget dyktig. - Det var høyt nivå på treningene og stadig noe nytt å lære. Det virket også som både fokus på disiplin og humørfylte treninger er en vesentlig bestanddel i Liverpool Akademiets opplegg. Både spillere og trenere gav uttrykk for stor tilfredshet med dagene med intensive, men lærerike økter med fotballtrening. Organiseringen var systematisk og meget godt planlagt. Utrolig at det ikke ble kaotisk når så mange barn som ikke kjente hverandre fra før, skulle delta i aktiviteter der veilederne/trenerne forklarte på et fremmed språk, sier Nergård  Tidligere kaptein, spiller og ass. manager Phil Thompson var innom skolen den siste dagen.</p>
-    <p type="listitem" xml:lang="nob">– Da jeg var ung hadde vi ikke fotball</p>
-    <p xml:lang="nob">skoler eller trenere, ungene i dag har større og flere muligheter til å bli gode. Og de bør ta dem. Men det som hele tiden må ligge i bunn er at man skal ha det artig med fotballen og nyte spillet, uttalte Liverpool-legenden.</p>
-    <p xml:lang="nob">Guttene fra Drag fikk også løfte Champions League troféet som Liverpool og John Arne Riise vant i Istanbul i 2005.  Siste dag fikk alle deltakerne utdelt Diplom, fotball og Liverpool T-Skjorter. Det ble også utdelt medaljer til vinnerne av en uhøytidelig straffekonkuranse som ble avviklet i hver av gruppene, samt medalje for beste holdninger/fair play. Elias Olafsen fra Drag vant medaljen for beste holdninger/fair play i sin gruppe, noe som var meget fortjent og artig for delegasjonen fra Drag.</p>
-    <p xml:lang="nob"><em type="italic"> Gåvvå/foto: Øyvind A. Olsen, AN</em> </p>
-    <p>jj</p>
-    <p>jj j</p>
-    <p>j j</p>
-    <p>vuojttijda unna stráffatjievtjastimgilppusin mij juohkka juohkusin tjadáduváj, ja akta dasi gænna lij buoremus miellaguddo/fair play. Elias Olafsen Ájluovtas medáljav vuojtij buoremus miellaguddo/fairplay ietjas juohkusin, dav sån ánssidij ja viehka suohtas lij Ájluovta báhtjajda.</p>
-    <p xml:lang="nob"><em type="italic">Spillegruppe sammen med Phil Thompson og trener. Gåvva/foto: Ronny Nergård</em> </p>
-    <p xml:lang="nob">meldte også at de så en jerv som sprang fra området og opp mot fjellet bak jerv da vi skjøt en elg i Sommerkollen overfor Marhaug. Så det er nok på høy tid at sauene</p>
-    <p xml:lang="nob">Ole-Fredrik Nergård, Mikkel André Nergård, Elias Olafsen og Jonas Olafsen deltok nemlig alle på <span type="quote" xml:lang="nob">”skolen”</span> i Oslo 27.-29. september 2009. De var selvfølgelig spente og det kriblet litt i magen før avreise til Oslo fra Drag. De var spente på å møte fotballspillere fra Østlandet og få spille mot andre barn fra en annen kant av landet. Det var om lag 160-170 deltakere som ble inndelt i aldersgrupper med ca. 16 spillere i hver gruppe. Den første dagen var guttene litt tilbakeholden, men de ble fort en del av spillergruppene og koste seg med fotballøvelser fra kl. 09.30 til kl. 15.00 i tre hele dager. - Nivåmessig var guttene fra Drag fullt på høyde med østlendingene. Både teknikk og fotballforståelsen var like bra som hos spillerne sørfra, observerte guttenes lokale trener Ronny Nergård.  12 toppkvalifiserte trenere var blitt fløyet inn til Oslo fra Liverpool for å drille unge og håpefulle i skikkelig <span type="quote" xml:lang="nob">«Liverpool style soccer»</span>. Trenerne fra Liverpool var utrolig dyktige, engasjerte og ivrige og med stålkontroll på ungene. Alle trenerne var engelskspråklige og alt foregikk på engelsk. Det vil forundre oss mye om ikke de fleste deltakerne nå sitter igjen med et nytt ordforråd etter fotballskolene. Allerede etter kort tid runget både <span type="quote" xml:lang="nob">«skills, go, go, go og well done»</span> på de forskjellige banene, og Liverpools trenerteam hadde spillerne i sin hule hånd. Guttene fra Drag forteller at det gikk veldig greit å forstå hva som ble sagt. I tillegg til å lære mye om fotball som de kan trene på i hverdagen hjemme på Drag, fikk guttene intensiv kurs i å forstå og snakke engelsk. Østlendingene forsto heller ikke så mye av den nordnorske dialekten, så det var faktisk like greit å snakke engelsk til</p>
-    <p xml:lang="nob"><em type="italic">Ole Fredrik Nergård</em> <em type="italic">Gåvva/foto: Ronny NergårdMed Champion League-trofèet, f.v. Elias Olafsen, Ole-Fredrik Nergård, Mikkel Andre Nergård</em> </p>
-    <p xml:lang="nob"><em type="italic">og Jonas Olafsen.     Gåvva/foto: Ronny Nergård</em> </p>
-    <p xml:lang="nob">Tildeling til lag og foreninger i Hamarøy</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Oahppin «The Liverpool Way»</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2009</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>995</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.nord-salten.no/files/samisk_091009.pdf</origFileName><parallel_text xml:lang="nob" location="samisk_091009.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">lokalavisa</em> </p>
+<p xml:lang="nob"><em type="italic">Fredag 9. oktober  2009</em><em type="bold">NORDSALTEN</em> </p>
+<p xml:lang="nob"><em type="bold">NORDSALTENlokalavisa</em> </p>
+<p xml:lang="nob"><em type="italic">Fredag 9. 0ktober  2009</em> </p>
+<p>Bájkkeavijssa NuorttaSállto</p>
+<p>Tæksta: Børge StrandskogJårggålibme: Divte Media AS/Idar Kintel</p>
+<p xml:lang="nob">Lærte <span type="quote" xml:lang="nob">«TheLiverpool Way»</span></p>
+<p xml:lang="nob">ay»NORSK TEKST:</p>
+<p>ja bállotjiektjamdádjadus lij sæmmi buorre gå sij gudi lidjin oarjját, vuojnij báhtjaj bájkálasj hárjjidalle Ronny Nergård.</p>
+<p>12 oajvemus åhpadum hárjjidalle lidjin Osloj háleduvvam Liverpoolas åhpatjit doajvo nuorajt almma <span type="quote" xml:lang="nob">“Liverpool style soccer”</span>. Hárjjidalle Liverpoolas lidjin viek tjiehpe, berustalle ja vájmmelisá ja mánáj mielajt riek giddijin.</p>
+<p>Divna hárjjidalle lidjin iennilsgielaga ja gájkka iennilsgiellaj javladuváj. Jáhkedahtte le oassálasstijn ådå báhkoboanndudahka bállotjiektjamskåvlåj mannela. Juo oanegis ájge mannela gullujin sihke <span type="quote" xml:lang="nob">“skills, go, go, go ja well done”</span> daj moadda saljojs, ja Liverpoola hárjjidalle tjiektje mielajt ållu giddijin. Báhtja Ájluovtas subtsasti dádjadin vargga gájkka majt javllin. Duodden bállotjiektjamoahppamij majt máhtti sijdan Ájluovtan árkkabiejvijt hárjjidallat, oadtjun báhtja kursav iennilsgielav dádjadit ja sáhkadit. Lullevuonaga ettjin ga nav ålov nuorttavuonak hållamvuoges dádjada, ja navti lij sæmmi buorre iennilsgielav muhtemij sáhkadit.</p>
+<p>Ronny Nergård subtsas hárjjidalle tjielggasit lidjin bállotjiektjamfágalattjat huj tjiehpe. - Dásse hárjjidallamijn lij alla ja juohkka biejve lij ådå oahppo. Vuojnnet aj tjalmostahtti jæhkogisvuodav ja hávsskes hárjjidallamijt Liverpool Akademian. Tjiektje ja aj hárjjidalle lidjin dudálattja biejvij, guhka åsij bállotjiektjamhárjjidallamij. Organiserik lij systemáhtalasj ja riek buoragit gárvedum. Imálasj gå ittjij hiemsse sjatta gå nav moadda máná gudi ettjin nubbe nuppev dåbdå, galggin dåjmajda oassálasstet gånnå bagádalle/hárjjidalle bagádin amás giellaj, javllá Nergård. Åvdep kaptæjnna, tjiektje ja viehkke manager Phil Thompson guossidij skåvlåv manemus biejve. - Gå lidjiv nuorra ejma bállotjiektjamskåvlåjt jali hárjjidallijt ane, ja navti udnásj nuorajn li ienep máhttelisvuoda smidás tjiektjen sjaddat. Ja bierriji máhttelisvuodajt adnet. Valla mij agev viertti vuodon liehket le suohtastallam bállojn ja hávsskudallat tjiektjamijn, javlaj Liverpool-jáhtto.</p>
+<p>Báhtja Ájluovtas bessin aj Champions League vuojtov låggnit mav Liverpool ja John Arne Riise vuojttin Istanbulan jagen 2005. Manemus biejve divna oassálasste diplomav, bállov ja Liverpool-skirtov oadtjun. Juogeduváj aj medálja</p>
+<p xml:lang="nob">Abildsøfeltet var arena da Liverpools omreisende fotballskole for første gang tok turen til Oslo. Og fotballskolen trakk ikke bare til seg lokale unger. Noen hadde reist helt fra Nord-Norge for å delta</p>
+<p type="listitem" xml:lang="nob">– fra Drag!.</p>
+<p>jj</p>
+<p>jj</p>
+<p>jj</p>
+<p>jj</p>
+<p xml:lang="nob"><em type="italic">F.v Elias Olafsen, Mikkel Andre Nergård,  Ole-Fredrik Nergård  og Jonas Olafsen.</em> </p>
+<p xml:lang="nob">noen av dem også. Ronny Nergård forteller at det var tydelig at trenerne var fotballfaglig meget dyktig. - Det var høyt nivå på treningene og stadig noe nytt å lære. Det virket også som både fokus på disiplin og humørfylte treninger er en vesentlig bestanddel i Liverpool Akademiets opplegg. Både spillere og trenere gav uttrykk for stor tilfredshet med dagene med intensive, men lærerike økter med fotballtrening. Organiseringen var systematisk og meget godt planlagt. Utrolig at det ikke ble kaotisk når så mange barn som ikke kjente hverandre fra før, skulle delta i aktiviteter der veilederne/trenerne forklarte på et fremmed språk, sier Nergård  Tidligere kaptein, spiller og ass. manager Phil Thompson var innom skolen den siste dagen.</p>
+<p type="listitem" xml:lang="nob">– Da jeg var ung hadde vi ikke fotball</p>
+<p xml:lang="nob">skoler eller trenere, ungene i dag har større og flere muligheter til å bli gode. Og de bør ta dem. Men det som hele tiden må ligge i bunn er at man skal ha det artig med fotballen og nyte spillet, uttalte Liverpool-legenden.</p>
+<p xml:lang="nob">Guttene fra Drag fikk også løfte Champions League troféet som Liverpool og John Arne Riise vant i Istanbul i 2005.  Siste dag fikk alle deltakerne utdelt Diplom, fotball og Liverpool T-Skjorter. Det ble også utdelt medaljer til vinnerne av en uhøytidelig straffekonkuranse som ble avviklet i hver av gruppene, samt medalje for beste holdninger/fair play. Elias Olafsen fra Drag vant medaljen for beste holdninger/fair play i sin gruppe, noe som var meget fortjent og artig for delegasjonen fra Drag.</p>
+<p xml:lang="nob"><em type="italic"> Gåvvå/foto: Øyvind A. Olsen, AN</em> </p>
+<p>jj</p>
+<p>jj j</p>
+<p>j j</p>
+<p>vuojttijda unna stráffatjievtjastimgilppusin mij juohkka juohkusin tjadáduváj, ja akta dasi gænna lij buoremus miellaguddo/fair play. Elias Olafsen Ájluovtas medáljav vuojtij buoremus miellaguddo/fairplay ietjas juohkusin, dav sån ánssidij ja viehka suohtas lij Ájluovta báhtjajda.</p>
+<p xml:lang="nob"><em type="italic">Spillegruppe sammen med Phil Thompson og trener. Gåvva/foto: Ronny Nergård</em> </p>
+<p xml:lang="nob">meldte også at de så en jerv som sprang fra området og opp mot fjellet bak jerv da vi skjøt en elg i Sommerkollen overfor Marhaug. Så det er nok på høy tid at sauene</p>
+<p xml:lang="nob">Ole-Fredrik Nergård, Mikkel André Nergård, Elias Olafsen og Jonas Olafsen deltok nemlig alle på <span type="quote" xml:lang="nob">”skolen”</span> i Oslo 27.-29. september 2009. De var selvfølgelig spente og det kriblet litt i magen før avreise til Oslo fra Drag. De var spente på å møte fotballspillere fra Østlandet og få spille mot andre barn fra en annen kant av landet. Det var om lag 160-170 deltakere som ble inndelt i aldersgrupper med ca. 16 spillere i hver gruppe. Den første dagen var guttene litt tilbakeholden, men de ble fort en del av spillergruppene og koste seg med fotballøvelser fra kl. 09.30 til kl. 15.00 i tre hele dager. - Nivåmessig var guttene fra Drag fullt på høyde med østlendingene. Både teknikk og fotballforståelsen var like bra som hos spillerne sørfra, observerte guttenes lokale trener Ronny Nergård.  12 toppkvalifiserte trenere var blitt fløyet inn til Oslo fra Liverpool for å drille unge og håpefulle i skikkelig <span type="quote" xml:lang="nob">«Liverpool style soccer»</span>. Trenerne fra Liverpool var utrolig dyktige, engasjerte og ivrige og med stålkontroll på ungene. Alle trenerne var engelskspråklige og alt foregikk på engelsk. Det vil forundre oss mye om ikke de fleste deltakerne nå sitter igjen med et nytt ordforråd etter fotballskolene. Allerede etter kort tid runget både <span type="quote" xml:lang="nob">«skills, go, go, go og well done»</span> på de forskjellige banene, og Liverpools trenerteam hadde spillerne i sin hule hånd. Guttene fra Drag forteller at det gikk veldig greit å forstå hva som ble sagt. I tillegg til å lære mye om fotball som de kan trene på i hverdagen hjemme på Drag, fikk guttene intensiv kurs i å forstå og snakke engelsk. Østlendingene forsto heller ikke så mye av den nordnorske dialekten, så det var faktisk like greit å snakke engelsk til</p>
+<p xml:lang="nob"><em type="italic">Ole Fredrik Nergård</em> <em type="italic">Gåvva/foto: Ronny NergårdMed Champion League-trofèet, f.v. Elias Olafsen, Ole-Fredrik Nergård, Mikkel Andre Nergård</em> </p>
+<p xml:lang="nob"><em type="italic">og Jonas Olafsen.     Gåvva/foto: Ronny Nergård</em> </p>
+<p xml:lang="nob">Tildeling til lag og foreninger i Hamarøy</p>
+</body></document>

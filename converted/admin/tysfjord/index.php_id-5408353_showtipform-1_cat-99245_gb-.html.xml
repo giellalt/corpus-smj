@@ -1,39 +1,11 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>88</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/index.php?id=5408353&amp;showtipform=1&amp;cat=99245&amp;gb=</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tysfjord kommune : Oajvvesisiválldem mánájgárdijda divtasvuonan - Tips en venn</p>
-    <p type="title">Oajvvesisiválldem mánájgárdijda divtasvuonan</p>
-    <p xml:lang="nob">03.02.2014</p>
-    <p>Ådå mánájgárddejahke álggá 18.08.2014 (Árran mánájgárdde álggá 11.08.2014)</p>
-    <p>Divtasvuona suohkanin li dá/tjuovvovasj mánájgárde:</p>
-    <list>
-      <p type="listitem">Árran mánájgárdde, Ájluokta</p>
-      <p type="listitem">Gásluokta mánájgárdde, Ájluovtan</p>
-      <p type="listitem">Pæsatun mánájgárdde, Gásluovtan</p>
-      <p type="listitem">Stuorgiedde bajás-sjaddamguovdásj, Stuorgietten</p>
-    </list>
-    <p>Åhtsåmsjiemáv/skåvev suohkana mánájgárdijda oattjo mánájgárden gånnå åhtså, Rádevieson jali www.tysfjord.kommune.no Åhtsåmsjiemáv/skåvev oattjo mánájgárden jali www.arran.no Dajna gå la aktisasj sisiválldem mánájgárdijn de hæhttu sadje åhtsåmus <em type="italic">DIVNA </em>mánájgárdijda rájaduvvat diehki: Divtasvuona Suohkan Bajás-sjaddam ja åhpadus poasstaboaksa 104 8591 Gásluokta Åhtsåmus máhttá aj rájaduvvat elektråvnnålattjat diehki : postmottak@tysfjord.kommune.no <em type="italic">Åhtsåmmierre le 01.03.14. </em></p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>88</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/index.php?id=5408353&amp;showtipform=1&amp;cat=99245&amp;gb=</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tysfjord kommune : Oajvvesisiválldem mánájgárdijda divtasvuonan - Tips en venn</p>
+<p type="title">Oajvvesisiválldem mánájgárdijda divtasvuonan</p>
+<p xml:lang="nob">03.02.2014</p>
+<p>Ådå mánájgárddejahke álggá 18.08.2014 (Árran mánájgárdde álggá 11.08.2014)</p>
+<p>Divtasvuona suohkanin li dá/tjuovvovasj mánájgárde:</p>
+<list><p type="listitem">Árran mánájgárdde, Ájluokta</p>
+<p type="listitem">Gásluokta mánájgárdde, Ájluovtan</p>
+<p type="listitem">Pæsatun mánájgárdde, Gásluovtan</p>
+<p type="listitem">Stuorgiedde bajás-sjaddamguovdásj, Stuorgietten</p>
+</list><p>Åhtsåmsjiemáv/skåvev suohkana mánájgárdijda oattjo mánájgárden gånnå åhtså, Rádevieson jali www.tysfjord.kommune.no Åhtsåmsjiemáv/skåvev oattjo mánájgárden jali www.arran.no Dajna gå la aktisasj sisiválldem mánájgárdijn de hæhttu sadje åhtsåmus <em type="italic">DIVNA </em>mánájgárdijda rájaduvvat diehki: Divtasvuona Suohkan Bajás-sjaddam ja åhpadus poasstaboaksa 104 8591 Gásluokta Åhtsåmus máhttá aj rájaduvvat elektråvnnålattjat diehki : postmottak@tysfjord.kommune.no <em type="italic">Åhtsåmmierre le 01.03.14. </em></p>
+</body></document>

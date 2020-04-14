@@ -1,52 +1,18 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>«Kick» Vuodnabadán</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>278</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/-kick-vuodnabad-n.4033</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Luonndoiellem le sjaddam fálaldahka Knut Hamsun js:an. Dán jage 19 oahppe ávkástalli fálaldagás – buohtastahtedum dijmásj 8 oahppi. Dánna várrevádtsemis Vuodnabadán mij lij áttjak.</p>
-    <p type="title"><span type="quote" xml:lang="nob">«Kick»</span> Vuodnabadán</p>
-    <p><span type="quote">«Kanåvnnå Vuondabadán – kick midjij»</span>, javlli oahppe Knut Hamsun js:a luonndoiellemfágan – gå li 4 biejve Divtasvuona fábmogis luondon váttsatjam.</p>
-    <p>Oahppe VG1”an li válljim Luonndoiellem 1 aktan dábálasj oahppogárvedime prográmmafágaj. Åhpadus le juogedum 5 modulajda, gånnå akta dajs le sáme luonndoiellem. Kursan oahppe galggi máhtudagáv sáme kultuvra ja árbbedábij birra oadtjot.</p>
-    <p>- Lij riek geldulasj, javllá Sunniva Svendsen Stájgos. - Åhpajma ålov sáme kultuvra birra ja sierraláhkáj skåjvvesubttsasa lidjin geldulattja, javllá sån.</p>
-    <p>Histåvrrå ja luonndofilosofija</p>
-    <p>Skåvllåjage álgon 19 skåvlå oahppijs oassálasstin. Vuossajn ja várrebiktasij lidjin gærggasa biejvijda váren, gånnå sáme histåvrrå ja luonndofilosofija birra oahppat galggin. Vuostatjin ganugin Árran julevsáme guovdátjin gånnå oadtjin lågådallamav ja vuosádallamav. Dan maññela manno manáj Oarjjevuonav sisi Vuodnabahtaj, gånnå Mikal Urheim lågådij histåvrålasj ressurssaháldadime ja mytologija birra. Urheim aj oahppijda tjielggij gåktu jáhtto vájkkudahttá háldadimájádusájt sáme vuojnon.</p>
-    <p>Bierggim luondon</p>
-    <p>Sieralágásj ávkálasj mátto oahppijda lij oahppat daj moattelágásj dållåtjerdaj birra ma aneduvvi, duon dán dálkken ja luondon. Åhpadusá åhpadiddje, Bård Løding, dættot oahppijda sjattaj giehpebujt gå nievres dálkken låvddågoadev buktin tsieggit, ja luondos ressursajt viedtjat váj máhtti rijbbat váni nav ålov guoddemis. Gáhkkijin ja suojnijt suoddin. Juogos Biehtslåptgámán ja låvddågådijn idjadin.</p>
-    <p>- Gábmá lej buoremus, dan diehti gå danna dållijma ja besajma goajkudimev låvdas, javllá nubbe oahppijs.</p>
-    <p>Vádtsem julevsáme guovddaguovlon</p>
-    <p>Vádtsem álgij Vuodnabadán, Kanåvnnåj ja vijdábujt svieriga bælláj vádtsin. Tjoahkkáj vádtsin 40 km, mav nágin oahppij mielas lij hálvva oadne!</p>
-    <p>Tæksta: Kitty Skapalen</p>
-    <p>Jårggålibme: Idar Kintel</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title">Diskutér <span type="quote">"«Kick» Vuodnabadán"</span><span type="quote" xml:lang="nob">«Kick»</span> Vuodnabadán" på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>«Kick» Vuodnabadán</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>278</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/-kick-vuodnabad-n.4033</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Luonndoiellem le sjaddam fálaldahka Knut Hamsun js:an. Dán jage 19 oahppe ávkástalli fálaldagás – buohtastahtedum dijmásj 8 oahppi. Dánna várrevádtsemis Vuodnabadán mij lij áttjak.</p>
+<p type="title"><span type="quote" xml:lang="nob">«Kick»</span> Vuodnabadán</p>
+<p><span type="quote">«Kanåvnnå Vuondabadán – kick midjij»</span>, javlli oahppe Knut Hamsun js:a luonndoiellemfágan – gå li 4 biejve Divtasvuona fábmogis luondon váttsatjam.</p>
+<p>Oahppe VG1”an li válljim Luonndoiellem 1 aktan dábálasj oahppogárvedime prográmmafágaj. Åhpadus le juogedum 5 modulajda, gånnå akta dajs le sáme luonndoiellem. Kursan oahppe galggi máhtudagáv sáme kultuvra ja árbbedábij birra oadtjot.</p>
+<p>- Lij riek geldulasj, javllá Sunniva Svendsen Stájgos. - Åhpajma ålov sáme kultuvra birra ja sierraláhkáj skåjvvesubttsasa lidjin geldulattja, javllá sån.</p>
+<p>Histåvrrå ja luonndofilosofija</p>
+<p>Skåvllåjage álgon 19 skåvlå oahppijs oassálasstin. Vuossajn ja várrebiktasij lidjin gærggasa biejvijda váren, gånnå sáme histåvrrå ja luonndofilosofija birra oahppat galggin. Vuostatjin ganugin Árran julevsáme guovdátjin gånnå oadtjin lågådallamav ja vuosádallamav. Dan maññela manno manáj Oarjjevuonav sisi Vuodnabahtaj, gånnå Mikal Urheim lågådij histåvrålasj ressurssaháldadime ja mytologija birra. Urheim aj oahppijda tjielggij gåktu jáhtto vájkkudahttá háldadimájádusájt sáme vuojnon.</p>
+<p>Bierggim luondon</p>
+<p>Sieralágásj ávkálasj mátto oahppijda lij oahppat daj moattelágásj dållåtjerdaj birra ma aneduvvi, duon dán dálkken ja luondon. Åhpadusá åhpadiddje, Bård Løding, dættot oahppijda sjattaj giehpebujt gå nievres dálkken låvddågoadev buktin tsieggit, ja luondos ressursajt viedtjat váj máhtti rijbbat váni nav ålov guoddemis. Gáhkkijin ja suojnijt suoddin. Juogos Biehtslåptgámán ja låvddågådijn idjadin.</p>
+<p>- Gábmá lej buoremus, dan diehti gå danna dållijma ja besajma goajkudimev låvdas, javllá nubbe oahppijs.</p>
+<p>Vádtsem julevsáme guovddaguovlon</p>
+<p>Vádtsem álgij Vuodnabadán, Kanåvnnåj ja vijdábujt svieriga bælláj vádtsin. Tjoahkkáj vádtsin 40 km, mav nágin oahppij mielas lij hálvva oadne!</p>
+<p>Tæksta: Kitty Skapalen</p>
+<p>Jårggålibme: Idar Kintel</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title">Diskutér <span type="quote">"«Kick» Vuodnabadán"</span><span type="quote" xml:lang="nob">«Kick»</span> Vuodnabadán" på Facebook</p>
+</body></document>

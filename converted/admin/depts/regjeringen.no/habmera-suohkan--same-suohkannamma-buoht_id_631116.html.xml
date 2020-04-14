@@ -1,39 +1,4 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Hábmera suohkan – sáme suohkannamma buohtalakkoj - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Gielda- ja guovlodepartemeanta" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2011</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>44</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://regjeringen.no/se/dep/krd/Preassaguovdda/Preassadieahusat/2011/habmera-suohkan--same-suohkannamma-buoht.html?id=631116</origFileName>
-    <parallel_text xml:lang="nno" location="hamaroy-kommune--samisk-parallellnamn-for-kommunen_id_631116.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Hábmera suohkan – sáme suohkannamma buohtalakkoj - regjeringen.no</p>
-    <p><em type="italic">Hábmera suohkanstivrra mierredij tjåhkanimestis gålgådismáno 26. biejve 2010 åhtsåt sáme namáv Hábmera suohkan adnet buohtalakkoj suohkannamman. </em>Stáhttaráden uddni le suohkanstivrra mærrádus duodastuvvam, suohkanlága § 3 nr. 3 baktu. </p>
-    <p>Suohkan- ja guovllodepartementa præssatelefåvnnå: 22 24 25 00.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Hábmera suohkan – sáme suohkannamma buohtalakkoj - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Gielda- ja guovlodepartemeanta" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2011</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>44</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://regjeringen.no/se/dep/krd/Preassaguovdda/Preassadieahusat/2011/habmera-suohkan--same-suohkannamma-buoht.html?id=631116</origFileName><parallel_text xml:lang="nno" location="hamaroy-kommune--samisk-parallellnamn-for-kommunen_id_631116.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Hábmera suohkan – sáme suohkannamma buohtalakkoj - regjeringen.no</p>
+<p><em type="italic">Hábmera suohkanstivrra mierredij tjåhkanimestis gålgådismáno 26. biejve 2010 åhtsåt sáme namáv Hábmera suohkan adnet buohtalakkoj suohkannamman. </em>Stáhttaráden uddni le suohkanstivrra mærrádus duodastuvvam, suohkanlága § 3 nr. 3 baktu. </p>
+<p>Suohkan- ja guovllodepartementa præssatelefåvnnå: 22 24 25 00.</p>
+</body></document>

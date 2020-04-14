@@ -1,37 +1,11 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>82</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/index.php?id=5113322&amp;showtipform=1&amp;cat=99352&amp;gb=</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tysfjord kommune : Stipænnda almodus åhpadussaj - Tips en venn</p>
-    <p type="title">Stipænnda almodus åhpadussaj</p>
-    <p xml:lang="nob">08.10.2012</p>
-    <p xml:lang="nob">Av: Ingvild Foshaug Lange</p>
-    <p><em type="bold">Divtasvuona suohkan la biednigijt biedjam åhpadusstipænndaj barggijt suohkana virgjijda åttjutjit. </em><em type="bold">Suohkan almoda dá stipenda skåvllåjahkáj 2012/13: </em>2 stipendajt oahppijda åvddåskåvllå-åhpadusán. 3 stipendajt oahppijda åhpadiddje (dábálasj) åhpadusán. </p>
-    <p>Stipænndastuorrudahka l 20.000.- skåvllåjahkáj.</p>
-    <p>Stipænnda juogeduvvá ietjas njuolgádusáj jielggi ma gávnnuji suohkana næhttabielen.</p>
-    <p>Åhtsåmus sáddiduvvá Divtasvuona suohkanij Njunnjutjij p,b 104 8591 Kjøpsvik</p>
-    <p>Åhtsåmájgge: 19 b. gålgådismánon 2012.</p>
-    <p>Ienep diedojt guláda Bajás-sjaddam- ja åhpadus åjvijn Gunnar Solstrøm tlf. 91688506.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>82</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/index.php?id=5113322&amp;showtipform=1&amp;cat=99352&amp;gb=</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tysfjord kommune : Stipænnda almodus åhpadussaj - Tips en venn</p>
+<p type="title">Stipænnda almodus åhpadussaj</p>
+<p xml:lang="nob">08.10.2012</p>
+<p xml:lang="nob">Av: Ingvild Foshaug Lange</p>
+<p><em type="bold">Divtasvuona suohkan la biednigijt biedjam åhpadusstipænndaj barggijt suohkana virgjijda åttjutjit. </em><em type="bold">Suohkan almoda dá stipenda skåvllåjahkáj 2012/13: </em>2 stipendajt oahppijda åvddåskåvllå-åhpadusán. 3 stipendajt oahppijda åhpadiddje (dábálasj) åhpadusán. </p>
+<p>Stipænndastuorrudahka l 20.000.- skåvllåjahkáj.</p>
+<p>Stipænnda juogeduvvá ietjas njuolgádusáj jielggi ma gávnnuji suohkana næhttabielen.</p>
+<p>Åhtsåmus sáddiduvvá Divtasvuona suohkanij Njunnjutjij p,b 104 8591 Kjøpsvik</p>
+<p>Åhtsåmájgge: 19 b. gålgådismánon 2012.</p>
+<p>Ienep diedojt guláda Bajás-sjaddam- ja åhpadus åjvijn Gunnar Solstrøm tlf. 91688506.</p>
+</body></document>

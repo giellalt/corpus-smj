@@ -1,40 +1,7 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>JAHKKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>137</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <origFileName>http://www.osko.no/index.php?kat_id=86&amp;art_id=125</origFileName>
-    <parallel_text xml:lang="nob" location="index.php_kat_id=86_art_id=125.html"/>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=86_art_id=125.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=86_art_id=125.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kristuskránssa</p>
-    <p type="title">Jupmelen dålle</p>
-    <p>Paulus Utsin diktesne lohkebe dållen bïjre goh dåeriedæjja jieliedisnie. Dålle lea orreme jïh lea vihkeles mijjen jieleden gaavhtan, jalhts kanne lij tjïelkebe dejpeli. Dålle tjoevkesem jïh baahkem vadta, baaja mijjem tjielkebelaakan vuejnedh, jïh mijjem viehkehte jieledem haalvedh.</p>
-    <p>Dålle jïh sjïjlh daamtaj gieriesvoetem, bueriesvoetem jïh vietselesvoetem almetji gaskemsh buerkiestieh. Gosse mijjieh oktegh skåajjesne jallh vaeresne, dålle maahta voelpine sjïdtedh, mij mijjem jijjen tjïrrh viehkehte. Dålle akte bueriesjugniedasse, bene maahta aaj vaarege årrodh mijjese jïh jeatjabidie, jis ibie buektehth dam haalvedh.Dennie vaajesisnie guktie voejkene learohki gåajkoe bööti, lohkebe akte tjarke biegke bossi, jïh njoektjemh dålleste learohki åejjiej bijjeli vååjnin. Dellie dah meehtin gaajhke-såarhts gïelh soptsestidh. Dållesne lin vadtesh.</p>
-    <p>Palulus korinterprievesne tjaala voejkene mijjese gellie-såarhts vadtesh vadteme. Gaajhke båata dehtie seamma voejkenistie. Mejtie dah dan bööremossese båetieh, gosse mijjieh baajebe biegke jieledem bossedh dålleskomtjeli sijse?</p>
-    <p>Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>JAHKKO</title><genre code="bible"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>137</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.osko.no/index.php?kat_id=86&amp;art_id=125</origFileName><parallel_text xml:lang="nob" location="index.php_kat_id=86_art_id=125.html"/><parallel_text xml:lang="sma" location="index.php_kat_id=86_art_id=125.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=86_art_id=125.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kristuskránssa</p>
+<p type="title">Jupmelen dålle</p>
+<p>Paulus Utsin diktesne lohkebe dållen bïjre goh dåeriedæjja jieliedisnie. Dålle lea orreme jïh lea vihkeles mijjen jieleden gaavhtan, jalhts kanne lij tjïelkebe dejpeli. Dålle tjoevkesem jïh baahkem vadta, baaja mijjem tjielkebelaakan vuejnedh, jïh mijjem viehkehte jieledem haalvedh.</p>
+<p>Dålle jïh sjïjlh daamtaj gieriesvoetem, bueriesvoetem jïh vietselesvoetem almetji gaskemsh buerkiestieh. Gosse mijjieh oktegh skåajjesne jallh vaeresne, dålle maahta voelpine sjïdtedh, mij mijjem jijjen tjïrrh viehkehte. Dålle akte bueriesjugniedasse, bene maahta aaj vaarege årrodh mijjese jïh jeatjabidie, jis ibie buektehth dam haalvedh.Dennie vaajesisnie guktie voejkene learohki gåajkoe bööti, lohkebe akte tjarke biegke bossi, jïh njoektjemh dålleste learohki åejjiej bijjeli vååjnin. Dellie dah meehtin gaajhke-såarhts gïelh soptsestidh. Dållesne lin vadtesh.</p>
+<p>Palulus korinterprievesne tjaala voejkene mijjese gellie-såarhts vadtesh vadteme. Gaajhke båata dehtie seamma voejkenistie. Mejtie dah dan bööremossese båetieh, gosse mijjieh baajebe biegke jieledem bossedh dålleskomtjeli sijse?</p>
+<p>Utskriftsvennlig versjon</p>
+</body></document>

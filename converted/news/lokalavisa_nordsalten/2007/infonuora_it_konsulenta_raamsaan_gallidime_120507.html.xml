@@ -1,45 +1,11 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Infonuora IT-konsulenta Romsån gallidime</title>
-    <genre code="news"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <person firstname="Birgit" lastname="Andersen" sex="f" born="1984" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>391</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/infonuora-it-konsulenta-romsan-gallidime.4048</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sanne-Marja Utsi og Odd-Levi Paulsen. Foto: Infonuorra.</p>
-    <p type="title" xml:lang="nob">Infonuora IT-konsulenta Romsån gallidime</p>
-    <p>Infonuora Internæhttabiele li læhkám jådon 2004 jage rájes, valla dálla prosjæktajådediddje Sara Israelssona mielas Infonuorra.no le gárves ådåsmahttemij ja buoredibmáj. Dajnas de Infonuorra biele lulun ájn buorebun addnijda sjaddat ja diedon ájn dåbddusin mijá sámij gaskan. Dajnas de Sara gåhtjoj vihtta sáme nuora Vuona ja Svieriga bieles æjvvalittjat Romssåj.</p>
-    <p>Bierjjedakiehkeda æjvvalijma gasska-biejvev båråtjit Rica Ishavshotellan Romsån, gånnå divna galggin idjadit ja bårråt. Geldulasj lij daj nuppij nuoraj æjvvalit, gæhttjat guhtimuttja galggin lanjáv juohket ja gej siegen galgajma ålles ájllegav liehket. Miján lidjin biejvvelåttåtja tjoajven gå vuolgijma Nuorttarijkaj Parijssaj. Ávot lidjin oalle buorre ulmutja! :) Oahpástuvájma ja ságastijma gasskabiejvev bårådijn, ja dan ma??ela manájma Svenn-Egil Knutsena Arppa Sáme Duodje Gallerijaj. Ávvudallama lidjin suv 40 jage bæjvváj huodnahin Arppa guoran, gånnå dájda dájddarijs gå Hans Ragnar Mathisen, Gerd Grimsø, Marry A. Somby, Bruce Morén ja Tonje Valen vuosádallá. Sihtap aj sávvat Svenn-Egilij vuorbev riegádimbæjvváj ja ávttjip dijáv guossidittjat suv gallerijav danna Romsån. Gå lijma Arpav guossidam, manájma ietjá sáme nuoraj lunna Romsån ja dåbdijdijma Romså stádaj.</p>
-    <p>Lávvodagá smaredijma måjonjálmijn ja aktan båråjma njálga idedisbiebmov. De vuolgijma tjåhkanimladnjaj ságastalátjit Infonuora Internæhttabielij birra. Miján lidjin ållo ájádusá man láhkáj le máhttelis dajt bielijt buoredit. Mijá mielas Infonuorra le buorre Internæhttabiele, gånnå le máhttelis æjvvalit ietjá sáme nuoraj ålles Sámes. Sávvap nav moattes gå máhttelis adnegåhti Infonuora bielijt juohkka biejve. Ep dálla subtsasta majt galggap divudit, galla le alvadahtte! :) Keep looking at our page! Muhtem tijma ja ållo bargo ma??ela, båråjma aktan, ja de manájma shoppitjit ja stádaj oahpásmuvátjit. Muhtemij dahko lij gávnnat majt galgajma lávvodakiehkedav dahkat. Åvddålå iehkeduváj, manájma ruoptus hotellaj ja ållijma dán ájllega bargov. Gehtjadijma majt lijma ságastallam dan biejve. Bargajma gitta bielle giehtjaj, ja de manájma båråtjit ja <span type="quote">«Kill Buljo»</span>-filmav gehtjatjit. Dan iehkeda iejvvijma dåbdos ulmutjijt hotellan. Ålgus manádijn iejvvijma Jenny Heimfjellav Idol:as. Sån lij vuosádussaj hárjjidallamin. Ja ajtu danna guoran tjåhkkåhij Frank A. Olsen Honningsvågrevy:as ja Kill Buljo-filmas. Buorre lij dat! :) Tjabu autográfajt oattjojma aj! Hehe!</p>
-    <p>Mijá mielas lip oahppam ålov, ja lip aj oahpástuvvam ietjá sáme nuorajda. Mij lip iehtjama ájádusájt Infonuorra birra åvdedam, ja diedon hávskudallam riek buoragijt dán manon! Sihtap gijttet Sara Israelssonav ja Infonuorav dát bále åvdås!</p>
-    <p>Jårggålibme: Birgit Andersen</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote" xml:lang="nob">"Infonuora IT-konsulenta Romsån gallidime"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Infonuora IT-konsulenta Romsån gallidime</title><genre code="news"/><author><unknown/></author><translator><person firstname="Birgit" lastname="Andersen" sex="f" born="1984" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>391</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/infonuora-it-konsulenta-romsan-gallidime.4048</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sanne-Marja Utsi og Odd-Levi Paulsen. Foto: Infonuorra.</p>
+<p type="title" xml:lang="nob">Infonuora IT-konsulenta Romsån gallidime</p>
+<p>Infonuora Internæhttabiele li læhkám jådon 2004 jage rájes, valla dálla prosjæktajådediddje Sara Israelssona mielas Infonuorra.no le gárves ådåsmahttemij ja buoredibmáj. Dajnas de Infonuorra biele lulun ájn buorebun addnijda sjaddat ja diedon ájn dåbddusin mijá sámij gaskan. Dajnas de Sara gåhtjoj vihtta sáme nuora Vuona ja Svieriga bieles æjvvalittjat Romssåj.</p>
+<p>Bierjjedakiehkeda æjvvalijma gasska-biejvev båråtjit Rica Ishavshotellan Romsån, gånnå divna galggin idjadit ja bårråt. Geldulasj lij daj nuppij nuoraj æjvvalit, gæhttjat guhtimuttja galggin lanjáv juohket ja gej siegen galgajma ålles ájllegav liehket. Miján lidjin biejvvelåttåtja tjoajven gå vuolgijma Nuorttarijkaj Parijssaj. Ávot lidjin oalle buorre ulmutja! :) Oahpástuvájma ja ságastijma gasskabiejvev bårådijn, ja dan ma??ela manájma Svenn-Egil Knutsena Arppa Sáme Duodje Gallerijaj. Ávvudallama lidjin suv 40 jage bæjvváj huodnahin Arppa guoran, gånnå dájda dájddarijs gå Hans Ragnar Mathisen, Gerd Grimsø, Marry A. Somby, Bruce Morén ja Tonje Valen vuosádallá. Sihtap aj sávvat Svenn-Egilij vuorbev riegádimbæjvváj ja ávttjip dijáv guossidittjat suv gallerijav danna Romsån. Gå lijma Arpav guossidam, manájma ietjá sáme nuoraj lunna Romsån ja dåbdijdijma Romså stádaj.</p>
+<p>Lávvodagá smaredijma måjonjálmijn ja aktan båråjma njálga idedisbiebmov. De vuolgijma tjåhkanimladnjaj ságastalátjit Infonuora Internæhttabielij birra. Miján lidjin ållo ájádusá man láhkáj le máhttelis dajt bielijt buoredit. Mijá mielas Infonuorra le buorre Internæhttabiele, gånnå le máhttelis æjvvalit ietjá sáme nuoraj ålles Sámes. Sávvap nav moattes gå máhttelis adnegåhti Infonuora bielijt juohkka biejve. Ep dálla subtsasta majt galggap divudit, galla le alvadahtte! :) Keep looking at our page! Muhtem tijma ja ållo bargo ma??ela, båråjma aktan, ja de manájma shoppitjit ja stádaj oahpásmuvátjit. Muhtemij dahko lij gávnnat majt galgajma lávvodakiehkedav dahkat. Åvddålå iehkeduváj, manájma ruoptus hotellaj ja ållijma dán ájllega bargov. Gehtjadijma majt lijma ságastallam dan biejve. Bargajma gitta bielle giehtjaj, ja de manájma båråtjit ja <span type="quote">«Kill Buljo»</span>-filmav gehtjatjit. Dan iehkeda iejvvijma dåbdos ulmutjijt hotellan. Ålgus manádijn iejvvijma Jenny Heimfjellav Idol:as. Sån lij vuosádussaj hárjjidallamin. Ja ajtu danna guoran tjåhkkåhij Frank A. Olsen Honningsvågrevy:as ja Kill Buljo-filmas. Buorre lij dat! :) Tjabu autográfajt oattjojma aj! Hehe!</p>
+<p>Mijá mielas lip oahppam ålov, ja lip aj oahpástuvvam ietjá sáme nuorajda. Mij lip iehtjama ájádusájt Infonuorra birra åvdedam, ja diedon hávskudallam riek buoragijt dán manon! Sihtap gijttet Sara Israelssonav ja Infonuorav dát bále åvdås!</p>
+<p>Jårggålibme: Birgit Andersen</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote" xml:lang="nob">"Infonuora IT-konsulenta Romsån gallidime"</span> på Facebook</p>
+</body></document>

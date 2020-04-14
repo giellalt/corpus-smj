@@ -1,500 +1,373 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>4189</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.udir.no/kl06/NAT2-03/Hele/Komplett_visning?lplang=smj&amp;read=1</origFileName>
-    <parallel_text xml:lang="nob" location="laereplan_naturfag.html"/>
-    <parallel_text xml:lang="sma" location="laereplan_naturfag.html"/>
-    <parallel_text xml:lang="sme" location="laereplan_naturfag.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Luonndofáhka - sáme oahppopládna</p>
-    <p xml:lang="nob">Hovedinnhold</p>
-    <p type="title">Luonndofáhka - sáme oahppopládna</p>
-    <p>Mierreduvvam Máhttodepartementas láhkanjuolgadusá milta 01.07.2013</p>
-    <p xml:lang="sme">Gusto borgemánu: 01.08.2013</p>
-    <p type="title">Ulmme</p>
-    <p>Luondodieda le åvddånam ulmutjij diehtemvájnogisvuoda ja dárbo diehti gávnnat vásstádusájt ietjama eksistensa, iellema ja iellemvuogij birra ja mijá saje birra luondon ja universan ja le navti oassen mijá kultuvras.</p>
-    <p>Sámen badjáni udnásj máná ja nuora sebrudagán mij le bájnnum æjvvalimes árbbedábálasj iellemvuogij ja ådåájggásasj diehtaga ja dárkkelis teknologija gaskan. Sáme árbbediehto luondo hárráj gájbbet ålles ájádallamav ja dádjadusáv, gånnå praktihkalasj tjehpudagá dættoduvvi. Luondon bierggit ja luondov ávkástallat jiermálasj ja buorre láhkáj li árvulasj sáme tjehpudagá maj baktu máhtto buolvas buolvvaj bisoduvvá. Luonndofáhka galggá liehket oassen dán åhpadimes.</p>
-    <p>Luonndodiehtaga lága ja teorija li modella duohtavuodas, ja dá modella rievddi jali vijddásappot åvddånahteduvvi ådå observasjåvnåj, gæhttjaladdamij ja ájádusáj baktu. Ájnas oasse luonndodiehtagis le diehtet luonndodieda maŋenagi åvddån, ja dutkam ja ådå máhtto luonndodiehtaga ja teknologija suorgijn le ájnas sebrudagá åvddånahttemij ja iellembirrasij.</p>
-    <p>Vájku luonndodieda le moatte fáhkasuorgijda juogeduvvam dagu biologija, fysihkka ja kjemija ja geofága, de le ulmmen jut skåvllåfáhka luonndofáhka sihke teorijan ja praktihkalattjat doajmma åbbålasj fáhkan.</p>
-    <p>Luondo máhtto, dádjadus ja vásádusá máhtti åvdedit mielav luonndoressursajt suodjalittjat, biologalasj valjesvuodav bisodittjat ja guoddelis åvddånahttemav nannitjit. Dán aktijvuodan li sámijn ja ietjá álggoálmmugijn máhtto luondo birra mav galgalulujma vieledit. Sæmmi båttå galggá luonndofáhka vájkkudit váj mánáj ja nuoraj vuojno ja guotto åvddåni, ja ájádallagåhti gåktu luonndo, ulmusj, teknologija, sebrudahka ja dutkam aktan doajmmi. Dát le ájnas váj juohkka akta bæssá dádjadit iesjgeŋgalágásj luonndodiedalasj ja teknologalasj diedojt. Dát galggá liehket vuodon sebrudagá prosessajda sæbrrat.</p>
-    <p>Barggat iesjgeŋgalágásj ássjetjuolmaj praktihkalattjat ja teorehtalattjat laboratåvråjn ja luondon le ájnas váj bæssá åtsådallat ja oahppat luonndodiehtaga metodajt ja ájádallamvuogijt. Dát le åvdedime sjuggelisvuodav, kritihkalasj dájdov, rabásvuodav ja dåjmalasj oassálasstemav dilijn gånnå luonndofágalasj máhtto ja tjehpudahka le oassen. Målsudahkes oahppambirrasa dagu ålggon luondon barggat, gæhttjaladdambargo laboratåvråjn ja guossidime dávvervuorkájn, diehtoguovdátjijn ja viddnudagájn boanndot luonndofága åhpadimev ja båktå imájdallamav ja diehtemvájnov, ja mielav giddi. Máhttet iesjgeŋga luonndodiedalasj tevstajt, metodajt ja teknologalasj tjoavddusijt dádjadit vaddi vuogas vuodov virggefágalasj åhpadussaj, vijddásap oahppamij ja iellemájge oahppamij virgen ja asstoájgen.</p>
-    <p type="title">Fága oajvveoase</p>
-    <p>Fáhka le juogeduvvam oajvveåsijda, ja juohkka oasen li máhtudakmihto. Oajvveoase li oase ållesvuodas ja dajn le aktijvuohta.</p>
-    <p>Fáhka le aktisasjfáhka mij gullu gájka joarkkaåhpadusáj oahppoprográmmajda. Danen galggá åhpadusáv iesjgeŋga oahppoprográmmaj hiebadit váj sjaddá nav relevánta gå vejulasj oahppijda.</p>
-    <p>Luonndofágan li vissa máhtudakmihto vuodoskåvlå 2., 4., 7. ja 10. jahkedáse maŋŋela ja joarkkaåhpadusá Jo1 studerimgárvediddje ja viddnofágalasj oahppoprográmmajn ja Jo3 lasádus dábálasj oahppomáhtudahkaj.</p>
-    <p>
-      <em type="bold">Oajvveåsij gåvvå: </em>
-    </p>
-    <p>
-      <em type="bold">Jahkedásse </em>
-    </p>
-    <p>
-      <em type="bold">Oajvveoase </em>
-    </p>
-    <p xml:lang="koi">1.–10.</p>
-    <p xml:lang="nob">Dutke</p>
-    <p xml:lang="sme">ihta</p>
-    <p>Ulmusj luondon</p>
-    <p>Luondo valjesvuohta</p>
-    <p>Rumáj ja varresvuohta</p>
-    <p>Fenomena ja ábnnasa</p>
-    <p>Teknologija ja</p>
-    <p>hábbmim</p>
-    <p>Jo1</p>
-    <p xml:lang="sme">Oahppogárvedime oahppo-prográmma</p>
-    <p xml:lang="sma">Dutkeihta</p>
-    <p>Guoddelis åvddånahttem</p>
-    <p>Biebbmo ja varresvuohta</p>
-    <p>Suodnjardibme ja radioaktivitehtta</p>
-    <p>Boahtteájge energija</p>
-    <p xml:lang="vep">Bioteknologija</p>
-    <p xml:lang="sme">Jo1 viddnofáglasj oahppo-prográmma</p>
-    <p xml:lang="sma">Dutkeihta</p>
-    <p>Guoddelis åvddånahttem</p>
-    <p>Biebbmo ja varresvuohta</p>
-    <p>Boahtteájge energija</p>
-    <p>Vg3 Lasádus dábálasj oahppomáhtudahkaj</p>
-    <p xml:lang="sma">Dutkeihta</p>
-    <p>Guoddelis åvddånahttem</p>
-    <p>Suodnjardibme ja radioaktivitehtta</p>
-    <p>Boahtteájge energija</p>
-    <p xml:lang="vep">Bioteknologija</p>
-    <p xml:lang="sma">Dutkeihta</p>
-    <p>Luonnofágaåhpadusán boahtá luonndodieda åvddån guovte láhkáj:</p>
-    <p>Buktagin mij vuoset dav máhtov mij miján dálla le, ja prosæssan mij sisadná gåktu luonndodiedalasj máhtto tsieggiduvvá ja ásaduvvá. Prosessan le hypotesaj åvddånibme, gæhttjaladdam, systemáhtalasj váksjoma, dágástallam, kritihkalasj árvustallam, argumenterim, konklusjåvnåj vuodustibme ja gaskostibme. Dutkeihta galggá åhpadusán dájt dimensjåvnåjt várajda válldet ja dåjda ietjá oajvvesuorgijda dajt integrerit.</p>
-    <p>Ulmusj luondon</p>
-    <p>Oajvveoasse ulmusj luondon le ulmutja birra guhti le oassen luondos ja ulmutja åvdåsvásstádus luondov suodjalit sihke uddni ja boahtte buolvaj gáktuj, sihke indivijda- ja sebrudakdásen. Vijddásappot sisadná dat guoddelis åvddånahttema ævtojt. Danna le guovdátjin dádjadit gåktu ulmusj máhttá luondov ávkkit, valla aj gåktu ulmutjij dåjma vájkkudi ja rievddadi luondov sihke bájkálattjat ja væráltvijddásattjat. Åtsådallama gåktu luondon bierggit, ja oahppat sáme ja ietjá álggoálmmugij árbbedábij birra gulluji aj dán oajvveoassáj.</p>
-    <p>Luondo valjesvuohta</p>
-    <p>Dán oajvveoase guovdátjin le åvddånahttet máhtov luondo hárráj ja luondo valjesvuodav vieledit. Jus galggá luondo aktijvuodajt dádjadit de hæhttu diehtet biotalasj ja iehpebiotalasj faktåvråj birra ekosystemajn. Dan oasen vaddá ålggobarggo buorre vuodov máhttuj ja guottojda.</p>
-    <p>Jo1 dásen li oajvveoase Ulmusj luondon ja Luondo valjesvuohta gåhtjoduvvam Guoddelis åvddånibmen mij vuoset oajvveoase dættov.</p>
-    <p>Rumáj ja varresvuohta</p>
-    <p>Oajvveoase rumáj ja varresvuohta sisadno le vuostatjin gåktu ulmutja rumáj le tsieggiduvvam, vájkkuduvvá ja rievddá ájgij milta. Diehtet gåktu rubmaha iesjgeŋga oase aktan doajmmi le ållu vuodulasj gå galggá dádjadit gåktu iellemvuohke rubmahav ja varresvuodav vájkkudi. Rumáj, varresvuohta, iellemvuohke ja biebbmo li álu ássjen median. Gå galggá iesj vásstedit ietjas rubmaha ja fysihkalasj ja psyhkalasj varresvuoda åvdås de le ájnas diehtet ja kritihkalattjat árvustallat diedojt dán suorgen. Iehtjádijt huksat ja vieledit le aj ájnas dan aktijvuodan.</p>
-    <p>Jo1:an le dát oajvveoasse gåhtjodum Biebbmo ja varresvuohta mij vuoset oajvveoase dættov.</p>
-    <p>Fenomena ja ábnnasa</p>
-    <p>Oajvveoasse sisadná aktijvuodajt luonndofágalasj fenomenaj gaskan, ja gåktu ulmutja li oahppam ávkástallat dajt fenomenajt ja ábnnasijt. Oajvveoasse sisadná guovdásj åsijt fysihkas, kjemias ja geofágas. Dat vuoset gåktu ábnnasa li tsieggiduvvam ja nubbe nuppe gáktuj reageriji, ja danna giehtadaláduvvi fenomena dagu jiedna, tjuovgga, elektrisitehtta, magnetissma ja energija. Mijá iehtjama biejvvesystebma, ednama sadje, ålgoldis vuobman ja dutkam ja teknologija aj giehtadaláduvvi.</p>
-    <p>Jo1:an le dát oajvveoasse guoktáj juogeduvvam ja gåhtjoduvvam energija boahtteájggáj ja suodnjardibme ja radioaktivitehtta mij vuoset oajvveoase dættov.</p>
-    <p>Teknologija ja hábbmim</p>
-    <p>Oajvveoase sisadno le plánit, åvddånahttet, buvtadit ja árvustallat anedahtte buktagijt. Aktijvuohta luonndodiehtaga, teknologija ja guoddelis åvddånime gaskan le dán oajvveoasen guovdátjin. Teknologija ja hábbmim le moattefágalasj fáhkaoasse luonndofágan, matematihkan ja duojen.</p>
-    <p>Jo1:an gåhtjoduvvá dát oajvveoasse bioteknologija mij vuoset oajvveoase dættov</p>
-    <p type="title">Tijmmalåhko</p>
-    <p>Akta tijmma le 60 minuhta.</p>
-    <p xml:lang="deu">MÁNÁJDÁSSE</p>
-    <p>1.-7. jahkedásijn: 328 tijma</p>
-    <p xml:lang="deu">NUORAJDÁSSE</p>
-    <p>8.-10 jahkedásijn: 249 tijma (256 tijma oahppijda gudi 10. jahkedásev ålliji jagen 2013/2014)</p>
-    <p xml:lang="deu">OAHPPOGÁRVEDIME OAHPPOPROGRÁMMA</p>
-    <p>Jo1: 140 tijma</p>
-    <p xml:lang="deu">VIDDNOFÁGALASJ OAHPPOPROGRÁMMA</p>
-    <p>Jo1: 56 tijma</p>
-    <p xml:lang="vep">LASÁDUS DÁBÁLASJ OAHPPOMÁHTUDAHKAJ VIDDNOFÁGALASJ</p>
-    <p xml:lang="deu">OAHPPOPROGRÁMMAN</p>
-    <p>Jo3: 84 tijma</p>
-    <p type="title">Vuodotjehpudagá</p>
-    <p>Vuodotjehpudagá li integreridum máhtudakmihtojda, gånnå li fáron fáhkamáhtudagáv åvddånahttemin ja li aj dassta oassen. Luonndofágan dádjaduvvi vuodotjehpudagá náv:</p>
-    <p><em type="italic">Njálmálasj tjehpudagá </em>luonndofágan li gulldalit, ságastit ja ságastallat váj gåvvit, juogat ja åvddånahttá máhtov luonndofágalasj sisanujn mij le váksjomij ja åtsådallamijda tjanádum. Dat mierkki luonndofágalasj moallánagájt adnet máhto gaskostimen, gatjádaládijn, argumenteridijn ja tjielggidusájn. Dasi gullu aj hiebadit åvddånbuktemijt, moallánagájt ja buojkulvisájt ulmmáj ja vuosstájválldijda. Njálmálasj tjehpudagáj åvddånahttem luonndofágan le gulldalit ja ságastallat vásádusáj ja váksjomij birra vaj máhttet åvddånbuktet ja ságastallat gássjelap ássjij birra. Dát sisadná ienebut máhttet luonndofágalasj moallánagájt adnet maj vuoset dádjadusáv, ietjas árvustallamijda ja oassálastátjit fágalasj ságastallamijda. </p>
-    <p><em type="italic">Buktet tjállet </em>luonndofágan le luonndofágalasj tækstasjáŋŋarijt adnet gå le gatjálvisájt ja hypotesajt dahkamin, plánajt ja tjielggidusájt tjállemin, diedojt buohtastahttemin ja daj birra reflekterimin, ja gáldojt vuogas láhkáj adnemin. Dat mierkki aj váksjomijt ja åtsådallamijt gåvådit, diedojt tjoahkkit, vuojnoj åvdås argumenterit ja ålggobargos rapporterit, gæhttjaladdama ja teknologalasj åvddånimprosessa. Tjállemprosessa plánimis gárvedibmáj ja tevstaj åvddånbuktemij sisadná luonndofágalasj buojkuldagájt, figuvrajt ja symbåvlåjt adnet hiebadum ulmmáj ja vuosstájválldáj. Tjállemtjehpudagá åvddånibme luonndofágan manná álkkes javllamvuogijs maŋenagi tjielggasap luonndofágalasj buojkuldagáj, symbåvlåj, grafihka ja argumentasjåvnå adnemij. Dát mierkki máhttet tjállet gássjelap tevstajt maj vuodon le kritihkalasj ja vijdes gáldo hiebadum ulmmáj ja vuosstájválldáj. </p>
-    <p><em type="italic">Buktet låhkåt </em>luonndofágan le dádjadit ja adnet luonndofágalasj buojkuldagájt, symbåvlåjt, figuvrajt ja argumentajt ulmmelasj bargo tjadá luonndofágalasj tevstaj. Dát mierkki máhttet identifiserit, dålkkut ja adnet diedojt moattebelak tevstajs girjijn, avijsajn, addnobagádusájn, njuolgadusájn, brosjyrajn ja digitála gáldojn. Låhkåm luonndofágan le aj kritihkalattjat árvustallat gåktu diedo åvddån biejaduvvi ja argumentajn aneduvvi, duola dagu máhttet sieradit dáhtáj, árvvedimij, tjuottjodusáj, hypotesaj ja konlusjåvnåj gaskan. Låhkåmtjehpudagá åvdedibme luonndofágan mierkki gájkka gaskan gávnnat ja adnet tjielgga diedojt álkkes tevstajn dádjadittjat tevstajt ájn vil ienep fáhkabuojkuldagáj, symbåvlåj, figuvraj, tabellaj ja diedojt ma e njuolgga åvddån boade. Dárbbo máhttet kritihkalattjat låhkåt ja guoskavasj diedojt gávnnat ja gáldoj åskåldisvuodav árvustallat aj lassán, hiebaduvvam gáldoj anos gitta iesj máhttet åhtsåt ja buohtastahttet diedojt duot dát gáldos ja árvustallat makta hiehpi bargguj. </p>
-    <p><em type="italic">Buktet riekknit </em>luonndofágan le tállamateriálav tjoahkkit, hiebadit ja åvddånbuktet. Dat mierkki adnet buojkuldagájt, mihttiminstrumentajt, mihttimavtadagájt, foarmmalijt ja grafihkav. Riekknim luonndofágan le aj máhttet buohtastahttet, árvustallat ja argumenterit merustallama, båhtusa ja åvddånbuktema li duohta. Luonndofága riekknimtjehpudagá åvddånibme le álkkes låhkåm- ja klassifiserimmetodaj anos gitta máhttet arvustallat metodaj, buojkuldagáj, foarmmalij ja mihttimvædtsagij válljimijt. Vijddásappot dat mierkki maŋenagi dahkat gássjelap åvddånbuktemijt ja árvustallamijt ja riekknimav fágalasj argumenterimin adnet. </p>
-    <p><em type="italic">Digitála tjehpudagá </em>luonndofágan le digitála ræjdojt adnet gå le guoradallamin, registrerimin, merustallamin, visualiserimin, dokumenterimin ja dáhtájt almodime ietjas ja iehtjádij guoradallamijs, gæhttjaladdamijs ja ålggobargos. Dat aj mierkki åhtsåmvædtsagijt adnet, åhtsåmstrategijajt buktet ja gáldojt kritihkalattjat árvustallat ja válljit makkir diedo hiehpi iesjgeŋga luonndofágalasj tiebmáj. Digitála tjehpudagáj åvddånibme luonndofágan manná álgos buktet digitála ræjdojt adnet gitta ienebut iesjrádálattjat ja dájdulattjat válljit digitála gáldojt, vædtsagijt, mediajt ja diedojt </p>
-    <p type="title">Máhtudakmihto 2. jahkedáse maŋŋela</p>
-    <p type="title" xml:lang="sma">Dutkeihta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">dåbdudagáj baktu væráldav guoradallat lahka birrasin</p>
-      <p type="listitem">gåvådit, tjuorggat ja ságastallat ietjas váksjomij birra gæhttjaladdamijs ja luondos</p>
-      <p type="listitem">dåbddåt hiehtesymbåvlåjt ma mierkkiji várálasj ábnnasijt ja várálasj tjuovgajt</p>
-    </list>
-    <p type="title">Ulmusj luondon</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">tjadádit dåjmajt luondon váj oahppá luondo birra, ságastallat manen dat le ájnas ja filosoferit almatja saje birra luondon</p>
-      <p type="listitem">ságastallat almatjij ja iellij aktijvuoda birra, ja almatjij åvdåsvásstádusás juhtusij gáktuj, duola dagu sáme subttsasij baktu</p>
-      <p type="listitem">gåvådit váksjomij baktu jábijt sáme ja dáttja dábij milta, ja subtsastit gåktu sáme namá mánojda gåvvidi luondo dáhpádusájt ja ságastallat ma li hiebalgis biktasa dálkkáj ja jáhpáj</p>
-    </list>
-    <p type="title">Luondo valjesvuohta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">dåbddåt ja gåvådit muhtem sjaddo- ja ielleslájajt lahkabirrusin ja dajt juohkusijda tjuolldet</p>
-    </list>
-    <p type="title">Rumáj ja varresvuohta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">nammadit ja gåvådit dåjmajt muhtem ålgoldis ja sisŋeldis åsijt ulmutja rubmahis</p>
-      <p type="listitem">ságastallat rájáj biedjama, dádjadime ja ietjas ja iehtjádij rubmaha vieledime birra</p>
-      <p type="listitem">gåvådit ja ságastallat dåbdudagájt ja dajt diedulattjat adnet váksjudijn ålggon ja sinna.</p>
-    </list>
-    <p type="title">Fenomena ja ábnnasa</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">nammadit ja gåvådit gåktu ednam, mánno ja biejvve labudi nubbe nuppe gáktuj, ja subtsastit jábij, jánndura ja jus le sjadde jali nåhkke mánno</p>
-      <p type="listitem">gåvådit ja tjuolldet ábnnasijt dåbddomerkaj milta majt máhttá vuojnnet</p>
-      <p type="listitem">gæhttjaladdamijt tjadádit tjátjijn ja tjuovgajn ja ságastit observasjåvnåj birra</p>
-    </list>
-    <p type="title">Teknologija ja hábbmim</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">dáhkat ádajt ma máhtti tjátje jali ájmo viehkijn labudit, ja ságastallat gåktu da doajmmi</p>
-      <p type="listitem">dahkat ádajt ma adni tjuovga reflekterimav, ja ságastallat gåktu da doajmmi</p>
-    </list>
-    <p type="title">Máhtudakmihto 4. jahkedáse maŋŋela</p>
-    <p type="title" xml:lang="sma">Dutkeihta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">ádnet luonndofágalasj buojkuldagájt gåvådittjat ja åvddån buvtátjit ietjas váksjomijt, oajvvadit ja ságastallat vejulasj tjielggidusáj birra dasi mav le váksjum</p>
-      <p type="listitem">adnet mihttiminstrumentajt, dáhtájt tjuolldet, árvustallat makta båhtusa li dåhkkidahtte, ja dajt åvddånbuktet digitála viehkkenævoj jali daj dagá.</p>
-      <p type="listitem">tjállet rapportajt ja gåvvidimijt ja avtagærddásasj digitála tevstajt dahkat</p>
-      <p type="listitem">åhtsåt ja hiebadallat diedojt luonndofágalasj åsijs duot dát gáldos ja gáldojt tjállet</p>
-    </list>
-    <p type="title">Ulmusj luondon</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">oassálasstet dåjmajda gånnå ulmusj ressursajt luondos viedtjá ja ságastallat gåktu ressursa ávkken båhti</p>
-      <p type="listitem">gåvådit mav máhttá dahkat váj lahkabirrasa luondov várajda válldá, ja argumenterit dan åvdås ja iesj luondov huksat</p>
-    </list>
-    <p type="title">Luondo valjesvuohta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">ságastallat muhtem ielle- ja sjaddoslájaj iellemgievle birra</p>
-      <p type="listitem">gåvådit muhtem ájggá jábmám ielleslájajuohkusij iellemvuogev navti váj tjoahkki ja systematiseri diedojt iesjgeñga gáldojs.</p>
-      <p type="listitem">subtsastit iellij birra, ielleálkkádusá birra giehttot ja sieradit vuojnoj ja fáktáj gaskan.</p>
-      <p type="listitem">guoradallat biologalasj suossnoma birra ja gåvådit muhtem jålådimev luondon</p>
-      <p type="listitem">ruhtsijt tjuolldet ja dágástallat manen le ájnas ruhtsijt tjuolldet</p>
-    </list>
-    <p type="title">Rumáj ja varresvuohta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">gåvådit muhtem mudduj gåktu ulmutja rumáj le.</p>
-      <p type="listitem">gåvådit suoldudakoalev ja tjielggit dárkkelit gåktu dat doajmmá.</p>
-      <p type="listitem">gåvådit sjelehtav ja diehkojt ja tjielggit dárkkelit gåktu rumáj labut</p>
-      <p type="listitem">adnet diedojt brosjyrajs ja digitála tevstajs gå dábálasj skihpudagáv tjielggi ja gåktu dav hiereda, ja tjielggit dárkkelit manen muhtem skihpudagáj vuosstij vaksinerip</p>
-      <p type="listitem">váksjut ja gåvådit gåktu rumáj reageri iesjgeŋga dilen, ja ságastallat iesjgeŋga dåbdoj birra ja fysihkalasj ja psyhkalasj varresvuoda aktijvuoda birra</p>
-    </list>
-    <p type="title">Fenomena ja ábnnasa</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">dahkat digitála tjoahkkidum tevstav muhtem planehtaj birra diehtotjoahkkima baktu ja gáldojt diededit</p>
-      <p type="listitem">tjadádit gæhttjaladdamijt ma vuosedi ábnnasa máhtti vuogev målssot gå muhtem láhkáj dajt vájkkut</p>
-      <p type="listitem">guoradallat fenomenajt tjanádum ájmmuj ja jiednaj, gåvådit váksjumijt ja tjielggidusájt oajvvadit</p>
-      <p type="listitem">registrerit ietjas vásádusájt dálke váksjomis, temperatuvrav ja rásjov/muohttagav mihttit ja båhtusijt gráfalattjat åvddån biedjat ja ságastallat dálkkedijdaj ja mærkkabiejvij birra</p>
-      <p type="listitem">dåbddåt ja vuosedit muhtem nástijt, ságastallat gåktu ulmutja máhtti nástij milta gávnnat gåsi galggi.</p>
-      <p type="listitem">váksjot ja subtsastit guovsagisá ja ietjá fenomenaj birra almen ja subtsastit jahtojt ja båvajt tjanádum nástijda ja guovsagissaj sámij gaskan ja ietjá dábij buohtastahttet</p>
-    </list>
-    <p type="title">Teknologija ja hábbmim</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">plánit, tsieggit ja gæhttjalit avtagærddásasj modellajt tsiekkaduskonstruksjåvnåjs ja prosessav dokumenterit ájalvisá rájes gitta gárves buvtagij aktan tevstajn ja tjuorggamij</p>
-      <p type="listitem">gåvådit konstruksjåvnåjt ja dagástallat manen muhtem konstruksjåvnå buorebut starjji ja ienebut gierddi gå iehtjáda</p>
-      <p type="listitem">dåbddåt ja gåvådit guodde struktuvrajt muhtem tsiekkadusájn lahkabirrasin</p>
-    </list>
-    <p type="title">Máhtudakmihto 7. jahkedáse maŋŋela</p>
-    <p type="title" xml:lang="sma">Dutkeihta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">formulerit luonndofágalasj gatjálvisájt juoŋga birra massta oahppe imájdallá, oajvvadit vejulasj tjielggidusájt, plánav dahkat ja guoradallamijt tjadádit</p>
-      <p type="listitem">ságastallat manen luonndodiedan le ájnas dahkat ja gæhttjalit hypotesajt systemáhtalasj váksjomij ja gæhttjaladdamij baktu, ja manen le ájnas båhtusijt buohtastahttet</p>
-      <p type="listitem">adnet digitála viehkkenævojt gæhttjaladdambargon ja ålggobargon</p>
-      <p type="listitem">gávnnat ja hiebadallat luonndofágalasj diedojt tevstajs iesjgeŋga mediajn ja åvddånbuktemav dahkat</p>
-      <p type="listitem">låhkåt ja dádjadit árkkabiejvvebuvtaj hiehtemierkkimav</p>
-    </list>
-    <p type="title">Ulmusj luondon</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">plánit gåktu luonnduressursajt adnet ja ávkkit, subtsastit slájaj birra ma ávkástaláduvvi, tjoahkkima birra máno ja ietjá luonndofenomenaj gáktuj ja buohtastahttet ietjá sáme sebrudagá dábij</p>
-      <p type="listitem">tjielggit dárkkelit gåktu máhtto iellij ja låttij birra ávkástaláduvvá låddimin, guolástusán, bivdon ja ællobargon ja dagástallat gássjelisvuodajt ma guosski bivddoressursaj adnuj</p>
-      <p type="listitem">subtsastit gåktu ietjá iemeálmmuga luonndoressursajt adni</p>
-    </list>
-    <p type="title">Luondo valjesvuohta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">plánit ja tjadádit guoradallamijt gåjt dal avtan luonndoguovlon, váksjumijt registrerit ja båhtusijt systematiserit</p>
-      <p type="listitem">guoradallat ja gåvådit giedjeksjattojt ja tjielggit dárkkelit iesjgeŋgalágásj sjaddoåsij dåjmav tevstajn ja tjuorggamijn</p>
-      <p type="listitem">guoradallat ja dagástallat muhtem faktåvråjt ma vájkkudi virnaj båhtsijdimijt ja sjattoj sjaddamav</p>
-      <p type="listitem">gåvådit muhtem sjaddo- guoppar- ja ielleslájaj dåbddomerkajt ja dajt gárggalit</p>
-    </list>
-    <p type="title">Rumáj ja varresvuohta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">gåvådit ulmutja rubmaha åvddånimev sahkkidimes ållessjattugij</p>
-      <p type="listitem">tjielggit dárkkelit mij pubertehtan dáhpáduvvá ja ságastallat duon dán sjiervveidentitehta birra ja ieredisájt seksuála gæssomij hárráj</p>
-      <p type="listitem">gåvådit tsåhke- ja gæhppásystema oajvveåsijt ja daj dåjmajt rubmahin</p>
-      <p type="listitem">tjielggit dárkkelit gåktu rumáj iesj ietjas suoddji skihpudagá vuosstij ja gåktu máhttá infeksjåvnnåskihpudagájt hieredit ja dálkudit</p>
-      <p type="listitem">tjoahkkit diedojt ja tállamateriálav ja dágástallat varresvuodavahágijt ma máhtti badjánit duon dán gárevselgaj ano diehti</p>
-    </list>
-    <p type="title">Fenomena ja ábnnasa</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">animasjåvnåjt ja ietjá modellajt adnet gå tjielggi planehtaj ja máno labudimijt, ja tjielggit dárkkelit gåktu jábe ja mánnogaska dáhpáduvvi</p>
-      <p type="listitem">subtsastit gåktu muhtem minerála ja bákteslája li dagádum, ja guoradallat muhtem slájajt ma lahkabirrusin gávnnuji</p>
-      <p type="listitem">tjielggit dárkkelit muhtem energijagáldoj anov åvddåla ja dálla, ja tjoahkkit diedojt ja statistihkav iesjgeŋga gáldojs gåvådittjat ja dagástalátjit gåktu energijaadno soajttá vájkkudit birrasij bájkálattjat ja globála perspektijvan</p>
-      <p type="listitem">tjielggit dárkkelit dálkádak moallánagáv, dåbddåt muhtem sivájt dálkádakrievddamijda ja guoradallat ja registrerit nievres dálkij båhtusijt</p>
-      <p type="listitem">guoradallat fenomenajt tjanádum jiednaj, gullamij ja juhtsaj, váksjumijt dágástallat ja tjielggit dárkkelit gåktu jiedna máhttá bieljedibmen dahkat</p>
-      <p type="listitem">gæhttjaladdat magnetismajn ja elektrisitehtajn ja tjielggit ja åvddånbuktet gæhttjaladdamij båhtusijt</p>
-      <p type="listitem">gåvådit gássaj, låsjkudisáj, fássta ståffaj ja fásamålssomij guovdásj vuogijt partihkkalmodella baktu</p>
-      <p type="listitem">tjielggit dárkkelit bágoj atoma ja molekyla gåktu ståffa li dagádum, ja gåktu ståffajt máhttá rievddadit</p>
-      <p type="listitem">gæhttjaladdat duov dáv kjemalasj reaksjåvnåv ja gåvådit ma li daj dåbddomerka</p>
-    </list>
-    <p type="title">Teknologija ja hábbmim</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">plánit, dahkat ja gæhttjalit mekánalasj ståhkusijt, ja tjielggit mekánalasj sirddema prinsihpajt</p>
-      <p type="listitem">plánit, dahkat ja gæhttjalit avtagærddásasj gávnijt ma elektrihkalasj energijav adni, ja gárvvidum gávne åvdås reklamerit</p>
-      <p type="listitem">gåvådit gávne iellemájgev ja dágástallat makta gávnne hiehpá guoddelis åvddånibmáj</p>
-    </list>
-    <p type="title">Máhtudakmihto 10. jahkedáse maŋŋela</p>
-    <p type="title" xml:lang="sma">Dutkeihta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">formulerit hypotesajt majt máhttá gæhttjalit, plánit ja tjadádit guoradallamav dajs ja dágástallat váksjumijt ja båhtusijt muhtem rapportan</p>
-      <p type="listitem">viedtjat ja hiebadit luonndofágalasj dáhtájt, merustallat ja båhtusijt gráfalattjat åvddånbuktet</p>
-      <p type="listitem">tjállet tevstajt ma tjielggiji ja argumenteriji aktan referánsaj guoskavasj gáldojda, árvustallat ietjas ja iehtjádij tevstaj kvalitehtav ja tevstajt dárkestit</p>
-      <p type="listitem">tjielggit dárkkelit manen le ájnas gávnnat gåktu sivva ja vájkkudus aktan gulluji ja tjielggit dárkkelit manen argumenterim, vuosstemielakvuohta ja almodibme le ájnas luonndodiehtagin</p>
-      <p type="listitem">identifiserit luonndofágalasj argumentajt, fáktá ja tjuottjodusá tevstajn ja grafihkan ma li avijsajn, brosjyrajn ja ietjá mediajn, ja sisanov lájttálisát árvustallat</p>
-      <p type="listitem">tjuovvot sihkarvuoda dåjmajt ma li gåvådum HMS-rutijnajn ja risikoárvustallamijn</p>
-    </list>
-    <p type="title">Ulmusj luondon</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">praktihkalasj oassálasstema baktu vuosedit ja tjielggit dárkkelit gåktu luondon bierggi</p>
-      <p type="listitem">váksjut ja vaddet buojkulvisájt gåktu ulmutjij dåjma li muhtem luonndoguovlluj vájkkudam, guoradallat duon dán berustiddje juohkusij vuojnov vájkkudibmáj ja oajvvadit dåjmajt ma lulun luondov boahtte buolvajda bisodit</p>
-      <p type="listitem">adnet sáme termajt gå tjielggi ietjas váksjumijt muohttaga ja fierda birra ja ságastallat manen máhtto muohttaga ja fierda birra le sierraláhkáj ájnas jåhtulagán ja árbbedábálasj æládusájn</p>
-    </list>
-    <p type="title">Luondo valjesvuohta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">tjielggit dárkkelit evolusjåvnåteorija oajvveåsijt ja tjielggit observasjåvnåjt ma teorijav doarjju</p>
-      <p type="listitem">gåvådit gåktu ielle- ja sjaddosella li dagádum ja tjielggit dárkkelit gåvvåsyntesa ja cellevuojŋŋama oajvveåsijt.</p>
-      <p type="listitem">tjielggit dárkkelit sellejuohkemav ja genehtalasj variasjåvnåv ja árbev</p>
-      <p type="listitem">tjielggit dárkkelit oajveåsijt teorijajs gåktu ednam rievddá ja le ájgij tjadá rievddam, ja dáj teorijaj vuodov</p>
-      <p type="listitem">guoradallat ja registrerit biotalasj ja iehpebiotalasj faktåvråjt muhtem økosysteman lahkabirrasin ja tjielggit dárkkelit aktijvuodajt faktåvråj gaskan</p>
-    </list>
-    <p type="title">Rumáj ja varresvuohta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">gåvådit nærvva- ja hormonsystemav ja gåktu da stivrriji rubmaha prosessajt</p>
-      <p type="listitem">gåvådit oanegattjat åhkeåvddånimev ja gåktu riegádahttem dáhpáduvvá</p>
-      <p type="listitem">formulerit ja árvvaladdat ássjijt tjanádum seksualitehttaj, seksuála giessemij, sjiervveidentitehttaj, rájáj mierredibmáj ja vieledibmáj, seksuála skihpudagájda, prevensjåvnåjda ja tsuovkkanibmáj</p>
-      <p type="listitem">tjielggit gåktu ietjas iellemvuohke luluj varresvuohtaj vájkkudit, dan vuolen aj sæggodibme ja bårråmgássjelisvuoda, buohtastahttet diedojt iesjgeŋga gáldos, ja dágástallat gåktu máhttá hieredit varresvuoda vahágahttemijt</p>
-      <p type="listitem">buojkuldahttet sáme ja ietjá álmmukmedisijnav ja dágástallat sieradusáv alternatijva medisijna ja skåvllåmedisijna gaskan</p>
-    </list>
-    <p type="title">Fenomena ja ábnnasa</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">gåvådit universav ja teorijajt gåktu dat le åvddånam</p>
-      <p type="listitem">tjielggit dárkkelit gåktu jábe sjaddi, ja manen biejvve ijájt bájttá ja manen la sjievnnjet dálvijt</p>
-      <p type="listitem">guoradallat muhtem ássjev vuobmana guoradallamis, ja buohtastahttet ja åvddånbuktet diedojt duot dát gáldos</p>
-      <p type="listitem">gåvådit vuodoábnnasij ja aktijvuodajt vuogijt periodesystema ano baktu</p>
-      <p type="listitem">guoradallat muhtem árkkabiejve ábnnasij vuogijt ja dahkat álkkes merustallamijt løsnigij njárbbima gáktuj</p>
-      <p type="listitem">guoradallat ja klassifiserit rájnna ábnnasijt ja ábnassegadusájt jus tjátjen njárbbiduvvi, makta buolli ja suvra ja básalasj vuogijt</p>
-      <p type="listitem">plánit ja tjadádit gæhttjaladdamijt vuosedimreaksjåvnåj, ábnnasij sieradibme segadusájn ja amás ábnnasa analyjssa</p>
-      <p type="listitem">guoradallat hydrokarbåvnåjt, alkoholajt, karboksylsyjrajt ja karbohydratajt, ábnnasijt ja buktet dahkamvuogij buojkulvisájt ja gåktu aneduvvi</p>
-      <p type="listitem">tjielggit gåktu álggoulljo ja luonndogássa le sjaddam</p>
-      <p type="listitem">adnet buojkuldagájt strávve, strávvefábmo, resistánssa, effekta ja induksjåvnnå tjielggitjit båhtusijt strávvebiráldagáj gæhttjaladdamijs</p>
-      <p type="listitem">tjielggit gåktu máhttep elektralasj energijav buvtadit ådåstahtte ja iehpe-ådåstahtte energijagáldojs, ja dágástallat gåktu dá iesjgeŋga energibuvtadimvuoge birrasij vájkkudi</p>
-      <p type="listitem">tjielggit buojkuldagájt fártta ja akselerásjåvnnå, mihttit stuorradagájt álkkes viehkkenævoj ja buktet buojkulvisájt gåktu fábmo le akselerásjåvnnåj tjanádum</p>
-      <p type="listitem">gæhttjaladdat ja avtagærddásasj láhkáj merustallat bargov, fámov ja effektav</p>
-      <p type="listitem">tjielggit gåktu jåhtulaksihkarvuodavædtsaga binnedi vahágijt vuorbedisvuodajn ja sårmijn</p>
-      <p type="listitem">tjadádit gæhttjaladdamijt tjuovgaj, vuojnoj ja bájnoj, ja båhtusijt dárkkelit tjielggit</p>
-    </list>
-    <p type="title">Teknologija ja hábbmim</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">åvddånahttet buktagijt gájbbádusmærrádusáj milta ja árvustallat buktagij funksjonalitehtav, adnoávkev ja iellemájgev guoddelis åvddånime gáktuj</p>
-      <p type="listitem">gæhttjalit ja gåvådit vuogijt materiálajn ma buvtadimprosessan aneduvvi, ja árvustallat materialanov birrasa gáktuj</p>
-      <p type="listitem">gåvådit elektråvnålasj guládallamsystemav, tjielggit gåktu diedo sáddijiddjes vuosstájválldáj sáddiduvvi, ja tjielggit buorep ja nievrep vájkkudusájt</p>
-    </list>
-    <p type="title">Máhtudakmihto Jo1-oahppogárvedime oahppoprográmma maŋŋela</p>
-    <p type="title" xml:lang="sma">Dutkeihta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">plánit ja tjadádit duov dáv guoradallamav gånnå variabelijt identifiseri, dáhtájt viedtji ja hiebadi ja rapportav tjálli gånnå aj le dágástallam mihttimiehpesihkarvuodas ja vejulasj boastovuodaj árvustallam</p>
-      <p type="listitem">sieradit båhtusij ja tjuottjodusáj gaskan ja dágástallat metodaj kvalitehtav ja gåktu ietjas ja iehtjádij dáhtájt ja dålkkumijt åvddån buktá</p>
-      <p type="listitem">árvvaladdat ájggeguovddelis luonndofágalasj ássjijt praktihkalasj guoradallamij jali systematiseridum diedoj baktu duot dát gáldos</p>
-      <p type="listitem">adnet avtagærddásasj dáhtásimulerigijt jali animasjåvnåjt vuosedittjat ja tjielggitjit luonndofágalasj fenomenajt ja hypotesajt gæhttjalittjat</p>
-      <p type="listitem">dágástallat sieradusájt ja avtalágásjvuodajt gåktu árbbediehto ja diedalasj diehto luondo birra ásaduvvá ja gaskostuvvá/vijddábut doalvoduvvá</p>
-    </list>
-    <p type="title">Guoddelis åvddånibme</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">tjielggit guoddelis åvddånime buojkuldagáv</p>
-      <p type="listitem">guoradallat ja gåvådit suksesjåvnnåprosessajt ekosysteman</p>
-      <p type="listitem">kárttit ietjas gållådimválljimijt ja fágalattjat ja ehtalattjat argumenterit ietjas gållådimválljimij åvdås ma båhti viehkken guoddelis adnuj</p>
-      <p type="listitem">tjielggit faktåvråjt ma populasjåvnå stuorrudagáv vájkkudi ja vaddet buojkulvisájt gåktu sjatto ja juhtusij iellem nuorttaguovlojn li rievddam</p>
-      <p type="listitem">guoradallat bájkálasj ja globála rijdojt tjanádum birásássjijda ja háldadibmáj, ja árvvaladdat gåktu dá rijdo soajtti bájke ulmutjijda, sámijda ja ietjá iemeálmmugijda ja væráltsebrudahkaj vájkkudit</p>
-    </list>
-    <p type="title">Biebbmo ja varresvuohta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">gåvådit ájnnasamos energijavadde biebbmoábnnasij kjemijalasj dåbddomerkajt ja vuodustit manen da li ájnnasa rubmahij</p>
-      <p type="listitem">vaddet buojkulvisájt vitamijnajs, minerálajs ja minerállaábnnasijs majt rumáj dárbaj, ja gåktu máhttá målsudahkes biebmojt bårråt</p>
-      <p type="listitem">avtagærddásattjat kjemijalattjat vuosedit biebbmoábnnasijt biebmogálvojn ja båhtusijt tjielggit</p>
-      <p type="listitem">tjielggit dárkkelit oajvveåsijt rubmaha energijavadde biebbmoábnnasij birra bårråma, gilvvema ja adnuj válldema gáktuj</p>
-      <p type="listitem">tjielggit muhtem oajvveåsijt kosmehtalasj buktagijn ja dahkat dakkir buktagav sierra gálvvotjielggidusájn</p>
-      <p type="listitem">árvvaladdat gatjálvisájt ma guosski sæggodibmáj, bårråmgássjelisvuoda ja hárjjidallama gáktuj, ja gåktu iellemvuohke varresvuohtaj vájkkut</p>
-    </list>
-    <p type="title" xml:lang="vep">Bioteknologija</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">tjielggit dárkkelit proteinsyntesa genehtalasj kodav ja oajvveåsijt ja vatte buojkulvisájt gåktu árbbe ja birás aktan doajmmi</p>
-      <p type="listitem">tjielggit buojkuldagájt massta ja genmodifiserim ja vaddet buojkulvisájt gåktu bioteknologija aneduvvá sjattoj ja iellij vuogijt rievdatjit</p>
-      <p type="listitem">vaddet bajeltgåvåv gåktu bioteknologija duon dán láhkáj medisijnalattjat aneduvvá ja dágástallat vejulasjvuodajt ja hásstalusájt dákkir anojn</p>
-      <p type="listitem">buohtastahttet argumentajt bioteknologija ano birra ja árvvaladdat fágalasj ja ehtalasj gássjelisvuodajt ma li dási tjanádum</p>
-    </list>
-    <p type="title">Suonjardibme ja radioaktivitehtta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">tjielggit gåktu guovsagis sjaddá, ja buktet buojkulvisájt gåktu Vuodna le læhkám ja ájn le guovsagisdutkamin åvdemussan</p>
-      <p type="listitem">tjielggit man ájnas ozongierdde le biejve suonjardibmáj</p>
-      <p type="listitem">tjielggit mij sjaddadimviessovájkkudus le, ja tjielggit gåktu ulmutjij dåjma ilme energijabalansav rievddi</p>
-      <p type="listitem">tjielggit muhtem vejulasj vájkkudusájt lasedim sjaddadimviessovájkkudusás arktisin ja vuolládagájn ja árvvaladdat muhtem vejulasj dálkádakdåjmav</p>
-      <p type="listitem">tjadádit gæhttjaladdamijt radioaktivitehtajn, biellemuddoájgijn ja duogásjsuonjardimijn, fenomenajt tjielggit ja álkkes láhkáj merustallat</p>
-      <p type="listitem">gåvådit iesjgeŋgalágásj ioniserijiddje suonjardimij dåbddomerkajt ja buojkuldahttet gåktu dákkir suonjardibme aneduvvá teknihkan ja medisijnan</p>
-      <p type="listitem">tjielggit dárkkelit gåktu elektromagnehtalasj suonjardibme vuobmanin máhttá dålkkuduvvat ja diedojt vaddet vuobmana birra</p>
-    </list>
-    <p type="title">Boahtteájge energija</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">tjadádit gæhttjaladdamijt biejvvesellaj, biejvvetjoahkkárij ja liekkaspumpoj ja tjielggit gåktu doajmmi ja álkkes láhkáj merustallat vájkkudusmierev</p>
-      <p type="listitem">tjielggit ma redoksreaksjvnå li, gæhttjaladdat boalldemijn, galvana elementajn ja elektrolysajn ja båhtusijt tjielggit</p>
-      <p type="listitem">gåvådit gåktu muhtem dábálasj batterijaj ja boalldemsellaj doajmmi ja aneduvvi</p>
-      <p type="listitem">tjielggit gåktu biomasse máhttá energijagálldon aneduvvat</p>
-      <p type="listitem">tjielggit sieradusájt energijagáldoj ja energijaguoddij gaskan ja subtsastit muhtem vejulasj energijaguodde birra boahtteájggáj</p>
-    </list>
-    <p type="title">Máhtudakmihto Jo1-viddnofágalasj oahppoprográmma maŋŋela</p>
-    <p type="title" xml:lang="sma">Dutkeihta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">plánit ja tjadádit duov dáv guoradallamav gånnå variabelijt identifiseri, dáhtájt viedtji ja hiebadi ja rapportav tjálli gånnå aj le dágástallam mihttimiehpesihkarvuodas ja vejulasj boastovuodaj árvustallam</p>
-    </list>
-    <p type="title">Luondo valjesvuohta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">tjielggit guoddelis åvddånime buojkuldagáv</p>
-      <p type="listitem">kárttit ietjas gållådimválljimijt ja fágalattjat ja ehtalattjat argumenterit ietjas gållådimválljimij åvdås ma båhti viehkken guoddelis adnuj</p>
-      <p type="listitem">tjielggit faktåvråjt ma populasjåvnå stuorrudagáv vájkkudi ja vaddet buojkulvisájt gåktu sjatto ja juhtusij iellem nuorttaguovlojn li rievddam</p>
-      <p type="listitem">guoradallat bájkálasj ja globála rijdojt tjanádum birásássjijda ja háldadibmáj, ja árvvaladdat gåktu dá rijdo soajtti bájke ulmutjijda, sámijda ja ietjá iemeálmmugijda ja væráltsebrudahkaj vájkkudit</p>
-    </list>
-    <p type="title">Rumáj ja varresvuohta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">gåvådit ájnnasamos energijavadde biebbmoábnnasij kjemijalasj dåbddomerkajt ja vuodustit manen da li ájnnasa rubmahij</p>
-      <p type="listitem">vaddet buojkulvisájt vitamijnajs, minerálajs ja minerállaábnnasijs majt rumáj dárbaj, ja gåktu máhttá målsudahkes biebmojt bårråt</p>
-      <p type="listitem">avtagærddásattjat kjemijalattjat vuosedit biebbmoábnnasijt biebmogálvojn ja båhtusijt tjielggit</p>
-      <p type="listitem">tjielggit dárkkelit oajvveåsijt rubmaha energijavadde biebbmoábnnasij birra bårråma, gilvvema ja adnuj válldema gáktuj</p>
-      <p type="listitem">tjielggit muhtem oajvveåsijt kosmehtalasj buktagijn ja dahkat dakkir buktagav sierra gálvvotjielggidusájn</p>
-      <p type="listitem">árvvaladdat gatjálvisájt ma guosski sæggodibmáj, bårråmgássjelisvuoda ja hárjjidallama gáktuj, ja gåktu iellemvuohke varresvuohtaj vájkkut</p>
-    </list>
-    <p type="title">Boahtteájge energija</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">tjadádit gæhttjaladdamijt biejvvesellaj, biejvvetjoahkkárij ja liekkaspumpoj ja tjielggit gåktu doajmmi ja álkkes láhkáj merustallat vájkkudusmierev</p>
-      <p type="listitem">tjielggit gåktu biomasse máhttá energijagálldon aneduvvat</p>
-    </list>
-    <p type="title" xml:lang="nob">Kompetansemål etter Vg3 - påbygging til generell studiekompetanse</p>
-    <p type="title" xml:lang="sma">Dutkeihta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">sieradit båhtusij ja tjuottjodusáj gaskan ja dágástallat metodaj kvalitehtav ja gåktu ietjas ja iehtjádij dáhtájt ja dålkkumijt åvddån buktá</p>
-      <p type="listitem">árvvaladdat ájggeguovddelis luonndofágalasj ássjijt praktihkalasj guoradallamij jali systematiseridum diedoj baktu duot dát gáldos</p>
-      <p type="listitem">adnet avtagærddásasj dáhtásimulerigijt jali animasjåvnåjt vuosedittjat ja tjielggitjit luonndofágalasj fenomenajt ja hypotesajt gæhttjalittjat</p>
-      <p type="listitem">dágástallat sieradusájt ja avtalágásjvuodajt gåktu árbbediehto ja diedalasj diehto luondo birra ásaduvvá ja gaskostuvvá/vijddábut doalvoduvvá</p>
-    </list>
-    <p type="title">Luondo valjesvuohta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">guoradallat ja gåvådit suksesjåvnnåprosessajt ekosysteman</p>
-    </list>
-    <p type="title">Teknologija ja hábbmim</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">tjielggit dárkkelit proteinsyntesa genehtalasj kodav ja oajvveåsijt ja vatte buojkulvisájt gåktu árbbe ja birás aktan doajmmi</p>
-      <p type="listitem">tjielggit buojkuldagájt massta ja genmodifiserim ja vaddet buojkulvisájt gåktu bioteknologija aneduvvá sjattoj ja iellij vuogijt rievdatjit</p>
-      <p type="listitem">vaddet bajeltgåvåv gåktu bioteknologija duon dán láhkáj medisijnalattjat aneduvvá ja dágástallat vejulasjvuodajt ja hásstalusájt dákkir anojn</p>
-      <p type="listitem">buohtastahttet argumentajt bioteknologija ano birra ja árvvaladdat fágalasj ja ehtalasj gássjelisvuodajt ma li dási tjanádum</p>
-    </list>
-    <p type="title">Suonjardibme ja radioaktivitehtta</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">tjielggit gåktu guovsagis sjaddá, ja buktet buojkulvisájt gåktu Vuodna le læhkám ja ájn le guovsagisdutkamin åvdemussan</p>
-      <p type="listitem">tjielggit man ájnas ozongierdde le biejve suonjardibmáj</p>
-      <p type="listitem">tjielggit mij sjaddadimviessovájkkudus le, ja tjielggit gåktu ulmutjij dåjma ilme energijabalansav rievddi</p>
-      <p type="listitem">tjielggit muhtem vejulasj vájkkudusájt lasedim sjaddadimviessovájkkudusás arktisin ja vuolládagájn ja árvvaladdat muhtem vejulasj dálkádakdåjmav</p>
-      <p type="listitem">tjadádit gæhttjaladdamijt radioaktivitehtajn, biellemuddoájgijn ja duogásjsuonjardimijn, fenomenajt tjielggit ja álkkes láhkáj merustallat</p>
-      <p type="listitem">gåvådit iesjgeŋgalágásj ioniserijiddje suonjardimij dåbddomerkajt ja buojkuldahttet gåktu dákkir suonjardibme aneduvvá teknihkan ja medisijnan</p>
-      <p type="listitem">tjielggit dárkkelit gåktu elektromagnehtalasj suonjardibme vuobmanin máhttá dålkkuduvvat ja diedojt vaddet vuobmana birra</p>
-    </list>
-    <p type="title">Boahtteájge energija</p>
-    <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
-    <list>
-      <p type="listitem">tjielggit ma redoksreaksjvnå li, gæhttjaladdat boalldemijn, galvana elementajn ja elektrolysajn ja båhtusijt tjielggit</p>
-      <p type="listitem">gåvådit gåktu muhtem dábálasj batterijaj ja boalldemsellaj doajmmi ja aneduvvi</p>
-      <p type="listitem">tjielggit gåktu biomasse máhttá energijagálldon aneduvvat</p>
-    </list>
-    <p type="title">Árvustallam fágan</p>
-    <p>Loahppaárvustallama mærrádusá:</p>
-    <p>
-      <em type="bold">Åbbålasj árvustallam </em>
-    </p>
-    <p>
-      <em type="bold">Jahkedásse </em>
-    </p>
-    <p>
-      <em type="bold">Vuohke </em>
-    </p>
-    <p>10. jahkedásse</p>
-    <p>Oahppe galggi oadtjot avtav åbbålasj karakterav.</p>
-    <p>Jo1 viddnofágalasj oahppoprográmma</p>
-    <p>Jo1 oahppogárvedime oahppoprográmma</p>
-    <p>Jo3 lasádus dábálasj oahppomáhtudahkaj</p>
-    <p>Oahppe galggi oadtjot avtav åbbålasj karakterav.</p>
-    <p>
-      <em type="bold">Eksámen – oahppe </em>
-    </p>
-    <p>
-      <em type="bold">Jahkdásse </em>
-    </p>
-    <p>
-      <em type="bold">Vuohke </em>
-    </p>
-    <p>10. jahkedásse</p>
-    <p>Oahppe soajtti vuorbbáduvvat njálmálasj eksábmaj. Eksáman galggá praktihkalasj oasse. Njálmálasj eksámen bájkálattjat dagáduvvá ja sensureriduvvá.</p>
-    <p>Jo1 viddnofágalasj oahppoprográmma</p>
-    <p>Jo1 oahppogárvedime oahppoprográmma</p>
-    <p>Oahppe soajtti vuorbbáduvvat njálmálasj eksábmaj manna le praktihkalasj oasse. Njálmálasj eksámen bájkálattjat dagáduvvá ja sensureriduvvá.</p>
-    <p>Jo3 lasádus dábálasj oahppomáhtudahkaj</p>
-    <p>Oahppe soajtti vuorbbáduvvat njálmálasj eksábmaj gånnå le praktihkalasj oasse. Njálmálasj eksámen bájkálattjat dagáduvvá ja sensureriduvvá. Eksábma sisadná dåssju fágav lasádus dábálasj oahppomáhtudahkaj (84 tijma).</p>
-    <p>
-      <em type="bold">Eksámen – privatista </em>
-    </p>
-    <p>
-      <em type="bold">Jahkedásse </em>
-    </p>
-    <p>
-      <em type="bold">Vuohke </em>
-    </p>
-    <p>10. jahkedásse</p>
-    <p>Gehtja doajmme årnigav ållessjattugij vuodoskåvllååhpadusá gáktuj</p>
-    <p>Jo1 viddnofágalasj oahppoprográmma</p>
-    <p>Privatista galggi tjadádit njálmálasj eksámav gånnå le praktihkalasj oasse. Njálmálasj eksámen bájkálattjat dagáduvvá ja sensureriduvvá.</p>
-    <p>Jo1 oahppogárvedime oahppoprográmma</p>
-    <p>Privatista galggi tjadádit njálmálasj eksámav gånnå le praktihkalasj oasse. Njálmálasj eksámen bájkálattjat dagáduvvá ja sensureriduvvá.</p>
-    <p>Jo3 lasádus dábálasj oahppomáhtudahkaj</p>
-    <p>Privatista galggi tjadádit njálmálasj eksámav gånnå le praktihkalasj oasse. Njálmálasj eksábma bájkálattjat dagáduvvá ja sensureriduvvá. Eksábma sisadná dåssju fágav lasádus dábálasj oahppomáhtudahkaj (84 tijma).</p>
-    <p>Árvustallama åbbålasj mærrádusá li åhpaduslága njuolgadustjállagijn.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4189</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/kl06/NAT2-03/Hele/Komplett_visning?lplang=smj&amp;read=1</origFileName><parallel_text xml:lang="nob" location="laereplan_naturfag.html"/><parallel_text xml:lang="sma" location="laereplan_naturfag.html"/><parallel_text xml:lang="sme" location="laereplan_naturfag.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Luonndofáhka - sáme oahppopládna</p>
+<p xml:lang="nob">Hovedinnhold</p>
+<p type="title">Luonndofáhka - sáme oahppopládna</p>
+<p>Mierreduvvam Máhttodepartementas láhkanjuolgadusá milta 01.07.2013</p>
+<p xml:lang="sme">Gusto borgemánu: 01.08.2013</p>
+<p type="title">Ulmme</p>
+<p>Luondodieda le åvddånam ulmutjij diehtemvájnogisvuoda ja dárbo diehti gávnnat vásstádusájt ietjama eksistensa, iellema ja iellemvuogij birra ja mijá saje birra luondon ja universan ja le navti oassen mijá kultuvras.</p>
+<p>Sámen badjáni udnásj máná ja nuora sebrudagán mij le bájnnum æjvvalimes árbbedábálasj iellemvuogij ja ådåájggásasj diehtaga ja dárkkelis teknologija gaskan. Sáme árbbediehto luondo hárráj gájbbet ålles ájádallamav ja dádjadusáv, gånnå praktihkalasj tjehpudagá dættoduvvi. Luondon bierggit ja luondov ávkástallat jiermálasj ja buorre láhkáj li árvulasj sáme tjehpudagá maj baktu máhtto buolvas buolvvaj bisoduvvá. Luonndofáhka galggá liehket oassen dán åhpadimes.</p>
+<p>Luonndodiehtaga lága ja teorija li modella duohtavuodas, ja dá modella rievddi jali vijddásappot åvddånahteduvvi ådå observasjåvnåj, gæhttjaladdamij ja ájádusáj baktu. Ájnas oasse luonndodiehtagis le diehtet luonndodieda maŋenagi åvddån, ja dutkam ja ådå máhtto luonndodiehtaga ja teknologija suorgijn le ájnas sebrudagá åvddånahttemij ja iellembirrasij.</p>
+<p>Vájku luonndodieda le moatte fáhkasuorgijda juogeduvvam dagu biologija, fysihkka ja kjemija ja geofága, de le ulmmen jut skåvllåfáhka luonndofáhka sihke teorijan ja praktihkalattjat doajmma åbbålasj fáhkan.</p>
+<p>Luondo máhtto, dádjadus ja vásádusá máhtti åvdedit mielav luonndoressursajt suodjalittjat, biologalasj valjesvuodav bisodittjat ja guoddelis åvddånahttemav nannitjit. Dán aktijvuodan li sámijn ja ietjá álggoálmmugijn máhtto luondo birra mav galgalulujma vieledit. Sæmmi båttå galggá luonndofáhka vájkkudit váj mánáj ja nuoraj vuojno ja guotto åvddåni, ja ájádallagåhti gåktu luonndo, ulmusj, teknologija, sebrudahka ja dutkam aktan doajmmi. Dát le ájnas váj juohkka akta bæssá dádjadit iesjgeŋgalágásj luonndodiedalasj ja teknologalasj diedojt. Dát galggá liehket vuodon sebrudagá prosessajda sæbrrat.</p>
+<p>Barggat iesjgeŋgalágásj ássjetjuolmaj praktihkalattjat ja teorehtalattjat laboratåvråjn ja luondon le ájnas váj bæssá åtsådallat ja oahppat luonndodiehtaga metodajt ja ájádallamvuogijt. Dát le åvdedime sjuggelisvuodav, kritihkalasj dájdov, rabásvuodav ja dåjmalasj oassálasstemav dilijn gånnå luonndofágalasj máhtto ja tjehpudahka le oassen. Målsudahkes oahppambirrasa dagu ålggon luondon barggat, gæhttjaladdambargo laboratåvråjn ja guossidime dávvervuorkájn, diehtoguovdátjijn ja viddnudagájn boanndot luonndofága åhpadimev ja båktå imájdallamav ja diehtemvájnov, ja mielav giddi. Máhttet iesjgeŋga luonndodiedalasj tevstajt, metodajt ja teknologalasj tjoavddusijt dádjadit vaddi vuogas vuodov virggefágalasj åhpadussaj, vijddásap oahppamij ja iellemájge oahppamij virgen ja asstoájgen.</p>
+<p type="title">Fága oajvveoase</p>
+<p>Fáhka le juogeduvvam oajvveåsijda, ja juohkka oasen li máhtudakmihto. Oajvveoase li oase ållesvuodas ja dajn le aktijvuohta.</p>
+<p>Fáhka le aktisasjfáhka mij gullu gájka joarkkaåhpadusáj oahppoprográmmajda. Danen galggá åhpadusáv iesjgeŋga oahppoprográmmaj hiebadit váj sjaddá nav relevánta gå vejulasj oahppijda.</p>
+<p>Luonndofágan li vissa máhtudakmihto vuodoskåvlå 2., 4., 7. ja 10. jahkedáse maŋŋela ja joarkkaåhpadusá Jo1 studerimgárvediddje ja viddnofágalasj oahppoprográmmajn ja Jo3 lasádus dábálasj oahppomáhtudahkaj.</p>
+<p><em type="bold">Oajvveåsij gåvvå: </em></p>
+<p><em type="bold">Jahkedásse </em></p>
+<p><em type="bold">Oajvveoase </em></p>
+<p xml:lang="vep">1.–10.</p>
+<p xml:lang="nob">Dutke</p>
+<p xml:lang="sme">ihta</p>
+<p>Ulmusj luondon</p>
+<p>Luondo valjesvuohta</p>
+<p>Rumáj ja varresvuohta</p>
+<p>Fenomena ja ábnnasa</p>
+<p>Teknologija ja</p>
+<p>hábbmim</p>
+<p>Jo1</p>
+<p xml:lang="sme">Oahppogárvedime oahppo-prográmma</p>
+<p xml:lang="sma">Dutkeihta</p>
+<p>Guoddelis åvddånahttem</p>
+<p>Biebbmo ja varresvuohta</p>
+<p>Suodnjardibme ja radioaktivitehtta</p>
+<p>Boahtteájge energija</p>
+<p xml:lang="vep">Bioteknologija</p>
+<p xml:lang="sme">Jo1 viddnofáglasj oahppo-prográmma</p>
+<p xml:lang="sma">Dutkeihta</p>
+<p>Guoddelis åvddånahttem</p>
+<p>Biebbmo ja varresvuohta</p>
+<p>Boahtteájge energija</p>
+<p>Vg3 Lasádus dábálasj oahppomáhtudahkaj</p>
+<p xml:lang="sma">Dutkeihta</p>
+<p>Guoddelis åvddånahttem</p>
+<p>Suodnjardibme ja radioaktivitehtta</p>
+<p>Boahtteájge energija</p>
+<p xml:lang="vep">Bioteknologija</p>
+<p xml:lang="sma">Dutkeihta</p>
+<p>Luonnofágaåhpadusán boahtá luonndodieda åvddån guovte láhkáj:</p>
+<p>Buktagin mij vuoset dav máhtov mij miján dálla le, ja prosæssan mij sisadná gåktu luonndodiedalasj máhtto tsieggiduvvá ja ásaduvvá. Prosessan le hypotesaj åvddånibme, gæhttjaladdam, systemáhtalasj váksjoma, dágástallam, kritihkalasj árvustallam, argumenterim, konklusjåvnåj vuodustibme ja gaskostibme. Dutkeihta galggá åhpadusán dájt dimensjåvnåjt várajda válldet ja dåjda ietjá oajvvesuorgijda dajt integrerit.</p>
+<p>Ulmusj luondon</p>
+<p>Oajvveoasse ulmusj luondon le ulmutja birra guhti le oassen luondos ja ulmutja åvdåsvásstádus luondov suodjalit sihke uddni ja boahtte buolvaj gáktuj, sihke indivijda- ja sebrudakdásen. Vijddásappot sisadná dat guoddelis åvddånahttema ævtojt. Danna le guovdátjin dádjadit gåktu ulmusj máhttá luondov ávkkit, valla aj gåktu ulmutjij dåjma vájkkudi ja rievddadi luondov sihke bájkálattjat ja væráltvijddásattjat. Åtsådallama gåktu luondon bierggit, ja oahppat sáme ja ietjá álggoálmmugij árbbedábij birra gulluji aj dán oajvveoassáj.</p>
+<p>Luondo valjesvuohta</p>
+<p>Dán oajvveoase guovdátjin le åvddånahttet máhtov luondo hárráj ja luondo valjesvuodav vieledit. Jus galggá luondo aktijvuodajt dádjadit de hæhttu diehtet biotalasj ja iehpebiotalasj faktåvråj birra ekosystemajn. Dan oasen vaddá ålggobarggo buorre vuodov máhttuj ja guottojda.</p>
+<p>Jo1 dásen li oajvveoase Ulmusj luondon ja Luondo valjesvuohta gåhtjoduvvam Guoddelis åvddånibmen mij vuoset oajvveoase dættov.</p>
+<p>Rumáj ja varresvuohta</p>
+<p>Oajvveoase rumáj ja varresvuohta sisadno le vuostatjin gåktu ulmutja rumáj le tsieggiduvvam, vájkkuduvvá ja rievddá ájgij milta. Diehtet gåktu rubmaha iesjgeŋga oase aktan doajmmi le ållu vuodulasj gå galggá dádjadit gåktu iellemvuohke rubmahav ja varresvuodav vájkkudi. Rumáj, varresvuohta, iellemvuohke ja biebbmo li álu ássjen median. Gå galggá iesj vásstedit ietjas rubmaha ja fysihkalasj ja psyhkalasj varresvuoda åvdås de le ájnas diehtet ja kritihkalattjat árvustallat diedojt dán suorgen. Iehtjádijt huksat ja vieledit le aj ájnas dan aktijvuodan.</p>
+<p>Jo1:an le dát oajvveoasse gåhtjodum Biebbmo ja varresvuohta mij vuoset oajvveoase dættov.</p>
+<p>Fenomena ja ábnnasa</p>
+<p>Oajvveoasse sisadná aktijvuodajt luonndofágalasj fenomenaj gaskan, ja gåktu ulmutja li oahppam ávkástallat dajt fenomenajt ja ábnnasijt. Oajvveoasse sisadná guovdásj åsijt fysihkas, kjemias ja geofágas. Dat vuoset gåktu ábnnasa li tsieggiduvvam ja nubbe nuppe gáktuj reageriji, ja danna giehtadaláduvvi fenomena dagu jiedna, tjuovgga, elektrisitehtta, magnetissma ja energija. Mijá iehtjama biejvvesystebma, ednama sadje, ålgoldis vuobman ja dutkam ja teknologija aj giehtadaláduvvi.</p>
+<p>Jo1:an le dát oajvveoasse guoktáj juogeduvvam ja gåhtjoduvvam energija boahtteájggáj ja suodnjardibme ja radioaktivitehtta mij vuoset oajvveoase dættov.</p>
+<p>Teknologija ja hábbmim</p>
+<p>Oajvveoase sisadno le plánit, åvddånahttet, buvtadit ja árvustallat anedahtte buktagijt. Aktijvuohta luonndodiehtaga, teknologija ja guoddelis åvddånime gaskan le dán oajvveoasen guovdátjin. Teknologija ja hábbmim le moattefágalasj fáhkaoasse luonndofágan, matematihkan ja duojen.</p>
+<p>Jo1:an gåhtjoduvvá dát oajvveoasse bioteknologija mij vuoset oajvveoase dættov</p>
+<p type="title">Tijmmalåhko</p>
+<p>Akta tijmma le 60 minuhta.</p>
+<p xml:lang="deu">MÁNÁJDÁSSE</p>
+<p>1.-7. jahkedásijn: 328 tijma</p>
+<p xml:lang="deu">NUORAJDÁSSE</p>
+<p>8.-10 jahkedásijn: 249 tijma (256 tijma oahppijda gudi 10. jahkedásev ålliji jagen 2013/2014)</p>
+<p xml:lang="deu">OAHPPOGÁRVEDIME OAHPPOPROGRÁMMA</p>
+<p>Jo1: 140 tijma</p>
+<p xml:lang="deu">VIDDNOFÁGALASJ OAHPPOPROGRÁMMA</p>
+<p>Jo1: 56 tijma</p>
+<p xml:lang="vep">LASÁDUS DÁBÁLASJ OAHPPOMÁHTUDAHKAJ VIDDNOFÁGALASJ</p>
+<p xml:lang="deu">OAHPPOPROGRÁMMAN</p>
+<p>Jo3: 84 tijma</p>
+<p type="title">Vuodotjehpudagá</p>
+<p>Vuodotjehpudagá li integreridum máhtudakmihtojda, gånnå li fáron fáhkamáhtudagáv åvddånahttemin ja li aj dassta oassen. Luonndofágan dádjaduvvi vuodotjehpudagá náv:</p>
+<p><em type="italic">Njálmálasj tjehpudagá </em>luonndofágan li gulldalit, ságastit ja ságastallat váj gåvvit, juogat ja åvddånahttá máhtov luonndofágalasj sisanujn mij le váksjomij ja åtsådallamijda tjanádum. Dat mierkki luonndofágalasj moallánagájt adnet máhto gaskostimen, gatjádaládijn, argumenteridijn ja tjielggidusájn. Dasi gullu aj hiebadit åvddånbuktemijt, moallánagájt ja buojkulvisájt ulmmáj ja vuosstájválldijda. Njálmálasj tjehpudagáj åvddånahttem luonndofágan le gulldalit ja ságastallat vásádusáj ja váksjomij birra vaj máhttet åvddånbuktet ja ságastallat gássjelap ássjij birra. Dát sisadná ienebut máhttet luonndofágalasj moallánagájt adnet maj vuoset dádjadusáv, ietjas árvustallamijda ja oassálastátjit fágalasj ságastallamijda. </p>
+<p><em type="italic">Buktet tjállet </em>luonndofágan le luonndofágalasj tækstasjáŋŋarijt adnet gå le gatjálvisájt ja hypotesajt dahkamin, plánajt ja tjielggidusájt tjállemin, diedojt buohtastahttemin ja daj birra reflekterimin, ja gáldojt vuogas láhkáj adnemin. Dat mierkki aj váksjomijt ja åtsådallamijt gåvådit, diedojt tjoahkkit, vuojnoj åvdås argumenterit ja ålggobargos rapporterit, gæhttjaladdama ja teknologalasj åvddånimprosessa. Tjállemprosessa plánimis gárvedibmáj ja tevstaj åvddånbuktemij sisadná luonndofágalasj buojkuldagájt, figuvrajt ja symbåvlåjt adnet hiebadum ulmmáj ja vuosstájválldáj. Tjállemtjehpudagá åvddånibme luonndofágan manná álkkes javllamvuogijs maŋenagi tjielggasap luonndofágalasj buojkuldagáj, symbåvlåj, grafihka ja argumentasjåvnå adnemij. Dát mierkki máhttet tjállet gássjelap tevstajt maj vuodon le kritihkalasj ja vijdes gáldo hiebadum ulmmáj ja vuosstájválldáj. </p>
+<p><em type="italic">Buktet låhkåt </em>luonndofágan le dádjadit ja adnet luonndofágalasj buojkuldagájt, symbåvlåjt, figuvrajt ja argumentajt ulmmelasj bargo tjadá luonndofágalasj tevstaj. Dát mierkki máhttet identifiserit, dålkkut ja adnet diedojt moattebelak tevstajs girjijn, avijsajn, addnobagádusájn, njuolgadusájn, brosjyrajn ja digitála gáldojn. Låhkåm luonndofágan le aj kritihkalattjat árvustallat gåktu diedo åvddån biejaduvvi ja argumentajn aneduvvi, duola dagu máhttet sieradit dáhtáj, árvvedimij, tjuottjodusáj, hypotesaj ja konlusjåvnåj gaskan. Låhkåmtjehpudagá åvdedibme luonndofágan mierkki gájkka gaskan gávnnat ja adnet tjielgga diedojt álkkes tevstajn dádjadittjat tevstajt ájn vil ienep fáhkabuojkuldagáj, symbåvlåj, figuvraj, tabellaj ja diedojt ma e njuolgga åvddån boade. Dárbbo máhttet kritihkalattjat låhkåt ja guoskavasj diedojt gávnnat ja gáldoj åskåldisvuodav árvustallat aj lassán, hiebaduvvam gáldoj anos gitta iesj máhttet åhtsåt ja buohtastahttet diedojt duot dát gáldos ja árvustallat makta hiehpi bargguj. </p>
+<p><em type="italic">Buktet riekknit </em>luonndofágan le tállamateriálav tjoahkkit, hiebadit ja åvddånbuktet. Dat mierkki adnet buojkuldagájt, mihttiminstrumentajt, mihttimavtadagájt, foarmmalijt ja grafihkav. Riekknim luonndofágan le aj máhttet buohtastahttet, árvustallat ja argumenterit merustallama, båhtusa ja åvddånbuktema li duohta. Luonndofága riekknimtjehpudagá åvddånibme le álkkes låhkåm- ja klassifiserimmetodaj anos gitta máhttet arvustallat metodaj, buojkuldagáj, foarmmalij ja mihttimvædtsagij válljimijt. Vijddásappot dat mierkki maŋenagi dahkat gássjelap åvddånbuktemijt ja árvustallamijt ja riekknimav fágalasj argumenterimin adnet. </p>
+<p><em type="italic">Digitála tjehpudagá </em>luonndofágan le digitála ræjdojt adnet gå le guoradallamin, registrerimin, merustallamin, visualiserimin, dokumenterimin ja dáhtájt almodime ietjas ja iehtjádij guoradallamijs, gæhttjaladdamijs ja ålggobargos. Dat aj mierkki åhtsåmvædtsagijt adnet, åhtsåmstrategijajt buktet ja gáldojt kritihkalattjat árvustallat ja válljit makkir diedo hiehpi iesjgeŋga luonndofágalasj tiebmáj. Digitála tjehpudagáj åvddånibme luonndofágan manná álgos buktet digitála ræjdojt adnet gitta ienebut iesjrádálattjat ja dájdulattjat válljit digitála gáldojt, vædtsagijt, mediajt ja diedojt </p>
+<p type="title">Máhtudakmihto 2. jahkedáse maŋŋela</p>
+<p type="title" xml:lang="sma">Dutkeihta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">dåbdudagáj baktu væráldav guoradallat lahka birrasin</p>
+<p type="listitem">gåvådit, tjuorggat ja ságastallat ietjas váksjomij birra gæhttjaladdamijs ja luondos</p>
+<p type="listitem">dåbddåt hiehtesymbåvlåjt ma mierkkiji várálasj ábnnasijt ja várálasj tjuovgajt</p>
+</list><p type="title">Ulmusj luondon</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">tjadádit dåjmajt luondon váj oahppá luondo birra, ságastallat manen dat le ájnas ja filosoferit almatja saje birra luondon</p>
+<p type="listitem">ságastallat almatjij ja iellij aktijvuoda birra, ja almatjij åvdåsvásstádusás juhtusij gáktuj, duola dagu sáme subttsasij baktu</p>
+<p type="listitem">gåvådit váksjomij baktu jábijt sáme ja dáttja dábij milta, ja subtsastit gåktu sáme namá mánojda gåvvidi luondo dáhpádusájt ja ságastallat ma li hiebalgis biktasa dálkkáj ja jáhpáj</p>
+</list><p type="title">Luondo valjesvuohta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">dåbddåt ja gåvådit muhtem sjaddo- ja ielleslájajt lahkabirrusin ja dajt juohkusijda tjuolldet</p>
+</list><p type="title">Rumáj ja varresvuohta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">nammadit ja gåvådit dåjmajt muhtem ålgoldis ja sisŋeldis åsijt ulmutja rubmahis</p>
+<p type="listitem">ságastallat rájáj biedjama, dádjadime ja ietjas ja iehtjádij rubmaha vieledime birra</p>
+<p type="listitem">gåvådit ja ságastallat dåbdudagájt ja dajt diedulattjat adnet váksjudijn ålggon ja sinna.</p>
+</list><p type="title">Fenomena ja ábnnasa</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">nammadit ja gåvådit gåktu ednam, mánno ja biejvve labudi nubbe nuppe gáktuj, ja subtsastit jábij, jánndura ja jus le sjadde jali nåhkke mánno</p>
+<p type="listitem">gåvådit ja tjuolldet ábnnasijt dåbddomerkaj milta majt máhttá vuojnnet</p>
+<p type="listitem">gæhttjaladdamijt tjadádit tjátjijn ja tjuovgajn ja ságastit observasjåvnåj birra</p>
+</list><p type="title">Teknologija ja hábbmim</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">dáhkat ádajt ma máhtti tjátje jali ájmo viehkijn labudit, ja ságastallat gåktu da doajmmi</p>
+<p type="listitem">dahkat ádajt ma adni tjuovga reflekterimav, ja ságastallat gåktu da doajmmi</p>
+</list><p type="title">Máhtudakmihto 4. jahkedáse maŋŋela</p>
+<p type="title" xml:lang="sma">Dutkeihta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">ádnet luonndofágalasj buojkuldagájt gåvådittjat ja åvddån buvtátjit ietjas váksjomijt, oajvvadit ja ságastallat vejulasj tjielggidusáj birra dasi mav le váksjum</p>
+<p type="listitem">adnet mihttiminstrumentajt, dáhtájt tjuolldet, árvustallat makta båhtusa li dåhkkidahtte, ja dajt åvddånbuktet digitála viehkkenævoj jali daj dagá.</p>
+<p type="listitem">tjállet rapportajt ja gåvvidimijt ja avtagærddásasj digitála tevstajt dahkat</p>
+<p type="listitem">åhtsåt ja hiebadallat diedojt luonndofágalasj åsijs duot dát gáldos ja gáldojt tjállet</p>
+</list><p type="title">Ulmusj luondon</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">oassálasstet dåjmajda gånnå ulmusj ressursajt luondos viedtjá ja ságastallat gåktu ressursa ávkken båhti</p>
+<p type="listitem">gåvådit mav máhttá dahkat váj lahkabirrasa luondov várajda válldá, ja argumenterit dan åvdås ja iesj luondov huksat</p>
+</list><p type="title">Luondo valjesvuohta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">ságastallat muhtem ielle- ja sjaddoslájaj iellemgievle birra</p>
+<p type="listitem">gåvådit muhtem ájggá jábmám ielleslájajuohkusij iellemvuogev navti váj tjoahkki ja systematiseri diedojt iesjgeñga gáldojs.</p>
+<p type="listitem">subtsastit iellij birra, ielleálkkádusá birra giehttot ja sieradit vuojnoj ja fáktáj gaskan.</p>
+<p type="listitem">guoradallat biologalasj suossnoma birra ja gåvådit muhtem jålådimev luondon</p>
+<p type="listitem">ruhtsijt tjuolldet ja dágástallat manen le ájnas ruhtsijt tjuolldet</p>
+</list><p type="title">Rumáj ja varresvuohta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">gåvådit muhtem mudduj gåktu ulmutja rumáj le.</p>
+<p type="listitem">gåvådit suoldudakoalev ja tjielggit dárkkelit gåktu dat doajmmá.</p>
+<p type="listitem">gåvådit sjelehtav ja diehkojt ja tjielggit dárkkelit gåktu rumáj labut</p>
+<p type="listitem">adnet diedojt brosjyrajs ja digitála tevstajs gå dábálasj skihpudagáv tjielggi ja gåktu dav hiereda, ja tjielggit dárkkelit manen muhtem skihpudagáj vuosstij vaksinerip</p>
+<p type="listitem">váksjut ja gåvådit gåktu rumáj reageri iesjgeŋga dilen, ja ságastallat iesjgeŋga dåbdoj birra ja fysihkalasj ja psyhkalasj varresvuoda aktijvuoda birra</p>
+</list><p type="title">Fenomena ja ábnnasa</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">dahkat digitála tjoahkkidum tevstav muhtem planehtaj birra diehtotjoahkkima baktu ja gáldojt diededit</p>
+<p type="listitem">tjadádit gæhttjaladdamijt ma vuosedi ábnnasa máhtti vuogev målssot gå muhtem láhkáj dajt vájkkut</p>
+<p type="listitem">guoradallat fenomenajt tjanádum ájmmuj ja jiednaj, gåvådit váksjumijt ja tjielggidusájt oajvvadit</p>
+<p type="listitem">registrerit ietjas vásádusájt dálke váksjomis, temperatuvrav ja rásjov/muohttagav mihttit ja båhtusijt gráfalattjat åvddån biedjat ja ságastallat dálkkedijdaj ja mærkkabiejvij birra</p>
+<p type="listitem">dåbddåt ja vuosedit muhtem nástijt, ságastallat gåktu ulmutja máhtti nástij milta gávnnat gåsi galggi.</p>
+<p type="listitem">váksjot ja subtsastit guovsagisá ja ietjá fenomenaj birra almen ja subtsastit jahtojt ja båvajt tjanádum nástijda ja guovsagissaj sámij gaskan ja ietjá dábij buohtastahttet</p>
+</list><p type="title">Teknologija ja hábbmim</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">plánit, tsieggit ja gæhttjalit avtagærddásasj modellajt tsiekkaduskonstruksjåvnåjs ja prosessav dokumenterit ájalvisá rájes gitta gárves buvtagij aktan tevstajn ja tjuorggamij</p>
+<p type="listitem">gåvådit konstruksjåvnåjt ja dagástallat manen muhtem konstruksjåvnå buorebut starjji ja ienebut gierddi gå iehtjáda</p>
+<p type="listitem">dåbddåt ja gåvådit guodde struktuvrajt muhtem tsiekkadusájn lahkabirrasin</p>
+</list><p type="title">Máhtudakmihto 7. jahkedáse maŋŋela</p>
+<p type="title" xml:lang="sma">Dutkeihta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">formulerit luonndofágalasj gatjálvisájt juoŋga birra massta oahppe imájdallá, oajvvadit vejulasj tjielggidusájt, plánav dahkat ja guoradallamijt tjadádit</p>
+<p type="listitem">ságastallat manen luonndodiedan le ájnas dahkat ja gæhttjalit hypotesajt systemáhtalasj váksjomij ja gæhttjaladdamij baktu, ja manen le ájnas båhtusijt buohtastahttet</p>
+<p type="listitem">adnet digitála viehkkenævojt gæhttjaladdambargon ja ålggobargon</p>
+<p type="listitem">gávnnat ja hiebadallat luonndofágalasj diedojt tevstajs iesjgeŋga mediajn ja åvddånbuktemav dahkat</p>
+<p type="listitem">låhkåt ja dádjadit árkkabiejvvebuvtaj hiehtemierkkimav</p>
+</list><p type="title">Ulmusj luondon</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">plánit gåktu luonnduressursajt adnet ja ávkkit, subtsastit slájaj birra ma ávkástaláduvvi, tjoahkkima birra máno ja ietjá luonndofenomenaj gáktuj ja buohtastahttet ietjá sáme sebrudagá dábij</p>
+<p type="listitem">tjielggit dárkkelit gåktu máhtto iellij ja låttij birra ávkástaláduvvá låddimin, guolástusán, bivdon ja ællobargon ja dagástallat gássjelisvuodajt ma guosski bivddoressursaj adnuj</p>
+<p type="listitem">subtsastit gåktu ietjá iemeálmmuga luonndoressursajt adni</p>
+</list><p type="title">Luondo valjesvuohta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">plánit ja tjadádit guoradallamijt gåjt dal avtan luonndoguovlon, váksjumijt registrerit ja båhtusijt systematiserit</p>
+<p type="listitem">guoradallat ja gåvådit giedjeksjattojt ja tjielggit dárkkelit iesjgeŋgalágásj sjaddoåsij dåjmav tevstajn ja tjuorggamijn</p>
+<p type="listitem">guoradallat ja dagástallat muhtem faktåvråjt ma vájkkudi virnaj båhtsijdimijt ja sjattoj sjaddamav</p>
+<p type="listitem">gåvådit muhtem sjaddo- guoppar- ja ielleslájaj dåbddomerkajt ja dajt gárggalit</p>
+</list><p type="title">Rumáj ja varresvuohta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">gåvådit ulmutja rubmaha åvddånimev sahkkidimes ållessjattugij</p>
+<p type="listitem">tjielggit dárkkelit mij pubertehtan dáhpáduvvá ja ságastallat duon dán sjiervveidentitehta birra ja ieredisájt seksuála gæssomij hárráj</p>
+<p type="listitem">gåvådit tsåhke- ja gæhppásystema oajvveåsijt ja daj dåjmajt rubmahin</p>
+<p type="listitem">tjielggit dárkkelit gåktu rumáj iesj ietjas suoddji skihpudagá vuosstij ja gåktu máhttá infeksjåvnnåskihpudagájt hieredit ja dálkudit</p>
+<p type="listitem">tjoahkkit diedojt ja tállamateriálav ja dágástallat varresvuodavahágijt ma máhtti badjánit duon dán gárevselgaj ano diehti</p>
+</list><p type="title">Fenomena ja ábnnasa</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">animasjåvnåjt ja ietjá modellajt adnet gå tjielggi planehtaj ja máno labudimijt, ja tjielggit dárkkelit gåktu jábe ja mánnogaska dáhpáduvvi</p>
+<p type="listitem">subtsastit gåktu muhtem minerála ja bákteslája li dagádum, ja guoradallat muhtem slájajt ma lahkabirrusin gávnnuji</p>
+<p type="listitem">tjielggit dárkkelit muhtem energijagáldoj anov åvddåla ja dálla, ja tjoahkkit diedojt ja statistihkav iesjgeŋga gáldojs gåvådittjat ja dagástalátjit gåktu energijaadno soajttá vájkkudit birrasij bájkálattjat ja globála perspektijvan</p>
+<p type="listitem">tjielggit dárkkelit dálkádak moallánagáv, dåbddåt muhtem sivájt dálkádakrievddamijda ja guoradallat ja registrerit nievres dálkij båhtusijt</p>
+<p type="listitem">guoradallat fenomenajt tjanádum jiednaj, gullamij ja juhtsaj, váksjumijt dágástallat ja tjielggit dárkkelit gåktu jiedna máhttá bieljedibmen dahkat</p>
+<p type="listitem">gæhttjaladdat magnetismajn ja elektrisitehtajn ja tjielggit ja åvddånbuktet gæhttjaladdamij båhtusijt</p>
+<p type="listitem">gåvådit gássaj, låsjkudisáj, fássta ståffaj ja fásamålssomij guovdásj vuogijt partihkkalmodella baktu</p>
+<p type="listitem">tjielggit dárkkelit bágoj atoma ja molekyla gåktu ståffa li dagádum, ja gåktu ståffajt máhttá rievddadit</p>
+<p type="listitem">gæhttjaladdat duov dáv kjemalasj reaksjåvnåv ja gåvådit ma li daj dåbddomerka</p>
+</list><p type="title">Teknologija ja hábbmim</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">plánit, dahkat ja gæhttjalit mekánalasj ståhkusijt, ja tjielggit mekánalasj sirddema prinsihpajt</p>
+<p type="listitem">plánit, dahkat ja gæhttjalit avtagærddásasj gávnijt ma elektrihkalasj energijav adni, ja gárvvidum gávne åvdås reklamerit</p>
+<p type="listitem">gåvådit gávne iellemájgev ja dágástallat makta gávnne hiehpá guoddelis åvddånibmáj</p>
+</list><p type="title">Máhtudakmihto 10. jahkedáse maŋŋela</p>
+<p type="title" xml:lang="sma">Dutkeihta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">formulerit hypotesajt majt máhttá gæhttjalit, plánit ja tjadádit guoradallamav dajs ja dágástallat váksjumijt ja båhtusijt muhtem rapportan</p>
+<p type="listitem">viedtjat ja hiebadit luonndofágalasj dáhtájt, merustallat ja båhtusijt gráfalattjat åvddånbuktet</p>
+<p type="listitem">tjállet tevstajt ma tjielggiji ja argumenteriji aktan referánsaj guoskavasj gáldojda, árvustallat ietjas ja iehtjádij tevstaj kvalitehtav ja tevstajt dárkestit</p>
+<p type="listitem">tjielggit dárkkelit manen le ájnas gávnnat gåktu sivva ja vájkkudus aktan gulluji ja tjielggit dárkkelit manen argumenterim, vuosstemielakvuohta ja almodibme le ájnas luonndodiehtagin</p>
+<p type="listitem">identifiserit luonndofágalasj argumentajt, fáktá ja tjuottjodusá tevstajn ja grafihkan ma li avijsajn, brosjyrajn ja ietjá mediajn, ja sisanov lájttálisát árvustallat</p>
+<p type="listitem">tjuovvot sihkarvuoda dåjmajt ma li gåvådum HMS-rutijnajn ja risikoárvustallamijn</p>
+</list><p type="title">Ulmusj luondon</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">praktihkalasj oassálasstema baktu vuosedit ja tjielggit dárkkelit gåktu luondon bierggi</p>
+<p type="listitem">váksjut ja vaddet buojkulvisájt gåktu ulmutjij dåjma li muhtem luonndoguovlluj vájkkudam, guoradallat duon dán berustiddje juohkusij vuojnov vájkkudibmáj ja oajvvadit dåjmajt ma lulun luondov boahtte buolvajda bisodit</p>
+<p type="listitem">adnet sáme termajt gå tjielggi ietjas váksjumijt muohttaga ja fierda birra ja ságastallat manen máhtto muohttaga ja fierda birra le sierraláhkáj ájnas jåhtulagán ja árbbedábálasj æládusájn</p>
+</list><p type="title">Luondo valjesvuohta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">tjielggit dárkkelit evolusjåvnåteorija oajvveåsijt ja tjielggit observasjåvnåjt ma teorijav doarjju</p>
+<p type="listitem">gåvådit gåktu ielle- ja sjaddosella li dagádum ja tjielggit dárkkelit gåvvåsyntesa ja cellevuojŋŋama oajvveåsijt.</p>
+<p type="listitem">tjielggit dárkkelit sellejuohkemav ja genehtalasj variasjåvnåv ja árbev</p>
+<p type="listitem">tjielggit dárkkelit oajveåsijt teorijajs gåktu ednam rievddá ja le ájgij tjadá rievddam, ja dáj teorijaj vuodov</p>
+<p type="listitem">guoradallat ja registrerit biotalasj ja iehpebiotalasj faktåvråjt muhtem økosysteman lahkabirrasin ja tjielggit dárkkelit aktijvuodajt faktåvråj gaskan</p>
+</list><p type="title">Rumáj ja varresvuohta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">gåvådit nærvva- ja hormonsystemav ja gåktu da stivrriji rubmaha prosessajt</p>
+<p type="listitem">gåvådit oanegattjat åhkeåvddånimev ja gåktu riegádahttem dáhpáduvvá</p>
+<p type="listitem">formulerit ja árvvaladdat ássjijt tjanádum seksualitehttaj, seksuála giessemij, sjiervveidentitehttaj, rájáj mierredibmáj ja vieledibmáj, seksuála skihpudagájda, prevensjåvnåjda ja tsuovkkanibmáj</p>
+<p type="listitem">tjielggit gåktu ietjas iellemvuohke luluj varresvuohtaj vájkkudit, dan vuolen aj sæggodibme ja bårråmgássjelisvuoda, buohtastahttet diedojt iesjgeŋga gáldos, ja dágástallat gåktu máhttá hieredit varresvuoda vahágahttemijt</p>
+<p type="listitem">buojkuldahttet sáme ja ietjá álmmukmedisijnav ja dágástallat sieradusáv alternatijva medisijna ja skåvllåmedisijna gaskan</p>
+</list><p type="title">Fenomena ja ábnnasa</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">gåvådit universav ja teorijajt gåktu dat le åvddånam</p>
+<p type="listitem">tjielggit dárkkelit gåktu jábe sjaddi, ja manen biejvve ijájt bájttá ja manen la sjievnnjet dálvijt</p>
+<p type="listitem">guoradallat muhtem ássjev vuobmana guoradallamis, ja buohtastahttet ja åvddånbuktet diedojt duot dát gáldos</p>
+<p type="listitem">gåvådit vuodoábnnasij ja aktijvuodajt vuogijt periodesystema ano baktu</p>
+<p type="listitem">guoradallat muhtem árkkabiejve ábnnasij vuogijt ja dahkat álkkes merustallamijt løsnigij njárbbima gáktuj</p>
+<p type="listitem">guoradallat ja klassifiserit rájnna ábnnasijt ja ábnassegadusájt jus tjátjen njárbbiduvvi, makta buolli ja suvra ja básalasj vuogijt</p>
+<p type="listitem">plánit ja tjadádit gæhttjaladdamijt vuosedimreaksjåvnåj, ábnnasij sieradibme segadusájn ja amás ábnnasa analyjssa</p>
+<p type="listitem">guoradallat hydrokarbåvnåjt, alkoholajt, karboksylsyjrajt ja karbohydratajt, ábnnasijt ja buktet dahkamvuogij buojkulvisájt ja gåktu aneduvvi</p>
+<p type="listitem">tjielggit gåktu álggoulljo ja luonndogássa le sjaddam</p>
+<p type="listitem">adnet buojkuldagájt strávve, strávvefábmo, resistánssa, effekta ja induksjåvnnå tjielggitjit båhtusijt strávvebiráldagáj gæhttjaladdamijs</p>
+<p type="listitem">tjielggit gåktu máhttep elektralasj energijav buvtadit ådåstahtte ja iehpe-ådåstahtte energijagáldojs, ja dágástallat gåktu dá iesjgeŋga energibuvtadimvuoge birrasij vájkkudi</p>
+<p type="listitem">tjielggit buojkuldagájt fártta ja akselerásjåvnnå, mihttit stuorradagájt álkkes viehkkenævoj ja buktet buojkulvisájt gåktu fábmo le akselerásjåvnnåj tjanádum</p>
+<p type="listitem">gæhttjaladdat ja avtagærddásasj láhkáj merustallat bargov, fámov ja effektav</p>
+<p type="listitem">tjielggit gåktu jåhtulaksihkarvuodavædtsaga binnedi vahágijt vuorbedisvuodajn ja sårmijn</p>
+<p type="listitem">tjadádit gæhttjaladdamijt tjuovgaj, vuojnoj ja bájnoj, ja båhtusijt dárkkelit tjielggit</p>
+</list><p type="title">Teknologija ja hábbmim</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">åvddånahttet buktagijt gájbbádusmærrádusáj milta ja árvustallat buktagij funksjonalitehtav, adnoávkev ja iellemájgev guoddelis åvddånime gáktuj</p>
+<p type="listitem">gæhttjalit ja gåvådit vuogijt materiálajn ma buvtadimprosessan aneduvvi, ja árvustallat materialanov birrasa gáktuj</p>
+<p type="listitem">gåvådit elektråvnålasj guládallamsystemav, tjielggit gåktu diedo sáddijiddjes vuosstájválldáj sáddiduvvi, ja tjielggit buorep ja nievrep vájkkudusájt</p>
+</list><p type="title">Máhtudakmihto Jo1-oahppogárvedime oahppoprográmma maŋŋela</p>
+<p type="title" xml:lang="sma">Dutkeihta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">plánit ja tjadádit duov dáv guoradallamav gånnå variabelijt identifiseri, dáhtájt viedtji ja hiebadi ja rapportav tjálli gånnå aj le dágástallam mihttimiehpesihkarvuodas ja vejulasj boastovuodaj árvustallam</p>
+<p type="listitem">sieradit båhtusij ja tjuottjodusáj gaskan ja dágástallat metodaj kvalitehtav ja gåktu ietjas ja iehtjádij dáhtájt ja dålkkumijt åvddån buktá</p>
+<p type="listitem">árvvaladdat ájggeguovddelis luonndofágalasj ássjijt praktihkalasj guoradallamij jali systematiseridum diedoj baktu duot dát gáldos</p>
+<p type="listitem">adnet avtagærddásasj dáhtásimulerigijt jali animasjåvnåjt vuosedittjat ja tjielggitjit luonndofágalasj fenomenajt ja hypotesajt gæhttjalittjat</p>
+<p type="listitem">dágástallat sieradusájt ja avtalágásjvuodajt gåktu árbbediehto ja diedalasj diehto luondo birra ásaduvvá ja gaskostuvvá/vijddábut doalvoduvvá</p>
+</list><p type="title">Guoddelis åvddånibme</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">tjielggit guoddelis åvddånime buojkuldagáv</p>
+<p type="listitem">guoradallat ja gåvådit suksesjåvnnåprosessajt ekosysteman</p>
+<p type="listitem">kárttit ietjas gållådimválljimijt ja fágalattjat ja ehtalattjat argumenterit ietjas gållådimválljimij åvdås ma båhti viehkken guoddelis adnuj</p>
+<p type="listitem">tjielggit faktåvråjt ma populasjåvnå stuorrudagáv vájkkudi ja vaddet buojkulvisájt gåktu sjatto ja juhtusij iellem nuorttaguovlojn li rievddam</p>
+<p type="listitem">guoradallat bájkálasj ja globála rijdojt tjanádum birásássjijda ja háldadibmáj, ja árvvaladdat gåktu dá rijdo soajtti bájke ulmutjijda, sámijda ja ietjá iemeálmmugijda ja væráltsebrudahkaj vájkkudit</p>
+</list><p type="title">Biebbmo ja varresvuohta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">gåvådit ájnnasamos energijavadde biebbmoábnnasij kjemijalasj dåbddomerkajt ja vuodustit manen da li ájnnasa rubmahij</p>
+<p type="listitem">vaddet buojkulvisájt vitamijnajs, minerálajs ja minerállaábnnasijs majt rumáj dárbaj, ja gåktu máhttá målsudahkes biebmojt bårråt</p>
+<p type="listitem">avtagærddásattjat kjemijalattjat vuosedit biebbmoábnnasijt biebmogálvojn ja båhtusijt tjielggit</p>
+<p type="listitem">tjielggit dárkkelit oajvveåsijt rubmaha energijavadde biebbmoábnnasij birra bårråma, gilvvema ja adnuj válldema gáktuj</p>
+<p type="listitem">tjielggit muhtem oajvveåsijt kosmehtalasj buktagijn ja dahkat dakkir buktagav sierra gálvvotjielggidusájn</p>
+<p type="listitem">árvvaladdat gatjálvisájt ma guosski sæggodibmáj, bårråmgássjelisvuoda ja hárjjidallama gáktuj, ja gåktu iellemvuohke varresvuohtaj vájkkut</p>
+</list><p type="title" xml:lang="vep">Bioteknologija</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">tjielggit dárkkelit proteinsyntesa genehtalasj kodav ja oajvveåsijt ja vatte buojkulvisájt gåktu árbbe ja birás aktan doajmmi</p>
+<p type="listitem">tjielggit buojkuldagájt massta ja genmodifiserim ja vaddet buojkulvisájt gåktu bioteknologija aneduvvá sjattoj ja iellij vuogijt rievdatjit</p>
+<p type="listitem">vaddet bajeltgåvåv gåktu bioteknologija duon dán láhkáj medisijnalattjat aneduvvá ja dágástallat vejulasjvuodajt ja hásstalusájt dákkir anojn</p>
+<p type="listitem">buohtastahttet argumentajt bioteknologija ano birra ja árvvaladdat fágalasj ja ehtalasj gássjelisvuodajt ma li dási tjanádum</p>
+</list><p type="title">Suonjardibme ja radioaktivitehtta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">tjielggit gåktu guovsagis sjaddá, ja buktet buojkulvisájt gåktu Vuodna le læhkám ja ájn le guovsagisdutkamin åvdemussan</p>
+<p type="listitem">tjielggit man ájnas ozongierdde le biejve suonjardibmáj</p>
+<p type="listitem">tjielggit mij sjaddadimviessovájkkudus le, ja tjielggit gåktu ulmutjij dåjma ilme energijabalansav rievddi</p>
+<p type="listitem">tjielggit muhtem vejulasj vájkkudusájt lasedim sjaddadimviessovájkkudusás arktisin ja vuolládagájn ja árvvaladdat muhtem vejulasj dálkádakdåjmav</p>
+<p type="listitem">tjadádit gæhttjaladdamijt radioaktivitehtajn, biellemuddoájgijn ja duogásjsuonjardimijn, fenomenajt tjielggit ja álkkes láhkáj merustallat</p>
+<p type="listitem">gåvådit iesjgeŋgalágásj ioniserijiddje suonjardimij dåbddomerkajt ja buojkuldahttet gåktu dákkir suonjardibme aneduvvá teknihkan ja medisijnan</p>
+<p type="listitem">tjielggit dárkkelit gåktu elektromagnehtalasj suonjardibme vuobmanin máhttá dålkkuduvvat ja diedojt vaddet vuobmana birra</p>
+</list><p type="title">Boahtteájge energija</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">tjadádit gæhttjaladdamijt biejvvesellaj, biejvvetjoahkkárij ja liekkaspumpoj ja tjielggit gåktu doajmmi ja álkkes láhkáj merustallat vájkkudusmierev</p>
+<p type="listitem">tjielggit ma redoksreaksjvnå li, gæhttjaladdat boalldemijn, galvana elementajn ja elektrolysajn ja båhtusijt tjielggit</p>
+<p type="listitem">gåvådit gåktu muhtem dábálasj batterijaj ja boalldemsellaj doajmmi ja aneduvvi</p>
+<p type="listitem">tjielggit gåktu biomasse máhttá energijagálldon aneduvvat</p>
+<p type="listitem">tjielggit sieradusájt energijagáldoj ja energijaguoddij gaskan ja subtsastit muhtem vejulasj energijaguodde birra boahtteájggáj</p>
+</list><p type="title">Máhtudakmihto Jo1-viddnofágalasj oahppoprográmma maŋŋela</p>
+<p type="title" xml:lang="sma">Dutkeihta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">plánit ja tjadádit duov dáv guoradallamav gånnå variabelijt identifiseri, dáhtájt viedtji ja hiebadi ja rapportav tjálli gånnå aj le dágástallam mihttimiehpesihkarvuodas ja vejulasj boastovuodaj árvustallam</p>
+</list><p type="title">Luondo valjesvuohta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">tjielggit guoddelis åvddånime buojkuldagáv</p>
+<p type="listitem">kárttit ietjas gållådimválljimijt ja fágalattjat ja ehtalattjat argumenterit ietjas gållådimválljimij åvdås ma båhti viehkken guoddelis adnuj</p>
+<p type="listitem">tjielggit faktåvråjt ma populasjåvnå stuorrudagáv vájkkudi ja vaddet buojkulvisájt gåktu sjatto ja juhtusij iellem nuorttaguovlojn li rievddam</p>
+<p type="listitem">guoradallat bájkálasj ja globála rijdojt tjanádum birásássjijda ja háldadibmáj, ja árvvaladdat gåktu dá rijdo soajtti bájke ulmutjijda, sámijda ja ietjá iemeálmmugijda ja væráltsebrudahkaj vájkkudit</p>
+</list><p type="title">Rumáj ja varresvuohta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">gåvådit ájnnasamos energijavadde biebbmoábnnasij kjemijalasj dåbddomerkajt ja vuodustit manen da li ájnnasa rubmahij</p>
+<p type="listitem">vaddet buojkulvisájt vitamijnajs, minerálajs ja minerállaábnnasijs majt rumáj dárbaj, ja gåktu máhttá målsudahkes biebmojt bårråt</p>
+<p type="listitem">avtagærddásattjat kjemijalattjat vuosedit biebbmoábnnasijt biebmogálvojn ja båhtusijt tjielggit</p>
+<p type="listitem">tjielggit dárkkelit oajvveåsijt rubmaha energijavadde biebbmoábnnasij birra bårråma, gilvvema ja adnuj válldema gáktuj</p>
+<p type="listitem">tjielggit muhtem oajvveåsijt kosmehtalasj buktagijn ja dahkat dakkir buktagav sierra gálvvotjielggidusájn</p>
+<p type="listitem">árvvaladdat gatjálvisájt ma guosski sæggodibmáj, bårråmgássjelisvuoda ja hárjjidallama gáktuj, ja gåktu iellemvuohke varresvuohtaj vájkkut</p>
+</list><p type="title">Boahtteájge energija</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">tjadádit gæhttjaladdamijt biejvvesellaj, biejvvetjoahkkárij ja liekkaspumpoj ja tjielggit gåktu doajmmi ja álkkes láhkáj merustallat vájkkudusmierev</p>
+<p type="listitem">tjielggit gåktu biomasse máhttá energijagálldon aneduvvat</p>
+</list><p type="title" xml:lang="nob">Kompetansemål etter Vg3 - påbygging til generell studiekompetanse</p>
+<p type="title" xml:lang="sma">Dutkeihta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">sieradit båhtusij ja tjuottjodusáj gaskan ja dágástallat metodaj kvalitehtav ja gåktu ietjas ja iehtjádij dáhtájt ja dålkkumijt åvddån buktá</p>
+<p type="listitem">árvvaladdat ájggeguovddelis luonndofágalasj ássjijt praktihkalasj guoradallamij jali systematiseridum diedoj baktu duot dát gáldos</p>
+<p type="listitem">adnet avtagærddásasj dáhtásimulerigijt jali animasjåvnåjt vuosedittjat ja tjielggitjit luonndofágalasj fenomenajt ja hypotesajt gæhttjalittjat</p>
+<p type="listitem">dágástallat sieradusájt ja avtalágásjvuodajt gåktu árbbediehto ja diedalasj diehto luondo birra ásaduvvá ja gaskostuvvá/vijddábut doalvoduvvá</p>
+</list><p type="title">Luondo valjesvuohta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">guoradallat ja gåvådit suksesjåvnnåprosessajt ekosysteman</p>
+</list><p type="title">Teknologija ja hábbmim</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">tjielggit dárkkelit proteinsyntesa genehtalasj kodav ja oajvveåsijt ja vatte buojkulvisájt gåktu árbbe ja birás aktan doajmmi</p>
+<p type="listitem">tjielggit buojkuldagájt massta ja genmodifiserim ja vaddet buojkulvisájt gåktu bioteknologija aneduvvá sjattoj ja iellij vuogijt rievdatjit</p>
+<p type="listitem">vaddet bajeltgåvåv gåktu bioteknologija duon dán láhkáj medisijnalattjat aneduvvá ja dágástallat vejulasjvuodajt ja hásstalusájt dákkir anojn</p>
+<p type="listitem">buohtastahttet argumentajt bioteknologija ano birra ja árvvaladdat fágalasj ja ehtalasj gássjelisvuodajt ma li dási tjanádum</p>
+</list><p type="title">Suonjardibme ja radioaktivitehtta</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">tjielggit gåktu guovsagis sjaddá, ja buktet buojkulvisájt gåktu Vuodna le læhkám ja ájn le guovsagisdutkamin åvdemussan</p>
+<p type="listitem">tjielggit man ájnas ozongierdde le biejve suonjardibmáj</p>
+<p type="listitem">tjielggit mij sjaddadimviessovájkkudus le, ja tjielggit gåktu ulmutjij dåjma ilme energijabalansav rievddi</p>
+<p type="listitem">tjielggit muhtem vejulasj vájkkudusájt lasedim sjaddadimviessovájkkudusás arktisin ja vuolládagájn ja árvvaladdat muhtem vejulasj dálkádakdåjmav</p>
+<p type="listitem">tjadádit gæhttjaladdamijt radioaktivitehtajn, biellemuddoájgijn ja duogásjsuonjardimijn, fenomenajt tjielggit ja álkkes láhkáj merustallat</p>
+<p type="listitem">gåvådit iesjgeŋgalágásj ioniserijiddje suonjardimij dåbddomerkajt ja buojkuldahttet gåktu dákkir suonjardibme aneduvvá teknihkan ja medisijnan</p>
+<p type="listitem">tjielggit dárkkelit gåktu elektromagnehtalasj suonjardibme vuobmanin máhttá dålkkuduvvat ja diedojt vaddet vuobmana birra</p>
+</list><p type="title">Boahtteájge energija</p>
+<p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
+<list><p type="listitem">tjielggit ma redoksreaksjvnå li, gæhttjaladdat boalldemijn, galvana elementajn ja elektrolysajn ja båhtusijt tjielggit</p>
+<p type="listitem">gåvådit gåktu muhtem dábálasj batterijaj ja boalldemsellaj doajmmi ja aneduvvi</p>
+<p type="listitem">tjielggit gåktu biomasse máhttá energijagálldon aneduvvat</p>
+</list><p type="title">Árvustallam fágan</p>
+<p>Loahppaárvustallama mærrádusá:</p>
+<p><em type="bold">Åbbålasj árvustallam </em></p>
+<p><em type="bold">Jahkedásse </em></p>
+<p><em type="bold">Vuohke </em></p>
+<p>10. jahkedásse</p>
+<p>Oahppe galggi oadtjot avtav åbbålasj karakterav.</p>
+<p>Jo1 viddnofágalasj oahppoprográmma</p>
+<p>Jo1 oahppogárvedime oahppoprográmma</p>
+<p>Jo3 lasádus dábálasj oahppomáhtudahkaj</p>
+<p>Oahppe galggi oadtjot avtav åbbålasj karakterav.</p>
+<p><em type="bold">Eksámen – oahppe </em></p>
+<p><em type="bold">Jahkdásse </em></p>
+<p><em type="bold">Vuohke </em></p>
+<p>10. jahkedásse</p>
+<p>Oahppe soajtti vuorbbáduvvat njálmálasj eksábmaj. Eksáman galggá praktihkalasj oasse. Njálmálasj eksámen bájkálattjat dagáduvvá ja sensureriduvvá.</p>
+<p>Jo1 viddnofágalasj oahppoprográmma</p>
+<p>Jo1 oahppogárvedime oahppoprográmma</p>
+<p>Oahppe soajtti vuorbbáduvvat njálmálasj eksábmaj manna le praktihkalasj oasse. Njálmálasj eksámen bájkálattjat dagáduvvá ja sensureriduvvá.</p>
+<p>Jo3 lasádus dábálasj oahppomáhtudahkaj</p>
+<p>Oahppe soajtti vuorbbáduvvat njálmálasj eksábmaj gånnå le praktihkalasj oasse. Njálmálasj eksámen bájkálattjat dagáduvvá ja sensureriduvvá. Eksábma sisadná dåssju fágav lasádus dábálasj oahppomáhtudahkaj (84 tijma).</p>
+<p><em type="bold">Eksámen – privatista </em></p>
+<p><em type="bold">Jahkedásse </em></p>
+<p><em type="bold">Vuohke </em></p>
+<p>10. jahkedásse</p>
+<p>Gehtja doajmme årnigav ållessjattugij vuodoskåvllååhpadusá gáktuj</p>
+<p>Jo1 viddnofágalasj oahppoprográmma</p>
+<p>Privatista galggi tjadádit njálmálasj eksámav gånnå le praktihkalasj oasse. Njálmálasj eksámen bájkálattjat dagáduvvá ja sensureriduvvá.</p>
+<p>Jo1 oahppogárvedime oahppoprográmma</p>
+<p>Privatista galggi tjadádit njálmálasj eksámav gånnå le praktihkalasj oasse. Njálmálasj eksámen bájkálattjat dagáduvvá ja sensureriduvvá.</p>
+<p>Jo3 lasádus dábálasj oahppomáhtudahkaj</p>
+<p>Privatista galggi tjadádit njálmálasj eksámav gånnå le praktihkalasj oasse. Njálmálasj eksábma bájkálattjat dagáduvvá ja sensureriduvvá. Eksábma sisadná dåssju fágav lasádus dábálasj oahppomáhtudahkaj (84 tijma).</p>
+<p>Árvustallama åbbålasj mærrádusá li åhpaduslága njuolgadustjállagijn.</p>
+</body></document>

@@ -1,42 +1,10 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Sámegiella ij ájn almmulattjat gullu jali vuojnnu</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>283</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/s-megiella-ij-jn-almmulattjat-gullu-jali-vuojnnu.4177</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Sámegiella ij ájn almmulattjat gullu jali vuojnnu</p>
-    <p>Divtasvuona suohkanoajvve Kurt Allan Nilsen la gåhttjum Sámedikkev tjåhkanibmáj snjuktjamáno 14. biejve ságastittjat giellaháldadusguovlo birra. Norsk kortversjon</p>
-    <p>Juska Divtasvuona suohkan sámelága vuolláj bådij giellaháldadusguovllon ådåjakmáno vuostasj biejve rájes, ja oajválattja li juo mælggadav dáv diehtám, ij la huoman udnásj bæjvváj mige dahpáduvvam dan gáktuj. Divtasvuona suohkanstivrra mierredij javlaj åvddåla galggin juohkusav nammadit mij dájna ássjijn galgaj barggagoahtet, valla dan juohkusij ælla ájn aktak nammadum, ja ij la ga dan diehti doajmmagoahtam.</p>
-    <p>Juska ij lim sierra ássjen, galgaj huoman suohkanoajvve dán ássje birra giehttot ævtásj suohkanstivran, ja gæhttjalit oadtjot suohkanstivraájrrasijt juojddá mierredit. –Muv mielas vierttiji juogosoajve suohkanstivra belludagájs dán juohkusij sæbrrat, ja dát juogos de galggá daj ássjij barggagoahtet mij guosská giellaháldadusguovlluj, javllá suohkanoajvve Kurt Allan Nilsen biejvet åvddåla suohkanstivratjåhkanime Divtasvuonan. Dan diehti gå dán ávijsa sámebielle prienntiduváj åvddål ævtásj suohkanstivratjåhkanime, ep la oadtjum majdik dat tjåhkanimes dán bælláj tjáledum.</p>
-    <p>Suohkanoajvve diedet Divtasvuona suohkan la Sámedikkev tjåhkanibmáj gåhttjum snjuktjamáno 14. biejve. Dan tjåhkanimen galggá suohkan diedojt ja rádijt oadtjot.</p>
-    <p>
-      <em type="italic">Ij ga fylkkasuohkan </em>
-    </p>
-    <p>Ij la ga mige Nordlánda fylkkasuohkana bieles dáhpáduvvam ietján gå mierredam lij galggi giellakonsulentav åhtsåt, valla ælla ájn háhppidam virgev almmudit. –Mij lip gárvedime bargov gå Divtasvuodna l sáme giellaháldadusguovlluj sæbrram, ja galggap giellakonsulentav åhtsåt, valla ep la ájn mierredam gåsi galggap dav virgev biedjat, juogu dal fylkkaoajvvestádaj jali Árranij Ájluoktaj, giehttu fylkkaráde Geir Knutson guhti ij ga diede goassa virgge almmuduvvá. <em type="italic"> </em>Fylkesråd Geir Knutson  </p>
-    <p>Ij ga fylkkasuohkan ájn diede gåktu galggi dájna bargujn álgget. –Dav de hæhttup aktisattjat åvddånahttet, ja gæhttjalit tjoavddusijt gávnnat. Ja de vierttip aj lagábut gæhttjat mij la ájn giellaháldadusguovllo ja gåktu galggá ajtu doajmmat, javllá Knutson.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Sámegiella ij ájn almmulattjat gullu jali vuojnnu</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>283</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/s-megiella-ij-jn-almmulattjat-gullu-jali-vuojnnu.4177</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Sámegiella ij ájn almmulattjat gullu jali vuojnnu</p>
+<p>Divtasvuona suohkanoajvve Kurt Allan Nilsen la gåhttjum Sámedikkev tjåhkanibmáj snjuktjamáno 14. biejve ságastittjat giellaháldadusguovlo birra. Norsk kortversjon</p>
+<p>Juska Divtasvuona suohkan sámelága vuolláj bådij giellaháldadusguovllon ådåjakmáno vuostasj biejve rájes, ja oajválattja li juo mælggadav dáv diehtám, ij la huoman udnásj bæjvváj mige dahpáduvvam dan gáktuj. Divtasvuona suohkanstivrra mierredij javlaj åvddåla galggin juohkusav nammadit mij dájna ássjijn galgaj barggagoahtet, valla dan juohkusij ælla ájn aktak nammadum, ja ij la ga dan diehti doajmmagoahtam.</p>
+<p>Juska ij lim sierra ássjen, galgaj huoman suohkanoajvve dán ássje birra giehttot ævtásj suohkanstivran, ja gæhttjalit oadtjot suohkanstivraájrrasijt juojddá mierredit. –Muv mielas vierttiji juogosoajve suohkanstivra belludagájs dán juohkusij sæbrrat, ja dát juogos de galggá daj ássjij barggagoahtet mij guosská giellaháldadusguovlluj, javllá suohkanoajvve Kurt Allan Nilsen biejvet åvddåla suohkanstivratjåhkanime Divtasvuonan. Dan diehti gå dán ávijsa sámebielle prienntiduváj åvddål ævtásj suohkanstivratjåhkanime, ep la oadtjum majdik dat tjåhkanimes dán bælláj tjáledum.</p>
+<p>Suohkanoajvve diedet Divtasvuona suohkan la Sámedikkev tjåhkanibmáj gåhttjum snjuktjamáno 14. biejve. Dan tjåhkanimen galggá suohkan diedojt ja rádijt oadtjot.</p>
+<p><em type="italic">Ij ga fylkkasuohkan </em></p>
+<p>Ij la ga mige Nordlánda fylkkasuohkana bieles dáhpáduvvam ietján gå mierredam lij galggi giellakonsulentav åhtsåt, valla ælla ájn háhppidam virgev almmudit. –Mij lip gárvedime bargov gå Divtasvuodna l sáme giellaháldadusguovlluj sæbrram, ja galggap giellakonsulentav åhtsåt, valla ep la ájn mierredam gåsi galggap dav virgev biedjat, juogu dal fylkkaoajvvestádaj jali Árranij Ájluoktaj, giehttu fylkkaráde Geir Knutson guhti ij ga diede goassa virgge almmuduvvá. <em type="italic"> </em>Fylkesråd Geir Knutson  </p>
+<p>Ij ga fylkkasuohkan ájn diede gåktu galggi dájna bargujn álgget. –Dav de hæhttup aktisattjat åvddånahttet, ja gæhttjalit tjoavddusijt gávnnat. Ja de vierttip aj lagábut gæhttjat mij la ájn giellaháldadusguovllo ja gåktu galggá ajtu doajmmat, javllá Knutson.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

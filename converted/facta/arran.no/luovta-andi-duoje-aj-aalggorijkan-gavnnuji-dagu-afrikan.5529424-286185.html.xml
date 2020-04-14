@@ -1,28 +1,6 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>49</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.arran.no/luovta-andi-duoje-aj-aalggorijkan-gavnnuji-dagu-afrikan.5529424-286185.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Luovta-Ándi duoje aj ålggorijkan gávnnuji – dagu Afrikan - Árran - julevsáme guovdásj/lulesamisk senter</p>
-    <p type="title" xml:lang="koi">04.07.2014</p>
-    <p type="title">Luovta-Ándi duoje aj ålggorijkan gávnnuji – dagu Afrikan</p>
-    <p>NRK Sapmi: Uddni rabáduvvá sierralágásj duodjevuosádus. Luovta-Ánndi le dajs åvdemusájs Divtasvuonan guhti vuobddemijda duodjuhahttjáj. Foto: Harrieth Aira / NRK.</p>
-    <p xml:lang="nno">Les mer på NRK Sapmi <em type="italic">HER </em>. </p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>49</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/luovta-andi-duoje-aj-aalggorijkan-gavnnuji-dagu-afrikan.5529424-286185.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Luovta-Ándi duoje aj ålggorijkan gávnnuji – dagu Afrikan - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<p type="title" xml:lang="vep">04.07.2014</p>
+<p type="title">Luovta-Ándi duoje aj ålggorijkan gávnnuji – dagu Afrikan</p>
+<p>NRK Sapmi: Uddni rabáduvvá sierralágásj duodjevuosádus. Luovta-Ánndi le dajs åvdemusájs Divtasvuonan guhti vuobddemijda duodjuhahttjáj. Foto: Harrieth Aira / NRK.</p>
+<p xml:lang="nno">Les mer på NRK Sapmi <em type="italic">HER </em>. </p>
+</body></document>

@@ -1,54 +1,17 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Rádjárahte Divtasvuonas Jiellevárráj: Stuorra ja masjvalis prosjækta</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/>
-    </author>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>518</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/r-dj-rahte-divtasvuonas-jiellev-rr-j-stuorra-ja-masjvalis-prosjakta.4020</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Gåvvå: Cathrine Amundsen</p>
-    <p type="title">Rádjárahte Divtasvuonas Jiellevárráj: Stuorra ja masjvalis prosjækta</p>
-    <p>Færjov Skutvika ja Spålavuole gaskan bisodit le ájnas jus ådå rádjárahte galggá ásaduvvat Jielleváre ja Divtasvuona gaskan. Da guokta ráddnásuohkana libá dal ruvva gærggasa vijddásasj guoradallamijn, ja vierttiba ådåjagij maññela mierredit jus stuorprosjevtajn galggaba vijdábut barggat.</p>
-    <p>- Dát le stuorra ja masjvalis prosjækta, ja dan diehti lip álgon dættodam gåbdes guoradallamav, subtsas Stig Eriksen Divtasvuona suohkanin. Jáhkedahtte álggoguoradallam låhpaduvvá jagen 2008, ådåjakmáno jali guovvamáno álgon. Dan maññela hæhttuba Jiellevárre ja Divtasvuodna båhtusijda gæhttjat ja prosjevtav suohkanstivrajda åvdedit váj politihkkára máhtti prosjevta boahtteájgev mierredit.</p>
-    <p>- Jus Divtasvuodna ja Jiellevárre galggaba dájna prosjevtajn vuorbástuvvat de le dárbbo aktisasj strategipládnaj mierrediddje ja juollodiddje oajválattjajda. Ássje nannijdamdiehti aktisasjbarggo ráddnásuohkanij stuoráp dættov dán bargon oadtju, javllá Eriksen.</p>
-    <p>Narvik-viddnudahka AT Consult, mij la rahtebiggimav guoradallam, tjårggi vuona bielen la sieldes gássjelis topografija, gånnå guhkep guhkkudagájn ij la máhttelis <span type="quote">“biejven”</span> rahtev biggit. Viddnudahka le gætjájdallam guokta oajvvemáhttelisvuoda vuona bielen, goappátja guovtijn vuolep máhttelisvuodaj, ja li gæhttjam rijkagasskasasj rahtev aktisasjvuodan E6’ajn færjo dagi <span type="quote">“4 råvij”</span> milta. Dát trasea vássá Tjårov mij rahtesuorren daj guokta prosjevtaj gaskan sjaddá. Vuostasj oajvvemáhttelisvuodan 6,5 km rahte Tjåros Rávnnuj biggiduvvá, gånnå rahte tunella sisi manná, ja ihtá esski svieriga bielen – dåssju oanes åsijn <span type="quote">“biejven”</span>. Ietjá máhttelisvuohta le jus tunælla ihtá Tjoadnejávre nuorttalijbielen Vuonan. Nuppen oajvvemáhttelisvuodan sæmmi rahtev Tjåros Rávnnuj tjuovvu, valla dassta vijdábut Rudnávuonav gitta Utsvuodnaj tjuovvu, ja tunella sisi Ájttetjårån. Dánna le aj sáhka tunellajn gitta svieriga bælláj, jali ihkap Tjoadnejávrráj. Divrrasabbo le guhka tunellajt bállet, valla navti rahte guhkebujt dálvijt rahpasin bissu, miejnni AT Consult, mij la gålojt 1-1,3 milliárdajda sulástallam, dan 25 km guhka rahteprosjæktaj Vuonabielen.</p>
-    <p>Jielleváre suohkan Norrbottenin ja Divtasvuona suohkan Nordlandan libá ráddnásuohkana guhka aktisasj histåvråjn. Sierraláhkáj guosská dát sáme álmmugi gudi dáj guovlojn li viessum ja barggam, ja gudi ælla rijkaj rájájt berustam. Rádjárahte Divtasvuona ja Jielleváre gaskan <span type="quote">“joarkká”</span> válkkamijt ma li moadda tjuohte jage vuorrasa, ulmutjij ja kultuvraj gaskan rájá guovten bielen</p>
-    <p>Sierraláhkáj Jielleváre suohkanin le boahttsuæládus árbbedábálasj ja ájnas vuodoæládus bájkálasj ekonomijaj. Æládus ij la vuojga mávsulvis, ja dan diehti ådå åvddånahttemmáhttelisvuoda åtsåduvvi, duola dagu boahttsuæládusáv ållåsin dahkat aktan ietjá æládusáj. Guoradallama li gæhttjalam vuosedit makkir máhttelisvuodajt rádjárahte sáme æládusájda ja sáme semasvuohtaj vaddá.</p>
-    <p>Transportutvikling AS árvustallá stuorámus vuobddemvejulasjvuohda li guolástus- ja merraæládussuorgen, lagosbájkijn ja muhtem mærráj aj Lufåhtan. Merraæládusnjuovadagájda Stájgon ja Hábmerin ja Tysfjord Marine Holding AS’a ja Br.Hvedinga jáddibiebbmamij ja njuovadahkaj sjaddá rádjárahte viehka ájnas ålggorijkkavuobddema hárráj. Rahte iesj soajttá ienep trafihkav doalvvu ja navti ådå ásadimijt suohkanij buktá.</p>
-    <p>Ådå rádjárahte márnánijt ja sjattov guovlo mannoæládussaj buktá, sierraláhkáj gå máhttá merra- ja sisednamturismav aktij tjadnat. Divtasvuonan ja ráddnásuohkanijn li luondo bieles máhttelisvuoda turistmagnehttan sjaddat jus ressursa vuobddemij ja organisermij vatteduvvi, guovllolattjat ja aj aktisasjbarggon suohkanij ja oassálasstij svieriga bielen.</p>
-    <p>Dán aktijvuodajn le viehka ájnas færjjo Spålavuole ja Skutvika gaskan dálásj frekvensajn bisoduvvá, gálvvo- ja aj tjuovvojsuvddemijn. Ájnas le aj færjjodahkes E6’av Divtasvuona tjadá ásadit. Ihkap le jergalasj dájt infrastruktuvrraåsijt ådå rádjárahtijn tjanádit, váj nubbe nuppev nannidi.</p>
-    <p xml:lang="nob">Tæksta: Kitty Skapalen/Børge Strandskog</p>
-    <p>Jårggålibme: Idar Kintel</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Rádjárahte Divtasvuonas Jiellevárráj: Stuorra ja masjvalis prosjækta"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Rádjárahte Divtasvuonas Jiellevárráj: Stuorra ja masjvalis prosjækta</title><genre code="news"/><author><person firstname="Børge" lastname="Strandskog" sex="m" born="" nationality="nor"/></author><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><person firstname="Idar" lastname="Kintel" sex="m" born="1989" nationality="nor"/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>518</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/r-dj-rahte-divtasvuonas-jiellev-rr-j-stuorra-ja-masjvalis-prosjakta.4020</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Gåvvå: Cathrine Amundsen</p>
+<p type="title">Rádjárahte Divtasvuonas Jiellevárráj: Stuorra ja masjvalis prosjækta</p>
+<p>Færjov Skutvika ja Spålavuole gaskan bisodit le ájnas jus ådå rádjárahte galggá ásaduvvat Jielleváre ja Divtasvuona gaskan. Da guokta ráddnásuohkana libá dal ruvva gærggasa vijddásasj guoradallamijn, ja vierttiba ådåjagij maññela mierredit jus stuorprosjevtajn galggaba vijdábut barggat.</p>
+<p>- Dát le stuorra ja masjvalis prosjækta, ja dan diehti lip álgon dættodam gåbdes guoradallamav, subtsas Stig Eriksen Divtasvuona suohkanin. Jáhkedahtte álggoguoradallam låhpaduvvá jagen 2008, ådåjakmáno jali guovvamáno álgon. Dan maññela hæhttuba Jiellevárre ja Divtasvuodna båhtusijda gæhttjat ja prosjevtav suohkanstivrajda åvdedit váj politihkkára máhtti prosjevta boahtteájgev mierredit.</p>
+<p>- Jus Divtasvuodna ja Jiellevárre galggaba dájna prosjevtajn vuorbástuvvat de le dárbbo aktisasj strategipládnaj mierrediddje ja juollodiddje oajválattjajda. Ássje nannijdamdiehti aktisasjbarggo ráddnásuohkanij stuoráp dættov dán bargon oadtju, javllá Eriksen.</p>
+<p>Narvik-viddnudahka AT Consult, mij la rahtebiggimav guoradallam, tjårggi vuona bielen la sieldes gássjelis topografija, gånnå guhkep guhkkudagájn ij la máhttelis <span type="quote">“biejven”</span> rahtev biggit. Viddnudahka le gætjájdallam guokta oajvvemáhttelisvuoda vuona bielen, goappátja guovtijn vuolep máhttelisvuodaj, ja li gæhttjam rijkagasskasasj rahtev aktisasjvuodan E6’ajn færjo dagi <span type="quote">“4 råvij”</span> milta. Dát trasea vássá Tjårov mij rahtesuorren daj guokta prosjevtaj gaskan sjaddá. Vuostasj oajvvemáhttelisvuodan 6,5 km rahte Tjåros Rávnnuj biggiduvvá, gånnå rahte tunella sisi manná, ja ihtá esski svieriga bielen – dåssju oanes åsijn <span type="quote">“biejven”</span>. Ietjá máhttelisvuohta le jus tunælla ihtá Tjoadnejávre nuorttalijbielen Vuonan. Nuppen oajvvemáhttelisvuodan sæmmi rahtev Tjåros Rávnnuj tjuovvu, valla dassta vijdábut Rudnávuonav gitta Utsvuodnaj tjuovvu, ja tunella sisi Ájttetjårån. Dánna le aj sáhka tunellajn gitta svieriga bælláj, jali ihkap Tjoadnejávrráj. Divrrasabbo le guhka tunellajt bállet, valla navti rahte guhkebujt dálvijt rahpasin bissu, miejnni AT Consult, mij la gålojt 1-1,3 milliárdajda sulástallam, dan 25 km guhka rahteprosjæktaj Vuonabielen.</p>
+<p>Jielleváre suohkan Norrbottenin ja Divtasvuona suohkan Nordlandan libá ráddnásuohkana guhka aktisasj histåvråjn. Sierraláhkáj guosská dát sáme álmmugi gudi dáj guovlojn li viessum ja barggam, ja gudi ælla rijkaj rájájt berustam. Rádjárahte Divtasvuona ja Jielleváre gaskan <span type="quote">“joarkká”</span> válkkamijt ma li moadda tjuohte jage vuorrasa, ulmutjij ja kultuvraj gaskan rájá guovten bielen</p>
+<p>Sierraláhkáj Jielleváre suohkanin le boahttsuæládus árbbedábálasj ja ájnas vuodoæládus bájkálasj ekonomijaj. Æládus ij la vuojga mávsulvis, ja dan diehti ådå åvddånahttemmáhttelisvuoda åtsåduvvi, duola dagu boahttsuæládusáv ållåsin dahkat aktan ietjá æládusáj. Guoradallama li gæhttjalam vuosedit makkir máhttelisvuodajt rádjárahte sáme æládusájda ja sáme semasvuohtaj vaddá.</p>
+<p>Transportutvikling AS árvustallá stuorámus vuobddemvejulasjvuohda li guolástus- ja merraæládussuorgen, lagosbájkijn ja muhtem mærráj aj Lufåhtan. Merraæládusnjuovadagájda Stájgon ja Hábmerin ja Tysfjord Marine Holding AS’a ja Br.Hvedinga jáddibiebbmamij ja njuovadahkaj sjaddá rádjárahte viehka ájnas ålggorijkkavuobddema hárráj. Rahte iesj soajttá ienep trafihkav doalvvu ja navti ådå ásadimijt suohkanij buktá.</p>
+<p>Ådå rádjárahte márnánijt ja sjattov guovlo mannoæládussaj buktá, sierraláhkáj gå máhttá merra- ja sisednamturismav aktij tjadnat. Divtasvuonan ja ráddnásuohkanijn li luondo bieles máhttelisvuoda turistmagnehttan sjaddat jus ressursa vuobddemij ja organisermij vatteduvvi, guovllolattjat ja aj aktisasjbarggon suohkanij ja oassálasstij svieriga bielen.</p>
+<p>Dán aktijvuodajn le viehka ájnas færjjo Spålavuole ja Skutvika gaskan dálásj frekvensajn bisoduvvá, gálvvo- ja aj tjuovvojsuvddemijn. Ájnas le aj færjjodahkes E6’av Divtasvuona tjadá ásadit. Ihkap le jergalasj dájt infrastruktuvrraåsijt ådå rádjárahtijn tjanádit, váj nubbe nuppev nannidi.</p>
+<p xml:lang="nob">Tæksta: Kitty Skapalen/Børge Strandskog</p>
+<p>Jårggålibme: Idar Kintel</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Rádjárahte Divtasvuonas Jiellevárráj: Stuorra ja masjvalis prosjækta"</span> på Facebook</p>
+</body></document>

@@ -1,51 +1,21 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>389</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20andrespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Samisk-som-andrespraak/Samegiella-nubbengiellan-samegiella-2-ja-samegiella-3/Hoyremeny-toppniva/Forklaring-til-veiledningen/index.html</origFileName>
-    <parallel_text xml:lang="nob" location="1_forklaring-til-veiledningen.html"/>
-    <parallel_text xml:lang="sma" location="1_forklaring-til-veiledningen.html"/>
-    <parallel_text xml:lang="sme" location="1_forklaring-til-veiledningen.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Tjielggidus bagádallamij</p>
-    <p type="title">Tjielggidus bagádallamij</p>
-    <p xml:lang="nob">Hovedinnhold</p>
-    <p>
-      <em type="bold">Bagádallama ja buojkulvisá gå barggat Oahppoplánajn- sámegiella nubbengiellan. </em>
-    </p>
-    <p>Oahppoplána máhtudakmihto le lågev dássáj juogeduvvam. Bagádallam vuojnnusij buktá muhtem máhtudakmihtojt ja vaddá buojkulvisájt gåktu oahppamdåjmaj, hiebadum åhpadusáj, vuodotjehpudagáj, gielladomenaj ja árvustallamij divna lågev dásij barggat.</p>
-    <p>Åhpadiddje ja skåvlå máhtti bagádallamav adnet bájkálasj oahppoplánabargon ja konkrehtalasj åhpadimgárvvidussan. Duola degu 1.-4. dásijn <em type="italic">Hiebadum åhpadus </em>vatteduvvi buojkulvisá gåktu åhpadimgárvvidusá máhtti hiebaduvvat iesjgeŋga áldarjuohkusij danen gå oahppijn máhtti álggovuodo sierra liehket álgos vájku man dásen li. </p>
-    <p>Oajvveoulmme oahppoplánan le fáhka sámegiella nubbengiellan aktan fágajn dárogiella, biedjá vuodov nåv vaj oahppe galggi dåjmalasj guovtegielaga sjaddat. Oahppe galggi måvtåsduhteduvvat ja jállot sámegielav válljit guládallamgiellan bæjválattjat.</p>
-    <p>Bagádallam vuoset buojkulvisájt oajvvesuoasijs <em type="italic">Njálmálasj guládallam </em>ja <em type="italic">Giella- ja kultuvrradiedulasjvuohta </em>.. Bagádallam ij gåbtjå divna máhtudakmihtojt oahppoplánan. </p>
-    <p xml:lang="nob">Vis alle</p>
-    <p type="title">Vuodotjehpudagá</p>
-    <p>Vuodotjehpudagá duola degu sábmáj <em type="italic">máhttet njálmálattjat åvddånbuktet </em>ij la diehttelisvuohta oahppijda fágan sámegiella nubbengiellan. Bagádallam vaddá åhpadiddjáj bagádallamijt, vuohketjielggidusájt ja buojkulvisájt ma máhtti viehkken liehket bargon oahppijt oadtjot luondulattjat sámástittjat. </p>
-    <p type="title">Giella- ja kultuvrradiedulasjvuohta</p>
-    <p>Ájnas la guoradallat gåktu gielladille ja giellaárvvo le skåvlån, suohkanin dábálattjat ja fylkan. Giellaåhpadusá dárbo várieriji duojn dájn guovlojn. Buojkulvissan máhtti ienep åhpadiddje aktan guoradallat jali oahppe mátti tjadádit dav jus máhttelis le.</p>
-    <p>Guoradallam máhttá vuosedit gielladomenajt gånnå sámegiella le nanos ja máhtti ávkálasj vædtsaga giellaåhpadimen liehket. Máhttelis le ásadit sierra sámegieldomenajt, duola degu bájkijt, lanjájt, ulmutjijt, dåjmajt jali ájggegávdajt. Gehtja sierra artihkkal gielladomenaj birra .</p>
-    <p>Dåhkki aj adnet Europeisk Språkperm (ESP) guoradallama bargon. Guoradallama tjadá máhtti oahppe tjielggit makkir sámegieldásen sij li, ja gåktu sij ietjasa gielav máhtti åvdedit.</p>
-    <p>Skåvlå gånnå li gallegasj oahppe juohkka klássan, máhtti dahkat plánajt ma aktelasj mátsi álggo, gasska ja nuorajdássáj gånnå temá Samen2 ja 3 li. Nåv de máhtti divna oahppe juohkusin barggat sæmmi temájn. Åhpadiddje hiebat oahppe áldara ja åvddåmáhtoj milta. Náv oahppe máhtti aktan barggat oahppamdåjmaj.</p>
-    <p>Åtsådallamij milta oadtju moadda oahppe åhpadusáv guhkásåhpadime tjadá, ja dát máhttá hásstádussan liehket. Muhtem dásijn le guhkásåhpadibme lagábu tjielggiduvvam.</p>
-    <p>Bagádallamin le sierra oasse progresjåvnå birra . Dát gåvvi gåktu giellaåvddånibme le tjanádum máhtudakmihtojda ma bagádallamin gávnnuji.</p>
-    <p>Bagádallam le dagáduvvam vaj galggá máhttet aneduvvat divnajn sámeguovlojn. Muhtem sajijn vierddi åhpadiddje hiebadahttet oahppamnævojt ja vædtsagijt bájkálasj dilij milta. Oahppamnævovidjura sámegielan ælla gåktuk duhtam lágátja, valla bagádallamin le lissta gånnå li muhtem oahppamusá ma gávnnuji.</p>
-    <p>Bagádallamin le moadda konkrehtalasj buojkulvisá oahppamdåjmajda. Moadda dájs dåjmajs máhtti divnajn dásijn dagáduvvat. Nåv de bagádallam máhttá aj årrot degu konkrehtalasj bagádibme oahppamdåjmaj hárráj</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>389</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20andrespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Samisk-som-andrespraak/Samegiella-nubbengiellan-samegiella-2-ja-samegiella-3/Hoyremeny-toppniva/Forklaring-til-veiledningen/index.html</origFileName><parallel_text xml:lang="nob" location="1_forklaring-til-veiledningen.html"/><parallel_text xml:lang="sma" location="1_forklaring-til-veiledningen.html"/><parallel_text xml:lang="sme" location="1_forklaring-til-veiledningen.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Tjielggidus bagádallamij</p>
+<p type="title">Tjielggidus bagádallamij</p>
+<p xml:lang="nob">Hovedinnhold</p>
+<p><em type="bold">Bagádallama ja buojkulvisá gå barggat Oahppoplánajn- sámegiella nubbengiellan. </em></p>
+<p>Oahppoplána máhtudakmihto le lågev dássáj juogeduvvam. Bagádallam vuojnnusij buktá muhtem máhtudakmihtojt ja vaddá buojkulvisájt gåktu oahppamdåjmaj, hiebadum åhpadusáj, vuodotjehpudagáj, gielladomenaj ja árvustallamij divna lågev dásij barggat.</p>
+<p>Åhpadiddje ja skåvlå máhtti bagádallamav adnet bájkálasj oahppoplánabargon ja konkrehtalasj åhpadimgárvvidussan. Duola degu 1.-4. dásijn <em type="italic">Hiebadum åhpadus </em>vatteduvvi buojkulvisá gåktu åhpadimgárvvidusá máhtti hiebaduvvat iesjgeŋga áldarjuohkusij danen gå oahppijn máhtti álggovuodo sierra liehket álgos vájku man dásen li. </p>
+<p>Oajvveoulmme oahppoplánan le fáhka sámegiella nubbengiellan aktan fágajn dárogiella, biedjá vuodov nåv vaj oahppe galggi dåjmalasj guovtegielaga sjaddat. Oahppe galggi måvtåsduhteduvvat ja jállot sámegielav válljit guládallamgiellan bæjválattjat.</p>
+<p>Bagádallam vuoset buojkulvisájt oajvvesuoasijs <em type="italic">Njálmálasj guládallam </em>ja <em type="italic">Giella- ja kultuvrradiedulasjvuohta </em>.. Bagádallam ij gåbtjå divna máhtudakmihtojt oahppoplánan. </p>
+<p xml:lang="nob">Vis alle</p>
+<p type="title">Vuodotjehpudagá</p>
+<p>Vuodotjehpudagá duola degu sábmáj <em type="italic">máhttet njálmálattjat åvddånbuktet </em>ij la diehttelisvuohta oahppijda fágan sámegiella nubbengiellan. Bagádallam vaddá åhpadiddjáj bagádallamijt, vuohketjielggidusájt ja buojkulvisájt ma máhtti viehkken liehket bargon oahppijt oadtjot luondulattjat sámástittjat. </p>
+<p type="title">Giella- ja kultuvrradiedulasjvuohta</p>
+<p>Ájnas la guoradallat gåktu gielladille ja giellaárvvo le skåvlån, suohkanin dábálattjat ja fylkan. Giellaåhpadusá dárbo várieriji duojn dájn guovlojn. Buojkulvissan máhtti ienep åhpadiddje aktan guoradallat jali oahppe mátti tjadádit dav jus máhttelis le.</p>
+<p>Guoradallam máhttá vuosedit gielladomenajt gånnå sámegiella le nanos ja máhtti ávkálasj vædtsaga giellaåhpadimen liehket. Máhttelis le ásadit sierra sámegieldomenajt, duola degu bájkijt, lanjájt, ulmutjijt, dåjmajt jali ájggegávdajt. Gehtja sierra artihkkal gielladomenaj birra .</p>
+<p>Dåhkki aj adnet Europeisk Språkperm (ESP) guoradallama bargon. Guoradallama tjadá máhtti oahppe tjielggit makkir sámegieldásen sij li, ja gåktu sij ietjasa gielav máhtti åvdedit.</p>
+<p>Skåvlå gånnå li gallegasj oahppe juohkka klássan, máhtti dahkat plánajt ma aktelasj mátsi álggo, gasska ja nuorajdássáj gånnå temá Samen2 ja 3 li. Nåv de máhtti divna oahppe juohkusin barggat sæmmi temájn. Åhpadiddje hiebat oahppe áldara ja åvddåmáhtoj milta. Náv oahppe máhtti aktan barggat oahppamdåjmaj.</p>
+<p>Åtsådallamij milta oadtju moadda oahppe åhpadusáv guhkásåhpadime tjadá, ja dát máhttá hásstádussan liehket. Muhtem dásijn le guhkásåhpadibme lagábu tjielggiduvvam.</p>
+<p>Bagádallamin le sierra oasse progresjåvnå birra . Dát gåvvi gåktu giellaåvddånibme le tjanádum máhtudakmihtojda ma bagádallamin gávnnuji.</p>
+<p>Bagádallam le dagáduvvam vaj galggá máhttet aneduvvat divnajn sámeguovlojn. Muhtem sajijn vierddi åhpadiddje hiebadahttet oahppamnævojt ja vædtsagijt bájkálasj dilij milta. Oahppamnævovidjura sámegielan ælla gåktuk duhtam lágátja, valla bagádallamin le lissta gånnå li muhtem oahppamusá ma gávnnuji.</p>
+<p>Bagádallamin le moadda konkrehtalasj buojkulvisá oahppamdåjmajda. Moadda dájs dåjmajs máhtti divnajn dásijn dagáduvvat. Nåv de bagádallam máhttá aj årrot degu konkrehtalasj bagádibme oahppamdåjmaj hárráj</p>
+</body></document>

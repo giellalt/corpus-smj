@@ -1,40 +1,12 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>184</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/influaennsavaksinasjaavnnaa-divtasvuona-suohkanin.5590724-99245.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tysfjord kommune : Influænnsaváksinasjåvnnå Divtasvuona suohkanin</p>
-    <p type="title">Influænnsaváksinasjåvnnå Divtasvuona suohkanin</p>
-    <p xml:lang="nob">09.10.2014</p>
-    <p>Gásluovta varresvuodastásjåvnån 13.10.14 kl. 08:30 - 14:30. Ájluovta varresvuodastásjåvnån gasskavahko 15.10.14 kl. 08:30 - 14:00 Stuorgiette skåvllågirjjevuorkán bierjjedagá 17.10.14 kl. 10:00 - 12:00</p>
-    <p>Váksijnna máksá 100,- kråvnå</p>
-    <p>Jus dunji ij hieba dájda ájgijda boahtet, de la máhttelis váksijnav oadtjot gå tijmav áno Gásluovta dåktårkåntåvrås tlf. 75 77 56 40, Gásluovta varresvuodastásjåvnås 75 77 56 50, Ájluovta dåktårkåntåvrås tlf. 75 78 57 70, Ájluovta varresvuodastásjåvnnåj 75 78 57 79.</p>
-    <p>Ulmutja gudi juohkka jage vierttiji váksineriduvvat gávddainfluensa vuosstij li:</p>
-    <list>
-      <p type="listitem">Gájka vuorrasappo gå 65 jage</p>
-      <p type="listitem">Årro hukso- ja vuorrasijsijdajn</p>
-      <p type="listitem">Iesselisá iesselisvuoda 12. vahko mannela (2. ja 3. trimester). Iesselisá 1. trimesterin gænna li duoddevige máhtti váksinerduvvat</p>
-      <p type="listitem">Máná ja ållessjattuga gænna li: - diabetes mellitus, sládja 1 ja 2 - guhkálasj giehpesdávdda (aktan dahpaldagájn) - guhkálasj tsåhke- ja varravárrevihke, ållagasjduodalasj skihpudahka, unnes varravuobmanij jali pulmonal hypertensjåvnnå - guhkálasj librrevihke - guhkálasj månemvihke - guhkálasj nevrologa skihpudahka jali vahák, ållagasj gænna li vuoledum giehpesvuobman - vuoledumvuolssjesuoddjim - ietjá sieldes ja/jali guhkálasj skihpudahka gånnå dåktåra árvustallamis, buktá vahágijt influensa baktu - gudi li ilá buojdde (rumájstuorrudakmihtto (RSM) ienep gå 40)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>184</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/influaennsavaksinasjaavnnaa-divtasvuona-suohkanin.5590724-99245.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tysfjord kommune : Influænnsaváksinasjåvnnå Divtasvuona suohkanin</p>
+<p type="title">Influænnsaváksinasjåvnnå Divtasvuona suohkanin</p>
+<p xml:lang="nob">09.10.2014</p>
+<p>Gásluovta varresvuodastásjåvnån 13.10.14 kl. 08:30 - 14:30. Ájluovta varresvuodastásjåvnån gasskavahko 15.10.14 kl. 08:30 - 14:00 Stuorgiette skåvllågirjjevuorkán bierjjedagá 17.10.14 kl. 10:00 - 12:00</p>
+<p>Váksijnna máksá 100,- kråvnå</p>
+<p>Jus dunji ij hieba dájda ájgijda boahtet, de la máhttelis váksijnav oadtjot gå tijmav áno Gásluovta dåktårkåntåvrås tlf. 75 77 56 40, Gásluovta varresvuodastásjåvnås 75 77 56 50, Ájluovta dåktårkåntåvrås tlf. 75 78 57 70, Ájluovta varresvuodastásjåvnnåj 75 78 57 79.</p>
+<p>Ulmutja gudi juohkka jage vierttiji váksineriduvvat gávddainfluensa vuosstij li:</p>
+<list><p type="listitem">Gájka vuorrasappo gå 65 jage</p>
+<p type="listitem">Årro hukso- ja vuorrasijsijdajn</p>
+<p type="listitem">Iesselisá iesselisvuoda 12. vahko mannela (2. ja 3. trimester). Iesselisá 1. trimesterin gænna li duoddevige máhtti váksinerduvvat</p>
+<p type="listitem">Máná ja ållessjattuga gænna li: - diabetes mellitus, sládja 1 ja 2 - guhkálasj giehpesdávdda (aktan dahpaldagájn) - guhkálasj tsåhke- ja varravárrevihke, ållagasjduodalasj skihpudahka, unnes varravuobmanij jali pulmonal hypertensjåvnnå - guhkálasj librrevihke - guhkálasj månemvihke - guhkálasj nevrologa skihpudahka jali vahák, ållagasj gænna li vuoledum giehpesvuobman - vuoledumvuolssjesuoddjim - ietjá sieldes ja/jali guhkálasj skihpudahka gånnå dåktåra árvustallamis, buktá vahágijt influensa baktu - gudi li ilá buojdde (rumájstuorrudakmihtto (RSM) ienep gå 40)</p>
+</list></body></document>

@@ -1,44 +1,14 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Rijttsemráhte jådon</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>319</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/rijttsemr-hte-jadon.4066</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Stig Eriksen jådet Rijttsemrahte prosjevtav Divtasvuona suohkana bieles.</p>
-    <p type="title">Rijttsemráhte jådon</p>
-    <p><span type="quote">”Dålusj”</span> pládna rahte Rijttsema ja Divtasvuona gaskan la vat skáhpas råkkådum. Divtasvuona ja Jielleváre suohkana libá rudájt aktan åhtsåm, ja åvddåprosjevtav jåhtuj oadtjum. Vuostasj oasse prosjevtas la gávnnat jus la ajtu dárbbo ráhtáj, ja de esski mierredit gåggu l buoremus rahtev biedjat. Norsk kortversjon/Oanegis dárogiellaj</p>
-    <p>-Mij lip esski dájna bargujn álgov dahkam, ja ållu vuostatjin dal sihtap guoradallat jus la dárbbo rahtáj. Bargo diehti hæhttup de dajna oajvvadit gåggu rahte galggá mannat, valla ep dal mij dán åvddåprosjevtan mierrada jur gåggu. Dav de hæhttu maññela giehtadallat, subtsas Stig Eriksen guhti prosjevtav jådet Divtasvuona suohkana bieles.</p>
-    <p>Prosjækta l válljim juohkusav mij bargov åvdet, ja ájrrasa dán jådedidddjij juohkusin tjåhkani Nárvijkan mánnodagá gånnå galggi ságastit mahkkir ávkke dákkár rahtes la.</p>
-    <p>Dán åvddåprosjevtan gæhttji aj sáme æládusájda, tjáhtjefábmuj, geologiaj, turistaæládussáj ja oasesæládussáj, ja makkár hásstalusá ja máhttelisvuoda li.</p>
-    <p>Ællobargo diehti la rahte ávkken, ja sæmmi bále aj dåssjen, ja ællobargge ienemusát balli turistajs ja skuhterijs. -Muhte mærráj la dal åvdån ællobargguj juska dal huoman bargov giehpet. Mij sihtap dal aj máhttelisvuodajda lagábut gæhttjat jus dakkár rahte sjaddá. Jus sjaddá mige, de la buoremus jus rahte tjuovvu tjæro rájájt, subtsas Ola Pittsa.</p>
-    <p>Pittsa l jådediddje sámeåssudagás dán prosjevtan, ja åvdåstiddje l ællosámij bieles Unna Tjerutja tjæros. Pittsa mielas la buoremus jus tjuovvu tjæro rájájrt dajna gå rahte ij jåhtembálggájt bárep buodo. Dajna li aj giehttogoahtám ja oajvvadam rahtev Rudnavuodnaj, Tjoadnejávre milta.</p>
-    <p>-Tjærro ij la majdik almma mierredam, valla lip dal ájn vuostatjin gæhttjamin makkár vájkkudusá li midjij, ja jus rahte ællobargov hiemssi. Ballap galla giehpet ulmutjijda várráj bessat dagu guollitjit ja skohterav vuojátjit. Dajna de vat ráfeduhtti ælov, subtsas Ola Pittsa.</p>
-    <p>Åvddåprosjækta l jådon 2007 gæhtjáj, ja boahtte jahkáj jáhttá Stig Eriksen álmmuktjåhkanimev tjadádit Divtasvuonan. Sån dajna sihtá ulmutjij vuojnojt gullat.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-    <p xml:lang="nob">Regler for kommentering</p>
-    <p type="title" xml:lang="nob">Diskutér <span type="quote">"Rijttsemráhte jådon"</span> på Facebook</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Rijttsemráhte jådon</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>319</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/rijttsemr-hte-jadon.4066</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Stig Eriksen jådet Rijttsemrahte prosjevtav Divtasvuona suohkana bieles.</p>
+<p type="title">Rijttsemráhte jådon</p>
+<p><span type="quote">”Dålusj”</span> pládna rahte Rijttsema ja Divtasvuona gaskan la vat skáhpas råkkådum. Divtasvuona ja Jielleváre suohkana libá rudájt aktan åhtsåm, ja åvddåprosjevtav jåhtuj oadtjum. Vuostasj oasse prosjevtas la gávnnat jus la ajtu dárbbo ráhtáj, ja de esski mierredit gåggu l buoremus rahtev biedjat. Norsk kortversjon/Oanegis dárogiellaj</p>
+<p>-Mij lip esski dájna bargujn álgov dahkam, ja ållu vuostatjin dal sihtap guoradallat jus la dárbbo rahtáj. Bargo diehti hæhttup de dajna oajvvadit gåggu rahte galggá mannat, valla ep dal mij dán åvddåprosjevtan mierrada jur gåggu. Dav de hæhttu maññela giehtadallat, subtsas Stig Eriksen guhti prosjevtav jådet Divtasvuona suohkana bieles.</p>
+<p>Prosjækta l válljim juohkusav mij bargov åvdet, ja ájrrasa dán jådedidddjij juohkusin tjåhkani Nárvijkan mánnodagá gånnå galggi ságastit mahkkir ávkke dákkár rahtes la.</p>
+<p>Dán åvddåprosjevtan gæhttji aj sáme æládusájda, tjáhtjefábmuj, geologiaj, turistaæládussáj ja oasesæládussáj, ja makkár hásstalusá ja máhttelisvuoda li.</p>
+<p>Ællobargo diehti la rahte ávkken, ja sæmmi bále aj dåssjen, ja ællobargge ienemusát balli turistajs ja skuhterijs. -Muhte mærráj la dal åvdån ællobargguj juska dal huoman bargov giehpet. Mij sihtap dal aj máhttelisvuodajda lagábut gæhttjat jus dakkár rahte sjaddá. Jus sjaddá mige, de la buoremus jus rahte tjuovvu tjæro rájájt, subtsas Ola Pittsa.</p>
+<p>Pittsa l jådediddje sámeåssudagás dán prosjevtan, ja åvdåstiddje l ællosámij bieles Unna Tjerutja tjæros. Pittsa mielas la buoremus jus tjuovvu tjæro rájájrt dajna gå rahte ij jåhtembálggájt bárep buodo. Dajna li aj giehttogoahtám ja oajvvadam rahtev Rudnavuodnaj, Tjoadnejávre milta.</p>
+<p>-Tjærro ij la majdik almma mierredam, valla lip dal ájn vuostatjin gæhttjamin makkár vájkkudusá li midjij, ja jus rahte ællobargov hiemssi. Ballap galla giehpet ulmutjijda várráj bessat dagu guollitjit ja skohterav vuojátjit. Dajna de vat ráfeduhtti ælov, subtsas Ola Pittsa.</p>
+<p>Åvddåprosjækta l jådon 2007 gæhtjáj, ja boahtte jahkáj jáhttá Stig Eriksen álmmuktjåhkanimev tjadádit Divtasvuonan. Sån dajna sihtá ulmutjij vuojnojt gullat.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+<p xml:lang="nob">Regler for kommentering</p>
+<p type="title" xml:lang="nob">Diskutér <span type="quote">"Rijttsemráhte jådon"</span> på Facebook</p>
+</body></document>

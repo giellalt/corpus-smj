@@ -1,41 +1,7 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title>Jåvvå-viellja Vuodnabadán</title>
-    <genre code="news"/>
-    <author>
-      <person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2010</year>
-    <publChannel>
-      <publication>
-        <publisher>Lokalavisa Nordsalten</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>316</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://www.nord-salten.no/no/nyheter/samisk/javva-viellja-vuodnabad-n.3897</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Dålusj bájkkenamá ja friddja gåvådallam. Histåvrålasj bájkkenamá Oarjjevuonan li tjanádum gåvådallam subttsasijda, gåvåduvvam moadda tjuorggamij tjielggis bájnoj.</p>
-    <p type="title">Jåvvå-viellja Vuodnabadán</p>
-    <p>Goalmát girjje triologijan Jåvvå-vielja birra le dal gárves. Dá bále Inga Karlsena gåvådallam subttsasa Vuodnabadán dáhpáduvvi.</p>
-    <p>Girje namma le <span type="quote">”Jåvvå-viellja ja lájbbområptik”</span>. Dánna subtsas Inga Jåvvå-vielja mano birra nuoren aktan Ingatjijn gæhttjen ja viehkken subttsasin. - Jåvvå-viellja le dá bále nuoren juonná Vuodnabadá lahkusin. Inga (mån lav dat) le Josefijná ja Jåvvå-vielja guossen. Såj rijddalattjába ja de Jåvvå-viellja, guhti ietján le nav buossje, ballá gå Josefijná moarát ja ålgus viehká. Bislágan råptigav doahppi ja lájbbomgåjvunav gieda vuolláj. Suhká suollujda guhkken nuoren. Militerra jáhkki le tjátjevuolvanntsa ja nuorráj manni. Josefijná mårås Jåvvå-vieljav. Sån ræhttsot helikoptera nanna tjåhkkåj ja hálet suolluj badjel suv åtsåtjit. Helikopter gahttjá ja Josefijná gáddáj vuodjá. Gávnná Jåvvå-vieljav ja sån ruoptus suhká Josefijnájn slehpan. Guokta guollára gudi libá viermijdis láhppám, mieddiba viermmebåjajs ja Josefijná njittjijs, måjåt Inga, guhti sajev vaddá alvos ássjijda ja suohttasijda subttsasijn. Gátte lahka lájbbomgåjvun gåbmån, Jåvvå-viellja nuorráj gahttjá ja Inga viertti goappátjijt gáddáj gádjot. - Dán girjen låhkke aj oahpástuvvi muv berrahij Gávrásski ja Rávgásski gudi årroba váre sinna Vuodnabadán. Juohkka gidá le sunnun gidábasos gånnå årroba. Ulmutja jáhkki le gidádulvve mij várev vuolus gålggå, valla le juojddá ietjá, tjajmmá girjjetjálle.</p>
-    <p>Girjen li moadda tjuorggama Susanne Lyngmannes. Dålusj stuorgiergge Okshaugan le maŋen ja sæmmi li gahpergiedjega Vuodnabadán. Inga dibddá låhkkijt iesj gåvådallat gåktu Jåvvå-viellja besaj ruopptot Australias gånnå subtsas dáhpáduváj nuppát girjen. Dánna ælla moadda dájdulasj tjielggidusá ja ienep friddja gåvådallam tjanádum histåvrålasj bájkkenamájda Oarjjevuonan. - Jáhkáv máná máhtti dålusj bájkkenamájt buorebut mujttet gå li subttsasijda ja båvajda tjanáduvvam, javllá sån. Divna gålmmå girjijn le sierra jiednagirjje girjjetjálles lågådum. Girjje náv hæjttá: <span type="quote">”Luonndo gullá ja ájgge vuoset gåktu sjaddá gevvat”</span>. Dát máhttá merkahit dat 76 jage vuoras áhkásj Vuodnabadás ij ålgoda máhttá nælját girjje Jåvvå-vielja birra boahtet.</p>
-    <p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title>Jåvvå-viellja Vuodnabadán</title><genre code="news"/><author><person firstname="Kitty" lastname="Skapalen" sex="f" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2010</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>316</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://www.nord-salten.no/no/nyheter/samisk/javva-viellja-vuodnabad-n.3897</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Dålusj bájkkenamá ja friddja gåvådallam. Histåvrålasj bájkkenamá Oarjjevuonan li tjanádum gåvådallam subttsasijda, gåvåduvvam moadda tjuorggamij tjielggis bájnoj.</p>
+<p type="title">Jåvvå-viellja Vuodnabadán</p>
+<p>Goalmát girjje triologijan Jåvvå-vielja birra le dal gárves. Dá bále Inga Karlsena gåvådallam subttsasa Vuodnabadán dáhpáduvvi.</p>
+<p>Girje namma le <span type="quote">”Jåvvå-viellja ja lájbbområptik”</span>. Dánna subtsas Inga Jåvvå-vielja mano birra nuoren aktan Ingatjijn gæhttjen ja viehkken subttsasin. - Jåvvå-viellja le dá bále nuoren juonná Vuodnabadá lahkusin. Inga (mån lav dat) le Josefijná ja Jåvvå-vielja guossen. Såj rijddalattjába ja de Jåvvå-viellja, guhti ietján le nav buossje, ballá gå Josefijná moarát ja ålgus viehká. Bislágan råptigav doahppi ja lájbbomgåjvunav gieda vuolláj. Suhká suollujda guhkken nuoren. Militerra jáhkki le tjátjevuolvanntsa ja nuorráj manni. Josefijná mårås Jåvvå-vieljav. Sån ræhttsot helikoptera nanna tjåhkkåj ja hálet suolluj badjel suv åtsåtjit. Helikopter gahttjá ja Josefijná gáddáj vuodjá. Gávnná Jåvvå-vieljav ja sån ruoptus suhká Josefijnájn slehpan. Guokta guollára gudi libá viermijdis láhppám, mieddiba viermmebåjajs ja Josefijná njittjijs, måjåt Inga, guhti sajev vaddá alvos ássjijda ja suohttasijda subttsasijn. Gátte lahka lájbbomgåjvun gåbmån, Jåvvå-viellja nuorráj gahttjá ja Inga viertti goappátjijt gáddáj gádjot. - Dán girjen låhkke aj oahpástuvvi muv berrahij Gávrásski ja Rávgásski gudi årroba váre sinna Vuodnabadán. Juohkka gidá le sunnun gidábasos gånnå årroba. Ulmutja jáhkki le gidádulvve mij várev vuolus gålggå, valla le juojddá ietjá, tjajmmá girjjetjálle.</p>
+<p>Girjen li moadda tjuorggama Susanne Lyngmannes. Dålusj stuorgiergge Okshaugan le maŋen ja sæmmi li gahpergiedjega Vuodnabadán. Inga dibddá låhkkijt iesj gåvådallat gåktu Jåvvå-viellja besaj ruopptot Australias gånnå subtsas dáhpáduváj nuppát girjen. Dánna ælla moadda dájdulasj tjielggidusá ja ienep friddja gåvådallam tjanádum histåvrålasj bájkkenamájda Oarjjevuonan. - Jáhkáv máná máhtti dålusj bájkkenamájt buorebut mujttet gå li subttsasijda ja båvajda tjanáduvvam, javllá sån. Divna gålmmå girjijn le sierra jiednagirjje girjjetjálles lågådum. Girjje náv hæjttá: <span type="quote">”Luonndo gullá ja ájgge vuoset gåktu sjaddá gevvat”</span>. Dát máhttá merkahit dat 76 jage vuoras áhkásj Vuodnabadás ij ålgoda máhttá nælját girjje Jåvvå-vielja birra boahtet.</p>
+<p xml:lang="nob">Tegn et abonnement på Lokalavisa NordSaltens papirutgave eller kjøp en elektronisk utgave (PDF) .</p>
+</body></document>

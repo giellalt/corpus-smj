@@ -1,48 +1,19 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>186</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>https://www.tysfjord.kommune.no/same-kultuvrra.5126489-96431.html</origFileName>
-    <parallel_text xml:lang="nob" location="samisk-kultur.96431.no.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tysfjord kommune : Sáme kultuvrra</p>
-    <p type="title">Sáme kultuvrra</p>
-    <p xml:lang="nob">13.11.2012</p>
-    <p>Divtasvuodna le guovtekultuvralasj suohkan ja guovddaguovllo julevsáme álmmugij Vuonan.</p>
-    <p>Ájluovtan le Árran – guovdásj mij julevsáme sebrudagáv Vuonan gåvvit. Guovdátja ulmme l julevsáme kultuvrav, gielav ja sebrudakiellemav nannit ja åvddånahttet.</p>
-    <p>Árranin máhtá sáme histåvrå, kultuvra ja sebrudakiellema birra oahppat. Vuosádusáj ja oahpestiddjij baktu guosse gåvåv oadtju mij sáme kultuvrra le, ja mij sámijt sábmen dahká ja gåktu sáme ietjas sámevuodav åvddånbukti. Akta vuosádusá tiebmá giehtadallá bájkálasj sáme identitehtav, ja julevsáme identitehta vuodov. Moattelágásj ulmutjijn le moattelágásj dádjadibme ietjas julevsáme identitehtas ja julevsáme sebrudak le moattebelak. Vuosádus aj giehtadallá bájkálasj berustallamav besatjit sábmen liehket. Oassálasste ma li dåjmalattja læhkám <span type="quote">”sámegåhttsomin”</span> nasjonálalasj ja rijkagasskasattjat aj nammaduvvi. Ietjá tiemá vuosádusájn li bivddo, viejddem, guollim ja julevsáme gápptedábe.</p>
-    <p>
-      <em type="bold">Árran Julevsáme guovdásj </em>
-    </p>
-    <p xml:lang="swe"/>
-    <p>Telefåvnnå: 75 77 51 00  Telefáksa: 75 77 51 01</p>
-    <p>E-poassta:</p>
-    <p>poassta@arran.no</p>
-    <p>Dávvervuorkká le rabás ålles jagev</p>
-    <p>Rabásájge: Árkkabiejve kl. 08:00 - 15:30.</p>
-    <p xml:lang="nob">Giesserabás 19.06 - 20.08. Árggabiejvijt kl.10-18. Láv. og Såd: 11:30 - 16:30</p>
-    <p>Hatte: Máná 10,-  Ållessjattuga 30,-  Juohkusa 25,-</p>
-    <p>Sadje: Drag, RV827, 4 km E6’as</p>
-    <p>Telefåvnnå 75 77 51 00, fáksa 75 77 51 01</p>
-    <p>Dávvervuorkkáj boadá juvllaståvlåjn.</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>186</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/same-kultuvrra.5126489-96431.html</origFileName><parallel_text xml:lang="nob" location="samisk-kultur.96431.no.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tysfjord kommune : Sáme kultuvrra</p>
+<p type="title">Sáme kultuvrra</p>
+<p xml:lang="nob">13.11.2012</p>
+<p>Divtasvuodna le guovtekultuvralasj suohkan ja guovddaguovllo julevsáme álmmugij Vuonan.</p>
+<p>Ájluovtan le Árran – guovdásj mij julevsáme sebrudagáv Vuonan gåvvit. Guovdátja ulmme l julevsáme kultuvrav, gielav ja sebrudakiellemav nannit ja åvddånahttet.</p>
+<p>Árranin máhtá sáme histåvrå, kultuvra ja sebrudakiellema birra oahppat. Vuosádusáj ja oahpestiddjij baktu guosse gåvåv oadtju mij sáme kultuvrra le, ja mij sámijt sábmen dahká ja gåktu sáme ietjas sámevuodav åvddånbukti. Akta vuosádusá tiebmá giehtadallá bájkálasj sáme identitehtav, ja julevsáme identitehta vuodov. Moattelágásj ulmutjijn le moattelágásj dádjadibme ietjas julevsáme identitehtas ja julevsáme sebrudak le moattebelak. Vuosádus aj giehtadallá bájkálasj berustallamav besatjit sábmen liehket. Oassálasste ma li dåjmalattja læhkám <span type="quote">”sámegåhttsomin”</span> nasjonálalasj ja rijkagasskasattjat aj nammaduvvi. Ietjá tiemá vuosádusájn li bivddo, viejddem, guollim ja julevsáme gápptedábe.</p>
+<p><em type="bold">Árran Julevsáme guovdásj </em></p>
+<p xml:lang="swe"/>
+<p>Telefåvnnå: 75 77 51 00  Telefáksa: 75 77 51 01</p>
+<p>E-poassta:</p>
+<p>poassta@arran.no</p>
+<p>Dávvervuorkká le rabás ålles jagev</p>
+<p>Rabásájge: Árkkabiejve kl. 08:00 - 15:30.</p>
+<p xml:lang="nob">Giesserabás 19.06 - 20.08. Árggabiejvijt kl.10-18. Láv. og Såd: 11:30 - 16:30</p>
+<p>Hatte: Máná 10,-  Ållessjattuga 30,-  Juohkusa 25,-</p>
+<p>Sadje: Drag, RV827, 4 km E6’as</p>
+<p>Telefåvnnå 75 77 51 00, fáksa 75 77 51 01</p>
+<p>Dávvervuorkkáj boadá juvllaståvlåjn.</p>
+</body></document>

@@ -1,37 +1,9 @@
-<document xml:lang="smj" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>373</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.svenskakyrkan.se/omoss/ristagis-jahkko</origFileName>
-    <parallel_text xml:lang="fin" location="default.aspx_id=775915.html"/>
-    <parallel_text xml:lang="sma" location="kristeles-jaahkoe.html"/>
-    <parallel_text xml:lang="sme" location="risttala-osku.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Ristagis jáhkko - Svenska kyrkan - Om oss</p>
-    <p type="title">Ristagis jáhkko</p>
-    <p type="title">Gieresvuohta l vuodo ja ulmme ristagisjáhkkuj. Gájkka oalle gieresvuohta boahtá Jubmelis. Gieresvuohta vaddá viessomav.</p>
-    <p>Máhttep dåbddåt gieresvuodav gasskavuodajn ietjá ulmutjij ja Jubmelijn. Jubmel sihtá mijá viessomav ja sihtá vuododit gasskavuodav juohkka ulmutjij. Jesusa baktu oadtjop ienebuv diehtet majt Jubmel sihtá ja gut Jubmel la.</p>
-    <p><em type="italic">Jubmel ulmutjin </em>Jesusin la sierralágásj lahka gasskavuohta Jubmelij, sån la Jubmel iesj ulmutjin. Giehto Jesusa birra gávnnuji nieljen evangeliumin Rámádin. Rámát la girjje måttijn åsijn mij giehttu ulmutjij gávnadimij dåbdijdusájt Jubmelijn. Jesus väráldij boahtá danen gå Jubmel mijáv ähttsá ja sihtá midjij ihkevenájgev rahpat, goappátjagá åvddåla ja maŋŋel jábmema. Jubmel sihtá mij galggap oadtjot ienep diedojt Jubmela rijka birra ja gieresvuoda birra. <em type="italic">Girkko guovdásj ja viessomgálldo </em>Girkko guovdásj ja viessomgálldo l Jesus Kristus ja evangelium suv birra. Evangelium ulmutjav doalvvu aktisasjvuohtaj Jubmelijn, gut la suv sjaddam ja ulmme. Jubmelin la vijsesvuodas, ármos ja gieresvuodas rájedis tjiegŋalisvuohta. </p>
-    <p>Girkko jáhkko l vuodo åskeldibme Jubmelij ja l vuododum Jubmela ájmodis dagojda, ma li dåbddusa Rámádin ja duosstu ulmutjijt sijá viessomin. <em type="italic">Råhkålvis la ájnas </em>Jáhkket la dårvustallat ja oajbbot. Råhkålvis ja dábálamos vuohke jáhkkuj. Råhkålittjat ij dárbaha jáhkket. Vájmo duodalasjvuohta ja åhtsålibme l ájnas råhkålvissaj. Ájgev mierredit råhkålvissaj ja dáv ájgev årrot aktu allasis ja suv råhkålvisájn la álggovijor gasskavuohtaj Jubmelijn. Ij la ájnas man buoragit mijá råhkålvis la hábmádum. Vájmo ságastallam Jubmelijn la ájnas. <em type="italic">Ristagis dåbdåstibme </em>Ristagis girkko dåbdås avtav Jubmelav- Áhttje, Bárnne ja ájlis Vuojŋŋanis – mij sjivnnjet, lånes ja iellemav vaddá. Svieriga girkko l väráltvijdes girkkos oasse ja juohká ristagis dåbdåstimev ja hieveduslávludisáv goalmaktes Jubmelij. Jáhkko åvddåjbuvteduvvá dåbdåstimen bágon ja dagon ja l árbbe apostolak ájges. Gålmån oabmásamos jáhkkodåbdåstimen li sierrasadje gåvådussaj jáhko ja girkko aktelasjvuohtajt ájgij tjadá. Lågå guovtev dajs rievtesbielen. <em type="italic">Evangelak-luhterak girkko </em>Svieriga girkko gullu evangelak-luhterak árbbedáhpaj augsburgak dåbdåstimijn 1530 jage rajes mij aktidij dåbdåstimtjállagav. Dåbdåstimtjállaga reformasjåvnnåájges li bagádiddje vihtanus gåktu jáhkko tjielggiduváj vásstádussan ájge gatjálvisájda. </p>
-    <p>Girkko jáhkko ja åhpadus hábmáduvvá teologalasj refleksjåvnå baktu mij la jáhkko ja dåbdåstibme. Viddno la aktugasj ristagisájda ja girkkuj juohkka ájge ådåsis dåbdojn ájádallat jáhko tjiegŋalisáv ja tjielggit dan sisanádusáv. Ij jáhkkodåbdåstibme ij ge åhpadus la ulmme jáhkkuj. Da vuosedi mij la girkko vissesvuohta ja tjielggiji jáhkov. Aktan ájdan ságastallmijn ietjá árbbedábij, sárnnedimen ja jubmeldievnon Svieriga girkko åvddålijguovlluj suv jáhkov sárnnet.</p>
-    <p>//</p>
-  </body>
-</document>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>373</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.svenskakyrkan.se/omoss/ristagis-jahkko</origFileName><parallel_text xml:lang="fin" location="default.aspx_id=775915.html"/><parallel_text xml:lang="sma" location="kristeles-jaahkoe.html"/><parallel_text xml:lang="sme" location="risttala-osku.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Ristagis jáhkko - Svenska kyrkan - Om oss</p>
+<p type="title">Ristagis jáhkko</p>
+<p type="title">Gieresvuohta l vuodo ja ulmme ristagisjáhkkuj. Gájkka oalle gieresvuohta boahtá Jubmelis. Gieresvuohta vaddá viessomav.</p>
+<p>Máhttep dåbddåt gieresvuodav gasskavuodajn ietjá ulmutjij ja Jubmelijn. Jubmel sihtá mijá viessomav ja sihtá vuododit gasskavuodav juohkka ulmutjij. Jesusa baktu oadtjop ienebuv diehtet majt Jubmel sihtá ja gut Jubmel la.</p>
+<p><em type="italic">Jubmel ulmutjin </em>Jesusin la sierralágásj lahka gasskavuohta Jubmelij, sån la Jubmel iesj ulmutjin. Giehto Jesusa birra gávnnuji nieljen evangeliumin Rámádin. Rámát la girjje måttijn åsijn mij giehttu ulmutjij gávnadimij dåbdijdusájt Jubmelijn. Jesus väráldij boahtá danen gå Jubmel mijáv ähttsá ja sihtá midjij ihkevenájgev rahpat, goappátjagá åvddåla ja maŋŋel jábmema. Jubmel sihtá mij galggap oadtjot ienep diedojt Jubmela rijka birra ja gieresvuoda birra. <em type="italic">Girkko guovdásj ja viessomgálldo </em>Girkko guovdásj ja viessomgálldo l Jesus Kristus ja evangelium suv birra. Evangelium ulmutjav doalvvu aktisasjvuohtaj Jubmelijn, gut la suv sjaddam ja ulmme. Jubmelin la vijsesvuodas, ármos ja gieresvuodas rájedis tjiegŋalisvuohta. </p>
+<p>Girkko jáhkko l vuodo åskeldibme Jubmelij ja l vuododum Jubmela ájmodis dagojda, ma li dåbddusa Rámádin ja duosstu ulmutjijt sijá viessomin. <em type="italic">Råhkålvis la ájnas </em>Jáhkket la dårvustallat ja oajbbot. Råhkålvis ja dábálamos vuohke jáhkkuj. Råhkålittjat ij dárbaha jáhkket. Vájmo duodalasjvuohta ja åhtsålibme l ájnas råhkålvissaj. Ájgev mierredit råhkålvissaj ja dáv ájgev årrot aktu allasis ja suv råhkålvisájn la álggovijor gasskavuohtaj Jubmelijn. Ij la ájnas man buoragit mijá råhkålvis la hábmádum. Vájmo ságastallam Jubmelijn la ájnas. <em type="italic">Ristagis dåbdåstibme </em>Ristagis girkko dåbdås avtav Jubmelav- Áhttje, Bárnne ja ájlis Vuojŋŋanis – mij sjivnnjet, lånes ja iellemav vaddá. Svieriga girkko l väráltvijdes girkkos oasse ja juohká ristagis dåbdåstimev ja hieveduslávludisáv goalmaktes Jubmelij. Jáhkko åvddåjbuvteduvvá dåbdåstimen bágon ja dagon ja l árbbe apostolak ájges. Gålmån oabmásamos jáhkkodåbdåstimen li sierrasadje gåvådussaj jáhko ja girkko aktelasjvuohtajt ájgij tjadá. Lågå guovtev dajs rievtesbielen. <em type="italic">Evangelak-luhterak girkko </em>Svieriga girkko gullu evangelak-luhterak árbbedáhpaj augsburgak dåbdåstimijn 1530 jage rajes mij aktidij dåbdåstimtjállagav. Dåbdåstimtjállaga reformasjåvnnåájges li bagádiddje vihtanus gåktu jáhkko tjielggiduváj vásstádussan ájge gatjálvisájda. </p>
+<p>Girkko jáhkko ja åhpadus hábmáduvvá teologalasj refleksjåvnå baktu mij la jáhkko ja dåbdåstibme. Viddno la aktugasj ristagisájda ja girkkuj juohkka ájge ådåsis dåbdojn ájádallat jáhko tjiegŋalisáv ja tjielggit dan sisanádusáv. Ij jáhkkodåbdåstibme ij ge åhpadus la ulmme jáhkkuj. Da vuosedi mij la girkko vissesvuohta ja tjielggiji jáhkov. Aktan ájdan ságastallmijn ietjá árbbedábij, sárnnedimen ja jubmeldievnon Svieriga girkko åvddålijguovlluj suv jáhkov sárnnet.</p>
+<p>//</p>
+</body></document>
