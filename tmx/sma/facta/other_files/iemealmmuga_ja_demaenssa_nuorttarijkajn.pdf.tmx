@@ -1,0 +1,1432 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="smj" datatype="plaintext">
+    <prop type="x-filename">iemealmmuga_ja_demaenssa_nuorttarijkajn.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Iemeálmmuga ja demænssa Nuorttarijkajn</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aalkoe-almetjh jïh demense Noerhtelaantine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åvddåbágo</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åvtebaakoe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nuorttarijkalasj aktisasjbarggo sosiálapolitihkalasj ássjijn iemeálmmukperspektijvajn la buorre buojkulvis nuorttarijkalasj ávkken. La sáhka viehka unna juohkusijs, rijkajn gånnå viehká álu juohki hásstalusájt vuorastuvvam álmmugijn, barggij vánesvuodajn ja vijdes geográfalasj gaska.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhtelaanti laavenjostoe sosijaalepolitihkeles gyhtjelassi bïjre aalkoe-almetjeperspektijvesne lea hijven vuesiehtimmie noerhtelaanti nåhtose: Daate lea naa smaave dåehkiej bïjre, laantine mah jeenjemasth haestemh juekieh goh årrojh mah ahkedh båarasåbpoe sjidtieh, barkijh fååtesieh jïh stoerre geografeles gåhkoeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nuorttarijkaj aktisasjbarggo demænssaássjijn, dav mav Nuorttarijkaj álkkádusguovdásj koordineri, la vuosedam dárbbo la åttjudit máhttovuodov, systematiserit vásádusáj lånudallamav ja arienáv tsieggit gånnå dágástallá mij la buorre sujtto ja hukso sámijda ja inuihtajda gejna la demænssa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhtelaanti laavenjostoe demensesuerkesne, maam Nordens välfärdscenter / Noerhtelaanti tryjjesvoetejarnge ektede, lea vuesiehtamme daerpies aktem daajroebaaselinjam tseegkedh, dååjrehtimmieh öörnegen mietie juekedh jïh areenam sjugniedidh juktie digkiedidh mij lea hijven sujhteme jïh hokse saemide jïh inuihtide demensine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vájllu dutkam ja evidænssavuodo mij guosská sujttuj ja huksuj sámijs ja inuihtajs majna la demænssa, valla sihke Suoman, Vuonan, Svierigin ja Ruonáednamin li muhtem dåjma ja dutkamprosjevta jådon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dotkeme jïh tjïelke daajroe fååtese sujhtemen jïh hoksen bïjre saemide jïh inuihtide demensine, men dovne Såevmesne, Nöörjesne, Sveerjesne jïh Kruanalaantesne såemies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dán diedádusán lip gávnadimijt ja oajvvadusájt tjoahkkim ma båhtin juogosbargos vuostasj nuorttarijkalasj konferánsas man fádda lij iemeálmmuga ja demænssa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate reektehtse konklusjovnh jïh raeriestimmieh dåehkiebarkojste iktede dennie voestes noerhtelaanti konferansesne aalkoe-almetji jïh demensen bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konferánssa lij Staaren (Östersund) tjavtjan 2018 ja ásadiddje lidjin Nuorttarijkaj álkkádusguovdásj, Region Jämtland Härjedalen ja sáme ávvojahke Staare 2018.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhtelaanti tryjjesvoetejarnge, Regijovne Jïemhte/Herjedaelie jïh saemien heevehtimmiejaepie Staare 2018 konferansem Staaresne öörnedi tjaktjen 2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Loahppabåhtusijda ja oajvvadusájda gulluji duola degu makkir praktihkalasj dåjma ja rievddadusá li dárbulattja vaj ulmutja iemeálmmukduogátjijn ja demensajn lulun máhttet buorep dårjav ja dievnastusáv nuorttarijkalasj suohkanijn oadtjot, man láhkáj máhttep máhtojt suohkanij juohket ja lenaj/fylkaj rastá, jali man láhkáj ådå diedojt praktihkalattjat implementieri.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Konklusjovnh jïh raeriestimmieh leah vuesiehtimmien gaavhtan mah tjïelke råajvarimmieh jïh jarkelimmieh mah leah daerpies ihke almetjh aalkoe-almetjemaadtojne jïh demensine edtjieh buerebe dåarjoem jïh hoksehtimmiem åadtjodh noerhtelaanti tjïeltine, guktie maehtebe daajroem juekedh tjïelti jïh laanti dåaresth jallh guktie maahta orre daajroem dennie praktihkeles barkosne sjïehtesjidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Barggojuohkusa vuojno li Nuorttarijkaj álkkádusguovdátjis tjoahkkiduvvam, valla dajn ælla vuorodime jalik ávttjimusá mijá bieles.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhtelaanti tryjjesvoetejarnge lea barkoedåehkiej vuajnoeh iktedamme, men mijjen bieleste ibie naan prioriteradimmieh jallh juvnehtimmieh vuesehth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nuorttarijkaj álkkádusguovdátja barggogåhttjom la doarjjot álkkádusåvddånahttemav Nuorttarijkajn navti jut tjoahkki ja juogat diedojt ja dahká arienájt værmádagájda ja dutkamaktisasjbargon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhtelaanti tryjjevoetejarngen stilleme lea viehkiehtidh råajvarimmide tryjjesvoetesuerkesne Noerhtelaantine evtiedidh viehkine daajroem iktedidh jïh geerjehtidh jïh areenah viermide jïh dotkemelaavenjostose sjugniedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gidá jagen 2019 vuododuváj nuorttarijkalasj værmádahka iemeálmmugij ja demænssaj, danna oassálassti oajválattja, dutke ja bargge sujtto- ja huksoámmádijn Suoman, Vuonan, Svierigin ja Ruonáednamin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gïjren 2019 akte orre noerhtelaanti viermie tseegkesovvi suerkesne aalkoe-almetjh jïh demense, tjirkijigujmie åejvieladtjijste, dotkijigujmie jïh barkijigujmie sujhteme- jïh hoksebarkojne, Såevmeste, Nöörjeste, Sveerjeste jïh Kruanalaanteste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát diedádus la ájádaláduvvam liehket vuodon dágástallamijn gåktu vuorodit nuorttarijkalasj aktisasjbargov iemeálmmugijn ja demensajn, ja bájkálasj ja sisrijkalasj dágástallamijda dåjmaj birra suohkanij ja nasjonála dásen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate reektehtse edtja våaroeminie årrodh digkiedæmman prioriteradimmiej bïjre noerhtelaanti laavenjostosne aalkoe-almetji jïh demensen bïjre, jïh aaj goh digkiedimmie voenges sijjine jïh laantine råajvarimmiej bïjre tjïelten jïh nasjonaale daltesisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Váj galggá oajvvadusáj duogátjav dádjadit de diedádus álgaduvvá tjielggimijn máhttodiles iemeálmmugij ja demensa birra.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Juktie våaromem raeriestimmide vedtedh reektehtse daajroevåaroeminie aalka aalkoe-almetji jïh demensen bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Eva Franzén Lars Rottem Krangnes Direkterra Prosjæktajådediddje Nuorttarijkaj álkkádusguovdásj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Eva Franzén Lars Rottem Krangnes Direktööre Projekten åvtehke Nordens välfärdscenter Baahtseme daajroevåaroemasse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Iemeálmmuga Nuorttarijkajn</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aalkoe-almetjh Noerhtelaantine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nuorttarijkajn li guokta iemeálmmukjuohkusa: sáme Suoman, Vuonan ja Svierigin ja inuihta Ruonáednamin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhtelaantine göökte aalkoe-almetjh gååvnesieh: saemieh Såevmesne, Nöörjesne jïh Sveerjesne jïh inuihth Kruanalaantesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme háldadimguovlo Nuorttarijkajn li niellja suohkana Suoman, 12 suohkana Vuonan ja 25 suohkana Svierigin, akta dájs la Stockholm.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien reeremedajvh Noerhtelaantine leah njieljie tjïelth Såevmesne, 12 tjïelth Nöörjesne jïh 25 tjïelth Sveerjesne, jïh dej gaskem åejviestaare Stuehkie lea akte dejstie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>E gávnnu almulasj lågo dasi galla sáme gávnnuji Nuorttarijkajn, valla dábálasj árvustallama milta li Vuonan 50 000 – 65 000, 20 000 - 40 000 Svierigin ja birrusij 8 000 Suoman.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij naan byögkeles taalh gååvnesh man gellie saemieh mah Noerhtelaantine årroeh, men akte sïejhme aarvehtse lea 50 000 – 65 000 Nöörjesne, 20 000 – 40 000 Sveerjesne jïh medtie 8000 Såevmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ruossjan li suláj 2 000 sáme.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lissine ovrehte 2000 saemieh Russlaantesne årroeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ruonáednamin li inuihta ieneplågon, suláj 87 % badjelasj 56 000 viesajdiddjijs.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kruanalaantesne inuihth leah jienebelåhkoe, medtie 87 prosenth ånnetji vielie goh 56 000 årroejijstie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkanijn ma li sáme háldadimguovlo Suoman, Vuonan ja Svierigin li sierra gájbbádusá, valla guhtik rijkan li sieradusá daj gaskan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sjïere krïevenassh akten tjïeltese bïejesuvvieh mij lea saemien gïelen reeremedajve Såevmesne, Nöörjesne jallh Sveerjesne, men joekehts krïevenassh laanti gaskem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Duola degu máhttá sámijn liehket riektá åvddåskåvllådåjmajda ja boarrásij sujttárij ållåsap jali muhtem mudduj sámegiellaj, riektá gielasa adnet gå guládalli guovlo suohkanijn jali oajválattjaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuesiehtimmien gaavhtan saemieh maehtieh reaktam utnedh aarhskuvlese jïh båeriesalmetjehoksese ellieslaakan jallh åajvahkommes saemiengïelesne, jïh reaktam utnieh sijjen gïelem nuhtjedh gosse tjïeltine jïh åejvieladtjigujmie dajvesne gaskesedtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Divna nuorttarijka sámijt ja inuihtajt adni iemeálmmugin, valla dåssju Vuodna ja Danmárkko li vuolláj tjállám AN-organisasjåvnå ILO-tjielggidusáv nr. 169, Indigenous and Tribal Peoples Convention, ja li stuorra sieradusá danna gåktu rijka praktihkalattjat organisieriji ja ållidahtti iemeálmmugij riektájt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemieh jïh inuihth aalkoe-almetjinie ryöknesuvvieh gaajhkijste noerhtelaantijste, men ajve Nöörje jïh Danmarhke lea ENårganisasjovnen ILO:n konvensjovnem nr. 169 Indigenous and Tribal Peoples Convention jååhkesjamme, jïh stoerre joekehtsh guktie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>AN globála mihto guoddelis</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>FN:s globala mål för hållbar utveckling jïh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>åvddånahttemij ja åvddånimagenda Agenda 2030 guosská gájka</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>utvecklingsagendan Agenda 2030 leah faamosne gaajhkide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>lándajda Nuorttarijkajn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhtelaantide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dánna iemeálmmuga ja doajmmahiereduvvam ulmutja gulluji vuoroduvvam juohkusijda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daesnie aalkoe-almetjh jïh almetjh funksjovnegiehpiedimmine åvtese lutnjesuvvieh goh prioriteradamme dåehkieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme ja Ruonáednama histåvråjn li sæmmilágásjvuoda ja ieredusá koloniála histåvråjs ietjá værálda iemeálmmuksebrudagáj gáktuj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saepmien jïh Kruanalaanten histovrije dovne hedtieh jïh joekehtsh åtna kolonijehistovrijinie aalkoe-almetjesiebriedahkine veartenen jeatjah bieline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ájnnasit nuorttarijkaj sámeguovlo gáktuj la sebrudahka ja nasjonálastáhtaj álkkádusvuogádahka ietjálágásj gå buohtastahttá iemeálmmukguovloj USA:n ja Australian.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Joekoen dan noerhtelaanti bealan Saepmeste daan beajjetje siebriedahke jïh nasjonaalestaati tryjjesvoetesysteeme jeatjahlaakan vååjnoe jis aalkoe-almetjedajvigujmie vierteste daan beajjetje USA:sne jallh Australijinie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aktisasj ássje alleværálda lándajda majna li iemeálmmuga la ållusa sijájs gejn la iemeálmmukduogásj li jåhtåm stuorra stádajda maŋemus 50- 60 jagijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Akte ektie faktovre gaajhkine jalletje laantine aalkoe-almetjigujmie lea gellie almetjh aalkoe-almetjemaadtojne leah stoerrestaaride jåhteme dej minngemes 50 60 jaepiej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dåppe máhtti liehket ållu vuojnnemahtes unneplåhko.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Desnie maehtieh akte eevre ovvåajnoes unnebelåhkoe årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Iemeálmmuga ja demænssa</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aalkoe-almetjh jïh demense</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Prinsihpan ij gávnnu tjoahkkiduvvam dutkam jali máhtto makkir dille la Nuorttarijkaj sámijn ja inuihtajn gejn la demænssa, jali gallásin la demænssa ja iemeálmmukduogásj, nasjonála dásen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Prinsihpesne ij leah naan tjåenghkies dotkeme jallh daajroe guktie lea saemiejgujmie jïh inuihtigujmie demensine Noerhtelaantine, jallh man jïjnje demense lea nasjonaale daltesisnie almetji gaskem aalkoe-almetjemaadtojne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>dutkamprosjevta (2018-2019) Ubbmema universitiehtan Svierigin ulmme la dahkat vuostasj kárttimav duola degu danna man dábálattja li neurodegeneratijvalasj dile sámij ja dáttjaj gaskan Svieriga biele sámen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte juhtije dotkemeprojekte HALDI (2018- 2019) Upmejen universiteetesne Sveerjesne aajkojne åtna aktem voestes goerehtallemem darjodh, gaskem jeatjah man jïjnje lea dejstie joekehts neurodegeneratijve tsiehkijste saemiej jïh daaroej luvnie sveerjen bielesne Saepmeste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Unnep dutkama, duola degu Canadan ja Australian, gætjodi jut ulmutja gej la iemeálmmukduogásj vaháguvvi demensas ienebut gå ieneplågo álmmuk.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Unnebe goerehtimmieh, vuesiehtimmien gaavhtan Kanadeste jïh Australijistie, maahta vuesiehtidh almetjh aalkoe-almetjemaadtojne daamtajåbpoe demensem åadtjodh goh jienebelåhkoen årrojh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dajn dutkamijn ma li dagáduvvam li sieradusá sihke hámen ja båhtusijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Doh goerehtimmieh mah leah dorjesovveme jeerehte læjhkan dovne hammoedimmien jïh illedahken bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dutkam Canadan jage 2013 rájes vuoset ij dåssju dav jut ienep ulmutja gudi gulluji rijka nav gåhtjoduvvam first nations skihppáji, valla aj jut skihppáji suláj lågev jagev árabut ja aj jut ienep ålmmå gå nissuna dáv diagnåvsåv oadtju.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Akte goerehtimmie Kanadeste jaepeste 2013 vuesehte ij leah ajve vielie demense almetji luvnie mah gohtjesuvvieh first nations laantesne, men aaj dah mah demensem åadtjoeh skïemtjine sjidtieh ovrehte luhkie jaepieh aarebi, jïh jienebh ålmah goh nyjsenæjjah mah diagnovsem åadtjoeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Globála dásen la iemeálmmugijn nievrep varresvuohta gå ieneplågo álmmugin, sæmmi guovlon, dat aj vájkkut man dábálasj demænssa la, ja dasi makta gávnnu riekta sujtto buorre kvalitiehtajn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Globaale daltesisnie aalkoe-almetji lea nåakebe healsoe viertiestamme jienebelåhkoen årrojigujmie seamma dajvesne, mij aaj tsavtsa man jïjnje demense lea jïh faalenasse reaktoe sujhtemasse hijven kvaliteeteste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Faktåvrå ma sierraláhkáj vájkkudi iemeálmmuga varresvuohtaj, li jáhkedahtte sivvan gå la ienep demænssa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Faktovrh mah sjïerelaakan aalkoealmetji healsoem tsevtsieh, leah seapan aaj akte fåantoe mah åvteste vielie demense dej luvnie gååvnese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Uddni dutkaduvvá ienebut iemeálmmugij varresvuoda gáktuj gå åvddåla, valla ájn vájllu máhtto man láhkáj buoremusát dav hieredit ja giehtadallat, jali vaddet hiebaduvvam sujtov iemeálmmuga ulmutjijda gejna la demænssa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daelie vielie dotkeme dorjesåvva aalkoe-almetji healsose goh aarebi, men annje faatoes daajroe gååvnese guktie bööremeslaakan heerrede jïh båehtjerde, jallh sjïehtedamme sujhtemem aalkoealmetjidie demensine vadta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Árbbedábálasj iemeálmmukkultuvrajn máhttá demensa dádjadus liehket ietjálágásj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerkese demenseste maahta jeatjahlaakan årrodh aerpievuekien aalkoe-almetjekultuvrine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Symptåvmå demænssaj ælla agev gássjelisvuohtan jali skihpudahka.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij iktesth demensesymptovnh utnieh goh dåeriesmoere jallh dejtie symptovnide skïemtjelassese ektede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stuoráp sebrudagá diagnåvsåvædtsaga, diehtojuohkemdåjma, sujtto ja lagámusáj doarjjo organisierim soajttá ij dåjma kulturhiebadallama dagi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jienebelåhkoesiebriedahken diagnosisteradimmiedïrregh, bïevneseråajvarimmieh, öörnedimmie sujhtemistie jïh dåarjoe lïhke fualhkan eah dagke juhtieh jis ij dejtie kultuvrese sjïehtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Rijkajgasskasasj værmádahka la vuododuvvam, The International</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaskenasjonaale viermie lea tseegkesovveme, The International</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Indigenous Dementia Research Network (IIDRN) dutkijda,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Indigenous Dementia Research Network (IIDRN) dotkijidie,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>studentajda, skihppijviesojda, iemeálmmuk- ja demænssaakterajda, oassálasstij USA:s, Canadas, Austrálias ja Aotearoas.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>studeentide, skïemtjegåetide, aalkoe-almetje- jïh demenseaktööride, jïh dah mah meatan desnie USA:ste, Brasijleste, Kanadeste, Australijistie jïh Orre Zeelanteste båetieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Værmádagá ájggomus la akterajt låpptit gudi iemeálmmugij ja demensajn barggi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Viermien aajkoe lea aktöörh åvtese lutnjedh mah aalkoe-almetjigujmie jïh demensine berkieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Værmádagá dutke fysalattjat ja digitálalattjat gávnadi ja dágástalli dutkamdárbojt, lånudallat båhtusijt ja vuododit aktisasjbargojt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dotkijh viermesne fysiske jïh digitaale tjåanghkoeh utnieh juktie dotkemedaerpiesvoeth digkiedidh, illedahkh juekedh jïh laavenjostoem tseegkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Iemeálmmuga, demænssa ja nuorttarijkalasj álkkádussebrudagá</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aalkoe-almetjh, demense jïh noerhtelaanti tryjjesvoetesiebriedahkh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sámij ja inuihtaj riektá sujtto- ja huksosuorgen hiebaduvvi rijkajgasskasasj konvensjåvnåjn ja nasjonála lágajn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiej jïh inuihti reaktah sujhteme- jïh hoksesuerkesne stuvresuvvieh gaskenasjonaale konvensjovnijste jïh nasjonaale laakevihtiestimmijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Skihppijsujto ja sosiáladievnastusá lágajn ja organisierimin la iesjguhtik hábme guhtik rijkan ja suohkanin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Laaketjaeleme jïh årganiseradimmie skïemtjesujhtemistie jïh sosijaaledïenesjistie joekehtslaakan vååjnoeh ovmessie laantine jïh tjïeltine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Li stuora gielalasj ja kultuvralasj sieradusá sámij gaskan Nuorttarijkajn, ja inuihta duola degu viessu sihke smáves sebrudagájn Ruonáednamin ja Københámnan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Stoerre gïeleldh jïh kulturelle jeerehth saemiej gaskem ovmessie bieline Noerhtelaantijste, jïh inuihth jielieminie vuesiehtimmien gaavhtan dovne smaave siebriedahkine Kruanalaantesne jïh stoerrestaaresne Köpenhamn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ij gávnnu åbbålasj gåvvå dassta gåktu Nuorttarijkaj iemeálmmuga vásedi jali adni álkkádusdievnastusájt, valla nasjonála dásen muhtem diedo gávnnuji.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij leah naan tjåenghkies guvvie guktie aalkoe-almetjh Noerhtelaantine tryjjesvoetedïenesjh dååjroeh jallh nuhtjieh, men såemies daajroe nasjonaale daltesisnie gååvnese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vájku åvddånibme la buorep guovlluj mannam de gávnnuji ájn hieredime persåvnå sentreridum sujttuj manna la alla dásse, hieredime ma máhtti liehket nannusabbo várnnahis juohkusijda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jalhts positijve evtiedimmie orreme gelline suerkine annje heaptoeh gååvnesieh mah maehtieh stuerebe konsekvensh åadtjodh prååsehke dåehkide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gå divna nuorttarijka juohki gaskan vuodosujtto, fáhkatjiehppesujtto ja sosiáladievnastusá de soajttá liehket gássjel oadtjot jåhtuj aktiduvvam dåjmajt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Juekemen gaavhtan voestessujhtemisnie, sjïeresujhtemisnie jïh sosijaaledïenesjisnie gaajhkine Noerhtelaantine maahta geerve årrodh iktedamme råajvarimmieh åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Barggijt åttjudit ja máhtudakhásstalusá vájkkudi nievres kontinuitiehttaj sidjij gudi galggi oadtjot sujtov ja huvsov.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dåårrehtimmie- jïh maahtoehaestemh faatoes kontinuiteetem sjugniedieh dïsse mij edtja sujhtemem jïh hoksem åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuonarijkan la læhkám politihkalasj ulmme vaddet sáme álmmugij dievnastusáv mij la kultuvralattjat hiebaduvvam sámijda daj fálaldagájn ma juo gávnnuji farra gå dievnastusájt åvddånahttet sierraláhkáj sáme álmmuga gáktuj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nöörjesne dïhte politihkeles ulmie orreme aktem kultuvrelle sjïehtedamme dïenesjem vedtedh saemien årroejidie dej tseegkeme dïenesji sisnjeli buerebh goh dïenesjh evtiedidh mah leah sjïere dejtie saemien årroejidie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Sáme álmmuk adná varresvuodadievnastusájt sæmmi álu gå ieneplågo álmmuk dahká, valla ælla sæmmi dudálattja dajna sujtujn mij vatteduvvá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemien årrojh sujhtemem nuhtjieh seamma jïjnjem goh jienebelåhkoen årrodh, men ij leah dan madtjeles dejnie viehkine mij vadtasåvva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuojnnet ælla sieradusá sáme álmmuga ja ieneplågo álmmuga gaskan dasi mij guosská varresvuoda stáhtusij ja skihpudakprevalænssaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij vååjnh goh joekehtsh gååvnesh saemien årrojh jïh jienebelåhkoen årrojh gaskem gosse lea healsoestatusen jïh skïemtjelasselåhkoen bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Muhtem dutke dættodi sámijn la ietjálágásj dádjadus varresvuodas, skihpudagájs ja giehtadallamis gå ieneplågo álmmugin la.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies dotkijh tjïertestieh saemiej lea jeatjah goerkese healsoen, skïemtjelassen jïh båehtjierdimmien bïjre goh jienebelåhkoen årrojh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gávnnuji aj girjálasjvuodan buojkulvisá jut sáme ságasti skihpudagáj ja varresvuoda birra iehpenjuolgga vuogij baktu ja metafåvråj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lidteratuvre aaj gååvnese mij tjïerteste saemieh vielie skïemtjelassen jïh healsoen bïjre soptsestieh jeatjah vuekiej tjïrrh jïh viehkine metafovrijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåvvå jut sámegielak ulmutja ienemusát sihti sáme barggijt iejvvit gå varresvuoda- ja pasiænntasujttodievnastusájt adni la aj oadtjum ietjá gåvåv varrasap dutkamis, da vuosedi giellaano preferánsa li individuála ja dilláj tjanádum.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte mïele mij jeahta saamastallije almetjh ellen bööremes sijhtieh saemien barkijh gosse healsoe- jïh sujhtemedïenesjigujmie gaskesedtieh lea ånnetji orrestamme urrebe dotkemisnie, mij vuesehte sjaavnjoe gïeleåtnoen bïjre lea individuelle jïh jearohke tsiehkeste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Familljaj gullut ja árbbedábálasj vuoge ietjas dálkodit dættoduvvá muhtem åsijn girjálasjvuodas.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vihkelesvoete maadtoeladtjijstie jïh aerpievuekijste juktie jïjtjemse viehkiehtidh, åvtese lutnjesåvva bieline lidteratuvreste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>La dutkamprosjækta jådon gåktu jur sáme demensajn vásedi ja adni álkkádusdievnastusájt Vuonan: Offentlig demensomsorg.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daelie akte dotkemeprosjekte juhtieminie guktie saemieh demensinie raaktan tryjjesvoetedïenesjidie Nöörjesne dååjroeh jïh nuhtjieh: Byögkeles demensehokse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>og ulikheter i bruk av kommunale helse- og omsorgstjenester i områder med samisk og norsk bosetning.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Hedtieh jïh joekehtsh åtnose tjïelten healsoe- jïh hoksedïenesjijstie dajvine saemien jïh nöörjen årrojigujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nasjonalt kompetansetjeneste for aldring og helse, mij la nasjonála máhtudakguovdásj Vuonan la maŋemus jagijt tjadádam moadda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nasjonal kompetansetjeneste for aldring og helse, mij lea nasjonaale maahtoejarnge demensese Nöörjesne, lea dej minngemes jaepiej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>diehtojuohkemdåjma demensa ja demensasujto gáktuj ma li Vuona sámijda ájgodum, ja dahkam ræjdojt dasi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>gellie bïevneseråajvarimmieh demensen bïjre jïh demensehoksen bïjre tjïrrehtamme mah leah saemiej vööste Nöörjesne stuvresovveme, jïh ovmessie dïrregh åvtese vaalteme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ræjdo gávnnuji nuortta-, julev-, ja oarjjelsámegiellaj ja dárogiellaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>gååvnese noerhtesaemien, julevsaemien, åarjelsaemien jïh nöörjen gïelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Åvddål gå nanniduvvam láhka nasjonála unneplågoálmmugij ja unneplågogielajda doajmmaj bådij Svierigin, ådåjakmáno 1. biejve 2019, vattij ráddidus Sosiálastivrraj barggon kárttit máhttelis dárbojt máhttodoarjjaj varresvuohtasujton, ja sosialdievnastusán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åvtelen nænnoesåbpoe laake nasjonaale unnebelåhkoej jïh unnebelåhkoegïeli bïjre edtjin faamoem åadtjodh Sveerjesne tsïengelen 1. b. 2019, reerenasse Sosijaaleståvroem stilli goerehtalledh man stoerre daerpiesvoete lij daajroedåarjoste healsoe- jïh sujhtemen jïh sosijaaledïenesjen sisnjeli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kárttimis, mij ij gehtja demænssaskihppij dievnastusájda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtallemistie, mij lea leah sjïerelaakan sjïehtesjamme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>sierraláhkáj, boahtá åvddån unneplågoláhka ja nasjonála unneplågogatjálvisá li unnán vuoroduvvam sihke jådedimen gå suohkanij ja regiåvnåj barggijn, jut åvddågátto gávnnuji ja jut dádjadus vájllu danna manen nasjonála unneplågojn li sierra riektá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>dïenesjidie almetjidie demenseskïemtjelassine, våajnoes sjædta unnebelåhkoelaake jïh nasjonaale unnebelåhkoegyhtjelassh vuelege prioriteetem utnieh dovne åvtehki stuvremen jïh barkiji gaskem tjïeltine jïh dajvine, vaanesovmh gååvnesieh jïh goerkese fååtese man åvteste nasjonaale unnebelåhkoej leah sjïere reaktah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Unneplågolága njuolgadusá dålkkuduvvi moatte láhkáj suohkanijs ja regiåvnåjs ja nasjonála unneplåhkoálmmugij åvdåstiddjijs.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Doh joekehts tjïelth jïh aaj dah mah leah tjirkijh dej nasjonaale unnebelåhkoej åvteste unnebelåhkoelaaken nænnoestimmieh joekehtslaakan toelhkestieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Divnajn doajmmasuorgijn vájlluji bargge gejn la máhtudahka unneplåhko gielajn ja kultuvran.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Barkijh fååtesieh mej unnebelåhkoe- jïh unnebelåhkoemaahtoe gaajhkine barkoesuerkine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gájbbádusá doarjjaj ja dievnastusájda unneplågogiellaj la muhtem guovlojn ráddjiduvvam ja rievddi ájge badjel, navti sjaddá suohkanijda ja regiåvnåjda gássjelabbo fállat nanos fálaldagáv sosiála- ja varresvuodadievnastusáj unneplågogielajda. Kárttima vuosedi moadda dåjma ulmmejuohkusij gáktuj, valla dille målssu ednagit suohkanij gaskan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gyhtjelasse dåarjoen jïh dïenesji bïjre unnebelåhkoegïelesne lea såemies dajvine gaertjiedamme jïh molse tïjje doekoe, mestie geervebe sjædta tjïeltide jïh dajvide aktem stabijle faalenassem faalehtidh sosijaale- jïh sujhtemedïenesjijstie unnebelåhkoegïelesne, men tsiehkie tjarke jeerehte tjïelti gaskem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jagen 2017 álgadin regiåvnå Norrbotten, Västerbotten, Jämtland Härjedalen ja Dalarna prosjevtav Kunskapsnätverk för samisk hälsa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaepien 2017 doh sveerjen regijovnh Norrbotten, Västerbotten, Jïemhte Herjedaelie jïh Dalarna prosjektine nïerhkin Kunskapsnätverk för samisk hälsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Svieriga Sámedigge vuododij jagen 2018 varresvuoda-, boarrásij ássjij- ja valástallamnammadusáv, manna la lahka aktisasjbarggo máhttoværmádagájn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Saemiedigkie Sveerjesne aktem moenehtsem healsose, båeriesalmetjegyhtjelassh jïh gaarsjelimmiem nammoehti jaepien 2018, mij aktem lïhke laavenjostoem daajroeviermine åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aktan Sámedikkijn ja sáme organisasjåvnåj la værmádahka åvddånahttám nasjonála stratesjijav sáme varresvuoda</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Laavenjostosne Saemiedigkine jïh saemien siebriejgujmie, viermie lea raeriestimmiem nasjonaale strategijem saemien healsose buakteme,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>gáktuj, danna la geriatrijkka akta vidá vuoroduvvam suorgijs. Suoman la prosjækta tjerdalasj unneplågoj ja mujtodisvuoda birra,</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>raeriestimmiem nasjonaale strategijese saemien healsose buakteme, gusnie geriatrije lea akte dejstie vïjhte prioriteradamme sujhtemesuerkijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>ETNIMU, åvddånahttám nasjonála doajmmamodellajt ja tjiegŋodahttám diedojt mujto ja mujtodisvuoda birra åbbålattjat tjerdalasj unneplågoj gaskan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såevmesne akte prosjekte etnihkeles unnebelåhkoej bïjre jïh mojhteseskïemtjelassi bïjre, ETNIMU, nasjonaale gïehtelimmiemaallh evtiedamme jïh daajroem lissiehtamme mojhtesen jïh mojhteseskïemtjelassi bïjre etnihkeles unnebelåhkoej gaskem sïejhmelaakan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Prosjækta la aj ienep diedojt vaddám ámmátulmutjijda ja studentajda sosiála- ja varresvuodasujton gåktu ulmmejuohkusijn bierri barggat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Prosjekte aaj gïengelåbpoe daajroem vadteme profesjonelle barkijidie jïh studeentide sosijaale jïh healsoesujhtemen sisnjeli barkoen bïjre ulmiedåehkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suoma stáhtta muhtem dårjav vaddá sáme sosiála- ja varresvuodadievnastusáj fállamij.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såevmien staate aktem vihties dåarjoem vadta juktie saemien sosijaale- jïh healsoesujhtemedïenesjh vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dát dagáduvvá Sámedikke baktu. Sámedigge la tjielgadam ulmijt gåktu fállat sosiála- ja varresvuodadievnastusájt sámegiellaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate dorjesåvva Saemiedigkien baaktoe, mij ulmieh bïejeme guktie sosijaale- jïh healsoesujhtemedïenesjh maehtieh vadtasovvedh saemien gïelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Valla diedádusá jagijn 2001 ja 2008 vuosedin dievnastusá sosiála- ja varresvuodadievnastusájn ællim dågålattja sámegiela gáktuj, suohkanijn aj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reektehtsh jaepijste 2001 jïh 2008 vuesiehtin læjhkan faalenasse sosijaale- jïh healsoedïenesjidie saemiengïelesne annje lij nåake, aaj tjïeltine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dagu ietjá nuorttarijkajn li sámegiela pasienta gássjelisvuodajt vásedam iesjguhtik lágásj sjiemájn ma guoradaládijn aneduvvi, dagu mujttogæhttjalimen, danna aneduvvi buojkuldagá ma li abmasa jali ælla relevánta boarrásap sámijda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goh jeatjah noerhtelaantine saamastallije skïemtjijh Såevmesne dåeriesmoerh åådtjeme ovmessie goerigujmie mah åtnasuvvieh ovmessie teestine goh mojhteseteeste, gusnie teermh nuhtjie mah eah leah åehpies jallh sjyöhtehke båarasåbpoe saemide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>THL, Varresvuoda ja álkkádusá instituhtta Suoman la tjadádam prosjevtav sámij álkkádusá dássádusá gáktuj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>THL, Healsoen jïh tryjjesvoeten instituhte Såevmesne lea prosjektem mïrrestallemen åvteste saemiej tryjjesvoeten sisnjelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>SámiSoster la aj tjadádam moadda åvddånahttem- ja pilotprosjevtajt ja fállá sijdadievnastusáv sámegiellaj Enodagá (Enontekiö) suohkanin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aaj årganisasjovne SamiSoster lea jienebh evtiedimmie- jïh pilovteprosjekth tjïrrehtamme jïh hïejmedïenesjh saemiengïelesne faalehte Enontekin tjïeltesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jagen 2017 oattjoj organisasjåvnnå europealasj guddnebálkkáv ietjas bargos åvdås, duola degu prosjevtajn man ulmme lij doarjjot sámijt gænna la demænssa navti váj oadtjun kultuvralasj ja gielalasj dárbojt ållidum musihka, duoje ja luonndovásádusáj baktu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaepien 2017 årganisasjovne europejen åasam åadtjoeji sov barkoen åvteste, gaskem jeatjah akten prosjekten åvteste man aajkoe lij saemieh demensine dåarjoehtidh viehkien kulturelle jïh gïeleldh daerpiesvoeth faalehtidh viehkine musihkeste, vætnoste jïh eatnemedååjresijstie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ruonáednama ráddidus mierredij nasjonála demænssastratesjijjav jagen 2013, dat lij vuolggám guoradallamis jages 2012.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kruanalaanten reerenasse sjæjsjali aktem nasjonaale demensestrategijem 2013, man aalkoe lij akte salkehtimmie jaepeste 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Pládna la ájn dåjman, valla ij la desti sæmmi ájggeguovddelis.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Soejkesje annje faamosne, men lea såemiesmearan fer båeries sjidteme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Demænssasuorge åvdås vásstet Departementet for sundhed, sij tjuovvoli demænssastratesjijja tjadádimev suohkanijn ja almulasj skihppijsujto (Sundhedsvæsenets) dåjmav.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Diedte demenesesuerkien åvteste lea Aejliesvoeten departemeenten luvnie/Departementet for sundhed, mij demensestrategijen sjïehtesjimmiem bæjjese fulkie tjïelti jïh byögkeles sujhtemen (Sundhedsvæsenets) barkosne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guoradallamin jages 2012 bådij åvddån suláj 250 ulmutjijn Ruonáednamin lij diagnåvseridum demænssaskihpudahka.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Salkehtimmie jaepeste 2012 vuesiehti ovrehte 250 almetjh Kruanalaantesne jieliejin aktine diagnosisteradamme demeneseskïemtjelassine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jagen 2019 almodij dutkam- ja åvddånahttemprosjækta Arktisk aldring (AgeArc) vijdes tjielggidusáv vuorrasap ulmutjij diles</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2019 dotkeme- jïh evtiedimmieprosjekte Arktisk aldring (AgeArc) aktem vijries buerkiestimmiem båarasåbpoe almetji jieledetsiehkijste Kruanalaantesne darjoeji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ruonáednamin. Diedádusá vuodo la álmmuklåhko jagen 2018 ja vijdes etnográffalasj ságájdahttema.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reektehtse aktem årrojegoerehtimmiem våaroeminie åtna jaepeste 2018 jïh aktem gamte etnografeles gihtjehtimmiematerijellem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dassta boahtá åvddån moadda lagámusá, valla e val gájka, vásedi gássjelis la guládallat ja diedojt oadtjot oajválattjajs ja suohkanijs.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte vuesehte gellie lïhke fuelhkielihtsegh, men eah gaajhkesh, faatoes gaskesadtemem jïh bïevnesh fååtesin åejvieladtjijste jïh tjïeltijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Li stuorra sieradusá suohkanij gaskan mij guosská sujttobarggij máhtudahkaj demensa ja demensa huvso birra, ja álmmugin la stuora dárbbo diedojt åttjutjit demensa birra.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Stoerre joekehtsh tjïelti gaskem man jïjnjem daajroem sujhtemebarkijh demensen bïjre utnieh jïh hijven demensehoksen bïjre, jïh lissine akte stoerre daerpiesvoete bïevnesigujmie demensen bïjre årroji luvnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Diedádusán oajvvaduvvá nasjonála diehtovuorkká ja guládallamguojmme ruodnáednama suohkanijda, manna la åbbålasj vuojnno dassta makkir ressursa gávnnuji guhtik suohkanin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reektehtsisnie aktem nasjonaale daajroebaanhkem jïh haarjanimmieguejmiem juvnehte kruanalaanten tjïeltide, mah maehtieh bijjieguvviem utnedh dej vierhtiej bïjre mah gååvnesieh fïereguhtene tjïeltesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Divna demænssaguoradallama dagáduvvi Dronning Ingrids Hospitalan, mij la Ruonáednama rijkkaskihppijviesso.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh salkehtimmieh demensen bïjre tjïrrehtamme sjidtieh Dronning Ingrids Hospitalesne, mij lea Kruanalaanten rijhkehospitaale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Dáppe gávnnuji neurolåvgå, skihppijsujttára ja skihppijgymnasta gudi demensa suorgen barggi, valla oajválattja barggi dan guovlluj ahte galggá liehket máhttelis stuorep oasev demensa guoradallamis bájkálattjat tjadádit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daesnie neurologe, skïemtjesåjhtere jïh fysioterapeute mah demensesuerkien sisnjelen berkieh, men åejvieladtjh berkieh ihke edtja nuepie årrodh aktem stuerebe bieliem demensesalkehtimmijste voenges sijjesne darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Guoradallamræjddo RUDAN jårggåluvvá jagen 2019 kalaallisut giellaj ja galggá validieriduvvat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaepien 2019 edtja teestedïrregem RUDAS jarkoestih kruanalaanten gïelese jïh edtja dam vihtiestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ruonáednama vuostasj nasjonála konferánssa demensa birra plániduvvá jahkáj 2020. Dan åvdås vásstedi Departementet for sundhed, Departementet for Sociale og Justitsområdet aktan dutke arktalasj vuorastuvvamprosjevtas.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kruanalaanten voestes nasjonaale konferanse demensen bïjre soejkesjeminie tjïrrehtidh 2020, Aejliesvoeten departemeenteste, Sosijaale jïh justijsedepartemeenteste jïh dotkijijstie aktede arktiske voereseprosjekteste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Iemeálmmukperspektijvva nuorttarijkalasj demensa aktisasjbargon</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aalkoe-almetjeperspektijve noerhtelaanti laavenjostosne demensen bïjre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jage 2015 rájes koordineri Nuorttarijkalasj álkkádusguovdásj nuorttarijkalasj demensværmádagáv rijka oajválattjaj åvdåstiddjij ja fáhkatjiehpij.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2015 raejeste Noerhtelaanti tryjjesvoetejarnge aktem noerhtelaanti demenseviermiem iktede tjirkijidie åejvieladtjijste jïh tjiehpijste laantine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Værmádagá barggamvuodo li da nasjonála stratesjijja ja mærrádusá ma demensa gáktuj gávnnuji.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Viermien våarome lea doh nasjonaale strategijh jïh njoelkedassh mah demensesuerkesne gååvnesieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jagijn 2013–2017 koordinerij Nuorttarijkalasj álkkádusguovdásj prosjevtav Samer med funktionsnedsättning, barggovadde lij Vuonarijka Barne-, ungdoms- og familiedirektoratet (Bufdir).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2013 raejeste 2017 raajan Noerhtelaanti tryjjesvoetejarnge prosjektem iktedi man nomme Saemieh funksjovnegiehpiedimmine, stillemen mietie nöörjen åejvieladtjeste Maana-, noere- jïh fuelhkiedirektoraateste (Bufdir).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Duogásj lij nuorttarijkajn gávnnu binná diehto doajmmahiereduvvam ulmutjij birra gejn la sáme duogásj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Våarome lij vaenie daajroe gååvnei almetji bïjre funksjovnegiehpiedimmine jïh saemien maadtojne noerhtelaantine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Prosjevta boados lij åvddågehtjastibme, vihtta dutkamdiedádusá ja akta prosjæktadiedádus manna lidjin policy oajvvadusá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Prosjekten illedahke lij akte åvtegoerehtimmie, vïjhte dotkemereektehtsh jïh aktem prosjektereektehtsem policyjuvnehtimmiejgujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Jagen 2017 oattjoj Nuorttarijkalasj álkkádusguovdásj sávadusájt dutkijs, suohkanijs ja ietjá berustiddjijs nuorttarijkajn låpptit iemeálmmukperspektijvav aj demensa suorgen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaepien 2017 Noerhtelaanti tryjjesvoetejarnge sjaavnjoeh dotkijijstie, tjïeltijste jïh jeatjah aktöörijste Noerhtelaantine åadtjoeji juktie aalkoe-almetjeperspektijvem lutnjedh aaj demensesuerkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aktisasjbargojn Region Jämtland Härjedalen ja sáme ávvojahke Staare 2018 ásadij Nuorttarijkalasj álkkádusguovdásj vuostasj nuorttarijkalasj konferánsav iemeálmmugij ja demensa birra Staaren 2018 tjavtja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Laavenjostosne Regijovne Jïemhte Herjedaeline jïh saemien heevehtimmiejaepine Staare 2918, Noerhtelaanti tryjjesvoetejarnge dam voestes konferaansem öörnedi aalkoe-almetji jïh demensen bïjre Staaresne tjaktjen 2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konferánssaj tjåhkanin ienebut gå 90 dutke, virggeulmutja nasjonála, regionála ja suohkana dásen, suohkanij sujtto ja huksosuorge bargge ja sáme sivijlasebrudahka.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Konferanse tjööngki jienebh goh 90 dotkijh, dïenesjebarkijh nasjonaale, regijonaale jïh tjïelten daltesisnie, praktihkerh tjïelten sujhteme- jïh hoksesuerkesne jïh saemien sivijle siebriedahkeste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konferánsa oassálasste guorrasin jut nuorttarijkaj álkkádusvuogádagájn gávnnuji buorre ássje maj máhttá joarkket barggat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah mah lin meatan konferansesne seamadin hijven aamhtesh gååvnesieh mej nille maehtieh guhkiebasse bigkedh noerhtelaanti tryjjesvoetesysteemen sisnjeli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Duola degu gávnnuji ållo suohkanijn Svierigin ja Vuonan sáme skåvllå, åvddåskåvllå ja mánájsujtto, ja aj sáme boarrásijsujtto.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuesiehtimmien gaavhtan saemien skuvle, aarhskuvle jïh maanahokse gelline tjïeltine Sveerjesne jïh Nöörjesne, jïh aaj saemien båeriesalmetjesujhteme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>“Sáme” báhko árvval sámegiella aneduvvá ja jut ásadus dåjmaduvvá navti vaj dat hiehpá sáme kultuvrajn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>”Saemien” sæjhta jiehtedh saemien gïele åtnasåvva jïh barkoe stuvresåvva guktie sjeahta dejnie saemien kultuvrine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Maŋemus jagij åvddånibme nav gåhtjodum persåvnå sentrieriduvvam vuorrasij- ja demensasujto guovlluj vájkkut stuorep oasse sujtos vuolggá indivijda ja indivijda duogátjis, berustimijs ja máhtojs, mij merkaj sáme perspektijvva oadtju luondulasj sajev sáme guovlojn ja ulmutjijda gejna la sáme identitiehtta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Evtiedimmie dan mij gohtjesåvva almetjestuvreme båeriesalmetje- jïh demensesjijsujhtemasse våaromem åtna almetjisnie jïh almetjen maadtosne, iedtjh jïh maahtoeh, mij sæjhta jiehtedh saemien perspektijve aktem iemie sijjiem åådtje saemien dajvine jïh almetjidie saemien identiteetine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Da aj ienebut gå åvddål guosská lagámusájda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jïh lïhke fuelhkie aaj enn vielie meatan vaaltasuvvieh sujhtemisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Konferánsa maŋŋela, gidán jagen 2019, vuododuváj nuorttarijkalasj værmádahka iemeálmmugij ja demænssaj, danna oassálassti oajválattjaj åvdåstiddje, dutke ja bargge sujtto- ja huksoprofesjåvnåjn, Suoman, Vuonan, Svierigin ja Ruonáednamin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Konferansen mænngan, gïjren 2019, orre noerhtelaanti viermie tseegkesovvi suerkesne aalkoe-almetjh jïh demense, tjirkijigujmie åejvieladtjijste, dotkijigujmie jïh barkijigujmie sujhteme- jïh hoksebarkojne, Såevmeste, Nöörjeste, Sveerjeste jïh Kruanalaanteste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Værmádahka la akta gålmåt tiebmáværmádagájs Nuorttarijkalasj álkkádusguovdátja værmádagá vuolen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Viermie lea akte golme teemaviermijste Noerhtelaanti demenseviermien nuelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ájggomus la aktan dárbojt identifisierit ådå dutkamijda, dåjmajda ma máhtudagáv låpptiji ja jårggålit ja hiebadit diagnåvserimvædtsagijt sámegiellaj ja kalaallisut giellaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aajkoe lea ektesne daerpiesvoetem gaavnedh orre dotkemasse, maahtoelutnjije råajvarimmieh jïh jarkoestimmie jïh sjïehtedimmie diagnosisteradimmiedïrregh saemien gïelide jïh kruanalaanten gïelese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hásstalusá ja oajvvadusá juohkusijs vuostasj nuorttarijkalasj konferánsan iemeálmmugij ja demensa gáktuj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Haestemh jïh raeriestimmieh barkoetjåanghkoedåehkijste voestes noerhtelaanti konferansesne aalkoealmetji jïh demensen bïjre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hásstalus 1</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Haesteme 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vánes diedo riektáj birra ja majt da merkahi, suohkanij ja riektáguoddij gaskan</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Faatoes daajroe reaktaj bïjre jïh ulmien bïjre dejstie, tjïelti jïh reakta-aajhteri luvnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Riektálága li rámmalága ma muhtem mudduj e suohkanijs vieleduvá, muhtem mudduj e vatte suohkanijda almma ræjdojt jalik sijá åvdåsvásstádusájt nuoges tjielggasit definieri.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Reaktalaaketjaeliemisnie mierielaakh mah såemiesmearan eah nuekies itjmieslaakan tjïeltijste vaaltasovvh, såemiesmearan eah tjïeltide tjïelke dïrregh vedtieh jallh dej diedtem nuekies tjïelkelaakan tjïelkesth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Moadda suohkana barggi “sæmmi gájkajda” prinsihpa milta, valla duodan dat merkaj álkkádusdievnastusá sjaddi sæmmi lágatja, e dássásattja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gellie tjïelth akten prinsihpen mietie berkieh ”seammalaakan gaajhkesidie”, men daate rïektesisnie sæjhta jiehtedh tryjjesvoetedïenesjh seammalaakan sjidtieh, men eah mïrrestalleldh sjïdth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Giella ja tjerdalasjvuohta regissterij gártjedibme vájkkut váj suohkanijda sjaddá gássjelabbo “gávnnat” sámijt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Restriksjovni gaavhtan registerinie gïelen jïh etnisiteeten bïjre dellie geerve tjïeltide sjædta saemieh ”gaavnedh”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Stuorra stádasuohkana ma doarjju moattebelakvuodadåjmajt ja - prosjevtajt majt sivijla sebrudahka jådet e sáme organisasjåvnåjt doarjo, danen gå sáme e gullu ulmmejuohkusij mij galggá “sebrudahteduvvat”.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Stoerrestaaretjïelth mah gellielaaketje råajvarimmieh jïh prosjekth dåarjoeh mah öörnesuvvieh sivijle siebriedahkeste eah saemien siebrieh dåarjoeh, dan åvteste saemieh eah leah meatan “integreradimmien” ulmiedåehkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Ij la javladuvvam “Demænssa” gávnnu (vuorrasap) sámij ja inuihtaj gaskan skihpudak namán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• ”Demense” ij badth gååvnesh (båarasåbpoe) saemide jïh inuihtide, jallh ij tjïelkestamme sjïdth goh mij akt jeatjah goh skïemtjelasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Moadda sáme ælla bessam oahppat låhkåt ja tjállet sámegiellaj, ja sij e máhte ávkástallat tjálalasj diehtojuohkemábnnasijt ietjasa giellaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gellie båeries saemieh eah leah åådtjeme lohkedh jïh tjaeledh saemiengïelesne, jïh eah maehtieh tjaaleldh bïevnesematerijellem nuhtjedh jïjtsh gïelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ienebu gejna la iemeálmmukduogásj lulun galggat ietjasa riektájt dåbddåt, majt merkaj sáme háldadimsuohkanin årrot ja makkir riektá lága vaddi viesádijda gudi e háldadimsuohkanin åro.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jienebh almetjh aalkoe-almetjemaadtojne byöroeh sijjen reaktah damtedh, mij sæjhta jiehtedh saemien reeremedajvetjïeltine årrodh jïh mah reaktah laaketjaeleme årroejidie vedtieh mah eah dam daejrieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oajvvadus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Raeriestimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>1. Nasjonála njuolgadusá ja mærrádusá sujto ja huvso gáktuj ulmutjijda gejna la demænssa hæhttuji iemeálmmukperspektijvav vieledit ja dan praktihkalasj vájkkudusájt, duola degu iednegiella, dålkkum, “iellembirrasa perspektijva”, kulturbuojkuldagá, sensitivitiehtta ja nav gåhtjodum cultural safety.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1. Nasjonaale njoelkedassh jïh mieriedimmieh sujhtemen jïh hoksen bïjre almetjidie demensinie tjuerieh aalkoealmetjeperspektijvem bæjjese vaeltedh jïh doh praktihkeles konsekvensh destie, vuesiehtimmien gaavhtan ietniengïele, åtnoe toelhkeste, ”jieledevearteneperspektijve”, kultuvredïejvesh, sensiviteete jïh dïhte mij gohtjesåvva cultural safety.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Demænssajuohkusijn, doarjja giehtadallijn ja ietjá suohkana åvdåstiddjijn galggá liehket tjielgga barggogåhttjom subtsastit makkir riektá ájnegis viesádijn li iemeálmmugij ja unneplågoj nasjonála lágaj gáktuj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Demensedåehkie, dåarjoegïetedæjja jïh jeatjah tjirkijh tjïelti åvteste byöroeh tjïelkebe stillemem utnedh soptsestidh mah såarhts reaktah fïereguhte årroje åtna nasjonaale laaki mietie aalkoe-almetji jïh unnebelåhkoej bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2. Sáme háldadimsuohkana dárbahi njuolgadusájt, rádijt ja ietjá lágásj doarjjagijt ma li nasjonála dásen åvddånahteduvvam gåktu riektálágajt máhttep praktihkalattjat tjadádit.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2. Saemien reeremetjïelth njoelkedassh, bihkedassh jallh jeatjah såarhts dåarjoem daarpesjieh, evtiesovveme nasjonaale daltesisnie, guktie maahta reaktalaaketjaelemem rïektesisnie tjïrrehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Nasjonála oajválattja lulun galggat hábbmit ja fállat duohta diehtojuohkemdåjmajt majt sáme háldadimsuohkana máhtti adnet, åbbålattjat sámij birra ja dárkkelappot makkir riektá li ja gåsi máhttá gujddit jus riektá e vieleduvá.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nasjonaale reeremetjïelth byöroeh hammoedidh jïh faalehtidh tjïelke bïevneseråajvarimmieh mejtie saemien reeremetjïelth maehtieh nuhtjedh dan saemien bïjre sïejhmelaakan jïh vielie tjïelke mah reaktaj bïjre maam åtna, jïh guktie maahta laejhtedh jis reaktah eah illesovvh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>3. Akta vejulasj doajmma nuorttarijka dásen máhttá liehket kárttit ja buohtastahttet guoskavasj riektálágajt ja gåktu da bájkálattjat li implementieriduvvam Vuonan, Svierigin, Suoman, Ruonáednamin ja vejulattjat Danmárkon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>3. Akte råajvarimmieh noerhtelaanti daltesisnie maahta årrodh sjïehteles reaktalaaketjaelemem goerehtalledh jïh viertiestidh jïh dam voenges sjïehtesjimmiem destie Nöörjesne, Sveerjesne, Såevmesne, Kruanalaantesne jïh dagke aaj Danmarhkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hásstalus 2</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Haesteme 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vánes máhtudahka gielan ja kultuvran suohkanijn</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Faatoes gïele- jïh kultuvremaahtoe tjïeltine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Vuona ja Svieriga suohkana vuorjját sáme giella- ja kultuvrramáhtov gájbbedi gå barggijt åhtsi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Nöörjen jïh sveerjen tjïelth eah daamtaj saemien gïele- jïh kultuvredaajroen mietie gihtjh gosse edtjieh barkijh dåårrehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Ruonáednamin vájlluji bargge gudi dádjadi ja ságasti kalaallisut gielav.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kruanalaantesne barkijh fååtesieh mah guarkoeh jïh soptsestieh kruanalaanten gïelem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Vuonan gávnnu skihppijsujttáråhpadus man oahppogirjijn la sáme perspektijvva.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Nöörjesne skïemtjesåjhtereööhpehtimmieh gååvnesieh mah lidteraruvrem saemien perspektijvigujmie utnieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>La dåssju akta åhpadus manna la sierra prográmma hábbmiduvvam. Dav vuoset dutkam mij åvddånbuvteduváj konferánsan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ajve akte ööhpehtimmie jïjtse programmem åtna mij lea ulmien vööste hammoedamme, dotkeme vuesehte maam konferansesne åehpiedehti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suoman la prosjækta tjadáduvvam manna la sáme giella- ja kultuvrramáhtto sierra diakåvnnå- ja skihppijsujttáråhpadusán, valla åbbålattjat la sáme perspektijvva viehka vuojnnemahtes svieriga ja suoma åhpadusájn varresvuoda, skihppijsujto ja sosiála suorgijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såevmesne aktem prosjektem tjïrrehtamme sasemien gïele- jïh kultuvremaahtojne aktene sjïere diakovne- jïh skïemtjesåjhtereööhpehtimmesne, men saemien perspektijvh leah jeenjemasth ovvåajnoes sveerjen jïh såevmien ööhpehtimmine healsoe-, sujhteme- jïh sosijaalesuerkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oajvvadus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Raeriestimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>1. Suohkana dárbahi systematiserit bargojdisá gå galggi barggijt åttjudit gejna la máhtudahka sáme gielan ja kultuvran.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1. Tjïelth daarpesjieh barkoem systematiseradidh jutkie barkijh dåårrehtidh saemien gïele- jïh kultuvremaahtojne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Álggolávkke máhttá liehket tjállet almodusájn mielas vuorddá sáme åhttsijt, dagu Straejmien tjïelte (Strömsunds kommun) Svierigin dahká.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Akte aalkoe maahta årrodh annonsine tjaeledh tjïelte maaje vuajna saemieh sijhtieh ohtsedh, goh Straejmien tjïelte Sveerjesne dorje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Suohkana lulun aj galggat stiellit ådå merihta-, barggovásádusá- ja bálkkámáhttelisvuodajt barggijda gejna la relevánta máhtudahka gielan ja kultuvran.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelth byöroeh aaj orre maahtoe-, karrijeere jïh baalhkenuepieh barkijidie sjugniedidh sjyöhtehke gïele- jïh kultuvremaahtojne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2. Dárbaj máhttovuododum ábnnasijt sámij ja inuihtaj árbbedábálasj vuojno milta demensa gáktuj, ja meritierijiddje sertifisierimav dajs barggijs majna la sáme ja inuihta kultuvrramáhtudahka, duola degu vásádusá Silvia- sertifisierimis Svierigin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2. Daajroebaseradamme materijelle daerpies saemiej jïh inuihti aerpievuekien vuajnoen bïjre demensese, jïh daerpies aktine jååhkesjimmine såjhteri maahtojste mej saemien jïh inuihten kultuvremaahtoe, vuesiehtimmien gaavhtan aalkovinie dååjrehtimmine Silvia-jååhkesjimmeste Sveerjesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Máhttá åvddånahttet praktihka lahka vuodoåhpadusáv sáme kultuvrramáhtudagán divna virggeulmutjijda sujtto-, huvso- ja sosiáladievnastusán sáme háldadussuohkanijn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lij sån aaj maahteme aktem praksiselïhke maadthööhpehtimmiem evtiedidh sujhteme-, hokse- jïh sosijaaledïenesjisnie saemien reeremetjïeltine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vuodulasj ja avtagerdak gatjálvisá degu “mij la sábme” ja “årru gus sáme stuora stádan? ” hæhttu problematisieriduvvat ja vássteduvvat åhpadusán.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Byöroe digkiedidh jïh vaestiedidh maadthgyhtjelassh jïh aelhkie gyhtjelassh ööhpehtimmesne goh ”mij lea saemie” jïh ”saemieh stoerrestaarine årroeh?”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hásstalus 3</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Haesteme 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vánes ræjdo bæjválasj bargon ja ræjdo maj dåjmav åvddånahtti</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Faatoes dïrregh biejjieladtje barkosne jïh dïrregh juktie barkoem evtiedidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Muhtem ræjdo li Vuonan åvddånahteduvvam, duola degu diagnåvserim ja diehtojuohkem lagámusájda, valla ájn la stuora vánesvuohta ræjdojs ma li kultuvrraj hiebaduvvam ja/jali jårggåluvvam divna sámegielajda ja kalaallisut giellaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Nöörjesne såemies dïrregh leah evtiesovveme, vuesiehtimmien gaavhtan diagnostiseradimmien jïh bïevnesi sisnjeli lïhke fualhkan, men annje jïjnjh kultuvresjïehtedamme jïh/jallh jarkoestamme dïrregh fååtesieh, gaajhkine saemien gïeline jïh kruanalaanten gïelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oajvvadus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Raeriestimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>1. Máhttelis doajmma nasjonála ja nuorttarijkalasj dásen la ásadit jahkásasj arienájt háldadussuohkanij jådediddjijda ja barggijda gånnå bessi gávnadit ja vásádusájt lånudallat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1. Akte råajvarimmie mejnie maahta nïerhkedh nasjonaale jïh noerhtelaanti daltesisnie lea areenah tseegkedh åejvide jïh barkijidie reeremetjïeltine fïerhten jaepien juktie gaavnedidh jïh dååjrehtimmieh juekedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2. Ietjá máhttelis doajmma, mij aj máhttá tjadáduvvat nasjonála jali nuorttarijkalasj dásen, la identifisierit ræjdojt ma juo gávnnuji ja aneduvvi nuorttarijkajn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2. Akte jeatjah råajvarimmieh mejnie maahta nïerhkedh, maam aaj maahta nasjonaale jallh noerhtelaanti daltesisnie tjïrrehtidh, lea dïrregh damtijidh mah joe noerhtelaantine gååvnesieh jïh åtnasuvvieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Vijddásabbo luluj buorre identifisierit máhttelis relevánta værmádagájt, ræjdojt ja metåvdåjt ma li unneplågojda åvdeduvvam degu duortnusvággelattjajda, svierigasuobmelattjajda, guojnajda ja juvdájda.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lissine lij hijven orreme sjyöhtehke viermieh, dïrregh jïh vuekieh damtijidh mah dagke gååvnesieh, jïh mah leah unnebelåhkojde dorjesovveme, goh tornedaalerh, sveerjensåevmieladtjh, kveenah jïh juvdelassjh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Kárttim máhttá aj gåvvidit dåjmajt suohkanijn, degu vuorrasijsijda ja biejvvedåjma majna la sáme sisadno.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtalleme maahta aaj tjïelten råajvarimmiej bïjre årrodh, goh hoksegåetieh båeries almetjidie jallh biejjiedarjomh saemien profijline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aj systematihkalasj tjoahkkim lagámusáj subttsasijs luluj máhttet aneduvvat vuodon suohkanij dåjmaj åvddånibmáj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta aaj soptsesh, mejtie systeemen mietie sïjse tjöönghkie lïhke fuelhkeste, våaroeminie nuhtjedh juktie tjïelti barkoem evtiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Buoragit vuorbástuvvam buojkulvisájt luluj máhttet tjoahkkit digitála, nuorttarijkalasj ræjddogijssáj, mav de juogat iesjgeŋga nasjonála demænssa máhtudagá guovdátjij baktu ma juo gávnnuji.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta læhkoes vuesiehtimmieh tjïeltijste akten digitaale noerhtelaanti dïrregevåarhkose tjöönghkedh, maam maahta geerjehtidh dej nasjonaale demensemaahtoejarngi tjïrrh mah gååvnesieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Hásstalus 4</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Haesteme 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Gåktu joarkkep nuorttarijkalasj aktisasjbargujn iemeálmmugij ja demensa ássjij?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie laavenjostojne jåerhkebe aalkoe-almetji jïh demensen bïjre?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Dárbaj nuorttarijkalasj tiebmáværmádagáv demensa ja iemeálmmugij gáktuj, oassen almulasj nuorttarijkalasj aktisasjbargos demensa birra ja danna hæhttu liehket nanos ja stuoves ruhtadibme.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Daerpies aktine noerhtelaanti teemaviermine demensese jïh aalkoe-almetjidie, goh bielie dehtie byögkeles noerhtelaanti laavenjostoste demensen bïjre, jïh aktine stabijle jïh ihkuve beetnehdåarjojne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tiebmáværmádahka bierri tjielgadit gåktu máhttá systemáhtalattjat barggat Sámedikkij ja Ruonáednama åvdåstiddjij siegen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Teemaviermie byöroe sjyöhtehke systematihkeles laavenjostoevuekieh damtijidh Saemiedigkine jïh kruanalaanten aktöörigujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Tiebmáværmádagán luluj máhttet liehket lájddistiddje rålla ressursaj identifisierimin, duola degu diagnostiserimvædtsagijt, dárkestimlista ja muodugattja majt máhttá jårggålit ja hiebadit ietjá nuorttarijkaj adnuj (gehtja badjelin).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Teemaviermie edtja maehtedh stuvrije råållam utnedh gosse edtja vierhtieh damtijidh, goh vuesiehtimmien gaavhtan diagnosisteradammedïrregh, gïehtjedimmielæstoeh jïh plearoeh mejtie maahta jarkoestidh jïh sjïehtedidh, guktie dah maehtieh jeatjah noerhtelaantine åtnasovvedh (vuartesjh bijjielisnie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Værmádagán máhttá aj liehket roalla identifisierit ja ævtodit tjoavddusijt ådå dárbojda, duola degu ræjdojt ja barggovuogijt ma li hiebaduvvam nuorap ulmutjijda gejn la demænssa ja gudi iemeálmmugij gulluji.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Viermie aaj maahta råållam utnedh damtijidh jïh vuekieh raeriestidh orre daerpiesvoeti bïjre, vuesiehtimmien gaavhtan dïrregh jïh vuekieh mah leah sjïehtedamme nuerebe almetjidie demensine jïh aalkoealmetjemaadtojne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Oajvvadus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Raeriestimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>1. La dárbbo nuorttarijkalasj kárttimbargguj mij tjielgat makkir nuorttarijkalasj ja rijkajgasskasasj dutkama juo gávnnuji demensa ja iemeálmmugij birra.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1. Daerpies aktine noerhtelaanti goerehtalleminie dehtie noerhtelaanti jïh gaskenasjonaale dotkemistie mij demensen jïh aalkoe-almetji bïjre gååvnese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tiebmáværmádahka luluj máhttet álgadit dágástallamav nasjonála oajválattjaj gåktu kárttimav nuorttarijkalasj diehtoportálajda sebrudahttet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Teemaviermie edtja maehtedh dialogem aelkedh nasjonaale åejvieladtjigujmie juktie goerehtallemem noerhtelaanti daajroeportaaline sjïehtesjidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Tiebmáværmádahka luluj aj máhttet gæhttjat makkir máhttelisvuoda li nuorttarijkalasj aktisasjbargov måvtåstuhttet dutkamin, duola degu gåktu duot dát doajmma vájkkut jali diedalasj kárttim dárbojs.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Teemaviermie edtja aaj vuartasjidh mejtie nuepie gååvnese noerhtelaanti laavenjostose skreejrehtidh dotkemen bïjre, vuesiehtimmien gaavhtan effekti bïjre ovmessie råajvarimmijste jallh daejremevoeteles goerehtallemen bïjre daerpiesvoetijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Aktisasjbarggo rijkajgasskasasj dutkamværmádagájn iemeálmmugij ja demensa gáktuj luluj aj máhttet hiehpat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aaj laavenjostoe maahta sjyöhtehke årrodh dejnie gaskenasjonaale dotkemeviermine aalkoe-almetjidie jïh demensese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>2. Tiebmáværmádahka ja Nuorttarijkaj álkkádusguovdásj lulun galggat identifisierit makkir máhttelisvuoda li sáme ja ruodnáednama perspektijvajda dálásj nuorttarijkalasj aktisasjbargon guhkássujton, duola degu sebrudahttet suohkanijt Ruonáednamin ja sáme háldadimsuohkanijt Vuonan, Svierigin ja Suoman.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2. Teemaviermie jïh Noerhtelaanti tryjjesvoetejarnge byöroeh damtijidh mejtie nuepie gååvnese akten saemien jïh kruanalaanten perspektijvese dennie gaavnoes noerhtelaanti laavenjostosne sujhtemen bïjre guhkies mieresne, vuesiehtimmien gaavhtan tjïelth Kruanalaantesne jallh saemien reeremetjïelth Nöörjesne, Sveerjesne jïh Såevmesne meatan vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>Policydokumenta ja web-ressursa</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Policytjaatsegh jïh web-vierhtieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Vuonarijka demænssastrategija</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Nöörjen demensestrategije</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Svieriga demænssastrategija</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Sveerjen demensetrategije</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Suoma mujttoprográmma</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Såevmien mojhteseprogramme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Ruonáednama demænssastrategija</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Kruanalaanten demensestrategje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Aldring og helse (Vuodna) vædtsaga ja diedo sámij ja demensa</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Aldring og helse (Nöörje) dïrrege jïh bïevnesh saemiej jïh demensen bïjre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Mij la demænssa, álkkeslågos demensa birra, hiebaduvvam doajmmahiereduvvam ulmutjijda ja sidjij gænna li kognitijvalasj doajmmahieredibme, gávnnu nuorttasámegiellaj, julevsámegiellaj ja oarjjelsámegiellaj ja vidá nuorttarijka gielajda ja ieŋŋilsgiellaj.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Vad är demens, aelhkielohkeme bïevnesh demensen bïjre, sjïehtedamme almetjidie funksjovnegiehpiedimmine, gååvnese noerhtesaemien, julevsaemien jïh åarjelsaemien gïelesne, vijhte noerhtelaanti gïeline jïh eengelsken gïelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Nuorttarijkaj demænssaværmádahka</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Noerhtelaanti demenseviermie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="smj">
+        <seg>• Tiebmáværmádahka iemeálmmugij ja demensa gáktuj</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Teemaviermie aalkoe-almetjidie jïh demensese</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
