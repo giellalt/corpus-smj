@@ -1,298 +1,229 @@
-<document xml:lang="smj" id="no_id"><header><title>Sáme jáhkkoåhpaduspládna</title><genre code="bible"/><author><unknown/></author><year>2011</year><publChannel><publication><publisher>Samisk kirkeråd</publisher><ISBN>987-82-7545-103-1</ISBN></publication></publChannel><wordcount>5031</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.kirken.no/?event=downloadFile&amp;FamID=179596</origFileName><parallel_text xml:lang="nob" location="plan_for_samisk_trosopplaering.pdf"/><parallel_text xml:lang="sma" location="plan_for_samisk_trosopplaering.pdf"/><parallel_text xml:lang="sme" location="plan_for_samisk_trosopplaering.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Den nasjonale trosopplæringsplanen, <em type="italic">Gud gir – Vi deler</em>, gjelder for alle døpte barn og unge i Den norske kirke, også samiske. <em type="italic">Gud gir – vi deler </em>har en rekke henvisninger til ansvaret for å ivareta samiske perspektiver i trosopplæringen. <em type="italic">Plan for samisk trosopplæring</em> gir hjelp til å innholdsbestemme dette nærmere, den er både et verktøy og et supplerende måldokument. </p>
-<p xml:lang="nob">Dïhte nasjovnale jaahkoeøøhpehtimmiesoejkesje, Gud gir</p>
-<p type="listitem" xml:lang="nob">– Vi deler, lea gaajhkide kristeme maanide</p>
-<p>jïh noeride Dennie nøørjen gærhkosne, aaj saemien. Gud gir – Vi deler gellie aejkieh vuesehte dan deadtan juktie dejtie saemien perspektijvide jaahkoeøøhpehtimmesne gorredidh. Soejkesje saemien jaahkoeøøhpehtæmman viehkehte sisvegem lihkebe moenedh, dahte lea dovne akte dïrrege jïh akte lissie ulmietjaatsege. Nasjonálalasj jáhkkoåhpaduspládna, <em type="italic">Jubmel vaddá – Mij juogadip</em>, guosská gájka gástaduvvam mánájda ja nuorajda Vuona girkkon, aj sáme mánájda ja nuorajda. <em type="italic">Jubmel vaddá – Mij juogadip</em> vuoset moatten sajen åvdåsvásstádussaj  bærrájgåhtset sáme vuojnojt  jáhkkoåhpadusán. Sáme jáhkkoåhpaduspládna dán åvdåsvásstádusá sisanov snivábut tjielggi, dat le sihke vædtsak ja lasse ulmmedokumænnta. </p>
+<document xml:lang="smj" id="no_id"><header><title>Sáme jáhkkoåhpaduspládna</title><genre code="bible"/><author><unknown/></author><year>2011</year><publChannel><publication><publisher>Samisk kirkeråd</publisher><ISBN>987-82-7545-103-1</ISBN></publication></publChannel><wordcount>5257</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://www.kirken.no/?event=downloadFile&amp;FamID=179596</origFileName><parallel_text xml:lang="nob" location="plan_for_samisk_trosopplaering.pdf"/><parallel_text xml:lang="sma" location="plan_for_samisk_trosopplaering.pdf"/><parallel_text xml:lang="sme" location="plan_for_samisk_trosopplaering.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="nob">Den nasjonale trosopplæringsplanen, <em type="italic">Gud </em><em type="italic">gir – Vi deler </em>, gjelder for alle døpte barn og unge i Den norske kirke, også samiske. <em type="italic">Gud </em><em type="italic">gir – vi deler </em>har en rekke henvisninger til ansvaret for å ivareta samiske perspektiver i trosopplæringen. <em type="italic">Plan for samisk </em><em type="italic">trosopplæring </em>gir hjelp til å innholdsbestemme dette nærmere, den er både et verktøy og et supplerende måldokument. </p>
+<p xml:lang="nob">Dïhte nasjovnale jaahkoeøøhpehtimmiesoejkesje, Gud gir – Vi deler, lea gaajhkide kristeme maanide jïh noeride Dennie nøørjen gærhkosne, aaj saemien. Gud gir – Vi deler gellie aejkieh vuesehte dan deadtan juktie dejtie saemien perspektijvide jaahkoeøøhpehtimmesne gorredidh. Soejkesje saemien jaahkoeøøhpehtæmman viehkehte sisvegem lihkebe moenedh, dahte lea dovne akte dïrrege jïh akte lissie ulmietjaatsege.</p>
+<p>Nasjonálalasj jáhkkoåhpaduspládna,</p>
+<p><em type="italic">Jubmel vaddá – Mij juogadip </em>, guosská gájka gástaduvvam mánájda ja nuorajda Vuona girkkon, aj sáme mánájda ja nuorajda. </p>
+<p><em type="italic">Jubmel vaddá – Mij juogadip </em>vuoset moatten sajen åvdåsvásstádussaj bærrájgåhtset sáme vuojnojt jáhkkoåhpadusán. Sáme jáhkkoåhpaduspládna dán åvdåsvásstádusá sisanov snivábut tjielggi, dat le sihke vædtsak ja lasse ulmmedokumænnta. </p>
 <p>Našovnnalaš oskkuoahpahusplána, Ipmil addá – Mii juogadit, guoská buot gásttašuvvon mánáide ja nuoraide Norgga girkus, maiddái sámi. Ipmil addá – mii juogadit plánas leat olu sajiin čujuhan ovddasvástádussii áimmahuššat sámi oaidninbeliid oskkuoahpahusas. Sámi oskkuoahpahusplána addá veahki mearridit dasa sisdoalu, dat lea sihke reaidu ja lassi ulbmildokumenta.</p>
-<p xml:lang="nob"><em type="bold">STØRST AV ALT</em> <em type="bold">GÁJKIN STUORÁMUS</em> <em type="bold">GAAJHKESTE STØØREMES</em> <em type="bold">KAIKISTA ISSOIN</em> <em type="bold">BUOT STUORÁMUS</em> </p>
 <p>SÁME JÁHKKOÅHPADUSPLÁDNA</p>
-<p xml:lang="nob"><em type="bold">STØRST AV ALT</em> <em type="bold">BUOT STUORÁMUS</em> <em type="bold">GÁJKIN STUORÁMUS</em> </p>
-<p xml:lang="nob">NORGGA GIRKU VUONA GIRKKO NÖÖRJEN GÆRHKOEDEN NORSKE KIRKE</p>
+<p xml:lang="nob"><em type="bold">STØRST AV ALT </em></p>
+<p xml:lang="nob"><em type="bold">GÁJKIN STUORÁMUS </em></p>
+<p xml:lang="nob"><em type="bold">GAAJHKESTE STØØREMES </em></p>
+<p xml:lang="nob"><em type="bold">KAIKISTA ISSOIN </em></p>
+<p xml:lang="nob"><em type="bold">BUOT STUORÁMUS </em></p>
+<p xml:lang="nob"><em type="bold">STØRST AV ALT BUOT STUORÁMUS GÁJKIN STUORÁMUS GAAJHKESTE STØØREMES KAIKISTA ISSOIN </em></p>
+<p xml:lang="nob">NORGGA GIRKU</p>
+<p xml:lang="nob">VUONA GIRKKO</p>
+<p xml:lang="nob">NÖÖRJEN GÆRHKOE</p>
+<p xml:lang="nob">DEN NORSKE KIRKE</p>
+<p>Samisk kirkeråd - Sáme girkkoráde</p>
+<p>Saemien gærhkoeraerie - Sámi girkorá@@i</p>
 <p xml:lang="nob">NORGGA GIRKU</p>
 <p>Sáme girkkoráde</p>
-<p xml:lang="nob">Plan for samisk trosopplæringSupplerende plan til Gud gir - Vi deler, Plan for trosopplæring i Den norske kirke 1. opplag ISBN 987-82-7545-103-1 © Kirkerådet, Den norske kirke 2011 Bestilles fra www.kirken.no/materiell eller epost: materiell@kirken.no Kan også lastes ned frawww.kirken.no/størstavalt Kirkerådetpostboks 799 senttrum0106 OsloTlf: 23 08 12 00 Tegninger og bilder:Side 2, 22, 42, 62 – Illustratør: Ellen Sara Reiten Bientie Side 8, 28, 48, 68 – Foto Berit Frøydis Svineng Johnsen Side 12, 32, 52, 72 – Foto Karin Mathisen Side 20, 60, 80 – Tegninger, 1-3 klasse ved Åarjel-Samiej Skuvle</p>
+<p xml:lang="nob">Plan for samisk trosopplæring</p>
+<p xml:lang="nob">Supplerende plan til Gud gir - Vi deler, Plan for trosopplæring i Den norske kirke1. opplag</p>
+<p xml:lang="nob">ISBN 987-82-7545-103-1© Kirkerådet, Den norske kirke 2011</p>
+<p xml:lang="nob">Bestilles fra www.kirken.no/materiell eller epost: materiell@kirken.no</p>
+<p xml:lang="nob">Kan også lastes ned frawww.kirken.no/størstavalt</p>
+<p xml:lang="nob">Kirkerådetpostboks 799 senttrum0106 Oslo</p>
+<p xml:lang="nob">Tlf: 23 08 12 00</p>
+<p xml:lang="nob">Tegninger og bilder:</p>
+<p xml:lang="nob">Side 2, 22, 42, 62 – Illustratør: Ellen Sara Reiten Bientie</p>
+<p xml:lang="nob">Side 8, 28, 48, 68 – Foto Berit Frøydis Svineng Johnsen</p>
+<p xml:lang="nob">Side 12, 32, 52, 72 – Foto Karin Mathisen</p>
+<p xml:lang="nob">Side 20, 60, 80 – Tegninger, 1-3 klasse ved Åarjel-Samiej Skuvle</p>
 <p xml:lang="nob">Trykk: Nr1 Trykk Grefslie as, Mysen</p>
-<p xml:lang="nob">MILJØMERKET</p>
-<p xml:lang="nob">Trykksak    71</p>
+<p xml:lang="nob">MI</p>
+<p>LJØM</p>
+<p xml:lang="nob">ERKET241</p>
+<p xml:lang="nob">Trykksak 7154041</p>
 <p>SÁME JÁHKKOÅHPADUSPLÁDNA</p>
-<p>Lasse pládnaj  <em type="italic">Jubmel vaddá – Mij juogadip</em>, jáhkkoåhpaduspládna Vuona girkkon </p>
-<p>Sáme jáhkkoåhpadusá ulmme le viehkev vaddet systemáhtalasj ja avtatraják jáhkkoåhpadussaj mij båktå ja nanni risstalasj jáhkov, åhpat  gålmaktes Jubmelav dåbdåt,  viehket sáme mánájt ja nuorajt iellemav dålkkut ja iellemin rijbbat nav vaj sijá sáme gulluvasjvuohta ja identitehta bisoduvvá,  ja mij hasot sijáv berustit ja oassálasstet  girkko- ja sebrudakiellemin.  Dát guosská gájkajda gudi li gástaduvvam ja li 0-18 jagága, berustahtek doajmmammáhtukvuodas</p>
-<p><em type="bold">Sisadno</em> </p>
-<p>Åvddåtjála</p>
-<p>Dábálasj oasse</p>
-<p>1.1 Moattebelak  Sábme</p>
-<p>1.2 Risstalasjvuoda dåbddomerka sáme kontevstan</p>
-<p>Sisadno</p>
-<p>2.1 Ållesvuohta ja bajemus ulmij dålkkum</p>
-<p>2.2 Oahppamtjalmostahttem ja sierra oahppamulme</p>
-<p>Prinsihpalasj oasse</p>
-<p>3.1 Tjanádum Vuona láhkaj ja girkkolasj plánajda</p>
-<p>3.2 Buojkuldagá ja báhkoano – sebrudahtte jáhkkoåhpadus  3.3 Oahppam -  dahpaduvvá mánás, sosiálalasj aktisasjvuodan</p>
-<p>Pládna anon</p>
-<p>4.1 Máhttolåpptim</p>
-<p>4.2 Åtsådallamjuogadibme ja máhtudakjuohkem  4.3 Aktisasjbarggo  sijdaj  4.4 Luojvoj guojmmebargge girkkon</p>
-<p>Bájkálasj pládnabarggo</p>
-<p>5.1  Kontevstalasj ájádallam</p>
-<p>5.2 Åvddånahttem bájkálasj jáhkkoåhpadusplánas  5.3 Adno bájkálasj máhtos ja máhtudagás  5.4 Guoradallam</p>
-<p xml:lang="nob">Ill.: Ellen Sara Reiten Bientie</p>
+<p>Lasse pládnaj <em type="italic">Jubmel vaddá – Mij juogadip </em>, jáhkkoåhpaduspládna Vuona girkkon </p>
+<p>Sáme jáhkkoåhpadusá ulmme le viehkev vaddet systemáhtalasj ja avtatraják jáhkkoåhpadussaj mij båktå ja nanni risstalasj jáhkov, åhpat gålmaktes Jubmelav dåbdåt, viehket sáme mánájt ja nuorajt iellemav dålkkut ja iellemin rijbbat nav vaj sijá sáme gulluvasjvuohta ja identitehta bisoduvvá, ja mij hasot sijáv berustit ja oassálasstet girkko- ja sebrudakiellemin. Dát guosská gájkajda gudi li gástaduvvam ja li 0-18 jagága, berustahtek doajmmammáhtukvuodas4243</p>
+<p>Åvddåtjála 451 Dábálasj oasse 461.1 Moattebelak Sábme 461.2 Risstalasjvuoda dåbddomerka sáme kontevstan 472 Sisadno 492.1 Ållesvuohta ja bajemus ulmij dålkkum 492.2 Oahppamtjalmostahttem ja sierra oahppamulme 493 Prinsihpalasj oasse 533.1 Tjanádum Vuona láhkaj ja girkkolasj plánajda 533.2 Buojkuldagá ja báhkoano – sebrudahtte jáhkkoåhpadus 543.3 Oahppam - dahpaduvvá mánás, sosiálalasj aktisasjvuodan 544 Pládna anon 554.1 Máhttolåpptim 554.2 Åtsådallamjuogadibme ja máhtudakjuohkem 554.3 Aktisasjbarggo sijdaj 564.4 Luojvoj guojmmebargge girkkon 565 Bájkálasj pládnabarggo 575.1 Kontevstalasj ájádallam 575.2 Åvddånahttem bájkálasj jáhkkoåhpadusplánas 585.3 Adno bájkálasj máhtos ja máhtudagás 585.4 Guoradallam 59</p>
+<p><em type="bold">Sisadno </em></p>
+<p xml:lang="nob">Ill.: Ellen Sara Reiten Bientie4445</p>
 <p>Åvddåtjála</p>
 <p>Jáhkkoåhpadusådåstusán le sáme jáhkkoåhpadus oadtjum stuoráp sajev ja åvddånahttemmáhttelisvuodav Vuona girkkon.</p>
-<p>Ådåstus vaddá máhttelisvuodav åvdedit jáhkkoåhpadusáv mij vuoset ja bærrájgåhtså sáme risstalasj árbev. Jáhkkoåhpadusådåstusá gæhttjalimbargon (2004-2008), oadtjun moadda tjoaggulvisá sáme</p>
-<p>bájkijn dårjav jáhkkoåhpadusprosjevtajda ma dættov sámevuohtaj biedjin. Dát la máhttelisvuodav vaddám åvddånahtátjit risstalasj jáhkkogaskostimev sáme kontevstan Sáme</p>
-<p>girkkoráde le aj oassálasstám dán bargon. Sáme jáhkkoåhpadusprosjevtaj árvustallam vuoset giella, identitehtta ja kultuvrra le guovdásj biele ålles jáhkkoåhpadusás, ja prosjevta li vaddám ådå</p>
-<p>ájádusájt barggovuogij ja sisano hárráj sáme jáhkkoåhpadusán. Dássta le Sáme jáhkkoåhpaduspládna ávkástallam. Nasjonálalasj jáhkkoåhpaduspládna, <em type="italic">Jubmel </em></p>
-<p><em type="italic">vaddá – Mij juogadip</em>, guosská gájka gástaduvvam mánájda ja nuorajda Vuona girkkon, aj sáme mánájda ja nuorajda. <em type="italic">Jubmel vaddá – Mij juogadip</em> vuoset moatten sajen åvdåsvásstádussaj </p>
-<p>bærrájgåhtset sáme vuojnojt jáhkkoåhpadusán. Sáme jáhkkoåhpaduspládna dán åvdåsvásstádusá sisanov snivábut tjielggi.. Návti le jáhkkoåhpadusådåstusán máhttelisvuohta ienep diedoj vaddet rijka álggoálmmuga birra gájka gástaduvvam mánájda ja nuorajda Vuona girkkon. <em type="italic">Sámejáhkkoåhpaduspládna</em> le nappu lasse pládna </p>
-<p><em type="italic">Jubmel vaddá – Mij juogadip</em> pládnaj, ja dá plána galggi aktisattjat gehtjaduvvat. Lasse pládna galggá aneduvvat tjoaggulvisájn gånnå li sáme máná ja nuora, váj sámevuohta bærrájgåtseduvvá dán </p>
-<p>plánan rámmagájbbádusáj ja sisano milta Sáme girkkoiellemin ja girkkohiståvrån le sieradusá guovloj gaskan rijkav miehtáj. Bájkálasj jáhkkoåhpadusplánan galggá tjoaggulvis guovlo</p>
-<p>sáme dilijt vieledit, ja láhtjet sajev bájkálasj árbbedábijda ja variasjåvnåjda. Ulmme le jáhkkoåhpadus gånnå sáme jiedna gullu, ja sjaddá luondulasj oasse Vuona girkkos. Sáme jáhkkoåhpadus galggá identitehtav nannit,</p>
-<p>máná ja nuora galggi ietjasa sáme duogátjav árvulattjan vásedit. Jáhkkoiellemin la ájnas ulmusj diehtá gut sån le ja dåbddå jasskavuodav ietjas identitehta hárráj, de dát máhttá giehpedit iellemav</p>
-<p>ristagissan aktijvuodan gånnå iesj guhtik duogásj le sierralágásj. Guorrasip Paulusa bagádussaj ahte jáhkon Kristusij lip mij gájka avtadásálattja, berustahtek tjerdalasjvuodas, sjierves jali</p>
-<p>nasjonalitehtas.</p>
-<p><em type="italic">Aktak ij le dasti juvdá jalik grehka, oarje jalik friddja, ålmåj jalik nissun. Gájka lihpit Kristus Jesusin akta(Gal 2,28)</em> </p>
-<p>1.0 Dábálasj oasse</p>
-<p><em type="bold">1.1MoattebelakSábme</em> </p>
-<p>Sábme le nammadus  sámij årrumguovlluj, ja boahtá bágos sábme, mij la sámij ietjas nammadus  allasisá.  Sámijn le stáhtus iemeálmmugin ja sijá árbbedábálasj årromguovllo  gåbtjå  nuortalasj</p>
-<p>guovlojt  Vuonan, Svierigin, Suoman ja Guoládagán Ruossjan. Sámegiella gullu  suoma -ugralasj giellasuorggáj, ja giellarájá  manni doarrás nammadum rijkaj rijkarájájs.  Nuorttasámegiella, julevsámegiella ja oarjjelsámegiella li oajvvegiellasuorge Vuonan.  (gehtja kártav)</p>
-<p>1.  Oarjjelsámegiella   2. Ubbmemsámegiella   3. Bihtámsámegiella   4. Julevsámegiella  5. Nuorttasámegiella</p>
-<p>6. Anársámegiella   7. Gålldåsámegiella   8. Ahkelsámegiella   9. Gielldasámegiella</p>
-<p>10. Darjjisámegiella</p>
-<p>Sáme ietjasa avtan álmmugin adni  gielaj-  ja rijkarájáj rastá.  Sáme årru ja viessu rijkav miehtáj, ja le oassen moattebelak sáme kultuvras ja</p>
-<p>árbbedábes. Sámij sámegiellatjehpudahka  le målsudahkes. Vájku le sieradus giellamáhtudagán de le sábme ænndu sábme. Aktisasj sáme identitehtta le tjanádum aktisasj histåvrråj, kultuvrraj, giellaj ja árbbedábálasj viessomvuohkáj.</p>
-<p>Le aj kultuvralasj variasjåvnån sierra sáme guovloj gaskan .Etnisitehtta vuojnnusij boahtá mihtáj baktu, sáme biktasij, dájdaj, slávggá, namáj, árbbedábálasj musihkaj ja gielaj baktu. E dal mihtá agev etnisitehtav vuoseda, dajna gå moattes, duon</p>
-<p>dan sivá diehti, e bæjválattjat dajt anon ane.    Uddni li ållo sáme årrum stádajda ja tjoahkkebájkijda árbbedábálasj sáme årromguovlo ålggolin, sierraláhkáj Osloj. Sámij låhko Sámen ja</p>
-<p>Sáme ålggolin rievddá dajna gå moattes  åhpadusá ja bargo diehti gaskajt jåhtåli. Sámijn le læhkám guhka aktijvuohta risstalasjvuodajn. Sihke katolihkalasj girkko åvddål</p>
-<p>reformasjåvnå ja ortodoksalasj  girkko  Ruossjan  le vájkkudam sáme åsskuj .Misjåvnnå sámij gaskan esski tjavggiduváj  stáhtapietisma ájgen 1700-lågon, ja misjåvnnå nággi sámij hiejttet åvdep sáme</p>
-<p>åsskodábij.   Oase sáme åskos ja kultuvras suddon ja boajtojubmeldievnastussan aneduváj.  ’Sámij dålusj åssko’ le nammadus mij dábálattjat  tjielggi  dav jáhkko árbbedábev mij aneduvá  åvddål gå</p>
-<p>risstalasjvuohta sjattaj ráddididdje jáhkkon Sámen.  Risstalasjvuohta le oasse sáme jáhkkohiståvrås, danen le dábálasj adnet nammadusáv <span type="quote">«åvddål risstalasjvuoda sámeåssko»</span> gå galggá  giehtot sámij</p>
-<p>åsko birra åvddål gå dat allasis risstalasj ájádusájt   åmastij. Sámij dålusj åssko lej luonndoåssko vuododum animismalasj  iellemdålkkumij, gájkka viessogijn lej siello, dán láhkáj de lidjin ulmutja ja da viessoga</p>
-<p>ma ælla ulmutja aktijtjanádum.  Dakkir  åssko gávnnu ájn ietjá  iemeálmmugij gaskan. Sámij dålusj åskon lej sjamánalasj dievnastum vuohke, gånnå  noajdde (sjamádna)  åsko jådediddjen</p>
-<p>dåjmaj.  Noajde doajmmaj gulluj buorádallam, ja sujna lidjin máhtudagá massta ávkástaláj gå viehkedij ulmutjijt bæjválasj rahtjamusáj. Noajdde lej aj gasskaladás jubmelij ja ulmutjij gaskan.</p>
-<p>Gå læstadianisma åvddånij gassko 1800 lågon de  lidjin sáme ietja njunnjutjijn risstalasjvuoda bargon. Læstadiánálasj tjoaggulvisá  lidjin vuoŋalasj tjåhkanamsaje moatte nuortta- ja julevsábmáj, ja</p>
-<p>danna bærrájgåtseduváj ierit ietján sámegiella ja sálmmaárbbedáhpe. Dalla li moadda læstadiánálasj suorge Vuonan, dá li ájn ájnnasa ja bájnniji ulmutjij identitehtav moatten nuortta- ja julevsáme</p>
-<p>guovlojn.  Læstadiánálasj gåhttsåm ittjij oarjjelsáme  guovlluj  åleda sæmmiláhkáj gå nuortta- ja julevsámeguovlon. Oarjjelsámeguovlon farra baptista,  ájlistakrádna ja adventista stuoráp sajev</p>
-<p>oadtjun.  Ienemus oasse   oarjjelsámijs li Vuona girkkuj gullum. Finnemisjåvnnå, mij maŋŋela namáv váldij Sámemisjåvnnå, ásadij tjåhkanimijt, guossidij</p>
-<p>ulmutjijt ja dåjmadij skåvlåv  åvddål gå stáhtta dajna álgij. Vuona girkko ij le oarjjelsáme álmmuga dárbojt sierraláhkáj bærrájgåhtsåm  åvddål 1990- lågon. Dalloj oarjjelsáme báhppavirgge ásaduváj.  Nidaros bisspaguovloráde  ásadij aj oarjjelsáme</p>
-<p>girkkoiellemnammadusáv.  Maŋŋela le aj diakonvirgge ásaduvvam. Maŋemus lågev jage le oarjjelsáme  girkkoiellem ja identitehta hukso buoragit åvddånam. Sáme álmmuk ij le kultuvralasj måsskusin</p>
-<p>viessum, ájgij tjáda le  sámijn læhkám aktijvuohta ulmutjij gejn le iesjgeŋgalágásj kulturduogásj.  Gå kultuvra æjvvali, dáhpáduvvi aj rievddama.. Sáme máná ja nuora válldi oasev globaliseridum mánáj-</p>
-<p>ja nuorajkultuvras.  Siján le akta juolgge  árbbedábálasj kultuvran ja nubbe vas ådåájggásasj væráldin.  Vijddábut le sáme sebrudagán viehka aktijvuohta  ietjá iemeálmmuk sebrudagáj  ietjá</p>
-<p>rijkajn ja væráltåsijn. Jáhkkoåhpadus luluj viehkedit sáme nuorajt ja mánájt dålkkutjit iellemisá ja rijbatjit iellemisá. Viertti liehket sáhka jáhkos mij duosstu dán ájge hásstalusájt, ja mij adná iesjgeŋga</p>
-<p>ulmutja tjadnasav kultuvranis ja árbbedábenis ressurssan.</p>
-<p><em type="bold">1.2Risstalasjvuodadåbddomerkasámekontevstan</em> </p>
-<p>Gávnnuji ållo diedo åsskohiståvrå, girkkohiståvrå ja girkkoiellema birra Sámen, valla  ållo dajs diedojs</p>
-<p>ælla tjoahkkiduvvam ælla  ga tjáleduvvam.  Sáme vuoŋalasjvuohta ja ájádallamvuohke gullu álu sjávodis kultuvrramáhtudahkaj majt ij gávna tjálalasj gáldojn. Vuoŋalasjvuohta mij le luonnduj</p>
-<p>tjanádum subtsas  ulmutjij lahkavuoda birra luonnduj.  Dat le kultuvralasj árbbe mij histåvrå tjadá le rassjom, valla huoman ij le vájalduvvam. Iemeálmmugij  vuoŋalasjvuohta le ednama ájlisvuodav dættodam, ja ulmutjij gullevasjvuodav</p>
-<p>dasi.</p>
-<p><em type="italic">Guddneda áhtját ja ædnát, vaj guhkev besa dan ednamin viessot mav Hærrá  Jubmelat  dunji vaddá</em> ( 2. Mos 20,12) </p>
-<p>Dan ájge gå risstalasjvuohta le læhkám Sámen de le moadda sierralágásj  dábe ja gåvvidime</p>
-<p>åvddånam ja dán láhkáj aj hábbmim risstalasjvuoda dádjadusáv váj la sjaddam nav gåk dav uddni dåbddåp. Sámij dádjadus risstalasjvuodas vuojnnusin boahtá tjoaggulvisájn ja</p>
-<p>jubmeldievnastusájn gånnå sáme le tjåhkanam.   Jáhkkoiellem åvddånbuvteduvvá liturgija, musihkka ja sálmmaválljima baktu,  iesjgeŋgalágásj kultuvralasj ja dájdalasj gåvåj, sámegiela, tiebmá</p>
-<p>válljimij, tjåhkanambájkij ja aktisasjvuodaj baktu. Girkkolasj base le ájnnasa sámijda. Mij gullu allabasijda de le iesjgeŋga dábe iesjgeŋga guovlojn, girkkojn, sijdajn ja læstadiánálasj tjoaggulvisájn.</p>
-<p>Gássta, konfirmasjåvnnå,   fiesstim ja hávddádibme  le aj dahpadusá ma le ájnnasa,  ja ma stuorfámiljav ja fuolkijt  aktidi. Sáme risstalasjvuoda dádjadus vuojnnusij boahtá ja gaskustuvvá aj åhpadime baktu sijdajn, ságastallamijn, ja buolvaj gasska</p>
-<p>æjvvalimen.</p>
-<p><em type="italic">Danen gåsi guovtes jali gålmås li muv namán tjåhkanam, danna lev sijá siegen </em>(matt 18,20) </p>
-<p>2.0 Sisanooasse</p>
-<p><em type="bold">2.1Ållesvuohtajabajemusulmijdålkkum</em> </p>
-<p>Sáme jáhkkoåhpadusá ulmme le viehkev vaddet systemáhtalasj ja avtatraják jáhkkoåhpadussaj mij båktå ja nanni risstalasj jáhkov, åhpat  gålmaktes</p>
-<p>Jubmelav dåbdåt,  viehket sáme mánájt ja nuorajt iellemav dålkkut ja iellemin rijbbat nav vaj sijá sáme gulluvasjvuohta ja identitehta bisoduvvá,  ja mij hasot sijáv berustit ja oassálasstet  girkko- ja sebrudakiellemin.  Dát guosská gájkajda gudi li</p>
-<p>gástaduvvam ja li 0-18 jagága, berustahtek doajmmammáhtukvuodas.  Pládna gájbet Vuona  girkkon le evangelak luhterlasj oahppa vuodon. Plána sisadno galggá viehkedit ájmon adnet, nannit</p>
-<p>ja åvdedit risstalasjvuodav vuodon sáme jáhkkuj.  Vuodon Sáme jáhkkoåhpaduspládnaj le <em type="italic">Jubmel vaddá – Mij juogadip</em>, mij la Vuona girkko bajemus </p>
-<p>jáhkkoåhpaduspládna. Sáme jáhkkoåhpaduspládna máhttá viehkedit hiebadit bájkálasj plánajt nav vaj hiehpi bájkálasj gájbbádusájda ja rahpá nav váj máhttá ulmijt hábbmit  <em type="italic">Jubmel vaddá – Mij juogadip</em> plána lájddistime milta. Pládna galggá </p>
-<p>hiebaduvvat nav váj hiehpá iesjgeŋga mánná- ja nuorajjuohkusa vuoksjuj, ja aj váj duosstu máhtukvuodajda  ma iesjgeŋga mánán ja nuoran le</p>
-<p><em type="bold">2.2Oahppamtjalmostahttemjasierraoahppamulme</em> </p>
-<p>Nasjonálalasj plánan  <em type="italic">Jubmel vaddá – Mij juogadip</em>  le gålmmå oase,  dá gålmmå oase aktan hábbmiji ålleslasj sisanov jáhkkoåhpadusás.  Da biele le: 1. Iellemdålkkum ja rijbadibme iellemin,  2. Girkko jáhkko ja árbbedábe  ja 3. Rissálasj jáhkko anon (bs. <em type="italic">Jubmel vaddá – Mij juogadip</em>, 3. kapihtal ). Sáme jáhkkoåhpaduspládna åvddånbuktá  sierra </p>
-<p>oahppamtjalmostahttemijt dájda gålmå oajvvetiemájda, nav váj sáme perspektijvva bærrájgehtjaduvvá. Tjoaggulvisá gånnå le sáme máná ja nuora oadtju dajna viehkev vuojnnet ma máhtti liehket guovdásj  tiemá bájkálasj</p>
-<p>jáhkkoåhpadusán. Sáme jáhkkoåhpaduspládna  le sihke vædtsak ja lasse ulmmedokumænnta. Gåvån vuollelin le tjáledum sámijguoskavasj oahppamtjalmostahttema</p>
-<p>ma le tjanádum juohkka bákkulasj oajvvetiebmáj ma le <em type="italic">Jubmel vaddá – Mij juogadip</em> plána gålmå åsijn.  Tjoakke ma le lassen bákkulasj oajvvetiemájda, e boade daj ulmij sadjáj ma le </p>
-<p>plánan <em type="italic">Jubmel vaddá – Mij juogadip</em>, valla le duodden dajda.  Danen de ælla moadda jáhkkoåhpadusá guovdásj tiemásj tjáledum gåvån vuollelin. </p>
-<p>Dættoduvvá gåvvå vuollelin ij åles gåvåv sáme jáhkkoåhpadusá  relevánta- oahppamulmijs  vuoseda. Gå tjoaggulvisá bájkálasj plánav hábbmi de  bierri åhtsåt máhttelisvuodajt válldet maŋen</p>
-<p>åsijt ma gulluji bájkkáj, sihke gájkka oajvvetiemájda, ja aj daj tiemájda ma li guorrusa. (Ándagissaj luojttem, Fássto ja vuornádus, ja Barggo guojmmeaktijvuohta)</p>
-<p xml:lang="nob">Berit Frøydis Svineng Johnsen</p>
-<p><em type="bold">Stuorragatjálvisá</em> </p>
-<p type="listitem">•  Máná ja nuora galggi  oahppat dåbddåt  sámij árbbedábálasj ja ådåájggásasj luonndodåjmajt ja luonndoressursaj  ávkástallamav ma máhtti liehket vuodon sijá ájádallamij ja imájdallamij ulmutja saje birra Jubmela sjivnnjádusán. <em type="bold">Guovdásjdimensjåvnåulmutjaiellemin</em> </p>
-<p type="listitem">•  Giella, kultuvralasj gulluvasjvuohta ja  tjerdalasj moattebelakvuohta  le aj guovdásj dimensjåvnå ulmutja iellemin majna máná ja nuora bierriji bargat risstalasjvuodajn vuodon .</p>
-<p><em type="bold">Iellemjajáhkkohiståvrrå</em> </p>
-<p type="listitem">•  Sáme mánáj ja nuoraj <em type="italic">sáme</em> identitehtta åvddån sihke aktijvuodan sáme álmmugijn  ja dan histåvråjn ja kultuvrraárbbedábij, ja æjvvalimijn stuorsebrudagájn. Sáme máná ja nuora dárbahi gávnnat gielav ietjas jáhkkohiståvrråj mij aj gåbttjå tiemát ja vásádusáj ma dasi le tjánáduvvam. <em type="bold">Persåvnålasjåvddånibme</em> Dábálasj åhpadusán bierri jáhkkoåhpadus  vaddet ienep diedoj  sáme viessomvuoge, árvoj ja duohtavuodadádjadusá birra,  navti gåktu åvddånbåhti lagosbirrusijn  ja bájkkásasj kultuvran. </p>
-<p type="listitem">•  Máná ja nuora galggi  måvtåstuhteduvvat bisodittjat aktijvuodav ietjasa ristaæjgádij vaj sij máhtti bagádusájt ja viehkev jáhko åvddånimen oadtjot, ja dan baktu oahppat ja vásedit  ristaæjgádij åvdåsvásstádusáv. Dat le buorre oahppa jus ietja sjaddi ristaæjgádin maŋŋela iellemin.</p>
-<p><em type="bold">Áhttjemijájaråhkålvis</em> </p>
-<p type="listitem">•  Máná ja nuora galggi oahppat<em type="italic"> Áhttje mijá </em>råhkålvisáv, biebbmo låhkusav ja iehkedis låhkusav ietjasa giellaj. Galggi aj oahppat bájkálasj råhkåmdábijt, duola degu <span type="quote">«Áhtje ja Bárne ja Ájlis vuojŋŋana nammaj»</span> <span type="quote">«Jesusa namán»</span> ja ruossamerka adnemav iesjgeŋga iellemdilálasjvuodan. </p>
-<p><em type="bold">Rámát</em> </p>
-<p type="listitem">•  Máná ja nuora galggi oahpásmuvvat nuorttasámegiella, julevsámegiella ja oarjjelsámegiella rámátjårggålimij, ja oahppat guovdásj rámáttevstajt ietjasa sámegiellaj.  <em type="bold">Girkkojageallabasejamærkkabiejve</em> </p>
-<p type="listitem">•  Máná ja nuora galggi guoradallat bájkálasj sáme árbbedábijt ma le girkkojage allabasijda tjanádum,  d.d. Márjjá biejvve.  <em type="bold">Girkko</em> </p>
-<p type="listitem">•  Máná ja nuora galggi hasoduvvat kritihkalattjat gæhttjat girkko histåvrålasj æjvvalimev sámij,  sáme jáhkko- ja girkkohiståvråjn vuodon.</p>
-<p type="listitem">•  Máná ja nuora galggi oahppat sáme báhpaj Lars Levi Læstadiusa ja Anders Fjellnera birra</p>
-<p type="listitem">•  Máná ja nuora galggi oahppat dåbddåt iesjgeŋga sáme giellajuohkusijt  Vuona girkkon, ja diehtet  sálma, liturgija ja ietjá girkkolasj tevsta gávnnuji sihke oarjjelsámegiellaj, julevsámegiellaj ja nuorttasámegiellaj.</p>
-<p type="listitem">•  Máná ja nuora galggi oahppat iemeálmmugij dile birra væráltvijddásasj girkkon.</p>
-<p><em type="bold">1.jáhkkoartihkal</em> </p>
-<p type="listitem">•  Máná ja nuora galggi  sáme subttsasij baktu sámij luonndovuojnoj ja duohtavuodadádjadusáj birra oahppat, ja dajt rámátsubttsasijda tjadnat.</p>
-<p type="listitem">•  Máná ja nuora galggi sámij árbbedábij vuodon bargat dádjadusájn: Jubmel sjivnnjediddjen ja ulmusj ednamis sjivnnjeduvvam.</p>
-<p><em type="bold">2.jáhkkoartihkal</em>  </p>
-<p type="listitem">•  Máná ja nuora  galggi oahppat  Jesusa ruossajábbmem ja bajástjuodtjelibme le duogátjin ruossamerka guovdásj sadjáj  sámij  risstalasj árbbedáben.</p>
-<p type="listitem">•  Máná ja nuora galggi  oahppat dåbddåt Læstadiusa moalgedimev (bágov) <span type="quote">«Almmelasj æjgát»</span> mij le metafåvrrå Jubmelij  Sjivnnjediddjen ja Lånestiddjen, ja dan moalgedime sajev såbadusá dádjadusán.  <em type="bold">3.jáhkkoartihkal</em> </p>
-<p type="listitem">•  Máná ja nuora galggi  Apd 2,1-13 buohta ájádallat Ájlis Vuojŋŋana dåjma birra Jubmela moattegielak ja moaddetjerdalasj girkkon.</p>
-<p xml:lang="nob"><em type="bold">Sakramenta</em> </p>
-<p type="listitem">•  Máná ja nuora galggi oahppat majt gássta ja ristaæjgáda merkahi sáme guovlojn.</p>
-<p type="listitem">•   Máná ja nuora galggi  oahpásmuvvat bájkálasj árbbedábij ma le iehkedismállásij  tjanádum.</p>
-<p><em type="bold">Diakonija</em> </p>
-<p type="listitem">•  Máná ja nuora  galggi  oassálasstet  solidaritehtabargguj   gånnå iemeálmmukrievtá li vuodon</p>
-<p type="listitem">•  Misjåvnnå ja ekumenihkka</p>
-<p type="listitem">•  Dádjadus sáme gulluji globála iemeálmmukaktisasjvuohtaj bierri tjanáduvvat misjåvnå oassáj jáhkkoåhpadusán. Ásadit aktijvuoda ietjá iemeálmmugij iemeálmmugijda væráldavijddásasj girkkon misjonbargo baktu jali ráddnavuodasjiehtadusáj baktu, vaddá aktijvuodav mij båktå oassálasstemav ja æjgátvuodamdåbdojt  girkko gåhttjomij. <em type="bold">Etihkka</em> </p>
-<p type="listitem">•  Máná ja nuora  galggi måvtåstuhteduvvat ságastallamij ja kultuvrralånudallamij tjoaggulvisá jáhkkoåhpadusdåjman. Ulmme le gasskasasj árvvo ja dádjadus mánáj ja nuoraj gaskan gejn le iesjgeŋgalágásj duogásj.</p>
-<p><em type="bold">Ándagisluojttem</em> </p>
-<p><em type="bold">Fásstojavuornádus</em> </p>
-<p><em type="bold">Barggoguojmmejuogos</em> </p>
-<p><em type="bold">Råhkålvis</em> </p>
-<p type="listitem">•  Máná ja nuora galggi bessat vásedit guovdásj råhkålvisájt sáme árbbedáben råhkåt.</p>
-<p type="listitem">•  Máná ja nuora galggi oahppat bájkálasj sáme risstalasj árbbedábijt ma duon dan luonndodoajmmaj le tjanádum.</p>
-<p><em type="bold">Jubmeldievnastus</em> </p>
-<p type="listitem">•  Máná ja nuora galggi oahppat sámij jubmeldievnastus- ja tjåhkalvisárbbedábij birra, ja oadtjot máhttelisvuodav oassálasstet arenan gånnå dá li anon.</p>
-<p><em type="bold">Rámátlåhkåm</em> </p>
-<p type="listitem">•  Máná ja nuora galggi oahppat Rámádav ja risstalasj sámegiella girjijt adnet</p>
-<p><em type="bold">Lávllom,musihkkajakultuvrra</em> </p>
-<p type="listitem">•  Máná ja nuora galggi oadtjot máhttelisvuodav åvddånbuktet ietjasa sálmajt, musihkav ja ietjá kultuvrraåvddånbuktemijt.</p>
-<p type="listitem">•  Máná ja nuora galggi oadtjot máhttelisvuodav vásedit bájkálasj girkkomusihkka árbbedábijt, ja duodden dasi oahpásmuvvat girkkomusihkalasj adnuj sáme guovlojn dalla.</p>
-<p type="listitem">•   Máná ja nuora galggi oadtjot máhttelisvuodav árbbedábálasj arenajt jáhkkoåhpadusán adnet</p>
-<p type="listitem">•  Máná ja nuora galggi jáhkkoåhpadusá oahppama ja subtsastimij gasskavuodan adnet vædtsagijt ja vuogijt  praktihkalasj bargon.</p>
-<p type="listitem">•  Máná ja nuora  galggi måvtåstuhteduvvat sámegielav anátjit. Sihke njálmálasj</p>
-<p type="listitem">•  ja tjálalasj bargon bierri dille látjeduvvat sámegiella adnuj.</p>
-<p>-  Gåktus máhttá duv tjoaggulvis viehkedit sáme mánájt ja nuorajt iellemav dålkkut ja iellemin rijbadit nav vaj sijá sáme gulluvasjvuohta  ja identitehtta bisoduvvá?  -  Læstadiánálasj árbbedáben le Luthera unna katekismatjin guovdásj sadje jáhkkoåhpadusán. Katekismus le sierraláhkáj guoskavasj resurssan tjanádum tiebmáj mij la nammadum risstalasj jáhko ja árbbedábe  oase vuolen.  -  Gåktu máhtti <span type="quote">«sáme»</span> vuodotiemá juogeduvvat ja dárkkelappot tjielggiduvvat nav vaj jåksi gájkka mánájt ja nuorajt tjoaggulvisán?</p>
-<p>3.0 Prinsihpalasj oasse</p>
-<p><em type="bold">3.1TjanádumVuonaláhkajjagirkkolasjplánajda</em>Vuona stáhtta le ásaduvvam guovte álmmuga </p>
-<p>ednamij nali, dáttjaj ja sámij. Sámij ævto iemeálmmugin Vuonan le tjáleduvvam Vuodolága § 110a. Vuodolágaparagráffa le dagádum daj</p>
-<p>rijkkagasskasasj iemeálmmukkonvensjåvnåj vuodon majt Vuodna le dåhkkidum. Da mierredi Vuona almulasj oajválattjajn le vælogisvuohta doarjjot ja dilev láhtjet dåjmajda ma positivalattjat tjuolldi, gå fálaldagájt vaddi ja dåjmajt álgadi</p>
-<p>sámijda.  Girkko le dajt prinsihpajt dåhkkidam, ja vælggogisvuohta le duohtan váldeduvvam jáhkkoåhpadusådåstusán. Dat tjielggasijt vuojnnusij boahtá Vuona girkko bajemus</p>
-<p>jáhkkoåhpadusplánan, <em type="italic">Jubmel vaddá – Mij juogadip</em>. <em type="italic">Jubmel vaddá – Mij juogadip</em> nanostahttá sáme </p>
-<p>girkkoiellema oasev dan árbbedáben ja aktisasjvuodan mij le Vuona girkkon. Danen nammaduvvá máhtudahka sámeálmmuga vuojŋŋalisvuoda, girkkoiellema ja árbbedábij birra ájnas árbbedáhpen majt gájka gudi le gástaduvvam</p>
-<p>galggi dåbddåt. (bs<em type="italic">. Jubmel vaddá – Mij juogadip</em>, Kapihtal 2) Sáme jáhkkoåhpaduspládna le ressursdokumænnta tjoaggulvisájda ma sihti sáme </p>
-<p>perspektijvav jáhkkoåhpadussaj. Mærrádusá ráddidusá sámepolitihkan vájkkudi gåktu jáhkkoåhpadus sámijda organiseriduvvá girkkon. St.died. nr. 28 (2007-2008) Sámepolitihkka</p>
-<p>vuoset Vuona girkko sierra åvdåsvásstádussaj sáme girkkoiellemis. <span type="quote">«Åvdemus vieledus gå gálggá bærrájgåhtset sáme girkkoiellemav Vuona girkkon le ahte åvddånahttem viertti dáhpáduvvat sáme iesjdåbdoj ja sáme árbbedábij vuodon»</span> (s 178). <em type="italic">Sáme </em></p>
-<p><em type="italic">jáhkkoåhpaduspládna</em> galggá sihkarasstet sámij iesjdåbddo ja árbbedábe bærrájgåtseduvvi ådåstussan.Sámelága giellanjuolgadusá § 1-5 tjuottjot </p>
-<p>sámegielav ja dárogielav avtaárvvusasj giellan. Ådåjakmáno 1, biejve 2011 rájes gulluji tjuovvovasj suohkana sámegiella háldadusguovlluj: Guovdagæjnno, Kárásjjåhkå, Porsáŋgu, Unjárga, Dædno, Gájvuodna, Loabát, Divtasvuodna, ja</p>
-<p>Snåsa. Njuolgadusá gåbttji nuortta-, julev-, ja oarjjelsáme giellaguovlojt. Da aktse háldadussuohkana gåbttji dåssju oasátjav árbbedábálasj årromguovlojs. Vuonan le dan</p>
-<p>guovlo vijddudahka Oarjje Várjjagis Finnmárko fylkas gitta oarjás Engerdalaj Hedmark fylkan. Nasjonálalasj jáhkkoåhpaduspládna tjuottjot sáme mánáj ja nuoraj riektáv åhpadussaj ja</p>
-<p>oahppanævojda ietjasa giellaj (bs.Jubmel vaddá – Mij juogadip, kapihtal 8). Duodden tsuojggiduvvá: «Tjoaggulvisájn sáme háldadusguovlon le sierra åvdåsvásstádus dilev</p>
-<p>láhtjet jáhkkoåhpadussaj mij hiehpá sáme mánájda ja nuorajda.» (bs. <em type="italic">Jubmel vaddá – Mij juogadip,</em> Ulmme ja dahko)Tjoaggulvisá gåhtjoduvvi ietjas </p>
-<p>jáhkkoåhpaduspládna dahkamin hábbmit ulmijt ma vaddi sáme mánájda ja nuorajda máhttelisvuodav sihkardit, bærrájgåhtset ja åvdedit sáme gielav ja kultuvrav.Foto: Karin Mathisen</p>
-<p><em type="bold">3.2Buojkuldagájabáhkoano–sebrudahttejáhkkoåhpadus</em> </p>
-<p>Sebrudahttem le dán plána vuodoprinsihppa, ja danen le sebrudahttem ájnas sáme jáhkkoåhpadusán. Sebrudahttem tjuottjot</p>
-<p>avtaárvvusasjvuodav, ij sæmmilágásjvuodav.. Ulmutja riektá liehket ietjálágásj ja huoman gullut sosiálalasj, kultuvralasj ja fágalasj aktisasjvuohtaj, le vuodon gå aktisasjvuodav ulmutjij gasskan galggá huksat. Sebrudahttem le danen ietja gå integrerim</p>
-<p>ja assimilerim. Integrerim ja assimilerim gájbbet soabmásijt gudi le ålgusjbielen ja gejt galggá aktisasjvuohtaj válldet dan baktu ahte dahkat sijáv ieneplågo lágátjin. Dat ij le sebrudahttem.</p>
-<p>Sebrudahtte jáhkkoåhpadus gájbbet gájka ållu álgos le oassen aktisasjvuodas, ja danna oassálassti sæmmi árvvusattjat, vájku vil iesjgeŋga gájbbádusáj. Åvdåsvásstediddje jådediddje galggi</p>
-<p>bærrájgæhttjat juohkkahasj adná ietjas oassen aktisasjvuodas. Dát gájbbet aktijvalasj jådedimev, ja máhtukvuodav ja diedov, kultuvralasj, fágalasj ja sosiálalasj sieradusáj birra ma le ulmutjij gaskan.</p>
-<p>Pedagogalasj jådediddjen vierttiji liehket tjuovvovasj prinsihppa: -  avtaárvvusasjvuohta oassálasstij gaskan-  aktisasjvuohta gånnå le sadje</p>
-<p><em type="bold">4.1Máhttolåpptim</em> </p>
-<p>Sáme jáhkkoåhpadus jådeduvvá sihke tjoaggulvisájs, barggoguojmijs ja æjgádijs/åvdåstiddjijs, fáddarijs ja fuolkijs sijdan ja</p>
-<p>lahkabirrusin. Tjoaggulvisá ja girkko jáhkkoåhpadus máhttá ij-formálalasj åhpadussan gåhtjuduvvat, ja sijdaj jáhkkoåhpadus vas iehpeformálalasj jáhkkoåhpadussan.Dát le sieradussan skåvlå formálalasj</p>
-<p>moattebelakvuohtaj -  mierredimoassálasstem</p>
-<p>Dá prinsihpa tjuottjodi riektáv liehket ietjálágásj sosiálalasj, kultuvralasj, ja fágalasj rámmaj sisbielen. Da sieradi sæmmilágásjvuoda ájádallamis, mij ienebut dættot sæmmilágásjvuodav gájbbádussan, ja ij dættoda sieradusájt ma gávnnuji</p>
-<p>ulmutjij gaskan. Sæmmilágásjvuoda ideologija vaddá vuodov assimilerimij jali segregerimij ja ij hieba sebrudahttem prinsihpajda ma li vuododum AN:a ulmusjrievtesvuodajn.</p>
-<p>Sebrudahttemprinsihpajda ij le dåssju dárbbo æjvvalimijn sámij ja dádtjaj gaskan, valla aj sisbielen sáme sebrudagán. Sáme sebrudagájn le aktisasjvuohta nanos. Aktisasjvuodan gájka</p>
-<p>oassálasste galggi avtaárvvusattja liehket berustahtek doajmmamáhtudagáv. Bájkálasj pládna dahkamin le ájnas bærrájgæhttjat ahte máná ja nuora gænna le dárbo hiebadahttemij sebrudahteduvvi.(bs. <em type="italic">Jubmel vaddá – Mij juogadip</em>, </p>
-<p>kapihtal 6) Jáhkkoåhpadus galggá sebrudahttet gájkajt gudi li gástaduvvam ja viehkedit aktisasjvuodav huksat sámij gaskan dan nielje rijkajn gånnå sáme årru. Aktisasjvuoda huksam iemeálmmukperspektijvan</p>
-<p>galggá birástahttet sihke álldarav, geografijav, kultuvralasj aktijvuodav ja gielladilev. Da nammaduvvam biele lasedi moattebelakvuoda ressursboanndudagáv ja máhttoboanndudagáv majt</p>
-<p>dåbddåp sáme sebrudagás sierraláhkáj luonndomáhtudahka ja vuojŋŋalasjvuohta. Ulmme galggá liehket gájka dåbddi ietjasa sebrudahteduvvam girkko jáhkkoaktisasjvuodan,</p>
-<p>majt jáhkkoåhpadus galggá viehkedit ja bisodit.</p>
-<p><em type="bold">3.3Oahppam-dahpaduvvámánás,sosiálalasjaktisasjvuodan</em>Máná ja nuora oahppi buoremusát gå ietja </p>
-<p>oassálassti ja le aktijvalattja. Dát le Mánájlága termaj milta <span type="quote">«mánáj oassálasstem»</span>. Mánáj oassálasstem le gå máná ja nuora bessi tjoaggulvisá dåjmajda sehkanit, plánajt dahkat ja tjadádit, gå</p>
-<p>aktijvalattjat sæbrri ja li viehkken. Sidjij máhttá vatteduvvat luohtádus ja åvdåsvásstádus duola degu jubmeldievnastusájs, diakonalá dievnastusájs ja luohtádusdåjmajs. Dá máhtti tjadáduvvat duola degu sáme- dáro jubmeldievnastusájn, gånnå</p>
-<p>konfirmánta dievnasti oassen konfirmántaåhpadusás. Jáhkkoåhpadus galggá aj viehkedit sijáv gudi li gástaduvvam viessot ristagissan risstalasj</p>
-<p>aktisasjvuoda rámaj sisbielen. Sáme jáhkkoåhpadus viertti danen láhtjet sosiála arenajt gånnå mánáj ja nuoraj sáme risstalasj identitehtta nanniduvvá. Dat le máhtudaksosiologalasj bielle, dajna gå máhtudak</p>
-<p>viertti juogeduvvat jus galggá liehket jáhkedahtte. Le dárbbo aktisasj æjvvalimijt ásadit gånnå máná ja nuora aktan máhtti risstalasj aktisasjvuodav dahkat, konfirmántatjåhkanimijt, mánáj ja nuoraj</p>
-<p>tjåhkanimsajijt, sáme girkkobiejvijt, iemeálmmukfestiválajt j.n.v. Tjåhkanime máhtti organiseriduvvat sihke pråvsstådásen bispaguovlodásen, ja nasjonalálasj dásen. Dakkir</p>
-<p>tjåhkanime, gånnå sáme máná ja nuora máhtti æjvvalit iesjgeŋga giella- ja geográfalasj guovlon, le ájnnasa. Sáme jáhkkoåhpadus bierri duodden tjalmostahttet moattebuolvak sosialiserimav, gånnå</p>
-<p>máhtti láhtjet dilev sæbrástallamij ja máhtudakjuohkemij buolvaj gaskan.</p>
-<p>4.0 Pládna anon</p>
-<p type="listitem">–  Le gus mijá tjoaggulvis resursajt ásadam jali åtsådallam juojddáv mij luluj ávkken iehtjádijda ?</p>
-<p>jáhkkoåhpadusas, man sisadno le åssko, iellemvuojnno ja etihkka (ÅIE). Sáme jáhkkoåhpadus le ienemusát sijdajn ja tjåhkalvisájn dahpaduvvam, ja le avtaárvvusasj</p>
-<p>tjoaggulvisá jáhkkoåhpadusájn. Jus jáhkkoåhpadus galggá liehket avtatraják, systemáhtalasj ja bájkálattjat vuododuvvam de le ájnas aktisattjat sijdaj ja tjåhkalvisáj barggat.</p>
-<p>Tjoaggulvisá ma jáhkkoåhpadusáv jådedi bierriji gæhttjalit aktisasjbargov mánájgárdij, skåvlåj ja skåvllåastoájgeårnigij åttjudit. Máhttolåpptima oahppamplakáhtan tsuojggiduvvá skåvllå galggá</p>
-<p>máhttelisvuodav láhtjet vaj bájkálasj sebrudahka bæssá åhpadussaj ávkálasj láhkáj sæbrrá. Dan baktu máhttá girkko, mij juo le ájnas oasse bájkálasj sebrudagás, liehket boanndudahkan. Dakkir</p>
-<p>aktisasjbarggo gájbet buorre ja systemáhtalasj fágalasj vuodov, buorre guládallamvuogijt, ja dåhkkididdje lahkanimev, tjadáduvvam konsekvænta vuogijn.</p>
-<p>Dav máhtudagáv majt jáhkkoåhpadusbargge tjoaggulvisán le oahppam sijdda ja skåvllå aktisasjbargos, bierri bisoduvvat ja ássjeguoskavattjan dagáduvvat duola degu tjállet ja biedjat dajt resurssabáŋkaj (bs. kapihtal 4,2). Dán baktu le máhttelis máhtudagáv buorebut juogadit. Ulmme bájkálasj tjadnasijn jáhkkoåhpaduspládnaj</p>
-<p>gånnå nasjonála ulme dagáduvvi guoskavattjan bájkálasj dásen le stuorra fágalasj hásstalus. Máhtudahka moattekultuvralasj pedagogihkan ja kultuvrraanalysan le dán bargon sierraláhkáj ássjeguoskavattja.</p>
-<p>Sáme jáhkkoåhpadus bierri rahtjat ja tjadnat allasis formálalasj máhtudagáv degu kultuvrramáhtudagáv, moattegielakvuoda birra, sámegiella- ja kultuvrramáhtov ja digitála</p>
-<p>oahpponævvoåvddånimen sámegiellaj ja dárogiellaj. Dat gullu sihke bájkálasj, guovlulasj ja nasjonálalasj dássáj.</p>
-<p> <em type="bold">4.2Åtsådallamjuogadibmejamáhtudakjuohkem</em> </p>
-<p>Sáme girkkoráde barggá arena ásadimijn gånnå ressursajt ja åtsådallamijt sáme jáhkkoåhpadusás máhttá juogadit. Ulmme le nav ållo gå máhttelis</p>
-<p>resurssamateriálajs le hiebaduvvam ja le sadjihin, danen galggi ådå ájádusá, tjuorggasa, skåve j.n.v. liehket sadjihin resurssabáŋkajn nav vaj tjoaggulvis máhttá dajt adnuj válldet ja bájkálasj anojda dajt hiebadit. Sáme jáhkkoåhpadusá næhttabajkke</p>
-<p>www.jahkko.no le vuogas vædtsak sihke sijdajda ja</p>
-<p>tjoaggulvisájda.</p>
-<p>Gávnnu juo resurssabáŋŋka, www.kirken.no/storstavalt/prosjekt/, diedoj moatte prosjevtaj,</p>
-<p><em type="bold">4.4Luojvojguojmmebarggegirkkon</em> </p>
-<p>dåjmaj ja resursaj birra ma le jáhkkoåhpadusådåstusá gæhttjalimájgen gæhttjaluvvam. Hábmer ja Rivtak-vuona tjoaggulvis, Sis - Finnmárko pråvsståguovllo ja</p>
-<p>Nuortta- Rana tjoaggulvis tjádadin prosjevtajt ma sierraláhkáj sámevuodav tjalmostin. Dajs prosjevtajs le máhttelisvuohta arvusmahttemav ja åhpadusáv oadtjot. Lassen Sáme girkkoráde ásat jahkásasj</p>
-<p>Girkko dárbaj luojvoj guojmmebarggijt. Æjgáda/ åvdåstiddje, ristaæjgáda ja nuora li ájnas resurssa. Daj maŋemus lågijt jagijt le ulmutjij miella luojvojbargguj unnum, ja da gudi ienep dåjmaj</p>
-<p>barggi vierttiji mávso oadtjot bargoj åvdås. Valla girkko dárbaj luojvojbarggo árbbedábev joarkket. Le ájnas bagádallat, måvtåstuhttet ja doarjjot dáv ájnas bargov, gå dá ulmutja ham tjoaggulvisáv dahki.</p>
-<p>fáhkakonferánsajt aktisattjat Girkkolasj åhpadusguovdátjijn nuorttan, danna máhtti bargge ja luojvoj jáhkkoåhpadusbarggoguojme æjvvalit ,åtsådallamijt juogadit ja lasse máhtudagáv oadtjot.</p>
-<p><em type="bold">4.3Aktisasjbarggosijdaj</em> </p>
-<p>Tjoaggulvisán le, aktan æjgádij/åvdåstiddjij ja ristaæjgádij, åvdåsvásstádus jáhkko iellemav ja subttsasijt gaskustit. Girkko hálijt familjajt, mánájt</p>
-<p>ja nuorajt åledit. Mánáj iellema vuostasj jagijt le æjgádijn/åvdåstiddjijn vuodoaktijvuohta mánájn.  Dalloj le juo girkkuj ájnas buorre aktijvuodav æjgádijn/åvdåstiddjijn ásadit, váj máná ja nuora juo álgos oadtju máhttelisvuodav girkkolanjájn</p>
-<p>oahpástuvvat ja váj dási dåbddågåhti gullevasjvuodav. Æjgáda/åvdåstiddje ja máná bierriji hasoduvvet åttjutjit buorre aktijvuodav girkkojn, vaj sij aktan iehtjádij válldi oasev girkko</p>
-<p>tjoaggulvisás. Girkko hálijt adnet moattelágásj vuogijt aktisasjbargon æjgádij/åvdåstiddjij, duola degu bagádallam ja diehtojuohkem jáhkkoåhpadusá</p>
-<p>birra. Æjgáda/åvdåstiddje mánájdisá dåbddi, ja diehti gåktu åhpadus buoremus láhkáj máhttá látjeduvvat. Tjoaggulvisá dárbahi dajt diedoj majt æjgáda/åvdåstiddje máhtti vaddet gå gájkajt galggi</p>
-<p>tjoaggulvisá dåjmajda sebrudahttet.</p>
-<p>Moatten sáme guovlon le læhkám hásstalusá æjgátvuovdav girkkuj ásadit. Histåvrålattjat le girkko sáme guovlon læhkám degu institusjåvnnå mij le ålgusjbieles boahtám, ja ulmutja gudi girkkov</p>
-<p>åvdåstahttin ælla læhkám lagámus ulmutjijs. Bágo <em type="italic">risstalasj</em> ja <em type="italic">sábme</em> le muoddásij mielas læhkám gássjelisá. Danen bierri bájkálattjat bargaduvvat nannimin girkkov sáme arenan. Girkko galggá </p>
-<p>liehket rabás álmmuk girkkon mij sámevuodav árvvusin adná ja viehket sjávodisvuodav doadjet dan negatijvvalasij histåvråj mij le læhkám girkko roalla koloniserimin, misjonerimin ja</p>
-<p>assimilerimin. Såbadus le dan aktijvuodan guovdásj buojkuldahka, ja gávnnuji juo prosjevta masi girkko le sæbrram ja tjadnam såbadimteologijav konkrehtalasj bargojda (bs.</p>
+<p>Ådåstus vaddá máhttelisvuodav åvdedit jáhkkoåhpadusáv mij vuoset ja bærrájgåhtså sáme risstalasj árbev.</p>
+<p>Jáhkkoåhpadusådåstusá gæhttjalimbargon (2004-2008), oadtjun moadda tjoaggulvisá sáme bájkijn dårjav jáhkkoåhpadusprosjevtajda ma dættov sámevuohtaj biedjin. Dát la máhttelisvuodav vaddám åvddånahtátjit risstalasj jáhkkogaskostimev sáme kontevstan Sáme girkkoráde le aj oassálasstám dán bargon. Sáme jáhkkoåhpadusprosjevtaj árvustallam vuoset giella, identitehtta ja kultuvrra le guovdásj biele ålles jáhkkoåhpadusás, ja prosjevta li vaddám ådå ájádusájt barggovuogij ja sisano hárráj sáme jáhkkoåhpadusán. Dássta le Sáme jáhkkoåhpaduspládna ávkástallam.</p>
+<p>Nasjonálalasj jáhkkoåhpaduspládna, <em type="italic">Jubmel </em><em type="italic">vaddá – Mij juogadip </em>, guosská gájka gástaduvvam mánájda ja nuorajda Vuona girkkon, aj sáme mánájda ja nuorajda. <em type="italic">Jubmel vaddá – Mij juogadip </em>vuoset moatten sajen åvdåsvásstádussaj bærrájgåhtset sáme vuojnojt jáhkkoåhpadusán. </p>
+<p>Sáme jáhkkoåhpaduspládna dán åvdåsvásstádusá sisanov snivábut tjielggi.. Návti le jáhkkoåhpadusådåstusán máhttelisvuohta ienep diedoj vaddet rijka álggoálmmuga birra gájka gástaduvvam mánájda ja nuorajda Vuona girkkon.</p>
+<p><em type="italic">Sámejáhkkoåhpaduspládna </em>le nappu lasse pládna </p>
+<p><em type="italic">Jubmel vaddá – Mij juogadip </em>pládnaj, ja dá plána galggi aktisattjat gehtjaduvvat. Lasse pládna galggá aneduvvat tjoaggulvisájn gånnå li sáme máná ja nuora, váj sámevuohta bærrájgåtseduvvá dán plánan rámmagájbbádusáj ja sisano milta </p>
+<p>Sáme girkkoiellemin ja girkkohiståvrån le sieradusá guovloj gaskan rijkav miehtáj. Bájkálasj jáhkkoåhpadusplánan galggá tjoaggulvis guovlo sáme dilijt vieledit, ja láhtjet sajev bájkálasj árbbedábijda ja variasjåvnåjda.</p>
+<p>Ulmme le jáhkkoåhpadus gånnå sáme jiedna gullu, ja sjaddá luondulasj oasse Vuona girkkos.</p>
+<p>Sáme jáhkkoåhpadus galggá identitehtav nannit, máná ja nuora galggi ietjasa sáme duogátjav árvulattjan vásedit. Jáhkkoiellemin la ájnas ulmusj diehtá gut sån le ja dåbddå jasskavuodav ietjas identitehta hárráj, de dát máhttá giehpedit iellemav ristagissan aktijvuodan gånnå iesj guhtik duogásj le sierralágásj. Guorrasip Paulusa bagádussaj ahte jáhkon Kristusij lip mij gájka avtadásálattja, berustahtek tjerdalasjvuodas, sjierves jali nasjonalitehtas.</p>
+<p><em type="italic">Aktak ij le dasti juvdá jalik grehka, oarje jalik friddja, ålmåj jalik nissun. </em></p>
+<p><em type="italic">Gájka lihpit Kristus Jesusin akta </em><em type="italic">(Gal 2,28) </em>46471.0 Dábálasj oasse <em type="bold">1.1 Moattebelak Sábme </em>Sábme le nammadus sámij årrumguovlluj, ja boahtá bágos sábme, mij la sámij ietjas nammadus allasisá. Sámijn le stáhtus iemeálmmugin ja sijá árbbedábálasj årromguovllo gåbtjå nuortalasj guovlojt Vuonan, Svierigin, Suoman ja Guoládagán </p>
+<p>Ruossjan. Sámegiella gullu suoma -ugralasj giellasuorggáj, ja giellarájá manni doarrás nammadum rijkaj rijkarájájs. Nuorttasámegiella, julevsámegiella ja oarj elsámegiella li oajvvegiellasuorge Vuonan. (gehtja kártav) 1. Oarj elsámegiel a 2. Ubbmemsámegiel a 3. Bihtámsámegiel a 4. Julevsámegiel a 5. Nuorttasámegiel a 6. Anársámegiel a 7. Gålldåsámegiel a 8. Ahkelsámegiel a 9. Gielldasámegiel a10. Darjjisámegiel a</p>
+<p>Sáme ietjasa avtan álmmugin adni gielaj- ja rijkarájáj rastá. Sáme årru ja viessu rijkav miehtáj, ja le oassen moattebelak sáme kultuvras ja árbbedábes. Sámij sámegiellatjehpudahka le målsudahkes. Vájku le sieradus giellamáhtudagán de le sábme ænndu sábme. Aktisasj sáme identitehtta le tjanádum aktisasj histåvrråj, kultuvrraj, giellaj ja árbbedábálasj viessomvuohkáj.</p>
+<p>Le aj kultuvralasj variasjåvnån sierra sáme guovloj gaskan .Etnisitehtta vuojnnusij boahtá mihtáj baktu, sáme biktasij, dájdaj, slávggá, namáj, árbbedábálasj musihkaj ja gielaj baktu. E dal mihtá agev etnisitehtav vuoseda, dajna gå moattes, duon dan sivá diehti, e bæjválattjat dajt anon ane.</p>
+<p>Uddni li ållo sáme årrum stádajda ja tjoahkkebájkijda árbbedábálasj sáme årromguovlo ålggolin, sierraláhkáj Osloj. Sámij låhko Sámen ja</p>
+<p>Sáme ålggolin rievddá dajna gå moattes åhpadusá ja bargo diehti gaskajt jåhtåli.</p>
+<p>Sámijn le læhkám guhka aktijvuohta risstalasjvuodajn. Sihke katolihkalasj girkko åvddål reformasjåvnå ja ortodoksalasj girkko Ruossjan le vájkkudam sáme åsskuj .Misjåvnnå sámij gaskan esski tjavggiduváj stáhtapietisma ájgen 1700-lågon, ja misjåvnnå nággi sámij hiejttet åvdep sáme åsskodábij. Oase sáme åskos ja kultuvras suddon ja boajtojubmeldievnastussan aneduváj. ’Sámij dålusj åssko’ le nammadus mij dábálattjat tjielggi dav jáhkko árbbedábev mij aneduvá åvddål gå risstalasjvuohta sjattaj ráddididdje jáhkkon Sámen.</p>
+<p>Risstalasjvuohta le oasse sáme jáhkkohiståvrås, danen le dábálasj adnet nammadusáv <span type="quote">«åvddål risstalasjvuoda sámeåssko»</span> gå galggá giehtot sámij åsko birra åvddål gå dat allasis risstalasj ájádusájt åmastij.</p>
+<p>Sámij dålusj åssko lej luonndoåssko vuododum animismalasj iellemdålkkumij, gájkka viessogijn lej siello, dán láhkáj de lidjin ulmutja ja da viessoga ma ælla ulmutja aktijtjanádum. Dakkir åssko gávnnu ájn ietjá iemeálmmugij gaskan. Sámij dålusj åskon lej sjamánalasj dievnastum vuohke, gånnå noajdde (sjamádna) åsko jådediddjen dåjmaj. Noajde doajmmaj gulluj buorádallam, ja sujna lidjin máhtudagá massta ávkástaláj gå viehkedij ulmutjijt bæjválasj rahtjamusáj. Noajdde lej aj gasskaladás jubmelij ja ulmutjij gaskan.</p>
+<p>Gå læstadianisma åvddånij gassko 1800 lågon de lidjin sáme ietja njunnjutjijn risstalasjvuoda bargon.</p>
+<p>Læstadiánálasj tjoaggulvisá lidjin vuoŋalasj tjåhkanamsaje moatte nuortta- ja julevsábmáj, ja danna bærrájgåtseduváj ierit ietján sámegiella ja sálmmaárbbedáhpe. Dalla li moadda læstadiánálasj suorge Vuonan, dá li ájn ájnnasa ja bájnniji ulmutjij identitehtav moatten nuortta- ja julevsáme guovlojn. Læstadiánálasj gåhttsåm ittjij oarj elsáme guovlluj åleda sæmmiláhkáj gå nuortta- ja julevsámeguovlon. Oarj elsámeguovlon farra baptista, ájlistakrádna ja adventista stuoráp sajev oadtjun. Ienemus oasse oarj elsámijs li Vuona girkkuj gullum.</p>
+<p>Finnemisjåvnnå, mij maŋŋela namáv váldij</p>
+<p>Sámemisjåvnnå, ásadij tjåhkanimijt, guossidij ulmutjijt ja dåjmadij skåvlåv åvddål gå stáhtta dajna álgij. Vuona girkko ij le oarj elsáme álmmuga dárbojt sierraláhkáj bærrájgåhtsåm åvddål 1990- lågon. Dalloj oarj elsáme báhppavirgge ásaduváj.</p>
+<p>Nidaros bisspaguovloráde ásadij aj oarj elsáme girkkoiellemnammadusáv. Maŋŋela le aj diakonvirgge ásaduvvam. Maŋemus lågev jage le oarj elsáme girkkoiellem ja identitehta hukso buoragit åvddånam.</p>
+<p>Sáme álmmuk ij le kultuvralasj måsskusin viessum, ájgij tjáda le sámijn læhkám aktijvuohta ulmutjij gejn le iesjgeŋgalágásj kulturduogásj. Gå kultuvra æjvvali, dáhpáduvvi aj rievddama.. Sáme máná ja nuora válldi oasev globaliseridum mánáj- ja nuorajkultuvras. Siján le akta juolgge árbbedábálasj kultuvran ja nubbe vas ådåájggásasj væráldin. Vijddábut le sáme sebrudagán viehka aktijvuohta ietjá iemeálmmuk sebrudagáj ietjá rijkajn ja væráltåsijn. Jáhkkoåhpadus luluj viehkedit sáme nuorajt ja mánájt dålkkutjit iellemisá ja rijbatjit iellemisá. Viertti liehket sáhka jáhkos mij duosstu dán ájge hásstalusájt, ja mij adná iesjgeŋga ulmutja tjadnasav kultuvranis ja árbbedábenis ressurssan. <em type="bold">1.2 Risstalasjvuoda dåbddomerka sáme </em><em type="bold">kontevstan </em></p>
+<p>Gávnnuji ållo diedo åsskohiståvrå, girkkohiståvrå ja girkkoiellema birra Sámen, valla ållo dajs diedojs ælla tjoahkkiduvvam ælla ga tjáleduvvam. Sáme vuoŋalasjvuohta ja ájádallamvuohke gullu álu sjávodis kultuvrramáhtudahkaj majt ij gávna tjálalasj gáldojn. Vuoŋalasjvuohta mij le luonnduj tjanádum subtsas ulmutjij lahkavuoda birra luonnduj. Dat le kultuvralasj árbbe mij histåvrå tjadá le rassjom, valla huoman ij le vájalduvvam.</p>
+<p>Iemeálmmugij vuoŋalasjvuohta le ednama ájlisvuodav dættodam, ja ulmutjij gullevasjvuodav dasi.</p>
+<p><em type="italic">Guddneda áhtját ja ædnát, vaj guhkev besa dan </em><em type="italic">ednamin viessot mav Hærrá Jubmelat dunji vaddá </em>( 2. Mos 20,12) </p>
+<p>Dan ájge gå risstalasjvuohta le læhkám Sámen de le moadda sierralágásj dábe ja gåvvidime åvddånam ja dán láhkáj aj hábbmim risstalasjvuoda dádjadusáv váj la sjaddam nav gåk dav uddni dåbddåp. Sámij dádjadus risstalasjvuodas vuojnnusin boahtá tjoaggulvisájn ja jubmeldievnastusájn gånnå sáme le tjåhkanam.</p>
+<p>Jáhkkoiellem åvddånbuvteduvvá liturgija, 4849musihkka ja sálmmaválljima baktu, iesjgeŋgalágásj kultuvralasj ja dájdalasj gåvåj, sámegiela, tiebmá válljimij, tjåhkanambájkij ja aktisasjvuodaj baktu.</p>
+<p>Girkkolasj base le ájnnasa sámijda. Mij gullu allabasijda de le iesjgeŋga dábe iesjgeŋga guovlojn, girkkojn, sijdajn ja læstadiánálasj tjoaggulvisájn.</p>
+<p>Gássta, konfirmasjåvnnå, fiesstim ja hávddádibme le aj dahpadusá ma le ájnnasa, ja ma stuorfámiljav ja fuolkijt aktidi. Sáme risstalasjvuoda dádjadus vuojnnusij boahtá ja gaskustuvvá aj åhpadime baktu sijdajn, ságastallamijn, ja buolvaj gasska æjvvalimen.</p>
+<p><em type="italic">Danen gåsi guovtes jali gålmås li muv namán </em><em type="italic">tjåhkanam, danna lev sijá siegen </em>(matt 18,20)2.0 Sisanooasse <em type="bold">2.1 Ållesvuohta ja bajemus ulmij dålkkum </em></p>
+<p>Sáme jáhkkoåhpadusá ulmme le viehkev vaddet systemáhtalasj ja avtatraják jáhkkoåhpadussaj mij båktå ja nanni risstalasj jáhkov, åhpat gålmaktes</p>
+<p>Jubmelav dåbdåt, viehket sáme mánájt ja nuorajt iellemav dålkkut ja iellemin rijbbat nav vaj sijá sáme gulluvasjvuohta ja identitehta bisoduvvá, ja mij hasot sijáv berustit ja oassálasstet girkko- ja sebrudakiellemin. Dát guosská gájkajda gudi li gástaduvvam ja li 0-18 jagága, berustahtek doajmmammáhtukvuodas. Pládna gájbet Vuona girkkon le evangelak luhterlasj oahppa vuodon.</p>
+<p>Plána sisadno galggá viehkedit ájmon adnet, nannit ja åvdedit risstalasjvuodav vuodon sáme jáhkkuj.</p>
+<p>Vuodon Sáme jáhkkoåhpaduspládnaj le <em type="italic">Jubmel </em><em type="italic">vaddá – Mij juogadip </em>, mij la Vuona girkko bajemus jáhkkoåhpaduspládna. Sáme jáhkkoåhpaduspládna máhttá viehkedit hiebadit bájkálasj plánajt nav vaj hiehpi bájkálasj gájbbádusájda ja rahpá nav váj máhttá ulmijt hábbmit <em type="italic">Jubmel vaddá – Mij </em><em type="italic">juogadip </em>plána lájddistime milta. Pládna galggá hiebaduvvat nav váj hiehpá iesjgeŋga mánná- ja nuoraj uohkusa vuoksjuj, ja aj váj duosstu máhtukvuodajda ma iesjgeŋga mánán ja nuoran le <em type="bold">2.2 Oahppamtjalmostahttem ja sierra </em><em type="bold">oahppamulme </em></p>
+<p>Nasjonálalasj plánan <em type="italic">Jubmel vaddá – Mij juogadip </em>le gålmmå oase, dá gålmmå oase aktan hábbmiji ålleslasj sisanov jáhkkoåhpadusás. Da biele le: 1. </p>
+<p>Iellemdålkkum ja rijbadibme iellemin, 2. Girkko jáhkko ja árbbedábe ja 3. Rissálasj jáhkko anon (bs.</p>
+<p><em type="italic">Jubmel vaddá – Mij juogadip </em>, 3. kapihtal ). Sáme jáhkkoåhpaduspládna åvddånbuktá sierra oahppamtjalmostahttemijt dájda gålmå oajvvetiemájda, nav váj sáme perspektijvva bærrájgehtjaduvvá. Tjoaggulvisá gånnå le sáme máná ja nuora oadtju dajna viehkev vuojnnet ma máhtti liehket guovdásj tiemá bájkálasj jáhkkoåhpadusán. </p>
+<p>Sáme jáhkkoåhpaduspládna le sihke vædtsak ja lasse ulmmedokumænnta. Gåvån vuollelin le tjáledum sámijguoskavasj oahppamtjalmostahttema ma le tjanádum juohkka bákkulasj oajvvetiebmáj ma le <em type="italic">Jubmel vaddá – Mij juogadip </em>plána gålmå åsijn. Tjoakke ma le lassen bákkulasj oajvvetiemájda, e boade daj ulmij sadjáj ma le plánan <em type="italic">Jubmel vaddá – Mij juogadip </em>, valla le duodden dajda. Danen de ælla moadda jáhkkoåhpadusá guovdásj tiemásj tjáledum gåvån vuollelin. </p>
+<p>Dættoduvvá gåvvå vuollelin ij åles gåvåv sáme jáhkkoåhpadusá relevánta- oahppamulmijs vuoseda. Gå tjoaggulvisá bájkálasj plánav hábbmi de bierri åhtsåt máhttelisvuodajt válldet maŋen åsijt ma gulluji bájkkáj, sihke gájkka oajvvetiemájda, ja aj daj tiemájda ma li guorrusa. (Ándagissaj luojttem, Fássto ja vuornádus, ja</p>
+<p>Barggo guojmmeaktijvuohta)</p>
+<p xml:lang="nob">Berit Frøydis Svineng Johnsen5051</p>
+<p type="listitem">Stuorra  gatjálvisá</p>
+<p type="listitem">Máná ja nuora galggi  oahppat dåbddåt  sámij árbbedábálasj ja ådåájggásasj luonndodåjmajt  ja luonndoressursaj  ávkástallamav ma máhtti  liehket vuodon sijá ájádallamij ja imájdallamij  ulmutja saje birra Jubmela sjivnnjádusán.</p>
+<p type="listitem">Guovdásj dimensjåvnå ulmutja iellemin</p>
+<p type="listitem">Giella, kultuvralasj gulluvasjvuohta ja  tjerdalasj moattebelakvuohta  le aj guovdásj  dimensjåvnå ulmutja iellemin majna máná ja  nuora bierriji bargat risstalasjvuodajn vuodon  .</p>
+<p type="listitem">Áhttje mijá ja råhkålvis</p>
+<p type="listitem">Máná ja nuora galggi oahppat Áhttje mijá råhkålvisáv, biebbmo låhkusav ja iehkedis  låhkusav ietjasa giellaj. Galggi aj oahppat  bájkálasj råhkåmdábijt, duola degu <span type="quote">«Áhtje ja  Bárne ja Ájlis vuojŋŋana nammaj»</span> <span type="quote">«Jesusa  namán»</span> ja ruossamerka adnemav iesjgeŋga  iellemdilálasjvuodan.</p>
+<p type="listitem">Rámát</p>
+<p type="listitem">Máná ja nuora galggi oahpásmuvvat nuorttasámegiella, julevsámegiella ja  oarj elsámegiella rámátjårggålimij, ja oahppat  guovdásj rámáttevstajt ietjasa sámegiellaj.</p>
+<p type="listitem">Girkkojage allabase ja mærkkabiejve</p>
+<p type="listitem">Máná ja nuora galggi guoradallat bájkálasj sáme árbbedábijt ma le girkkojage allabasijda  tjanádum,  d.d. Márj á biejvve.</p>
+<p type="listitem">Girkko</p>
+<p type="listitem">Máná ja nuora galggi hasoduvvat kritihkalattjat gæhttjat girkko histåvrålasj  æjvvalimev sámij,  sáme jáhkko- ja  girkkohiståvråjn vuodon.</p>
+<p type="listitem">Máná ja nuora galggi oahppat sáme báhpaj</p>
+<p type="listitem">Lars Levi Læstadiusa ja Anders Fjellnera birra</p>
+<p type="listitem">Máná ja nuora galggi oahppat dåbddåt iesjgeŋga sáme giellajuohkusijt  Vuona  girkkon, ja diehtet  sálma, liturgija ja ietjá  girkkolasj tevsta gávnnuji sihke  oarj elsámegiellaj, julevsámegiellaj ja  nuorttasámegiellaj.</p>
+<p type="listitem">Máná ja nuora galggi oahppat iemeálmmugij dile birra væráltvijddásasj girkkon.</p>
+<p type="listitem">Diakonija</p>
+<p type="listitem">Máná ja nuora  galggi  oassálasstet  solidaritehtabargguj   gånnå  iemeálmmukrievtá li vuodon</p>
+<p type="listitem">Misjåvnnå ja ekumenihkka</p>
+<p type="listitem">Dádjadus sáme gulluji globála iemeálmmukaktisasjvuohtaj bierri  tjanáduvvat misjåvnå oassáj  jáhkkoåhpadusán. Ásadit aktijvuoda ietjá  iemeálmmugij iemeálmmugijda  væráldavijddásasj girkkon misjonbargo baktu  jali ráddnavuodasjiehtadusáj baktu, vaddá  aktijvuodav mij båktå oassálasstemav ja  æjgátvuodamdåbdojt  girkko gåhttjomij.</p>
+<p type="listitem">Etihkka</p>
+<p type="listitem">Máná ja nuora  galggi måvtåstuhteduvvat ságastallamij ja kultuvrralånudallamij  tjoaggulvisá jáhkkoåhpadusdåjman. Ulmme le  gasskasasj árvvo ja dádjadus mánáj ja nuoraj  gaskan gejn le iesjgeŋgalágásj duogásj.</p>
+<p><em type="bold">Ándagis luojttem </em></p>
+<p><em type="bold">Fássto ja vuornádus </em></p>
+<p><em type="bold">Barggoguojmmejuogos </em></p>
+<p><em type="bold">IELLEMDÅLKKUM JA IELLEMRIJBADIBME </em></p>
+<p>Jáhkkoåhpadus galggá iesjárvo dåbdojt åvdedit ja mánájda ja nuorada láhtjet máhttelisvuodav ietjasa vuojnnet ja dålkkut ietjasa væráldav sjivnnjedum, iehtsedum ja badjen anedum Jubmela gieresvuodajn.</p>
+<p type="listitem">Iellem ja jáhkkohiståvrrå</p>
+<p type="listitem">Sáme mánáj ja nuoraj sáme identitehtta åvddån sihke aktijvuodan sáme álmmugijn  ja  dan histåvråjn ja kultuvrraárbbedábij, ja  æjvvalimijn stuorsebrudagájn. Sáme máná ja  nuora dárbahi gávnnat gielav ietjas  jáhkkohiståvrråj mij aj gåbttjå tiemát ja  vásádusáj ma dasi le tjánáduvvam.</p>
+<p type="listitem">Persåvnålasj åvddånibme  Dábálasj åhpadusán bierri jáhkkoåhpadus  vaddet  ienep diedoj  sáme viessomvuoge, árvoj ja  duohtavuodadádjadusá birra,  navti gåktu  åvddånbåhti lagosbirrusijn  ja bájkkásasj  kultuvran.</p>
+<p type="listitem">Máná ja nuora galggi  måvtåstuhteduvvat bisodittjat aktijvuodav ietjasa ristaæjgádij vaj  sij máhtti bagádusájt ja viehkev jáhko  åvddånimen oadtjot, ja dan baktu oahppat ja  vásedit  ristaæjgádij åvdåsvásstádusáv. Dat le  buorre oahppa jus ietja sjaddi ristaæjgádin  maŋŋela iellemin.</p>
+<p><em type="bold">GIRKKO JÁHKKO JA ÁRBBEDÁB </em>E </p>
+<p type="listitem">Jáhkkoåhpadusán máná ja nuora galggi oahppat  gålmaktes Jubmelav dåbddåt rámáda baktu degu  Jubmela báhkon, jáhkkodåbdåstusá, sakramentaj  ja ietja guovdásj åsij baktu girkko jáhkon. Máná ja  nuora galggi oahpásmuvvat risstalasj allabasij ja  girkkojn  masi gulluji.  1. jáhkkoartihkal</p>
+<p type="listitem">Máná ja nuora galggi  sáme subttsasij baktu sámij luonndovuojnoj ja  duohtavuodadádjadusáj birra oahppat, ja dajt  rámátsubttsasijda tjadnat.</p>
+<p type="listitem">Máná ja nuora galggi sámij árbbedábij vuodon bargat dádjadusájn: Jubmel sjivnnjediddjen ja  ulmusj ednamis sjivnnjeduvvam.2. jáhkkoartihkal</p>
+<p type="listitem">Máná ja nuora  galggi oahppat  Jesusa ruossajábbmem ja bajástjuodtjelibme le  duogátjin ruossamerka guovdásj sadjáj  sámij   risstalasj árbbedáben.</p>
+<p type="listitem">Máná ja nuora galggi  oahppat dåbddåt</p>
+<p type="listitem">Læstadiusa moalgedimev (bágov) <span type="quote">«Almmelasj  æjgát»</span> mij le metafåvrrå Jubmelij   Sjivnnjediddjen ja Lånestiddjen, ja dan  moalgedime sajev såbadusá dádjadusán.  3. jáhkkoartihkal</p>
+<p type="listitem">Máná ja nuora galggi  Apd 2,1-13 buohta ájádallat Ájlis Vuojŋŋana dåjma birra Jubmela  moattegielak ja moaddetjerdalasj girkkon.</p>
+<p type="listitem" xml:lang="nob">Sakramenta</p>
+<p type="listitem">Máná ja nuora galggi oahppat majt gássta ja ristaæjgáda merkahi sáme guovlojn.</p>
+<p type="listitem">Máná ja nuora galggi  oahpásmuvvat bájkálasj árbbedábij ma le iehkedismállásij  tjanádum.</p>
+<p xml:lang="nob"><em type="bold">RISSTALASJ JÁHKO DOAJMMA </em></p>
+<p>Jáhkkoåhpadusán galggi máná ja nuora barggat ja gávnnat majt merkaj liehket iehtsedum Jubmelis, iehtset ietjas, ietjas guojmev ja Jubmelav. Sij galggi oahppat råhkådallat, låhkåt Rámádav, liehket jubmeldievnastusán ja vuosedit gieresvuodav guojmmásisá praktihkalasj solidaritehta baktu. Máná ja nuora galggi bessat åvddånbuktet ietjasa, ietjasa jáhkov ja ietjasa sjuggelisvuodav.</p>
+<p type="listitem">Råhkålvis</p>
+<p type="listitem">Máná ja nuora galggi bessat vásedit guovdásj råhkålvisájt sáme árbbedáben råhkåt.</p>
+<p type="listitem">Máná ja nuora galggi oahppat bájkálasj sáme risstalasj árbbedábijt ma duon dan  luonndodoajmmaj le tjanádum.</p>
+<p type="listitem">Jubmeldievnastus</p>
+<p type="listitem">Máná ja nuora galggi oahppat sámij jubmeldievnastus- ja tjåhkalvisárbbedábij  birra, ja oadtjot máhttelisvuodav oassálasstet  arenan gånnå dá li anon.</p>
+<p type="listitem">Rámátlåhkåm</p>
+<p type="listitem">Máná ja nuora galggi oahppat Rámádav ja risstalasj sámegiella girjijt adnet</p>
+<p type="listitem">Lávllom, musihkka ja kultuvrra</p>
+<p type="listitem">Máná ja nuora galggi oadtjot máhttelisvuodav åvddånbuktet ietjasa sálmajt, musihkav ja ietjá  kultuvrraåvddånbuktemijt.</p>
+<p type="listitem">Máná ja nuora galggi oadtjot máhttelisvuodav vásedit bájkálasj girkkomusihkka árbbedábijt,  ja duodden dasi oahpásmuvvat  girkkomusihkalasj adnuj sáme guovlojn dalla.</p>
+<p type="listitem">Máná ja nuora galggi oadtjot máhttelisvuodav árbbedábálasj arenajt jáhkkoåhpadusán adnet</p>
+<p type="listitem">Máná ja nuora galggi jáhkkoåhpadusá oahppama ja subtsastimij gasskavuodan adnet  vædtsagijt ja vuogijt  praktihkalasj bargon.</p>
+<p type="listitem">Máná ja nuora  galggi måvtåstuhteduvvat sámegielav anátjit. Sihke njálmálasj</p>
+<p type="listitem">ja tjálalasj bargon bierri dille látjeduvvat sámegiella adnuj.5253-  Gåktus máhttá duv tjoaggulvis viehkedit sáme mánájt ja nuorajt iellemav dålkkut ja iellemin rijbadit nav vaj sijá sáme gulluvasjvuohta  ja identitehtta bisoduvvá?  -  Læstadiánálasj árbbedáben le Luthera unna katekismatjin guovdásj sadje jáhkkoåhpadusán.</p>
+<p>Katekismus le sierraláhkáj guoskavasj resurssan tjanádum tiebmáj mij la nammadum risstalasj jáhko ja árbbedábe oase vuolen. - Gåktu máhtti <span type="quote">«sáme»</span> vuodotiemá juogeduvvat ja dárkkelappot tjielggiduvvat nav vaj jåksi gájkka mánájt ja nuorajt tjoaggulvisán?3.0 Prinsihpalasj oasse <em type="bold">3.1 Tjanádum Vuona láhkaj ja girkkolasj </em><em type="bold">plánajda </em></p>
+<p>Vuona stáhtta le ásaduvvam guovte álmmuga ednamij nali, dáttjaj ja sámij. Sámij ævto iemeálmmugin Vuonan le tjáleduvvam Vuodolága § 110a. Vuodolágaparagráffa le dagádum daj rijkkagasskasasj iemeálmmukkonvensjåvnåj vuodon majt Vuodna le dåhkkidum. Da mierredi</p>
+<p>Vuona almulasj oajválattjajn le vælogisvuohta doarj ot ja dilev láhtjet dåjmajda ma positivalattjat tjuolldi, gå fálaldagájt vaddi ja dåjmajt álgadi sámijda. Girkko le dajt prinsihpajt dåhkkidam, ja vælggogisvuohta le duohtan váldeduvvam jáhkkoåhpadusådåstusán. Dat tjielggasijt vuojnnusij boahtá Vuona girkko bajemus jáhkkoåhpadusplánan, <em type="italic">Jubmel vaddá – Mij </em><em type="italic">juogadip </em>. </p>
+<p><em type="italic">Jubmel vaddá – Mij juogadip </em>nanostahttá sáme girkkoiellema oasev dan árbbedáben ja aktisasjvuodan mij le Vuona girkkon. Danen nammaduvvá máhtudahka sámeálmmuga vuojŋŋalisvuoda, girkkoiellema ja árbbedábij birra ájnas árbbedáhpen majt gájka gudi le gástaduvvam galggi dåbddåt. (bs <em type="italic">. Jubmel vaddá – Mij juogadip </em>, </p>
+<p>Kapihtal 2)</p>
+<p>Sáme jáhkkoåhpaduspládna le ressursdokumænnta tjoaggulvisájda ma sihti sáme perspektijvav jáhkkoåhpadussaj.</p>
+<p>Mærrádusá ráddidusá sámepolitihkan vájkkudi gåktu jáhkkoåhpadus sámijda organiseriduvvá girkkon. St.died. nr. 28 (2007-2008) Sámepolitihkka vuoset Vuona girkko sierra åvdåsvásstádussaj sáme girkkoiellemis. <span type="quote">«Åvdemus vieledus gå gálggá bærrájgåhtset sáme girkkoiellemav Vuona girkkon le ahte åvddånahttem viertti dáhpáduvvat sáme iesjdåbdoj ja sáme árbbedábij vuodon»</span> (s 178). <em type="italic">Sáme </em><em type="italic">jáhkkoåhpaduspládna </em>galggá sihkarasstet sámij iesjdåbddo ja árbbedábe bærrájgåtseduvvi ådåstussan. </p>
+<p>Sámelága giellanjuolgadusá § 1-5 tjuottjot sámegielav ja dárogielav avtaárvvusasj giellan.</p>
+<p>Ådåjakmáno 1, biejve 2011 rájes gulluji tjuovvovasj suohkana sámegiella háldadusguovlluj:</p>
+<p>Guovdagæjnno, Kárásjjåhkå, Porsáŋgu, Unjárga,</p>
+<p>Dædno, Gájvuodna, Loabát, Divtasvuodna, ja</p>
+<p>Snåsa. Njuolgadusá gåbttji nuortta-, julev-, ja oarj elsáme giellaguovlojt. Da aktse háldadussuohkana gåbttji dåssju oasátjav árbbedábálasj årromguovlojs. Vuonan le dan guovlo vijddudahka Oarj e Várj agis Finnmárko fylkas gitta oarjás Engerdalaj Hedmark fylkan.</p>
+<p>Nasjonálalasj jáhkkoåhpaduspládna tjuottjot sáme mánáj ja nuoraj riektáv åhpadussaj ja oahppanævojda ietjasa giellaj (bs.Jubmel vaddá –</p>
+<p>Mij juogadip, kapihtal 8).</p>
+<p>Duodden tsuojggiduvvá: <span type="quote">«Tjoaggulvisájn sáme háldadusguovlon le sierra åvdåsvásstádus dilev láhtjet jáhkkoåhpadussaj mij hiehpá sáme mánájda ja nuorajda.»</span> (bs. <em type="italic">Jubmel vaddá – Mij juogadip, </em></p>
+<p>Ulmme ja dahko)</p>
+<p>Tjoaggulvisá gåhtjoduvvi ietjas jáhkkoåhpaduspládna dahkamin hábbmit ulmijt ma vaddi sáme mánájda ja nuorajda máhttelisvuodav sihkardit, bærrájgåhtset ja åvdedit sáme gielav ja kultuvrav.</p>
+<p>Foto: Karin Mathisen5455 <em type="bold">3.2 Buojkuldagá ja báhkoano – sebrudahtte </em><em type="bold">jáhkkoåhpadus </em></p>
+<p>Sebrudahttem le dán plána vuodoprinsihppa, ja danen le sebrudahttem ájnas sáme jáhkkoåhpadusán. Sebrudahttem tjuottjot avtaárvvusasjvuodav, ij sæmmilágásjvuodav..</p>
+<p>Ulmutja riektá liehket ietjálágásj ja huoman gullut sosiálalasj, kultuvralasj ja fágalasj aktisasjvuohtaj, le vuodon gå aktisasjvuodav ulmutjij gasskan galggá huksat. Sebrudahttem le danen ietja gå integrerim ja assimilerim. Integrerim ja assimilerim gájbbet soabmásijt gudi le ålgusjbielen ja gejt galggá aktisasjvuohtaj válldet dan baktu ahte dahkat sijáv ieneplågo lágátjin. Dat ij le sebrudahttem.</p>
+<p>Sebrudahtte jáhkkoåhpadus gájbbet gájka ållu álgos le oassen aktisasjvuodas, ja danna oassálassti sæmmi árvvusattjat, vájku vil iesjgeŋga gájbbádusáj. Åvdåsvásstediddje jådediddje galggi bærrájgæhttjat juohkkahasj adná ietjas oassen aktisasjvuodas. Dát gájbbet aktijvalasj jådedimev, ja máhtukvuodav ja diedov, kultuvralasj, fágalasj ja sosiálalasj sieradusáj birra ma le ulmutjij gaskan.</p>
+<p>Pedagogalasj jådediddjen vierttiji liehket tjuovvovasj prinsihppa:- avtaárvvusasjvuohta oassálasstij gaskan- aktisasjvuohta gånnå le sadje moattebelakvuohtaj- mierredimoassálasstem</p>
+<p>Dá prinsihpa tjuottjodi riektáv liehket ietjálágásj sosiálalasj, kultuvralasj, ja fágalasj rámmaj sisbielen. Da sieradi sæmmilágásjvuoda ájádallamis, mij ienebut dættot sæmmilágásjvuodav gájbbádussan, ja ij dættoda sieradusájt ma gávnnuji ulmutjij gaskan. Sæmmilágásjvuoda ideologija vaddá vuodov assimilerimij jali segregerimij ja ij hieba sebrudahttem prinsihpajda ma li vuododum</p>
+<p>AN:a ulmusjrievtesvuodajn.</p>
+<p>Sebrudahttemprinsihpajda ij le dåssju dárbbo æjvvalimijn sámij ja dádtjaj gaskan, valla aj sisbielen sáme sebrudagán. Sáme sebrudagájn le aktisasjvuohta nanos. Aktisasjvuodan gájka oassálasste galggi avtaárvvusattja liehket berustahtek doajmmamáhtudagáv. Bájkálasj pládna dahkamin le ájnas bærrájgæhttjat ahte máná ja nuora gænna le dárbo hiebadahttemij sebrudahteduvvi.(bs. <em type="italic">Jubmel vaddá – Mij juogadip </em>, kapihtal 6) </p>
+<p>Jáhkkoåhpadus galggá sebrudahttet gájkajt gudi li gástaduvvam ja viehkedit aktisasjvuodav huksat sámij gaskan dan nielje rijkajn gånnå sáme årru.</p>
+<p>Aktisasjvuoda huksam iemeálmmukperspektijvan galggá birástahttet sihke álldarav, geografijav, kultuvralasj aktijvuodav ja gielladilev. Da nammaduvvam biele lasedi moattebelakvuoda ressursboanndudagáv ja máhttoboanndudagáv majt dåbddåp sáme sebrudagás sierraláhkáj luonndomáhtudahka ja vuojŋŋalasjvuohta. Ulmme galggá liehket gájka dåbddi ietjasa sebrudahteduvvam girkko jáhkkoaktisasjvuodan, majt jáhkkoåhpadus galggá viehkedit ja bisodit. <em type="bold">3.3 Oahppam - dahpaduvvá mánás, </em><em type="bold">sosiálalasj aktisasjvuodan </em></p>
+<p>Máná ja nuora oahppi buoremusát gå ietja oassálassti ja le aktijvalattja. Dát le Mánájlága termaj milta <span type="quote">«mánáj oassálasstem»</span>. Mánáj oassálasstem le gå máná ja nuora bessi tjoaggulvisá dåjmajda sehkanit, plánajt dahkat ja tjadádit, gå aktijvalattjat sæbrri ja li viehkken. Sidjij máhttá vatteduvvat luohtádus ja åvdåsvásstádus duola degu jubmeldievnastusájs, diakonalá dievnastusájs ja luohtádusdåjmajs. Dá máhtti tjadáduvvat duola degu sáme- dáro jubmeldievnastusájn, gånnå konfirmánta dievnasti oassen konfirmántaåhpadusás.</p>
+<p>Jáhkkoåhpadus galggá aj viehkedit sijáv gudi li gástaduvvam viessot ristagissan risstalasj aktisasjvuoda rámaj sisbielen. Sáme jáhkkoåhpadus viertti danen láhtjet sosiála arenajt gånnå mánáj ja nuoraj sáme risstalasj identitehtta nanniduvvá. Dat le máhtudaksosiologalasj bielle, dajna gå máhtudak viertti juogeduvvat jus galggá liehket jáhkedahtte.</p>
+<p>Le dárbbo aktisasj æjvvalimijt ásadit gånnå máná ja nuora aktan máhtti risstalasj aktisasjvuodav dahkat, konfirmántatjåhkanimijt, mánáj ja nuoraj tjåhkanimsajijt, sáme girkkobiejvijt, iemeálmmukfestiválajt j.n.v. Tjåhkanime máhtti organiseriduvvat sihke pråvsstådásen bispaguovlodásen, ja nasjonalálasj dásen. Dakkir tjåhkanime, gånnå sáme máná ja nuora máhtti æjvvalit iesjgeŋga giella- ja geográfalasj guovlon, le ájnnasa. Sáme jáhkkoåhpadus bierri duodden tjalmostahttet moattebuolvak sosialiserimav, gånnå máhtti láhtjet dilev sæbrástallamij ja máhtudakjuohkemij buolvaj gaskan.4.0 Pládna anon – Le gus mijá tjoaggulvis resursajt ásadam jali åtsådallam juojddáv mij luluj ávkken iehtjádijda ? <em type="bold">4.1 Máhttolåpptim </em></p>
+<p>Sáme jáhkkoåhpadus jådeduvvá sihke tjoaggulvisájs, barggoguojmijs ja æjgádijs/åvdåstiddjijs, fáddarijs ja fuolkijs sijdan ja lahkabirrusin. Tjoaggulvisá ja girkko jáhkkoåhpadus máhttá ij-formálalasj åhpadussan gåhtjuduvvat, ja sijdaj jáhkkoåhpadus vas iehpeformálalasj jáhkkoåhpadussan.</p>
+<p>Dát le sieradussan skåvlå formálalasj jáhkkoåhpadusas, man sisadno le åssko, iellemvuojnno ja etihkka (ÅIE).</p>
+<p>Sáme jáhkkoåhpadus le ienemusát sijdajn ja tjåhkalvisájn dahpaduvvam, ja le avtaárvvusasj tjoaggulvisá jáhkkoåhpadusájn. Jus jáhkkoåhpadus galggá liehket avtatraják, systemáhtalasj ja bájkálattjat vuododuvvam de le ájnas aktisattjat sijdaj ja tjåhkalvisáj barggat.</p>
+<p>Tjoaggulvisá ma jáhkkoåhpadusáv jådedi bierriji gæhttjalit aktisasjbargov mánájgárdij, skåvlåj ja skåvllåastoájgeårnigij åttjudit. Máhttolåpptima oahppamplakáhtan tsuojggiduvvá skåvllå galggá máhttelisvuodav láhtjet vaj bájkálasj sebrudahka bæssá åhpadussaj ávkálasj láhkáj sæbrrá. Dan baktu máhttá girkko, mij juo le ájnas oasse bájkálasj sebrudagás, liehket boanndudahkan. Dakkir aktisasjbarggo gájbet buorre ja systemáhtalasj fágalasj vuodov, buorre guládallamvuogijt, ja dåhkkididdje lahkanimev, tjadáduvvam konsekvænta vuogijn.</p>
+<p>Dav máhtudagáv majt jáhkkoåhpadusbargge tjoaggulvisán le oahppam sijdda ja skåvllå aktisasjbargos, bierri bisoduvvat ja ássjeguoskavattjan dagáduvvat duola degu tjállet ja biedjat dajt resurssabáŋkaj (bs. kapihtal 4,2). Dán baktu le máhttelis máhtudagáv buorebut juogadit.</p>
+<p>Ulmme bájkálasj tjadnasijn jáhkkoåhpaduspládnaj gånnå nasjonála ulme dagáduvvi guoskavattjan bájkálasj dásen le stuorra fágalasj hásstalus.</p>
+<p>Máhtudahka moattekultuvralasj pedagogihkan ja kultuvrraanalysan le dán bargon sierraláhkáj ássjeguoskavattja.</p>
+<p>Sáme jáhkkoåhpadus bierri rahtjat ja tjadnat allasis formálalasj máhtudagáv degu kultuvrramáhtudagáv, moattegielakvuoda birra, sámegiella- ja kultuvrramáhtov ja digitála oahpponævvoåvddånimen sámegiellaj ja dárogiellaj. Dat gullu sihke bájkálasj, guovlulasj ja nasjonálalasj dássáj. <em type="bold">4.2 Åtsådallamjuogadibme ja </em><em type="bold">máhtudakjuohkem </em></p>
+<p>Sáme girkkoráde barggá arena ásadimijn gånnå ressursajt ja åtsådallamijt sáme jáhkkoåhpadusás máhttá juogadit. Ulmme le nav ållo gå máhttelis resurssamateriálajs le hiebaduvvam ja le sadjihin, danen galggi ådå ájádusá, tjuorggasa, skåve j.n.v. liehket sadjihin resurssabáŋkajn nav vaj tjoaggulvis máhttá dajt adnuj válldet ja bájkálasj anojda dajt hiebadit. Sáme jáhkkoåhpadusá næhttabajkke www.jahkko.no le vuogas vædtsak sihke sijdajda ja tjoaggulvisájda.5657</p>
+<p>Gávnnu juo resurssabáŋŋka, www.kirken.no/storstavalt/prosjekt/, diedoj moatte prosjevtaj, dåjmaj ja resursaj birra ma le jáhkkoåhpadusådåstusá gæhttjalimájgen gæhttjaluvvam. Hábmer ja Rivtak-vuona tjoaggulvis, Sis - Finnmárko pråvsståguovllo ja</p>
+<p>Nuortta- Rana tjoaggulvis tjádadin prosjevtajt ma sierraláhkáj sámevuodav tjalmostin. Dajs prosjevtajs le máhttelisvuohta arvusmahttemav ja åhpadusáv oadtjot.</p>
+<p>Lassen Sáme girkkoráde ásat jahkásasj fáhkakonferánsajt aktisattjat Girkkolasj åhpadusguovdátjijn nuorttan, danna máhtti bargge ja luojvoj jáhkkoåhpadusbarggoguojme æjvvalit ,åtsådallamijt juogadit ja lasse máhtudagáv oadtjot. <em type="bold">4.3 Aktisasjbarggo sijdaj </em></p>
+<p>Tjoaggulvisán le, aktan æjgádij/åvdåstiddjij ja ristaæjgádij, åvdåsvásstádus jáhkko iellemav ja subttsasijt gaskustit. Girkko hálijt familjajt, mánájt ja nuorajt åledit. Mánáj iellema vuostasj jagijt le æjgádijn/åvdåstiddjijn vuodoaktijvuohta mánájn.</p>
+<p>Dalloj le juo girkkuj ájnas buorre aktijvuodav æjgádijn/åvdåstiddjijn ásadit, váj máná ja nuora juo álgos oadtju máhttelisvuodav girkkolanjájn oahpástuvvat ja váj dási dåbddågåhti gullevasjvuodav. Æjgáda/åvdåstiddje ja máná bierriji hasoduvvet åttjutjit buorre aktijvuodav girkkojn, vaj sij aktan iehtjádij válldi oasev girkko tjoaggulvisás.</p>
+<p>Girkko hálijt adnet moattelágásj vuogijt aktisasjbargon æjgádij/åvdåstiddjij, duola degu bagádallam ja diehtojuohkem jáhkkoåhpadusá birra. Æjgáda/åvdåstiddje mánájdisá dåbddi, ja diehti gåktu åhpadus buoremus láhkáj máhttá látjeduvvat. Tjoaggulvisá dárbahi dajt diedoj majt æjgáda/åvdåstiddje máhtti vaddet gå gájkajt galggi tjoaggulvisá dåjmajda sebrudahttet. <em type="bold">4.4 Luojvoj guojmmebargge girkkon </em></p>
+<p>Girkko dárbaj luojvoj guojmmebarggijt. Æjgáda/åvdåstiddje, ristaæjgáda ja nuora li ájnas resurssa.</p>
+<p>Daj maŋemus lågijt jagijt le ulmutjij miella luojvojbargguj unnum, ja da gudi ienep dåjmaj barggi vierttiji mávso oadtjot bargoj åvdås. Valla girkko dárbaj luojvojbarggo árbbedábev joarkket.</p>
+<p>Le ájnas bagádallat, måvtåstuhttet ja doarj ot dáv ájnas bargov, gå dá ulmutja ham tjoaggulvisáv dahki.</p>
+<p>Moatten sáme guovlon le læhkám hásstalusá æjgátvuovdav girkkuj ásadit. Histåvrålattjat le girkko sáme guovlon læhkám degu institusjåvnnå mij le ålgusjbieles boahtám, ja ulmutja gudi girkkov åvdåstahttin ælla læhkám lagámus ulmutjijs. Bágo <em type="italic">risstalasj </em>ja <em type="italic">sábme </em>le muoddásij mielas læhkám gássjelisá. Danen bierri bájkálattjat bargaduvvat nannimin girkkov sáme arenan. Girkko galggá liehket rabás álmmuk girkkon mij sámevuodav árvvusin adná ja viehket sjávodisvuodav doadjet dan negatijvvalasij histåvråj mij le læhkám girkko roalla koloniserimin, misjonerimin ja assimilerimin. Såbadus le dan aktijvuodan guovdásj buojkuldahka, ja gávnnuji juo prosjevta masi girkko le sæbrram ja tjadnam såbadimteologijav konkrehtalasj bargojda (bs. </p>
 <p>Ságastallam ja iellemrijbbam, Nuortta-Sálton). Fert guhtik tjoaggulvis máhttá iesj vuogijt gávnnat ma sjávodisvuodav dådji ja berustimev båkti, nav vaj ienebu dåbddi girkko le sebrudahtte.</p>
-<p>Goalmát jáhkkoartihkkalin le jáhkko aktisasjvuohtaj tjanáduvvam: <span type="quote">«Jáhkáv Ájlis Vuojŋŋanissaj, ájlis gájkkásasj girkkuj, ájllisij sebrudahkaj ...»</span> Vuojŋŋalasj aktisasjvuohta</p>
-<p>ulmutjijt aktij tjadná. Danen ep goassak galggá vajálduhttet mij, aktan lagámusájimme, dahkap viesso tjoaggulvisáv. Danna lip mij gájka Jubmela gåvån sjivnnjedum, sæmmi álbedahkes árvujn.</p>
-<p type="listitem">–  Gåktu máhtti æjgáda/åvdåstiddje ja ristaæjgáda diedojt oadtjot guoskevasj sáme oahppanævoj birra ma arvusmahtti dasi ahte jáhkko le vuojnnusin ja juogaduvvá sijdan.</p>
-<p>5.0 Bájkálasj pládnabarggo</p>
-<p type="listitem">–   Gåktu máhttá sáme kultuvrra liehket resurssa jáhkkoåhpadusán duv tjoaggulvisán?</p>
-<p><em type="bold">5.1Kontevstalasjájádallam</em> </p>
-<p>Dålen le risstalasjvuoda åvddånahttem Sámen tjadáduváj masstadime ja koloniserima baktu gånnå risstalasjvuohta dárogiellaj ráddij, dáv la Vuona girkko miededam. Tjoaggulvisá sáme guovlojn ja daj ålggolin li jáhkkoåhpadusådåstusán</p>
-<p>oadtjum stuoráp åvdåsvásstádusáv ja friddjavuodav hiebadahtátjit ja dåjmadittjat jáhkkoåhpadusáv gånnå Kristus vuosstájváldeduvvá, ja gånnå kultuvralasj ja vuojŋŋalasj árbbedábe le vuoggon gånnå jáhkko bæssá sjaddat. Valla gåk galggá</p>
-<p>kontevstalattjat ájádallat, ja hieret gus kultuvralasj hiebadibme åvddånbuktemav evangeliuma ja girkkulasj dábij milta?Kontevstualiserik le sierra suorgge teologijan.</p>
-<p>Ulmme le risstalasjvuodav åvddånahttet lahkabirrasin, vaj bájkálasj dábe, árbbedábe, árvvovuojno ja iellemtjielgadusá bájnedi risstalasjvuoda åvddånbuktemvuogijt. Gå</p>
-<p>álggogirkko målsoj juvdálasj monokultuvralasj juohkusis gåhttsåmij ulmutjij moattelágásj álmmuktjerdaj, kultuvralasj ja åskulasj doagátjij, de vierttijin árvustallat gatjálvisáv vidjurij birra</p>
-<p>evangeliuma ja kultuvra gaskan. Paulusa areopagoshålla le buorre buojkulvis gåktu vuostasj ristagisá grehkalasj guovlojn aj vierttijin dåmadit moattekultuvralasj tjuolmajt. Paulus hålan</p>
-<p>rámmpot ja lájttá Atenalattjajt. Avtan bielen rámpoduvvi gå jubmelav åhtsi, nuppen bielen vas lájteduvvi gå dievnasti konkrehtalasj jubmelvuodav mij le tiemmpelij biejadum. Areopagoshålla vuoset Jubmel lij mijá gaskan risstalasj sjivnnjedimteologia</p>
-<p>milta, aj åvddål misjåvnnåbarggo Sámen álgaduváj.</p>
-<p><em type="italic">Avtat almatjis le gájkka álmmugijt sjivnnjedam. Sijáv le åbbå ednamav miehtáj årudahttám, ja mierreájgijt le sidjij biedjam ja rájájt maj sisbielen viessu. Dáv le dahkam vaj almatja lulun Jubmelav åhtsåt ja márjju aj suv lusi gábjjot – ij le ham mijás avtastik guhkken.</em> </p>
-<p xml:lang="nob">(Apd 17,26-27)</p>
-<p>Sáme sebrudagán li moattelágásj sebrudakvuoge. Dá li stáda ja bájke, merraguovllo ja sisednam, sáme</p>
-<p>årru oarjján ja nuorttan, lullen ja allen. Muhtema årru gåhtjodum sáme suohkanijn, ja iehtjáda årru bájkijn gånnå li dåssju dárogielak institusjåvnå ja gånnå stivrra ja njunnjutja li dárogielaga. Jáhkkoåhpadusán sáme mánájda ja nuorajda bierri</p>
-<p>liehket vuodo sámevuodan dan láhkáj gåk vuojnnusij boahtá bájkálattjat, sæmmi båttå gå sáme moattebelakvuohta diedulattjan dagáduvvá. Valla le aj dárbbo adnet gåvåjt, tjuorgastagájt ja</p>
-<p>metafåvråjt sáme gielas, kultuvras, histåvrås ja árbbedábijs gå jårggålip risstalasj jáhko sádnesvuodajt.</p>
-<p><em type="bold">5.2Åvddånahttembájkálasjjáhkkoåhpadusplánas</em>  </p>
-<p><em type="bold">5.3Adnobájkálasjmáhtosjamáhtudagás</em> </p>
-<p><em type="bold">5.4Guoradallam</em> </p>
-<p>Plána<em type="italic"> Jubmel vaddá – Mij juogadip ja Pládna sáme jáhkkoåhpadussaj</em> galggi aktijvuodan vuojneduvvat vaj máná ja nuora oadtju dievalasj </p>
-<p>jáhkkoåhpadusáv. Tjoaggulvisájn gånnå li sáme máná ja nuora galggá dát vieleduvvat gå bájkálasj jáhkkoåhpaduspládna dagáduvvá. Le vuordedahtte tjoaggulvisá sáme guovddaguovlojn ållidi åhpadusulmijt (tabella milta kapihttalin 2.2) ietjasa</p>
-<p>sahtedåjmajn. Tjoaggulvisá gånnå sáme máná ja nuora li unneplågon bádtjiduvvi sahtedåjmaj baktu åhpadusulmijt ållidit. Måttijda tjoaggulvisájda sjaddá máhttelis ásadit sierra dåjmajt gånnå sáme</p>
-<p>åhpadusulme tjalmostahteduvvi. Tjoaggulvisájn gånnå sáme máná ja nuora le unneplågon, máhttá liehket máhttelisvuohta muhtem sáme åhpadusulmijt duoddit vuolletiebmán daj bákkulasj</p>
-<p>oajvvetiemájda ma hábbmiduvvi plánan <em type="italic">Jubmel vaddá – Mij juogadip</em>. Jus tjadáduvvi sierra dåjma sáme jali sámegielak mánájda, de le ájnas dá dåjma aj tjanáduvvi tjoaggulvisiellemij ietján, vaj máná e </p>
-<p>måsskusij bátse tjoaggulvisaktijvuodan. Divna máná ja nuora gudi oassálassti dievalasj jáhkkoåhpadusán galggi dåbddåt sebrudahteduvvam dan stuorra aktijvuodan, ja</p>
-<p>åtsådallat duogátjis le boandodibme aktijvuohtaj.  <em type="italic">Nåv gåk rumáj le akta vájku li moadda lahtasa, ja </em></p>
-<p>Sebrudagás nuppe sebrudahkaj ja tjoaggulvisás nuppe tjoaggulvissaj le sierra vuojno ja diedo sámevuoda birra ja gåk la sábmelattjan viessot. Rijkav miehtáj le aj stuorra sieradusá tjoaggulvisáj</p>
-<p>gaskan mij guosská diehtuj sáme álmmuga birra, sijá vuojŋŋalasj iellema, histåvrå ja udnásj sebrudakdilij birra. Juska le vánesvuohta diedojs de dát ij bierri liehket hieredus tjoaggulvissaj åvddånahtátjit fálaldagáv sáme mánájda ja</p>
-<p>nuorajda. Måttijn tjoaggulvisájn gånnå sáme årru, gávnnu bájkálasj máhtudagá ja åtsådallama. Dá li resursa majt tjoaggulvis máhttá ávkástallat jáhkkoåhpadusán sáme mánájda ja nuorajda.</p>
+<p>Goalmát jáhkkoartihkkalin le jáhkko aktisasjvuohtaj tjanáduvvam: «Jáhkáv Ájlis</p>
+<p>Vuojŋŋanissaj, ájlis gájkkásasj girkkuj, ájllisij sebrudahkaj .. » Vuojŋŋalasj aktisasjvuohta ulmutjijt aktij tjadná. Danen ep goassak galggá vajálduhttet mij, aktan lagámusájimme, dahkap viesso tjoaggulvisáv. Danna lip mij gájka Jubmela gåvån sjivnnjedum, sæmmi álbedahkes árvujn.– Gåktu máhtti æjgáda/åvdåstiddje ja ristaæjgáda diedojt oadtjot guoskevasj sáme oahppanævoj birra ma arvusmahtti dasi ahte jáhkko le vuojnnusin ja juogaduvvá sijdan. 5.0 Bájkálasj pládnabarggo– Gåktu máhttá sáme kultuvrra liehket resurssa jáhkkoåhpadusán duv tjoaggulvisán? <em type="bold">5.1 Kontevstalasj ájádallam </em></p>
+<p>Dålen le risstalasjvuoda åvddånahttem Sámen tjadáduváj masstadime ja koloniserima baktu gånnå risstalasjvuohta dárogiellaj ráddij, dáv la</p>
+<p>Vuona girkko miededam. Tjoaggulvisá sáme guovlojn ja daj ålggolin li jáhkkoåhpadusådåstusán oadtjum stuoráp åvdåsvásstádusáv ja friddjavuodav hiebadahtátjit ja dåjmadittjat jáhkkoåhpadusáv gånnå Kristus vuosstájváldeduvvá, ja gånnå kultuvralasj ja vuojŋŋalasj árbbedábe le vuoggon gånnå jáhkko bæssá sjaddat. Valla gåk galggá kontevstalattjat ájádallat, ja hieret gus kultuvralasj hiebadibme åvddånbuktemav evangeliuma ja girkkulasj dábij milta?</p>
+<p>Kontevstualiserik le sierra suorgge teologijan.</p>
+<p>Ulmme le risstalasjvuodav åvddånahttet lahkabirrasin, vaj bájkálasj dábe, árbbedábe, árvvovuojno ja iellemtjielgadusá bájnedi risstalasjvuoda åvddånbuktemvuogijt. Gå álggogirkko målsoj juvdálasj monokultuvralasj juohkusis gåhttsåmij ulmutjij moattelágásj álmmuktjerdaj, kultuvralasj ja åskulasj doagátjij, de vierttijin árvustallat gatjálvisáv vidjurij birra evangeliuma ja kultuvra gaskan. Paulusa areopagoshålla le buorre buojkulvis gåktu vuostasj ristagisá grehkalasj guovlojn aj vierttijin dåmadit moattekultuvralasj tjuolmajt. Paulus hålan rámmpot ja lájttá Atenalattjajt. Avtan bielen rámpoduvvi gå jubmelav åhtsi, nuppen bielen vas lájteduvvi gå dievnasti konkrehtalasj jubmelvuodav mij le tiemmpelij biejadum. Areopagoshålla vuoset</p>
+<p>Jubmel lij mijá gaskan risstalasj sjivnnjedimteologia milta, aj åvddål misjåvnnåbarggo Sámen álgaduváj.</p>
+<p><em type="italic">Avtat almatjis le gájkka álmmugijt sjivnnjedam. </em></p>
+<p><em type="italic">Sijáv le åbbå ednamav miehtáj årudahttám, ja </em><em type="italic">mierreájgijt le sidjij biedjam ja rájájt maj sisbielen </em><em type="italic">viessu. Dáv le dahkam vaj almatja lulun Jubmelav </em><em type="italic">åhtsåt ja márj u aj suv lusi gábj ot – ij le ham mijás </em><em type="italic">avtastik guhkken. </em>(Apd 17,26-27) </p>
+<p>Sáme sebrudagán li moattelágásj sebrudakvuoge.</p>
+<p>Dá li stáda ja bájke, merraguovllo ja sisednam, sáme årru oarj án ja nuorttan, lullen ja allen. Muhtema årru gåhtjodum sáme suohkanijn, ja iehtjáda årru bájkijn gånnå li dåssju dárogielak institusjåvnå ja gånnå stivrra ja njunnjutja li dárogielaga.</p>
+<p>Jáhkkoåhpadusán sáme mánájda ja nuorajda bierri liehket vuodo sámevuodan dan láhkáj gåk vuojnnusij boahtá bájkálattjat, sæmmi båttå gå sáme moattebelakvuohta diedulattjan dagáduvvá.</p>
+<p>Valla le aj dárbbo adnet gåvåjt, tjuorgastagájt ja metafåvråjt sáme gielas, kultuvras, histåvrås ja árbbedábijs gå jårggålip risstalasj jáhko sádnesvuodajt.5859 <em type="bold">5.2 Åvddånahttem bájkálasj </em><em type="bold">jáhkkoåhpadusplánas </em></p>
+<p>Plána <em type="italic">Jubmel vaddá – Mij juogadip ja Pládna sáme </em><em type="italic">jáhkkoåhpadussaj </em>galggi aktijvuodan vuojneduvvat vaj máná ja nuora oadtju dievalasj jáhkkoåhpadusáv. Tjoaggulvisájn gånnå li sáme máná ja nuora galggá dát vieleduvvat gå bájkálasj jáhkkoåhpaduspládna dagáduvvá. Le vuordedahtte tjoaggulvisá sáme guovddaguovlojn ållidi åhpadusulmijt (tabella milta kapihttalin 2.2) ietjasa sahtedåjmajn. Tjoaggulvisá gånnå sáme máná ja nuora li unneplågon bádtjiduvvi sahtedåjmaj baktu åhpadusulmijt ållidit. Måttijda tjoaggulvisájda sjaddá máhttelis ásadit sierra dåjmajt gånnå sáme åhpadusulme tjalmostahteduvvi. Tjoaggulvisájn gånnå sáme máná ja nuora le unneplågon, máhttá liehket máhttelisvuohta muhtem sáme åhpadusulmijt duoddit vuolletiebmán daj bákkulasj oajvvetiemájda ma hábbmiduvvi plánan <em type="italic">Jubmel </em><em type="italic">vaddá – Mij juogadip </em>. Jus tjadáduvvi sierra dåjma sáme jali sámegielak mánájda, de le ájnas dá dåjma aj tjanáduvvi tjoaggulvisiellemij ietján, vaj máná e måsskusij bátse tjoaggulvisaktijvuodan. Divna máná ja nuora gudi oassálassti dievalasj jáhkkoåhpadusán galggi dåbddåt sebrudahteduvvam dan stuorra aktijvuodan, ja åtsådallat duogátjis le boandodibme aktijvuohtaj. </p>
+<p><em type="italic">Nåv gåk rumáj le akta vájku li moadda lahtasa, ja </em><em type="italic">gájkka dá lahtasa avtav rubmahav dahki, </em><em type="italic">nåv le aj Kristusijn. </em>(1.Kor 12,12) </p>
+<p>Jáhkkoåhpadusán galggá liehket bájkálasj åvddånahttembarggo aj maŋŋela gå tjoaggulvisá li dahkam ja dåhkkidum ietjasa bájkálasj plánajt.</p>
+<p>Tjoaggulvisá galggi ådåstuhttet ietjasa jáhkkoåhpadusplánajt duolloj dálloj bærrájgåtsedittjat dárbulasj ådåstuhttemav ja åvddånahttemav. Dav majt åtsådalli bájkálattjat sjaddá buorre resurssa dán bargguj. <em type="bold">5.3 Adno bájkálasj máhtos ja máhtudagás </em></p>
+<p>Sebrudagás nuppe sebrudahkaj ja tjoaggulvisás nuppe tjoaggulvissaj le sierra vuojno ja diedo sámevuoda birra ja gåk la sábmelattjan viessot.</p>
+<p>Rijkav miehtáj le aj stuorra sieradusá tjoaggulvisáj gaskan mij guosská diehtuj sáme álmmuga birra, sijá vuojŋŋalasj iellema, histåvrå ja udnásj sebrudakdilij birra. Juska le vánesvuohta diedojs de dát ij bierri liehket hieredus tjoaggulvissaj åvddånahtátjit fálaldagáv sáme mánájda ja nuorajda. Måttijn tjoaggulvisájn gånnå sáme årru, gávnnu bájkálasj máhtudagá ja åtsådallama. Dá li resursa majt tjoaggulvis máhttá ávkástallat jáhkkoåhpadusán sáme mánájda ja nuorajda.</p>
 <p>Duodden ájnegis ulmutjijda, máhttá aj liehket máhttelisvuohta diedojt oadtjot sámesiebrijs, giella- ja kulturguovdátjijs jali sámeskåvllå- ja mánájgárddefálaldagájs lahkabirrusin.</p>
-<p>Guoradallat tjoaggulvisájt ja lagosbirrasav sjaddá ájnas vuodobarggo gå ájggu bájkálasj plánav dahkat. Guovlujn gånnå sáme kultuvrra le ielle sjaddá luondulasj sámevuohta aj gåvviduvvá</p>
-<p>bájkálasj jáhkkoåhpadusplánan. Tjoaggulvisá sáme guovloj ålgusjbielen bierriji diedojt åttjudit mánáj ja nuoraj sáme tjadnusa birra (bs. <em type="italic">Jubmel vaddá – Mij juogadip</em>, 7. kapihtal), nav vaj dåjma máhtti </p>
-<p>duoddiduvvat pládnabargguj ma sihkarassti ulmev <em type="italic">Plánan sáme jáhkkoåhpadusájn</em> (bs. Kapihtal 2.1). </p>
-<p>Moaddi máhttá liehket hásstalus guoradallat jus li sáme máná ja nuora suoknan, sierraláhkáj dábálasj sámij årromguovloj ålggolin. E gávnnu regisstara gåsstå máhttá diedojt viedtjat mánáj ja nuoraj sáme duogátja birra. Tjoaggulvisá hasoduvvi</p>
-<p>strategiajt gávnnat guoradalátjit jus li sebrulattja sáme duogátjijn, ja åttjudit buorre vuogijt diedojt juogatjit dán birra berustiddjijda.</p>
-<p>Da tjoaggulvisá ma e gávna resurssaulmutjijt jali</p>
-<p type="listitem">–birrusijt lagosbájkijn máhtti duola dagu rádev</p>
-<p><em type="bold">Guhkesájggásasjstrategija:</em> </p>
-<p type="listitem">–  Gástadusságastallamin guoradallat jus æjgádijn/åvdåstiddjijn le sáme duogásj jali sáme tjadnusa, ja jus sávvi fálaldagáv sáme jáhkkoåhpadusán ietjas mánnáj.</p>
-<p type="listitem">–  Biedjat sjiemájt sadjihin, elektråvnålattjat ja páhperhámen, vaj æjgáda/åvdåstiddje máhtti berustimev vuosedit jáhkkoåhpadussaj gånnå sáme perspektijva bærrájgåtseduvvá.</p>
-<p><em type="bold">Oanesájggásasjstrategija:</em> </p>
-<p type="listitem">–  Guládallat sáme siebrij, mánájgárdij, skåvlåj, juohkusij ja organisasjåvnåj, sihke bájkálattjat ja guovlon. Dá máhtti diehtet fámiljaj sáme duogátja birra.</p>
-<p type="listitem">–  Tjoaggulvistjállagij, næhttabielij ja ådåsgirjij baktu le máhttelis diededit tjoaggulvis ájggu tjalmostahttet sámevuodav, ja æjgáda/åvdåstiddje bádtjiduvvi tjoaggulviskontåvråjn guládallat jus</p>
-<p>sihti sáme jáhkkoåhpadus fálaldagáv</p>
-<p><em type="italic">gájkka dá lahtasa avtav rubmahav dahki, nåv le aj Kristusijn.</em> (1.Kor 12,12) </p>
-<p>Jáhkkoåhpadusán galggá liehket bájkálasj åvddånahttembarggo aj maŋŋela gå tjoaggulvisá li dahkam ja dåhkkidum ietjasa bájkálasj plánajt. Tjoaggulvisá galggi ådåstuhttet ietjasa jáhkkoåhpadusplánajt duolloj dálloj</p>
-<p>bærrájgåtsedittjat dárbulasj ådåstuhttemav ja åvddånahttemav. Dav majt åtsådalli bájkálattjat sjaddá buorre resurssa dán bargguj.</p>
-<p>åhtsåt bisspaguovllokontåvråjs daj bisspaguovlojn gænna le sierralágásj åvdåsvásstádus girkkulasj</p>
-<p>dievnastusás sámegiellaj (Nidaros: oarjjelsáme, Oarjje-Hålogalánnda: julevsáme, NuorttaHålogalánnda: Nuorttasáme), jali sáme girkkorádes.</p>
-<p>Tjåhkanimvuodok åhpadibme bierri aj aneduvvat vejulasjvuohtan. Aktisasjbarggo tjoaggulvisáj gaskan jali pråvsstådásen, gånnå ásaduvvi årruha jali tjåhkanime gånnå</p>
-<p>jáhkkoåhpadus sáme mánájda ja nuorajda le guovdátjin. Tjåhkanime duola dagu konfirmasjåvnnååhpadime aktijvuodan vierttiji åttjuduvvat juohkka ájnegisá tjoaggulvisájn, vaj</p>
-<p>miere konfirmasjåvnnåájgen anoduvvi (bs. <em type="italic">Jubmel vaddá – Mij juogadip</em>, 5. kapihtal). Dákkir tjoavdos máhttá liehket vejulasj unnep sáme birrusijn gånnå li gallegasj luojvoj guojmmebargge, gallegasj máná </p>
-<p>ja nuora, jali guovlojn oablodum sáme årudagáj. Tjåhkanime máhtti ásadit ådå æjvvalimsajijt mánájda ja nuorajda, gånnå sáme perspektijvva bærrájgåtseduvvá. Dajda tjoaggulvisájda gejn ij la</p>
-<p>vuojga máhtto ja máhtudahka sáme girkkoiellema birra, luluj dát viehkken.</p>
-<p type="listitem">–  Makkir sáme organisasjåvnåj ja/jali institusjåvnåj máhtti tjoaggulvisá aktisattjat barggat?</p>
-<p type="listitem">–  Gåktu máhtti tjoaggulvisá ávkástallat sáme organisasjåvnåj ja/jali institusjåvnåj máhtudagáv?</p>
+<p>Da tjoaggulvisá ma e gávna resurssaulmutjijt jali –birrusijt lagosbájkijn máhtti duola dagu rádev åhtsåt bisspaguovllokontåvråjs daj bisspaguovlojn gænna le sierralágásj åvdåsvásstádus girkkulasj dievnastusás sámegiellaj (Nidaros: oarj elsáme,</p>
+<p>Oarj e-Hålogalánnda: julevsáme, Nuortta-</p>
+<p>Hålogalánnda: Nuorttasáme), jali sáme girkkorádes.</p>
+<p>Tjåhkanimvuodok åhpadibme bierri aj aneduvvat vejulasjvuohtan. Aktisasjbarggo tjoaggulvisáj gaskan jali pråvsstådásen, gånnå ásaduvvi årruha jali tjåhkanime gånnå jáhkkoåhpadus sáme mánájda ja nuorajda le guovdátjin. Tjåhkanime duola dagu konfirmasjåvnnååhpadime aktijvuodan vierttiji åttjuduvvat juohkka ájnegisá tjoaggulvisájn, vaj miere konfirmasjåvnnåájgen anoduvvi (bs. <em type="italic">Jubmel </em><em type="italic">vaddá – Mij juogadip </em>, 5. kapihtal). Dákkir tjoavdos máhttá liehket vejulasj unnep sáme birrusijn gånnå li gallegasj luojvoj guojmmebargge, gallegasj máná ja nuora, jali guovlojn oablodum sáme årudagáj. </p>
+<p>Tjåhkanime máhtti ásadit ådå æjvvalimsajijt mánájda ja nuorajda, gånnå sáme perspektijvva bærrájgåtseduvvá. Dajda tjoaggulvisájda gejn ij la vuojga máhtto ja máhtudahka sáme girkkoiellema birra, luluj dát viehkken.– Makkir sáme organisasjåvnåj ja/jali institusjåvnåj máhtti tjoaggulvisá aktisattjat barggat?– Gåktu máhtti tjoaggulvisá ávkástallat sáme organisasjåvnåj ja/jali institusjåvnåj máhtudagáv? <em type="bold">5.4 Guoradallam </em></p>
+<p>Guoradallat tjoaggulvisájt ja lagosbirrasav sjaddá ájnas vuodobarggo gå ájggu bájkálasj plánav dahkat. Guovlujn gånnå sáme kultuvrra le ielle sjaddá luondulasj sámevuohta aj gåvviduvvá bájkálasj jáhkkoåhpadusplánan. Tjoaggulvisá sáme guovloj ålgusjbielen bierriji diedojt åttjudit mánáj ja nuoraj sáme tjadnusa birra (bs. <em type="italic">Jubmel vaddá – Mij </em><em type="italic">juogadip </em>, 7. kapihtal), nav vaj dåjma máhtti duoddiduvvat pládnabargguj ma sihkarassti ulmev </p>
+<p><em type="italic">Plánan sáme jáhkkoåhpadusájn </em>(bs. Kapihtal 2.1). </p>
+<p>Moaddi máhttá liehket hásstalus guoradallat jus li sáme máná ja nuora suoknan, sierraláhkáj dábálasj sámij årromguovloj ålggolin. E gávnnu regisstara gåsstå máhttá diedojt viedtjat mánáj ja nuoraj sáme duogátja birra. Tjoaggulvisá hasoduvvi strategiajt gávnnat guoradalátjit jus li sebrulattja sáme duogátjijn, ja åttjudit buorre vuogijt diedojt juogatjit dán birra berustiddjijda.</p>
+<p><em type="bold">Guhkesájggásasj strategija: </em>– Gástadusságastallamin guoradallat jus æjgádijn/åvdåstiddjijn le sáme duogásj jali sáme tjadnusa, ja jus sávvi fálaldagáv sáme jáhkkoåhpadusán ietjas mánnáj.– Biedjat sjiemájt sadjihin, elektråvnålattjat ja páhperhámen, vaj æjgáda/åvdåstiddje máhtti berustimev vuosedit jáhkkoåhpadussaj gånnå sáme perspektijva bærrájgåtseduvvá. </p>
+<p><em type="bold">Oanesájggásasj strategija: </em>– Guládallat sáme siebrij, mánájgárdij, skåvlåj, juohkusij ja organisasjåvnåj, sihke bájkálattjat ja guovlon. Dá máhtti diehtet fámiljaj sáme duogátja birra.– Tjoaggulvistjállagij, næhttabielij ja ådåsgirjij baktu le máhttelis diededit tjoaggulvis ájggu tjalmostahttet sámevuodav, ja æjgáda/åvdåstiddje bádtjiduvvi tjoaggulviskontåvråjn guládallat jus sihti sáme jáhkkoåhpadus fálaldagáv </p>
 </body></document>

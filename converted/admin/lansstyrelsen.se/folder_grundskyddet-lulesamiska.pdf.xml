@@ -1,53 +1,123 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>452</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 107631 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="vep"><em type="bold">LÁHKA VADDÁ </em></p>
-<p><em type="bold">Ráddidusá ulmme unneplågopolitijkajn la suoddjit rijkalasj unneplågojt, nannit sijá máhttelisvuodajt bájnnemij ja doarjjot histåvrålasj unneplågogielajt vaj viesso bisoduvvi.</em> </p>
-<p xml:lang="deu"><em type="bold">RIJKALASJ  UNNEPLÅGOJDA RIEVTESVUODAJTOASSEULME </em></p>
-<p xml:lang="deu"><em type="bold">RIJKALASJ  UNNEPLÅGOJDA  RIJKALASJ </em></p>
-<p xml:lang="deu"><em type="bold">UNNEPLÅGO </em></p>
-<p xml:lang="deu"><em type="bold">SVIERIGIN</em> </p>
-<p xml:lang="fkv"><em type="bold"> NUPPÁSTALLAM JA FÁMODISVUOHTA</em> </p>
-<p><em type="bold">Svierik la agev årrum moattegielak ja moattekultuvralasj. Sáme, suobmelattja, duornosliegega, roma ja juvdára li gávnnum rijkan ihkeven guhka ájgev. Sijá giela ja kultuvra li svieriga sebrudagás oasse ja mijá aktisasj kultuvrraárbbe.</em> </p>
-<p>Nuppástallam, fámodisvuohta ja badjelgähttjam  ulmutjij rijkalasj unneplågo sierratjerda gáktuj galggá vuostelduvvat. Siján galggi årrot avtalágásj máhttelisvuoda oasálasstet sebrudakviessomin degu ietjá ulmutja.</p>
-<p><em type="bold"> </em>Tjuottjudusfábmodagá galggi dárbon hie</p>
-<p>balattjat diededit rijkalasj unneplågojt sijá rievtesvuodaj birra dán lága milta.</p>
-<p>SÁME: Svierigin li bájken 20 000-35 000 sáme gudi</p>
-<p>ságasti sámegiela umasslágásj varietehtajt. Sáme li aj álggoálmmuga.</p>
-<p xml:lang="fkv"><em type="bold"> BÁJNNEM  JA OASÁLASJVUOHTA </em></p>
-<p>Rijkalasj unneplågoj máhttelisvuoda bájnnemij ja oasálasjvuohtaj galggá nannoduvvat, iehtjádij siegen gå fábmudagá sijáj rádedi. Unneplågo galggi vatteduvvat  almma bájnnemav ássjijn ma sidjij guosski.</p>
-<p>Giellalágan (2009:600) la diededum se</p>
-<p>brudagán la sierralágásj välggogisvuohta suoddjit ja åvdedit rijkalasj unneplågogielajt.</p>
-<p xml:lang="fkv"><em type="bold"> GIELLA JA KULTUVRALASJ IDENTITÄHTTA </em></p>
-<p>Rijkalasj unneplågoj giela ja kultuvra galggi suoddjiduvvat ja åvdeduvvat. Ulmutja rijkalasj unneplågo tjerdajn galggi máhttet  åmastit ja adnet ietjasa iednegielav ja åvdedit ietjas kultuvralasj identitehtav. Rijkalasj unneplågogiela galggi årrot viesso giela Svierigin.</p>
-<p>Tjuottjudusfábmodagá galggi vaddet rijkalasj unneplågojda máhttelisvuodav bájnnemij ássjijn ma sidjij guosski ja guhkás</p>
-<p>SVIERIKSUOBMELATTJA::Svierigin li bájken 450 000-600 000 svieriksuobmelattja. Moatte viessu Stockhol</p>
-<p>man-Mälardalenin. Unneplågogiella l suomagiella.</p>
-<p>DUORNOSLIEGEGA: Svierigin li  bájken 50 000 duornosliegega gudi åvdemusát Norrbottenin viessu.</p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>511</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 107631 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Ráddidusá ulmme unneplågopolitijkajn la </em><em type="bold">suoddjit rijkalasj unneplågojt, nannit sijá </em><em type="bold">máhttelisvuodajt bájnnemij ja doarjjot histåv- </em><em type="bold">rålasj unneplågogielajt vaj viesso bisoduvvi. </em><em type="bold">1 NUPPÁSTALLAM JA FÁMODISVUOHTA </em></p>
+<p>Nuppástallam, fámodisvuohta ja badjelgähttjam ulmutjij rijkalasj unneplågo sierratjerda gáktuj galggá vuostelduvvat. Siján galggi årrot avtalágásj máht-telisvuoda oasálasstet sebrudakviessomin degu ietjá ulmutja. <em type="bold">2 BÁJNNEM JA OASÁLASJVUOHTA </em></p>
+<p>Rijkalasj unneplågoj máhttelisvuoda bájnnemij ja oasálasjvuohtaj galggá nannoduvvat, iehtjádij siegen gå fábmudagá sijáj rádedi. Unneplågo galggi vat-teduvvat almma bájnnemav ássjijn ma sidjij guosski. <em type="bold">3 GIELLA JA KULTUVRALASJ IDENTITÄHTTA </em></p>
+<p>Rijkalasj unneplågoj giela ja kultuvra galggi suoddjiduvvat ja åvdeduvvat. Ulmutja rijkalasj un-neplågo tjerdajn galggi máhttet åmastit ja adnet ietjasa iednegielav ja åvdedit ietjas kultuvralasj identitehtav. Rij-kalasj unneplågogiela galggi årrot viesso giela Svierigin. <em type="bold">§ </em><em type="bold">3 </em>Tjuottjudusfábmodagá galggi dárbon hie-balattjat diededit rijkalasj unneplågojt sijá rievtesvuodaj birra dán lága milta. <em type="bold">§ </em><em type="bold">4 </em>Giellalágan (2009:600) la diededum se-brudagán la sierralágásj välggogisvuohta suoddjit ja åvdedit rijkalasj unneplågogielajt. </p>
+<p>Sebrudak galggá aj ietján åvdedit rijkalasj unneplågoj máhttelisvuodajt bisodit ja åvdedit ietjasa kultuvrav</p>
+<p>Svierigin. Mánáj kultuvralasj identitehta åvddånibme ja ietjasa unneplågogiela adno gálggá sierraláhkáj åvde-duvvat. <em type="bold">§ </em><em type="bold">5 </em>Tjuottjudusfábmodagá galggi vaddet rijkalasj unneplågojda máhttelisvuodav bájnnemij ássjijn ma sidjij guosski ja guhkás máhttelis rádedit unneplågoj åvdåstiddjij dakkir ássjijn. </p>
+<p><em type="bold">Ådåjakmáno 1.b. 2010 fábmuj bådij láhka </em><em type="bold">rijkalasj unneplågoj ja unneplågogielaj birra </em></p>
+<p><em type="bold">Svierigin. Lága gålmmå vuodosuodjeparagráfa </em><em type="bold">vaddi rijkalasj unneplågojda riektáv diededib- </em><em type="bold">máj, kultuvra ja giela suojev ja riektáv oasálasj- </em><em type="bold">vuohtaj ja bajnnemij. </em><em type="bold">§LÁHKA VADDÁ </em></p>
+<p xml:lang="est"><em type="bold">RIJKALASJ </em></p>
+<p xml:lang="deu"><em type="bold">UNNEPLÅGOJDA </em></p>
+<p xml:lang="deu"><em type="bold">RIEVTESVUODAJT </em><em type="bold">3OASSEULME </em></p>
+<p xml:lang="est"><em type="bold">RIJKALASJ </em></p>
+<p xml:lang="deu"><em type="bold">UNNEPLÅGOJDA </em><em type="bold">5RIJKALASJ </em></p>
+<p xml:lang="hbs"><em type="bold">UNNEPLÅGO </em></p>
+<p xml:lang="deu"><em type="bold">SVIERIGIN </em></p>
+<p>SÁME: Svierigin li bájken 20 000-35 000 sáme gudi ságasti sámegiela umasslágásj varietehtajt. Sáme li aj álggoálmmuga.</p>
+<p>SVIERIKSUOBMELATTJA: Svierigin li bájken 450 000-600 000 svieriksuobmelattja. Moatte viessu Stockhol-man-Mälardalenin. Unneplågogiella l suomagiella.</p>
+<p>DUORNOSLIEGEGA: Svierigin li bájken 50 000 duornosliegega gudi åvdemusát Norrbottenin viessu.</p>
 <p>Unneplågogiella l meängiella.</p>
-<p>ROMA::Svierigin li 50 000-100 000 roma gudi rijkav birra viessu. Unneplågogiella l umasslágásj romána</p>
-<p>giela varietehta.</p>
-<p>JUVDÁRA:<em type="bold"> </em>Svierigin viessu 20 000 -25 000 juvdára  </p>
+<p>ROMA: Svierigin li 50 000-100 000 roma gudi rijkav birra viessu. Unneplågogiella l umasslágásj romána-giela varietehta.</p>
+<p>JUVDÁRA: Svierigin viessu 20 000 -25 000 juvdára </p>
 <p>Svierigin. Unneplågo-giella l jiddisj.</p>
-<p xml:lang="deu"><em type="bold">DIEDEDIMBIELLE</em> </p>
-<p xml:lang="vep"><em type="bold">VUODNA</em> </p>
-<p xml:lang="deu"><em type="bold">SVIERIK </em></p>
-<p> Kvenskagiella  Románagiella  Sámegiella</p>
-<p> Sámegiella  Suomagiella  Meängiella  Románagiella  Jiddisj</p>
+<p><em type="bold">Svierik la agev årrum moattegielak ja </em><em type="bold">moattekultuvralasj. Sáme, suobmelattja, </em><em type="bold">duornosliegega, roma ja juvdára li gávn- </em><em type="bold">num rijkan ihkeven guhka ájgev. Sijá giela ja </em><em type="bold">kultuvra li svieriga sebrudagás oasse ja mijá </em><em type="bold">aktisasj kultuvrraárbbe. </em></p>
+<p xml:lang="deu"><em type="bold">DIEDEDIMBIELLE </em></p>
+<p xml:lang="vep">JULEVSÁMEGIELLA/LULESAMISKA</p>
+<p xml:lang="vep"><em type="bold">SPÁNSSKA </em> </p>
+<p>Arabiagiella</p>
+<p>Aragoniagiella</p>
+<p>Aranesiagiella</p>
+<p>Asturiagiella/</p>
+<p>Babliagiella</p>
+<p>Baskiagiella</p>
+<p>Berberagiella</p>
+<p>Kataloniagiella</p>
+<p>Galiciagiella</p>
+<p>Portugálagiella</p>
+<p>Valenciagiella</p>
+<p xml:lang="vep"><em type="bold">TUSSKA </em> </p>
+<p>Dánskagiella</p>
+<p>Vuolletuskagiella</p>
+<p>Vuollesorbiagiella</p>
+<p>Nuorttafrisiagiella</p>
+<p>Románagiella</p>
+<p>Saterfrisiagiella</p>
+<p>Allasorbiagiella</p>
+<p xml:lang="hbs"><em type="bold">DÁNMÁRKKO </em> </p>
+<p>Tuskagiella</p>
+<p xml:lang="vep"><em type="bold">STUORBRITANNIA </em> </p>
+<p>Korniagiella</p>
+<p>Irlándagiella</p>
+<p xml:lang="kmr">Manx</p>
+<p>Vuolleskotlándagiella</p>
+<p>Skotlándak gaeliagiella</p>
+<p>Ulstera skotsagiella</p>
+<p xml:lang="spa">Kymriagiella (walesiagiella)</p>
+<p xml:lang="deu"><em type="bold">UNGÁRRA </em> </p>
+<p>Armeniagiella</p>
+<p xml:lang="deu">Beas</p>
+<p>Bulgaragiella</p>
+<p>Kroahtiagiella</p>
+<p>Tuskagiella</p>
+<p>Grehkagiella</p>
+<p>Pålskagiella</p>
+<p xml:lang="fra">LL</p>
+<p xml:lang="nno">O: Database the European Charter f or R egional or Languages, http://languagecharter.coe.int/index.h tm (tjoahkkájbiejadum Álmmuk</p>
+<p xml:lang="deu">Vuododus Europa Buohtastahtedum Unneplågo</p>
+<p xml:lang="nob">Åtsådibmáj dårjajn Europarádes ja Ungára Å lggorijkkadepartementas/The P ublic Foundation for E uropean Comparative M inor ity R esearch Ministry for F oreig n A ffairs of Hungary).</p>
+<p xml:lang="vep"><em type="bold">VUOLLEEDNAMA </em> </p>
+<p>Frisiagiella</p>
+<p>Limburgagiella</p>
+<p>Vuollesaksiagiella</p>
+<p>Románagiella</p>
+<p>Jiddisj</p>
+<p xml:lang="vep"><em type="bold">VUODNA </em> </p>
+<p>Kvenskagiella</p>
+<p>Románagiella</p>
+<p>Sámegiella</p>
+<p xml:lang="deu"><em type="bold">SVIERIK </em> </p>
+<p>Sámegiella</p>
+<p>Suomagiella</p>
+<p>Meängiella</p>
+<p>Románagiella</p>
+<p>Jiddisj</p>
+<p>Romániagiella</p>
+<p>Románagiella</p>
+<p>Rusiniagiella</p>
+<p>Serbiagiella</p>
+<p>Slovakiagiella</p>
+<p>Sloveniagiella</p>
+<p>Ukrájnagiella</p>
+<p xml:lang="deu"><em type="bold">ROMÁNIA </em> </p>
+<p>Albánagiella</p>
+<p>Armeniagiella</p>
+<p>Bulgariagiella</p>
+<p>Kroahtiagiella</p>
+<p>Tjehkagiella</p>
+<p>Tuskagiella</p>
+<p>Grehkagiella</p>
+<p>Ungáragiella</p>
+<p>Itáliagiella</p>
+<p>Makedoniagiella</p>
+<p>Pålskagiella</p>
+<p>Románagiella</p>
+<p>Russagiella</p>
+<p>Rusiniagiella</p>
+<p>Serbiagiella</p>
+<p>Slovakiagiella</p>
+<p>Tatáriagiella</p>
+<p>Turkiagiella</p>
+<p>Ukrájinagiella</p>
+<p>Jiddisj</p>
+<p xml:lang="deu"><em type="bold">SUOBMA </em> </p>
+<p>Románagiella</p>
+<p>Russagiella</p>
+<p>Sámegiella</p>
+<p>Svierigadárogiella</p>
+<p>Tatariagiella</p>
+<p>Jiddisj</p>
+<p>Gárjjelagiella</p>
+<p>Europaráde barggo ulmutja rievtesvuodaj ja unneplågoássjij la duohke Svieriga unneplågopolitijkkaj. Rijkalasj unneplågo ja rijkadajva- jali unneplågogiela gávnnuji moatten rijkan Europan.</p>
+<p>Muhtem rijka ja giela.</p>
 <p>Muhtem giela Europakártan</p>
-<p>Europaráde barggo ulmutja rievtesvuodaj ja unneplågoássjij la duohke Svieriga unneplågopolitijkkaj. Rijkalasj unneplågo ja rijkadajva- jali unneplågogiela gávnnuji moatten rijkan Europan. Muhtem rijka ja giela.</p>
-<p xml:lang="vep"><em type="bold">STUORBRITANNIA</em> </p>
-<p xml:lang="deu"><em type="bold">SUOBMA</em> </p>
-<p> Románagiella  Russagiella  Sámegiella  Svierigadárogiella  Tatariagiella  Jiddisj  Gárjjelagiella</p>
-<p xml:lang="vep"><em type="bold">TUSSKA</em> </p>
-<p xml:lang="nob"> Korniagiella  Irlándagiella  Manx  Vuolleskotlándagiella  Skotlándak gaeliagiella  Ulstera skotsagiella  Kymriagiella (walesiagiella)</p>
-<p> Dánskagiella  Vuolletuskagiella  Vuollesorbiagiella  Nuorttafrisiagiella  Románagiella  Saterfrisiagiella  Allasorbiagiella<em type="bold">DÁNMÁRKKO</em> Tuskagiella </p>
-<p xml:lang="deu"><em type="bold">UNGÁRRA</em> </p>
-<p> Armeniagiella  Beas  Bulgaragiella  Kroahtiagiella  Tuskagiella  Grehkagiella  Pålskagiella</p>
-<p xml:lang="vep"><em type="bold">VUOLLEEDNAMA</em> </p>
-<p>Frisiagiella  Limburgagiella  Vuollesaksiagiella  Románagiella  Jiddisj</p>
-<p> Romániagiella  Románagiella  Rusiniagiella  Serbiagiella  Slovakiagiella  Sloveniagiella  Ukrájnagiella</p>
-<p xml:lang="deu"><em type="bold">ROMÁNIA</em> </p>
-<p xml:lang="vep"><em type="bold">SPÁNSSKA</em> </p>
-<p> Arabiagiella  Aragoniagiella  Aranesiagiella  Asturiagiella/</p>
-<p>Babliagiella</p>
-<p xml:lang="vep"> Baskiagiella  Berberagiella  Kataloniagiella  Galiciagiella  Portugálagiella  Valenciagiella</p>
-<p> Albánagiella  Armeniagiella  Bulgariagiella  Kroahtiagiella  Tjehkagiella  Tuskagiella  Grehkagiella  Ungáragiella  Itáliagiella  Makedoniagiella  Pålskagiella  Románagiella  Russagiella  Rusiniagiella  Serbiagiella  Slovakiagiella  Tatáriagiella  Turkiagiella  Ukrájinagiella  Jiddisj</p>
 </body></document>

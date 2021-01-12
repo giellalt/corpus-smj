@@ -1,414 +1,232 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><wordcount>3261</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://www.regjeringen.no/Upload/AID/temadokumenter/sami/sami_samekonv_lulesamisk.pdf</origFileName><parallel_text xml:lang="eng" location="sami_samekonv_engelsk.pdf"/><parallel_text xml:lang="sma" location="sami_samekonv_sorsamisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>NUORTTARIJKAJ SÁMEKONVENSJÅVNNÅ</p>
-<p>Suoma, Vuona ja Svieriga ráddidusá,</p>
-<p>tjårggiji</p>
-<p>-  sáme li álggoálmmuk dán gålmån rijkan, -  sáme li akta álmmuk mij årru moatten rijkan, -  sáme álmmugin le sierra kultuvrra ja sebrudakiellem sierra histåvråjn, sierra árbbedábe, sierra giela, sierra æládusá ja sierra vuorddemusá boahtteájggáj, -  dán gålmån rijkan le rijkalasj ja rijkkajgasskasasj åvdåsvásstádus sáme kultuvrraj ja sebrudakiellemij dågålasj ævtojt vaddet, -  sámeálmmugin le iesjmierredimriektá, -  sámeálmmuga kultuvrra ja sebrudakiellem le boanndudahkan åbbålasj kultuvrraj ja sebrudakiellemij genga rijkan, -  sámeálmmugin le sierralágásj dárbbo ietjasa sebrudakiellemav rijkkarájáj badjel åvdedit, -  sáme hæhttuji bessat ávkkit ednamijt ja tjátjijt mij le ájnas sáme kultuvrraj vuodon, -  ja gå sámeálmmuga riektá mierreduvvá, de galggá sierraláhkáj vieledit sáme ájgij milta ælla avtadássásasj álmmugin aneduvvam, ja danen hæhttum rievtugahtesvuodav gierddat,</p>
-<p>man diehti dán gålmå rijkaj sámedikke</p>
-<p>-  ájgguji buorre boahtteájgev huksat sámeálmmuga iellemij ja kultuvrraj, -  le dakkir visjåvnnå rijkaj rájá e galga hieredit sámeálmmuga jali ájnegis sámij aktisasjvuodav, -  adni dav vuojnov ådå sámekonvensjåvnnå le sámij dålusjájggásasj riektá ådåstuhttem ja nanostuhttem, da ma jagen 1751 Lappekodisillanin kodifieriduvvin, -  dættodi man ájnas la sámijda mierredit ja álmmugin mij váldeduvvá duodaj -  dættodi sierraláhkáj sámijn la riektá dajn ednam- ja tjáhtjeguovlojn aktan daj  luonndoressursaj ma gávnnuji sámeálmmuga histåvrålasj ájtteklándan, -  tjuottjodi sámeálmmuga árbbedábálasj máhtudahka ja árbbedábálasj ja kultuvralasj åvddånbuktemvuohke aktan álmmuga luonndoressurssaanujn le oasse sáme kultuvras,  -  adni sáme nissunij dille árbbedáhpeguodden sámij sebrudagán galggá nanniduvvat sebrudakiellemin ja aj mij guosská åvdåstibmáj almulasj orgánajn, -  sihti sámijt viesutjit avta álmmugin dajn gålmåjn rijkajn, -  tjuottodi sáme álmmuga sidodav, mielav ja riektáv åvdåsvásstádusáv válldet ietjasa boahtteájge åvddånimes, -  ja tjuottodi sámeálmmuga riektájt ja friddjavuodav rijkajgasskasasj almasjrievtesvuodaj ja dábálasj álmmukriektá milta,</p>
-<p>ma li dá konvensjåvnåv dahkam aktan lahka aktisasjvuodajn sáme åvdåstiddjij, adni sierraláhkáj ájnnasin konvensjåvnnå åvddål stáhtajs rátifiseriduvvá, dåhkkiduvvá dajs gålmå sámedikkijs, ja adni sijáv vælggogissan sáme álmmuga boahtteájgev oaggit dán konvensjåvnå milta, li guorrasam tjuovvovasj nuorttarijkaj sámekonvensjåvnnåj.</p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><wordcount>3261</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://www.regjeringen.no/Upload/AID/temadokumenter/sami/sami_samekonv_lulesamisk.pdf</origFileName><parallel_text xml:lang="eng" location="sami_samekonv_engelsk.pdf"/><parallel_text xml:lang="sma" location="sami_samekonv_sorsamisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>NUORTTARIJKAJ SÁMEKONVENSJÅVNNÅ Suoma, Vuona ja Svieriga ráddidusá, tjårggiji - sáme li álggoálmmuk dán gålmån rijkan, - sáme li akta álmmuk mij årru moatten rijkan, - sáme álmmugin le sierra kultuvrra ja sebrudakiellem sierra histåvråjn, sierra árbbedábe, sierra giela, sierra æládusá ja sierra vuorddemusá boahtteájggáj, - dán gålmån rijkan le rijkalasj ja rijkkajgasskasasj åvdåsvásstádus sáme kultuvrraj ja sebrudakiellemij dågålasj ævtojt vaddet, - sámeálmmugin le iesjmierredimriektá, - sámeálmmuga kultuvrra ja sebrudakiellem le boanndudahkan åbbålasj kultuvrraj ja sebrudakiellemij genga rijkan, - sámeálmmugin le sierralágásj dárbbo ietjasa sebrudakiellemav rijkkarájáj badjel åvdedit, - sáme hæhttuji bessat ávkkit ednamijt ja tjátjijt mij le ájnas sáme kultuvrraj vuodon, - ja gå sámeálmmuga riektá mierreduvvá, de galggá sierraláhkáj vieledit sáme ájgij milta ælla avtadássásasj álmmugin aneduvvam, ja danen hæhttum rievtugahtesvuodav gierddat, man diehti dán gålmå rijkaj sámedikke - ájgguji buorre boahtteájgev huksat sámeálmmuga iellemij ja kultuvrraj, - le dakkir visjåvnnå rijkaj rájá e galga hieredit sámeálmmuga jali ájnegis sámij aktisasjvuodav, - adni dav vuojnov ådå sámekonvensjåvnnå le sámij dålusjájggásasj riektá ådåstuhttem ja nanostuhttem, da ma jagen 1751 Lappekodisillanin kodifieriduvvin, - dættodi man ájnas la sámijda mierredit ja álmmugin mij váldeduvvá duodaj - dættodi sierraláhkáj sámijn la riektá dajn ednam- ja tjáhtjeguovlojn aktan daj luonndoressursaj ma gávnnuji sámeálmmuga histåvrålasj ájtteklándan, - tjuottjodi sámeálmmuga árbbedábálasj máhtudahka ja árbbedábálasj ja kultuvralasj åvddånbuktemvuohke aktan álmmuga luonndoressurssaanujn le oasse sáme kultuvras, - adni sáme nissunij dille árbbedáhpeguodden sámij sebrudagán galggá nanniduvvat sebrudakiellemin ja aj mij guosská åvdåstibmáj almulasj orgánajn, - sihti sámijt viesutjit avta álmmugin dajn gålmåjn rijkajn, - tjuottodi sáme álmmuga sidodav, mielav ja riektáv åvdåsvásstádusáv válldet ietjasa boahtteájge åvddånimes, - ja tjuottodi sámeálmmuga riektájt ja friddjavuodav rijkajgasskasasj almasjrievtesvuodaj ja dábálasj álmmukriektá milta, ma li dá konvensjåvnåv dahkam aktan lahka aktisasjvuodajn sáme åvdåstiddjij, adni sierraláhkáj ájnnasin konvensjåvnnå åvddål stáhtajs rátifiseriduvvá, dåhkkiduvvá dajs gålmå sámedikkijs, ja adni sijáv vælggogissan sáme álmmuga boahtteájgev oaggit dán konvensjåvnå milta, li guorrasam tjuovvovasj nuorttarijkaj sámekonvensjåvnnåj.</p>
 <p>Kapihttal I</p>
 <p>Sámeálmmuga dábálasj rievtesvuoda</p>
 <p>Artihkkal 1</p>
 <p>Konvensjåvnå ulmme</p>
-<p>Dán konvensjåvnå ulmme le duodastit ja nannit sámeálmmugij dakkár rievtesvuodajt ma åvddånahtti gielav, kultuvrav, æládusájt ja sebrudakiellemav, ja gåtsedit váj rijkaj rájá e  hiereda dakkár åvddånimev. .</p>
+<p>Dán konvensjåvnå ulmme le duodastit ja nannit sámeálmmugij dakkár rievtesvuodajt ma åvddånahtti gielav, kultuvrav, æládusájt ja sebrudakiellemav, ja gåtsedit váj rijkaj rájá e hiereda dakkár åvddånimev. .</p>
 <p>Artihkkal 2</p>
 <p>Sáme álggoálmmugin</p>
 <p>Sáme li álggoálmmuk Suoman, Vuonan ja Svierigin.</p>
 <p>Artihkkal 3</p>
 <p>Riektá iesjmierredibmáj</p>
-<p>Sámijn la riektá iesjmierredibmáj álmmugin álmmukriektá njuolgadusáj ja dán</p>
-<p>konvensjåvnå mærrádusáj milta. Nav guhkás gå le máhttelis dáj njuolgadusáj ja mærrádusáj</p>
-<p>milta, de le sáme álmmugin riektá mierredit ietjasa rudálasj, sosialalasj ja kultuvralasj</p>
-<p>åvddånime badjel, ja ietjasa ulmij háldadit luonndoressursajt.</p>
+<p>Sámijn la riektá iesjmierredibmáj álmmugin álmmukriektá njuolgadusáj ja dán konvensjåvnå mærrádusáj milta. Nav guhkás gå le máhttelis dáj njuolgadusáj ja mærrádusáj milta, de le sáme álmmugin riektá mierredit ietjasa rudálasj, sosialalasj ja kultuvralasj åvddånime badjel, ja ietjasa ulmij háldadit luonndoressursajt.</p>
 <p>Artihkkal 4</p>
 <p>Persåvnå gudi guoskadalli konvensjåvnås</p>
-<p>Konvensjåvnnå guosská persåvnåjda gudi årru Suoman, Vuonan jali Svierigin, gudi</p>
-<p>ietjasa sábmen adni, ja gænna/gudi</p>
-<p>1.  le sámegiella sijddagiellan jali le edesik akta æjgát jali áhkko jali áddjá gænna le jali</p>
-<p>gænna le læhkám sámegiella sijddagiellan; jali</p>
-<p>2.  le riektá sáme boatsojsujtov dåjmadit Vuonan jali Svierigin; jali</p>
-<p>3.  máhtti jienastit sámedikkeválljimin Suoman, Vuonan jali Svierigin; jali</p>
-<p>4.  li máná persåvnåjs nammaduvvam tjuokkajn 1, 2, jali 3.</p>
+<p>Konvensjåvnnå guosská persåvnåjda gudi årru Suoman, Vuonan jali Svierigin, gudi ietjasa sábmen adni, ja gænna/gudi 1. le sámegiella sijddagiellan jali le edesik akta æjgát jali áhkko jali áddjá gænna le jali gænna le læhkám sámegiella sijddagiellan; jali 2. le riektá sáme boatsojsujtov dåjmadit Vuonan jali Svierigin; jali 3. máhtti jienastit sámedikkeválljimin Suoman, Vuonan jali Svierigin; jali 4. li máná persåvnåjs nammaduvvam tjuokkajn 1, 2, jali 3.</p>
 <p>Artihkkal 5</p>
 <p>Stáhtaj åvdåsvásstádusá vijddudahka</p>
-<p>Stáhta vælggogisvuoda dán konvensjåvnå milta guosski gájkka stáhtalasj orgánajda</p>
-<p>rijkalasj, guovlolasj ja bájkálasj dásen. Dá vælggogisvuoda gulluji aj ietjá orgánajda almulasj</p>
-<p>háldadusán ja dåjman. Sæmmi guosská aj priváhta riektásubjevtajda gå da almulasj fámoj</p>
-<p>dåjmadi jali ietjá almulasj dahkamusájt dahki.</p>
-<p>Gå dát konvensjåvnnå aneduvvá, de e sámedikke ja ietjá sáme orgána, vájku dal</p>
-<p>makkir riektálasj stahtus dajn le, galga gåhtjoduvvat stáhttan, ietján gå dalloj gå almulasj</p>
-<p>fámov jådedi.</p>
+<p>Stáhta vælggogisvuoda dán konvensjåvnå milta guosski gájkka stáhtalasj orgánajda rijkalasj, guovlolasj ja bájkálasj dásen. Dá vælggogisvuoda gulluji aj ietjá orgánajda almulasj háldadusán ja dåjman. Sæmmi guosská aj priváhta riektásubjevtajda gå da almulasj fámoj dåjmadi jali ietjá almulasj dahkamusájt dahki.</p>
+<p>Gå dát konvensjåvnnå aneduvvá, de e sámedikke ja ietjá sáme orgána, vájku dal makkir riektálasj stahtus dajn le, galga gåhtjoduvvat stáhttan, ietján gå dalloj gå almulasj fámov jådedi.</p>
 <p>Artihkkal 6</p>
 <p>Stáhtaj dåjma sáme álmmuga gáktuj</p>
-<p>Da gålmmå stáhta galggi dåbmaris láhkáj láhtjet dilev sáme álmmugij váj máhttá</p>
-<p>nannit ja åvddånahttet gielas, kultuvras, æládusájdis ja sebrudakiellemis.</p>
-<p>Stáhta galggi buorre ævtojt biedjat sáme bájkálasj sebrudagájt bisodahtátjit ja</p>
-<p>åvddånahtátjit.</p>
-<p>Stáhtaj åvdåsvásstádus tjadádittjat dåjmajt dán konvensjåvnå milta guosski aj muhtem</p>
-<p>mærráj dajda sámijda gudi årru árbbedábálasj sáme årromsajij ålggolin.</p>
+<p>Da gålmmå stáhta galggi dåbmaris láhkáj láhtjet dilev sáme álmmugij váj máhttá nannit ja åvddånahttet gielas, kultuvras, æládusájdis ja sebrudakiellemis.</p>
+<p>Stáhta galggi buorre ævtojt biedjat sáme bájkálasj sebrudagájt bisodahtátjit ja åvddånahtátjit.</p>
+<p>Stáhtaj åvdåsvásstádus tjadádittjat dåjmajt dán konvensjåvnå milta guosski aj muhtem mærráj dajda sámijda gudi årru árbbedábálasj sáme årromsajij ålggolin.</p>
 <p>Artihkkal 7</p>
 <p>Váni-badjelgæhttjam ja sierradåjma</p>
 <p>Sáme álmmuk ja ájnegis sábme galggá suoddjiduvvat gájkka badjelgæhttjamis.</p>
-<p>Sáme riektáj tjadádimen dán konvensjåvnå milta galggi stáhta dárboj milta sierralágásj</p>
-<p>buorre dåjmajt jåhtuj oadtjot sijá gáktuj.</p>
+<p>Sáme riektáj tjadádimen dán konvensjåvnå milta galggi stáhta dárboj milta sierralágásj buorre dåjmajt jåhtuj oadtjot sijá gáktuj.</p>
 <p>Artihkkal 8</p>
 <p>Binnemusrievtesvuoda</p>
-<p>Rievtesvuoda ma dán konvensjåvnån li mierreduvvam, li binnemusrievtesvuoda. Da e</p>
-<p>hiereda jus stáhta sihti vijdedit sámij riektájt jali ájn vijdep dåjmajt álgadit, ja e máhte</p>
-<p>aneduvvat binnedittjat sámij riektájt ietjá riektánjuolgadusáj milta.</p>
+<p>Rievtesvuoda ma dán konvensjåvnån li mierreduvvam, li binnemusrievtesvuoda. Da e hiereda jus stáhta sihti vijdedit sámij riektájt jali ájn vijdep dåjmajt álgadit, ja e máhte aneduvvat binnedittjat sámij riektájt ietjá riektánjuolgadusáj milta.</p>
 <p>Artihkkal 9</p>
 <p>Sáme árbbedábe</p>
-<p>Stáhta galggi hiebalgis láhkáj árvon adnet sáme álmmuga riektádádjadusájt, ja</p>
-<p>riektálasj árbbedábijt.</p>
-<p>Vuostasj oase milta galggi stáhta gå dahki njuolgadusájt gånnå lulun sáme árbbedábe,</p>
-<p>sierraláhkáj guoradallat jus dákkir árbbedábe gávnnuji ja jus dajt lulu suoddjit jali ietjá láhkáj</p>
-<p>vieledit lága baktu. Riektáanon galggá aj sáme árbbedábijt árvvon adnet.</p>
+<p>Stáhta galggi hiebalgis láhkáj árvon adnet sáme álmmuga riektádádjadusájt, ja riektálasj árbbedábijt.</p>
+<p>Vuostasj oase milta galggi stáhta gå dahki njuolgadusájt gånnå lulun sáme árbbedábe, sierraláhkáj guoradallat jus dákkir árbbedábe gávnnuji ja jus dajt lulu suoddjit jali ietjá láhkáj vieledit lága baktu. Riektáanon galggá aj sáme árbbedábijt árvvon adnet.</p>
 <p>Artihkkal 10</p>
 <p>Riektánjuolgadusáj harmoniserim</p>
-<p>Stáhta galggi aktisattjat sámedikkij ájn rahtjat riektánjuolgadusáj harmoniserigav ja</p>
-<p>ietjá regulerimijt ma li ájnnasa sámij dåjmajda rijkarájáj badjel.</p>
+<p>Stáhta galggi aktisattjat sámedikkij ájn rahtjat riektánjuolgadusáj harmoniserigav ja ietjá regulerimijt ma li ájnnasa sámij dåjmajda rijkarájáj badjel.</p>
 <p>Artihkkal 11</p>
 <p>Aktisasjbarggo kultuvra ja æládusáj hárráj</p>
-<p>Stáhta galggi álgadit dåjmajt ma giehpebun dahki sámijda æládusáv dåjmadittjat rijkkarájáj</p>
-<p>badjel ja árvvon adnet sijá kultuvralasj dárbojt rijkarájaj badjel. Dájna ulmijn galggi stáhta</p>
-<p>rahtjat gádodittjat dajt gássjelisvuodajt ma hieredi sáme æládusdåjmajt ma gulluji sijá</p>
-<p>viesajdimvuohtaj jali årromsajijda, jali gånnå ietján sámij årromguovlo li moatten rijkan, ja</p>
-<p>dibddet sámijt bessat kultuvralasj fálaldahkaj dan rijkan gånnå li årromin juohkka ájgen.</p>
+<p>Stáhta galggi álgadit dåjmajt ma giehpebun dahki sámijda æládusáv dåjmadittjat rijkkarájáj badjel ja árvvon adnet sijá kultuvralasj dárbojt rijkarájaj badjel. Dájna ulmijn galggi stáhta rahtjat gádodittjat dajt gássjelisvuodajt ma hieredi sáme æládusdåjmajt ma gulluji sijá viesajdimvuohtaj jali årromsajijda, jali gånnå ietján sámij årromguovlo li moatten rijkan, ja dibddet sámijt bessat kultuvralasj fálaldahkaj dan rijkan gånnå li årromin juohkka ájgen.</p>
 <p>Artihkkal 12</p>
 <p>Aktisasjbarggo åhpadime ja álkkádusårnigij hárráj</p>
-<p>Stáhta galggi álgadit dåjmajt váj sáme gudi årru avtan dat gålmåt rijkas, oadtju</p>
-<p>máhttelisvuodav åhpadibmáj, varresvuodadåjmajda ja sosialdåjmajda mihtem ietjá dájs</p>
-<p>nammadum rijkajn gå le ienep ávkálattjan sidjij.</p>
+<p>Stáhta galggi álgadit dåjmajt váj sáme gudi årru avtan dat gålmåt rijkas, oadtju máhttelisvuodav åhpadibmáj, varresvuodadåjmajda ja sosialdåjmajda mihtem ietjá dájs nammadum rijkajn gå le ienep ávkálattjan sidjij.</p>
 <p>Artihkkal 13</p>
 <p>Sáme álmmuga symbåvlå</p>
-<p>Stáhta galggi árvvon adnet sámij riektáv iesj mierredittjat sáme slávgá ja ietjá sáme</p>
-<p>symbåvlåj anov. Stáhta galggi aj, aktisattjat sámedikkij, rahtjat váj sáme symbåvlå ilmoduvvi</p>
-<p>ja vuosedi sámij sajev sierra álmmugin gålmån rijkan.</p>
+<p>Stáhta galggi árvvon adnet sámij riektáv iesj mierredittjat sáme slávgá ja ietjá sáme symbåvlåj anov. Stáhta galggi aj, aktisattjat sámedikkij, rahtjat váj sáme symbåvlå ilmoduvvi ja vuosedi sámij sajev sierra álmmugin gålmån rijkan.</p>
 <p>Kapihttal II</p>
 <p>Sámij stivrrim</p>
 <p>Artihkkal 14</p>
 <p>Sámedikke</p>
 <p>Juohkka gålmån rijkan galggá liehket sámedigge, mij le alemus sáme orgádna rijkan.</p>
-<p>Sámedigge doajmmá sáme álmmuga åvdås mij le dan rijkan, ja galggá liehket válljiduvvam</p>
-<p>dábálasj jienastamriektáj milta sámij gaskan dan rijkan.</p>
-<p>Sámedikkij válljimnjuolgadusá li mierreduvvam lága milta, mij gárveduvvá</p>
-<p>sjiehtadallamijn sámedikkij 16 artihkkala milta.</p>
-<p>Sámedikkijn galggi liehket dakkir dahkamusá ma dahki sijáv vejulattjan dåbmarit</p>
-<p>vájkkudit sáme álmmuga riektáv iesjmierredibmáj álmmukriektáj milta ja mærrádusá dán</p>
-<p>konvensjåvnån duohtan sjaddi. Dárkkelap njuolgadusá ma guosski sámedikkij fábmuj</p>
-<p>mierreduvvá lágan.</p>
+<p>Sámedigge doajmmá sáme álmmuga åvdås mij le dan rijkan, ja galggá liehket válljiduvvam dábálasj jienastamriektáj milta sámij gaskan dan rijkan.</p>
+<p>Sámedikkij válljimnjuolgadusá li mierreduvvam lága milta, mij gárveduvvá sjiehtadallamijn sámedikkij 16 artihkkala milta.</p>
+<p>Sámedikkijn galggi liehket dakkir dahkamusá ma dahki sijáv vejulattjan dåbmarit vájkkudit sáme álmmuga riektáv iesjmierredibmáj álmmukriektáj milta ja mærrádusá dán konvensjåvnån duohtan sjaddi. Dárkkelap njuolgadusá ma guosski sámedikkij fábmuj mierreduvvá lágan.</p>
 <p>Sámedikke álgadi ja bukti vuojnojt divna ássjijn gånnå dikke ietja gávnni hiebalgissan.</p>
 <p>Artihkkal 15</p>
 <p>Sámedikkij iesjrádálasj mærrádusá</p>
-<p>Sámedikke mierredi iesjrádálattjat dajn ássjijn gånnå siján le mierredimfábmo rijkalasj</p>
-<p>jali rijkajgasskasasj riektá milta.</p>
-<p>Sámedikke máhtti såbadit rijkalasj, regionálalasj ja bájkálasj avtadagáj aktisasjbargo</p>
-<p>birra sáme kultuvrav ja sebrudakiellemav nannitjit.</p>
+<p>Sámedikke mierredi iesjrádálattjat dajn ássjijn gånnå siján le mierredimfábmo rijkalasj jali rijkajgasskasasj riektá milta.</p>
+<p>Sámedikke máhtti såbadit rijkalasj, regionálalasj ja bájkálasj avtadagáj aktisasjbargo birra sáme kultuvrav ja sebrudakiellemav nannitjit.</p>
 <p>Artihkkal 16</p>
 <p>Sámedikkij riektá sjiehtadalátjit</p>
-<p>Ássjijn ma li viehka ájnnasa sáme álmmugij galggá sjiehtadaláduvvat sámedikkij</p>
-<p>åvddål almulasj oajválattja mærrádusáv mierredi. Dá sjiehtadallama hæhttuji liehket nuoges</p>
-<p>árrat váj sámedikke máhtti ássjegiehtadallamav ja båhtusav bájnnet.</p>
-<p>Stáhta e galga mierredit jali loabev vaddet dakkir dåjmajda ma ednagav vahágahtti</p>
-<p>vuodoævtojt sáme kultuvrraj, sáme æládusájda jali sáme sebrudakiellemij, jus guoskadallam</p>
-<p>sámedigge ij dási miededa.</p>
+<p>Ássjijn ma li viehka ájnnasa sáme álmmugij galggá sjiehtadaláduvvat sámedikkij åvddål almulasj oajválattja mærrádusáv mierredi. Dá sjiehtadallama hæhttuji liehket nuoges árrat váj sámedikke máhtti ássjegiehtadallamav ja båhtusav bájnnet.</p>
+<p>Stáhta e galga mierredit jali loabev vaddet dakkir dåjmajda ma ednagav vahágahtti vuodoævtojt sáme kultuvrraj, sáme æládusájda jali sáme sebrudakiellemij, jus guoskadallam sámedigge ij dási miededa.</p>
 <p>Artihkkal 17</p>
 <p>Sámedikkij riektá ietjá ássjegárvedimen</p>
-<p>Sámedikkijn galggá liehket riektá ájrastit almulasj rádijn ja juohkusijn gå da</p>
-<p>giehtadalli ássjijt ma guosski sáme berustimijda.</p>
-<p>Sámedikkijda galggi åvddåj biejaduvvat ássje ma sáme berustimijda guosski, åvddål</p>
-<p>almulasj oajválattja mærrádusáv dahki.</p>
-<p>Stáhta galggi guoradallat dárbov dákkir ájrastimes ja åvddåjavllamusás sámedikkij</p>
-<p>bieles. Dát hæhttu dáhpáduvvat nuoges árrat váj sámedikke máhtti ássjegiehtadallamav ja</p>
-<p>båhtusav bájnnet.</p>
-<p>Sámedikke ietja mierredi goassa sihti ájrastit jali javllamusáv buktet dákkir</p>
-<p>ássjegárvedimen.</p>
+<p>Sámedikkijn galggá liehket riektá ájrastit almulasj rádijn ja juohkusijn gå da giehtadalli ássjijt ma guosski sáme berustimijda.</p>
+<p>Sámedikkijda galggi åvddåj biejaduvvat ássje ma sáme berustimijda guosski, åvddål almulasj oajválattja mærrádusáv dahki.</p>
+<p>Stáhta galggi guoradallat dárbov dákkir ájrastimes ja åvddåjavllamusás sámedikkij bieles. Dát hæhttu dáhpáduvvat nuoges árrat váj sámedikke máhtti ássjegiehtadallamav ja båhtusav bájnnet.</p>
+<p>Sámedikke ietja mierredi goassa sihti ájrastit jali javllamusáv buktet dákkir ássjegárvedimen.</p>
 <p>Artihkkal 18</p>
 <p>Rijkatjoaggulvisáj gasskavuohta</p>
-<p>Stáhta rijkatjoaggulvisá jali daj juohkusa jali ietjá orgána galggi gå rávkaduvvá</p>
-<p>duosstot sámedikkij åvdåstiddjijt váj da bessi tjielggit ássjijt ma sámijda li ájnnasa.</p>
-<p>Sámedikke galggi bessat gullut gå rijkatjoaggulvis giehtadallá ássjijt ma sierraláhkáj</p>
-<p>sáme álmmugij guosski.</p>
-<p>Ájnegis rijkaj rijkatjoaggulvisá vaddi lagáp njuolgadusáj makkir ássjijda dát guosská,</p>
-<p>ja gåktu galggá tjadáduvvat.</p>
+<p>Stáhta rijkatjoaggulvisá jali daj juohkusa jali ietjá orgána galggi gå rávkaduvvá duosstot sámedikkij åvdåstiddjijt váj da bessi tjielggit ássjijt ma sámijda li ájnnasa.</p>
+<p>Sámedikke galggi bessat gullut gå rijkatjoaggulvis giehtadallá ássjijt ma sierraláhkáj sáme álmmugij guosski.</p>
+<p>Ájnegis rijkaj rijkatjoaggulvisá vaddi lagáp njuolgadusáj makkir ássjijda dát guosská, ja gåktu galggá tjadáduvvat.</p>
 <p>Artihkkal 19</p>
 <p>Sáme ja rijkajgasskasasj åvdåsstibme</p>
 <p>Sámedikke galggi sáme álmmugav åvdåstit rijkajgasskasasj aktijvuodajn.</p>
-<p>Stáhta galggi åvdedit sámij åvdåstimev rijkajgasskasasj institusjåvnåjn ja sámij</p>
-<p>oassálasstemav rijkajgasskasasj tjåhkanimijn.</p>
+<p>Stáhta galggi åvdedit sámij åvdåstimev rijkajgasskasasj institusjåvnåjn ja sámij oassálasstemav rijkajgasskasasj tjåhkanimijn.</p>
 <p>Artihkkal 20</p>
 <p>Aktisasj sáme organisasjåvnå</p>
-<p>Sámedikke máhtti ásadit aktisasj organisasjåvnåjt. Stáhta galggi aktisasjrádij</p>
-<p>sámedikkij gå la dárbbo rahtjat váj dakkir aktisasj organisasjåvnå almulasj fámov oadtju.</p>
+<p>Sámedikke máhtti ásadit aktisasj organisasjåvnåjt. Stáhta galggi aktisasjrádij sámedikkij gå la dárbbo rahtjat váj dakkir aktisasj organisasjåvnå almulasj fámov oadtju.</p>
 <p>Artihkkal 21</p>
 <p>Ietjá sáme aktidusá</p>
-<p>Stáhta galggi vieledit ja gå la dárbbo rádádallat tjæroj, sijdaj, boatsojguohtomsijdaj,</p>
-<p>gålldåsámij gielldastivraj ja ietjá máhtulasj sáme organisasjåvnåj jali bájkálasj sáme ájrrasij.</p>
+<p>Stáhta galggi vieledit ja gå la dárbbo rádádallat tjæroj, sijdaj, boatsojguohtomsijdaj, gålldåsámij gielldastivraj ja ietjá máhtulasj sáme organisasjåvnåj jali bájkálasj sáme ájrrasij.</p>
 <p>Artihkkal 22</p>
 <p>Sámeguovllo</p>
-<p>Stáhta galggi dåjmalattjat mierredit ja åvddånahttet guovlov gånnå sáme álmmuk</p>
-<p>máhttá háldadit ietjasa sierra riektájt dán konvensjåvnå ja rijkaj lága milta.</p>
+<p>Stáhta galggi dåjmalattjat mierredit ja åvddånahttet guovlov gånnå sáme álmmuk máhttá háldadit ietjasa sierra riektájt dán konvensjåvnå ja rijkaj lága milta.</p>
 <p>Kapihttal III</p>
 <p>Sáme giella ja kultuvrra</p>
 <p>Artihkkal 23</p>
 <p>Sámij gielalasj riektá</p>
-<p>Sámijn galggá liehket riektá adnet, åvddnahttet ja boahtte buolvajda åhpadit ietjasa</p>
-<p>gielav ja ietjasa árbbedábijt, ja rahtjat vaj sámegiela máhtudahka oabllu aj sámijda gudi dåssju</p>
-<p>muhtem mærráj gielaska bukti.</p>
-<p>Sámijn galggá liehket riektá mierredit, bisodit ja gájkkásasj vieledimev åttjudit</p>
-<p>ietjaska persåvnnånamájda ja bájkkenamájda.</p>
+<p>Sámijn galggá liehket riektá adnet, åvddnahttet ja boahtte buolvajda åhpadit ietjasa gielav ja ietjasa árbbedábijt, ja rahtjat vaj sámegiela máhtudahka oabllu aj sámijda gudi dåssju muhtem mærráj gielaska bukti.</p>
+<p>Sámijn galggá liehket riektá mierredit, bisodit ja gájkkásasj vieledimev åttjudit ietjaska persåvnnånamájda ja bájkkenamájda.</p>
 <p>Artihkkal 24</p>
 <p>Stáhtaj åvdåsvásstádus sámegiela åvdås.</p>
 <p>Stáhta galggi dilev láhtjat váj sáme máhtti gielaska bisodit, åvddånahttet ja oablodit.</p>
-<p>Stáhta galggi dilev láhtjet váj sáme alfabehtta máhttá dåbmaris láhkáj dán ulme diehti</p>
-<p>aneduvvat.</p>
-<p>Sámegiella galggá aneduvvat dåbmarisát duobbmoståvlåjn ja oajválattjat hárráj sáme</p>
-<p>guovlojn. Sæmmi guosská dájda guovlojda ålgusjbielen dakkir ássjijn ja rijdojn ma vuostatjin</p>
-<p>li sáme guovlojn giehtadaláduvvam jali juokkirak láhkáj le sierraláhkáj dájda guovlojda</p>
-<p>tjanáduvvam.</p>
+<p>Stáhta galggi dilev láhtjet váj sáme alfabehtta máhttá dåbmaris láhkáj dán ulme diehti aneduvvat.</p>
+<p>Sámegiella galggá aneduvvat dåbmarisát duobbmoståvlåjn ja oajválattjat hárráj sáme guovlojn. Sæmmi guosská dájda guovlojda ålgusjbielen dakkir ássjijn ja rijdojn ma vuostatjin li sáme guovlojn giehtadaláduvvam jali juokkirak láhkáj le sierraláhkáj dájda guovlojda tjanáduvvam.</p>
 <p>Stáhta galggi åvdedit girjálasjvuoda ålgusvaddemav sámegiellaj.</p>
-<p>Mærrádusá dán artihkkalin galggi aj guosskat dajd sáme giellasuorgijda ma li binnebut</p>
-<p>oabllum.</p>
+<p>Mærrádusá dán artihkkalin galggi aj guosskat dajd sáme giellasuorgijda ma li binnebut oabllum.</p>
 <p>Artihkal 25</p>
 <p>Sáme medijá</p>
-<p>Stáhta galggi vuodov láhtjet váj iesjrádálasj sáme medijápolitihkav oadtjop mij dahka</p>
-<p>sáme medijájda máhttelissan ietjasa åvddånahttemav stivrrit ja sáme álmmugij vaddet valjes</p>
-<p>ja moattelágásj fálaldagáv diedojs ja vuojnojs ássjijn gånnå le gájkkásasj berustibme.</p>
-<p>Stáhta galggi dilev láhtjat váj lulu sáddijuvvat sámegielak prográmma radion ja TVan,</p>
-<p>ja galggi åvdedit avijsaj ålgusvaddemav dán giellaj. Aktisasjbarggon sámedikkij galggi stáhta</p>
-<p>aj åvdedit aktisasjbargov rijkarájáj rastá medijáinstitusjåvnåj gaskan ma fálli prográmmajt jali</p>
-<p>artihkkalijt sámegiellaj.</p>
-<p>Mærrádus nuppát oasen sámegiela birra galggá aj nav guhkás gå máhttelis guosskat</p>
-<p>daja sáme giellasuorgijda ma li binnebut oabllum.</p>
+<p>Stáhta galggi vuodov láhtjet váj iesjrádálasj sáme medijápolitihkav oadtjop mij dahka sáme medijájda máhttelissan ietjasa åvddånahttemav stivrrit ja sáme álmmugij vaddet valjes ja moattelágásj fálaldagáv diedojs ja vuojnojs ássjijn gånnå le gájkkásasj berustibme.</p>
+<p>Stáhta galggi dilev láhtjat váj lulu sáddijuvvat sámegielak prográmma radion ja TVan, ja galggi åvdedit avijsaj ålgusvaddemav dán giellaj. Aktisasjbarggon sámedikkij galggi stáhta aj åvdedit aktisasjbargov rijkarájáj rastá medijáinstitusjåvnåj gaskan ma fálli prográmmajt jali artihkkalijt sámegiellaj.</p>
+<p>Mærrádus nuppát oasen sámegiela birra galggá aj nav guhkás gå máhttelis guosskat daja sáme giellasuorgijda ma li binnebut oabllum.</p>
 <p>Artihkkal 26</p>
 <p>Sáme åhpadus</p>
-<p>Sámijn sáme guovlojn galgg liehket máhttelisvuoda åhpadussaj sámegielan ja</p>
-<p>sámegiellaj. Åhpadus ja åhpadusruhtadibme galggá liehket sijá duogátjij hiebadum. Dákkir</p>
-<p>åhpadus galggá máhttelissan dahkat oassálasstet joarkkaåhpadusán juohkka dásen ja sæmmi</p>
-<p>båttå duosstot dajt dárbojt ma li sámijn váj ájn máhtti árbbedábálasj sáme æládusájn barggat.</p>
+<p>Sámijn sáme guovlojn galgg liehket máhttelisvuoda åhpadussaj sámegielan ja sámegiellaj. Åhpadus ja åhpadusruhtadibme galggá liehket sijá duogátjij hiebadum. Dákkir åhpadus galggá máhttelissan dahkat oassálasstet joarkkaåhpadusán juohkka dásen ja sæmmi båttå duosstot dajt dárbojt ma li sámijn váj ájn máhtti árbbedábálasj sáme æládusájn barggat.</p>
 <p>Åhpadusruhtadibme galggá navti liehket váj máhttelis la alep åhpadusáv sámegielan oadtjot.</p>
-<p>Sáme mánájda ja nuorajda sáme guovloj ålggolin galggi liehket máhttelisvuohta</p>
-<p>sámegiela åhpadussaj, valla aj sámegiellaj nav guhkás gå la máhttelis ájnegis guovlojn.</p>
+<p>Sáme mánájda ja nuorajda sáme guovloj ålggolin galggi liehket máhttelisvuohta sámegiela åhpadussaj, valla aj sámegiellaj nav guhkás gå la máhttelis ájnegis guovlojn.</p>
 <p>Åhpadus galggá nav buoragit gå máhttelis sijá duogátjij hiebaduvvat.</p>
-<p>Rijkalasj oahppoplána galggi dagáduvvat aktisasjbarggon sámedikkij ja hiebaduvvat</p>
-<p>sáme mánáj ja nuoraj kultuvralasj duogátjijda ja dárbojda.</p>
+<p>Rijkalasj oahppoplána galggi dagáduvvat aktisasjbarggon sámedikkij ja hiebaduvvat sáme mánáj ja nuoraj kultuvralasj duogátjijda ja dárbojda.</p>
 <p>Artihkkal 27</p>
 <p>Dutkam</p>
-<p>Stáhta galggi aktisattjat sámedikkij buorre vuodov láhtjet dutkamij man vuodon le</p>
-<p>sáme sebrudagá máhtudakdárbbo ja mij åvdet sáme dutkij rekrutterimav. Gå dákkir dutkamav</p>
-<p>pláni de galggi gielalasj ja kultuvralasj vidjura sáme sebrudagán vieleduvvat.</p>
-<p>Stáhta galggi aktijrádálattjat sámedikkij åvdedit aktisasjbargov sáme ja ietjá</p>
-<p>dutkaminstitusjåvnåj gaskan ájnegis rijkajn ja aj rijkarájáj badjel, ja nannit</p>
-<p>dutkaminstitusjåvnåjt majna le dutkam degu nammadum vuostasj oassen oajvvedahkamussan.</p>
-<p>Dutkam sáme ássjij hárráj hæhttu hiebaduvvat dakkir etihkalasj njuolgadusájda mij</p>
-<p>rávkaduvvá gå sáme li álggoálmmuk.</p>
+<p>Stáhta galggi aktisattjat sámedikkij buorre vuodov láhtjet dutkamij man vuodon le sáme sebrudagá máhtudakdárbbo ja mij åvdet sáme dutkij rekrutterimav. Gå dákkir dutkamav pláni de galggi gielalasj ja kultuvralasj vidjura sáme sebrudagán vieleduvvat.</p>
+<p>Stáhta galggi aktijrádálattjat sámedikkij åvdedit aktisasjbargov sáme ja ietjá dutkaminstitusjåvnåj gaskan ájnegis rijkajn ja aj rijkarájáj badjel, ja nannit dutkaminstitusjåvnåjt majna le dutkam degu nammadum vuostasj oassen oajvvedahkamussan.</p>
+<p>Dutkam sáme ássjij hárráj hæhttu hiebaduvvat dakkir etihkalasj njuolgadusájda mij rávkaduvvá gå sáme li álggoálmmuk.</p>
 <p>Artihkkal 28</p>
 <p>Åhpadibme ja diedo sámij birra</p>
-<p>Sáme álmmuga kultuvrra ja sebrudakiellem galggá vuogas láhkáj vuojnnusij boahtet</p>
-<p>åhpadimen aj sáme sebrudagá ålggolin. Dákkir åhpadibme galggá sierraláhkáj gæhttjalit</p>
-<p>åvdedit máhtudagájt sámij birra rijkaj álggoálmmugin. Stáhta galggi sámedikkij</p>
-<p>aktisasjbarggon fállat åhpadimev sáme kultuvran ja gielan ulmutjijda gudi sáme guovlojn</p>
-<p>galggi barggat.</p>
-<p>Stáhta galggi aktisasjbarggon sámedikkij vásstedit almulasj diedoj åvdås sáme</p>
-<p>kultuvra ja sebrudakiellema hárráj.</p>
+<p>Sáme álmmuga kultuvrra ja sebrudakiellem galggá vuogas láhkáj vuojnnusij boahtet åhpadimen aj sáme sebrudagá ålggolin. Dákkir åhpadibme galggá sierraláhkáj gæhttjalit åvdedit máhtudagájt sámij birra rijkaj álggoálmmugin. Stáhta galggi sámedikkij aktisasjbarggon fállat åhpadimev sáme kultuvran ja gielan ulmutjijda gudi sáme guovlojn galggi barggat.</p>
+<p>Stáhta galggi aktisasjbarggon sámedikkij vásstedit almulasj diedoj åvdås sáme kultuvra ja sebrudakiellema hárráj.</p>
 <p>Artihkkal 29</p>
 <p>Varresvuoda- ja sosialdievnastus</p>
-<p>Stáhta galggi aktijrádálattjat sámedikkij bærrájgæhttjat vaj varresvuohta- ja</p>
-<p>sosialdievnastus sáme guovlojn le navti organiseridum váj sáme dájn guovlojn oadtju</p>
-<p>varresvuoda- ja sosialdievnastusáv mij le sijá gielalasj ja kultuvralasj duogátjij hiebaduvvam.</p>
-<p>Sáme guovloj ålggolin galggi aj varresvuoda- ja sosialoajválattja vieledit sáme</p>
-<p>pasientaj ja klientaj gielav ja kultuvrraduogátjav.</p>
+<p>Stáhta galggi aktijrádálattjat sámedikkij bærrájgæhttjat vaj varresvuohta- ja sosialdievnastus sáme guovlojn le navti organiseridum váj sáme dájn guovlojn oadtju varresvuoda- ja sosialdievnastusáv mij le sijá gielalasj ja kultuvralasj duogátjij hiebaduvvam.</p>
+<p>Sáme guovloj ålggolin galggi aj varresvuoda- ja sosialoajválattja vieledit sáme pasientaj ja klientaj gielav ja kultuvrraduogátjav.</p>
 <p>Artihkkal 30</p>
 <p>Sáme máná ja nuora</p>
-<p>Sáme mánájn ja nuorajn le riektá ietjaska kultuvrav dåjmadit ja ietjaska sáme</p>
-<p>identitehtav bisodit ja åvddånahttet.</p>
+<p>Sáme mánájn ja nuorajn le riektá ietjaska kultuvrav dåjmadit ja ietjaska sáme identitehtav bisodit ja åvddånahttet.</p>
 <p>Artihkkal 31</p>
 <p>Árbbedábálasj máhtudagá ja kultuvralasj åvddånbuktema</p>
-<p>Stáhta galggi vieledit sáme álmmuga riektáv ietjasa árbbedábálasj máhtudagáv ja</p>
-<p>kultuvralasj åvddånbuktemijt háldadit, ja aj rahtjat váj sáme máhtti dajt boahtte buolvajda</p>
-<p>bisodit, åvddånahttet ja gaskostit.</p>
-<p>Stáhta galggi rahtjat váj sáme álmmuk, gå sáme kultuvrra kommersiella láhkáj</p>
-<p>aneduvvá iehtjádijs gå sámijs, bessi dåjma badjel mierredit ja hiebalgis oasev rudálasj</p>
-<p>båhtusis dassta oadtjot. Sáme kultuvrra galggá suodjaluvvat dakkir kultuvralasj</p>
-<p>åvddånbuktemij vuosstáj ma li sjibmo sáme kultuvras.</p>
-<p>Stáhta galggi rahtjat váj sámij árbbedábálasj máhtudagá vieleduvvi gå sáme ássje</p>
-<p>giehtadaláduvvi.</p>
+<p>Stáhta galggi vieledit sáme álmmuga riektáv ietjasa árbbedábálasj máhtudagáv ja kultuvralasj åvddånbuktemijt háldadit, ja aj rahtjat váj sáme máhtti dajt boahtte buolvajda bisodit, åvddånahttet ja gaskostit.</p>
+<p>Stáhta galggi rahtjat váj sáme álmmuk, gå sáme kultuvrra kommersiella láhkáj aneduvvá iehtjádijs gå sámijs, bessi dåjma badjel mierredit ja hiebalgis oasev rudálasj båhtusis dassta oadtjot. Sáme kultuvrra galggá suodjaluvvat dakkir kultuvralasj åvddånbuktemij vuosstáj ma li sjibmo sáme kultuvras.</p>
+<p>Stáhta galggi rahtjat váj sámij árbbedábálasj máhtudagá vieleduvvi gå sáme ássje giehtadaláduvvi.</p>
 <p>Artihkkal 32</p>
 <p>Sáme kultuvrramujto</p>
-<p>Sáme kultuvrramujto galggi suodjaluvvat lágan ja rijka sámedikkes háldaduvvat jali</p>
-<p>aktijrádálattjat kulturinstitusjåvnåj ja sámedikkijn.</p>
-<p>Stáhta galggi rahtjat aktisasjbargov rijkkarájáj badjel sáme kultuvrramujtojt</p>
-<p>duodastittjat, suodjalittjat ja háldadittjat.</p>
-<p>Stáhta galggi rahtjat váj sáme kultuvrramujto ma li ierit válduvvam sáme guovlojs ja</p>
-<p>ma li sierraláhkáj ájnnasa sáme sebrudahkaj, galggi hiebalgis museaj jali</p>
-<p>kultuvrrainstitusjåvnåj hállduj vatteduvvat maŋŋel gå le rijka sámedikkijn sjiehtadallam.</p>
+<p>Sáme kultuvrramujto galggi suodjaluvvat lágan ja rijka sámedikkes háldaduvvat jali aktijrádálattjat kulturinstitusjåvnåj ja sámedikkijn.</p>
+<p>Stáhta galggi rahtjat aktisasjbargov rijkkarájáj badjel sáme kultuvrramujtojt duodastittjat, suodjalittjat ja háldadittjat.</p>
+<p>Stáhta galggi rahtjat váj sáme kultuvrramujto ma li ierit válduvvam sáme guovlojs ja ma li sierraláhkáj ájnnasa sáme sebrudahkaj, galggi hiebalgis museaj jali kultuvrrainstitusjåvnåj hállduj vatteduvvat maŋŋel gå le rijka sámedikkijn sjiehtadallam.</p>
 <p>Artihkkal 33</p>
 <p>Kultuvrravuodo</p>
-<p>Stáhtaj vælggogisvuoda sáme kultuvrra ássjijn le aj materiálalasj kultuvrravuodo, váj</p>
-<p>sáme oadtju dárbulasj vuodov æládusáj ja rudáj hárráj mij ietjasa kultuvrav máhtti bisodit ja</p>
-<p>åvddånahttet.</p>
+<p>Stáhtaj vælggogisvuoda sáme kultuvrra ássjijn le aj materiálalasj kultuvrravuodo, váj sáme oadtju dárbulasj vuodov æládusáj ja rudáj hárráj mij ietjasa kultuvrav máhtti bisodit ja åvddånahttet.</p>
 <p>Kapihttal IV</p>
 <p>Sámij riektá duobddágijda ja tjátjijda</p>
 <p>Artihkkal 34</p>
 <p>Árbbedábálasj adno duobddágijs ja tjátjijs</p>
-<p>Guhkesájggásasj árbbedábálasj adno ednam- jali tjáhtjeguovlojs le vuodon sámij</p>
-<p>aktugasj jali aktisasj ednamriektáj dajs guovlojs buohta rijkalasj ja rijkajgasskasasj</p>
-<p>njuolgadusáj ma guosski guhkesájggásasj adnuj.</p>
-<p>Jus sáme, vájku ælla æjgáda guovlojda, li árbbedábálattjat adnám muhtem ednam- jali</p>
-<p>tjáhtjeguovlojt boatsojsujttuj, bivdduj, guolástussaj jali ietjá láhkáj, de siján le vilá riektá</p>
-<p>adnet guovlojt sæmmi láhkáj dagu åvddåla. Jus guovlo aneduvvi sámijs iehtjádij siegen, de</p>
-<p>galggi sáme ja dåt nubbe addne ietjasa riektájt dåjmadit ietjasa riektájt gasskasasj vieledimijn</p>
-<p>nubbe nuppe gáktuj ja váj goappátja bessaba gehtjastit gåktu dåt nubbe ietjas riektájt adná.</p>
-<p>Dán aktijvuodan galggi sierraláhkáj boatsojsáme dille vieleduvvat. Vájku riektá ednamadnuj</p>
-<p>le ráddjiduvvam sæmmi adnuj dagu åvddåla, de ij dat galga hieredit váj adno dárboj milta</p>
-<p>hiebaduvvá teknihkalasj ja rudálasj åvddånibmáj.</p>
-<p>Gå mierreduvvá jus árbbedábálasj adno gávnnu dán mærrádusá milta, de galggá</p>
-<p>vuodon liehket mij la árbbedábálasj sáme adno ednamijs ja tjátjijs, ja aj vieledit sáme anos</p>
-<p>ælla nav álu merka luondon.</p>
-<p>Mærrádusá dán artihkkalin e tsakka riektáv ietjasa duobddágijt ruopptot åttjuditjat ma</p>
-<p>sámijn máhtti liehket rijkalasj jali rijkkajgasskasasj riektá milta.</p>
+<p>Guhkesájggásasj árbbedábálasj adno ednam- jali tjáhtjeguovlojs le vuodon sámij aktugasj jali aktisasj ednamriektáj dajs guovlojs buohta rijkalasj ja rijkajgasskasasj njuolgadusáj ma guosski guhkesájggásasj adnuj.</p>
+<p>Jus sáme, vájku ælla æjgáda guovlojda, li árbbedábálattjat adnám muhtem ednam- jali tjáhtjeguovlojt boatsojsujttuj, bivdduj, guolástussaj jali ietjá láhkáj, de siján le vilá riektá adnet guovlojt sæmmi láhkáj dagu åvddåla. Jus guovlo aneduvvi sámijs iehtjádij siegen, de galggi sáme ja dåt nubbe addne ietjasa riektájt dåjmadit ietjasa riektájt gasskasasj vieledimijn nubbe nuppe gáktuj ja váj goappátja bessaba gehtjastit gåktu dåt nubbe ietjas riektájt adná.</p>
+<p>Dán aktijvuodan galggi sierraláhkáj boatsojsáme dille vieleduvvat. Vájku riektá ednamadnuj le ráddjiduvvam sæmmi adnuj dagu åvddåla, de ij dat galga hieredit váj adno dárboj milta hiebaduvvá teknihkalasj ja rudálasj åvddånibmáj.</p>
+<p>Gå mierreduvvá jus árbbedábálasj adno gávnnu dán mærrádusá milta, de galggá vuodon liehket mij la árbbedábálasj sáme adno ednamijs ja tjátjijs, ja aj vieledit sáme anos ælla nav álu merka luondon.</p>
+<p>Mærrádusá dán artihkkalin e tsakka riektáv ietjasa duobddágijt ruopptot åttjuditjat ma sámijn máhtti liehket rijkalasj jali rijkkajgasskasasj riektá milta.</p>
 <p>Artihkkal 35</p>
-<p>Suodjalibme sámij  riektájs ednamijda ja tjátjijda</p>
-<p>Stáhta galggi doajmmaj biedjat dåbmaris suodjalimev sámij riektájs 34. artihkkala</p>
-<p>milta. Ållagattjat galggi stáhta dán diehtij identifiserit dajt ednam- ja tjáhtjeguovlojt majt</p>
-<p>sáme árbbedábálattjat adni.</p>
-<p>Rijkalasj riektán galggi gávnnut hiebalgis årniga gæhttjalittjat gatjálvisájt ma guosski</p>
-<p>sámij riektáj ednamijda ja tjátjijda. Sáme galggi duobbmoståvlårijdojn bessat oadtjot dav</p>
-<p>rudálasj dårjav mij le dárbulasj váj ietjasa ássjijt máhtti oadtjot gæhttjaluvádum.</p>
+<p>Suodjalibme sámij riektájs ednamijda ja tjátjijda</p>
+<p>Stáhta galggi doajmmaj biedjat dåbmaris suodjalimev sámij riektájs 34. artihkkala milta. Ållagattjat galggi stáhta dán diehtij identifiserit dajt ednam- ja tjáhtjeguovlojt majt sáme árbbedábálattjat adni.</p>
+<p>Rijkalasj riektán galggi gávnnut hiebalgis årniga gæhttjalittjat gatjálvisájt ma guosski sámij riektáj ednamijda ja tjátjijda. Sáme galggi duobbmoståvlårijdojn bessat oadtjot dav rudálasj dårjav mij le dárbulasj váj ietjasa ássjijt máhtti oadtjot gæhttjaluvádum.</p>
 <p>Artihkkal 36</p>
 <p>Luonndoressursaj adno</p>
-<p>Sámij riektá luonndoressursajda dakkir ednam- jali tjáhtjeduobddágijda ma gulluji 34.</p>
-<p>artihkkalij, galggi sierraláhkáj suodjaluvvat. Dánna galggá aj vieleduvvat dájt bessat adnet</p>
-<p>ihkap le gájbbádus árbbedábálasj sáme máhtudagáv ja sáme kultuvralasj moallánagájt</p>
-<p>bisodittjat.</p>
-<p>Åvddål almulasj oajválattja lágajn vuodon vaddi loabev guoradallat jali råggå</p>
-<p>minerálajt jali ietjá ressursajt ednama vuolen jali mierredi gåktu ietjá luonndoressursajt adni</p>
-<p>dakkir ednam- jali tjáhtjeguovlojn ma sáme æjgguji jali adni, galggi rádádallama tjadáduvvat</p>
-<p>guoskadallam sámij ja sámedikkijn gånnå hiehpá 16. artihkkala milta.</p>
-<p>Loahpe luonndoressursajt guoradalátjit jali anátjit ij galga vatteduvvat jus dåjma diehti</p>
-<p>ij la máhttelis jali sjaddá viehka gássjelis sámijda vilá adnet dajt dáfojt maj birra le sáhka, ja</p>
-<p>dát adno le ájnas sáme kultuvrraj, jus sámedigge ja guoskadallam sáme e dasi guorrasa.</p>
-<p>Dat mij le åvdebun dán artihkkalin mierreduvvam, guosská aj ietjá adnovuogijda</p>
-<p>luondon dáfujn ma 34. artihkkalij hiehpi, dan vuolen aj miehttseæládus, tjáhtje- ja</p>
-<p>bieggafábmoásadusá, væddjatsieggim ja asstoájggegådij tsieggim, militera hárjjidallama ja</p>
-<p>stuoves hárjjidallamsaje.</p>
+<p>Sámij riektá luonndoressursajda dakkir ednam- jali tjáhtjeduobddágijda ma gulluji 34. artihkkalij, galggi sierraláhkáj suodjaluvvat. Dánna galggá aj vieleduvvat dájt bessat adnet ihkap le gájbbádus árbbedábálasj sáme máhtudagáv ja sáme kultuvralasj moallánagájt bisodittjat.</p>
+<p>Åvddål almulasj oajválattja lágajn vuodon vaddi loabev guoradallat jali råggå minerálajt jali ietjá ressursajt ednama vuolen jali mierredi gåktu ietjá luonndoressursajt adni dakkir ednam- jali tjáhtjeguovlojn ma sáme æjgguji jali adni, galggi rádádallama tjadáduvvat guoskadallam sámij ja sámedikkijn gånnå hiehpá 16. artihkkala milta.</p>
+<p>Loahpe luonndoressursajt guoradalátjit jali anátjit ij galga vatteduvvat jus dåjma diehti ij la máhttelis jali sjaddá viehka gássjelis sámijda vilá adnet dajt dáfojt maj birra le sáhka, ja dát adno le ájnas sáme kultuvrraj, jus sámedigge ja guoskadallam sáme e dasi guorrasa.</p>
+<p>Dat mij le åvdebun dán artihkkalin mierreduvvam, guosská aj ietjá adnovuogijda luondon dáfujn ma 34. artihkkalij hiehpi, dan vuolen aj miehttseæládus, tjáhtje- ja bieggafábmoásadusá, væddjatsieggim ja asstoájggegådij tsieggim, militera hárjjidallama ja stuoves hárjjidallamsaje.</p>
 <p>Artihkkal 37</p>
 <p>Buohttidus ja vuojti oasse</p>
-<p>Guoskadallam sámijn galggá liehket riektá buohttidussaj gájka vahága åvdås mij sijáv</p>
-<p>tjasská dakkir dåjmaj baktu ma li nammaduvvam 36. artihkkalin nuppát ja nælját oasen. Jus</p>
-<p>rijkalasj lágan gávnnuji mærrádusá ma dahki suv guhti le loabev oadtjum luonndoressursajt</p>
-<p>råggåt vælggogissan ednamæjgádij værov mákset jali sunji vaddet oasev dåjma båhtusis, de</p>
-<p>galggá riektáaddnen sæmmi vælggogisvuohta aj daj sámij gáktuj gudi árbbedábálattjat li</p>
-<p>adnám ja ájn adni dav sæmmi dáfov.</p>
-<p>Dán artihkkala mærrádusá e ráddjida riektáv oassáj luonndoressursaj adnema båhtusis</p>
-<p>mij máhttá tjuovvot rijkkajgasskasasj riektáv.</p>
+<p>Guoskadallam sámijn galggá liehket riektá buohttidussaj gájka vahága åvdås mij sijáv tjasská dakkir dåjmaj baktu ma li nammaduvvam 36. artihkkalin nuppát ja nælját oasen. Jus rijkalasj lágan gávnnuji mærrádusá ma dahki suv guhti le loabev oadtjum luonndoressursajt råggåt vælggogissan ednamæjgádij værov mákset jali sunji vaddet oasev dåjma båhtusis, de galggá riektáaddnen sæmmi vælggogisvuohta aj daj sámij gáktuj gudi árbbedábálattjat li adnám ja ájn adni dav sæmmi dáfov.</p>
+<p>Dán artihkkala mærrádusá e ráddjida riektáv oassáj luonndoressursaj adnema båhtusis mij máhttá tjuovvot rijkkajgasskasasj riektáv.</p>
 <p>Artihkkal 38</p>
 <p>Vuona ja merragáddetjátje</p>
-<p>Dat mij le tjáhtjeguovloj ja tjáhtjeguovloj adnema riektáj hárráj mierreduvvam</p>
-<p>artihkkalijn 34-37, guosská aj sæmmi láhkáj sáme guolástussaj ja ietjá adnuj vuonajs ja</p>
-<p>merragáddetjátjijs.</p>
-<p>Gå guollimoasse guolijs ja ietjá merraressursajs vatteduvvi, ja gå ietjá láhkáj dájt</p>
-<p>ressursajt reguleriji, de galggá sáme anov ja dan árvov sáme sebrudagán vieledit. Dát galggá</p>
-<p>dáhpáduvvat vájku dát adno le binnum jali ållu nåhkåm danen gå guollimoase ælla</p>
-<p>vatteduvvam jali ietjá reguleridimij diehti guolástusán jali ietjá ressursaano diehti dájn</p>
-<p>guovlojn. Sæmmi sjaddá jus adno le binnum jali hiejteduvvam danen gå merraressursajs li</p>
-<p>binnum dájn merraguovlojn.</p>
+<p>Dat mij le tjáhtjeguovloj ja tjáhtjeguovloj adnema riektáj hárráj mierreduvvam artihkkalijn 34-37, guosská aj sæmmi láhkáj sáme guolástussaj ja ietjá adnuj vuonajs ja merragáddetjátjijs.</p>
+<p>Gå guollimoasse guolijs ja ietjá merraressursajs vatteduvvi, ja gå ietjá láhkáj dájt ressursajt reguleriji, de galggá sáme anov ja dan árvov sáme sebrudagán vieledit. Dát galggá dáhpáduvvat vájku dát adno le binnum jali ållu nåhkåm danen gå guollimoase ælla vatteduvvam jali ietjá reguleridimij diehti guolástusán jali ietjá ressursaano diehti dájn guovlojn. Sæmmi sjaddá jus adno le binnum jali hiejteduvvam danen gå merraressursajs li binnum dájn merraguovlojn.</p>
 <p>Artihkkal 39</p>
 <p>Ednamvijddudagá ja ressursaj háldadibme</p>
-<p>Duodden sámij riektájda dagu åmastimriekta jali adnemriektá, galggá sámedikkijn</p>
-<p>liehket riektá mierredimoassálasstemij 16. artihkkala milta almulasj háldadimen guovlojs 34.</p>
-<p>ja 38. artihkkalij milta.</p>
+<p>Duodden sámij riektájda dagu åmastimriekta jali adnemriektá, galggá sámedikkijn liehket riektá mierredimoassálasstemij 16. artihkkala milta almulasj háldadimen guovlojs 34. ja 38. artihkkalij milta.</p>
 <p>Artihkkal 40</p>
 <p>Birássuodjalibme ja birásháldadibme</p>
-<p>Stáhta li aktisasjrádij sámedikkij vælggogissan ásadit dåjmalasj birássuodjalimev mij</p>
-<p>sihkarastá guoddelis åvddånimev sáme ednam- ja tjáhtjeguovlojn 34. ja 38. artihkkalij milta.</p>
-<p>Sámedikkijn galggá liehket riektá mierredimoassálasstemij 16. artihkkala milta</p>
-<p>birásháldadimen mij dájt guovlojt vájkkut.</p>
+<p>Stáhta li aktisasjrádij sámedikkij vælggogissan ásadit dåjmalasj birássuodjalimev mij sihkarastá guoddelis åvddånimev sáme ednam- ja tjáhtjeguovlojn 34. ja 38. artihkkalij milta.</p>
+<p>Sámedikkijn galggá liehket riektá mierredimoassálasstemij 16. artihkkala milta birásháldadimen mij dájt guovlojt vájkkut.</p>
 <p>Kapihttal V</p>
 <p>Sáme æládusá</p>
 <p>Artihkkal 41</p>
 <p>Sáme æládusáj suodjalibme</p>
-<p>Sáme æládusá ja sáme ressurssaadno galggá sierraláhkáj suodjaluvvat, riektá jali</p>
-<p>rudálasj dåjmaj baktu, nav guhkás gå dát le ájnas kultuvrravuodo.</p>
-<p>Sáme æládussan ja sáme ressurssaadnon aneduvvá dakkir doajmma mij le ájnas vaj</p>
-<p>sáme bájkálasj sebrudahka bissu ja åvddåni.</p>
+<p>Sáme æládusá ja sáme ressurssaadno galggá sierraláhkáj suodjaluvvat, riektá jali rudálasj dåjmaj baktu, nav guhkás gå dát le ájnas kultuvrravuodo.</p>
+<p>Sáme æládussan ja sáme ressurssaadnon aneduvvá dakkir doajmma mij le ájnas vaj sáme bájkálasj sebrudahka bissu ja åvddåni.</p>
 <p>Artihkkal 42</p>
 <p>Boatsojsujtto sáme æládussan</p>
-<p>Boatsojsujtto mij le sierralágásj ja árbbedábálasj sáme æládus ja kultuvrravuohke man</p>
-<p>vuodon le árbbedáhpe ja danna galggá liehket sierralágásj riektá suodjalibmáj.</p>
-<p>Danen galggaba Vuodna ja Svierik bisodit ja åvddånahttet boatsojsujtov sierrariektán</p>
-<p>sámijda sáme boatsojsujttoguovlojn.</p>
-<p>3. protokolla milta oassálasstemsjiehtadusán Europealasj aktijdussaj mij javllá sáme li</p>
-<p>álggoálmmuk, hihkal Suobma sáme boatsojsujto riektádilev nannit.</p>
+<p>Boatsojsujtto mij le sierralágásj ja árbbedábálasj sáme æládus ja kultuvrravuohke man vuodon le árbbedáhpe ja danna galggá liehket sierralágásj riektá suodjalibmáj.</p>
+<p>Danen galggaba Vuodna ja Svierik bisodit ja åvddånahttet boatsojsujtov sierrariektán sámijda sáme boatsojsujttoguovlojn. 3. protokolla milta oassálasstemsjiehtadusán Europealasj aktijdussaj mij javllá sáme li álggoálmmuk, hihkal Suobma sáme boatsojsujto riektádilev nannit.</p>
 <p>Artihkkal 43</p>
 <p>Boatsojsujtto rijkarájáj badjel.</p>
 <p>Sámij riektá boatsojsujttuj rijkarájáj badjel vuodon le árbbedáhpe.</p>
-<p>Jus tjæro, sijda jali boatsojguohtomsijda li lihtudam boatsojguohtoma birra rijkarájáj</p>
-<p>badjel, de galggi dá lihtudime fámon bissot. Jus rijddo sjaddá dáj lihtudimij dádjadusá jali ano</p>
-<p>diehti, de galggá oassálasste máhttet rijdov rijddonammadussaj bajedit. Da gålmmå</p>
-<p>sámedikke aktisattjat njuolgadusájt mierredi gudi dákkir rijddonammadusán galggi ájrastit ja</p>
-<p>nammadusá barggovuogev. Oassálasste guhti ij la dudálasj dán nammadusá mærrádusájn</p>
-<p>galggá bessat dav ássjev duobbmoståvlåj åvdån gæhttjalit dan rijkan gånnå guohtomednam le.</p>
-<p>Jus tjæro, sijda jali boatsojguohtomsijda ælla lihtudam boatsojguohtoma birra</p>
-<p>rijkarájáj badjel, valla gávnnu rijkajgasskasasj sjiehtadus guohtomriektá hárráj, de galggá dát</p>
-<p>sjiehtadus aneduvvat. Sån guhti árbbedáberiektálasj vuodojn adná sujna le vijdep guohtomriektá gå dát rijkajgasskasasj sjiehtadus javllá, galggá bessat váni hiereduvvamis</p>
-<p>ietjasa rávkalvisáv duobbmoståvlåj åvdån gæhttjalit dan rijkan gånnå guohtomednam le.</p>
+<p>Jus tjæro, sijda jali boatsojguohtomsijda li lihtudam boatsojguohtoma birra rijkarájáj badjel, de galggi dá lihtudime fámon bissot. Jus rijddo sjaddá dáj lihtudimij dádjadusá jali ano diehti, de galggá oassálasste máhttet rijdov rijddonammadussaj bajedit. Da gålmmå sámedikke aktisattjat njuolgadusájt mierredi gudi dákkir rijddonammadusán galggi ájrastit ja nammadusá barggovuogev. Oassálasste guhti ij la dudálasj dán nammadusá mærrádusájn galggá bessat dav ássjev duobbmoståvlåj åvdån gæhttjalit dan rijkan gånnå guohtomednam le.</p>
+<p>Jus tjæro, sijda jali boatsojguohtomsijda ælla lihtudam boatsojguohtoma birra rijkarájáj badjel, valla gávnnu rijkajgasskasasj sjiehtadus guohtomriektá hárráj, de galggá dát sjiehtadus aneduvvat. Sån guhti árbbedáberiektálasj vuodojn adná sujna le vijdep guohtomriektá gå dát rijkajgasskasasj sjiehtadus javllá, galggá bessat váni hiereduvvamis ietjasa rávkalvisáv duobbmoståvlåj åvdån gæhttjalit dan rijkan gånnå guohtomednam le.</p>
 <p>Kapihttal VI</p>
 <p>Konvensjåvnå tjadádibme ja åvddånahttem</p>
 <p>Artihkkal 44</p>
 <p>Sámeminisstarij ja sámediggepresidentaj aktisasjráde</p>
-<p>Vásstediddje sámeminisstara Suomas, Vuonas ja Svierigis aktan sámediggepresidenta</p>
-<p>dájs gålmåjs rijkajs galggi juovnnát tjåhkanit.</p>
-<p>Dát aktisasjbarggo galggá konvensjåvnå ulmev åvdedit dagu nammaduvvam le 1.</p>
-<p>artihkkalin. Tjåhkanimen galggi ájggeguovddelis aktisasj ássjijt giehtadallat.</p>
+<p>Vásstediddje sámeminisstara Suomas, Vuonas ja Svierigis aktan sámediggepresidenta dájs gålmåjs rijkajs galggi juovnnát tjåhkanit.</p>
+<p>Dát aktisasjbarggo galggá konvensjåvnå ulmev åvdedit dagu nammaduvvam le 1. artihkkalin. Tjåhkanimen galggi ájggeguovddelis aktisasj ássjijt giehtadallat.</p>
 <p>Artihkkal 45</p>
 <p>Konvensjåvnnånammadus</p>
-<p>Nuorttarijkalasj konvensjåvnnånammadus galggá nammduvvat dán konvensjåvnå</p>
-<p>tjadádimev tjuovutjit. Nammadusán galggi liehket 6 ájrrasa gudi gájka li iesjrádálattja.</p>
+<p>Nuorttarijkalasj konvensjåvnnånammadus galggá nammduvvat dán konvensjåvnå tjadádimev tjuovutjit. Nammadusán galggi liehket 6 ájrrasa gudi gájka li iesjrádálattja.</p>
 <p>Juohkka dajs gålmå stáhtajs nammat avta ájrrasav, juohkka sámedikkijs avta ájrrasav.</p>
 <p>Nammadibme le vidá jahkáj.</p>
 <p>Nammadus galggá daj gålmåj rijkaj ráddidusájda ja sámedikkijda diedádusájt buktet.</p>
-<p>Dat máhttá rijkaj ráddidusájda ja sámedikkijda buktet oajvvádusájt ma dán konvensjåvnå</p>
-<p>ulmev nanniji. Nammadus máhttá aj javllamusájt buktet ájnegis ulmutjij jali juohkusij ássjijn.</p>
+<p>Dat máhttá rijkaj ráddidusájda ja sámedikkijda buktet oajvvádusájt ma dán konvensjåvnå ulmev nanniji. Nammadus máhttá aj javllamusájt buktet ájnegis ulmutjij jali juohkusij ássjijn.</p>
 <p>Artihkkal 46</p>
 <p>Rijkalasj tjadádibme</p>
-<p>Váj dát konvensjåvnnå galggá nav avtaláhkáj gå máhttelis aneduvvat galggi stáhta</p>
-<p>konvensjåvnå mærrádusájt njuolgga anedahtten dahkat rijkalasj lága baktu.</p>
+<p>Váj dát konvensjåvnnå galggá nav avtaláhkáj gå máhttelis aneduvvat galggi stáhta konvensjåvnå mærrádusájt njuolgga anedahtten dahkat rijkalasj lága baktu.</p>
 <p>Artihkkal 47</p>
 <p>Rudálasj åvdåsvásstádusá</p>
-<p>Stáhta dajs rudálasj ressursaj åvdås vásstedi ma li dárbulattja dán konvensjåvnå</p>
-<p>mærrádusáj tjadádibmáj. Aktisasj gålo dajda gålmå rijkajda galggi daj gaskan genga rijka</p>
-<p>sámij lågo milta juogeduvvat.</p>
-<p>Ietján gå daj buojkulvisáj ma 35. artihkkalin nuppát oasen nammaduvvi, galggá</p>
-<p>sámijda liehket máhttelis oadtjot dav rudálasj dårjav majt dárbahi váj bessi prinsihpalattjat</p>
-<p>ájnas gatjálvisájt dán konvensjåvnå riektáj birra duobbmoståvlåj åvdån gæhttjalit.</p>
+<p>Stáhta dajs rudálasj ressursaj åvdås vásstedi ma li dárbulattja dán konvensjåvnå mærrádusáj tjadádibmáj. Aktisasj gålo dajda gålmå rijkajda galggi daj gaskan genga rijka sámij lågo milta juogeduvvat.</p>
+<p>Ietján gå daj buojkulvisáj ma 35. artihkkalin nuppát oasen nammaduvvi, galggá sámijda liehket máhttelis oadtjot dav rudálasj dårjav majt dárbahi váj bessi prinsihpalattjat ájnas gatjálvisájt dán konvensjåvnå riektáj birra duobbmoståvlåj åvdån gæhttjalit.</p>
 <p>Kapihttal VII</p>
 <p>Loahppamærrádusá</p>
 <p>Artihkkal 48</p>
 <p>Sámedikkij dåhkkidibme</p>
-<p>Dát konvensjåvnnå galggá vuollájtjállema maŋŋel dajn gålmåjn sámedikkijn</p>
-<p>giehtadaláduvvat ja dåhkkiduvvat.</p>
+<p>Dát konvensjåvnnå galggá vuollájtjállema maŋŋel dajn gålmåjn sámedikkijn giehtadaláduvvat ja dåhkkiduvvat.</p>
 <p>Artihkkal 49</p>
 <p>Ratifiserim</p>
-<p>Dát konvensjåvnnå galggá ratifiseriduvvat. Ratifiserim ij máhte dáhpáduvvat åvddål</p>
-<p>da gålmmå sámedikke li dåhkkidam dav 48. artihkkala milta.</p>
+<p>Dát konvensjåvnnå galggá ratifiseriduvvat. Ratifiserim ij máhte dáhpáduvvat åvddål da gålmmå sámedikke li dåhkkidam dav 48. artihkkala milta.</p>
 <p>Artihkkal 50</p>
 <p>Fábmujboahtem</p>
-<p>Konvensjåvnnå fábmuj boahtá gålmmålåk biejve maŋŋel gå ratifiserimdokumenta li</p>
-<p>vuona ålggorijkadepartementan deponeriduvvam.</p>
-<p>Vuona ålggorijkadepartemænnta diedet Suomav, Svierigav ja dajt gålmmå sámedikkijt</p>
-<p>ratifikasjåvnnådokumentaj deponerima birra ja goassa konvensjåvnnå fábmuj boahtá.</p>
-<p>Dán konvensjåvnå oalle tæksta deponeriduvvá Vuona ålggorijkadepartementan, mij</p>
-<p>bærrájgæhttjá váj Suobma, Svierik ja da gålmmå sámedikke genga duodastuvvam kopijav</p>
-<p>oadtju.</p>
+<p>Konvensjåvnnå fábmuj boahtá gålmmålåk biejve maŋŋel gå ratifiserimdokumenta li vuona ålggorijkadepartementan deponeriduvvam.</p>
+<p>Vuona ålggorijkadepartemænnta diedet Suomav, Svierigav ja dajt gålmmå sámedikkijt ratifikasjåvnnådokumentaj deponerima birra ja goassa konvensjåvnnå fábmuj boahtá.</p>
+<p>Dán konvensjåvnå oalle tæksta deponeriduvvá Vuona ålggorijkadepartementan, mij bærrájgæhttjá váj Suobma, Svierik ja da gålmmå sámedikke genga duodastuvvam kopijav oadtju.</p>
 <p>Artihkkal 51</p>
 <p>Konvensjåvnå rievddadime</p>
-<p>Jus dáv konvensjåvnåv sihtá rievddadit de hæhttu dat dáhpáduvvat rádádallamij baktu</p>
-<p>dajn gålmåjn sámedikkijn ja 48. artihkkala milta.</p>
-<p>Konvensjåvnå rievddam fábmuj boahtá gålmmålåk biejve dat biejve maŋŋela gå</p>
-<p>sjiehtadusguojme li Vuona ålggorijkadepartementav diededam rievddama li sijás</p>
-<p>dåhkkiduvvam.</p>
+<p>Jus dáv konvensjåvnåv sihtá rievddadit de hæhttu dat dáhpáduvvat rádádallamij baktu dajn gålmåjn sámedikkijn ja 48. artihkkala milta.</p>
+<p>Konvensjåvnå rievddam fábmuj boahtá gålmmålåk biejve dat biejve maŋŋela gå sjiehtadusguojme li Vuona ålggorijkadepartementav diededam rievddama li sijás dåhkkiduvvam.</p>
 <p>Dási duodastussan li sjiehtadusguojmij åvdåstiddje dáv konvensjåvnåv vuolláj tjállám.</p>
 <p>Nav gå dáhpáduváj ……………….n ……………máno …. biejve jagen 20…</p>
-<p>Konvensjåvnås le akta eksemplárra vuonadárogiellaj, svierigadárogiellaj, suomagiellaj ja</p>
-<p>sámegiellaj, divna tevstajn le sæmmi fábmogisvuohta.</p>
+<p>Konvensjåvnås le akta eksemplárra vuonadárogiellaj, svierigadárogiellaj, suomagiellaj ja sámegiellaj, divna tevstajn le sæmmi fábmogisvuohta.</p>
 </body></document>
