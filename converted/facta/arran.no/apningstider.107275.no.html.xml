@@ -1,4 +1,4 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>185</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/apningstider.107275.no.html</origFileName><parallel_text xml:lang="eng" location="apningstider.107275.no.html"/><parallel_text xml:lang="nob" location="apningstider.107275.no.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Åpningstider - Árran - julevsáme guovdásj/lulesamisk senter</p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>185</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.arran.no/apningstider.107275.no.html</origFileName><parallel_text xml:lang="eng" location="apningstider.107275.no.html"/><parallel_text xml:lang="nob" location="apningstider.107275.no.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Åpningstider - Árran - julevsáme guovdásj/lulesamisk senter</p>
 <p type="title" xml:lang="eng">Åpningstider - Rabásájge - Opening hours</p>
 <p type="title" xml:lang="nno">Kontor - Sentralbord: Mand-Fred / Mánnod-bierjjed / Mond-Frid : 08:00-15:30</p>
 <p xml:lang="est"><em type="italic">Á R R A N M U S E U M </em></p>
@@ -29,5 +29,5 @@
 <p type="listitem" xml:lang="eng">Children under 6 years: free</p>
 <p type="listitem" xml:lang="eng">Children 6-18 years: 25 nok</p>
 <p type="listitem" xml:lang="eng">Group of 10 persons: 50 nok</p>
-<p xml:lang="nob">Les mer...</p>
+<p xml:lang="fra">Les mer...</p>
 </body></document>

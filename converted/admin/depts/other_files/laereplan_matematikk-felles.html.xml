@@ -1,4 +1,4 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>3588</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/kl06/MAT1-04/Hele/Komplett_visning?lplang=smj&amp;read=1</origFileName><parallel_text xml:lang="eng" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="nno" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="sma" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="sme" location="laereplan_matematikk-felles.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Matematihka aktisasjfága oahppopládna</p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>3588</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/kl06/MAT1-04/Hele/Komplett_visning?lplang=smj&amp;read=1</origFileName><parallel_text xml:lang="eng" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="nno" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="sma" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="sme" location="laereplan_matematikk-felles.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Udir.no - Matematihka aktisasjfága oahppopládna</p>
 <p xml:lang="nob">Hovedinnhold</p>
 <p type="title">Matematihka aktisasjfága oahppopládna</p>
 <p>Mierreduvvam Máhttodepartementas láhkanjuolgadusá milta 21.06.2013</p>
@@ -16,17 +16,17 @@
 <p><em type="bold">Oajvveåsij gåvvå: </em></p>
 <p><em type="bold">Jahkedáse </em></p>
 <p><em type="bold">Oajvveoase </em></p>
-<p xml:lang="vep">1.–4.</p>
+<p xml:lang="mrj">1.–4.</p>
 <p>Tálla</p>
 <p>Geometrija</p>
 <p xml:lang="smn">Mihttim</p>
 <p xml:lang="sme">Statistihkka</p>
-<p xml:lang="vep">5.–7.</p>
+<p xml:lang="mrj">5.–7.</p>
 <p>Tálla ja algebra</p>
 <p>Geometrija</p>
 <p xml:lang="smn">Mihttim</p>
 <p xml:lang="sme">Statistihkka, jáhkedahttevuohta ja kombinatorihkka</p>
-<p xml:lang="vep">8.–10.</p>
+<p xml:lang="mrj">8.–10.</p>
 <p>Tálla ja algebra</p>
 <p>Geometrija</p>
 <p xml:lang="smn">Mihttim</p>
@@ -37,7 +37,7 @@
 <p>Geometrija</p>
 <p xml:lang="sme">Statistihkka, jáhkedahttevuohta ja kombinatorihkka</p>
 <p>Funksjåvnå</p>
-<p xml:lang="vep">1P</p>
+<p xml:lang="pol">1P</p>
 <p>Tálla ja algebra</p>
 <p>Geometrija</p>
 <p xml:lang="sme">Statistihkka, jáhkedahttevuohta ja kombinatorihkka</p>
@@ -47,7 +47,7 @@
 <p>Tálla ja algebra</p>
 <p>Geometrija</p>
 <p>Funksjåvnå</p>
-<p xml:lang="est">1P-Y</p>
+<p xml:lang="pol">1P-Y</p>
 <p>Tálla ja algebra</p>
 <p>Geometrija</p>
 <p xml:lang="vep">Ekonomija</p>

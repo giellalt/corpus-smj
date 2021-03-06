@@ -1,4 +1,4 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1519</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/kl06/MAT5-02/Hele/Komplett_visning?lplang=smj&amp;read=1</origFileName><parallel_text xml:lang="eng" location="laereplan_matematikk2t2p.html"/><parallel_text xml:lang="nno" location="laereplan_matematikk2t2p.html"/><parallel_text xml:lang="sma" location="laereplan_matematikk2t2p.html"/><parallel_text xml:lang="sme" location="laereplan_matematikk2t2p.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Matematihka 2T ja 2P oahppopládna</p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1519</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/kl06/MAT5-02/Hele/Komplett_visning?lplang=smj&amp;read=1</origFileName><parallel_text xml:lang="eng" location="laereplan_matematikk2t2p.html"/><parallel_text xml:lang="nno" location="laereplan_matematikk2t2p.html"/><parallel_text xml:lang="sma" location="laereplan_matematikk2t2p.html"/><parallel_text xml:lang="sme" location="laereplan_matematikk2t2p.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Udir.no - Matematihka 2T ja 2P oahppopládna</p>
 <p xml:lang="nob">Hovedinnhold</p>
 <p type="title">Matematihka 2T ja 2P oahppopládna</p>
 <p>Mierreduvvam Máhttodepartementas láhkanjuolgadusá milta 21.06.2013</p>
@@ -17,10 +17,10 @@
 <p>Geometrija</p>
 <p>Kombinatorihkka ja jáhkedahttevuohta</p>
 <p>Kultuvrra ja modellerim</p>
-<p xml:lang="vep">2P</p>
+<p xml:lang="pol">2P</p>
 <p>Tálla ja algebra praktihkan</p>
 <p xml:lang="sme">Statistihkka</p>
-<p xml:lang="nob">Modellerim</p>
+<p xml:lang="tur">Modellerim</p>
 <p>Funksjåvnå praktihkan</p>
 <p type="title">Tálla ja algebra praktihkan</p>
 <p>Tálla ja algebra-oajvveoasse galggá tálladádjadusáv åvdedit ja máhtov låpptit gåktu tálla ja tállagiehtadallam systemajn ja minsstarijn doajmmi. Tállaj máhttá lågojt ja stuorrudagájt kvantifiserit. Tállaj suorgge sisadná ålles tálla, fraksjåvnå, desimaltálla ja prosenta. Algebra skåvlån generaliseri tállariekknimav gå bokstáva jali ietjá symbåvlå tállajt åvdåsti. Navti sjaddá vejulasj minsstarijt ja aktijvuodajt gåvådit ja analyserit. Algebra aneduvvá aj geometrija ja funksjåvnåj oajvveåsijn.</p>
@@ -72,7 +72,7 @@
 <p type="listitem">merustallat ja tjielggit kumulatijva ja relatijva frekvensav, åvddånbuktet dáhtájt tabellajn ja diagrámmajn ja árvvaladdat iesjguhtik dáhtáåvddånbuktemijt ja makkár dádjadusájt da mahtti vaddet</p>
 <p type="listitem">dáhtájt juohkusijda tjuolldet ja merustallat ja árvvaladdat dáj dáhtáj guovdásjmihtojt</p>
 <p type="listitem">adnet riekknimárkajt statistihkalasj merustallamijn ja åvddånbuktemijn</p>
-</list><p type="title" xml:lang="nob">Modellerim</p>
+</list><p type="title" xml:lang="tur">Modellerim</p>
 <p>Åhpadusá mihttomierre le oahppe galggá máhttet</p>
 <list><p type="listitem">mihttit praktihkalasj gæhttjaladdamijn ja hábbmit matematihkalasj modellajt observeridum dáhtáj milta</p>
 <p type="listitem">analyserit praktihkalasj tjuolmajt ma guosski bæjválasj iellemij, ekonomijaj, statistihkkaj ja geometrijaj, gávnnat minsstarijt ja struktuvrajt iesjgeŋga aktijvuodajn ja gåvådit stuorrudagáj aktijvuodajt matematihkalasj modellaj viehkken</p>

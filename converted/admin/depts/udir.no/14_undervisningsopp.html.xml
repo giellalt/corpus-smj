@@ -1,4 +1,4 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1047</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20andrespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Samisk-som-andrespraak/Samegiella-nubbengiellan-samegiella-2-ja-samegi/template-tredje-trinn-i-enkel-tabell/Undervisningsopp/index-3.html</origFileName><parallel_text xml:lang="nob" location="14_undervisningsopplegg-niva-10.html"/><parallel_text xml:lang="sma" location="14_undervisningsopple.html"/><parallel_text xml:lang="sme" location="14_undervisningsopp.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Åhpadimgárvvidus: 10. dásse</p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1047</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20andrespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Samisk-som-andrespraak/Samegiella-nubbengiellan-samegiella-2-ja-samegi/template-tredje-trinn-i-enkel-tabell/Undervisningsopp/index-3.html</origFileName><parallel_text xml:lang="nob" location="14_undervisningsopplegg-niva-10.html"/><parallel_text xml:lang="sma" location="14_undervisningsopple.html"/><parallel_text xml:lang="sme" location="14_undervisningsopp.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Udir.no - Åhpadimgárvvidus: 10. dásse</p>
 <p type="title">Åhpadimgárvvidus: 10. dásse</p>
 <p xml:lang="nob">Hovedinnhold</p>
 <p><em type="bold">Dánna åhpadiddje gávnná buojkulvisájt gåktu máhttá barggat máhtudakmihtoj 10. dásen. </em></p>
@@ -61,9 +61,9 @@
 <p>Buojkulvis Vásstádus Sámedigge, ja gatjálvisá ma gulluji dasi máhtti liehket.</p>
 <p>Mij la Kárásjågån?</p>
 <p>Mij almmalattjat rabáduváj jagen 1989?</p>
-<p>↓</p>
+<p xml:lang="nob">↓</p>
 <p>Sámedigge</p>
-<p>↑</p>
+<p xml:lang="nob">↑</p>
 <p>Gånnå li 39 ájrrasa?</p>
 <p>Gånnå le Egil Olli presidænnda?</p>
 <p>Gåvvå: Jan Arne Varsi</p>

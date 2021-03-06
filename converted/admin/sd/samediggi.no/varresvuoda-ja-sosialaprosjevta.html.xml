@@ -1,12 +1,13 @@
-<document xml:lang="smj" id="no_id"><header><title>Varresvuoda- ja sosiálaprosjevta</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><wordcount>185</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/Daarja-ja-stipenda/Varresvuoda-ja-sosialaprosjevta</origFileName><parallel_text xml:lang="nob" location="helse-og-sosialprosjekter.html"/><parallel_text xml:lang="sma" location="healsoe-jih-sosijaaleprosjekth.html"/><parallel_text xml:lang="sme" location="dearvvasvuoda-ja-sosialaproseavttat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Varresvuoda- ja sosiálaprosjevta</p>
-<p><em type="italic">Åhtsåmájggemierre: Rabás </em></p>
+<document xml:lang="smj" id="no_id"><header><title>Varresvuoda- ja sosiálaprosjevta</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><wordcount>185</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samedigge.no/Daarja-ja-stipenda/Varresvuoda-ja-sosialaprosjevta</origFileName><parallel_text xml:lang="nob" location="helse-og-sosialprosjekter.html"/><parallel_text xml:lang="sma" location="healsoe-jih-sosijaaleprosjekth.html"/><parallel_text xml:lang="sme" location="dearvvasvuoda-ja-sosialaproseavttat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Varresvuoda- ja sosiálaprosjevta</p>
+<p><em type="italic">Åhtsåmájggemierre: </em></p>
+<p>Rabás</p>
 <p xml:lang="sma"><em type="italic">Mihttomierre: </em></p>
 <p>Buorre varresvuohta ja avtaárvvusasj varresvuohta- ja sosiáladievnastusá sáme álmmugij sæmmi dásen gå álmmugin ietján.</p>
 <p xml:lang="sme"><em type="italic">Årniga doarjjaduossto: </em></p>
 <list><p type="listitem">Organisasjåvnå, vidnudagá ja ásadusá</p>
 <p type="listitem">Ájnegasj oassálasste gudi formálalattjat li tjanádum åtsådim- ja åhpadusásadusájda</p>
 <p type="listitem">Vidnudagá, ásadusá ja organisasjåvnå ma dårjav oadtju hæhttuji liehket tjáledum Vuona Avtadakregisstarin.</p>
-</list><p><em type="italic">Vuorodime 2019: </em></p>
+</list><p xml:lang="ita"><em type="italic">Vuorodime 2020: </em></p>
 <list><p type="listitem">Prosjevta ma láhtji varresvuoda- ja huksodievnastusájda hiebadum giela ja kultuvra milta</p>
 <p type="listitem">Metodeåvddånahttemprosjevta</p>
 <p type="listitem">Prosjevta ma lasedi sáme pasientaj oassálasstemav ja addnestivrrimav</p>
