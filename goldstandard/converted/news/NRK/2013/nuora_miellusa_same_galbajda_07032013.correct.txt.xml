@@ -1,11 +1,13 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="news"/><author><unknown/></author><wordcount>157</wordcount><conversion_status type="correct"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>(Dát galbba <errormorphsyn correct="Dát galbba bierri" errorinfo="kongr"><errorort correct="">berriji</errorort>vowc,e-ie|bierriji}}</errormorphsyn> aj sámegiellaj boahtet oajvvadi Hábmera nuora.</p>
-<p><errorlang correct="nor">Foto</errorlang>: NuorajTV <errorsyn correct="Nuora li miellusa sáme galbajda" errorinfo="missing">Nuora miellusa sáme galbajda</errorsyn></p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="news"/><author><unknown/></author><wordcount>157</wordcount><conversion_status type="correct"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><errormorphsyn correct="Dát galbba bierri" errorinfo="kongr">Dát galbba <errorort correct="bierriji" errorinfo="vowc,e-ie">berriji</errorort></errormorphsyn> aj sámegiellaj boahtet oajvvadi Hábmera nuora.</p>
+<p xml:lang="nno"><errorlang correct="nor">Foto</errorlang>: NuorajTV</p>
+<p><errorsyn correct="Nuora li miellusa sáme galbajda" errorinfo="missing">Nuora miellusa sáme galbajda</errorsyn></p>
 <p>Hábmera nuora li miellusa sáme galbajda <errorlex correct="ietjasa" errorinfo="w,pers-refl">sijá</errorlex> suohkanij.</p>
 <p>Dijmmá dåhkkidij departemænnta sáme namáv Hábmera suohkanij, ja Hábmera åvddånammadus la ássjev giehtadallam ja mierredam dav rádjat guláskuddamij.</p>
-<p>– Gatjálvis le gåktu sáme namma Hábmerin galggá tjalmostuvvat. Dav javlaj Hábmera suohkanoajvve Rolf Steffensen <errorort correct="NRK:j" errorinfo="suf">NRK:aj</errorort> ådåjakmáno.</p>
-<p>Lågå aj: <errorlang correct="nor">Hamarøy blir Hábmer</errorlang> Lågå aj: <errorlang correct="nor">Hamarøy kommune får samisk skilter</errorlang> – Boandás sámevuohta Hábmerin</p>
-<p>Hábmera nuorajráde la riek mielos suohkana oajvvadussaj galbbigoahtet sáme galbaj suohkanin.</p>
-<p>– Tjalmostahttet sámevuodav galbajn suohkanin la nanos ja ájnas signálla jut suohkan ja Hábmera viesáda uddni doarjju ådå ájgev mij dálla le sámegielan ja kultuvran, tjállá Hábmera nuorajráde guláskuddamin suohkanij.</p>
+<p>– Gatjálvis le gåktu sáme namma Hábmerin galggá tjalmostuvvat. Dav javlaj Hábmera suohkanoajvve Rolf Steffensen NRK:aj ådåjakmáno.</p>
+<p xml:lang="nob">Lågå aj: <errorlang correct="nor">Hamarøy blir Hábmer</errorlang> Lågå aj: <errorlang correct="nor">Hamarøy kommune får samisk skilter</errorlang></p>
+<p>– Boandás sámevuohta Hábmerin</p>
+<p>Hábmera nuorajráde <errormorphsyn correct="l" errorinfo="cop">la</errormorphsyn> riek mielos suohkana oajvvadussaj galbbigoahtet sáme galbaj suohkanin.</p>
+<p>– Tjalmostahttet sámevuodav galbajn suohkanin la nanos ja ájnas signálla jut suohkan ja Hábmera viesáda uddni doarjju ådå ájgev mij dálla <errormorphsyn correct="l" errorinfo="cop">la</errormorphsyn> sámegielan ja kultuvran, tjállá Hábmera nuorajráde guláskuddamin suohkanij.</p>
 <p>Nuoraj mielas la ájnas galbbigoahtet sámegiellaj ij dåssju Hábmera dålusj sáme histåvrå diehti.</p>
 <p>– Valla galbbit sámegiellaj la vuogas aj udnásj ja boahtte ájge boandás sámevuoda diehti, javlli nuora Hábmerin.</p>
 <p>Hábmera suohkanstivrra mierret ássjev dán <errorort correct="gidágiese" errorinfo="cmp,hyph-1">gidá-giese</errorort>.</p>

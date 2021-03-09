@@ -1,31 +1,33 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="news"/><author><unknown/></author><wordcount>466</wordcount><conversion_status type="correct"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lijga åhttse ja sæmmi bále juogadijga rudájt</p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="news"/><author><unknown/></author><wordcount>472</wordcount><conversion_status type="correct"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lijga åhttse ja sæmmi bále juogadijga rudájt</p>
 <p><errorort correct="Fylkkamánne" errorinfo="conc,lk-lkk">Fylkamánne</errorort> gatját dågålasjvuoda birra Divtasvuona åvddånammadusán.</p>
-<p><errorlang correct="nor">Foto</errorlang>:Sander Andersen/NRK Guokta Divtasvuona suohkanpolitihkkára háldadijga biednikfåndav gånnå ietja lijga åhttse. Sæmmi båttå gå ietja lijga åhttse de mierredijga gilpustiddjij åhtsåmusájt. Nordlánda fylkamánne gatját jus dát la dågålasj barggamvuohke.</p>
+<p xml:lang="nno"><errorlang correct="nor">Foto</errorlang>:Sander Andersen/NRK</p>
+<p>Guokta Divtasvuona suohkanpolitihkkára háldadijga biednikfåndav gånnå ietja lijga åhttse. Sæmmi båttå gå ietja lijga åhttse de mierredijga gilpustiddjij åhtsåmusájt. Nordlánda fylkamánne gatját jus dát la dågålasj barggamvuohke.</p>
 <p xml:lang="nno">Harrieth Aira <errorlang correct="url">harrieth.aira@nrk.no</errorlang> Sander Andersen <errorlang correct="url">sander.andersen@nrk.no</errorlang></p>
-<p>– Ij la sáhka gåk iesj sárno ietjat belulasjvuodav, valla gåktu iehtjáda dav dádjadi, javllá vuolepdirektørra Nordlánda fylkamánnen, Tor Sande.</p>
+<p>– Ij la sáhka gåk iesj sárno ietjat belulasjvuodav, valla gåktu iehtjáda dav dádjadi, javllá <errorort correct="vuolepdirekterra" errorinfo="loan,vowc,ø-e">vuolepdirektørra</errorort> Nordlánda fylkamánnen, Tor Sande.</p>
 <p>Divtasvuona suohkanoajvve Tor Asgeir Johansen, Barggijbelludagás lij åhttse gå Divtasvuona Åvddånammadus galgaj juollodit rudájt merraæládusfåndas.</p>
 <p>Dav sæmmi lij aj Åvddånammadusá sebrulasj gut åvdet Aktisasjlistav Divtasvuona suohkanin, Filip Mikkelsen.</p>
 <p>Goappátja lijga rudájt åhtsåm vidnudagáj åvdås gånnå såj libá njunnjusattja. Johansen ja Mikkelsen sárnojga ietjasa belulattjan gå sunnu åhtsåmusá mierreduvvin, valla lijga fáron mierredime dåjt ietjá åhtsåmusájt ma gilpustin dáj ruhtajuollodimij.</p>
-<p>Lågå aj: <errorlang correct="nor">Stiller spørsmål ved pengebevilgnin</errorlang> Ietjanis berustime</p>
+<p xml:lang="nob">Lågå aj: <errorlang correct="nor">Stiller spørsmål ved pengebevilgnin</errorlang></p>
+<p>Ietjanis berustime</p>
 <p>Jagen 2011 ásadij Divtasvuona suohkan fåndav mij rudájt oadtju <errormorphsyn correct="dat guovtet luossabiebbmamvidnudagás" errorinfo="kongr">daj guokta luossabiebbmamvidnudagájs</errormorphsyn> ma li Divtasvuonan.</p>
-<p>Fånda sisboahto l akta millijåvnnå kråvnnå jahkáj goabbák <errorort correct="vidnudagájs" errorinfo="conc,ddn-dn">viddnudagájs</errorort> ja vihpá gålmmå jage.</p>
+<p>Fånda sisboahto l <errormorphsyn correct="akta millijåvnnå kråvnå" errorinfo="num,kongr">akta millijåvnnå kråvnnå</errormorphsyn> jahkáj <errormorphsyn correct="goabbák vidnudagás" errorinfo="kongr">goabbák <errorort correct="vidnudagájs" errorinfo="conc,ddn-dn">viddnudagájs</errorort></errormorphsyn> ja vihpá gålmmå jage.</p>
 <p>Suohkanoajvve Tor Asgeir Johansen.</p>
 <p><errorlang correct="nor">Foto</errorlang>: Sander Andersen/NRK Suohkana åvddånammadus fåndav háldat.</p>
 <p>Suohkanoajvve Tor Asgeir Johansen åtsåj dijmmá rudájt dát fåndas ietjas vidnudahkaj Kjøpsvik Eiendom AS máksemterminálav divudalátjit. Kjøpsvik Eiendom AS 40 00 kråvnå oattjoj dan ulmmáj.</p>
 <p>Dán tjåhkanimen Divtasvuona suohkanoajvve ietjas belulattjan sárnoj dåssju gå ietjas åhtsåmus giehtadaláduváj. Ietján lij maŋen rudájt juohkemin jali hilggomin nuppe åhttsijda.</p>
-<p>Tysfjord Turistsenter AS åhtsåj aj rudájt dát fåndas vidnudagáv <errorort correct="juoŋga" errorinfo="conc,ng-ŋg">juonga</errorort> láhkáj ådåstuhtátjit.</p>
+<p>Tysfjord Turistsenter AS <errorortreal correct="åtsåj" errorinfo="conc,hts-ts">åhtsåj</errorortreal> aj rudájt dát fåndas vidnudagáv <errorort correct="juoŋga" errorinfo="conc,ng-ŋg">juonga</errorort> láhkáj ådåstuhtátjit.</p>
 <p>Filip Mikkelsen lij dalloj Tysfjord Turistsenter AS:a stivrrajådediddje. Tysfjord Turistsenterij juogeduváj dan tjåhkanimen 50 000 kråvnå.</p>
 <p>Mikkelsen sárnoj ietjas belulattjan dåssju gå åhtsåmus suv vidnudagás giehtadaláduváj. Ietján lij maŋen rudájt juohkemin jali hilggomin nuppe åhttsijda.</p>
-<p>Imájdallá barggamvuogev</p>
-<p>Nordlánda fylkamánnen imájdalli dáv barggamvuogev.</p>
-<p>– <errormorphsyn correct="Dádjadav dal såj gudi ietja lijga åhtsåm rudájt fåndas" errorinfo="case,ine-nom">Dádjadav dal sunnun gudi ietja lijga åhtsåm rudájt fåndas</errormorphsyn> ejga la fáron mierredime gå jur sunnu åhtsåmusá giehtadaláduvvin. Dat la dal riekta. Valla gatjálvis badján jus galgajga dåjt nuppijt åhtsåmusájt aj giehtadallat? Sierraláhkáj usjudaláv jus li ráddjidum rudá massta åhtsi nav vaj dat vájkkut majt ietja oadtjoba, javllá vuolepdirektørra Tor Sande, Nordlánda fylkamánnen.</p>
+<p>Imájdallá <errorlex correct="barggovuogev" errorinfo="w">barggamvuogev</errorlex></p>
+<p>Nordlánda fylkamánnen imájdalli dáv <errorlex correct="barggovuogev" errorinfo="w">barggamvuogev</errorlex>.</p>
+<p>– <errormorphsyn correct="Dádjadav dal såj gudi ietja lijga åhtsåm rudájt fåndas" errorinfo="case,ine-nom">Dádjadav dal sunnun gudi ietja lijga åhtsåm rudájt fåndas</errormorphsyn> ejga la fáron mierredime gå jur sunnu åhtsåmusá giehtadaláduvvin. Dat la dal riekta. Valla gatjálvis badján jus galgajga dåjt nuppijt åhtsåmusájt aj giehtadallat? Sierraláhkáj usjudaláv jus li ráddjidum rudá massta åhtsi nav vaj dat vájkkut majt ietja oadtjoba, javllá <errorort correct="vuolepdirekterra" errorinfo="loan,vowc,ø-e">vuolepdirektørra</errorort> Tor Sande, Nordlánda fylkamánnen.</p>
 <p>– Åvddånammadus mierredij</p>
 <p>Divtasvuona suohkanoajvve Tor Asgeir Johansen sivádahttá Åvddånammadusáv ja Divtasvuona rádeålmmåv.</p>
-<p>– Mij ságastijma dan birra Åvddånammadusán ja aj <errorort correct="rádudijma" errorinfo="vowlat,á-u">rádádijma</errorort> rádeålmmåjn, ja de mierredijma måj ejma la belulattja giehtadallat <errorortreal correct="dåjt" errorinfo="coninit,g-d">gåjt</errorortreal> ietjá åhtsåmusájt. Dav ålles Åvddånammadus gávnadij, tjielggi Johansen.</p>
-<p>Valla sån vuojnná dálla <errormorphsyn correct="dát luluj unugis barggamvuohke" errorinfo="kongr">dát lulu unugis barggamvuohke</errormorphsyn>.</p>
+<p>– Mij ságastijma dan birra Åvddånammadusán <errorsyn correct="ja rádudijma aj rádeålmmåjn" errorinfo="wo">ja aj <errorort correct="rádudijma" errorinfo="vowlat,á-u">rádádijma</errorort> rádeålmmåjn</errorsyn>, ja de mierredijma måj ejma la belulattja giehtadallat <errorortreal correct="dåjt" errorinfo="coninit,g-d">gåjt</errorortreal> ietjá åhtsåmusájt. Dav ålles Åvddånammadus gávnadij, tjielggi Johansen.</p>
+<p>Valla sån vuojnná dálla <errormorphsyn correct="dát luluj unugis barggovuohke" errorinfo="kongr">dát lulu unugis <errorlex correct="barggovuohke" errorinfo="w">barggamvuohke</errorlex></errormorphsyn>.</p>
 <p>– Ittjij de dalloj biello skuola. Valla gå dån dálla gatjáda de máhttá dal dálla vuojnnet dáv unugis barggamvuohken.</p>
 <p>– Dádjada gus jus ulmutja dáv imájdalli?</p>
 <p>– Ja gå dal gæhttjap nav gåktu dådnå gatjáda de dav dádjadav. Dáv vierttip mij tjielgadit. Galggá máj liehket luohtádus gåktu mij foanndarudájt juohkep. Så dáv vierttip vas giehtadallat Åvddånammadusán, javllá Johansen.</p>
-<p>Filip Mikkelsen ij sidá ássjáj majdik moalgedit javllá sån SMS:a baktu <errorort correct="NRK:j" errorinfo="suf">NRK:aj</errorort>.</p>
-<p xml:lang="deu"><errormorphsyn correct="GULLDAL ÅLLES ÁSSJEV DÁNNA" errorinfo="x">GULLDAL ÅLLES ÁSSJEV DÁNNA</errormorphsyn>:</p>
+<p>Filip Mikkelsen ij sidá ássjáj majdik moalgedit javllá sån SMS:a baktu NRK:aj.</p>
+<p xml:lang="deu"><errormorphsyn correct="GULLDALA ÅLLES ÁSSJEV DÁNNA" errorinfo="x">GULLDAL ÅLLES ÁSSJEV DÁNNA</errormorphsyn>:</p>
 </body></document>

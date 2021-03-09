@@ -1,13 +1,15 @@
 <document xml:lang="smj" id="no_id"><header><title>Sierralágálasj vuodogiergge</title><genre code="news"/><author><person firstname="Harriet" lastname="Aira" sex="f" born="" nationality="nor"/></author><year>2012</year><publChannel><publication><publisher>NRK Sápmi</publisher></publication></publChannel><wordcount>150</wordcount><conversion_status type="correct"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@it.no"/><origFileName>http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.8342316</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><errorort correct="Sierralágásj" errorinfo="mix">Sierralágálasj</errorort> vuodogiergge</p>
 <p>Dát la Árran - julevsáme guovdátja vuodogiergge,<errorsyn correct="ij la rávvis giergge" errorinfo="missing">ij rávvis giergge</errorsyn> nav gåk dábálattjat vuodogiergge le.</p>
-<p><errorlang correct="nor">Foto</errorlang>: Harrieth Aira/NRK Dán jage la 20 jage dat rájes gå vuodogiergge Árran, julevsáme guovdátjij, Divtasvuonan biejaduváj drådnik Sonjas.</p>
+<p><errorlang correct="nor">Foto</errorlang>: Harrieth Aira/NRK</p>
+<p>Dán jage la 20 jage dat rájes gå vuodogiergge Árran, julevsáme guovdátjij, Divtasvuonan biejaduváj drådnik Sonjas.</p>
 <p>Harrieth Aira <errorlang correct="url">harrieth.aira@nrk.no</errorlang></p>
 <p>– Dát lij sierralágásj hávsskes dáhpádus, javllá Árrana udnásj hoajddár Oddmund Paulsen gut lij fáron gárvedime dán bæjvváj.</p>
 <p>Lågå aj: Gålmmå 20-jage ávvudime</p>
 <p>Árrana bargge, rádevadde Ragnhild Lien ja hoajddár Oddmund Paulsen vuosedibá Árran vuodogiergev.</p>
-<p><errorlang correct="nor">Foto</errorlang>: Harrieth Aira/NRK Ja dat mij lij viehka sierralágásj lij gå Árrana vuodogiergge ij lim dábálasj rávvis giergge.</p>
+<p><errorlang correct="nor">Foto</errorlang>: Harrieth Aira/NRK</p>
+<p>Ja dat mij lij viehka sierralágásj lij gå Árrana vuodogiergge ij lim dábálasj rávvis giergge.</p>
 <p>Sij gudi Árranav gárvedin sihtin farra gåvåstahttet vuodogiergev duojijn.</p>
 <p>MANEN DAV? <errormorphsyn correct="GULLDALA ÁSSJEV" errorinfo="x">GULLDAL ÁSSJEV</errormorphsyn> DÁNNA.</p>
 <p>Vuodogiergge</p>
-<p>Vuodogiergge la sierralágásj giergge mij biejaduvvá tsiekkadusá vuoduj vuostasj tsiekkadusá gierggen. Dat gåvvit <errorort correct="tsieggimbargo" errorinfo="vowc,i-ie">tsiggimbargo</errorort> álgov ja la álu allaájggásasj ja duodalasj dáhpádus gåsi guosse bivddiduvvi. Gærggáj biejaduvvi tjállusa ja dávvera (tjuorggama, biedniga, avijsa) diehton dat ájges gå tsiekkadus biggiduváj. (Gálldo:Wikipedia)</p>
+<p>Vuodogiergge <errormorphsyn correct="l" errorinfo="cop">la</errormorphsyn> sierralágásj giergge mij biejaduvvá tsiekkadusá vuoduj vuostasj tsiekkadusá gierggen. Dat gåvvit <errorort correct="tsieggimbargo" errorinfo="vowc,i-ie">tsiggimbargo</errorort> álgov ja la álu allaájggásasj ja duodalasj dáhpádus gåsi guosse bivddiduvvi. Gærggáj biejaduvvi tjállusa ja dávvera (tjuorggama, biedniga, avijsa) diehton dat ájges gå tsiekkadus biggiduváj. (Gálldo:Wikipedia)</p>
 </body></document>
