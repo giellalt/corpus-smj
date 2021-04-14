@@ -1,4 +1,4 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>163</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/getfile.php/644024.1172.rqqrxxbvee/Soknadskjema+barnehage-samisk.doc.as.pdf</origFileName><parallel_text xml:lang="nob" location="soknad_om_plass_i_barnehage.doc.as.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Divtasvuona Suohkan Bajássjaddam ja åhpadus 8590</p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>143</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/getfile.php/644024.1172.rqqrxxbvee/Soknadskjema+barnehage-samisk.doc.as.pdf</origFileName><parallel_text xml:lang="nob" location="soknad_om_plass_i_barnehage.doc.as.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Divtasvuona Suohkan Bajássjaddam ja åhpadus 8590</p>
 <p>Gásluokta</p>
 <p>Sisiválldem jagen Oajvvesisiválldem</p>
 <p><em type="bold">Åhtsåmus sajev mánájgárden </em></p>
@@ -10,8 +10,7 @@
 <p>Åvdep namma</p>
 <p>Le gus mánán máhttelisvuohta ståhkat sijda lahka?</p>
 <p>Le gus mánán ståhkam rádna?</p>
-<p><em type="bold">Máná </em><em type="bold">åvdåstiddje </em></p>
-<p>Sij/sån gen siegen mánná årru.</p>
+<p><em type="bold">Máná </em>mánná årru. </p>
 <p xml:lang="swe">Persåvnnånummar:</p>
 <p>Mañep namma</p>
 <p>Åvdep namma</p>
@@ -31,9 +30,6 @@
 <p>Telefåvnnå</p>
 <p>Iellemvuohke:  Válldum  Aktanårro Aktugasj</p>
 <p>Galla máná li familjan ja goassa li riegádam (jahke):</p>
-<p><em type="bold">Diedo manen </em><em type="bold">mánnáj sadje mánajgárden </em><em type="bold">åtsåduvvá. </em></p>
-<p><em type="bold">Diedo máná varresvuoda birra majt mánájgárdde bierri diehtet </em></p>
-<p><em type="bold">Ietjá diedo. </em></p>
 <p>Le gus mánná sajev adnám mánájgárden åvddåla? (Man guhkev):____________</p>
 <p>Goassátjis sadje mánájgárden åhtsåduvvá?_______________________________________</p>
 <p>Le gus mánán sadje mánájgárden dálla, makkir?________________________</p>
