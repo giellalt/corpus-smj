@@ -1,20 +1,20 @@
-<document xml:lang="smj" id="no_id"><header><title>Ságájdahttem Aline Mikkelsenijn</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>184</wordcount><conversion_status type="correct"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual/><origFileName>http://www.nord-salten.no/no/nyheter/samisk/s-g-jdahttem-aline-mikkelsenijn.4071</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Ájluovta skåvlå <errormorphsyn correct="8. klássagij baktu" errorinfo="case">8. klássaga baktu</errormorphsyn>: Silja Mikkelsen, Anders Kristian Kalstad ja Markus Mikkelsen</p>
+<document xml:lang="smj" id="no_id"><header><title>Ságájdahttem Aline Mikkelsenijn</title><genre code="news"/><author><person firstname="Sander" lastname="Andersen" sex="m" born="" nationality="nor"/></author><year>2006</year><publChannel><publication><publisher>Lokalavisa Nordsalten</publisher></publication></publChannel><wordcount>184</wordcount><conversion_status type="correct"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><multilingual/><origFileName>http://www.nord-salten.no/no/nyheter/samisk/s-g-jdahttem-aline-mikkelsenijn.4071</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Ájluovta skåvlå <errormorphsyn>8. klássaga baktu<correct errorinfo="case">8. klássagij baktu</correct></errormorphsyn>: Silja Mikkelsen, Anders Kristian Kalstad ja Markus Mikkelsen</p>
 <p>Ságájdahttem Aline Mikkelsenijn</p>
-<p>Aline Mikkelsen la njunnjusj siebren “Duodje <errorort correct="Nordlánnda" errorinfo="vowc,a-á">Nordlannda</errorort>”, ja la iesj duodjár. Sån årru <errorort correct="Ájluovtan" errorinfo="vowc,a-á">Ajluovtan</errorort> Divtasvuonan.</p>
-<p><errorsyn correct="Oanegis versjåvnnå" errorinfo="missing">Oanegis</errorsyn> dárogiellaj</p>
+<p>Aline Mikkelsen la njunnjusj siebren “Duodje <errorort>Nordlannda<correct errorinfo="vowc,a-á">Nordlánnda</correct></errorort>”, ja la iesj duodjár. Sån årru <errorort>Ajluovtan<correct errorinfo="vowc,a-á">Ájluovtan</correct></errorort> Divtasvuonan.</p>
+<p><errorsyn>Oanegis<correct errorinfo="missing">Oanegis versjåvnnå</correct></errorsyn> dárogiellaj</p>
 <p>Manen sihti dån duojijn álgget?</p>
-<p>-Mån ittjiv máhte majdik, ja danen <errormorphsyn correct="sihtiv ienebuv" errorinfo="case">sihtiv ienep</errormorphsyn> oahppat.</p>
+<p>-Mån ittjiv máhte majdik, ja danen <errormorphsyn>sihtiv ienep<correct errorinfo="case">sihtiv ienebuv</correct></errormorphsyn> oahppat.</p>
 <p>Majna lijkku buoremusát barggat? -Buoremusát lijkkuv sasnijn barggat.</p>
-<p>Manen dån <errorlex correct="ásada" errorinfo="w">aná</errorlex> duodjekursajt?</p>
-<p>-Danen gå dåssju gallegattja máhtti, ja <errorlex correct="váj" errorinfo="w">danen gå</errorlex> nuora aj galggi oahppat.</p>
-<p><errorort correct="Makkir" errorinfo="vowc,á-a">Mákkir</errorort> åhpadus la dujna?</p>
+<p>Manen dån <errorlex>aná<correct errorinfo="w">ásada</correct></errorlex> duodjekursajt?</p>
+<p>-Danen gå dåssju gallegattja máhtti, ja <errorlex>danen gå<correct errorinfo="w">váj</correct></errorlex> nuora aj galggi oahppat.</p>
+<p><errorort>Mákkir<correct errorinfo="vowc,á-a">Makkir</correct></errorort> åhpadus la dujna?</p>
 <p>-Guokta jage Sámij Álmmukallaskåvlån Jåhkåmåhken, ja de lav avtav jagev oahppam turisma birra. Duodden lav aj nágin unnep kursatjijt vádtsám.</p>
-<p>Daga <errorlex correct="gus" errorinfo="w">dån</errorlex> dåssju dábálasj duojev?</p>
+<p>Daga <errorlex>dån<correct errorinfo="w">gus</correct></errorlex> dåssju dábálasj duojev?</p>
 <p>-Iv.</p>
-<p>Mij mielastuhttá duv <errorort correct="ådådahkuj" errorinfo="conc,hkk-hk">ådådahkkuj</errorort>?</p>
-<p>-Árbbedáhpe muv <errorort correct="mielastuhttá" errorinfo="vowlat,a-á">mielastuhtta</errorort>.</p>
-<p>La gus duv mielas ájnas nuorajda <errorort correct="oassálasstet" errorinfo="vowc,a-á">oassalasstet</errorort> dán seminárraj?</p>
-<p>-Muv mielas la, danen gå <errormorphsyn correct="sij galggi oahpástuvvat sijájn gudi ságasti" errorinfo="x">sij galggin oahpástuvvat sijájn gudi ságasti</errormorphsyn>, ja galggi mielav oadtjot duodjáj.</p>
-<p>Le gus <errormorphsyn correct="juoga" errorinfo="case,acc-nom"><errorort correct="juojddá" errorinfo="conc,jd-jdd">juojdá</errorort></errormorphsyn> <errorort correct="ietján" errorinfo="vowlat,a-á">ietjan</errorort> majt sidá subtsastit duoje birra?</p>
-<p>-Duodje ij la dåssju gáppte ja nijbbe ja dakkira. Duodje aj <errormorphsyn correct="subtsas ålov" errorinfo="case">subtsas ållo</errormorphsyn> luondo birra. Dijá mielas ij la dávk nav suohtas dálla, valla muv mielas galgajda <errormorphsyn correct="astov váldet duodjuhittjat" errorinfo="x">astov váldet duodjuhit</errormorphsyn>.</p>
+<p>Mij mielastuhttá duv <errorort>ådådahkkuj<correct errorinfo="conc,hkk-hk">ådådahkuj</correct></errorort>?</p>
+<p>-Árbbedáhpe muv <errorort>mielastuhtta<correct errorinfo="vowlat,a-á">mielastuhttá</correct></errorort>.</p>
+<p>La gus duv mielas ájnas nuorajda <errorort>oassalasstet<correct errorinfo="vowc,a-á">oassálasstet</correct></errorort> dán seminárraj?</p>
+<p>-Muv mielas la, danen gå <errormorphsyn>sij galggin oahpástuvvat sijájn gudi ságasti<correct errorinfo="x">sij galggi oahpástuvvat sijájn gudi ságasti</correct></errormorphsyn>, ja galggi mielav oadtjot duodjáj.</p>
+<p>Le gus <errormorphsyn><errorort>juojdá<correct errorinfo="conc,jd-jdd">juojddá</correct></errorort><correct errorinfo="case,acc-nom">juoga</correct></errormorphsyn> <errorort>ietjan<correct errorinfo="vowlat,a-á">ietján</correct></errorort> majt sidá subtsastit duoje birra?</p>
+<p>-Duodje ij la dåssju gáppte ja nijbbe ja dakkira. Duodje aj <errormorphsyn>subtsas ållo<correct errorinfo="case">subtsas ålov</correct></errormorphsyn> luondo birra. Dijá mielas ij la dávk nav suohtas dálla, valla muv mielas galgajda <errormorphsyn>astov váldet duodjuhit<correct errorinfo="x">astov váldet duodjuhittjat</correct></errormorphsyn>.</p>
 </body></document>
