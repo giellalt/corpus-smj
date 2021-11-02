@@ -1,6 +1,6 @@
 <document xml:lang="smj" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>81</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.ajtte.com/samiska</origFileName><parallel_text xml:lang="eng" location="english.html"/><parallel_text location="deutsch.html" xml:lang="deu"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="swe">Ájtte – Svenskt Fjäll- och Samemuseum » Samiska</p>
-<p xml:lang="mrj">|</p>
-<p xml:lang="mrj">|</p>
+<p xml:lang="vep">|</p>
+<p xml:lang="vep">|</p>
 <list><p type="listitem" xml:lang="isl">Hem</p>
 <p type="listitem" xml:lang="swe">Besöka <list><p type="listitem" xml:lang="swe">Öppettider och priser</p>
 <p type="listitem" xml:lang="fkv">Hitta hit</p>
@@ -25,5 +25,5 @@
 <p type="listitem" xml:lang="swe">Om Ájtte <list><p type="listitem" xml:lang="deu">Kontakt</p>
 <p type="listitem" xml:lang="eng">Pressinformation</p>
 </list></p>
-</list><p xml:lang="mdf"/>
+</list><p xml:lang="tur"/>
 </body></document>
