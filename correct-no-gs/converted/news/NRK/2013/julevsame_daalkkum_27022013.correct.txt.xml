@@ -1,4 +1,4 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="news"/><author><unknown/></author><wordcount>308</wordcount><conversion_status type="correct-no-gs"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>– Vijmak julevsáme dålkkum Sámedikken</p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="news"/><author><unknown/></author><wordcount>301</wordcount><conversion_status type="correct-no-gs"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>– Vijmak julevsáme dålkkum Sámedikken</p>
 <p>Sámedikkeájras Kirsti Guvsám ávvus gå dálla <errormorphsyn>la<correct errorinfo="cop">l</correct></errormorphsyn> julevsáme dålkkå Sámedikken.</p>
 <p xml:lang="nob"><errorlang>Foto<correct>nor</correct></errorlang>: Dan Robert Larsen/NRK</p>
 <p>Sámedikkeájras Kirsti Guvsám la riek ávon gå Sámedikken vijmak la julevsáme dålkkumdievnastus sajen.</p>
@@ -7,7 +7,7 @@
 <p>Dán ideda gå sámedikkeájrrasa tjåhkanin ållestjåhkanibmáj <errorort>Kárášjogån<correct errorinfo="conwb,š-sj;vowc,o-å">Kárásjjågån</correct></errorort> de diededij Sámedikke tjåhkanimjådediddje Jarle Jonassen dálla l sihke nuortta- julev- ja oarjjelsámegiela dålkkumdievnastus sajen Sámedikken.</p>
 <p>– Miján la sihke nuorttasáme, julevsáme ja oarjjelsáme dålkkå dán ållestjåhkanimen, så sidjij gudi sihti ietjasa sámegielajt adnet de la dat dálla máhttelis, javlaj Jonassen.</p>
 <p>Åhtsålij julevsáme dålkkumdievnastusáv</p>
-<p>Vásse tjavtja <errormorphsyn>gulájma sámedikkeájras Kirsti Guvsám<correct errorinfo="case">gulájma sámedikkeájras Kirsti Guvsámav</correct></errormorphsyn> gut åhtsålij julevsáme dålkkumdievnastusáv Sámedikken.</p>
+<p>Vásse tjavtja gulájma sámedikkeájras Kirsti <errormorphsyn>Guvsám<correct errorinfo="case,nom-acc">Guvsámav</correct></errormorphsyn> gut åhtsålij julevsáme dålkkumdievnastusáv Sámedikken.</p>
 <p><errorort>Dalutjij<correct errorinfo="conc,l-ll">Dallutjij</correct></errorort> ij lim sierra julevsáme dålkkå Sámedikken, valla sij gudi dålkkuji nuorttasámegiellaj aj dålkkujin jus julevsámegiellaj håladuváj.</p>
 <p>– Mån sávav sierra julevsáme dålkåv. Sámedigge ham vuorddá háldadimsuohkana gudi li sámegiela háldadimguovlon galggi dievnastit sábmáj ietjasa addnijt, valla Sámedigge iesj ij la sæmmi tjiehppe dav fállat julevsámegiellaj ja oarjjelsámegiellaj, javlaj Guvsám dijmmá tjavtja.</p>
 <p>– Dát la buorre</p>
@@ -17,5 +17,5 @@
 <p>– Jus dal dålkkuduvvá julevsámegiellaj de máhtáv ham mån sámegielav oahppat navti. Ja munji aj sjaddá dálla máhttelis iehtja sámástit ja dat la buorre. Dat dal munji sjaddá hásstalussan gå iesj iv máhte julevsámegielav nav buoragit, valla dálla l gåjt munji máhttelis dav dahkat. Ja diehttelis de hæhttutjav de dálla sábmáj hållagoahtet, javllá Guvsám.</p>
 <p>Sån árvvet dát <errorort>dás-duohku<correct errorinfo="conc,s-sst;vowlat,0-a;cmp,hyph-X">dássta duohku</correct></errorort> sjaddá stuoves fálaldahkan.</p>
 <p>– Dát beras luluj juo láŋŋga <errorort>sjaen<correct errorinfo="typo">sajen</correct></errorort> ja diehttelis árvvedav dát sjaddá doajmmat juohkka bále gå midja tjåhkanip Sámedikken, dættot sån.</p>
-<p xml:lang="deu"><errormorphsyn>GULLDAL ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA<correct errorinfo="x">GULLDALA ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA</correct></errormorphsyn>:</p>
+<p xml:lang="deu"><errormorphsyn>GULLDAL<correct errorinfo="x">GULLDALA</correct></errormorphsyn> ÅLLES ÁSSJEV SÁMEGIELLAJ DÁNNA:</p>
 </body></document>

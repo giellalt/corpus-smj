@@ -1,4 +1,4 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="news"/><author><unknown/></author><wordcount>95</wordcount><conversion_status type="correct"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Dábálasj ávvudallam</p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="news"/><author><unknown/></author><wordcount>89</wordcount><conversion_status type="correct"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Dábálasj ávvudallam</p>
 <p>Sáme álmmukbiejvve ávvudaláduvvá Árran - julevsáme guovdátjin.</p>
 <p xml:lang="nno"><errorlang>Foto<correct>nor</correct></errorlang>: Harrieth Aira/NRK</p>
 <p><errorortreal>Julevsáme guovlon<correct errorinfo="cmp,X-1">Julevsámeguovlon</correct></errorortreal> ávvudalli biejvev dábálasj láhkáj. Divtasvuonan lij ávvudallam sihke Ájluovtan ja Gásluovtan.</p>
@@ -7,6 +7,6 @@
 <p xml:lang="nno"><errorlang>Foto<correct>nor</correct></errorlang>: Harrieth Aira/NRK</p>
 <p>Divtasvuonan lij <errorortreal>Oarjje Hålogalátte<correct errorinfo="cmp,X-hyph">Oarjje-Hålogalátte</correct></errorortreal> biskoahppa Tor B. Jørgensen gut hålaj gå ávvudallama álggin árabut Árran julevsáme guovdátjin, Ájluovtan Divtasvuonan.</p>
 <p>Julevsámij biskoahppa válljij dán jage ávvudallat biejvev julevsámij siegen.</p>
-<p>Idedis vuostak Oppájden, Hábmerin, <errorsyn>das maŋŋáj<correct errorinfo="w">maŋŋela</correct></errorsyn> vas Ájluovtan, Árranin ja gå danna gergaj de vuolgij vuonav rastá, Gásluoktaj danna hålatjit.</p>
-<p xml:lang="deu"><errormorphsyn>GULLDAL ÅLLES TOR B. JØRGENSENA HÅLAV DÁNNA<correct errorinfo="x">GULLDALA ÅLLES TOR B. JØRGENSENA HÅLAV DÁNNA</correct></errormorphsyn>:</p>
+<p>Idedis vuostak Oppájden, Hábmerin, das maŋŋáj vas Ájluovtan, Árranin ja gå danna gergaj de vuolgij vuonav rastá, Gásluoktaj danna hålatjit.</p>
+<p xml:lang="deu"><errormorphsyn>GULLDAL<correct errorinfo="x">GULLDALA</correct></errormorphsyn> ÅLLES TOR B. JØRGENSENA HÅLAV DÁNNA:</p>
 </body></document>

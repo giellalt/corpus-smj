@@ -1,4 +1,4 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="news"/><author><unknown/></author><wordcount>472</wordcount><conversion_status type="correct"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Lijga åhttse ja sæmmi bále juogadijga rudájt</p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="news"/><author><unknown/></author><wordcount>453</wordcount><conversion_status type="correct"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Lijga åhttse ja sæmmi bále juogadijga rudájt</p>
 <p><errorort>Fylkamánne<correct errorinfo="conc,lk-lkk">Fylkkamánne</correct></errorort> gatját dågålasjvuoda birra Divtasvuona åvddånammadusán.</p>
 <p xml:lang="nno"><errorlang>Foto<correct>nor</correct></errorlang>:Sander Andersen/NRK</p>
 <p>Guokta Divtasvuona suohkanpolitihkkára háldadijga biednikfåndav gånnå ietja lijga åhttse. Sæmmi båttå gå ietja lijga åhttse de mierredijga gilpustiddjij åhtsåmusájt. Nordlánda fylkamánne gatját jus dát la dågålasj barggamvuohke.</p>
@@ -9,8 +9,8 @@
 <p>Goappátja lijga rudájt åhtsåm vidnudagáj åvdås gånnå såj libá njunnjusattja. Johansen ja Mikkelsen sárnojga ietjasa belulattjan gå sunnu åhtsåmusá mierreduvvin, valla lijga fáron mierredime dåjt ietjá åhtsåmusájt ma gilpustin dáj ruhtajuollodimij.</p>
 <p xml:lang="nob">Lågå aj: <errorlang>Stiller spørsmål ved pengebevilgnin<correct>nor</correct></errorlang></p>
 <p>Ietjanis berustime</p>
-<p>Jagen 2011 ásadij Divtasvuona suohkan fåndav mij rudájt oadtju <errormorphsyn>daj guokta luossabiebbmamvidnudagájs<correct errorinfo="kongr">dat guovtet luossabiebbmamvidnudagás</correct></errormorphsyn> ma li Divtasvuonan.</p>
-<p>Fånda sisboahto l <errormorphsyn>akta millijåvnnå kråvnnå<correct errorinfo="num,kongr">akta millijåvnnå kråvnå</correct></errormorphsyn> jahkáj <errormorphsyn>goabbák <errorort>viddnudagájs<correct errorinfo="conc,ddn-dn">vidnudagájs</correct></errorort><correct errorinfo="kongr">goabbák vidnudagás</correct></errormorphsyn> ja vihpá gålmmå jage.</p>
+<p>Jagen 2011 ásadij Divtasvuona suohkan fåndav mij rudájt oadtju <errormorphsyn>daj<correct errorinfo="kongr,num">dat</correct></errormorphsyn> <errormorphsyn>guokta<correct errorinfo="kongr,num">guovtet</correct></errormorphsyn> <errormorphsyn>luossabiebbmamvidnudagájs<correct errorinfo="kongr,num">luossabiebbmamvidnudagás</correct></errormorphsyn> ma li Divtasvuonan.</p>
+<p>Fånda sisboahto l akta millijåvnnå <errormorphsyn>kråvnnå<correct errorinfo="num,kongr">kråvnå</correct></errormorphsyn> jahkáj goabbák <errormorphsyn><errorort>viddnudagájs<correct errorinfo="conc,ddn-dn">vidnudagájs</correct></errorort><correct errorinfo="x">vidnudagás</correct></errormorphsyn> ja vihpá gålmmå jage.</p>
 <p>Suohkanoajvve Tor Asgeir Johansen.</p>
 <p><errorlang>Foto<correct>nor</correct></errorlang>: Sander Andersen/NRK Suohkana åvddånammadus fåndav háldat.</p>
 <p>Suohkanoajvve Tor Asgeir Johansen åtsåj dijmmá rudájt dát fåndas ietjas vidnudahkaj Kjøpsvik Eiendom AS máksemterminálav divudalátjit. Kjøpsvik Eiendom AS 40 00 kråvnå oattjoj dan ulmmáj.</p>
@@ -20,14 +20,14 @@
 <p>Mikkelsen sárnoj ietjas belulattjan dåssju gå åhtsåmus suv vidnudagás giehtadaláduváj. Ietján lij maŋen rudájt juohkemin jali hilggomin nuppe åhttsijda.</p>
 <p>Imájdallá <errorlex>barggamvuogev<correct errorinfo="w">barggovuogev</correct></errorlex></p>
 <p>Nordlánda fylkamánnen imájdalli dáv <errorlex>barggamvuogev<correct errorinfo="w">barggovuogev</correct></errorlex>.</p>
-<p>– <errormorphsyn>Dádjadav dal sunnun gudi ietja lijga åhtsåm rudájt fåndas<correct errorinfo="case,ine-nom">Dádjadav dal såj gudi ietja lijga åhtsåm rudájt fåndas</correct></errormorphsyn> ejga la fáron mierredime gå jur sunnu åhtsåmusá giehtadaláduvvin. Dat la dal riekta. Valla gatjálvis badján jus galgajga dåjt nuppijt åhtsåmusájt aj giehtadallat? Sierraláhkáj usjudaláv jus li ráddjidum rudá massta åhtsi nav vaj dat vájkkut majt ietja oadtjoba, javllá <errorort>vuolepdirektørra<correct errorinfo="loan,vowc,ø-e">vuolepdirekterra</correct></errorort> Tor Sande, Nordlánda fylkamánnen.</p>
+<p>– Dádjadav dal <errormorphsyn>sunnun<correct errorinfo="case,ine-nom">såj</correct></errormorphsyn> gudi ietja lijga åhtsåm rudájt fåndas ejga la fáron mierredime gå jur sunnu åhtsåmusá giehtadaláduvvin. Dat la dal riekta. Valla gatjálvis badján jus galgajga dåjt nuppijt åhtsåmusájt aj giehtadallat? Sierraláhkáj usjudaláv jus li ráddjidum rudá massta åhtsi nav vaj dat vájkkut majt ietja oadtjoba, javllá <errorort>vuolepdirektørra<correct errorinfo="loan,vowc,ø-e">vuolepdirekterra</correct></errorort> Tor Sande, Nordlánda fylkamánnen.</p>
 <p>– Åvddånammadus mierredij</p>
 <p>Divtasvuona suohkanoajvve Tor Asgeir Johansen sivádahttá Åvddånammadusáv ja Divtasvuona rádeålmmåv.</p>
 <p>– Mij ságastijma dan birra Åvddånammadusán <errorsyn>ja aj <errorort>rádádijma<correct errorinfo="vowlat,á-u">rádudijma</correct></errorort> rádeålmmåjn<correct errorinfo="wo">ja rádudijma aj rádeålmmåjn</correct></errorsyn>, ja de mierredijma måj ejma la belulattja giehtadallat <errorortreal>gåjt<correct errorinfo="coninit,g-d">dåjt</correct></errorortreal> ietjá åhtsåmusájt. Dav ålles Åvddånammadus gávnadij, tjielggi Johansen.</p>
-<p>Valla sån vuojnná dálla <errormorphsyn>dát lulu unugis <errorlex>barggamvuohke<correct errorinfo="w">barggovuohke</correct></errorlex><correct errorinfo="kongr">dát luluj unugis barggovuohke</correct></errormorphsyn>.</p>
+<p>Valla sån vuojnná dálla dát <errormorphsyn>lulu<correct errorinfo="kongr,cond">luluj</correct></errormorphsyn> unugis <errorlex>barggamvuohke<correct errorinfo="w">barggovuohke</correct></errorlex>.</p>
 <p>– Ittjij de dalloj biello skuola. Valla gå dån dálla gatjáda de máhttá dal dálla vuojnnet dáv unugis barggamvuohken.</p>
 <p>– Dádjada gus jus ulmutja dáv imájdalli?</p>
 <p>– Ja gå dal gæhttjap nav gåktu dådnå gatjáda de dav dádjadav. Dáv vierttip mij tjielgadit. Galggá máj liehket luohtádus gåktu mij foanndarudájt juohkep. Så dáv vierttip vas giehtadallat Åvddånammadusán, javllá Johansen.</p>
 <p>Filip Mikkelsen ij sidá ássjáj majdik moalgedit javllá sån SMS:a baktu NRK:aj.</p>
-<p xml:lang="deu"><errormorphsyn>GULLDAL ÅLLES ÁSSJEV DÁNNA<correct errorinfo="x">GULLDALA ÅLLES ÁSSJEV DÁNNA</correct></errormorphsyn>:</p>
+<p xml:lang="deu"><errormorphsyn>GULLDAL<correct errorinfo="x">GULLDALA</correct></errormorphsyn> ÅLLES ÁSSJEV DÁNNA:</p>
 </body></document>

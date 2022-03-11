@@ -1,9 +1,9 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="news"/><author><unknown/></author><wordcount>189</wordcount><conversion_status type="correct"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Hálijda gus journalisstan jali gåvvididdjen barggat?</p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="news"/><author><unknown/></author><wordcount>171</wordcount><conversion_status type="correct"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Hálijda gus journalisstan jali gåvvididdjen barggat?</p>
 <p xml:lang="sme">NRK <errorort>Sámi<correct errorinfo="vowlat">Sáme</correct></errorort> oahppehárjjidalle jn. 2012/13. <errorortreal>Gåro bieles<correct errorinfo="cmp,X-1">Gårobieles</correct></errorortreal> Maret Inga Smuk, Maren Inga Baer, Maija Holm Balto ja Vaino Rensberg</p>
 <p xml:lang="nob"><errorlang>Foto<correct>nor</correct></errorlang>: Berit Nystad/NRK</p>
 <p>Dála l máhttelisvuohta journalisstan barggat.</p>
 <p xml:lang="nno">Harrieth Aira <errorlang>harrieth.aira@nrk.no<correct>url</correct></errorlang></p>
-<p><errormorphsyn>Ragátmáno 2. biejve rájes la nælljásijda máhttelisvuohta oadtjot mediaåhpadusáv<correct errorinfo="x">Ragátmáno 2. biejve rájes la nælljásij máhttelisvuohta oadtjot mediaåhpadusáv</correct></errormorphsyn> NRK Sámen guhtta máno.</p>
+<p>Ragátmáno 2. biejve rájes la <errorlex>nælljásijda<correct>nælljásij</correct></errorlex> máhttelisvuohta oadtjot mediaåhpadusáv NRK Sámen guhtta máno.</p>
 <p>Åhpadus bálkájn</p>
 <p>Åhpadusán la sihke <errorort>teorija<correct>teorijja</correct></errorort> ja barggohárjjidallam.</p>
 <p>Hárjjidallamájgen oadtju oahppe bálkáv ja gå ållim la hárjjidallamåsijn máhttá oahppe duodden oadtjot 50 000 kråvnå stipænndan jus vállji media- ja journalisstaåhpadusán joarkket.</p>
@@ -12,8 +12,8 @@
 <p xml:lang="nob"><errorlang>Foto<correct>nor</correct></errorlang>: Berit Nystad/NRK</p>
 <p>Maŋŋel hárjjidallamájge galggá oahppen liehket buorre máhttelisvuohta bessat media -ja journalisstafágalasj åhpadusájda álgget.</p>
 <p>Oahppehárjjidallam le NRK Sáme oajvvedåjmadusán <errorort>Kárášjågån<correct errorinfo="conwb,š-sj">Kárásjjågån</correct></errorort></p>
-<p><errorsyn>Oahppe vierttiji ållim joarkkaskåvlåjn jali muodugasj máhtudahka<correct errorinfo="missing">Oahppe vierttiji ållim joarkkaskåvlåjn jali viertti siján liehket muodugasj máhtudahka</correct></errorsyn>.</p>
-<p><errormorphsyn>Gájbbeduvvá aj buorre sámegielmáhtudahka, sihke tjálalasj ja njálmálasj<correct errorinfo="x">Gájbbeduvvá aj buorre sámegielmáhtudahka, sihke tjálalattjat ja njálmálalattjat</correct></errormorphsyn>.</p>
+<p>Oahppe vierttiji ållim joarkkaskåvlåjn <errorsyn>jali muodugasj máhtudahka<correct errorinfo="missing">jali de viertti siján liehket muodugasj máhtudahka</correct></errorsyn>.</p>
+<p>{Gájbbeduvvá aj buorre sámegielmáhtudahka, sihke <errormorphsyn>tjálalasj<correct errorinfo="x">tjálalattjat</correct></errormorphsyn> ja <errormorphsyn>njálmálasj<correct errorinfo="x">njálmálalattjat</correct></errormorphsyn>.</p>
 <p>NRK Sábme sávvá ja ávttji åhttsijt ålles Nuorttarijkas åhtsåt oahppehárjjidallamvirgijda.</p>
 <p>Åhtsåmájggemierre la vuoratjismáno 30. biejve.</p>
 <p>Ienep diedojt dánna gávna: www.nrk.no/stillinger jali jus riŋŋgu NRK Sábmáj, tlf. 78 46 92 00.</p>

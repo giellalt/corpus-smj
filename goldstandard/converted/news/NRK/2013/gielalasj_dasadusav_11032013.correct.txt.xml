@@ -1,4 +1,4 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="news"/><author><unknown/></author><wordcount>116</wordcount><conversion_status type="correct"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Åhtsål gielalasj <errorort>dásádusáv<correct errorinfo="conc,s-ss">dássádusáv</correct></errorort></p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="news"/><author><unknown/></author><wordcount>108</wordcount><conversion_status type="correct"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Åhtsål gielalasj <errorort>dásádusáv<correct errorinfo="conc,s-ss">dássádusáv</correct></errorort></p>
 <p xml:lang="nno">Ingrid Kintel.</p>
 <p xml:lang="nno"><errorlang>Foto<correct>nor</correct></errorlang>: Harrieth Aira/NRK</p>
 <p>Nissunbiejve snjuktjamáno gávtsát biejve hålaj Ingrid Kintel, Divtasvuonas gielalasj <errorort>dásádusá<correct errorinfo="conc,s-ss">dássádusá</correct></errorort> birra majt sån åhtsål <errorlex>suv<correct errorinfo="w,pers-refl">ietjas</correct></errorlex> bájkálasj sebrudagán.</p>
@@ -9,6 +9,6 @@
 <p xml:lang="nno"><errorlang>Foto<correct>nor</correct></errorlang>: Harrieth Aira/NRK</p>
 <p>Lågå aj: Mujttádahtti nissunbiejvev</p>
 <p>Åtsådaláj moattegielakvuodav <errorlex>Afrikan<correct errorinfo="loan">Afrihkán</correct></errorlex></p>
-<p>Gå åhpadiddjáj lågåj de Ingrid Kintel åtsådaláj gielalasj moattebelakvuodajt mij vájkkudij gåktu sån dálla gæhttjá ietjas giellasebrudagáv Divtasvuonan. Gåktu - <errormorphsyn>gulldal dánna vuollelin<correct errorinfo="x">gulldala dánna vuollelin</correct></errormorphsyn> .</p>
-<p xml:lang="deu"><errormorphsyn>GULLDAL OASEV INGRID KINTELA HÅLAS DÁNNA<correct errorinfo="x">GULLDALA OASEV INGRID KINTELA HÅLAS DÁNNA</correct></errormorphsyn></p>
+<p>Gå åhpadiddjáj lågåj de Ingrid Kintel åtsådaláj gielalasj moattebelakvuodajt mij vájkkudij gåktu sån dálla gæhttjá ietjas giellasebrudagáv Divtasvuonan. Gåktu - <errormorphsyn>gulldal<correct errorinfo="x">gulldala</correct></errormorphsyn> dánna vuollelin.</p>
+<p xml:lang="deu"><errormorphsyn>GULLDAL<correct errorinfo="x">GULLDALA</correct></errormorphsyn> OASEV INGRID KINTELA HÅLAS DÁNNA</p>
 </body></document>
