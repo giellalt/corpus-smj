@@ -1,4 +1,4 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1006</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>https://www.regjeringen.no/contentassets/caefd134cb2a4891a885b5a8cb79724f/brosjyre_h2344_lulesamisk.pdf</origFileName><parallel_text xml:lang="eng" location="brosjyre_h2344_engelsk.pdf"/><parallel_text xml:lang="nno" location="brosjyre_h2344_nynorsk.pdf"/><parallel_text xml:lang="nob" location="brosjyre_h2344_bokmal.pdf"/><parallel_text xml:lang="sma" location="brosjyre_h2344_sorsamisk.pdf"/><parallel_text xml:lang="sme" location="brosjyre_h2344_nordsamisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Julevsábmáj | Lulesamisk</p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1004</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>https://www.regjeringen.no/contentassets/caefd134cb2a4891a885b5a8cb79724f/brosjyre_h2344_lulesamisk.pdf</origFileName><parallel_text xml:lang="eng" location="brosjyre_h2344_engelsk.pdf"/><parallel_text xml:lang="nno" location="brosjyre_h2344_nynorsk.pdf"/><parallel_text xml:lang="nob" location="brosjyre_h2344_bokmal.pdf"/><parallel_text xml:lang="sma" location="brosjyre_h2344_sorsamisk.pdf"/><parallel_text xml:lang="sme" location="brosjyre_h2344_nordsamisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Julevsábmáj | Lulesamisk</p>
 <p><em type="bold">Suohkanstivrra- ja fylkadiggeválgga 2015 </em></p>
 <p>Válgan válljip ájrrasijt suohkanstivrraj ja fylkadiggáj.</p>
 <p><em type="bold">Suohkanstivrra </em>le suohkana alemus orgádna. Danna mierreduvvá bájkálasj ássjij hárráj degu mánájgárdde, mánájsuodjalibme, pládna- ja areállagatjálvisá, vuodoskåvllå, varresvuoda- ja huksodievnastusá, kulturdåjma ja renovasjåvnnå. </p>
@@ -35,8 +35,7 @@
 <p xml:lang="nob"><em type="bold">Brett </em>stemmeseddelen med farget side ut.felt for ev. stemmeseddelnr </p>
 <p xml:lang="nob"><em type="bold">Se veiledning </em></p>
 <p xml:lang="ita"><em type="bold">Parti </em></p>
-<p xml:lang="fin">Kommunestyrevalget</p>
-<p xml:lang="olo">K <em type="bold">1. </em></p>
+<p xml:lang="fin">Kommunestyrevalget <em type="bold">1. </em></p>
 <p xml:lang="vep"><em type="bold">Kandidat </em><em type="bold">2. </em></p>
 <p xml:lang="vep"><em type="bold">Kandidat </em><em type="bold">3. </em></p>
 <p xml:lang="vep"><em type="bold">Kandidat </em>4. </p>
@@ -62,7 +61,7 @@
 <p>Jus sidá vájkkudahttet guhtimuttja kandidáhtajs válljiduvvi, de viertti duoddejienav kandidáhtajda vaddet. Ietjat duogen le jus sidá jienastimlistav rievddadit duoddejienaj baktu.</p>
 <p>Ale balá rievddadimes. Gåktu dagá vuojná jienastimlistan. Jienastibme ij hilgoduvá vájku boasstot dagá!</p>
 <p><em type="bold">Dán láhkáj vattá duoddejienav: </em></p>
-<p><em type="bold">Suohkanstivrraválgan: 1) </em>Bieja ruossav ruktuj dan kandidáhta namá guorraj gev jienasta. Máhtá vaddet duoddejienav man moaddásijda sidá. <em type="bold">2) </em>Tjále kandidáhtaj namájt ietjá bel udagájs/ juohkusijs sierra sadjáj jienastimlistan. Jienastimlistan tjuodtju gallásav máhtá tjállet. </p>
+<p><em type="bold">Suohkanstivrraválgan: 1) </em>Bieja ruossav ruktuj dan kandidáhta namá guorraj gev jienasta. Máhtá vaddet duoddejienav man moaddásijda sidá. <em type="bold">2) </em>Tjále kandidáhtaj namájt ietjá belludagájs/ juohkusijs sierra sadjáj jienastimlistan. Jienastimlistan tjuodtju gallásav máhtá tjállet. </p>
 <p>Jus vattá duoddejienav muhtem kandidáhttaj ietjá belludagájs/juohkusijs, de muhtem oasse duv jienastimes sirdeduvvá dan belludahkaj/juohkusij.</p>
 <p xml:lang="sme"><em type="bold">Fylkadiggeválgan: </em></p>
 <p>Bieja ruossav ruktuj dan kandidáhta namá guorraj gev jienasta. Máhtá vaddet duoddejienav man moaddásijda sidá.</p>
