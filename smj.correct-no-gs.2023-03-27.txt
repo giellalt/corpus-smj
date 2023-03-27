@@ -1,0 +1,2862 @@
+----------
+Test 1/281: Dålusj kriminalsubtsas Forsanjávres
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  1/281][PASS tn] : (, ()) => :[] ()
+Test 1 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 2/281: Dálla le Árran barggamin duodastimprosjevtajn mij guosská muhtem dáhpádussaj Forsanjávren Stájgo suohkanin. Sámedigge le prosjevtav álgadam ja dat le ruhtaduvvam Nuortta-Sálto fábmudakásadusás.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  2/281][PASS tp] le:l (cop, (cop)) => le:[l] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  2/281][PASS tp] le:l (cop, (cop)) => le:[l] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  2/281][FAIL fp2] : (, ()) => le:[la] (syn-from-sentence-init-copula)
+Test 2 - Passes: 2, Fails: 1, Total: 3
+
+----------
+Test 3/281: Subtsas Tjáhppis-Ámmá ja Boatsoj-Piera birra ájgenis tjuorgaduváj ja subtsastaláduváj muhtem Hábmera tjoaggulvistjállagin – dassta le dát tjuorggam viettjaduvvam.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  3/281][PASS tp] le:l (cop, (cop)) => le:[l] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  3/281][FAIL fn2] tjuorggam:tjuorgas (w, (w)) => :[] ()
+Test 3 - Passes: 1, Fails: 1, Total: 2
+
+----------
+Test 4/281: Moatten sajen Nuortta-Sálton subtsastaláduvvá guovte ælloniehke birra gudi juo?ga boatsojsujtto ássje diehti rijddalatjájga. Ja nav de «Tjáhppis-Ámmá» rijddalattijn «Boatsoj-Pierav» gåttij. Subttsasa milta dáhpáduváj dát Forsanjávren udnásj Stájgo suohkanin, Hábmera suohkanrájá lahka. Javllin Boatsoj-Piera dåhku hávddáduváj, njárggaj man namma le vil uddnik Boatsoj-Pieranjárgga. Subttsasa milta dáhpáduváj dát guokta- gålmmåtjuohte jage dás åvddåla.  Dán «Tjáhppis-Ámmá» birra li moadda subttsasa, ja akta dájs vuoset Ámmá viesoj 1800-lågo álgon. Dallusj sijddaæjgáda Forsanin lijga Lars Hansen ja suv áhkká Barbro. Akti aktan manájga bajás Forsanjávrráj biessitjit. Gå dåhku jåvsådijga, de vuojnijga soames lij juo dåppe biessimin mannam. «Dánna l de Tjáhppis-Ámmá læhkám», lij Lars Hansen javllam. Gå lij sunnu miehttse, de Lars ja Barbro váldijga dav biessev mij lij juo njaldedum ja vuossajdisá tsåkkåjga. Jur gå Lars lij biessijt vuossaj tsåggåm, de lamsedij Tjáhppis-Ámmá miehtses – nijbbe giedan. Lars Hansen de áksjov doahppij vuosstálastátjit, ja de Tjáhppis-Ámmá vas mæhttsáj bádan manáj.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  4/281][PASS tp] le:l (cop, (cop)) => le:[l] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  4/281][FAIL fp2] : (, ()) => gudi:[gut, guhti, guhtis] (msyn-congr-ma-mij)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  4/281][FAIL fp2] : (, ()) => «:[”] (punct-aistton-both)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  4/281][FAIL fp2] : (, ()) => »:[”] (punct-aistton-both)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  4/281][FAIL fp2] : (, ()) => «:[”] (punct-aistton-both)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  4/281][FAIL fp2] : (, ()) => »:[”] (punct-aistton-both)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  4/281][FAIL fp2] : (, ()) => :[. Dán] (double-space-before)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  4/281][FAIL fp2] : (, ()) => «:[”] (punct-aistton-both)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  4/281][FAIL fp2] : (, ()) => »:[”] (punct-aistton-both)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  4/281][FAIL fp2] : (, ()) => «:[”] (punct-aistton-left)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  4/281][FAIL fp2] : (, ()) => »:[”] (punct-aistton-right)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  4/281][FAIL fn2] boatsojsujtto ássje:boatsojsujttoássje (cmp,2-1, (cmp,2-1)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  4/281][FAIL fn2] vuossajdisá:vuossajdiseska (case, (case)) => :[] ()
+Test 4 - Passes: 1, Fails: 12, Total: 13
+
+----------
+Test 5/281: Lars Hansen ja Barbro Olsdatter lijga sijdaæjgáda Forsanin jages 1817 gitta jahkáj 1841, ja danen le árvvedahtte dát dáhpáduváj dán ájgegávdan, jáhkedahtte soames jagen 1820 jagij birán.  Råmså Dávvervuorkká, Universitehta-dávvervuorkká guoradaláj Boatsoj-Pieranjárgav jagen 2006, valla ettjin hávddebátsidisájt gávna. Muhtem diehtovadde subtsas hávdde le rabáduvvam ja bátsidisá gádoduvvam.  Gåsi gálmme gádoj? Le gus ajtu goassak læhkám gálmme Boatsoj-Pieranjárgan? Gåttij gus Tjáhppis-Ámmá Boatsoj-Pierav, ja duobbmidaláj gus Tjáhppis-Ámmá vierredagos diehti jus dal ajtu lij nav? Manen e ulmutja gudi idjadi Forsanjávren, idjaráfev oattjo?  Stáhtavuorká riektáprotokollajn åhtsåt, diehtovaddij ságastallat ja aj ietjá njálmálasj gáldoj baktu galggá Árran gæhttjalit jus le máhttelis subttsasav duodastit. Åtsådit mij le sádnes ja mij le duoddiduvvam ulmutjijs ájgij miehtáj? Gatjálvis le mij ajtu dáhpáduváj dåppe Forsanjávren?
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  5/281][PASS tp] le:l (cop, (cop)) => le:[l] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  5/281][FAIL fp2] : (, ()) => le:[li, la] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  5/281][FAIL fp2] : (, ()) => :[. Råmså] (double-space-before)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  5/281][FAIL fp2] : (, ()) => :[. Gåsi] (double-space-before)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  5/281][FAIL fp2] : (, ()) => :[? Stáhtavuorká] (double-space-before)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  5/281][FAIL fp2] : (, ()) => le:[la] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  5/281][FAIL fp2] : (, ()) => le:[la] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  5/281][FAIL fp2] : (, ()) => le:[li, la] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  5/281][FAIL fp2] : (, ()) => le:[la] (syn-from-sentence-init-copula)
+Test 5 - Passes: 1, Fails: 8, Total: 9
+
+----------
+Test 6/281: Jårggålibme: Lars Theodor Kintel
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/daalusj_kriminalsubtsas_310307.correct.txt.xml
+[  6/281][PASS tn] : (, ()) => :[] ()
+Test 6 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 7/281: Divtasvuona stuorámus dáhpádus dán giese lij Måsken, tjáppa Hellmåvvån, Oarjje-vuonan. Måsskåj tjåhkanaddi ulmutja mierredittjat dán jagásj «rámpon ja guddnen».
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[  7/281][FAIL fp2] : (, ()) => «:[”] (punct-aistton-left)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[  7/281][FAIL fp2] : (, ()) => »:[”] (punct-aistton-right)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[  7/281][FAIL fn2] Oarjje-vuonan:Oarjjevuonan (cmp,hyph-0, (cmp,hyph-0)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[  7/281][FAIL fn2] rámpon:rámmpon (case,ine-ess, (case,ine-ess)) => :[] ()
+Test 7 - Passes: 0, Fails: 4, Total: 4
+
+----------
+Test 8/281: Báhtjajn li guhtta tjiektjamjuohkusa; Måsske, Sisgiehtje, Tjieloabme, Davvegiehtje/Gállá, Bjørkvijkka ja Rudnávuodna. Næjttsotjiektjijs ællim nav moattes, ja siján lidjin njiellja juohkusa: Måsske, Sisgiehtje, Bjørkvijkka ja Davvegiehtje/Tjieloabme. Divna tjiektje tjiektjin juohkusin masi iehtja gullujin.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[  8/281][FAIL fn2] iehtja:ietja (conc,htj-tj, (conc,htj-tj)) => :[] ()
+Test 8 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 9/281: Bierjjedagá sjnjilltjamáno 20. biejve álgij cuhppa, ja hiejtij lávvodak iehkeda. Unnemusájn lidjin iehtjasa tjiektjamjuohkusa. Gålmmå sierra juohkusa; 0 – 8 jagágijda, 9 – 12 jagágijda ja 12 – 15 jagágijda. Dajn tjiektji báhtja ja næjtso aktan, ja juogaduvvin Sisgiehtje- ja Davvegiehtjejuohkusijda. Dálkke ij lim nav buorre, rássjudaláj. Berustiddje tjuodtjun danen dæhkko vuolen, ja ettjin tjuorvuda nav ålov dán jage gå åvdep jagijt li dahkam. Valla Tjieloabme-juohkusa bælostiddje galla tjuorvudin, ja sij lidjin dahkam sierra ”bannerav” nissunfinála aktijvuodan.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[  9/281][FAIL fn2] juogaduvvin:juogeduvvin (vowlat, (vowlat)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[  9/281][FAIL fn2] gå åvdep:gå majt åvdep (missing, (missing)) => :[] ()
+Test 9 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 10/281: Kafean oattjojma biebmojt oasstet. Dasi aj ulmutja mannin jus goallujin. Gå iehkeduváj dållijin stuorra låvdågoaden, ja ulmutja dåhku tjåhkanin. Lars Andreassenin lij gitára ma?en, ja lávloj lávllagav ”Dålusj giessesijdda” ja ”Biegga”. Bieggalávllagin lij aj tjåttålávla, mij lij riek ”tøffa”. Le oalle hávsske stuorlåvdagoaden tjåhkudallat. Nav hávsske le tjåhkudallat danna ja gehtjadit gå dållå gærssul, gehtjadit ulmutjijda, ja gulldalit gå lávludi ja subtsastalli. Gullu dagu sijdan. Oattjojma aj káfav ja sáftav juhkat ja sáme gáhkov ja berunlastajt bårråt.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 10/281][FAIL fp2] : (, ()) => lij:[lidjin] (syn-number_congruence-subj-verb)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 10/281][FAIL fp2] : (, ()) => le:[li, l] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 10/281][FAIL fn2] gitára:gitárra (loan,conc,r-rr, (loan,conc,r-rr)) => :[] ()
+Test 10 - Passes: 0, Fails: 3, Total: 3
+
+----------
+Test 11/281: Finála tjadáduvvin lávvodagá gietja bájken iehkedis. Vuostasj nissunfinála Tjieloame/Davvegietje ja Måske gaskan. Tjieloabme/Davvegiehtje vuojtij 6-1 Måske badjel. Tjieloamegij/Davvegietjegij Aina Olsen njiellji viermev dejvaj, Maila Viljakainen akti ja Rachel Nergård akti. Måskegij åvdås gis Therese Mikkelsen akti.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 11/281][FAIL fn1] gietja:gietjan (num,verb,kongr, (num,verb,kongr)) => gietja:[] (msyn-numeral-casecongr)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 11/281][FAIL fn2] nissunfinála:nissunfinálla (noun,kongr, (noun,kongr)) => :[] ()
+Test 11 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 12/281: Ålmmåj finálan tjiektjin Bjørkvijkagij ja Rudnávuonagij tjiektjamjuohkusa. Rudnávuonaga vuojttin 3-1, guovtijn målajn Tommy Solstrømas ja avtajn målajn Jahn Sigve Andersenis. Lars Filip Paulsen Bjørkvijka åvdås akti viermev dejvaj, valla ettjin galla vuojtov oattjo.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 12/281][FAIL fn2] Ålmmåj finálan:Ålmåjfinálan (cmp, X-1;conc,lmm-lm, (cmp, X-1;conc,lmm-lm)) => :[] ()
+Test 12 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 13/281: Aina Olsen dejvaj viermev ienemusát nissunijs, 11 bále, ja ålmmåjs Jack Eivind Paulsen, 7 bále.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 13/281][PASS tn] : (, ()) => :[] ()
+Test 13 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 14/281: Dán jage guddneduváj Aina Olsenav nissunij buoremus tjiektjen, ja Jahn Sigve Andersenav ålmmåj buoremus tjiektjen. Tjiektjamjuohkusa lidjin iehtja oajvvadam avtav tjiektjev, gå de galggin merustallat dán jagásj tjiektjijt. Fair Play-vuojtov oadjun nissunjuogos Bjørkvijkas ja ålmåjjuogos Davvegietjes/ Gállás.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 14/281][FAIL fn2] Olsenav:Olsen (case, (case)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 14/281][FAIL fn2] Andersenav:Andersen (case, (case)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 14/281][FAIL fn2] iehtja:ietja (conc,htj-tj, (conc,htj-tj)) => :[] ()
+Test 14 - Passes: 0, Fails: 3, Total: 3
+
+----------
+Test 15/281: Guddneduvvin dán jagásj åvddågåvvån.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 15/281][PASS tn] : (, ()) => :[] ()
+Test 15 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 16/281: Duodden tjiektjamijda ja hávsskudallam dållågátten lijdin ásadiddje luojkkam ståhkusav, ”gahppamlanev” mánájda. Dasi máná lijkkujin, ja álu lidjin dåppe.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 16/281][FAIL fn2] hávsskudallam:hávsskudallamij (x, (x)) => :[] ()
+Test 16 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 17/281: Båhtusa dán jagásj Hellmocuhpasj sjaddin náv:
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 17/281][PASS tn] : (, ()) => :[] ()
+Test 17 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 18/281: Ålmmå:
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 18/281][PASS tn] : (, ()) => :[] ()
+Test 18 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 19/281: 1. Rudnávuodna
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 19/281][PASS tn] : (, ()) => :[] ()
+Test 19 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 20/281: 3. Davvegiehtje/Gállá
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 20/281][PASS tn] : (, ()) => :[] ()
+Test 20 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 21/281: 6. Tjieloabme
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 21/281][PASS tn] : (, ()) => :[] ()
+Test 21 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 22/281: Vuorbbe dán jagásj vuojttijda!
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2007/hellmocuhppa_080907.correct.txt.xml
+[ 22/281][PASS tn] : (, ()) => :[] ()
+Test 22 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 23/281: Doajvvu ienep sajev tjaktjaj
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 23/281][FAIL fn2] sajev:sajev oadtju (missing, (missing)) => :[] ()
+Test 23 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 24/281: -Ep gus ájn girjjevuorká lanjáj sisi besa? gatjádi máná Árrana mánájgárden, ja sihti uvsav rahpat aktan bæjválasj jådediddjijn Agnethe Johnsenijn ja barggijn Anita Olsenijn.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 24/281][FAIL fn2] Johnsenijn:Johnsen (case, (case)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 24/281][FAIL fn2] Olsenijn:Olsen (case, (case)) => :[] ()
+Test 24 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 25/281: Oanegis dárogiellaj
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 25/281][FAIL fn2] Oanegis:Oanegis versjåvnnå (missing, (missing)) => :[] ()
+Test 25 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 26/281: Rádenålmåj Yvonne Mikalsen ij duosta jáhttet ássjev giehtadalli åvddål giesseloabe.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 26/281][PASS tn] : (, ()) => :[] ()
+Test 26 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 27/281: -Moattes æjgádijs lij ietjasa iednegielav massám, ælla åvvånis sámegielav oahppam, ja sæmmi dilláj e sidá ietjasa mánájt, jáhkká bæjválasj jådediddje sáme mánájgárden Árranin, Agnethe Johnsen. Johnsen jáhkká dat la aj sivvan gå nav moattes lij dáj mañemus jagij sáme mánájgárddáj åhtsåm, ja tjaktjarájes doajvvu Johnsen ienebujda oadtju sajijt fállat.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 27/281][FAIL fn2] la aj:aj la (wo, (wo)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 27/281][FAIL fn2] dáj:dájt (case, (case)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 27/281][FAIL fn2] jagij:jagijt (case, (case)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 27/281][FAIL fn2] tjaktjarájes:tjavtja rájes (conc,kt-vt;cmp,1-x, (conc,kt-vt;cmp,1-x)) => :[] ()
+Test 27 - Passes: 0, Fails: 4, Total: 4
+
+----------
+Test 28/281: Árrana mánájgárden ælla desti saje ienep mánájda, ja soames æjgáda li vilá vuorddemin jus ietjasa mánájda sajev danna oadtju. Tjaktjaj jåhtå álmmukgirjjevuorkká Árranis, ja bargge dajna doajvvu divna mánájda oadtju sajev fállat. Vuostasj biejve rájes la Árran Mánájgárdde hudjam gå la nav binná sajes, juogu dal sinna jali ålggon. Valla tjaktjarájes doajvvu bargge buorep sadje sidjij sjaddá.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 28/281][FAIL fn2] Árran Mánájgárdde:Árran mánájgárdde (min, (min)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 28/281][FAIL fn2] juogu dal:sihke (w, (w)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 28/281][FAIL fn2] jali:ja (w, (w)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 28/281][FAIL fn2] tjaktjarájes:tjavtja rájes (conc,kt-vt;cmp,1-x, (conc,kt-vt;cmp,1-x)) => :[] ()
+Test 28 - Passes: 0, Fails: 4, Total: 4
+
+----------
+Test 29/281: Árrana mánjágárde guoran la uddni suohkana álmmukgirjjevuorkká. Suohkan la mierredam galggi bårggemáno girjjevuorkájn dat lanjás ålgus jåhtet. Dajna de vuojnná mánájgárde bæjválasj jådediddje Agnethe Johnsen buorep sadje sidjij sjaddá, ja nav aj duosstá sajijt æjgádijda fállat.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 29/281][PASS tn] : (, ()) => :[] ()
+Test 29 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 30/281: -Ienep ja ienep æjgáda sihti mánájdisá sajev mijá mánájgárden. Dajna l de munji nav suohtas ja hávsske gå oattjov mánájgárddesajijt vargga divnajda vaddet, valla vájku oadtjop oasev dat lanjás gånnå girjjevuorkká l uddni, de huoman jáhkáv ælla saje rat divnajda, subtsas mánájgárde jådediddje.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 30/281][FAIL fn2] mánájdisá:mánájdisesa (case, (case)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 30/281][FAIL fn2] vaddet:fállat (w, (w)) => :[] ()
+Test 30 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 31/281: Vuorddi sajev
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 31/281][PASS tn] : (, ()) => :[] ()
+Test 31 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 32/281: Agnethe Johnsen vuojnná dárbov, ja la aj mihá gå nav moattes Árrana mánájgárddáj åhtsi. Tjaktjaj lij juo 16 máná åhtsåm. 12 li nuorap gå 3 jage.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 32/281][PASS tn] : (, ()) => :[] ()
+Test 32 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 33/281: -Stuorra oasse dájs æjgádijs gudi li mánájdisá sajev dási åhtsåm, lij ietja åtsådallam sámegielav lij massám. Ja diedáv da æjgáda e sidá máná galggi sæmmi vásedit. Ja danen e sidá dárogielamánájgárddáj mánájdisá rádjat, ienni Árrana mánájgárddáj gånnå le máhttelisvuohta sámegielav oahppat, javllá mánájgárde jådediddje Árranin.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 33/281][FAIL fp2] : (, ()) => le:[l] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 33/281][FAIL fn2] mánájdisá:mánájdisesa (case, (case)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 33/281][FAIL fn2] máná galggi sæmmi vásedit:máná galggi dav sæmmi vásedit (missing, (missing)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 33/281][FAIL fn2] dárogielmánájgárddáj:dárogielakmánájgárddáj (x, (x)) => :[] ()
+Test 33 - Passes: 0, Fails: 4, Total: 4
+
+----------
+Test 34/281: Tjaktjaj li juo 3 máná gudi vuorddi sajev. Da máná dal jáhkedahtti sajev oadtju, valla åvdås gå jådediddje duosstá sajijt jáhttet, de hæhttu suohkan dåhkkidit oasev udnásj girjjevuorkká lanjájs mánájgárde lanjájda.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 34/281][FAIL fn2] jáhkedahtti:jáhkedahtte (vowlat,i-e, (vowlat,i-e)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 34/281][FAIL fn2] girjjevuorkká:girjjevuorká (case, (case)) => :[] ()
+Test 34 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 35/281: -Åhtsåmus le rájadum, ja doajvov oadtjop vásstádusáv åvddål gå giesseloahpe álggá. Jus bessap dan bælláj, de la miján 5 mánájgárdde saje duodden, javllá Agnethe Johnsen.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 35/281][FAIL fp2] : (, ()) => le:[la] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 35/281][FAIL fn2] la:li (kongr, (kongr)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 35/281][FAIL fn2] mánájgárdde saje:mánájgárddesaje (cmp,X-1, (cmp,X-1)) => :[] ()
+Test 35 - Passes: 0, Fails: 3, Total: 3
+
+----------
+Test 36/281: Ælla ássjegiehtadalle
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 36/281][PASS tn] : (, ()) => :[] ()
+Test 36 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 37/281: Rádenålmåj Yvonne Mikalsen Divtasvuona suohkanin diedet suohkan la åhtsåmusáv Árranis oadtjum, valla ballá ij máhte vásstádusáv vaddet åvddål giesseloabe.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 37/281][PASS tn] : (, ()) => :[] ()
+Test 37 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 38/281: -Miján ij la desti bajássjaddam- ja kultuvrraoajvve. Dajna de ælla ga ulmutja gudi ássjev giehtadalli, ja dan diehti de iv diede jus háhppidip dáv ássjev nav jåhtelit giehtadallat, javllá suohkana rádenålmåj, ja ij ga majdik duosta jáhttet.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2006/doajvvu-ienep-sajev-tjaktjaj_170606.correct.txt.xml
+[ 38/281][PASS tn] : (, ()) => :[] ()
+Test 38 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 39/281: Gállomihttim jåvsåj gitta skåvllådåhpåj
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 39/281][PASS tn] : (, ()) => :[] ()
+Test 39 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 40/281: Juoga aktisasj la gállo alludagá gaskan ja man tjiehppe lidji åhpadusáv åmastittjat. Dát dáhpe gulluj dan ájggáj gånnå rumáj subtsastij kultuvralasj åvddånahttema birra. Sosialdarwinisma ja gállomihttim gulluj dan dáhpáj, ja jåvsåj aj gitta skåvllådåhpåj.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 40/281][FAIL fn2] Sosialdarwinisma:Sosialdarwinissma (loan,conc,sm-ssm, (loan,conc,sm-ssm)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 40/281][FAIL fn2] gulluj:gullujin (verb,kongr, (verb,kongr)) => :[] ()
+Test 40 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 41/281: Bájken 1915 ja 1921 mannin antropologa Divtasvuonan mihttimin sámijt, valla ettjin huoman gávna sierradusájt sámij ja dáttjaj gaskan. Dát guoradallam, degu Ditasvuonan ja ietjá bájkijn væráldin aj, lij oasse stuoráp rijkagasskasasj guoradallamijs gånnå ulmme lij ieme ulmusjtjerdajt gávnnat. Mañep doaroj sinna ájn dárogielak åhpadiddje Måsken mihttij mánáj gállojt ja subtsastij ællim nav sluohkasa degu sån.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 41/281][FAIL fn2] Bájken:Jagen (w,, (w,)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 41/281][FAIL fn2] rijkagasskasasj:rijkajgasskasasj (fin,0-j, (fin,0-j)) => :[] ()
+Test 41 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 42/281: -Dålusj vuojno ulmusjtjerdaj birra gitta skåvllådåhpåj jåksin, ja dá vuojno lidjin aj vuodon gå galggin sámijt láddáduvvat nav vaj buorep ulmutjin galggin sjaddat juogu dal gielalattjat jali kultuvralattjat, subtsas guoradalle Bjørg Evjen guhti l skåvllåhiståvråv guoradallam sámij gaskan Divtasvuonan ja aj ietjá Sálto suohkanijn.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 42/281][PASS tn] : (, ()) => :[] ()
+Test 42 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 43/281: Sjievnnjis åssko
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 43/281][PASS tn] : (, ()) => :[] ()
+Test 43 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 44/281: Misjonera gudi sámij lunna mannin 1700-lågon galggin sámijt ”sjievnnijis” åskos lånestit, ja dajna de hæhttuhin dárogielav oahppat nav vaj buktin risstalasj tjállagijt låhkåt. Tomas von Westen oattjoj guokta skåvllådåbe Divtasvuonan tsieggidum ; Rábekjuvson ja Durán, ja sámegielak åhpadiddje virgijda biejaduvvin, ja sábmáj aj åhpadin.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 44/281][FAIL fp2] : (, ()) => tsieggidum ;:[tsieggidum;] (space-before-punct-mark)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 44/281][FAIL fn2] Divtasvuonan:Divtasvuodnaj (case, (case)) => :[] ()
+Test 44 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 45/281: –Jus dalusj gáldojda galggap luohtedit, de lidjin buorre båhtusa jur dát åhpadimes. Sáme nuora Lådiga gieldan, ja dalloj lij aj Divtasvuodna mañen, lidjin tjiehpebuv gå látte. Sivvan dasi la gå sáme oadtjun åhpadimev ietjasa giellaj, ja dajna de aj buorebut máhtudagájt åmastin, giehttu Evjen.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 45/281][FAIL fp2] : (, ()) => la:[l] (msyn-l-not-la)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 45/281][FAIL fn2] dalusj:dallusj (conc,l-ll, (conc,l-ll)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 45/281][FAIL fn2] tjiehpebuv:tjiehpebu (case, (case)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 45/281][FAIL fn2] lidjin tjiehpebu gå látte:lidjin tjiehpebu láttijs (redun, (redun)) => :[] ()
+Test 45 - Passes: 0, Fails: 4, Total: 4
+
+----------
+Test 46/281: Dát åhpadibme ittjij guhkijt biso. Jagen 1774 mierreduváj åhpadibme galgaj dárruj tjadáduvvat, ja 1700 lågo maññegietjen suojmoj dát máhtudakåvddånahttem skåvlåj tjadá.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 46/281][FAIL fn2] 1700 lågo:1700-lågo (cmp,hyph, (cmp,hyph)) => :[] ()
+Test 46 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 47/281: Ij dåhkkidahtte
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 47/281][FAIL fn2] Ij dåhkkidahtte:Ij lim dåhkkidahtte (missing, (missing)) => :[] ()
+Test 47 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 48/281: Násjunálalasj ulmme 1800-lågon lij aj sivvan gå sihtin dárogielav sámij gaskan nannit, ja jagen 1844 vuododuváj sierra skåvllådáfo gånnå ienemus oasse sámijs årrun. Sámegielak åhpadiddje virggáj biejaduváj, valla ittjij huoman galga sámegielav åhpadimen adnet. ”Gå sámemáná ienemusát dárogielav dádjadi, galggá aj dárruj åhpadit” lij bagádusmajt dalusj åhpadiddje oattjoj.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 48/281][FAIL fn2] ienemus:stuorámus (w, (w)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 48/281][FAIL fn2] dalusj:dallusj (conc,l-ll, (conc,l-ll)) => :[] ()
+Test 48 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 49/281: –Åhpadiddje dalloj ællim åhpadiddjeskåvlåjt vádtsám. Bájkálasj oajválattja vuojnnin dárbov sámijda oadtjot åhpadiddjev ietjasa guolgas, ja nav de alodin sámijt åhpadiddjeskåvllåj åtsåtjit, valla gå ettjin nav buoret dárogielav máhte, de ettjin ga aktak dalloj bessamgæhttjalime tjadá besa. Biedjin gåjt sámegielagav virggáj gut moadda jage åhpadij, ja báhppa de dalloj tjálij: ”Åhpadibme galggá liehket dárruj ja dárogielak åhpadiddje hæhttu virggáj biejaduvvat. Dát åhpadiddje ij la dåhkkidahtte, ja galggá aneduvvat degu mañemus tjoavdos”.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 49/281][FAIL fp2] : (, ()) => gut:[mij] (msyn-gut-mij)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 49/281][FAIL fn2] aneduvvat degu maŋemus tjoavdos:aneduvvat maŋemus tjoavddusin (x, (x)) => :[] ()
+Test 49 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 50/281: Oarjjevuodna guovdátjin
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 50/281][PASS tn] : (, ()) => :[] ()
+Test 50 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 51/281: Jagen 1886 lij dárojduhttempolitihkka nav nanos, ja sámegielak åhpadiddje lidjin ”dagu ruge másjijnan”. Åhpadiddje galggin aj avta gaskav gæhttjat vaj ittjij sámegiella tijmaj ålggolin gullu. Sámegiella ittjij galga gullut ietján gå ållu niedan.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 51/281][FAIL fp2] : (, ()) => ittjij:[] (syn-subj-before-neg)
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 51/281][FAIL fn2] nav:riek (w, (w)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 51/281][FAIL fn2] avta:avtav (num,kongr, (num,kongr)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 51/281][FAIL fn2] ittjij sámegiella:sámegiella ittjij (wo, (wo)) => :[] ()
+Test 51 - Passes: 0, Fails: 4, Total: 4
+
+----------
+Test 52/281: -Åhpadiddjij vánesvuohta sámegiellaj ja aj vánesvuohta oahppamnevvagijda, oattjoj aj stuorra merkadusáv dasi gåktu giella- ja skåvllåpolitihkka dalloj tjadáduváj, giehttu Evjen ja vuoset aj gå Skåvlik-Jáhkki Måsken åhpadij 1800-lågo maññegietjen.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 52/281][FAIL fn2] vuoset aj gå:vuoset aj dasi gå (missing, (missing)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 52/281][FAIL fn2] oahppamnævojda:oahpponævojda (w, (w)) => :[] ()
+Test 52 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 53/281: –Dajt jagijt lij dárogiella dagu nuppátgiella skåvlån, ja åhpadibme smávskåvlån lij sábmáj, ja dat de vuoset Oarjjevuodna sjattaj dagu sámegiela ja kultuvra guovdátjin, valla ij lim dal dåssju nav buorak javllá sån.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 53/281][FAIL fn2] Oarjjevuodna sjattaj dagu sámegiela ja kultuvra guovdátjin:Oarjjevuodna sjattaj sámegiela ja kultuvra guovdátjin (redun, (redun)) => :[] ()
+Test 53 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 54/281: Evjen vuoset dajda jagijda gå Henrik Kvandahl Måsken åhpadij.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 54/281][PASS tn] : (, ()) => :[] ()
+Test 54 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 55/281: – Kvandahl ittjij lijkku sámegiellaj, valla dá suv vuojno diehtep rievddin maññáj}. Dalloj lij vuojnno sámevierrek gáhtot lij jus ettjin viehkeduvá viessot degu dáttja, javllá Evjen. Juoga aktisasj lij dárojduhttempolitihkan Svieriga ja Vuona bielen dalloj. Svieriga bielen aj nannijin dárojduhttemav 1800-lågon, valla 1900-jagij sinna unnedin dáv politihkav, ja duogásj dasi lij jus sáme galggin ribádit, de hæhttujin viessot dagu sáme.
+
+----------
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 55/281][FAIL fn2] valla dá suv vuojno diehtep rievddin:valla diehtep dá suv vuojno rievddin (wo, (wo)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 55/281][FAIL fn2] ribádit:rijbadit (w, (w)) => :[] ()
+correct-no-gs/converted/smj/news/lokalavisa_nordsalten/2005/gallomihttim-jaavsaaj-gitta-skaavllaadaahpaaj_021205.correct.txt.xml
+[ 55/281][FAIL fn2] viessot dagu sáme:viessot sábmen (redun, (redun)) => :[] ()
+Test 55 - Passes: 0, Fails: 3, Total: 3
+
+----------
+Test 56/281: Giellarádnastallam
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 56/281][PASS tn] : (, ()) => :[] ()
+Test 56 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 57/281: Gåvådibme:Máná sjiejssiji Ájluovta jávren.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 57/281][PASS tn] : (, ()) => :[] ()
+Test 57 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 58/281: Foto: Harrieth Aira/NRK
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[ 58/281][PASS tn] : (, ()) => :[] ()
+Test 58 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 59/281: Giellarádnastallam la ådå sámegielak fálaldahka mánájda Ájluovtan, Divtasvuonan.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 59/281][PASS tn] : (, ()) => :[] ()
+Test 59 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 60/281: Divtasvuona ASVO {la}£cop|l} álgadam prosjevtav "Mij sámástip aktan - buolvaj gaskan" ja la giellaprosjækta mij galggá njálmálasj sámegielav nannit ja åvdedit.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 60/281][PASS tp] ":” (, ()) => ":[”] (punct-aistton-left)
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 60/281][PASS tp] ":” (, ()) => ":[”] (punct-aistton-right)
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 60/281][FAIL fp2] : (, ()) => l:[la] (msyn-la-not-l)
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 60/281][FAIL fp2] : (, ()) => "Mij:[] (guillemets)
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 60/281][FAIL fp2] : (, ()) => gaskan":[] (guillemets)
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 60/281][FAIL fn2] ja la:ja dát la (missing, (missing)) => :[] ()
+Test 60 - Passes: 2, Fails: 4, Total: 6
+
+----------
+Test 61/281: Sámedigge la ruhtadam prosjevtav ja gålmmå julevsámegielak nuora, Ingrid Kintel, Inga Mikkelsen ja Mathias Mikkelsen, Ájluovtas Divtasvuonan fálli mánájda sámegielak arenav gånnå sámástit rádnastallama ja suohttasij baktu la oajvvedoajmma.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 61/281][PASS tp] la:l (cop, (cop)) => la:[l] (msyn-l-not-la)
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 61/281][PASS tp] la:l (cop, (cop)) => la:[l] (msyn-l-not-la)
+Test 61 - Passes: 2, Fails: 0, Total: 2
+
+----------
+Test 62/281: Sámegielak máná ja nuora æjvvali
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 62/281][PASS tn] : (, ()) => :[] ()
+Test 62 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 63/281: Akti vahkkuj tjoahkkiji nuora skåvllåmánájt sámegielak rádnastallamdåjmajda.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 63/281][PASS tn] : (, ()) => :[] ()
+Test 63 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 64/281: Ingrid Kintel
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 64/281][PASS tn] : (, ()) => :[] ()
+Test 64 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 65/281: – Dat la doajmmaiehket mánájda gånnå galggap ståhkat, aktan liehket, rádnastallat ja suohtastallat. Mij galggap ståhkat, lájbbot, biebmojt riejddit, tjerastallat, tjuojggat, sjiejssit j.n.v. Ja gájkka galggá sámegiellaj dáhpáduvvat, subtsas akta dájs nuorajs, Ingrid Kintel gut la fáron ásadime dájt rádnastallamiehkedijt. Dát la ådå fálaldahka sáme mánájda.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 65/281][PASS tn] : (, ()) => :[] ()
+Test 65 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 66/281: Ulmme l sámástit, valla gatjálvis le gåktu dav tjoavddet vaj oadtjot mánájt sámástittjat.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 66/281][FAIL fp2] : (, ()) => le:[la] (syn-from-sentence-init-copula)
+Test 66 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 67/281: –Uddni ij dal nav ållo sámegiella sijdajn gullu, subtsas Kintel.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 67/281][PASS tn] : (, ()) => :[] ()
+Test 67 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 68/281: –Ja gå luondulasj sáhka ij gullu sijdajn, dat arena gånnå máná galggi sámegielav gullat, gå dat vádnun sijda bieles, de dárbahip dahkat arenav gånnå máná iejvviji bágojt ja sosialiseriduvvi sámegiellaj. Mån jáhkáv sámegiella gullugoahtá gå hárjjánip sámástit nubbe nubbáj ja máná oadtju hárjjánit sijá ságastallamgiella máhttá liehket sámegiella, dættot sån.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 68/281][FAIL fn2] dat:dan (case,nom-ine, (case,nom-ine)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 68/281][FAIL fn2] sosialiseriduvvi:sosialisieriduvvi (loan,vowc,e-ie, (loan,vowc,e-ie)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 68/281][FAIL fn2] ariedná:arienán (case,nom-ine, (case,nom-ine)) => :[] ()
+Test 68 - Passes: 0, Fails: 3, Total: 3
+
+----------
+Test 69/281: Lågå aj: Mij aktan sámástip
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 69/281][PASS tn] : (, ()) => :[] ()
+Test 69 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 70/281: –Dåssju akta njuolgadus: Sámástit
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 70/281][PASS tn] : (, ()) => :[] ()
+Test 70 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 71/281: Rádnastallamprosjækta
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 71/281][PASS tn] : (, ()) => :[] ()
+Test 71 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 72/281: rádnastallama, suohtastallamij ja ávvudallamij baktu sámegielak arena gånnå máná ja nuora aktan hárjjáni sámástit buolvaj gaskan oadtjot sámegiela adnemav ålgos institusjåvnåjs ja ásadit dádjadusáv dåhkki má akta ber gånnå sámástit la julevsáme skåvllåmánájda gejn la sámegiella vuostasj giellan skåvlån mánájda vuostasj klássas giehttjit klássaj jådeduvvá gålmmå julevsámegielak nuorajs la akti vahkkuj, duorastagájt gudás gáktsáj gálldo: tysfjordasvo.no
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 72/281][PASS tp] gålmmå:gålmåt (kongr,num, (kongr,num)) => gålmmå:[gålmåt, gålmå] (msyn-numeral-parcasecongr)
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 72/281][PASS tp] nuorajs:nuoras (noun,kongr,num, (noun,kongr,num)) => nuorajs:[nuoras] (msyn-numeral-attr)
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 72/281][FAIL fp2] : (, ()) => jådeduvvá:[jådet] (msyn-pass-active)
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 72/281][FAIL fn2] rádnastallama:Rádnastallama (cap, (cap)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 72/281][FAIL fn2] ålgos:ålgus (vowlat,o-u, (vowlat,o-u)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 72/281][FAIL fn2] má akta ber gånnå sámástit la julevsáme:má akta ber gånnå sámástit, la julevsáme (notcomma, (notcomma)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 72/281][FAIL fn2] vuostasj giellan:vuostasjgiellan (cmp,X-1, (cmp,X-1)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 72/281][FAIL fn2] skåvlån:skåvlån, (notcomma, (notcomma)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 72/281][FAIL fn2] klássaj:klássaj (notcomma, (notcomma)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 72/281][FAIL fn2] gáktsáj:gáktsáj. (punct, (punct)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 72/281][FAIL fn2] gálldo:Gálldo (cap, (cap)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 72/281][FAIL fn2] oadtjot sámegiela adnemav ålgus institusjåvnåjs:galggá oadtjot sámegiela adnemav ålgus institusjåvnåjs (missing, (missing)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 72/281][FAIL fn2] nuoras:nuoras, (notcomma, (notcomma)) => :[] ()
+Test 72 - Passes: 2, Fails: 11, Total: 13
+
+----------
+Test 73/281: Æjvvalimiehkedijn la akta njuolgadus.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 73/281][PASS tn] : (, ()) => :[] ()
+Test 73 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 74/281: – Dájn æjvvalimijn la dåssju akta njuolgadus ja dat la sámástit. Dát la fálaldahka mánájda, sij bessi ietja válljit jus sihti fáron jali jus e sidá fáron. Ja gå mánná iesj bæssá válljit, "já dáv de mån sidáv”, de sån juo diehtá vuordeduvvá sujsta sámegiella jus galggá oassálasstet. Ja navti mij jåksåp nubbe nuppev, máná ja midja nuora, subtsas Kintel.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 74/281][FAIL fp2] : (, ()) => "já:[] (punct-aistton-left)
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 74/281][FAIL fn2] ":” (, ()) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 74/281][FAIL fn2] já: (redun, (redun)) => :[] ()
+Test 74 - Passes: 0, Fails: 3, Total: 3
+
+----------
+Test 75/281: Fálaldahka la skåvllåmánájda gejn la sámegiella vuostasj giellan vuostasj klássas giehttjit klássaj, ja la akti vahkkuj.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 75/281][PASS tp] la:l (cop, (cop)) => la:[l] (msyn-l-not-la)
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 75/281][FAIL fn2] vuostasj giellan:vuostasjgiellan (cmp,X-1, (cmp,X-1)) => :[] ()
+Test 75 - Passes: 1, Fails: 1, Total: 2
+
+----------
+Test 76/281: Ja máná li diededam dási sij sihti sæbrrat.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 76/281][PASS tn] : (, ()) => :[] ()
+Test 76 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 77/281: – Gå mánájt iejvviv oassásin de tjuorvvu “Håj, Ingrid, mån ávvudaláv rádnastallamij”, så dájda iehkedijda de máná ávvudalli. Miján ælla ga makkirik diededime. Da gudi båhti, båhti, subtsas Ingrid.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 77/281][PASS tp] “:” (, ()) => “:[”] (punct-aistton-left)
+Test 77 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 78/281: Sihti sámástimev privatiserit
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 78/281][FAIL fn2] privatiserit:privatisierit (loan,vowc,e-ie, (loan,vowc,e-ie)) => :[] ()
+Test 78 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 79/281: Ja gånnå máná ja dá gålmmå nuora galggi æjvvalit ij la ga mierreduvvam álgos.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 79/281][PASS tn] : (, ()) => :[] ()
+Test 79 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 80/281: –Miján ij la sierra sadje gånnå æjvvalip, subtsas Ingrid.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 80/281][PASS tn] : (, ()) => :[] ()
+Test 80 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 81/281: – Mij ep sidá sámástimev institusjåvnåjda tjadnat. Mij sihtap má juokkirik láhkáj privatiserit dáv. Sámegiella ij gullu dåssju skåvllåj, dåssju Árranij jali ASVOj. Sámegiella ij la juoga mij dåssju dákkir sajijn galggá gullut. Mij máhttep akta ber gånnå sámástit, ja dan diehti ij la miján stuoves æjvvalimsadje. Muhttijn lip muv lunna, ietjá bále ålggon ja ietjá bále ihkap nágin iehtjádij lunna, subtsas sån.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/giellaradnastallam_12112012.correct.txt.xml
+[ 81/281][FAIL fn2] privatiserit:privatisierit (loan,vowc,e-ie, (loan,vowc,e-ie)) => :[] ()
+Test 81 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 82/281: GULLDAL ÅLLES ÁSSJEV DÁNNA:
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 82/281][FAIL fn2] GULLDAL:GULLDALA (x, (x)) => :[] ()
+Test 82 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 83/281: Oadtju Gånågisá ánssidammedáljav
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 83/281][FAIL fn2] ánssidammedáljav:ánssidimmedáljav (w, (w)) => :[] ()
+Test 83 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 84/281: Mikal Urheim ávvusij gå guláj sån oadtju Gånågisa ánssidammedáljav.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 84/281][FAIL fn2] ánssidammedáljav:ánssidimmedáljav (w, (w)) => :[] ()
+Test 84 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 85/281: Sáme sebrudagá gállájs ja sebrudakberustiddjijs, julevsábme Mikal Urheim (80) oadtju Gånågisá ánssidammedáljav.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 85/281][FAIL fn2] gállájs:gálles (x, (x)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 85/281][FAIL fn2] sebrudakberustiddjijs:sebrudakberustiddje (x, (x)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 85/281][FAIL fn2] ánssidammedáljav:ánssidimmedáljav (w, (w)) => :[] ()
+Test 85 - Passes: 0, Fails: 3, Total: 3
+
+----------
+Test 86/281: Lidjin Divtasvuona ja Hábmera suohkanoajve aktan Árran – julevsáme guovdátja direktørajn, gudi oajvvadin Mikal Urheim ánssit Gånågisá ánssidammedáljav oadtjot.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 86/281][PASS tp] Lidjin:Ledjin (cop, (cop)) => Lidjin:[Ledjin] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 86/281][FAIL fn2] ánssidammedáljav:ánssidimmedáljav (w, (w)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 86/281][FAIL fn2] Ledjin:Lejga (kongr, (kongr)) => :[] ()
+Test 86 - Passes: 1, Fails: 2, Total: 3
+
+----------
+Test 87/281: – Mikal Urheim la badjel 50 jage iesjgeŋgalágásj rållaj ja dåjmaj baktu åvdedam nasjonála ja bájkálasj ássjijt ma li sebrudahkaj læhkám stuorra ávkken, sierraláhkáj sáme álmmuga åvdås ja julevsámij åvdås sierra. Mikal Urheima barggo le læhkám tjielgga njunnusjbarggo åvddånahtátjit sáme sebrudakiellemav Vuonan tjálli suohkanoajve-guovtes ja Árran-direktørra præssadiedádusán.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 87/281][PASS tp] le:l (cop, (cop)) => le:[l] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 87/281][FAIL fp2] : (, ()) => åvdås:[åvdåsti] (syn-number_congruence-subj-verb)
+Test 87 - Passes: 1, Fails: 1, Total: 2
+
+----------
+Test 88/281: «Ælla da tsuvkkám åvvå báhkogietjev dán birra munji. Diedá alvaduvviv.»
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 88/281][FAIL fp2] : (, ()) => «:[”] (punct-aistton-left)
+Test 88 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 89/281: Mikal Urheim
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 89/281][PASS tn] : (, ()) => :[] ()
+Test 89 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 90/281: Gånågisá ánssidammedállja
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 90/281][FAIL fn2] ánssidammedállja:ánssidimmedállja (w, (w)) => :[] ()
+Test 90 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 91/281: Lij Gånågis Haakon gut vuododij Ánssidammedáljav, guovvamáno 1. bve1908. Ulmme lij lasedit St. Olavs Ordenav. Vattteduvvá sahte vuonagij sierra bargos dájdan, diehtagin ja æládusiellemin ja sierra barggo almmulasj dievnastusán. Medállja lij joarkka Gånågis Oscar IIa máksemmedálljas mij hiejteduváj jagen 1905.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 91/281][PASS tp] Lij:Lej (cop, (cop)) => Lij:[Lej] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 91/281][FAIL fp2] : (, ()) => mij:[ma, maha, mahá] (msyn-congr-mij-ma)
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 91/281][FAIL fp2] : (, ()) => hiejteduváj:[hiejteduvvin] (msyn-verb-cong-rel)
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 91/281][FAIL fn2] Ánssidammedáljav:Ánssidimmedáljav (w, (w)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 91/281][FAIL fn2] barggo:bargos (case, (case)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 91/281][FAIL fn2] máksemmedálljas:máksemmedáljas (conc,llj-lj, (conc,llj-lj)) => :[] ()
+Test 91 - Passes: 1, Fails: 5, Total: 6
+
+----------
+Test 92/281: Gálldo: kongehuset.no
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 92/281][PASS tn] : (, ()) => :[] ()
+Test 92 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 93/281: Ja vásse bierjjedagá bådij diehto Gånågis la miededam dáv åhtsåmusáv.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 93/281][PASS tn] : (, ()) => :[] ()
+Test 93 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 94/281: –Duodaj lij ávvosáhka, javllá Divtasvuona suohkanoajvve Tor Asgeir Johansen gut de dalága diededij Urheimav.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 94/281][PASS tn] : (, ()) => :[] ()
+Test 94 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 95/281: – Sån ávvusij ja månnå ávvusav. Hávsske lij de dáv diedov sunji buktet, javllá Tor Asgeir Johansen.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 95/281][PASS tn] : (, ()) => :[] ()
+Test 95 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 96/281: Lågå aj: Får kongens fortjenestmedalje
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 96/281][PASS tn] : (, ()) => :[] ()
+Test 96 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 97/281: Urheim iesj ittjij diede sån lij oajvvaduvvam oattjotjit Gånågisá ánssidammedáljav.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 97/281][FAIL fn2] ánssidammedáljav:ánssidimmedáljav (w, (w)) => :[] ()
+Test 97 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 98/281: – Mån iv la majdik gullam ja diedá alvaduvviv. Ælla da tsuvkkám åvvå báhkogietjev dan birra munji, tjajmmá Mikal Urheim.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 98/281][PASS tn] : (, ()) => :[] ()
+Test 98 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 99/281: – Ávvusiv
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[ 99/281][PASS tn] : (, ()) => :[] ()
+Test 99 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 100/281: Ja Urheim la ávon ja dudálasj gå Gånågisá ánssidammedáljav oadtju.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[100/281][FAIL fn2] ánssidammedáljav:ánssidimmedáljav (w, (w)) => :[] ()
+Test 100 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 101/281: – Mån la ávon ja dudálasj. Gå mijá rijka gånågis la gávnnam muv bargov buorren de lev mån ávon ja dajna dudálasj. Valla dát vuosádus ij la dåssju munji aktu, valla aj muv mánájda gudi li muv doarjodam agev ja ietjá sámijda gudi li mujna viehkken årrum, javllá Mikal Urheim.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[101/281][PASS tp] la:lav (kongr, (kongr)) => la:[lav] (syn-number_congruence-subj-verb)
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[101/281][FAIL fp2] : (, ()) => lev:[lav] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[101/281][FAIL fn2] mujna:munji (case,ine-ill, (case,ine-ill)) => :[] ()
+Test 101 - Passes: 1, Fails: 2, Total: 3
+
+----------
+Test 102/281: Sån aj gæssá åvddån suv áhkáv, Elin Urheim-rávkkev, gut suv duogen agev la årrum.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[102/281][FAIL fn2] suv:ietjas (w,pers-refl, (w,pers-refl)) => :[] ()
+Test 102 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 103/281: – Muv buoremus venak ja viehkediddje, muv iehttselis Elin ij la desti viesso. Muhtem låsså ájge de javlliv mån sunji; “Hæhttutjip má de hiejttet årromis sábmen”. Dasi Elin náv javlaj; “Ep gåjt dal mij máhte hiejttet majt ep la álggám, mij lip riegádam”. Ja divna dát la baddjen anedam muv juolgij nanna, javllá Urheim.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[103/281][FAIL fp2] : (, ()) => “:[”] (punct-aistton-left)
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[103/281][FAIL fp2] : (, ()) => “:[”] (punct-aistton-left)
+Test 103 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 104/281: – Sámedikke vuododibme ájnnasamos barggo
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[104/281][PASS tn] : (, ()) => :[] ()
+Test 104 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 105/281: Gájkka sebrudakbargos majt sån la åvdedam ja mij sunji ájnnasabmusin uddni vuojnnu, la Sámedikke vuododibme Vuonan jagen 1989.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[105/281][PASS tn] : (, ()) => :[] ()
+Test 105 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 106/281: – 20 jage åvddål gå Sámedigge vuododuváj de oajvvadiv mån bierri ásaduvvat parlamænnta sámijda mij sierralágásj sáme ássjijt giehtadallá. Ja dat la ådå barggo mijá rijkan årrum, gånnå unneplåhko geográfalattjat la segadum ieneplågoálmmugijn. Ja gå dási lip gávnnam tjoavddusav jut sáme máhtti adnet parlamentav la dat ájnnasamos barggo mij muv miela milta la boahtám, dættot sån.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[106/281][FAIL fp2] : (, ()) => mij:[ma, maha, mahá] (msyn-congr-mij-ma)
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[106/281][FAIL fp2] : (, ()) => la:[l] (msyn-l-not-la)
+Test 106 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 107/281: Gånågisá ánssidammedállja vatteduvvá Mikal Urheimaj sierra sermonijan, ja la Divtasvuona suohkanoajvve gut gånågisá åvdås medáljav sunji vaddá. Goassa ja gånnå dat sjaddá ij la ájn mierreduvvam.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[107/281][FAIL fn2] ánssidammedállja:ánssidimmedállja (w, (w)) => :[] ()
+Test 107 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 108/281: Gånågisá ánssidammedallja Mikal Urheimaj
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/oadtju_gaanaagisa_anssidammemedaljav_05112012.correct.txt.xml
+[108/281][PASS tn] : (, ()) => :[] ()
+Test 108 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 109/281: Sihtaba rahtev Måsskåj
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[109/281][PASS tn] : (, ()) => :[] ()
+Test 109 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 110/281: Såj libá riek dudálattja mærrádusájn, suohkanstivraájras Filip Mikkelsen ja suohkanoajvve Tor Asgeir Johansen.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[110/281][PASS tn] : (, ()) => :[] ()
+Test 110 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 111/281: Divtasvuona suohkanstivrra mierredij iektu avtajienalattjat doarjjot Måskerahte traseav mij la plániduvvam mannat Måskes Ájláddáj, Divtasvuonan.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[111/281][PASS tn] : (, ()) => :[] ()
+Test 111 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 112/281: Aktisasjlista ájras Filip Mikkelsen åhtsålij árabut dán tjavtja ássjev gå suohkanstivrra ij la ássjev giehtadallam maŋŋel gå åvddåprosjækta lij gergas dijmmá, ja ruhtamerustallam tjielgaduváj.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[112/281][FAIL fp2] : (, ()) => giehtadallam:[giehtadallama] (msyn-nom-gen-Po)
+Test 112 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 113/281: Lågå aj: Måskerahte sjávvunij
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[113/281][PASS tn] : (, ()) => :[] ()
+Test 113 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 114/281: Lågå aj: Stilt om Muskenveien
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[114/281][PASS tn] : (, ()) => :[] ()
+Test 114 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 115/281: Valla iektu de avtajienalasj suohkanstivrra mierredij doarjjot måskegij ja oarjjevuonagij rahtegájbbádusáv majt li gájbbedam juo 50-60 jage.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[115/281][PASS tn] : (, ()) => :[] ()
+Test 115 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 116/281: Suohkanstivra ájrrasa bivddi guovlo- ja stáhta oajválattjajt vuorodit rahteprosjevtav Måsskåj.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[116/281][FAIL fn2] Suohkanstivra ájrrasa:Suohkanstivraájrrasa (cmp,X-1, (cmp,X-1)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[116/281][FAIL fn2] stáhta oajválattjajt:stáhtaoajválattjajt (cmp,X-1, (cmp,X-1)) => :[] ()
+Test 116 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 117/281: Suohkanstivra mielas la ájnas rahtev Måsskåj oadtjot vaj:
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[117/281][PASS tn] : (, ()) => :[] ()
+Test 117 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 118/281: Buorep láhkáj sjaddá máhttelis ávkástallat luondoressursajt guovlon dagu strávvev/energijav, merraressursajt ja ihkap minerállaressursajt jus gávnnuji.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[118/281][FAIL fn2] luondoressursajt:luonndoressursajt (cmp,gen-nom, (cmp,gen-nom)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[118/281][FAIL fn2] merraressursajt:merraressursa (case,acc-nom, (case,acc-nom)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[118/281][FAIL fn2] minerállaressursajt:minerállaressursa (case,acc-nom, (case,acc-nom)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[118/281][FAIL fn2] luonndoressursajt:luonndoressursajs (case,acc-ela, (case,acc-ela)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[118/281][FAIL fn2] strávvev/enersjijjav:strávve/enesjijja (case,acc-nom, (case,acc-nom)) => :[] ()
+Test 118 - Passes: 0, Fails: 5, Total: 5
+
+----------
+Test 119/281: Buorep láhkáj sjaddá máhttelis åvddånahttet turismav ja mannoæládusáv valjes luonndoguovlon. Måsske aktan Måskeláhka vuodnabájkátjijn la ájnas sadje suoddjitjit ja åvddånahtátjit julevsáme árbbedábijt ja iellemvuogijt. Måskegijda ja Oarjjevuona viesádijda sjaddá buorre ja oalle almulasj dievnastusfálaldahka sæmmi láhkáj dagu ietján sebrudagán. Suohkanstivra mielas ij udnásj mannomáhttelisvuohta tjoavde álmmuga dárbojt jalik vatte buoremus tjoavddusijt.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[119/281][FAIL fp2] : (, ()) => ij:[] (syn-subj-before-neg)
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[119/281][FAIL fn2] Måskeláhka:måskebirrusa (w, (w)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[119/281][FAIL fn2] vuodnabájkátjijn:vuodnabájkátjij (sg-pl, (sg-pl)) => :[] ()
+Test 119 - Passes: 0, Fails: 3, Total: 3
+
+----------
+Test 120/281: Ja suohkanstivrra de hasot almulasj oajválattjajt, guovlo,- ja stáhta oajválattjat, vuorodit rahtev Måsskåj.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[120/281][FAIL fn2] stáhta oajválattjat:stáhtaoajválattjat (cmp,X-1, (cmp,X-1)) => :[] ()
+Test 120 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 121/281: - Ij la ietján gå barggagoahtet åttjudittjat ruhtadimev, javllaba Divtasvuona suohkanoajvve Tor Asgeir Johansen ja Aktisasjlista suohkanstivraájras Filip Mikkelsen gudi dán ássjen riek avtamielaga libá åttjudittjat rahtev Måsskåj, Divtasvuodnaj.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[121/281][FAIL fp2] : (, ()) => gudi:[gut, guhti, guhtis] (msyn-congr-ma-mij)
+Test 121 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 122/281: Les
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[122/281][PASS tn] : (, ()) => :[] ()
+Test 122 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 123/281: Stilt om Muskenveien Måskerahte sjávvunij
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sihtaba_rahtev_maasskaaj_24102012.correct.txt.xml
+[123/281][PASS tn] : (, ()) => :[] ()
+Test 123 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 124/281: – SANKS-hiejttem la vájvve
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[124/281][PASS tn] : (, ()) => :[] ()
+Test 124 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 125/281: – Sihke nuorajn ja vuorasappujn ålles rijkan li varresvuoda dárbo ma vierttiji gåtseduvvat, javllá Inga Karlsen. (Tjuorgasgåvvå)
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[125/281][PASS tn] : (, ()) => :[] ()
+Test 125 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 126/281: Foto: LARTIGUE STEPHANE/PHOTOPQR/SUD OUEST
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[126/281][PASS tn] : (, ()) => :[] ()
+Test 126 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 127/281: Sáme nasjonálalasj máhtudakguovdásj psykalasj varresvuodan (SANKS) lulu sjaddat fálaldahka dåssju Finnmárkogijda.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[127/281][FAIL fn2] lulu:luluj (verb,kongr,cond, (verb,kongr,cond)) => :[] ()
+Test 127 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 128/281: – Vájves sága, javllá Inga Karlsen, Divtasvuonas.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[128/281][PASS tn] : (, ()) => :[] ()
+Test 128 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 129/281: Vil uddni máhtti sáme ålles vuonarijkas oadtjot SANKS-as dálkudimfálaldagájt jus dav hálijdi, valla boahtte jage rájes lulu láhkanjuolgadus rievddat dáv. Boahtte jage rájes viertti SANKS åhtsåt fállat juogu nasjonálalasj  máhtudakfálaldagájt jali nasjonálalasj  máhtudakfálaldagájt ja moaddeguovloj dálkudimfálaldagájt.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[129/281][FAIL fp2] : (, ()) => :[nasjonálalasj máhtudakfálaldagájt] (double-space-before)
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[129/281][FAIL fp2] : (, ()) => :[nasjonálalasj máhtudakfálaldagájt] (double-space-before)
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[129/281][FAIL fn2] lulu:luluj (verb,kongr,cond, (verb,kongr,cond)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[129/281][FAIL fn2] nasjåvnålasj  :nasjåvnålasj  (singlespace, (singlespace)) => :[] ()
+Test 129 - Passes: 0, Fails: 4, Total: 4
+
+----------
+Test 130/281: Lågå: – SANKS-kutt en skandale
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[130/281][PASS tn] : (, ()) => :[] ()
+Test 130 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 131/281: Lågå aj: Bosted kan avgjøre om du får hjelp
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[131/281][PASS tn] : (, ()) => :[] ()
+Test 131 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 132/281: Inga Karlsen, Divtasvuonas
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[132/281][PASS tn] : (, ()) => :[] ()
+Test 132 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 133/281: Foto: Sander Andersen/NRK
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[133/281][PASS tn] : (, ()) => :[] ()
+Test 133 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 134/281: Inga Karlsen, Ájluovtas Divtasvuonas gut julevsámijt åvdås SANKS-a addnenammadusán ja gut aj la Sáme vuorrasijráde jådediddje ij åvvånis dási lijkku ja hådjån.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[134/281][FAIL fp2] : (, ()) => gut:[mij] (msyn-gut-mij)
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[134/281][FAIL fn2] Divtasvuonas:Divtasvuonan (case, (case)) => :[] ()
+Test 134 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 135/281: – Dát lij duodaj vájves sáhka ja jáhkáv dal ulmutja ruojav dahki gå dáv gulli, javllá sån.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[135/281][PASS tn] : (, ()) => :[] ()
+Test 135 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 136/281: Ij des sjattatja fálaldahka ålles rijkkaj
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[136/281][PASS tn] : (, ()) => :[] ()
+Test 136 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 137/281: Dát la SÁNAG (SANKS)
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[137/281][PASS tn] : (, ()) => :[] ()
+Test 137 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 138/281: Sáme nasjonálalasj máhtudakguovdásj – psykalasj varresvuodan (SÁNAG). La nasjonálalasj åvdåsvásstádus åvddånahttet avtaárvvusasj varresvuodafálaldagájt psykalasj varresvuodan. Sáme máhtti oadtjot SÁNAG:is dálkudimfálaldagájt jus dav ietja hálijdi. SÁNAG-in la: ållessjattugijda åssudak, åssudak mánájda ja nuorajda ja dutkam-ja åvddånahttemåssudak.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[138/281][PASS tp] La:Le (cop, (cop)) => La:[Le] (syn-to-sentence-init-copula)
+Test 138 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 139/281: Gálldo: Helse Finnmark
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[139/281][PASS tn] : (, ()) => :[] ()
+Test 139 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 140/281: – Máhttá gus de gåhtjuduvvat nasjonálalasj guovdátjin? Sáme ham årru ålles rijkan ja ij dåssju Finnmárkon. Dav ráddidus diehtá. Iv de mån dáv galla dádjada, javllá Karlsen.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[140/281][FAIL fn2] gåhtjuduvvat:gåhtjoduvvat (vowlat,u-o, (vowlat,u-o)) => :[] ()
+Test 140 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 141/281: – Oadtjot guládallat ietjas giellaj ja ietjas kultuvrajn vuodon la má viehka ájnas ájnegis ulmutja varresvuoda dilláj, dættot sån.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[141/281][FAIL fn2] Oadtjot:Bessat (w, (w)) => :[] ()
+Test 141 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 142/281: Inga Karlsen diehtá ållusa julevsámeguovlos li SANKS-a fálaldagájt adnám.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[142/281][FAIL fn2] ållusa:ålos (w, (w)) => :[] ()
+Test 142 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 143/281: – Ulmutja sjávvuni jus dát fálaldahka gáhtu. Ja jus dån i oattjo dav fálaldagáv majt dárbaha, de ij gåjt de duv varresvuohta buorep sjatta, dættot sån.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[143/281][PASS tn] : (, ()) => :[] ()
+Test 143 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 144/281: Stuorra berustibme julevsáme guovlon
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[144/281][PASS tn] : (, ()) => :[] ()
+Test 144 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 145/281: Árvustallam majt SANKS la tjadádam daj niellja jagij maŋŋel gå SANKS ásadij sierra kontåvråv Ájluoktaj, Divtasvuodnaj vuoset SANKS la vierttim duodde ulmutjijt biedjat bargatjit Divtasvuona kontåvrråj.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[145/281][PASS tp] daj:dan (pron,num,kongr, (pron,num,kongr)) => daj:[dan] (msyn-numerals-with-demopron)
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[145/281][FAIL fp1] niellja:nieljen (num,kongr, (num,kongr)) => niellja:[nielje] (msyn-numeral-casecongr)
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[145/281][FAIL fp1] jagij:jagen (noun,num,kongr, (noun,num,kongr)) => jagij:[jage] (msyn-numeral-attr)
+Test 145 - Passes: 1, Fails: 2, Total: 3
+
+----------
+Test 146/281: "... Li læhkám viehka ållo pasiennta dán kontåvrån, så mij lip vierttim biejdat lasse barggijt dåhku vaj duosstot dárbojt..." tjállá SANKS ietjas árvustallamin.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[146/281][PASS tp] ":” (, ()) => ":[”] (punct-aistton-left)
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[146/281][PASS tp] Li:Le (cop, (cop)) => Li:[Le] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[146/281][FAIL fp2] : (, ()) => ...:[…] (ellipsis)
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[146/281][FAIL fp2] : (, ()) => "...:["…] (ellipsis)
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[146/281][FAIL fp2] : (, ()) => ..." tjállá:[] (guillemets)
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[146/281][FAIL fp2] : (, ()) => .:[”] (punct-aistton-left)
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[146/281][FAIL fp2] : (, ()) => " tjállá:[] (guillemets)
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[146/281][FAIL fn2] vaj duosstot dárbojt:duostotjit dárbojt (x, (x)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[146/281][FAIL fn2] ":” (, ()) => :[] ()
+Test 146 - Passes: 2, Fails: 7, Total: 9
+
+----------
+Test 147/281: Julevsáme guovlos li aj rájaduvvam ållusa iesjgenga lágásj åssudagájda Finnmárkon, ja dán kontåvrån la læhkám stuorámus doajmma buohtastahtedum dåj ietjá kontåvråj ålggolin Finnmárko.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[147/281][FAIL fn2] ållusa:ålos (w, (w)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[147/281][FAIL fn2] iesjgeŋga lágásj:iesjgeŋgalágásj (cmp,X-1, (cmp,X-1)) => :[] ()
+Test 147 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 148/281: Muodástuvvá
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[148/281][PASS tn] : (, ()) => :[] ()
+Test 148 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 149/281: Ij ga Sámedigge lijkku dájda ságajda.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[149/281][PASS tn] : (, ()) => :[] ()
+Test 149 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 150/281: Sámedikkeráde Ellinor Marita Jåma javllá sån muodástuvvá gå dájt ságajt gullá.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[150/281][PASS tn] : (, ()) => :[] ()
+Test 150 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 151/281: – Mij muodástuvvap oarjjelsáme pasientaj diehti, valla aj julevsáme pasientaj diehti. Sámedigge galggá ássjev bajedit ráddidusájn ja mij aj gåhttjop Helse Nord dádjadit siján la má åvdåsvásstádus gájkka Vuonarijka sámijda, javllá Ellinor Marita Jåma.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[151/281][FAIL fn2] Helse Nord:Helse Nordav (case,nom-acc, (case,nom-acc)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2012/sanks-hiejttem_17102012.correct.txt.xml
+[151/281][FAIL fn2] sámijda:sámijs (case,ill-ela, (case,ill-ela)) => :[] ()
+Test 151 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 152/281: Mujttádahtti nissunbiejvev
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[152/281][PASS tn] : (, ()) => :[] ()
+Test 152 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 153/281: Rádevadde Árran - julevsáme guovdátjin, Päivi Alanen. Gåvvå Árrana musea vuosádusás.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[153/281][PASS tn] : (, ()) => :[] ()
+Test 153 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 154/281: Dán jage galggá julevsáme guovdásj, Árran mujttádahttet rijkajgasskasasj nissunbiejvev sierra mujttádahttemprográmmajn.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[154/281][PASS tn] : (, ()) => :[] ()
+Test 154 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 155/281: Árran ij la dájt maŋemus jagijt tjadádam sierra mujttádahttemijt nissunbiejven.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[155/281][PASS tn] : (, ()) => :[] ()
+Test 155 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 156/281: – Mij dán jage mujttádahttep nissunbiejvev dan diehti gå dán jage la jienastimriektáávvudibme mij merkaj li 100 jage dat rájes gå nissuna Vuonarijkan oadtjun ålles jienastimriektáv sæmmi buohta ålmmåj subtsas Árrana rádevadde, Päivi Alanen.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[156/281][PASS tp] la:l (cop, (cop)) => la:[l] (msyn-l-not-la)
+Test 156 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 157/281: Lågå ienebuv jienastimriektáávvudimes Vuonarijkav miehtáj dánna. Mujttádahttemin mij la dán bierjjedagá, snjuktjamáno 8. biejve, galggá Sámedikke vuorrasijráde jådediddje, Inga Karlsen lågådallat sáme nissuna ja dássádusdile birra åvddål ja uddni.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[157/281][PASS tn] : (, ()) => :[] ()
+Test 157 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 158/281: Divtasvuona ASVO bæjválasj jådediddje Beate Ráhka Knutsen galggá giehttot nissunværmástagá ja dássádusá birra.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[158/281][PASS tn] : (, ()) => :[] ()
+Test 158 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 159/281: Nuorra nissun ja åhpadiddje Ingrid Kintel galggá lågådallat sámegiella ja dássádus. Ja duodden galggá Sámedikkeráde politihkalasj rádevadde, Hagbart Grønmo giehttot sáme nissunij birra politihkan.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[159/281][FAIL fn2] sámegiella:sámegiela (case,nom-gen, (case,nom-gen)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[159/281][FAIL fn2] dássádus:dásásusá (case,nom-gen, (case,nom-gen)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[159/281][FAIL fn2] sámegiela ja dásásusá:sámegiela ja dássádusá birra (missing, (missing)) => :[] ()
+Test 159 - Passes: 0, Fails: 3, Total: 3
+
+----------
+Test 160/281: – Dárbbo mujttádahttet
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[160/281][FAIL fn2] Dárbbo mujttádahttet:Dárbbo l mujttádahttet (missing, (missing)) => :[] ()
+Test 160 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 161/281: Alanen:a mielas la dárbbo mujttádahttet dássádusáv sjiervij gaskan vilák uddni ja aj sáme sebrudagájn.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[161/281][PASS tn] : (, ()) => :[] ()
+Test 161 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 162/281: – Vádnun ájn dássádus vaj nissunij dille la sæmmi dásen gå ålmmåj.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[162/281][PASS tp] la:l (cop, (cop)) => la:[l] (msyn-l-not-la)
+Test 162 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 163/281: – Álu li má ålmmåjn sijájn gænna l fábmo, sij gudi li jådediddje ja sij gudi tjåhkkåhi biednikvuossa nanna ja gudi mierredi ássjijt politihkan. Ja álu de sjaddi ålmmå gudi ráddiji sebrudagán jus ga miján li moadda berustiddjes nissuna. Så vilák vierttiji nissuna tjalmostahteduvvat vaj sjaddá almma dássádus gájkaj ulmutjij gaskan dættot Alanen.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[163/281][PASS tp] gænna:gejn (pron,kongr, (pron,kongr)) => gænna:[gejn, gejna] (msyn-congr-gænna-gejn)
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[163/281][FAIL fn2] l:la (cop, (cop)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[163/281][FAIL fn2] sjaddi:li (w, (w)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[163/281][FAIL fn2] jus ga:juska (cmp,X-1;conc,sg-sk, (cmp,X-1;conc,sg-sk)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[163/281][FAIL fn2] berustiddjes:berustiddje (case, (case)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2013/mujttaadahtti_nissunbiejvev_06032013.correct.txt.xml
+[163/281][FAIL fn2] miján li moadda berustiddje nissuna:moadde berustiddje li nissuna (redun;wo, (redun;wo)) => :[] ()
+Test 163 - Passes: 1, Fails: 5, Total: 6
+
+----------
+Test 164/281: Paulsen oajvvaduvvám bajemusán
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[164/281][FAIL fn2] Paulsen oajvvaduvvám:Paulsen la oajvvaduvvám (missing, (missing)) => :[] ()
+Test 164 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 165/281: Lars Filip Paulsen, Divtasvuonas la oajvvaduvvam bajemus sadjáj Oalgesbelludagá listan sámedikkeválggaj.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[165/281][FAIL fn2] sámedikkeválggaj:sámediggeválggaj (cmp,gen-nom, (cmp,gen-nom)) => :[] ()
+Test 165 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 166/281: Oalgesbelludak oajvvat Lars Filip Paulsen, Ájluovtas Divtasvuonan bajemus sadjáj dán tjavtja sámedikkeválggaj Viestarmera válggabijran.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[166/281][FAIL fn2] Paulsen:Paulsenav (case,nom-acc, (case,nom-acc)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[166/281][FAIL fn2] sámedikkeválggaj:sámediggeválggaj (cmp,gen-nom, (cmp,gen-nom)) => :[] ()
+Test 166 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 167/281: Paulsen la Divtasvuona suohkanpolitihkkár Aktisasjlistan gåsi belludagá Oalges -, Gårå -, Krisstalasj álmmukbelludak - ja Belludahtága gulluji.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[167/281][PASS tn] : (, ()) => :[] ()
+Test 167 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 168/281: Sån la aj sadjásasj ájras Divtasvuona åvddånammadusán ja stuoves ájras Doajmmenammadusán.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[168/281][PASS tn] : (, ()) => :[] ()
+Test 168 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 169/281: Lars Filip Paulsen barggá sámegiella rádevadden Árran - julevsáme guovdátjin ja la udnásj NSR:a sámedikkeájrrasa, Miriam Paulsen:a viellja.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[169/281][FAIL fn2] sámegiella:sámegiela (case, (case)) => :[] ()
+Test 169 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 170/281: Dán bále la vuostasj bále gå Oalgesbelludak tsieggi listav sámedikkeválggaj Viestarmera válggabijran.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[170/281][PASS tp] la:l (cop, (cop)) => la:[l] (msyn-l-not-la)
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[170/281][FAIL fn2] sámedikkeválggaj:sámediggeválggaj (cmp,gen-nom, (cmp,gen-nom)) => :[] ()
+Test 170 - Passes: 1, Fails: 1, Total: 2
+
+----------
+Test 171/281: Nominasjåvnnåtjåhkanibme Bådåddjon
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[171/281][PASS tn] : (, ()) => :[] ()
+Test 171 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 172/281: Oalgesbelludagá nominasjåvnnåtjåhkanibme Viestarmera válggabijran la Bådåddjon, bierjjedagá ådåjakmáno 18. biejve. Dála oajvvaduvvam lissta:
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[172/281][FAIL fn2] Bådåddjon:Bådådjon (conc,ddj-dj, (conc,ddj-dj)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[172/281][FAIL fn2] Dála oajvvaduvvam:Dála l oajvvaduvvam (missing, (missing)) => :[] ()
+Test 172 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 173/281: 1. Lars Filip Paulsen, 33 jagák, Divtasvuodna
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[173/281][PASS tn] : (, ()) => :[] ()
+Test 173 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 174/281: 2. Aili Kirste Solheim Strømeng, 18 jagák, Vestvågøy
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[174/281][PASS tn] : (, ()) => :[] ()
+Test 174 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 175/281: 4. Åshild Jessen, 25 jagák, Divtasvuodna
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[175/281][PASS tn] : (, ()) => :[] ()
+Test 175 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 176/281: 5. Frank-‐Håvard Storvik, 43 jagák, Bådåddjo
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[176/281][PASS tn] : (, ()) => :[] ()
+Test 176 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 177/281: 8. Line Maria Berglund, 37 jagák, Ándá
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[177/281][PASS tn] : (, ()) => :[] ()
+Test 177 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 178/281: 9. Arnhild Lindback, 26 jagák, Hábmer
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[178/281][PASS tn] : (, ()) => :[] ()
+Test 178 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 179/281: 10. Andreas Mikkelsen, 28 jagák, Divtasvuodna
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[179/281][PASS tn] : (, ()) => :[] ()
+Test 179 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 180/281: Filip Mikkelsen ij sebra
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[180/281][PASS tn] : (, ()) => :[] ()
+Test 180 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 181/281: Divtasvuona suohkanpolitihkkár ja sadjásasj jådediddje Oalgesbelludagá sámepolitihkalasj juohkusin , Filip Mikkelsen ij la oajvvaduvvam gånnån sajen dán listan.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[181/281][FAIL fp2] : (, ()) => juohkusin ,:[juohkusin,] (space-before-punct-mark)
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[181/281][FAIL fn2] sajen:sadjáj (case,ine-ill, (case,ine-ill)) => :[] ()
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[181/281][FAIL fn2] gånnåk:makkirak (w, (w)) => :[] ()
+Test 181 - Passes: 0, Fails: 3, Total: 3
+
+----------
+Test 182/281: Filip Mikkelsen tjielggi manen sån ij la listan jus ga sån la lista duogen.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[182/281][FAIL fn2] jus ga:juska (cmp,X-1;conc,sg-sk, (cmp,X-1;conc,sg-sk)) => :[] ()
+Test 182 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 183/281: – Suohkanpolitihkka la munji nuoges doajmma ja mån iv hálida sæbrrat sámedikkepolitihkkárin. Sidáv aj lahtjet sájev nuorap ulmutjijda, le má sidja gudi li sámedikke boahtte ájgge, javllá Mikkelsen NRK:aj. Viestarmera válggabijrra
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[183/281][PASS tp] la:l (cop, (cop)) => la:[l] (msyn-l-not-la)
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[183/281][FAIL fn2] boahtte ájgge:boahtteájgge (cmp,-X-1, (cmp,-X-1)) => :[] ()
+Test 183 - Passes: 1, Fails: 1, Total: 2
+
+----------
+Test 184/281: Viestarmera válggabijrra la akta gietjav válggabijrajs sámedikkeválggaj. Divrráid, Siellaga, Loabága, Rivttaga, Skániid, Ivvárstáđiid, Harstad, Bjarkøy, Giehtavuona, Ánddasullo, Ikšnášši, Bieváid, Suortta, Válafierdda, Voagaj, Vestvågøy, Flakstad, Moskenes, Værøy, Røst, Lådiga, Dielddanuori, Evenášši, Nárvijka, Bálága, Divtasvuona, Hábmera, Stájgo, Oarjjelij Fuoldá, Bådådjo, Fuosko, Sáláda, Oarjelij Bájddára, Bájddára ja Meløy suohkana gulluji dán válggabijrraj. Oalgesbelludagán la uddni akta ájras Sámedikken.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[184/281][PASS tp] gietjav:gietjat (konrg,num, (konrg,num)) => gietjav:[gietjat, gietja] (msyn-numeral-parcasecongr)
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[184/281][PASS tp] válggabijrajs:válggabijras (noun,num,kongr, (noun,num,kongr)) => válggabijrajs:[válggabijras] (msyn-numeral-attr)
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[184/281][FAIL fp2] : (, ()) => la:[l] (msyn-l-not-la)
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[184/281][FAIL fp2] : (, ()) => akta:[avtav, åvtåv] (msyn-numeral-acccasecongr-akta)
+correct-no-gs/converted/smj/news/NRK/2013/paulsen_oajvvaduvvam_bajemussan_08012013.correct.txt.xml
+[184/281][FAIL fn2] sámedikkeválggaj:sámediggeválggaj (cmp,gen-nom, (cmp,gen-nom)) => :[] ()
+Test 184 - Passes: 2, Fails: 3, Total: 5
+
+----------
+Test 185/281: – Vijmak julevsáme dålkkum Sámedikken
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[185/281][PASS tn] : (, ()) => :[] ()
+Test 185 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 186/281: Sámedikkeájras Kirsti Guvsám ávvus gå dálla la julevsáme dålkkå Sámedikken.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[186/281][PASS tp] la:l (cop, (cop)) => la:[l] (msyn-l-not-la)
+Test 186 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 187/281: Sámedikkeájras Kirsti Guvsám la riek ávon gå Sámedikken vijmak la julevsáme dålkkumdievnastus sajen.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[187/281][PASS tn] : (, ()) => :[] ()
+Test 187 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 188/281: – Dát beras luluj juo láŋŋga sajen, javllá Guvsám.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[188/281][PASS tn] : (, ()) => :[] ()
+Test 188 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 189/281: Dán ideda gå sámedikkeájrrasa tjåhkanin ållestjåhkanibmáj Kárášjogån de diededij Sámedikke tjåhkanimjådediddje Jarle Jonassen dálla l sihke nuortta- julev- ja oarjjelsámegiela dålkkumdievnastus sajen Sámedikken.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[189/281][PASS tn] : (, ()) => :[] ()
+Test 189 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 190/281: – Miján la sihke nuorttasáme, julevsáme ja oarjjelsáme dålkkå dán ållestjåhkanimen, så sidjij gudi sihti ietjasa sámegielajt adnet de la dat dálla máhttelis, javlaj Jonassen.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[190/281][PASS tn] : (, ()) => :[] ()
+Test 190 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 191/281: Åhtsålij julevsáme dålkkumdievnastusáv
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[191/281][PASS tn] : (, ()) => :[] ()
+Test 191 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 192/281: Vásse tjavtja gulájma sámedikkeájras Kirsti Guvsám gut åhtsålij julevsáme dålkkumdievnastusáv Sámedikken.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[192/281][FAIL fn2] Guvsám:Guvsámav (case,nom-acc, (case,nom-acc)) => :[] ()
+Test 192 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 193/281: Dalutjij ij lim sierra julevsáme dålkkå Sámedikken, valla sij gudi dålkkuji nuorttasámegiellaj aj dålkkujin jus julevsámegiellaj håladuváj.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[193/281][PASS tn] : (, ()) => :[] ()
+Test 193 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 194/281: – Mån sávav sierra julevsáme dålkåv. Sámedigge ham vuorddá háldadimsuohkana gudi li sámegiela háldadimguovlon galggi dievnastit sábmáj ietjasa addnijt, valla Sámedigge iesj ij la sæmmi tjiehppe dav fállat julevsámegiellaj ja oarjjelsámegiellaj, javlaj Guvsám dijmmá tjavtja.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[194/281][FAIL fp2] : (, ()) => gudi:[ma, maha, mahá] (msyn-gut-mij)
+Test 194 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 195/281: – Dát la buorre
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[195/281][PASS tn] : (, ()) => :[] ()
+Test 195 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 196/281: Ja dán bále de lij julevsáme dålkkå sajen Sámedikken gå ållestjåhkanibme álgij.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[196/281][PASS tn] : (, ()) => :[] ()
+Test 196 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 197/281: – Dát la buorre. Mij lip dáv viehke mælggadav vuorddám ja mån ávvusav gå de vijmak la julevsáme dålkkå dánna, javllá Guvsám.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[197/281][FAIL fn2] viehke:viehka (vowlat,e-a, (vowlat,e-a)) => :[] ()
+Test 197 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 198/281: Guvsám gut iesj ij la julevsámegiela vuostasjgielak vuojnná aj máhttelisvuohtan gullat julevsámegielav Sámedikke tjåhkanimen oassen suv giellaoahppamis.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[198/281][FAIL fp2] : (, ()) => gut:[mij] (msyn-gut-mij)
+Test 198 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 199/281: – Jus dal dålkkuduvvá julevsámegiellaj de máhtáv ham mån sámegielav oahppat navti. Ja munji aj sjaddá dálla máhttelis iehtja sámástit ja dat la buorre. Dat dal munji sjaddá hásstalussan gå iesj iv máhte julevsámegielav nav buoragit, valla dálla l gåjt munji máhttelis dav dahkat. Ja diehttelis de hæhttutjav de dálla sábmáj hållagoahtet, javllá Guvsám.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[199/281][PASS tn] : (, ()) => :[] ()
+Test 199 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 200/281: Sån árvvet dát dás-duohku sjaddá stuoves fálaldahkan.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[200/281][PASS tn] : (, ()) => :[] ()
+Test 200 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 201/281: – Dát beras luluj juo láŋŋga sjaen ja diehttelis árvvedav dát sjaddá doajmmat juohkka bále gå midja tjåhkanip Sámedikken, dættot sån.
+
+----------
+correct-no-gs/converted/smj/news/NRK/2013/julevsame_daalkkum_27022013.correct.txt.xml
+[201/281][PASS tn] : (, ()) => :[] ()
+Test 201 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 202/281: Håhåååj
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[202/281][PASS tn] : (, ()) => :[] ()
+Test 202 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 203/281: Buoris uddni. 17 biejve vil studænntaj! Gålmmå skåvllåjage li juo vássám. Våjvååj,na  majt dal?? Vuostasj bále muv iellemin gå iv diede majt dahkat gå tjaktja boahtá. Gå iv la juo mierredam majt galgav dahkat. Gå nuorajskåvlåv ålli, de diedá ahte viertti válljit joarkkaskåvlåv. Valla dálla la friddja dahkat jur majt sidá. Joarkket allaskåvlåjn, barggat, ræjssut jali ietjá. Navti le sihkarit ållessjattugijn sjaddat. Iesj diehtet ja mierredit. Mån lav åhtsåm guokta universitehtajda, valla dåbdåv ahte iv riek ájn sidá studerigoahtet. Sjattav barggat juonná, la gåjt pládna. Guhkahav Vuodnaj. Valla gånnå barggat iv diede. Doajvov måj Per Mathisijn sjaddin sæmmi bájken gåjt.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[203/281][PASS tp] guokta:guovte (kongr,num, (kongr,num)) => guokta:[guovte] (msyn-numeral-casecongr)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[203/281][PASS tp] universitehtajda:universitähttaj (noun,kongr,num, (noun,kongr,num)) => universitehtajda:[universitähttaj] (msyn-numeral-attr)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[203/281][FAIL fp2] : (, ()) => :[na majt] (double-space-before)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[203/281][FAIL fp2] : (, ()) => la:[l] (msyn-l-not-la)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[203/281][FAIL fp2] : (, ()) => le:[la, l] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[203/281][FAIL fn2] muv:ietjam (w,pers-refl, (w,pers-refl)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[203/281][FAIL fn2] ållessjattugijn:ållessjattugin (fin,jn-n, (fin,jn-n)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[203/281][FAIL fn2] riek:rat (adv-pcle, (adv-pcle)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[203/281][FAIL fn2] riejssit:manádit (w, (w)) => :[] ()
+Test 203 - Passes: 2, Fails: 7, Total: 9
+
+----------
+Test 204/281: Dálla ietjá ássjáj.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[204/281][PASS tn] : (, ()) => :[] ()
+Test 204 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 205/281: Ævtásj rájes le boahtám galle artihkkala median da biledimij birra mij dahpaduvvin Jåhkåmåhke márnánin 2011. Guokta næjtso bileduvvin åvtå báhtjas Guovddogæjnos ja akta!!! Kárásjjågås. Næjtso ettjin dåbdå nubbe nubbáj. Median tjuodtju ahte facebookan gávnnu juohkus ulmutjijda guhti doarjodi dáv báhtjav Kárásjjågås. Ulmutjijda guhti jáhkki báhtjajda, guhti vuornodibá biledimev. Dán juohkusin li sebrulattja d.d. polijsa, politihkkára ja journalista. Almulasj ulmutja doarjodi biledimbáhtjajda. Dåbdåv måjdås. Báhtja li GUOKTE duobbmidallám duobbmoståvlås. Ij la dat nuoges vuosedit ahte såj libá siválattja? Sábmen le læhkám ahte ij dákkár ássjij birra sáhkadit, ja diehttelis viertti jáhkket fuolkkáj ja nav... Usjudaláv næjtsojda gå dát ássje ij guossak hiejte. Ja væráp le vuojnnet ahte æbá jáhkeduvá!!! muhtemijs. Jáhkáv muhtemijda le ájgge válldes ierijt tjalmmetjadnasav!
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][PASS tp] Ævtásj:Ævtátja (nom-gen, (nom-gen)) => Ævtásj:[Ævtátja] (msyn-nom-gen-Po)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][PASS tp] mij:ma (pron,kongr, (pron,kongr)) => mij:[ma, maha, mahá] (msyn-congr-mij-ma)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][PASS tp] guhti:gudi (pron,kongr, (pron,kongr)) => guhti:[gudi] (msyn-congr-mij-ma)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][PASS tp] guhti:gudi (pron,kongr, (pron,kongr)) => guhti:[gudi] (msyn-congr-mij-ma)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][PASS tp] guhti:gudi (pron,kongr, (pron,kongr)) => guhti:[gudi] (msyn-congr-mij-ma)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fp2] : (, ()) => le:[li, la] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fp2] : (, ()) => le:[li, la] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fp2] : (, ()) => ...:[…] (ellipsis)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fp2] : (, ()) => le:[la] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fp2] : (, ()) => le:[l] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fn2] galle:moadda (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fn2] da:daj (kongr,pron, (kongr,pron)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fn2] åvtå:åvtåt (kongr,num, (kongr,num)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fn2] nubbáj:nuppev (case, (case)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fn2] juohkus:juogos (infl, (infl)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fn2] biledimbáhtjajda:biledimbáhtjajt (case, (case)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fn2] måjdås:måjddåsav (case, (case)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fn2] vuosedit:vuosedittjat (infl,inf-sup, (infl,inf-sup)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fn2] Sábmen:Sámen (conc,bm-m,ess-ine, (conc,bm-m,ess-ine)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fn2] læhkám:læhkám nav (missing, (missing)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fn2] sáhkadit:galga sáhkadit (missing, (missing)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fn2] Usjudaláv næjtsojda:Usjudaláv næjtsoj birra ({mix,missing, ({mix,missing)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[205/281][FAIL fn2] válldes:válldet (fin,s-t, (fin,s-t)) => :[] ()
+Test 205 - Passes: 5, Fails: 18, Total: 23
+
+----------
+Test 206/281: Næjtso oadtjoba ålles muv doarjov. Ja ienemusoasse ietjá ulmutjijs.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[206/281][FAIL fn2] doarjov:dårjav (vowc,oa-å;vowlat,o-a, (vowc,oa-å;vowlat,o-a)) => :[] ()
+Test 206 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 207/281: Mijá Tjierrekluokta
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[207/281][PASS tn] : (, ()) => :[] ()
+Test 207 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 208/281: Tjåhkkåhiv facebookan {gæhttjamin Berit ibme gåvåjt gieses 2010. Gåvå tjierrekluovtas. Mijá párádijssa. Guhkahav gæssáj desik bessav vas Luoktaj vuolgget.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[208/281][FAIL fn2] Berit ibme:Berit-ibme (cmp,X-hyph, (cmp,X-hyph)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[208/281][FAIL fn2] gieses 2010:2010 gieses (wo, (wo)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[208/281][FAIL fn2] tjierrekluovtas:Tjierrekluovtas (cap, (cap)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[208/281][FAIL fn2] Berit-ibme:Berit-ime (case,nom-gen, (case,nom-gen)) => :[] ()
+Test 208 - Passes: 0, Fails: 4, Total: 4
+
+----------
+Test 209/281: Gáppte
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[209/281][PASS tn] : (, ()) => :[] ()
+Test 209 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 210/281: Åvdep ájllega lidjiv Rachela vega lunna goarromin. Ållijiv gáptijn, ja sjaddiv riek dudálasj dajna. sjaddá hærmmat suohtas dav adnet bálan/studentan! Ieddne l avev snjissjkum ja la låhtågoahtám vuoddagijt ja aj sliehpáv goarromin. Tjiehpes æddnám :)
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[210/281][FAIL fp2] : (, ()) => lidjiv:[lidjin] (syn-number_congruence-subj-verb)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[210/281][FAIL fn2] sjaddá:Sjaddá (cap, (cap)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[210/281][FAIL fn2] aj:la aj (missing, (missing)) => :[] ()
+Test 210 - Passes: 0, Fails: 3, Total: 3
+
+----------
+Test 211/281: Ållo gijtto Rachelij buorre viehke åvdås!!
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[211/281][PASS tn] : (, ()) => :[] ()
+Test 211 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 212/281: Åvdep lávvodagá lij muv riegádumbiejvve. Hávsskes biejvve lij, ja vil gáhkov oadtjiv! (Måj PMajn báhkkujma aktan) Lij riek njálgge. Ja mielke dagá.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[212/281][PASS tn] : (, ()) => :[] ()
+Test 212 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 213/281: Idet vuolgáv Fossbakkeni. Hávsskes ájllek vuorddá :)
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[213/281][PASS tn] : (, ()) => :[] ()
+Test 213 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 214/281: Buoris vas!
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[214/281][PASS tn] : (, ()) => :[] ()
+Test 214 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 215/281: Mån lav nav nievrre sjaddam dánna tjállet! Huomahiv gå lidjiv Naima bloggan låhkåmin ahte mån vierttiv ienebuv tjállegoahtet. Nav suohtas suv bloggav tjuovvot gå dat la dåssju sámegiellaj tjálledum. Lidjiv sihtat ienep sámebloggajt låhkåt! Gå mujna ij la vil sámegiella skåvlån la ájn ájnnasabbo dánna tjálláv. Adnet gielav le nav ájnas gå sámegiella la árvulasj giella. Mån sidáv gielav vaddet muv mánájda, ja sidáv muv áhkkova (riekta?) galggi gielav oadtjot. Suddo gå ittjiv sámegielajn oadtjuv joarkket skåvlån. Dálla ij la nuoges ájgge vil skåvlås. Dåssju 6 váhko, ja iv háhppida dajt 60 tijmajt adnet dan ájgen. Mujna l ållo ietjá bargo aj ma vierttiji gærggat.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[215/281][PASS tp] Lidjiv:Ledjiv (cop, (cop)) => Lidjiv:[Ledjiv] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[215/281][PASS tp] la:l (cop, (cop)) => la:[l] (msyn-l-not-la)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[215/281][PASS tp] dajt:da (pron,kongr,num, (pron,kongr,num)) => dajt:[da, daha] (msyn-numerals-with-demopron)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[215/281][PASS tp] tijmajt:tijma (noun,kongr,num, (noun,kongr,num)) => tijmajt:[tijma] (msyn-numeral-accattr)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[215/281][FAIL fp2] : (, ()) => le:[la] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[215/281][FAIL fn2] nievrre:lájkke (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[215/281][FAIL fn2] suohtas:suohtas la (missing, (missing)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[215/281][FAIL fn2] vil:desti (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[215/281][FAIL fn2] tjálláv:tjálav (conc,ll-l, (conc,ll-l)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[215/281][FAIL fn2] Suddo:Suddo l (missing, (missing)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[215/281][FAIL fn2] oadtjuv:oattjo (infl, (infl)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[215/281][FAIL fn2] adnet:tjadádit (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[215/281][FAIL fn2] gærggat:gárveduvvat (pass, (pass)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[215/281][FAIL fn2] tjálav:tjállet (infl, (infl)) => :[] ()
+Test 215 - Passes: 4, Fails: 10, Total: 14
+
+----------
+Test 216/281: Biejav gåvåv dálvveloabes gå lijma Åren.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[216/281][PASS tn] : (, ()) => :[] ()
+Test 216 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 217/281: Muohtatjalmme
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[217/281][PASS tn] : (, ()) => :[] ()
+Test 217 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 218/281: Lav skåvlån dálla. Hæjttám, valla galgav dánna barggat nielje rádjáj. Sijdan agev ietjá bargojt gávnav. Duola dagu rádjat, bládijt låhkåt ja másjijnan surffit. Dánna skåvlån aj dåssju másjijnan tjåhkkåhav, facebookan, Freecell spelav ja musihkav gulldalav. Valla muhttijn båttåtjav váldáv ja skåvllåbargojn bargav ;)
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[218/281][PASS tp] Lav:Lev (cop, (cop)) => Lav:[Lev] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[218/281][FAIL fp2] : (, ()) => bargav ;:[bargav;] (space-before-punct-mark)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[218/281][FAIL fn2] Freecell spelav:Freecell-spelav (cmp,hyph, (cmp,hyph)) => :[] ()
+Test 218 - Passes: 1, Fails: 2, Total: 3
+
+----------
+Test 219/281: Ájllegin lav Josefijna lunna Jielleváren årrum. Buorre ja hávsskes ájllek. Lin skoterav vuoddjám, tjuojggam, stádan vádtsám, filmajt gæhttjam (oadám madin filmav gæhttjam), vuoptajt bájnnum ja aj slåppåjt stiellim.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[219/281][PASS tp] Lin:Len (cop, (cop)) => Lin:[Len] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[219/281][FAIL fn2] vuoddjám:vuodjám (conc,ddj-dj, (conc,ddj-dj)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[219/281][FAIL fn2] bájnnum:bájnnim (vowlat,u-i, (vowlat,u-i)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[219/281][FAIL fn2] skuhter:muohtavuojánav (foreign, (foreign)) => :[] ()
+Test 219 - Passes: 1, Fails: 3, Total: 4
+
+----------
+Test 220/281: Biejav muhtem gåvåjt åvdep ájllegis.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[220/281][PASS tn] : (, ()) => :[] ()
+Test 220 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 221/281: Maŋŋela galgav caféaj Per Jonasijn. Fijkkit ja ságastit.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[221/281][FAIL fn2] Fijkkit:Svarkestit (foreign, (foreign)) => :[] ()
+Test 221 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 222/281: Vijmak Gierunin! Buoris gájka!
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[222/281][PASS tn] : (, ()) => :[] ()
+Test 222 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 223/281: Lav ierijt læhkám guokta vahko, valla dálla lav ræjsos ållim. Gierunin, ja skåvllå le vas álggám. Snåsan, Åren, Valsjöbyn ja Ubmemin lin måj Per Mathisijn årrum. Gal le riek suohtas læhkám! Valla dálla lin vájbbam,
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[223/281][PASS tp] Lav:Lev (cop, (cop)) => Lav:[Lev] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[223/281][PASS tp] le:l (cop, (cop)) => le:[l] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[223/281][FAIL fp2] : (, ()) => le:[li, la] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[223/281][FAIL fn2] vájbbam,:vájbbam. (punct, (punct)) => :[] ()
+Test 223 - Passes: 2, Fails: 2, Total: 4
+
+----------
+Test 224/281: Sáme vahkkon Ubmemin lijma dáv ájllega. Årojma buorre rádna lunna, Evelina. Mij lip graffitiv mállim, ja sisbandyav spellam. Ållo ulmutjijt iejvvim, ja konsertajt gulldalam.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[224/281][FAIL fn2] vahkkon:vahkon (conc,hkk-hk, (conc,hkk-hk)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[224/281][FAIL fn2] dáv:dán (kongr,pron, (kongr,pron)) => :[] ()
+Test 224 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 225/281: Åjllastit, mij la suohtastallat ubmesámegiellaj :)
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_6.correct.txt.xml
+[225/281][PASS tn] : (, ()) => :[] ()
+Test 225 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 226/281: duorastak
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[226/281][PASS tn] : (, ()) => :[] ()
+Test 226 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 227/281: Åjåj gåk vahkko gålggin, la juo duorastak, várgga mángemus biejvve åvddål ájllek vas. Valla ij la mån moaren dan birra! Dálla lav gåjt jur biedjam lasagnav vuodnáj ja vuordáv dav. Gå lav bårråm de vas vierttiv Jiellevárraj vas, munja l máj iehkedåhpådibbme dárogielan....
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[227/281][PASS tp] ij:iv (neg,verb,kongr,subj-verb, (neg,verb,kongr,subj-verb)) => ij:[iv] (syn-number_congruence-subj-verb)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[227/281][FAIL fp2] : (, ()) => biejvve:[biejve] (msyn-nom-gen-Po)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[227/281][FAIL fp2] : (, ()) => ...:[…] (ellipsis)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[227/281][FAIL fn2] vahkko:vahko (noun,kongr,subj-verb, (noun,kongr,subj-verb)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[227/281][FAIL fn2] gålggin:gållin (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[227/281][FAIL fn2] la:le (cop, (cop)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[227/281][FAIL fn2] åvddål:åvddål la (missing, (missing)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[227/281][FAIL fn2] birra:diehti (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[227/281][FAIL fn2] vas: (redun, (redun)) => :[] ()
+Test 227 - Passes: 1, Fails: 8, Total: 9
+
+----------
+Test 228/281: Tjáláv ietja biejve, adnit buoragijt! tjállám: Naima kloahkká 07:47
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[228/281][FAIL fn2] ietja:ietjá (vowlat,a-á, (vowlat,a-á)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[228/281][FAIL fn2] buoragijt:buoragit (fin,jt-t, (fin,jt-t)) => :[] ()
+Test 228 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 229/281: Majt aná dán birra?
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[229/281][PASS tn] : (, ()) => :[] ()
+Test 229 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 230/281: Båris båris
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[230/281][PASS tn] : (, ()) => :[] ()
+Test 230 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 231/281: Dálla lav vijmak sijdan! Lav lähkám räjson, VAS. Dán bále lidjiv utbildningin. Dåbddåv dal ahte lav vájbbam gålggåmis nav. Valla muv mielas la riek suohtas adnet juojdda dahkat gå le vahkoloahppe valla vájbba dav máj aj. Boahtte ájllega de manáv aj ierit, de la vas gilbbusa Haparanda lahkosin. Ja dan mangela le aj gilbbusa  ja nav sjaddá liehket dasik mangela Kanada. Valla {ijkkuv mån dav, mån lav ávon ahte oattjov ja máhttáv hárjjidallat majt sidáv.
+
+----------
+correct-no-gs/converted/smj/ficti/blogg/blogg_3.correct.txt.xml
+[231/281][PASS tp] Lav:Lev (cop, (cop)) => Lav:[Lev] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/ficti/blogg/blogg_3.correct.txt.xml
+[231/281][FAIL fp2] : (, ()) => le:[l, la] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/ficti/blogg/blogg_3.correct.txt.xml
+[231/281][FAIL fp2] : (, ()) => :[gilbbusa ja] (double-space-before)
+correct-no-gs/converted/smj/ficti/blogg/blogg_3.correct.txt.xml
+[231/281][FAIL fn1] le:li (verb,kongr, (verb,kongr)) => le:[] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/ficti/blogg/blogg_3.correct.txt.xml
+[231/281][FAIL fn2] utbildningin:åhpadusán (foreign,swe, (foreign,swe)) => :[] ()
+correct-no-gs/converted/smj/ficti/blogg/blogg_3.correct.txt.xml
+[231/281][FAIL fn2] nav:náv (vowc,a-á, (vowc,a-á)) => :[] ()
+correct-no-gs/converted/smj/ficti/blogg/blogg_3.correct.txt.xml
+[231/281][FAIL fn2] dav:dassta (case, (case)) => :[] ()
+correct-no-gs/converted/smj/ficti/blogg/blogg_3.correct.txt.xml
+[231/281][FAIL fn2] la:li (verb,kongr, (verb,kongr)) => :[] ()
+correct-no-gs/converted/smj/ficti/blogg/blogg_3.correct.txt.xml
+[231/281][FAIL fn2] dav:dasi (case, (case)) => :[] ()
+correct-no-gs/converted/smj/ficti/blogg/blogg_3.correct.txt.xml
+[231/281][FAIL fn2] ahte:gå (w, (w)) => :[] ()
+correct-no-gs/converted/smj/ficti/blogg/blogg_3.correct.txt.xml
+[231/281][FAIL fn2] vájbbá dassta máj aj:vájbbá máj dassta aj (wo, (wo)) => :[] ()
+Test 231 - Passes: 1, Fails: 10, Total: 11
+
+----------
+Test 232/281: Dála l gålmmå gåvå ájllegis:
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[232/281][FAIL fp2] : (, ()) => gålmmå:[gålmå] (msyn-numeral-casecongr)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[232/281][FAIL fn2] l:li (cop,verb,kongr,subj-verb, (cop,verb,kongr,subj-verb)) => :[] ()
+Test 232 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 233/281: -
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[233/281][PASS tn] : (, ()) => :[] ()
+Test 233 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 234/281: tjállám: Naima kloahkká 12:23
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[234/281][PASS tn] : (, ()) => :[] ()
+Test 234 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 235/281: Persåsen ja Åsarna
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[235/281][PASS tn] : (, ()) => :[] ()
+Test 235 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 236/281: Buorisbuoris vas! Ådåjahke la juo vássam ja dálla lip juo gassko ådåjakmánon. Muv mielas la unnán imáj gå lip juo 2012:an. Vuoj gåk jage dåssju gålli! Ruvva lav 40 jage, bárggamin juornalistan ja hárjjidallen, årov nuore guoran Vuonan ja galgav  válddut ;) Hehe! Over to some serious talk de.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[236/281][FAIL fp2] : (, ()) => la:[l] (msyn-l-not-la)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[236/281][FAIL fp2] : (, ()) => ;:[Válddut;] (space-before-punct-mark)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[236/281][FAIL fn2] gassko ådåjakmánon:ådåjakmáno gassko (wo;case, (wo;case)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[236/281][FAIL fn2] unnán:vehik (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[236/281][FAIL fn2] gå lip juo:gå juo lip (wo, (wo)) => :[] ()
+Test 236 - Passes: 0, Fails: 5, Total: 5
+
+----------
+Test 237/281: Dálla lav gåjt minibussan tjåhkåhimen vas, dán bále mannamin Åsarnaj gilpotjit. Dán bále la dat skate sprindda ja 10 km klassisk. Sjaddá muv vuostasj 10 km gilppos, lav riek spändda gåk manná ja gåk galggá dåbbot. Le gåjt buorre hárjjidallam! Tjáláv ienep ietjá bále.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[237/281][FAIL fp2] : (, ()) => la:[l] (msyn-l-not-la)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[237/281][FAIL fn2] skate:salostam (foreign,eng, (foreign,eng)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[237/281][FAIL fn2] gilppos:gilpos (infl,conc,lpp-lp, (infl,conc,lpp-lp)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[237/281][FAIL fn2] galggá:sjaddá (w, (w)) => :[] ()
+Test 237 - Passes: 0, Fails: 4, Total: 4
+
+----------
+Test 238/281: Mån ja muv fijnna láve åvdep vahkko!
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[238/281][FAIL fn2] vahkko:vahko (noun,case,pp,nom-gen, (noun,case,pp,nom-gen)) => :[] ()
+Test 238 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 239/281: tjállám: Naima kloahkká 08:43
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[239/281][PASS tn] : (, ()) => :[] ()
+Test 239 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 240/281: Buorre javlla gájka
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[240/281][PASS tn] : (, ()) => :[] ()
+Test 240 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 241/281: Buorre javlla gájka, dálla manáv Ruoktoj muv vegajn. Buorre javlla, VAS!
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[241/281][FAIL fn2] muv:ietjam (w,pers-refl, (w,pers-refl)) => :[] ()
+Test 241 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 242/281: gåvvim: Ella-Maria Grape Nutti
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[242/281][PASS tn] : (, ()) => :[] ()
+Test 242 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 243/281: tjállám: Naima kloahkká 10:15
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[243/281][PASS tn] : (, ()) => :[] ()
+Test 243 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 244/281: Nergård/Kuoljok mánnávehka
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[244/281][PASS tn] : (, ()) => :[] ()
+Test 244 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 245/281: Iektu lijma ålles vehka stuoroappá Emma lunna Jielleváren. "Förjulsmys" ållo njálgugij!
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[245/281][FAIL fp2] : (, ()) => ":[”] (punct-aistton-both)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[245/281][FAIL fp2] : (, ()) => ":[”] (punct-aistton-both)
+Test 245 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 246/281: tjállám: Naima kloahkká 03:38
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[246/281][PASS tn] : (, ()) => :[] ()
+Test 246 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 247/281: JAVLLALOAHPE!!!!!
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[247/281][PASS tn] : (, ()) => :[] ()
+Test 247 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 248/281: Jippi, vijmak oaddtjuv javllaloabev. Oaddtjuv juo gasskaváhko! Åh man vuogas ja suohtas galggá sjaddat  vegajn ja fuolkkijn iejvvalit. JA bårråt ållo njálga javllabiebmojt, mums. Uddni mánnap gåjt Ruoktoj, galggap javllaiehkeda danna, ja gå lip danna lähkám nágin ija de vuodjáp Vuodnaj. Valla anáv aj ÅLLO skåvlåbárgojt moadda ...hmmm.
+
+----------
+correct-no-gs/converted/smj/ficti/blogg/blogg_3.correct.txt.xml
+[248/281][FAIL fp2] : (, ()) => :[sjaddat vegajn] (double-space-before)
+correct-no-gs/converted/smj/ficti/blogg/blogg_3.correct.txt.xml
+[248/281][FAIL fn2] javllaiehkeda:javllaiehkedav (case,gen-acc, (case,gen-acc)) => :[] ()
+correct-no-gs/converted/smj/ficti/blogg/blogg_3.correct.txt.xml
+[248/281][FAIL fn2] fuolkijn:fuolkij (case, (case)) => :[] ()
+Test 248 - Passes: 0, Fails: 3, Total: 3
+
+----------
+Test 249/281: Dálla vierttiv ålgus tjuojgatjit, valla dat muohta nav ålov ja iv diede jus láhto li vuojedum.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[249/281][FAIL fn2] dat: (redun, (redun)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[249/281][FAIL fn2] muohta:muohttá (conc,ht-htt;vowlat,a-á, (conc,ht-htt;vowlat,a-á)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[249/281][FAIL fn2] láhto:láhtto (conc,ht-htt, (conc,ht-htt)) => :[] ()
+Test 249 - Passes: 0, Fails: 3, Total: 3
+
+----------
+Test 250/281: tjállám: Naima kloahkká 03:35
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[250/281][PASS tn] : (, ()) => :[] ()
+Test 250 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 251/281: unna oappátja
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[251/281][FAIL fn2] unna oappátja:unnaoappátja (cmp,X-1, (cmp,X-1)) => :[] ()
+Test 251 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 252/281: Buorre iehket! Lav jur báhko(VAS!), dán bále báhkojiv sarremuffinsijt. Valla dán bále lij dat nav ahte muv unna oappátja lijga adnám gudik buoremus rádnav goassen, plus avtav ietja näjttsov dánna sijdan. Máhttebihtit jahket gåk goahte lij gå guok dájs guosijs lijga mánnam. Danen javlliv mån unnemus oabbáj ja suv ráddnaj ahte såj máhtijga tjårggit ålles goadev, ahte sjattáj riek tjårggå ja fijnnuk vas. Ja jus dagájga dav de javlliv ahte galggiv báhkot juojdda njálgugijt sunnuj. Ja diehtebihtit majt, såj tjårggijga ålles goadev ja dálla l goahte degu dat galggá vas. Hahah! Náv muffinsa sjaddin:
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[252/281][PASS tp] Lav:Lev (cop, (cop)) => Lav:[Lev] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[252/281][FAIL fn2] báhko:báhkkum (loan,mix, (loan,mix)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[252/281][FAIL fn2] unna oappátja:unnaoappátja (cmp,2-1, (cmp,2-1)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[252/281][FAIL fn2] gudik:guhtik (conc,d-ht, (conc,d-ht)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[252/281][FAIL fn2] plus:ja dasi duodden (foreign,swe, (foreign,swe)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[252/281][FAIL fn2] ietja:ietjá (vowlat,a-á, (vowlat,a-á)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[252/281][FAIL fn2] jahket:jáhkket (vowc,a-á;conc,hk-hkk, (vowc,a-á;conc,hk-hkk)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[252/281][FAIL fn2] guok:guovtes (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[252/281][FAIL fn2] tjårggit:tjårggistit (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[252/281][FAIL fn2] ahte:váj (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[252/281][FAIL fn2] tjårggijga:tjårggistijga (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[252/281][FAIL fn2] guhtik:goabbák (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[252/281][FAIL fn2] jáhkket:árvvedit (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[252/281][FAIL fn2] juojddá njálgugijt:juojddá mij la njálgge (x, (x)) => :[] ()
+Test 252 - Passes: 1, Fails: 13, Total: 14
+
+----------
+Test 253/281: Dav lij máhttet jahket ahte da lidjin "american big size cookies".....
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[253/281][PASS tp] Lij:Lej (cop, (cop)) => Lij:[Lej] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[253/281][FAIL fp2] : (, ()) => "american:[] (punct-aistton-left)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[253/281][FAIL fp2] : (, ()) => cookies".....:[] (guillemets)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[253/281][FAIL fn2] Dav: (redun, (redun)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[253/281][FAIL fn2] lij:Lij (cap, (cap)) => :[] ()
+Test 253 - Passes: 1, Fails: 4, Total: 5
+
+----------
+Test 254/281: Ja de la muv tjiehppes ieddne aj báhkom juoga lágasj njálggajt, mån lav nabdám dajt "dumledream"
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[254/281][FAIL fp2] : (, ()) => la:[l] (msyn-l-not-la)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[254/281][FAIL fp2] : (, ()) => ":[”] (punct-aistton-both)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[254/281][FAIL fp2] : (, ()) => ":[”] (punct-aistton-both)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[254/281][FAIL fn2] juoga:soames (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[254/281][FAIL fn2] lágasj:lágásj (vowlat,a-á, (vowlat,a-á)) => :[] ()
+Test 254 - Passes: 0, Fails: 5, Total: 5
+
+----------
+Test 255/281: tjállám: Naima kloahkká 11:47
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[255/281][PASS tn] : (, ()) => :[] ()
+Test 255 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 256/281: Vijmak de gergajma gådijn
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[256/281][PASS tn] : (, ()) => :[] ()
+Test 256 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 257/281: Uddni lip mij unna nejtsutja dán goaden, peppargáhkogoadev biggim ja pynddim. Suohtas lij dat! Ja muv mielas sjattáj buorre. Lav iesj dáhkam sejnit, dähkkov ja dakkárijt. Dála båhti nágin gåvå:
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[257/281][PASS tp] Lav:Lev (cop, (cop)) => Lav:[Lev] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[257/281][FAIL fn2] pinntim:hiervvim (foreign,swe, (foreign,swe)) => :[] ()
+Test 257 - Passes: 1, Fails: 1, Total: 2
+
+----------
+Test 258/281: Åvddåbielle. Svijnne ja áhkásj tjuodtjoba uvsa goaran.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[258/281][PASS tn] : (, ()) => :[] ()
+Test 258 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 259/281: {Buorre javlla dimna! :D
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[259/281][FAIL fp2] : (, ()) => ::[] (space-before-punct-mark)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[259/281][FAIL fn2] dimna:dimnajda (indef,pron,case,nom-ill, (indef,pron,case,nom-ill)) => :[] ()
+Test 259 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 260/281: tjállám: Naima kloahkká 12:02
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[260/281][PASS tn] : (, ()) => :[] ()
+Test 260 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 261/281: Jielleváre tjuojgge
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[261/281][PASS tn] : (, ()) => :[] ()
+Test 261 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 262/281: :-D
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[262/281][PASS tn] : (, ()) => :[] ()
+Test 262 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 263/281: Dála l nágin mijás gudi lip dánna Lulleluspien.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[263/281][FAIL fn2] l:li (cop,verb,kongr,subj-verb, (cop,verb,kongr,subj-verb)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[263/281][FAIL fn2] nágin:nágina (indef,pron,kongr,indef-noun, (indef,pron,kongr,indef-noun)) => :[] ()
+Test 263 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 264/281: tjállám: Naima kloahkká 01:30
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[264/281][PASS tn] : (, ()) => :[] ()
+Test 264 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 265/281: Lulleluspie
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[265/281][PASS tn] : (, ()) => :[] ()
+Test 265 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 266/281: Buoris gájka!
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[266/281][PASS tn] : (, ()) => :[] ()
+Test 266 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 267/281: Dálla lav Lulleluspien (Östersund). Lav ållim diek uddni biejven ja ganugav dánna ájllegij. Dánna l Scandic Cup gilpposa gånnå galgav oassálasstet. Sjaddá riek suohtas vuojnnet ja dåbbdåt gåk rubmaj le. Iv la ájn gilpastam dán dálve så dát sjaddá muv vuostasj gilppos. Lávvordagá le klassisk sprinta ja ájllega le 5km skate}. Iektu lidjiv gåjt viedtjamin muv nuppijt ådå sábegijt, ådå skate Fischer. Lidjin tjáppada ja fijnuga, vuojnnus dal jus jåhtelijt manni. Lav aj oadttjum ådå klassisk Fischer, valla iv la ájn tjuojggam daj. Buorre ájllek didjide! Update gåk manná ja mannam le boahtá
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][PASS tp] Lav:Lev (cop, (cop)) => Lav:[Lev] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][PASS tp] Lav:Lev (cop, (cop)) => Lav:[Lev] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fp1] le:l (cop, (cop)) => le:[li] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fp1] le:la (cop, (cop)) => le:[li] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fp2] : (, ()) => le:[la] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fp2] : (, ()) => Lidjin:[Ledjin] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fp2] : (, ()) => le:[la] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fn2] ganugav:bátsáv (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fn2] l:li (cop,verb,kongr,subj-verb, (cop,verb,kongr,subj-verb)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fn2] gilpposa:gilppusa (vowlat,o-u, (vowlat,o-u)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fn2] så:danen (foreign,swe, (foreign,swe)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fn2] gilppos:gilpos (conc,lpp-lp, (conc,lpp-lp)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fn2] sprinta:sprinnta (loan,conc,nt-nnd, (loan,conc,nt-nnd)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fn2] ájllega:ájllegin (noun,case,gen-ine, (noun,case,gen-ine)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fn2] skate:salostibme (foreign,eng, (foreign,eng)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fn2] nuppijt: (redun, (redun)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fn2] skate:salostam (foreign,eng, (foreign,eng)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fn2] jåhtelijt:jåhtelit (fin,jt-t, (fin,jt-t)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fn2] manni:jåhti (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fn2] Update:Ådåsmahttem (foreign,eng, (foreign,eng)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[267/281][FAIL fn2] ja:ja gåk (, ()) => :[] ()
+Test 267 - Passes: 2, Fails: 19, Total: 21
+
+----------
+Test 268/281: tjállám: Naima kloahkká 13:36
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[268/281][PASS tn] : (, ()) => :[] ()
+Test 268 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 269/281: báhkomin
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[269/281][PASS tn] : (, ()) => :[] ()
+Test 269 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 270/281: Buoris vas! Lav jur dálla báhkomin "fransk peppargáhkojt". Sjáddiv inspirert stuoroappás gå lidjiv suv goassen dijstagá gasskaváhkoj . Sån lij báhkom dakkár gáhkojt juo ájggá ja lidjin riek njálge. Biedjiv dájgev jur vuodnáj ja vuordád desik bassum lij. Mums! Ja idet de galgav daj riekta peppargáhkojt báhkkot.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[270/281][PASS tp] Lav:Lev (cop, (cop)) => Lav:[Lev] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[270/281][FAIL fp2] : (, ()) => "fransk:[] (punct-aistton-left)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[270/281][FAIL fp2] : (, ()) => peppargáhkojt":[] (guillemets)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[270/281][FAIL fp2] : (, ()) => peppargáhkojt":[] (punct-aistton-right)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[270/281][FAIL fp2] : (, ()) => gasskaváhkoj .:[gasskaváhkoj.] (space-before-punct-mark)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[270/281][FAIL fn2] inspirert:Måvtåstuvviv (foreign,swe, (foreign,swe)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[270/281][FAIL fn2] dijstagá:dijstagás (case, (case)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[270/281][FAIL fn2] dakkár:dákkár (vowc,a-á, (vowc,a-á)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[270/281][FAIL fn2] Biedjiv dájgev jur vuodnáj:Biedjiv jur dájgev vuodnáj (wo, (wo)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[270/281][FAIL fn2] daj: (redun, (redun)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[270/281][FAIL fn2] Sjaddiv: (redun, (redun)) => :[] ()
+Test 270 - Passes: 1, Fails: 10, Total: 11
+
+----------
+Test 271/281: Náv muv "fransk peppargáhko" sjáddin:
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[271/281][FAIL fp2] : (, ()) => "fransk:[] (punct-aistton-left)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[271/281][FAIL fp2] : (, ()) => peppargáhko":[] (guillemets)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[271/281][FAIL fp2] : (, ()) => peppargáhko":[] (punct-aistton-right)
+Test 271 - Passes: 0, Fails: 3, Total: 3
+
+----------
+Test 272/281: Ällim nav njálge degu stuoroappá gáhko valla dåhkin da bájggalassen, majt javlla... Dála l gåk dahká:
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[272/281][FAIL fp2] : (, ()) => ...:[…] (ellipsis)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[272/281][FAIL fn2] nav:sæmmi (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[272/281][FAIL fn2] javlla:javllá (vowlat,a-á, (vowlat,a-á)) => :[] ()
+Test 272 - Passes: 0, Fails: 3, Total: 3
+
+----------
+Test 273/281: tjállám: Naima kloahkká 13:24
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[273/281][PASS tn] : (, ()) => :[] ()
+Test 273 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 274/281: Gåktu mån dálla ájádalliv?
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[274/281][PASS tn] : (, ()) => :[] ()
+Test 274 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 275/281: Mánen iv mån mánnam Ájluoktaj ja Oppájdáj????? Naima! Åh mån lav nav suhton. Mån gut lav nav vuorddám dáv lávvordagáv. Mån gut nav sihtiv bállov tjiektjat. Hivás!
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[275/281][FAIL fn2] iv:ittjiv (neg, (neg)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[275/281][FAIL fn2] mannam:maná (neg, (neg)) => :[] ()
+Test 275 - Passes: 0, Fails: 2, Total: 2
+
+----------
+Test 276/281: tjállám: Naima kloahkká 09:36
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[276/281][PASS tn] : (, ()) => :[] ()
+Test 276 - Passes: 1, Fails: 0, Total: 1
+
+----------
+Test 277/281: Vasse mánnodak
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[277/281][FAIL fn2] mánnodak:mánnodagá (case, (case)) => :[] ()
+Test 277 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 278/281: Dán mánnodak mij lij mij gålmmå näjttso goaden (majsing,joli ja mån) peppargáhkojt báhkijma. Mums, sjattáj riek njálgge, ja unna oappátja liba juo bårråm dimnajt. Dánen sidáv ienep báhkot. Vissa, mån dáhkuv aj siejnijt, dähkkov ja dakkár lágásj diñgajt peppargáhkkogoahtáj . Iv la ájn monterim dav, jáhkáv galgav uddni dáhkat.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[278/281][FAIL fp2] : (, ()) => .:[Peppargáhkkogoahtáj.] (space-before-punct-mark)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[278/281][FAIL fn2] mánnodak:mánnodagá (case, (case)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[278/281][FAIL fn2] näjttso:näjtso (noun,kongr, (noun,kongr)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[278/281][FAIL fn2] unna oappátja:unnaoappátja (cmp,2-1, (cmp,2-1)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[278/281][FAIL fn2] ienep:ienebuv (case, (case)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[278/281][FAIL fn2] monterim:tsieggim (foreign,swe, (foreign,swe)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[278/281][FAIL fn2] galgav uddni dahkat:galgav uddni dav dahkat (missing, (missing)) => :[] ()
+Test 278 - Passes: 0, Fails: 7, Total: 7
+
+----------
+Test 279/281: Dála l nágin gåvå fijna peppargáhkojs:
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[279/281][FAIL fn2] l:li (verb,kongr, (verb,kongr)) => :[] ()
+Test 279 - Passes: 0, Fails: 1, Total: 1
+
+----------
+Test 280/281: Dálla lav vijmak sijdan! Lav lähkám räjson, VAS. Dán bále lidjiv utbildningin. Dåbddåv dal ahte lav vájbbam gålggåmis nav. Valla muv mielas la riek suohtas adnet juojdda dahkat gå le vahkoloahppe valla vájbba dav máj aj. Boahtte ájllega de manáv aj ierit, de la vas gilbbusa Haparanda lahkosin. Ja dan mangela le aj gilbbusa  ja nav sjaddá liehket dasik mangela Kanada. Valla lijkkuv mån dav, mån lav ávon ahte oattjov ja máhttáv hárjjidallat majt sidáv.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[280/281][PASS tp] Lav:Lev (cop, (cop)) => Lav:[Lev] (syn-to-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[280/281][FAIL fp2] : (, ()) => le:[l, la] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[280/281][FAIL fp2] : (, ()) => :[gilbbusa ja] (double-space-before)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[280/281][FAIL fn1] le:li (cop, (cop)) => le:[] (syn-from-sentence-init-copula)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[280/281][FAIL fn2] utbildningin:åhpadusán (foreign,swe, (foreign,swe)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[280/281][FAIL fn2] nav:náv (vowc,a-á, (vowc,a-á)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[280/281][FAIL fn2] dav:dassta (dem,pron,case,acc-ela, (dem,pron,case,acc-ela)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[280/281][FAIL fn2] la:li (cop,verb,kongr,subj-verb, (cop,verb,kongr,subj-verb)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[280/281][FAIL fn2] dav:dasi (dem,pron,case,lijkkut,acc-ill, (dem,pron,case,lijkkut,acc-ill)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[280/281][FAIL fn2] ahte:gå (w, (w)) => :[] ()
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[280/281][FAIL fn2] vájbbá dassta máj aj:vájbbá máj dassta aj (wo, (wo)) => :[] ()
+Test 280 - Passes: 1, Fails: 10, Total: 11
+
+----------
+Test 281/281: Jippi, vijmak oaddtjuv javllaloabev. Oaddtjuv juo gasskaváhko! Åh man vuogas ja suohtas galggá sjaddat  vegajn ja {fuolkkijn iejvvalit. JA bårråt ållo njálga javllabiebmojt, mums. Uddni mánnap gåjt Ruoktoj, galggap javllaiehkeda danna, ja gå lip danna lähkám nágin ija de vuodjáp Vuodnaj. Valla anáv aj ÅLLO skåvlåbárgojt moadda ...hmmm.
+
+----------
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[281/281][FAIL fp2] : (, ()) => :[sjaddat vegajn] (double-space-before)
+correct-no-gs/converted/smj/blogs/blogg/blogg_3.correct.txt.xml
+[281/281][FAIL fn2] javllaiehkeda:javllaiehkedav (noun,case,gen-acc, (noun,case,gen-acc)) => :[] ()
+Test 281 - Passes: 0, Fails: 2, Total: 2
+
+Total passes: 199, Total fails: 384, Total: 583
+True positive: 53
+True negative: 146
+False positive 1: 4
+False positive 2: 104
+False negative 1: 3
+False negative 2: 273
+Precision: 32.9%
+Recall: 16.1%
+F₁ score: 21.6%
