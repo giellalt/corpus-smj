@@ -3,7 +3,7 @@
 <p xml:lang="nob"><errorlang>Foto<correct>nor</correct></errorlang>: Berit Nystad/NRK</p>
 <p>Dála l máhttelisvuohta journalisstan barggat.</p>
 <p xml:lang="nno">Harrieth Aira <errorlang>harrieth.aira@nrk.no<correct>url</correct></errorlang></p>
-<p>Ragátmáno 2. biejve rájes la <errorlex>nælljásijda<correct>nælljásij</correct></errorlex> máhttelisvuohta oadtjot mediaåhpadusáv NRK Sámen guhtta máno.</p>
+<p>Ragátmáno 2. biejve rájes la <errorlex>nælljásijda<correct errorinfo="w">nælljásij</correct></errorlex> máhttelisvuohta oadtjot mediaåhpadusáv NRK Sámen guhtta máno.</p>
 <p>Åhpadus bálkájn</p>
 <p>Åhpadusán la sihke <errorort>teorija<correct>teorijja</correct></errorort> ja barggohárjjidallam.</p>
 <p>Hárjjidallamájgen oadtju oahppe bálkáv ja gå ållim la hárjjidallamåsijn máhttá oahppe duodden oadtjot 50 000 kråvnå stipænndan jus vállji media- ja journalisstaåhpadusán joarkket.</p>
@@ -13,7 +13,7 @@
 <p>Maŋŋel hárjjidallamájge galggá oahppen liehket buorre máhttelisvuohta bessat media -ja journalisstafágalasj åhpadusájda álgget.</p>
 <p>Oahppehárjjidallam le NRK Sáme oajvvedåjmadusán <errorort>Kárášjågån<correct errorinfo="conwb,š-sj">Kárásjjågån</correct></errorort></p>
 <p>Oahppe vierttiji ållim joarkkaskåvlåjn <errorsyn>jali muodugasj máhtudahka<correct errorinfo="missing">jali de viertti siján liehket muodugasj máhtudahka</correct></errorsyn>.</p>
-<p>{Gájbbeduvvá aj buorre sámegielmáhtudahka, sihke <errormorphsyn>tjálalasj<correct errorinfo="x">tjálalattjat</correct></errormorphsyn> ja <errormorphsyn>njálmálasj<correct errorinfo="x">njálmálalattjat</correct></errormorphsyn>.</p>
+<p>{Gájbbeduvvá aj buorre sámegielmáhtudahka, sihke <errorlex>tjálalasj<correct errorinfo="adj-adv">tjálalattjat</correct></errorlex> ja <errorlex>njálmálasj<correct errorinfo="adj-adv">njálmálalattjat</correct></errorlex>.</p>
 <p>NRK Sábme sávvá ja ávttji åhttsijt ålles Nuorttarijkas åhtsåt oahppehárjjidallamvirgijda.</p>
 <p>Åhtsåmájggemierre la vuoratjismáno 30. biejve.</p>
 <p>Ienep diedojt dánna gávna: www.nrk.no/stillinger jali jus riŋŋgu NRK Sábmáj, tlf. 78 46 92 00.</p>
