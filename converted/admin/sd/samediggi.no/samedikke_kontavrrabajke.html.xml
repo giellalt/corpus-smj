@@ -1,38 +1,38 @@
-<document xml:lang="smj" id="no_id"><header><title>Sámedikke kontåvrråbájke - Sámedigge</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><wordcount>161</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://sametinget.no/samedikki-birra/valdde-oktavuoda-samedikkiin/samedikki-kanturbaikkit/?sprak=15</origFileName><parallel_text xml:lang="nob" location="sametingets_kontorsteder.html"/><parallel_text xml:lang="sma" location="saemiedigkien_kontovresijjieh.html"/><parallel_text xml:lang="sme" location="samedikki_kanturbaikkit.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Sámedikke kontåvrråbájke</p>
+<document xml:lang="smj" id="no_id"><header><title>Sámedikke kontåvrråbájke - Sámedigge</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><wordcount>158</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://sametinget.no/om-sametinget/kontakt-sametinget/sametingets-kontorsteder/?sprak=15</origFileName><parallel_text xml:lang="nob" location="sametingets_kontorsteder.html"/><parallel_text xml:lang="sma" location="saemiedigkien_kontovresijjieh.html"/><parallel_text xml:lang="sme" location="samedikki_kanturbaikkit.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Sámedikke kontåvrråbájke</p>
 <p><em type="italic">Lassen sámediggehuodnahij Kárášjågån, de li Sámedikken gáktsa kontåvrråbájke: Vuonnabadán Unjárgan, Guovdageainnun, Olmmáivákken Gáivuonan, Romsan, Skániken Dielddanuoren, Ájluovtan Hábmeris, Aarborten ja Snåasen. </em></p>
 <p>Rabásájge: mánnodagás bierjjedahkaj 08.00-15.30</p>
 <p>Telefåvnnå: +47 78 47 40 00 E-poassta: samediggi@samediggi.no</p>
-<p><em type="italic">Poasstaadræssa: </em>Sámediggi - Sametinget Postboks 3 9735 Kárášjohka/Karasjok </p>
-<p><em type="italic">Guossidimadræssa: </em>Ávjovárgeaidnu 50, Kárášjohka/Karasjok </p>
-<p>Orgnr. 974760347</p>
-<p type="title">Kárášjohka</p>
-<p>Poasstaadræssa: Sámediggi - Sametinget Postboks 3 9735 Karasjok/Kárášjohka</p>
-<p>Guossidimadræssa: Ávjovárgeaidnu 50, 9730 Kárášjohka/Karasjok</p>
+<p xml:lang="sme"><em type="italic">Poasstaadræssa: </em>Sámediggi - Sametinget Postboks 3 9735 Kárášjohka/Karasjok </p>
+<p xml:lang="sme"><em type="italic">Guossidimadræssa: </em>Ávjovárgeaidnu 50, Kárášjohka/Karasjok </p>
+<p xml:lang="kmr">Orgnr. 974760347</p>
+<p type="title" xml:lang="sme">Kárášjohka</p>
+<p xml:lang="sme">Poasstaadræssa: Sámediggi - Sametinget Postboks 3 9735 Karasjok/Kárášjohka</p>
+<p xml:lang="sme">Guossidimadræssa: Ávjovárgeaidnu 50, 9730 Kárášjohka/Karasjok</p>
 <p>Vuoseda kártan</p>
-<p type="title">Vuonnabahta, Unjárga</p>
-<p>Guossidimadræssa: Ishavssenteret, Dálveluodda, 9840 Vuonnabahta/Varangerbotn</p>
+<p type="title" xml:lang="sme">Vuonnabahta, Unjárga</p>
+<p xml:lang="smn">Guossidimadræssa: Ishavssenteret, Dálveluodda, 9840 Vuonnabahta/Varangerbotn</p>
 <p>Vuoseda kártan</p>
-<p type="title">Guovdageaidnu</p>
-<p>Poasstaadræssa: Sámediggi - Sametinget Postboks 11 9521 Guovdageaidnu/Kautokeino</p>
-<p>Guossidimadræssa: Diehtosiida, Hánnoluohkká 45, 9520 Guovdageaidnu/Kautokeino</p>
+<p type="title" xml:lang="sme">Guovdageaidnu</p>
+<p xml:lang="sme">Poasstaadræssa: Sámediggi - Sametinget Postboks 11 9521 Guovdageaidnu/Kautokeino</p>
+<p xml:lang="sme">Guossidimadræssa: Diehtosiida, Hánnoluohkká 45, 9520 Guovdageaidnu/Kautokeino</p>
 <p>Vuoseda kártan</p>
-<p type="title">Olmmáivággi, Gáivuotna</p>
-<p>Guossidimadræssa: Senter for nordlige folk, 9144 Sámmolvárri/Samuelsberg</p>
+<p type="title" xml:lang="sme">Olmmáivággi, Gáivuotna</p>
+<p xml:lang="nob">Guossidimadræssa: Senter for nordlige folk, 9144 Sámmolvárri/Samuelsberg</p>
 <p>Vuoseda kártan</p>
-<p type="title">Romsa</p>
-<p>Poasstaadræssa: Sámediggi - Sametinget Postboks 333 9254 Romsa/Tromsø</p>
-<p>Guossidimadræssa: Storgata 67, 9008 Romsa/Tromsø</p>
+<p type="title" xml:lang="fkv">Romsa</p>
+<p xml:lang="sme">Poasstaadræssa: Sámediggi - Sametinget Postboks 333 9254 Romsa/Tromsø</p>
+<p xml:lang="sme">Guossidimadræssa: Sjøgata 2, 9008 Romsa/Tromsø</p>
 <p>Vuoseda kártan</p>
-<p type="title">Skánik, Dielddanuorri</p>
-<p>Guossidimadræssa: Hjørnegården, Skjærran 1, 9440 Skánik/Evenskjer</p>
+<p type="title" xml:lang="sme">Skánik, Dielddanuorri</p>
+<p xml:lang="nno">Guossidimadræssa: Hjørnegården, Skjærran 1, 9440 Skánik/Evenskjer</p>
 <p>Vuoseda kártan</p>
 <p type="title">Ájluokta, Hábmer</p>
 <p>Guossidimadræssa: Árran lulesamiske senter, Njárgga 33, 8270 Ájluokta/Drag</p>
 <p>Vuoseda kártan</p>
-<p type="title">Aarborte</p>
-<p>Guossidimadræssa: Sijti Jarnge, Sveanveien 20, 8690 Aarborte/Hattfjelldal</p>
+<p type="title" xml:lang="sme">Aarborte</p>
+<p xml:lang="sma">Guossidimadræssa: Sijti Jarnge, Sveanveien 20, 8690 Aarborte/Hattfjelldal</p>
 <p>Vuoseda kártan</p>
-<p type="title">Snåase</p>
-<p>Guossidimadræssa: Ella Holm Bulls veg 30, 7760 Snåase/Snåsa</p>
+<p type="title" xml:lang="sma">Snåase</p>
+<p xml:lang="sma">Guossidimadræssa: Sørisveien 2, 7760 Snåase/Snåsa</p>
 <p>Vuoseda kártan</p>
 </body></document>
