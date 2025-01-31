@@ -795,7 +795,7 @@ Test 67 - Passes: 1, Fails: 0, Total: 1
 Test 68/1277: 1 månev 
 ----------
 /Users/lwi001/corpus-smj/goldstandard/converted/blogs/blogg/blogg_1.correct.txt.xml
-[68/1277[FAIL fp2] No errors expected => 1:[1:av] (msyn-numphrase-sgacc)
+[68/1277[FAIL fp2] No errors expected => 1:[1:av] (msyn-numphrase-sgacc) #INGA
 Test 68 - Passes: 0, Fails: 1, Total: 1
 
 ----------
@@ -804,14 +804,14 @@ Test 69/1277: 1 stuor bastiv ruobemus jáfoj
 /Users/lwi001/corpus-smj/goldstandard/converted/blogs/blogg/blogg_1.correct.txt.xml
 [69/1277[FAIL fp1] ruobemus:(ruohpásamos (adj,infl)) => ruobemus:[vuolemus] (typo)
 /Users/lwi001/corpus-smj/goldstandard/converted/blogs/blogg/blogg_1.correct.txt.xml
-[69/1277[FAIL fp2] No errors expected => 1:[1:av] (msyn-numphrase-sgacc)
+[69/1277[FAIL fp2] No errors expected => 1:[1:av] (msyn-numphrase-sgacc) #INGA
 Test 69 - Passes: 0, Fails: 2, Total: 2
 
 ----------
 Test 70/1277: 2 stuor basti cottage cheese 
 ----------
 /Users/lwi001/corpus-smj/goldstandard/converted/blogs/blogg/blogg_1.correct.txt.xml
-[70/1277[FAIL fp2] No errors expected => 2:[2:e] (msyn-numphrase-sggen)
+[70/1277[FAIL fp2] No errors expected => 2:[2:e] (msyn-numphrase-sggen) #INGA
 Test 70 - Passes: 0, Fails: 1, Total: 1
 
 ----------
