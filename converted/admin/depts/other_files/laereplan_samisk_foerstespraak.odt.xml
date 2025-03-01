@@ -1,28 +1,8 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4326</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/globalassets/upload/larerplaner/fastsatte_lareplaner_for_kunnskapsloeftet/samiske/planer_samisk/samisk/lareplan-samisk-som-forstesprak-sfs1-04-lulesamisk.docx</origFileName><parallel_text xml:lang="eng" location="laereplan_samisk_foerstespraak.doc"/><parallel_text xml:lang="nob" location="laereplan_samisk_foerstespraak.html"/><parallel_text xml:lang="sma" location="laereplan_samisk_foerstespraak.odt"/><parallel_text xml:lang="sme" location="laereplan_samisk_foerstespraak.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="vep">SÁMEGIELLA VUOSTASJGIELLAN OAHPPOPLÁDNA</p>
-<p>Mierreduvvam åhpaduslága njuolgadustjállagijn Sámedikkes 25.06.2013 .</p>
-<p>Doajmmá bårggemáno 1. b. rájes jagen 2013 .</p>
-<p>Sisadno</p>
-<p xml:lang="vep">OAHPPOPLÁDNA SÁMEGIELLA VUOSTASJGIELLAN 3</p>
-<p>Fága ulmme 3</p>
-<p>Fága oajvveoase</p>
-<p>Njálmálasj gaskostibme 4</p>
-<p>Tjálalasj gaskostibme 4</p>
-<p>Giella, kultuvrra ja girjálasjvuohta 5</p>
-<p>Fága tijmmalåhko 5</p>
-<p>Vuodotjehpudagá fágan 7</p>
-<p>Máhtudakulme 2. jahkedáse maŋŋela 7</p>
-<p>Máhtudakulme 4. jahkedáse maŋŋela 8</p>
-<p>Máhtudakulme 7. jahkedáse maŋŋela 9</p>
-<p>Máhtudakulme 10. Jahkedáse maŋŋela 10</p>
-<p>Máhtudakulme Jå1 – åhpadusgárvedime åhpadusprográmma maŋŋela........................11</p>
-<p>Máhtudakulme Jå2 – viddnofágalasj åhpadusprográmma maŋŋela 11</p>
-<p>Máhtudakulme Jå2 – åhpadusgárvedime åhpadusprográmma maŋŋela 12</p>
-<p>Máhtudakulme Jå3 – åhpadusgárvedime åhpadusprográmma maŋŋela 13</p>
-<p>Máhtudakulme maŋŋela dábálasj máhtudaklasádusá åhp.prográmma – viddnofágalasj åhpadusprográmman 14</p>
-<p>Árvustallam 16</p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4220</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/globalassets/upload/larerplaner/fastsatte_lareplaner_for_kunnskapsloeftet/samiske/planer_samisk/samisk/lareplan-samisk-som-forstesprak-sfs1-04-lulesamisk.docx</origFileName><parallel_text xml:lang="eng" location="laereplan_samisk_foerstespraak.doc"/><parallel_text xml:lang="nob" location="laereplan_samisk_foerstespraak.html"/><parallel_text xml:lang="sma" location="laereplan_samisk_foerstespraak.odt"/><parallel_text xml:lang="sme" location="laereplan_samisk_foerstespraak.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
 <p type="title" xml:lang="vep">OAHPPOPLÁDNA SÁMEGIELLA VUOSTASJGIELLAN</p>
 <p type="title" xml:lang="deu">SÁMEGIELLA 1</p>
-<p>Doajmmá bårggemáno 1. b. rájes jagen 2013 .</p>
+<p>Doajmmá bårggemáno 1. b. rájes jagen 2013.</p>
 <p>Mierreduvvam åhpaduslága njuolgadustjállagijn Sámedikkes 15.06.2013</p>
 <p type="title">Fága ulmme</p>
 <p>Sáme li akta álmmuk gudi årru Vuonan, Svierigin, Suoman ja Ruossjan, ja sámegiela tjadni álmmugav aktan rijkaj rájáj rastá. Sámegiela li almulasj unneplåhkogiellan Vuonan, Svierigin ja Suoman. Sámegielaj dile li sierralágátja guovlos guovlluj Sámen, måttij gielaj ja giellasuorgij. Sáme giela li ájnas kulturguodden, ja aktisasj árvo, åtsådallama ja máhtto doalvoduvvi buolvas buolvvaj gielaj baktu. Ulmmen le jut sámegiela galggi suodjaluvvat, nanniduvvat ja åvddånahteduvvat åbbålasj gaskostimgiellan rijkaj rájáj rastá.</p>
@@ -39,7 +19,7 @@
 <p>Gåvvå oajvveåsijs:</p>
 <p>Jahkedásse</p>
 <p>Oajvveoase</p>
-<p xml:lang="koi">1.-10.</p>
+<p xml:lang="vep">1.-10.</p>
 <p>Jå1- Jå3</p>
 <p>Njálmálasj</p>
 <p>gaskostibme</p>
@@ -47,49 +27,49 @@
 <p>gaskostibme</p>
 <p>Giella, kultuvrra ja girjálasjvuohta</p>
 <p type="title">Njálmálasj gaskostibme</p>
-<p>Oajvveoasse njálmálasj gaskostibme  sisadná máhttet gulldalit, håladit ja ságastit duon dán aktijvuodajn. Gulldalit, håladit ja ságastit le oasse mijá árggabiejve sæbrástallamvuoges ja aj fágalasj aktijvuodas. Dá li guovdátjin sosiála, kultuvralasj ja fágalasj máhtudagán ja aj estetalasj åvddånbuktemin ja åtsådallamin.</p>
+<p>Oajvveoasse <em type="italic">njálmálasj gaskostibme </em>sisadná máhttet gulldalit, håladit ja ságastit duon dán aktijvuodajn. Gulldalit, håladit ja ságastit le oasse mijá árggabiejve sæbrástallamvuoges ja aj fágalasj aktijvuodas. Dá li guovdátjin sosiála, kultuvralasj ja fágalasj máhtudagán ja aj estetalasj åvddånbuktemin ja åtsådallamin. </p>
 <p>Gulldalit le dåjmalasj dahko massta oahppe galggá oahppat ja dádjadit gå tjielggi, buohtastahttá ja árvustallá majt iehtjada javlli. Njálmálasj åvddånbuktema masi le gárvedam ja spontána njálmálasj avtastallamijs galggá oahppe åvddånahttet gaskostimtjehpudagáv ja åvddånbuktet máhtov, ájádusájt ja árvvalusájt báhkoboanndudagájn duon dán sjáŋŋarin. Sámegiela fáhkaj le sierra ávkken arvusmahttet oahppe báhkodádjadusáv ja sæmmi båttå oahppij giellaanov diedulattjan dahkat. Dát gájbbet jut oahppe gudi li sámegielaga gálggi oahppat gåktu ulmusj buoremus láhkáj sámegielav bisot ja åvddånahttá.</p>
 <p>Njálmálasj gaskostibme le aj hiebadit gielav ja åvddånbuktemvuogijt gaskostimdilláj.</p>
 <p type="title">Tjálalasj gaskostibme</p>
-<p>Tjálalasj gaskostibme  le sámegiellaj låhkåt ja tjállet. Åhpadussaj gullu vuostasj låhkåm- tjállemoahppa ja vijddábut åvddånahttet låhkåm- ja tjállemoahpov avtatraják åvddånimijn maŋenagá ålles åhpadusájgen. Låhkåmåhpadus galggá arvusmahttet oahppe hálov ja tjehpudagáv lågåtjit ja tjálátjit, ja dási gullu oahppe galggi duon dán lágásj tevstajt låhkåt, åhpatjit ja åtsådalátjit. Låhkåmåhpadus galggá oahppev diedulattjan dahkat ietjas åvddånahttemij lågåtjit ja tjálátjit</p>
+<p><em type="italic">Tjálalasj gaskostibme </em>le sámegiellaj låhkåt ja tjállet. Åhpadussaj gullu vuostasj låhkåm- tjállemoahppa ja vijddábut åvddånahttet låhkåm- ja tjállemoahpov avtatraják åvddånimijn maŋenagá ålles åhpadusájgen. Låhkåmåhpadus galggá arvusmahttet oahppe hálov ja tjehpudagáv lågåtjit ja tjálátjit, ja dási gullu oahppe galggi duon dán lágásj tevstajt låhkåt, åhpatjit ja åtsådalátjit. Låhkåmåhpadus galggá oahppev diedulattjan dahkat ietjas åvddånahttemij lågåtjit ja tjálátjit </p>
 <p>Tjálalasj gaskostibme åvddånahteduvvá dan baktu gå barggá giela hámijn ja struktuvrajn, ja gå barggá duojna dájna sjáŋŋarijn gånnå maŋenagá båhti ienep gájbbádusá dádjadittjat aktijvuodajt tevsta hámes ja dåjmas.</p>
 <p>Tjállem le åvddånbuktet, divudit ja gaskostit ájádusájt ja vuojnojt duon dán lágásj tevstajn ja sjáŋŋarijn. Aktiduvvam tevsta le luondulasj oase majt oahppe galggi låhkåt ja hábbmit. Buorre tjálalasj gaskostibme gájbbet buorre báhkoboanndudagáv, máhtudagáv ja tjehpudagáv gåktu tevstajt hábbmit, grammatihkas ja tjállemvuoges, ja gåktu tevstajt hiebadit ulmmáj ja vuosstájválldijda.</p>
 <p type="title">Giella, kultuvrra ja girjálasjvuohta</p>
-<p>Oajvveoasse Giella, kultuvrra ja girjálasjvuohta  le sáme giella- ja tækstakultuvra birra. Oahppe galggi ietjas dádjadusáv åvddånahttet sáme gielas ja girjálasjvuodas, ja oahppat gåktu giella ja tæksta le ájgij milta rievddam ja vilá le rievddamin. Oajvveoasen le aj giela ano birra sáme kultuvra, iellemvuoge ja árbbedábálasj máhtudagá birra, ja moallánakåhpa ja báhkoboanndudagá vijddánime birra. Åhpadus galggá oahppev diedulattjan dahkat ietjas giellaåhpa ja guovtegielakvuoda birra, ja buktet jasskavuodav ietjas kultuvra gáktuj.</p>
-<p>Oahppe galggi máhtudagájt oadtjot sáme giela ja giellasuorgij birra, giela ano ja giela vuogáda birra. Dát sihtá javllat barggat systemáhtalattjat bágoj såjådim- ja suorgudimhámij.  Grammatihka åhpan le luondulasj álgget báhkohámij dagu verbaj ja substantijvaj såjådimij. Muhtem oasse sámegielaj giellastruktuvras ja grammatihkas li ietjálágátja sáme gielas giellaj, ja åhpadusán viertti dát vieleduvvat ja iesjguhtik gielajda hiebaduvvat.</p>
-<p>Oahppe galggi bessat sáme subtsastimdábij ja sáme girjálasjvuodajn ja tjállij oahpásmuvvat. Sij galggi låhkåt ja ájádallat oasev åvdep ja dálásj ájge girjálasjvuodas duon dán sjáŋŋaris. Sij  galggi oadtjot máhttelisvuodav sáme ja álggoálmmukgirjálasjvuodav låhkåt ja vásedit. Duodden galggi sij sjaddat diedulattjan sáme tækstahiståvrå árbbedábij hárráj buohtastahtte vuojnojs dálásj ájge ja åvdep gaskan, ja ålggobelak vájkkudusáj. Gå li moadda sámegiela ja giellasuorge de la ájnas máhttet muhtem oasev gielaj aktisasjvuodajs ja muhtemav dåj ietjá gielaj giellahámijs.</p>
+<p>Oajvveoasse <em type="italic">Giella, kultuvrra ja girjálasjvuohta </em>le sáme giella- ja tækstakultuvra birra. Oahppe galggi ietjas dádjadusáv åvddånahttet sáme gielas ja girjálasjvuodas, ja oahppat gåktu giella ja tæksta le ájgij milta rievddam ja vilá le rievddamin. Oajvveoasen le aj giela ano birra sáme kultuvra, iellemvuoge ja árbbedábálasj máhtudagá birra, ja moallánakåhpa ja báhkoboanndudagá vijddánime birra. Åhpadus galggá oahppev diedulattjan dahkat ietjas giellaåhpa ja guovtegielakvuoda birra, ja buktet jasskavuodav ietjas kultuvra gáktuj. </p>
+<p>Oahppe galggi máhtudagájt oadtjot sáme giela ja giellasuorgij birra, giela ano ja giela vuogáda birra. Dát sihtá javllat barggat systemáhtalattjat bágoj såjådim- ja suorgudimhámij. Grammatihka åhpan le luondulasj álgget báhkohámij dagu verbaj ja substantijvaj såjådimij. Muhtem oasse sámegielaj giellastruktuvras ja grammatihkas li ietjálágátja sáme gielas giellaj, ja åhpadusán viertti dát vieleduvvat ja iesjguhtik gielajda hiebaduvvat.</p>
+<p>Oahppe galggi bessat sáme subtsastimdábij ja sáme girjálasjvuodajn ja tjállij oahpásmuvvat. Sij galggi låhkåt ja ájádallat oasev åvdep ja dálásj ájge girjálasjvuodas duon dán sjáŋŋaris. Sij galggi oadtjot máhttelisvuodav sáme ja álggoálmmukgirjálasjvuodav låhkåt ja vásedit. Duodden galggi sij sjaddat diedulattjan sáme tækstahiståvrå árbbedábij hárráj buohtastahtte vuojnojs dálásj ájge ja åvdep gaskan, ja ålggobelak vájkkudusáj. Gå li moadda sámegiela ja giellasuorge de la ájnas máhttet muhtem oasev gielaj aktisasjvuodajs ja muhtemav dåj ietjá gielaj giellahámijs.</p>
 <p type="title">Fága tijmmalåhko</p>
 <p>Akta tijmma le 60 minuhta: MÁNÁJDÁSEN</p>
 <p>1.-4. jahkedásijn: 642 tijma</p>
-<p>5.-7.  jahkedásijn : 312 tijma</p>
+<p>5.-7. jahkedásijn: 312 tijma</p>
 <p xml:lang="deu">NUORAJDÁSEN</p>
 <p>8.-10. JAHKEDÁSIJN: 284 tijma</p>
 <p xml:lang="deu">OAHPPOGÁRVEDIME ÅHPADUSPROGRÁMMA</p>
 <p>Jå1: 103 tijma</p>
 <p>Jå2: 103 tijma</p>
-<p>Jå3  : 103 tijma</p>
+<p>Jå3: 103 tijma</p>
 <p xml:lang="deu">VIDDNOFÁGALASJ ÅHPADUSPROGRÁMMA</p>
 <p>Jå1: 45 tijma</p>
-<p>Jå2  : 45 tijma</p>
+<p>Jå2: 45 tijma</p>
 <p xml:lang="deu">LASÁDUS DÁBÁLASJ OAHPPOMÁHTUDAHKAJ VIDDNOFÁGALASJ ÅHPADUSPROGRÁMMAN</p>
 <p>Jå3: 219 tijma</p>
 <p type="title">Vuodotjehpudagá fágan</p>
 <p>Vuodotjehpudagá fágan li integreriduvvam máhtudakulmijda gånnå da li maŋen åvddånahttemin ja oassen fáhkamáhtudagás. Sámegiella vuostasjgiella fágan dádjaduvvá vuodotjehpudagá náv:</p>
-<p>Njálmálasj tjehpudagá   Sámegiella vuostasjgiella fágan le máhttet gulldalit, håladit ja ságastit ja máhttet gielav hiebadit ulmmáj ja vuosstájválldáj. Dát le ækton iehtjádij gaskostibmáj sosiála avtastallamij, barggoiellemin ja almulasj oassálasstemij.</p>
+<p><em type="italic">Njálmálasj tjehpudagá </em>Sámegiella vuostasjgiella fágan le máhttet gulldalit, håladit ja ságastit ja máhttet gielav hiebadit ulmmáj ja vuosstájválldáj. Dát le ækton iehtjádij gaskostibmáj sosiála avtastallamij, barggoiellemin ja almulasj oassálasstemij. </p>
 <p>Njálmálasj tjehpudagá sámegielan åvddånahteduvvi gå dåjmalattjat gulldal, ja dåjmalattjat bágov válldá hæhkkat ja gárveduvvam, ja gå systemáhtalattjat barggá njálmálasj sjáŋŋarij ja strategijaj maŋŋálakkoj gássjelap gulldalim- ja sáhkadilijn. Dási gullu vijddábut dåjmalattjat gulldalit, dádjadit ja dágástallat vijddáp ja gássjelap tiemájt ja ássjijt.</p>
 <p>Njálmálasj tjehpudagá sisadno le aj máhttet dádjadit aktijvuodajt bæjválasj giela, sjárgoŋŋaj ja mierredum giellaano gaskajn. Guovtegielakvuodan sihtá dát javllat liehket diedulattjan giela sierralágásjvuoda birra ja man ájnas la máhttet gielav adnet nav vaj sámegielaga sæmmi guovlos aj máhtti dádjadit dav mij javladuvvá. Sæmmi båttå hæhttu ulmusj gæhttját máhttelisvuodajt kreatijva kåvddåIånudallamijda oattjotjit sierra vájkkudusájt, gånnå bágo ja moallánagá lånudaláduvvi gielaj gaskan, mij le ietjá gå giellasegadibme.</p>
-<p>Máhttet tjállet   sámegielfágan le máhttet åvddånbuktet ávkálasj láhkáj ja iehtjádij gaskostit tjállemgiela baktu. Dát la aj vuohke majna åvddånahttá ja struktureri ájádusájt, ja vuohken man baktu åhpa. Dát sihtá javllat dahkat tevstajt ma gaskosti, ja majn li buorre struktuvrra ja aktijvuoda.</p>
+<p><em type="italic">Máhttet tjállet </em>sámegielfágan le máhttet åvddånbuktet ávkálasj láhkáj ja iehtjádij gaskostit tjállemgiela baktu. Dát la aj vuohke majna åvddånahttá ja struktureri ájádusájt, ja vuohken man baktu åhpa. Dát sihtá javllat dahkat tevstajt ma gaskosti, ja majn li buorre struktuvrra ja aktijvuoda. </p>
 <p>Tevstajt tjállet moattet sjáŋŋaris sæjnnusij ja páhppárij le suorgge gånnå sámegielfágan ja dárofágan li sierra aktisasj åvdåsvásstádussan. Dát merkaj máhttet plánit, hábbmit ja tevstaj barggat duot dát gássjelisvuoda dásijs ja ávkálasj gielajn ulmmáj ja vuosstájválldáj hiebadahttet. Tjállemtjehpudagáv åvddånahttet sámegielan le aj systemáhtalattjat barggat formála tjállemtjehpudagájn, tækstamáhtudagájn ja duojna dájna tjállemstrategijajn. Fáhkaj gullu aj máhttet sámegiellaj åvddånbuktet vissásappot.</p>
-<p>Máhttet låhkåt   sámegielfágan le máhttet vuojnojt oadtjot tevstajs iesjguhtik sjáŋŋarijs åvdep ja dálásj ájges. Dát le mielas berustallat tevstajs, ja dádjadit iehtjádij ájádusájt, iellemav, åtsådallamijt ja dahkamtjehpudagáv. Dát merkaj aj diedojt gávnnat ja ájádallamvuogijt dádjadit ja duon dán tevstaj åvddånbuktemijs sæjnnusijn ja páhppárijn ja máhttet iesjrádálattjat árvustallat lågåduvvam tevstajt. Åvddånahttem tjuovvu vuostasj låhkåmåhpas ja álkkes tevstaj dádjadusás dasi jut máhttet dádjadit, tjielggit, guoradallat ja árvustallat maŋŋálakkoj gássjelap tevstajt duot dát sjáŋŋaris.</p>
+<p><em type="italic">Máhttet låhkåt </em>sámegielfágan le máhttet vuojnojt oadtjot tevstajs iesjguhtik sjáŋŋarijs åvdep ja dálásj ájges. Dát le mielas berustallat tevstajs, ja dádjadit iehtjádij ájádusájt, iellemav, åtsådallamijt ja dahkamtjehpudagáv. Dát merkaj aj diedojt gávnnat ja ájádallamvuogijt dádjadit ja duon dán tevstaj åvddånbuktemijs sæjnnusijn ja páhppárijn ja máhttet iesjrádálattjat árvustallat lågåduvvam tevstajt. Åvddånahttem tjuovvu vuostasj låhkåmåhpas ja álkkes tevstaj dádjadusás dasi jut máhttet dádjadit, tjielggit, guoradallat ja árvustallat maŋŋálakkoj gássjelap tevstajt duot dát sjáŋŋaris. </p>
 <p>Låhkåmtjehpudagá åvddånahttem sámegielfágan le aj systemáhtalattjat barggat ulmmáj hiebaduvvam låhkåmstrategijaj ja duoj dáj tevstaj fágan.</p>
-<p>Máhttet riekknit  sámegielfágan le tjielggit ja dádjadit diedojt tevstajn gånnå li tálla, stuorrudagá jali geometrijak gåvvusa. Dát sisadná máhttet árvustallat, ájádallat ássje hárráj ja gaskostit avtadahtedum tevstajt dagu gráfalasj åvddånbuktemijt, tabellajt ja statistihkajt.</p>
+<p><em type="italic">Máhttet riekknit </em>sámegielfágan le tjielggit ja dádjadit diedojt tevstajn gånnå li tálla, stuorrudagá jali geometrijak gåvvusa. Dát sisadná máhttet árvustallat, ájádallat ássje hárráj ja gaskostit avtadahtedum tevstajt dagu gráfalasj åvddånbuktemijt, tabellajt ja statistihkajt. </p>
 <p>Riekknimtjehpudagá åvddånahttem fágan gájbbet systemáhtalasj bargov matematihka buojkuldagájt oahppat tállaj åvddånbuktemij baktu, mihttim- ja riekknimvuogijt sámegiellaj ja dát sihtá javllat dahkat åbbålasj vuojnov maŋenagá gájbbediddje tevstajs gånnå duot dát åvddånbuktemvuoge vierttiji aktijvuodajda dádjaduvvat.</p>
-<p>Digitála tjehpudagá  sámegielfágan le adnet digitála ræjdojt, medijajt ja resursajt nannitjit giellaåhpadusáv, diedojt viedtjat ja giehtadallat, dahkat ja redigerit duov dáv tevstav ja iehtjádij gaskustallat. Dán aktijvuodan le ájnas máhttet árvustallat ja gáldojt adnet diedulattjat. Digitála ræjdo rahpi moattelágásj vuogijt gielajt oahppat ja vaddi máhttelisvuodajt anátjit, åvddånahtátjit ja juogátjit sáme árbbedábálasj diedojt ja åtsådallamijt. Digitála ræjdo máhtti doarjjot ja åvddånahttet oahppe gaskostim ja åvddånbuktem tjehpudagájt.</p>
+<p><em type="italic">Digitála tjehpudagá </em>sámegielfágan le adnet digitála ræjdojt, medijajt ja resursajt nannitjit giellaåhpadusáv, diedojt viedtjat ja giehtadallat, dahkat ja redigerit duov dáv tevstav ja iehtjádij gaskustallat. Dán aktijvuodan le ájnas máhttet árvustallat ja gáldojt adnet diedulattjat. Digitála ræjdo rahpi moattelágásj vuogijt gielajt oahppat ja vaddi máhttelisvuodajt anátjit, åvddånahtátjit ja juogátjit sáme árbbedábálasj diedojt ja åtsådallamijt. Digitála ræjdo máhtti doarjjot ja åvddånahttet oahppe gaskostim ja åvddånbuktem tjehpudagájt. </p>
 <p>Digitála tjehpudagáv åvddånahttet le oassen låhkåm- ja tjállemåhpadusás sámegielfágan ja dát sisadná gávnnat, adnet ja maŋenagá árvustallat ja sievedit digitála gáldojda tevstajn. Ja dási aj gullu åvddånahttet diedojt tjállerievtesvuodaj ja persåvnnåsuodjalime birra, ja aj lájttálisát árvustallat ja iesjrádálasj liehket mij gullu digitála gáldoj gáktuj.</p>
 <p type="title">Fága máhtudakulme</p>
 <p type="title">Máhtudakulme 2. jahkedáse maŋŋela</p>
 <p type="title">Njálmálasj gaskostibme</p>
-<p>Åhpadusá ulmme le oahppe galggá máhttet</p>
+<p><em type="italic">Åhpadusá ulmme le oahppe galggá máhttet </em></p>
 <list><p type="listitem">gulldalit, vuoro milta bágov válldet ja iehtjádij máhttet ságastallat ja vásstedit</p>
 <p type="listitem">tevstaj gulldalit ja daj birra ságastallat</p>
 <p type="listitem">diedojt gulldalit, dádjadit, mujttalit ja aktidit</p>
@@ -99,7 +79,7 @@
 <p type="listitem">åvddånbuktet ietjas dåbdojt ja vuojnojt</p>
 <p type="listitem">åvddånbuktet ietjas tækstavásádusájt bágoj, tjuorggusij, lávllagij ja ietjá estetalasj åvddånbuktemij baktu</p>
 </list><p type="title">Tjálalasj gaskostibme</p>
-<p>Åhpadusá ulmme le oahppe galggá máhttet</p>
+<p><em type="italic">Åhpadusá ulmme le oahppe galggá máhttet </em></p>
 <list><p type="listitem">vuosedit dádjadusáv giellajiednadimij ja bokstávav gaskan ja hållamgiela ja tjállemgiela gaskan</p>
 <p type="listitem">jienajt aktij biedjat bágojda ja bágojt juohket stávvalijda</p>
 <p type="listitem">låhkåt stuorra ja smávva prienntiduvvam bokstávajt</p>
@@ -109,8 +89,9 @@
 <p type="listitem">tjállet álkkes ja oahpes bágojt vigij dagá</p>
 <p type="listitem">barggat dåjmalattjat tjuorggusij ja tjállemij gå låhkåm la</p>
 <p type="listitem">tjállet girjaj milta álkkes gárves tevstajs ja ietjá tjállemgáldojs</p>
-</list><p type="title">Giella, kultuvrra ja girjálasjvuohta</p>
-<p>Åhpadusá ulmme le oahppe galggá máhttet</p>
+</list><p xml:lang="tur"/>
+<p type="title">Giella, kultuvrra ja girjálasjvuohta</p>
+<p><em type="italic">Åhpadusá ulmme le oahppe galggá máhttet </em></p>
 <list><p type="listitem">ságastit verbaj, substantijvaj ja adjektijvaj birra</p>
 <p type="listitem">dåbddåt ja adnet sjåpkaduvvam bágojt ja adnet muhtem dábálamos báhkosuorgudimijt</p>
 <p type="listitem">tállajt låhkåt ja adnet gå gaskustalli</p>
@@ -122,7 +103,7 @@
 <p type="listitem">gávnnat tjáppagirjálasjvuodav ja ássjegirjálasjvuodav bibliotehkajn ietjas låhkåmijda</p>
 </list><p type="title">Máhtudakulme 4. jahkedáse maŋŋela</p>
 <p type="title">Njálmálasj gaskostibme</p>
-<p>Åhpadusá ulmme le oahppe galggá máhttet</p>
+<p><em type="italic">Åhpadusá ulmme le oahppe galggá máhttet </em></p>
 <list><p type="listitem">gulldalit, mujttalit, tjielggit ja árvvaladdat sisanov njálmálasj tevstajn</p>
 <p type="listitem">adnet nuoges báhkoboanndudagáv åvddånbuvtátjit diedojt, åtsådallamijt, vásádusájt, dåbdojt ja ietjas vuojnojt</p>
 <p type="listitem">avtastallat iehtjádij stågadahttijn, dramatiserimij, ja ságastallamij ja dágástallamij baktu</p>
@@ -130,7 +111,7 @@
 <p type="listitem">målsudahkes jiednadimijt ja gielav åvddånbuktet gå tevstajt låhki</p>
 </list><p type="title">Tjálalasj gaskostibme</p>
 <p type="title">Åhpadusá ulmme le oahppe galggá máhttet</p>
-<list><p type="listitem"><span>tevstajt duolla, avtatrajes ja dádjadusájn låhkåt  </span></p>
+<list><p type="listitem"><span>tevstajt duolla, avtatrajes ja dádjadusájn låhkåt </span></p>
 <p type="listitem">dåbddåt ja adnet gielalasj vájkkudimnævojt duola dagu gærddádusájt, vuosstebielijt ja álkkes gielalasj gåvåjt</p>
 <p type="listitem">låhkåt, árvvaladdat ja ságastit ietjas ja iehtjádij</p>
 <p type="listitem">gávnnat diedojt moattebelak tevstajs sæjnnusijn ja páhppárijn</p>
@@ -144,21 +125,21 @@
 <p type="listitem">adnet bibliotehkav ja internehtav gávnatjit diedojt ietjas tjállemij ja låhkåmij</p>
 </list><p type="title">Giella, kultuvrra ja girjálasjvuohta</p>
 <p type="title">Åhpadusá ulmme le oahppe galggá máhttet</p>
-<list><p type="listitem"><span>dåbddåt diftåŋŋaj oanedimijt ja vokálaj målssusimijt ja dábálamos dássemålssusimijt gånnå dá gávnnuji  </span></p>
+<list><p type="listitem"><span>dåbddåt diftåŋŋaj oanedimijt ja vokálaj målssusimijt ja dábálamos dássemålssusimijt gånnå dá gávnnuji </span></p>
 <p type="listitem">såjådit muhtem verbajt ja substantijvajt</p>
 <p type="listitem">ságastit vuodotállaj, rájddotálla ja tjoahkketállaj birra</p>
 <p type="listitem">dåbddåt álkkes suorgudisgehtjusijt</p>
 <p type="listitem">tjielggit gåktu ulmusj giellaanojn máhttá nuppij væhttsá liehket ja nuppijt rámmpot</p>
 <p type="listitem">ságastit giela, giellasegadimij ja moattegielakvuoda birra</p>
 <p type="listitem">gulldalit álkkes tevstajt dåjs ietjá sámegielajs ja dåbddåt muhtem moallánagájt ja bágojt.</p>
-<p type="listitem">adnet berajnamájt  (bærástit oahppat)</p>
+<p type="listitem">adnet berajnamájt (bærástit oahppat)</p>
 <p type="listitem">gulldalit árbbedábálasj subttsasijt, sáhkadit sáme subtsastimvuogij birra ja adnet dákkár subttsasijt arvusmahttemij ietjas bargguj</p>
 <p type="listitem">ságastit juojggusij, lávllagij, Gáritjisá, divtaj, subttsasij ja dålusj subttsasij</p>
 <p type="listitem">ságastit sisano ja háme birra tevstajn</p>
 <p type="listitem">åvddånbuktet ietjas ájádusájt ja vásádusájt mánáj girjálasjvuodas, teáhterijs, filmajs, dáhtáspelajs ja TV-prográmmajs</p>
 </list><p type="title">Máhtudakulme 7. jahkedáse maŋŋela</p>
 <p type="title">Njálmálasj gaskostibme</p>
-<p>Åhpadusá ulmme le oahppe galggá máhttet</p>
+<p><em type="italic">Åhpadusá ulmme le oahppe galggá máhttet </em></p>
 <list><p type="listitem">gulldalit iehtjádij ja sijá árvvalusájs vijddábut sieradit vuojnojt ja duohtavuodajt</p>
 <p type="listitem">åvddånbuktet ja tjielggit ietjas vuojnojt ja iehtjádij vuojnojt roaddut</p>
 <p type="listitem">oavdástallat duon dán giellarållan drámá, låhkåmij ja åvddånbuktemij baktu</p>
@@ -196,15 +177,17 @@
 <p type="listitem">åvddånbuktet ietjas vuojnojt ulmutjij, dáhpádusáj ja tiemáj birra målsudahkes mánáj- ja nuorajgirjálasjvuodan</p>
 <p type="listitem">diehtet dahkke- ja tjállerievtesvuodaj birra gálldoadnemijn</p>
 <p type="listitem">adnet moattelágásj digitála ja páhperbáhkogirjijt</p>
-</list><p type="title">Máhtudakulme 10. jahkedáse maŋŋela</p>
+</list><p xml:lang="tur"/>
+<p type="title">Máhtudakulme 10. jahkedáse maŋŋela</p>
 <p type="title">Njálmálasj gaskostibme</p>
-<p>Åhpadusá ulmme le oahppe galggá máhttet</p>
+<p><em type="italic">Åhpadusá ulmme le oahppe galggá máhttet </em></p>
 <list><p type="listitem">gulldalit, tjoahkkájgiesset oajvvesisanov ja guoskavasj diedojt viedtjat njálmálasj tevstajs.</p>
 <p type="listitem">ságastallat háme ja sisano birra girjálasjvuodajn, teáhterijn, ja filmajn ja åvddånbuktet dålkkudim låhkåmav ja drámátiserimav</p>
 <p type="listitem">oassálasstet dágástallamij vuodustim vuojnoj ja ássjásjguoskavasj tjuottjodusáj</p>
 <p type="listitem">åvddånbuktet fáhkaássjijt mávsulasj ano baktu digitála ræjdojs ja ietjá medijajs</p>
 <p type="listitem">árvustallat ietjas ja iehtjádij njálmálasj åvddånbuktemijt fágalasj ævtoj</p>
-</list><p type="title">Tjálalasj gaskostibme</p>
+</list><p xml:lang="tur"/>
+<p type="title">Tjálalasj gaskostibme</p>
 <p type="title">Åhpadusá ulmme le oahppe galggá máhttet</p>
 <list><p type="listitem">máhttet stuoráp tækstaålludisájt sæjnnusijn ja páhppárijn gávnnat, avtastahttet ja árvustallat gávnatjit guoskavasj diedojt fáhkabargguj</p>
 <p type="listitem">låhkåt, mujttalit sisanov ja tiemájt gávnnat tevstajn duot dát sjáŋŋaris ja åvddånbuktet máhttelis dålkkumijt</p>
@@ -236,12 +219,12 @@
 </list><p type="title">Máhtudakulme Jå1 – oahppogárvedime åhpadusprográmma maŋŋela</p>
 <p type="title">Máhtudakulme Jå2 – viddnofágalasj åhpadusprográmma maŋŋela</p>
 <p type="title">Njálmálasj gaskostibme</p>
-<p>Åhpadusá ulmme le oahppe galggá máhttet</p>
+<p><em type="italic">Åhpadusá ulmme le oahppe galggá máhttet </em></p>
 <list><p type="listitem">gulldalit ja vuosedit rabásvuodav iehtjádij tjuottjodimijda, ja dágástallamijn adnet guoskavasj ja ássjálasj sivájt tjuottjodimijda</p>
 <p type="listitem">máhttet retorihkalasj hásstalimvuogijt adnet åvddånbuvtedahttijn</p>
 <p type="listitem">fágalasj máhtudagáv ja moallánagájt adnet ságastallamijn tevsta ja giela birra</p>
 <p type="listitem">aktidit auditijvalasj, tjálalasj ja visuála åvddånbuktemvuogijt ja moattelágásj digitála ræjdojt åvddånbuvtedahttijn</p>
-<p type="listitem">fágalasj máhtudagáv adnet fáhkaterminologijas ietjas åhpadusprográmmas ságastimijn, dágástallamijn,  ja åvddånbuktemijn skåvlå, sebrudagá ja barggoiellema birra</p>
+<p type="listitem">fágalasj máhtudagáv adnet fáhkaterminologijas ietjas åhpadusprográmmas ságastimijn, dágástallamijn, ja åvddånbuktemijn skåvlå, sebrudagá ja barggoiellema birra</p>
 <p type="listitem">máhttet duov dáv rållav ságastallamijn, dágástallamijn, dramatiserimijn ja åvddånbuktemijn</p>
 </list><p type="title">Tjálalasj gaskostibme</p>
 <p type="title">Åhpadusá ulmme le oahppe galggá máhttet</p>
@@ -253,7 +236,7 @@
 <p type="listitem">adnet duov dáv estehtalasj vájkkudimnævojt ja åvddånbuktemvuogijt moattebelak tevstajn</p>
 <p type="listitem">árvustallat ja divudit ietjas tevstajt fágalasj ævtoj</p>
 <p type="listitem">hiebadit gielav ja åvddånbuktemvuogev duon dán tjállemdilijn skåvlån, sebrudagán ja barggoiellemin</p>
-<p type="listitem">viedtjat, árvustallat ja adnet fáhkaássjijt digitála gáldojs ietjas tevstaj bargon ja tjuovvot  persåvnnåsuodjalim ja tjállerievtesvuodaj njuolgadusájt</p>
+<p type="listitem">viedtjat, árvustallat ja adnet fáhkaássjijt digitála gáldojs ietjas tevstaj bargon ja tjuovvot persåvnnåsuodjalim ja tjállerievtesvuodaj njuolgadusájt</p>
 </list><p type="title">Giella, kultuvrra ja girjálasjvuohta</p>
 <p type="title">Åhpadusá ulmme le oahppe galggá máhttet</p>
 <list><p type="listitem">máhttet verbajt ja nomenijt såjådit</p>
@@ -264,10 +247,11 @@
 <p type="listitem">låhkåt válljiduvvam tevstajt maŋŋela jage 1995 ájggegávdas, ja dajt kulturhiståvrålasj aktijvuodajn guoradallat ja árvvaladdat giela ja sisano birra</p>
 <p type="listitem">gåvådit duov dáv båvva- ja subtsastimvuogijt ja buojkulvisájt buktet kultuvrramålssusimijs båvajn ja subttsasijn ietjá álmmuktjerdajs</p>
 <p type="listitem">tjielggit vijddát gielalasj vájkkudimnævojs ja dárkkelit tjielggit makkár doajmma dajn le.</p>
-</list><p type="title">Máhtudakulme Jå2 – oahppogárvedime åhpadusprográmma maŋŋela</p>
+</list><p xml:lang="tur"/>
+<p type="title">Máhtudakulme Jå2 – oahppogárvedime åhpadusprográmma maŋŋela</p>
 <p type="title">Njálmálasj gaskostibme</p>
-<p>Åhpadusá ulmme le oahppe galggá máhttet</p>
-<list><p type="listitem">gulldalit,  árvustallat ja lájddijiddje tsuojggidusájt buktet iehtjádij njálmálasj åvddånbuktemijda</p>
+<p><em type="italic">Åhpadusá ulmme le oahppe galggá máhttet </em></p>
+<list><p type="listitem">gulldalit, árvustallat ja lájddijiddje tsuojggidusájt buktet iehtjádij njálmálasj åvddånbuktemijda</p>
 <p type="listitem">adnet máhttet retorihkalasj hásstemvuogijs dágástallamijn ja åvddånbuktemijn</p>
 <p type="listitem">åvddånbuktet sámefágalasj tiemájt ja árvvaladdat åvddånbuvteduvvam fáhkaássjev</p>
 <p type="listitem">gaskostit fáhkasisanov duolla ja adnet digitála mediajt ja ræjdojt gaskostimen</p>
@@ -292,8 +276,8 @@
 <p type="listitem">sievedit gáldojda ja dajt árvustallat ájggeguovddelis fágalasj dilijn</p>
 </list><p type="title">Máhtudakulme Jå3 – oahppogárvedime åhpadusprográmma maŋŋela</p>
 <p type="title">Njálmálasj gaskostibme</p>
-<p>Åhpadusá ulmme le oahppe galggá máhttet</p>
-<list><p type="listitem">gulldalit,  diedojt oadtjot njálmálasj tevstajs ja sisanov árvustallat</p>
+<p><em type="italic">Åhpadusá ulmme le oahppe galggá máhttet </em></p>
+<list><p type="listitem">gulldalit, diedojt oadtjot njálmálasj tevstajs ja sisanov árvustallat</p>
 <p type="listitem">gulldalit ja tjuottjodusájt árvustallat njálmálasj tevstajn duon dán medijajn ja åvddånbuktet daj sisanov ja ulmev</p>
 <p type="listitem">árvvaladdat fágalasj tiemájt fáhkatermaj ja ålles tjuottjodusáj</p>
 <p type="listitem">adnet retorihkalasj ja digitála tjehpudagájt buvtadittjat ja åvddånbuvtátjit ráddjiduvvam girjálasjvuoda prográmmav</p>
@@ -307,8 +291,10 @@
 <p type="listitem">jårggålit ja hiebadit iehtjádij tevstajt dáros sábmáj</p>
 <p type="listitem">adnet gáldojt lájttalis ja dárkestahtte vuoge milta ja máhttet digitála gáldojda sievedit</p>
 <p type="listitem">åvddånbuktet duolla ja sieradus báhkoboanndudagájn ja máhttet gielalasj hábbmimgájbbádusájt</p>
-<p type="listitem">máhttet morfologijav,  syntáksav ja ortografijav ietjas tevstajn</p>
-</list><p type="title">Giella, kultuvrra ja girjálasjvuohta</p>
+<p type="listitem">máhttet morfologijav, syntáksav ja ortografijav ietjas tevstajn</p>
+</list><p xml:lang="tur"/>
+<p xml:lang="tur"/>
+<p type="title">Giella, kultuvrra ja girjálasjvuohta</p>
 <p type="title">Åhpadusá ulmme le oahppe galggá máhttet</p>
 <list><p type="listitem">gulldalit álkkes tevstajt ietjá sámegielajda ja ságastallat avtalágásjvuodaj ja sieradusáj birra</p>
 <p type="listitem">árvustallat sáme gielaj dilev sebrudagán ja buohtastahttet gielladilev ietjá álggoálmmugij gáktuj</p>
@@ -316,10 +302,11 @@
 <p type="listitem">låhkåt muhtem válljiduvvam tevstajt 1965-1995 jagij gaskas, ja dajt guoradallat ja dágástallat gåktu ájggegávda sebrudagá kultuvralasj vidjura tevstajs åvddånbåhti</p>
 <p type="listitem">adnet fáhkabuojkuldagájt retorihkas analyseritjit ja árvustalátjit moattelágásj ássjeprosátevstajt</p>
 <p type="listitem">tjadádit ja ållit iesjválljidum ja lájttalis guoradaláduvvam tjiegŋodimdahkamusáv giella, girjálasjvuoda jali ietjá sebrudakfágalasj tiemájn, ja válljit gaskostimræjdov fágalasj dárboj milta</p>
-</list><p type="title">Máhtudakulme lasádusá dábálasj oahppomáhtudahkaj – viddnofágalasj åhpadusprográmma maŋŋela – viddnofágalasj åhpadusprográmma maŋŋela</p>
+</list><p xml:lang="tur"/>
+<p type="title">Máhtudakulme lasádusá dábálasj oahppomáhtudahkaj – viddnofágalasj åhpadusprográmma maŋŋela – viddnofágalasj åhpadusprográmma maŋŋela</p>
 <p type="title">Njálmálasj gaskostibme</p>
-<p>Åhpadusá ulmme le oahppe galggá máhttet</p>
-<list><p type="listitem">gulldalit,  árvustallat ja buktet lájddijiddje tsuojggidusájt iehtjádij njálmálasj åvddånbuktemijda</p>
+<p><em type="italic">Åhpadusá ulmme le oahppe galggá máhttet </em></p>
+<list><p type="listitem">gulldalit, árvustallat ja buktet lájddijiddje tsuojggidusájt iehtjádij njálmálasj åvddånbuktemijda</p>
 <p type="listitem">adnet diedojt retorihkalasj hásstalimvuogijs dágástallamijn ja åvddånbuktemijn</p>
 <p type="listitem">åvddånbuktet sámefágalasj tiemájt ja árvvaladdat åvddånbuvteduvvam ássjijt</p>
 <p type="listitem">gaskostit fáhkasisanov duolla ja adnet digitála medijájt ja ræjdojt gaskostimen</p>
@@ -340,8 +327,10 @@
 <p type="listitem">jårggålit ja hiebadit iehtjádij tevstajt dáros sábmáj</p>
 <p type="listitem">adnet gáldojt lájttalis ja dárkestahtte vuoge milta ja máhttet digitála gáldojda sievedit</p>
 <p type="listitem">åvddånbuktet boandás, duolla, ja sieradus báhkoboanndudagájn ja máhttet gielalasj hábbmim gájbbádusájt</p>
-<p type="listitem">máhttet morfologijav,  syntáksav ja ortografijav ietjas tevstajn</p>
-</list><p type="title">Giella, kultuvrra ja girjálasjvuohta</p>
+<p type="listitem">máhttet morfologijav, syntáksav ja ortografijav ietjas tevstajn</p>
+</list><p xml:lang="tur"/>
+<p xml:lang="tur"/>
+<p type="title">Giella, kultuvrra ja girjálasjvuohta</p>
 <p type="title">Åhpadusá ulmme le oahppe galggá máhttet</p>
 <list><p type="listitem">gåvådit báhkoklássajt ja dágástallat morfologijav ja syntáksav</p>
 <p type="listitem">adnet retorihka buojkuldagájt analyseritjit ja árvustalátjit iesjguhtik lágásj ássjeprosátevstajt</p>
@@ -357,11 +346,12 @@
 </list><list><p type="listitem">tjielggit sáme subtsastimdábijt ja buohtastahttet muhtem ietjá álggoálmmuk subtsastimdábijn</p>
 </list><list><p type="listitem">dahkat ja tjadádit iesj válljiduvvam ja lájttalis ja guoradiddje tjiegŋodim dahkamusáv gielalasj, girjálasjvuoda ja ietjá sámefágalasj tiemájn, ja válljit gaskostimræjdojt fágalasj dárboj milta</p>
 <p type="listitem">sievedit gáldojda ja gáldojt árvustallat ájggeguovddelis fágalasj dilijda</p>
-</list><p type="title">Árvustallam</p>
+</list><p xml:lang="tur"/>
+<p type="title">Árvustallam</p>
 <p>Loahppaárvustallama mærrádusá:</p>
-<p>Åbbålasjkaraktera árvustallam sámegiella vuostasjgiellan</p>
-<p>Jahkedásse</p>
-<p xml:lang="kal">Årnik</p>
+<p><em type="italic">Åbbålasjkaraktera árvustallam sámegiella vuostasjgiellan </em></p>
+<p><em type="bold">Jahkedásse </em></p>
+<p xml:lang="kal"><em type="bold">Årnik </em></p>
 <p>10. jahkedásse</p>
 <p>Oahppe oadtju guokta åbbålasjkaraktera, avtav tjálalasj ja avtav njálmálasj.</p>
 <p>Jå2 viddnofágalasj åhpadusprográmma</p>
@@ -370,9 +360,9 @@
 <p>Oahppe oadtju guokta åbbålasjkaraktera, avtav tjálalasj ja avtav njálmálasj.</p>
 <p>Jå3 lasádus dábálasj oahppomáhtudahkaj</p>
 <p>Oahppe oadtju guokta åbbålasjkaraktera, avtav tjálalasj ja avtav njálmálasj.</p>
-<p>Oahppij eksábma sámegiella vuostasjgiellan</p>
-<p>Jahkedásse</p>
-<p xml:lang="kal">Årnik</p>
+<p><em type="italic">Oahppij eksábma sámegiella vuostasjgiellan </em></p>
+<p><em type="bold">Jahkedásse </em></p>
+<p xml:lang="kal"><em type="bold">Årnik </em></p>
 <p>10. jahkedásse</p>
 <p>Oahppe máhtti vuorbbáduvvat tjálalasj eksábmaj sámegielan vuostasjgiellan. Tjálalasj eksábma dagáduvvá ja árvustaláduvvá guovdálattjat. Oahppe máhtti vuorbbáduvvat njálmálasj eksábmaj. Njálmálasj eksábma dagáduvvá ja árvustaláduvvá bájkálattjat.</p>
 <p>Jå2 viddnofágalasj åhpadusprográmma</p>
@@ -381,9 +371,9 @@
 <p>Oahppe galggi tjálalasj eksábmaj sámegielan vuostasjgiellan. Tjálalasj eksábma dagáduvvá ja árvustaláduvvá guovdálattjat. Oahppe máhtti vuorbbáduvvat njálmálasj eksábmaj. Njálmálasj eksábma dagáduvvá ja árvustaláduvvá bájkálattjat.</p>
 <p>Jå3 lasádus dábálasj oahppomáhtudahkaj</p>
 <p>Oahppe galggi tjálalasj eksábmaj sámegielan vuostasjgiellan. Tjálalasj eksábma dagáduvvá ja árvustaláduvvá guovdálattjat. Oahppe máhtti vuorbbáduvvat njálmálasj eksábmaj. Njálmálasj eksábma dagáduvvá ja árvustaláduvvá bájkálattjat.</p>
-<p>Eksábma privatistajda sámegiella vuostasjgiellan</p>
-<p>Jahkedásse</p>
-<p xml:lang="kal">Årnik</p>
+<p><em type="italic">Eksábma privatistajda sámegiella vuostasjgiellan </em></p>
+<p><em type="bold">Jahkedásse </em></p>
+<p xml:lang="kal"><em type="bold">Årnik </em></p>
 <p>10. jahkedásse</p>
 <p>Gehtja ållessjattugij vuodoåhpadusá doajmme årnigav</p>
 <p>Jå2 viddnofágalasj åhpadusprográmma</p>

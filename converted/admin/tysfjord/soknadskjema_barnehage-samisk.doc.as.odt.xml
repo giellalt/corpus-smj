@@ -1,12 +1,12 @@
-<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>169</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/getfile.php/644024.1172.rqqrxxbvee/Soknadskjema+barnehage-samisk.doc.as.odt</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Divtasvuona Suohkan</p>
+<document xml:lang="smj" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>165</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="nob"/><language xml:lang="smj"/></multilingual><origFileName>https://www.tysfjord.kommune.no/getfile.php/644024.1172.rqqrxxbvee/Soknadskjema+barnehage-samisk.doc.as.odt</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Divtasvuona Suohkan</p>
 <p>Bajássjaddam ja åhpadus</p>
 <p>8590 Gásluokta</p>
 <p>Sisiválldem jagen</p>
 <p>Oajvvesisiválldem</p>
 <p>Åhtsåmus sajev mánájgárden</p>
 <p>Tjále dádjadahtte</p>
-<p type="title">Åskeldisvuodajn giehtadaláduvvat</p>
-<p type="title">Mánná</p>
 <p xml:lang="swe">Persåvnnånummar:</p>
 <p>Mañep namma:</p>
 <p>Åvdep namma</p>
@@ -20,22 +20,21 @@
 <p>Åvdep namma</p>
 <p>Barggovadde/skåvllå:</p>
 <p>Virggeprosænnta ja guhkkudahka</p>
-<p>   stuoves    sadjásasj</p>
+<p><em type="italic"> </em>stuoves <em type="italic"> </em>sadjásasj </p>
 <p>Telef. barggov./skåvllå</p>
 <p xml:lang="swe">Persåvnnånummar:</p>
 <p>Mañep namma</p>
 <p>Åvdep namma</p>
 <p>Barggovadde/skåvllå:</p>
 <p>Virggeprosænnta ja guhkkudahka</p>
-<p>   stuoves    sadjásasj</p>
+<p><em type="italic"> </em>stuoves <em type="italic"> </em>sadjásasj </p>
 <p>Telef. barggov./skåvllå</p>
 <p>Virggeprosænnta ja guhkkudahka hæhttu vatteduvvat.</p>
-<p type="title">Famillja</p>
 <p xml:lang="nob">Adræssa</p>
 <p>Poasstanr./bájkke</p>
 <p>Telefåvnnå</p>
 <p>Iellemvuohke:</p>
-<p>  Válldum   Aktanårro   Aktugasj</p>
+<p><em type="italic"> </em>Válldum <em type="italic"> </em>Aktanårro <em type="italic"> </em>Aktugasj </p>
 <p>Galla máná li familjan ja goassa li riegádam (jahke):</p>
 <p>Diedo manen mánnáj sadje mánajgárden åtsåduvvá.</p>
 <p>Diedo máná varresvuoda birra</p>
